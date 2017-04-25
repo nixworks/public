@@ -1,0 +1,44 @@
+## [2010-12-4](/news/2010/12/4/index.md)
+
+### [Dozens of Easter Islanders are injured in conflict over ownership as riot police evict islanders from their ancestral home. ](/news/2010/12/4/dozens-of-easter-islanders-are-injured-in-conflict-over-ownership-as-riot-police-evict-islanders-from-their-ancestral-home.md)
+Dozens reported wounded as authorities move to evict natives from home they claim was taken from them.
+
+### [The Spanish government imposes emergency measures unused since the end of military rule in 1975, threatening workers seeking better pay and working conditions with prosecution if they do not return to work. ](/news/2010/12/4/the-spanish-government-imposes-emergency-measures-unused-since-the-end-of-military-rule-in-1975-threatening-workers-seeking-better-pay-and.md)
+### [Authorities in Ecuador order the evacuation of people from the slopes of the Tungurahua volcano after it begins spewing ash. ](/news/2010/12/4/authorities-in-ecuador-order-the-evacuation-of-people-from-the-slopes-of-the-tungurahua-volcano-after-it-begins-spewing-ash.md)
+Ecuador is evacuating people from towns and villages around the Tungurahua volcano after a rapid increase in seismic activity on Saturday.
+
+### [An aircraft crashes at Domodedovo airport in Moscow after undergoing multiple engine failure, with at least 2 deaths and 80 injuries. ](/news/2010/12/4/an-aircraft-crashes-at-domodedovo-airport-in-moscow-after-undergoing-multiple-engine-failure-with-at-least-2-deaths-and-80-injuries.md)
+Two people were killed and dozens injured when a Russian airliner rolled off the runway during an emergency landing at a Moscow airport on Saturday. A Tu-154 plane with 160 passengers and eight crew m
+
+### [10 Chinese sailors are missing and 14 others are rescued after the cargo ship MV Hong Wei founders off the southeast coast of China. ](/news/2010/12/4/10-chinese-sailors-are-missing-and-14-others-are-rescued-after-the-cargo-ship-mv-hong-wei-founders-off-the-southeast-coast-of-china.md)
+_Context: China, China's, MV Hong Wei, cargo ship_
+
+### [Israeli police say negligence caused a large forest fire burning out of control in the north of the country that killed at least 40 people. ](/news/2010/12/4/israeli-police-say-negligence-caused-a-large-forest-fire-burning-out-of-control-in-the-north-of-the-country-that-killed-at-least-40-people.md)
+Negligence, not arson, is the likely cause of the deadly forest fire burning out of control in Mount Carmel, near the northern port city of Haifa, police say.
+
+### [United States diplomatic cables leak:Reporters Without Borders condemns "the blocking, cyber-attacks and political pressure" against the WikiLeaks website, describing it as the first "attempt at the international community level to censor a website dedicated to the principle of transparency" and comparing the behaviour of France and the United States to that of China. American payment service provider PayPal cuts off the account the WikiLeaks website uses to collect donations. ](/news/2010/12/4/united-states-diplomatic-cables-leak-preporters-without-borders-condemns-the-blocking-cyber-attacks-and-political-pressure-against-the-wi.md)
+American payment service provider cuts relationship, as whistle-blower struggles to keep website available to public.
+
+### [President of the Palestinian Authority Mahmoud Abbas speaks of the possibility of dissolving the Authority if Israel continues its construction on occupied Palestinian land in the West Bank, saying there is little point remaining "the president of an authority that doesn't exist". ](/news/2010/12/4/president-of-the-palestinian-authority-mahmoud-abbas-speaks-of-the-possibility-of-dissolving-the-authority-if-israel-continues-its-construct.md)
+President of Palestinian Authority says he may disband his governing body if peace deal with Israel cannot be agreed.
+
+### [The Iranian government says the International Atomic Energy Agency spies on its nuclear program and reiterates its belief that the CIA, Mossad and MI6 murdered Majid Shahriari earlier this week. ](/news/2010/12/4/the-iranian-government-says-the-international-atomic-energy-agency-spies-on-its-nuclear-program-and-reiterates-its-belief-that-the-cia-moss.md)
+_Context: CIA, International Atomic Energy Agency, Iran, MI6, Majid Shahriari, Mossad, nuclear scientist_
+
+### [A proposed law in South Korea is to ban online gaming after midnight for young people amid concerns over Internet addiction. ](/news/2010/12/4/a-proposed-law-in-south-korea-is-to-ban-online-gaming-after-midnight-for-young-people-amid-concerns-over-internet-addiction.md)
+_Context: Internet addiction, South Korea_
+
+### [The China Academy of Telecommunication Research tells ''China Daily'' that China should merge identity management systems, currently run by different ministries, in order to fight online fraud and hacking. ](/news/2010/12/4/the-china-academy-of-telecommunication-research-tells-china-daily-that-china-should-merge-identity-management-systems-currently-run-by.md)
+_Context: China Academy of Telecommunication Research, China Daily, hackers, online fraud_
+
+### [Three people are arrested in China's Guangdong Province in relation to a $90 million gold heist, the biggest in Hong Kong history. ](/news/2010/12/4/three-people-are-arrested-in-china-s-guangdong-province-in-relation-to-a-90-million-gold-heist-the-biggest-in-hong-kong-history.md)
+_Context: China's, Guangdong province, Hong Kong_
+
+### [Ivorian political crisis:A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-pa-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-co.md)
+Ivory Coast is in a deep political crisis, as rival presidential candidates both swear themselves in after a disputed poll.
+
+### [FIFA executive committee member Franz Beckenbauer says Qatar ought to be allowed to host the 2022 FIFA World Cup, the first in the Middle East and in an Arab country, during winter in an unusual move. The event is usually held during summer months. ](/news/2010/12/4/fifa-executive-committee-member-franz-beckenbauer-says-qatar-ought-to-be-allowed-to-host-the-2022-fifa-world-cup-the-first-in-the-middle-ea.md)
+_Context: 2022 FIFA World Cup, FIFA, Franz Beckenbauer, Qatar_
+
+## [Previous Day...](/news/2010/12/3/index.md)
+

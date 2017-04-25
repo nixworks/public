@@ -1,0 +1,23 @@
+### [2012-09-13](/news/2012/09/13/index.md)
+
+# Lakhdar Brahimi, the U.N. and Arab League special envoy for the Syrian civil war, arrives in Damascus; fighting goes on in the east of the capital. 
+
+
+
+
+### Source:
+
+1. [Oman Observer](http://main.omanobserver.om/node/109577)
+
+### Related:
+
+1. [Syrian civil war:A car bomb attack by unknown people near a Palestinian refugee camp in the Damascene suburb of Sbeineh (''Sabina'') kills at least 15 people. AFP says rebels claim the capture of the village of Harem near Idlib on the Turkish border, after a 3-day siege; the government still keeps air supremacy. U.N. envoy Lakhdar Brahimi says it is both conflict parties' duty to try to reach peace. ](/news/2012/09/2/syrian-civil-war-pa-car-bomb-attack-by-unknown-people-near-a-palestinian-refugee-camp-in-the-damascene-suburb-of-sbeineh-sabina-kills.md) _Context: Damascus, Lakhdar Brahimi, Syrian Civil War, United Nations_
+2. [Syrian civil war: At least 19 people are killed across Syria in ongoing violence on Eid-ul-Fitr holiday. President Assad makes a public appearance, praying in Damascus. Lakhdar Brahimi accepts to become the new UN envoy. ](/news/2012/08/19/syrian-civil-war-at-least-19-people-are-killed-across-syria-in-ongoing-violence-on-eid-ul-fitr-holiday-president-assad-makes-a-public-appe.md) _Context: Damascus, Lakhdar Brahimi, Syrian Civil War, United Nations_
+3. [A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapons-in-the-conflict.md) _Context: Damascus, Syrian Civil War, United Nations_
+4. [Syrian civil war: UN and Arab League special envoy Lakhdar Brahimi meets with Syrian Foreign Minister Walid Muallem in Damascus in an attempt to push for a temporary ceasefire during next week's Eid al-Adha holiday. ](/news/2012/10/20/syrian-civil-war-un-and-arab-league-special-envoy-lakhdar-brahimi-meets-with-syrian-foreign-minister-walid-muallem-in-damascus-in-an-attemp.md) _Context: Damascus, Lakhdar Brahimi, Syrian Civil War_
+5. [Syrian civil war:Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-prussia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md) _Context: Arab League, Syrian Civil War, United Nations_
+6. [Syrian civil war:Fighting continues in major cities as Lakhdar Brahimi is named as the new United Nations envoy for Syria. ](/news/2012/08/17/syrian-civil-war-pfighting-continues-in-major-cities-as-lakhdar-brahimi-is-named-as-the-new-united-nations-envoy-for-syria.md) _Context: Lakhdar Brahimi, Syrian Civil War, United Nations_
+7. [Syrian uprising (2011-present):United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011apresent-punited-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _Context: Arab League, Damascus, United Nations_
+8. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syrian Civil War_
+9. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syrian Civil War_
+10. [Twin bombings kill at least 40 people, mostly Shia Iraqi pilgrims, and wound over 100 in the Bab al-Saghir area of Damascus. ](/news/2017/03/11/twin-bombings-kill-at-least-40-people-mostly-shia-iraqi-pilgrims-and-wound-over-100-in-the-bab-al-saghir-area-of-damascus.md) _Context: Damascus, Syrian Civil War_

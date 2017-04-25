@@ -1,0 +1,23 @@
+### [2016-01-20](/news/2016/01/20/index.md)
+
+# Satellite images released by the Associated Press reveal the historic Saint Elijah's Monastery near the Iraqi city of Mosul, the oldest Christian monastery in Iraq that predates Islam, has been completely razed by Islamic State of Iraq and the Levant militants. 
+
+The Isis jihadist group has completely destroyed a 1,400-year-old Christian monastery in Iraq, the oldest of its kind in the country. Satellite images released on Wednesday by the Associated Press showed just a pile of rubble where St Elijah&#039;s Monastery used to stand on a hill above Mosul, Isis&#039;s stronghold in Iraq.
+
+
+### Source:
+
+1. [Independent](http://www.independent.co.uk/news/world/middle-east/isis-razes-to-ground-the-oldest-christian-monastery-in-iraq-satellite-images-show-a6822256.html)
+
+### Related:
+
+1. [The Government of Iraq calls on Turkey to withdraw its troops from northern Iraq, near the Islamic State-controlled city of Mosul. Iraq's Foreign Ministry said Turkish forces had entered Iraqi territory without the knowledge of the central government in Baghdad. ](/news/2015/12/5/the-government-of-iraq-calls-on-turkey-to-withdraw-its-troops-from-northern-iraq-near-the-islamic-state-controlled-city-of-mosul-iraq-s-fo.md) _Context: Iraq, Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant, Mosul_
+2. [Around 20 people, including civilians and Islamic State militants, are killed in airstrikes on Mosul in northern Iraq. ](/news/2015/12/21/around-20-people-including-civilians-and-islamic-state-militants-are-killed-in-airstrikes-on-mosul-in-northern-iraq.md) _Context: Iraq, Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant, Mosul_
+3. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq, Islamic State of Iraq and the Levant, Mosul_
+4. [Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. ](/news/2017/03/18/thousands-of-iraqis-flee-western-mosul-as-the-battle-between-iraqi-and-allied-forces-and-isil-militants-escalates-in-the-densely-populated-o.md) _Context: Iraq, Islamic State of Iraq and the Levant, Mosul_
+5. [The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. ](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.md) _Context: Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant, Mosul_
+6. [At least 80 Shia pilgrims are killed in a truck bomb attack in Iraq. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/24/at-least-80-shia-pilgrims-are-killed-in-a-truck-bomb-attack-in-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Iraq, Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant_
+7. [   The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant, Mosul_
+8. [The Islamic State of Iraq and the Levant executes at least 284 people in Mosul. ](/news/2016/10/22/the-islamic-state-of-iraq-and-the-levant-executes-at-least-284-people-in-mosul.md) _Context: Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant, Mosul_
+9. [Attacks targeting a Shi'ite Muslim gathering, a police check-point, and the family of an anti-Islamic State Sunni paramilitary leader, kill at least 55 people in Iraq. ](/news/2016/10/15/attacks-targeting-a-shi-ite-muslim-gathering-a-police-check-point-and-the-family-of-an-anti-islamic-state-sunni-paramilitary-leader-kill.md) _Context: Iraq, Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant_
+10. [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md) _Context: Iraq, Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant_

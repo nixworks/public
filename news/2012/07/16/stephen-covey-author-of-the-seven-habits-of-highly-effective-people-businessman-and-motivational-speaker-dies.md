@@ -1,0 +1,10 @@
+### [2012-07-16](/news/2012/07/16/index.md)
+
+# Stephen Covey, author of The Seven Habits of Highly Effective People, businessman and motivational speaker dies. 
+
+Stephen R. Covey, author of &quot;The Seven Habits of Highly Effective People&quot; as well as three other books that have all sold more than a 
+
+
+### Source:
+
+1. [AP via Newsday](http://www.newsday.com/entertainment/books/stephen-r-covey-dead-after-bike-accident-the-seven-habits-of-highly-effective-people-author-was-79-1.3840997)

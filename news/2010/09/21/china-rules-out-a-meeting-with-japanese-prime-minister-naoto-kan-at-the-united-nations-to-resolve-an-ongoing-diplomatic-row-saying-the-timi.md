@@ -1,0 +1,25 @@
+### [2010-09-21](/news/2010/09/21/index.md)
+
+# China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". 
+
+
+
+
+### Source:
+
+1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFSGE68K0D420100921?sp=true)
+2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100921/news_20100921_56_700027.htm)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gk3wdMIkq8L96kd_dHSTGEdc7MXQ)
+
+### Related:
+
+1. [South Korea announces plans to submit a claim to the United Nations to a larger portion of the East China Sea in a move which is likely to be disputed by the People's Republic of China and Japan. ](/news/2011/07/3/south-korea-announces-plans-to-submit-a-claim-to-the-united-nations-to-a-larger-portion-of-the-east-china-sea-in-a-move-which-is-likely-to-b.md) _Context: China's, Japan, United Nations_
+2. [Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. ](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.md) _Context: Japan, Naoto Kan, Prime Minister_
+3. [The Prime Minister of Japan Naoto Kan, the Premier of China Wen Jiabao and the President of South Korea Lee Myung Bak meet in Japan and agree to improve cooperation on nuclear and economic issues. ](/news/2011/05/22/the-prime-minister-of-japan-naoto-kan-the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-meet-in-japan-and-agre.md) _Context: Japan, Naoto Kan, Prime Minister_
+4. [The approval rating of Japanese Prime Minister Naoto Kan improves to 34% following a cabinet reshuffle. ](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.md) _Context: Japan, Naoto Kan, Prime Minister_
+5. [The Prime Minister of Japan Naoto Kan voices concerns about rowdy anti-Japanese protests in China, sparked by a recent territorial dispute. ](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.md) _Context: Japan, Naoto Kan, Prime Minister_
+6. [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md) _Context: China's, Naoto Kan, Prime Minister_
+7. [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md) _Context: Japan, Naoto Kan, Prime Minister_
+8. [Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. ](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.md) _Context: Japan, Naoto Kan, Prime Minister_
+9. [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md) _Context: Japan, Naoto Kan, Prime Minister_
+10. [Politics of Japan:Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-pjapanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _Context: Japan, Naoto Kan, Prime Minister_

@@ -1,0 +1,23 @@
+### [2016-12-27](/news/2016/12/27/index.md)
+
+# The U.S. Federal Trade Commission gives the antitrust go ahead to Abbott Laboratories in its acquisition of St. Jude Medical. 
+
+Healthcare company Abbott Laboratories (ABT.N) has won U.S. antitrust approval for its proposed $25 billion acquisition of medical device maker St. Jude Medical Inc STJ.N, the U.S. Federal Trade Commission said on Tuesday.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-stjude-m-a-abbott-idUSKBN14G1LD)
+
+### Related:
+
+1. [Reuters reports on the basis of "people familiar with the matter" that the U.S. Federal Trade Commission is close to bringing an antitrust lawsuit against Google over its dominance of the search engine market. ](/news/2012/10/13/reuters-reports-on-the-basis-of-people-familiar-with-the-matter-that-the-u-s-federal-trade-commission-is-close-to-bringing-an-antitrust-l.md) _Context: U.S. Federal Trade Commission, antitrust_
+2. [The United States Federal Trade Commission considers taking antitrust action against Google. ](/news/2011/04/5/the-united-states-federal-trade-commission-considers-taking-antitrust-action-against-google.md) _Context: U.S. Federal Trade Commission, antitrust_
+3. [Uber agrees to pay $20 million to settle U.S. Federal Trade Commission claims the company exaggerated prospective earnings and downplayed the  costs of buying/leasing a car when recruiting new drivers. ](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.md) _Context: U.S. Federal Trade Commission_
+4. [The U.S. Federal Trade Commission files an anti-trust suit against Endo Pharmaceuticals, Inc., and several other drug companies for using pay-for-delay settlements to block consumers' access to lower-cost generic versions of pain medications, Opana ER and Lidoderm. ](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.md) _Context: U.S. Federal Trade Commission_
+5. [U.S. Federal Communications Commissioner Michael O'Rielly says, during a speech at the American Action Forum, that Netflix's admission last week that it has been intentionally slowing its video streaming transmission on some wireless mobile carriers for five years "deeply disturbing" which might warrant an investigation by the Federal Trade Commission and/or Congress. ](/news/2016/03/29/u-s-federal-communications-commissioner-michael-o-rielly-says-during-a-speech-at-the-american-action-forum-that-netflix-s-admission-last.md) _Context: U.S. Federal Trade Commission_
+6. [ The United States Federal Trade Commission (FTC) files an administrative complaint challenging office-supplies giant Staples' proposed $6.3 billion acquisition of top rival Office Depot. The FTC said the deal would significantly reduce national competition in the market for office supplies sold to large business customers. The companies plan to contest the FTC decision.  ](/news/2015/12/7/the-united-states-federal-trade-commission-ftc-files-an-administrative-complaint-challenging-office-supplies-giant-staples-proposed-6-3.md) _Context: U.S. Federal Trade Commission_
+7. [The European Union launches an antitrust action against American semiconductor company Qualcomm, for possible abuse of a dominant market position, on the one hand, and predatory pricing, on the other hand. ](/news/2015/07/16/the-european-union-launches-an-antitrust-action-against-american-semiconductor-company-qualcomm-for-possible-abuse-of-a-dominant-market-pos.md) _Context: antitrust_
+8. [The European Union opens an antitrust case against Russian gas giant Gazprom which supplies most of Central and eastern Europe with supplies of natural gas. ](/news/2015/04/22/the-european-union-opens-an-antitrust-case-against-russian-gas-giant-gazprom-which-supplies-most-of-central-and-eastern-europe-with-supplies.md) _Context: antitrust_
+9. [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md) _Context: antitrust_
+10. [The U.S. Supreme Court declines to hear a petition (Eaton Corp v. Z F Meritor) from Eaton Corp., letting stand a U.S. 3rd Circuit Court ruling on an antitrust issue that may limit the use of loyalty discounts in the form of rebates as a way of locking in customers. ](/news/2013/04/29/the-u-s-supreme-court-declines-to-hear-a-petition-eaton-corp-v-z-f-meritor-from-eaton-corp-letting-stand-a-u-s-3rd-circuit-court-ruli.md) _Context: antitrust_

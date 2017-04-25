@@ -1,0 +1,23 @@
+### [2014-11-19](/news/2014/11/19/index.md)
+
+# Basuki Tjahaja Purnama is inaugurated as the Governor of Jakarta, the first ethnic Chinese ever to hold the post. He succeeds Joko Widodo, who is now president. 
+
+
+
+
+### Source:
+
+1. [TIME](http://time.com/3594125/indonesia-jakarta-chinese-christian-governor-joko-widodo-jokowi-ahok-basuki-purnama/)
+
+### Related:
+
+1. [Election results indicate that the Governor of Jakarta Joko Widodo has been elected as the President of Indonesia. ](/news/2014/07/20/election-results-indicate-that-the-governor-of-jakarta-joko-widodo-has-been-elected-as-the-president-of-indonesia.md) _Context: Governor, Joko Widodo, is now president_
+2. [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md) _Context: Basuki Tjahaja Purnama, Governor_
+3. [Jakarta Governor Basuki Tjahaja Purnama (Ahok)  pleads not guilty  to charges of blaspheming Islam  during a September 27 campaign speech. Ahok is an  ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-a.md) _Context: Basuki Tjahaja Purnama, ethnic Chinese Christian_
+4. [Indonesian presidential election, 2014:Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/indonesian-presidential-election-2014-pjoko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md) _Context: Joko Widodo, is now president_
+5. [Joko Widodo is chosen as the nominee for the Indonesian Democratic Party - Struggle for the upcoming presidential election. ](/news/2014/03/14/joko-widodo-is-chosen-as-the-nominee-for-the-indonesian-democratic-party-a-struggle-for-the-upcoming-presidential-election.md) _Context: Joko Widodo, is now president_
+6. [Indonesian voters in Jakarta return to the polls for the second round of a gubernatorial election between incumbent Basuki Tjahaja Purnama, whose alleged blasphemy sparked mass protests in November, and Anies Baswedan. Opinion polls give Baswedan a narrow lead. ](/news/2017/04/19/indonesian-voters-in-jakarta-return-to-the-polls-for-the-second-round-of-a-gubernatorial-election-between-incumbent-basuki-tjahaja-purnama.md) _Context: Basuki Tjahaja Purnama_
+7. [Indonesian president Joko Widodo attends the main event of the rally, Friday mass prayer, easing the tension of protesters. ](/news/2016/12/2/indonesian-president-joko-widodo-attends-the-main-event-of-the-rally-friday-mass-prayer-easing-the-tension-of-protesters.md) _Context: Joko Widodo_
+8. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Basuki Tjahaja Purnama_
+9. [Joko Widodo, the President of Indonesia, cancels a planned visit to Australia following violent protests in Jakarta that resulted in one death and 12 injured. ](/news/2016/11/5/joko-widodo-the-president-of-indonesia-cancels-a-planned-visit-to-australia-following-violent-protests-in-jakarta-that-resulted-in-one-dea.md) _Context: Joko Widodo_
+10. [Basuki Tjahaja Purnama, the current governor of Jakarta, faces charges of blasphemy for allegedly insulting Islam. ](/news/2016/11/30/basuki-tjahaja-purnama-the-current-governor-of-jakarta-faces-charges-of-blasphemy-for-allegedly-insulting-islam.md) _Context: Basuki Tjahaja Purnama_

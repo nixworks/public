@@ -1,0 +1,23 @@
+### [2016-02-21](/news/2016/02/21/index.md)
+
+# Pope Francis calls for a worldwide ban on the death penalty and urges Christian leaders to work to stop executions as part of the church's Holy Year of Mercy. 
+
+
+
+
+### Source:
+
+1. [UPI](http://www.upi.com/Top_News/World-News/2016/02/21/Pope-Francis-calls-for-worldwide-death-penalty-ban/1691456075650/?spt=hs&or=tn_int)
+
+### Related:
+
+1. [The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. ](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.md) _Context: Catholic Church, Pope Francis_
+2. [Pope Francis becomes the first Pope ever to address a Joint Session of the United States Congress. Afterwards, he greets onlookers at the National Mall. He addresses many issues: abortion and the sanctity of life, the importance of the family and of marriage, climate change, immigration and the refugee crises caused by global unrest, proper business conduct, and worldwide abolition of capital punishment. ](/news/2015/09/24/pope-francis-becomes-the-first-pope-ever-to-address-a-joint-session-of-the-united-states-congress-afterwards-he-greets-onlookers-at-the-na.md) _Context: Pope Francis, death penalty_
+3. [Pope Francis of the Roman Catholic Church canonises two saints from Palestine, Sister Mariam Baouardy and Sister Marie Alphonsine Ghattas. ](/news/2015/05/17/pope-francis-of-the-roman-catholic-church-canonises-two-saints-from-palestine-sister-mariam-baouardy-and-sister-marie-alphonsine-ghattas.md) _Context: Catholic Church, Pope Francis_
+4. [Pope Francis beatifies 124 Korean Catholics who died for their beliefs in the 19th century in Seoul. ](/news/2014/08/16/pope-francis-beatifies-124-korean-catholics-who-died-for-their-beliefs-in-the-19th-century-in-seoul.md) _Context: Catholic Church, Pope Francis_
+5. [Pope Francis canonizes a record-breaking 800+ new Catholic Church saints - Emeritus Pope Benedict XVI had submitted the 813 "Martyrs of Otranto" who had been beheaded by Ottoman soldiers for refusing to convert to Islam.  ](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.md) _Context: Catholic Church, Pope Francis_
+6. [Pope Francis appoints a panel of nine high-ranking prelates from around the world to advise him of the running of the Catholic Church and advise him on the reform of the Vatican bureaucracy. ](/news/2013/04/13/pope-francis-appoints-a-panel-of-nine-high-ranking-prelates-from-around-the-world-to-advise-him-of-the-running-of-the-catholic-church-and-ad.md) _Context: Catholic Church, Pope Francis_
+7. [Giving his first audience at the Vatican, Pope Francis tells journalists he wants "a poor Church, for the poor". ](/news/2013/03/16/giving-his-first-audience-at-the-vatican-pope-francis-tells-journalists-he-wants-a-poor-church-for-the-poor.md) _Context: Catholic Church, Pope Francis_
+8. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Pope Francis_
+9. [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on  a constitutional  amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago.  ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md) _Context: Pope Francis_
+10. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Pope Francis_

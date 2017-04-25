@@ -1,0 +1,23 @@
+### [2017-04-15](/news/2017/04/15/index.md)
+
+#  United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. 
+
+
+
+
+### Source:
+
+1. [US News & World Report](https://www.usnews.com/news/best-states/alaska/articles/2017-04-15/pence-meets-with-alaska-governor-ahead-of-asia-trip)
+
+### Related:
+
+1. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian  state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-who.md) _Context: Australia, Indonesia, Japan_
+2. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan, South Korea_
+3. [A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md) _Context: Indonesia, South Korea_
+4. [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md) _Context: Japan, South Korea_
+5. [Amid growing concern about North Korea's ballistic missile capability, South Korea, Japan and the U.S. are to hold their first ever joint anti-missile exercise next month, according to South Korea's Ministry of National Defense. The three countries will practice "detecting and tracing a hypothetical North Korean missile," said a ministry official. ](/news/2016/05/17/amid-growing-concern-about-north-korea-s-ballistic-missile-capability-south-korea-japan-and-the-u-s-are-to-hold-their-first-ever-joint-an.md) _Context: Japan, South Korea_
+6. [South Korea has determined North Korea is capable of mounting a nuclear warhead on its medium-range Rodong-1 ballistic missile, which could reach all of South Korea and most of Japan, according to a senior government official. ](/news/2016/04/5/south-korea-has-determined-north-korea-is-capable-of-mounting-a-nuclear-warhead-on-its-medium-range-rodong-1-ballistic-missile-which-could.md) _Context: Japan, South Korea_
+7. [Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these  hunts. ](/news/2015/12/7/australia-is-threatening-to-take-legal-action-against-japan-over-its-resumption-of-its-controversial-whale-hunt-in-the-antarctic-ocean-a-wh.md) _Context: Australia, Japan_
+8. [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md) _Context: Japan, South Korea_
+9. [Two pilots are killed after a South Korean-made KAI T-50 Golden Eagle crashes and bursts into flames at an air show in Yogyakarta on Indonesia's Java island. ](/news/2015/12/20/two-pilots-are-killed-after-a-south-korean-made-kai-t-50-golden-eagle-crashes-and-bursts-into-flames-at-an-air-show-in-yogyakarta-on-indones.md) _Context: Indonesia, South Korea_
+10. [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md) _Context: Japan, South Korea_

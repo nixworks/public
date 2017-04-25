@@ -1,0 +1,23 @@
+### [2014-02-19](/news/2014/02/19/index.md)
+
+# Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. 
+
+
+
+
+### Source:
+
+1. [Bloomberg via Business Week](http://www.businessweek.com/news/2014-02-19/two-killed-as-explosions-rock-hezbollah-s-beirut-stronghold)
+
+### Related:
+
+1. [Syrian Civil War spillover in Lebanon:A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-pa-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _Context: Beirut, Hezbollah, Syrian Civil War spillover in Lebanon_
+2. [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md) _Context: Beirut, Hezbollah_
+3. [2015 Beirut bombings:Lebanese Interior Minister Nouhad Machnouk reports at least 43 people were killed and more than 239 wounded as two, simultaneous suicide bomb blasts hit a Shi'ite community center and a nearby bakery  in the Beirut suburb of Bourj el-Barajneh, a section of the Lebanese capital controlled by Hezbollah. The Islamic State of Iraq and the Levant claims responsibility for the attack. Machnouk said a third suicide bomber had been killed by one of the explosions before he could detonate his own bomb. The bombers struck as Lebanese lawmakers held a legislative session for the first time in over a year. ](/news/2015/11/12/2015-beirut-bombings-plebanese-interior-minister-nouhad-machnouk-reports-at-least-43-people-were-killed-and-more-than-239-wounded-as-two-si.md) _Context: Beirut, Hezbollah_
+4. [Syrian Civil War spillover in Lebanon:Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-pfive-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capit.md) _Context: Beirut, Syrian Civil War spillover in Lebanon_
+5. [A Hezbollah official Hassan al-Lakkis is assassinated outside his home in Hadath, south of the Lebanese capital Beirut with Hezbollah blaming Israel. ](/news/2013/12/4/a-hezbollah-official-hassan-al-lakkis-is-assassinated-outside-his-home-in-hadath-south-of-the-lebanese-capital-beirut-with-hezbollah-blamin.md) _Context: Beirut, Hezbollah_
+6. [Syrian Civil War spillover in Lebanon:A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/syrian-civil-war-spillover-in-lebanon-pa-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the-f.md) _Context: Beirut, Syrian Civil War spillover in Lebanon_
+7. [Syrian civil war spillover in Lebanon, Iranian embassy bombings:Two suicide bombers target the Iranian embassy in the Lebanese capital Beirut killing at least 23 people. ](/news/2013/11/19/syrian-civil-war-spillover-in-lebanon-iranian-embassy-bombings-ptwo-suicide-bombers-target-the-iranian-embassy-in-the-lebanese-capital-beir.md) _Context: Beirut, Syrian Civil War spillover in Lebanon_
+8. [At least 20 people are killed and 200 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video. ](/news/2013/08/15/at-least-20-people-are-killed-and-200-injured-in-an-explosion-in-southern-beirut-near-a-complex-used-by-lebanon-s-militant-group-hezbollah-i.md) _Context: Beirut, Hezbollah_
+9. [A Lebanese man protesting against Hezbollah's role in the Syrian civil war is shot dead outside the Iranian embassy in Beirut. ](/news/2013/06/9/a-lebanese-man-protesting-against-hezbollah-s-role-in-the-syrian-civil-war-is-shot-dead-outside-the-iranian-embassy-in-beirut.md) _Context: Beirut, Hezbollah_
+10. [Two rockets strike the Lebanese capital of Beirut in the predominantly Shiite southern suburbs, which also serves as the stronghold of Hezbollah. ](/news/2013/05/26/two-rockets-strike-the-lebanese-capital-of-beirut-in-the-predominantly-shiite-southern-suburbs-which-also-serves-as-the-stronghold-of-hezbo.md) _Context: Beirut, Hezbollah_

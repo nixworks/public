@@ -1,0 +1,24 @@
+### [2016-07-19](/news/2016/07/19/index.md)
+
+# The South Korean Joint Chiefs of Staff and the United States Strategic Command report North Korea fires three ballistic missiles into the Sea of Japan. The short-range ballistic missiles flew about 500 to 600 kilometers (310 to 375 miles) before crashing in the sea, sufficient to target the southern part of South Korea where the U.S. Terminal High Altitude Area Defense system is set to be installed. 
+
+SEOUL, South Korea (AP) — North Korea on Tuesday fired three ballistic missiles into its eastern sea in an apparent protest of South Korea&#039;s decision to allow the deployment of an advanced U.S. missile defense system in…
+
+
+### Source:
+
+1. [AP](http://bigstory.ap.org/article/9e93593fc27c418a9f594c910fdef3ff/seoul-says-north-korea-has-fired-3-missiles-sea)
+2. [BBC](http://www.bbc.com/news/world-asia-36831308)
+
+### Related:
+
+1. [A South Korean Joint Chiefs of Staff official reports North Korea launched five short-range missiles from  the eastern city of Hamhung into the Sea of Japan. ](/news/2016/03/21/a-south-korean-joint-chiefs-of-staff-official-reports-north-korea-launched-five-short-range-missiles-from-the-eastern-city-of-hamhung-into.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan, South Korea, South Korea's Joint Chiefs of Staff_
+2. [South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launching-station-into-the-sea-of-japan.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan, South Korea_
+3. [South Korea reports that North Korea has fired three ballistic missiles into the Sea of Japan. ](/news/2016/09/5/south-korea-reports-that-north-korea-has-fired-three-ballistic-missiles-into-the-sea-of-japan.md) _Context: North Korea, North Korea–South Korea relations, Sea of Japan, South Korea_
+4. [American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-th.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea, Terminal High Altitude Area Defense_
+5. [South Korea warns that North Korea could hold another nuclear test at any time. ](/news/2016/07/18/south-korea-warns-that-north-korea-could-hold-another-nuclear-test-at-any-time.md) _Context: North Korea, North Korea and weapons of mass destruction, North Korea–South Korea relations, South Korea_
+6. [South Korea announces plans to deploy a Terminal High Altitude Area Defense anti-ballistic missile system in Seongju County in the country's south in order to deter against a North Korean attack. ](/news/2016/07/13/south-korea-announces-plans-to-deploy-a-terminal-high-altitude-area-defense-anti-ballistic-missile-system-in-seongju-county-in-the-country-s.md) _Context: North Korea, North Korea–South Korea relations, South Korea, Terminal High Altitude Area Defense_
+7. [South Korea reports that North Korea has tested two BM25 Musudan intermediate-range ballistic missiles. ](/news/2016/06/22/south-korea-reports-that-north-korea-has-tested-two-bm25-musudan-intermediate-range-ballistic-missiles.md) _Context: North Korea, North Korea and weapons of mass destruction, North Korea–South Korea relations, South Korea_
+8. [South Korea claims that North Korea has launched several short range missiles into the Sea of Japan. ](/news/2016/03/3/south-korea-claims-that-north-korea-has-launched-several-short-range-missiles-into-the-sea-of-japan.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan, South Korea_
+9. [North Korea fires two missiles into the Sea of Japan and announces its intention to liquidate all remaining South Korean assets on its territory. ](/news/2016/03/10/north-korea-fires-two-missiles-into-the-sea-of-japan-and-announces-its-intention-to-liquidate-all-remaining-south-korean-assets-on-its-terri.md) _Context: North Korea, North Korea–South Korea relations, Sea of Japan, South Korea_
+10. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea_

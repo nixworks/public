@@ -1,0 +1,23 @@
+### [2005-06-7](/news/2005/06/7/index.md)
+
+#  The National Assembly of the Republic of China approves a package of amendments to the Constitution of the Republic of China to halve the number of seats in the Legislative Yuan and abolish itself.
+
+Democratic Progressive Party (DPP) Chairman Su Tseng-chang (蘇貞昌) said yesterday that the second phase of constitutional reform that President Chen Shui-bian (陳水扁) has vowed to pursue -- which he says will create a new constitution suited to Taiwan by 2008 -- will commence as soon as the National Assembly approves a first round of constitutional amendments today.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8712780)
+2. [TaiwanNews](http://www.etaiwannews.com/Editorial/2005/06/07/1118113122.htm)
+3. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/06/07/2003258257)
+
+### Related:
+
+1. [Sunflower Student Movement in Taiwan:Since March 18th, protesters occupy the legislative chamber, opposing the vote without review of the Cross-Strait Service Trade Agreement, denouncing a agreement signed 'in a black box.'{{cn|date=April 2014}}Between 116,000 and 500,000 protesters march to the Presidential Office, in opposition to recent governmental push for Cross-Strait Service Trade Agreement vote and other related issues. ](/news/2014/03/30/sunflower-student-movement-in-taiwan-psince-march-18th-protesters-occupy-the-legislative-chamber-opposing-the-vote-without-review-of-the-c.md) _Context: legislative chamber_
+2. [Sunflower Student Movement in Taiwan:Protesters opposed to the vote of the Cross-Strait Trade Agreement without a clause-by-clause review continue to occupy the Taiwanese parliament.Protesters push to occupy the nearby Executive Yuan as well. ](/news/2014/03/23/sunflower-student-movement-in-taiwan-pprotesters-opposed-to-the-vote-of-the-cross-strait-trade-agreement-without-a-clause-by-clause-review-c.md) _Context: legislative chamber_
+3. [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md) _Context: legislative chamber_
+4. [ Republic of China legislative election, 2008: The Kuomintang (KMT) and its coalition allies win a landslide victory over the Democratic Progressive Party, garnering 86 of 113 seats in the Legislative Yuan. ](/news/2008/01/12/republic-of-china-legislative-election-2008-the-kuomintang-kmt-and-its-coalition-allies-win-a-landslide-victory-over-the-democratic-pro.md) _Context: legislative chamber_
+5. [ A vote in the Legislative Yuan to recall Taiwanese President Chen Shui-bian, who is implicated in numerous corruption scandals, fails to gain the necessary two-thirds majority. ](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.md) _Context: legislative chamber_
+6. [ A motion to vote on a bill opening the Three Links between mainland China and Taiwan is defeated for the third time in the Legislative Yuan of the Republic of China when a Democratic Progressive Party lawmaker tries to eat the written cloture motion. The opposition Pan-Blue Coalition controls the legislature and would have likely passed the bill. ](/news/2006/05/30/a-motion-to-vote-on-a-bill-opening-the-three-links-between-mainland-china-and-taiwan-is-defeated-for-the-third-time-in-the-legislative-yuan.md) _Context: legislative chamber_
+7. [ In Taiwan, despite a low voter turnout, the Pan-Green Coalition wins the National Assembly election, with 49.6 % of the votes and 149 seats out of the 300 in the National Assembly of the Republic of China. ](/news/2005/05/14/in-taiwan-despite-a-low-voter-turnout-the-pan-green-coalition-wins-the-national-assembly-election-with-49-6-of-the-votes-and-149-seats.md) _Context: National Assembly of the Republic of China_
+8. [ President Chen Shui-bian says that the hundreds of missiles the People's Republic of China has aimed at Taiwan justifies holding a referendum on independence. The referendum bill recently passed by the Legislative Yuan only allows votes on sovereignty if the country is attacked by a foreign power. [http://news.bbc.co.uk/2/hi/asia-pacific/3252246.stm]](/news/2003/12/1/president-chen-shui-bian-says-that-the-hundreds-of-missiles-the-people-s-republic-of-china-has-aimed-at-taiwan-justifies-holding-a-referend.md) _Context: legislative chamber_

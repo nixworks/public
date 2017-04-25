@@ -1,0 +1,23 @@
+### [2007-07-24](/news/2007/07/24/index.md)
+
+#  The 5 Bulgarian nurses and the Palestinian assistant, imprisoned in Libya for 8 years and that had been sentenced to death, in several trials based on allegations of having inoculated AIDS to children, are leaving Libya and returning back to Sofia with Mrs Ccilia Sarkozy who negotiated their liberation. 
+
+
+
+
+### Source:
+
+1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L2416333.htm)
+
+### Related:
+
+1. [ Cecilia Sarkozy, the wife of French President Nicolas Sarkozy, flies to Libya and visits the Bulgarian medics condemned to death for allegedly infecting children with HIV and also the families of the infected children. She will also meet Colonel Muammar al-Gaddafi, the President of Libya. ](/news/2007/07/12/ca-c-cilia-sarkozy-the-wife-of-french-president-nicolas-sarkozy-flies-to-libya-and-visits-the-bulgarian-medics-condemned-to-death-for-alleg.md) _Context: Bulgaria, HIV trial in Libya, Libya_
+2. [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md) _Context: Bulgaria, HIV trial in Libya, Libya_
+3. [ A Libyan court sentences five Bulgarian nurses and a Palestinian doctor to death for allegedly knowingly infecting hundreds of Libyan children with HIV. ](/news/2006/12/19/a-libyan-court-sentences-five-bulgarian-nurses-and-a-palestinian-doctor-to-death-for-allegedly-knowingly-infecting-hundreds-of-libyan-child.md) _Context: Bulgaria, HIV trial in Libya, Libya_
+4. [ Bulgaria sends a diplomatic mission to Libya to seek a solution to the ongoing criminal prosecution of five nurses from Bulgaria for an HIV outbreak among Benghazi children. ](/news/2005/04/14/bulgaria-sends-a-diplomatic-mission-to-libya-to-seek-a-solution-to-the-ongoing-criminal-prosecution-of-five-nurses-from-bulgaria-for-an-hiv.md) _Context: Bulgaria, HIV trial in Libya, Libya_
+5. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement  that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Bulgaria, Palestinian_
+6. [2013 Bulgarian protests: At least 10 people are injured in the Bulgarian capital Sofia, as tens of thousands turn up for rallies in 10 cities, a day after Prime Minister Boyko Borisov sacked his Finance Minister Simeon Djankov. The government revokes the license of Czech company CEZ due to high electricity prices, which helped fuel the 9-day protests. ](/news/2013/02/19/2013-bulgarian-protests-at-least-10-people-are-injured-in-the-bulgarian-capital-sofia-as-tens-of-thousands-turn-up-for-rallies-in-10-citie.md) _Context: Bulgaria, Sofia_
+7. [Russian Prime Minister Vladimir Putin has arrived in Sofia for talks with his Bulgarian counterpart Boyko Borisov. ](/news/2010/11/12/russian-prime-minister-vladimir-putin-has-arrived-in-sofia-for-talks-with-his-bulgarian-counterpart-boyko-borisov.md) _Context: Bulgaria, Sofia_
+8. [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md) _Context: Bulgaria, Sofia_
+9. [ A series of explosions at a depot storing 1,500 tonnes of obsolete munitions forces the evacuation of some 2,000 people in Sofia and the closure of the Bulgarian capital's main airport. ](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-tonnes-of-obsolete-munitions-forces-the-evacuation-of-some-2-000-people-in-sofia-and-the-cl.md) _Context: Bulgaria, Sofia_
+10. [ A man under investigation for the sexual abuse of children at an orphanage in Sofia, Bulgaria, opens fire on teenage witnesses, killing one and wounding two others before committing suicide. ](/news/2008/03/12/a-man-under-investigation-for-the-sexual-abuse-of-children-at-an-orphanage-in-sofia-bulgaria-opens-fire-on-teenage-witnesses-killing-one.md) _Context: Bulgaria, Sofia_

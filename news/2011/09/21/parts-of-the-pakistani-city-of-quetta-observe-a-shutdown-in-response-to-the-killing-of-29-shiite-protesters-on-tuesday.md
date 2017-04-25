@@ -1,0 +1,23 @@
+### [2011-09-21](/news/2011/09/21/index.md)
+
+# Parts of the Pakistani city of Quetta observe a shutdown in response to the killing of 29 Shiite protesters on Tuesday. 
+
+
+
+
+### Source:
+
+1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2011%5C09%5C22%5Cstory_22-9-2011_pg7_7)
+
+### Related:
+
+1. [At least 47 people are killed and more than 90 wounded in two separate bomb blasts in Pakistan, one in a Shiite suburb of Quetta and the other in an attack on a paramilitary convoy in the northwest of the country; a Sunni extremist group reportedly claims responsibility. ](/news/2013/07/1/at-least-47-people-are-killed-and-more-than-90-wounded-in-two-separate-bomb-blasts-in-pakistan-one-in-a-shiite-suburb-of-quetta-and-the-oth.md) _Context: Pakistan, Quetta, Shiite_
+2. [Protests occur in Pakistan demanding protection for Shiite Muslims following yesterday's bombing in Quetta that killed 84 people. ](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.md) _Context: Pakistan, Quetta, Shiite_
+3. [Gunmen kill 12 Shiite Muslims near the Pakistani city of Quetta in an apparent sectarian killing. ](/news/2011/10/4/gunmen-kill-12-shiite-muslims-near-the-pakistani-city-of-quetta-in-an-apparent-sectarian-killing.md) _Context: Pakistan, Quetta, Shiite_
+4. [A Taliban bomb attack on a Shiite solidarity rally with the Palestinian people kills at least 53 people in Quetta, Pakistan. ](/news/2010/09/3/a-taliban-bomb-attack-on-a-shiite-solidarity-rally-with-the-palestinian-people-kills-at-least-53-people-in-quetta-pakistan.md) _Context: Pakistan, Quetta, Shiite_
+5. [  At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Pakistan, Quetta_
+6. [At least 70 people are killed and about 120 others injured in a suicide bombing  at a hospital in Quetta, Pakistan. ](/news/2016/08/8/at-least-70-people-are-killed-and-about-120-others-injured-in-a-suicide-bombing-at-a-hospital-in-quetta-pakistan.md) _Context: Pakistan, Quetta_
+7. [Thirteen people are injured when a  roadside bomb hits a Pakistani security vehicle in the southwestern city of Quetta, the same town where at least 74 were killed  in a suicide bombing at a hospital on Monday. The police were escorting a judge, who was not injured. ](/news/2016/08/11/thirteen-people-are-injured-when-a-roadside-bomb-hits-a-pakistani-security-vehicle-in-the-southwestern-city-of-quetta-the-same-town-where.md) _Context: Pakistan, Quetta_
+8. [Ten people  are killed and more than 40 injured when a suicide bomber on a bicycle blew himself up near a Pakistani security forces truck in Quetta, Pakistan. ](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.md) _Context: Pakistan, Quetta_
+9. [At least 15 people are killed and dozens injured after a bomb explodes near a polio centre near the Pakistani city of Quetta. ](/news/2016/01/13/at-least-15-people-are-killed-and-dozens-injured-after-a-bomb-explodes-near-a-polio-centre-near-the-pakistani-city-of-quetta.md) _Context: Pakistan, Quetta_
+10. [At least 10 people are killed and 12 injured when a suicide-bomber attacks a Pakistani Shia Mosque and Imambargah during prayers in the District Bagh of Kachhi 300 Km from Quetta in Balochistan. ](/news/2015/10/22/at-least-10-people-are-killed-and-12-injured-when-a-suicide-bomber-attacks-a-pakistani-shia-mosque-and-imambargah-during-prayers-in-the-dist.md) _Context: Pakistan, Quetta_

@@ -1,0 +1,22 @@
+### [2006-05-3](/news/2006/05/3/index.md)
+
+#  German hostages Ren Brunlich and Thomas Nitzschke returned home to Germany. They landed safe on a governmental aircraft at 2:24 pm in Berlin-Tegel. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4969204.stm)
+
+### Related:
+
+1. [Eleven Turkish-German members of Germany's Parliament, the Bundestag, who voted in support of declaring the Ottoman Turks slaughter of Armenians in 1915 a genocide, are under police protection.  The legislators have faced heavy criticism from Turkish officials, as well as from Turkish Germans. ](/news/2016/06/13/eleven-turkish-german-members-of-germany-s-parliament-the-bundestag-who-voted-in-support-of-declaring-the-ottoman-turks-slaughter-of-armen.md) _Context: German_
+2. [A Catalan official says the 13 exchange students killed in Sunday's accident were 19-to-25-year-old women,  seven from Italy, two Germans, an Austrian, a woman from France, a Romanian and an Uzbek. Twenty-four people are  being treated in hospital with one student in critical condition, and six people, including the driver, in serious condition. Reports from officials indicate the driver lost control of the coach and crashed to the other side before running into an oncoming car. The bus driver, who passed alcohol and drug tests, is being investigated for possible negligent homicide as police seek to determine the cause of the crash. ](/news/2016/03/21/a-catalan-official-says-the-13-exchange-students-killed-in-sunday-s-accident-were-19-to-25-year-old-women-seven-from-italy-two-germans-a.md) _Context: German_
+3. [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md) _Context: German_
+4. [Lutz Bachmann resigns as a leader of PEGIDA, a German anti-Islamist organisation, after controversy was sparked by a headshot photo of himself posing as Adolf Hitler. ](/news/2015/01/21/lutz-bachmann-resigns-as-a-leader-of-pegida-a-german-anti-islamist-organisation-after-controversy-was-sparked-by-a-headshot-photo-of-himse.md) _Context: German_
+5. [The Internal Affairs Minister of Israel declares German poet and former Waffen-SS soldier Gunter Grass, recipient of the 1999 Nobel Prize in Literature, a ''persona non grata'' in a row over his poem "What Must Be Said". ](/news/2012/04/8/the-internal-affairs-minister-of-israel-declares-german-poet-and-former-waffen-ss-soldier-ga1-4nter-grass-recipient-of-the-1999-nobel-prize-i.md) _Context: German_
+6. [ The body of German-Austrian billionaire Friedrich Karl Flick, stolen from the grave in 2008 and held for ransom, is returned to his family. ](/news/2009/12/2/the-body-of-german-austrian-billionaire-friedrich-karl-flick-stolen-from-the-grave-in-2008-and-held-for-ransom-is-returned-to-his-family.md) _Context: German_
+7. [ German heavy metal band Rammstein releases their seventh album, Liebe ist fur Alle Da in Germany.](/news/2009/10/16/german-heavy-metal-band-rammstein-releases-their-seventh-album-liebe-ist-fa1-4r-alle-da-in-germany.md) _Context: German_
+8. [ A German woman taken hostage yesterday in Kabul, Afghanistan is found during a police raid on a house. Multiple abductors arrested. ](/news/2007/08/19/a-german-woman-taken-hostage-yesterday-in-kabul-afghanistan-is-found-during-a-police-raid-on-a-house-multiple-abductors-arrested.md) _Context: German_
+9. [ The Taliban threatens to kill 18 South Koreans taken hostage in Afghanistan, prompting the government in Seoul to confirm an earlier plan to withdraw its troops from the country by the end of the year. Separately, the Taliban claims that it has executed two German hostages. ](/news/2007/07/21/the-taliban-threatens-to-kill-18-south-koreans-taken-hostage-in-afghanistan-prompting-the-government-in-seoul-to-confirm-an-earlier-plan-t.md) _Context: German_

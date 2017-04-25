@@ -1,0 +1,23 @@
+### [2010-04-17](/news/2010/04/17/index.md)
+
+# Internal e-mails reveal Porter Goss, a former head of the U.S. Central Intelligence Agency (CIA), agreed with a decision to destroy hundreds of tapes purportedly showing agents waterboarding two al-Qaeda suspects being held in Thailand in 2002 over fears that public release of the tapes would be "devastating". 
+
+Internal memos show ex-CIA chief agreed with destruction of interrogation tapes.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/04/2010416131130451197.html)
+
+### Related:
+
+1. [John Kiriakou, the former CIA agent, who publicly discussed the U.S. government agency's use of waterboarding interrogation techniques, is sentenced to 30 months in prison. An argument that he was a whistleblower was dismissed and he was instead convicted of violating an intelligence law, the first person to be successfully targeted under the statute in 27 years. ](/news/2013/01/25/john-kiriakou-the-former-cia-agent-who-publicly-discussed-the-u-s-government-agency-s-use-of-waterboarding-interrogation-techniques-is-s.md) _Context: Central Intelligence Agency, waterboarding_
+2. [ The United States Senate passes legislation to ban the Central Intelligence Agency from using certain interrogation methods including waterboarding. ](/news/2008/02/13/the-united-states-senate-passes-legislation-to-ban-the-central-intelligence-agency-from-using-certain-interrogation-methods-including-water.md) _Context: Central Intelligence Agency, waterboarding_
+3. [ Porter Goss resigns as director of the U.S. Central Intelligence Agency (CIA). ](/news/2006/05/5/porter-goss-resigns-as-director-of-the-u-s-central-intelligence-agency-cia.md) _Context: Central Intelligence Agency, Porter Goss_
+4. [ ''The Washington Post'' reports that the Central Intelligence Agency has been operating, perhaps as illegally, a covert network of "black site" prisons for terrorist suspects in eight foreign countries, including Afghanistan, Thailand, and several Eastern European democracies for the last four years, with little or no oversight from the United States Congress. ](/news/2005/11/2/the-washington-post-reports-that-the-central-intelligence-agency-has-been-operating-perhaps-as-illegally-a-covert-network-of-black-s.md) _Context: Central Intelligence Agency, Thailand_
+5. [ President Hamid Karzai of Afghanistan says at a press conference that he does not believe that Osama bin Laden is in Afghanistan.  CIA chief Porter Goss has said in a recent interview that he has an "excellent idea" of bin Laden's whereabouts. ](/news/2005/07/9/president-hamid-karzai-of-afghanistan-says-at-a-press-conference-that-he-does-not-believe-that-osama-bin-laden-is-in-afghanistan-cia-chie.md) _Context: Central Intelligence Agency, Porter Goss_
+6. [A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-thai-provinces-of-yala-patta.md) _Context: Thailand_
+7. [Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. ](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.md) _Context: Thailand_
+8. [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md) _Context: Thailand_
+9. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _Context: Central Intelligence Agency_
+10. [Flash flooding in southern Thailand kills at least 18 people. ](/news/2017/01/7/flash-flooding-in-southern-thailand-kills-at-least-18-people.md) _Context: Thailand_

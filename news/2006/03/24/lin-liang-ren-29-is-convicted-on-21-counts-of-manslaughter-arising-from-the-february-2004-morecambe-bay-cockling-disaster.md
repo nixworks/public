@@ -1,0 +1,23 @@
+### [2006-03-24](/news/2006/03/24/index.md)
+
+#  Lin Liang Ren, 29, is convicted on 21 counts of manslaughter arising from the February 2004 Morecambe Bay cockling disaster.  
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/england/lancashire/4832454.stm)
+
+### Related:
+
+1. [Following last month's manslaughter conviction, Israeli soldier Elor Azaria is sentenced to 18 months in prison by a military court for, during a violent incident, his deadly shooting of the wounded, unarmed, prone Palestinian Abdel Fattah al-Sharif, who had stabbed a soldier last March in Hebron. ](/news/2017/02/21/following-last-month-s-manslaughter-conviction-israeli-soldier-elor-azaria-is-sentenced-to-18-months-in-prison-by-a-military-court-for-dur.md) _Context: manslaughter_
+2. [Jury selection begins for the trial of William Porter, a Baltimore, Maryland police officer charged with manslaughter and other charges surrounding the April 19 death of Freddie Gray.  Porter is the first of six officers to be tried. ](/news/2015/11/30/jury-selection-begins-for-the-trial-of-william-porter-a-baltimore-maryland-police-officer-charged-with-manslaughter-and-other-charges-surr.md) _Context: manslaughter_
+3. [The U.S. Justice Department files criminal charges against three individuals and three companies--Black Elk, Grand Isle Shipyard and oil field services company Wood Group--in connection with a 2012 oil platform incident in the Gulf of Mexico that left three workers dead. The charges range from manslaughter to violations of the federal Clean Water Act.  ](/news/2015/11/20/the-u-s-justice-department-files-criminal-charges-against-three-individuals-and-three-companies-black-elk-grand-isle-shipyard-and-oil-fie.md) _Context: manslaughter_
+4. [A volunteer police officer is charged with manslaughter in the shooting death of Eric Harris, an unarmed man who was shot while lying on his back in Tulsa, Oklahoma. ](/news/2015/04/13/a-volunteer-police-officer-is-charged-with-manslaughter-in-the-shooting-death-of-eric-harris-an-unarmed-man-who-was-shot-while-lying-on-his.md) _Context: manslaughter_
+5. [In a five-day national dragnet last week, Operation Cross Check, the U.S. Immigration and Customs Enforcement (ICE) rounds up 2,059 people who had been convicted of crimes and had been living in the country illegally. Most were not violent criminals (none were implicated in terrorism; almost all the 912 misdemeanors were for driving under the influence, DWI; 476 of the felons were charged with an immigration violation, though some were convicted of manslaughter, robbery, rape, and child pornography). ](/news/2015/03/9/in-a-five-day-national-dragnet-last-week-operation-cross-check-the-u-s-immigration-and-customs-enforcement-ice-rounds-up-2-059-people-w.md) _Context: manslaughter_
+6. [A court in Lismore, Australia, convicts the former National Rugby League player Craig Field of the manslaughter of Kelvin Kane outside the Kingscliff Hotel in 2012. ](/news/2014/12/9/a-court-in-lismore-australia-convicts-the-former-national-rugby-league-player-craig-field-of-the-manslaughter-of-kelvin-kane-outside-the-k.md) _Context: manslaughter_
+7. [Prosecutors in the Australian state of Queensland drop manslaughter charges against American surgeon Jayant Patel, who pleads guilty to charges of fraud. ](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.md) _Context: manslaughter_
+8. [Francisco Jos Garzn Amo, the driver of the train involved in the Santiago de Compostela derailment, is charged with 79 counts of manslaughter in a Spanish court. ](/news/2013/07/28/francisco-jose-garzon-amo-the-driver-of-the-train-involved-in-the-santiago-de-compostela-derailment-is-charged-with-79-counts-of-manslaugh.md) _Context: manslaughter_
+9. [Police in Spain formally detain the driver of a high-speed train that derailed and crashed in Santiago de Compostela, killing 78, on July 24. The driver is accused of manslaughter and reckless driving. ](/news/2013/07/26/police-in-spain-formally-detain-the-driver-of-a-high-speed-train-that-derailed-and-crashed-in-santiago-de-compostela-killing-78-on-july-24.md) _Context: manslaughter_
+10. [Five Costa Crociere employees plead guilty to manslaughter and negligence charges in relation to the Costa Concordia disaster that cost 32 crew and passengers their lives off the coast of Italy. Captain Francesco Schettino is being tried separately. ](/news/2013/07/20/five-costa-crociere-employees-plead-guilty-to-manslaughter-and-negligence-charges-in-relation-to-the-costa-concordia-disaster-that-cost-32-c.md) _Context: manslaughter_

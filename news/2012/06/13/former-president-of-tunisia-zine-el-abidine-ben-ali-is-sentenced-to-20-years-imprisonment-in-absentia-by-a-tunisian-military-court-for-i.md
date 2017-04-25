@@ -1,0 +1,24 @@
+### [2012-06-13](/news/2012/06/13/index.md)
+
+# Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 20 years imprisonment ''in absentia'' by a Tunisian military court for inciting murder and violence during the revolution that ousted him from power in January 2011. 
+
+Toppled president is charged in absentia on various charges including incitement to murder.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126139146102236.html)
+2. [Reuters](http://uk.reuters.com/article/2012/06/13/uk-tunisia-benali-sentence-idUKBRE85C0I820120613?feedType=RSS&feedName=worldNews)
+
+### Related:
+
+1. [2011 Tunisian revolution: Former President Zine El Abidine Ben Ali is sentenced ''in absentia'' to 16 years imprisonment for corruption. ](/news/2011/07/29/2011-tunisian-revolution-former-president-zine-el-abidine-ben-ali-is-sentenced-in-absentia-to-16-years-imprisonment-for-corruption.md) _Context: President of Tunisia, Zine El Abidine Ben Ali, in absentia_
+2. [Arab Spring:Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held ''in absentia''. ](/news/2011/06/20/arab-spring-ptunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-priso.md) _Context: Jasmine Revolution of 2011, President of Tunisia, in absentia_
+3. [League football is to resume in Tunisia on 17 April for the first time since December when the Tunisian revolution, which toppled Zine El Abidine Ben Ali from decades-long rule, began. ](/news/2011/04/7/league-football-is-to-resume-in-tunisia-on-17-april-for-the-first-time-since-december-when-the-tunisian-revolution-which-toppled-zine-el-ab.md) _Context: Jasmine Revolution of 2011, Tunisia, Zine El Abidine Ben Ali_
+4. [Tunisia:French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-pfrench-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md) _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
+5. [2010-2011 Tunisian uprising:Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/2010a2011-tunisian-uprising-pthousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-ben.md) _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
+6. [2010-2011 Tunisian protests:Tunisian officials negotiate the formation of a supervisory council to oversee the country's interim government, in an effort to appease protesters angry at the continued presence in the cabinet of holdovers linked to deposed President Zine El Abidine Ben Ali'sregime. ](/news/2011/01/24/2010a2011-tunisian-protests-ptunisian-officials-negotiate-the-formation-of-a-supervisory-council-to-oversee-the-country-s-interim-governme.md) _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
+7. [Tunisian police arrest two politicians linked to former President Zine El Abidine Ben Ali, who was recently ousted in a popular uprising. ](/news/2011/01/23/tunisian-police-arrest-two-politicians-linked-to-former-president-zine-el-abidine-ben-ali-who-was-recently-ousted-in-a-popular-uprising.md) _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
+8. [Tunisia's prime minister Mohamed Ghannouchi promises in a TV interview to leave politics "in the shortest possible timeframe" after elections to be held following President Zine El Abidine Ben Ali's recent fall. ](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.md) _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
+9. [The Tunisian National Dialogue Quartet wins the 2015 Nobel Peace Prize for its "decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011." The Tunisian General Labour Union (UGTT), the Tunisian Confederation of Industry, Trade and Handicrafts (UTICA), the Tunisian Human Rights League (LTDH), and the Tunisian Order of Lawyers comprise the quartet. ](/news/2015/10/9/the-tunisian-national-dialogue-quartet-wins-the-2015-nobel-peace-prize-for-its-decisive-contribution-to-the-building-of-a-pluralistic-democ.md) _Context: Jasmine Revolution of 2011, Tunisia_
+10. [Voters in Tunisia go to the polls Sunday in the  first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md) _Context: Jasmine Revolution of 2011, Tunisia_

@@ -1,0 +1,25 @@
+### [2015-11-21](/news/2015/11/21/index.md)
+
+# The U.S. Geological Survey reports a magnitude 5.5 earthquake struck the central Chilean coast, south of the town of Coquimbo, at 6:05 PM EST.  No immediate reports of damage or casualties; no tsunami alerts are in effect.     
+
+A magnitude 5.5 earthquake struck the central Chilean coast on Saturday, south of the town of Coquimbo, the U.S. Geological Survey said.
+
+
+### Source:
+
+1. [BNO News](http://bnonews.com/news/index.php/news/id2698)
+2. [Reuters](http://www.reuters.com/article/2015/11/21/us-chile-quake-idUSKCN0TA0YO20151121#5lKVYtVxkQPPjQf3.97)
+3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10004077#general_summary)
+
+### Related:
+
+1. [The U.S. Geological Survey reports a magnitude 6.7 earthquake struck off the southwest coast of Japan. The quake occurred 119 miles (191 km) west-southwest of Kagoshima. The Pacific Tsunami Center reported no major tsunami threat. A small tsunami, 30 centimeters (11.8 inches), was observed on the southern island of Nakanoshima. No reports of major damage or injuries. ](/news/2015/11/14/the-u-s-geological-survey-reports-a-magnitude-6-7-earthquake-struck-off-the-southwest-coast-of-japan-the-quake-occurred-119-miles-191-km.md) _Context: Tsunami, United States Geological Survey, magnitude_
+2. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: Chile, Tsunami_
+3. [The United States Geological Survey also reports that a magnitude 6.2 earthquake struck off the coast of Malaita island, Solomon Islands. However, no tsunami warning has been issued. ](/news/2016/06/10/the-united-states-geological-survey-also-reports-that-a-magnitude-6-2-earthquake-struck-off-the-coast-of-malaita-island-solomon-islands-ho.md) _Context: Tsunami, United States Geological Survey_
+4. [The U.S. Geological Survey reports a 6.5 magnitude earthquake 155 km (95 miles)  from the West Sumatra port city of Padang  in Indonesia at a depth of about 50 km (30 miles). There are no immediate reports of damage or injury. ](/news/2016/06/1/the-u-s-geological-survey-reports-a-6-5-magnitude-earthquake-155-km-95-miles-from-the-west-sumatra-port-city-of-padang-in-indonesia-at.md) _Context: United States Geological Survey, magnitude_
+5. [A 6.3 magnitude earthquake struck  25 miles (40 kilometers) west of Ovalle in Chile's central region. No injuries or damage have been reported. ](/news/2016/02/9/a-6-3-magnitude-earthquake-struck-25-miles-40-kilometers-west-of-ovalle-in-chile-s-central-region-no-injuries-or-damage-have-been-report.md) _Context: Chile, magnitude_
+6. [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md) _Context: United States Geological Survey, magnitude_
+7. [The U.S. Geological Survey reports a magnitude 5.1 earthquake strike in Oklahoma, the state's third strongest quake, northwest of Oklahoma City. No  damage or injuries are reported. Oklahoma has recently experienced a surge in seismic activity, leading to calls for the governor to make changes to oil- and gas-drilling regulations. ](/news/2016/02/13/the-u-s-geological-survey-reports-a-magnitude-5-1-earthquake-strike-in-oklahoma-the-state-s-third-strongest-quake-northwest-of-oklahoma-c.md) _Context: United States Geological Survey, magnitude_
+8. [A magnitude 7.1 earthquake strikes southwestern Alaska, leaving 10,000 in the Anchorage area without power and forcing the evacuation of several homes on the Kenai Peninsula. The National Weather Service reported that there was no tsunami following the earthquake. ](/news/2016/01/24/a-magnitude-7-1-earthquake-strikes-southwestern-alaska-leaving-10-000-in-the-anchorage-area-without-power-and-forcing-the-evacuation-of-sev.md) _Context: Tsunami, magnitude_
+9. [Thousands of people in the Chilean town of Illapel sleep outside following yesterday's 8.3 magnitude earthquake as the death toll rises to 11. ](/news/2015/09/17/thousands-of-people-in-the-chilean-town-of-illapel-sleep-outside-following-yesterday-s-8-3-magnitude-earthquake-as-the-death-toll-rises-to-1.md) _Context: Chile, magnitude_
+10. [An earthquake measuring 8.3 on the Richter scale occurs in the Pacific Ocean near Chile sparking a tsunami warning. At least five people die. ](/news/2015/09/16/an-earthquake-measuring-8-3-on-the-richter-scale-occurs-in-the-pacific-ocean-near-chile-sparking-a-tsunami-warning-at-least-five-people-die.md) _Context: Chile, Tsunami_

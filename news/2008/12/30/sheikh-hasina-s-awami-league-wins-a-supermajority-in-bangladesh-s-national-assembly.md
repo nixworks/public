@@ -1,0 +1,23 @@
+### [2008-12-30](/news/2008/12/30/index.md)
+
+#  Sheikh Hasina's Awami League wins a supermajority in Bangladesh's National Assembly. 
+
+
+
+
+### Source:
+
+1. [Rediff](http://www.rediff.com/news/2008/dec/30sheikh-hasina-storms-to-power-in-bangladesh.htm)
+
+### Related:
+
+1. [Bangladesh executes two former members of parliament, Salahuddin Quader Chowdhury, of the Bangladesh Nationalist Party, and Ali Ahsan Mohammad Mojaheed, of the Jamaat-e-Islami party, who were convicted in 2013 of war crimes committed during the country's 1971 war of independence.  ](/news/2015/11/22/bangladesh-executes-two-former-members-of-parliament-salahuddin-quader-chowdhury-of-the-bangladesh-nationalist-party-and-ali-ahsan-mohamm.md) _Context: Bangladesh, parliament_
+2. [Bangladesh Prime Minister Sheikh Hasina rejects demands by Islamists for a new anti-blasphemy law to punish those who defame Islam and Prophet Muhammad. ](/news/2013/04/8/bangladesh-prime-minister-sheikh-hasina-rejects-demands-by-islamists-for-a-new-anti-blasphemy-law-to-punish-those-who-defame-islam-and-proph.md) _Context: Bangladesh, Sheikh Hasina_
+3. [The Prime Minister of India Manmohan Singh and the Prime Minister of Bangladesh Sheikh Hasina sign an accord ending four decades of disputes over the borders of India and Bangladesh. ](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.md) _Context: Bangladesh, Sheikh Hasina_
+4. [ More than 100 ministers and heads of state attend a United Nations meeting on the global hunger crisis. Bangladesh Prime Minister Sheikh Hasina tables a five-pronged set of recommendations to raise a hunger-free world. ](/news/2009/09/26/more-than-100-ministers-and-heads-of-state-attend-a-united-nations-meeting-on-the-global-hunger-crisis-bangladesh-prime-minister-sheikh-ha.md) _Context: Bangladesh, Sheikh Hasina_
+5. [ Bangladeshis vote in their country's general election. ](/news/2008/12/29/bangladeshis-vote-in-their-country-s-general-election.md) _Context: Bangladesh, wins_
+6. [ The Bangladeshi government schedules general elections on December 18, 2008, which will end the rule of the one and half year military-backed interim government. ](/news/2008/11/3/the-bangladeshi-government-schedules-general-elections-on-december-18-2008-which-will-end-the-rule-of-the-one-and-half-year-military-back.md) _Context: Bangladesh, wins_
+7. [ Bangladesh's Electoral Commission reschedules the date for the general election from December 18 to December 29. ](/news/2008/11/24/bangladesh-s-electoral-commission-reschedules-the-date-for-the-general-election-from-december-18-to-december-29.md) _Context: Bangladesh, wins_
+8. [ Former Bangladesh Prime Minister Sheikh Hasina files petitions challenging government move to try her in connection with an extortion case.](/news/2007/08/6/former-bangladesh-prime-minister-sheikh-hasina-files-petitions-challenging-government-move-to-try-her-in-connection-with-an-extortion-case.md) _Context: Bangladesh, Sheikh Hasina_
+9. [ ATN Bangla television reports that Bangladeshi police have arrested former Prime Minister of Bangladesh Sheikh Hasina on charges of extorting money from a businessman. ](/news/2007/07/16/atn-bangla-television-reports-that-bangladeshi-police-have-arrested-former-prime-minister-of-bangladesh-sheikh-hasina-on-charges-of-extorti.md) _Context: Bangladesh, Sheikh Hasina_
+10. [ Fierce political rioting in Bangladesh kills at least 10 people and wounds about 500 as the main political parties fail to agree on a successor after the expiry of Prime Minister Begum Khaleda Zia's five-year term. President Iajuddin Ahmed becomes interim PM. Opposition Awami League accuses Iajuddin of violating the Constitution of Bangladesh by appointing himself as head of the interim government. ](/news/2006/10/29/fierce-political-rioting-in-bangladesh-kills-at-least-10-people-and-wounds-about-500-as-the-main-political-parties-fail-to-agree-on-a-succe.md) _Context: Awami League, Bangladesh_

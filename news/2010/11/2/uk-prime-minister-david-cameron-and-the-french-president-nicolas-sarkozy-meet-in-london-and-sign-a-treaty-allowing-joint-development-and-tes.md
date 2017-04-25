@@ -1,0 +1,24 @@
+### [2010-11-2](/news/2010/11/2/index.md)
+
+# UK Prime Minister David Cameron and the French President Nicolas Sarkozy meet in London and sign a treaty allowing joint development and testing of nuclear warheads, and outline plans for a joint army expeditionary force. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-11670247)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588034.htm)
+
+### Related:
+
+1. [Barack Obama, the President of the United States, David Cameron, the Prime Minister of the United Kingdom and Nicolas Sarkozy, the President of France publish an op-ed in the ''International Herald Tribune'' outlining their strategy on the 2011 Libyan civil war. ](/news/2011/04/14/barack-obama-the-president-of-the-united-states-david-cameron-the-prime-minister-of-the-united-kingdom-and-nicolas-sarkozy-the-president.md) _Context: David Cameron, Nicolas Sarkozy, Prime Minster, president_
+2. [U.S. President Barack Obama, in an op-ed in London's ''Daily Telegraph'', urges Britons  to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-o.md) _Context: David Cameron, London, Prime Minster_
+3. [In a speech in London, British Prime Minister David Cameron outlines his intention to renegotiate the terms of the UK's membership of the European Union then offer a referendum on United Kingdom withdrawal from the European Union if a new deal is agreed. ](/news/2013/01/23/in-a-speech-in-london-british-prime-minister-david-cameron-outlines-his-intention-to-renegotiate-the-terms-of-the-uk-s-membership-of-the-eu.md) _Context: David Cameron, London, Prime Minster_
+4. [ The Prime Minister of the United Kingdom Gordon Brown and the President of France Nicolas Sarkozy threaten the government of Sudan with sanctions over Darfur. ](/news/2007/08/31/the-prime-minister-of-the-united-kingdom-gordon-brown-and-the-president-of-france-nicolas-sarkozy-threaten-the-government-of-sudan-with-san.md) _Context: Nicolas Sarkozy, Prime Minster, president_
+5. [Former President of France Nicolas Sarkozy is ordered to stand trial for alleged campaign finance fraud during his failed 2012 presidential election campaign. ](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.md) _Context: Nicolas Sarkozy, president_
+6. [Former Prime Minister of the United Kingdom David Cameron resigns as MP for Witney, triggering a by-election. ](/news/2016/09/12/former-prime-minister-of-the-united-kingdom-david-cameron-resigns-as-mp-for-witney-triggering-a-by-election.md) _Context: David Cameron, Prime Minster_
+7. [Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. ](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-officially-declares-his-candidacy-for-president-in-2017.md) _Context: Nicolas Sarkozy, president_
+8. [Conservative Party members of parliament vote in a second ballot to choose the next leader of the party to replace outgoing Prime Minister David Cameron. The Home Secretary Theresa May secured the highest number votes with 199, while Department of Energy and Climate Change minister Andrea Leadsom received the second highest amount, with 84. The Secretary of State for Justice Michael Gove received just 46 votes and is eliminated from the race, meaning a run-off contest will now take place between May and Leadsom, with the result to be announced on September 9. ](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.md) _Context: David Cameron, Prime Minster_
+9. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _Context: Nicolas Sarkozy, president_
+10. [The process to elect a new leader of the Conservative Party to replace outgoing Prime Minister David Cameron begins in the United Kingdom. The Secretary of State for Work and Pensions Stephen Crabb is the first Conservative Party politician to announce his official candidacy for leader. ](/news/2016/06/29/the-process-to-elect-a-new-leader-of-the-conservative-party-to-replace-outgoing-prime-minister-david-cameron-begins-in-the-united-kingdom-t.md) _Context: David Cameron, Prime Minster_

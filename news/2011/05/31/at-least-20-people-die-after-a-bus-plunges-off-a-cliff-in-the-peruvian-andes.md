@@ -1,0 +1,23 @@
+### [2011-05-31](/news/2011/05/31/index.md)
+
+# At least 20 people die after a bus plunges off a cliff in the Peruvian Andes. 
+
+AT least 20 people were killed and 34 injured when a speeding inter-provincial bus ran off a cliff in the high Andes of Peru.
+
+
+### Source:
+
+1. [AFP via News Limited](http://www.news.com.au/world/bus-plunges-off-cliff-in-peru-killing-20/story-e6frfkyi-1226067086695)
+
+### Related:
+
+1. [A huge glacier breaks off and plunges into a lake in Peru sparking a 23-metre high tsunami wave that destroyed a nearby town. The massive chunk of ice - around the size of four football pitches - tumbled into the '513 lake' in the Andes near Carhuaz, around 200 miles north of Lima. ](/news/2010/04/13/a-huge-glacier-breaks-off-and-plunges-into-a-lake-in-peru-sparking-a-23-metre-high-tsunami-wave-that-destroyed-a-nearby-town-the-massive-ch.md) _Context: Andes, Peru_
+2. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Peru_
+3. [Heavy flooding in Peru kills at least 67 people and forces thousands to abandon their homes. ](/news/2017/03/17/heavy-flooding-in-peru-kills-at-least-67-people-and-forces-thousands-to-abandon-their-homes.md) _Context: Peru_
+4. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: Peru_
+5. [An estimated 180,000 alpacas are dead due to frigid temperatures and drought in Peru. ](/news/2017/01/14/an-estimated-180-000-alpacas-are-dead-due-to-frigid-temperatures-and-drought-in-peru.md) _Context: Peru_
+6. [Russia-United States relations, APEC Peru 2016 President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/russiaaunited-states-relations-apec-peru-2016-ppresident-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacifi.md) _Context: Peru_
+7. [With more than 92% of the vote counted, Pedro Pablo Kuczynski is ahead of  Keiko Fujimori by just over 103,000 votes,  50.3 percent to 49.6 percent, in the  electorate of  23 million citizens. Ballots of Peruvians living abroad will begin to arrive tonight.  Mariano Cucho, the head of the electoral office, says the count may not be finalized until Thursday or Friday. ](/news/2016/06/6/with-more-than-92-of-the-vote-counted-pedro-pablo-kuczynski-is-ahead-of-keiko-fujimori-by-just-over-103-000-votes-50-3-percent-to-49-6.md) _Context: Peru_
+8. [Voters in Peru go to the polls for the second round of voting in a presidential election where Keiko Fujimori and Pedro Pablo Kuczynski are the remaining candidates. ](/news/2016/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-where-keiko-fujimori-and-pedro-pablo-kuczynski-are.md) _Context: Peru_
+9. [At least two people are killed in a remote part of Peru in an attack by Shining Path guerillas. ](/news/2016/04/9/at-least-two-people-are-killed-in-a-remote-part-of-peru-in-an-attack-by-shining-path-guerillas.md) _Context: Peru_
+10. [At least 23 people are killed and 32 others injured after a bus plunges into a river in southeastern Peru. ](/news/2016/04/9/at-least-23-people-are-killed-and-32-others-injured-after-a-bus-plunges-into-a-river-in-southeastern-peru.md) _Context: Peru_

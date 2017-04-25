@@ -1,0 +1,10 @@
+### [2016-05-26](/news/2016/05/26/index.md)
+
+# French labor unions, led by the CGT, implement a strike in protest of proposed reforms to labor laws. 
+
+Strike action over labour law reforms grips France, disrupting oil refineries, nuclear power stations and transport hubs, as police battle protesters.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-36385778)

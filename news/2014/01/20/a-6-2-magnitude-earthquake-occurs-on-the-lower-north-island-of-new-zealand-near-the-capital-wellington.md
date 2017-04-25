@@ -1,0 +1,23 @@
+### [2014-01-20](/news/2014/01/20/index.md)
+
+# A 6.2 magnitude earthquake occurs on the lower North Island of New Zealand near the capital Wellington. 
+
+Do you have any photos or video? Contact the Herald here . - New Zealand Herald
+
+
+### Source:
+
+1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11189343)
+
+### Related:
+
+1. [A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cyclone-cook-sweeps-across-the-north-island.md) _Context: New Zealand, North Island_
+2. [A 7.1 magnitude earthquake occurs off the north east coast of North Island, New Zealand. A tsunami warning was issued after the earthquake, and waves of 0.3m have been reported near Gisborne. ](/news/2016/09/1/a-7-1-magnitude-earthquake-occurs-off-the-north-east-coast-of-north-island-new-zealand-a-tsunami-warning-was-issued-after-the-earthquake.md) _Context: New Zealand, North Island_
+3. [  The Highlanders from the New Zealand region of Otago defeat the Hurricanes from the New Zealand capital Wellington in the Super Rugby final, 21-14. It is the Highlanders' first Super 15 final. ](/news/2015/07/4/the-highlanders-from-the-new-zealand-region-of-otago-defeat-the-hurricanes-from-the-new-zealand-capital-wellington-in-the-super-rugby-fina.md) _Context: New Zealand, Wellington_
+4. [In New Zealand's North Island heavy rains cause flooding on the Kapiti Coast in the Wellington Region prompting evacuations and closing road and rail links. ](/news/2015/05/14/in-new-zealand-s-north-island-heavy-rains-cause-flooding-on-the-kapiti-coast-in-the-wellington-region-prompting-evacuations-and-closing-road.md) _Context: New Zealand, North Island_
+5. [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and  Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-r.md) _Context: New Zealand, North Island_
+6. [The Whakaari / White Island volcano in the Bay of Plenty off New Zealand's North Island erupts. ](/news/2013/08/20/the-whakaari-white-island-volcano-in-the-bay-of-plenty-off-new-zealand-s-north-island-erupts.md) _Context: New Zealand, North Island_
+7. [A magnitude 6.5 earthquake strikes near Seddon, New Zealand, causing moderate damage in the wider Marlborough region and national capital Wellington. ](/news/2013/08/16/a-magnitude-6-5-earthquake-strikes-near-seddon-new-zealand-causing-moderate-damage-in-the-wider-marlborough-region-and-national-capital-we.md) _Context: New Zealand, Wellington_
+8. [A magnitude 6.5 earthquake strikes under Cook Strait in New Zealand, causing moderate damage in the capital city Wellington. ](/news/2013/07/21/a-magnitude-6-5-earthquake-strikes-under-cook-strait-in-new-zealand-causing-moderate-damage-in-the-capital-city-wellington.md) _Context: New Zealand, Wellington_
+9. [A morning peak Tranz Metro commuter train derails near central Wellington, New Zealand, after part of the undercarriage comes loose and punctures the carriage floor, injuring four people and delaying tens of thousands of commuters as services are cancelled. ](/news/2013/05/20/a-morning-peak-tranz-metro-commuter-train-derails-near-central-wellington-new-zealand-after-part-of-the-undercarriage-comes-loose-and-punc.md) _Context: New Zealand, Wellington_
+10. [Mount Tongariro, a volcano on the North Island of New Zealand, erupts for the second time in four months, with efforts underway to rescue people on the Tongariro Alpine Crossing. ](/news/2012/11/21/mount-tongariro-a-volcano-on-the-north-island-of-new-zealand-erupts-for-the-second-time-in-four-months-with-efforts-underway-to-rescue-pe.md) _Context: New Zealand, North Island_

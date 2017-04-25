@@ -1,0 +1,23 @@
+### [2012-10-8](/news/2012/10/8/index.md)
+
+# Mustafa A.G. Abushagur, the first elected prime minister of Libya, is elected out of office after the Libyan parliament passed a vote of no confidence; Abdurrahim El-Keib assumes the post again. 
+
+Libya&#x27;s&#x20;newly&#x20;elected&#x20;Prime&#x20;Minister&#x20;Mustafa&#x20;Abushagur&#x20;was&#x20;dismissed&#x20;by&#x20;the&#x20;country&#x27;s&#x20;congress&#x20;on&#x20;Sunday&#x20;after&#x20;members&#x20;passed&#x20;a&#x20;vote&#x20;of&#x20;no&#x20;confidence.&#x20;The&#x20;vote&#x20;came&#x20;after&#x20;lawmakers&#x20;rejected&#x20;Abushagur&#x27;s&#x20;nominations&#x20;for&#x20;a&#x20;new&#x20;government.
+
+
+### Source:
+
+1. [France 24](http://www.france24.com/en/20121007-libya-newly-elected-pm-dismissed-parliament-abushagur)
+
+### Related:
+
+1. [The Parliament of Libya orders the closure of Libya's southern borders with Chad, Sudan, Algeria and Niger while declaring seven southern regions restricted military areas to stop the flow of illegal immigrants and goods. ](/news/2012/12/17/the-parliament-of-libya-orders-the-closure-of-libya-s-southern-borders-with-chad-sudan-algeria-and-niger-while-declaring-seven-southern-re.md) _Context: Libya, Libyan Parliament_
+2. [Libya Abdullah Al-Sha Mausoleum's destruction:The president of Libya's newly elected legislative congress, Mohamed Yousef el-Magariaf, calls the prime minister to an emergency meeting, after Saturday's bulldozing of the Sidi el-Sha'ab mausoleum in Tripoli by unnamed organized assailants. ](/news/2012/08/26/libya-abdullah-al-sha-mausoleum-s-destruction-pthe-president-of-libya-s-newly-elected-legislative-congress-mohamed-yousef-el-magariaf-call.md) _Context: Libya, Libyan Parliament_
+3. [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md) _Context: Libya_
+4. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Libya_
+5. [Libyan fisherman discover the bodies of 28 migrants in a broken-down boat off the coast of Sabratha. ](/news/2017/04/18/libyan-fisherman-discover-the-bodies-of-28-migrants-in-a-broken-down-boat-off-the-coast-of-sabratha.md) _Context: Libya_
+6. [More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _Context: Libya_
+7. [A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.md) _Context: Libya_
+8. [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md) _Context: Libya_
+9. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _Context: Libya_
+10. [President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries-including-iran-iraq-libya.md) _Context: Libya_

@@ -1,0 +1,23 @@
+### [2008-09-25](/news/2008/09/25/index.md)
+
+#  The death toll from Typhoon Hagupit rises to 18 with 10 people dead in the People's Republic of China as well as 8 people killed earlier in the Philippines. 
+
+
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2008/WORLD/weather/09/25/china.typhoon/)
+
+### Related:
+
+1. [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md) _Context: China's, Philippines_
+2. [At least 25 people are dead in Hong Kong and southern China after Typhoon Usagi passes through with the storm having killed eight people in the Philippines. ](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.md) _Context: China's, Philippines_
+3. [The People's Republic of China rejects an attempt by the Philippines to seek international arbitration over conflicting claims to the South China Sea. ](/news/2013/02/19/the-people-s-republic-of-china-rejects-an-attempt-by-the-philippines-to-seek-international-arbitration-over-conflicting-claims-to-the-south.md) _Context: China's, Philippines_
+4. [Chinese tour companies suspend tourist flights to the Philippines amid rising tensions between the two countries over territorial disputes in the South China Sea. ](/news/2012/05/10/chinese-tour-companies-suspend-tourist-flights-to-the-philippines-amid-rising-tensions-between-the-two-countries-over-territorial-disputes-i.md) _Context: China's, Philippines_
+5. [Philippines officials claim that the People's Republic of China has executed a Filipino man for drug trafficking despite a plea for clemency from the President of the Philippines Benigno Aquino III on humanitarian grounds. ](/news/2011/12/8/philippines-officials-claim-that-the-people-s-republic-of-china-has-executed-a-filipino-man-for-drug-trafficking-despite-a-plea-for-clemency.md) _Context: China's, Philippines_
+6. [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md) _Context: China's, Philippines_
+7. [ Typhoon Hagupit hits Vietnam, the Philippines and southern China, killing at least eight. ](/news/2008/09/24/typhoon-hagupit-hits-vietnam-the-philippines-and-southern-china-killing-at-least-eight.md) _Context: Philippines, Typhoon Hagupit_
+8. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Philippines_
+9. [A U.S. Navy F/A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS ''Carl Vinson''. The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-e.md) _Context: Philippines_
+10. [Scientists announce, through the ''Proceedings of the National Academy of Sciences of the United States of America'', that live specimens of the rare ''Kuphus polythalamia'' (giant shipworm) have been discovered for the first time in the Philippines. ](/news/2017/04/18/scientists-announce-through-the-proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america-that-live-specimens-of.md) _Context: Philippines_

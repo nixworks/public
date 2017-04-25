@@ -1,0 +1,23 @@
+### [2007-05-21](/news/2007/05/21/index.md)
+
+#  United States Presidential Election, 2008: Bill Richardson, the Democratic Governor of New Mexico, officially declares his candidacy for president in Los Angeles, California. 
+
+
+
+
+### Source:
+
+1. [Los Angeles Times](http://www.latimes.com/news/nationworld/politics/la-na-richardson22may22,1,7799175.story?coll=la-news-politics-national)
+
+### Related:
+
+1. [ U.S. election 2008: Bill Richardson, currently the Democratic Governor of New Mexico, announces his candidacy for United States president.  ](/news/2007/01/21/u-s-election-2008-bill-richardson-currently-the-democratic-governor-of-new-mexico-announces-his-candidacy-for-united-states-president.md) _Context: 2008, Bill Richardson, Democratic, Governor of New Mexico_
+2. [Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-gaining-enough-delegates-to-become-the-presu.md) _Context: California, Democratic, U.S. President_
+3. [ United States general elections: Democrat Barack Obama wins the 2008 United States presidential election after beating Republican John McCain, becoming the first African American to be elected to the office of President of the United States. ](/news/2008/11/4/united-states-general-elections-p-democrat-barack-obama-wins-the-2008-united-states-presidential-election-after-beating-republican-john-mcc.md) _Context: 2008, Democratic, U.S. President_
+4. [ Hillary Clinton suspends her presidential campaign and endorses Barack Obama as the Democratic candidate for President of the United States in the 2008 election. ](/news/2008/06/7/hillary-clinton-suspends-her-presidential-campaign-and-endorses-barack-obama-as-the-democratic-candidate-for-president-of-the-united-states.md) _Context: 2008, Democratic, U.S. President_
+5. [ United States presidential election, 2008: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-p-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _Context: 2008, Bill Richardson, Governor of New Mexico_
+6. [ United States presidential election, 2008: Presidential contender and U. S. Senator Hillary Clinton (D-NY) has called for a 90-day deadline to start withdrawing U.S. troops from Iraq. She states in a video on her website: "If George Bush doesn't end the war before he leaves office, when I'm president, I will." ](/news/2007/02/17/united-states-presidential-election-2008-presidential-contender-and-u-s-senator-hillary-clinton-d-ny-has-called-for-a-90-day-deadline.md) _Context: 2008, Democratic, U.S. President_
+7. [ United States presidential election, 2008: Senator Barack Obama (D-IL) officially announces his candidacy for president during a speech at the Old State Capitol in Springfield, Illinois. ](/news/2007/02/10/united-states-presidential-election-2008-senator-barack-obama-d-il-officially-announces-his-candidacy-for-president-during-a-speech-at.md) _Context: 2008, Democratic, U.S. President_
+8. [ U.S. election 2008:  Senator Hillary Clinton (D-NY) officially announces her  presidential bid with an exploratory committee. ](/news/2007/01/20/u-s-election-2008-senator-hillary-clinton-d-ny-officially-announces-her-presidential-bid-with-an-exploratory-committee.md) _Context: 2008, Democratic, U.S. President_
+9. [Los Angeles, California, police arrest a  21-year-old homeless man after five bodies of apparent transients are found in the wreckage of a vacant former medical building that burned down Monday night. Firefighters had been able to rescue three people. ](/news/2016/06/14/los-angeles-california-police-arrest-a-21-year-old-homeless-man-after-five-bodies-of-apparent-transients-are-found-in-the-wreckage-of-a-v.md) _Context: California, Los Angeles_
+10. [The PGA of America announces it is discontinuing the PGA Grand Slam of Golf, a special postseason event among the year's winners of the four major championships of regular men's golf. This year, it was set to be held at Trump National Golf Club in Los Angeles, California. The 2015 event was cancelled after the PGA decided to move the exhibition contest from the same Trump Club, and they couldn't find a replacement course golf course with suitable dates. ](/news/2016/03/16/the-pga-of-america-announces-it-is-discontinuing-the-pga-grand-slam-of-golf-a-special-postseason-event-among-the-year-s-winners-of-the-four.md) _Context: California, Los Angeles_

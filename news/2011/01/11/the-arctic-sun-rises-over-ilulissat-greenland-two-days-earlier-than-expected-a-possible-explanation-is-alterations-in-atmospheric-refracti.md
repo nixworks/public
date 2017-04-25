@@ -1,0 +1,25 @@
+### [2011-01-11](/news/2011/01/11/index.md)
+
+# The Arctic Sun rises over Ilulissat, Greenland two days earlier than expected. A possible explanation is alterations in atmospheric refraction or inversion from ice crystals that may or may not be the result of global warming. 
+
+The best of British &amp; international news, opinion, sport, people &amp; business.
+
+
+### Source:
+
+1. [LiveScience](http://www.livescience.com/environment/early-sunrise-arctic-greenland-110117.html)
+2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1346936/The-sun-rises-days-early-Greenland-sparking-fears-climate-change-accelerating.html)
+3. [First Post](http://www.thefirstpost.co.uk/73759,news-comment,news-politics,climate-change-brings-sunrise-two-days-early-to-greenland)
+
+### Related:
+
+1. [At the 2010 United Nations Climate Change Conference, Google unveils an initiative using Google Earth allowing users to view the effects of deforestation, impacts and videos on global warming and climate change. ](/news/2010/12/1/at-the-2010-united-nations-climate-change-conference-google-unveils-an-initiative-using-google-earth-allowing-users-to-view-the-effects-of.md) _Context: effects of global warming, global warming's_
+2. [The oldest fossil (stromatolite) that had life is discovered in the melting snow at the Isua Greenstone Belt of Greenland. ](/news/2016/08/31/the-oldest-fossil-stromatolite-that-had-life-is-discovered-in-the-melting-snow-at-the-isua-greenstone-belt-of-greenland.md) _Context: Greenland_
+3. [A report from  the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to  accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures,  while efforts trying to attribute droughts and extreme rainfall has medium confidence. ](/news/2016/03/11/a-report-from-the-national-academies-of-sciences-engineering-and-medicine-states-climate-science-progress-makes-it-possible-to-accuratel.md) _Context: global warming's_
+4. [French  national public television broadcaster France Televisions fires France 2 TV channel's weatherman  Philippe Verdier, who has been  suspended since mid-October. Verdier, known as "Monsieur Meteo" (Mr Weather), has been promoting his recently published book, ''Climat Investigation'' (Climate Investigation), in which he throws doubt on the global warning findings of leading climate scientists and political leaders.  France Televisions said its rules, "prevent anyone using their professional status ... to push forward their personal opinions."   ](/news/2015/11/2/french-national-public-television-broadcaster-france-ta-c-la-c-visions-fires-france-2-tv-channel-s-weatherman-philippe-verdier-who-has-been.md) _Context: global warming's_
+5. [A new study by scientists finds that areas around the Persian Gulf could become uninhabitable to humans in less than 100 years due to rising temperatures. ](/news/2015/10/26/a-new-study-by-scientists-finds-that-areas-around-the-persian-gulf-could-become-uninhabitable-to-humans-in-less-than-100-years-due-to-rising.md) _Context: global warming's_
+6. [Recent climate change would still cause a 6-meter (20-feet) sea-level rise even if greenhouse gas emissions were reduced today per a scientific paper in ''Science''.](/news/2015/07/14/recent-climate-change-would-still-cause-a-6-meter-20-feet-sea-level-rise-even-if-greenhouse-gas-emissions-were-reduced-today-per-a-scienti.md) _Context: global warming's_
+7. [Greenland's government calls for an early election on November 28 after an expenses scandal prompts Prime Minister Aleqa Hammond to step down as leader of the governing Siumut party. ](/news/2014/10/1/greenland-s-government-calls-for-an-early-election-on-november-28-after-an-expenses-scandal-prompts-prime-minister-aleqa-hammond-to-step-dow.md) _Context: Greenland_
+8. [Denmark proper (not counting Greenland) gets its first natural UNESCO World Heritage Sites, in addition to its three cultural sites, as Stevns Klint and the Danish parts of the Wadden Sea are inscribed on the UNESCO list. ](/news/2014/06/23/denmark-proper-not-counting-greenland-gets-its-first-natural-unesco-world-heritage-sites-in-addition-to-its-three-cultural-sites-as-stev.md) _Context: Greenland_
+9. [New data published independently by NASA and the National Oceanic and Atmospheric Administration show that the global warming trend is continuing. ](/news/2014/01/22/new-data-published-independently-by-nasa-and-the-national-oceanic-and-atmospheric-administration-show-that-the-global-warming-trend-is-conti.md) _Context: global warming's_
+10. [Scientists discover an 800km long canyon that is up to 800m deep in places beneath the ice sheet that covers Greenland. ](/news/2013/08/30/scientists-discover-an-800km-long-canyon-that-is-up-to-800m-deep-in-places-beneath-the-ice-sheet-that-covers-greenland.md) _Context: Greenland_

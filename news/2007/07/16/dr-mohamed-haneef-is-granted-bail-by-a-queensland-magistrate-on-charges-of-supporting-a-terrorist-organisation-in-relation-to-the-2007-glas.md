@@ -1,0 +1,24 @@
+### [2007-07-16](/news/2007/07/16/index.md)
+
+#  Dr Mohamed Haneef is granted bail by a Queensland magistrate on charges of supporting a terrorist organisation in relation to the 2007 Glasgow International Airport attack and the 2007 London car bombs. The Australian government later revokes his visa. 
+
+
+
+
+### Source:
+
+1. [Sydney Morning Herald](http://www.smh.com.au/news/national/haneef-detained-after-bail-win/2007/07/16/1184438190629.html?page=fullpage#contentSwap1)
+2. [The Courier-Mail](http://www.news.com.au/story/0,23599,22081601-2,00.html)
+
+### Related:
+
+1. [ Dr Mohamed Haneef wins his bid in the Federal Court to have his Australian work visa reinstated after Immigration Minister Kevin Andrews canceled it after Dr Haneef was charged with "providing material support to a terrorist organization." [http://www.abc.net.au/news/stories/2007/08/21/2010804.htm (ABC News Australia)] Andrews later says the Australian government would appeal against the court ruling. ](/news/2007/08/21/dr-mohamed-haneef-wins-his-bid-in-the-federal-court-to-have-his-australian-work-visa-reinstated-after-immigration-minister-kevin-andrews-ca.md) _Context: Australia, Mohamed Haneef, terrorist, visa-free travel_
+2. [ Australian authorities increase security as the interrogation of Dr. Mohamed Haneef over his possible involvement in the 2007 Glasgow International Airport attack and the 2007 London car bombs incidents continues. The Australian Federal Police conducts raids on two hospitals in Perth, Western Australia. ](/news/2007/07/6/australian-authorities-increase-security-as-the-interrogation-of-dr-mohamed-haneef-over-his-possible-involvement-in-the-2007-glasgow-inter.md) _Context: 2007 attack, Australia, Mohamed Haneef, planned car bomb attacks_
+3. [ The Australian Federal Police charge Dr. Mohamed Haneef with "providing support to a terrorist organization" in relation to the 2007 Glasgow International Airport attack and the 2007 London car bombs. ](/news/2007/07/14/the-australian-federal-police-charge-dr-mohamed-haneef-with-providing-support-to-a-terrorist-organization-in-relation-to-the-2007-glasgo.md) _Context: 2007 attack, Mohamed Haneef, planned car bomb attacks, terrorist_
+4. [ The Australian government upgrades its travel alert for the United Kingdom following the 2007 Glasgow International Airport attack and the 2007 London car bombs discovery. ](/news/2007/07/1/the-australian-government-upgrades-its-travel-alert-for-the-united-kingdom-following-the-2007-glasgow-international-airport-attack-and-the.md) _Context: 2007 attack, Australia, planned car bomb attacks_
+5. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Australia, Queensland_
+6. [An accident on board the Thunder River Rapids Ride at Dreamworld on the Gold Coast in Queensland, Australia, leaves four people dead. ](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-ride-at-dreamworld-on-the-gold-coast-in-queensland-australia-leaves-four-people-dead.md) _Context: Australia, Queensland_
+7. [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md) _Context: Australia, Queensland_
+8. [Flood warnings are put in place and roads are closed after a heavy rain continues to fall in the northern parts of the Australian state of Queensland. ](/news/2016/03/14/flood-warnings-are-put-in-place-and-roads-are-closed-after-a-heavy-rain-continues-to-fall-in-the-northern-parts-of-the-australian-state-of-q.md) _Context: Australia, Queensland_
+9. [Queensland, Australia, authorities revise the estimated amount of sulphuric acid leaked from Sunday's 26-carriage Aurizon freight train derailment near Julia Creek to 31,500 liters. The train was carrying  819,000 liters, not 200,000 liters as originally thought. Flinders Highway remains closed in both directions. ](/news/2015/12/28/queensland-australia-authorities-revise-the-estimated-amount-of-sulphuric-acid-leaked-from-sunday-s-26-carriage-aurizon-freight-train-dera.md) _Context: Australia, Queensland_
+10. [A man shoots to death a woman and a seven-year-old boy then himself in the Queensland town of Biddeston, west of Brisbane, Australia. ](/news/2015/03/2/a-man-shoots-to-death-a-woman-and-a-seven-year-old-boy-then-himself-in-the-queensland-town-of-biddeston-west-of-brisbane-australia.md) _Context: Australia, Queensland_

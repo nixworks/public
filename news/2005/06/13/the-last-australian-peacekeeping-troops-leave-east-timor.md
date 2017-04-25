@@ -1,0 +1,25 @@
+### [2005-06-13](/news/2005/06/13/index.md)
+
+#  The last Australian peacekeeping troops leave East Timor. 
+
+
+
+
+### Source:
+
+1. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=113685&region=2)
+2. [ABC](http://www.abc.net.au/news/newsitems/200506/s1390873.htm)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/SYD210975.htm)
+
+### Related:
+
+1. [Kirsty Sword Gusmo, wife of East Timor's Prime Minister, backed by head of East Timor's child protection agency Carmen da Cruz, demands Australian woman Lala Noronha return to Dili 15 Timorese teenagers she has in Malaysia. However, the youths have stated that they do not want to go back. ](/news/2010/03/22/kirsty-sword-gusmao-wife-of-east-timor-s-prime-minister-backed-by-head-of-east-timor-s-child-protection-agency-carmen-da-cruz-demands-aus.md) _Context: Australia, East Timor_
+2. [ Australian troops enter the town of Same in East Timor where fugitive East Timorese army officer Alfredo Reinado was located with orders to arrest Reinado from the President of East Timor Xanana Gusmao. Reinado evades capture but five of his men are killed in the Battle of Same. ](/news/2007/03/4/australian-troops-enter-the-town-of-same-in-east-timor-where-fugitive-east-timorese-army-officer-alfredo-reinado-was-located-with-orders-to.md) _Context: Australia, East Timor_
+3. [ Brigadier Mick Slater, the commander of Australian troops in East Timor warns that a humanitarian disaster could happen in that nation, unless housing for refugees fleeing the unrest in Dili can be arranged before the approaching wet season. ](/news/2006/10/25/brigadier-mick-slater-the-commander-of-australian-troops-in-east-timor-warns-that-a-humanitarian-disaster-could-happen-in-that-nation-unl.md) _Context: Australia, East Timor_
+4. [ Australia calls for more South East Asian troops and police to help quell civil unrest in East Timor. ](/news/2006/06/5/australia-calls-for-more-south-east-asian-troops-and-police-to-help-quell-civil-unrest-in-east-timor.md) _Context: Australia, East Timor_
+5. [ After six years, the last United Nations peacekeepers have left East Timor. ](/news/2005/05/20/after-six-years-the-last-united-nations-peacekeepers-have-left-east-timor.md) _Context: East Timor, peacekeepers_
+6. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: Australia_
+7. [Australia adds stricter requirements to its citizenship application process, including harder tests on English language skills and the requirement that a migrant be able to demonstrate "Australian values". ](/news/2017/04/20/australia-adds-stricter-requirements-to-its-citizenship-application-process-including-harder-tests-on-english-language-skills-and-the-requi.md) _Context: Australia_
+8. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Australia_
+9. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Australia_
+10. [Elections are held in East Timor to vote for the nation's 4th President. Francisco Guterres, runner-up in the 2007 and 2012 elections, is expected to win due to the support of Xanana Gusmao. ](/news/2017/03/20/elections-are-held-in-east-timor-to-vote-for-the-nation-s-4th-president-francisco-guterres-runner-up-in-the-2007-and-2012-elections-is-ex.md) _Context: East Timor_

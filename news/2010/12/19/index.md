@@ -1,0 +1,73 @@
+## [2010-12-19](/news/2010/12/19/index.md)
+
+### [Sri Lanka lifts a ban on a United Nations war crimes panel visiting the country. ](/news/2010/12/19/sri-lanka-lifts-a-ban-on-a-united-nations-war-crimes-panel-visiting-the-country.md)
+_Context: Sri Lanka, United Nations_
+
+### [Two rebel groups in Somalia&ndash;al-Shabaab and the Islamic Party&ndash;announce plans to merge to try to topple the UN-backed Transitional Federal Government. ](/news/2010/12/19/two-rebel-groups-in-somalia-ndash-al-shabaab-and-the-islamic-party-ndash-announce-plans-to-merge-to-try-to-topple-the-un-backed-transitional.md)
+_Context: Somalia, Transitional Federal Government, United Nations, al-Shabaab_
+
+### [Stars appeared at the red carpet closing ceremony of the 7th Dubai International Film Festival. ](/news/2010/12/19/stars-appeared-at-the-red-carpet-closing-ceremony-of-the-7th-dubai-international-film-festival.md)
+_Context: Dubai International Film Festival_
+
+### [Hundreds of small investors engage in protest activities in Dhaka following the steepest daily fall in the stock exchange. ](/news/2010/12/19/hundreds-of-small-investors-engage-in-protest-activities-in-dhaka-following-the-steepest-daily-fall-in-the-stock-exchange.md)
+Hundreds of small investors throw bricks and march in the streets of the Bangladeshi capital Dhaka, after the stock exchange saw its steepest ever fall in a day.
+
+### [60 Minutes, an influential news program, runs a segment with Meredith Whitney a bank analyst credited with a timely bearish call in 2008, in which she predicts hundreds of millions of dollars worth of defaults by U.S. municipalities. ](/news/2010/12/19/60-minutes-an-influential-news-program-runs-a-segment-with-meredith-whitney-a-bank-analyst-credited-with-a-timely-bearish-call-in-2008-in.md)
+In an interview broadcast on &ldquo;60 Minutes&rdquo; Sunday night, Whitney, who runs the Meredith Whitney Advisory Group, argued that the $3 trillion municipal bond market faces the immediate threat of hundreds of billions of dollars in defaults. That notion has put the investment community on the defensive Monday, as bankers and analysts scramble to reassure investors and clients that the market isn&rsquo;t about to fall to pieces. 
+
+### [At least 28 people are killed and dozens more are injured following an explosion on a PEMEX oil pipeline in San Martin Texmelucan, Puebla, Mexico. ](/news/2010/12/19/at-least-28-people-are-killed-and-dozens-more-are-injured-following-an-explosion-on-a-pemex-oil-pipeline-in-san-martan-texmelucan-puebla.md)
+At least 28 people have been killed and many injured in an explosion on an oil pipeline in central Mexico, officials say.
+
+### [15 people, including 9 nursing students, are killed while 12 others are injured in an blaze that gobbles up two buildings in Tuguegarao City, Cagayan province in northern Philippines. ](/news/2010/12/19/15-people-including-9-nursing-students-are-killed-while-12-others-are-injured-in-an-blaze-that-gobbles-up-two-buildings-in-tuguegarao-city.md)
+A fire at a budget hotel in the northern Philippines has killed 15 people and injured 12, officials say.
+
+### [8 people are seriously injured when a tour bus carrying a church group lost control, slides off a road and rolls onto its side on an icy highway in the U.S. state of Colorado. ](/news/2010/12/19/8-people-are-seriously-injured-when-a-tour-bus-carrying-a-church-group-lost-control-slides-off-a-road-and-rolls-onto-its-side-on-an-icy-hig.md)
+_Context: Colorado, state_
+
+### [3 people are killed as blizzards and freezing temperatures hit Italy. ](/news/2010/12/19/3-people-are-killed-as-blizzards-and-freezing-temperatures-hit-italy.md)
+_Context: Italian_
+
+### [Flights in and out of Heathrow Airport are at a virtual standstill as severe weather conditions continue across the United Kingdom. ](/news/2010/12/19/flights-in-and-out-of-heathrow-airport-are-at-a-virtual-standstill-as-severe-weather-conditions-continue-across-the-united-kingdom.md)
+Severe disruption caused by freezing weather continues, as Heathrow cancels hundreds of flights and Eurostar queues spill onto the streets.
+
+### [The Guatemalan military declares a state of siege in the department of Alta Verapaz to reclaim control of cities controlled by the Los Zetas Mexican drug gang. ](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.md)
+_Context: Alta Verapaz, Guatemala, Guatemalan Military, Los Zetas, Mexico, state of siege_
+
+### [Approximately 107 people are charged with possessing offensive child pornography in Austria. ](/news/2010/12/19/approximately-107-people-are-charged-with-possessing-offensive-child-pornography-in-austria.md)
+More than 100 people are charged with child sex abuse offences in Austria after police seize material from computers across the country.
+
+### [Lawyers for Wikileaks's founder Julian Assange express anger that incriminating police files regarding Assange's alleged sexual assault of two Swedish women were published in The Guardian newspaper, which has used him as its source for hundreds of leaked US embassy cables. ](/news/2010/12/19/lawyers-for-wikileaksas-founder-julian-assange-express-anger-that-incriminating-police-files-regarding-assangeas-alleged-sexual-assault.md)
+_Context: 250,000 documents, Julian Assange, The Guardian, WikiLeaks, sexual assault_
+
+### [Venezuela once again expresses its disapproval of Larry Palmer, the man who may become the next US ambassador to the country, and says it will arrest and deport him upon arrival due to a months long disagreement following Palmer's comments on the Venezuelan military. ](/news/2010/12/19/venezuela-once-again-expresses-its-disapproval-of-larry-palmer-the-man-who-may-become-the-next-us-ambassador-to-the-country-and-says-it-wi.md)
+Venezuela reiterates its opposition to the man likely to become the next US ambassador and vows to send him home.
+
+### [Cote d'Ivoire:The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-pthe-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-the.md)
+UN&#x20;chief&#x20;Ban&#x20;Ki-moon&#x20;has&#x20;rejected&#x20;Ivorian&#x20;President&#x20;Laurent&#x20;Gbagbo&#x27;s&#x20;demand&#x20;to&#x20;withdraw&#x20;peacekeepers&#x20;after&#x20;the&#x20;UN&#x20;backed&#x20;Gbagbo&#x27;s&#x20;rival&#x20;as&#x20;the&#x20;winner&#x20;of&#x20;a&#x20;Nov.&#x20;28&#x20;presidential&#x20;vote.
+
+### [A United Nations Security Council meeting regarding the situation in the Korean Peninsula ends without agreement. ](/news/2010/12/19/a-united-nations-security-council-meeting-regarding-the-situation-in-the-korean-peninsula-ends-without-agreement.md)
+The U.N. Security Council met in emergency session on Sunday to try to cool tensions on the Korean Peninsula, but the five big powers were split on whether to publicly blame North Korea for the crisis.
+
+### [Chinese Premier Wen Jiabao addresses a special joint session of Parliament in Islamabad, praising Pakistan for its efforts in combating terrorism. ](/news/2010/12/19/chinese-premier-wen-jiabao-addresses-a-special-joint-session-of-parliament-in-islamabad-praising-pakistan-for-its-efforts-in-combating-terr.md)
+Prime Minister Wen Jiabao lavishly praised Pakistan’s efforts to combat terrorism and promised to further economic cooperation between the two countries.
+
+### [Belarusian presidential election, 2010:Belarus votes.Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-pbelarus-votes-pthousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters-i.md)
+Thousands of opposition protesters in Belarus try to storm the main government building, as President Lukashenko is declared winner of disputed elections.
+
+### [Sachin Tendulkar of the Indian cricket team becomes the first player in the history of Test cricket to score 50 centuries in test matches, during a match against South Africa at SuperSport Park in Centurion in Gauteng Province. ](/news/2010/12/19/sachin-tendulkar-of-the-indian-cricket-team-becomes-the-first-player-in-the-history-of-test-cricket-to-score-50-centuries-in-test-matches-d.md)
+_Context: Centurion, Gauteng Province, Indian cricket team, Sachin Tendulkar, South Africa, SuperSport Park, century, test cricket_
+
+### [Disappointed fans of unsuccessful 2010 FIFA Club World Cup finalists TP Mazembe express their frustration with Chinese businesses, though no one is injured. ](/news/2010/12/19/disappointed-fans-of-unsuccessful-2010-fifa-club-world-cup-finalists-tp-mazembe-express-their-frustration-with-chinese-businesses-though-no.md)
+Police fire shots to disperse disgruntled fans in DR Congo, after TP Mazembe lose 3-0 to Inter Milan in the Club World Cup final.
+
+### [Sir Alex Ferguson becomes the longest serving manager of Manchester United F.C.. ](/news/2010/12/19/sir-alex-ferguson-becomes-the-longest-serving-manager-of-manchester-united-f-c.md)
+_Context: Manchester United, Sir Alex Ferguson_
+
+### [Tony McCoy wins 2010 BBC Sports Personality of the Year Award, with Phil Taylor 2nd and Jessica Ennis 3rd at the National Exhibition Centre in Birmingham. ](/news/2010/12/19/tony-mccoy-wins-2010-bbc-sports-personality-of-the-year-award-with-phil-taylor-2nd-and-jessica-ennis-3rd-at-the-national-exhibition-centre.md)
+_Context: Award, Jessica Ennis, National Exhibition Centre, Phil Taylor, Tony McCoy_
+
+### [The Philadelphia Eagles overcome a 4th quarter 21-point deficit to defeat the New York Giants 38-31 after a DeSean Jackson walk-off punt return for a touchdown in the Miracle at the New Meadowlands. ](/news/2010/12/19/the-philadelphia-eagles-overcome-a-4th-quarter-21-point-deficit-to-defeat-the-new-york-giants-38-31-after-a-desean-jackson-walk-off-punt-ret.md)
+_Context: DeSean Jackson, Miracle at the New Meadowlands, New York Giants, Philadelphia Eagles_
+
+## [Previous Day...](/news/2010/12/18/index.md)
+

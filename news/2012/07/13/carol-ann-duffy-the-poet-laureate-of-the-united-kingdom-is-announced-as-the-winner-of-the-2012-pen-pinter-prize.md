@@ -1,0 +1,16 @@
+### [2012-07-13](/news/2012/07/13/index.md)
+
+# Carol Ann Duffy, the Poet Laureate of the United Kingdom, is announced as the winner of the 2012 PEN/Pinter Prize. 
+
+Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being awarded the 2012 Pen Pinter Prize in memory of the playwright Harold Pinter.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18817567)
+
+### Related:
+
+1. [Carol Ann Duffy, Jeanette Winterson, Simon Armitage, Melvin Burgess and the creator of ''Coronation Street'' are among signatories calling for the destruction of books to stop in Manchester. ](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armitage-melvin-burgess-and-the-creator-of-coronation-street-are-among-signatories-calling-f.md) _Context: Carol Ann Duffy_
+2. [Hanif Kureishi is awarded the PEN/Pinter prize. ](/news/2010/09/17/hanif-kureishi-is-awarded-the-pen-pinter-prize.md) _Context: PEN/Pinter Prize_
+3. [ Carol Ann Duffy becomes the United Kingdom's first female Poet Laureate. ](/news/2009/05/1/carol-ann-duffy-becomes-the-united-kingdom-s-first-female-poet-laureate.md) _Context: Carol Ann Duffy_

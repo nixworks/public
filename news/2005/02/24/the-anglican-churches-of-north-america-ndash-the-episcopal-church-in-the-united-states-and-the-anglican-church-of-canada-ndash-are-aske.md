@@ -1,0 +1,23 @@
+### [2005-02-24](/news/2005/02/24/index.md)
+
+#  The Anglican Churches of North America &ndash; the Episcopal Church in the United States and the Anglican Church of Canada &ndash; are asked to voluntarily withdraw their members from the Anglican Consultative Council until after the next Lambeth Conference in 2008. This is viewed as an ultimatum to the churches to bring their policies into line with the worldwide Anglican Communion, following the ordination of the first gay bishop in New Hampshire and the blessing of same-sex unions by the Canadian church, and presages a schism if they do not comply. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/4296373.stm)
+
+### Related:
+
+1. [ Rowan Williams, Archbishop of Canterbury and spiritual head of the Anglican community, declines to invite gay Bishop of New Hampshire Gene Robinson and unrecognized conservative Bishop Martyn Minns of the Convocation of Anglicans in North America to the 2008 Lambeth Conference.  ](/news/2007/05/22/rowan-williams-archbishop-of-canterbury-and-spiritual-head-of-the-anglican-community-declines-to-invite-gay-bishop-of-new-hampshire-gene.md) _Context: Gene Robinson, Lambeth Conference, New Hampshire_
+2. [ The bishops of the United States Episcopal Church agree to "exercise restraint" by not consecrating more gay bishops or authorizing rites for the blessing of same-sex unions in order to prevent a schism in the Anglican Church worldwide. ](/news/2007/09/26/the-bishops-of-the-united-states-episcopal-church-agree-to-exercise-restraint-by-not-consecrating-more-gay-bishops-or-authorizing-rites-f.md) _Context: Anglican Church, United States Episcopal Church_
+3. [The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _Context: New Hampshire_
+4. [Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. ](/news/2016/07/12/vermont-senator-bernie-sanders-endorses-democratic-party-rival-hillary-clinton-for-president-at-a-rally-in-new-hampshire-effectively-suspen.md) _Context: New Hampshire_
+5. [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md) _Context: New Hampshire_
+6. [Voters in the state of New Hampshire go to the polls for the first primary election in this year's presidential cycle. ](/news/2016/02/9/voters-in-the-state-of-new-hampshire-go-to-the-polls-for-the-first-primary-election-in-this-year-s-presidential-cycle.md) _Context: New Hampshire_
+7. [White supremacists in the U.S. state of New Hampshire create a super PAC to support U.S. presidential candidate Donald Trump's presidential campaign. ](/news/2016/02/5/white-supremacists-in-the-u-s-state-of-new-hampshire-create-a-super-pac-to-support-u-s-presidential-candidate-donald-trump-s-presidential.md) _Context: New Hampshire_
+8. [Crews rescue 48 people from two Cannon Mountain tram cars stuck this afternoon about 40 feet off the ground in New Hampshire sub-zero temperatures in the White Mountains. ](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain-tram-cars-stuck-this-afternoon-about-40-feet-off-the-ground-in-new-hampshire-sub-zero-temper.md) _Context: New Hampshire_
+9. [In the New Hampshire's U.S. District Court, the former medical technician David Kwiatkowski is sentenced to 39 years in prison for infecting unknown numbers of patients in various states with hepatitis C through the reuse of his contaminated syringes. ](/news/2013/12/2/in-the-new-hampshire-s-u-s-district-court-the-former-medical-technician-david-kwiatkowski-is-sentenced-to-39-years-in-prison-for-infecting.md) _Context: New Hampshire_
+10. [A New Hampshire federal grand jury indicts David Kwiatkowski, 33, a former employee of Exeter Hospital in Exeter, New Hampshire, on fraud and product-tampering charges in connection with an outbreak of hepatitis C that sickened more than 30 people and caused concern in 7 states. ](/news/2012/11/30/a-new-hampshire-federal-grand-jury-indicts-david-kwiatkowski-33-a-former-employee-of-exeter-hospital-in-exeter-new-hampshire-on-fraud-an.md) _Context: New Hampshire_

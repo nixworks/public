@@ -1,0 +1,24 @@
+### [2012-07-20](/news/2012/07/20/index.md)
+
+# The custody of three anti-Putin protesters from the Pussy Riot group is extended for another six months before their trial begins. 
+
+
+
+
+### Source:
+
+1. [RIA Novosti](http://en.ria.ru/society/20120720/174700687.html)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gqzAmwHZ6NEJcC2uAyLtPPtoD29Q?docId=e662bdb84beb4a9da28ed353c62615ee)
+
+### Related:
+
+1. [Three women from Russian feminist punk rock band Pussy Riot go on trial in Moscow for holding an "unsanctioned performance" which called for the ouster of Vladimir Putin at Moscow's Christ the Saviour Cathedral in February. ](/news/2012/07/30/three-women-from-russian-feminist-punk-rock-band-pussy-riot-go-on-trial-in-moscow-for-holding-an-unsanctioned-performance-which-called-for.md) _Context: Pussy Riot, Vladimir Putin_
+2. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Vladimir Putin_
+3. [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md) _Context: Vladimir Putin_
+4. [When Russian President Vladimir Putin, during the January telephone conversation with President Donald Trump,  raised the possibility of extending the 2010  New START treaty that caps U.S. and Russian deployment of nuclear warheads, President Trump    declined, stating that this treaty  is a bad deal for the United States. ](/news/2017/02/9/when-russian-president-vladimir-putin-during-the-january-telephone-conversation-with-president-donald-trump-raised-the-possibility-of-ext.md) _Context: Vladimir Putin_
+5. [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md) _Context: Vladimir Putin_
+6. [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that   civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized.  Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md) _Context: Vladimir Putin_
+7. [A declassified U.S. intelligence report claims that Vladimir Putin ordered a campaign to influence the U.S. presidential election against Democratic Party candidate Hillary Clinton. ](/news/2017/01/6/a-declassified-u-s-intelligence-report-claims-that-vladimir-putin-ordered-a-campaign-to-influence-the-u-s-presidential-election-against-de.md) _Context: Vladimir Putin_
+8. [After 35 Russian diplomats are expelled from the United States, Russia's foreign minister Sergey Lavrov recommends expelling 35 American diplomats. Russian President Vladimir Putin rejects Lavrov's recommendation and expresses a desire to restore relations between the two countries. ](/news/2016/12/30/after-35-russian-diplomats-are-expelled-from-the-united-states-russia-s-foreign-minister-sergey-lavrov-recommends-expelling-35-american-dip.md) _Context: Vladimir Putin_
+9. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Vladimir Putin_
+10. [Russia-United States relations, APEC Peru 2016 President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/russiaaunited-states-relations-apec-peru-2016-ppresident-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacifi.md) _Context: Vladimir Putin_

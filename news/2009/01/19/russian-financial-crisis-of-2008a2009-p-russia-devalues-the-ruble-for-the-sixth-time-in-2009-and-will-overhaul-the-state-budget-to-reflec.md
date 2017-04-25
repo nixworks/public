@@ -1,0 +1,23 @@
+### [2009-01-19](/news/2009/01/19/index.md)
+
+#  Russian financial crisis of 2008-2009: Russia devalues the ruble for the sixth time in 2009 and will overhaul the state budget to reflect the sharp decrease in the price of petroleum, its key export. 
+
+Prime Minister Vladimir Putinordered the 2009 budget be reworked at half the originallyplanned oil price on Monday, as Russia pressed on with now-dailyrouble devaluations to adjust to the worsening economic outlook.
+
+
+### Source:
+
+1. [Reuters](http://uk.reuters.com/article/marketsNewsUS/idUKLJ47630320090119)
+
+### Related:
+
+1. [A court in southern Russia finds Ukrainian pilot Nadiya Savchenko guilty of being complicit in the killing of two Russian journalists, killing civilians and illegal border crossing and is sentenced to 22 years in prison and a fine of 30,000 rubles. Savchenko denies all the charges and the Ukrainian government said that they would continue to press for her release. ](/news/2016/03/22/a-court-in-southern-russia-finds-ukrainian-pilot-nadiya-savchenko-guilty-of-being-complicit-in-the-killing-of-two-russian-journalists-killi.md) _Context: Russia, rubles_
+2. [Russia's natural gas export monopoly Gazprom announces that it will restart gas supply to Belarus in full following payment of the debt. ](/news/2010/06/24/russia-s-natural-gas-export-monopoly-gazprom-announces-that-it-will-restart-gas-supply-to-belarus-in-full-following-payment-of-the-debt.md) _Context: Russia, export_
+3. [ Russian President Dmitry Medvedev calls for an overhaul of the Russian economy and democratic modernisation in an annual state of nation address. ](/news/2009/11/12/russian-president-dmitry-medvedev-calls-for-an-overhaul-of-the-russian-economy-and-democratic-modernisation-in-an-annual-state-of-nation-ad.md) _Context: Russia, Russian economy_
+4. [ Cuba and Russia sign a deal which allows Russia to begin oil exploration in the Gulf of Mexico. ](/news/2009/07/29/cuba-and-russia-sign-a-deal-which-allows-russia-to-begin-oil-exploration-in-the-gulf-of-mexico.md) _Context: Russia, crude oil_
+5. [ Thousands of Russians protest in response to the government's handling of the current economic crisis. ](/news/2009/01/31/thousands-of-russians-protest-in-response-to-the-government-s-handling-of-the-current-economic-crisis.md) _Context: Russia, Russian financial crisis of 2008–2009_
+6. [ Russian President Dmitry Medvedev criticizes Prime Minister Vladimir Putin's government for not acting quickly enough to deal with the current financial crisis. ](/news/2009/01/11/russian-president-dmitry-medvedev-criticizes-prime-minister-vladimir-putin-s-government-for-not-acting-quickly-enough-to-deal-with-the-curr.md) _Context: Russia, Russian financial crisis of 2008–2009_
+7. [ 2007 Russian North Pole expedition: A Russian expedition with the aim of claiming petroleum beneath the Arctic reaches the North Pole. ](/news/2007/08/1/2007-russian-north-pole-expedition-a-russian-expedition-with-the-aim-of-claiming-petroleum-beneath-the-arctic-reaches-the-north-pole.md) _Context: Russia, crude oil_
+8. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: Russia_
+9. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Russia_
+10. [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md) _Context: Russia_

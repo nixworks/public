@@ -1,0 +1,23 @@
+### [2007-09-18](/news/2007/09/18/index.md)
+
+#  O.J. Simpson is charged with several felonies in Las Vegas, Nevada. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/newsOne/idUSN1421498820070919)
+
+### Related:
+
+1. [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md) _Context: Las Vegas, Nevada, O. J. Simpson, felons_
+2. [In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office.  ](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.md) _Context: felons_
+3. [British Airways Flight 2276, a Boeing 777 aircraft, suffers an uncontained engine failure and fire on take-off from McCarran International Airport, Las Vegas, Nevada, United States. Fourteen of the 172 on board are injured and taken to a nearby hospital. ](/news/2015/09/8/british-airways-flight-2276-a-boeing-777-aircraft-suffers-an-uncontained-engine-failure-and-fire-on-take-off-from-mccarran-international-a.md) _Context: Las Vegas, Nevada_
+4. [ Joyce Mitchell, who had smuggled hacksaw blades inside frozen meat to Richard Matt and David Sweat in prison, before withdrawing as their getaway driver, pleads guilty to a first-degree felony of promoting prison contraband and to a misdemeanor count of fourth-degree criminal facilitation. She faces up to 7 years in prison when sentenced. ](/news/2015/07/28/joyce-mitchell-who-had-smuggled-hacksaw-blades-inside-frozen-meat-to-richard-matt-and-david-sweat-in-prison-before-withdrawing-as-their-g.md) _Context: felons_
+5. [Texas Governor Rick Perry is indicted on felony charges for abuse of power. He is accused of coercing a District Attorney who had been convicted of drunk driving to resign by threatening to veto funding for state public corruption prosecutors. ](/news/2014/08/15/texas-governor-rick-perry-is-indicted-on-felony-charges-for-abuse-of-power-he-is-accused-of-coercing-a-district-attorney-who-had-been-convi.md) _Context: felons_
+6. [Three people, including two police officers, are shot dead by a couple in a shooting in a pizzeria in the US city of Las Vegas, Nevada. The woman (Amanda Miller) kills her husband (Jerad Miller) and then herself. ](/news/2014/06/8/three-people-including-two-police-officers-are-shot-dead-by-a-couple-in-a-shooting-in-a-pizzeria-in-the-us-city-of-las-vegas-nevada-the.md) _Context: Las Vegas, Nevada_
+7. [Former professional Major League Baseball slugger Jose Canseco, 48, a former Oakland Athletics Rookie of the Year (who also played for six other teams, from 1985 to 2001, and admitted to steroid use) is accused of sexual assault in Las Vegas, Nevada. He has not yet been formally charged, and claimed on social media that the woman's accusations were false. ](/news/2013/05/22/former-professional-major-league-baseball-slugger-jose-canseco-48-a-former-oakland-athletics-rookie-of-the-year-who-also-played-for-six-o.md) _Context: Las Vegas, Nevada_
+8. [A man suspected of a shooting at the New River Community College in Christiansburg, Virginia, United States, is charged with multiple counts of malicious wounding and use of a firearm during the commission of a felony, and held without bail. ](/news/2013/04/13/a-man-suspected-of-a-shooting-at-the-new-river-community-college-in-christiansburg-virginia-united-states-is-charged-with-multiple-counts.md) _Context: felons_
+9. [The 2012 Academy of Country Music Awards are held in the US city of Las Vegas, Nevada, with the Eli Young Band winning song of the year for "Crazy Girl" and Taylor Swift winning Entertainer of the Year. ](/news/2012/04/1/the-2012-academy-of-country-music-awards-are-held-in-the-us-city-of-las-vegas-nevada-with-the-eli-young-band-winning-song-of-the-year-for.md) _Context: Las Vegas, Nevada_
+10. [U.S. actress Halle Berry is granted a restraining order against a convicted felon arrested on her Hollywood Hills property on Monday. ](/news/2011/07/12/u-s-actress-halle-berry-is-granted-a-restraining-order-against-a-convicted-felon-arrested-on-her-hollywood-hills-property-on-monday.md) _Context: felons_

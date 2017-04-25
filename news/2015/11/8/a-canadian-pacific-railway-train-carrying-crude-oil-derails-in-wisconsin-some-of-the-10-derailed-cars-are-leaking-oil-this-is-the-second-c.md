@@ -1,0 +1,24 @@
+### [2015-11-8](/news/2015/11/8/index.md)
+
+# A Canadian Pacific Railway train carrying crude oil derails in Wisconsin; some of the 10 derailed cars are leaking oil. This is the second consecutive day for a freight train crash in the state. Yesterday, a BNSF Railway train wreck spilled thousands of gallons of ethanol. No injuries were reported in either accident. 
+
+
+
+
+### Source:
+
+1. [WBAY](http://wbay.com/2015/11/08/wisconsin-train-derailment-leaks-ethanol-into-the-mississippi-river/)
+2. [AP via Houston Chronicle](http://www.chron.com/news/science/article/Train-derailment-spilled-thousands-of-gallons-of-6618225.php)
+
+### Related:
+
+1. [As expected, during a visit to Kenosha, Wisconsin, President Donald Trump signed an executive order requiring U.S. federal agencies to take measures aimed at protecting U.S. workers, boost protections for some U.S. products, and examine the H-1B visa program which affords foreign workers opportunities for employment in U.S. specialty fields. ](/news/2017/04/18/as-expected-during-a-visit-to-kenosha-wisconsin-president-donald-trump-signed-an-executive-order-requiring-u-s-federal-agencies-to-take.md) _Context: Wisconsin_
+2. [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md) _Context: crude oil_
+3. [Non-Organization of Petroleum Exporting Countries agree to cut oil output which will help increase the price of petroleum products in the world market. ](/news/2016/12/11/non-organization-of-petroleum-exporting-countries-agree-to-cut-oil-output-which-will-help-increase-the-price-of-petroleum-products-in-the-wo.md) _Context: crude oil_
+4. [The Jill Stein-initiated  recounts begin in Wisconsin. ](/news/2016/12/1/the-jill-stein-initiated-recounts-begin-in-wisconsin.md) _Context: Wisconsin_
+5. [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md) _Context: Wisconsin_
+6. [The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recounts-by-jill-stein-s-campaign-in-michigan-pennsylvania-and-wi.md) _Context: Wisconsin_
+7. [Jill Stein's campaign to hold recounts in Michigan, Pennsylvania, and Wisconsin receives grassroots support, having crowdfunded millions of dollars through private donations. ](/news/2016/11/25/jill-stein-s-campaign-to-hold-recounts-in-michigan-pennsylvania-and-wisconsin-receives-grassroots-support-having-crowdfunded-millions-of.md) _Context: Wisconsin_
+8. [Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in-michigan-pennsylvania-and-wisconsin.md) _Context: Wisconsin_
+9. [While attempting to create a nanotechnology-based, catalyst-mediated series of chemical reactions to turn carbon dioxide ({{chem|C|O|2}}) (a greenhouse gas) into a usable fuel, scientists at the Department of Energy's Oak Ridge National Laboratory instead discover a single-step process using the surface area of tiny spikes of copper and carbon as a catalyst to turn carbon dioxide into ethanol ({{chem|C|H|3|C|H|2|O|H}}). The reaction may serve as a method to alleviate possible climate change by both decreasing {{chem|C|O|2}} in the atmosphere and by using the ethanol as an additive to fuels to increase efficiency and thereby decrease consumption. ](/news/2016/10/18/while-attempting-to-create-a-nanotechnology-based-catalyst-mediated-series-of-chemical-reactions-to-turn-carbon-dioxide-chem-c-o-2-a.md) _Context: ethanol ({{chem|C|H|3|C|H|2|O|H}})_
+10. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: crude oil_

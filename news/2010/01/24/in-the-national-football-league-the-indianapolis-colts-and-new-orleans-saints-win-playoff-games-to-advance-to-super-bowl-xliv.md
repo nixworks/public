@@ -1,0 +1,23 @@
+### [2010-01-24](/news/2010/01/24/index.md)
+
+# In the National Football League, the Indianapolis Colts and New Orleans Saints win playoff games to advance to Super Bowl XLIV. 
+
+
+
+
+### Source:
+
+1. [AP](http://sports.yahoo.com/nfl/recap;_ylt=AtZcjnVLtI9S6789X1vyq8w5nYcB?gid=20100124018&prov=ap)
+
+### Related:
+
+1. [New Orleans Saints beat the Indianapolis Colts 31-17 to win Super Bowl XLIV. ](/news/2010/02/7/new-orleans-saints-beat-the-indianapolis-colts-31-17-to-win-super-bowl-xliv.md) _Context: Indianapolis Colts, New Orleans Saints, Super Bowl XLIV_
+2. [Deflategate: In American football, the National Football League finds that two New England Patriots employees intentionally deflated footballs used in the American Football Conference game against the Indianapolis Colts and that quarterback Tom Brady was generally aware of the deflation. ](/news/2015/05/6/deflategate-in-american-football-the-national-football-league-finds-that-two-new-england-patriots-employees-intentionally-deflated-footbal.md) _Context: Indianapolis Colts, National Football League_
+3. [New Orleans Saints head coach Sean Payton is suspended for a year without pay while former Saints defensive coordinator Gregg Williams is banned indefinitely from the National Football League for their role in the New Orleans Saints bounty scandal. ](/news/2012/03/21/new-orleans-saints-head-coach-sean-payton-is-suspended-for-a-year-without-pay-while-former-saints-defensive-coordinator-gregg-williams-is-ba.md) _Context: National Football League, New Orleans Saints_
+4. [In American football, the National Football League finds that the New Orleans Saints paid bounties for injuries on opposition players including Kurt Warner and Brett Favre. ](/news/2012/03/2/in-american-football-the-national-football-league-finds-that-the-new-orleans-saints-paid-bounties-for-injuries-on-opposition-players-includ.md) _Context: National Football League, New Orleans Saints_
+5. [In American football, Drew Brees, the quarterback for the New Orleans Saints, breaks the 1984 National Football League record for yards passing in a single season. ](/news/2011/12/26/in-american-football-drew-brees-the-quarterback-for-the-new-orleans-saints-breaks-the-1984-national-football-league-record-for-yards-pass.md) _Context: National Football League, New Orleans Saints_
+6. [Ex National Football League player Darren Sharper is sentenced to 20 years in prison for drugging and raping two women in the American city of Los Angeles, California. Sharper has been accused of attacking a dozen women across the United States. ](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.md) _Context: National Football League_
+7. [U.S. District Judge Jane Triche Milazzo sentences former NFL player Darren Sharper to 18 years in prison in rape and drugging case involving as many as 16 women in several U.S. states. ](/news/2016/08/18/u-s-district-judge-jane-triche-milazzo-sentences-former-nfl-player-darren-sharper-to-18-years-in-prison-in-rape-and-drugging-case-involving.md) _Context: National Football League_
+8. [Attorneys for 80-year old American pro football legend and Hall of Famer Paul Hornung, who has dementia, sue Riddell sports equipment manufacturer, stating its helmets failed to protect Hornung from brain injury. The suit says Hornung suffered multiple concussions as a player and his neurodegenerative disease has been linked to repetitive head trauma. ](/news/2016/07/7/attorneys-for-80-year-old-american-pro-football-legend-and-hall-of-famer-paul-hornung-who-has-dementia-sue-riddell-sports-equipment-manufa.md) _Context: National Football League_
+9. [Former New Orleans Saints defensive end Will Smith is shot dead in a road rage incident. ](/news/2016/04/9/former-new-orleans-saints-defensive-end-will-smith-is-shot-dead-in-a-road-rage-incident.md) _Context: New Orleans Saints_
+10. [In American football, Twitter wins the bidding contest over Amazon, Verizon, and others, for streaming rights to 10 of 16 National Football League (NFL) regular season ''Thursday Night Football Games'', ones that will also be telecast by either CBS or NBC. The league streamed one game last year with Yahoo!. Verizon, meanwhile, already owns the mobile rights to all NFL games which are available to subscribers via a mobile app; the 10 NFL games on Twitter will be free. ](/news/2016/04/5/in-american-football-twitter-wins-the-bidding-contest-over-amazon-verizon-and-others-for-streaming-rights-to-10-of-16-national-football.md) _Context: National Football League_

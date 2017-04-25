@@ -1,0 +1,25 @@
+### [2010-01-11](/news/2010/01/11/index.md)
+
+# Angola makes two arrests over an attack on the Togo national football team in Cabinda Province. 
+
+
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2010/SPORT/football/01/11/african.nations.cup.togo.arrest/)
+2. [Xinhua](http://news.xinhuanet.com/english/2010-01/11/content_12792139.htm)
+3. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/desporto/2010/0/2/Togo-sport-delegation-attackers-captured,8f43c394-97c2-4fe7-ba83-999d1a7db12c.html)
+
+### Related:
+
+1. [Confederation of African Football (CAF) president Issa Hayatou asks his executive committee to lift sanctions imposed on the Togo national football team following an attack on their team bus ahead of the 2010 Africa Cup of Nations in Angola. ](/news/2010/05/7/confederation-of-african-football-caf-president-issa-hayatou-asks-his-executive-committee-to-lift-sanctions-imposed-on-the-togo-national-f.md) _Context: Angola, Togo, Togo national football team attack_
+2. [Manchester City and Togo striker Emmanuel Adebayor announces his retirement from international football at the age of 26, saying he is "still haunted" by the Togo national football team attack which killed three of his colleagues in Angola ahead of the 2010 Africa Cup of Nations three months ago. ](/news/2010/04/12/manchester-city-and-togo-striker-emmanuel-adebayor-announces-his-retirement-from-international-football-at-the-age-of-26-saying-he-is-stil.md) _Context: Angola, Togo, Togo national football team attack_
+3. [The Court of Arbitration for Sport (CAS) rejects the appeal for the inclusion of the Togo national football team in the draw for the 2012 Africa Cup of Nations which resulted from their ban due to the Togo national football team attack prior to the 2010 tournament in Angola. It also says that a new draw will be required if they rule in favor of Togo in upcoming proceedings. ](/news/2010/02/18/the-court-of-arbitration-for-sport-cas-rejects-the-appeal-for-the-inclusion-of-the-togo-national-football-team-in-the-draw-for-the-2012-af.md) _Context: Angola, Togo, Togo national football team attack_
+4. [The Togo national football team is banned for two tournaments and fined $50,000 for withdrawing from the 2010 Africa Cup of Nations after the fatal attack on their team bus in Angola. The Government of Angola and Confederation of African Football are both to be sued by the families of the dead. ](/news/2010/01/30/the-togo-national-football-team-is-banned-for-two-tournaments-and-fined-50-000-for-withdrawing-from-the-2010-africa-cup-of-nations-after-th.md) _Context: Angola, Togo, Togo national football team attack_
+5. [President Faure Gnassingb and national team captain Emmanuel Adebayor are among dignitaries to attend a funeral ceremony held in Lom for the two football officials killed during the Togo national football team attack in Angola. ](/news/2010/01/15/president-faure-gnassingbe-and-national-team-captain-emmanuel-adebayor-are-among-dignitaries-to-attend-a-funeral-ceremony-held-in-lome-for-t.md) _Context: Angola, Togo, Togo national football team attack_
+6. [A court in Angola sentences Joao Antonio Puati to 24 years imprisonment after convicting him in relation to the Togo national football team attack last January. ](/news/2010/12/29/a-court-in-angola-sentences-joao-antonio-puati-to-24-years-imprisonment-after-convicting-him-in-relation-to-the-togo-national-football-team.md) _Context: Angola, Togo national football team attack_
+7. [A convoy carrying Chinese mine workers is attacked in Cabinda Province, Angola, killing two soldiers. ](/news/2010/11/12/a-convoy-carrying-chinese-mine-workers-is-attacked-in-cabinda-province-angola-killing-two-soldiers.md) _Context: Angola, Cabinda Province_
+8. [Angola jails 4 human rights activists - a university professor, priest, lawyer and former police officer - for alleged links to the perpetrators of the Togo national football team attack; Amnesty International and other organisations describe it as a crackdown on criticism. ](/news/2010/08/3/angola-jails-4-human-rights-activists-a-university-professor-priest-lawyer-and-former-police-officer-for-alleged-links-to-the-perpetra.md) _Context: Angola, Togo national football team attack_
+9. [The ban given following the Togo national football team attack ahead of the 2010 Africa Cup of Nations in Angola is lifted with immediate effect as confirmed by the Confederation of African Football (CAF) at a meeting in Cairo. ](/news/2010/05/14/the-ban-given-following-the-togo-national-football-team-attack-ahead-of-the-2010-africa-cup-of-nations-in-angola-is-lifted-with-immediate-ef.md) _Context: Angola, Togo national football team attack_
+10. [Goalkeeper Kodjovi Obilale, shot in the Togo national football team attack prior to the 2010 Africa Cup of Nations in Angola, is to return to France after emergency surgery in Johannesburg. ](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.md) _Context: Angola, Togo national football team attack_

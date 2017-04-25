@@ -1,0 +1,23 @@
+### [2005-05-11](/news/2005/05/11/index.md)
+
+#  Justice officials in Kuwait, with assistance from United Nations war crimes expert Sharif Basyouni, complete an indictment against Saddam Hussein and several former Iraqi officials for crimes against humanity during the 1990 invasion of Kuwait. 
+
+
+
+
+### Source:
+
+1. [Yahoo!](http://news.yahoo.com/s/afp/kuwaitiraqcrimes)
+
+### Related:
+
+1. [The United Nations votes to lift sanctions imposed on Iraq during the Saddam Hussein era. ](/news/2010/12/15/the-united-nations-votes-to-lift-sanctions-imposed-on-iraq-during-the-saddam-hussein-era.md) _Context: Iraq, Saddam Hussein, United Nations_
+2. [ Kuwait names Ali al-Momen as its first ambassador to Iraq since the Gulf War. ](/news/2008/07/17/kuwait-names-ali-al-momen-as-its-first-ambassador-to-iraq-since-the-gulf-war.md) _Context: Gulf War, Iraq, Kuwait_
+3. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq, United Nations_
+4. [The United States Air Force deploys B-52 bombers to Al Udeid Air Base in Qatar to join operations against ISIL in Syria and Iraq. This is the first time they have been stationed in the Middle East since the end of the Gulf War in 1991. ](/news/2016/04/9/the-united-states-air-force-deploys-b-52-bombers-to-al-udeid-air-base-in-qatar-to-join-operations-against-isil-in-syria-and-iraq-this-is-th.md) _Context: Gulf War, Iraq_
+5. [Turkey refuses to withdraw its forces from northern Iraq despite being given a 48 hour ultimatum by Iraq to leave the country. Turkey says the troops are there as part of an international mission to train and equip Iraqi forces to fight against the Islamic State. The Iraqi government says it never invited such a force, and will take its case to the United Nations if they are not pulled out. ](/news/2015/12/7/turkey-refuses-to-withdraw-its-forces-from-northern-iraq-despite-being-given-a-48-hour-ultimatum-by-iraq-to-leave-the-country-turkey-says-t.md) _Context: Iraq, United Nations_
+6. [ In Iraq, a cholera outbreak prompts United Nations agencies UNICEF and the World Health Organization to launch a prevention and treatment campaign.  So far, around 2,200 cases have been confirmed, and some infections have occurred in neighboring countries. ](/news/2015/11/7/in-iraq-a-cholera-outbreak-prompts-united-nations-agencies-unicef-and-the-world-health-organization-to-launch-a-prevention-and-treatment-c.md) _Context: Iraq, United Nations_
+7. [Carrying coffins holding the beheaded bodies of seven ethnic Hazara, thousands of demonstrators from  Afghanistan's different ethnic groups - Pashtun, Tajik, Uzbek, and Hazara -  march on the  Presidential Palace in Kabul,  urging the government to take action against the rising violence against Afghan civilians. The murders, which the United Nations denounced as a potential war crime, have fueled a growing sense of insecurity since the Taliban briefly seized control of  Kunduz in late September. ](/news/2015/11/11/carrying-coffins-holding-the-beheaded-bodies-of-seven-ethnic-hazara-thousands-of-demonstrators-from-afghanistan-s-different-ethnic-groups.md) _Context: United Nations, war crime_
+8. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _Context: United Nations, war crime_
+9. [The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. ](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.md) _Context: Iraq, United Nations_
+10. [The United Nations declares its highest state of emergency in Iraq following the advance of Islamic State of Iraq and the Levant. ](/news/2014/08/14/the-united-nations-declares-its-highest-state-of-emergency-in-iraq-following-the-advance-of-islamic-state-of-iraq-and-the-levant.md) _Context: Iraq, United Nations_

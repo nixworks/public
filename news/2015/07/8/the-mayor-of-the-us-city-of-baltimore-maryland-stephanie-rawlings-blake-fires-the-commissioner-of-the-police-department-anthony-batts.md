@@ -1,0 +1,23 @@
+### [2015-07-8](/news/2015/07/8/index.md)
+
+# The Mayor of the US city of Baltimore, Maryland Stephanie Rawlings-Blake fires the Commissioner of the Police Department, Anthony Batts. 
+
+Mayor Stephanie Rawlings-Blake announced Wednesday that she has fired Police Commissioner Anthony W. Batts.
+
+
+### Source:
+
+1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-batts-fired-20150708-story.html)
+
+### Related:
+
+1. [Two people are killed and at least 15 are hospitalized following a 55-vehicle accident, involving a gas  tanker explosion, on Interstate 95 in Baltimore, Maryland, as cold air causes rain and wet roads to freeze across the Eastern U.S.  Three other deaths are reported from other accidents in the Baltimore-Washington, D.C. area. At least six people have been killed in total on icy roads. ](/news/2016/12/17/two-people-are-killed-and-at-least-15-are-hospitalized-following-a-55-vehicle-accident-involving-a-gas-tanker-explosion-on-interstate-95.md) _Context: Baltimore, Maryland_
+2. [Judge Barry Williams finds Baltimore, Maryland, Police Officer Edward Nero not guilty of all charges. Nero  was accused of second-degree intentional assault, two counts of misconduct in office, and reckless endangerment. Community leaders and elected officials appeal for calm. ](/news/2016/05/23/judge-barry-williams-finds-baltimore-maryland-police-officer-edward-nero-not-guilty-of-all-charges-nero-was-accused-of-second-degree-int.md) _Context: Baltimore, Maryland_
+3. [Exaggerator wins the Preakness Stakes at Pimlico Race Course in Baltimore, Maryland. ](/news/2016/05/21/exaggerator-wins-the-preakness-stakes-at-pimlico-race-course-in-baltimore-maryland.md) _Context: Baltimore, Maryland_
+4. [Maryland state elections officials decertify the results of Baltimore's April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places. ](/news/2016/05/12/maryland-state-elections-officials-decertify-the-results-of-baltimoreas-april-26-2016-primary-election-because-for-example-the-number.md) _Context: Baltimore, Maryland_
+5. [A helicopter crashes near Baltimore-Washington International Airport in Baltimore, Maryland. However, no fatalities are reported. ](/news/2016/04/16/a-helicopter-crashes-near-baltimoreawashington-international-airport-in-baltimore-maryland-however-no-fatalities-are-reported.md) _Context: Baltimore, Maryland_
+6. [After the jury fails to reach a unanimous decision, a Baltimore, Maryland, judge declares a mistrial in the trial of police officer William Porter, the first officer to be charged in the death of Freddie Gray.  ](/news/2015/12/16/after-the-jury-fails-to-reach-a-unanimous-decision-a-baltimore-maryland-judge-declares-a-mistrial-in-the-trial-of-police-officer-william.md) _Context: Baltimore, Maryland_
+7. [A Baltimore, Maryland deadlocked jury was told by the trial judge to resume deliberations after closing arguments in the first trial of police officer William Porter, charged in the death of Freddie Gray.  With demonstrations and unrest following the death, the city has cancelled leave for police officers and the mayor has called for calm when a verdict is announced. ](/news/2015/12/15/a-baltimore-maryland-deadlocked-jury-was-told-by-the-trial-judge-to-resume-deliberations-after-closing-arguments-in-the-first-trial-of-poli.md) _Context: Baltimore, Maryland_
+8. [Jury selection begins for the trial of William Porter, a Baltimore, Maryland police officer charged with manslaughter and other charges surrounding the April 19 death of Freddie Gray.  Porter is the first of six officers to be tried. ](/news/2015/11/30/jury-selection-begins-for-the-trial-of-william-porter-a-baltimore-maryland-police-officer-charged-with-manslaughter-and-other-charges-surr.md) _Context: Baltimore, Maryland_
+9. [A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-police-custody-all-six.md) _Context: Baltimore, Police Department_
+10. [Marilyn Mosby, the State Attorney for Baltimore, Maryland, rules that the death of Freddie Gray was a homicide and six officers of the Baltimore Police Department had been negligent in his death. ](/news/2015/05/1/marilyn-mosby-the-state-attorney-for-baltimore-maryland-rules-that-the-death-of-freddie-gray-was-a-homicide-and-six-officers-of-the-balti.md) _Context: Baltimore, Police Department_

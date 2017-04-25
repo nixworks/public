@@ -1,0 +1,21 @@
+### [2015-02-12](/news/2015/02/12/index.md)
+
+# Reporters without Borders's annual review finds "(t)here was a drastic decline in freedom of information in 2014" because of information wars and action by non-state groups. 
+
+Media freedom suffered a “drastic decline” worldwide last year in part because of extremist groups such as ISIS and Boko Haram, the watchdog group Reporters without Borders said in its annual evaluation released Thursday.
+
+
+### Source:
+
+1. [Reporters without Borders](http://en.rsf.org/world-press-freedom-index-2015-12-02-2015,47573.html)
+2. [The Daily Star'' (Lebanon](http://www.dailystar.com.lb/News/World/2015/Feb-13/287288-press-freedom-sees-worldwide-drastic-decline.ashx)
+
+### Related:
+
+1. [Reporters Without Borders releases their annual report regarding press freedom around the world with 71 journalists killed in 2013 so far. The deadliest countries are Syria, India, the Philippines, Pakistan, and Somalia while the worst jailers are China, Turkey, Eritrea, Iran, and Syria. ](/news/2013/12/19/reporters-without-borders-releases-their-annual-report-regarding-press-freedom-around-the-world-with-71-journalists-killed-in-2013-so-far-t.md) _Context: Reporters without Borders's_
+2. [United States diplomatic cables leak:Reporters Without Borders condemns "the blocking, cyber-attacks and political pressure" against the WikiLeaks website, describing it as the first "attempt at the international community level to censor a website dedicated to the principle of transparency" and comparing the behaviour of France and the United States to that of China. American payment service provider PayPal cuts off the account the WikiLeaks website uses to collect donations. ](/news/2010/12/4/united-states-diplomatic-cables-leak-preporters-without-borders-condemns-the-blocking-cyber-attacks-and-political-pressure-against-the-wi.md) _Context: Reporters without Borders's_
+3. [ The Olympic Flame of the 2008 Summer Olympics is lit in Olympia, despite disruption by three protesters from Reporters Without Borders, among whom was Robert Mnard.  ](/news/2008/03/24/the-olympic-flame-of-the-2008-summer-olympics-is-lit-in-olympia-despite-disruption-by-three-protesters-from-reporters-without-borders-amo.md) _Context: Reporters without Borders's_
+4. [ Alan Johnston, a BBC News journalist, begins his third week in captivity, making him the longest-held foreign hostage since kidnappings began in Gaza. Reporters Without Borders urges the Arab League to make an appeal for his release at an upcoming summit. ](/news/2007/03/26/alan-johnston-a-bbc-news-journalist-begins-his-third-week-in-captivity-making-him-the-longest-held-foreign-hostage-since-kidnappings-beg.md) _Context: Reporters without Borders's_
+5. [ Google's launch of a new, self-censored search engine in China is a "black day" for freedom of expression, says leading international media watchdog Reporters without Borders. ](/news/2006/01/25/google-s-launch-of-a-new-self-censored-search-engine-in-china-is-a-black-day-for-freedom-of-expression-says-leading-international-media.md) _Context: Reporters without Borders's_
+6. [ Al Jazeera bombing memo: Reporters Without Borders voice concerns over the Al Jazeera bombing memo and their shock over the reporting ban placed by the UK government on the issue. ](/news/2005/11/25/al-jazeera-bombing-memo-p-reporters-without-borders-voice-concerns-over-the-al-jazeera-bombing-memo-and-their-shock-over-the-reporting-ban.md) _Context: Reporters without Borders's_
+7. [ Reporters Without Borders accuses Yahoo! of assisting the People's Republic of China government to identify Shi Tao, the journalist sentenced to 10 years jail in April 2005. Shi released on the Internet a government letter which advised the Chinese media not to report on the 15th anniversary of the Tiananmen Square protests. ](/news/2005/09/8/reporters-without-borders-accuses-yahoo-of-assisting-the-people-s-republic-of-china-government-to-identify-shi-tao-the-journalist-sentenc.md) _Context: Reporters without Borders's_

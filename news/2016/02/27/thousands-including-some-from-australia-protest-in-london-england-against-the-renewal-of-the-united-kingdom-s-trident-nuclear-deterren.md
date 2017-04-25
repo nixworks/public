@@ -1,0 +1,24 @@
+### [2016-02-27](/news/2016/02/27/index.md)
+
+# Thousands, including some  from Australia, protest in London, England, against the  renewal of the United Kingdom's Trident nuclear deterrent system, the largest anti-nuclear rally since 1983. Leader of the Labour Party Jeremy Corbyn, Scottish National Party leader and First Minister of Scotland Nicola Sturgeon, the Welsh Plaid Cymru Party, and the Green Party participated in the march. A parliamentary vote on renewing Trident is expected this year. 
+
+Demonstrators in London pointed out renewing the nuclear-deterrent system would cost tens of billions of dollars over two decades.
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/world/2016/feb/27/cnd-rally-anti-nuclear-demonstration-trident-london)
+2. [International Business Times](http://www.ibtimes.com/rally-london-against-trident-nuclear-deterrent-system-draws-thousands-2326327)
+
+### Related:
+
+1. [Nicola Sturgeon will succeed Alex Salmond as leader of the Scottish National Party and First Minister of Scotland after she was the only candidate to put their name forward in the party's leadership election. ](/news/2014/10/15/nicola-sturgeon-will-succeed-alex-salmond-as-leader-of-the-scottish-national-party-and-first-minister-of-scotland-after-she-was-the-only-can.md) _Context: First Minister, Nicola Sturgeon, Scottish National Party_
+2. [ Green Party of England and Wales unveil radical manifesto aiming at measures against climate change. ](/news/2005/04/15/green-party-of-england-and-wales-unveil-radical-manifesto-aiming-at-measures-against-climate-change.md) _Context: England, Green Party, Wales_
+3. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: First Minister, Nicola Sturgeon_
+4. [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md) _Context: England, Wales_
+5. [The United Kingdom posthumously pardons around 49,000 gay and bisexual men found guilty of decades-old sodomy laws in England and Wales.  Those still living can apply for a statutory pardon.  ](/news/2017/01/31/the-united-kingdom-posthumously-pardons-around-49-000-gay-and-bisexual-men-found-guilty-of-decades-old-sodomy-laws-in-england-and-wales-th.md) _Context: England, Wales_
+6. [The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-become-the-new-leader-of-the-labour-party-after.md) _Context: Jeremy Corbyn, leader_
+7. [Nicola Sturgeon, the First Minister of Scotland, says that Scottish Parliament has the power to veto the United Kingdom's exit from the European Union. ](/news/2016/06/26/nicola-sturgeon-the-first-minister-of-scotland-says-that-scottish-parliament-has-the-power-to-veto-the-united-kingdom-s-exit-from-the-euro.md) _Context: First Minister, Nicola Sturgeon_
+8. [Tata Steel is to cut 1,050 jobs in the United Kingdom, with the majority going in South Wales. The Indian multinational steel-making company announced there will be 750 job losses at its Port Talbot Steelworks in Port Talbot, Wales while another 300 jobs will go at its plants in Corby and Hartlepool in England. ](/news/2016/01/18/tata-steel-is-to-cut-1-050-jobs-in-the-united-kingdom-with-the-majority-going-in-south-wales-the-indian-multinational-steel-making-company.md) _Context: England, Wales_
+9. [British Prime Minister David Cameron, under pressure from Labour Party leader Jeremy Corbyn and the Foreign Affairs Committee, will not ask for a vote by Parliament to join the U.S. airstrikes in Syria. ](/news/2015/11/5/british-prime-minister-david-cameron-under-pressure-from-labour-party-leader-jeremy-corbyn-and-the-foreign-affairs-committee-will-not-ask.md) _Context: British Parliament, Jeremy Corbyn_
+10. [The UK House of Commons passes an "English votes for English laws" bill by 312 to 270 votes giving English MPs a greater say over legislation that only applies to England. The bill has been fiercely opposed by the opposition Labour Party and the Scottish National Party. ](/news/2015/10/22/the-uk-house-of-commons-passes-an-english-votes-for-english-laws-bill-by-312-to-270-votes-giving-english-mps-a-greater-say-over-legislatio.md) _Context: England, Scottish National Party_

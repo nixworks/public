@@ -1,0 +1,24 @@
+### [2006-05-19](/news/2006/05/19/index.md)
+
+#  The case of Khaled el-Masri, who says he was abducted and tortured by the CIA because he was mistaken for another person, is dismissed by a district court in Alexandria, Virginia, as it would be a "grave risk" of damage to U.S. national security by exposing government secrets. The court rules that if the claims are true he "deserves a remedy" but this cannot be found in the court. 
+
+
+
+
+### Source:
+
+1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/18/AR2006051802107.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,2025913,00.html)
+
+### Related:
+
+1. [ CIA officials try to get the case of Khaled el-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khaled-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md) _Context: CIA, Khaled el-Masri, extraordinary rendition, torture_
+2. [ An Italian court convicts 22 CIA agents and 2 Italian agents over the kidnap of Muslim cleric Hassan Mustafa Osama Nasr in Milan in 2003, in the first court case challenging the CIA's "extraordinary rendition" programme. ](/news/2009/11/4/an-italian-court-convicts-22-cia-agents-and-2-italian-agents-over-the-kidnap-of-muslim-cleric-hassan-mustafa-osama-nasr-in-milan-in-2003-i.md) _Context: CIA, extraordinary rendition_
+3. [ Germany has ordered the arrest of 13 suspected CIA agents over the alleged kidnapping of Khalid El-Masri. ](/news/2007/01/31/germany-has-ordered-the-arrest-of-13-suspected-cia-agents-over-the-alleged-kidnapping-of-khalid-el-masri.md) _Context: CIA, extraordinary rendition_
+4. [ A judicial panel in Canada finds that Canadian citizen Maher Arar was falsely accused when he was secretly extradited by the United States to Syria, and that he was tortured there. [http://www.msnbc.msn.com/id/14897315/ (MSNBC)].](/news/2006/09/19/a-judicial-panel-in-canada-finds-that-canadian-citizen-maher-arar-was-falsely-accused-when-he-was-secretly-extradited-by-the-united-states.md) _Context: extraordinary rendition, torture_
+5. [ The United Nations Committee Against Torture tells the United States it should close any secret prisons abroad and the Guantnamo Bay facility in Cuba, saying they violate international law. It also calls for the US not to use interrogation techniques that amount to torture and to stop the practice of "extraordinary renditions". ](/news/2006/05/19/the-united-nations-committee-against-torture-tells-the-united-states-it-should-close-any-secret-prisons-abroad-and-the-guantanamo-bay-facil.md) _Context: extraordinary rendition, torture_
+6. [ The European Parliament committee examining the claims of para-legal deportations of individuals for torture-based questioning, known as "extraordinary renditions", reports that it has CIA confirmation that between 30 and 50 individuals underwent such deportations to seven "black sites" in Asia, Europe and Africa. Those in Europe have reportedly been closed down following the public outcry, but there is still one such site operating in a North African country. ](/news/2006/05/18/the-european-parliament-committee-examining-the-claims-of-para-legal-deportations-of-individuals-for-torture-based-questioning-known-as-e.md) _Context: CIA, extraordinary rendition_
+7. [The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-presidential-election.md) _Context: CIA_
+8. [NASA's Orbital ATK Antares 230 rocket launches carrying an unmanned resupply spacecraft, the Cygnus CRS OA-5 cargo ship, to the International Space Station from NASA's Wallops Flight Facility in Virginia. The mission returns the Antares rocket to flight after an anomaly on October 28, 2014, caused an Antares-series rocket to explode seconds after liftoff. ](/news/2016/10/17/nasa-s-orbital-atk-antares-230-rocket-launches-carrying-an-unmanned-resupply-spacecraft-the-cygnus-crs-oa-5-cargo-ship-to-the-internationa.md) _Context: Virginia_
+9. [The ''Richmond Times-Dispatch'' of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. ](/news/2016/09/4/the-richmond-times-dispatch-of-virginia-is-first-to-endorse-libertarian-candidate-gary-johnson-for-president-and-the-first-newspaper-med.md) _Context: Virginia_
+10. [The U.S. states of North Carolina and Virginia declare a state of emergency over gas shortages as a result of the Colonial pipeline leak in Shelby County, Alabama. ](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.md) _Context: Virginia_

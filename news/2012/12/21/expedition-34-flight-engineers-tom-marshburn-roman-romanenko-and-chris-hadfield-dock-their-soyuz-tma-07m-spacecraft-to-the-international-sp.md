@@ -1,0 +1,23 @@
+### [2012-12-21](/news/2012/12/21/index.md)
+
+# Expedition 34 Flight Engineers Tom Marshburn, Roman Romanenko and Chris Hadfield dock their Soyuz TMA-07M spacecraft to the International Space Station's Rassvet module. 
+
+Three new Expedition 34 crew members were welcomed aboard the station after the hatches between the vehicles were opened at 11:37 a.m. EST Friday.
+
+
+### Source:
+
+1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition34/e34_launch.html)
+
+### Related:
+
+1. [The Russian Soyuz TMA-07M spacecraft launches from the Baikonur Cosmodrome in Kazakhstan, carrying Roman Romanenko, Chris Hadfield and Thomas Marshburn for the ISS Expedition 34 and 35 crews. ](/news/2012/12/19/the-russian-soyuz-tma-07m-spacecraft-launches-from-the-baikonur-cosmodrome-in-kazakhstan-carrying-roman-romanenko-chris-hadfield-and-thoma.md) _Context: Chris Hadfield, Expedition 34, Roman Romanenko, Soyuz TMA-07M_
+2. [A Soyuz capsule carrying astronauts Chris Hadfield of Canada, Thomas Marshburn of the United States and Roman Romanenko of Russia of Expedition 35 back from the International Space Station lands safely in Kazakhstan. ](/news/2013/05/14/a-soyuz-capsule-carrying-astronauts-chris-hadfield-of-canada-thomas-marshburn-of-the-united-states-and-roman-romanenko-of-russia-of-expedit.md) _Context: Chris Hadfield, International Space Station, Roman Romanenko_
+3. [Soyuz TMA-08M: A Soyuz spacecraft docks with the International Space Station after being in orbit for less than six hours, setting a record, in a test conducted to reduce the time crew members have to spend in the ferry craft. ](/news/2013/03/29/soyuz-tma-08m-a-soyuz-spacecraft-docks-with-the-international-space-station-after-being-in-orbit-for-less-than-six-hours-setting-a-record.md) _Context: International Space Station, spacecraft_
+4. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: International Space Station_
+5. [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md) _Context: International Space Station_
+6. [NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. ](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.md) _Context: International Space Station_
+7. [SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-from-kennedy-space-center-placing-a-dragon-spacecraft-in-orbit-and-recovering-the-launcher-s.md) _Context: International Space Station_
+8. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: International Space Station_
+9. [JAXA launches the unmanned  cargo spacecraft Kounotori 6, also known as HTV-6, from the Tanegashima Space Center to resupply the International Space Station. ](/news/2016/12/9/jaxa-launches-the-unmanned-cargo-spacecraft-kounotori-6-also-known-as-htv-6-from-the-tanegashima-space-center-to-resupply-the-internation.md) _Context: International Space Station_
+10. [Roscosmos cargo spacecraft Progress MS-04 fails to dock with the International Space Station after experiencing a rocket failure. The spacecraft is believed to have mainly burnt up in the atmosphere. ](/news/2016/12/1/roscosmos-cargo-spacecraft-progress-ms-04-fails-to-dock-with-the-international-space-station-after-experiencing-a-rocket-failure-the-spacec.md) _Context: International Space Station_

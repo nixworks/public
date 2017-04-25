@@ -1,0 +1,23 @@
+### [2013-08-15](/news/2013/08/15/index.md)
+
+# King Carl XVI Gustaf of Sweden and his wife, Queen Silvia of Sweden, are criticised after they received and wore, on their trip to Harnosand, Palestinian keffiyehs with a message in Arabic language purportedly meaning "Our Aqsa and not their temple". 
+
+
+
+
+### Source:
+
+1. [Dagens industri'' via TT](http://www.di.se/artiklar/2013/8/15/kungaparets-sjalar-vacker-vrede/)
+
+### Related:
+
+1. [UNESCO's executive board approves the "Occupied Palestine" resolution which reaffirms the cultural heritage of Palestine, especially East Jerusalem, and criticizes certain Israeli actions regarding the Palestinian territories. For the land in Jerusalem where the Al-Aqsa Mosque stands, the board uses only Islamic naming terms without also mentioning Jewish or Christian historical references. ](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.md) _Context: Al-Aqsa Mosque_
+2. [Sweden celebrates the 70th birthday of their King Carl XVI Gustaf, whose celebration was attended by fellow European royals, including Denmark's Margrethe II, former King of Spain Juan Carlos I and former Queen of the Netherlands Beatrix. ](/news/2016/04/30/sweden-celebrates-the-70th-birthday-of-their-king-carl-xvi-gustaf-whose-celebration-was-attended-by-fellow-european-royals-including-denma.md) _Context: Carl XVI Gustaf_
+3. [Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.md) _Context: Al-Aqsa Mosque_
+4. [Israeli police engage Palestinian protesters with tear gas and stun grenades near Jerusalem's Al-Aqsa Mosque in response to reports of planned incidents ahead of Rosh Hashanah, the Jewish New Year. Protesters throw fireworks and small explosive devices from inside the Mosque. ](/news/2015/09/13/israeli-police-engage-palestinian-protesters-with-tear-gas-and-stun-grenades-near-jerusalem-s-al-aqsa-mosque-in-response-to-reports-of-plann.md) _Context: Al-Aqsa Mosque_
+5. [Palestinian youth and Israeli riot police clash at the Al-Aqsa Mosque as the Muslims attacked Jews celebrating Tisha B'Av with rocks and firecrackers and barricaded themselves inside the mosque. ](/news/2015/07/26/palestinian-youth-and-israeli-riot-police-clash-at-the-al-aqsa-mosque-as-the-muslims-attacked-jews-celebrating-tisha-b-av-with-rocks-and-fir.md) _Context: Al-Aqsa Mosque_
+6. [Queen Silvia of Sweden orders an investigation into her father Walther Sommerlath's alleged ties with the German Nazi Party. ](/news/2011/05/16/queen-silvia-of-sweden-orders-an-investigation-into-her-father-walther-sommerlath-s-alleged-ties-with-the-german-nazi-party.md) _Context: Queen Silvia of Sweden_
+7. [ Swedish King Carl XVI Gustaf, by long tradition an honorary member of the AIK soccer club, concedes that he is a supporter of the rivaling club Djurgarden. ](/news/2007/07/27/swedish-king-carl-xvi-gustaf-by-long-tradition-an-honorary-member-of-the-aik-soccer-club-concedes-that-he-is-a-supporter-of-the-rivaling.md) _Context: Carl XVI Gustaf_
+8. [ Palestinians clash with Israeli police in East Jerusalem over archaeological excavations near the al-Aqsa mosque. ](/news/2007/02/16/palestinians-clash-with-israeli-police-in-east-jerusalem-over-archaeological-excavations-near-the-al-aqsa-mosque.md) _Context: Al-Aqsa Mosque_
+9. [ Over one hundred thousand people throughout Indonesia have taken part in anti-Israeli and anti-American protests.  The protest was organised by the Prosperous Justice Party in order to show Muslim unity regarding the Al Aqsa Mosque. ](/news/2005/04/17/over-one-hundred-thousand-people-throughout-indonesia-have-taken-part-in-anti-israeli-and-anti-american-protests-the-protest-was-organise.md) _Context: Al-Aqsa Mosque_
+10. [ Israeli-Palestinian Conflict: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-p-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md) _Context: Al-Aqsa Mosque_

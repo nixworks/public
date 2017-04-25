@@ -1,0 +1,23 @@
+### [2014-05-12](/news/2014/05/12/index.md)
+
+# The European Central Bank has watered down standards for an ongoing review of Europe's banks, waiving deadlines and some data requests, according to a Reuters report based on "sources familiar with the process." 
+
+The European Central Bank has quietly made a series of concessions to banks that will make it easier for them to meet the tight deadlines of a landmark review of their businesses, four sources familiar with the process told Reuters.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2014/05/12/us-eurozone-banks-tests-idUSBREA4B0B120140512)
+
+### Related:
+
+1. [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB.  ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md) _Context: European Central Bank, Reuters_
+2. [Reuters reports, on the basis of anonymous Chinese bankers, that the State Administration of Foreign Exchange is instructing them to keep quiet about any negative analysis of prospects for the yuan. ](/news/2017/01/11/reuters-reports-on-the-basis-of-anonymous-chinese-bankers-that-the-state-administration-of-foreign-exchange-is-instructing-them-to-keep-qu.md) _Context: Reuters_
+3. [The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. ](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.md) _Context: European Central Bank_
+4. [Reuters reports, based on sources "familiar with the matter," that Nissan is talking with Panasonic Corp. about the sale of Nissan's car battery manufacturing operation. ](/news/2016/08/6/reuters-reports-based-on-sources-familiar-with-the-matter-that-nissan-is-talking-with-panasonic-corp-about-the-sale-of-nissan-s-car-bat.md) _Context: Reuters_
+5. [The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds   as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-regular-loans-for-t.md) _Context: European Central Bank_
+6. [Amazon.com Inc is preparing to start a stand-alone streaming music service, in direct competition with Apple Music and Spotify, according to sources who spoke to Reuters. ](/news/2016/06/10/amazon-com-inc-is-preparing-to-start-a-stand-alone-streaming-music-service-in-direct-competition-with-apple-music-and-spotify-according-to.md) _Context: Reuters_
+7. [   Reuters reports nearly 150 people are killed and  at least 200 wounded in a series of car bomb and suicide attacks in the Syrian cities of Jableh and Tartus in government-controlled territory that hosts Russian military bases. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/reuters-reports-nearly-150-people-are-killed-and-at-least-200-wounded-in-a-series-of-car-bomb-and-suicide-attacks-in-the-syrian-cities-o.md) _Context: Reuters_
+8. [An attacker throws a grenade and fires shots outside a sports hall in the small town of Zubin Potok in northern Kosovo, just hours before Serbian Prime Minister Aleksandar Vucic was due to hold an election rally there. "A hand grenade exploded outside the sports hall but there are no injuries," Besim Hoti, a Kosovo police commander in the area, told Reuters. ](/news/2016/04/3/an-attacker-throws-a-grenade-and-fires-shots-outside-a-sports-hall-in-the-small-town-of-zubin-potok-in-northern-kosovo-just-hours-before-se.md) _Context: Reuters_
+9. [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people,  is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md) _Context: Reuters_
+10. [A member of the board of the Bundesbank in Germany says that the European Central Bank ought to crack down on the political practice, in EU's member states, by which banks that are no longer viable are nonetheless kept in business, as so-called Zombie banks. ](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.md) _Context: European Central Bank_

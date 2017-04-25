@@ -1,0 +1,26 @@
+### [2011-06-5](/news/2011/06/5/index.md)
+
+# Voters in Peru go to the polls for the second round of the Peruvian general election with Ollanta Humala claiming victory over Keiko Fujimori. 
+
+Winner of Sunday&rsquo;s vote will preside over Latin America&rsquo;s fastest-growing economy.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2011/06/05/us-peru-election-idUSTRE75432720110605)
+2. [Bloomberg via SFGate](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/06/05/bloomberg1376-LMCA7J6S972801-5OLQJGJTQTPJ21DGB8U6R6GN2O.DTL)
+3. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110606/ts_nm/us_peru_election)
+4. [Washington Post](http://www.washingtonpost.com/world/americas/peru-faces-unhappy-choice-in-presidential-election/2011/06/04/AGb3g2IH_story.html)
+
+### Related:
+
+1. [Peruvians vote in presidential elections with the most likely result a runoff between Ollanta Humala and either Pedro Pablo Kuczynski or Keiko Fujimori. ](/news/2011/04/10/peruvians-vote-in-presidential-elections-with-the-most-likely-result-a-runoff-between-ollanta-humala-and-either-pedro-pablo-kuczynski-or-kei.md) _Context: Keiko Fujimori, Ollanta Humala, Peru, Peruvian general election_
+2. [Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. ](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.md) _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election_
+3. [With more than 92% of the vote counted, Pedro Pablo Kuczynski is ahead of  Keiko Fujimori by just over 103,000 votes,  50.3 percent to 49.6 percent, in the  electorate of  23 million citizens. Ballots of Peruvians living abroad will begin to arrive tonight.  Mariano Cucho, the head of the electoral office, says the count may not be finalized until Thursday or Friday. ](/news/2016/06/6/with-more-than-92-of-the-vote-counted-pedro-pablo-kuczynski-is-ahead-of-keiko-fujimori-by-just-over-103-000-votes-50-3-percent-to-49-6.md) _Context: Keiko Fujimori, Peru_
+4. [Voters in Peru go to the polls for the second round of voting in a presidential election where Keiko Fujimori and Pedro Pablo Kuczynski are the remaining candidates. ](/news/2016/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-where-keiko-fujimori-and-pedro-pablo-kuczynski-are.md) _Context: Keiko Fujimori, Peru_
+5. [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md) _Context: Keiko Fujimori, Peru_
+6. [Peruvian indigenous Amazon groups announce a plan to launch their own political party before next year's election; protecting the rainforest and indigenous rights are to be among its aims. ](/news/2010/08/11/peruvian-indigenous-amazon-groups-announce-a-plan-to-launch-their-own-political-party-before-next-year-s-election-protecting-the-rainforest.md) _Context: Peru, Peruvian general election_
+7. [ Alan Garca of the APRA is re-elected President of Peru after winning a runoff with the Union for Peru's Ollanta Humala on Sunday. ](/news/2006/06/5/alan-garcia-of-the-apra-is-re-elected-president-of-peru-after-winning-a-runoff-with-the-union-for-peru-s-ollanta-humala-on-sunday.md) _Context: Ollanta Humala, Peru_
+8. [ Peru recalls Carlos Urrutia, its ambassador to Venezuela, after Venezuelan President Hugo Chvez praises Peruvian presidential hopeful Ollanta Humala for his left-leaning policies. A spokeswoman for the Peruvian Foreign Ministry stated, "There are concerns of political meddling in Peru's electoral affairs and comments by President Chvez were out of place." ](/news/2006/01/5/peru-recalls-carlos-urrutia-its-ambassador-to-venezuela-after-venezuelan-president-hugo-chavez-praises-peruvian-presidential-hopeful-olla.md) _Context: Ollanta Humala, Peru_
+9. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Peru_
+10. [Heavy flooding in Peru kills at least 67 people and forces thousands to abandon their homes. ](/news/2017/03/17/heavy-flooding-in-peru-kills-at-least-67-people-and-forces-thousands-to-abandon-their-homes.md) _Context: Peru_

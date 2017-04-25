@@ -1,0 +1,23 @@
+### [2009-10-1](/news/2009/10/1/index.md)
+
+#  The Netherlands Antilles agrees to disband on October 10, 2010. Bonaire, St. Eustatius and Saba will become Dutch municipalities within the Netherlands, whereas Curaao and Sint Maarten will become self-governing countries within the Kingdom of the Netherlands. 
+
+
+
+
+### Source:
+
+1. [NRC Handelsblad](http://www.nrc.nl/international/article2375096.ece/Netherlands_Antilles_to_cease_to_exist_as_a_country)
+
+### Related:
+
+1. [ The governments of the Netherlands and the Netherlands Antilles sign an agreement in The Hague, disbanding the Netherlands Antilles on July 1, 2007. The islands of Curaao and Sint Maarten become autonomous associated states within the Kingdom of the Netherlands, while Bonaire, Saba and Sint Eustatius become Dutch municipalities. ](/news/2006/11/2/the-governments-of-the-netherlands-and-the-netherlands-antilles-sign-an-agreement-in-the-hague-disbanding-the-netherlands-antilles-on-july.md) _Context: Bonaire, Curaçao, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Maarten_
+2. [Bonaire, Saba and Sint Eustatius adopt the United States dollar as the sole legal currency, reducing the use of the Netherlands Antillean guilder to Curaao and Sint Maarten. ](/news/2011/01/1/bonaire-saba-and-sint-eustatius-adopt-the-united-states-dollar-as-the-sole-legal-currency-reducing-the-use-of-the-netherlands-antillean-gu.md) _Context: Bonaire, Curaçao, Saba, Sint Maarten_
+3. [Dissolution of the Netherlands Antilles:Bonaire, Saba and Sint Eustatius become special municipalities of the Netherlands. ](/news/2010/10/10/dissolution-of-the-netherlands-antilles-pbonaire-saba-and-sint-eustatius-become-special-municipalities-of-the-netherlands.md) _Context: Bonaire, Dissolution of the Netherlands Antilles, Netherlands, Saba_
+4. [Tropical Storm Isaac forms in the Atlantic Ocean with tropical storm warnings in place for Puerto Rico, the US and British Virgin Islands, Martinique, Dominica, Guadeloupe, St Martin, St Kitts, Nevis, Antigua, Barbuda, Montserrat, Anguilla, Saba, St Eustatius, St Maarten, Culebra and Vieques. ](/news/2012/08/21/tropical-storm-isaac-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-in-place-for-puerto-rico-the-us-and-british-virgin-islands-m.md) _Context: Saba, St Eustatius_
+5. [ Saba threatens to secede from the Netherlands Antilles in a letter to Dutch Prime Minister Jan Peter Balkenende. ](/news/2009/09/1/saba-threatens-to-secede-from-the-netherlands-antilles-in-a-letter-to-dutch-prime-minister-jan-peter-balkenende.md) _Context: Netherlands Antilles, Saba_
+6. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Netherlands_
+7. [Dutch businessman Guus Kouwenhoven is found guilty of war crimes and arms trafficking for using his lumber business to sell weapons to Liberia's former president Charles Taylor during the country's civil war between 2000 and 2003 and is sentenced to 19 years in prison. ](/news/2017/04/22/dutch-businessman-guus-kouwenhoven-is-found-guilty-of-war-crimes-and-arms-trafficking-for-using-his-lumber-business-to-sell-weapons-to-liber.md) _Context: Netherlands_
+8. [Voters in the Netherlands go to the polls for a general election. Exit polls suggest that incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy will win the most seats in the election. ](/news/2017/03/15/voters-in-the-netherlands-go-to-the-polls-for-a-general-election-exit-polls-suggest-that-incumbent-prime-minister-mark-rutte-s-people-s-par.md) _Context: Netherlands_
+9. [Turkey bans the Dutch ambassador, Cornelis Van Rij, from returning to the Embassy of the Netherlands in Ankara, and closes its airspace to Dutch diplomats in response to a Dutch ban on Turkish ministers speaking at pro-Erdogan rallies. ](/news/2017/03/13/turkey-bans-the-dutch-ambassador-cornelis-van-rij-from-returning-to-the-embassy-of-the-netherlands-in-ankara-and-closes-its-airspace-to-d.md) _Context: Netherlands_
+10. [The Guatemalan army blockades a ship from the Dutch NGO Women on Waves that provides material for abortions. ](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.md) _Context: Netherlands_

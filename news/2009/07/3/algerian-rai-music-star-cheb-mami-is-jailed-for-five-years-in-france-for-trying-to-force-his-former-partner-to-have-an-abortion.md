@@ -1,0 +1,25 @@
+### [2009-07-3](/news/2009/07/3/index.md)
+
+#  Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. 
+
+Algerian singer Cheb Mami went on trial in France on Thursday over accusations that he forced his former lover into an attempted abortion in 2005.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/peopleNews/idUSTRE5614DJ20090702)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8130873.stm)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20090702172709911C277243)
+
+### Related:
+
+1. [In Amenas hostage crisis:Suspected Islamic militants take over a BP facility in In Amenas, Algeria, killing at least 2 workers and taking up to 40 others hostage, including 13 Norwegians, a number of Americans, as well as nationals from Ireland, Japan, France and the United Kingdom. A previously unknown group allied to al-Qaeda's regional branch says the attack is in revenge for Algeria's support of the French operation against Islamic rebels in Mali. ](/news/2013/01/16/in-ama-c-nas-hostage-crisis-psuspected-islamic-militants-take-over-a-bp-facility-in-in-ama-c-nas-algeria-killing-at-least-2-workers-and-taking.md) _Context: Algeria, France_
+2. [Hundreds of people protest in Cannes over ''Hors-la-loi'', a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-agains.md) _Context: Algeria, France_
+3. [A Frenchman and his Algerian driver are kidnapped by armed men in Niger. ](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.md) _Context: Algeria, France_
+4. [ France will compensate victims of nuclear testing in Algeria and French Polynesia. ](/news/2009/03/24/france-will-compensate-victims-of-nuclear-testing-in-algeria-and-french-polynesia.md) _Context: Algeria, France_
+5. [ France and Algeria sign an agreement that could lead to French nuclear power technology being employed in Algerian reactors. ](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.md) _Context: Algeria, France_
+6. [ French lawmakers introduce a bill to criminalize Armenian Genocide denial. The legislation would imprison offenders for one year and fine them up to EUR45,000. Turkey calls upon French legislators to vote against the bill. The Turkish Parliament is considering a bill that would criminalize denial of French human rights violations in Algeria. ](/news/2006/10/9/french-lawmakers-introduce-a-bill-to-criminalize-armenian-genocide-denial-the-legislation-would-imprison-offenders-for-one-year-and-fine-t.md) _Context: Algeria, France_
+7. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: France_
+8. [An explosion occurs at a carnival in Villepinte, Seine-Saint-Denis, France, injuring at least 18 people. ](/news/2017/04/1/an-explosion-occurs-at-a-carnival-in-villepinte-seine-saint-denis-france-injuring-at-least-18-people.md) _Context: France_
+9. [On Friday night a man begins to shoot in a Lille Metro station in Lille, France. Three people are injured, including being shot in the leg and neck. The gunman is not thought to be a terrorist, and is still on the run. ](/news/2017/03/24/on-friday-night-a-man-begins-to-shoot-in-a-lille-metro-station-in-lille-france-three-people-are-injured-including-being-shot-in-the-leg-a.md) _Context: France_
+10. [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md) _Context: France_

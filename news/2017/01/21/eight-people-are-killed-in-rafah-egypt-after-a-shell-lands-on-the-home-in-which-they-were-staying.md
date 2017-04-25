@@ -1,0 +1,15 @@
+### [2017-01-21](/news/2017/01/21/index.md)
+
+# Eight people are killed in Rafah, Egypt, after a shell lands on the home in which they were staying. 
+
+Eight people were killed on Saturday after a shell landed on a house in southern Rafah, in the north of Sinai, eye witnesses and medical sources said.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-egypt-security-shell-idUSKBN1550C5?il=0)
+
+### Related:
+
+1. [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md) _Context: Rafah, Egypt_
+2. [Sinai insurgency:At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/sinai-insurgency-pat-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md) _Context: Rafah, Egypt_

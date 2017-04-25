@@ -1,0 +1,23 @@
+### [2012-08-22](/news/2012/08/22/index.md)
+
+# Penn State's ex-president Graham Spanier rejects the report by former FBI head Louis Freeh accusing the university of a cover-up, saying he never heard even a hint of child sex abuse by Jerry Sandusky, despite indications of "horseplay", having never met a higher level of awareness. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2012/08/23/us-usa-pennstate-idUSBRE87M00020120823)
+
+### Related:
+
+1. [Charges of perjury and child endangerment, among others, are filed against former Penn State President Graham Spanier and two other administrators in connection with the Penn State scandal involving imprisoned former football coach Jerry Sandusky; new charges also are filed against Athletic Director Tim Curley and retired Vice President Gary Schultz, who are already under arrest on perjury and failure to report child abuse charges. ](/news/2012/11/1/charges-of-perjury-and-child-endangerment-among-others-are-filed-against-former-penn-state-president-graham-spanier-and-two-other-administ.md) _Context: Graham Spanier, Jerry Sandusky, Penn State scandal, Pennsylvania State University_
+2. [Former FBI Director Louis Freeh's report into the Penn State sex abuse scandal is released, alleging that late head football coach Joe Paterno and other school officials covered up child sexual abuse by former assistant coach Jerry Sandusky. ](/news/2012/07/12/former-fbi-director-louis-freeh-s-report-into-the-penn-state-sex-abuse-scandal-is-released-alleging-that-late-head-football-coach-joe-pater.md) _Context: FBI, Jerry Sandusky, Louis Freeh_
+3. [Penn State child sex abuse scandal:An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/penn-state-child-sex-abuse-scandal-pan-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md) _Context: Jerry Sandusky, Penn State scandal_
+4. [Former Penn State assistant coach Jerry Sandusky is transferred to State Correctional Institution - Greene in Franklin Township, Pennsylvania, to serve his 30-to-60-year sentence on child sexual abuse charges. ](/news/2012/10/31/former-penn-state-assistant-coach-jerry-sandusky-is-transferred-to-state-correctional-institution-a-greene-in-franklin-township-pennsylva.md) _Context: Jerry Sandusky, Penn State scandal_
+5. [The NCAA announces severe penalties against Penn State's football program as a result of the school's child sex abuse scandal. ](/news/2012/07/23/the-ncaa-announces-severe-penalties-against-penn-state-s-football-program-as-a-result-of-the-school-s-child-sex-abuse-scandal.md) _Context: Penn State scandal, Pennsylvania State University_
+6. [Penn State child sex abuse scandal:The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-pthe-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md) _Context: Jerry Sandusky, Penn State scandal_
+7. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: FBI_
+8. [The Federal Bureau of Investigation becomes involved in the search for Elizabeth Thomas and the manhunt for her suspected kidnapper, Tad Cummins. ](/news/2017/03/16/the-federal-bureau-of-investigation-becomes-involved-in-the-search-for-elizabeth-thomas-and-the-manhunt-for-her-suspected-kidnapper-tad-cum.md) _Context: FBI_
+9. [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md) _Context: FBI_
+10. [U.S. officials are investigating the hacking of election system databases in Illinois and Arizona. The FBI alerted all  election officials nationwide about this issue earlier this month. ](/news/2016/08/29/u-s-officials-are-investigating-the-hacking-of-election-system-databases-in-illinois-and-arizona-the-fbi-alerted-all-election-officials-n.md) _Context: FBI_

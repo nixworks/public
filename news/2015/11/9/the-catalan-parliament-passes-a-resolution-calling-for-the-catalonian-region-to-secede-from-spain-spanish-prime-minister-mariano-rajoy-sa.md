@@ -1,0 +1,25 @@
+### [2015-11-9](/news/2015/11/9/index.md)
+
+# The Catalan Parliament  passes a resolution calling for  the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. 
+
+
+
+
+### Source:
+
+1. [The Himalayan Times](http://thehimalayantimes.com/world/catalan-parliament-votes-to-secede-from-spain/)
+2. [Reuters](http://www.reuters.com/article/2015/11/09/us-spain-catalonia-idUSKCN0SY15V20151109#KZdjDYWjUK051CeP.97)
+3. [AP](http://hosted.ap.org/dynamic/stories/E/EU_SPAIN_CATALONIA_INDEPENDENCE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+
+### Related:
+
+1. [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md) _Context: Mariano Rajoy, Prime Minister, Spain_
+2. [Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-event-in-the-city-of-pontevedra.md) _Context: Mariano Rajoy, Prime Minister, Spain_
+3. [Pro-independence Catalan leaders vowed to continue their efforts to secede from Spain, defying a ruling by the Madrid-based constitutional court that suspended a law defining a path for independence. ](/news/2015/11/11/pro-independence-catalan-leaders-vowed-to-continue-their-efforts-to-secede-from-spain-defying-a-ruling-by-the-madrid-based-constitutional-c.md) _Context: Catalonia, Constitutional Court of Spain, Spain_
+4. [Separatists won a clear majority of seats in Catalonia's parliament (72 out of 135) in this weekend's election that saw a record turnout of 78 percent. The winners will seek to unilaterally declare independence within 18 months. Spain's constitution does not allow any region to break away. Spanish Prime Minister Mariano Rajoy vows to fight the separatist plan. ](/news/2015/09/28/separatists-won-a-clear-majority-of-seats-in-catalonia-s-parliament-72-out-of-135-in-this-weekend-s-election-that-saw-a-record-turnout-of.md) _Context: Catalonia, Mariano Rajoy, Prime Minister_
+5. [Prime Minister of Spain Mariano Rajoy criticises Catalonia's drive for independence on radio, claiming its such an attempt "goes against history, goes against the sign of the times, and goes against simple common sense". ](/news/2012/11/6/prime-minister-of-spain-mariano-rajoy-criticises-catalonia-s-drive-for-independence-on-radio-claiming-its-such-an-attempt-goes-against-his.md) _Context: Catalonia, Mariano Rajoy, Prime Minister_
+6. [ The Catalan Parliament votes to ban bull fighting in the Spanish region. ](/news/2009/12/18/the-catalan-parliament-votes-to-ban-bull-fighting-in-the-spanish-region.md) _Context: Catalonia, Parliament of Catalonia, Spain_
+7. [The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority-government-after-a-ten-month-interregnu.md) _Context: Mariano Rajoy, Prime Minister_
+8. [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md) _Context: Mariano Rajoy, Prime Minister_
+9. [The regional Parliament of Catalonia defies the Constitutional Court of Spain by holding an informal and unilateral vote for secession.](/news/2016/07/27/the-regional-parliament-of-catalonia-defies-the-constitutional-court-of-spain-by-holding-an-informal-and-unilateral-vote-for-secession.md) _Context: Constitutional Court of Spain, Parliament of Catalonia_
+10. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement  that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Catalonia, Spain_

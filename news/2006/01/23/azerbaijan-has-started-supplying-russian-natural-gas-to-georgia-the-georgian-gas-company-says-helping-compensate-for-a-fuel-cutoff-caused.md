@@ -1,0 +1,24 @@
+### [2006-01-23](/news/2006/01/23/index.md)
+
+#  Azerbaijan has started supplying Russian natural gas to Georgia, the Georgian gas company says, helping compensate for a fuel cutoff caused by explosions in southern Russian pipelines that brought a new energy crisis to the region this weekend. 
+
+
+
+
+### Source:
+
+1. [CBC](http://www.cbc.ca/story/canadavotes2006/national/2006/01/23/poll-times-060123.html)
+2. [International Herald Tribune](http://www.iht.com/articles/2006/01/23/news/georgia.php)
+
+### Related:
+
+1. [ Gazprom, Russia's state-controlled natural gas monopoly, intends to double the price it charges Georgia. This follows the 2006 Georgian-Russian espionage controversy in early October. ](/news/2006/11/2/gazprom-russia-s-state-controlled-natural-gas-monopoly-intends-to-double-the-price-it-charges-georgia-this-follows-the-2006-georgian-rus.md) _Context: Georgia, natural gas_
+2. [ President Mikhail Saakashvili of Georgia pledges to end his country's energy crisis by importing Iranian natural gas. Starting Monday, Georgia will import {{Nowrap|2 million}} m3 of gas a day at $120/m3, $10 more than for Russian gas. Georgia's supply of Russian gas has been interrupted since Sunday due to pipeline explosions. Saakashvili has accused Moscow of sabotage for political gain. ](/news/2006/01/27/president-mikhail-saakashvili-of-georgia-pledges-to-end-his-country-s-energy-crisis-by-importing-iranian-natural-gas-starting-monday-geor.md) _Context: Georgia, natural gas_
+3. [An investigation by the United States Department of Transportation's Pipeline and Hazardous Materials Safety Administration finds that the natural gas leak occurring in Alaska's Cook Inlet began earlier than first reported, and represents significant safety and environmental risks. The agency gives pipeline operator Hilcorp Energy until May 1, 2017 to fix the leak, or shut the pipeline down. ](/news/2017/03/7/an-investigation-by-the-united-states-department-of-transportation-s-pipeline-and-hazardous-materials-safety-administration-finds-that-the-n.md) _Context: natural gas_
+4. [A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.md) _Context: natural gas_
+5. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: Georgia_
+6. [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md) _Context: Georgia_
+7. [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md) _Context: Azerbaijan_
+8. [In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. ](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.md) _Context: Azerbaijan_
+9. [Azerbaijani First Lady Mehriban Aliyeva, who is widely considered to be in line to succeed her husband, is named vice president. ](/news/2017/02/21/azerbaijani-first-lady-mehriban-aliyeva-who-is-widely-considered-to-be-in-line-to-succeed-her-husband-is-named-vice-president.md) _Context: Azerbaijan_
+10. [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _Context: Georgia_

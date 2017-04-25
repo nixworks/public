@@ -1,0 +1,24 @@
+### [2010-08-22](/news/2010/08/22/index.md)
+
+# Protesters against the Park51 project for an Islamic community center two blocks away from Ground Zero of the World Trade Center site gather in New York City. 
+
+Opponents of a planned Islamic community center two blocks from Ground Zero in New York shouted &quot;Enough is enough&quot; at supporters of the project, as the two sides squared off today in dueling demonstrations.
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2010/US/08/22/new.york.mosque.protests/)
+2. [ABC](http://abcnews.go.com/US/Politics/ground-mosque-opponents-supporters-turn-demonstrate/story?id=11455698)
+
+### Related:
+
+1. [David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. ](/news/2010/08/18/david-paterson-governor-of-the-u-s-state-of-new-york-is-to-discuss-relocating-the-controversial-park51-islamic-community-centre-and-mosqu.md) _Context: "Ground zero" mosque and cultural centre, Ground Zero, New York's_
+2. [The Police Department of Everett, Washington, identifies and returns the American flag from the September 11 attacks to Ground Zero, the World Trade Center site in New York City. ](/news/2016/09/8/the-police-department-of-everett-washington-identifies-and-returns-the-american-flag-from-the-september-11-attacks-to-ground-zero-the-wor.md) _Context: Ground Zero, New York's_
+3. [An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. ](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.md) _Context: Ground Zero, New York's_
+4. [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md) _Context: Ground Zero, New York's_
+5. [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity".  ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md) _Context: Ground Zero, New York's_
+6. [An 18th-Century wood-hulled ship is discovered at the World Trade Center site in Lower Manhattan, New York City. ](/news/2010/07/14/an-18th-century-wood-hulled-ship-is-discovered-at-the-world-trade-center-site-in-lower-manhattan-new-york-city.md) _Context: Ground Zero, New York's_
+7. [ Iran: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-p-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md) _Context: Ground Zero, New York's_
+8. [ A fire in the former Deutsche Bank Building near New York's Ground Zero kills two firefighters. ](/news/2007/08/18/a-fire-in-the-former-deutsche-bank-building-near-new-york-s-ground-zero-kills-two-firefighters.md) _Context: Ground Zero, New York's_
+9. [Amtrak Police taser a man at New York's Penn Station after the man allegedly became agitated due to a delayed train. Bystanders, falsely believing a shooting had occurred, caused a stampede, injuring more than a dozen people. ](/news/2017/04/14/amtrak-police-taser-a-man-at-new-york-s-penn-station-after-the-man-allegedly-became-agitated-due-to-a-delayed-train-bystanders-falsely-bel.md) _Context: New York's_
+10. [New York City Mayor Bill de Blasio announces that he is developing a plan to close the Rikers Island prison within 10 years. ](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.md) _Context: New York's_

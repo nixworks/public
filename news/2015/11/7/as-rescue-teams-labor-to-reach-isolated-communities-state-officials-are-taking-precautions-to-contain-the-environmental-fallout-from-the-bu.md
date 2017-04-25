@@ -1,0 +1,23 @@
+### [2015-11-7](/news/2015/11/7/index.md)
+
+# As rescue teams labor to reach isolated communities, state officials are taking precautions to contain the environmental fallout from the burst dams. A  state public prosecutor based in Mariana says he will seek 500,000 Brazilian reais (US$130,000) in personal damages for each of about 200 families most affected by the dam burst. 
+
+Rescue teams on Saturday struggled to reach villages devastated by a massive mudflow after two dams burst at a major Brazilian mine, wreaking havoc more than 80 km (50 miles) downstream and prompting officials to warn of a higher death toll.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/11/07/us-brazil-damburst-idUSKCN0SW0ET20151107#bJvkm1CrbikvXKPw.97)
+
+### Related:
+
+1. [The Government of Brazil sues iron miner Samarco and parent companies Vale and BHP Billiton for 155 billion Brazilian reals ($43.5 billion US) for the collapse of a tailings dam that resulted in 19 deaths and caused major pollution to the Doce River. ](/news/2016/05/3/the-government-of-brazil-sues-iron-miner-samarco-and-parent-companies-vale-and-bhp-billiton-for-155-billion-brazilian-reals-43-5-billion-u.md) _Context: Brazilian real_
+2. [Thursday's flooding and devastating mudslides at the BHP-Vale mine in Minas Gerais involved two dams, not one as initially reported. Brazilian officials report the mud flow is eight kilometers (five miles) long and 2.5 meters deep.  Those rescued - and emergency services - are being decontaminated; mining spoils being treated as toxic. There is no official information on the number of casualties or the cause of the incident. The company that runs the mine says it detected seismic activity right before the breach. Both BHP and Vale shares declined over five percent. Brazilian prosecutors have opened a criminal investigation. ](/news/2015/11/6/thursday-s-flooding-and-devastating-mudslides-at-the-bhp-vale-mine-in-minas-gerais-involved-two-dams-not-one-as-initially-reported-brazili.md) _Context: Minas Gerais dam disaster_
+3. [An iron ore tailings dam bursts in the Brazilian state of Minas Gerais flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing up to 17 deaths and 45 missing. The dam is operated by Samarco Mineracao, a joint venture between BHP Billiton and Vale. ](/news/2015/11/5/an-iron-ore-tailings-dam-bursts-in-the-brazilian-state-of-minas-gerais-flooding-a-valley-causing-mudslides-in-the-nearby-village-of-bento-r.md) _Context: Minas Gerais dam disaster_
+4. [Brazilian Finance Minister Guido Mantega moves to secure the Brazilian real amid concerns expressed in the ''Financial Times'' of currency manipulation by the United States, China and others. ](/news/2011/01/10/brazilian-finance-minister-guido-mantega-moves-to-secure-the-brazilian-real-amid-concerns-expressed-in-the-financial-times-of-currency-m.md) _Context: Brazilian real_
+5. [ South Korea accuses North Korea of deliberately releasing water from a dam across the Korean Demilitarized Zone, in which six people died. ](/news/2009/09/9/south-korea-accuses-north-korea-of-deliberately-releasing-water-from-a-dam-across-the-korean-demilitarized-zone-in-which-six-people-died.md) _Context: dam_
+6. [ South Korea asks North Korea to explain a sudden discharge of dam water which left six people dead or missing across the border. ](/news/2009/09/7/south-korea-asks-north-korea-to-explain-a-sudden-discharge-of-dam-water-which-left-six-people-dead-or-missing-across-the-border.md) _Context: dam_
+7. [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md) _Context: dam_
+8. [ A flash flood and the Situ Gintung dam's failure kill at least 58 people in Tangerang, Banten, Indonesia. ](/news/2009/03/27/a-flash-flood-and-the-situ-gintung-dam-s-failure-kill-at-least-58-people-in-tangerang-banten-indonesia.md) _Context: dam_
+9. [ Brazil's stock market rises to a record 58,393.75 points and the country's currency, the real, gains 0.11 percent to 1.867 per U.S. dollar. ](/news/2007/09/24/brazil-s-stock-market-rises-to-a-record-58-393-75-points-and-the-country-s-currency-the-real-gains-0-11-percent-to-1-867-per-u-s-dollar.md) _Context: Brazilian real_
+10. [ Banco Central robbery at Fortaleza: In Fortaleza, Ceara, Brazil, an estimated 156 million reais was discovered to be stolen over the weekend in one of the world's largest bank robberies. ](/news/2005/08/8/banco-central-robbery-at-fortaleza-in-fortaleza-ceara-brazil-an-estimated-156-million-reais-was-discovered-to-be-stolen-over-the-weeke.md) _Context: Brazilian real_

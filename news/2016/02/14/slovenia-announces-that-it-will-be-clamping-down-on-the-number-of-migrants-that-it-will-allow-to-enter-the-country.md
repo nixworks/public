@@ -1,0 +1,23 @@
+### [2016-02-14](/news/2016/02/14/index.md)
+
+# Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. 
+
+Slovenia said Sunday it would clamp down on the number of migrants allowed to enter the country, ahead of tougher measures set to be announced by neighbouring Austria later this week to slow down the influx. The two EU member states, which also belong to the passport-free Schengen zone, have become
+
+
+### Source:
+
+1. [AFP via Yahoo! News](http://news.yahoo.com/slovenia-clamp-down-migrant-border-entries-220859535.html;_ylt=A0LEVvTiEsFW8AkAdbBjmolQ)
+
+### Related:
+
+1. [Macedonia says it will no longer let any migrants through its southern border with Greece, effectively blocking the Balkan route for migrants. The decision came after Slovenia barred access to migrants transiting the country. There are around 13,000 migrants now stranded at the Macedonia-Greece border. ](/news/2016/03/9/macedonia-says-it-will-no-longer-let-any-migrants-through-its-southern-border-with-greece-effectively-blocking-the-balkan-route-for-migrant.md) _Context: European migrant crisis, Slovenia_
+2. [Austria is to deploy its army on its borders with Germany and Slovenia in the wake of surging numbers of migrants entering the Central European country. ](/news/2016/01/16/austria-is-to-deploy-its-army-on-its-borders-with-germany-and-slovenia-in-the-wake-of-surging-numbers-of-migrants-entering-the-central-europ.md) _Context: European migrant crisis, Slovenia_
+3. [Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md) _Context: European migrant crisis, Slovenia_
+4. [Macedonia, Serbia, Croatia, and Slovenia shut their borders to so-called economic migrants, those not coming from war-torn countries such as Syria, Afghanistan, or Iraq, leaving thousands stranded at Balkan border crossings. Around 500 migrants from Iran, Morocco, and Algeria gather on the border between Greece and Macedonia to protest the closure. ](/news/2015/11/20/macedonia-serbia-croatia-and-slovenia-shut-their-borders-to-so-called-economic-migrants-those-not-coming-from-war-torn-countries-such-as.md) _Context: European migrant crisis, Slovenia_
+5. [Slovenia's army begins erecting a razor wire fence along parts of its southern border with Croatia in order to stop a tide of illegal migrants entering the country. Around 180,000 people, mainly from Syria and Afghanistan have streamed into Slovenia since mid-October after trekking northwards along a Balkan corridor from Greece, most of them bound ultimately for Germany. ](/news/2015/11/11/slovenia-s-army-begins-erecting-a-razor-wire-fence-along-parts-of-its-southern-border-with-croatia-in-order-to-stop-a-tide-of-illegal-migran.md) _Context: European migrant crisis, Slovenia_
+6. [Slovenia's prime minister, Miro Cerar says Slovenia is ready to build a fence on its border with Croatia if an EU plan to stem the flow of migrants across the Balkans fails. ](/news/2015/10/28/slovenia-s-prime-minister-miro-cerar-says-slovenia-is-ready-to-build-a-fence-on-its-border-with-croatia-if-an-eu-plan-to-stem-the-flow-of-m.md) _Context: European migrant crisis, Slovenia_
+7. [Authorities in Slovenia say around 2,000 migrants from a refugee camp at the Croatian border are traveling in four trains toward Austria, three to the overloaded crossing at Sentilj and the other to Jesenice. ](/news/2015/10/22/authorities-in-slovenia-say-around-2-000-migrants-from-a-refugee-camp-at-the-croatian-border-are-traveling-in-four-trains-toward-austria-th.md) _Context: European migrant crisis, Slovenia_
+8. [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md) _Context: European migrant crisis, Slovenia_
+9. [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md) _Context: European migrant crisis_
+10. [More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _Context: European migrant crisis_

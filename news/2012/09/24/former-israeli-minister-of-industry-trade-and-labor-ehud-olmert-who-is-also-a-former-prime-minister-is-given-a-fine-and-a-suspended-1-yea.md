@@ -1,0 +1,23 @@
+### [2012-09-24](/news/2012/09/24/index.md)
+
+# Former Israeli minister of industry, trade and labor Ehud Olmert, who is also a former prime minister, is given a fine and a suspended 1-year jail sentence for cronyism while in office. A bribery case related to a housing project in Jerusalem is still being investigated. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://ca.reuters.com/article/topNews/idCABRE88N0GV20120924)
+
+### Related:
+
+1. [A court in Jerusalem convicts the former Israeli prime minister Ehud Olmert on one count of "breach of trust" and acquits him on two fraud counts. ](/news/2012/07/10/a-court-in-jerusalem-convicts-the-former-israeli-prime-minister-ehud-olmert-on-one-count-of-breach-of-trust-and-acquits-him-on-two-fraud-c.md) _Context: Ehud Olmert, Israel, Jerusalem_
+2. [ The trial of former Israeli Prime Minister Ehud Olmert on corruption charges begins in Jerusalem. He is the first ever Israeli Prime Minister to be brought to trial. ](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.md) _Context: Ehud Olmert, Israel, Jerusalem_
+3. [ Israeli police raid the Jerusalem city hall to seize documents related to alleged bribes received by Prime Minister Ehud Olmert from businessman Moshe Talansky. ](/news/2008/05/12/israeli-police-raid-the-jerusalem-city-hall-to-seize-documents-related-to-alleged-bribes-received-by-prime-minister-ehud-olmert-from-busine.md) _Context: Ehud Olmert, Israel, Jerusalem_
+4. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: Israel, Jerusalem_
+5. [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md) _Context: Israel, Jerusalem_
+6. [UNESCO's executive board approves the "Occupied Palestine" resolution which reaffirms the cultural heritage of Palestine, especially East Jerusalem, and criticizes certain Israeli actions regarding the Palestinian territories. For the land in Jerusalem where the Al-Aqsa Mosque stands, the board uses only Islamic naming terms without also mentioning Jewish or Christian historical references. ](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.md) _Context: Israel, Jerusalem_
+7. [A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. ](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.md) _Context: Israel, Jerusalem_
+8. [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md) _Context: Israel, Jerusalem_
+9. [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md) _Context: Israel, Jerusalem_
+10. [Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation" with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaza-will-fulfil-its-role-in-the-je.md) _Context: Israel, Jerusalem_

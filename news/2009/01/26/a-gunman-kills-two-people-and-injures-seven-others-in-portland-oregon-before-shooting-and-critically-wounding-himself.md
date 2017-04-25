@@ -1,0 +1,23 @@
+### [2009-01-26](/news/2009/01/26/index.md)
+
+#  A gunman kills two people and injures seven others in Portland, Oregon, before shooting and critically wounding himself. 
+
+
+
+
+### Source:
+
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Nightclub-Shooting-In-Portland-Oregon-Gunman-Kills-Two-And-Wounds-Seven/Article/200901415210150?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15210150_Nightclub_Shooting_In_Portland%2C_Oregon%3A_Gunman_Kills_Two_And_Wounds_Seven)
+
+### Related:
+
+1. [The police in the US city of Portland, Oregon close down the Occupy Portland site resulting in 50 arrests. ](/news/2011/11/13/the-police-in-the-us-city-of-portland-oregon-close-down-the-occupy-portland-site-resulting-in-50-arrests.md) _Context: Oregon, Portland_
+2. [Two trains collide near US Highway 30 near the US city of Portland, Oregon, causing a fire and necessitating the evacuation of nearby residents. ](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.md) _Context: Oregon, Portland_
+3. [Somali-born teenager Mohamed Osman Mohamud is arrested in Portland, Oregon, for allegedly plotting a bombing attack on a Christmas tree lighting ceremony. ](/news/2010/11/27/somali-born-teenager-mohamed-osman-mohamud-is-arrested-in-portland-oregon-for-allegedly-plotting-a-bombing-attack-on-a-christmas-tree-ligh.md) _Context: Oregon, Portland_
+4. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: Oregon_
+5. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: Portland_
+6. [A natural gas explosion damages several buildings and injures eight people in downtown Portland, Oregon. ](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildings-and-injures-eight-people-in-downtown-portland-oregon.md) _Context: Portland_
+7. [Voters in the American state of Oregon have their mail-in ballots counted for a Democratic Party and Republican Party primary. Donald Trump is the projected winner on the Republican winner while Bernie Sanders is projected to win the Democratic Party race. ](/news/2016/05/17/voters-in-the-american-state-of-oregon-have-their-mail-in-ballots-counted-for-a-democratic-party-and-republican-party-primary-donald-trump.md) _Context: Oregon_
+8. [A group of United States mayors forms ''"Mayors Against Discrimination"'' in the wake of  recent discriminatory laws enacted  in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carol.md) _Context: Portland_
+9. [The presidential campaigns of Texas Senator Ted Cruz and Governor of Ohio John Kasich announce they will now coordinate strategies to stop fellow Republican Donald Trump from becoming the party's nominee. Cruz's campaign will cut campaigning in Oregon and New Mexico to help Kasich, while the Kasich campaign will give Cruz a "clear path" in Indiana. ](/news/2016/04/25/the-presidential-campaigns-of-texas-senator-ted-cruz-and-governor-of-ohio-john-kasich-announce-they-will-now-coordinate-strategies-to-stop-f.md) _Context: Oregon_
+10. [ U.S. federal authorities arrest militia leader Ammon Bundy and several of his followers following an exchange of gunfire at a traffic stop on U.S. Route 395 in Harney County, Oregon. One person, LaVoy Finicum, a rancher from Arizona and spokesman for the militia, was killed in the shootout. ](/news/2016/01/26/u-s-federal-authorities-arrest-militia-leader-ammon-bundy-and-several-of-his-followers-following-an-exchange-of-gunfire-at-a-traffic-stop.md) _Context: Oregon_

@@ -1,0 +1,23 @@
+### [2016-04-22](/news/2016/04/22/index.md)
+
+# President of FIFA Gianni Infantino says a new independent committee will be set up to monitor working conditions at Qatar's 2022 World Cup venues. The move is an attempt by the world football's governing body to ease fears of human rights abuses in the state, where organizations like Amnesty International documented multiple cases of poor working conditions and abuses against migrant workers. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/sport/football/36109276)
+
+### Related:
+
+1. [Officials of FIFA meet in Zurich for the 2016 FIFA Extraordinary Congress to select a new President of FIFA to replace Sepp Blatter. Gianni Infantino is elected with a majority of votes in the second round of voting. ](/news/2016/02/26/officials-of-fifa-meet-in-za1-4rich-for-the-2016-fifa-extraordinary-congress-to-select-a-new-president-of-fifa-to-replace-sepp-blatter-gianni.md) _Context: Gianni Infantino, President of FIFA_
+2. [The 15-page article published by French football magazine ''France Football'' and titled ''The Qatargate'' reveals evidence pointing towards Qatar buying the right to host the 2022 FIFA World Cup. ](/news/2013/01/29/the-15-page-article-published-by-french-football-magazine-france-football-and-titled-the-qatargate-reveals-evidence-pointing-towards.md) _Context: 2022 FIFA World Cup, Qatar_
+3. [Groups including Amnesty International and Human Rights Watch urge Qatar to release Mohammed al-Ajami, the poet held since last year on charges of "inciting to overthrow the ruling system" and "insulting the emir". ](/news/2012/10/30/groups-including-amnesty-international-and-human-rights-watch-urge-qatar-to-release-mohammed-al-ajami-the-poet-held-since-last-year-on-char.md) _Context: Amnesty International, Qatar_
+4. [FIFA executive committee member Franz Beckenbauer says Qatar ought to be allowed to host the 2022 FIFA World Cup, the first in the Middle East and in an Arab country, during winter in an unusual move. The event is usually held during summer months. ](/news/2010/12/4/fifa-executive-committee-member-franz-beckenbauer-says-qatar-ought-to-be-allowed-to-host-the-2022-fifa-world-cup-the-first-in-the-middle-ea.md) _Context: 2022 FIFA World Cup, Qatar_
+5. [There are mass celebrations on the streets of Doha, Qatar, following FIFA's announcement that the country of 1,696,563 people is to present the 2022 FIFA World Cup. ](/news/2010/12/3/there-are-mass-celebrations-on-the-streets-of-doha-qatar-following-fifa-s-announcement-that-the-country-of-1-696-563-people-is-to-present.md) _Context: 2022 FIFA World Cup, Qatar_
+6. [Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-others-related-to-incidents-that.md) _Context: Amnesty International_
+7. [A report by Amnesty International states that between 5,000 and 13,000 people, most of them civilians, were hanged at the military-run Sednaya Prison near Damascus between September 2011 and December 2015. ](/news/2017/02/7/a-report-by-amnesty-international-states-that-between-5-000-and-13-000-people-most-of-them-civilians-were-hanged-at-the-military-run-sedna.md) _Context: Amnesty International_
+8. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Amnesty International_
+9. [ Amnesty International criticizes a Saudi court decision to impose the death sentence on 15 people in a case involving 32 people including 30 Saudis, one Iranian and one Afghan national in an alleged Iranian spy cell. ](/news/2016/12/6/amnesty-international-criticizes-a-saudi-court-decision-to-impose-the-death-sentence-on-15-people-in-a-case-involving-32-people-including-3.md) _Context: Amnesty International_
+10. [Amnesty International reports Nigerian security forces have killed more 150 pro-Biafra demonstrators since August 2015. ](/news/2016/11/24/amnesty-international-reports-nigerian-security-forces-have-killed-more-150-pro-biafra-demonstrators-since-august-2015.md) _Context: Amnesty International_

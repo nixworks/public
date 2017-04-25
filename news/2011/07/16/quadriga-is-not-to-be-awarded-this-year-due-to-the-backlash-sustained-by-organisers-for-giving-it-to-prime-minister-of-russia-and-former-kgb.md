@@ -1,0 +1,27 @@
+### [2011-07-16](/news/2011/07/16/index.md)
+
+# Quadriga is not to be awarded this year due to the backlash sustained by organisers for giving it to Prime Minister of Russia and former KGB spy chief Vladimir Putin. Among the upheaval Danish artist Olafur Eliasson gave back his award and Vaclav Havel was reported to be considering doing that too. 
+
+Russian PM Vladimir Putin will no longer be awarded a prestigious German rights prize after the move was widely criticised.
+
+
+### Source:
+
+1. [The Washington Post](http://www.washingtonpost.com/world/europe/german-foundation-cancels-ceremony-to-honor-russias-putin-after-criticism-of-nomination/2011/07/16/gIQAB0nuHI_story.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15240096,00.html)
+3. [The New York Times](http://www.nytimes.com/2011/07/17/world/europe/17germany.html)
+4. [BBC](http://www.bbc.co.uk/news/world-europe-14173814)
+5. [Reuters](http://www.reuters.com/article/2011/07/16/us-germany-putin-award-idUSTRE76F1CO20110716)
+
+### Related:
+
+1. [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md) _Context: Prime Minister, Vladimir Putin_
+2. [The local KGB in Minsk arrests about 100 Ukrainian and 30 Belarusian soccer fans at a qualifying match between Ukraine and Belarus for the 2016 European Championship after they a sang the song, Putin-Huilo! (which roughly translates as "Putin is a dickhead!"). ](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.md) _Context: KGB, Vladimir Putin_
+3. [Voters in Russia go to the polls for a presidential election with Prime Minister Vladimir Putin claiming victory despite allegations of voter fraud. ](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.md) _Context: Prime Minister, Vladimir Putin_
+4. [Tens of thousands rally at Moscow's Luzhniki Stadium in support of the Prime Minister Vladimir Putin's candidacy for President of Russia in the upcoming election on March 4th. ](/news/2012/02/23/tens-of-thousands-rally-at-moscow-s-luzhniki-stadium-in-support-of-the-prime-minister-vladimir-putin-s-candidacy-for-president-of-russia-in.md) _Context: Prime Minister, Vladimir Putin_
+5. [At the United Russia Congress, Prime Minister Vladimir Putin accepts President Dmitry Medvedev's proposal to run in the 2012 Russian presidential election. ](/news/2011/09/24/at-the-united-russia-congress-prime-minister-vladimir-putin-accepts-president-dmitry-medvedev-s-proposal-to-run-in-the-2012-russian-preside.md) _Context: Prime Minister, Vladimir Putin_
+6. [Russian President Dmitry Medvedev orders Prime Minister Vladimir Putin to remove his deputies on the boards of state companies by 1 July. ](/news/2011/04/3/russian-president-dmitry-medvedev-orders-prime-minister-vladimir-putin-to-remove-his-deputies-on-the-boards-of-state-companies-by-1-july.md) _Context: Prime Minister, Vladimir Putin_
+7. [Vladimir Putin, the Prime Minister of Russia, bans export of flour and wheat from August 15 to December 31 due to the worst drought in Russian history. ](/news/2010/08/6/vladimir-putin-the-prime-minister-of-russia-bans-export-of-flour-and-wheat-from-august-15-to-december-31-due-to-the-worst-drought-in-russi.md) _Context: Prime Minister, Vladimir Putin_
+8. [Russian police detain more than 150 people including prominent opponents of Prime Minister of Russia Vladimir Putin such as former Deputy Prime Minister Boris Nemtsov, following protests in Moscow and Saint Petersburg in support of freedom of assembly. ](/news/2010/08/31/russian-police-detain-more-than-150-people-including-prominent-opponents-of-prime-minister-of-russia-vladimir-putin-such-as-former-deputy-pr.md) _Context: Prime Minister, Vladimir Putin_
+9. [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md) _Context: Prime Minister, Vladimir Putin_
+10. [Prime Minister of Russia Vladimir Putin announces the country is to invest $800 million into a new spaceport near Uglegorsk in the Far East. ](/news/2010/07/20/prime-minister-of-russia-vladimir-putin-announces-the-country-is-to-invest-800-million-into-a-new-spaceport-near-uglegorsk-in-the-far-east.md) _Context: Prime Minister, Vladimir Putin_

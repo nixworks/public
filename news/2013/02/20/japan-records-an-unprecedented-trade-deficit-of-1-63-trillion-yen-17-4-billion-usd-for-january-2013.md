@@ -1,0 +1,24 @@
+### [2013-02-20](/news/2013/02/20/index.md)
+
+# Japan records an unprecedented trade deficit of 1.63 trillion yen ($17.4 billion USD) for January 2013. 
+
+
+
+
+### Source:
+
+1. [AP via ''Time](http://world.time.com/2013/02/19/japan-posts-record-17-4b-trade-deficit-in-jan/)
+2. [Bloomberg](http://www.bloomberg.com/news/2013-02-19/japan-export-gain-fails-to-prevent-trade-deficit-reaching-record.html)
+
+### Related:
+
+1. [The United States reclaims its spot as the top export market for Japan as China slips due to economic slowdown. Japan's overall annual trade deficit meanwhile reaches 8.2 trillion yen, the highest on record. ](/news/2013/04/18/the-united-states-reclaims-its-spot-as-the-top-export-market-for-japan-as-china-slips-due-to-economic-slowdown-japan-s-overall-annual-trade.md) _Context: Japan, trade deficit_
+2. [Japan's balance of trade deficit reaches a record high due to the strong value of the Japanese yen and higher fuel costs following the Fukushima Daiichi nuclear disaster. ](/news/2012/02/20/japan-s-balance-of-trade-deficit-reaches-a-record-high-due-to-the-strong-value-of-the-japanese-yen-and-higher-fuel-costs-following-the-fukus.md) _Context: Japan, trade deficit_
+3. [ Japan reports its first annual trade deficit since 1981. ](/news/2009/04/22/japan-reports-its-first-annual-trade-deficit-since-1981.md) _Context: Japan, trade deficit_
+4. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan_
+5. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Japan_
+6. [A Japanese fleet returns home after hunting 333 whales in the Antarctic. The Japanese government states that the purpose was for research. ](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333-whales-in-the-antarctic-the-japanese-government-states-that-the-purpose-was-for-research.md) _Context: Japan_
+7. [An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. ](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.md) _Context: Japan_
+8. [Japan ratifies the  Trans-Pacific Partnership. ](/news/2016/12/9/japan-ratifies-the-trans-pacific-partnership.md) _Context: Japan_
+9. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan_
+10. [A 6.9 magnitude earthquake off Japan's Fukushima Prefecture injures 15 people, and triggers a 1 meter tsunami that causes a temporary power disruption at Fukushima Daini Nuclear Power Plant. ](/news/2016/11/22/a-6-9-magnitude-earthquake-off-japan-s-fukushima-prefecture-injures-15-people-and-triggers-a-1-meter-tsunami-that-causes-a-temporary-power.md) _Context: Japan_

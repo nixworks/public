@@ -1,0 +1,10 @@
+### [2007-08-2](/news/2007/08/2/index.md)
+
+#  The first-ever United Nations plenary session on climate change is extended into a third day due to the large number of 'worried nations' wanting to describe their climate-related problems. 
+
+Third World countries given one more day to address members of how global warming may affect them.
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/story/0,2933,292008,00.html)

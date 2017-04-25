@@ -1,0 +1,23 @@
+### [2010-05-20](/news/2010/05/20/index.md)
+
+# Numerous countries condemn North Korea for the sinking of the South Korean vessel Cheonan; North Korea denies involvement, and threatens war if sanctions are imposed. 
+
+North Korea faces international anger after it is accused of sinking a South Korean navy ship - but China appeals for calm.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10131683.stm)
+
+### Related:
+
+1. [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS ''Cheonan''. ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md) _Context: North Korea, ROKS ''Cheonan''_
+2. [North Korea asks the United Nations Security Council to investigate the sinking of the ''Cheonan''. Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-south-korea-wants-the-coun.md) _Context: North Korea, ROKS ''Cheonan''_
+3. [Increased tensions over the sinking of the South Korean warship ROKS Cheonan (PCC-772): South Korea begins broadcasting propaganda over its border with North Korea. North Korea severs all ties and communications with the South and expels Southern workers from a jointly-run factory above the border. ](/news/2010/05/25/increased-tensions-over-the-sinking-of-the-south-korean-warship-roks-cheonan-pcc-772-south-korea-begins-broadcasting-propaganda-over-its.md) _Context: North Korea, ROKS ''Cheonan''_
+4. [Sinking of the ROKS ''Cheonan'':South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-psouth-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md) _Context: North Korea, ROKS ''Cheonan''_
+5. [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean ''Cheonan'' warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-n.md) _Context: North Korea, ROKS ''Cheonan''_
+6. [The United States Pacific Command deploys warships, including the USS ''Carl Vinson'', to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north.md) _Context: North Korea_
+7. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea_
+8. [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _Context: North Korea_
+9. [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md) _Context: North Korea_
+10. [The U.S. Pacific Command and South Korea's Joint Chiefs of Staff report  that a North Korean missile, tested near the city of Sinpo on  the country's east coast, blew up almost immediately after the launch, just hours before U.S. Vice President Mike Pence was due in South Korea for talks about the North's arms program. ](/news/2017/04/16/the-u-s-pacific-command-and-south-korea-s-joint-chiefs-of-staff-report-that-a-north-korean-missile-tested-near-the-city-of-sinpo-on-the.md) _Context: North Korea_

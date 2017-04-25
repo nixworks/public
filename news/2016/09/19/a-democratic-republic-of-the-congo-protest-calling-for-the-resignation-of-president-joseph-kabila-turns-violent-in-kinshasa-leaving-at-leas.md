@@ -1,0 +1,25 @@
+### [2016-09-19](/news/2016/09/19/index.md)
+
+# A Democratic Republic of the Congo protest calling for the resignation of President Joseph Kabila turns violent in Kinshasa, leaving at least 17 people dead, including three police officers. Opposition groups say that 50 people died. 
+
+Three police officers and 14 civilians die in Kinshasa, capital of DR Congo, during protests calling for President Joseph Kabila to step down.
+
+
+### Source:
+
+1. [Le Point](http://www.lepoint.fr/monde/kinshasa-au-moins-31-morts-lors-de-violences-et-de-pillages-19-09-2016-2069636_24.php)
+2. [BBC](http://www.bbc.com/news/world-africa-37406407)
+3. [DNA](http://www.dna.fr/actualite/2016/09/19/flambee-de-violence-a-kinshasa-au-moins-31-morts)
+
+### Related:
+
+1. [A day after street violence in the Democratic Republic of the Congo between protesters opposed to President Joseph Kabila and security forces left at least 44 dead, armed men in military uniforms burn down the headquarters of the main opposition Union for Democracy and Social Progress (UDPS) in Kinshasa, DR Congo, killing at least two people. ](/news/2016/09/20/a-day-after-street-violence-in-the-democratic-republic-of-the-congo-between-protesters-opposed-to-president-joseph-kabila-and-security-force.md) _Context: Democratic Republic of the Congo, Joseph Kabila, Kinshasa_
+2. [The Democratic Republic of the Congo recalls its ambassador to the Republic of Congo in connection with a raid on President Joseph Kabila's home in Kinshasa. ](/news/2011/03/25/the-democratic-republic-of-the-congo-recalls-its-ambassador-to-the-republic-of-congo-in-connection-with-a-raid-on-president-joseph-kabila-s.md) _Context: Democratic Republic of the Congo, Joseph Kabila, Kinshasa_
+3. [Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-joseph-kabila-reportedly-leave-more-th.md) _Context: Democratic Republic of the Congo, Joseph Kabila_
+4. [Police in the Democratic Republic of the Congo fire teargas at students protesting increases in school fees in the capital Kinshasa. The students had started throwing stones. ](/news/2015/11/18/police-in-the-democratic-republic-of-the-congo-fire-teargas-at-students-protesting-increases-in-school-fees-in-the-capital-kinshasa-the-stu.md) _Context: Democratic Republic of the Congo, Kinshasa_
+5. [Police in the Democratic Republic of Congo's capital Kinshasa fire on protesters opposing efforts by President Joseph Kabila to delay presidential and parliamentary elections due in 2016 leaving at least four people dead and ten injured. ](/news/2015/01/19/police-in-the-democratic-republic-of-congo-s-capital-kinshasa-fire-on-protesters-opposing-efforts-by-president-joseph-kabila-to-delay-presid.md) _Context: Joseph Kabila, Kinshasa_
+6. [Human Rights Watch claims that police in the Democratic Republic of the Congo's capital Kinshasa had killed at least 51 people in extrajudicial killings in a crackdown on kuluna gangs last November. ](/news/2014/11/18/human-rights-watch-claims-that-police-in-the-democratic-republic-of-the-congo-s-capital-kinshasa-had-killed-at-least-51-people-in-extrajudic.md) _Context: Democratic Republic of the Congo, Kinshasa_
+7. [Activists from the Enough Project reveal through ''The Guardian'' newspaper that Omar al-Bashir's Sudan and Joseph Kabila's DR Congo together received 2.4 million pound sterling (around USD 4 million) in British military aid, in the last five years alone. ](/news/2012/09/25/activists-from-the-enough-project-reveal-through-the-guardian-newspaper-that-omar-al-bashir-s-sudan-and-joseph-kabila-s-dr-congo-togethe.md) _Context: Democratic Republic of the Congo, Joseph Kabila_
+8. [A senior aide to the President of the Democratic Republic of the Congo, Joseph Kabila, is killed, and the Finance Minister Matata Ponyo Mapon is injured in a plane crash near the town of Bukavu. ](/news/2012/02/12/a-senior-aide-to-the-president-of-the-democratic-republic-of-the-congo-joseph-kabila-is-killed-and-the-finance-minister-matata-ponyo-mapo.md) _Context: Democratic Republic of the Congo, Joseph Kabila_
+9. [Security is increased in the Congolese capital Kinshasa prior to the announcement of results from presidential and parliamentary elections. ](/news/2011/12/8/security-is-increased-in-the-congolese-capital-kinshasa-prior-to-the-announcement-of-results-from-presidential-and-parliamentary-elections.md) _Context: Democratic Republic of the Congo, Kinshasa_
+10. [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md) _Context: Democratic Republic of the Congo, Kinshasa_

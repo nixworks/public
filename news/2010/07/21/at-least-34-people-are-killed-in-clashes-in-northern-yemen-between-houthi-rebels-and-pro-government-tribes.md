@@ -1,0 +1,24 @@
+### [2010-07-21](/news/2010/07/21/index.md)
+
+# At least 34 people are killed in clashes in northern Yemen between Houthi rebels and pro-government tribes. 
+
+Houthi rebels clash with government-allied tribesmen in north of country.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10713713)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/07/201072134622962696.html)
+
+### Related:
+
+1. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Houthi, Yemen_
+2. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Houthi, Yemen_
+3. [A Houthi missile attack on a Yemeni military camp near the port city of Mocha  kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md) _Context: Houthi, Yemen_
+4. [The United States Navy's destroyer USS ''Mason'' comes under missile attack in the Red Sea, off the coast of Yemen. The two missiles, fired from Yemeni territory controlled by Iranian-backed Houthis, impacted the water well before reaching the ship, according to Pentagon spokesman Captain Jeff Davis. ](/news/2016/10/9/the-united-states-navy-s-destroyer-uss-mason-comes-under-missile-attack-in-the-red-sea-off-the-coast-of-yemen-the-two-missiles-fired.md) _Context: Houthi, Yemen_
+5. [Yemeni Crisis (2011-present)	The United States Navy's USS ''Mason'' is fired on for the third time in a week from territory controlled by Houthi forces in Yemen, while in international waters of the Red Sea. The ship deployed countermeasures and was not struck, according to U.S. officials. ](/news/2016/10/15/yemeni-crisis-2011apresent-pthe-united-states-navy-s-uss-mason-is-fired-on-for-the-third-time-in-a-week-from-territory-controlled-by.md) _Context: Houthi, Yemen_
+6. [The U.S. military launches Tomahawk cruise missiles from the USS ''Nitze'' against Houthi-controlled radar sites in Yemen following two incidents in which, according to U.S. military, missiles were fired on United States Navy vessels in the Red Sea. ](/news/2016/10/13/the-u-s-military-launches-tomahawk-cruise-missiles-from-the-uss-nitze-against-houthi-controlled-radar-sites-in-yemen-following-two-inci.md) _Context: Houthi, Yemen_
+7. [The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-for-october-9-un.md) _Context: Houthi, Yemen_
+8. [Houthi forces launch rockets that hit and reportedly destroy HSV-2 ''Swift'', a military vessel belonging to the United Arab Emirates Navy, off the coast of Yemen, near the strategic Red Sea port of Mokha. ](/news/2016/10/1/houthi-forces-launch-rockets-that-hit-and-reportedly-destroy-hsv-2-swift-a-military-vessel-belonging-to-the-united-arab-emirates-navy.md) _Context: Houthi, Yemen_
+9. [Houthi shelling kills seven in Saudi Arabia; nine Yemenis from one family die from an airstrike by the Saudi-led alliance. ](/news/2016/08/16/houthi-shelling-kills-seven-in-saudi-arabia-nine-yemenis-from-one-family-die-from-an-airstrike-by-the-saudi-led-alliance.md) _Context: Houthi, Yemen_
+10. [Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. ](/news/2016/07/25/saudi-arabia-s-interior-ministry-says-five-border-guards-have-been-killed-following-clashes-with-houthi-militants-on-the-border-with-yemen.md) _Context: Houthi, Yemen_

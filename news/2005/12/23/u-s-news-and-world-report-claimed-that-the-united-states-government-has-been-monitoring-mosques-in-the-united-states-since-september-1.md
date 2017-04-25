@@ -1,0 +1,23 @@
+### [2005-12-23](/news/2005/12/23/index.md)
+
+#  ''U.S. News and World Report'' claimed that the United States government has been monitoring mosques in the United States since September 11 for traces of radiation. 
+
+
+
+
+### Source:
+
+1. [US News](http://www.usnews.com/usnews/news/articles/nest/051222nest.htm)
+
+### Related:
+
+1. [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md) _Context: United States, mosque_
+2. [ Salim Hamdan, the former driver for Osama Bin Laden, is convicted of supporting terrorism in the United States in the first military war crimes trial of a terror suspect captured after the September 11, 2001 attacks. ](/news/2008/08/6/salim-hamdan-the-former-driver-for-osama-bin-laden-is-convicted-of-supporting-terrorism-in-the-united-states-in-the-first-military-war-cr.md) _Context: September 11, 2001 attacks, United States_
+3. [ The United States files charges against six alleged al-Qaeda operatives including Khalid Sheikh Mohammed in connection with the September 11, 2001 attacks, seeking the death penalty for war crimes and murder. ](/news/2008/02/11/the-united-states-files-charges-against-six-alleged-al-qaeda-operatives-including-khalid-sheikh-mohammed-in-connection-with-the-september-1.md) _Context: September 11, 2001 attacks, United States_
+4. [ The President of Iran Mahmoud Ahmadinejad speaks at Columbia University stating that Americans should look into "who was truly involved" in the September 11, 2001 attacks, defending his right to denial of the Holocaust, and denying the existence of gay Iranians. ](/news/2007/09/24/the-president-of-iran-mahmoud-ahmadinejad-speaks-at-columbia-university-stating-that-americans-should-look-into-who-was-truly-involved-in.md) _Context: September 11, 2001 attacks, United States_
+5. [ September 11, 2001 attacks commemoration The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/september-11-2001-attacks-commemorationp-the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-c.md) _Context: September 11, 2001 attacks, United States_
+6. [ United States scientists John C. Mather and George Smoot win the Nobel Prize in physics for research into cosmic microwave background radiation that helps explain the origins of galaxies and stars. ](/news/2006/10/3/united-states-scientists-john-c-mather-and-george-smoot-win-the-nobel-prize-in-physics-for-research-into-cosmic-microwave-background-radia.md) _Context: United States, radiation_
+7. [ U.S. & New York leaders, along with families and friends of those who died in the September 11, 2001 attacks, remember the 5th anniversary of the attacks with speeches and moments of silence. ](/news/2006/09/11/u-s-new-york-leaders-along-with-families-and-friends-of-those-who-died-in-the-september-11-2001-attacks-remember-the-5th-anniversary.md) _Context: September 11, 2001 attacks, United States_
+8. [ A lengthy statement from al-Qaeda's second in command, Ayman al-Zawahiri, on the eve of the fifth anniversary of the September 11, 2001 attacks calls on Muslims to step up their resistance against the United States. ](/news/2006/09/10/a-lengthy-statement-from-al-qaeda-s-second-in-command-ayman-al-zawahiri-on-the-eve-of-the-fifth-anniversary-of-the-september-11-2001-att.md) _Context: September 11, 2001 attacks, United States_
+9. [ A Yemeni man, linked to the September 11, 2001 attacks in the United States, has been deported from New Zealand. It is only the second time that section 72 of the Immigration Act, which deals with threats to national security, has been used to deport someone. Its use requires the consent of the Governor-General, and there is no right of appeal. ](/news/2006/06/10/a-yemeni-man-linked-to-the-september-11-2001-attacks-in-the-united-states-has-been-deported-from-new-zealand-it-is-only-the-second-time.md) _Context: September 11, 2001 attacks, United States_
+10. [ Earl Krugel, a leader of the Jewish Defence League, is sentenced to 20 years in prison after pleading guilty to a plot to blow up a mosque in Los Angeles and Lebanese-American congressman Darrell Issa's office. His co-accused, Irv Rubin, committed suicide in 2002. ](/news/2005/09/23/earl-krugel-a-leader-of-the-jewish-defence-league-is-sentenced-to-20-years-in-prison-after-pleading-guilty-to-a-plot-to-blow-up-a-mosque.md) _Context: United States, mosque_

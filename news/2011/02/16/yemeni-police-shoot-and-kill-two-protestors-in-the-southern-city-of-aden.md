@@ -1,0 +1,23 @@
+### [2011-02-16](/news/2011/02/16/index.md)
+
+# Yemeni police shoot and kill two protestors in the southern city of Aden. 
+
+
+
+
+### Source:
+
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110216/wl_afp/yemenpoliticsunrest_20110216165553)
+
+### Related:
+
+1. [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md) _Context: Aden, policemen_
+2. [2011 Yemeni protests:Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-pyemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _Context: 2011 Yemeni protests, policemen_
+3. [2011 Yemeni protests:Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-panti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md) _Context: 2011 Yemeni protests, Aden_
+4. [Yemeni police storm a protest site in the capital Sana'a resulting in at least one death and dozens of injuries. ](/news/2011/03/12/yemeni-police-storm-a-protest-site-in-the-capital-sana-a-resulting-in-at-least-one-death-and-dozens-of-injuries.md) _Context: 2011 Yemeni protests, policemen_
+5. [A suicide bomber kills at least 50 soldiers and injures 70 more at a military barracks in Aden, Yemen. ](/news/2016/12/10/a-suicide-bomber-kills-at-least-50-soldiers-and-injures-70-more-at-a-military-barracks-in-aden-yemen.md) _Context: Aden_
+6. [The death toll of a suicide bombing in the southern Yemeni city of Aden rises to at least 71. Islamic State in Iraq and the Levant claims responsibility. ](/news/2016/08/29/the-death-toll-of-a-suicide-bombing-in-the-southern-yemeni-city-of-aden-rises-to-at-least-71-islamic-state-in-iraq-and-the-levant-claims-re.md) _Context: Aden_
+7. [A suicide car bomb, that targeted the Central Security headquarters in the port city of Aden, Yemen, kills at least 26 people. Following the blast, militants stormed the compound and clashed with soldiers. No group immediately claimed responsibility but it is similar to an Islamic State in Iraq and the Levant attack on the port of Al Mukalla. ](/news/2016/07/6/a-suicide-car-bomb-that-targeted-the-central-security-headquarters-in-the-port-city-of-aden-yemen-kills-at-least-26-people-following-the.md) _Context: Aden_
+8. [  At least 41 army recruits are killed and 60 others injured in a suicide car bomb attack in Aden, Yemen. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/at-least-41-army-recruits-are-killed-and-60-others-injured-in-a-suicide-car-bomb-attack-in-aden-yemen-the-islamic-state-of-iraq-and-the.md) _Context: Aden_
+9. [Gunmen shoot dead the police chief of Aden's Tawahi district and one of his aides. ](/news/2016/03/5/gunmen-shoot-dead-the-police-chief-of-aden-s-tawahi-district-and-one-of-his-aides.md) _Context: Aden_
+10. [At least 22 people are killed following three suicide bombings in the Yemeni port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the bombings. ](/news/2016/03/25/at-least-22-people-are-killed-following-three-suicide-bombings-in-the-yemeni-port-city-of-aden-the-islamic-state-of-iraq-and-the-levant-cla.md) _Context: Aden_

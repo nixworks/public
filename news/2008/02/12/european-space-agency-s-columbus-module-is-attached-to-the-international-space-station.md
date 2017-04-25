@@ -1,0 +1,23 @@
+### [2008-02-12](/news/2008/02/12/index.md)
+
+#  European Space Agency's Columbus module is attached to the International Space Station. 
+
+Europe’s new Columbus science module became a permanent part of the International Space Station on Monday.
+
+
+### Source:
+
+1. [The New York Times](http://www.nytimes.com/2008/02/11/science/space/11cnd-shuttle.html)
+
+### Related:
+
+1. [ The launch of Space Shuttle ''Atlantis'''s STS-122 mission, which will deliver ESA's Columbus module to the International Space Station, is delayed for one day due to a sensor malfunction. ](/news/2007/12/6/the-launch-of-space-shuttle-atlantis-s-sts-122-mission-which-will-deliver-esa-s-columbus-module-to-the-international-space-station-is.md) _Context: Columbus module, European Space Agency, International Space Station_
+2. [Three astronauts return from a mission to the International Space Station, Briton Tim Peake of the European Space Agency, Timothy Kopra of NASA and Russian cosmonaut Yuri Malenchenko. ](/news/2016/06/18/three-astronauts-return-from-a-mission-to-the-international-space-station-briton-tim-peake-of-the-european-space-agency-timothy-kopra-of-n.md) _Context: European Space Agency, International Space Station_
+3. [The Soyuz TMA-19M, consisting of Expedition 46 crew members Yuri Malenchenko (RSA), Timothy Kopra (NASA) and Tim Peake (ESA), launches from the Baikonur Cosmodrome in Kazakhstan for the International Space Station (ISS) with Peake becoming the first Briton to represent the European Space Agency at the ISS. ](/news/2015/12/15/the-soyuz-tma-19m-consisting-of-expedition-46-crew-members-yuri-malenchenko-rsa-timothy-kopra-nasa-and-tim-peake-esa-launches-from.md) _Context: European Space Agency, International Space Station_
+4. [At a two-day council meeting of the European Space Agency (ESA) in Paris, Europe comes to an agreement to extend its operations at the International Space Station (ISS) until 2020. ](/news/2011/03/17/at-a-two-day-council-meeting-of-the-european-space-agency-esa-in-paris-europe-comes-to-an-agreement-to-extend-its-operations-at-the-inter.md) _Context: European Space Agency, International Space Station_
+5. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: International Space Station_
+6. [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md) _Context: International Space Station_
+7. [NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. ](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.md) _Context: International Space Station_
+8. [SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-from-kennedy-space-center-placing-a-dragon-spacecraft-in-orbit-and-recovering-the-launcher-s.md) _Context: International Space Station_
+9. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: International Space Station_
+10. [JAXA launches the unmanned  cargo spacecraft Kounotori 6, also known as HTV-6, from the Tanegashima Space Center to resupply the International Space Station. ](/news/2016/12/9/jaxa-launches-the-unmanned-cargo-spacecraft-kounotori-6-also-known-as-htv-6-from-the-tanegashima-space-center-to-resupply-the-internation.md) _Context: International Space Station_

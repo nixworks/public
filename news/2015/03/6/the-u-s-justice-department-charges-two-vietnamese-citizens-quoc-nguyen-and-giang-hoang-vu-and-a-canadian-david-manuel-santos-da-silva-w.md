@@ -1,0 +1,23 @@
+### [2015-03-6](/news/2015/03/6/index.md)
+
+# The U.S. Justice Department charges two Vietnamese citizens (Quoc Nguyen and Giang Hoang Vu) and a Canadian (David-Manuel Santos Da Silva) with running a massive cyberfraud ring that stole one billion email addresses, then sent spam offering knockoff software products of Adobe Systems Inc with the hacking having occurred between February 2009 and June 2012. The victim breaches include a massive 2011 attack on email marketing firm Epsilon, a unit of Alliance Data Systems Corp. Although the other two are in custody, Nguyen remains at large. The charge against Da Silva is conspiracy to commit money laundering. 
+
+Two Vietnamese citizens and a Canadian have been charged with running a massive cyberfraud ring that stole 1 billion email addresses, then sent spam offering knockoff software products, the U.S. Department of Justice said on Friday.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/03/06/us-usa-cybercrime-justice-idUSKBN0M21ZK20150306)
+
+### Related:
+
+1. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were  involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Vietnam_
+2. [U.S. immigration suspension, ''State of Washington v. Trump''Trump's travel ban remains suspended as the U.S. Court of Appeals for the Ninth Circuit denies the Justice Department's request to stay the ruling which blocks major portions of the executive order. ](/news/2017/02/5/u-s-immigration-suspension-state-of-washington-v-trump-ptrump-s-travel-ban-remains-suspended-as-the-u-s-court-of-appeals-for-the-nint.md) _Context: U.S. Justice Department_
+3. [Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. ](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.md) _Context: Vietnam_
+4. [The U.S. Justice Department tells the Ninth Circuit Court of Appeals that it won't be seeking further action by the court since this executive order will soon be replaced by a different one.  Justice added they expect the Ninth Circuit ruling will be vacated once the new executive order is issued. ](/news/2017/02/16/the-u-s-justice-department-tells-the-ninth-circuit-court-of-appeals-that-it-won-t-be-seeking-further-action-by-the-court-since-this-executi.md) _Context: U.S. Justice Department_
+5. [  The U.S. Justice Department (DOJ) issues final approval for Alaska Airlines to acquire Virgin America, in a US$2.6 billion dollar merger. In exchange for approval, the DOJ requires Alaska Airlines to reduce its partnership with American Airlines. ](/news/2016/12/6/the-u-s-justice-department-doj-issues-final-approval-for-alaska-airlines-to-acquire-virgin-america-in-a-us-2-6-billion-dollar-merger.md) _Context: U.S. Justice Department_
+6. [Floods caused by heavy rain over the past week has caused at least 13 deaths in central Vietnam with more heavy rain forecast. ](/news/2016/12/4/floods-caused-by-heavy-rain-over-the-past-week-has-caused-at-least-13-deaths-in-central-vietnam-with-more-heavy-rain-forecast.md) _Context: Vietnam_
+7. [Floods in Vietnam kill at least 15. ](/news/2016/11/7/floods-in-vietnam-kill-at-least-15.md) _Context: Vietnam_
+8. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Vietnam_
+9. [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md) _Context: U.S. Justice Department_
+10. [Vietnam reports its first microcephaly case likely to be linked to the Zika virus. ](/news/2016/10/30/vietnam-reports-its-first-microcephaly-case-likely-to-be-linked-to-the-zika-virus.md) _Context: Vietnam_

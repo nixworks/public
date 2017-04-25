@@ -1,0 +1,28 @@
+### [2010-04-12](/news/2010/04/12/index.md)
+
+# An Iranian and a Tajik are jailed for 25 years in Dubai over the 2009 killing of a Chechen militant commander. 
+
+A Dubai court convicted two men Monday of involvement in the 2009 assassination of Chechen military commander Sulim Yamadayev in Dubai, and handed them a life sentence.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8615054.stm)
+2. [The Star](http://thestar.com.my/news/story.asp?file=/2010/4/12/worldupdates/2010-04-12T162207Z_01_NOOTR_RTRMDNC_0_-476164-2&sec=Worldupdates)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE63B0Z720100412?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+4. [Miami Herald](http://www.miamiherald.com/2010/04/12/1575393/dubai-jails-2-for-25-years-over.html)
+5. [People's Daily Online](http://english.people.com.cn/90001/90777/90853/6947959.html)
+6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/12/AR2010041201464.html)
+
+### Related:
+
+1. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _Context: Dubai, Iran_
+2. [Works of art created by 30 celebrated Iranian artists go on sale at Bonhams auction house in Dubai. ](/news/2010/10/10/works-of-art-created-by-30-celebrated-iranian-artists-go-on-sale-at-bonhams-auction-house-in-dubai.md) _Context: Dubai, Iran_
+3. [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md) _Context: Iran_
+4. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Iran_
+5. [Citing a drop in demand, the Dubai-based, United Arab Emirates-owned airline Emirates Air announces a cut in flights to five of its 12 U.S. destinations.  The airline's Dubai hub, third-busiest in the world, is a major stop for travelers in countries affected by President Donald Trump's travel ban, and is also one of several Middle East airports affected by a U.S. ban on tablets, laptops, and similar devices in the passenger cabin. ](/news/2017/04/19/citing-a-drop-in-demand-the-dubai-based-united-arab-emirates-owned-airline-emirates-air-announces-a-cut-in-flights-to-five-of-its-12-u-s.md) _Context: Dubai_
+6. [Flash flooding caused by torrential rain leaves at least 17 people dead and 20 others missing in northwestern Iran, according to state television. ](/news/2017/04/15/flash-flooding-caused-by-torrential-rain-leaves-at-least-17-people-dead-and-20-others-missing-in-northwestern-iran-according-to-state-telev.md) _Context: Iran_
+7. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _Context: Iran_
+8. [Iranian Minister of Defence Hossein Dehghan confirms Iran tested a new missile, claiming that the test did not violate the 2015 nuclear deal nor UN resolution 2231. ](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.md) _Context: Iran_
+9. [The Iranian government declares three days of national mourning following the death of the former president and one of the key figures in the Islamic Republic. ](/news/2017/01/9/the-iranian-government-declares-three-days-of-national-mourning-following-the-death-of-the-former-president-and-one-of-the-key-figures-in-th.md) _Context: Iran_
+10. [A U.S. Navy destroyer fires three warning shots at four Iranian fast-attack vessels after they close in at a high speed near the Strait of Hormuz, according to U.S. defense officials. ](/news/2017/01/9/a-u-s-navy-destroyer-fires-three-warning-shots-at-four-iranian-fast-attack-vessels-after-they-close-in-at-a-high-speed-near-the-strait-of-h.md) _Context: Iran_

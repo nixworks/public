@@ -1,0 +1,23 @@
+### [2013-05-3](/news/2013/05/3/index.md)
+
+# Syrian civil war:Israeli warplanes bomb a Syrian weapons facility in an overnight attack. 
+
+Israel aircraft bombed a target in Syria on Thursday, an Obama administration official said, as United States officials said they were weighing options that included their own airstrikes.
+
+
+### Source:
+
+1. [The New York Times](http://www.nytimes.com/2013/05/04/world/middleeast/syria.html)
+
+### Related:
+
+1. [Syrian civil war: Three Syrian tanks have entered the demilitarized zone in the Golan Heights. Israel has launched a formal complaint to the United Nations. ](/news/2012/11/13/syrian-civil-war-pthree-syrian-tanks-have-entered-the-demilitarized-zone-in-the-golan-heights-israel-has-launched-a-formal-complaint-to-th.md) _Context: Israel, Syrian, Syrian Civil War_
+2. [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in  al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied.md) _Context: Israel, Syrian Civil War_
+3. [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md) _Context: Israel, Syrian Civil War_
+4. [European migrant crisis/Bodies of Syrian refugees are found on a beach in Turkey, including a 3-year-old boy, pictures of whose body spread virally and prompt grave international concern. ](/news/2015/09/3/european-migrant-crisis-bodies-of-syrian-refugees-are-found-on-a-beach-in-turkey-including-a-3-year-old-boy-pictures-of-whose-body-spread.md) _Context: Syrian, Syrian Civil War_
+5. [Syrian Civil War:Syrian troops capture  the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-civil-war-psyrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortre.md) _Context: Syrian, Syrian Civil War_
+6. [Syrian Civil War	46 Palestinians and Syrian residents in the Yarmouk Camp have died of starvation and lack of medical care, since October, from a Syrian army enforced blockade. ](/news/2014/01/14/syrian-civil-war-p46-palestinians-and-syrian-residents-in-the-yarmouk-camp-have-died-of-starvation-and-lack-of-medical-care-since-october.md) _Context: Syrian, Syrian Civil War_
+7. [Syrian civil war:Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/syrian-civil-war-pisraeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-missi.md) _Context: Israel, Syrian Civil War_
+8. [Syrian civil war:Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/syrian-civil-war-pfour-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-isr.md) _Context: Israel, Syrian Civil War_
+9. [Syrian civil war:Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/syrian-civil-war-pisraeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-he.md) _Context: Israel, Syrian Civil War_
+10. [Syrian civil war:Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/syrian-civil-war-pisrael-and-syria-exchange-gunfire-on-the-golan-heights.md) _Context: Israel, Syrian Civil War_

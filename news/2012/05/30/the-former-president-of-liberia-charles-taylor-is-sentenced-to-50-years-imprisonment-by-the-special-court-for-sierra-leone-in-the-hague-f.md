@@ -1,0 +1,23 @@
+### [2012-05-30](/news/2012/05/30/index.md)
+
+# The former President of Liberia, Charles Taylor, is sentenced to 50 years' imprisonment by the Special Court for Sierra Leone in The Hague for aiding and abetting war crimes during Sierra Leone's civil war. 
+
+A UN-backed court in The Hague sentences former Liberian President Charles Taylor to 50 years in jail for aiding war crimes in Sierra Leone.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-18259596)
+
+### Related:
+
+1. [The UN-backed Special Court for Sierra Leone in The Hague rejects an appeal against a conviction of former President of Liberia Charles Taylor on war crime charges. ](/news/2013/09/26/the-un-backed-special-court-for-sierra-leone-in-the-hague-rejects-an-appeal-against-a-conviction-of-former-president-of-liberia-charles-tayl.md) _Context: Charles Taylor, President of Liberia, Special Court for Sierra Leone, The Hague_
+2. [The Special Court for Sierra Leone at The Hague delivers its verdict in the trial of former President of Liberia Charles Taylor on charges of arming Sierra Leone's rebels in return for "blood diamonds" in the 1990s. He is convicted on charges related to aiding and abetting war crimes but acquitted of charges of ordering them. ](/news/2012/04/26/the-special-court-for-sierra-leone-at-the-hague-delivers-its-verdict-in-the-trial-of-former-president-of-liberia-charles-taylor-on-charges-o.md) _Context: President of Liberia, Sierra Leone, Special Court for Sierra Leone, The Hague_
+3. [ The Special Court for Sierra Leone convicts three Revolutionary United Front commanders of war crimes and crimes against humanity during an 11-year civil war. ](/news/2009/02/25/the-special-court-for-sierra-leone-convicts-three-revolutionary-united-front-commanders-of-war-crimes-and-crimes-against-humanity-during-an.md) _Context: Sierra Leone, Special Court for Sierra Leone, civil war, war crime_
+4. [The Special Court for Sierra Leone, sitting in The Hague, rules that model Naomi Campbell can be called to testify against former President of Liberia Charles Taylor in relation to her blood diamond. ](/news/2010/06/30/the-special-court-for-sierra-leone-sitting-in-the-hague-rules-that-model-naomi-campbell-can-be-called-to-testify-against-former-president.md) _Context: President of Liberia, Special Court for Sierra Leone, The Hague_
+5. [ The war crimes trial of former President of Liberia Charles G. Taylor at the UN-backed Special Court for Sierra Leone begins at The Hague. ](/news/2007/06/4/the-war-crimes-trial-of-former-president-of-liberia-charles-g-taylor-at-the-un-backed-special-court-for-sierra-leone-begins-at-the-hague.md) _Context: President of Liberia, Special Court for Sierra Leone, The Hague_
+6. [ Charles Taylor, the former President of Liberia, appears in court in The Hague to face 11 charges of war crimes and crimes against humanity. ](/news/2006/07/21/charles-taylor-the-former-president-of-liberia-appears-in-court-in-the-hague-to-face-11-charges-of-war-crimes-and-crimes-against-humanity.md) _Context: President of Liberia, Special Court for Sierra Leone, The Hague_
+7. [ Charles Taylor, former President of Liberia, leaves Sierra Leone for his human rights trial at The Hague. ](/news/2006/06/20/charles-taylor-former-president-of-liberia-leaves-sierra-leone-for-his-human-rights-trial-at-the-hague.md) _Context: President of Liberia, Sierra Leone, The Hague_
+8. [Dutch businessman Guus Kouwenhoven is found guilty of war crimes and arms trafficking for using his lumber business to sell weapons to Liberia's former president Charles Taylor during the country's civil war between 2000 and 2003 and is sentenced to 19 years in prison. ](/news/2017/04/22/dutch-businessman-guus-kouwenhoven-is-found-guilty-of-war-crimes-and-arms-trafficking-for-using-his-lumber-business-to-sell-weapons-to-liber.md) _Context: Charles Taylor, war crime_
+9. [The former Liberian President Charles Taylor arrives in the United Kingdom to serve the remainder of a 50-year sentence after becoming the first head of state to be convicted of war crimes since World War II. ](/news/2013/10/15/the-former-liberian-president-charles-taylor-arrives-in-the-united-kingdom-to-serve-the-remainder-of-a-50-year-sentence-after-becoming-the-f.md) _Context: Charles Taylor, President of Liberia_
+10. [The trial of former President of Liberia Charles Taylor is adjourned until Friday after he does not attend court in The Hague. ](/news/2011/02/9/the-trial-of-former-president-of-liberia-charles-taylor-is-adjourned-until-friday-after-he-does-not-attend-court-in-the-hague.md) _Context: President of Liberia, The Hague_

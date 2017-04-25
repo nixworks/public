@@ -1,0 +1,23 @@
+### [2010-04-12](/news/2010/04/12/index.md)
+
+# The centre-right Hungarian Civic Union (Fidesz) wins all 119 individual seats in the first round of Hungary's parliamentary elections. Their total of 206 seats gives them an outright majority in the National Assembly, with 121 seats still in play in the second round on April 25.The left-wing Hungarian Socialist Party (MSZP) wins 28 regional seats, while the far-right Jobbik (Movement for a Better Hungary) wins 26 regional seats. The remaining five seats went to the green party Politics Can Be Different (LMP). 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8614101.stm)
+
+### Related:
+
+1. [The National Assembly rejects Hungarian Prime Minister Viktor Orban's bill to block the settlement of refugees in Hungary. The far-right Jobbik party abstained from the vote, arguing the immigration ban should apply to all foreigners, and not just refugees. ](/news/2016/11/8/the-national-assembly-rejects-hungarian-prime-minister-viktor-orba-n-s-bill-to-block-the-settlement-of-refugees-in-hungary-the-far-right-jo.md) _Context: Hungary, Jobbik_
+2. [A Hungarian MP from the far right Jobbik party calls for a list of Jewish politicians and government employees who are a "threat to national security". The Hungarian Government later released a statement condemning the comments. ](/news/2012/11/27/a-hungarian-mp-from-the-far-right-jobbik-party-calls-for-a-list-of-jewish-politicians-and-government-employees-who-are-a-threat-to-national.md) _Context: Hungary, Jobbik_
+3. [Prime Minister Viktor Orban, winner of the 2010 parliamentary elections in Hungary, assumes office. ](/news/2010/05/29/prime-minister-viktor-orba-n-winner-of-the-2010-parliamentary-elections-in-hungary-assumes-office.md) _Context: 2010 parliamentary elections, Hungary_
+4. [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-a-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md) _Context: 2010 parliamentary elections, Hungary_
+5. [Centre-right Fidesz wins majority of parliamentary seats in the first round of the Hungarian general elections. ](/news/2010/04/11/centre-right-fidesz-wins-majority-of-parliamentary-seats-in-the-first-round-of-the-hungarian-general-elections.md) _Context: 2010 parliamentary elections, Hungary_
+6. [ 2006 protests in Hungary: Peaceful demonstrations began in Budapest and several cities of the countryside against the government in Hungary. On September 17th, 2006, an audio recording surfaced from a closed floor meeting after the Hungarian Socialist Party won the elections and before they announced several restraints on which Prime Minister Gyurcsny said, that "[...] Evidently, we lied throughout the last year-and-a-half, two years. It was totally clear that what we are saying is not true. [...]" Demonstrators demand a new election. ](/news/2006/09/18/2006-protests-in-hungary-p-peaceful-demonstrations-began-in-budapest-and-several-cities-of-the-countryside-against-the-government-in-hungar.md) _Context: Hungarian Socialist Party, Hungary_
+7. [The National Assembly of Hungary passes a bill that undermines the functioning of the Central European University (CEU). Academics and academic institutions worldwide have expressed support for CEU. ](/news/2017/04/4/the-national-assembly-of-hungary-passes-a-bill-that-undermines-the-functioning-of-the-central-european-university-ceu-academics-and-acade.md) _Context: Hungary_
+8. [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _Context: Hungary_
+9. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Hungary_
+10. [The far-right mayor of the Hungarian border village of Asotthalom, Laszlo Toroczkai, bans the open expression of Islam, including the construction of mosques and wearing of veils and headscarves, and the promotion of same-sex marriages. ](/news/2016/11/25/the-far-right-mayor-of-the-hungarian-border-village-of-asotthalom-la-szla3-toroczkai-bans-the-open-expression-of-islam-including-the-con.md) _Context: Hungary_

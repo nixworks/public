@@ -1,0 +1,24 @@
+### [2005-01-17](/news/2005/01/17/index.md)
+
+#  Venezuela has rejected the suggestion of Colombia to hold a regional summit to resolve the dispute over the capture of FARC leader Rodrigo Granda. Hugo Chvez states that he is willing to discuss the matter personally with lvaro Uribe. 
+
+
+
+
+### Source:
+
+1. [MercoPress](http://www.falkland-malvinas.com/Detalle.asp?NUM=4981)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4179759.stm)
+
+### Related:
+
+1. [ Venezuelan President Hugo Chvez says he is convinced that Colombian police captured FARC leader Rodrigo Granda in Venezuela, contrary to their claims that he was arrested in the Colombian border town of Ccuta. ](/news/2005/01/10/venezuelan-president-hugo-chavez-says-he-is-convinced-that-colombian-police-captured-farc-leader-rodrigo-granda-in-venezuela-contrary-to-t.md) _Context: Colombia, Hugo Ch·vez, Revolutionary Armed Forces of Colombia, Rodrigo Granda, Venezuela_
+2. [ South American diplomatic crisis: President Hugo Chvez orders the closure of the Venezuelan embassy in Colombia and moves ten battalions to the Colombian-Venezuelan border in response to the killing of FARC leader Ral Reyes in Ecuador by Colombian armed forces the previous day. Rafael Correa, the President of Ecuador, orders troops to the Colombian border. The Colombian government accuses Correa of having "a relationship and commitments" with FARC. ](/news/2008/03/2/south-american-diplomatic-crisis-president-hugo-chavez-orders-the-closure-of-the-venezuelan-embassy-in-colombia-and-moves-ten-battalions-t.md) _Context: Colombia, Hugo Ch·vez, Revolutionary Armed Forces of Colombia, Venezuela_
+3. [ Venezuela promises to investigate claims that Rodrigo Granda, a prominent member of the Colombian rebel group FARC, was captured from Caracas instead of from inside Colombia. Granda was arrested December 13, 2004. ](/news/2005/01/5/venezuela-promises-to-investigate-claims-that-rodrigo-granda-a-prominent-member-of-the-colombian-rebel-group-farc-was-captured-from-carac.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Rodrigo Granda, Venezuela_
+4. [President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. ](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.md) _Context: Colombia, Hugo Ch·vez, Venezuela_
+5. [Spain requests an explanation from Venezuela concerning allegations that it helped terrorist groups Euskadi Ta Askatasuna and FARC plot to kill Colombian President Alvaro Uribe and other Colombian personalities in Spanish soil. ](/news/2010/03/1/spain-requests-an-explanation-from-venezuela-concerning-allegations-that-it-helped-terrorist-groups-euskadi-ta-askatasuna-and-farc-plot-to-k.md) _Context: Colombia, Venezuela, √Ålvaro Uribe_
+6. [Colombian President Alvaro Uribe and Venezuelan President Hugo Chavez almost come to blows at the Rio Group summit in Playa del Carmen, Mexico, with Uribe taunting Chavez "Be a man! ... you're a coward face-to-face! Stay and argue face-to-face!" and Chavez responding with a simple "Go to Hell!" ](/news/2010/02/22/colombian-president-alvaro-uribe-and-venezuelan-president-hugo-cha-vez-almost-come-to-blows-at-the-rio-group-summit-in-playa-del-carmen-me.md) _Context: Colombia, Venezuela, √Ålvaro Uribe_
+7. [ Colombian President lvaro Uribe eases the terms for the release of 24 police and soldiers being held by Marxist FARC rebels. ](/news/2009/09/20/colombian-president-alvaro-uribe-eases-the-terms-for-the-release-of-24-police-and-soldiers-being-held-by-marxist-farc-rebels.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, √Ålvaro Uribe_
+8. [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md) _Context: Colombia, Venezuela, √Ålvaro Uribe_
+9. [ Venezuelan President Hugo Chavez announces plans to break off diplomatic relations with Colombia over the neighboring country's plan to allow U.S. troops access to its military bases. ](/news/2009/08/25/venezuelan-president-hugo-chavez-announces-plans-to-break-off-diplomatic-relations-with-colombia-over-the-neighboring-country-s-plan-to-all.md) _Context: Colombia, Hugo Ch·vez, Venezuela_
+10. [ Venezuela "freezes" diplomatic relations with Colombia, after a dispute over Swedish weapons bought by Venezuela were allegedly found on FARC rebels. ](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_

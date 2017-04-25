@@ -1,0 +1,23 @@
+### [2012-02-6](/news/2012/02/6/index.md)
+
+# Greek government debt crisis: The government of Greece fails to reach agreement over the terms of a new bailout from the European Union, but retracts the deadline they had given themselves to do so, 30 minutes before the deadline would have passed. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/business/2012/feb/06/greece-bailout-talks-eurozone-debt-crisis?CMP=twt_gu)
+
+### Related:
+
+1. [Greece demands an explanation from the International Monetary Fund (IMF) after an apparent leaked transcript suggested the IMF may threaten to pull out of the country's bailout as a tactic to force European lenders to offer more debt relief. Whistleblowing site WikiLeaks published what it said was the transcript of a March 19 conference call of three senior IMF officials discussing tactics to apply pressure on Greece, Germany and the EU to reach a deal in April. ](/news/2016/04/2/greece-demands-an-explanation-from-the-international-monetary-fund-imf-after-an-apparent-leaked-transcript-suggested-the-imf-may-threaten.md) _Context: European Union, Greek government-debt crisis_
+2. [A European Union leaders' summit to discuss the Greek debt crisis is cancelled due to failure of finance ministers to agree on Greek proposals. However, Eurozone leaders do meet, with discussions continuing into the night. ](/news/2015/07/12/a-european-union-leaders-summit-to-discuss-the-greek-debt-crisis-is-cancelled-due-to-failure-of-finance-ministers-to-agree-on-greek-proposa.md) _Context: European Union, Greek government-debt crisis_
+3. [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md) _Context: European Union, Greek government-debt crisis_
+4. [A meeting of the leaders of the parties comprising the Greek Government breaks up without agreeing to cuts prescribed by the European Union, the European Central Bank and the International Monetary Fund. ](/news/2012/02/8/a-meeting-of-the-leaders-of-the-parties-comprising-the-greek-government-breaks-up-without-agreeing-to-cuts-prescribed-by-the-european-union.md) _Context: European Union, government of Greece_
+5. [The Greek Cabinet approves additional austerity measures demanded by the European Union and International Monetary Fund. ](/news/2012/02/18/the-greek-cabinet-approves-additional-austerity-measures-demanded-by-the-european-union-and-international-monetary-fund.md) _Context: European Union, government of Greece_
+6. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: European Union_
+7. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: European Union_
+8. [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md) _Context: European Union_
+9. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: European Union_
+10. [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md) _Context: European Union_

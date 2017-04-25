@@ -1,0 +1,23 @@
+### [2008-03-9](/news/2008/03/9/index.md)
+
+#  The Socialist Workers' Party wins the Spanish general election, with the People's Party conceding defeat. 
+
+
+
+
+### Source:
+
+1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7285885.stm)
+
+### Related:
+
+1. [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md) _Context: People's Party, Socialist Workers' Party, Spain_
+2. [In Sunday's elections, Spain's  center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90  (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party  system since neither  major party won an absolute majority. Turnout was 73 percent. Spain's  new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who  ascended the throne in June 2014,  is constitutionally empowered to mediate. ](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.md) _Context: People's Party, Socialist Workers' Party, Spain_
+3. [Today's parliamentary election is forecast to end  Spain's two-party system as the traditional powers, the  center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party  and the liberal  Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp.md) _Context: People's Party, Socialist Workers' Party, Spain_
+4. [In local and regional elections in Spain, the conservative People's Party performs well, while the ruling Socialist Party suffers heavy losses. ](/news/2011/05/22/in-local-and-regional-elections-in-spain-the-conservative-people-s-party-performs-well-while-the-ruling-socialist-party-suffers-heavy-loss.md) _Context: People's Party, Socialist Workers' Party, Spain_
+5. [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md) _Context: People's Party, Socialist Workers' Party_
+6. [The conservative People's Party (PP) and  the left-wing Podemos party, which together hold 192 seats in Spain's 350-seat parliament following December's election, confirm they will vote against Spanish Socialist Workers' Party (PSOE) leader Pedro Sanchez's candidacy to form a new government. ](/news/2016/03/2/the-conservative-people-s-party-pp-and-the-left-wing-podemos-party-which-together-hold-192-seats-in-spainas-350-seat-parliament-follow.md) _Context: People's Party, Socialist Workers' Party_
+7. [Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-event-in-the-city-of-pontevedra.md) _Context: People's Party, Spain_
+8. [In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _Context: Spain_
+9. [Europol reports a total of more than 10,000 assault rifles and 400 shelling weapons were seized in northern Spain during an anti-trafficking operation in January. ](/news/2017/03/14/europol-reports-a-total-of-more-than-10-000-assault-rifles-and-400-shelling-weapons-were-seized-in-northern-spain-during-an-anti-trafficking.md) _Context: Spain_
+10. [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md) _Context: Spain_

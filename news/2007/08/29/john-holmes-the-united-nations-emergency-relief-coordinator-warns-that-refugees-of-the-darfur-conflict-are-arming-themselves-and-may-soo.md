@@ -1,0 +1,23 @@
+### [2007-08-29](/news/2007/08/29/index.md)
+
+#  John Holmes, the United Nations' emergency relief coordinator, warns that refugees of the Darfur conflict are arming themselves and may soon be able to defend themselves if the Sudanese government renews its attacks.  
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/6969284.stm)
+
+### Related:
+
+1. [Niger faces total crop failure worse than that of 2005, according to United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator John Holmes. ](/news/2010/04/28/niger-faces-total-crop-failure-worse-than-that-of-2005-according-to-united-nations-under-secretary-general-for-humanitarian-affairs-and-eme.md) _Context: John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
+2. [ John Holmes, United Nations Emergency Relief Coordinator, warns that the situation in Darfur could collapse if aid workers are prevented from doing their work. ](/news/2007/03/25/john-holmes-united-nations-emergency-relief-coordinator-warns-that-the-situation-in-darfur-could-collapse-if-aid-workers-are-prevented-fr.md) _Context: John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
+3. [Valerie Amos, the United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, visits the Baba Amr district in the Syrian city of Homs. ](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.md) _Context: Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
+4. [Sudan:Many international leaders stay away from the inauguration of Omar al-Bashir, wanted by the International Criminal Court for war crimes in Darfur, as he is sworn in as President of Sudan but at least five African presidents attend the event along with two UN representatives. ](/news/2010/05/27/sudan-pmany-international-leaders-stay-away-from-the-inauguration-of-omar-al-bashir-wanted-by-the-international-criminal-court-for-war-crim.md) _Context: Darfur conflict, United Nations_
+5. [ The Sudanese government announces the lifting of a partial ban on United Nations operations in the conflict-hit Darfur region. The ban was made after the government accused the UN of transporting a rebel leader who opposes a recent peace deal. ](/news/2006/06/25/the-sudanese-government-announces-the-lifting-of-a-partial-ban-on-united-nations-operations-in-the-conflict-hit-darfur-region-the-ban-was.md) _Context: Darfur conflict, United Nations_
+6. [ The government of Sudan rejects the United Nations' demand that the suspects of war crimes in the violence ridden western Sudanese region of Darfur would be put before the International Criminal Court in The Hague. ](/news/2005/02/17/the-government-of-sudan-rejects-the-united-nations-demand-that-the-suspects-of-war-crimes-in-the-violence-ridden-western-sudanese-region-o.md) _Context: Darfur conflict, United Nations_
+7. [ Darfur conflict: United Nations secretary general Kofi Annan warns that the security situation in Darfur is deteriorating. ](/news/2005/01/10/darfur-conflict-united-nations-secretary-general-kofi-annan-warns-that-the-security-situation-in-darfur-is-deteriorating.md) _Context: Darfur conflict, United Nations_
+8. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
+9. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
+10. [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md) _Context: United Nations_

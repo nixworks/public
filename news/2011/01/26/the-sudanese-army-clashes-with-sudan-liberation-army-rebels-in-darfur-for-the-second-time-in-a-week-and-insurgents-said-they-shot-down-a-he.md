@@ -1,0 +1,24 @@
+### [2011-01-26](/news/2011/01/26/index.md)
+
+# The Sudanese army clashes with Sudan Liberation Army rebels in Darfur for the second time in a week, and insurgents said they shot down a helicopter gunship, killing at least three people,  a claim denied by the army, which said it had killed 25 rebels. 
+
+
+
+
+### Source:
+
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hi3wV0RjFWm4AmNJU90BaxNN-ijQ?docId=CNG.6c85e79129d810fb6eaee39c9052d602.bf1)
+2. [Reuters](http://www.reuters.com/article/idUSTRE70O3DY20110125)
+
+### Related:
+
+1. [The Sudanese People's Armed Forces claim that the leader of the Justice and Equality Movement in Darfur, Khalil Ibrahim, has been killed. ](/news/2011/12/25/the-sudanese-people-s-armed-forces-claim-that-the-leader-of-the-justice-and-equality-movement-in-darfur-khalil-ibrahim-has-been-killed.md) _Context: Darfur, Sudan People's Armed Forces_
+2. [Sudanese government troops and Sudan Liberation Army rebels clash in the western Darfur region; two SLA rebels are reported killed. ](/news/2011/06/3/sudanese-government-troops-and-sudan-liberation-army-rebels-clash-in-the-western-darfur-region-two-sla-rebels-are-reported-killed.md) _Context: Darfur, Sudan Liberation Army_
+3. [Three Sudanese army officers are killed in a clash between rebel forces and the army in western Darfur. ](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.md) _Context: Darfur, Sudan People's Armed Forces_
+4. [Amnesty International say dozens of children in Darfur are among more than 200 people estimated to have been killed by Sudan government chemical weapons since January. ](/news/2016/09/28/amnesty-international-say-dozens-of-children-in-darfur-are-among-more-than-200-people-estimated-to-have-been-killed-by-sudan-government-chem.md) _Context: Darfur_
+5. [According to the Sudanese electoral commission, more than 97% of voters in Darfur choose to remain as five states rather than form a single region. However, The vote was held amid ongoing insecurity and many of Sudan's 2.5 million displaced people were not registered to vote, with the U.S. State Department warning that the referendum could not be considered credible "under current rules and conditions". ](/news/2016/04/23/according-to-the-sudanese-electoral-commission-more-than-97-of-voters-in-darfur-choose-to-remain-as-five-states-rather-than-form-a-single.md) _Context: Darfur_
+6. [Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. ](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.md) _Context: Darfur_
+7. [The High Court in Pretoria rules that the President of Sudan Omar Al-Bashir should be arrested in South Africa and detained pending a formal request from the International Criminal Court. However, immediately after the ruling, the South African Government announces that Al-Bashir has already departed. He is wanted in connection with the war in Darfur. ](/news/2015/06/15/the-high-court-in-pretoria-rules-that-the-president-of-sudan-omar-al-bashir-should-be-arrested-in-south-africa-and-detained-pending-a-formal.md) _Context: Darfur_
+8. [Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with-94-4-per-cent-of-the-vote-extend.md) _Context: Darfur_
+9. [134 people are reported to have been killed in a new wave of violence  between two rival tribes in Sudan's Darfur region. ](/news/2013/07/30/134-people-are-reported-to-have-been-killed-in-a-new-wave-of-violence-between-two-rival-tribes-in-sudan-s-darfur-region.md) _Context: Darfur_
+10. [Sudanese nomadic conflicts:Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/sudanese-nomadic-conflicts-ptribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md) _Context: Darfur_

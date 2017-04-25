@@ -1,0 +1,25 @@
+### [2015-09-1](/news/2015/09/1/index.md)
+
+# Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. 
+
+Rogue editors charged businesses and celebrities for Wikipedia entries and demanded ‘protection money’ to prevent changes online
+
+
+### Source:
+
+1. [Ars Technica](http://arstechnica.com/tech-policy/2015/09/wikipedia-blocks-hundreds-of-linked-accounts-for-suspect-editing/)
+2. [The Guardian](http://www.theguardian.com/technology/2015/sep/02/wikipedia-blocks-editor-accounts-linked-to-extortion-scam)
+3. [BBC](http://www.bbc.com/news/technology-34127466)
+
+### Related:
+
+1. [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md) _Context: Wikipedia_
+2. [The Wikimedia Foundation and eight other organisations file a lawsuit in the state of Maryland, US against the National Security Agency and the United States Department of Justice regarding the NSA's mass surveillance program. The Wikimedia Foundation is the owner and parent company of Wikipedia. ](/news/2015/03/10/the-wikimedia-foundation-and-eight-other-organisations-file-a-lawsuit-in-the-state-of-maryland-us-against-the-national-security-agency-and.md) _Context: Wikipedia_
+3. [The Russian Presidential Library announces plans to establish a Russian version of Wikipedia stating that it would provide more "detailed and accurate" information about the country. ](/news/2014/11/16/the-russian-presidential-library-announces-plans-to-establish-a-russian-version-of-wikipedia-stating-that-it-would-provide-more-detailed-an.md) _Context: Wikipedia_
+4. [Russia plans an "alternative Wikipedia". ](/news/2014/11/14/russia-plans-an-alternative-wikipedia.md) _Context: Wikipedia_
+5. [Edits to Wikipedia made via computers within the United States Congress are blocked for ten days after a series of disruptive edits on pages created by congressional staff members. ](/news/2014/07/25/edits-to-wikipedia-made-via-computers-within-the-united-states-congress-are-blocked-for-ten-days-after-a-series-of-disruptive-edits-on-pages.md) _Context: Wikipedia_
+6. [The UK government launches an inquiry after the ''Liverpool Echo'' reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks.md) _Context: Wikipedia_
+7. [An entry on the documentary film ''Fuck'' causes offence after the Wikipedia website features it prominently on its home page. ](/news/2014/03/1/an-entry-on-the-documentary-film-fuck-causes-offence-after-the-wikipedia-website-features-it-prominently-on-its-home-page.md) _Context: Wikipedia_
+8. [A main belt asteroid discovered at Ukraine's Andrushivka Astronomical Observatory in August 2008 is named 274301 Wikipedia after the Wikipedia encyclopedia. ](/news/2013/01/31/a-main-belt-asteroid-discovered-at-ukraine-s-andrushivka-astronomical-observatory-in-august-2008-is-named-274301-wikipedia-after-the-wikiped.md) _Context: Wikipedia_
+9. [The Russian Wikipedia goes blank for 24 hours in a protest over legislation before the State Duma that would allow the creation of a unified digital blacklist of all websites containing banned content. ](/news/2012/07/10/the-russian-wikipedia-goes-blank-for-24-hours-in-a-protest-over-legislation-before-the-state-duma-that-would-allow-the-creation-of-a-unified.md) _Context: Wikipedia_
+10. [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the ''Denver Post'' and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosur.md) _Context: Wikipedia_

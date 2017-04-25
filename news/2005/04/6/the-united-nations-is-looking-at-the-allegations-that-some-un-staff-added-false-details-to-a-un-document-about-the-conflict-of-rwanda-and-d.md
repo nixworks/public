@@ -1,0 +1,23 @@
+### [2005-04-6](/news/2005/04/6/index.md)
+
+#  The United Nations is looking at the allegations that some UN staff added false details to a UN document about the conflict of Rwanda and Democratic Republic of Congo. William Church, former UN employee and US intelligence analyst, says that some UN staff added false information about Rwandan military incursions to Congo last year. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4415061.stm)
+
+### Related:
+
+1. [A United Nations expert panel reports that although the two governments deny it, Rwanda and Uganda continue to support the March 23 Movement. ](/news/2012/10/16/a-united-nations-expert-panel-reports-that-although-the-two-governments-deny-it-rwanda-and-uganda-continue-to-support-the-march-23-movement.md) _Context: Rwanda, United Nations_
+2. [Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. ](/news/2012/09/9/nestor-louis-michel-calls-rwandan-president-paul-kagame-a-great-leader-groot-leider-kagame-has-been-accused-of-war-crimes-during-rwan.md) _Context: Democratic Republic of Congo, Rwanda_
+3. [The Democratic Republic of the Congo wants United Nations sanctions on Rwandese top military officials named in a June U.N. report as supporting the M23 rebels in the current east Congo conflict. ](/news/2012/09/3/the-democratic-republic-of-the-congo-wants-united-nations-sanctions-on-rwandese-top-military-officials-named-in-a-june-u-n-report-as-suppor.md) _Context: Rwanda, United Nations_
+4. [The trial of two Rwandan rebel leaders charged in connection with their part in crimes against humanity and war crimes carried out by their militias in the Democratic Republic of Congo in 2008 and 2009, begins in the Stuttgart high court, Germany. ](/news/2011/05/4/the-trial-of-two-rwandan-rebel-leaders-charged-in-connection-with-their-part-in-crimes-against-humanity-and-war-crimes-carried-out-by-their.md) _Context: Democratic Republic of Congo, Rwanda_
+5. [A United Nations Bombardier CRJ200 crashes at Bombardier CRJ200 in Kinshasa in the Democratic Republic of Congo killing 32 of 33 people on board. ](/news/2011/04/4/a-united-nations-bombardier-crj200-crashes-at-bombardier-crj200-in-kinshasa-in-the-democratic-republic-of-congo-killing-32-of-33-people-on-b.md) _Context: Democratic Republic of Congo, United Nations_
+6. [The United Nations publishes a toned down version of its report into war crimes said to have occurred in the Democratic Republic of the Congo during the 1990s after Uganda, Rwanda and Burundi rejected the report's findings. ](/news/2010/10/1/the-united-nations-publishes-a-toned-down-version-of-its-report-into-war-crimes-said-to-have-occurred-in-the-democratic-republic-of-the-cong.md) _Context: Rwanda, United Nations_
+7. [Rwanda withdraws a threat to remove its peacekeepers from Darfur after a United Nations report accused the Rwandan army of genocide in the Democratic Republic of the Congo. ](/news/2010/09/27/rwanda-withdraws-a-threat-to-remove-its-peacekeepers-from-darfur-after-a-united-nations-report-accused-the-rwandan-army-of-genocide-in-the-d.md) _Context: Rwanda, United Nations_
+8. [Rwanda threatens to limit cooperation with the United Nations after a report accused the country of war crimes in neighbouring Democratic Republic of the Congo. ](/news/2010/08/28/rwanda-threatens-to-limit-cooperation-with-the-united-nations-after-a-report-accused-the-country-of-war-crimes-in-neighbouring-democratic-re.md) _Context: Rwanda, United Nations_
+9. [A draft United Nations report says crimes by the Rwandan army and allied rebels in Democratic Republic of the Congo during the Second Congo War could be classified as genocide. ](/news/2010/08/27/a-draft-united-nations-report-says-crimes-by-the-rwandan-army-and-allied-rebels-in-democratic-republic-of-the-congo-during-the-second-congo.md) _Context: Rwanda, United Nations_
+10. [Uganda's government defends the forced repatriation of 1,700 Rwandan refugees, deemed "heavy-handed" by the United Nations; two people are killed in a group alleged to be a security risk following the July 2010 Kampala attacks. ](/news/2010/07/20/uganda-s-government-defends-the-forced-repatriation-of-1-700-rwandan-refugees-deemed-heavy-handed-by-the-united-nations-two-people-are-k.md) _Context: Rwanda, United Nations_

@@ -1,0 +1,23 @@
+### [2010-04-22](/news/2010/04/22/index.md)
+
+# The Euro falls to near year-low levels amid concerns about Greece's debt crisis. 
+
+
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aK.BjXdNJYhg)
+
+### Related:
+
+1. [The eurozone will pay out of 43.7 billion euros in loans to Greece from December 13 for reducing Greece's debt. ](/news/2012/11/27/the-eurozone-will-pay-out-of-43-7-billion-euros-in-loans-to-greece-from-december-13-for-reducing-greece-s-debt.md) _Context: Greece, euro_
+2. [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md) _Context: Greece, euro_
+3. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Greece_
+4. [Four Hellenic Army officers are killed and one is injured when their Bell UH-1 Iroquois border patrol helicopter crashes near Elassona in northern Greece. ](/news/2017/04/19/four-hellenic-army-officers-are-killed-and-one-is-injured-when-their-bell-uh-1-iroquois-border-patrol-helicopter-crashes-near-elassona-in-no.md) _Context: Greece_
+5. [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md) _Context: euro_
+6. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: euro_
+7. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: euro_
+8. [Over 70,000 people are evacuated from Thessaloniki, Greece, as authorities attempt to defuse a World War II-era unexploded ordnance, which was discovered last week. ](/news/2017/02/11/over-70-000-people-are-evacuated-from-thessaloniki-greece-as-authorities-attempt-to-defuse-a-world-war-ii-era-unexploded-ordnance-which-w.md) _Context: Greece_
+9. [European Union-The Gambia relationsThe European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/european-unionathe-gambia-relationspthe-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-th.md) _Context: euro_
+10. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: euro_

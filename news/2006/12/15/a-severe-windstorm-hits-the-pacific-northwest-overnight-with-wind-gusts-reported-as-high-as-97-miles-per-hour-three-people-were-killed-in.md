@@ -1,0 +1,24 @@
+### [2006-12-15](/news/2006/12/15/index.md)
+
+#  A severe windstorm hits the Pacific Northwest overnight, with wind gusts reported as high as 97 miles per hour. Three people were killed in Washington, and at the peak of the storm about one million homes in western Washington and over 400,000 in the Greater Portland area were without electricity. In British Columbia, Stanley Park sustains more than $9 million damage. 
+
+
+
+
+### Source:
+
+1. [Oregonlive](http://www.oregonlive.com/newslogs/oregonian/index.ssf?/mtlogs/olive_oregonian_news/archives/2006_12.html#215831)
+2. [Bellingham Herald](http://www.bellinghamherald.com/102/story/44024.html)
+
+### Related:
+
+1. [In the Pacific Northwest region of the United States, a windstorm with gusts as high as {{convert|119|mph|kph}} kills 4 people and leaves more than 1 million without electricity; some rivers in Western Washington also experience moderate to severe flooding. Washington Governor Jay Inslee declares a state of emergency after the storm, requesting federal assistance with cleanup efforts. ](/news/2015/11/17/in-the-pacific-northwest-region-of-the-united-states-a-windstorm-with-gusts-as-high-as-convert-119-mph-kph-kills-4-people-and-leaves-mo.md) _Context: Pacific Northwest, Washington_
+2. [A wind and rainstorm in the Pacific Northwest of the United States results in the loss of power to 114,000 in Portland, Oregon. ](/news/2011/03/13/a-wind-and-rainstorm-in-the-pacific-northwest-of-the-united-states-results-in-the-loss-of-power-to-114-000-in-portland-oregon.md) _Context: Pacific Northwest, Portland_
+3. [ A very high plume of ash and steam is seen coming from the direction of active volcano Mount St. Helens in the U.S. state of Washington. The plume is visible as far away as Portland, Oregon. (Wikinews) ](/news/2005/03/8/a-very-high-plume-of-ash-and-steam-is-seen-coming-from-the-direction-of-active-volcano-mount-st-helens-in-the-u-s-state-of-washington-th.md) _Context: Portland, Washington_
+4. [A U.S. federal judge in Hawaii, finding the revised federal immigration/refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md) _Context: Washington_
+5. [Alaska Airlines cancels 20 flights into and out of Seattle due to inclement weather forecast in the Pacific Northwest area. ](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.md) _Context: Pacific Northwest_
+6. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: Portland_
+7. [A natural gas explosion damages several buildings and injures eight people in downtown Portland, Oregon. ](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildings-and-injures-eight-people-in-downtown-portland-oregon.md) _Context: Portland_
+8. [The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _Context: Washington_
+9. [A group of United States mayors forms ''"Mayors Against Discrimination"'' in the wake of  recent discriminatory laws enacted  in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carol.md) _Context: Portland_
+10. [In Seattle, Washington, a Seattle Fire Department crew, responding to reports of a natural gas leak in the Greenwood neighborhood, are caught in an explosion that injures nine firefighters. The explosion blew out windows in businesses and storefronts in the surrounding blocks, destroying three businesses and heavily damaging a fourth. ](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-crew-responding-to-reports-of-a-natural-gas-leak-in-the-greenwood-neighborhood-are-caugh.md) _Context: Washington_

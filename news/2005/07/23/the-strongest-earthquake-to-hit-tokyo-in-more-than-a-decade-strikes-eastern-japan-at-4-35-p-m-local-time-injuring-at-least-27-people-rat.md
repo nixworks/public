@@ -1,0 +1,23 @@
+### [2005-07-23](/news/2005/07/23/index.md)
+
+#  The strongest earthquake to hit Tokyo in more than a decade strikes eastern Japan at 4:35 p.m. local time, injuring at least 27 people, rattling buildings and disrupting train and plane services. 
+
+An earthquake with a magnitude of 6.0 shook eastern Japan, rattling buildings in Tokyo and disrupting train services.
+
+
+### Source:
+
+1. [CBC](http://www.cbc.ca/world/story/2005/07/23/tokyo-quake-050723.html)
+
+### Related:
+
+1. [A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. ](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.md) _Context: Japan, Tokyo, earthquake_
+2. [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md) _Context: Japan, Tokyo_
+3. [Yoichi Masuzoe resigns as the Governor of the Japanese capital Tokyo over a political funding scandal. He was due to face a no-confidence motion in the Tokyo Metropolitan Assembly later today. ](/news/2016/06/15/yaichi-masuzoe-resigns-as-the-governor-of-the-japanese-capital-tokyo-over-a-political-funding-scandal-he-was-due-to-face-a-no-confidence-m.md) _Context: Japan, Tokyo_
+4. [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md) _Context: Japan, earthquake_
+5. [Thousands protest outside the Japanese parliament in Tokyo against the  relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md) _Context: Japan, Tokyo_
+6. [Japan deploys two MIM-104 Patriot surface-to-air missile interceptor systems in Tokyo in preparation for any North Korean ballistic missiles potentially heading for the city. The deployment comes amid concerns of an imminent North Korean missile launch following the detection of "increased activity" at a North Korean missile facility. ](/news/2016/01/31/japan-deploys-two-mim-104-patriot-surface-to-air-missile-interceptor-systems-in-tokyo-in-preparation-for-any-north-korean-ballistic-missiles.md) _Context: Japan, Tokyo_
+7. [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September,  is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md) _Context: Japan, Tokyo_
+8. [An  explosion at Japan's controversial Yasukuni Shrine for the war dead in Tokyo damages the ceiling and a wall of a public bathroom near the shrine's southern entrance. No one was injured. ](/news/2015/11/23/an-explosion-at-japan-s-controversial-yasukuni-shrine-for-the-war-dead-in-tokyo-damages-the-ceiling-and-a-wall-of-a-public-bathroom-near-th.md) _Context: Japan, Tokyo_
+9. [The U.S. Geological Survey reports a magnitude 6.7 earthquake struck off the southwest coast of Japan. The quake occurred 119 miles (191 km) west-southwest of Kagoshima. The Pacific Tsunami Center reported no major tsunami threat. A small tsunami, 30 centimeters (11.8 inches), was observed on the southern island of Nakanoshima. No reports of major damage or injuries. ](/news/2015/11/14/the-u-s-geological-survey-reports-a-magnitude-6-7-earthquake-struck-off-the-southwest-coast-of-japan-the-quake-occurred-119-miles-191-km.md) _Context: Japan, earthquake_
+10. [Japanese anti-militarism protestsStudents and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/japanese-anti-militarism-protestspstudents-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md) _Context: Japan, Tokyo_

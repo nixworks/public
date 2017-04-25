@@ -1,0 +1,23 @@
+### [2007-10-15](/news/2007/10/15/index.md)
+
+#  Montenegrin Prime Minister Zeljko Sturanovic signs a Stabilisation and Association Agreement with the European Union, saying that Montenegro is hoping to lodge an official application for EU membership in the first half of 2008. 
+
+
+
+
+### Source:
+
+1. [EUobserver](http://euobserver.com/9/24972)
+
+### Related:
+
+1. [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md) _Context: Montenegro, Prime Minister_
+2. [Thousands protest and clash with police in Montenegro's capital Podgorica, demanding the immediate resignation of Prime Minister Milo Dukanovic. Dukanovic has rejected calls to resign and has accused the opposition of trying to prevent the country's NATO membership, saying he is convinced Russia is behind the unrest. ](/news/2015/10/24/thousands-protest-and-clash-with-police-in-montenegro-s-capital-podgorica-demanding-the-immediate-resignation-of-prime-minister-milo-aukan.md) _Context: Montenegro, Prime Minister_
+3. [Montenegrin Prime Minister Milo Dukanovic resigns, citing a need for new leadership, and his intentions to turn to business. ](/news/2010/12/22/montenegrin-prime-minister-milo-aukanovia-resigns-citing-a-need-for-new-leadership-and-his-intentions-to-turn-to-business.md) _Context: Montenegro, Prime Minister_
+4. [Milo Dukanovic resigns as Prime Minister of Montenegro. ](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.md) _Context: Montenegro, Prime Minister_
+5. [ Montenegro presents its official application for European Union membership to current EU Council President Nicolas Sarkozy, hoping to win candidate status in 2009. ](/news/2008/12/15/montenegro-presents-its-official-application-for-european-union-membership-to-current-eu-council-president-nicolas-sarkozy-hoping-to-win-c.md) _Context: European Union, Montenegro_
+6. [ EU's representative in Kosovo Pieter Feith says he expects Montenegro will recognize Kosovo's unilateral independence "as soon as possible", as it would "contribute to regional stability". ](/news/2008/06/25/eu-s-representative-in-kosovo-pieter-feith-says-he-expects-montenegro-will-recognize-kosovo-s-unilateral-independence-as-soon-as-possible.md) _Context: European Union, Montenegro_
+7. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: European Union_
+8. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: European Union_
+9. [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md) _Context: European Union_
+10. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: European Union_

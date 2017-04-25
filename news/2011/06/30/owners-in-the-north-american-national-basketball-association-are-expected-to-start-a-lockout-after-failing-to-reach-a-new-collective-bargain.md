@@ -1,0 +1,23 @@
+### [2011-06-30](/news/2011/06/30/index.md)
+
+# Owners in the North American National Basketball Association are expected to start a lockout after failing to reach a new collective bargaining agreement. 
+
+NBA owners expected to lock out players at midnight after both sides fail to agree on new CBA.
+
+
+### Source:
+
+1. [Washington Post](http://www.washingtonpost.com/blogs/early-lead/post/nba-headed-for-lockout-after-players-owners-cannot-agree/2011/06/30/AGAqOSsH_blog.html?tid=sm_twitter_washingtonpost)
+
+### Related:
+
+1. [In basketball, owners in the North American National Basketball Association commence a lockout after failing to reach a collective bargaining agreement with players. ](/news/2011/07/1/in-basketball-owners-in-the-north-american-national-basketball-association-commence-a-lockout-after-failing-to-reach-a-collective-bargainin.md) _Context: NBA, North America, locks out_
+2. [In North American basketball, the National Basketball Association holds its annual draft in the Barclays Center in Brooklyn with the Cleveland Cavaliers selecting Canadian Andrew Wiggins as the first pick. ](/news/2014/06/26/in-north-american-basketball-the-national-basketball-association-holds-its-annual-draft-in-the-barclays-center-in-brooklyn-with-the-clevela.md) _Context: NBA, North America_
+3. [In basketball, the North American National Basketball Association cancels the remainder of the preseason due to the 2011 NBA lockout, with cancellation of games in the regular season occurring if the lockout continues for another week. ](/news/2011/10/4/in-basketball-the-north-american-national-basketball-association-cancels-the-remainder-of-the-preseason-due-to-the-2011-nba-lockout-with-c.md) _Context: NBA, North America_
+4. [In basketball, the North American National Basketball Association cancels all games scheduled up until November 30, 2011 after failing to achieve a resolution of the 2011 NBA lockout with the National Basketball Players Association. ](/news/2011/10/28/in-basketball-the-north-american-national-basketball-association-cancels-all-games-scheduled-up-until-november-30-2011-after-failing-to-ac.md) _Context: NBA, North America_
+5. [The Miami Heat wins the Eastern Conference in the North American National Basketball Association and will meet the Dallas Mavericks in the 2011 NBA Finals. ](/news/2011/05/26/the-miami-heat-wins-the-eastern-conference-in-the-north-american-national-basketball-association-and-will-meet-the-dallas-mavericks-in-the-2.md) _Context: NBA, North America_
+6. [Biologists have determined that the only 'true' species of wolf in North America is the gray wolf while the red wolf is a wolf hybridized with a coyote. ](/news/2016/07/27/biologists-have-determined-that-the-only-true-species-of-wolf-in-north-america-is-the-gray-wolf-while-the-red-wolf-is-a-wolf-hybridized-wi.md) _Context: North America_
+7. [ In basketball, Tim Duncan, who played his entire 19-season NBA career with the San Antonio Spurs, where he won five NBA titles and two MVP awards, made 15 All-Star appearances and made the All-NBA first team 10 times, announces his retirement. ](/news/2016/07/11/in-basketball-tim-duncan-who-played-his-entire-19-season-nba-career-with-the-san-antonio-spurs-where-he-won-five-nba-titles-and-two-mvp.md) _Context: NBA_
+8. [Bryce Dejean-Jones, a National Basketball Association player with the New Orleans Pelicans, is shot dead in Dallas, Texas,  after breaking down an apartment bedroom door. ](/news/2016/05/28/bryce-dejean-jones-a-national-basketball-association-player-with-the-new-orleans-pelicans-is-shot-dead-in-dallas-texas-after-breaking-d.md) _Context: NBA_
+9. [Archaeologists claim to have discovered a probable Viking settlement in North America on Newfoundland's Point Rosee. ](/news/2016/04/2/archaeologists-claim-to-have-discovered-a-probable-viking-settlement-in-north-america-on-newfoundland-s-point-rosee.md) _Context: North America_
+10. [The U.S. Supreme Court's even split among the current eight justices turns down a group of California teachers' challenge to agency fees public sector unions representing government employees charge employees for collective bargaining costs, whether or not they choose to join the union. Twenty-four other states and the District of Columbia have a similar provision. The ninth circuit federal appellate court ruling in the union's favor stands. Employees challenging the law may bring the appeal again, once the vacancy on the nation's highest court is filled. ](/news/2016/03/29/the-u-s-supreme-court-s-even-split-among-the-current-eight-justices-turns-down-a-group-of-california-teachers-challenge-to-agency-fees-pub.md) _Context: collective bargaining_

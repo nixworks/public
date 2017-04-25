@@ -1,0 +1,25 @@
+### [2011-01-6](/news/2011/01/6/index.md)
+
+# Prime Minister of Pakistan Yousaf Raza Gillani cancels recent fuel price increases in an apparent concession to the opposition in an attempt to save his government from collapse after losing its majority in parliament. 
+
+
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/news/2011-01-06/pakistan-prime-minister-cancels-fuel-price-increase-to-save-his-government.html)
+2. [Reuters](http://www.reuters.com/article/idUSSGE7050A320110106)
+3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7368446.html)
+
+### Related:
+
+1. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Parliament's, Prime Minister_
+2. [War in North-West Pakistan:Ali Haider Gillani, the son of former Pakistani Prime Minister Yousaf Raza Gillani, is abducted by unidentified gunmen at an election rally in the city of Multan two days before the May 11 general election. ](/news/2013/05/9/war-in-north-west-pakistan-pali-haider-gillani-the-son-of-former-pakistani-prime-minister-yousaf-raza-gillani-is-abducted-by-unidentified.md) _Context: Prime Minister, Yousaf Raza Gillani_
+3. [Hina Rabbani Khar is appointed Minister of Foreign Affairs of Pakistan by Prime Minister Yousaf Raza Gillani to become the first female Foreign Minister. ](/news/2011/02/13/hina-rabbani-khar-is-appointed-minister-of-foreign-affairs-of-pakistan-by-prime-minister-yousaf-raza-gillani-to-become-the-first-female-fore.md) _Context: Prime Minister, Yousaf Raza Gillani_
+4. [Pakistan issues a red alert as the worst floods in its history move south towards Sindh, with hundreds of thousands of people being evacuated, at least 10,000 cows killed and Prime Minister Yousaf Raza Gillani appealing on television for help from the international community. ](/news/2010/08/7/pakistan-issues-a-red-alert-as-the-worst-floods-in-its-history-move-south-towards-sindh-with-hundreds-of-thousands-of-people-being-evacuate.md) _Context: Prime Minister, Yousaf Raza Gillani_
+5. [ The Prime Minister of Pakistan Yousaf Raza Gillani denies any involvement in the 2008 Indian embassy bombing in Kabul. The Government of Afghanistan has hinted that it believes that Pakistan's Inter-Services Intelligence had some involvement. ](/news/2008/07/8/the-prime-minister-of-pakistan-yousaf-raza-gillani-denies-any-involvement-in-the-2008-indian-embassy-bombing-in-kabul-the-government-of-af.md) _Context: Prime Minister, Yousaf Raza Gillani_
+6. [Over 1,500 supporters of opposition party Pakistan Tehreek-e-Insaf are arrested ahead of a planned protest in the capital Islamabad against Prime Minister Nawaz Sharif. ](/news/2016/10/31/over-1-500-supporters-of-opposition-party-pakistan-tehreek-e-insaf-are-arrested-ahead-of-a-planned-protest-in-the-capital-islamabad-against.md) _Context: Prime Minister_
+7. [Ali Haider Gilani, the son of former Prime Minister of Pakistan Yousaf Raza Gilani, is rescued in a joint operation by U.S. and Afghan forces three years after he was kidnapped by suspected Taliban militants. ](/news/2016/05/10/ali-haider-gilani-the-son-of-former-prime-minister-of-pakistan-yousaf-raza-gilani-is-rescued-in-a-joint-operation-by-u-s-and-afghan-force.md) _Context: Prime Minister_
+8. [Prime Minister of Pakistan Nawaz Sharif bows to opposition demands that he ask Pakistan's chief justice to set up an independent commission to investigate offshore accounts linked to his family. Sharif said he would accept the commission's findings and even resign if called upon. ](/news/2016/04/23/prime-minister-of-pakistan-nawaz-sharif-bows-to-opposition-demands-that-he-ask-pakistan-s-chief-justice-to-set-up-an-independent-commission.md) _Context: Prime Minister_
+9. [Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punjab.md) _Context: Parliament's_
+10. [Former President Pervez Musharraf travels to Dubai for medical treatment of his back and leg, before moving on to either the U.S. or U.K. for additional treatment, spokesperson Aasia Ishaque said. Musharraf, 72, will return to Pakistan to face all pending legal cases. Earlier this week, Prime Minister Nawaz Sharif's government implemented the Supreme Court ruling, and lifted the 2013 ban that barred  Musharraf from international trips. ](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.md) _Context: Prime Minister_

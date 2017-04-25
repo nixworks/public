@@ -1,0 +1,23 @@
+### [2008-08-18](/news/2008/08/18/index.md)
+
+#  A US-Poland agreement to deploy a missile defense shield prompts unnamed Russian officials to declare Poland "a legitimate military target" and the deputy of the Russian general staff states that Poland "opens itself to a nuclear strike". 
+
+
+
+
+### Source:
+
+1. [Asia Times](http://www.atimes.com/atimes/Central_Asia/JH19Ag01.html)
+2. [AFP via Google News](http://afp.google.com/article/ALeqM5gLzVO9YmRVo2zJXJwfNJ0XQRZQWg)
+
+### Related:
+
+1. [The International Atomic Energy Agency votes to report Syria to the United Nations Security Council over its alleged covert nuclear programme. ](/news/2011/06/9/the-international-atomic-energy-agency-votes-to-report-syria-to-the-united-nations-security-council-over-its-alleged-covert-nuclear-programm.md) _Context: nuclear programme_
+2. [In the International Atomic Energy Agency's report before the United Nations Security Council votes on sanctions against Iran, international nuclear inspectors state that Iran has now produced a stockpile of nuclear fuel that would be enough, with further enrichment, to make two nuclear weapons, and it appears to bolster the Obama administration's case for a fourth round of economic sanctions against Iran. ](/news/2010/05/31/in-the-international-atomic-energy-agency-s-report-before-the-united-nations-security-council-votes-on-sanctions-against-iran-international.md) _Context: nuclear programme_
+3. [ Syria accuses Israel of invading its airspace on Wednesday and dropping ammunition. The operation, known as Operation Orchard, is later speculated to be a raid on a nuclear site being run in collaboration with North Korean technicians, or a raid on a Hizbollah convoy, a missile facility or a terrorist camp. ](/news/2007/09/6/syria-accuses-israel-of-invading-its-airspace-on-wednesday-and-dropping-ammunition-the-operation-known-as-operation-orchard-is-later-spe.md) _Context: nuclear programme_
+4. [ India's DRDO successfully tests its nuclear-capable Agni-III, a surface-to-surface ballistic missile with a range of more than 3000 km. ](/news/2007/04/12/india-s-drdo-successfully-tests-its-nuclear-capable-agni-iii-a-surface-to-surface-ballistic-missile-with-a-range-of-more-than-3000-km.md) _Context: nuclear programme_
+5. [ The Kazakh Foreign Ministry denies Kazakhstan has a nuclear program, saying all alleged active nuclear sites were from the Soviet era. ](/news/2007/02/20/the-kazakh-foreign-ministry-denies-kazakhstan-has-a-nuclear-program-saying-all-alleged-active-nuclear-sites-were-from-the-soviet-era.md) _Context: nuclear programme_
+6. [ The Sunday Times (UK) reports that Israel has drawn up plans to possibly destroy Iran's uranium enrichment facilities with tactical nuclear weapons in the event that U.S. intervention does not occur, and non-nuclear strikes are ruled out. Iran has responded saying that "anyone who attacks will regret their actions very quickly." Israel denies such plans were made.](/news/2007/01/6/the-sunday-times-uk-reports-that-israel-has-drawn-up-plans-to-possibly-destroy-iran-s-uranium-enrichment-facilities-with-tactical-nuclear.md) _Context: nuclear programme_
+7. [ North Korea: According to ABC News, a "senior State Department official" says that "It is the view of the intelligence community that a (nuclear) test is a real possibility," and says that they have seen  "suspicious vehicle movement" at a suspected nuclear test site. However, according to Reuters, a United States official said that "We have no new evidence to support that." Also according to the Associated Press, the White House said that any nuclear weapons test would be an "extremely provocative" act that would be denounced around the globe." ](/news/2006/08/17/north-korea-according-to-abc-news-a-senior-state-department-official-says-that-it-is-the-view-of-the-intelligence-community-that-a-nu.md) _Context: nuclear programme_
+8. [ President Jacques Chirac warns that France could respond with nuclear weapons against any state-sponsored terrorism attack. ](/news/2006/01/19/president-jacques-chirac-warns-that-france-could-respond-with-nuclear-weapons-against-any-state-sponsored-terrorism-attack.md) _Context: nuclear programme_
+9. [ The BBC has uncovered documents which reveal that in 1958 the British Government helped Israel attain nuclear weapons. ](/news/2005/08/3/the-bbc-has-uncovered-documents-which-reveal-that-in-1958-the-british-government-helped-israel-attain-nuclear-weapons.md) _Context: nuclear programme_

@@ -1,0 +1,23 @@
+### [2015-03-11](/news/2015/03/11/index.md)
+
+# A search continues after an army helicopter crashed March 10 during a foggy night training exercise at Eglin Air Force Base in the Florida Panhandle leaving seven Marines and four United States Army soldiers missing. 
+
+
+
+
+### Source:
+
+1. [AP via US News](http://www.usnews.com/news/us/articles/2015/03/11/7-marines-4-soldiers-missing-after-helicopter-crashes)
+
+### Related:
+
+1. [A United States Army UH-60 Black Hawk helicopter crashes on a golf course in Leonardtown, Maryland. At least one crew member is injured and taken to hospital. ](/news/2017/04/17/a-united-states-army-uh-60-black-hawk-helicopter-crashes-on-a-golf-course-in-leonardtown-maryland-at-least-one-crew-member-is-injured-and.md) _Context: United States Army_
+2. [The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead-of-a-syrian-democratic-forces-operation-to-take-contro.md) _Context: United States Marine Corps_
+3. [President Donald Trump names United States Army Lt. General H. R. McMaster as National Security Advisor and says that U.S. Lt. Gen. Keith Kellogg, who has been the acting NSA, will remain as the NSC's Chief of Staff. ](/news/2017/02/20/president-donald-trump-names-united-states-army-lt-general-h-r-mcmaster-as-national-security-advisor-and-says-that-u-s-lt-gen-keith-ke.md) _Context: United States Army_
+4. [Michael T. Flynn resigns as National Security Advisor following controversy over his alleged contacts with Russian officials. Retired United States Army general Keith Kellogg subsequently becomes acting  National Security Advisor until a permanent replacement is appointed. ](/news/2017/02/13/michael-t-flynn-resigns-as-national-security-advisor-following-controversy-over-his-alleged-contacts-with-russian-officials-retired-united.md) _Context: United States Army_
+5. [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md) _Context: United States Marine Corps_
+6. [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md) _Context: United States Marine Corps_
+7. [A Defense Department audit reveals that the United States Army had manipulated its finances, making $6.5 trillion of improper accounting adjustments in order to balance the books in 2015. ](/news/2016/08/19/a-defense-department-audit-reveals-that-the-united-states-army-had-manipulated-its-finances-making-6-5-trillion-of-improper-accounting-adj.md) _Context: United States Army_
+8. [The 2016 Republican National Convention gets underway in Cleveland, Ohio. With the day's theme being national and local security, notable speakers include reality television star Willie Robertson, actor Scott Baio, former Governor of Texas Rick Perry, former Mayor of New York City Rudy Giuliani, Milwaukee County sheriff David Clarke, retired United States Army lieutenant general Michael T. Flynn and Melania Trump, wife of presumptive Republican nominee for President of the United States Donald Trump. ](/news/2016/07/18/the-2016-republican-national-convention-gets-underway-in-cleveland-ohio-with-the-day-s-theme-being-national-and-local-security-notable-sp.md) _Context: United States Army_
+9. [At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tactical-vehicle-overturns-near-fort-hood.md) _Context: United States Army_
+10. [Over 50,000 people protest in Okinawa capital Naha against U.S. military presence on the Japanese island, spurred on by last month's arrest of an U.S. Marine veteran, civilian contractor for  the rape and killing of a 20-year-old local woman. ](/news/2016/06/19/over-50-000-people-protest-in-okinawa-capital-naha-against-u-s-military-presence-on-the-japanese-island-spurred-on-by-last-month-s-arrest.md) _Context: United States Marine Corps_

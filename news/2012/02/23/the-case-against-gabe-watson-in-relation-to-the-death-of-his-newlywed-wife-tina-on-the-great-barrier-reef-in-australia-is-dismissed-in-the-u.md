@@ -1,0 +1,23 @@
+### [2012-02-23](/news/2012/02/23/index.md)
+
+# The case against Gabe Watson in relation to the death of his newlywed wife Tina on the Great Barrier Reef in Australia is dismissed in the US state of Alabama. 
+
+
+
+
+### Source:
+
+1. [CBS News](http://www.cbs42.com/content/breaking/story/Watson-Honeymoon-Murder-Case-Dismissed/ENMokcm_fk23KsIuHhbjMg.cspx)
+
+### Related:
+
+1. [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md) _Context: Alabama, Australia, death of his newlywed wife Tina_
+2. [American Gabe Watson leaves detention in Australia after serving time for the death of Tina Watson after she drowned in 2007 after he failed to rescue her. He will be extradited to Alabama to face murder charges upon suspicion of murder. ](/news/2010/11/10/american-gabe-watson-leaves-detention-in-australia-after-serving-time-for-the-death-of-tina-watson-after-she-drowned-in-2007-after-he-failed.md) _Context: Alabama, Australia, death of his newlywed wife Tina_
+3. [The Chinese coal ship ''Shen Neng 1'' is reported to be leaking oil after it ran aground on the Great Barrier Reef off Queensland, Australia. ](/news/2010/04/4/the-chinese-coal-ship-shen-neng-1-is-reported-to-be-leaking-oil-after-it-ran-aground-on-the-great-barrier-reef-off-queensland-australia.md) _Context: Australia, Great Barrier Reef_
+4. [Australia arrests the captain and chief officer of a Chinese ship that ran aground on the Great Barrier Reef, damaging three kilometres of coral reef and leaking tonnes of oil. ](/news/2010/04/14/australia-arrests-the-captain-and-chief-officer-of-a-chinese-ship-that-ran-aground-on-the-great-barrier-reef-damaging-three-kilometres-of-c.md) _Context: Australia, Great Barrier Reef_
+5. [The Australian authorities say a Chinese bulk carrier which ran aground off Queensland has caused widespread damage to the famed Great Barrier Reef. The cleanup is likely to be the biggest operation ever undertaken there. ](/news/2010/04/13/the-australian-authorities-say-a-chinese-bulk-carrier-which-ran-aground-off-queensland-has-caused-widespread-damage-to-the-famed-great-barri.md) _Context: Australia, Great Barrier Reef_
+6. [ Steve Irwin, "The Crocodile Hunter", is killed by a stingray while filming a documentary on Australia's Great Barrier Reef. ](/news/2006/09/4/steve-irwin-the-crocodile-hunter-is-killed-by-a-stingray-while-filming-a-documentary-on-australia-s-great-barrier-reef.md) _Context: Australia, Great Barrier Reef_
+7. [The governor of the State of Alabama, Robert Bentley, wins a court victory halting impeachment proceedings that were set to begin Monday to determine whether he should remain in office after it was discovered that he had a romantic relationship with a staffer. ](/news/2017/04/7/the-governor-of-the-state-of-alabama-robert-bentley-wins-a-court-victory-halting-impeachment-proceedings-that-were-set-to-begin-monday-to.md) _Context: Alabama_
+8. [The Alabama Ethics Commission finds there is probable cause that Governor Robert Bentley violated the state's ethics and campaign finance laws, and refers the case to  Montgomery County District Attorney Daryl Bailey. ](/news/2017/04/6/the-alabama-ethics-commissiona-finds-there-is-probable-cause-that-governor-robert-bentley-violated-the-state-s-ethics-and-campaign-finance-l.md) _Context: Alabama_
+9. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: Australia_
+10. [Australia adds stricter requirements to its citizenship application process, including harder tests on English language skills and the requirement that a migrant be able to demonstrate "Australian values". ](/news/2017/04/20/australia-adds-stricter-requirements-to-its-citizenship-application-process-including-harder-tests-on-english-language-skills-and-the-requi.md) _Context: Australia_

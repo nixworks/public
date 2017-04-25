@@ -1,0 +1,24 @@
+### [2010-11-12](/news/2010/11/12/index.md)
+
+# Russian Prime Minister Vladimir Putin has arrived in Sofia for talks with his Bulgarian counterpart Boyko Borisov. 
+
+The proposals for an intensification of cultural cooperation that the Russian delegation to Sofia advanced Saturday were met somewhat lukewarmly by the Bulgarian party. This appears from the official transcript of the meeting Saturday headed by Bulgarian and Russian PMs Boyko Borisov and Vladimir Putin. 
+
+
+### Source:
+
+1. [Novinite](http://www.novinite.com/view_news.php?id=122147)
+2. [ITAR](http://www.itar-tass.com/eng/level2.html?NewsID=15678142&PageNum=0)
+
+### Related:
+
+1. [2013 Bulgarian protests: At least 10 people are injured in the Bulgarian capital Sofia, as tens of thousands turn up for rallies in 10 cities, a day after Prime Minister Boyko Borisov sacked his Finance Minister Simeon Djankov. The government revokes the license of Czech company CEZ due to high electricity prices, which helped fuel the 9-day protests. ](/news/2013/02/19/2013-bulgarian-protests-at-least-10-people-are-injured-in-the-bulgarian-capital-sofia-as-tens-of-thousands-turn-up-for-rallies-in-10-citie.md) _Context: Boyko Borisov, Bulgaria, Sofia_
+2. [Voters in Bulgaria go to the polls for a parliamentary election. Boyko Borisov's GERB party wins between 30% and 32% of the votes, closely followed by Sergei Stanishev's resurgent BSP with 26 to 28 percent. No party manages to obtain a majority, while analysts predict a political deadlock amid low voter turnout and economic woes. ](/news/2013/05/12/voters-in-bulgaria-go-to-the-polls-for-a-parliamentary-election-boyko-borisov-s-gerb-party-wins-between-30-and-32-of-the-votes-closely-f.md) _Context: Boyko Borisov, Bulgaria_
+3. [2013 Bulgarian protests: Prime Minister of Bulgaria Boyko Borisov says he will resign with all his cabinet due to widespread protests amid a financial crisis. ](/news/2013/02/20/2013-bulgarian-protests-prime-minister-of-bulgaria-boyko-borisov-says-he-will-resign-with-all-his-cabinet-due-to-widespread-protests-amid-a.md) _Context: Boyko Borisov, Bulgaria_
+4. [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md) _Context: Bulgaria, Sofia_
+5. [ A series of explosions at a depot storing 1,500 tonnes of obsolete munitions forces the evacuation of some 2,000 people in Sofia and the closure of the Bulgarian capital's main airport. ](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-tonnes-of-obsolete-munitions-forces-the-evacuation-of-some-2-000-people-in-sofia-and-the-cl.md) _Context: Bulgaria, Sofia_
+6. [ A man under investigation for the sexual abuse of children at an orphanage in Sofia, Bulgaria, opens fire on teenage witnesses, killing one and wounding two others before committing suicide. ](/news/2008/03/12/a-man-under-investigation-for-the-sexual-abuse-of-children-at-an-orphanage-in-sofia-bulgaria-opens-fire-on-teenage-witnesses-killing-one.md) _Context: Bulgaria, Sofia_
+7. [ The 5 Bulgarian nurses and the Palestinian assistant, imprisoned in Libya for 8 years and that had been sentenced to death, in several trials based on allegations of having inoculated AIDS to children, are leaving Libya and returning back to Sofia with Mrs Ccilia Sarkozy who negotiated their liberation. ](/news/2007/07/24/the-5-bulgarian-nurses-and-the-palestinian-assistant-imprisoned-in-libya-for-8-years-and-that-had-been-sentenced-to-death-in-several-tria.md) _Context: Bulgaria, Sofia_
+8. [ The Bulgarian political party Citizens for European Development of Bulgaria, which had only been founded on 2006-12-03 by Sofia mayor Boyko Borisov, instantly comes second in a public poll on party support, trailing only the Bulgarian Socialist Party. ](/news/2007/01/1/the-bulgarian-political-party-citizens-for-european-development-of-bulgaria-which-had-only-been-founded-on-2006-12-03-by-sofia-mayor-boyko.md) _Context: Boyko Borisov, Bulgaria_
+9. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Vladimir Putin_
+10. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Bulgaria_

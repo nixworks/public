@@ -1,0 +1,23 @@
+### [2010-09-3](/news/2010/09/3/index.md)
+
+# The International Cricket Council charges three Pakistan cricketers who are then formally interviewed by police into a betting scam alleged by the ''News of the World''. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/sport/2010/sep/03/pakistan-match-fixing-icc-suspensions)
+
+### Related:
+
+1. [The ''News of the World'' alleges that a 4th cricketer from Pakistan is being probed by the International Cricket Council (ICC) into the corruption allegations it broke last week. ](/news/2010/09/4/the-news-of-the-world-alleges-that-a-4th-cricketer-from-pakistan-is-being-probed-by-the-international-cricket-council-icc-into-the-cor.md) _Context: International Cricket Council, News of the World, Pakistan national cricket team_
+2. [The International Cricket Council upholds the suspension of two Pakistan cricketers Salman Butt and Mohammad Amir for involvement in the 2010 Pakistan cricket spot-fixing controversy. ](/news/2010/10/31/the-international-cricket-council-upholds-the-suspension-of-two-pakistan-cricketers-salman-butt-and-mohammad-amir-for-involvement-in-the-201.md) _Context: International Cricket Council, Pakistan national cricket team_
+3. [Pakistan's high commissioner Wajid Shamsul Hasan says 3 of his country's cricketers connected to allegations of betting corruption by the ''News of the World'' tabloid could have been set up. ](/news/2010/09/2/pakistan-s-high-commissioner-wajid-shamsul-hasan-says-3-of-his-country-s-cricketers-connected-to-allegations-of-betting-corruption-by-the.md) _Context: News of the World, Pakistan national cricket team_
+4. [The 3 Pakistan national cricket team members alleged to have spot fixed by the UK's ''News of the World'' tabloid arrive back in Pakistan; they deny any involvement. ](/news/2010/09/11/the-3-pakistan-national-cricket-team-members-alleged-to-have-spot-fixed-by-the-uk-s-news-of-the-world-tabloid-arrive-back-in-pakistan-t.md) _Context: News of the World, Pakistan national cricket team_
+5. [The International Cricket Council states that Pakistan's tour of England is to continue despite yesterday's spot-fixing allegations exposed by a British newspaper. ](/news/2010/08/30/the-international-cricket-council-states-that-pakistan-s-tour-of-england-is-to-continue-despite-yesterday-s-spot-fixing-allegations-exposed.md) _Context: International Cricket Council, Pakistan national cricket team_
+6. [Phone hacking scandal:A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct ''News of the World''. ](/news/2013/12/19/phone-hacking-scandal-pa-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct.md) _Context: News of the World_
+7. [Metropolitan Police detective April Casburn, who tried to sell information to the ''News of the World'', regarding the investigation into phone hacking scandal, is jailed for 15 months. ](/news/2013/02/1/metropolitan-police-detective-april-casburn-who-tried-to-sell-information-to-the-news-of-the-world-regarding-the-investigation-into-ph.md) _Context: News of the World_
+8. [April Casburn, a senior detective with the Metropolitan Police is found guilty of trying to sell information on the investigation into phone hacking to the ''News of the World'', the newspaper at the centre of the scandal. ](/news/2013/01/10/april-casburn-a-senior-detective-with-the-metropolitan-police-is-found-guilty-of-trying-to-sell-information-on-the-investigation-into-phone.md) _Context: News of the World_
+9. [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct ''News of the World'' tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tablo.md) _Context: News of the World_
+10. [News International phone hacking scandal: The House of Commons Culture, Media and Sport Committee publishes its report into phone hacking at the ''News of the World''. The committee concludes that Rupert Murdoch "is not a fit person" to run a major international company and exhibited "wilful blindness" to phone-hacking and other practices going on in his media empire. The report also accuses three News Corporation executives of giving misleading evidence. ](/news/2012/05/1/news-international-phone-hacking-scandal-the-house-of-commons-culture-media-and-sport-committee-publishes-its-report-into-phone-hacking-at.md) _Context: News of the World_

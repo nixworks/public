@@ -1,0 +1,23 @@
+### [2016-02-11](/news/2016/02/11/index.md)
+
+# Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with  competitor Lyft in 2014. 
+
+Get the latest science news and technology news, read tech reviews and more at ABC News.
+
+
+### Source:
+
+1. [AP via ABC News](http://abcnews.go.com/Technology/wireStory/uber-pay-285m-settle-safety-ad-lawsuits-36885628)
+
+### Related:
+
+1. [Uber suspends tests of its self-driving cars in San Francisco, California, after the California Department of Motor Vehicles revoked the registration of the vehicles in the state in response to two red-light violations. ](/news/2016/12/21/uber-suspends-tests-of-its-self-driving-cars-in-san-francisco-california-after-the-california-department-of-motor-vehicles-revoked-the-reg.md) _Context: California, San Francisco, Uber_
+2. [U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. ](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.md) _Context: California, San Francisco_
+3. [The father of  Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While  generally free of liability under U.S. law  which  provides a legal ''safe harbor'' for content posted, this case targets  the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-i.md) _Context: California, San Francisco_
+4. [The Seattle City Council  unanimously votes  to give Uber, Lyft, and other contract drivers the power to unionize. The Washington city becomes the first in the United States to do so. Seattle Mayor Ed Murray opposes the bill which can still become law without his signature. Court challenges are expected. ](/news/2015/12/14/the-seattle-city-council-unanimously-votes-to-give-uber-lyft-and-other-contract-drivers-the-power-to-unionize-the-washington-city-becom.md) _Context: Lyft, Uber_
+5. [In the United States, the California Labor Commission ruled that a San Francisco Uber driver is a company employee, not a contractor. Uber is appealing this ruling, that would increase the company's costs and liabilities, to the state's court system. A hearing for a class certification of a similar lawsuit against Uber is scheduled for August 2015. ](/news/2015/06/17/in-the-united-states-the-california-labor-commission-ruled-that-a-san-francisco-uber-driver-is-a-company-employee-not-a-contractor-uber-i.md) _Context: California, Uber_
+6. [A shooting into a car in San Francisco, California, U.S., leaves four men dead. ](/news/2015/01/9/a-shooting-into-a-car-in-san-francisco-california-u-s-leaves-four-men-dead.md) _Context: California, San Francisco_
+7. [Two people are killed and one person is wounded during a shooting in the South of Market neighborhood of San Francisco, California, United States. A suspect is in custody. ](/news/2013/07/12/two-people-are-killed-and-one-person-is-wounded-during-a-shooting-in-the-south-of-market-neighborhood-of-san-francisco-california-united-s.md) _Context: California, San Francisco_
+8. [A bus and a trolley car collide in downtown San Francisco, California, injuring fifteen people. ](/news/2013/06/12/a-bus-and-a-trolley-car-collide-in-downtown-san-francisco-california-injuring-fifteen-people.md) _Context: California, San Francisco_
+9. [The perjury trial of U.S. baseball star Barry Bonds begins in federal court in San Francisco, California. ](/news/2011/03/21/the-perjury-trial-of-u-s-baseball-star-barry-bonds-begins-in-federal-court-in-san-francisco-california.md) _Context: California, San Francisco_
+10. [  Winter storms in California cause power outages, destruction of property and flight delays in San Francisco.](/news/2008/01/4/winter-storms-in-california-cause-power-outages-destruction-of-property-and-flight-delays-in-san-francisco.md) _Context: California, San Francisco_

@@ -1,0 +1,23 @@
+### [2007-03-18](/news/2007/03/18/index.md)
+
+#  Bob Woolmer, the Pakistan cricket coach, dies in a Kingston, Jamaica hospital following his team's shock loss to Ireland and consequent early elimination from the 2007 Cricket World Cup. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/sport2/hi/cricket/other_international/pakistan/6464831.stm)
+
+### Related:
+
+1. [ Jamaican police declare that former Pakistani cricket team coach Bob Woolmer died of natural causes, ending a murder investigation. ](/news/2007/06/12/jamaican-police-declare-that-former-pakistani-cricket-team-coach-bob-woolmer-died-of-natural-causes-ending-a-murder-investigation.md) _Context: Bob Woolmer, Pakistani cricket team_
+2. [Jamaican authorities impose a new curfew on Kingston. ](/news/2010/08/15/jamaican-authorities-impose-a-new-curfew-on-kingston.md) _Context: Kingston_
+3. [Christopher Coke: Christopher Coke, sent to United States territory by Jamaica, pleads not guilty to United States charges of drug smuggling at a federal court in New York and, in his first public comments since August, says he took the decision to be extradited "in the best interest of my family, the community of western Kingston and in particular the people of Tivoli Gardens and above all Jamaica". ](/news/2010/06/25/christopher-coke-pchristopher-coke-sent-to-united-states-territory-by-jamaica-pleads-not-guilty-to-united-states-charges-of-drug-smugglin.md) _Context: Kingston_
+4. [Christopher Coke walks into a police station on the outskirts of Kingston, Jamaica and is detained, following search efforts which killed more than 70 people last month. The United States accuses him of being the Shower Posse leader, which it alleges operates an international drugs and guns network. ](/news/2010/06/22/christopher-coke-walks-into-a-police-station-on-the-outskirts-of-kingston-jamaica-and-is-detained-following-search-efforts-which-killed-mo.md) _Context: Kingston_
+5. [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md) _Context: Kingston_
+6. [The death toll in the recent violence in Jamaica jumps to 73, and 44 in west Kingston alone. ](/news/2010/05/27/the-death-toll-in-the-recent-violence-in-jamaica-jumps-to-73-and-44-in-west-kingston-alone.md) _Context: Kingston_
+7. [Jamaican police arrest more than 500 people after an unsuccessful attempt to arrest a suspected drug kingpin in Kingston, the capital, results in violence that leaves at least 44 people dead. ](/news/2010/05/26/jamaican-police-arrest-more-than-500-people-after-an-unsuccessful-attempt-to-arrest-a-suspected-drug-kingpin-in-kingston-the-capital-resul.md) _Context: Kingston_
+8. [Two police officers are killed and six others are wounded by gunmen during unrest in Jamaica's capital, Kingston. ](/news/2010/05/24/two-police-officers-are-killed-and-six-others-are-wounded-by-gunmen-during-unrest-in-jamaica-s-capital-kingston.md) _Context: Kingston_
+9. [A state of emergency is declared in the Jamaican capital Kingston after armed gangs attacked police and blockaded parts of the city in an attempt to prevent the arrest of a drug lord. ](/news/2010/05/23/a-state-of-emergency-is-declared-in-the-jamaican-capital-kingston-after-armed-gangs-attacked-police-and-blockaded-parts-of-the-city-in-an-at.md) _Context: Kingston_
+10. [ American Airlines Flight 331, with 154 people onboard, overshoots the runway at Norman Manley International Airport in Kingston, Jamaica, injuring 44. ](/news/2009/12/23/american-airlines-flight-331-with-154-people-onboard-overshoots-the-runway-at-norman-manley-international-airport-in-kingston-jamaica-i.md) _Context: Kingston_

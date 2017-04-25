@@ -1,0 +1,24 @@
+### [2014-09-14](/news/2014/09/14/index.md)
+
+# North Korea holds a trial for American tourist Matthew Miller who was detained in April and sentences him to six years of hard labor. 
+
+
+
+
+### Source:
+
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_NKOREA_DETAINED_AMERICAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [CNN](http://edition.cnn.com/2014/09/14/world/asia/north-korea-matthew-miller-case/index.html)
+
+### Related:
+
+1. [North Korea announces that it arrested an American tourist last month for alleged inappropriate behaviour. ](/news/2014/06/6/north-korea-announces-that-it-arrested-an-american-tourist-last-month-for-alleged-inappropriate-behaviour.md) _Context: American, North Korea_
+2. [North Korea says it will put on trial two American tourists, Jeffrey Fowle and Michael Miller, for crimes against the state. ](/news/2014/06/30/north-korea-says-it-will-put-on-trial-two-american-tourists-jeffrey-fowle-and-michael-miller-for-crimes-against-the-state.md) _Context: American, North Korea_
+3. [2013 Korean crisis:North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-pnorth-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-agai.md) _Context: American, North Korea_
+4. [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime.  The United States calls for amnesty.  ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-a.md) _Context: American, North Korea_
+5. [The United States Pacific Command deploys warships, including the USS ''Carl Vinson'', to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north.md) _Context: North Korea_
+6. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea_
+7. [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _Context: North Korea_
+8. [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md) _Context: North Korea_
+9. [The U.S. Pacific Command and South Korea's Joint Chiefs of Staff report  that a North Korean missile, tested near the city of Sinpo on  the country's east coast, blew up almost immediately after the launch, just hours before U.S. Vice President Mike Pence was due in South Korea for talks about the North's arms program. ](/news/2017/04/16/the-u-s-pacific-command-and-south-korea-s-joint-chiefs-of-staff-report-that-a-north-korean-missile-tested-near-the-city-of-sinpo-on-the.md) _Context: North Korea_
+10. [Air China suspends all flights to North Korea's capital Pyongyang amid rising tensions between North Korea and the United States. ](/news/2017/04/14/air-china-suspends-all-flights-to-north-korea-s-capital-pyongyang-amid-rising-tensions-between-north-korea-and-the-united-states.md) _Context: North Korea_

@@ -1,0 +1,19 @@
+### [1999-01-4](/news/1999/01/4/index.md)
+
+#  Gunmen open fire on Shiite Muslims worshipping in an Islamabad mosque killing 16 people and injuring 25.
+
+
+
+
+### Related:
+
+1. [Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tensions-in-the-disputed-territory-of-kashmir-under-the-threat-of-a-ful.md) _Context: Islamabad_
+2. [Over 1,500 supporters of opposition party Pakistan Tehreek-e-Insaf are arrested ahead of a planned protest in the capital Islamabad against Prime Minister Nawaz Sharif. ](/news/2016/10/31/over-1-500-supporters-of-opposition-party-pakistan-tehreek-e-insaf-are-arrested-ahead-of-a-planned-protest-in-the-capital-islamabad-against.md) _Context: Islamabad_
+3. [A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md) _Context: Shiite_
+4. [Iraqi Civil War (2014-present) At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/iraqi-civil-war-2014apresent-pat-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of.md) _Context: Shiite_
+5. [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _Context: Shiite_
+6. [   At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state.md) _Context: Shiite_
+7. [More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md) _Context: Shiite_
+8. [  Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-in.md) _Context: Shiite_
+9. [The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-stop-attacking-their-p.md) _Context: Islamabad_
+10. [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md) _Context: Islamabad_

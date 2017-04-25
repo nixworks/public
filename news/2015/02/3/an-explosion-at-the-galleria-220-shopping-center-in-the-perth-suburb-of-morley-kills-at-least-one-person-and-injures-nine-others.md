@@ -1,0 +1,15 @@
+### [2015-02-3](/news/2015/02/3/index.md)
+
+# An explosion at the Galleria 220 shopping center in the Perth suburb of Morley kills at least one person and injures nine others. 
+
+TWO people are dead and up to eight more are injured after an explosion at Galleria shopping centre in Morley, in Perth’s northeast.
+
+
+### Source:
+
+1. [News Limited](http://www.news.com.au/national/casualties-in-shopping-centre-explosion-in-perth/story-fncynjr2-1227206257487)
+
+### Related:
+
+1. [In cricket, former Australian captain Ricky Ponting announces his retirement from Test matches after the completion of the match against South Africa in Perth. ](/news/2012/11/29/in-cricket-former-australian-captain-ricky-ponting-announces-his-retirement-from-test-matches-after-the-completion-of-the-match-against-sou.md) _Context: Perth_
+2. [A surfer is killed by a shark off near Wedge Island, about 160km (100 miles) north of Perth in Australia. ](/news/2012/07/14/a-surfer-is-killed-by-a-shark-off-near-wedge-island-about-160km-100-miles-north-of-perth-in-australia.md) _Context: Perth_

@@ -1,0 +1,23 @@
+### [2014-05-23](/news/2014/05/23/index.md)
+
+# Sinai insurgency:Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. 
+
+
+
+
+### Source:
+
+1. [Sky News](http://www.skynews.com.au/news/top-stories/2014/05/23/egyptian-militant-leader-killed.html)
+
+### Related:
+
+1. [Egypt's Interior Ministry announces the death of a senior figure in the Islamic State's "Sinai province."  Ashraf Ali Hassanein al Gharabli, killed in a Cairo shootout with police, was also linked to other extremist groups and terrorist activities. ](/news/2015/11/10/egypt-s-interior-ministry-announces-the-death-of-a-senior-figure-in-the-islamic-stateas-asinai-province-a-ashraf-ali-hassanein-al-gha.md) _Context: Egypt, Sinai insurgency, extremist groups_
+2. [Egyptian government airstrikes on jihadist targets in North Sinai Governorate, leave at least 100 terrorists killed and 40 others wounded. ](/news/2016/10/15/egyptian-government-airstrikes-on-jihadist-targets-in-north-sinai-governorate-leave-at-least-100-terrorists-killed-and-40-others-wounded.md) _Context: Egypt, Sinai insurgency_
+3. [A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves  at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-personnel-and-15-t.md) _Context: Egypt, Sinai insurgency_
+4. [At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-separate-blasts-in-e.md) _Context: Egypt, Sinai insurgency_
+5. [Four Egyptian security personnel are killed and another four are injured by a roadside bomb near the border town Rafah in the Sinai Peninsula. Islamist militants are suspected to have remotely detonated the device as an armored vehicle drove by the town's center, near the border with the Gaza Strip and Israel,  security sources told Ahram Online. ](/news/2015/12/8/four-egyptian-security-personnel-are-killed-and-another-four-are-injured-by-a-roadside-bomb-near-the-border-town-rafah-in-the-sinai-peninsul.md) _Context: Egypt, Sinai insurgency_
+6. [A day after the second round of parliamentary elections closes, militants attack a hotel housing election judges in the provincial capital of al-Arish in Egypt's North Sinai. At least seven people are killed and 12 others injured, including two judges. The Islamic State's Wilayat Sinai branch claims responsibility. ](/news/2015/11/24/a-day-after-the-second-round-of-parliamentary-elections-closes-militants-attack-a-hotel-housing-election-judges-in-the-provincial-capital-o.md) _Context: Egypt, Sinai insurgency_
+7. [Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-sinai-not-far-from.md) _Context: Egypt, Sinai insurgency_
+8. [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md) _Context: Egypt, Sinai insurgency_
+9. [Sinai insurgency: Egypt vows to continue an offensive on the Sinai Peninsula until ISIL militants have been removed. A hundred people have been killed in fighting in the past two days. ](/news/2015/07/2/sinai-insurgency-egypt-vows-to-continue-an-offensive-on-the-sinai-peninsula-until-isil-militants-have-been-removed-a-hundred-people-have-b.md) _Context: Egypt, Sinai insurgency_
+10. [The Islamic State of Iraq and Greater Syria (ISIS) has claimed that it sank an Egyptian patrol boat in the Mediterranean,  just off the coast of Rafah. The Egyptian military claimed the ship sank from a fire not caused by attacks. ](/news/2015/07/16/the-islamic-state-of-iraq-and-greater-syria-isis-has-claimed-that-it-sank-an-egyptian-patrol-boat-in-the-mediterranean-just-off-the-coas.md) _Context: Egypt, Sinai insurgency_

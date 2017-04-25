@@ -1,0 +1,23 @@
+### [2011-03-21](/news/2011/03/21/index.md)
+
+# Surgeons at the Brigham and Women's Hospital in Boston, Massachusetts, perform the first full face transplant in the United States. 
+
+
+
+
+### Source:
+
+1. [The Boston Globe](http://www.boston.com/news/health/blog/2011/03/brigham_does_fi.html)
+
+### Related:
+
+1. [The first penis transplant in the United States is performed successfully at the Massachusetts General Hospital (MGH) in Boston, Massachusetts. Doctors call the operation "a surgical milestone". The patient, 64-year-old Thomas Manning from Halifax, Massachusetts, is the third man worldwide to have had the experimental surgery performed. ](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.md) _Context: Boston, United States_
+2. [ Norwegian Cruise Line's ''Norwegian Dawn'' ran aground three miles off Bermuda when departing for a return trip to Boston, Massachusetts, U.S.A.. ](/news/2015/05/19/norwegian-cruise-line-s-norwegian-dawn-ran-aground-three-miles-off-bermuda-when-departing-for-a-return-trip-to-boston-massachusetts-u.md) _Context: Boston, United States_
+3. [A gunman shoots a cardiovascular surgeon to death at Harvard Medical School's Brigham and Women's Hospital in Boston, Massachusetts, and then commits suicide. ](/news/2015/01/20/a-gunman-shoots-a-cardiovascular-surgeon-to-death-at-harvard-medical-school-s-brigham-and-women-s-hospital-in-boston-massachusetts-and-the.md) _Context: Boston, Brigham and Women's Hospital_
+4. [Boston Marathon bombings:Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. ](/news/2013/04/15/boston-marathon-bombings-ptwo-explosions-in-boston-united-states-near-the-finish-line-of-the-2013-boston-marathon-leave-3-people-dead-and.md) _Context: Boston, United States_
+5. [The United States FBI states that they know who carried out greatest art heist in American history at Boston's Isabella Stewart Gardner Museum in 1990. ](/news/2013/03/18/the-united-states-fbi-states-that-they-know-who-carried-out-greatest-art-heist-in-american-history-at-boston-s-isabella-stewart-gardner-muse.md) _Context: Boston, United States_
+6. [A charter bus carrying high school students from Philadelphia crashes when it attempted to pass under a low bridge in Boston, United States, injuring 34 people. ](/news/2013/02/3/a-charter-bus-carrying-high-school-students-from-philadelphia-crashes-when-it-attempted-to-pass-under-a-low-bridge-in-boston-united-states.md) _Context: Boston, United States_
+7. [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md) _Context: Surgeon, United States_
+8. [ A three ton concrete ceiling tile falls on a car in a tunnel in Boston, United States, killing one female passenger and closing the tunnel. The Governor of Massachusetts, Mitt Romney, announces that the Massachusetts Government will be taking legal action to remove the Chairman of the Massachusetts Turnpike Authority, Matt Amorello. ](/news/2006/07/11/a-three-ton-concrete-ceiling-tile-falls-on-a-car-in-a-tunnel-in-boston-united-states-killing-one-female-passenger-and-closing-the-tunnel.md) _Context: Boston, United States_
+9. [The United States launches 60  Tomahawk cruise missiles aimed at the Ash Sha'irat air base in Homs Governorate in response to the Syrian government's alleged use of chemical weapons in its attack on the town of Khan Shaykhun. The Government of Syria claims the attack killed six soldiers and nine civilians, including four children. ](/news/2017/04/7/the-united-states-launches-60-tomahawk-cruise-missiles-aimed-at-the-ash-sha-irat-air-base-in-homs-governorate-in-response-to-the-syrian-gov.md) _Context: United States_
+10. [Hyundai (Sonata and Santa Fe) and Kia (Optima, Sorento, and Sportage) are recalling 1.5 million cars, over 1.3 million in United States and 170,000 in South Korea, over an engine defect. ](/news/2017/04/7/hyundai-sonata-and-santa-fe-and-kia-optima-sorento-and-sportage-are-recalling-1-5-million-cars-over-1-3-million-in-united-states-and.md) _Context: United States_

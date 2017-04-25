@@ -1,0 +1,24 @@
+### [2009-11-13](/news/2009/11/13/index.md)
+
+#  The Japan Coast Guard evacuates 28 passengers and crew from the ''Ariake'' commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. 
+
+
+
+
+### Source:
+
+1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20091113p2a00m0na002000c.html)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091113095413629C869292)
+
+### Related:
+
+1. [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md) _Context: Pacific_
+2. [The United States Geological Survey (USGS) reports a 7.7 magnitude earthquake has struck off the Northern Mariana Islands in the Pacific Ocean. The Pacific Tsunami Warning Center says there is no tsunami threat because the quake was very deep in the earth. ](/news/2016/07/29/the-united-states-geological-survey-usgs-reports-a-7-7-magnitude-earthquake-has-struck-off-the-northern-mariana-islands-in-the-pacific-oce.md) _Context: Pacific_
+3. [The 42nd G7 summit held at Ise-Shima in Japan's Mie Prefecture concludes with a declaration that the United Kingdom leaving the European Union would pose a "serious threat to world growth". ](/news/2016/05/27/the-42nd-g7-summit-held-at-ise-shima-in-japan-s-mie-prefecture-concludes-with-a-declaration-that-the-united-kingdom-leaving-the-european-uni.md) _Context: Mie Prefecture_
+4. [Solar-powered aircraft Solar Impulse 2 lands in Mountain View, California after a 62-hour flight across the Pacific Ocean from Hawaii. ](/news/2016/04/23/solar-powered-aircraft-solar-impulse-2-lands-in-mountain-view-california-after-a-62-hour-flight-across-the-pacific-ocean-from-hawaii.md) _Context: Pacific_
+5. [G7 foreign ministers meetingJohn Kerry, along with the other Group of Seven (G7) foreign ministers,  laid wreaths   at  Japan's Hiroshima Peace Memorial Museum to the victims of the 1945 U.S. nuclear attack. Kerry  is  the first Secretary of State  to visit the memorial. Then-U.S. Speaker of the House of Representatives Nancy Pelosi was previously the highest-ranking U.S. official to visit the memorial, in 2008. The Hiroshima foreign ministers meeting is part of the preparations for the 42nd G7 summit the end of next month at Japan's Kashiko Island, Shima, Mie Prefecture. ](/news/2016/04/11/g7-foreign-ministers-meetingpjohn-kerry-along-with-the-other-group-of-seven-g7-foreign-ministers-laid-wreaths-at-japan-s-hiroshima-p.md) _Context: Mie Prefecture_
+6. [A total solar eclipse occurs in Indonesia, and later, east of the international date line, in the northern Pacific Ocean. A partial eclipse occurs in northern Australia, South-East Asia, and the Pacific. ](/news/2016/03/9/a-total-solar-eclipse-occurs-in-indonesia-and-later-east-of-the-international-date-line-in-the-northern-pacific-ocean-a-partial-eclipse.md) _Context: Pacific_
+7. [Hurricane Pali becomes the earliest hurricane on record in the central Pacific Ocean. It is currently no threat to land. ](/news/2016/01/12/hurricane-pali-becomes-the-earliest-hurricane-on-record-in-the-central-pacific-ocean-it-is-currently-no-threat-to-land.md) _Context: Pacific_
+8. [Researchers discover a biofluorescent hawksbill sea turtle, glowing bright red and green, near the Solomon Islands in the South Pacific Ocean. This is the first time scientists have found biofluorescence in a reptile in the wild. The hawksbill sea turtle is an endangered species. ](/news/2015/09/29/researchers-discover-a-biofluorescent-hawksbill-sea-turtle-glowing-bright-red-and-green-near-the-solomon-islands-in-the-south-pacific-ocea.md) _Context: Pacific_
+9. [An earthquake measuring 8.3 on the Richter scale occurs in the Pacific Ocean near Chile sparking a tsunami warning. At least five people die. ](/news/2015/09/16/an-earthquake-measuring-8-3-on-the-richter-scale-occurs-in-the-pacific-ocean-near-chile-sparking-a-tsunami-warning-at-least-five-people-die.md) _Context: Pacific_
+10. [Typhoon Chan-hom strengthens as it heads towards the Pacific island of Guam. ](/news/2015/07/3/typhoon-chan-hom-strengthens-as-it-heads-towards-the-pacific-island-of-guam.md) _Context: Pacific_

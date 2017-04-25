@@ -1,0 +1,23 @@
+### [2016-12-8](/news/2016/12/8/index.md)
+
+# As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a United Nations report released today. 
+
+
+
+
+### Source:
+
+1. [United Nations](http://www.un.org.ua/en/information-centre/news/4001-civilians-in-ukraine-continue-to-suffer-un-report)
+
+### Related:
+
+1. [Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk-region-in-easter.md) _Context: United Nations, War in Donbass_
+2. [War in Donbass:Russian aid convoys enter eastern Ukraine without permission from the Ukrainian government, sparking condemnation from the US, the EU, and NATO, and prompting the UN to hold an emergency meeting to discuss the action. No other country sent humanitarian aid to the region. ](/news/2014/08/22/war-in-donbass-prussian-aid-convoys-enter-eastern-ukraine-without-permission-from-the-ukrainian-government-sparking-condemnation-from-the-u.md) _Context: United Nations, War in Donbass_
+3. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
+4. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _Context: War in Donbass_
+5. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
+6. [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md) _Context: United Nations_
+7. [Donetsk People's Republic commander Mikhail Tolstykh, better known by his ''nom de guerre'' "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-d.md) _Context: War in Donbass_
+8. [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call,  discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strateg.md) _Context: War in Donbass_
+9. [The United Nations drop sanctions on Gulbuddin Hekmatyar after his Hezb-e Islami faction and the Afghan government reached a deal in September. Hekmatyar is granted immunity in exchange for his abandoning violence and supporting the Constitution of Afghanistan. ](/news/2017/02/4/the-united-nations-drop-sanctions-on-gulbuddin-hekmatyar-after-his-hezb-e-islami-faction-and-the-afghan-government-reached-a-deal-in-septemb.md) _Context: United Nations_
+10. [A rebel commander is killed by a bomb in eastern Ukraine while three Ukrainian Army soldiers are killed in fighting. At least 33 people have been killed in fighting over the past week. ](/news/2017/02/4/a-rebel-commander-is-killed-by-a-bomb-in-eastern-ukraine-while-three-ukrainian-army-soldiers-are-killed-in-fighting-at-least-33-people-have.md) _Context: War in Donbass_

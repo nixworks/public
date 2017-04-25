@@ -1,0 +1,23 @@
+### [2008-01-29](/news/2008/01/29/index.md)
+
+#  The United States House of Representatives passes a $146 billion economic stimulus package. 
+
+The House, seizing a rare moment of bipartisanship to respond to the economy’s slump, overwhelmingly passed a $146 billion aid package that would speed rebates of $600-$1,200 to most taxpayers.
+
+
+### Source:
+
+1. [AP via ''The New York Times](http://www.nytimes.com/2008/01/29/washington/30wire-stim.html)
+
+### Related:
+
+1. [ The United States House of Representatives approves legislation developed by Barney Frank to let the United States government insure up to $300 billion in mortgages to help homeowners avert foreclosure. ](/news/2008/05/8/the-united-states-house-of-representatives-approves-legislation-developed-by-barney-frank-to-let-the-united-states-government-insure-up-to.md) _Context: U.S. House, U.S. dollar_
+2. [ The United States House of Representatives votes to provide $50 billion over five years to fight AIDS, tuberculosis and malaria in Africa and other third world areas. ](/news/2008/04/2/the-united-states-house-of-representatives-votes-to-provide-50-billion-over-five-years-to-fight-aids-tuberculosis-and-malaria-in-africa-a.md) _Context: U.S. House, U.S. dollar_
+3. [ The United States House of Representatives approves a $US100 billion bill to fund the US war effort in Iraq and Afghanistan without a timetable for the withdrawal of troops from Iraq. ](/news/2007/05/24/the-united-states-house-of-representatives-approves-a-us100-billion-bill-to-fund-the-us-war-effort-in-iraq-and-afghanistan-without-a-timet.md) _Context: U.S. House, U.S. dollar_
+4. [ The U.S. House of Representatives narrowly passes a US$2.9 trillion budget blueprint which results in a surplus after five years but relies heavily on the expiration of the Bush tax cuts to do so. The U.S. Senate passed a similar budget blueprint last week with negotiations to ensue.](/news/2007/03/29/the-u-s-house-of-representatives-narrowly-passes-a-us-2-9-trillion-budget-blueprint-which-results-in-a-surplus-after-five-years-but-relies.md) _Context: U.S. House, U.S. dollar_
+5. [ The United States House of Representatives passes a $1.17 billion funding bill for Amtrak in fiscal year 2006, an amount that is still short of the $2 billion Amtrak was originally seeking. The funding was approved in an amendment to a more general transportation and treasury appropriations bill. The House also removed the requirement in the bill that would mandate Amtrak to end passenger train service on currently unprofitable routes. The funding has yet to be approved by the Senate.](/news/2005/06/29/the-united-states-house-of-representatives-passes-a-1-17-billion-funding-bill-for-amtrak-in-fiscal-year-2006-an-amount-that-is-still-shor.md) _Context: U.S. House, U.S. dollar_
+6. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: U.S. House_
+7. [In an interview, U.S. President Donald Trump says the U.S. dollar is "getting too strong" and wants to keep interest rates low, causing the U.S. Dollar Index to fall. ](/news/2017/04/12/in-an-interview-u-s-president-donald-trump-says-the-u-s-dollar-is-getting-too-strong-and-wants-to-keep-interest-rates-low-causing-the.md) _Context: U.S. dollar_
+8. [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md) _Context: U.S. dollar_
+9. [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md) _Context: U.S. House_
+10. [U.S. Representative Matt Gaetz proposes a bill to eliminate the United States Environmental Protection Agency. ](/news/2017/02/6/u-s-representative-matt-gaetz-proposes-a-bill-to-eliminate-the-united-states-environmental-protection-agency.md) _Context: U.S. House_

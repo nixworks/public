@@ -1,0 +1,21 @@
+### [2014-02-13](/news/2014/02/13/index.md)
+
+# Archaeologists unearth a painted, human-shaped sarcophagus that's 3,600 years old -- with a mummy still inside in Luxor, Egypt. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2014/02/13/world/africa/egypt-mummy-discovery/)
+
+### Related:
+
+1. [The Egyptian Ministry of Antiquities announces the discovery of   eight mummies, 10 colorful sarcophagi, and numerous figurines in  a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500.md) _Context: Luxor_
+2. [Spanish archaeologists in Luxor announce the discovery of an approximately 3000 year old mummy in "near perfect" condition. ](/news/2016/11/14/spanish-archaeologists-in-luxor-announce-the-discovery-of-an-approximately-3000-year-old-mummy-in-near-perfect-condition.md) _Context: Luxor_
+3. [A suicide bomber targets the Karnak temple site in the ancient Egyptian city of Luxor. Two militants were shot nearby, four Egyptians were wounded with no tourists hurt in the attack. ](/news/2015/06/10/a-suicide-bomber-targets-the-karnak-temple-site-in-the-ancient-egyptian-city-of-luxor-two-militants-were-shot-nearby-four-egyptians-were-w.md) _Context: Luxor_
+4. [2013 Luxor hot air balloon crash: A hot air balloon crashes near the Egyptian town of Luxor killing 19 Asian and European tourists. ](/news/2013/02/26/2013-luxor-hot-air-balloon-crash-a-hot-air-balloon-crashes-near-the-egyptian-town-of-luxor-killing-19-asian-and-european-tourists.md) _Context: Luxor_
+5. [The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaelogical excavation in Luxor, Egypt. ](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-pharaoh-ramses-ii-is-found-in-an-archaelogical-excavation-in-luxor-egypt.md) _Context: Luxor_
+6. [Egyptian authorities announce the discovery of a granite head from a statue of Tutankhamun's grandfather Amenhotep III, which was unearthed at a temple in Luxor. ](/news/2010/02/28/egyptian-authorities-announce-the-discovery-of-a-granite-head-from-a-statue-of-tutankhamun-s-grandfather-amenhotep-iii-which-was-unearthed.md) _Context: Luxor_
+7. [ KV63, tomb from the Eighteenth dynasty of Egypt, dating back more than 3,300 years, has been uncovered in the famed Valley of the Kings, an ancient desert burial ground near the southern city of Luxor. ](/news/2006/02/10/kv63-tomb-from-the-eighteenth-dynasty-of-egypt-dating-back-more-than-3-300-years-has-been-uncovered-in-the-famed-valley-of-the-kings-an.md) _Context: Luxor_
+8. [ A tourist coach crash in Egypt on the highway between Hurghada and Luxor kills 14 and injures another 30 people. All casualties are from Hong Kong and were joining Jetour Holidays tours.](/news/2006/01/31/a-tourist-coach-crash-in-egypt-on-the-highway-between-hurghada-and-luxor-kills-14-and-injures-another-30-people-all-casualties-are-from-ho.md) _Context: Luxor_

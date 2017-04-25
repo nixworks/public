@@ -1,0 +1,23 @@
+### [2010-11-26](/news/2010/11/26/index.md)
+
+# China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at  threatening North Korea. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/idUSTRE6AP1S620101126)
+
+### Related:
+
+1. [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md) _Context: China, North Korea_
+2. [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md) _Context: China, North Korea_
+3. [China bans K-pop stars and South Korean actors from attending promotional events in retaliation for Seoul's deployment of the U.S. THAAD anti-ballistic missile system. ](/news/2016/08/4/china-bans-k-pop-stars-and-south-korean-actors-from-attending-promotional-events-in-retaliation-for-seoul-s-deployment-of-the-u-s-thaad-ant.md) _Context: China, South Korean_
+4. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other  lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-j.md) _Context: North Korea, economic exclusion zone_
+5. [Russia postpones a transfer of missile engines to China. There is concern the technology could be passed on to a third country, such as North Korea.  China is not a member of the Missile Technology Control Regime, a voluntary, informal partnership between 34 countries to prevent proliferation of missile  delivery systems that could carry weapons of mass destruction. ](/news/2016/04/8/russia-postpones-a-transfer-of-missile-engines-to-china-there-is-concern-the-technology-could-be-passed-on-to-a-third-country-such-as-nort.md) _Context: China, North Korea_
+6. [China's Ministry of Commerce says that it is restricting trade with North Korea, in line with the recent sanctions approved by the United Nations Security Council last March. China will be banning the export of jet fuel and import of gold, some coal and "rare earth metals" used in high-tech goods. ](/news/2016/04/5/china-s-ministry-of-commerce-says-that-it-is-restricting-trade-with-north-korea-in-line-with-the-recent-sanctions-approved-by-the-united-na.md) _Context: China, North Korea_
+7. [  North Korea accuses South Korea of kidnapping its citizens and demands their immediate return after Seoul's Ministry of Unification said 13 of them had defected to South Korea from China, where they worked in a Pyongyang-operated restaurant. China says that the 13 people, a male manager and 12 young female employees, had legitimate passports and had freely exited China. ](/news/2016/04/12/north-korea-accuses-south-korea-of-kidnapping-its-citizens-and-demands-their-immediate-return-after-seoul-s-ministry-of-unification-said-1.md) _Context: China, North Korea_
+8. [The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday.   Russia requests more time to review the text. ](/news/2016/03/1/the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-rescheduled-to-10-00-a-m-est-wednesd.md) _Context: China, North Korea_
+9. [The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. ](/news/2016/02/25/the-united-states-will-present-the-draft-resolution-resulting-from-yesterday-s-meeting-with-china-to-the-united-nations-security-council-e.md) _Context: China, North Korea_
+10. [North Korea's all-female Moranbong Band, which was formed by leader Kim Jong-un, surprisingly cancels tonight's concert at Beijing's National Centre for the Performing Arts, and two others and returns to Pyongyang. Rumors for the sudden change abound, but no reason has been given. The sudden cancellation could hurt Chinese-North Korean relations,  cooler since between Kim assumed power in 2011. ](/news/2015/12/12/north-korea-s-all-female-moranbong-band-which-was-formed-by-leader-kim-jong-un-surprisingly-cancels-tonight-s-concert-at-beijing-s-nationa.md) _Context: China, North Korea_

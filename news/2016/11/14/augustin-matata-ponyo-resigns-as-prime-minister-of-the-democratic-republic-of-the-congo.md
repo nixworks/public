@@ -1,0 +1,15 @@
+### [2016-11-14](/news/2016/11/14/index.md)
+
+# Augustin Matata Ponyo resigns as Prime Minister of the Democratic Republic of the Congo. 
+
+Congolese Prime Minister Augustin Matata Ponyo resigned on Monday as part of the national dialogue framework agreement which stipulates that an opposition leader takes the position of Prime Minister.
+
+
+### Source:
+
+1. [Africa News](http://www.africanews.com/2016/11/14/dr-congo-prime-minister-matata-ponyo-resigns-as-part-of-peace-agreement/)
+
+### Related:
+
+1. [President Joseph Kabila appoints Bruno Tshibala of the Union for Democracy and Social Progress as the Prime Minister of the Democratic Republic of the Congo. Kabila's earlier announcement of his decision to appoint a new prime minister prompted Samy Badibanga to resign from the role after less than five months in office. ](/news/2017/04/7/president-joseph-kabila-appoints-bruno-tshibala-of-the-union-for-democracy-and-social-progress-as-the-prime-minister-of-the-democratic-repub.md) _Context: Prime Minister of the Democratic Republic of the Congo_
+2. [President Joseph Kabila appoints Samy Badibanga as the new Prime Minister of the Democratic Republic of the Congo as part of a power-sharing deal agreed by the opposition and government. ](/news/2016/11/17/president-joseph-kabila-appoints-samy-badibanga-as-the-new-prime-minister-of-the-democratic-republic-of-the-congo-as-part-of-a-power-sharing.md) _Context: Prime Minister of the Democratic Republic of the Congo_

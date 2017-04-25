@@ -1,0 +1,24 @@
+### [2010-10-4](/news/2010/10/4/index.md)
+
+# 4 people, including two Central Reserve Police Force men, are killed and 2 others are injured in an evening landmine blast in the remote parts of South Gadchiroli. The attack is carried out by Maoists. 
+
+Four securitymen killed as Naxals trigger blast in Gadchiroli - Initial reports suggest that the Maoists blew off a landmine at Perimili village, 200 km from the district headquarters.
+
+
+### Source:
+
+1. [ZEE](http://www.zeenews.com/news659491.html)
+2. [DNA](http://www.dnaindia.com/mumbai/report_four-securitymen-killed-as-naxals-trigger-blast-in-gadchiroli_1447648)
+
+### Related:
+
+1. [Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _Context: Central Reserve Police Force, Maoist_
+2. [Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhattisgarh-india.md) _Context: Central Reserve Police Force_
+3. [At least 11 Central Reserve Police Force troops are killed after their convoy is attacked by suspected Communist Party of India militants in Chhattisgarh. ](/news/2017/03/11/at-least-11-central-reserve-police-force-troops-are-killed-after-their-convoy-is-attacked-by-suspected-communist-party-of-india-militants-in.md) _Context: Central Reserve Police Force_
+4. [Five Indian paramilitary soldiers are killed and another 20 injured when suspected rebels ambush their convoy in the outskirts of Srinagar in the Indian portion of Kashmir. Two of the attackers are killed by return fire; the others escape. ](/news/2016/06/25/five-indian-paramilitary-soldiers-are-killed-and-another-20-injured-when-suspected-rebels-ambush-their-convoy-in-the-outskirts-of-srinagar-i.md) _Context: Central Reserve Police Force_
+5. [At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-the-indian-state-of-chhattisgar.md) _Context: Central Reserve Police Force_
+6. [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _Context: Maoist_
+7. [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md) _Context: Maoist_
+8. [Sixteen Naxalite Maoist insurgents are killed by Central Reserve Police Force in the Indian state of Chhattisgarh. ](/news/2012/06/29/sixteen-naxalite-maoist-insurgents-are-killed-by-central-reserve-police-force-in-the-indian-state-of-chhattisgarh.md) _Context: Central Reserve Police Force_
+9. [Maoist rebels abduct seven villagers in the Purulia district of India's West Bengal state. ](/news/2010/12/17/maoist-rebels-abduct-seven-villagers-in-the-purulia-district-of-india-s-west-bengal-state.md) _Context: Maoist_
+10. [Two villagers and 10 Naxalites are killed in firing between a group of criminals and Maoists in Munger, India. ](/news/2010/12/1/two-villagers-and-10-naxalites-are-killed-in-firing-between-a-group-of-criminals-and-maoists-in-munger-india.md) _Context: Maoist_

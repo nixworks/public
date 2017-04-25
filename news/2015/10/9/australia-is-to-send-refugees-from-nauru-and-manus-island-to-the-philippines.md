@@ -1,0 +1,23 @@
+### [2015-10-9](/news/2015/10/9/index.md)
+
+# Australia is to send refugees from Nauru and Manus Island to the Philippines. 
+
+Refugees who travelled to Australia by boat could be permanently resettled in the Philippines under a deal being negotiated, but senior government sources fear the premature leaking of the deal to the media could see the proposal scuttled.
+
+
+### Source:
+
+1. [Sydney Morning Herald](http://m.smh.com.au/federal-politics/political-news/coalition-government-in-talks-to-resettle-refugees-in-the-philippines-20151008-gk4u5m.html)
+
+### Related:
+
+1. [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md) _Context: Australia, Manus Island, Nauru_
+2. [ President Benigno Aquino III says the Philippines doesn't have the capacity to permanently house Manus Island refugees from Australian-run detention camps. ](/news/2015/10/27/president-benigno-aquino-iii-says-the-philippines-doesn-t-have-the-capacity-to-permanently-house-manus-island-refugees-from-australian-run.md) _Context: Australia, Manus Island, Philippines_
+3. [Head of Australia's Department of Immigration Mike Pezzullo denies that the detention centre for asylum seekers on Manus Island must be closed. He said there was no crisis that required any closure of the centre despite Papua New Guinea's Supreme Court ruling it to be unconstitutional and ordering the release of the detainees. ](/news/2016/05/6/head-of-australia-s-department-of-immigration-mike-pezzullo-denies-that-the-detention-centre-for-asylum-seekers-on-manus-island-must-be-clos.md) _Context: Australia, Manus Island_
+4. [A Somali asylum seeker sets herself alight in Nauru to protest her detention on the island by Australia, one week after an Iranian asylum seeker did the same thing. ](/news/2016/05/2/a-somali-asylum-seeker-sets-herself-alight-in-nauru-to-protest-her-detention-on-the-island-by-australia-one-week-after-an-iranian-asylum-se.md) _Context: Australia, Nauru_
+5. [An Iranian asylum seeker self-immolates himself in Nauru to protest Australia's treatment of refugees. The protest coincides with a visit by representatives from the United Nations High Commissioner for Refugees to the island. Instead of admitting refugees into the country, Australia has been sending them to Nauru or Papua New Guinea. ](/news/2016/04/27/an-iranian-asylum-seeker-self-immolates-himself-in-nauru-to-protest-australia-s-treatment-of-refugees-the-protest-coincides-with-a-visit-by.md) _Context: Australia, Nauru_
+6. [The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. ](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.md) _Context: Australia, Manus Island_
+7. [New Zealand Prime Minister John Key says  his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru's detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. ](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-country-is-willing-to-accept-some-asylum-seekers-from-the-middle-east-and-asia-currently-in-d.md) _Context: Australia, Nauru_
+8. [The government of Nauru announces that the Nauru Detention Centre will become an "open facility" where people seeking asylum in Australia will be able to move freely around the island. ](/news/2015/10/5/the-government-of-nauru-announces-that-the-nauru-detention-centre-will-become-an-open-facility-where-people-seeking-asylum-in-australia-wi.md) _Context: Australia, Nauru_
+9. [Pacific Solution:The small Pacific state of Nauru has run out of money following a legal dispute in Australia. ](/news/2014/09/26/pacific-solution-pthe-small-pacific-state-of-nauru-has-run-out-of-money-following-a-legal-dispute-in-australia.md) _Context: Australia, Nauru_
+10. [A measles outbreak from the Philippines has spread into Australia, Canada, Taiwan, and the United Kingdom. ](/news/2014/02/12/a-measles-outbreak-from-the-philippines-has-spread-into-australia-canada-taiwan-and-the-united-kingdom.md) _Context: Australia, Philippines_

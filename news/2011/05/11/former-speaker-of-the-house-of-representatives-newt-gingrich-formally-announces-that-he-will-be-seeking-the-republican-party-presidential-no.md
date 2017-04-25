@@ -1,0 +1,24 @@
+### [2011-05-11](/news/2011/05/11/index.md)
+
+# Former Speaker of the House of Representatives Newt Gingrich formally announces that he will be seeking the Republican Party Presidential nomination. 
+
+&quot;I&#39;m Newt Gingrich, and I&#39;m announcing my candidacy for President of the United States because I believe we can return America to hope and opportunity, to fu...
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2011/POLITICS/05/11/gingrich/index.html?on.cnn=2)
+2. [Newt Gingrich Youtube Channel](http://www.youtube.com/watch?v=xRSz21Vedxc)
+
+### Related:
+
+1. [Former Speaker of the United States House of Representatives Newt Gingrich announces plans to explore a bid for the Republican Party nomination in the 2012 US Presidential election. ](/news/2011/03/3/former-speaker-of-the-united-states-house-of-representatives-newt-gingrich-announces-plans-to-explore-a-bid-for-the-republican-party-nominat.md) _Context: Newt Gingrich, Republican, Speaker of the United States House of Representatives_
+2. [  Paul Ryan, Speaker of the United States House of Representatives, rules out seeking or accepting the Republican Party nomination in 2016. ](/news/2016/04/12/paul-ryan-speaker-of-the-united-states-house-of-representatives-rules-out-seeking-or-accepting-the-republican-party-nomination-in-2016.md) _Context: Republican, Speaker of the United States House of Representatives_
+3. [Members of the Republican party in the United States House of Representatives nominate Paul Ryan of Wisconsin to replace John Boehner of Ohio as Speaker of the House.  There will be a formal vote Thursday on the House floor. ](/news/2015/10/28/members-of-the-republican-party-in-the-united-states-house-of-representatives-nominate-paul-ryan-of-wisconsin-to-replace-john-boehner-of-ohi.md) _Context: Republican, Speaker of the United States House of Representatives_
+4. [Paul Ryan announces that he will run to succeed outgoing Speaker of the United States House of Representatives John Boehner after receiving the support of a significant majority of members of the Republican Party. ](/news/2015/10/22/paul-ryan-announces-that-he-will-run-to-succeed-outgoing-speaker-of-the-united-states-house-of-representatives-john-boehner-after-receiving.md) _Context: Republican, Speaker of the United States House of Representatives_
+5. [Herman Cain announces that he will suspend his campaign for Republican nomination in the United States presidential election following a series of sexual harassment and other misconduct allegations. ](/news/2011/12/3/herman-cain-announces-that-he-will-suspend-his-campaign-for-republican-nomination-in-the-united-states-presidential-election-following-a-ser.md) _Context: Republican, nomination_
+6. [At a Republican party presidential primary debate, US Presidential candidates Mitt Romney and Newt Gingrich say they would go to war to stop Iran from obtaining nuclear weapons. ](/news/2011/11/12/at-a-republican-party-presidential-primary-debate-us-presidential-candidates-mitt-romney-and-newt-gingrich-say-they-would-go-to-war-to-stop.md) _Context: Newt Gingrich, nomination_
+7. [Republican Party candidates for the nomination in the 2012 United States presidential election hold their first debate in Greenville, South Carolina. ](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.md) _Context: Republican, nomination_
+8. [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md) _Context: Republican, Speaker of the United States House of Representatives_
+9. [ Newt Gingrich, former Speaker of the U.S. House of Representatives, says the six men involved in the Flying Imams controversy should have been "arrested and prosecuted for pretending to be terrorists." ](/news/2006/12/15/newt-gingrich-former-speaker-of-the-u-s-house-of-representatives-says-the-six-men-involved-in-the-flying-imams-controversy-should-have-b.md) _Context: Newt Gingrich, Speaker of the United States House of Representatives_
+10. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Republican_

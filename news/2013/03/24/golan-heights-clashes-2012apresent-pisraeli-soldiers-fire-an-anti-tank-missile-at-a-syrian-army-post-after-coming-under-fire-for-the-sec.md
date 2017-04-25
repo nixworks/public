@@ -1,0 +1,24 @@
+### [2013-03-24](/news/2013/03/24/index.md)
+
+# Golan Heights clashes (2012-present):Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. 
+
+Syrian outpost completely destroyed, leaving two wounded; defense minister warns of no-tolerance approach to attacks
+
+
+### Source:
+
+1. [The Times of Israel](http://www.timesofisrael.com/idf-retaliates-with-missile-into-syria/)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/2013324103946710666.html)
+
+### Related:
+
+1. [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md) _Context: Golan Heights, Israel Defense Forces, Syrian Army_
+2. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: Israel Defense Forces, Syrian Army_
+3. [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in  al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied.md) _Context: Golan Heights, Israel Defense Forces_
+4. [Syrian civil war: A second mortar shell from Syria has been fired at an Israeli military outpost in the Golan Heights, after a similar incident the day before. The Israel Defence Forces have responded with tank fire at the source of the bombardment, scoring several direct hits on artillery units belonging to the Syrian Army. ](/news/2012/11/12/syrian-civil-war-pa-second-mortar-shell-from-syria-has-been-fired-at-an-israeli-military-outpost-in-the-golan-heights-after-a-similar-inci.md) _Context: Golan Heights, Syrian Army_
+5. [Israeli forces fire on pro-Palestinian protesters attempting to breach the Syrian-Israeli border in the Golan Heights on Naksa Day, marking the anniversary of the 1967 Six Day War; Syrian sources claim that close to 20 people are killed and over 325 injured, while Israeli officials confirm at least 12 injures. ](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.md) _Context: Golan Heights, Israel Defense Forces_
+6. [ A Palestinian Fatah gunman infiltrates the Golan Heights from Syria and attacks an IDF outpost near the border. The outpost commander manages to disarm the gunman and arrest him. The IDF will investigate how the 21-year-old man, draped in a Palestinian flag, managed to penetrate so deep without being detected earlier. ](/news/2005/04/15/a-palestinian-fatah-gunman-infiltrates-the-golan-heights-from-syria-and-attacks-an-idf-outpost-near-the-border-the-outpost-commander-manag.md) _Context: Golan Heights, Israel Defense Forces_
+7. [The prime minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/the-prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refus.md) _Context: Israel Defense Forces_
+8. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Syrian Army_
+9. [CJTFOIR deploys U.S. forces near Manbij to "reassure Coalition" members and to "deter aggression." This comes days after the U.S.-backed Syrian Democratic Forces' Manbij Military Council agreed to hand over territory west of Manbij to the Syrian Army to create a buffer zone between the SDF and Turkish-backed rebels. ](/news/2017/03/4/cjtfoir-deploys-u-s-forces-near-manbij-to-reassure-coalition-members-and-to-deter-aggression-this-comes-days-after-the-u-s-backed-syr.md) _Context: Syrian Army_
+10. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Israel Defense Forces_

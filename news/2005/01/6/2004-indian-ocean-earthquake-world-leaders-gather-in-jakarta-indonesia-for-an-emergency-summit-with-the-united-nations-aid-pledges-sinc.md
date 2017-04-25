@@ -1,0 +1,23 @@
+### [2005-01-6](/news/2005/01/6/index.md)
+
+#  2004 Indian Ocean earthquake: World leaders gather in Jakarta, Indonesia, for an emergency summit with the United Nations. Aid pledges since the Asian Tsunami disaster are near USD 4 billion (EUR 3 billion). Nearly 150,000 people have been confirmed dead in the four hardest hit nations - Indonesia, India, Sri Lanka and Thailand. 
+
+
+
+
+### Source:
+
+1. [CNA](http://www.channelnewsasia.com/stories/afp_asiapacific/view/125958/1/.html)
+
+### Related:
+
+1. [ 2005 Sumatran earthquake: An earthquake of moment magnitude 8.7 is reported off the west coast of North Sumatra, likely an aftershock of the 2004 Indian Ocean earthquake. Concerned about the threat of a tsunami, emergency evacuations begin in Malaysia, Thailand, and Sri Lanka, although no significant tsunami activity is reported. Indonesia's vice-president reports up to 2,000 deaths ](/news/2005/03/28/2005-sumatran-earthquake-an-earthquake-of-moment-magnitude-8-7-is-reported-off-the-west-coast-of-north-sumatra-likely-an-aftershock-of-th.md) _Context: 2004 Indian Ocean earthquake, Indonesia, Sri Lanka, Thailand_
+2. [  A second major earthquake off the coast of Sumatra prompts tsunami warnings for Sri Lanka, India, Indonesia, Christmas Island and the Cocos Islands. ](/news/2007/09/13/a-second-major-earthquake-off-the-coast-of-sumatra-prompts-tsunami-warnings-for-sri-lanka-india-indonesia-christmas-island-and-the-coco.md) _Context: India, Indonesia, Sri Lanka_
+3. [ Global tsunami aid donations exceed USD 2 billion (EUR 1.5 billion). ](/news/2005/01/2/global-tsunami-aid-donations-exceed-usd-2-billion-eur-1-5-billion.md) _Context: 2004 Indian Ocean earthquake, U.S. dollar, euro_
+4. [Flooding occurs across parts of Indonesia, including the capital Jakarta, due to torrential downpours over the last few days. Thousands of homes have been flooded and schools were forced to close. However, there are no reports of injuries yet. ](/news/2017/02/21/flooding-occurs-across-parts-of-indonesia-including-the-capital-jakarta-due-to-torrential-downpours-over-the-last-few-days-thousands-of-h.md) _Context: Indonesia, Jakarta_
+5. [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md) _Context: India, U.S. dollar_
+6. [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md) _Context: U.S. dollar, euro_
+7. [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md) _Context: Indonesia, Jakarta_
+8. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Indonesia, Jakarta_
+9. [Indian Prime Minister Narendra Modi and Russian President Vladimir Putin sign several agreements including a $12.9 billion defense and energy deal. Russian state oil major Rosneft pays  for a controlling stake in both India's Essar Oil and port facilities that it already owns. ](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.md) _Context: India, U.S. dollar_
+10. [Abu Sayyaf frees a Norwegian hostage for a ransom of [?]30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. ](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.md) _Context: Indonesia, U.S. dollar_

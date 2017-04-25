@@ -1,0 +1,23 @@
+### [2016-04-26](/news/2016/04/26/index.md)
+
+# The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. 
+
+Papua New Guinea&#039;s Supreme Court rules Australia&#039;s detention of asylum seekers on Manus Island is illegal.
+
+
+### Source:
+
+1. [ABC News Australia](http://www.abc.net.au/news/2016-04-26/png-rules-detention-on-manus-island-illegal/7360078)
+
+### Related:
+
+1. [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md) _Context: Australia, Manus Island_
+2. [The governments of Papua New Guinea and Australia confirm that the Manus Regional Processing Centre will close following a ruling by the Supreme Court of Papua New Guinea. ](/news/2016/08/17/the-governments-of-papua-new-guinea-and-australia-confirm-that-the-manus-regional-processing-centre-will-close-following-a-ruling-by-the-sup.md) _Context: Australia, Supreme Court of Papua New Guinea_
+3. [Head of Australia's Department of Immigration Mike Pezzullo denies that the detention centre for asylum seekers on Manus Island must be closed. He said there was no crisis that required any closure of the centre despite Papua New Guinea's Supreme Court ruling it to be unconstitutional and ordering the release of the detainees. ](/news/2016/05/6/head-of-australia-s-department-of-immigration-mike-pezzullo-denies-that-the-detention-centre-for-asylum-seekers-on-manus-island-must-be-clos.md) _Context: Australia, Manus Island_
+4. [Australian Immigration Minister Peter Dutton says Australia and Papua New Guinea will hold emergency talks next week about asylum seekers Australia has been holding on PNG's Los Negros Island in Manus Province. Tuesday, the Supreme Court of Papua New Guinea ruled this detention is illegal, and ordered the PNG and Australian governments to immediately take steps to end it. An Iranian refugee detainee remains in critical condition after setting himself on fire yesterday to protest  Australia's treatment of refugees while  the United Nations High Commissioner for Refugees was visiting the island. ](/news/2016/04/28/australian-immigration-minister-peter-dutton-says-australia-and-papua-new-guinea-will-hold-emergency-talks-next-week-about-asylum-seekers-au.md) _Context: Australia, Supreme Court of Papua New Guinea_
+5. [Australia is to send refugees from Nauru and Manus Island to the Philippines. ](/news/2015/10/9/australia-is-to-send-refugees-from-nauru-and-manus-island-to-the-philippines.md) _Context: Australia, Manus Island_
+6. [ President Benigno Aquino III says the Philippines doesn't have the capacity to permanently house Manus Island refugees from Australian-run detention camps. ](/news/2015/10/27/president-benigno-aquino-iii-says-the-philippines-doesn-t-have-the-capacity-to-permanently-house-manus-island-refugees-from-australian-run.md) _Context: Australia, Manus Island_
+7. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: Australia_
+8. [Australia adds stricter requirements to its citizenship application process, including harder tests on English language skills and the requirement that a migrant be able to demonstrate "Australian values". ](/news/2017/04/20/australia-adds-stricter-requirements-to-its-citizenship-application-process-including-harder-tests-on-english-language-skills-and-the-requi.md) _Context: Australia_
+9. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Australia_
+10. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Australia_

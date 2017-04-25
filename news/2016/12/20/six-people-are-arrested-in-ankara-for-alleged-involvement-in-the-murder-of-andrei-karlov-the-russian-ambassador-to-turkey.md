@@ -1,0 +1,23 @@
+### [2016-12-20](/news/2016/12/20/index.md)
+
+# Six people are arrested in Ankara for alleged involvement in the murder of Andrei Karlov, the Russian ambassador to Turkey. 
+
+Turkish police detain six people over the killing of the Russian ambassador, who was shot in the back as he gave a speech in Ankara.
+
+
+### Source:
+
+1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-12-20/turkish-police-detain-six-after-russian-ambassador-shot-dead/8136774)
+
+### Related:
+
+1. [The Russian ambassador to Turkey Andrei Karlov is killed in a gun attack at an art gallery in Ankara. Russia calls the assassin, 22-year old police officer, Mevlut Mert Altintas, a "terrorist". Turkish Foreign Minister Mevlut Cavusoglu goes to Moscow for a planned trilateral meeting on Syria, saying "the incident will not impact relations between Turkey and Russia". ](/news/2016/12/19/the-russian-ambassador-to-turkey-andrei-karlov-is-killed-in-a-gun-attack-at-an-art-gallery-in-ankara-russia-calls-the-assassin-22-year-old.md) _Context: Andrei Karlov, Ankara, Assassination of Andrei Karlov, Russia, Turkish_
+2. [Russia and Turkey sign a $20 billion deal permitting Moscow to build and own a controlling stake in Ankara's first nuclear power plant. ](/news/2010/05/12/russia-and-turkey-sign-a-20-billion-deal-permitting-moscow-to-build-and-own-a-controlling-stake-in-ankara-s-first-nuclear-power-plant.md) _Context: Ankara, Russia, Turkish_
+3. [Turkey bans the Dutch ambassador, Cornelis Van Rij, from returning to the Embassy of the Netherlands in Ankara, and closes its airspace to Dutch diplomats in response to a Dutch ban on Turkish ministers speaking at pro-Erdogan rallies. ](/news/2017/03/13/turkey-bans-the-dutch-ambassador-cornelis-van-rij-from-returning-to-the-embassy-of-the-netherlands-in-ankara-and-closes-its-airspace-to-d.md) _Context: Ankara, Turkish_
+4. [The second day of peace negotiations in Astana, Kazakhstan, end with the sponsors of the talks, Russia, Turkey and Iran, agreeing to set up commission between the three to monitor and enforce the fragile ceasefire to the Syrian Civil War. ](/news/2017/01/24/the-second-day-of-peace-negotiations-in-astana-kazakhstan-end-with-the-sponsors-of-the-talks-russia-turkey-and-iran-agreeing-to-set-up.md) _Context: Russia, Turkish_
+5. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Russia, Turkish_
+6. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Russia, Turkish_
+7. [Turkish Foreign Minister Mevlut Cavusoglu says Turkey's cooperation with Russia in combating the Islamic State in Syria does not include Russia's use of its Incirlik Air Base, which some have interpreted from his comments yesterday. ](/news/2016/07/4/turkish-foreign-minister-mevla1-4t-aavuaoalu-says-turkey-s-cooperation-with-russia-in-combating-the-islamic-state-in-syria-does-not-include.md) _Context: Russia, Turkish_
+8. [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md) _Context: Russia, Turkish_
+9. [Turkey's Interior Minister Efkan Ala says the results of the investigation into yesterday's bombing in Ankara will be made public later today.  Health Minister Mehmet Muezzinoglu says 125 people were transported to a hospital, with 19 in critical condition. Two Kurdish militants have been blamed for the bombing. ](/news/2016/03/14/turkeyas-interior-minister-efkan-ala-says-the-results-of-the-investigation-into-yesterday-s-bombing-in-ankara-will-be-made-public-later-to.md) _Context: Ankara, Turkish_
+10. [An explosion occurs in central Ankara, Turkey, with at least 34 people killed and 125 wounded. ](/news/2016/03/13/an-explosion-occurs-in-central-ankara-turkey-with-at-least-34-people-killed-and-125-wounded.md) _Context: Ankara, Turkish_

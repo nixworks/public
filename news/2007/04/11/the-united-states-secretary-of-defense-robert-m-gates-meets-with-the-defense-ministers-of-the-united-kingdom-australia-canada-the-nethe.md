@@ -1,0 +1,24 @@
+### [2007-04-11](/news/2007/04/11/index.md)
+
+#  The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. 
+
+Critics of the Bush administration say that the focus on the Iraq war has jeopardized the early military victory in Afghanistan in 2001.
+
+
+### Source:
+
+1. [New York Times](http://www.nytimes.com/2007/04/12/world/asia/12gates.html?_r=1&oref=slogin)
+2. [Reuters via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/11/AR2007041102013.html)
+
+### Related:
+
+1. [Myanmar tops the 2015 Charities Aid Foundation's World Giving Index which measures each country's charitable behavior. Individuals indicate whether they have donated money, volunteered, or helped a stranger in the past month. The United States, which tied with Myanmar last year, is second, followed by New Zealand, Canada, Australia, the United Kingdom, the Netherlands, Sri Lanka, Ireland, and Malaysia. ](/news/2015/11/10/myanmar-tops-the-2015-charities-aid-foundation-s-world-giving-index-which-measures-each-country-s-charitable-behavior-individuals-indicate.md) _Context: Australia, Canadian, Netherlands, United Kingdom_
+2. [The United States Food and Drug Administration (FDA) lifts the 32-year-old, lifetime ban on blood donations from gay and bisexual men. Men can donate if they haven't had sex with another man in the previous year. The FDA stance is in line with other countries, such as Australia, Brazil, Canada, New Zealand, and the U.K., and is consistent with rules on recent blood transfusion or accidental exposure to another individual's blood.  ](/news/2015/12/21/the-united-states-food-and-drug-administration-fda-lifts-the-32-year-old-lifetime-ban-on-blood-donations-from-gay-and-bisexual-men-men-c.md) _Context: Australia, Canadian, United Kingdom_
+3. [A measles outbreak from the Philippines has spread into Australia, Canada, Taiwan, and the United Kingdom. ](/news/2014/02/12/a-measles-outbreak-from-the-philippines-has-spread-into-australia-canada-taiwan-and-the-united-kingdom.md) _Context: Australia, Canadian, United Kingdom_
+4. [A major winter storm called Bodil hits the United Kingdom, the Netherlands, Denmark and Germany, disrupting traffic and causing four people to be dead or missing and widespread damage amid fears of flooding along the North Sea coast. ](/news/2013/12/5/a-major-winter-storm-called-bodil-hits-the-united-kingdom-the-netherlands-denmark-and-germany-disrupting-traffic-and-causing-four-people.md) _Context: Danish, Netherlands, United Kingdom_
+5. [Facebook recognises civil unions and domestic partnerships as relationship statuses in the United States, Canada, the United Kingdom, France and Australia. ](/news/2011/02/18/facebook-recognises-civil-unions-and-domestic-partnerships-as-relationship-statuses-in-the-united-states-canada-the-united-kingdom-france.md) _Context: Australia, Canadian, United Kingdom_
+6. [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md) _Context: Afghan, Taliban, United Kingdom_
+7. [ Afghan and Canadian forces begin an offensive against the Taliban in the Arghandab District of Kandahar. ](/news/2008/06/18/afghan-and-canadian-forces-begin-an-offensive-against-the-taliban-in-the-arghandab-district-of-kandahar.md) _Context: Afghan, Canadian, Taliban_
+8. [ Georgia and Slovakia offer to send troops to support the Australian/Dutch taskforce in the south of the Afghanistan as the Dutch government is under pressure to reduce troops. ](/news/2007/10/22/georgia-and-slovakia-offer-to-send-troops-to-support-the-australian-dutch-taskforce-in-the-south-of-the-afghanistan-as-the-dutch-government.md) _Context: Afghan, Australia, Netherlands_
+9. [ British troops in Afghanistan are undertaking their biggest operation since the fall of the Taliban in 2001. ](/news/2006/07/15/british-troops-in-afghanistan-are-undertaking-their-biggest-operation-since-the-fall-of-the-taliban-in-2001.md) _Context: Afghan, Taliban, United Kingdom_
+10. [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md) _Context: Afghan, Taliban_

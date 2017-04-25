@@ -1,0 +1,23 @@
+### [2012-02-17](/news/2012/02/17/index.md)
+
+# Manchester City lodge an official complaint to UEFA after their players were targeted by racial abuse during Thursday's Europa League game at defending champions Porto. Ivorian footballer Yaya Toure, one of those targeted, tells Sky Sports News: "That's why we like the Premier League, it never happens there." 
+
+Uefa opens disciplinary proceedings against Porto after Manchester City complain about alleged racial abuse suffered by some of their players in Portugal.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/sport/0/football/17070220)
+
+### Related:
+
+1. [In association football, Paris Saint-Germain F.C. and Manchester City F.C. are fined EUR60 million by UEFA for breaches of the Fair Play regulations. ](/news/2014/05/16/in-association-football-paris-saint-germain-f-c-and-manchester-city-f-c-are-fined-a-60-million-by-uefa-for-breaches-of-the-fair-play-reg.md) _Context: Manchester City, UEFA_
+2. [Premier League club Stoke City unexpectedly sack manager Tony Pulis after seven years in charge. Pulis led the side to the Premier League, then the 2011 FA Cup Final and the 2011-12 UEFA Europa League. ](/news/2013/05/21/premier-league-club-stoke-city-unexpectedly-sack-manager-tony-pulis-after-seven-years-in-charge-pulis-led-the-side-to-the-premier-league-t.md) _Context: 2011–12 UEFA Europa League, English Premier League_
+3. [In association football, Premier League and FA Cup runners-up Manchester City sack manager Roberto Mancini. ](/news/2013/05/13/in-association-football-premier-league-and-fa-cup-runners-up-manchester-city-sack-manager-roberto-mancini.md) _Context: English Premier League, Manchester City_
+4. [2012-13 Premier League:Manchester United secure the 2012-13 Premier League title thanks to a Robin van Persie hat trick against Aston Villa at Old Trafford, which moves them 16 points clear of rivals and reigning champions Manchester City who have only a maximum of 15 points left to play for. This is Sir Alex Ferguson's 13th title of his 27-year tenure as United's manager. ](/news/2013/04/22/2012a13-premier-league-pmanchester-united-secure-the-2012a13-premier-league-title-thanks-to-a-robin-van-persie-hat-trick-against-aston-v.md) _Context: English Premier League, Manchester City_
+5. [Manchester United win the Manchester derby, defeating reigning league champions Manchester City by a score of 3-2 in the 2012-13 Premier League. Robin van Persie scores a last-minute goal and Rio Ferdinand is injured after being hit by a coin. ](/news/2012/12/9/manchester-united-win-the-manchester-derby-defeating-reigning-league-champions-manchester-city-by-a-score-of-3a2-in-the-2012a13-premier.md) _Context: English Premier League, Manchester City_
+6. [Manchester City midfielder Yaya Toure is named African Footballer of the Year for the second year running ahead of Didier Drogba and Alex Song. Also Herve Renard emerged the 2012 Coach of the Year at the annual CAF awards staged in Accra, Ghana. ](/news/2012/12/20/manchester-city-midfielder-yaya-toura-c-is-named-african-footballer-of-the-year-for-the-second-year-running-ahead-of-didier-drogba-and-alex-s.md) _Context: Manchester City, Yaya Touré_
+7. [Next season's soccer fixtures:Premier League fixtures are announced, with champions Manchester City kicking off at home against newly promoted Southampton. ](/news/2012/06/18/next-season-s-soccer-fixtures-ppremier-league-fixtures-are-announced-with-champions-manchester-city-kicking-off-at-home-against-newly-promo.md) _Context: English Premier League, Manchester City_
+8. [Tens of thousands of people line the streets of Manchester in celebration of Manchester City's victory in the Premier League season finale &ndash; the team's first Premier League win since 1968. ](/news/2012/05/14/tens-of-thousands-of-people-line-the-streets-of-manchester-in-celebration-of-manchester-city-s-victory-in-the-premier-league-season-finale.md) _Context: English Premier League, Manchester City_
+9. [Manchester City win the Premier League for the first time, beating Manchester United on goal difference. ](/news/2012/05/13/manchester-city-win-the-premier-league-for-the-first-time-beating-manchester-united-on-goal-difference.md) _Context: English Premier League, Manchester City_
+10. [In association football, Manchester City defeat Manchester United in what had been described as the biggest match in Premier League history. Vincent Kompany scores the winning goal to take City to the summit of the Premier League table with two games of the season left to play. ](/news/2012/04/30/in-association-football-manchester-city-defeat-manchester-united-in-what-had-been-described-as-the-biggest-match-in-premier-league-history.md) _Context: English Premier League, Manchester City_

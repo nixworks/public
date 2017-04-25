@@ -1,0 +1,23 @@
+### [2006-10-4](/news/2006/10/4/index.md)
+
+#  American Roger Kornberg wins the 2006 Nobel Prize in Chemistry for describing the essential process of gene copying in cells, research that can give insight into illnesses such as cancer and heart disease. 
+
+
+
+
+### Source:
+
+1. [Boston Globe](http://www.boston.com/news/world/europe/articles/2006/10/04/kornberg_wins_2006_nobel_prize_for_chemistry)
+
+### Related:
+
+1. [A study finds that sleep loss can alter gene behavior, which may explain why it often precedes medical problems such as diabetes, obesity, and heart disease. ](/news/2013/02/26/a-study-finds-that-sleep-loss-can-alter-gene-behavior-which-may-explain-why-it-often-precedes-medical-problems-such-as-diabetes-obesity-a.md) _Context: gene, heart disease_
+2. [The World Health Organisation reports that chronic illnesses such as heart disease, cancer and diabetes are the leading cause of death in the world causing more than 36 million deaths in 2008. ](/news/2011/04/28/the-world-health-organisation-reports-that-chronic-illnesses-such-as-heart-disease-cancer-and-diabetes-are-the-leading-cause-of-death-in-th.md) _Context: cancer, heart disease_
+3. [ Scientists at Stanford University have used nanotechnology to kill cancer cells without harming healthy tissue. ](/news/2005/08/2/scientists-at-stanford-university-have-used-nanotechnology-to-kill-cancer-cells-without-harming-healthy-tissue.md) _Context: cancer, cell_
+4. [ Researchers at the University of California, Los Angeles create a modified form of HIV which targets P-glycoproteins on cancer cells.  ](/news/2005/02/14/researchers-at-the-university-of-california-los-angeles-create-a-modified-form-of-hiv-which-targets-p-glycoproteins-on-cancer-cells.md) _Context: cancer, cell_
+5. [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md) _Context: Nobel Prize in Chemistry_
+6. [A researcher from the University of California, San Francisco discovers that the sugar industry may have manipulated studies about heart diseases. ](/news/2016/09/12/a-researcher-from-the-university-of-california-san-francisco-discovers-that-the-sugar-industry-may-have-manipulated-studies-about-heart-dis.md) _Context: heart disease_
+7. [U.K. Prime Minister David Cameron, at the upcoming Nuclear Security Summit in Washington, D.C.,   will announce  a three-way deal with the United States and Euratom, the European Union nuclear agency, to turn nuclear waste into medical isotopes to help fight cancer. ](/news/2016/03/30/u-k-prime-minister-david-cameron-at-the-upcoming-nuclear-security-summit-in-washington-d-c-will-announce-a-three-way-deal-with-the-u.md) _Context: cancer_
+8. [Tomas Lindahl, Paul L. Modrich and Aziz Sancar win the 2015 Nobel Prize in Chemistry for their work in DNA repair. ](/news/2015/10/7/tomas-lindahl-paul-l-modrich-and-aziz-sancar-win-the-2015-nobel-prize-in-chemistry-for-their-work-in-dna-repair.md) _Context: Nobel Prize in Chemistry_
+9. [The International Agency for Research on Cancer (IARC), the cancer agency of the World Health Organization (WHO), has evaluated the carcinogenicity of the consumption of red meat and processed meat. After thoroughly reviewing the accumulated scientific literature, a Working Group of 22 experts from 10 countries convened by the IARC Monographs Programme classified the consumption of red meat as probably carcinogenic to humans (Group 2A), based on limited evidence that the consumption of red meat causes cancer in humans and strong mechanistic evidence supporting a carcinogenic effect. This association was observed mainly for colorectal cancer, but associations were also seen for pancreatic cancer and prostate cancer. Processed meat was classified as carcinogenic to humans (Group 1), based on sufficient evidence in humans that the consumption of processed meat causes colorectal cancer. ](/news/2015/10/28/the-international-agency-for-research-on-cancer-iarc-the-cancer-agency-of-the-world-health-organization-who-has-evaluated-the-carcinog.md) _Context: cancer_
+10. [Former U.S. President Jimmy Carter, aged 90, announces that recent liver surgery revealed that he is suffering from an as-yet unspecified form of cancer which has spread to other parts of his body. ](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.md) _Context: cancer_

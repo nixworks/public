@@ -1,0 +1,23 @@
+### [2014-05-29](/news/2014/05/29/index.md)
+
+# A report sponsored by the Bill & Melinda Gates Foundation and published online by ''the Lancet'' finds that 30% of the world's population is overweight or obese. 
+
+Almost a third of the world is now fat, and no country has been able to curb obesity rates in the last three decades, according to a new global analysis.
+
+
+### Source:
+
+1. [AP via ''Times of India](http://timesofindia.indiatimes.com/home/science/30-of-world-is-now-fat-no-country-immune-Study/articleshow/35703770.cms)
+
+### Related:
+
+1. [Swiss research,  published in the medical journal ''The Lancet'', found that paracetamol -- sold as Tylenol and as a generic, acetaminophen,  in the United States -- was not effective at reducing pain or improving movement in patients with osteoarthritis of the knee or hip. The analysis examined 74 randomly-selected trials published between 1980 and 2015 with 58,556 patients who had osteoarthritis. The study did find the prescription drug diclofenac, sold in the U.S. as Cataflam or Voltaren,  is the most effective NSAID available. McNeil Consumer Healthcare, the makers of Tylenol, disagree with the study's conclusions. ](/news/2016/03/18/swiss-research-published-in-the-medical-journal-the-lancet-found-that-paracetamol-sold-as-tylenol-and-as-a-generic-acetaminophen.md) _Context: The Lancet_
+2. [Researchers at University College London report in ''The Lancet''  that an  annual blood test could help reduce women's risk of dying from ovarian cancer by about 20 percent. ](/news/2015/12/17/researchers-at-university-college-london-report-in-the-lancet-that-an-annual-blood-test-could-help-reduce-women-s-risk-of-dying-from-o.md) _Context: The Lancet_
+3. [A study in the medical journal ''The Lancet'' states that babies who are breastfed were more likely to have higher IQs, spend more time in school, and end up in higher-paying jobs. ](/news/2015/03/18/a-study-in-the-medical-journal-the-lancet-states-that-babies-who-are-breastfed-were-more-likely-to-have-higher-iqs-spend-more-time-in-s.md) _Context: The Lancet_
+4. [The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. ](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.md) _Context: Bill & Melinda Gates Foundation_
+5. [A study finds that sleep loss can alter gene behavior, which may explain why it often precedes medical problems such as diabetes, obesity, and heart disease. ](/news/2013/02/26/a-study-finds-that-sleep-loss-can-alter-gene-behavior-which-may-explain-why-it-often-precedes-medical-problems-such-as-diabetes-obesity-a.md) _Context: obese_
+6. [A new study published in ''The Lancet'' finds that up to 90 per cent of school-leavers in Asia's major cities are suffering from myopia, or short-sightedness and that 10 to 20 per cent have high myopia, which can lead to blindness. ](/news/2012/05/4/a-new-study-published-in-the-lancet-finds-that-up-to-90-per-cent-of-school-leavers-in-asia-s-major-cities-are-suffering-from-myopia-or.md) _Context: The Lancet_
+7. [A study published by ''The Lancet'' medical journal describes how short blasts of radio waves to the kidney may help regulate blood pressure. ](/news/2010/11/17/a-study-published-by-the-lancet-medical-journal-describes-how-short-blasts-of-radio-waves-to-the-kidney-may-help-regulate-blood-pressure.md) _Context: The Lancet_
+8. [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md) _Context: obese_
+9. [A series of studies published by Palestinian scientists in ''The Lancet'' claims that Israel's blockade of the Gaza Strip threatens to cause long-term health damage, malnutrition and stunted growth in children. ](/news/2010/07/2/a-series-of-studies-published-by-palestinian-scientists-in-the-lancet-claims-that-israel-s-blockade-of-the-gaza-strip-threatens-to-cause.md) _Context: The Lancet_
+10. [Two retired generals tell ''The Washington Post'' that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-t.md) _Context: obese_

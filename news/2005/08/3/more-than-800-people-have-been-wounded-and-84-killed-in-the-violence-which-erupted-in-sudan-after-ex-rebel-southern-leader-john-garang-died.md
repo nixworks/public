@@ -1,0 +1,24 @@
+### [2005-08-3](/news/2005/08/3/index.md)
+
+#  More than 800 people have been wounded and 84 killed in the violence which erupted in Sudan after ex-rebel southern leader John Garang died in a helicopter crash. 
+
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
+
+
+### Source:
+
+1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-08-03T143312Z_01_L032832_RTRIDST_0_INTERNATIONAL-SUDAN-DC.XML)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4741149.stm)
+
+### Related:
+
+1. [ A committee in Sudan is formed to investigate the death of vice-president John Garang in a helicopter crash. ](/news/2005/08/9/a-committee-in-sudan-is-formed-to-investigate-the-death-of-vice-president-john-garang-in-a-helicopter-crash.md) _Context: John Garang, Sudan_
+2. [ Ugandan journalist Andrew Mwenda has been charged with sedition after a radio debate speculating on the death of Sudan's vice-president John Garang.](/news/2005/08/14/ugandan-journalist-andrew-mwenda-has-been-charged-with-sedition-after-a-radio-debate-speculating-on-the-death-of-sudan-s-vice-president-joh.md) _Context: John Garang, Sudan_
+3. [ Salva Kiir has been sworn in as the Vice-President of Sudan, following the recent death of John Garang. ](/news/2005/08/11/salva-kiir-has-been-sworn-in-as-the-vice-president-of-sudan-following-the-recent-death-of-john-garang.md) _Context: John Garang, Sudan_
+4. [ Vice-President John Garang of Sudan, a central figure in the new peace deal ending the Second Sudanese Civil War, is reported dead with 13 other people in an aircraft crash near the Uganda-Sudan border. (Wikinews), [http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nL01249504&imageid=&cap= (Reuters)], [http://edition.cnn.com/2005/WORLD/africa/07/31/sudan.garang.reut/ (CNN)], [http://news.yahoo.com/news?tmpl=story&u=/ap/20050801/ap_on_re_mi_ea/sudan_plane_missing (AP via Yahoo!News)] (Link dead as of 02:29, 15 January 2007 (UTC)) Deadly riots erupt in Khartoum after Garang's death. [http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-08-01T165844Z_01_L0128099_RTRIDST_0_INTERNATIONAL-SUDAN-DC.XML (Reuters)] (Link dead as of 02:29, 15 January 2007 (UTC))](/news/2005/08/1/vice-president-john-garang-of-sudan-a-central-figure-in-the-new-peace-deal-ending-the-second-sudanese-civil-war-is-reported-dead-with-13.md) _Context: John Garang, Sudan_
+5. [ Former rebel leader John Garang is sworn in as vice president of Sudan as part of the agreement ending the Second Sudanese Civil War. ](/news/2005/07/10/former-rebel-leader-john-garang-is-sworn-in-as-vice-president-of-sudan-as-part-of-the-agreement-ending-the-second-sudanese-civil-war.md) _Context: John Garang, Sudan_
+6. [ In Sudan, leader of Sudan People's Liberation Army John Garang says that the northern government would have to say why the country should stay united. SPLM leadership is to ratify the peace deal with the Khartoum government later. ](/news/2005/01/24/in-sudan-leader-of-sudan-people-s-liberation-army-john-garang-says-that-the-northern-government-would-have-to-say-why-the-country-should-s.md) _Context: John Garang, Sudan_
+7. [Sudanese President Omar al-Bashir names Vice President Bakri Hassan Saleh as Prime Minister of Sudan, the first person to hold the post since it was abolished following the 1989 Sudanese coup d'etat. ](/news/2017/03/1/sudanese-president-omar-al-bashir-names-vice-president-bakri-hassan-saleh-as-prime-minister-of-sudan-the-first-person-to-hold-the-post-sinc.md) _Context: Sudan_
+8. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _Context: Sudan_
+9. [President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries-including-iran-iraq-libya.md) _Context: Sudan_
+10. [President of the United States Barack Obama signs an order to ease sanctions against Sudan, citing the country's efforts to "reduce internal conflict, improve humanitarian access to people requiring aid and curtail terrorism". ](/news/2017/01/13/president-of-the-united-states-barack-obama-signs-an-order-to-ease-sanctions-against-sudan-citing-the-country-s-efforts-to-reduce-internal.md) _Context: Sudan_

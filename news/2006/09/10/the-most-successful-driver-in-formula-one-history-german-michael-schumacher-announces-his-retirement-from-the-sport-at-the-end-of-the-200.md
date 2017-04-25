@@ -1,0 +1,23 @@
+### [2006-09-10](/news/2006/09/10/index.md)
+
+#  The most successful driver in Formula One history, German Michael Schumacher, announces his retirement from the sport at the end of the 2006 season. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/5332630.stm)
+
+### Related:
+
+1. [Seven-time Formula One drivers' champion Michael Schumacher is reported to be in critical condition after brain surgery in Grenoble for a head injury suffered while skiing in the French Alps. ](/news/2013/12/29/seven-time-formula-one-drivers-champion-michael-schumacher-is-reported-to-be-in-critical-condition-after-brain-surgery-in-grenoble-for-a-he.md) _Context: Formula One, Michael Schumacher_
+2. [Team Germany's  Michael Schumacher and Sebastian Vettel win a sixth consecutive Race of Champions Nations Cup in Bangkok, Thailand. ](/news/2012/12/15/team-germany-s-michael-schumacher-and-sebastian-vettel-win-a-sixth-consecutive-race-of-champions-nations-cup-in-bangkok-thailand.md) _Context: Germany, Michael Schumacher_
+3. [Sport:Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/sport-pmichael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md) _Context: Formula One, Michael Schumacher_
+4. [ Michael Schumacher, seven times Formula One World Champion, retires from the sport. ](/news/2006/10/22/michael-schumacher-seven-times-formula-one-world-champion-retires-from-the-sport.md) _Context: Formula One, Michael Schumacher_
+5. [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md) _Context: Germany_
+6. [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md) _Context: Germany_
+7. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Germany_
+8. [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police  do not believe  terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md) _Context: Germany_
+9. [A report alleges that the German BND has been spying on journalists in Afghanistan. ](/news/2017/02/24/a-report-alleges-that-the-german-bnd-has-been-spying-on-journalists-in-afghanistan.md) _Context: Germany_
+10. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: Germany_

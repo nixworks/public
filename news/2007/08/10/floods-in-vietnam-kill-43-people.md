@@ -1,0 +1,23 @@
+### [2007-08-10](/news/2007/08/10/index.md)
+
+#  Floods in Vietnam kill 43 people. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6938464.stm)
+
+### Related:
+
+1. [Landslides and flooding caused by Typhoon Vicente kill seven people in northern Vietnam. ](/news/2012/07/27/landslides-and-flooding-caused-by-typhoon-vicente-kill-seven-people-in-northern-vietnam.md) _Context: Vietnam, flood_
+2. [The death toll from floods in central Vietnam rises to at least forty-nine. ](/news/2010/10/6/the-death-toll-from-floods-in-central-vietnam-rises-to-at-least-forty-nine.md) _Context: Vietnam, flood_
+3. [ Floods caused by Typhoon Hagupit cause at least 41 deaths in northern Vietnam. ](/news/2008/09/29/floods-caused-by-typhoon-hagupit-cause-at-least-41-deaths-in-northern-vietnam.md) _Context: Vietnam, flood_
+4. [ Tropical Storm Pabuk causes deadly landslides in the Philippines before hitting Taiwan causing power cuts. This comes after floods from another tropical storm kill 34 in central Vietnam.  ](/news/2007/08/8/tropical-storm-pabuk-causes-deadly-landslides-in-the-philippines-before-hitting-taiwan-causing-power-cuts-this-comes-after-floods-from-ano.md) _Context: Vietnam, flood_
+5. [Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-according-to-officials.md) _Context: flood_
+6. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were  involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Vietnam_
+7. [Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. ](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.md) _Context: Vietnam_
+8. [Floods caused by heavy rain over the past week has caused at least 13 deaths in central Vietnam with more heavy rain forecast. ](/news/2016/12/4/floods-caused-by-heavy-rain-over-the-past-week-has-caused-at-least-13-deaths-in-central-vietnam-with-more-heavy-rain-forecast.md) _Context: Vietnam_
+9. [Floods in Vietnam kill at least 15. ](/news/2016/11/7/floods-in-vietnam-kill-at-least-15.md) _Context: Vietnam_
+10. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Vietnam_

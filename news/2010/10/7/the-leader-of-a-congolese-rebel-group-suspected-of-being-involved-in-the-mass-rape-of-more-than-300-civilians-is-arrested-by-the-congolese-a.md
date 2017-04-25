@@ -1,0 +1,23 @@
+### [2010-10-7](/news/2010/10/7/index.md)
+
+# The leader of a Congolese rebel group suspected of being involved in the mass rape of more than 300 civilians is arrested by the Congolese army and United Nations peacekeeping  troops. 
+
+THE LEADER of a Congolese rebel group suspected of being involved in the rape of more than 300 civilians two months ago has been&hellip;
+
+
+### Source:
+
+1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1007/1224280566201.html)
+
+### Related:
+
+1. [A rebel attack on army positions in the eastern Democratic Republic of the Congo town of Beni leaves at least 31 people dead, including 23 Mai Mai and three FARDC troops. ](/news/2013/05/15/a-rebel-attack-on-army-positions-in-the-eastern-democratic-republic-of-the-congo-town-of-beni-leaves-at-least-31-people-dead-including-23-m.md) _Context: Democratic Republic of the Congo, Mai Mai_
+2. [3 Indian peacekeepers serving in a United Nations peacekeeping operation in the Democratic Republic of the Congo are killed by rebels in an apparent ambush. ](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.md) _Context: Democratic Republic of the Congo, United Nations peacekeeping_
+3. [Almost 90,000 people flee renewed fighting in the eastern Democratic Republic of the Congo in the past month reflecting a declining security situation as the military fights Allied Democratic Forces-National Army for the Liberation of Uganda Ugandan Islamist rebels. ](/news/2010/08/1/almost-90-000-people-flee-renewed-fighting-in-the-eastern-democratic-republic-of-the-congo-in-the-past-month-reflecting-a-declining-security.md) _Context: Democratic Republic of the Congo, Military of the Democratic Republic of the Congo_
+4. [ The Rwandan Defense Forces and Congolese Armed Forces jointly search the Democratic Republic of the Congo for Hutu leaders who participated in the 1994 Rwandan genocide. ](/news/2009/01/20/the-rwandan-defense-forces-and-congolese-armed-forces-jointly-search-the-democratic-republic-of-the-congo-for-hutu-leaders-who-participated.md) _Context: Democratic Republic of the Congo, Military of the Democratic Republic of the Congo_
+5. [ Unicef announces Mai-Mai forces have released 232 children they had abducted in North Kivu, Democratic Republic of the Congo. ](/news/2007/11/17/unicef-announces-mai-mai-forces-have-released-232-children-they-had-abducted-in-north-kivu-democratic-republic-of-the-congo.md) _Context: Democratic Republic of the Congo, Mai Mai_
+6. [ Kasereka Kabamba, a Mai Mai militia leader in the Democratic Republic of the Congo, surrenders to Nord-Kivu Army Chief Vainqueur Mayala. Kabamba maintains his forces fought against rebels loyal to Laurent Kabila, in the service of the government. ](/news/2007/10/29/kasereka-kabamba-a-mai-mai-militia-leader-in-the-democratic-republic-of-the-congo-surrenders-to-nord-kivu-army-chief-vainqueur-mayala-ka.md) _Context: Democratic Republic of the Congo, Mai Mai_
+7. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: Democratic Republic of the Congo_
+8. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Democratic Republic of the Congo_
+9. [Authorities find the remains of two missing U.N. investigators--former Swedish politician Zaida Catalan and U.S. national Michael Sharp--in a shallow grave in the province of Kasai-Central, Democratic Republic of the Congo. ](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n-investigatorsaformer-swedish-politician-zaida-catala-n-and-u-s-national-michael-sharpa.md) _Context: Democratic Republic of the Congo_
+10. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: Democratic Republic of the Congo_

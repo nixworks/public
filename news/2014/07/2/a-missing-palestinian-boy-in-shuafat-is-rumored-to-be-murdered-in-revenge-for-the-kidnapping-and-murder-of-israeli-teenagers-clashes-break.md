@@ -1,0 +1,23 @@
+### [2014-07-2](/news/2014/07/2/index.md)
+
+# A missing Palestinian boy in Shuafat is rumored to be murdered in revenge for the kidnapping and murder of Israeli teenagers, clashes break out. 
+
+The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many residents of Beit Hanina and Shuafat.
+
+
+### Source:
+
+1. [Jerusalem Post](http://www.jpost.com/National-News/In-Shuafat-the-summer-heat-and-Ramadan-are-no-match-for-Palestinian-rage-361356)
+
+### Related:
+
+1. [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md) _Context: 2014 kidnapping and murder of Israeli teenagers, Israeli–Palestinian conflict_
+2. [Following last month's manslaughter conviction, Israeli soldier Elor Azaria is sentenced to 18 months in prison by a military court for, during a violent incident, his deadly shooting of the wounded, unarmed, prone Palestinian Abdel Fattah al-Sharif, who had stabbed a soldier last March in Hebron. ](/news/2017/02/21/following-last-month-s-manslaughter-conviction-israeli-soldier-elor-azaria-is-sentenced-to-18-months-in-prison-by-a-military-court-for-dur.md) _Context: Israeli–Palestinian conflict_
+3. [Israeli authorities approve 153 construction permits for settlement homes in East Jerusalem, and plan to approve another 11,000 in the coming months. ](/news/2017/01/27/israeli-authorities-approve-153-construction-permits-for-settlement-homes-in-east-jerusalem-and-plan-to-approve-another-11-000-in-the-comin.md) _Context: Israeli–Palestinian conflict_
+4. [Two Israeli Bedouins and one Israeli police officer are killed in a clash during a home-demolition operation in the Bedouin village of Umm al-Hiran. Israeli police claim to have found evidence that the Bedouins were supporters of the Islamic State. ](/news/2017/01/18/two-israeli-bedouins-and-one-israeli-police-officer-are-killed-in-a-clash-during-a-home-demolition-operation-in-the-bedouin-village-of-umm-a.md) _Context: Israeli–Palestinian conflict_
+5. [A rock throwing 19-year old Palestinian is killed by IDF troops amid clashes in the West Bank village of Beit Rima. ](/news/2016/12/18/a-rock-throwing-19-year-old-palestinian-is-killed-by-idf-troops-amid-clashes-in-the-west-bank-village-of-beit-rima.md) _Context: Israeli–Palestinian conflict_
+6. [The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertisements-on-their-buses-following-c.md) _Context: Israeli–Palestinian conflict_
+7. [The Israeli Supreme Court questions the demolition of convicted terrorists' homes by the Israeli government after claims that the practice is used against Palestinians and not Israelis. The government has 30 days to respond before the court makes a decision on the practice. ](/news/2016/11/25/the-israeli-supreme-court-questions-the-demolition-of-convicted-terrorists-homes-by-the-israeli-government-after-claims-that-the-practice-i.md) _Context: Israeli–Palestinian conflict_
+8. [Israeli forces level land east of Khan Yunis in the southern Gaza Strip. ](/news/2016/07/11/israeli-forces-level-land-east-of-khan-yunis-in-the-southern-gaza-strip.md) _Context: Israeli–Palestinian conflict_
+9. [ A Palestinian woman, in what was construed to be an attempt to stab Israeli Border Police officers at the entrance to the Tomb of the Patriarchs in Hebron, is shot and later dies. ](/news/2016/07/1/a-palestinian-woman-in-what-was-construed-to-be-an-attempt-to-stab-israeli-border-police-officers-at-the-entrance-to-the-tomb-of-the-patri.md) _Context: Israeli–Palestinian conflict_
+10. [A 17-year-old Palestinian stabs and kills a sleeping 13-year-old Israeli and American citizen girl Hallel Yaffa Ariel in her bedroom. The assailant is fatally shot by security guards. Israeli Prime Minister Benjamin Netanyahu blamed "incitement-driven terrorists" while the U.S. State Department condemned the "outrageous terrorist attack." ](/news/2016/06/30/a-17-year-old-palestinian-stabs-and-kills-a-sleeping-13-year-old-israeli-and-american-citizen-girl-hallel-yaffa-ariel-in-her-bedroom-the-as.md) _Context: Israeli–Palestinian conflict_

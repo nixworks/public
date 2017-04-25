@@ -1,0 +1,24 @@
+### [2005-03-30](/news/2005/03/30/index.md)
+
+#  In Israel, Jerusalem police deny members of Jewish organization Revava access to Temple Mount during Passover because of danger that they could use the situation to encourage violence. Revava has planned a pilgrimage to the site in April 10  
+
+
+
+
+### Source:
+
+1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1112066445934)
+2. [Arutz Sheva](http://www.israelnn.com/news.php3?id=79297)
+
+### Related:
+
+1. [Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.md) _Context: Haram al-Sharif, Israel, Jerusalem_
+2. [Israel increases access to the Little Western Wall for worshippers: it is an important Jewish site located in the Muslim Quarter of Jerusalem's Old City. ](/news/2011/01/14/israel-increases-access-to-the-little-western-wall-for-worshippers-it-is-an-important-jewish-site-located-in-the-muslim-quarter-of-jerusale.md) _Context: Israel, Jerusalem, Jew_
+3. [ Israeli police and Palestinians clash at Temple Mount, Jerusalem's holiest site, resulting in 12 arrests. ](/news/2009/10/25/israeli-police-and-palestinians-clash-at-temple-mount-jerusalem-s-holiest-site-resulting-in-12-arrests.md) _Context: Haram al-Sharif, Israel, Jerusalem_
+4. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: Israel, Jerusalem_
+5. [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md) _Context: Israel, Jerusalem_
+6. [UNESCO's executive board approves the "Occupied Palestine" resolution which reaffirms the cultural heritage of Palestine, especially East Jerusalem, and criticizes certain Israeli actions regarding the Palestinian territories. For the land in Jerusalem where the Al-Aqsa Mosque stands, the board uses only Islamic naming terms without also mentioning Jewish or Christian historical references. ](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.md) _Context: Israel, Jerusalem_
+7. [A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. ](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.md) _Context: Israel, Jerusalem_
+8. [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md) _Context: Israel, Jerusalem_
+9. [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md) _Context: Israel, Jerusalem_
+10. [Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation" with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaza-will-fulfil-its-role-in-the-je.md) _Context: Israel, Jerusalem_

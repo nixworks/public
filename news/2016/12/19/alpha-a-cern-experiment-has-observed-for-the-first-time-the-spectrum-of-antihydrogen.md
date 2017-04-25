@@ -1,0 +1,23 @@
+### [2016-12-19](/news/2016/12/19/index.md)
+
+# ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. 
+
+
+
+
+### Source:
+
+1. [CERN](https://home.cern/about/updates/2016/12/alpha-observes-light-spectrum-antimatter-first-time)
+
+### Related:
+
+1. [CERN has managed to trap antihydrogen atoms for the first time. ](/news/2010/11/17/cern-has-managed-to-trap-antihydrogen-atoms-for-the-first-time.md) _Context: CERN, antihydrogen_
+2. [Scientists at CERN's Large Hadron Collider announce discovery of the pentaquark. ](/news/2015/07/14/scientists-at-cern-s-large-hadron-collider-announce-discovery-of-the-pentaquark.md) _Context: CERN_
+3. [CERN's Large Hadron Collider, which went into shutdown for upgrades to increase beam energy, will resume operation later this month with the hope of creating more Higgs boson particles. ](/news/2015/03/12/cern-s-large-hadron-collider-which-went-into-shutdown-for-upgrades-to-increase-beam-energy-will-resume-operation-later-this-month-with-the.md) _Context: CERN_
+4. [2012 EPS Edison Volta Prize was awarded to Rolf-Dieter Heuer, CERN Director General, and two his colleagues.](/news/2012/11/12/2012-eps-edison-volta-prize-was-awarded-to-rolf-dieter-heuer-cern-director-general-and-two-his-colleagues.md) _Context: CERN_
+5. [CERN scientists present recent results from CMS and ATLAS experiments consistent with the existence of a Higgs boson particle. ](/news/2012/07/4/cern-scientists-present-recent-results-from-cms-and-atlas-experiments-consistent-with-the-existence-of-a-higgs-boson-particle.md) _Context: CERN_
+6. [According to researchers, in two separate experiments carried out at the Large Hadron Collider at CERN, indications of the Higgs boson may have been detected. ](/news/2011/12/13/according-to-researchers-in-two-separate-experiments-carried-out-at-the-large-hadron-collider-at-cern-indications-of-the-higgs-boson-may-h.md) _Context: CERN_
+7. [CERN researchers affiliated with the OPERA Experiment report experimental results that appear to show neutrinos exceeding the speed of light. ](/news/2011/09/22/cern-researchers-affiliated-with-the-opera-experiment-report-experimental-results-that-appear-to-show-neutrinos-exceeding-the-speed-of-light.md) _Context: CERN_
+8. [CERN's Large Hadron Collider (LHC) produces notable fluctuations in search for Higgs Boson particle. ](/news/2011/07/23/cern-s-large-hadron-collider-lhc-produces-notable-fluctuations-in-search-for-higgs-boson-particle.md) _Context: CERN_
+9. [ The first atom collisions have taken place in the Large Hadron Collider at CERN, near Geneva, Switzerland. ](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.md) _Context: CERN_
+10. [ French police arrest a researcher at the European Organization for Nuclear Research (CERN) for suspected links to Al-Qaeda. ](/news/2009/10/9/french-police-arrest-a-researcher-at-the-european-organization-for-nuclear-research-cern-for-suspected-links-to-al-qaeda.md) _Context: CERN_

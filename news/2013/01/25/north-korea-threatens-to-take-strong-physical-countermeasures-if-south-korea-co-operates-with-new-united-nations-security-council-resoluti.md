@@ -1,0 +1,26 @@
+### [2013-01-25](/news/2013/01/25/index.md)
+
+# North Korea threatens to take "strong physical countermeasures" if South Korea co-operates with new United Nations Security Council resolutions against it. 
+
+North Korea issues another warning - this time to Seoul - a day after announcing plans for a third nuclear test.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/01/201312591822380791.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-21191264)
+3. [Reuters](http://www.reuters.com/article/2013/01/25/us-korea-north-idUSBRE90O0AJ20130125)
+4. [Voice of America](http://www.voanews.com/content/north-korea-threatens-strong-physical-countermeasures-over-un-sanctions/1590610.html)
+
+### Related:
+
+1. [North Korea threatens the "final destruction" of South Korea during a United Nations conference on disarmament. ](/news/2013/02/19/north-korea-threatens-the-final-destruction-of-south-korea-during-a-united-nations-conference-on-disarmament.md) _Context: North Korea, South Korea, United Nations_
+2. [A United Nations report suggests North Korea has supplied Burma, Iran and Syria with nuclear technology, in violation of United Nations sanctions. China had previously blocked the report from reaching the UN Security Council. ](/news/2010/11/9/a-united-nations-report-suggests-north-korea-has-supplied-burma-iran-and-syria-with-nuclear-technology-in-violation-of-united-nations-sanc.md) _Context: North Korea, United Nations, United Nations Security Council_
+3. [North Korea asks the United Nations Security Council to investigate the sinking of the ''Cheonan''. Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-south-korea-wants-the-coun.md) _Context: North Korea, South Korea, United Nations Security Council_
+4. [ United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. ](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.md) _Context: North Korea, United Nations, United Nations Security Council_
+5. [ The United Nations Security Council condemns the recent missile launches by North Korea. ](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.md) _Context: North Korea, United Nations, United Nations Security Council_
+6. [ A United Nations Security Council committee imposes further sanctions on North Korea. ](/news/2009/07/16/a-united-nations-security-council-committee-imposes-further-sanctions-on-north-korea.md) _Context: North Korea, United Nations, United Nations Security Council_
+7. [ The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. ](/news/2009/06/10/the-united-nations-security-council-along-with-japan-and-south-korea-agrees-a-draft-resolution-following-north-korea-s-recent-nuclear-and.md) _Context: North Korea, South Korea, United Nations Security Council_
+8. [ North Korea launches its sixth ballistic missile despite the United Nations Security Council's possible international sanctions. ](/news/2009/05/30/north-korea-launches-its-sixth-ballistic-missile-despite-the-united-nations-security-council-s-possible-international-sanctions.md) _Context: North Korea, United Nations, United Nations Security Council_
+9. [ The United Nations Security Council condemns North Korea's launch of Kwangmyongsong-2. ](/news/2009/04/13/the-united-nations-security-council-condemns-north-korea-s-launch-of-kwangmyangsang-2.md) _Context: North Korea, United Nations, United Nations Security Council_
+10. [ North Korea's and the United Nations' military commands meet in South Korea for the first time since 2002. ](/news/2009/03/2/north-korea-s-and-the-united-nations-military-commands-meet-in-south-korea-for-the-first-time-since-2002.md) _Context: North Korea, South Korea, United Nations_

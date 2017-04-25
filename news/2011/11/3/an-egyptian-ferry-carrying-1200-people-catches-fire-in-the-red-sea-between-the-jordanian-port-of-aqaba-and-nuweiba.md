@@ -1,0 +1,23 @@
+### [2011-11-3](/news/2011/11/3/index.md)
+
+# An Egyptian ferry carrying 1200 people catches fire in the Red Sea between the Jordanian port of Aqaba and Nuweiba. 
+
+More than 1,200 passengers are evacuated from a ferry that caught fire in the Red Sea, and one Jordanian reportedly dies after jumping overboard.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15571187)
+
+### Related:
+
+1. [Jordan says it has evidence that a fatal Grad-type rocket strike on Aqaba originated in Egypt's Sinai Peninsula. ](/news/2010/08/3/jordan-says-it-has-evidence-that-a-fatal-grad-type-rocket-strike-on-aqaba-originated-in-egypt-s-sinai-peninsula.md) _Context: Aqaba, Egypt, Jordan_
+2. [A Jordanian civilian is killed and three others are wounded as a Grad rocket launched from the Sinai hits the city of Aqaba. Four other rockets land in open areas in the Gulf of Aqaba. Jordan, Israel, Egypt and the United States condemn the attack. ](/news/2010/08/2/a-jordanian-civilian-is-killed-and-three-others-are-wounded-as-a-grad-rocket-launched-from-the-sinai-hits-the-city-of-aqaba-four-other-rock.md) _Context: Aqaba, Egypt, Jordan_
+3. [ A Jordanian soldier dies when three unexploded Katyusha rockets miss their targets and hit a warehouse and hospital in Aqaba, Jordan and hit a road by the airport in nearby Eilat, Israel.  A group with alleged links to Al-Qaeda claims responsibility for the attacks, stating the targets were US ships docked at the Red Sea port in Aqaba, the USS ''Kearsarge'' and the USS ''Ashland''. ](/news/2005/08/19/a-jordanian-soldier-dies-when-three-unexploded-katyusha-rockets-miss-their-targets-and-hit-a-warehouse-and-hospital-in-aqaba-jordan-and-hi.md) _Context: Aqaba, Jordan, Red Sea_
+4. [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md) _Context: Egypt, Red Sea_
+5. [Tourism bookings in Egypt's main Red Sea resort of Sharm el-Sheikh plunge in the wake of the plane crash with some 80% of reservations cancelled and at least 40% of the tourists leaving the resort since the crash. ](/news/2015/11/11/tourism-bookings-in-egyptas-main-red-sea-resort-of-sharm-el-sheikh-plunge-in-the-wake-of-the-plane-crash-with-some-80-of-reservations-can.md) _Context: Egypt, Red Sea_
+6. [A massive sandstorm hits Lebanon and Syria as well as Jordan, Israel and Egypt. The Lebanese Health Ministry said the storm caused the deaths of two women, and sent hundreds to hospitals with breathing difficulties. Particularly hard hit were the 1.1 million Syrian refugees in Lebanon, many in flimsy tents in informal campsites. ](/news/2015/09/8/a-massive-sandstorm-hits-lebanon-and-syria-as-well-as-jordan-israel-and-egypt-the-lebanese-health-ministry-said-the-storm-caused-the-death.md) _Context: Egypt, Jordan_
+7. [Sinai insurgency: Israel intercepts and destroys a Grad rocket fired by Mujahideen Shura Council al-Qaeda members from Egyptian territory at the Red Sea town of Eilat. ](/news/2013/08/13/sinai-insurgency-israel-intercepts-and-destroys-a-grad-rocket-fired-by-mujahideen-shura-council-al-qaeda-members-from-egyptian-territory-at.md) _Context: Egypt, Red Sea_
+8. [Arab-Israeli conflict:Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/arabaisraeli-conflict-ptwo-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no.md) _Context: Egypt, Jordan_
+9. [An explosion hits the gas pipeline between Egypt, Israel and Jordan in the North Sinai Governorate west of Arish. ](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.md) _Context: Egypt, Jordan_
+10. [Saboteurs attack Egypt's gas pipeline to Israel and Jordan, destroying a section of the pipeline west of al-Arish in Sinai. ](/news/2011/11/28/saboteurs-attack-egypt-s-gas-pipeline-to-israel-and-jordan-destroying-a-section-of-the-pipeline-west-of-al-arish-in-sinai.md) _Context: Egypt, Jordan_

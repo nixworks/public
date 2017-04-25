@@ -1,0 +1,23 @@
+### [2008-09-14](/news/2008/09/14/index.md)
+
+#  2008 Thai political crisis: The Acting Prime Minister of Thailand Somchai Wongsawat lifts a state of emergency in place since September 2. 
+
+The acting prime minister of Thailand has lifted a state of emergency in the capital that was imposed on Sept. 2 amid an ongoing political crisis.
+
+
+### Source:
+
+1. [The New York Times](http://www.nytimes.com/2008/09/14/world/asia/14bangkok.html)
+
+### Related:
+
+1. [ 2008 Thai political crisis: The Prime Minister of Thailand, Somchai Wongsawat, declares a state of emergency to allow police to clear Bangkok's two international airports of protesters. ](/news/2008/11/28/2008-thai-political-crisis-p-the-prime-minister-of-thailand-somchai-wongsawat-declares-a-state-of-emergency-to-allow-police-to-clear-bang.md) _Context: Prime Minister of Thailand, Somchai Wongsawat, assemble, state of emergency_
+2. [ 2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. ](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.md) _Context: Prime Minister of Thailand, Somchai Wongsawat, assemble_
+3. [ Thai political crisis: Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/thai-political-crisis-p-prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md) _Context: Prime Minister of Thailand, state of emergency_
+4. [ 2008 Thai political crisis: The government declares a state of emergency over two airports. ](/news/2008/11/27/2008-thai-political-crisis-p-the-government-declares-a-state-of-emergency-over-two-airports.md) _Context: assemble, state of emergency_
+5. [ 2008 Thai political crisis:  The People's Alliance for Democracy claims to be in complete control of Suvarnabhumi Airport, Bangkok's international airport. [http://www.smh.com.au/news/travel/protesters-we-control-bangkok-airport/2008/11/26/1227491584334.html?page=fullpage#contentSwap1 (Sydney Morning Herald)] Thai authorities evacuate thousands of passengers from Suvarnabhumi Airport. [http://www.abc.net.au/news/stories/2008/11/26/2430615.htm (ABC News Australia)] Thai Prime Minister Somchai Wongsawat rejects calls for election. [http://news.bbc.co.uk/2/hi/asia-pacific/7750737.stm BBC News] adde](/news/2008/11/26/2008-thai-political-crisis-p-the-people-s-alliance-for-democracy-claims-to-be-in-complete-control-of-suvarnabhumi-airport-bangkok-s-inter.md) _Context: Somchai Wongsawat, assemble_
+6. [ 2008 Thai political crisis:  About 10,000 protesters from the People's Alliance for Democracy surround Prime Minister Somchai Wongsawat's temporary office at Don Mueang International Airport in Bangkok, Thailand. ](/news/2008/11/25/2008-thai-political-crisis-p-about-10-000-protesters-from-the-people-s-alliance-for-democracy-surround-prime-minister-somchai-wongsawat-s.md) _Context: Somchai Wongsawat, assemble_
+7. [ 2008 Thai political crisis: Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/2008-thai-political-crisis-p-thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of.md) _Context: assemble, state of emergency_
+8. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: state of emergency_
+9. [The Grand National Assembly of Turkey votes to extend a state of emergency imposed after last year's attempted coup for another three months. ](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.md) _Context: state of emergency_
+10. [California Governor Jerry Brown declares a state of emergency in 50 counties, as winter storms kill four and cause millions of dollars in damage. ](/news/2017/01/24/california-governor-jerry-brown-declares-a-state-of-emergency-in-50-counties-as-winter-storms-kill-four-and-cause-millions-of-dollars-in-da.md) _Context: state of emergency_

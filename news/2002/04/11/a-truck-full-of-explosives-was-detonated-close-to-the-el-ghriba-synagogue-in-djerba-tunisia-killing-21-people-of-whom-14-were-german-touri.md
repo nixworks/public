@@ -1,0 +1,19 @@
+### [2002-04-11](/news/2002/04/11/index.md)
+
+# A truck full of explosives was detonated close to the El Ghriba synagogue in Djerba, Tunisia killing 21 people, of whom 14 were German tourists, 2 French nationals and 5 Tunisians. Al Qaeda claimed responsibility for the Ghriba synagogue bombing.
+
+
+
+
+### Related:
+
+1. [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md) _Context: Germany, Tunisia_
+2. [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md) _Context: Germany, Tunisia_
+3. [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md) _Context: Germany, al-Qaeda_
+4. [Two Tunisian soldiers are killed and two wounded by a roadside bomb while hunting Al-Qaeda militants in a mountainous region near the Algerian border. ](/news/2013/06/6/two-tunisian-soldiers-are-killed-and-two-wounded-by-a-roadside-bomb-while-hunting-al-qaeda-militants-in-a-mountainous-region-near-the-algeri.md) _Context: Tunisia, al-Qaeda_
+5. [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md) _Context: Germany, al-Qaeda_
+6. [ The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections.  ](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.md) _Context: Germany, al-Qaeda_
+7. [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md) _Context: Germany_
+8. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: al-Qaeda_
+9. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: al-Qaeda_
+10. [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md) _Context: Germany_

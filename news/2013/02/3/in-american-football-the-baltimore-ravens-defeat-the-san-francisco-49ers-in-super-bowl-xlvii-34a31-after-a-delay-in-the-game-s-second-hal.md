@@ -1,0 +1,25 @@
+### [2013-02-3](/news/2013/02/3/index.md)
+
+# In American football, the Baltimore Ravens defeat the San Francisco 49ers in Super Bowl XLVII 34-31 after a delay in the game's second half caused by a power outage. 
+
+Jacoby Jones lights up the Superdome as Baltimore edge out San Francisco, and survive a power cut, in an epic Super Bowl.
+
+
+### Source:
+
+1. [ (''The Washington Post](http://www.washingtonpost.com/sports/super-bowl-2013-joe-flacco-ray-lewis-and-ravens-hold-on-to-beat-49ers-34-31/2013/02/03/a570fbf4-6e7e-11e2-aa58-243de81040ba_story.html/)
+2. [BBC](http://www.bbc.co.uk/sport/0/american-football/21318296)
+3. [Mercury News](http://www.mercurynews.com/sports/ci_22512473/power-outage-halts-super-bowl-2013)
+
+### Related:
+
+1. [In American football, the NFL's San Francisco 49ers and the Baltimore Ravens win the NFC and AFC championship games, respectively, to advance to Super Bowl XLVII. The game will be the first time in NFL history that two brothers - Jim Harbaugh of the 49ers and John Harbaugh of the Ravens - have been opposing head coaches in the Super Bowl. ](/news/2013/01/20/in-american-football-the-nfl-s-san-francisco-49ers-and-the-baltimore-ravens-win-the-nfc-and-afc-championship-games-respectively-to-advanc.md) _Context: American football, Baltimore Ravens, San Francisco 49ers, Super Bowl XLVII_
+2. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: power outage_
+3. [2016 NCAA Division I FBS football season (American football) Lamar Jackson of the Louisville Cardinals wins the Heisman Trophy. At 19, Jackson is the youngest ever winner of the Trophy. ](/news/2016/12/10/2016-ncaa-division-i-fbs-football-season-american-football-p-lamar-jackson-of-the-louisville-cardinals-wins-the-heisman-trophy-at-19-jack.md) _Context: American football_
+4. [In American football, a United States appeals court has denied New England Patriots quarterback Tom Brady's appeal for his role in the Deflategate controversy. ](/news/2016/07/13/in-american-football-a-united-states-appeals-court-has-denied-new-england-patriots-quarterback-tom-brady-s-appeal-for-his-role-in-the-defla.md) _Context: American football_
+5. [In American football, Twitter wins the bidding contest over Amazon, Verizon, and others, for streaming rights to 10 of 16 National Football League (NFL) regular season ''Thursday Night Football Games'', ones that will also be telecast by either CBS or NBC. The league streamed one game last year with Yahoo!. Verizon, meanwhile, already owns the mobile rights to all NFL games which are available to subscribers via a mobile app; the 10 NFL games on Twitter will be free. ](/news/2016/04/5/in-american-football-twitter-wins-the-bidding-contest-over-amazon-verizon-and-others-for-streaming-rights-to-10-of-16-national-football.md) _Context: American football_
+6. [In American football, the National Football League starts its draft for the 2016 NFL season with the Los Angeles Rams choosing Jared Goff with the first pick. ](/news/2016/04/28/in-american-football-the-national-football-league-starts-its-draft-for-the-2016-nfl-season-with-the-los-angeles-rams-choosing-jared-goff-wi.md) _Context: American football_
+7. [American football quarterback Peyton Manning retires after eighteen seasons in the National Football League with two Super Bowl championships, five MVP awards, and single-season and career league records for most passing yards and touchdown passes. ](/news/2016/03/7/american-football-quarterback-peyton-manning-retires-after-eighteen-seasons-in-the-national-football-league-with-two-super-bowl-championship.md) _Context: American football_
+8. [A nationwide power outage hits Syria. The Syrian government says shortly before the power outage, militants had hit part of a power-generating station with rockets in the city of Hama, though it hasn't said whether this damage was linked to the nationwide outage. Also, it isn't clear how many people are affected by the power outage as many cities outside of the government's control already weren't being served by the government-run power grid. ](/news/2016/03/3/a-nationwide-power-outage-hits-syria-the-syrian-government-says-shortly-before-the-power-outage-militants-had-hit-part-of-a-power-generati.md) _Context: power outage_
+9. [The National Football League's top health and safety official acknowledges a link between American football and chronic traumatic encephalopathy. ](/news/2016/03/14/the-national-football-league-s-top-health-and-safety-official-acknowledges-a-link-between-american-football-and-chronic-traumatic-encephalop.md) _Context: American football_
+10. [In American football, the Denver Broncos defeat the Carolina Panthers 24-10 in Super Bowl 50. Broncos outside linebacker Von Miller is named as the game's Most Valuable Player.  ](/news/2016/02/7/in-american-football-the-denver-broncos-defeat-the-carolina-panthers-24a10-in-super-bowl-50-broncos-outside-linebacker-von-miller-is-nam.md) _Context: American football_

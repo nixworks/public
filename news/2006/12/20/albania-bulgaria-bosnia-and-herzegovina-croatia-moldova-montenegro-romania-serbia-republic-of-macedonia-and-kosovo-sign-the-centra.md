@@ -1,0 +1,23 @@
+### [2006-12-20](/news/2006/12/20/index.md)
+
+#  Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. 
+
+
+
+
+### Source:
+
+1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/12/BF870B28-8DD7-4EEB-B4AB-63B1E56DC049.html)
+
+### Related:
+
+1. [ Republic of Macedonia, Albania and Serbian autonomous province of Kosovo are experiencing blackouts as a result of the 2007 European heatwave that spreads over the Balkans.  It also causes bushfires everywhere in the region between Croatia, Hungary, Serbia and Greece. ](/news/2007/07/24/republic-of-macedonia-albania-and-serbian-autonomous-province-of-kosovo-are-experiencing-blackouts-as-a-result-of-the-2007-european-heatwa.md) _Context:  Macedonia, Albania, Croatia, Kosovo, Serbia_
+2. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Bulgaria, Croatia, Romania_
+3. [Macedonia, Serbia, Croatia, and Slovenia shut their borders to so-called economic migrants, those not coming from war-torn countries such as Syria, Afghanistan, or Iraq, leaving thousands stranded at Balkan border crossings. Around 500 migrants from Iran, Morocco, and Algeria gather on the border between Greece and Macedonia to protest the closure. ](/news/2015/11/20/macedonia-serbia-croatia-and-slovenia-shut-their-borders-to-so-called-economic-migrants-those-not-coming-from-war-torn-countries-such-as.md) _Context:  Macedonia, Croatia, Serbia_
+4. [ Serbians, Macedonians, and Montenegrins are able to travel to continental Europe without a visa from this day on. ](/news/2009/12/19/serbians-macedonians-and-montenegrins-are-able-to-travel-to-continental-europe-without-a-visa-from-this-day-on.md) _Context:  Macedonia, Montenegro, Serbia_
+5. [ Bulgaria, Croatia, Hungary and Monaco jointly recognize Kosovo's independence. ](/news/2008/03/19/bulgaria-croatia-hungary-and-monaco-jointly-recognize-kosovo-s-independence.md) _Context: Bulgaria, Croatia, Kosovo_
+6. [ The Red Cross reports that at least 17,000 are still missing from the former Yugoslavia, including 13,400 from the Bosnian wars, 2,300 from the Croatian conflict and 2,047 from the Kosovo conflict. ](/news/2007/08/29/the-red-cross-reports-that-at-least-17-000-are-still-missing-from-the-former-yugoslavia-including-13-400-from-the-bosnian-wars-2-300-from.md) _Context: Bosnia and Herzegovina, Croatia, Kosovo_
+7. [ 2006 European floods: Thousands of emergency workers in Romania, Bulgaria and Serbia try to bolster dikes to prevent flooding along the swollen Danube River, which has surged to its highest level in more than a century. ](/news/2006/04/18/2006-european-floods-thousands-of-emergency-workers-in-romania-bulgaria-and-serbia-try-to-bolster-dikes-to-prevent-flooding-along-the-swo.md) _Context: Bulgaria, Romania, Serbia_
+8. [ 2006 European floods: The Danube, swollen by heavy rain and melting snow, rises to record levels, and floods hundreds of homes in Serbia, Bulgaria and Romania. ](/news/2006/04/14/2006-european-floods-the-danube-swollen-by-heavy-rain-and-melting-snow-rises-to-record-levels-and-floods-hundreds-of-homes-in-serbia-b.md) _Context: Bulgaria, Romania, Serbia_
+9. [ Albania suffers its worst ever electric power shortage. Due to low water levels, hydroelectric power is reduced to the minimum and there are blackouts in all the country. Water supplies won't last for more than two weeks, so electricity is currently available just six hours a day. The government plans to import power from Romania, Bulgaria and Italy. ](/news/2005/11/11/albania-suffers-its-worst-ever-electric-power-shortage-due-to-low-water-levels-hydroelectric-power-is-reduced-to-the-minimum-and-there-ar.md) _Context: Albania, Bulgaria, Romania_
+10. [ Momcilo Perisic, former Yugoslavian army general, hands himself in to the United Nations war crimes tribunal in The Hague. He is charged with complicity of Serbian separatist war crimes in Bosnia and Croatia during the Yugoslav Wars. ](/news/2005/03/7/momailo-peria-ia-former-yugoslavian-army-general-hands-himself-in-to-the-united-nations-war-crimes-tribunal-in-the-hague-he-is-charged.md) _Context: Bosnia and Herzegovina, Croatia, Serbia_

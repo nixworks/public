@@ -1,0 +1,23 @@
+### [2016-07-13](/news/2016/07/13/index.md)
+
+# In American football, a United States appeals court has denied New England Patriots quarterback Tom Brady's appeal for his role in the Deflategate controversy. 
+
+
+
+
+### Source:
+
+1. [ESPN](http://espn.go.com/nfl/story/_/id/17045257/new-england-patriots-qb-tom-brady-deflategate-appeal-denied-2nd-us-circuit-court)
+
+### Related:
+
+1. [Deflategate: In American football, the National Football League finds that two New England Patriots employees intentionally deflated footballs used in the American Football Conference game against the Indianapolis Colts and that quarterback Tom Brady was generally aware of the deflation. ](/news/2015/05/6/deflategate-in-american-football-the-national-football-league-finds-that-two-new-england-patriots-employees-intentionally-deflated-footbal.md) _Context: American football, Deflategate, New England Patriots, Tom Brady_
+2. [The suspension appeal hearings for Tom Brady's 4-game suspension over Deflategate begin today. ](/news/2015/06/23/the-suspension-appeal-hearings-for-tom-brady-s-4-game-suspension-over-deflategate-begin-today.md) _Context: Deflategate, Tom Brady_
+3. [Former New England Patriots tight end Aaron Hernandez is formally charged with murder in the US state of Massachusetts more than a week after the body of former semi-professional American football player Odin Lloyd is found near his home. ](/news/2013/06/26/former-new-england-patriots-tight-end-aaron-hernandez-is-formally-charged-with-murder-in-the-us-state-of-massachusetts-more-than-a-week-afte.md) _Context: American football, New England Patriots_
+4. [Super Bowl XLVI:In American football, Super Bowl XLVI is played in Indianapolis with the New York Giants defeating the New England Patriots 21-17. ](/news/2012/02/5/super-bowl-xlvi-pin-american-football-super-bowl-xlvi-is-played-in-indianapolis-with-the-new-york-giants-defeating-the-new-england-patriots.md) _Context: American football, New England Patriots_
+5. [ American football:  Super Bowl&nbsp;XXXVI:  New England Patriots 20, St. Louis Rams 17--one of the most astonishing upsets in Super Bowl history.](/news/2002/02/3/american-football-super-bowl-nbsp-xxxvi-new-england-patriots-20-st-louis-rams-17aone-of-the-most-astonishing-upsets-in-super-bowl-h.md) _Context: American football, New England Patriots_
+6. [Former New England Patriots player Aaron Hernandez, acquitted last week of a 2012 double murder but serving a life sentence for a 2013 murder, is found hanged in his prison cell, and is pronounced dead an hour later. ](/news/2017/04/19/former-new-england-patriots-player-aaron-hernandez-acquitted-last-week-of-a-2012-double-murder-but-serving-a-life-sentence-for-a-2013-murde.md) _Context: New England Patriots_
+7. [2016 NCAA Division I FBS football season (American football) Lamar Jackson of the Louisville Cardinals wins the Heisman Trophy. At 19, Jackson is the youngest ever winner of the Trophy. ](/news/2016/12/10/2016-ncaa-division-i-fbs-football-season-american-football-p-lamar-jackson-of-the-louisville-cardinals-wins-the-heisman-trophy-at-19-jack.md) _Context: American football_
+8. [In American football, Twitter wins the bidding contest over Amazon, Verizon, and others, for streaming rights to 10 of 16 National Football League (NFL) regular season ''Thursday Night Football Games'', ones that will also be telecast by either CBS or NBC. The league streamed one game last year with Yahoo!. Verizon, meanwhile, already owns the mobile rights to all NFL games which are available to subscribers via a mobile app; the 10 NFL games on Twitter will be free. ](/news/2016/04/5/in-american-football-twitter-wins-the-bidding-contest-over-amazon-verizon-and-others-for-streaming-rights-to-10-of-16-national-football.md) _Context: American football_
+9. [In American football, the National Football League starts its draft for the 2016 NFL season with the Los Angeles Rams choosing Jared Goff with the first pick. ](/news/2016/04/28/in-american-football-the-national-football-league-starts-its-draft-for-the-2016-nfl-season-with-the-los-angeles-rams-choosing-jared-goff-wi.md) _Context: American football_
+10. [Apple Inc. must pay the $450 million July 2014 settlement in a price fixing case since the U.S. Supreme Court will not hear its appeal of the June 2015 Court of Appeals ruling that it played a "central role" in a conspiracy with publishers to eliminate retail price competition and raise e-book prices. ](/news/2016/03/7/apple-inc-must-pay-the-450-million-july-2014-settlement-in-a-price-fixing-case-since-the-u-s-supreme-court-will-not-hear-its-appeal-of-th.md) _Context: United States appeals court_

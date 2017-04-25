@@ -1,0 +1,25 @@
+### [2015-09-8](/news/2015/09/8/index.md)
+
+# A massive sandstorm hits Lebanon and Syria as well as Jordan, Israel and Egypt. The Lebanese Health Ministry said the storm caused the deaths of two women, and sent hundreds to hospitals with breathing difficulties. Particularly hard hit were the 1.1 million Syrian refugees in Lebanon, many in flimsy tents in informal campsites. 
+
+Lebanon, Jordan, Israel, Syria and Iraq all hit by deadly sandstorm that is expected to last at least until tomorrow
+
+
+### Source:
+
+1. [AP via CTV News](http://www.ctvnews.ca/world/unseasonal-sandstorm-hits-lebanon-syria-1.2552302)
+2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/sandstorm-envelops-lebanon-syria-150908095341326.html)
+3. [Middle East Eye](http://www.middleeasteye.net/news/sandstorm-sweeping-middle-east-kills-two-lebanon-389450909#sthash.meKtY1pB.dpuf)
+
+### Related:
+
+1. [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md) _Context: Israel, Lebanon, Syria_
+2. [Kuwaiti authorities announce they arrested six members of an extremist network suspected of supplying funds and weapons, including rockets, to Daesh (Islamic State) militants. Four others are still being sought outside of the country. The group includes a Lebanese, an Egyptian, five Syrians, two Australians, and a Kuwaiti national. ](/news/2015/11/19/kuwaiti-authorities-announce-they-arrested-six-members-of-an-extremist-network-suspected-of-supplying-funds-and-weapons-including-rockets.md) _Context: Egypt, Lebanon, Syria_
+3. [Arab-Israeli conflict:Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/arabaisraeli-conflict-ptwo-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no.md) _Context: Egypt, Israel, Jordan_
+4. [An explosion hits the gas pipeline between Egypt, Israel and Jordan in the North Sinai Governorate west of Arish. ](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.md) _Context: Egypt, Israel, Jordan_
+5. [Saboteurs attack Egypt's gas pipeline to Israel and Jordan, destroying a section of the pipeline west of al-Arish in Sinai. ](/news/2011/11/28/saboteurs-attack-egypt-s-gas-pipeline-to-israel-and-jordan-destroying-a-section-of-the-pipeline-west-of-al-arish-in-sinai.md) _Context: Egypt, Israel, Jordan_
+6. [An explosion destroys the Arab Gas Pipeline in Egypt's  Sinai Peninsula supplying natural gas to Jordan and Israel. ](/news/2011/09/27/an-explosion-destroys-the-arab-gas-pipeline-in-egypt-s-sinai-peninsula-supplying-natural-gas-to-jordan-and-israel.md) _Context: Egypt, Israel, Jordan_
+7. [Saboteurs bomb an Egyptian pipeline at Nagah in the Sinai Peninsula delivering gas to Israel and Jordan. ](/news/2011/07/4/saboteurs-bomb-an-egyptian-pipeline-at-nagah-in-the-sinai-peninsula-delivering-gas-to-israel-and-jordan.md) _Context: Egypt, Israel, Jordan_
+8. [Natural gas supplies to Jordan and Israel are hit by an explosion in the Arab Gas Pipeline in the town of Arish in North Sinai near Egypt's border with Israel with an armed group believed responsible. ](/news/2011/04/27/natural-gas-supplies-to-jordan-and-israel-are-hit-by-an-explosion-in-the-arab-gas-pipeline-in-the-town-of-arish-in-north-sinai-near-egypt-s.md) _Context: Egypt, Israel, Jordan_
+9. [A Jordanian civilian is killed and three others are wounded as a Grad rocket launched from the Sinai hits the city of Aqaba. Four other rockets land in open areas in the Gulf of Aqaba. Jordan, Israel, Egypt and the United States condemn the attack. ](/news/2010/08/2/a-jordanian-civilian-is-killed-and-three-others-are-wounded-as-a-grad-rocket-launched-from-the-sinai-hits-the-city-of-aqaba-four-other-rock.md) _Context: Egypt, Israel, Jordan_
+10. [A group of more than 30 journalists from such countries as Turkey, Spain, Germany, Lebanon, Egypt, the United Kingdom and the United States announces it is to take legal action against Israel for equipment lost and money stolen due to the Gaza flotilla raid. ](/news/2010/07/14/a-group-of-more-than-30-journalists-from-such-countries-as-turkey-spain-germany-lebanon-egypt-the-united-kingdom-and-the-united-states.md) _Context: Egypt, Israel, Lebanon_

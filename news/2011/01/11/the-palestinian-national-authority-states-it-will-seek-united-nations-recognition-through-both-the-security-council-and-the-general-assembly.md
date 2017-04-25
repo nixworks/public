@@ -1,0 +1,24 @@
+### [2011-01-11](/news/2011/01/11/index.md)
+
+# The Palestinian National Authority states it will seek United Nations recognition through both the Security Council and the General Assembly in September. It is currently lobbying nations for recognition during the stalled peace talks with Israel. 
+
+
+
+
+### Source:
+
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5hBzpsCxIE_5WUCS34160wkCWpVbg?docId=a9620a92b97940a1b1af926d8d46a9ae)
+2. [Press TV](http://www.presstv.ir/detail/159511.html)
+
+### Related:
+
+1. [Mahmoud Abbas, the President of the Palestinian National Authority, says he will push for full United Nations membership as a nation state for the Palestinian National Authority at the September 23 UN General Assembly meeting.  ](/news/2011/09/16/mahmoud-abbas-the-president-of-the-palestinian-national-authority-says-he-will-push-for-full-united-nations-membership-as-a-nation-state-f.md) _Context: Palestinian National Authority, United Nations, United Nations General Assembly_
+2. [Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-the-december-23-2016-security-council-settl.md) _Context: Israel, United Nations_
+3. [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md) _Context: Israel, Palestinian National Authority_
+4. [U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. ](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.md) _Context: Israel, United Nations_
+5. [The  report of the diplomatic Quartet to the Security Council -- the United Nations, Russia, the United States, and the European Union -- calls on Israel to end  settlement construction and expansion policy, and calls on  Palestinians to act decisively to stop incitement to violence and to clearly condemn terrorist acts. Special Coordinator for the Middle East Peace Process Nickolay Mladenov tells the UNSC, "The main objective of this report is not about assigning blame ... (rather) it focuses on the major threats to achieving a negotiated peace." ](/news/2016/07/1/the-report-of-the-diplomatic-quartet-to-the-security-council-a-the-united-nations-russia-the-united-states-and-the-european-union-a.md) _Context: Israel, United Nations_
+6. [The Palestinian Ministry of Foreign Affairs says Israel prevented Indonesian Foreign Minister Retno Marsudi from entering the West Bank to meet with Palestinian officials. The Israeli spokesman would not comment. Israel and Indonesia do not have formal diplomatic relations. ](/news/2016/03/13/the-palestinian-ministry-of-foreign-affairs-says-israel-prevented-indonesian-foreign-minister-retno-marsudi-from-entering-the-west-bank-to-m.md) _Context: Israel, Palestinian National Authority_
+7. [The United Nations Security Council unanimously adopts a resolution aimed at identifying those responsible for deploying chlorine and other chemical weapons in attacks in Syria. ](/news/2015/08/7/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-identifying-those-responsible-for-deploying-chlorine-and-other.md) _Context: Security Council, United Nations_
+8. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _Context: Israel, United Nations_
+9. [Canadian academic William Schabas resigns as the head of a United Nations committee investigating alleged Israeli war crimes in an offensive in the Gaza Strip during 2014 due to Israel alleging bias due to consultancy work he did for the Palestine Liberation Organisation. ](/news/2015/02/2/canadian-academic-william-schabas-resigns-as-the-head-of-a-united-nations-committee-investigating-alleged-israeli-war-crimes-in-an-offensive.md) _Context: Israel, United Nations_
+10. [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md) _Context: Israel, officially recognises_

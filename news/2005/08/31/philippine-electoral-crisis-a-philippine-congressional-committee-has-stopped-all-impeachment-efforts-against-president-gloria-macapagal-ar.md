@@ -1,0 +1,19 @@
+### [2005-08-31](/news/2005/08/31/index.md)
+
+#  Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http://www.usatoday.com/news/world/2005-08-31-philippines-arroyo_x.htm (USA Today)]{{dead link|date=April 2015}}
+
+
+
+
+### Related:
+
+1. [ Impeachment proceedings against Philippine President Joseph Estrada, accused of playing Jueteng, end preeminently and trigger the second EDSA People Power Revolution or People Power II. His Vice-President Gloria Macapagal-Arroyo succeeds him as the 14th President of the Republic.](/news/2001/01/17/impeachment-proceedings-against-philippine-president-joseph-estrada-accused-of-playing-jueteng-end-preeminently-and-trigger-the-second-ed.md) _Context: Gloria Macapagal Arroyo, impeach_
+2. [South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234a56-vote-prime-minister-hwang-kyo-ahn-a-staunch-defender-of-ms-park-wil.md) _Context: impeach_
+3. [The Sandiganbayan court clears former Philippines president Gloria Macapagal Arroyo in the national broadband corruption scandal. ](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.md) _Context: Gloria Macapagal Arroyo_
+4. [Former Philippine president Gloria Macapagal Arroyo has been acquitted of plunder. ](/news/2016/07/19/former-philippine-president-gloria-macapagal-arroyo-has-been-acquitted-of-plunder.md) _Context: Gloria Macapagal Arroyo_
+5. [Hundreds of thousands in Brazil's major cities,  some estimates say more than 3 million people,  protest the weak economy and political corruption, and call for  President Dilma Rousseff's impeachment. ](/news/2016/03/13/hundreds-of-thousands-in-brazil-s-major-cities-some-estimates-say-more-than-3-million-people-protest-the-weak-economy-and-political-corr.md) _Context: impeach_
+6. [Tens of thousands of Brazilians  protest in cities around the country  to demand that Congress impeach President Dilma Rousseff. The lower house of Congress opened impeachment proceedings on 2 December 2015. ](/news/2015/12/13/tens-of-thousands-of-brazilians-protest-in-cities-around-the-country-to-demand-that-congress-impeach-president-dilma-rousseff-the-lower-h.md) _Context: impeach_
+7. [Celebrity British lawyer Amal Clooney files a case in the United Nations on behalf of former Philippines President Gloria Macapagal-Arroyo. ](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.md) _Context: Gloria Macapagal Arroyo_
+8. [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md) _Context: impeach_
+9. [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md) _Context: impeach_
+10. [Former Philippine First Lady Imelda Marcos visits the detained ex-President Gloria Macapagal-Arroyo and criticizes the current President Benigno Aquino III as "cruel, unjust". ](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.md) _Context: Gloria Macapagal Arroyo_

@@ -1,0 +1,23 @@
+### [2013-02-5](/news/2013/02/5/index.md)
+
+# IBM issues a $1 billion two year corporate bond deal at a negative spread to Libor (the London Interbank Offered Rate). 
+
+By Danielle RobinsonFeb 5 (IFR) - IBM Corp on Tuesday made the most of a surgein demand for floating-rate notes in the corporate bond marketby issu
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/02/05/ibm-bonds-idUSL1N0B5LF520130205)
+
+### Related:
+
+1. [IBM allows the public to access a five-qubit quantum computer its researchers have developed in Yorktown Heights, New York. ](/news/2016/05/4/ibm-allows-the-public-to-access-a-five-qubit-quantum-computer-its-researchers-have-developed-in-yorktown-heights-new-york.md) _Context: IBM_
+2. [IBM agrees to buy cloud computing firm SoftLayer Technologies for US$2 billion. ](/news/2013/06/4/ibm-agrees-to-buy-cloud-computing-firm-softlayer-technologies-for-us-2-billion.md) _Context: IBM_
+3. [In San Jose, California, IBM researchers release ''A Boy and His Atom'', the smallest movie ever made, which was created by manipulating individual carbon monoxide molecules with a scanning tunneling microscope. ](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a-boy-and-his-atom-the-smallest-movie-ever-made-which-was-created-by-manipulating-ind.md) _Context: IBM_
+4. [Apple initiates the largest ever non-bank bond offering, valued at $17 billion. ](/news/2013/04/30/apple-initiates-the-largest-ever-non-bank-bond-offering-valued-at-17-billion.md) _Context: bond_
+5. [Authorities in the United States and United Kingdom fine The Royal Bank of Scotland more than $612 million for its role in manipulating the London Interbank Offered Rate or Libor. ](/news/2013/02/6/authorities-in-the-united-states-and-united-kingdom-fine-the-royal-bank-of-scotland-more-than-612-million-for-its-role-in-manipulating-the.md) _Context: London Interbank Offered Rate_
+6. [IBM sells a "most powerful and advanced" server. ](/news/2012/08/28/ibm-sells-a-most-powerful-and-advanced-server.md) _Context: IBM_
+7. [IBM claims to be on the verge of creating the world's first quantum computer. ](/news/2012/02/28/ibm-claims-to-be-on-the-verge-of-creating-the-world-s-first-quantum-computer.md) _Context: IBM_
+8. [IBM's Watson artificial intelligence program wins on the U.S. quiz show ''Jeopardy!'', defeating Brad Rutter and Ken Jennings, the series' most successful contestants. [http://www.pcmag.com/article2/0,2817,2380489,00.asp?kc=PCRSS03069TX1K0001121&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+ziffdavis%2Fpcmag%2Fbreakingnews+%28PCMag.com+Breaking+News%29&utm_content=Google+International# (PC Mag)]  ''Watson'' used Wikipedia, among other sources, as its knowledge base ''[http://www.vancouversun.com/entertainment/Watson+computer+Ottawa+roots/4290481/story.html (The Vancouver Sun)]'' ''[http://www.npr.org/2011/02/11/133686004/IBM-Computer-Faces-Off-Against-Jeopardy-Champs (NPR)]'' ''[http://www.ibm.com/ibm100/us/en/icons/watson/ (IBM)]''](/news/2011/02/16/ibm-s-watson-artificial-intelligence-program-wins-on-the-u-s-quiz-show-jeopardy-defeating-brad-rutter-and-ken-jennings-the-series-m.md) _Context: IBM_
+9. [ IBM and Los Alamos National Laboratory break processing speed barrier with the world's first petaflop computer, Roadrunner. ](/news/2008/06/9/ibm-and-los-alamos-national-laboratory-break-processing-speed-barrier-with-the-world-s-first-petaflop-computer-roadrunner.md) _Context: IBM_
+10. [ IBM announces it will buy business intelligence firm Cognos for US$5 billion. ](/news/2007/11/12/ibm-announces-it-will-buy-business-intelligence-firm-cognos-for-us-5-billion.md) _Context: IBM_

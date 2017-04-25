@@ -1,0 +1,23 @@
+### [2012-04-26](/news/2012/04/26/index.md)
+
+# Revelations surface that ousted Chinese official Bo Xilai spied on Chinese President and Communist Party leader Hu Jintao. 
+
+Bo Xilai was toppled amid accusations that his wife arranged the killing of a British businessman, but wiretapping may have been another compelling reason party officials turned on him.
+
+
+### Source:
+
+1. [The New York Times](http://www.nytimes.com/2012/04/26/world/asia/bo-xilai-said-to-have-spied-on-top-china-officials.html)
+
+### Related:
+
+1. [Ling Jihua, former top aide to paramount leader Hu Jintao, is sentenced to life in prison for illegally obtaining state secrets and taking over $11 million in bribes. Ling's misfortunes started when he was accused of trying to cover up a scandal connected to his 23-year-old son's deadly crash in a Ferrari in 2012. ](/news/2016/07/4/ling-jihua-former-top-aide-to-paramount-leader-hu-jintao-is-sentenced-to-life-in-prison-for-illegally-obtaining-state-secrets-and-taking-o.md) _Context: Hu Jintao_
+2. [A Chinese court finds former senior politician Bo Xilai guilty of bribery, embezzlement and abuse of power and sentences him to life imprisonment. ](/news/2013/09/22/a-chinese-court-finds-former-senior-politician-bo-xilai-guilty-of-bribery-embezzlement-and-abuse-of-power-and-sentences-him-to-life-impriso.md) _Context: Bo Xilai_
+3. [Bo Xilai, a former member of Politburo of the Communist Party of China, charged with bribery and corruption, will go on trial on August 22 in the city of Jinan. ](/news/2013/08/18/bo-xilai-a-former-member-of-politburo-of-the-communist-party-of-china-charged-with-bribery-and-corruption-will-go-on-trial-on-august-22-i.md) _Context: Bo Xilai_
+4. [Disgraced Chinese Communist Party official Bo Xilai is charged with corruption and abuse of office, in the culmination of one of China's most significant political scandals in recent years. ](/news/2013/07/25/disgraced-chinese-communist-party-official-bo-xilai-is-charged-with-corruption-and-abuse-of-office-in-the-culmination-of-one-of-china-s-mos.md) _Context: Bo Xilai_
+5. [The 18th National Congress of the Communist Party of China is opened in Beijing, during which current Paramount Leader Hu Jintao is expected to step down to make way for presumptive leader Xi Jinping. ](/news/2012/11/8/the-18th-national-congress-of-the-communist-party-of-china-is-opened-in-beijing-during-which-current-paramount-leader-hu-jintao-is-expected.md) _Context: Hu Jintao_
+6. [China appoints Sun Zhengcai as new chief for the city of Chongqing, once led by disgraced politician Bo Xilai. ](/news/2012/11/20/china-appoints-sun-zhengcai-as-new-chief-for-the-city-of-chongqing-once-led-by-disgraced-politician-bo-xilai.md) _Context: Bo Xilai_
+7. [Chinese politician Bo Xilai is stripped of his membership of the National People's Congress. ](/news/2012/10/26/chinese-politician-bo-xilai-is-stripped-of-his-membership-of-the-national-people-s-congress.md) _Context: Bo Xilai_
+8. [Bo Guagua, the son of disgraced Chinese politician Bo Xilai, defends his father in his first comments on the political scandal. ](/news/2012/09/30/bo-guagua-the-son-of-disgraced-chinese-politician-bo-xilai-defends-his-father-in-his-first-comments-on-the-political-scandal.md) _Context: Bo Xilai_
+9. [The trial of Gu Kailai, wife of former Communist powerbroker Bo Xilai, for the alleged murder of British businessman Neil Haywood begins in the Chinese city of Hefei. ](/news/2012/08/9/the-trial-of-gu-kailai-wife-of-former-communist-powerbroker-bo-xilai-for-the-alleged-murder-of-british-businessman-neil-haywood-begins-in.md) _Context: Bo Xilai_
+10. [President Hu officially receives Egypt's president Morsi, who is in China for in-depth discussion and cooperation talks. ](/news/2012/08/29/president-hu-officially-receives-egypt-s-president-morsi-who-is-in-china-for-in-depth-discussion-and-cooperation-talks.md) _Context: Hu Jintao_

@@ -1,0 +1,23 @@
+### [2013-12-29](/news/2013/12/29/index.md)
+
+# The Syrian Observatory for Human Rights says barrels packed with explosives dropped from Syrian Air Force aircraft have killed 517 people in the northern province of Aleppo since 15 December. 
+
+Barrel bombs dropped on the Syrian province of Aleppo have killed 517 since 15 December, the Syrian Observatory for Human Rights says.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25541726)
+
+### Related:
+
+1. [The Syrian Observatory for Human Rights reports a car bomb has killed at least ten people in the city of Azaz, Aleppo Governorate. ](/news/2016/11/17/the-syrian-observatory-for-human-rights-reports-a-car-bomb-has-killed-at-least-ten-people-in-the-city-of-azaz-aleppo-governorate.md) _Context: Aleppo Governorate, Syrian Civil War, Syrian Observatory for Human Rights_
+2. [Hours after the Syrian military declares the end of the ceasefire, an airstrike hits a convoy of United Nations OCHA aid trucks near the town of Urum al-Kubra, in the Aleppo Governorate, with the Syrian Observatory for Human Rights reporting that at least 12 people have been killed. ](/news/2016/09/19/hours-after-the-syrian-military-declares-the-end-of-the-ceasefire-an-airstrike-hits-a-convoy-of-united-nations-ocha-aid-trucks-near-the-tow.md) _Context: Aleppo Governorate, Syrian Civil War, Syrian Observatory for Human Rights_
+3. [At least three people are killed and three more injured as hundreds of Syrian Kurds flee Aleppo Province villages controlled by the Islamic State of Iraq and the Levant, which continues to abduct and enslave Kurds.  Yesterday, the Syrian Observatory for Human Rights reported ISIL militants have kidnapped about 900 civilians over the past three weeks. ](/news/2016/06/25/at-least-three-people-are-killed-and-three-more-injured-as-hundreds-of-syrian-kurds-flee-aleppo-province-villages-controlled-by-the-islamic.md) _Context: Aleppo Governorate, Syrian Civil War, Syrian Observatory for Human Rights_
+4. [The Syrian Observatory for Human Rights says that Turkey has shelled areas held by the Kurdish YPG militia group in Syria's Aleppo Governorate for the second successive day with two YPG fighters reportedly killed. ](/news/2016/02/14/the-syrian-observatory-for-human-rights-says-that-turkey-has-shelled-areas-held-by-the-kurdish-ypg-militia-group-in-syria-s-aleppo-governora.md) _Context: Aleppo Governorate, Syrian Civil War, Syrian Observatory for Human Rights_
+5. [The Syrian Observatory for Human Rights estimates that barrel bombs dropped by the Bashar al-Assad regime have killed at least 45 people in the Aleppo Governorate and injured dozens more. ](/news/2015/05/30/the-syrian-observatory-for-human-rights-estimates-that-barrel-bombs-dropped-by-the-bashar-al-assad-regime-have-killed-at-least-45-people-in.md) _Context: Aleppo Governorate, Syrian Civil War, Syrian Observatory for Human Rights_
+6. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+7. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Aleppo Governorate, Syrian Civil War_
+8. [At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-rights.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+9. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+10. [The Syrian Army recaptures the strategic town of Tadef from ISIL, south of al-Bab, securing key transportation routes in eastern Aleppo Governorate. ](/news/2017/02/26/the-syrian-army-recaptures-the-strategic-town-of-tadef-from-isil-south-of-al-bab-securing-key-transportation-routes-in-eastern-aleppo-gove.md) _Context: Aleppo Governorate, Syrian Civil War_

@@ -1,0 +1,23 @@
+### [2014-12-16](/news/2014/12/16/index.md)
+
+# Israel Police arrest ten members of Lehava, a right-wing organisation that opposes integration of Arabs and Jews, for last month's arson on an Arab&ndash;Jewish school.  
+
+Bentzi Gopshtain and nine others held on suspicion of incitement to violence and terror, day after members charged in bilingual school arson
+
+
+### Source:
+
+1. [Times of Israel](http://www.timesofisrael.com/police-arrest-head-of-anti-assimilation-group-lehava/)
+
+### Related:
+
+1. [A Palestinian gunman opens fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem, killing at least two people, including a police officer, and injuring six others. Israeli police kill the gunman. ](/news/2016/10/9/a-palestinian-gunman-opens-fire-from-a-vehicle-on-people-waiting-at-a-train-station-and-then-the-nearby-police-headquarters-in-jerusalem-ki.md) _Context: Israeli police_
+2. [A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. ](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.md) _Context: Israeli police_
+3. [Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. ](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.md) _Context: Israeli police_
+4. [Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.md) _Context: Israeli police_
+5. [Israeli police and Shin Bet arrest several suspects in relation to the bombing of a public bus in Tel Aviv. The suspects claim affiliation with Hamas and Islamic Jihad and reveal they planted the bomb on the bus and detonated it remotely using a cell phone. ](/news/2012/11/22/israeli-police-and-shin-bet-arrest-several-suspects-in-relation-to-the-bombing-of-a-public-bus-in-tel-aviv-the-suspects-claim-affiliation-w.md) _Context: Israeli police_
+6. [Thousands of Palestinians demonstrate on the 64th anniversary of their ''Nakba'' ({{lang|en|"Catastrophe"}}), in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-lang-en-catastrophe-in-remembrance-of-their-exodus.md) _Context: Israeli police_
+7. [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md) _Context: Israeli police_
+8. [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md) _Context: Israeli police_
+9. [ Israeli police raid the Jerusalem city hall to seize documents related to alleged bribes received by Prime Minister Ehud Olmert from businessman Moshe Talansky. ](/news/2008/05/12/israeli-police-raid-the-jerusalem-city-hall-to-seize-documents-related-to-alleged-bribes-received-by-prime-minister-ehud-olmert-from-busine.md) _Context: Israeli police_
+10. [ Israeli-Palestinian Conflict: Israel Police prevents Palestinians in East Jerusalem from campaigning in the upcoming Elections in the Palestinian National Authority. ](/news/2006/01/3/israeli-palestinian-conflict-israel-police-prevents-palestinians-in-east-jerusalem-from-campaigning-in-the-upcoming-elections-in-the-pales.md) _Context: Israeli police_

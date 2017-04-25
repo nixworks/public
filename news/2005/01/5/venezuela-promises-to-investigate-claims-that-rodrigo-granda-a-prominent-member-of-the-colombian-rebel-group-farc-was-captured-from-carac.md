@@ -1,0 +1,23 @@
+### [2005-01-5](/news/2005/01/5/index.md)
+
+#  Venezuela promises to investigate claims that Rodrigo Granda, a prominent member of the Colombian rebel group FARC, was captured from Caracas instead of from inside Colombia. Granda was arrested December 13, 2004. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4147631.stm)
+
+### Related:
+
+1. [ Venezuela has rejected the suggestion of Colombia to hold a regional summit to resolve the dispute over the capture of FARC leader Rodrigo Granda. Hugo Chvez states that he is willing to discuss the matter personally with lvaro Uribe. ](/news/2005/01/17/venezuela-has-rejected-the-suggestion-of-colombia-to-hold-a-regional-summit-to-resolve-the-dispute-over-the-capture-of-farc-leader-rodrigo.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Rodrigo Granda, Venezuela_
+2. [ Venezuelan President Hugo Chvez says he is convinced that Colombian police captured FARC leader Rodrigo Granda in Venezuela, contrary to their claims that he was arrested in the Colombian border town of Ccuta. ](/news/2005/01/10/venezuelan-president-hugo-chavez-says-he-is-convinced-that-colombian-police-captured-farc-leader-rodrigo-granda-in-venezuela-contrary-to-t.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Rodrigo Granda, Venezuela_
+3. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Caracas, Colombia, Venezuela_
+4. [President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. ](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.md) _Context: Caracas, Colombia, Venezuela_
+5. [ Venezuela "freezes" diplomatic relations with Colombia, after a dispute over Swedish weapons bought by Venezuela were allegedly found on FARC rebels. ](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_
+6. [ 2008 Andean diplomatic crisis: Interpol confirms that Colombia did not tamper with computer files in hardware seized from Raul Reyes. This alleged that Venezuela and Ecuador provided funding, assistance and drug routes to the terrorist group Revolutionary Armed Forces of Colombia. However, Interpol stated that they had not looked at the content of the files, only their authenticity. ](/news/2008/05/15/2008-andean-diplomatic-crisis-interpol-confirms-that-colombia-did-not-tamper-with-computer-files-in-hardware-seized-from-raul-reyes-this.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_
+7. [ South American diplomatic crisis: President Hugo Chvez orders the closure of the Venezuelan embassy in Colombia and moves ten battalions to the Colombian-Venezuelan border in response to the killing of FARC leader Ral Reyes in Ecuador by Colombian armed forces the previous day. Rafael Correa, the President of Ecuador, orders troops to the Colombian border. The Colombian government accuses Correa of having "a relationship and commitments" with FARC. ](/news/2008/03/2/south-american-diplomatic-crisis-president-hugo-chavez-orders-the-closure-of-the-venezuelan-embassy-in-colombia-and-moves-ten-battalions-t.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_
+8. [ Brazil offers to mediate between Colombia and Venezuela in a disagreement about the capture of Rodrigo Granda. ](/news/2005/01/20/brazil-offers-to-mediate-between-colombia-and-venezuela-in-a-disagreement-about-the-capture-of-rodrigo-granda.md) _Context: Colombia, Rodrigo Granda, Venezuela_
+9. [ Venezuela recalls its ambassador to Colombia because of the disagreement over capture of FARC member Rodrigo Granda ](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.md) _Context: Colombia, Rodrigo Granda, Venezuela_
+10. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Caracas, Venezuela_

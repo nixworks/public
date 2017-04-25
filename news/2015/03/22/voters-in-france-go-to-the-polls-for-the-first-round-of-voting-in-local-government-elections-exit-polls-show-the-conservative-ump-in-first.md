@@ -1,0 +1,24 @@
+### [2015-03-22](/news/2015/03/22/index.md)
+
+# Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third. 
+
+Former president Nicolas Sarkozy&#39;s conservative UMP party and their allies lead in the first round of French local elections, denying Marine Le Pen&#39;s far-right National Front (FN) first place.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-32006268)
+2. [RTE](http://www.rte.ie/news/2015/0322/688851-france-local-elections/)
+
+### Related:
+
+1. [Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential-election-this-leaves-the-selection.md) _Context: François Hollande, French Socialist Party, president_
+2. [With most of the votes counted, the opposition conservatives of former president Nicolas Sarkozy's party win in six of the country's 13  regions and lead in the Paris region. The ruling Socialists of President Francois Hollande's  party capture five regions. The winner in Corsica is not affiliated with a major party. France's far-right National Front (FN) fails to win a single region but did record its best showing in its history. Voter turnout was 58 percent. Definitive results are expected Monday. ](/news/2015/12/13/with-most-of-the-votes-counted-the-opposition-conservatives-of-former-president-nicolas-sarkozy-s-party-win-in-six-of-the-countryas-13-r.md) _Context: François Hollande, National Front, president_
+3. [Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorable-results-for-former-president-nicol.md) _Context: UMP, local government elections, president_
+4. [Voters in France go to the polls for the first round of the French presidential election with Francois Hollande of the French Socialist Party and incumbent President Nicolas Sarkozy through to the second round. ](/news/2012/04/22/voters-in-france-go-to-the-polls-for-the-first-round-of-the-french-presidential-election-with-franassois-hollande-of-the-french-socialist-par.md) _Context: François Hollande, French Socialist Party, president_
+5. [Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md) _Context: Marine Le Pen, National Front_
+6. [Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for-the-second-round.md) _Context: Marine Le Pen, president_
+7. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: Marine Le Pen, National Front_
+8. [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md) _Context: Marine Le Pen, National Front_
+9. [A police sniper accidentally fires his weapon while changing position and injures two people during a speech by French President Francois Hollande in Villognon. ](/news/2017/02/28/a-police-sniper-accidentally-fires-his-weapon-while-changing-position-and-injures-two-people-during-a-speech-by-french-president-franassois-h.md) _Context: François Hollande, president_
+10. [French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that  allies should have more respect and support for each other. ](/news/2017/02/25/french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-about-paris-at-friday-s-conservative.md) _Context: François Hollande, president_

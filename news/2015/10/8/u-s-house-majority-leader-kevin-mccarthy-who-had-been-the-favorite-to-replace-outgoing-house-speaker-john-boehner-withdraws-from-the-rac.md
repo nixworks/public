@@ -1,0 +1,23 @@
+### [2015-10-8](/news/2015/10/8/index.md)
+
+#  U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. 
+
+
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/politics/2015/10/08/mccarthy-withdraws/)
+
+### Related:
+
+1. [The U.S. House of Representatives elects Paul Ryan of Wisconsin as the 62nd Speaker of the House replacing John Boehner of Ohio. ](/news/2015/10/29/the-u-s-house-of-representatives-elects-paul-ryan-of-wisconsin-as-the-62nd-speaker-of-the-house-replacing-john-boehner-of-ohio.md) _Context: John Boehner, Speaker of the United States House of Representatives, Speaker of the United States House of Representatives election, October 2015_
+2. [Members of the Republican party in the United States House of Representatives nominate Paul Ryan of Wisconsin to replace John Boehner of Ohio as Speaker of the House.  There will be a formal vote Thursday on the House floor. ](/news/2015/10/28/members-of-the-republican-party-in-the-united-states-house-of-representatives-nominate-paul-ryan-of-wisconsin-to-replace-john-boehner-of-ohi.md) _Context: John Boehner, Speaker of the United States House of Representatives, U.S. House_
+3. [John Boehner schedules his resignation from the position of Speaker of the United States House of Representatives and from Congress for the end of October. ](/news/2015/09/25/john-boehner-schedules-his-resignation-from-the-position-of-speaker-of-the-united-states-house-of-representatives-and-from-congress-for-the.md) _Context: John Boehner, Speaker of the United States House of Representatives, U.S. House_
+4. [The US Congress re-elects John Boehner to his third term as Speaker. ](/news/2015/01/6/the-us-congress-re-elects-john-boehner-to-his-third-term-as-speaker.md) _Context: John Boehner, Speaker of the United States House of Representatives, U.S. House_
+5. [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md) _Context: John Boehner, Speaker of the United States House of Representatives, U.S. House_
+6. [Paul Ryan announces that he will run to succeed outgoing Speaker of the United States House of Representatives John Boehner after receiving the support of a significant majority of members of the Republican Party. ](/news/2015/10/22/paul-ryan-announces-that-he-will-run-to-succeed-outgoing-speaker-of-the-united-states-house-of-representatives-john-boehner-after-receiving.md) _Context: John Boehner, Speaker of the United States House of Representatives_
+7. [Following an unexpected primary loss to Dave Brat, United States House Representative Eric Cantor announces his intent to step down from his office as House Majority Leader. ](/news/2014/06/11/following-an-unexpected-primary-loss-to-dave-brat-united-states-house-representative-eric-cantor-announces-his-intent-to-step-down-from-his.md) _Context: Majority Leader, U.S. House_
+8. [Republican Speaker John Boehner forcibly responds to attacks by previously-supportive conservative groups, due to their opposition to a bipartisan budget. ](/news/2013/12/12/republican-speaker-john-boehner-forcibly-responds-to-attacks-by-previously-supportive-conservative-groups-due-to-their-opposition-to-a-bipa.md) _Context: John Boehner, Speaker of the United States House of Representatives_
+9. [John Boehner delays a vote on the United States House of Representatives debt ceiling legislation with the issue deferred until at least Friday. ](/news/2011/07/28/john-boehner-delays-a-vote-on-the-united-states-house-of-representatives-debt-ceiling-legislation-with-the-issue-deferred-until-at-least-fri.md) _Context: John Boehner, U.S. House_
+10. [Debt negotiations between President of the United States Barack Obama and Speaker of the House of Representatives John Boehner collapse. ](/news/2011/07/22/debt-negotiations-between-president-of-the-united-states-barack-obama-and-speaker-of-the-house-of-representatives-john-boehner-collapse.md) _Context: John Boehner, Speaker of the United States House of Representatives_

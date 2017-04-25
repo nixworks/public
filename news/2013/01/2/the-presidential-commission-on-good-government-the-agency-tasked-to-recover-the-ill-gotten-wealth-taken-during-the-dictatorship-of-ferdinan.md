@@ -1,0 +1,24 @@
+### [2013-01-2](/news/2013/01/2/index.md)
+
+# The Presidential Commission on Good Government, the agency tasked to recover the ill-gotten wealth taken during the dictatorship of Ferdinand Marcos has submitted plans to President Benigno Aquino III to end its operations after 27 years. 
+
+THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursue alleged ill-gotten wealth of the Marcoses -- has submitted a draft bill to the Palace seeking to transfer its functions to the Justice and Finance departments as it prepares to end its three-decade existence.
+
+
+### Source:
+
+1. [Rappler](http://www.rappler.com/nation/18920-govt-set-to-quit-marcos-wealth-chase)
+2. [Business World](http://www.bworldonline.com/content.php?section=Nation&title=PCGG-submits-exit-proposal-to-Malaca%C3%B1ang&id=63679)
+
+### Related:
+
+1. [The Philippines top historian resigns to protest President Rodrigo Duterte's decision to allow the burial of Ferdinand Marcos in the Heroes' Cemetery at Fort Bonifacio in Manila. ](/news/2016/11/29/the-philippines-top-historian-resigns-to-protest-president-rodrigo-duterte-s-decision-to-allow-the-burial-of-ferdinand-marcos-in-the-heroes.md) _Context: Ferdinand Marcos_
+2. [The Philippine Supreme Court postpones the burial of former Philippines dictator Ferdinand Marcos until at least October 18. ](/news/2016/09/8/the-philippine-supreme-court-postpones-the-burial-of-former-philippines-dictator-ferdinand-marcos-until-at-least-october-18.md) _Context: Ferdinand Marcos_
+3. [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md) _Context: Ferdinand Marcos_
+4. [Philippine president Rodrigo Duterte accuses the Liberal Party of former president Benigno Aquino III and their allies of orchestrating an impeachment complaint against him regarding his anti-drug campaign. ](/news/2016/09/13/philippine-president-rodrigo-duterte-accuses-the-liberal-party-of-former-president-benigno-aquino-iii-and-their-allies-of-orchestrating-an-i.md) _Context: Benigno Aquino III_
+5. [Female victims of the martial law dictatorship of Ferdinand Marcos speak at the Philippine Supreme Court about how they endured torture during Marcos' regime. ](/news/2016/09/1/female-victims-of-the-martial-law-dictatorship-of-ferdinand-marcos-speak-at-the-philippine-supreme-court-about-how-they-endured-torture-duri.md) _Context: Ferdinand Marcos_
+6. [The Philippine Defense ministry prepares for the burial of former President Ferdinand Marcos in the Heroes' Cemetery. ](/news/2016/08/8/the-philippine-defense-ministry-prepares-for-the-burial-of-former-president-ferdinand-marcos-in-the-heroes-cemetery.md) _Context: Ferdinand Marcos_
+7. [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md) _Context: Benigno Aquino III_
+8. [''Philippines v. China''On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-pon-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the.md) _Context: Benigno Aquino III_
+9. [Rodrigo Duterte, the Philippines presumptive president-elect, says  he will allow the immediate burial of former kleptocratic dictator Ferdinand Marcos at the Heroes' Cemetery in metropolitan Manila. ](/news/2016/05/23/rodrigo-duterte-the-philippines-presumptive-president-elect-says-he-will-allow-the-immediate-burial-of-former-kleptocratic-dictator-ferdi.md) _Context: Ferdinand Marcos_
+10. [Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and-boxer-manny-pac.md) _Context: Benigno Aquino III_

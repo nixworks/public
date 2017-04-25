@@ -1,0 +1,23 @@
+### [2012-02-18](/news/2012/02/18/index.md)
+
+# The funeral of American entertainer Whitney Houston is held at the New Hope Baptist Church in Newark, New Jersey. 
+
+The New Hope Baptist Church, where pop star Whitney Houston first sang and family and friends will gather on Saturday to pay her a final tribute, sits in a hardscrabble corner of Newark, New Jersey. Its well-maintained red-brick facade seems at odds with the dusty parking lot and derelict housing projects around it.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2012/02/18/us-whitneyhouston-hometown-idUSTRE81H02820120218)
+
+### Related:
+
+1. [In basketball, the 2012 NBA Draft takes place in Newark, New Jersey. ](/news/2012/06/28/in-basketball-the-2012-nba-draft-takes-place-in-newark-new-jersey.md) _Context: New Jersey, Newark, New Jersey's_
+2. [The 2011 NBA Draft is held in Newark, New Jersey, with Duke's Kyrie Irving as the #1 pick. ](/news/2011/06/23/the-2011-nba-draft-is-held-in-newark-new-jersey-with-duke-s-kyrie-irving-as-the-1-pick.md) _Context: New Jersey, Newark, New Jersey's_
+3. [Paul Beatty becomes the first American author to win the Man Booker Prize for his novel ''The Sellout''. ](/news/2016/10/25/paul-beatty-becomes-the-first-american-author-to-win-the-man-booker-prize-for-his-novel-the-sellout.md) _Context: American_
+4. [A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-major-structural-damage-occurs.md) _Context: New Jersey_
+5. [American Olympic swimmers Ryan Lochte, Gunnar Bentz, Jack Conger and Jimmy Feigen claim they were robbed at gunpoint in Rio de Janeiro by men posing as Brazilian police officers. ](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.md) _Context: American_
+6. [Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-gaining-enough-delegates-to-become-the-presu.md) _Context: New Jersey_
+7. [ Michelle Lodzinski is convicted of murdering her five-year-old son Timothy Wiltsey 25 years ago in New Jersey. ](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.md) _Context: New Jersey_
+8. [Newark, New Jersey's 30 public schools shut off all water fountains after elevated levels of lead were found in  nearly half of the schools during the state Department of Environmental Protection testing. The agency confirmed lead has not been found in the  280,000 residents' city water supply. ](/news/2016/03/9/newark-new-jersey-s-30-public-schools-shut-off-all-water-fountains-after-elevated-levels-of-lead-were-found-in-nearly-half-of-the-schools.md) _Context: Newark, New Jersey's_
+9. [New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/10/new-jersey-governor-chris-christie-suspends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md) _Context: New Jersey_
+10. [This potentially record storm, which is predicted to generate blizzard conditions through a third day on Sunday, has caused at least 10 deaths, knocked out power to hundreds of thousands, led to more than 8,300 canceled flights,  stranded many travelers on major highways and, with up to 70 mph winds, produced record-high tides along the Delaware and New Jersey shores. ](/news/2016/01/23/this-potentially-record-storm-which-is-predicted-to-generate-blizzard-conditions-through-a-third-day-on-sunday-has-caused-at-least-10-deat.md) _Context: New Jersey_

@@ -1,0 +1,19 @@
+### [2002-06-11](/news/2002/06/11/index.md)
+
+#  Technology - Microsoft's .Net service is being examined by the European Union for possible breaking of data privacy laws.
+
+
+
+
+### Related:
+
+1. [The European Commission fines Microsoft EUR561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md) _Context: European Union, Microsoft_
+2. [ Microsoft loses its appeal against a European Union antitrust ruling forcing it to pay a 497 million euro fine. ](/news/2007/09/17/microsoft-loses-its-appeal-against-a-european-union-antitrust-ruling-forcing-it-to-pay-a-497-million-euro-fine.md) _Context: European Union, Microsoft_
+3. [ In Brussels, Microsoft claims a breakthrough, as an independent monitor of its hearings with European Union regulators in Brussels has outlined what it can do to avoid paying fines of {{Nowrap|2 million}} euros a day. ](/news/2006/03/31/in-brussels-microsoft-claims-a-breakthrough-as-an-independent-monitor-of-its-hearings-with-european-union-regulators-in-brussels-has-outl.md) _Context: European Union, Microsoft_
+4. [ Technology&nbsp;- A US federal judge decided that Microsoft is not required to reveal its lobbying contacts.](/news/2002/07/2/technology-nbsp-a-a-us-federal-judge-decided-that-microsoft-is-not-required-to-reveal-its-lobbying-contacts.md) _Context: Microsoft, technology_
+5. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: European Union_
+6. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: European Union_
+7. [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md) _Context: European Union_
+8. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: European Union_
+9. [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md) _Context: European Union_
+10. [European Union leaders gather in Rome to mark 60 years since the Treaty of Rome was signed. ](/news/2017/03/25/european-union-leaders-gather-in-rome-to-mark-60-years-since-the-treaty-of-rome-was-signed.md) _Context: European Union_

@@ -1,0 +1,25 @@
+### [2016-11-15](/news/2016/11/15/index.md)
+
+# Between four and 20 people are reported killed by government and Russian  airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo,  says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. 
+
+An air strike hit a hospital in the rebel-held Syrian village of Awaijel, west of Aleppo killing at least one person in the early hours of Tuesday, a day after attacks on two other hospitals in the region, a war monitor said.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/syria-war-aleppo-pounded-air-strikes-pause-ends-161115112526848.html)
+2. [CBS News](http://www.cbsnews.com/news/russia-denies-new-aleppo-airstrikes-syria-trump-putin-call/)
+3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-hospital-idUSKBN13A0PJ)
+
+### Related:
+
+1. [The Obama administration through the U.S. State Department announces the suspension of bilateral talks with Russia about the cessation of hostilities in Syria, as Russia and the Syrian government continue to pursue a military course despite the ceasefire accord. ](/news/2016/10/3/the-obama-administration-through-the-u-s-state-department-announces-the-suspension-of-bilateral-talks-with-russia-about-the-cessation-of-ho.md) _Context: Russia, State Department, Syria, Syrian Civil War_
+2. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _Context: Aleppo, Russia, Syria, Syrian Civil War_
+3. [The Syrian Observatory for Human Rights says suspected Russian airstrikes kill 32 civilians, half of them women and children, in three areas in northern Syria. No suspected militants were killed in the attacks. ](/news/2015/12/18/the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-children-in-three-areas.md) _Context: Russia, Syria, Syrian Civil War, airstrike_
+4. [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md) _Context: Russia, Syria, Syrian Civil War_
+5. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Russia, Syria, Syrian Civil War_
+6. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Russia, Syria, Syrian Civil War_
+7. [A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.md) _Context: Russia, Syria, Syrian Civil War_
+8. [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md) _Context: Aleppo, Syria, Syrian Civil War_
+9. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: Aleppo, Russia, Syrian Civil War_
+10. [France seeks United States and Russian support for a Security Council resolution to impose a new truce that will allow aid into Aleppo, which has experienced two weeks of heavy Syrian and Russian bombing of rebel-held areas. ](/news/2016/10/5/france-seeks-united-states-and-russian-support-for-a-security-council-resolution-to-impose-a-new-truce-that-will-allow-aid-into-aleppo-whic.md) _Context: Aleppo, Russia, Syria_

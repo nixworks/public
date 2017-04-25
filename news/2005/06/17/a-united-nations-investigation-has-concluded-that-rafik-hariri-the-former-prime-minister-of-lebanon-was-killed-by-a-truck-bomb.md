@@ -1,0 +1,23 @@
+### [2005-06-17](/news/2005/06/17/index.md)
+
+#  A United Nations investigation has concluded that Rafik Hariri, the former Prime Minister of Lebanon, was killed by a truck bomb. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4103374.stm)
+
+### Related:
+
+1. [ A United Nations investigation headed by Detlev Mehlis has found that high-ranking members of the Syrian and Lebanese governments were involved in the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/10/21/a-united-nations-investigation-headed-by-detlev-mehlis-has-found-that-high-ranking-members-of-the-syrian-and-lebanese-governments-were-invo.md) _Context: Lebanon, Rafik Hariri, United Nations_
+2. [ In Lebanon, Michel Abu Arraj, a judge investigating the murder of Rafik Hariri, asks to step down from the case prior to public announcement of the results of the United Nations investigation. ](/news/2005/03/23/in-lebanon-michel-abu-arraj-a-judge-investigating-the-murder-of-rafik-hariri-asks-to-step-down-from-the-case-prior-to-public-announcemen.md) _Context: Lebanon, Rafik Hariri, United Nations_
+3. [ In Lebanon, United Nations team that investigates murder of Rafik Hariri, completes its mission. They will present their findings to secretary general Kofi Annan in New York ](/news/2005/03/15/in-lebanon-united-nations-team-that-investigates-murder-of-rafik-hariri-completes-its-mission-they-will-present-their-findings-to-secret.md) _Context: Lebanon, Rafik Hariri, United Nations_
+4. [The United Nations-backed Special Tribunal for Lebanon investigating the killing of Lebanon's former prime minister and business tycoon Rafic Hariri in 2005 issues 4 arrest warrants. ](/news/2011/06/30/the-united-nations-backed-special-tribunal-for-lebanon-investigating-the-killing-of-lebanon-s-former-prime-minister-and-business-tycoon-rafi.md) _Context: Lebanon, United Nations_
+5. [ United Nations Secretary-General Ban Ki-moon holds talks with Lebanese political leaders, trying to break an impasse over the election of the next President. ](/news/2007/11/16/united-nations-secretary-general-ban-ki-moon-holds-talks-with-lebanese-political-leaders-trying-to-break-an-impasse-over-the-election-of-t.md) _Context: Lebanon, United Nations_
+6. [ Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. ](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.md) _Context: Prime Minister, United Nations_
+7. [ France circulates a draft United Nations Security Council resolution extending the mandate of the 13,600 United Nations peacekeeping force in Lebanon. ](/news/2007/08/17/france-circulates-a-draft-united-nations-security-council-resolution-extending-the-mandate-of-the-13-600-united-nations-peacekeeping-force.md) _Context: Lebanon, United Nations_
+8. [ The United Nations Security Council establishes an international tribunal to try suspects in the killings of Lebanese political figures including the former Prime Minister Rafik Hariri. ](/news/2007/05/30/the-united-nations-security-council-establishes-an-international-tribunal-to-try-suspects-in-the-killings-of-lebanese-political-figures-inc.md) _Context: Lebanon, Rafik Hariri_
+9. [ Lebanese Environment Minister Yaacoub Sarraf, a Christian allied with Hezbollah, joins the rank of five other cabinet members who resigned on November 11, 2006. The cabinet later unanmously approved a UN-proposed international tribunal to try suspects over the assassination of Prime Minister Rafik Hariri in February 2005. ](/news/2006/11/13/lebanese-environment-minister-yaacoub-sarraf-a-christian-allied-with-hezbollah-joins-the-rank-of-five-other-cabinet-members-who-resigned.md) _Context: Lebanon, Rafik Hariri_
+10. [  The Turkish Parliament votes to authorize the Turkish government to send troops to the United Nations peacekeeping force in Lebanon. Deputy speaker Nevzat Pakdil said 340 of the 533 lawmakers present in the 550-seat house voted for the deployment; 192 voted against and one abstained. ](/news/2006/09/5/the-turkish-parliament-votes-to-authorize-the-turkish-government-to-send-troops-to-the-united-nations-peacekeeping-force-in-lebanon-deput.md) _Context: Lebanon, United Nations_

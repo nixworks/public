@@ -1,0 +1,24 @@
+### [2011-01-28](/news/2011/01/28/index.md)
+
+# Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court ''in absentia'' for training drug lords' assassins in the 1980s. 
+
+Former IDF officer was sentenced in absentia to 11 years in prison for training illegal paramilitary groups.
+
+
+### Source:
+
+1. [The Jerusalem Post](http://www.jpost.com/ArtsAndCulture/Entertainment/Article.aspx?id=205572)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h75FQrj8dya-QlyS0G9FE3fWnuVg?docId=ed08824f0d334eff96d2167f381ec6b8)
+
+### Related:
+
+1. [A drug lord named Mario Smith Pomare, who had long been wanted by the police in Colombia, is arrested at his villa on the Atlantic coast of Honduras. ](/news/2013/01/20/a-drug-lord-named-mario-smith-pomare-who-had-long-been-wanted-by-the-police-in-colombia-is-arrested-at-his-villa-on-the-atlantic-coast-of.md) _Context: Colombia, drug kingpin_
+2. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel_
+3. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Colombia_
+4. [At least 17 people are killed after an Andean landslide strikes the Colombian city of Manizales. ](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.md) _Context: Colombia_
+5. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: Israel_
+6. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: Israel_
+7. [A landslide in Colombia's southwestern border department of Putumayo sends mud and debris crashing onto houses killing over 250 people and injuring at least 400 others. In addition, 200 people are missing. ](/news/2017/04/1/a-landslide-in-colombia-s-southwestern-border-department-of-putumayo-sends-mud-and-debris-crashing-onto-houses-killing-over-250-people-and-i.md) _Context: Colombia_
+8. [Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marijuana-in-public-place.md) _Context: Israel_
+9. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Israel_
+10. [Near the town of Ramle, Israeli archeologists uncover hundreds of gin and whiskey bottles dating back to the First World War at the site of a former British Army barracks. ](/news/2017/03/22/near-the-town-of-ramle-israeli-archeologists-uncover-hundreds-of-gin-and-whiskey-bottles-dating-back-to-the-first-world-war-at-the-site-of.md) _Context: Israel_

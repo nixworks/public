@@ -1,0 +1,23 @@
+### [2010-08-17](/news/2010/08/17/index.md)
+
+# Former Israeli soldier Eden Aberjil is criticized for her Facebook images of herself smiling with blindfolded and bound Palestinian prisoners. 
+
+A former Israeli soldier is criticised for posting images of herself on Facebook posing with bound Palestinian prisoners.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10994668)
+
+### Related:
+
+1. [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md) _Context: Facebook, Israel_
+2. [An Israeli raid on the West Bank is aborted after a soldier posts the following secret details on Facebook: "On Wednesday we are cleaning Qatanna, and on Thursday, God willing, going home". ](/news/2010/03/3/an-israeli-raid-on-the-west-bank-is-aborted-after-a-soldier-posts-the-following-secret-details-on-facebook-on-wednesday-we-are-cleaning-qa.md) _Context: Facebook, Israel_
+3. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel_
+4. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Facebook_
+5. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: Israel_
+6. [Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md) _Context: Facebook_
+7. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: Israel_
+8. [Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marijuana-in-public-place.md) _Context: Israel_
+9. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Israel_
+10. [Near the town of Ramle, Israeli archeologists uncover hundreds of gin and whiskey bottles dating back to the First World War at the site of a former British Army barracks. ](/news/2017/03/22/near-the-town-of-ramle-israeli-archeologists-uncover-hundreds-of-gin-and-whiskey-bottles-dating-back-to-the-first-world-war-at-the-site-of.md) _Context: Israel_

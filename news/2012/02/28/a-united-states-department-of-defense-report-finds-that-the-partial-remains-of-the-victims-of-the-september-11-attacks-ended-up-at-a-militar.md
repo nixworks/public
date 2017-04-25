@@ -1,0 +1,23 @@
+### [2012-02-28](/news/2012/02/28/index.md)
+
+# A United States Department of Defense report finds that the partial remains of the victims of the September 11 attacks ended up at a military landfill site. 
+
+A report by the Pentagon finds that partial remains of some 9/11 victims ended up in a military landfill site after being cremated at a US air base.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17195894)
+
+### Related:
+
+1. [West Point graduate, billionaire businessman, and philanthropist Vincent Viola withdraws his name from consideration as Secretary of the Army because of Defense Department rules concerning his family businesses. ](/news/2017/02/3/west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-from-consideration-as-secretary-of-the-arm.md) _Context: Defense Department_
+2. [The Chinese Defense Ministry says it is in talks with the United States about returning an underwater drone taken Thursday from the South China Sea. The Pentagon says the drone, used for gathering weather and temperature data, is not armed. ](/news/2016/12/17/the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone-taken-thursday-from-the-south-ch.md) _Context: Defense Department_
+3. [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md) _Context: Defense Department_
+4. [The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-for-october-9-un.md) _Context: Defense Department_
+5. [The United States Congress passes a law allowing families of the victims of the September 11 attacks to sue Saudi Arabia. U.S. president Barack Obama threatens to veto it. ](/news/2016/09/9/the-united-states-congress-passes-a-law-allowing-families-of-the-victims-of-the-september-11-attacks-to-sue-saudi-arabia-u-s-president-bar.md) _Context: September 11 attacks_
+6. [The Police Department of Everett, Washington, identifies and returns the American flag from the September 11 attacks to Ground Zero, the World Trade Center site in New York City. ](/news/2016/09/8/the-police-department-of-everett-washington-identifies-and-returns-the-american-flag-from-the-september-11-attacks-to-ground-zero-the-wor.md) _Context: September 11 attacks_
+7. [Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democratic-party-presidential-candidate-fell-ill.md) _Context: September 11 attacks_
+8. [A Defense Department audit reveals that the United States Army had manipulated its finances, making $6.5 trillion of improper accounting adjustments in order to balance the books in 2015. ](/news/2016/08/19/a-defense-department-audit-reveals-that-the-united-states-army-had-manipulated-its-finances-making-6-5-trillion-of-improper-accounting-adj.md) _Context: Defense Department_
+9. [According to The Pentagon, two senior ISIL leaders have been killed by a United States-led coalition airstrike in Mosul. ](/news/2016/07/2/according-to-the-pentagon-two-senior-isil-leaders-have-been-killed-by-a-united-states-led-coalition-airstrike-in-mosul.md) _Context: Defense Department_
+10. [In what is the deadliest mass shooting and the worst terror attack since 9/11 to occur in the United States, a mass shooting at a gay nightclub in the U.S. city of Orlando, Florida, kills at least 50 people, including the shooter, and injures 53. ](/news/2016/06/12/in-what-is-the-deadliest-mass-shooting-and-the-worst-terror-attack-since-9-11-to-occur-in-the-united-states-a-mass-shooting-at-a-gay-nightc.md) _Context: September 11 attacks_

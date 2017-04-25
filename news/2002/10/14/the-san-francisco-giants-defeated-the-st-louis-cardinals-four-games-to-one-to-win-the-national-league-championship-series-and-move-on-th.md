@@ -1,0 +1,19 @@
+### [2002-10-14](/news/2002/10/14/index.md)
+
+#  The San Francisco Giants defeated the St. Louis Cardinals, four games to one, to win the National League Championship Series and move on the World Series.  They will play the Anaheim Angels, who defeated the Minnesota Twins four games to one to win the American League Championship Series.
+
+
+
+
+### Related:
+
+1. [ The Anaheim Angels win the 2002 World Series by four games to three, with a 4-1 win over the San Francisco Giants in Game 7.](/news/2002/10/27/the-anaheim-angels-win-the-2002-world-series-by-four-games-to-three-with-a-4a1-win-over-the-san-francisco-giants-in-game-7.md) _Context: Giants', Los Angeles Angels_
+2. [ The Anaheim Angels force a decisive seventh game with the San Francisco Giants in the 2002 World Series with a dramatic late-inning rally from 5-0 to win 6-5.](/news/2002/10/26/the-anaheim-angels-force-a-decisive-seventh-game-with-the-san-francisco-giants-in-the-2002-world-series-with-a-dramatic-late-inning-rally-f.md) _Context: Giants', Los Angeles Angels_
+3. [In Major League Baseball, the San Francisco Giants win the 2014 World Series, defeating the Kansas City Royals by 4 games to 3 for the Giants' third World Series win in five seasons, followed by civil disorder in the streets. Giants pitcher Madison Bumgarner is named as series MVP. ](/news/2014/10/29/in-major-league-baseball-the-san-francisco-giants-win-the-2014-world-series-defeating-the-kansas-city-royals-by-4-games-to-3-for-the-giant.md) _Context: Giants'_
+4. [Albert Pujols of the Los Angeles Angels becomes the 26th player in Major League Baseball history to hit 500 career home runs. ](/news/2014/04/22/albert-pujols-of-the-los-angeles-angels-becomes-the-26th-player-in-major-league-baseball-history-to-hit-500-career-home-runs.md) _Context: Los Angeles Angels_
+5. [2013 World Series: The St. Louis Cardinals defeat the Boston Red Sox 4-2 to tie the World Series at 1-1. ](/news/2013/10/24/2013-world-series-the-st-louis-cardinals-defeat-the-boston-red-sox-4-2-to-tie-the-world-series-at-1-1.md) _Context: St. Louis Cardinals_
+6. [In Major League Baseball, the San Francisco Giants defeat the Detroit Tigers in game four of the 2012 World Series, sweeping the Tigers and winning their second World Series in three years. Pablo Sandoval is named World Series MVP. ](/news/2012/10/28/in-major-league-baseball-the-san-francisco-giants-defeat-the-detroit-tigers-in-game-four-of-the-2012-world-series-sweeping-the-tigers-and.md) _Context: Giants'_
+7. [In baseball, pitcher Matt Cain of the San Francisco Giants throws the first perfect game in the club's history. ](/news/2012/06/13/in-baseball-pitcher-matt-cain-of-the-san-francisco-giants-throws-the-first-perfect-game-in-the-club-s-history.md) _Context: Giants'_
+8. [The St. Louis Cardinals win the 2011 World Series, defeating the Texas Rangers 6-2 in Game 7. ](/news/2011/10/28/the-st-louis-cardinals-win-the-2011-world-series-defeating-the-texas-rangers-6a2-in-game-7.md) _Context: St. Louis Cardinals_
+9. [In baseball, the St. Louis Cardinals and the Tampa Bay Rays qualify for wild card positions in the playoffs for the 2011 Major League Baseball season, while the Philadelphia Phillies complete their season with 102 wins, breaking their franchise record set in 1976 for most wins in a season. ](/news/2011/09/28/in-baseball-the-st-louis-cardinals-and-the-tampa-bay-rays-qualify-for-wild-card-positions-in-the-playoffs-for-the-2011-major-league-baseba.md) _Context: St. Louis Cardinals_
+10. [In baseball, Jim Thome of the Minnesota Twins becomes the eighth player in the history of North American Major League Baseball to hit 600 career home runs. ](/news/2011/08/15/in-baseball-jim-thome-of-the-minnesota-twins-becomes-the-eighth-player-in-the-history-of-north-american-major-league-baseball-to-hit-600-ca.md) _Context: Minnesota Twins_

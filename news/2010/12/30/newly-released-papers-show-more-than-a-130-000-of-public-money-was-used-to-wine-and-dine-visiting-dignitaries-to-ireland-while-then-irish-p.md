@@ -1,0 +1,23 @@
+### [2010-12-30](/news/2010/12/30/index.md)
+
+# Newly released papers show more than EUR130,000 of public money was used to wine and dine visiting dignitaries to Ireland while then Irish Prime Minister Charles Haughey warned on television that the country was "living away beyond our means". 
+
+
+
+
+### Source:
+
+1. [Irish Independent](http://www.independent.ie/national-news/state-papers-1980-lavish-lunches-for-dignitaries-as-nation-lived-beyond-means-2478368.html)
+
+### Related:
+
+1. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _Context: Taoiseach_
+2. [The Irish Dail Eireann (parliament) fails to elect a new taoiseach (Prime Minister) with incumbent Enda Kenny carrying on as a caretaker. ](/news/2016/03/10/the-irish-da-il-aireann-parliament-fails-to-elect-a-new-taoiseach-prime-minister-with-incumbent-enda-kenny-carrying-on-as-a-caretaker.md) _Context: Taoiseach_
+3. [Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail,  as he forms the country's  government. Sinn Fein says it is not interested in forming a coalition government with Kenny's  Fine Gael party. ](/news/2016/03/1/prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-engage-with-other-parties-groups.md) _Context: Taoiseach_
+4. [2014 Garda phone recordings controversy:Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/2014-garda-phone-recordings-controversy-ptaoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and-t.md) _Context: Taoiseach_
+5. [Irish politicians respond to High Court Judge Paul Carney's order that a man who plead guilty in court to repeatedly raping his daughter as a child be granted bail and provisional released. Taoiseach Enda Kenny comments on a nation "filled with revulsion" at the outcome of the case, while opposition politician Gerry Adams refers to abuse his father inflicted on others. ](/news/2013/01/22/irish-politicians-respond-to-high-court-judge-paul-carney-s-order-that-a-man-who-plead-guilty-in-court-to-repeatedly-raping-his-daughter-as.md) _Context: Taoiseach_
+6. [After 15 years, the Mahon Tribunal into political corruption in Ireland concludes with findings against high-profile politicians, including two former Taoisigh. ](/news/2012/03/22/after-15-years-the-mahon-tribunal-into-political-corruption-in-ireland-concludes-with-findings-against-high-profile-politicians-including.md) _Context: Taoiseach_
+7. [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md) _Context: Taoiseach_
+8. [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-britishairish-council-including-talks-with-nick-clegg-the-deputy.md) _Context: Taoiseach_
+9. [Former Taoiseach (Prime Minister) of the Republic of Ireland Garret FitzGerald dies in Dublin aged 85. ](/news/2011/05/19/former-taoiseach-prime-minister-of-the-republic-of-ireland-garret-fitzgerald-dies-in-dublin-aged-85.md) _Context: Taoiseach_
+10. [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md) _Context: Taoiseach_

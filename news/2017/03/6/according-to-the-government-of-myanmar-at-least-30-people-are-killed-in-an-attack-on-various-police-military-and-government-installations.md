@@ -1,0 +1,23 @@
+### [2017-03-6](/news/2017/03/6/index.md)
+
+# According to the government of Myanmar, at least 30 people are killed in an attack on various police, military, and government installations by the Myanmar National Democratic Alliance Army in Laukkai. Four police officers were also taken hostage. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-myanmar-insurgency-idUSKBN16D1VO)
+
+### Related:
+
+1. [Myanmar says it has lost 126 soldiers in clashes with the Myanmar National Democratic Alliance Army in Kokang since early February. ](/news/2015/04/19/myanmar-says-it-has-lost-126-soldiers-in-clashes-with-the-myanmar-national-democratic-alliance-army-in-kokang-since-early-february.md) _Context: Myanmar, Myanmar National Democratic Alliance Army_
+2. [At least 20 people are killed when a boat carrying wedding guests collides with a river barge in western Myanmar. ](/news/2017/04/8/at-least-20-people-are-killed-when-a-boat-carrying-wedding-guests-collides-with-a-river-barge-in-western-myanmar.md) _Context: Myanmar_
+3. [Twenty people have died and more than a dozen missing after a ferry capsizes in Myanmar's Irrawaddy River delta. ](/news/2017/04/7/twenty-people-have-died-and-more-than-a-dozen-missing-after-a-ferry-capsizes-in-myanmar-s-irrawaddy-river-delta.md) _Context: Myanmar_
+4. [The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-military-and-police-forces-against-myanmar-s-rohi.md) _Context: Myanmar_
+5. [Tens of thousands of people, including politicians and activists, gather for the funeral of Ko Ni, Myanmar leader Aung San Suu Kyi's longtime adviser,  who was assassinated yesterday as he walked out of the Yangon International Airport. ](/news/2017/01/30/tens-of-thousands-of-people-including-politicians-and-activists-gather-for-the-funeral-of-ko-ni-myanmar-leader-aung-san-suu-kyi-s-longtim.md) _Context: Myanmar_
+6. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country,  and calls on Myanmar State Counsellor   Aung San Suu Kyi and the United Nations to address the Rohingya's plight  and end the violence.   Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the  Association of Southeast Asian Nations's principle on  sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Myanmar_
+7. [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md) _Context: Myanmar_
+8. [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _Context: Myanmar_
+9. [At least 8 people are killed and more than a dozen others are injured following an attack on Tatmadaw checkpoints, police outposts and the 105th Mile Trade Center by several insurgent groups in Muse, Shan State. The State Counselor's office issues a statement claiming that the Kachin Independence Army, Ta'ang National Liberation Army and Myanmar National Democratic Alliance Army were involved in the attack. ](/news/2016/11/20/at-least-8-people-are-killed-and-more-than-a-dozen-others-are-injured-following-an-attack-on-tatmadaw-checkpoints-police-outposts-and-the-1.md) _Context: Internal conflict in Myanmar_
+10. [Eight people are killed and 36 are arrested in clashes between the Myanmar Army and what are believed to be Rohingya insurgents in Rakhine State. ](/news/2016/11/13/eight-people-are-killed-and-36-are-arrested-in-clashes-between-the-myanmar-army-and-what-are-believed-to-be-rohingya-insurgents-in-rakhine-s.md) _Context: Internal conflict in Myanmar_

@@ -1,0 +1,23 @@
+### [2006-08-31](/news/2006/08/31/index.md)
+
+#  Warren Jeffs waives his extradition hearing, and will be extradited to Washington County, Utah, where he will first face charges as an accomplice to bigamy and rape in arranging polygamous marriages between older men and underage girls.  He also faces similar charges in Arizona, and federal charges in connection with his flight from justice. 
+
+
+
+
+### Source:
+
+1. [CNN](http://cnn.law.printthis.clickability.com/pt/cpt?action=cpt&title=CNN.com+-+Polygamist+sect+leader+agrees+to+face+Utah+charges+-+Aug+31%2C+2006&expire=&urlID=19340769&fb=Y&url=http%3A%2F%2Fwww.cnn.com%2F2006%2FLAW%2F08%2F31%2Fjeffs.arrest.ap%2Findex.html&partnerID=2013)
+
+### Related:
+
+1. [The death toll rises to 16 from this week's flash flood along the  Utah - Arizona border in the United States. ](/news/2015/09/16/the-death-toll-rises-to-16-from-this-week-s-flash-flood-along-the-utah-a-arizona-border-in-the-united-states.md) _Context: Arizona, Utah_
+2. [The 'stars' of the reality show ''Sister Wives'' win a landmark ruling that struck out a portion of a polygamy law in Utah. ](/news/2013/12/16/the-stars-of-the-reality-show-sister-wives-win-a-landmark-ruling-that-struck-out-a-portion-of-a-polygamy-law-in-utah.md) _Context: Utah, polygamy_
+3. [ Warren Jeffs, the leader of the Fundamentalist Church of Jesus Christ of Latter Day Saints, is sentenced to five years to life in jail for complicity in rape. ](/news/2007/11/20/warren-jeffs-the-leader-of-the-fundamentalist-church-of-jesus-christ-of-latter-day-saints-is-sentenced-to-five-years-to-life-in-jail-for.md) _Context: Warren Jeffs, rape_
+4. [ Warren Jeffs, leader of the Fundamentalist Church of Jesus Christ of Latter Day Saints, is found guilty of two counts of rape in the U.S. state of Utah.  ](/news/2007/09/25/warren-jeffs-leader-of-the-fundamentalist-church-of-jesus-christ-of-latter-day-saints-is-found-guilty-of-two-counts-of-rape-in-the-u-s-s.md) _Context: Utah, Warren Jeffs_
+5. [Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. ](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.md) _Context: Utah_
+6. [U.S. President Barack Obama declares the Bears Ears in Utah and Gold Butte area of Nevada as National Monuments. Both are known for the presence of Native American populations and archaeological sites. ](/news/2016/12/29/u-s-president-barack-obama-declares-the-bears-ears-in-utah-and-gold-butte-area-of-nevada-as-national-monuments-both-are-known-for-the-pres.md) _Context: Utah_
+7. [A woman who was allegedly raped by Donald Trump drops her lawsuit against the presidential candidate. ](/news/2016/11/5/a-woman-who-was-allegedly-raped-by-donald-trump-drops-her-lawsuit-against-the-presidential-candidate.md) _Context: rape_
+8. [Four state Democratic Parties sue  the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal"  group founder Roger Stone  for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder.md) _Context: Arizona_
+9. [U.S. officials are investigating the hacking of election system databases in Illinois and Arizona. The FBI alerted all  election officials nationwide about this issue earlier this month. ](/news/2016/08/29/u-s-officials-are-investigating-the-hacking-of-election-system-databases-in-illinois-and-arizona-the-fbi-alerted-all-election-officials-n.md) _Context: Arizona_
+10. [The death of an elderly Utah woman  with a Zika virus infection in late June is the first reported Zika-related death in the continental United States. The woman had traveled to an area where Zika is spreading. The exact cause of death has not been determined; the lady had an underlying medical condition. ](/news/2016/07/8/the-death-of-an-elderly-utah-woman-with-a-zika-virus-infection-in-late-june-is-the-first-reported-zika-related-death-in-the-continental-uni.md) _Context: Utah_

@@ -1,0 +1,23 @@
+### [2013-10-17](/news/2013/10/17/index.md)
+
+# Chad, Chile, Lithuania, Nigeria and Saudi Arabia are elected to the United Nations Security Council for a two-year term, starting on January 1, 2014. 
+
+Saudi Arabia, Chad and Nigeria were elected by the U.N. General Assembly on Thursday to serve a two-year term on the U.N. Security Council as human rights groups called for all three countries to improve their records.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/10/17/us-un-securitycouncil-election-idUSBRE99G0R120131017)
+
+### Related:
+
+1. [Eleven (11) of 15 United Nations Security Council members approve placing North Korea's human rights record on the Council's agenda. Russia and China oppose the decision while Chad and Nigeria abstain. This is the first time this issue has been debated by the Security Council. Procedurally, once a topic makes the agenda, that issue can be brought up again at any time. ](/news/2014/12/22/eleven-11-of-15-united-nations-security-council-members-approve-placing-north-korea-s-human-rights-record-on-the-council-s-agenda-russia.md) _Context: Chad, Nigeria, United Nations Security Council_
+2. [Saudi Arabia announces it will decline to accept a seat on the United Nations Security Council after being elected for it, citing the UN's inability to the stop the Ghouta chemical attack. ](/news/2013/10/18/saudi-arabia-announces-it-will-decline-to-accept-a-seat-on-the-united-nations-security-council-after-being-elected-for-it-citing-the-un-s-i.md) _Context: Saudi Arabia, United Nations Security Council, elected_
+3. [Three suicide bombers at Lake Chad kill at least 30 people and injure at least 80 others. Three women carried out the attack at a weekly market on an island on the Chadian side of the lake. No group claims responsibility; officials suspect the attacks were carried out by members of the Boko Haram militant group from neighboring Nigeria. ](/news/2015/12/5/three-suicide-bombers-at-lake-chad-kill-at-least-30-people-and-injure-at-least-80-others-three-women-carried-out-the-attack-at-a-weekly-mar.md) _Context: Chad, Nigeria_
+4. [The Chadian Air Force carries out airstrikes against bases of Boko Haram in neighbouring Nigeria to avenge twin bombings in Chad's capital N'Djamena three days ago. ](/news/2015/06/18/the-chadian-air-force-carries-out-airstrikes-against-bases-of-boko-haram-in-neighbouring-nigeria-to-avenge-twin-bombings-in-chad-s-capital-n.md) _Context: Chad, Nigeria_
+5. [Russia convenes a UNSC session to discuss Saudi Arabian attacks in Yemen after Royal Saudi Air Force bombed a refugee camp, killing dozens. ](/news/2015/04/4/russia-convenes-a-unsc-session-to-discuss-saudi-arabian-attacks-in-yemen-after-royal-saudi-air-force-bombed-a-refugee-camp-killing-dozens.md) _Context: Saudi Arabia, United Nations Security Council_
+6. [Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria. ](/news/2015/03/8/forces-from-niger-and-chad-launch-a-ground-and-air-offensive-against-boko-haram-islamist-militants-in-northeastern-nigeria.md) _Context: Chad, Nigeria_
+7. [Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon-one-chad-ar.md) _Context: Chad, Nigeria_
+8. [Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attacked-the-village-of-ngoub.md) _Context: Chad, Nigeria_
+9. [Islamist insurgency in Nigeria:Following the January 16 Chad authorities decision to send troops to Nigeria and Cameroon to fight Boko Haram militants, the Russian ambassador to the country pledges to supply Cameroon with more modern weapons to combat the Islamist insurgents. ](/news/2015/01/17/islamist-insurgency-in-nigeria-pfollowing-the-january-16-chad-authorities-decision-to-send-troops-to-nigeria-and-cameroon-to-fight-boko-hara.md) _Context: Chad, Nigeria_
+10. [Islamist insurgency in Nigeria:Chadian troops rescue 85 hostages from Boko Haram who had been kidnapped in Nigeria and taken over the border into Chad. ](/news/2014/08/17/islamist-insurgency-in-nigeria-pchadian-troops-rescue-85-hostages-from-boko-haram-who-had-been-kidnapped-in-nigeria-and-taken-over-the-borde.md) _Context: Chad, Nigeria_

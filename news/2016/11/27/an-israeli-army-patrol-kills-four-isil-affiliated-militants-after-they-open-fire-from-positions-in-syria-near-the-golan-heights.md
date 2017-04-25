@@ -1,0 +1,23 @@
+### [2016-11-27](/news/2016/11/27/index.md)
+
+# An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. 
+
+Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
+
+
+### Source:
+
+1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/israeli-military-kills-militants-syria-ambush-43802571?cid=abcn_tco)
+
+### Related:
+
+1. [The Israeli Army fires Spike missiles on Syrian Army positions in the Golan Heights' Quneitra area in response to several rockets fired from Syria which landed in villages in northern Israel, about 20 km from the border. ](/news/2015/08/20/the-israeli-army-fires-spike-missiles-on-syrian-army-positions-in-the-golan-heights-quneitra-area-in-response-to-several-rockets-fired-from.md) _Context: Golan Heights, Israeli Army, Spillover of the Syrian Civil War_
+2. [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in  al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied.md) _Context: Golan Heights, Syria_
+3. [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md) _Context: Spillover of the Syrian Civil War, Syria_
+4. [The Syrian Observatory for Human Rights reports at least eight people, including four children, are shot and killed, and another eight wounded by Turkish border guards. The group was trying to cross from northwestern Syria into Turkey's Hatay Province. ](/news/2016/06/18/the-syrian-observatory-for-human-rights-reports-at-least-eight-people-including-four-children-are-shot-and-killed-and-another-eight-wound.md) _Context: Spillover of the Syrian Civil War, Syria_
+5. [   Turkish shelling kills 55 Islamic State of Iraq and Syria insurgents in northern Syria in retaliation for rocket attacks on Kilis, a Turkish border town. ](/news/2016/05/8/turkish-shelling-kills-55-islamic-state-of-iraq-and-syria-insurgents-in-northern-syria-in-retaliation-for-rocket-attacks-on-kilis-a-turk.md) _Context: Spillover of the Syrian Civil War, Syria_
+6. [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md) _Context: Spillover of the Syrian Civil War, Syria_
+7. [The Prime Minister of Israel Benjamin Netanyahu vows that the Israeli-occupied Golan Heights, recognized as part of Syria, will forever stay in the country's hands and called on the international community to recognize Israeli sovereignty over the area. ](/news/2016/04/17/the-prime-minister-of-israel-benjamin-netanyahu-vows-that-the-israeli-occupied-golan-heights-recognized-as-part-of-syria-will-forever-stay.md) _Context: Golan Heights, Syria_
+8. [Mortar shells fired from Syria kill at least one person and injure another in the Turkish border town of Kilis. ](/news/2016/03/8/mortar-shells-fired-from-syria-kill-at-least-one-person-and-injure-another-in-the-turkish-border-town-of-kilis.md) _Context: Spillover of the Syrian Civil War, Syria_
+9. [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md) _Context: Spillover of the Syrian Civil War, Syria_
+10. [Turkish forces engage Islamic State in Iraq and the Levant (ISIL) militants along the Syrian border:Turkish troops kill four Islamic State militants in Turkey's southeastern Gaziantep Province when two cars with ISIS passengers advanced on a Turkish armored vehicle near a border post in Oguzeli. ](/news/2015/11/14/turkish-forces-engage-islamic-state-in-iraq-and-the-levant-isil-militants-along-the-syrian-border-pturkish-troops-kill-four-islamic-state.md) _Context: Spillover of the Syrian Civil War, Syria_

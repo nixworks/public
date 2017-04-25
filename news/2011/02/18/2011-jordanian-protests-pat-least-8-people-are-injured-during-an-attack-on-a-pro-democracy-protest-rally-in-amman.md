@@ -1,0 +1,24 @@
+### [2011-02-18](/news/2011/02/18/index.md)
+
+# 2011 Jordanian protests:At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. 
+
+
+
+
+### Source:
+
+1. [Xinhua](http://news.xinhuanet.com/english2010/photo/2011-02/19/c_13739653.htm)
+2. [Press TV](http://www.presstv.ir/detail/165886.html)
+
+### Related:
+
+1. [2011 Jordanian protests:Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/2011-jordanian-protests-ppolice-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-am.md) _Context: 2011 Jordanian protests, Amman_
+2. [Protest in Jordan sees 500 March in Jordan's capital Amman demanding the removal of prime minister Marouf al-Bakhit and other reforms. ](/news/2011/03/24/protest-in-jordan-sees-500-march-in-jordan-s-capital-amman-demanding-the-removal-of-prime-minister-marouf-al-bakhit-and-other-reforms.md) _Context: 2011 Jordanian protests, Amman_
+3. [2011 Jordanian protests: Relatives of jailed Islamists in Jordan demand their release in a demonstration in the capital Amman. ](/news/2011/03/1/2011-jordanian-protests-relatives-of-jailed-islamists-in-jordan-demand-their-release-in-a-demonstration-in-the-capital-amman.md) _Context: 2011 Jordanian protests, Amman_
+4. [A Muslim preacher from a local mosque shoots and kills Jordanian writer and cartoonist Nahed Hattar in front of a courthouse in the capital Amman. Authorities take the gunman into custody.](/news/2016/09/25/a-muslim-preacher-from-a-local-mosque-shoots-and-kills-jordanian-writer-and-cartoonist-nahed-hattar-in-front-of-a-courthouse-in-the-capital.md) _Context: Amman_
+5. [Five people working for Jordanian intelligence are killed in an attack in a Palestinian Baqa'a refugee camp near Amman. ](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.md) _Context: Amman_
+6. [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md) _Context: Amman_
+7. [ A Jordanian policeman shoots dead two American instructors and a South African before being killed at a police training centre in Al-Muwaqqar, on the eastern outskirts of Amman. U.S. contractors are sent to the facility to assist Jordanian police trainers. ](/news/2015/11/9/a-jordanian-policeman-shoots-dead-two-american-instructors-and-a-south-african-before-being-killed-at-a-police-training-centre-in-al-muwaqq.md) _Context: Amman_
+8. [U.S. Secretary of State John Kerry met today in Berlin with Israeli Prime Minister Benjamin Netanyahu regarding the recent spate of violence between Palestinians and Israelis. Kerry will meet on Saturday with Palestinian President Mahmoud Abbas and King Abdullah of Jordan in Amman. ](/news/2015/10/22/u-s-secretary-of-state-john-kerry-met-today-in-berlin-with-israeli-prime-minister-benjamin-netanyahu-regarding-the-recent-spate-of-violence.md) _Context: Amman_
+9. [Pope Francis arrives in Amman, Jordan, for the first day of a three day trip to the Middle East. ](/news/2014/05/24/pope-francis-arrives-in-amman-jordan-for-the-first-day-of-a-three-day-trip-to-the-middle-east.md) _Context: Amman_
+10. [2014 FIFA World Cup qualification:In the AFC Fourth Round, Japan, on the verge of becoming the first team to qualify for the 2014 FIFA World Cup, suffers a shock loss to Jordan, whose own chances of qualifying for their first ever FIFA World Cup are boosted by the result in Amman. ](/news/2013/03/26/2014-fifa-world-cup-qualification-pin-the-afc-fourth-round-japan-on-the-verge-of-becoming-the-first-team-to-qualify-for-the-2014-fifa-worl.md) _Context: Amman_

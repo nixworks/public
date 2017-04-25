@@ -1,0 +1,24 @@
+### [2010-02-3](/news/2010/02/3/index.md)
+
+# Judges at the International Criminal Court rule that Sudan's president Omar al-Bashir could face charges of genocide over the War in Darfur. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/world/2010/feb/03/sudan-president-darfur-genocide-charges)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/03/sudan.bashir.genocide/)
+
+### Related:
+
+1. [The International Criminal Court charges Sudanese President Omar al-Bashir with three counts of genocide for his role in the Darfur conflict. ](/news/2010/07/12/the-international-criminal-court-charges-sudanese-president-omar-al-bashir-with-three-counts-of-genocide-for-his-role-in-the-darfur-conflict.md) _Context: International Criminal Court, Omar al-Bashir, conflict, genocide_
+2. [ Prosecutors at the International Criminal Court challenge a tribunal's decision not to indict Sudanese President Omar al-Bashir on charges of genocide in Darfur. ](/news/2009/07/7/prosecutors-at-the-international-criminal-court-challenge-a-tribunal-s-decision-not-to-indict-sudanese-president-omar-al-bashir-on-charges.md) _Context: International Criminal Court, Omar al-Bashir, Sudan, conflict_
+3. [ The International Criminal Court issues an arrest warrant for Sudanese President Omar al-Bashir for a five-year campaign of violence in Darfur. ](/news/2009/03/4/the-international-criminal-court-issues-an-arrest-warrant-for-sudanese-president-omar-al-bashir-for-a-five-year-campaign-of-violence-in-dar.md) _Context: International Criminal Court, Omar al-Bashir, Sudan, conflict_
+4. [ Luis Moreno-Ocampo, the Prosecutor for the International Criminal Court, accuses Sudanese president Omar al-Bashir of genocide, crimes against humanity and war crimes in Darfur. ](/news/2008/07/14/luis-moreno-ocampo-the-prosecutor-for-the-international-criminal-court-accuses-sudanese-president-omar-al-bashir-of-genocide-crimes-agai.md) _Context: International Criminal Court, Omar al-Bashir, Sudan, genocide_
+5. [South Africa formally begins the process of withdrawing from the International Criminal Court amid a dispute over the country's refusal to arrest Sudanese President Omar al-Bashir at last year's African Union summit in Johannesburg. ](/news/2016/10/21/south-africa-formally-begins-the-process-of-withdrawing-from-the-international-criminal-court-amid-a-dispute-over-the-country-s-refusal-to-a.md) _Context: International Criminal Court, Omar al-Bashir, Sudan_
+6. [Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with-94-4-per-cent-of-the-vote-extend.md) _Context: International Criminal Court, Omar al-Bashir, Sudan_
+7. [Malawi cancels its hosting of the African Union summit after disagreements over the attendance of Sudanese president Omar al-Bashir, who is wanted by the International Criminal Court. ](/news/2012/06/8/malawi-cancels-its-hosting-of-the-african-union-summit-after-disagreements-over-the-attendance-of-sudanese-president-omar-al-bashir-who-is.md) _Context: International Criminal Court, Omar al-Bashir, Sudan_
+8. [Sudanese president Omar al-Bashir, the subject of an International Criminal Court arrest warrant for genocide, war crimes and crimes against humanity in the region of Darfur, unexpectedly delays his visit to China without official explanation, after he had already departed for an anti-terrorism conference hosted by Iran. ](/news/2011/06/27/sudanese-president-omar-al-bashir-the-subject-of-an-international-criminal-court-arrest-warrant-for-genocide-war-crimes-and-crimes-against.md) _Context: International Criminal Court, Omar al-Bashir, genocide_
+9. [The International Criminal Court asks the United Nations Security Council to take action over Djibouti's failure to arrest Sudanese President Omar al-Bashir, who was indicted by the court on charges of war crimes. ](/news/2011/05/12/the-international-criminal-court-asks-the-united-nations-security-council-to-take-action-over-djibouti-s-failure-to-arrest-sudanese-presiden.md) _Context: International Criminal Court, Omar al-Bashir, Sudan_
+10. [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the ''Sudan Tribune'' calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect.md) _Context: International Criminal Court, Omar al-Bashir, conflict_

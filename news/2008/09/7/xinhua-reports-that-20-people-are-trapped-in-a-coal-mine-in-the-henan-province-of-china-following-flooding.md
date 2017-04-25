@@ -1,0 +1,23 @@
+### [2008-09-7](/news/2008/09/7/index.md)
+
+#  Xinhua reports that 20 people are trapped in a coal mine in the Henan province of China following flooding. 
+
+
+
+
+### Source:
+
+1. [AP via ''Charlotte Observer](http://www.charlotteobserver.com/world/story/177892.html)
+
+### Related:
+
+1. [Five more bodies are found after a gas leak in a coal mine in China's Henan province, bringing the death toll to 26. ](/news/2010/10/17/five-more-bodies-are-found-after-a-gas-leak-in-a-coal-mine-in-china-s-henan-province-bringing-the-death-toll-to-26.md) _Context: China's, Henan, coal mine_
+2. [A gas explosion in a Chinese coal mine in Henan province kills at least 20 workers. Another 17 are declared missing. ](/news/2010/10/16/a-gas-explosion-in-a-chinese-coal-mine-in-henan-province-kills-at-least-20-workers-another-17-are-declared-missing.md) _Context: China's, Henan, coal mine_
+3. [Nine people die following an explosion in a coal mine in Binzhou City in China's Hunan Province. ](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coal-mine-in-binzhou-city-in-china-s-hunan-province.md) _Context: China's, coal mine_
+4. [At least 36 people are trapped underground in a coal mine in China's Shandong Province after a fire breaks out. ](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.md) _Context: China's, coal mine_
+5. [3 coal miners are killed and 40 others are trapped in separate incidents in the People's Republic of China. ](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.md) _Context: China's, coal mine_
+6. [At least 21 people die as two coal mines in the People's Republic of China flood. ](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.md) _Context: China's, coal mine_
+7. [26 people are confirmed dead after a gas explosion at a coal mine in Henan Province in central China. ](/news/2010/12/8/26-people-are-confirmed-dead-after-a-gas-explosion-at-a-coal-mine-in-henan-province-in-central-china.md) _Context: China's, coal mine_
+8. [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md) _Context: China's, Xinhua_
+9. [At least 46 people are killed and dozens more trapped after a mine blast in Henan, central China. ](/news/2010/06/21/at-least-46-people-are-killed-and-dozens-more-trapped-after-a-mine-blast-in-henan-central-china.md) _Context: China's, Henan_
+10. [ In a major provincial leadership reshuffle in the People's Republic of China, Lu Zhangong was appointed secretary of the Henan CPC Provincial Committee, replacing Xu Guangchun. Sun Chunlan was appointed secretary of the Fujian CPC Committee. Former Jilin Party chief Wang Min was appointed secretary of the Liaoning CPC Committee, replacing Zhang Wenyue. Former Minister of Agriculture Sun Zhengcai took over as Party chief of Jilin Province. And former governor of Hebei Hu Chunhua was appointed Party chief of Inner Mongolia Autonomous Region, replacing Chu Bo, who retired.](/news/2009/11/30/in-a-major-provincial-leadership-reshuffle-in-the-people-s-republic-of-china-lu-zhangong-was-appointed-secretary-of-the-henan-cpc-provinci.md) _Context: China's, Henan_

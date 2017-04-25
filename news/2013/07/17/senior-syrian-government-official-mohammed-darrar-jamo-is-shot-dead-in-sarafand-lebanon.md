@@ -1,0 +1,10 @@
+### [2013-07-17](/news/2013/07/17/index.md)
+
+# Senior Syrian government official Mohammed Darrar Jamo is shot dead in Sarafand, Lebanon. 
+
+A prominent Syrian political figure, Mohammed Darrar Jamo, is shot dead in the southern Lebanese coastal town of Sarafand.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23341085)

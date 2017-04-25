@@ -1,0 +1,15 @@
+### [2011-07-28](/news/2011/07/28/index.md)
+
+# The Supreme Court of England and Wales grants veterans involved in Britain's nuclear weapons tests during the 1950s leave to appeal in their fight for compensation. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-14320465)
+
+### Related:
+
+1. [Following a landmark hearing at the Supreme Court of England and Wales, 174 women formerly employed by Birmingham City Council are given permission to seek compensation under Equal Pay legislation for missed bonuses. The ruling extends the time window for such claims from six months to six years. ](/news/2012/10/24/following-a-landmark-hearing-at-the-supreme-court-of-england-and-wales-174-women-formerly-employed-by-birmingham-city-council-are-given-per.md) _Context: Supreme Court of England and Wales_
+2. [The Supreme Court of England and Wales dismisses an attempt by police to suspend a legal ruling limiting the powers of police bail. ](/news/2011/07/5/the-supreme-court-of-england-and-wales-dismisses-an-attempt-by-police-to-suspend-a-legal-ruling-limiting-the-powers-of-police-bail.md) _Context: Supreme Court of England and Wales_

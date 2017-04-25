@@ -1,0 +1,23 @@
+### [2010-08-8](/news/2010/08/8/index.md)
+
+# The Anatolian Agency reports that two Turkish Army soldiers were killed in a roadside bomb explosion in Mardin Province near the Turkish border with Syria. 
+
+
+
+
+### Source:
+
+1. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5iIKsv08XlgSxkI0Inl0BLBI8hpYQ)
+
+### Related:
+
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Syria, Turkish_
+2. [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md) _Context: Syria, Turkish_
+3. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Syria, Turkish_
+4. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Syria, Turkish_
+5. [ CHP MP Ozturk Yilmaz says Turkey has expressed its readiness to work with president Assad of Syria. ](/news/2016/12/26/chp-mp-azta1-4rk-ya-lmaz-says-turkey-has-expressed-its-readiness-to-work-with-president-assad-of-syria.md) _Context: Syria, Turkish_
+6. [The Russian ambassador to Turkey Andrei Karlov is killed in a gun attack at an art gallery in Ankara. Russia calls the assassin, 22-year old police officer, Mevlut Mert Altintas, a "terrorist". Turkish Foreign Minister Mevlut Cavusoglu goes to Moscow for a planned trilateral meeting on Syria, saying "the incident will not impact relations between Turkey and Russia". ](/news/2016/12/19/the-russian-ambassador-to-turkey-andrei-karlov-is-killed-in-a-gun-attack-at-an-art-gallery-in-ankara-russia-calls-the-assassin-22-year-old.md) _Context: Syria, Turkish_
+7. [Three Turkish Army soldiers are killed and 10 others wounded in an attack in Syria's al-Bab District; however, there are conflicting reports on who carried out the attack. The Turkish military says the soldiers were targeted in a airstrike by a Syrian warplane, while the Syrian Observatory for Human Rights reports an ISIL suicide bomber was responsible. ](/news/2016/11/24/three-turkish-army-soldiers-are-killed-and-10-others-wounded-in-an-attack-in-syria-s-al-bab-district-however-there-are-conflicting-reports.md) _Context: Syria, Turkish Army_
+8. [A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-al-bab.md) _Context: Syria, Turkish Army_
+9. [Turkey sends more tanks into northern Syria to continue its offensive against Islamic State of Iraq and the Levant and Kurdish People's Protection Units (YPG). ](/news/2016/08/25/turkey-sends-more-tanks-into-northern-syria-to-continue-its-offensive-against-islamic-state-of-iraq-and-the-levant-and-kurdish-people-s-prot.md) _Context: Syria, Turkish_
+10. [Turkish Foreign Minister Mevlut Cavusoglu says Turkey's cooperation with Russia in combating the Islamic State in Syria does not include Russia's use of its Incirlik Air Base, which some have interpreted from his comments yesterday. ](/news/2016/07/4/turkish-foreign-minister-mevla1-4t-aavuaoalu-says-turkey-s-cooperation-with-russia-in-combating-the-islamic-state-in-syria-does-not-include.md) _Context: Syria, Turkish_

@@ -1,0 +1,23 @@
+### [2014-09-19](/news/2014/09/19/index.md)
+
+# Poland's new prime minister, Ewa Kopacz, presents her government; Grzegorz Schetyna becomes new foreign minister, while the outgoing FM Radoslaw Sikorski becomes speaker of the parliament. 
+
+Poland’s Prime Minister-designate Ewa Kopacz has unveiled her new cabinet, days before she is due to take office officially. In comes rival
+
+
+### Source:
+
+1. [Euronews](http://www.euronews.com/2014/09/19/new-polish-pm-ewa-kopacz-unveils-new-cabinet/)
+
+### Related:
+
+1. [Official results show Poland's conservative Law and Justice (PiS) party, led by eurosceptic Jaroslaw Kaczynski and the new PM Beata Szydlo, won more seats than any other party in today's general elections. Kaczynski is the twin brother of the late President Lech Kaczynski, who died in a 2010 jet crash. Prime Minister Ewa Kopacz has conceded defeat. ](/news/2015/10/25/official-results-show-poland-s-conservative-law-and-justice-pis-party-led-by-eurosceptic-jarosaaw-kaczyaski-and-the-new-pm-beata-szyda.md) _Context: Ewa Kopacz, Poland_
+2. [Ewa Kopacz becomes Poland's second female prime minister. ](/news/2014/09/15/ewa-kopacz-becomes-poland-s-second-female-prime-minister.md) _Context: Ewa Kopacz, Poland_
+3. [ In Swiebodzice, Poland, an old tenement house collapses killing at least six people, including two children, and injuring six. The exploration teams are looking for 4 missing people. ](/news/2017/04/8/in-awiebodzice-poland-an-old-tenement-house-collapses-killing-at-least-six-people-including-two-children-and-injuring-six-the-explora.md) _Context: Poland_
+4. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Poland_
+5. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10  in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _Context: Poland_
+6. [3,000 U.S. troops are deployed in Poland as part of NATO's Operation Atlantic Resolve.  Poland says that the deployment is a necessary response to Russian military exercises near its border and its intervention in Ukraine while Russia condemns the move as a "threat to national interests and security". ](/news/2017/01/12/3-000-u-s-troops-are-deployed-in-poland-as-part-of-nato-s-operation-atlantic-resolve-poland-says-that-the-deployment-is-a-necessary-respo.md) _Context: Poland_
+7. [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md) _Context: Poland_
+8. [An earth tremor in Europe's largest copper mine in southwestern Poland causes eight deaths. ](/news/2016/11/29/an-earth-tremor-in-europe-s-largest-copper-mine-in-southwestern-poland-causes-eight-deaths.md) _Context: Poland_
+9. [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md) _Context: Poland_
+10. [2016 Bagram Airfield bombing: An explosion at NATO's Bagram Airfield kills four Americans and injures at least 16 U.S. service members and a Polish soldier. The Taliban claims responsibility. ](/news/2016/11/12/2016-bagram-airfield-bombing-an-explosion-at-nato-s-bagram-airfield-kills-four-americans-and-injures-at-least-16-u-s-service-members-and-a.md) _Context: Poland_

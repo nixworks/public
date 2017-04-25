@@ -1,0 +1,23 @@
+### [2015-06-2](/news/2015/06/2/index.md)
+
+# Two brothers whose father was on Malaysia Airlines Flight 370 last year when it disappeared receive compensation from the government of Malaysia and Malaysian Airlines. 
+
+
+
+
+### Source:
+
+1. [AP via ''Asian Correspondent](http://asiancorrespondent.com/133302/malaysian-brothers-win-flight-mh370-settlement/)
+
+### Related:
+
+1. [Authorities confirm that a wing part found in Mauritius in May is part of the aircraft from Malaysian Airlines Flight 370. ](/news/2016/10/7/authorities-confirm-that-a-wing-part-found-in-mauritius-in-may-is-part-of-the-aircraft-from-malaysian-airlines-flight-370.md) _Context: Malaysia, Malaysia Airlines Flight 370_
+2. [A Malaysian court dismisses  Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore  has no liability to relatives. The court ruled  MAB's liability would be determined in a trial. ](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-37.md) _Context: Malaysia, Malaysia Airlines Flight 370_
+3. [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md) _Context: Malaysia, Malaysia Airlines Flight 370_
+4. [Malaysia Airlines Flight 370:Australia, Malaysia and the People's Republic of China reach an agreement about the costs and direction of the ongoing search for the wreckage of Malaysia Airlines Flight 370 which is believed to have crashed in the Indian Ocean southwest of Western Australia. ](/news/2014/08/28/malaysia-airlines-flight-370-paustralia-malaysia-and-the-people-s-republic-of-china-reach-an-agreement-about-the-costs-and-direction-of-the.md) _Context: Malaysia, Malaysia Airlines Flight 370_
+5. [Malaysia Airlines Flight 370:Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-airlines-flight-370-pmalaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-deter.md) _Context: Malaysia, Malaysia Airlines Flight 370_
+6. [Malaysia Airlines Flight 370:Chinese aircrew report seeing "suspicious objects" in the southern Indian Ocean while searching for the missing Malaysian Airlines plane. ](/news/2014/03/24/malaysia-airlines-flight-370-pchinese-aircrew-report-seeing-suspicious-objects-in-the-southern-indian-ocean-while-searching-for-the-missin.md) _Context: Malaysia Airlines Flight 370, Malaysian Airlines_
+7. [North Korea temporarily bans all Malaysian nationals (estimated to be at least 11 people including embassy employees) from leaving the country amid a growing dispute between the two countries over the death of Kim Jong-nam, the half-brother of Kim Jong-un. Malaysian official Khairy Jamaluddin calls the move "tantamount to taking hostages". ](/news/2017/03/7/north-korea-temporarily-bans-all-malaysian-nationals-estimated-to-be-at-least-11-people-including-embassy-employees-from-leaving-the-count.md) _Context: Malaysia_
+8. [Malaysia expels Kang Chol, North Korea's ambassador, after he criticised the former's investigation into the death of Kim Jong-nam. ](/news/2017/03/4/malaysia-expels-kang-chol-north-korea-s-ambassador-after-he-criticised-the-former-s-investigation-into-the-death-of-kim-jong-nam.md) _Context: Malaysia_
+9. [Malaysia recalls its ambassador from North Korea amid an ongoing dispute over the alleged assassination of Kim Jong-nam by North Korean agents in the country. ](/news/2017/02/20/malaysia-recalls-its-ambassador-from-north-korea-amid-an-ongoing-dispute-over-the-alleged-assassination-of-kim-jong-nam-by-north-korean-agen.md) _Context: Malaysia_
+10. [Kim Jong-nam, eldest son of Kim Jong-il, is assassinated in Malaysia after two unidentified women reportedly poisoned him at Kuala Lumpur International Airport. ](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.md) _Context: Malaysia_

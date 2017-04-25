@@ -1,0 +1,24 @@
+### [2011-05-16](/news/2011/05/16/index.md)
+
+# NASA's Space Shuttle ''Endeavour'' successfully launches from the Kennedy Space Center in the U.S. state of Florida on its final mission. 
+
+NASA launched the space shuttle Endeavour on its last flight, the STS-134 mission to the International Space Station, led by astronaut Mark Kelly. It was the second-to-last space shuttle launch for NASA.
+
+
+### Source:
+
+1. [Space.com](http://www.space.com/11677-nasa-shuttle-launch-endeavour-final-mission-sts-134-liftoff.html)
+2. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/news/nation-world/nasa-clears-space-shuttle-945979.html)
+
+### Related:
+
+1. [NASA reschedules the final mission of the Space Shuttle Endeavour for Monday. ](/news/2011/05/9/nasa-reschedules-the-final-mission-of-the-space-shuttle-endeavour-for-monday.md) _Context: NASA, Space Shuttle ''Endeavour'', final mission_
+2. [NASA astronaut Mark Kelly, the husband of Rep Gabrielle Giffords shot last month, announces that he will resume training to command the Space Shuttle Endeavour's final mission STS-134 in April. ](/news/2011/02/4/nasa-astronaut-mark-kelly-the-husband-of-rep-gabrielle-giffords-shot-last-month-announces-that-he-will-resume-training-to-command-the-spac.md) _Context: NASA, Space Shuttle ''Endeavour'', final mission_
+3. [ Ares I-X, the first test article for NASA's Ares I rocket, launches successfully from Launch Complex 39B at Kennedy Space Center in Florida on a sub-orbital test flight. ](/news/2009/10/28/ares-i-x-the-first-test-article-for-nasa-s-ares-i-rocket-launches-successfully-from-launch-complex-39b-at-kennedy-space-center-in-florida.md) _Context: Florida, Kennedy Space Center, NASA_
+4. [ Space Shuttle ''Endeavour'' lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-sta.md) _Context: Florida, Kennedy Space Center, Space Shuttle ''Endeavour''_
+5. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: Florida, Kennedy Space Center_
+6. [New Frontiers program The United Launch Alliance successfully launches NASA's OSIRIS-REx from Cape Canaveral Air Force Station Space Launch Complex 41 in Florida. The mission is to study asteroid 101955 Bennu and in 2023 to return a sample to Earth for detailed analysis. If successful, OSIRIS-REx will be the first U.S. spacecraft to return samples from an asteroid. ](/news/2016/09/8/new-frontiers-program-pthe-united-launch-alliance-successfully-launches-nasa-s-osiris-rex-from-cape-canaveral-air-force-station-space-launch.md) _Context: Florida, NASA_
+7. [Following the previous explosion of Orbital Sciences' Cygnus CRS Orb-3 on October 28, 2014, an unmanned Atlas V 401 rocket carrying Orbital ATK's Cygnus CRS Orb-4 resupply mission to NASA's International Space Station launches from Cape Canaveral in the U.S. state of Florida. The mission includes 7,380 pounds of cargo. ](/news/2015/12/6/following-the-previous-explosion-of-orbital-sciences-cygnus-crs-orb-3-on-october-28-2014-an-unmanned-atlas-v-401-rocket-carrying-orbital.md) _Context: Florida, NASA_
+8. [SpaceX launches a weather observation satellite, Deep Space Climate Observatory, at 6:03 p.m. EST from Cape Canaveral, Florida (for the US Air Force/NASA/NOAA), but postpones making of a second attempt to land a Falcon 9 v1.1 rocket on a floating platform called the autonomous spaceport drone ship, following the January 10 failure during the SpaceX CRS-5 mission. SpaceX instead, attempts a "mock" soft-landing into the Atlantic ocean ](/news/2015/02/11/spacex-launches-a-weather-observation-satellite-deep-space-climate-observatory-at-6-03-p-m-est-from-cape-canaveral-florida-for-the-us-a.md) _Context: Florida, NASA_
+9. [Parents in Polk County in the U.S. state of Florida protest against their children having their irises scanned by authorities without permission by schools. The EyeSwipe-Nano program is temporarily suspended. ](/news/2013/05/30/parents-in-polk-county-in-the-u-s-state-of-florida-protest-against-their-children-having-their-irises-scanned-by-authorities-without-permis.md) _Context: Florida, state_
+10. [Space Shuttle Endeavour undocks from the International Space Station to return to earth on its final mission. ](/news/2011/05/30/space-shuttle-endeavour-undocks-from-the-international-space-station-to-return-to-earth-on-its-final-mission.md) _Context: Space Shuttle ''Endeavour'', final mission_

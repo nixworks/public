@@ -1,0 +1,23 @@
+### [2014-11-19](/news/2014/11/19/index.md)
+
+# The Scottish Parliament elects Nicola Sturgeon as the first female First Minister of Scotland. 
+
+NICOLA Sturgeon yesterday promised to create greater opportunities for Scotland&amp;#8217;s women when she was elected the country&amp;#8217;s first female First Minister. 
+
+
+### Source:
+
+1. [The Scotsman](http://www.scotsman.com/news/politics/top-stories/nicola-sturgeon-voted-in-as-first-minister-1-3610055)
+
+### Related:
+
+1. [Nicola Sturgeon, the First Minister of Scotland, says that Scottish Parliament has the power to veto the United Kingdom's exit from the European Union. ](/news/2016/06/26/nicola-sturgeon-the-first-minister-of-scotland-says-that-scottish-parliament-has-the-power-to-veto-the-united-kingdom-s-exit-from-the-euro.md) _Context: First Minister, Nicola Sturgeon, Scottish Parliament_
+2. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: First Minister, Nicola Sturgeon_
+3. [Thousands, including some  from Australia, protest in London, England, against the  renewal of the United Kingdom's Trident nuclear deterrent system, the largest anti-nuclear rally since 1983. Leader of the Labour Party Jeremy Corbyn, Scottish National Party leader and First Minister of Scotland Nicola Sturgeon, the Welsh Plaid Cymru Party, and the Green Party participated in the march. A parliamentary vote on renewing Trident is expected this year. ](/news/2016/02/27/thousands-including-some-from-australia-protest-in-london-england-against-the-renewal-of-the-united-kingdom-s-trident-nuclear-deterren.md) _Context: First Minister, Nicola Sturgeon_
+4. [Nicola Sturgeon will succeed Alex Salmond as leader of the Scottish National Party and First Minister of Scotland after she was the only candidate to put their name forward in the party's leadership election. ](/news/2014/10/15/nicola-sturgeon-will-succeed-alex-salmond-as-leader-of-the-scottish-national-party-and-first-minister-of-scotland-after-she-was-the-only-can.md) _Context: First Minister, Nicola Sturgeon_
+5. [Scottish leader Nicola Sturgeon will introduce a bill launching a new referendum to determine the final status of the country. ](/news/2016/10/13/scottish-leader-nicola-sturgeon-will-introduce-a-bill-launching-a-new-referendum-to-determine-the-final-status-of-the-country.md) _Context: Nicola Sturgeon_
+6. [The Smith Commission, established by UK Prime Minister David Cameron to look at enhanced devolution for Scotland following the independence referendum, publishes its report, recommending the Scottish Parliament should be given the power to set income tax rates and bands. ](/news/2014/11/27/the-smith-commission-established-by-uk-prime-minister-david-cameron-to-look-at-enhanced-devolution-for-scotland-following-the-independence.md) _Context: Scottish Parliament_
+7. [Speaking in Edinburgh, former Prime Minister of the United Kingdom Gordon Brown sets out a timetable for transferring more powers from Westminster to the Scottish Parliament in the event of a No vote in the forthcoming independence referendum. ](/news/2014/09/8/speaking-in-edinburgh-former-prime-minister-of-the-united-kingdom-gordon-brown-sets-out-a-timetable-for-transferring-more-powers-from-westm.md) _Context: Scottish Parliament_
+8. [The Scottish Parliament votes overwhelmingly (105-18) in favor of a bill legalizing same-sex marriage in Scotland. ](/news/2014/02/4/the-scottish-parliament-votes-overwhelmingly-105a18-in-favor-of-a-bill-legalizing-same-sex-marriage-in-scotland.md) _Context: Scottish Parliament_
+9. [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md) _Context: First Minister_
+10. [Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. ](/news/2012/10/23/two-msps-a-john-finnie-and-jean-urquhart-a-resign-from-the-scottish-national-party-over-its-stance-on-nato-effectively-reducing-the-par.md) _Context: Scottish Parliament_

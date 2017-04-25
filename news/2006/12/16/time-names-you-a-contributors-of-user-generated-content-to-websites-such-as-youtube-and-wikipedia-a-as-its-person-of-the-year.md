@@ -1,0 +1,19 @@
+### [2006-12-16](/news/2006/12/16/index.md)
+
+#  ''Time'' names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its ''Person of the Year''. [http://www.time.com/time/magazine/article/0,9171,1569514,00.html (Time)], [http://www.msnbc.msn.com/id/16242528/ (MSNBC)]. 
+
+
+
+
+### Related:
+
+1. [ President of Russia Vladimir Putin is ''''Time'' magazine's Person of the Year''. ](/news/2007/12/19/president-of-russia-vladimir-putin-is-time-magazine-s-person-of-the-year.md) _Context: Person of the Year, Time_
+2. [ Turkey bans user generated content web site YouTube after insulting clips of Turkish founder Mustafa Kemal Atatrk are discovered. ](/news/2007/03/7/turkey-bans-user-generated-content-web-site-youtube-after-insulting-clips-of-turkish-founder-mustafa-kemal-ataturk-are-discovered.md) _Context: YouTube, user generated content_
+3. [ Bono, Melinda Gates and Bill Gates are named ''Time'''s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md) _Context: Person of the Year, Time_
+4. [ In the June 6 issue of ''TIME Magazine'', Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technolog.md) _Context: Time, Wikipedia_
+5. [The Trump White House bars ''The New York Times'', CNN, the ''Los Angeles Times'', the ''New York Daily News'', ''The Hill'',  the ''Daily Mail'',  BBC,  Politico, and BuzzFeed from a Friday press "gaggle." Generally conservative, mostly new, outlets were permitted entry, such as  Breitbart News, One America News Network, and ''The Washington Times''. Also allowed in were ABC News, CBS News, NBC News,  ''The Wall Street Journal'', Bloomberg News, and Fox News. ''Time'' magazine and the Associated Press could have attended but chose not to  in protest. The White House Correspondents' Association, which represents the press corps, quickly rebuked the White House's actions. ](/news/2017/02/24/the-trump-white-house-bars-the-new-york-times-cnn-the-los-angeles-times-the-new-york-daily-news-the-hill-the-daily-m.md) _Context: Time_
+6. [Christina Grimmie, a YouTube star and former contestant on ''The Voice'', is shot dead by an "infatuated" fan as she signed autographs following a concert appearance with Before You Exit at The Plaza Live in Orlando, Florida. The shooter, 27-year-old Kevin James Loibl, shot himself dead after being tackled by Grimmie's Brother. Grimmie died in a hospital just before 11 p.m. ](/news/2016/06/10/christina-grimmie-a-youtube-star-and-former-contestant-on-the-voice-is-shot-dead-by-an-infatuated-fan-as-she-signed-autographs-follo.md) _Context: YouTube_
+7. [Pakistan lifts a three-year ban on YouTube after Google launches a local version that allows the government to demand removal of material it considers to be offensive. Similar systems have existed in China for many years. ](/news/2016/01/19/pakistan-lifts-a-three-year-ban-on-youtube-after-google-launches-a-local-version-that-allows-the-government-to-demand-removal-of-material-it.md) _Context: YouTube_
+8. [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md) _Context: Wikipedia_
+9. [Angela Merkel is named as ''Time'''s Person of the Year. ](/news/2015/12/9/angela-merkel-is-named-as-time-s-person-of-the-year.md) _Context: Time_
+10. [Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-for-pay-edits-violating-the-encyclopedia-s-gu.md) _Context: Wikipedia_

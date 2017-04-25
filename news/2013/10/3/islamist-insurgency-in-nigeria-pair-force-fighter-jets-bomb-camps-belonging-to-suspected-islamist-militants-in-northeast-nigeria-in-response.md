@@ -1,0 +1,23 @@
+### [2013-10-3](/news/2013/10/3/index.md)
+
+# Islamist insurgency in Nigeria:Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. 
+
+Fighter jets have bombed camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college, an army spokesman said on Thursday.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/10/03/us-nigeria-violence-idUSBRE9920HZ20131003)
+
+### Related:
+
+1. [Islamist insurgency in Nigeria:Gunmen from the Nigerian Islamist group Boko Haram kill 42 people, mostly students, in an attack on a college in the town of Gujba, Yobe State. ](/news/2013/09/29/islamist-insurgency-in-nigeria-pgunmen-from-the-nigerian-islamist-group-boko-haram-kill-42-people-mostly-students-in-an-attack-on-a-colleg.md) _Context: Islamist insurgency in Nigeria, a massacre of students at an agricultural college_
+2. [A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-least-90-people-and-injur.md) _Context: Nigerian Air Force_
+3. [In a raid on Boko Haram Islamists' northeast heartland, Nigeria's air force kills senior militants and possibly fatally wounds their leader, Abubakar Shekau. ](/news/2016/08/23/in-a-raid-on-boko-haram-islamists-northeast-heartland-nigeriaas-air-force-kills-senior-militants-and-possibly-fatally-wounds-their-leade.md) _Context: Nigerian Air Force_
+4. [Three suicide bombers at Lake Chad kill at least 30 people and injure at least 80 others. Three women carried out the attack at a weekly market on an island on the Chadian side of the lake. No group claims responsibility; officials suspect the attacks were carried out by members of the Boko Haram militant group from neighboring Nigeria. ](/news/2015/12/5/three-suicide-bombers-at-lake-chad-kill-at-least-30-people-and-injure-at-least-80-others-three-women-carried-out-the-attack-at-a-weekly-mar.md) _Context: Islamist insurgency in Nigeria_
+5. [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage,  Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md) _Context: Islamist insurgency in Nigeria_
+6. [Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. ](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.md) _Context: Islamist insurgency in Nigeria_
+7. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _Context: Islamist insurgency in Nigeria_
+8. [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md) _Context: Islamist insurgency in Nigeria_
+9. [A female suicide bomber attacks minutes after the President of Nigeria leaves an election rally in the city of Gombe resulting in at least one death and eighteen people injured. ](/news/2015/02/2/a-female-suicide-bomber-attacks-minutes-after-the-president-of-nigeria-leaves-an-election-rally-in-the-city-of-gombe-resulting-in-at-least-o.md) _Context: Islamist insurgency in Nigeria_
+10. [Boko Haram militants attack a bus in Waza, Cameroon, killing eleven people and injuring six. ](/news/2015/01/2/boko-haram-militants-attack-a-bus-in-waza-cameroon-killing-eleven-people-and-injuring-six.md) _Context: Islamist insurgency in Nigeria_

@@ -1,0 +1,23 @@
+### [2011-11-13](/news/2011/11/13/index.md)
+
+# The President of Italy Giorgio Napolitano nominates Mario Monti to be the new Prime Minister. 
+
+Mario Monti, the economist and former European Union commissioner, was tapped to implement needed reforms as Prime Minister. 
+
+
+### Source:
+
+1. [CNN Money](http://money.cnn.com/2011/11/13/news/international/italy_monti.cnnw/index.htm?section=money_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fmoney_topstories+%28Top+Stories%29)
+
+### Related:
+
+1. [Italian President Giorgio Napolitano dissolves the Parliament after the resignation of the Prime Minister Mario Monti ](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.md) _Context: Giorgio Napolitano, Mario Monti, President of Italy, Prime Minister_
+2. [President of Italy Giorgio Napolitano forms two groups of people, both politicians and entrepreneurs, who will propose ideas to solve the Italian economic and political crisis. The government led by Mario Monti will be in charge until a new government can be formed. ](/news/2013/03/30/president-of-italy-giorgio-napolitano-forms-two-groups-of-people-both-politicians-and-entrepreneurs-who-will-propose-ideas-to-solve-the-it.md) _Context: Giorgio Napolitano, Mario Monti, President of Italy_
+3. [Former Prime Minister and President of Italy Carlo Azeglio Ciampi dies at the age of 95. ](/news/2016/09/16/former-prime-minister-and-president-of-italy-carlo-azeglio-ciampi-dies-at-the-age-of-95.md) _Context: President of Italy, Prime Minister_
+4. [President of Italy Giorgio Napolitano will announce his resignation today. ](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.md) _Context: Giorgio Napolitano, President of Italy_
+5. [President of Italy Giorgio Napolitano announces his impending resignation, citing "old age". ](/news/2014/12/31/president-of-italy-giorgio-napolitano-announces-his-impending-resignation-citing-old-age.md) _Context: Giorgio Napolitano, President of Italy_
+6. [Mayor of Florence, Matteo Renzi, is given a mandate by Italian President Giorgio Napolitano to form a new government as Italy's prime minister-designate. ](/news/2014/02/17/mayor-of-florence-matteo-renzi-is-given-a-mandate-by-italian-president-giorgio-napolitano-to-form-a-new-government-as-italyas-prime-mini.md) _Context: Giorgio Napolitano, Prime Minister_
+7. [Italian President Giorgio Napolitano gives vice-secretary of the Democratic Party Enrico Letta the mandate to form a new government. ](/news/2013/04/24/italian-president-giorgio-napolitano-gives-vice-secretary-of-the-democratic-party-enrico-letta-the-mandate-to-form-a-new-government.md) _Context: Giorgio Napolitano, President of Italy_
+8. [Giorgio Napolitano is re-elected President of Italy with 738 votes in the sixth ballot amid widespread protests by MPs eager to elect Stefano Rodota. ](/news/2013/04/20/giorgio-napolitano-is-re-elected-president-of-italy-with-738-votes-in-the-sixth-ballot-amid-widespread-protests-by-mps-eager-to-elect-stefan.md) _Context: Giorgio Napolitano, President of Italy_
+9. [The Italy Parliament prepares to vote for a new President to succeed Giorgio Napolitano, in order to end a two-month impasse between political parties by forming a coalition government. ](/news/2013/04/17/the-italy-parliament-prepares-to-vote-for-a-new-president-to-succeed-giorgio-napolitano-in-order-to-end-a-two-month-impasse-between-politic.md) _Context: Giorgio Napolitano, President of Italy_
+10. [Politics of Italy:Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/politics-of-italy-pitalian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md) _Context: Mario Monti, Prime Minister_

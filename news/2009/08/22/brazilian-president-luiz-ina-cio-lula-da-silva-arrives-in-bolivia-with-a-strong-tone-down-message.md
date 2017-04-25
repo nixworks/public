@@ -1,0 +1,23 @@
+### [2009-08-22](/news/2009/08/22/index.md)
+
+#  Brazilian President Luiz Inacio Lula da Silva arrives in Bolivia with a "strong tone-down message". 
+
+Brazilian president Lula da Silva considers that differences inside the Union of South American Nations, Unasur are more &ldquo;a matter of form than content&rdquo; because &ldquo;our main objectives are compatible and at the same time convergent&rdquo; according to an interview in Bolivia&rsquo;s leading newspaper La Razon.
+
+
+### Source:
+
+1. [MercoPress](http://en.mercopress.com/2009/08/22/brazilian-president-arrives-in-bolivia-with-strong-tone-down-message)
+
+### Related:
+
+1. [Brazilian prosecutors file corruption charges against former President Luiz Inacio Lula da Silva and his wife, Marisa Leticia Lula da Silva. Federal judge Sergio Moro will preside over his case. ](/news/2016/09/14/brazilian-prosecutors-file-corruption-charges-against-former-president-luiz-ina-cio-lula-da-silva-and-his-wife-marisa-letacia-lula-da-silv.md) _Context: Brazil, Brazilian President, Luiz Inácio Lula da Silva_
+2. [Brazilian Supreme Court Justice Gilmar Mendes rules Luiz Inacio Lula da Silva should be stripped of a ministerial role in President Dilma Rousseff's Cabinet so he can be investigated in connection with the state oil company Petrobras's alleged  kickback scheme. Earlier today, injunctions suspending Lula's appointment  as chief of staff   were overturned at  Attorney General  Jose Eduardo Cardozo's request for a Supreme Court ruling on the motions. ](/news/2016/03/18/brazilian-supreme-court-justice-gilmar-mendes-rules-luiz-ina-cio-lula-da-silva-should-be-stripped-of-a-ministerial-role-in-president-dilma-r.md) _Context: Brazil, Brazilian President, Luiz Inácio Lula da Silva_
+3. [Clashes erupt outside the presidential palace in Brazil's capital Brasilia between anti-Workers' Party protesters and supporters of ex-president Luiz Inacio Lula da Silva, where he was due to be sworn in as President of Brazil Dilma Rousseff's chief of staff. Hundreds of anti-government protesters calling for Rousseff's impeachment and Lula's arrest also blocked the central Paulista Avenue in Sao Paulo, Brazil's largest city and economic hub. ](/news/2016/03/17/clashes-erupt-outside-the-presidential-palace-in-brazil-s-capital-brasalia-between-anti-workers-party-protesters-and-supporters-of-ex-pres.md) _Context: Brazil, Brazilian President, Luiz Inácio Lula da Silva_
+4. [President Luiz Inacio Lula da Silva signs a decree promising Brazil's co-operation with United Nations sanctions against Iran. ](/news/2010/08/11/president-luiz-ina-cio-lula-da-silva-signs-a-decree-promising-brazil-s-co-operation-with-united-nations-sanctions-against-iran.md) _Context: Brazil, Brazilian President, Luiz Inácio Lula da Silva_
+5. [Brazilian President Luiz Inacio Lula da Silva tours Haiti to monitor the destruction caused by the recent earthquake and meets President Rene Preval. ](/news/2010/02/25/brazilian-president-luiz-ina-cio-lula-da-silva-tours-haiti-to-monitor-the-destruction-caused-by-the-recent-earthquake-and-meets-president-re.md) _Context: Brazil, Brazilian President, Luiz Inácio Lula da Silva_
+6. [Brazilian Minister Geddel Vieira Lima resigns following allegations he and President Michel Temer pressured a fellow cabinet minister into approving a real estate project. ](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.md) _Context: Brazil, Brazilian President_
+7. [ Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md) _Context: Brazilian President, Luiz Inácio Lula da Silva_
+8. [Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md) _Context: Brazil, Brazilian President_
+9. [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md) _Context: Brazil, Brazilian President_
+10. [Former President of Brazil Lula da Silva will stand trial on obstruction of justice charges relating to the Petrobras scandal. ](/news/2016/07/29/former-president-of-brazil-lula-da-silva-will-stand-trial-on-obstruction-of-justice-charges-relating-to-the-petrobras-scandal.md) _Context: Brazilian President, Luiz Inácio Lula da Silva_

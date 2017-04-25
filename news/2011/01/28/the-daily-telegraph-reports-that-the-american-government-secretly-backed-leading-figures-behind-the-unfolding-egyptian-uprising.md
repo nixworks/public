@@ -1,0 +1,23 @@
+### [2011-01-28](/news/2011/01/28/index.md)
+
+# ''The Daily Telegraph'' reports that the American government secretly backed leading figures behind the unfolding Egyptian uprising. 
+
+
+
+
+### Source:
+
+1. [The Vancouver Sun](http://www.vancouversun.com/technology/America+secret+backing+behind+Egyptian+uprising/4183120/story.html)
+
+### Related:
+
+1. [U.S. President Barack Obama, in an op-ed in London's ''Daily Telegraph'', urges Britons  to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-o.md) _Context: Daily Telegraph_
+2. [Saudi Arabian ambassador to the United Kingdom Prince Mohammed bin Nawaf bin Abdulaziz, in an op-ed piece in the ''The Daily Telegraph'', warns of "potentially serious repercussions" for the two countries' relationship unless a more respectful discourse developed.  At issue is London's withdrawal from a PS5.9m (US$9.1m) prison deal with Saudi Arabia which has been linked to London's concerns about a death penalty case and a case involving Karl Andree, a 74-year-old Briton who faces 350 lashes. Today, the Saudi Supreme Court confirmed Sheikh Nimr al-Nimr's death sentence. ](/news/2015/10/26/saudi-arabian-ambassador-to-the-united-kingdom-prince-mohammed-bin-nawaf-bin-abdulaziz-in-an-op-ed-piece-in-the-the-daily-telegraph-wa.md) _Context: Daily Telegraph_
+3. [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned ''The Daily Telegraph'' against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a.md) _Context: Daily Telegraph_
+4. [Economy of the United Kingdom:In an interview published by ''The Daily Telegraph'', British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/economy-of-the-united-kingdom-pin-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-gove.md) _Context: Daily Telegraph_
+5. [Protesters storm the State Security Intelligence building in Alexandria, Egypt after police officers had previously fired on the crowd. ](/news/2011/03/4/protesters-storm-the-state-security-intelligence-building-in-alexandria-egypt-after-police-officers-had-previously-fired-on-the-crowd.md) _Context: Protesters_
+6. [''The Daily Telegraph'' claims that German anaesthetist Joachim Boldt has conducted "fraudulent research" into drugs called colloids. ](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.md) _Context: Daily Telegraph_
+7. [2011 Egyptian protests:Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-pnationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _Context: Protesters_
+8. [The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-crowds-the-biggest-yet.md) _Context: Protesters_
+9. [2011 Egyptian protests:People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/2011-egyptian-protests-ppeople-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-mem.md) _Context: Protesters_
+10. [''The Daily Telegraph'' publishes WikiLeaks cables stating that the United States provided Russia with the United Kingdom's serial numbers of every Trident missile, which are manufactured and maintained in the U.S. and supplied to Britain, in return for the Russians signing the ''New START'' treaty. ](/news/2011/02/5/the-daily-telegraph-publishes-wikileaks-cables-stating-that-the-united-states-provided-russia-with-the-united-kingdom-s-serial-numbers-o.md) _Context: Daily Telegraph_

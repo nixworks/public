@@ -1,0 +1,23 @@
+### [2009-07-14](/news/2009/07/14/index.md)
+
+#  The World Health Organization reports that yields for an H1N1 virus vaccine are lower than expected. 
+
+
+
+
+### Source:
+
+1. [ (CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090713/vaccine_090713/20090713?hub=Health|)
+
+### Related:
+
+1. [ The first vaccine for H1N1 swine flu virus strain has been made by Novartis in Marburg, Germany. ](/news/2009/07/2/the-first-vaccine-for-h1n1-swine-flu-virus-strain-has-been-made-by-novartis-in-marburg-germany.md) _Context: H1N1, vaccine_
+2. [ The World Health Organization reports that worldwide polio cases rose by more than one-third in 2004, from 784 in 2003 to 1,185 last year. The increase is attributed to a boycott on vaccines in Kano, Nigeria led by a group of hard-line Islamic clerics who claim that vaccines are part of an American conspiracy. ](/news/2005/01/14/the-world-health-organization-reports-that-worldwide-polio-cases-rose-by-more-than-one-third-in-2004-from-784-in-2003-to-1-185-last-year.md) _Context: World Health Organization, vaccine_
+3. [Doctors at the U.S. Centers for Disease Control are worried that the 2003-2004 influenza season will be the worst in years. Early signs indicate that a particularly virulent strain of the flu virus that is not well-covered by this year's vaccine is hitting hard in some states. Young children and the elderly have been urged to receive the vaccine, doses of which are running low. [http://www.startribune.com/stories/484/4256831.html]](/news/2003/12/9/doctors-at-the-u-s-centers-for-disease-control-are-worried-that-the-2003-2004-influenza-season-will-be-the-worst-in-years-early-signs-indi.md) _Context: vaccine, virus_
+4. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and  several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-natio.md) _Context: World Health Organization_
+5. [The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. ](/news/2016/11/18/the-world-health-organization-declares-an-end-to-its-global-health-crisis-over-the-spread-of-the-zika-virus-as-it-has-been-shown-to-be-a-dan.md) _Context: World Health Organization_
+6. [The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-already-reported-in-singapore-and-tha.md) _Context: World Health Organization_
+7. [The World Health Organization (WHO) states that 92% of the world's population lives in air pollution levels surpassing the organization's limits. ](/news/2016/09/27/the-world-health-organization-who-states-that-92-of-the-world-s-population-lives-in-air-pollution-levels-surpassing-the-organization-s-li.md) _Context: World Health Organization_
+8. [Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman-and-says-it-will-report-the-ca.md) _Context: World Health Organization_
+9. [The World Health Organization advises women in areas where the Zika virus is prevalent to delay pregnancies. ](/news/2016/06/9/the-world-health-organization-advises-women-in-areas-where-the-zika-virus-is-prevalent-to-delay-pregnancies.md) _Context: World Health Organization_
+10. [More than 150 prominent scientists worldwide send a letter to World Health Organization Director-General Margaret Chan calling for the postponement or relocation of the Rio de Janeiro 2016 Summer Olympics because of the widening Zika virus outbreak in Brazil, despite U.S. Centers for Disease Control and Prevention Director Tom Frieden's statement yesterday that "there is no public health reason to cancel or delay the Olympics." ](/news/2016/05/27/more-than-150-prominent-scientists-worldwide-send-a-letter-to-world-health-organization-director-general-margaret-chan-calling-for-the-postp.md) _Context: World Health Organization_

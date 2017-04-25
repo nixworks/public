@@ -1,0 +1,24 @@
+### [2007-03-11](/news/2007/03/11/index.md)
+
+#  Leading opponents of Zimbabwe's President Robert Mugabe, including Morgan Tsvangirai, leader of the Movement for Democratic Change, and four other members of parliament and party activists, are arrested for defying a ban on protest rallies in Harare. Riot police shoot one activist dead. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6439013.stm)
+2. [AFP via News Limited](http://www.news.com.au/story/0,10117,21365239-401,00.html)
+
+### Related:
+
+1. [Zimbabwe's Movement for Democratic Change files papers with the Constitutional Court in Harare arguing that the recent elections be annulled because of widespread allegations of illegalities and intimidation of voters by Robert Mugabe's ZANU-PF party. ](/news/2013/08/9/zimbabwe-s-movement-for-democratic-change-files-papers-with-the-constitutional-court-in-harare-arguing-that-the-recent-elections-be-annulled.md) _Context: Harare, Movement for Democratic Change, Robert Mugabe, Zimbabwe_
+2. [ Movement for Democratic Change President Morgan Tsvangirai agrees to become Zimbabwe's Prime Minister on February 11 in a deal with President Robert Mugabe. ](/news/2009/01/31/movement-for-democratic-change-president-morgan-tsvangirai-agrees-to-become-zimbabwe-s-prime-minister-on-february-11-in-a-deal-with-preside.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, Zimbabwe_
+3. [ Morgan Tsvangirai of Zimbabwe's Movement for Democratic Change states that power-sharing talks with President Robert Mugabe have failed to reach an agreement. ](/news/2008/10/17/morgan-tsvangirai-of-zimbabwe-s-movement-for-democratic-change-states-that-power-sharing-talks-with-president-robert-mugabe-have-failed-to.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, Zimbabwe_
+4. [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean '''parliamentary''' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, Zimbabwe_
+5. [ In Zimbabwe, state prosecutors dropped treason charges against opposition leader Morgan Tsvangirai. Mr Tsvangirai, leader of the Movement for Democratic Change, was accused of organising mass protests in 2003 to overthrow Robert Mugabe's controversial regime. ](/news/2005/08/2/in-zimbabwe-state-prosecutors-dropped-treason-charges-against-opposition-leader-morgan-tsvangirai-mr-tsvangirai-leader-of-the-movement-f.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, Zimbabwe_
+6. [Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. ](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-harare-zimbabwe-against-president-robert-mugabe-and-the-deteriorating-economy-the-rally-was-b.md) _Context: Harare, Robert Mugabe, Zimbabwe_
+7. [Zimbabwe's top court rules that the general election should be held on July 31 despite an appeal by President Robert Mugabe and his main rival Prime Minister Morgan Tsvangirai. ](/news/2013/07/5/zimbabwe-s-top-court-rules-that-the-general-election-should-be-held-on-july-31-despite-an-appeal-by-president-robert-mugabe-and-his-main-riv.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+8. [The incumbent President of Zimbabwe, Robert Mugabe, determines that elections will be scheduled for 31 July 2013, however Mugabe's leading presidential contestant and primary political rival Morgan Tsvangirai rejects this as being "a unilateral and flagrant breach of the constitution". ](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+9. [Zimbabwean Prime Minister Morgan Tsvangirai charges his President Robert Mugabe with violating the constitution and unilateral decision-making. Mugabe and his party fail to respond in public. ](/news/2010/10/7/zimbabwean-prime-minister-morgan-tsvangirai-charges-his-president-robert-mugabe-with-violating-the-constitution-and-unilateral-decision-maki.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+10. [Supporters of Zimbabwean President Robert Mugabe stone delegates meeting in the capital Harare to create a new constitution, injuring five people. ](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.md) _Context: Harare, Robert Mugabe, Zimbabwe_

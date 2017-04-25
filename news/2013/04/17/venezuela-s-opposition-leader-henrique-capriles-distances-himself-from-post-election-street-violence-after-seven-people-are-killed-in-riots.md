@@ -1,0 +1,23 @@
+### [2013-04-17](/news/2013/04/17/index.md)
+
+# Venezuela's opposition leader Henrique Capriles distances himself from post-election street violence after seven people are killed in riots over the results of the presidential election. Capriles had previously planned to march on the National Electoral Council to demand a recount. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/04/17/us-venezuela-election-idUSBRE93F0RU20130417)
+
+### Related:
+
+1. [Nicolas Maduro wins a narrow victory in Venezuela's presidential election over Henrique Capriles. Maduro is due to be sworn in as President of Venezuela on 19 April and is set to serve until January 2019, to complete the term of recently deceased President Hugo Chavez. Capriles refuses to acknowledge defeat and calls for a recount. ](/news/2013/04/15/nicola-s-maduro-wins-a-narrow-victory-in-venezuela-s-presidential-election-over-henrique-capriles-maduro-is-due-to-be-sworn-in-as-president.md) _Context: Venezuela, last month's presidential election, recount_
+2. [Nicolas Maduro, acting President of Venezuela, officially begins his campaign to succeed Hugo Chavez in the late leader's hometown ahead of the April 14 election. ](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.md) _Context: Venezuela, last month's presidential election_
+3. [Nicols Maduro is sworn in as the President of Venezuela despite a review of the results of the Venezuelan presidential election. ](/news/2013/04/19/nicolas-maduro-is-sworn-in-as-the-president-of-venezuela-despite-a-review-of-the-results-of-the-venezuelan-presidential-election.md) _Context: Venezuela, last month's presidential election_
+4. [Voters in Venezuela go to the polls for a snap presidential election, which was called after the death of President Hugo Chavez on March 5. ](/news/2013/04/14/voters-in-venezuela-go-to-the-polls-for-a-snap-presidential-election-which-was-called-after-the-death-of-president-hugo-cha-vez-on-march-5.md) _Context: Venezuela, last month's presidential election_
+5. [Venezuela cuts off an informal channel of communication with the United States because of comments by a US State Department official about next month's presidential election. ](/news/2013/03/20/venezuela-cuts-off-an-informal-channel-of-communication-with-the-united-states-because-of-comments-by-a-us-state-department-official-about-n.md) _Context: Venezuela, last month's presidential election_
+6. [Interim President of Venezuela Nicolas Maduro files papers to stand in the presidential election on April 14 with Henrique Capriles Radonski standing as an opposition candidate. ](/news/2013/03/11/interim-president-of-venezuela-nicola-s-maduro-files-papers-to-stand-in-the-presidential-election-on-april-14-with-henrique-capriles-radonsk.md) _Context: Venezuela, last month's presidential election_
+7. [The Venezuelan opposition Mesa de la Unidad Democratica holds a primary election, selecting Henrique Capriles as its candidate for the presidential election in early October. ](/news/2012/02/12/the-venezuelan-opposition-mesa-de-la-unidad-democra-tica-holds-a-primary-election-selecting-henrique-capriles-as-its-candidate-for-the-pres.md) _Context: Henrique Capriles, Venezuela_
+8. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Venezuela_
+9. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Venezuela_
+10. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: Venezuela_

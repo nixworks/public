@@ -1,0 +1,25 @@
+### [2016-10-8](/news/2016/10/8/index.md)
+
+# Saudi-led coalition jets launch airstrikes on civilians at the funeral of the father of the Houthi government's Interior Minister in Sana'a, killing at least 140 people, and injuring over 500 more. One of the dead is the mayor of Sana'a, Abdul-Qader Hilal. 
+
+ An air strike has killed at least 140 people and wounded more than 500 after it hit a funeral hall packed with mourners in Sanaa, Yemen&#039;s capital. The death toll is one of the largest in any single incident since a Saudi-led alliance began military operations to try to restore President Abed Rabbo Mansour Hadi to power following his ousting by Houthis rebels in March 2015. The acting health minister in the Houthi-run administration, Ghazi Ismail blamed &quot;Saudi aggression&quot; for the strike. 
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37598413)
+2. [The Independent](http://www.independent.co.uk/news/world/middle-east/saudi-coalition-air-strike-yemen-funeral-a7352021.html)
+3. [Reuters](http://www.reuters.com/article/us-yemen-security-airstrike-idUSKCN1280OR)
+
+### Related:
+
+1. [Saudi Arabia accepts the finding of the Joint Incidents Assessment Team, a setup of coalition states to investigate complaints against coalitions conduct in Decisive Storm, that the October 8 coalition's bombardment at a funeral ceremony in Sana'a, in which over 140 people were killed and more than 600 injured, was based on wrong information. ](/news/2016/10/15/saudi-arabia-accepts-the-finding-of-the-joint-incidents-assessment-team-a-setup-of-coalition-states-to-investigate-complaints-against-coali.md) _Context: Sana'a, Saudi-led coalition, airstrikes_
+2. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Sana'a, Saudi-led coalition_
+3. [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sana'a, Saudi-led coalition_
+4. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Sana'a, Saudi-led coalition_
+5. [At least 30 people are killed in an airstrike on a market near the Yemeni capital Sana'a. ](/news/2016/02/27/at-least-30-people-are-killed-in-an-airstrike-on-a-market-near-the-yemeni-capital-sana-a.md) _Context: Sana'a, Saudi-led coalition_
+6. [Iran says last night, Saudi warplanes bombed its embassy in the Yemeni capital, Sana'a, wounding several of its guards. The Associated Press reports there is no visible damage to the building. A Saudi-alliance spokesman promises to investigate the accusations. ](/news/2016/01/7/iran-says-last-night-saudi-warplanes-bombed-its-embassy-in-the-yemeni-capital-sana-a-wounding-several-of-its-guards-the-associated-press.md) _Context: Sana'a, Saudi-led coalition_
+7. [A Saudi-led coalition airstrike kills a senior Yemeni judge and seven members of his family in Sana'a. The judge had previously presided over treason cases against ousted President Abd Rabbuh Mansur Hadi. ](/news/2016/01/25/a-saudi-led-coalition-airstrike-kills-a-senior-yemeni-judge-and-seven-members-of-his-family-in-sana-a-the-judge-had-previously-presided-ove.md) _Context: Sana'a, Saudi-led coalition_
+8. [A Saudi-led coalition airstrike on a police building in Yemen's capital, Sana'a, kills at least 26 people and injures 15 others. ](/news/2016/01/18/a-saudi-led-coalition-airstrike-on-a-police-building-in-yemen-s-capital-sana-a-kills-at-least-26-people-and-injures-15-others.md) _Context: Sana'a, Saudi-led coalition_
+9. [Yemen's Sana'a-controlled forces fire a Scud missile at Saudi Arabia in retaliation to Saudi "war crimes". A spokesman for Yemen's military allied with Houthi militants said the missile hit a Saudi airbase and caused "widespread destruction". There was no immediate comment from the Saudi side. ](/news/2015/10/15/yemen-s-sana-a-controlled-forces-fire-a-scud-missile-at-saudi-arabia-in-retaliation-to-saudi-war-crimes-a-spokesman-for-yemen-s-military.md) _Context: Sana'a, Saudi-led coalition_
+10. [A Saudi-led military coalition bombardment in the Yemeni capital, Sana'a, kills at least 50 people. ](/news/2015/09/21/a-saudi-led-military-coalition-bombardment-in-the-yemeni-capital-sana-a-kills-at-least-50-people.md) _Context: Sana'a, Saudi-led coalition_

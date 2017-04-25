@@ -1,0 +1,24 @@
+### [2010-07-24](/news/2010/07/24/index.md)
+
+# Rallies occur in Berlin, London, New York City, Paris, Ottawa and elsewhere, calling for the release of Sakineh Mohammadi Ashtiani, a woman facing execution for adultery in Iran. 
+
+Protesters around the world rally in support of jailed woman facing execution for adultery.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10748228)
+2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201072417330239647.html)
+
+### Related:
+
+1. [ The Colombian diaspora celebrates Colombia's Independence Day with concerts and marches against violence, kidnapping and the FARC in Bogot, Leticia, the country's other 1,119 cities and municipalities, and events in cities around the world including  Paris (attended by Ingrid Betancourt), London, Washington, D.C., New York City and Miami. ](/news/2008/07/20/the-colombian-diaspora-celebrates-colombia-s-independence-day-with-concerts-and-marches-against-violence-kidnapping-and-the-farc-in-bogota.md) _Context: London, New York's, Paris_
+2. [ New York State Assembly Speaker Sheldon Silver's veto of the plan to build the West Side Stadium, the key component to the New York bid, all but ends New York City's chances of receiving the 2012 Olympics, leaving the field to a face-off between Paris and London. ](/news/2005/06/7/new-york-state-assembly-speaker-sheldon-silver-s-veto-of-the-plan-to-build-the-west-side-stadium-the-key-component-to-the-new-york-bid-al.md) _Context: London, New York's, Paris_
+3. [Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. ](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.md) _Context: New York's, Paris_
+4. [Eurostar services between Paris and London are delayed by hundreds of migrants trying to board the trains at Calais. ](/news/2015/09/1/eurostar-services-between-paris-and-london-are-delayed-by-hundreds-of-migrants-trying-to-board-the-trains-at-calais.md) _Context: London, Paris_
+5. [Trial begins in London over a claim by investment bank JPMorgan that the public transit provider of the city of Berlin owes it more than $204 million. ](/news/2014/01/20/trial-begins-in-london-over-a-claim-by-investment-bank-jpmorgan-that-the-public-transit-provider-of-the-city-of-berlin-owes-it-more-than-20.md) _Context: Berlin, London_
+6. [German-Iranian relations:Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/germanairanian-relations-pfollowing-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-espi.md) _Context: Iran, Sakineh Mohammadi Ashtiani_
+7. [Demonstrators gather outside the Iranian Embassy in London to protest against an attack on Iranian exiles in Iraq, an attack reportedly ordered by Iraqi Prime Minister Nouri al-Maliki. ](/news/2011/01/9/demonstrators-gather-outside-the-iranian-embassy-in-london-to-protest-against-an-attack-on-iranian-exiles-in-iraq-an-attack-reportedly-orde.md) _Context: Iran, London_
+8. [One hundred German political and business leaders publish an appeal to Iran to free two German reporters imprisoned in Iran since October after being arrested while interviewing the son of Sakineh Mohammadi Ashtiani who has been sentenced to death for murder, manslaughter, and adultery. ](/news/2011/01/2/one-hundred-german-political-and-business-leaders-publish-an-appeal-to-iran-to-free-two-german-reporters-imprisoned-in-iran-since-october-af.md) _Context: Iran, Sakineh Mohammadi Ashtiani_
+9. [After an official protest by German Foreign Minister, Guido Westerwelle, Iran allows access to two journalists arrested in mid-October for interviewing family members of Sakineh Mohammadi Ashtiani, sentenced to death by stoning for alleged adultery. ](/news/2010/12/31/after-an-official-protest-by-german-foreign-minister-guido-westerwelle-iran-allows-access-to-two-journalists-arrested-in-mid-october-for-i.md) _Context: Iran, Sakineh Mohammadi Ashtiani_
+10. [In the first public sign that the sentence of death by stoning passed on Sakineh Mohammadi Ashtiani is causing divisions within the regime, Alef, a conservative newspaper in Iran, challenges the handling of the case. ](/news/2010/11/9/in-the-first-public-sign-that-the-sentence-of-death-by-stoning-passed-on-sakineh-mohammadi-ashtiani-is-causing-divisions-within-the-regime.md) _Context: Iran, Sakineh Mohammadi Ashtiani_

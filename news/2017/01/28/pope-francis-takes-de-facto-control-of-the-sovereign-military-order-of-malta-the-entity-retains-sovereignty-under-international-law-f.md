@@ -1,0 +1,23 @@
+### [2017-01-28](/news/2017/01/28/index.md)
+
+# Pope Francis takes ''de facto'' control of the Sovereign Military Order of Malta (the entity retains sovereignty under international law), forcing its leader Prince and Grand Master Matthew Festing to resign. 
+
+
+
+
+### Source:
+
+1. [The New York Times](https://www.nytimes.com/2017/01/28/world/europe/ten-centuries-later-a-pope-and-knights-do-battle.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news&_r=0)
+
+### Related:
+
+1. [The Vatican City State announces that Pope Francis will name a Pontifical Delegate to head the Sovereign Military Order of Malta after Prince and Grand Master Matthew Festing's unexpected forced resignation in a spat over condoms. ](/news/2017/01/25/the-vatican-city-state-announces-that-pope-francis-will-name-a-pontifical-delegate-to-head-the-sovereign-military-order-of-malta-after-princ.md) _Context: Grand Master, Matthew Festing, Pope Francis, Prince, Sovereign Military Order of Malta_
+2. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Pope Francis_
+3. [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on  a constitutional  amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago.  ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md) _Context: Pope Francis_
+4. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Pope Francis_
+5. [At the Indigenous Peoples Forum in Rome, Italy, Pope Francis says that developmental needs have to be reconciled with the protection of the particular characteristics of indigenous peoples and their territories. This is taken by some as a reference to the Standing Rock Sioux and other groups opposing the Dakota Access Pipeline. ](/news/2017/02/15/at-the-indigenous-peoples-forum-in-rome-italy-pope-francis-says-that-developmental-needs-have-to-be-reconciled-with-the-protection-of-the.md) _Context: Pope Francis_
+6. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country,  and calls on Myanmar State Counsellor   Aung San Suu Kyi and the United Nations to address the Rohingya's plight  and end the violence.   Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the  Association of Southeast Asian Nations's principle on  sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: sovereignty_
+7. [Pope Francis pleads for peace in a Christmas Mass in the Vatican. ](/news/2016/12/25/pope-francis-pleads-for-peace-in-a-christmas-mass-in-the-vatican.md) _Context: Pope Francis_
+8. [In an apparent rebuke against United States Republican Party presidential candidate Donald Trump, Pope Francis speaks a sermon in Spanish warning against "fear" and the "walls" that divide. ](/news/2016/11/6/in-an-apparent-rebuke-against-united-states-republican-party-presidential-candidate-donald-trump-pope-francis-speaks-a-sermon-in-spanish-wa.md) _Context: Pope Francis_
+9. [Pope Francis announces the upcoming creation of 17 new Cardinals; 13 of them will be under the age of 80 and thus able to vote in a future papal conclave to select the new Pope. ](/news/2016/10/9/pope-francis-announces-the-upcoming-creation-of-17-new-cardinals-13-of-them-will-be-under-the-age-of-80-and-thus-able-to-vote-in-a-future-p.md) _Context: Pope Francis_
+10. [Pope Francis declares seven new saints. ](/news/2016/10/16/pope-francis-declares-seven-new-saints.md) _Context: Pope Francis_

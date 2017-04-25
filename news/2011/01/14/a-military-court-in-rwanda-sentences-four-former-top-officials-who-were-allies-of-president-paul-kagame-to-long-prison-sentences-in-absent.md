@@ -1,0 +1,23 @@
+### [2011-01-14](/news/2011/01/14/index.md)
+
+# A military court in Rwanda sentences four former top officials who were allies of President Paul Kagame to long prison sentences ''in absentia''. 
+
+A military court in Rwanda sentences four former top officials, now in exile, to long prison terms for threatening state security.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12190699)
+
+### Related:
+
+1. [Rwanda's incumbent President Paul Kagame wins the country's presidential election with 95% of the vote. ](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.md) _Context: Paul Kagame, President, Rwanda_
+2. [Rwandan authorities arrest two people in connection with the killing of a journalist critical of Rwandan President Paul Kagame, and deny complicity in the murder. ](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.md) _Context: Paul Kagame, President, Rwanda_
+3. [Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kagame-to-run-for-more-terms-in-office-the.md) _Context: Paul Kagame, Rwanda_
+4. [Voters in Rwanda go to the polls for a parliamentary election with the Rwandan Patriotic Front of President Paul Kagame achieving a landslide victory. ](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.md) _Context: Paul Kagame, Rwanda_
+5. [Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. ](/news/2012/09/9/nestor-louis-michel-calls-rwandan-president-paul-kagame-a-great-leader-groot-leider-kagame-has-been-accused-of-war-crimes-during-rwan.md) _Context: Paul Kagame, Rwanda_
+6. [2 French judges and 17 other legal experts land in Rwanda ahead of a week-long inquiry into the killing of President Juvnal Habyarimana, whose plane with French crew on board was shot down in 1994. ](/news/2010/09/12/2-french-judges-and-17-other-legal-experts-land-in-rwanda-ahead-of-a-week-long-inquiry-into-the-killing-of-president-juvenal-habyarimana-wh.md) _Context: President, Rwanda_
+7. [Rwanda president Paul Kagame's rival Victoire Ingabire Umuhoza is released one day after her arrest on charges of terrorism and genocide denial but banned from leaving Kigali and ordered to report to authorities twice a month. ](/news/2010/04/22/rwanda-president-paul-kagame-s-rival-victoire-ingabire-umuhoza-is-released-one-day-after-her-arrest-on-charges-of-terrorism-and-genocide-den.md) _Context: Paul Kagame, Rwanda_
+8. [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md) _Context: Paul Kagame, Rwanda_
+9. [ Andrew Wallis of ''The Times'' accuses the French government of aiding and abetting genocidaires in the Rwandan Genocide in 1994. Current Rwandan President Paul Kagame has also expressed his belief that the French and Belgian governments were complicit. ](/news/2006/12/22/andrew-wallis-of-the-times-accuses-the-french-government-of-aiding-and-abetting-genocidaires-in-the-rwandan-genocide-in-1994-current-r.md) _Context: Paul Kagame, President_
+10. [ Rwanda breaks off diplomatic relations with France after a French judge, Jean-Louis Bruguire, issues warrants for the arrest of President of Rwanda Paul Kagame and nine associates for their alleged involvement in the shooting down of a plane carrying former President Juvenal Habyarimana. The incident sparked the Rwandan Genocide in 1994. ](/news/2006/11/24/rwanda-breaks-off-diplomatic-relations-with-france-after-a-french-judge-jean-louis-bruguiere-issues-warrants-for-the-arrest-of-president.md) _Context: Paul Kagame, Rwanda_

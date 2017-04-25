@@ -1,0 +1,26 @@
+### [2010-05-23](/news/2010/05/23/index.md)
+
+# A train traveling from Shanghai to Guilin derails in a mountainous area near Fuzhou, Jiangxi, China, and is destroyed, killing at least 19 and injuring 71 others. 
+
+A train hits landslide debris and derails in a mountainous area of south-east China, with at least 19 deaths.
+
+
+### Source:
+
+1. [Reuters](http://uk.reuters.com/article/idUKTRE64M05Q20100523?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/201052345333149480.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-05/23/c_13310970.htm)
+4. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10143258.stm)
+
+### Related:
+
+1. [A series of bombings take place against two government buildings in the city of Fuzhou, Jiangxi, China; at least two people are killed. ](/news/2011/05/26/a-series-of-bombings-take-place-against-two-government-buildings-in-the-city-of-fuzhou-jiangxi-china-at-least-two-people-are-killed.md) _Context: Fuzhou, Jiangxi_
+2. [At least 74 people are dead and many others injured and trapped after a construction platform at a power plant in the Chinese city of Fengcheng in Jiangxi province collapses. ](/news/2016/11/24/at-least-74-people-are-dead-and-many-others-injured-and-trapped-after-a-construction-platform-at-a-power-plant-in-the-chinese-city-of-fengch.md) _Context: Jiangxi_
+3. [Air Canada Flight 88, a scheduled flight from Shanghai to Toronto, diverts to Calgary International Airport after the aircraft, a Boeing 777, encountered violent turbulence. Twenty-one passengers, including three children, were taken to hospital. ](/news/2015/12/31/air-canada-flight-88-a-scheduled-flight-from-shanghai-to-toronto-diverts-to-calgary-international-airport-after-the-aircraft-a-boeing-777.md) _Context: Shanghai_
+4. [The USS Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent USS Lassen cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-uss-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-uss-lassen-cru.md) _Context: Shanghai_
+5. [China is dealing with two typhoons in a week. Typhoon Linfa  lost power after making landfall in southern China's Guangdong province Thursday.  Typhoon Chan-hom (Falcon)  is headed for landfall in eastern China near Shanghai this weekend. ](/news/2015/07/10/china-is-dealing-with-two-typhoons-in-a-week-typhoon-linfa-lost-power-after-making-landfall-in-southern-china-s-guangdong-province-thursda.md) _Context: Shanghai_
+6. [A huge boulder falls upon tourists awaiting to board a ship at the scenic Diecai Hill of China's Guilin region killing seven of them. ](/news/2015/03/19/a-huge-boulder-falls-upon-tourists-awaiting-to-board-a-ship-at-the-scenic-diecai-hill-of-china-s-guilin-region-killing-seven-of-them.md) _Context: Guilin_
+7. [A New Year's Eve celebration stampede in Shanghai kills at least 36 people and injures 49 others. ](/news/2014/12/31/a-new-year-s-eve-celebration-stampede-in-shanghai-kills-at-least-36-people-and-injures-49-others.md) _Context: Shanghai_
+8. [At least 68 people were killed and more than 180 injured in an early morning explosion at a factory near Shanghai that makes automobile parts for General Motors. The factory produces aluminum alloy tire rims. ](/news/2014/08/2/at-least-68-people-were-killed-and-more-than-180-injured-in-an-early-morning-explosion-at-a-factory-near-shanghai-that-makes-automobile-part.md) _Context: Shanghai_
+9. [Pollution in China:A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/pollution-in-china-pa-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying.md) _Context: Shanghai_
+10. [At least 15 people die after liquid ammonia leaks from a refrigeration unit at a cold storage plant in Shanghai. ](/news/2013/08/31/at-least-15-people-die-after-liquid-ammonia-leaks-from-a-refrigeration-unit-at-a-cold-storage-plant-in-shanghai.md) _Context: Shanghai_

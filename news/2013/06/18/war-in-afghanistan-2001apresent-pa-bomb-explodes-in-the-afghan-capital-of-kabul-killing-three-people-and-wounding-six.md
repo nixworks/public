@@ -1,0 +1,24 @@
+### [2013-06-18](/news/2013/06/18/index.md)
+
+# War in Afghanistan (2001-present):A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. 
+
+A bomb explodes in western Kabul on the day Nato formally handed over command of security responsibilities to Afghan forces.
+
+
+### Source:
+
+1. [AP via News 9](http://www.news9.com/story/22626514/ap-sources-4-us-troops-killed-in-afghanistan)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-22947483)
+
+### Related:
+
+1. [War in Afghanistan:A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-pa-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+2. [War in Afghanistan (2001-present):A suicide bomber attacks a foreign military convoy on the eastern outskirts of the Afghan capital, Kabul, killing at least three foreign soldiers, police and the NATO-led International Security Assistance Force. ](/news/2013/12/27/war-in-afghanistan-2001apresent-pa-suicide-bomber-attacks-a-foreign-military-convoy-on-the-eastern-outskirts-of-the-afghan-capital-kabu.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+3. [War in Afghanistan (2001-present):A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/war-in-afghanistan-2001apresent-pa-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-on.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+4. [War in Afghanistan (2001-present):Seven heavily armed Taliban militants launch a coordinated attack near the main international airport of the Afghan capital, Kabul, and seize a five-story building under construction nearby.  Afghan security forces retake the building, killing all seven militants and sustaining no military or civilian casualties. ](/news/2013/06/10/war-in-afghanistan-2001apresent-pseven-heavily-armed-taliban-militants-launch-a-coordinated-attack-near-the-main-international-airport-o.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+5. [War in Afghanistan (2001-present):Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/war-in-afghanistan-2001apresent-pmany-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+6. [War in Afghanistan:At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/war-in-afghanistan-pat-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hage.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+7. [War in Afghanistan:Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/war-in-afghanistan-ptwo-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-provinc.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+8. [War in Afghanistan (2001-present):The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001apresent-pthe-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-attem.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+9. [War in Afghanistan (2001-present):A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/war-in-afghanistan-2001apresent-pa-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen-a.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+10. [War in Afghanistan:Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-pafghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _Context: Afghan, Kabul, War in Afghanistan (2001–present)_

@@ -1,0 +1,15 @@
+### [2015-01-19](/news/2015/01/19/index.md)
+
+# London's Southwark Crown Court hears evidence in the first trial on female genital mutilation in the United Kingdom, where this practice is illegal. 
+
+A UK doctor performed female genital mutilation on a young mother after she gave birth in hospital, a court has heard, in the first prosecution of its kind in the UK.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/uk-30886077)
+2. [Sky News](http://news.sky.com/story/1410888/court-hears-doctor-performed-fgm-on-new-mum)
+
+### Related:
+
+1. [The Gambia bans female genital mutilation with President Yahya Jammeh saying it is not required in Islam. ](/news/2015/11/25/the-gambia-bans-female-genital-mutilation-with-president-yahya-jammeh-saying-it-is-not-required-in-islam.md) _Context: female genital mutilation_

@@ -1,0 +1,23 @@
+### [2006-08-10](/news/2006/08/10/index.md)
+
+#  Hugo Chvez states that Fidel Castro is in a "great battle for life" but expresses optimism about his recovery. 
+
+
+
+
+### Source:
+
+1. [USA Today](http://www.usatoday.com/news/world/2006-08-10-chavez-castro_x.htm?csp=34)
+
+### Related:
+
+1. [ Venezuelan President Hugo Chvez says Fidel Castro is 'battling for his life.' ](/news/2007/01/20/venezuelan-president-hugo-chavez-says-fidel-castro-is-battling-for-his-life.md) _Context: Fidel Castro, Hugo Chávez_
+2. [The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md) _Context: Fidel Castro_
+3. [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md) _Context: Fidel Castro_
+4. [Cuban state television announces that former President Fidel Castro has died at age 90. ](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.md) _Context: Fidel Castro_
+5. [Fidel Castro, founder of the Communist Party of Cuba, former Prime Minister and former President of Cuba, dies at the age of 90. ](/news/2016/11/25/fidel-castro-founder-of-the-communist-party-of-cuba-former-prime-minister-and-former-president-of-cuba-dies-at-the-age-of-90.md) _Context: Fidel Castro_
+6. [Government officials from Cuba and the U.S. met in Havana, beginning settlement discussions surrounding $1.9 billion worth of U.S. assets seized by Fidel Castro's regime in the early 1960s.  By law, the United States embargo against Cuba cannot cease until settlements are made. ](/news/2015/12/9/government-officials-from-cuba-and-the-u-s-met-in-havana-beginning-settlement-discussions-surrounding-1-9-billion-worth-of-u-s-assets-se.md) _Context: Fidel Castro_
+7. [After having arrived in Havana, Cuba the day before, Pope Francis, in the third trip by an incumbent Pope to Cuba, presides over a Papal Mass in Havana's Plaza de la Revolucin, and pleads for Colombia and the FARC rebels to make a final peace, also noting the better relations between the U.S., which he will visit next, and Cuba. He holds a meeting with Cuban President Raul Castro, and meets for a talk and exchange of gifts with former Cuban President Fidel Castro. ](/news/2015/09/20/after-having-arrived-in-havana-cuba-the-day-before-pope-francis-in-the-third-trip-by-an-incumbent-pope-to-cuba-presides-over-a-papal-mas.md) _Context: Fidel Castro_
+8. [ Fidel Castro makes his first public appearance at a Cuban cheese factory since February 2015. ](/news/2015/07/4/fidel-castro-makes-his-first-public-appearance-at-a-cuban-cheese-factory-since-february-2015.md) _Context: Fidel Castro_
+9. [The President of Cuba, Raul Castro, is received in an official private audience with Pope Francis, who will become the third Pope to visit the still officially Communist island before visiting the U.S. this October. Some restrictions on exercise of religion, and a few restrictions on other rights, have been lifted or relaxed, especially after Pope John Paul II's historic 1998 meeting with Fidel Castro, Pope Emeritus Benedict XVI's trip during his reign, and especially in 2014 and earlier this year, after Raul and Francis and U.S. President Barack Obama's diplomatic team dramatically improved U.S.-Cuba relations. President Castro went there to thank Francis, whom he publicly has stated his admiration for, for his efforts, and spoke of the possibility of converting and of officially restoring the Church. ](/news/2015/05/10/the-president-of-cuba-raul-castro-is-received-in-an-official-private-audience-with-pope-francis-who-will-become-the-third-pope-to-visit-t.md) _Context: Fidel Castro_
+10. [Fidel Castro makes his first public appearance in several months to vote in Cuba's parliamentary elections; he spends an hour talking to voters and the media and a crowd gathers around his car to cheer him. ](/news/2013/02/4/fidel-castro-makes-his-first-public-appearance-in-several-months-to-vote-in-cuba-s-parliamentary-elections-he-spends-an-hour-talking-to-vot.md) _Context: Fidel Castro_

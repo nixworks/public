@@ -1,0 +1,23 @@
+### [2013-06-8](/news/2013/06/8/index.md)
+
+# Syrian civil war:The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. 
+
+
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/news/2013-06-08/syrian-army-captures-village-near-qusair-as-assad-extends-gains.html)
+
+### Related:
+
+1. [The Syrian Observatory for Human Rights reports that militants attacked two Syrian Armed Forces bases in Homs, killing at least 42 people, including a senior intelligence officer. ](/news/2017/02/25/the-syrian-observatory-for-human-rights-reports-that-militants-attacked-two-syrian-armed-forces-bases-in-homs-killing-at-least-42-people-i.md) _Context: Syrian Armed Forces, Syrian Civil War_
+2. [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md) _Context: Syrian Armed Forces, Syrian Civil War_
+3. [Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third-of-rebel-controlled-eastern-aleppo.md) _Context: Syrian Armed Forces, Syrian Civil War_
+4. [Government forces have captured most of Hanano, the largest rebel-controlled district in eastern Aleppo, and have begun pushing into neighboring 'Ard Al-Hamra and Jabal Badro districts. ](/news/2016/11/26/government-forces-have-captured-most-of-hanano-the-largest-rebel-controlled-district-in-eastern-aleppo-and-have-begun-pushing-into-neighbo.md) _Context: Syrian Armed Forces, Syrian Civil War_
+5. [Hours after the Syrian military declares the end of the ceasefire, an airstrike hits a convoy of United Nations OCHA aid trucks near the town of Urum al-Kubra, in the Aleppo Governorate, with the Syrian Observatory for Human Rights reporting that at least 12 people have been killed. ](/news/2016/09/19/hours-after-the-syrian-military-declares-the-end-of-the-ceasefire-an-airstrike-hits-a-convoy-of-united-nations-ocha-aid-trucks-near-the-tow.md) _Context: Syrian Armed Forces, Syrian Civil War_
+6. [ Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir. ](/news/2016/05/19/syrian-government-forces-and-allies-including-lebanese-hezbollah-fighters-retake-a-large-area-southeast-of-damascus-including-the-key-to.md) _Context: Syrian Armed Forces, Syrian Civil War_
+7. [Syrian state news reports clashes between Syrian Armed Forces and the Islamic State  in eastern Syria's Deir ez-Zor province result in the deaths of 58  militants. ](/news/2015/11/8/syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-province-result-in-the-d.md) _Context: Syrian Armed Forces, Syrian Civil War_
+8. [A Syrian Armed Forces helicopter crashes in Jabal al-Zawiya in the Idlib Governorate resulting in the death of one crew member and the capture of four. ](/news/2015/03/22/a-syrian-armed-forces-helicopter-crashes-in-jabal-al-zawiya-in-the-idlib-governorate-resulting-in-the-death-of-one-crew-member-and-the-captu.md) _Context: Syrian Armed Forces, Syrian Civil War_
+9. [The Israeli Air Force bombs two Syrian Armed Forces bases near Damascus and the town of Dimas, according to Russian and Syrian sources. ](/news/2014/12/7/the-israeli-air-force-bombs-two-syrian-armed-forces-bases-near-damascus-and-the-town-of-dimas-according-to-russian-and-syrian-sources.md) _Context: Syrian Armed Forces, Syrian Civil War_
+10. [The Syrian Army repels an ISIL offensive on the Deir ez-Zor air base, resulting in at least 119 casualties total. ](/news/2014/12/6/the-syrian-army-repels-an-isil-offensive-on-the-deir-ez-zor-air-base-resulting-in-at-least-119-casualties-total.md) _Context: Syrian Armed Forces, Syrian Civil War_

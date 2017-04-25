@@ -1,0 +1,23 @@
+### [2013-03-26](/news/2013/03/26/index.md)
+
+# A post-mortem examination finds Russian oligarch Boris Berezovsky's death was "consistent with hanging", after the examination found nothing to indicate a violent struggle or involvement of another party. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-21934079)
+
+### Related:
+
+1. [Exiled Russian business oligarch Boris Berezovsky is found dead at his home in Surrey, England. ](/news/2013/03/23/exiled-russian-business-oligarch-boris-berezovsky-is-found-dead-at-his-home-in-surrey-england.md) _Context: Boris Berezovsky, Russia_
+2. [ The Savyolovsky Court in Moscow finds the Russian businessman in exile Boris Berezovsky guilty of embezzling nearly 215 million rubles from Aeroflot. ](/news/2007/11/29/the-savyolovsky-court-in-moscow-finds-the-russian-businessman-in-exile-boris-berezovsky-guilty-of-embezzling-nearly-215-million-rubles-from.md) _Context: Boris Berezovsky, Russia_
+3. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: Russia_
+4. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Russia_
+5. [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md) _Context: Russia_
+6. [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md) _Context: Russia_
+7. [Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-others-related-to-incidents-that.md) _Context: hanging_
+8. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Russia_
+9. [Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _Context: Russia_
+10. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: Russia_

@@ -1,0 +1,23 @@
+### [2005-05-25](/news/2005/05/25/index.md)
+
+#  The Baku-Tbilisi-Ceyhan pipeline, the longest oil pipeline in the world, begins operations today, with an opening ceremony in Azerbaijan. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/business/4577497.stm)
+
+### Related:
+
+1. [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md) _Context: Azerbaijan_
+2. [The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline-through-canada-and-the-united-st.md) _Context: oil pipeline_
+3. [In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. ](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.md) _Context: Azerbaijan_
+4. [Azerbaijani First Lady Mehriban Aliyeva, who is widely considered to be in line to succeed her husband, is named vice president. ](/news/2017/02/21/azerbaijani-first-lady-mehriban-aliyeva-who-is-widely-considered-to-be-in-line-to-succeed-her-husband-is-named-vice-president.md) _Context: Azerbaijan_
+5. [Four alleged extremists planning terror attacks in Azerbaijan  are killed in a shootout with the country's security forces; one suspect is arrested. The State Security Service says the group  was connected to an unspecified religious extremist group abroad. ](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-in-azerbaijan-are-killed-in-a-shootout-with-the-country-s-security-forces-one-suspect-is-a.md) _Context: Azerbaijan_
+6. [Ten Olympic weightlifters fail a drug test in a reanalysis of samples from the 2012 Summer Olympics. Among them are four Kazakh gold medalists: Ilya Ilyin, Zulfiya Chinshanlo, Svetlana Podobedova and Maiya Maneza. The other athletes represent Azerbaijan, Belarus, Russia, and  Ukraine. All ten lifters are provisionally suspended by the International Weightlifting Federation and are expected to be stripped of their titles. ](/news/2016/06/16/ten-olympic-weightlifters-fail-a-drug-test-in-a-reanalysis-of-samples-from-the-2012-summer-olympics-among-them-are-four-kazakh-gold-medalis.md) _Context: Azerbaijan_
+7. [Imprisoned Azerbaijani journalist Khadija Ismayilova is announced as the winner of the UNESCO/Guillermo Cano World Press Freedom Prize for 2016 for "her outstanding contribution to press freedom in difficult circumstances." ](/news/2016/05/3/imprisoned-azerbaijani-journalist-khadija-ismayilova-is-announced-as-the-winner-of-the-unesco-guillermo-cano-world-press-freedom-prize-for-2.md) _Context: Azerbaijan_
+8. [  An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md) _Context: Azerbaijan_
+9. [Armenia will recognize the independence of the breakaway Nagorno-Karabakh Republic from Azerbaijan if military actions there continue, according to Armenian President Serzh Sargsyan. Azerbaijan has resorted to an "unprecedented provocation along the entire perimeter of the contact line" with Nagorno-Karabakh, Sargsyan told a meeting with ambassadors from member states of the Organization for Security and Co-operation in Europe, referring to the latest flare-up of the conflict. ](/news/2016/04/4/armenia-will-recognize-the-independence-of-the-breakaway-nagorno-karabakh-republic-from-azerbaijan-if-military-actions-there-continue-accor.md) _Context: Azerbaijan_
+10. [ Azerbaijan calls a unilateral ceasefire in its fight with ethnic Armenians one day after 30 soldiers died. The Associated Press reports rebel forces reject Azerbaijan's claims, saying they see no sign the government has stopped fighting. ](/news/2016/04/3/azerbaijan-calls-a-unilateral-ceasefire-in-its-fight-with-ethnic-armenians-one-day-after-30-soldiers-died-the-associated-press-reports-reb.md) _Context: Azerbaijan_

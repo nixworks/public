@@ -1,0 +1,23 @@
+### [2011-05-7](/news/2011/05/7/index.md)
+
+# Counting for the Northern Ireland Assembly election finally ends with the DUP and Sinn Fin winning the most seats, 38 and 29 respectively. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13320482)
+
+### Related:
+
+1. [Northern Irish voters go to the polls to elect their new MLA representatives after a snap election was called following the resignation of Deputy First minister Martin McGuinness of Sinn Fin over the mishandling by Democratic Unionist Party over the recent Renewable Heat Incentive scandal. ](/news/2017/03/2/northern-irish-voters-go-to-the-polls-to-elect-their-new-mla-representatives-after-a-snap-election-was-called-following-the-resignation-of-d.md) _Context: Democratic Unionist Party, Sinn Féin_
+2. [DUP leader and Northern Ireland First Minister Peter Robinson dismisses calls from Sinn Fin for a Scotland-style referendum on independence for Northern Ireland, telling his party's annual conference that a majority of Catholics want Northern Ireland to stay part of the United Kingdom. ](/news/2012/11/24/dup-leader-and-northern-ireland-first-minister-peter-robinson-dismisses-calls-from-sinn-fein-for-a-scotland-style-referendum-on-independence.md) _Context: Democratic Unionist Party, Sinn Féin_
+3. [The Democratic Unionist Party (DUP) and Sinn Fin agree to devolution from Westminster from 12 April 2010 after two weeks of discussions, the longest ever during the Northern Ireland peace process. ](/news/2010/02/5/the-democratic-unionist-party-dup-and-sinn-fein-agree-to-devolution-from-westminster-from-12-april-2010-after-two-weeks-of-discussions-th.md) _Context: Democratic Unionist Party, Sinn Féin_
+4. [ The Blair Government introduces legislation into the Parliament of the United Kingdom to facilitate a power-sharing agreement in Northern Ireland between Ian Paisley's Democratic Unionist Party and Sinn Fin. ](/news/2007/03/27/the-blair-government-introduces-legislation-into-the-parliament-of-the-united-kingdom-to-facilitate-a-power-sharing-agreement-in-northern-i.md) _Context: Democratic Unionist Party, Sinn Féin_
+5. [The deadline for the Government formation in Northern Ireland has expired following the refusal of the Democratic Unionist Party and  Sinn Fein to enter a power sharing agreement with each other, with both parties blaming each other for the impasse. ](/news/2017/03/27/the-deadline-for-the-government-formation-in-northern-ireland-has-expired-following-the-refusal-of-the-democratic-unionist-party-and-sinn-f.md) _Context: Democratic Unionist Party_
+6. [Martin McGuinness of Sinn Fein resigns as the NI deputy first minister in protest of handling by the Democratic Unionist Party of a failed energy scheme that cost Northern Irish taxpayers PS490 million. His decision will likely lead to a snap election. ](/news/2017/01/9/martin-mcguinness-of-sinn-fa-c-in-resigns-as-the-ni-deputy-first-minister-in-protest-of-handling-by-the-democratic-unionist-party-of-a-failed.md) _Context: Democratic Unionist Party_
+7. [The Secretary of State for Northern Ireland James Brokenshire announces a snap election is to take place on March 2 to elect members to the Northern Ireland Assembly after the Democratic Unionist Party (DUP) and Sinn Fein failed to agree on a power-sharing agreement. ](/news/2017/01/16/the-secretary-of-state-for-northern-ireland-james-brokenshire-announces-a-snap-election-is-to-take-place-on-march-2-to-elect-members-to-the.md) _Context: Democratic Unionist Party_
+8. [Peter Robinson announces he will step down as Northern Ireland's First Minister and as leader of the Democratic Unionist Party, corresponding with recent tensions in the area and a murder linked with the Irish Republican Army. ](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.md) _Context: Democratic Unionist Party_
+9. [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md) _Context: Democratic Unionist Party_
+10. [Prince Charles becomes the first member of the British Royal Family to meet with Gerry Adams, the President of Sinn Fin, during a two-day visit to Ireland. ](/news/2015/05/19/prince-charles-becomes-the-first-member-of-the-british-royal-family-to-meet-with-gerry-adams-the-president-of-sinn-fein-during-a-two-day-v.md) _Context: Sinn Féin_

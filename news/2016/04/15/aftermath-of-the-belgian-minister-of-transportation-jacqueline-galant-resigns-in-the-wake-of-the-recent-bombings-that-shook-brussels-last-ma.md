@@ -1,0 +1,23 @@
+### [2016-04-15](/news/2016/04/15/index.md)
+
+# Aftermath of the Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. 
+
+
+
+
+### Source:
+
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/belgian-minister-resigns-over-brussels-attacks/27677216.html)
+
+### Related:
+
+1. [Aftermath of the Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-conf.md) _Context: 2016 Brussels bombings, Belgium, Brussels_
+2. [Aftermath of the At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was.md) _Context: 2016 Brussels bombings, Belgium, Brussels_
+3. [  Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-thre.md) _Context: 2016 Brussels bombings, Belgium, Brussels_
+4. [The European Union and Turkey  agree on broad principles for a plan to ease the migration crisis which includes returning thousands of migrants to Turkey. For this, the EU will swiftly ease visa requirements for Turks and speed up Ankara's EU accession talks. A final agreement is to be ready for next week's two-day EU summit in Brussels, Belgium. ](/news/2016/03/8/the-european-union-and-turkey-agree-on-broad-principles-for-a-plan-to-ease-the-migration-crisis-which-includes-returning-thousands-of-migra.md) _Context: Belgium, Brussels, European Union_
+5. [Today's European Union summit with Turkish  Prime Minister Ahmet Davutoglu in Brussels, Belgium,  will discuss ways  to  stanch the flow of European-bound migrants. ](/news/2016/03/7/today-s-european-union-summit-with-turkish-prime-minister-ahmet-davutoalu-in-brussels-belgium-will-discuss-ways-to-stanch-the-flow-of.md) _Context: Belgium, Brussels, European Union_
+6. [Aftermath of the Police in Brussels, Belgium, forcibly break up an apparent far-right demonstration with water cannons after they joined a crowd of people paying tribute to the victims of the bombings. The demonstrators claim to have marched against terrorism but police intervened when the demonstrators confronted Muslim women and made Nazi salutes. ](/news/2016/03/27/aftermath-of-the-police-in-brussels-belgium-forcibly-break-up-an-apparent-far-right-demonstration-with-water-cannons-after-they-joined-a-c.md) _Context: 2016 Brussels bombings, Belgium, Brussels_
+7. [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md) _Context: Belgium, Brussels, European Union_
+8. [ Leaders of the European Union meet in Brussels, Belgium with climate change and energy security dominating the agenda. ](/news/2008/03/13/leaders-of-the-european-union-meet-in-brussels-belgium-with-climate-change-and-energy-security-dominating-the-agenda.md) _Context: Belgium, Brussels, European Union_
+9. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium, Brussels_
+10. [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md) _Context: Brussels, European Union_

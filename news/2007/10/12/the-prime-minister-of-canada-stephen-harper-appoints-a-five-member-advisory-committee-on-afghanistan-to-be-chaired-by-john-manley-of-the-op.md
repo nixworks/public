@@ -1,0 +1,23 @@
+### [2007-10-12](/news/2007/10/12/index.md)
+
+#  The Prime Minister of Canada Stephen Harper appoints a five-member advisory committee on Afghanistan to be chaired by John Manley of the opposition Liberal Party of Canada. 
+
+The Prime Minister of Canada has appointed a member of the opposition Liberal Party to set up an advisory committee on Afghanistan.
+
+
+### Source:
+
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/10/13/2058777.htm)
+
+### Related:
+
+1. [ The Prime Minister of Canada Stephen Harper rules out sending further troops to Afghanistan. ](/news/2007/09/11/the-prime-minister-of-canada-stephen-harper-rules-out-sending-further-troops-to-afghanistan.md) _Context: Afghan, Canadian Prime Minister, Stephen Harper_
+2. [ As Stephen Harper is sworn in as Canada's 22nd Prime Minister, David Emerson crosses the floor from the Liberal Party to join Harper's Conservative Party, and is appointed as Minister of International Trade. Harper also appointed Michael Fortier, an unelected party supporter, to minister of public works and government services and to the senate. ](/news/2006/02/6/as-stephen-harper-is-sworn-in-as-canada-s-22nd-prime-minister-david-emerson-crosses-the-floor-from-the-liberal-party-to-join-harper-s-cons.md) _Context: Canadian Prime Minister, Liberal Party's, Stephen Harper_
+3. [ Canadian federal election, 2006: Opposition leader Stephen Harper introduces a motion of no confidence in the Canadian House of Commons.  With the support of all opposition parties, it is expected to pass on Monday, toppling Prime Minister Paul Martin's minority Liberals and forcing a campaign spanning the holiday season. ](/news/2005/11/24/canadian-federal-election-2006-opposition-leader-stephen-harper-introduces-a-motion-of-no-confidence-in-the-canadian-house-of-commons-w.md) _Context: Canadian Prime Minister, Liberal Party's, Stephen Harper_
+4. [Justin Trudeau, son of former Canadian Prime Minister Pierre Trudeau, is chosen as the new leader of the Liberal Party of Canada. ](/news/2013/04/14/justin-trudeau-son-of-former-canadian-prime-minister-pierre-trudeau-is-chosen-as-the-new-leader-of-the-liberal-party-of-canada.md) _Context: Canadian Prime Minister, Liberal Party's_
+5. [The minority government led by Prime Minister Stephen Harper is reprimanded by the Canadian House of Commons for failing to produce documents but avoids a no confidence motion. ](/news/2011/03/9/the-minority-government-led-by-prime-minister-stephen-harper-is-reprimanded-by-the-canadian-house-of-commons-for-failing-to-produce-document.md) _Context: Canadian Prime Minister, Stephen Harper_
+6. [The minority of the Conservative Party of Canada led by Prime Minister Stephen Harper is defeated in a no confidence motion in the House of Commons with an election to be held in early May. ](/news/2011/03/25/the-minority-of-the-conservative-party-of-canada-led-by-prime-minister-stephen-harper-is-defeated-in-a-no-confidence-motion-in-the-house-of.md) _Context: Canadian Prime Minister, Stephen Harper_
+7. [Canadian Prime Minister Stephen Harper appoints five new Senators. ](/news/2010/01/29/canadian-prime-minister-stephen-harper-appoints-five-new-senators.md) _Context: Canadian Prime Minister, Stephen Harper_
+8. [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md) _Context: Canadian Prime Minister, Stephen Harper_
+9. [ 2008 Canadian parliamentary dispute: At the request of Prime Minister Stephen Harper, Governor General of Canada Michalle Jean prorogues the parliament until January 26, 2009, to avoid a confidence motion by a newly-formed coalition of opposition parties. ](/news/2008/12/4/2008-canadian-parliamentary-dispute-at-the-request-of-prime-minister-stephen-harper-governor-general-of-canada-michaelle-jean-prorogues-t.md) _Context: Canadian Prime Minister, Stephen Harper_
+10. [ Canadian Prime Minister Stephen Harper's new Cabinet is sworn in after the October 14 federal election. ](/news/2008/10/30/canadian-prime-minister-stephen-harper-s-new-cabinet-is-sworn-in-after-the-october-14-federal-election.md) _Context: Canadian Prime Minister, Stephen Harper_

@@ -1,0 +1,24 @@
+### [2005-02-15](/news/2005/02/15/index.md)
+
+#  Microsoft announces its intentions to release Internet Explorer version 7.0. This is seen by some as a response to the growing popularity of the Mozilla Firefox browser. 
+
+
+
+
+### Source:
+
+1. [Reuters UK](http://today.reuters.co.uk/news/newsArticle.aspx?type=technologyNews&storyID=2005-02-16T002412Z_01_N1519247_RTRIDST_0_TECH-TECH-MICROSOFT-BROWSER-DC.XML)
+2. [News.com](http://news.com.com/Reversal+Next+IE+update+divorced+from+Windows/2100-1032_3-5577263.html?tag=nl)
+
+### Related:
+
+1. [Microsoft announces a major vulnerability in Internet Explorer versions 6 to 11 that could enable hackers to gain access and user rights to its customers' computers. ](/news/2014/04/28/microsoft-announces-a-major-vulnerability-in-internet-explorer-versions-6-to-11-that-could-enable-hackers-to-gain-access-and-user-rights-to.md) _Context: Internet Explorer, Microsoft_
+2. [The European Commission fines Microsoft EUR561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md) _Context: Internet Explorer, Microsoft_
+3. [The German government asks its citizens to stop using Microsoft's web browser Internet Explorer to protect their own security. ](/news/2010/01/16/the-german-government-asks-its-citizens-to-stop-using-microsoft-s-web-browser-internet-explorer-to-protect-their-own-security.md) _Context: Internet Explorer, Microsoft_
+4. [Microsoft acknowledges that a Windows 10 update has stopped millions of webcams from working. ](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.md) _Context: Microsoft_
+5. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _Context: Microsoft_
+6. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including  Yahoo Japan Corp.,  next week. Google, Time Inc., and  private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google.md) _Context: Microsoft_
+7. [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md) _Context: Microsoft_
+8. [Reuters reports, based on an unnamed "person familiar with the situation," that Microsoft executives are lining up financing for a possible acquisition of troubled dotcom pioneer Yahoo. ](/news/2016/03/26/reuters-reports-based-on-an-unnamed-person-familiar-with-the-situation-that-microsoft-executives-are-lining-up-financing-for-a-possible.md) _Context: Microsoft_
+9. [Windows 8 along with Internet Explorer versions 8, 9 and 10 are now officially unsupported by Microsoft. ](/news/2016/01/12/windows-8-along-with-internet-explorer-versions-8-9-and-10-are-now-officially-unsupported-by-microsoft.md) _Context: Internet Explorer_
+10. [Many Skype users are unable to access the service. The Microsoft-owned company acknowledges the problem. ](/news/2015/09/21/many-skype-users-are-unable-to-access-the-service-the-microsoft-owned-company-acknowledges-the-problem.md) _Context: Microsoft_

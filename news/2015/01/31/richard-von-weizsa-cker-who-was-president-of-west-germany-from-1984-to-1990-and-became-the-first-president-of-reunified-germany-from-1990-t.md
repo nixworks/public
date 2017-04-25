@@ -1,0 +1,16 @@
+### [2015-01-31](/news/2015/01/31/index.md)
+
+# Richard von Weizsacker, who was president of West Germany from 1984 to 1990 and became the first president of reunified Germany from 1990 to 1994, dies at the age of 94. 
+
+
+
+
+### Source:
+
+1. [Deutsche Welle](http://www.dw.de/former-german-president-richard-von-weizsäcker-dies/a-18227460)
+
+### Related:
+
+1. [Around 1,500 people demonstrate peacefully in Bremen city centre against a weekend of celebrations as the 20th anniversary of German reunification approaches, discrediting police fears of large-scale riots. ](/news/2010/10/2/around-1-500-people-demonstrate-peacefully-in-bremen-city-centre-against-a-weekend-of-celebrations-as-the-20th-anniversary-of-german-reunifi.md) _Context: reunified Germany_
+2. [ The German Federal Archives has provided Wikipedia with 100,000 historical images that cover periods such as the Weimar Republic, the colonial era, the Third Reich, and post-reunification. ](/news/2008/12/7/the-german-federal-archives-has-provided-wikipedia-with-100-000-historical-images-that-cover-periods-such-as-the-weimar-republic-the-colon.md) _Context: reunified Germany_
+3. [ The German national football team lose a World Cup qualifier for only the second time at home in their history (including as West Germany) by a heavy 1-5 margin to an England team managed by Sven-Gran Eriksson in the Olympic Stadium in Munchen (Munich), ending a significant run of England losses to Germany.](/news/2001/09/1/the-german-national-football-team-lose-a-world-cup-qualifier-for-only-the-second-time-at-home-in-their-history-including-as-west-germany.md) _Context: West Germany_

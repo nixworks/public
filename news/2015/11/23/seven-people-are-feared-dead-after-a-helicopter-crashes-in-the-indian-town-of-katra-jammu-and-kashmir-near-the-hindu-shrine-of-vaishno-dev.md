@@ -1,0 +1,23 @@
+### [2015-11-23](/news/2015/11/23/index.md)
+
+# Seven people are feared dead after a helicopter crashes in the Indian town of Katra, Jammu and Kashmir, near the Hindu shrine of Vaishno Devi. 
+
+A bird-hit soon after take-off downed the helicopter that killed six pilgrims from Vaishno Devi and a woman pilot in Jammu&#039;s Katra today. The aircraft -- which was returning from Sanji Chhat to Katra -- crashed and caught fire.
+
+
+### Source:
+
+1. [NDTV](http://www.ndtv.com/india-news/chopper-carrying-vaishno-devi-pilgrims-crashes-in-katra-6-feared-dead-1246462)
+
+### Related:
+
+1. [A fire occurs at a Hindu temple in the Kollam district of the Indian state of Kerala. At least 102 people have been killed and hundreds injured. ](/news/2016/04/10/a-fire-occurs-at-a-hindu-temple-in-the-kollam-district-of-the-indian-state-of-kerala-at-least-102-people-have-been-killed-and-hundreds-inju.md) _Context: Hindu, India_
+2. [Tens of millions of Hindus bathe in the Ganges River in the Indian city of Allahabad during the Maha Kumbh Mela festival. ](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.md) _Context: Hindu, India_
+3. [Narendra Modi, the Chief Minister of the Indian state of Gujarat, orders an inquiry into the death of six people at a stampede at the Bhavnath Hindu temple in the Junagadh district over the weekend. ](/news/2012/02/20/narendra-modi-the-chief-minister-of-the-indian-state-of-gujarat-orders-an-inquiry-into-the-death-of-six-people-at-a-stampede-at-the-bhavna.md) _Context: Hindu, India_
+4. [Allahabad High Court in India gives its verdict on the Ayodhya title suits, amid fears that the ruling could spark unrest. They decide to split the site into three portions between Hindus and Muslims. ](/news/2010/09/30/allahabad-high-court-in-india-gives-its-verdict-on-the-ayodhya-title-suits-amid-fears-that-the-ruling-could-spark-unrest-they-decide-to-sp.md) _Context: Hindu, India_
+5. [At least 63 people die after a stampede at a Hindu temple in Pratapgarh, Uttar Pradesh, India. ](/news/2010/03/4/at-least-63-people-die-after-a-stampede-at-a-hindu-temple-in-pratapgarh-uttar-pradesh-india.md) _Context: Hindu, India_
+6. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: India_
+7. [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md) _Context: India_
+8. [Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhattisgarh-india.md) _Context: India_
+9. [India inaugurates the 9.2-kilometer Chenani-Nashri Tunnel, in the state of Jammu and Kashmir. ](/news/2017/04/2/india-inaugurates-the-9-2-kilometer-chenani-nashri-tunnel-in-the-state-of-jammu-and-kashmir.md) _Context: India_
+10. [Three senior figures in the Bharatiya Janata Party, L.K. Advani, Uma Bharati and Murli Manohar Joshi, will be tried for their alleged role in the destruction of the Babri Masjid Mosque in the northern Indian town of Ayodhya. ](/news/2017/04/19/three-senior-figures-in-the-bharatiya-janata-party-l-k-advani-uma-bharati-and-murli-manohar-joshi-will-be-tried-for-their-alleged-role-i.md) _Context: India_

@@ -1,0 +1,23 @@
+### [2008-03-4](/news/2008/03/4/index.md)
+
+#  First Minister of Northern Ireland Ian Paisley announces his intentions to stand down from the post in May 2008 and, at the same time, resign as leader of the DUP, a party he has led for almost 40 years. 
+
+Ian Paisley has announced that he is to resign as Northern Ireland First Minister and leader of the Democratic Unionist Party in May.
+
+
+### Source:
+
+1. [RTÉ](http://www.rte.ie/news/2008/0304/paisleyi.html)
+
+### Related:
+
+1. [ Home rule returns to Northern Ireland. DUP leader Ian Paisley and Sinn Fein's Martin McGuinness take office as First Minister and Deputy First Minister, respectively. ](/news/2007/05/8/home-rule-returns-to-northern-ireland-dup-leader-ian-paisley-and-sinn-fa-c-in-s-martin-mcguinness-take-office-as-first-minister-and-deputy-f.md) _Context: Democratic Unionist Party, First Minister, Ian Paisley, Northern Ireland_
+2. [ The Blair Government introduces legislation into the Parliament of the United Kingdom to facilitate a power-sharing agreement in Northern Ireland between Ian Paisley's Democratic Unionist Party and Sinn Fin. ](/news/2007/03/27/the-blair-government-introduces-legislation-into-the-parliament-of-the-united-kingdom-to-facilitate-a-power-sharing-agreement-in-northern-i.md) _Context: Democratic Unionist Party, Ian Paisley, Northern Ireland_
+3. [Peter Robinson announces he will step down as Northern Ireland's First Minister and as leader of the Democratic Unionist Party, corresponding with recent tensions in the area and a murder linked with the Irish Republican Army. ](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.md) _Context: Democratic Unionist Party, Northern Ireland_
+4. [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md) _Context: Democratic Unionist Party, Northern Ireland_
+5. [Former First Minister of Northern Ireland and Democratic Unionist Party leader Ian Paisley dies, aged 88. ](/news/2014/09/12/former-first-minister-of-northern-ireland-and-democratic-unionist-party-leader-ian-paisley-dies-aged-88.md) _Context: Democratic Unionist Party, Ian Paisley_
+6. [DUP leader and Northern Ireland First Minister Peter Robinson dismisses calls from Sinn Fin for a Scotland-style referendum on independence for Northern Ireland, telling his party's annual conference that a majority of Catholics want Northern Ireland to stay part of the United Kingdom. ](/news/2012/11/24/dup-leader-and-northern-ireland-first-minister-peter-robinson-dismisses-calls-from-sinn-fein-for-a-scotland-style-referendum-on-independence.md) _Context: Democratic Unionist Party, Northern Ireland_
+7. [Former Northern Irish First Minister Peter Robinson, leader of the Democratic Unionist Party, tells ''The Sunday Times'' that the conduct of his wife, politician Iris Robinson, with her young lover has led him to shake hands with deputy First Minister Martin McGuinness (Sinn Fein) for the first time. ](/news/2010/01/17/former-northern-irish-first-minister-peter-robinson-leader-of-the-democratic-unionist-party-tells-the-sunday-times-that-the-conduct-of.md) _Context: Democratic Unionist Party, Northern Ireland_
+8. [ Results from the Northern Ireland Assembly election show the DUP and Sinn Fein making gains, and ensuring that in order for direct rule to cease both parties must agree to cooperate in a powersharing Executive. ](/news/2007/03/9/results-from-the-northern-ireland-assembly-election-show-the-dup-and-sinn-fa-c-in-making-gains-and-ensuring-that-in-order-for-direct-rule-to.md) _Context: Democratic Unionist Party, Northern Ireland_
+9. [ Northern Ireland Peace Process: Members of the Democratic Unionist Party, led by Ian Paisley, and Sinn Fein, led by Gerry Adams, meet face-to face for the first time, and agree a timetable for implementing the St. Andrews Agreement. ](/news/2007/03/26/northern-ireland-peace-process-members-of-the-democratic-unionist-party-led-by-ian-paisley-and-sinn-fa-c-in-led-by-gerry-adams-meet-face.md) _Context: Democratic Unionist Party, Ian Paisley_
+10. [Police investigate the discovery of human excrement in cans of Coca-Cola in a Northern Ireland bottling facility. None of the contaminated product left the facility. ](/news/2017/03/28/police-investigate-the-discovery-of-human-excrement-in-cans-of-coca-cola-in-a-northern-ireland-bottling-facility-none-of-the-contaminated-p.md) _Context: Northern Ireland_

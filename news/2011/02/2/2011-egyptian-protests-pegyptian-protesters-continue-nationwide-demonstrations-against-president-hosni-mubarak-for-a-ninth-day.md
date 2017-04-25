@@ -1,0 +1,51 @@
+### [2011-02-2](/news/2011/02/2/index.md)
+
+# 2011 Egyptian protests:Egyptian protesters continue nationwide demonstrations against President Hosni Mubarak for a ninth day. 
+
+Three people are killed and hundreds wounded in the Egyptian capital, as supporters and opponents of President Hosni Mubarak fight pitched battles.
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12345656)
+3. [The Washington Post](http://voices.washingtonpost.com/postpartisan/2011/02/mubarak_unleashes_chaos.html)
+4. [Huffington Post](http://www.huffingtonpost.com/2011/02/02/anderson-cooper-attacked-punched-egypt_n_817352.html)
+5. [Al Jazeera](http://english.aljazeera.net/photo_galleries/middleeast/201122163520566506.html)
+6. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates#block-66)
+7. [Euronews](http://www.euronews.net/2011/02/02/clashes-erupt-in-a-tense-egypt/)
+8. [The Australian](http://www.theaustralian.com.au/news/world/hosni-mubarak-must-go-by-friday-says-mohamed-elbaradei/story-e6frg6so-1225998404724)
+9. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates#block-92)
+10. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201122113055781707.html)
+11. [Reuters](http://www.reuters.com/article/2011/02/02/egypt-army-statement-idUSWEA517720110202)
+12. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates#block-83)
+13. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates#block-62)
+14. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE7110P320110202)
+15. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates#block-90)
+16. [Bangkok Post](http://www.bangkokpost.com/breakingnews/219587/attacks-on-protestors-unacceptable)
+17. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112272918301323.html)
+18. [CNN](http://edition.cnn.com/2011/WORLD/meast/02/02/egypt.world.reaction/)
+19. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates#block-74)
+20. [AP via ''The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/02/egypt-protests-live-updates#block-31)
+21. [Almasry Alyoum](http://www.almasryalyoum.com/en/news/un-300-killed-nationwide-protests)
+22. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/01/live-blog-feb-2-egypt-protests)
+23. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=206304)
+24. [Fox News](http://www.foxnews.com/world/2011/02/02/egyptian-military-calls-end-demonstrations-1705880116/)
+25. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112215651396175.html)
+26. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206306)
+27. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/02/egypt-opposition-leader-mohamed-elbaradei-says-he-fears-coming-bloodbath.html)
+28. [Committee to Protect Journalists](http://cpj.org/2011/02/journalists-under-physical-assault-in-egypt.php)
+29. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE71120F20110202)
+
+### Related:
+
+1. [2011 Egyptian protests:Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-pnationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _Context: Hosni Mubarak, Protesters_
+2. [2011 Egyptian protests:Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/2011-egyptian-protests-panti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _Context: Hosni Mubarak, Protesters_
+3. [2011 Egyptian protests:Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-pprotests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md) _Context: Hosni Mubarak, Protesters_
+4. [Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-square.md) _Context: Hosni Mubarak, Protesters_
+5. [Egyptian Protests:Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/egyptian-protests-pthree-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md) _Context: Hosni Mubarak, Protesters_
+6. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Hosni Mubarak_
+7. [Former Egyptian President Hosni Mubarak is acquitted of involvement in the deaths of hundreds of anti-government protesters during the 2011 Egyptian revolution. ](/news/2017/03/2/former-egyptian-president-hosni-mubarak-is-acquitted-of-involvement-in-the-deaths-of-hundreds-of-anti-government-protesters-during-the-2011.md) _Context: Hosni Mubarak_
+8. [Cairo's criminal court orders the release of the sons of former Egyptian leader Hosni Mubarak, who are waiting for the Court of Appeal's  decision in a financial corruption case.  Each was sentenced to three years. The court ruled Gamal and Alaa Mubarak, who were initially  detained in April 2011, had already served the requisite time in prison for the sentence. ](/news/2015/10/12/cairo-s-criminal-court-orders-the-release-of-the-sons-of-former-egyptian-leader-hosni-mubarak-who-are-waiting-for-the-court-of-appeal-s-de.md) _Context: Hosni Mubarak_
+9. [Former President of Egypt Hosni Mubarak and his two sons are sentenced to three years imprisonment and a fine for corruption. ](/news/2015/05/9/former-president-of-egypt-hosni-mubarak-and-his-two-sons-are-sentenced-to-three-years-imprisonment-and-a-fine-for-corruption.md) _Context: Hosni Mubarak_
+10. [Egypt's highest court overturns and initiates a retrial on the only remaining conviction against former President Hosni Mubarak (a May 2014 sentencing of three years in prison for embezzlement). ](/news/2015/01/13/egypt-s-highest-court-overturns-and-initiates-a-retrial-on-the-only-remaining-conviction-against-former-president-hosni-mubarak-a-may-2014.md) _Context: Hosni Mubarak_

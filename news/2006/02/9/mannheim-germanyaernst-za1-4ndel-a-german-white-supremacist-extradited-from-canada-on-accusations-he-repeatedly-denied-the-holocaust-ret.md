@@ -1,0 +1,14 @@
+### [2006-02-9](/news/2006/02/9/index.md)
+
+#  Mannheim, Germany--Ernst Zundel, a German white supremacist extradited from Canada on accusations he repeatedly denied the Holocaust, returned to court Thursday to face charges of incitement, libel and disparaging the dead. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [ABC](http://abcnews.go.com/International/wireStory?id=1598656)
+
+### Related:
+
+1. [A court in the German city of Mannheim rules that Microsoft has infringed Motorola Mobility's patents and bans Xbox 360 gaming consoles and Windows 7 operating system from sale in Germany. ](/news/2012/05/2/a-court-in-the-german-city-of-mannheim-rules-that-microsoft-has-infringed-motorola-mobility-s-patents-and-bans-xbox-360-gaming-consoles-and.md) _Context: Mannheim_

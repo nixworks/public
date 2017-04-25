@@ -1,0 +1,25 @@
+### [2010-10-7](/news/2010/10/7/index.md)
+
+# English team officials at the 2010 Commonwealth Games in Delhi, India seek reassurance about water safety at the Dr SPM Aquatics Centre after up to fifteen members of the English and Australian swim teams come down with a stomach virus. 
+
+Australian and English doctors want more investigations of a virus that has struck up to 50 swimmers, as two withdraw.
+
+
+### Source:
+
+1. [ Sky News](http://news.sky.com/skynews/Home/World-News/Stomach-Virus-For-Swimmers-At-Commonwealth-Games-Urgent-Tests-On-Delhi-Swimming-Pools/Article/201010115753774?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_15753774_Stomach_Virus_For_Swimmers_At_Commonwealth_Games%3A_Urgent_Tests_On_Delhi_Swimming_Pools)
+2. [The Guardian](http://www.guardian.co.uk/sport/2010/oct/07/commonwealth-games-swimmers-illness)
+3. [Al Jazeera](http://english.aljazeera.net/sport/2010/10/201010620591849865.html)
+
+### Related:
+
+1. [Nigerian athlete Oludamola Osayomi, the winner of the 100 metres sprint at the 2010 Commonwealth Games in Delhi, India, tests positive for the banned stimulant Methylhexanamine. ](/news/2010/10/11/nigerian-athlete-oludamola-osayomi-the-winner-of-the-100-metres-sprint-at-the-2010-commonwealth-games-in-delhi-india-tests-positive-for-t.md) _Context: 2010 Commonwealth Games, Delhi, India_
+2. [2010 Commonwealth Games:Thousands of slum dwellers are handed eviction notices in the Indian capital Delhi, a week before the 2010 Commonwealth Games is due to open. ](/news/2010/09/26/2010-commonwealth-games-pthousands-of-slum-dwellers-are-handed-eviction-notices-in-the-indian-capital-delhi-a-week-before-the-2010-commonwe.md) _Context: 2010 Commonwealth Games, Delhi, India_
+3. [Michael Fennell, the President of the Commonwealth Games Federation, says that the Games will go ahead but that there "was extensive work to be done" for the 2010 Commonwealth Games in Delhi, India, ahead of its opening on 3 October. ](/news/2010/09/25/michael-fennell-the-president-of-the-commonwealth-games-federation-says-that-the-games-will-go-ahead-but-that-there-was-extensive-work-to.md) _Context: 2010 Commonwealth Games, Delhi, India_
+4. [2010 Commonwealth Games: Countries including New Zealand, Canada and Scotland delay their departure for the host city of Delhi, India, due to concerns about unsafe and unhygienic accommodation in the athletes' village. ](/news/2010/09/23/2010-commonwealth-games-pcountries-including-new-zealand-canada-and-scotland-delay-their-departure-for-the-host-city-of-delhi-india-due.md) _Context: 2010 Commonwealth Games, Delhi, India_
+5. [The Commonwealth Games Federation demands that India improve conditions at the athletes' village in Delhi. ](/news/2010/09/21/the-commonwealth-games-federation-demands-that-india-improve-conditions-at-the-athletes-village-in-delhi.md) _Context: 2010 Commonwealth Games, Delhi, India_
+6. [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md) _Context: Australia, Delhi, India_
+7. [Former Australian swimmer Dawn Fraser is criticised for controversial remarks during which she called for the boycott of the 2010 Commonwealth Games in Delhi. ](/news/2010/08/19/former-australian-swimmer-dawn-fraser-is-criticised-for-controversial-remarks-during-which-she-called-for-the-boycott-of-the-2010-commonweal.md) _Context: 2010 Commonwealth Games, Australia, Delhi_
+8. [Former chair of the Intergovernmental Panel on Climate Change Rajendra K. Pachauri is to face a court in Delhi, India on charges of sexual harassment. Pachauri is accused of stalking, intimidation and sexual assault of a former employee. ](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-climate-change-rajendra-k-pachauri-is-to-face-a-court-in-delhi-india-on-charges-of-sexual-h.md) _Context: Delhi, India_
+9. [Thousands, including some  from Australia, protest in London, England, against the  renewal of the United Kingdom's Trident nuclear deterrent system, the largest anti-nuclear rally since 1983. Leader of the Labour Party Jeremy Corbyn, Scottish National Party leader and First Minister of Scotland Nicola Sturgeon, the Welsh Plaid Cymru Party, and the Green Party participated in the march. A parliamentary vote on renewing Trident is expected this year. ](/news/2016/02/27/thousands-including-some-from-australia-protest-in-london-england-against-the-renewal-of-the-united-kingdom-s-trident-nuclear-deterren.md) _Context: Australia, England_
+10. [Water supply is restored to the Indian city of Delhi as repairs are made to the vital Munak canal after the Jat reservation agitation is resolved. ](/news/2016/02/23/water-supply-is-restored-to-the-indian-city-of-delhi-as-repairs-are-made-to-the-vital-munak-canal-after-the-jat-reservation-agitation-is-res.md) _Context: Delhi, India_

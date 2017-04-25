@@ -1,0 +1,25 @@
+### [2009-10-8](/news/2009/10/8/index.md)
+
+#  A new study reveals one in four people are Muslim, with the global Muslim population standing at 1.57 billion. 
+
+
+
+
+### Source:
+
+1. [RIA Novosti](http://en.rian.ru/society/20091008/156398630.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/08/muslim-population-islam-survey)
+3. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/10/08/1008388/report-1-in-4-people-are-muslim)
+
+### Related:
+
+1. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Muslim_
+2. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country,  and calls on Myanmar State Counsellor   Aung San Suu Kyi and the United Nations to address the Rohingya's plight  and end the violence.   Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the  Association of Southeast Asian Nations's principle on  sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Muslim_
+3. [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md) _Context: Muslim_
+4. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Muslim_
+5. [The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md) _Context: Muslim_
+6. [This week, the Gambia and Tanzania outlawed child marriages. Friday, the Tanzanian High Court -- in a case filed by the  ''Msichana Initiative'', a lobbying group that advocates for girls' right to education -- ruled in favor of protecting girls from the harms of early marriage. And during  a feast ending the Muslim holy month of Ramadan on Wednesday, The Gambian President Yahya Jammeh announced that child and forced marriages are banned. Jammeh called on the National Assembly to quickly take up the issue. ](/news/2016/07/9/this-week-the-gambia-and-tanzania-outlawed-child-marriages-friday-the-tanzanian-high-court-a-in-a-case-filed-by-the-msichana-initiat.md) _Context: Muslim_
+7. [Yanghee Lee, the United Nations special human rights envoy to overwhelmingly Buddhist Myanmar, says more than 100,000 of the Muslim Rohingya minority remain in squalid camps they were forced to four years ago by violence. The government does not recognize most of these people as citizens, and has treated even long-term residents as illegal immigrants. Lee is encouraged by last March's peaceful transition to a democratically elected and civilian-led government. ](/news/2016/07/1/yanghee-lee-the-united-nations-special-human-rights-envoy-to-overwhelmingly-buddhist-myanmar-says-more-than-100-000-of-the-muslim-rohingya.md) _Context: Muslim_
+8. [London votes Sadiq Khan to succeed Boris Johnson as Mayor of London; Khan is the first Muslim to be elected London's Mayor. ](/news/2016/05/6/london-votes-sadiq-khan-to-succeed-boris-johnson-as-mayor-of-london-khan-is-the-first-muslim-to-be-elected-london-s-mayor.md) _Context: Muslim_
+9. [Philippine security forces kill as many as 42 ISIL-linked militants, and captures their stronghold in the predominantly Muslim Lanao del Sur province. Three Philippine Army soldiers were also killed during the fighting. ](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.md) _Context: Muslim_
+10. [The prime ministers of Britain and France joined condemnation around the globe  of U.S. Republican presidential candidate Donald Trump's call for a "total and complete ban" on Muslims entering the United States. ](/news/2015/12/8/the-prime-ministers-of-britain-and-france-joined-condemnation-around-the-globe-of-u-s-republican-presidential-candidate-donald-trumpas-c.md) _Context: Muslim_

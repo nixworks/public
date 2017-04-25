@@ -1,0 +1,26 @@
+### [2010-09-12](/news/2010/09/12/index.md)
+
+# 2009 detention of American hikers by Iran: Iran announces its willingness to release Sarah Shourd, a U.S. hiker arrested in 2009, on bail and says that she will be permitted to leave the country. 
+
+Iranian authorities are ready to release on $500,000 (£325,000) bail one of the three US hikers detained last year, state media report.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010912728371337.html)
+2. [AP via ''The Independent](http://www.independent.co.uk/news/world/middle-east/iran-ready-to-release-american-woman-2077347.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/sep/12/iran-bail-hiker-sarah-shourd)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-11275130)
+
+### Related:
+
+1. [An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md) _Context: Iran, Sarah Shourd_
+2. [Iran releases United States hiker Sarah Shourd from Evin Prison following payment of bail. ](/news/2010/09/14/iran-releases-united-states-hiker-sarah-shourd-from-evin-prison-following-payment-of-bail.md) _Context: Iran, Sarah Shourd_
+3. [Iran delays the release of United States detainee Sarah Shourd because the legal processes have not been completed. ](/news/2010/09/10/iran-delays-the-release-of-united-states-detainee-sarah-shourd-because-the-legal-processes-have-not-been-completed.md) _Context: Iran, Sarah Shourd_
+4. [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md) _Context: Iran_
+5. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Iran_
+6. [Flash flooding caused by torrential rain leaves at least 17 people dead and 20 others missing in northwestern Iran, according to state television. ](/news/2017/04/15/flash-flooding-caused-by-torrential-rain-leaves-at-least-17-people-dead-and-20-others-missing-in-northwestern-iran-according-to-state-telev.md) _Context: Iran_
+7. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _Context: Iran_
+8. [Iranian Minister of Defence Hossein Dehghan confirms Iran tested a new missile, claiming that the test did not violate the 2015 nuclear deal nor UN resolution 2231. ](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.md) _Context: Iran_
+9. [The Iranian government declares three days of national mourning following the death of the former president and one of the key figures in the Islamic Republic. ](/news/2017/01/9/the-iranian-government-declares-three-days-of-national-mourning-following-the-death-of-the-former-president-and-one-of-the-key-figures-in-th.md) _Context: Iran_
+10. [A U.S. Navy destroyer fires three warning shots at four Iranian fast-attack vessels after they close in at a high speed near the Strait of Hormuz, according to U.S. defense officials. ](/news/2017/01/9/a-u-s-navy-destroyer-fires-three-warning-shots-at-four-iranian-fast-attack-vessels-after-they-close-in-at-a-high-speed-near-the-strait-of-h.md) _Context: Iran_

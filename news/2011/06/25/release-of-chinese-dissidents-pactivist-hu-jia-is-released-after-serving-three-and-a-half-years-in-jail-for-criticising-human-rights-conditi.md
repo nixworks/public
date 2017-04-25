@@ -1,0 +1,26 @@
+### [2011-06-25](/news/2011/06/25/index.md)
+
+# Release of Chinese dissidents:Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. 
+
+Hu was imprisoned for criticising human rights conditions in China ahead of the 2008 Beijing Olympic Games.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/06/2011625211022390987.html)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hHefDKYMrR9XyB-eUpbwbsRG1S2g?docId=CNG.c9cde10db53b7b578203134cc9ebbef5.3d1)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13914125)
+4. [Voice of Russia](http://english.ruvr.ru/2011/06/26/52398073.html)
+
+### Related:
+
+1. [Art exhibit of Chinese dissident, Ai Weiwei, jailed by the Chinese government last month for unspecified "economic crimes," opens in New York City. ](/news/2011/05/4/art-exhibit-of-chinese-dissident-ai-weiwei-jailed-by-the-chinese-government-last-month-for-unspecified-economic-crimes-opens-in-new-yor.md) _Context: China's, dissident_
+2. [19 countries are to miss the Nobel Peace Prize ceremony for Chinese dissident Liu Xiaobo; 44 are to attend. China described supporters of Liu as "clowns". ](/news/2010/12/7/19-countries-are-to-miss-the-nobel-peace-prize-ceremony-for-chinese-dissident-liu-xiaobo-44-are-to-attend-china-described-supporters-of-li.md) _Context: China's, dissident_
+3. [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md) _Context: China's, dissident_
+4. [A book written by Chinese dissident Yu Jie critical of Premier Wen Jiabao goes on sale in Hong Kong, with threats of imprisonment from the mainland. ](/news/2010/08/16/a-book-written-by-chinese-dissident-yu-jie-critical-of-premier-wen-jiabao-goes-on-sale-in-hong-kong-with-threats-of-imprisonment-from-the-m.md) _Context: China's, dissident_
+5. [ The trial of Chinese dissident Liu Xiaobo on charges of subversion begins. ](/news/2009/12/23/the-trial-of-chinese-dissident-liu-xiaobo-on-charges-of-subversion-begins.md) _Context: China's, dissident_
+6. [Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. ](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.md) _Context: China's_
+7. [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md) _Context: China's_
+8. [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md) _Context: China's_
+9. [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md) _Context: China's_
+10. [United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-ing-wen-the-first-known-contact-bet.md) _Context: China's_

@@ -1,0 +1,26 @@
+### [2012-01-18](/news/2012/01/18/index.md)
+
+# Protests against Stop Online Piracy Act and Protect IP Act:Several major websites, including Reddit and the English Wikipedia, undergo blackouts in protest against controversial internet legislation proposed by the United States Congress. The two pieces of legislation in question are designed to combat online piracy, but are feared to inadvertently threaten online innovation and freedom of speech. 
+
+With a Web-wide protest on Wednesday that includes a shutdown of Wikipedia, the legislative battle over two piracy bills has reached a political coming of age.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16623831)
+2. [O'Reilly Radar](http://radar.oreilly.com/2012/01/the-week-the-web-changed-washi.html)
+3. [Washington Post](http://www.washingtonpost.com/business/six-us-lawmakers-abandon-anti-piracy-bills-as-google-protests/2012/01/18/gIQAzBHz8P_story.html?tid=pm_business_pop)
+4. [New York Times](http://www.nytimes.com/2012/01/18/technology/web-wide-protest-over-two-antipiracy-bills.html)
+
+### Related:
+
+1. [The English Wikipedia will be shut down on Wednesday in protest against anti-piracy legislation proposed by the United States Congress. ](/news/2012/01/16/the-english-wikipedia-will-be-shut-down-on-wednesday-in-protest-against-anti-piracy-legislation-proposed-by-the-united-states-congress.md) _Context: English Wikipedia, SOPA, U.S. Congress_
+2. [SOPA and PIPA are postponed indefinitely as a result of the recent protests. ](/news/2012/01/20/sopa-and-pipa-are-postponed-indefinitely-as-a-result-of-the-recent-protests.md) _Context: PIPA, SOPA_
+3. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: U.S. Congress_
+4. [The United States House of Representatives votes in favor of legislation that approves preliminary budgetary measures for the United States Congress to begin repealing the Patient Protection and Affordable Care Act, colloquially known as Obamacare. ](/news/2017/01/13/the-united-states-house-of-representatives-votes-in-favor-of-legislation-that-approves-preliminary-budgetary-measures-for-the-united-states.md) _Context: U.S. Congress_
+5. [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md) _Context: U.S. Congress_
+6. [A series of cyberattacks utilizing distributed denial-of-service attacks, targeting networks operated by DNS provider Dyn, makes major Internet platforms and services unavailable to large swaths of users in Europe and North America. Affected companies include Amazon, Twitter, Spotify, Reddit, PayPal, Netflix, and Airbnb. ](/news/2016/10/21/a-series-of-cyberattacks-utilizing-distributed-denial-of-service-attacks-targeting-networks-operated-by-dns-provider-dyn-makes-major-inter.md) _Context: Reddit_
+7. [The United States Congress passes a law allowing families of the victims of the September 11 attacks to sue Saudi Arabia. U.S. president Barack Obama threatens to veto it. ](/news/2016/09/9/the-united-states-congress-passes-a-law-allowing-families-of-the-victims-of-the-september-11-attacks-to-sue-saudi-arabia-u-s-president-bar.md) _Context: U.S. Congress_
+8. [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md) _Context: U.S. Congress_
+9. [The Governor of the U.S. territory of Guam Eddie Calvo announces his intention to hold a plebiscite to decide the future political status of the island. Calvo said he hopes to start a successful "education campaign" on the issue before filing a petition to start a referendum. If the plebiscite does take place, voters on Guam would be asked to select which political status they would prefer; independence, statehood, or free association However, the possible vote would be non-binding as any change in political status would require an act of Congress in Washington, D.C.. Guam is currently on the United Nations list of Non-Self-Governing Territories in need of decolonization. ](/news/2016/04/2/the-governor-of-the-u-s-territory-of-guam-eddie-calvo-announces-his-intention-to-hold-a-plebiscite-to-decide-the-future-political-status-of.md) _Context: U.S. Congress_
+10. [U.S. Federal Communications Commissioner Michael O'Rielly says, during a speech at the American Action Forum, that Netflix's admission last week that it has been intentionally slowing its video streaming transmission on some wireless mobile carriers for five years "deeply disturbing" which might warrant an investigation by the Federal Trade Commission and/or Congress. ](/news/2016/03/29/u-s-federal-communications-commissioner-michael-o-rielly-says-during-a-speech-at-the-american-action-forum-that-netflix-s-admission-last.md) _Context: U.S. Congress_

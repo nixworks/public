@@ -1,0 +1,23 @@
+### [2017-01-7](/news/2017/01/7/index.md)
+
+# A fuel truck explodes in the Syrian town of Azaz, near the border with Turkey, killing at least 43 people, according to the Syrian Observatory for Human Rights. 
+
+Fuel truck explodes in front of a courthouse in Azaz, and news agency says car bomb planted by Islamic State was responsible
+
+
+### Source:
+
+1. [The Guardian](https://www.theguardian.com/world/2017/jan/07/blast-kills-dozens-in-rebel-held-syrian-town-azaz)
+
+### Related:
+
+1. [The Syrian Observatory for Human Rights reports a car bomb has killed at least ten people in the city of Azaz, Aleppo Governorate. ](/news/2016/11/17/the-syrian-observatory-for-human-rights-reports-a-car-bomb-has-killed-at-least-ten-people-in-the-city-of-azaz-aleppo-governorate.md) _Context: Azaz, Syrian Civil War, Syrian Observatory for Human Rights_
+2. [Syrian Civil War Airstrikes hit  Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights.  At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/syrian-civil-war-pairstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-obs.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights, Turkish_
+3. [The Syrian Observatory for Human Rights says that Turkey has shelled areas held by the Kurdish YPG militia group in Syria's Aleppo Governorate for the second successive day with two YPG fighters reportedly killed. ](/news/2016/02/14/the-syrian-observatory-for-human-rights-says-that-turkey-has-shelled-areas-held-by-the-kurdish-ypg-militia-group-in-syria-s-aleppo-governora.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights, Turkish_
+4. [The Syrian Observatory for Human Rights reports that at least 50 United States military instructors have deployed to northern Syria from Turkey and Iraq to train Kurdish forces ahead of an assault on ISIL's de facto capital Al-Raqqah. ](/news/2015/11/30/the-syrian-observatory-for-human-rights-reports-that-at-least-50-united-states-military-instructors-have-deployed-to-northern-syria-from-tur.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights, Turkish_
+5. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+6. [At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-rights.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+7. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+8. [At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-fighter-jets-on-the-town-of-al-bab-in-the-last-24-hours.md) _Context: Syrian Civil War, Turkish_
+9. [The Syrian Observatory for Human Rights reports that militants attacked two Syrian Armed Forces bases in Homs, killing at least 42 people, including a senior intelligence officer. ](/news/2017/02/25/the-syrian-observatory-for-human-rights-reports-that-militants-attacked-two-syrian-armed-forces-bases-in-homs-killing-at-least-42-people-i.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+10. [Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. ](/news/2017/02/14/rival-fighters-between-tahrir-al-sham-and-jund-al-aqsa-clash-in-syria-s-northern-idlib-governorate-killing-dozens-according-to-the-syrian.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_

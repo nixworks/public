@@ -1,0 +1,23 @@
+### [2011-01-12](/news/2011/01/12/index.md)
+
+# The Jamaican Coast Guard intercepts a Honduran vessel fishing near Pedro Cays, killing the captain and wounding two crewmen. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [AP via ABC](http://abcnews.go.com/International/wireStory?id=12593832)
+
+### Related:
+
+1. [Heavy rains from Hurricane Matthew's outer bands drench Haiti and Jamaica, killing a Haitian fisherman. The Category 4 storm, with 140 mph ((220 km/h) maximum sustained winds), is heading towards western Haiti, eastern Cuba, and the southeastern and central Bahamas. ](/news/2016/10/3/heavy-rains-from-hurricane-matthew-s-outer-bands-drench-haiti-and-jamaica-killing-a-haitian-fisherman-the-category-4-storm-with-140-mph.md) _Context: Jamaica_
+2. [Hurricane Matthew, at Category 4 strength with maximum sustained winds of 150 mph (240 km/h), temporarily stalls as it heads towards Jamaica and Haiti. Weather forecasters expect tropical storm conditions today with landfall tomorrow. Further, they expect rainfall of 20 inches, with up to 40 inches in some parts of southern Haiti. ](/news/2016/10/2/hurricane-matthew-at-category-4-strength-with-maximum-sustained-winds-of-150-mph-240-km-h-temporarily-stalls-as-it-heads-towards-jamaica.md) _Context: Jamaica_
+3. [Hurricane Matthew becomes a category-5 hurricane with maximum sustained winds up to 160 mph, the strongest hurricane to form over the Caribbean Sea since Hurricane Felix in 2007. It is expected to impact parts of Haiti, Jamaica and eastern Cuba. ](/news/2016/09/30/hurricane-matthew-becomes-a-category-5-hurricane-with-maximum-sustained-winds-up-to-160-mph-the-strongest-hurricane-to-form-over-the-caribb.md) _Context: Jamaica_
+4. [A 6.1 magnitude earthquake hits the northwestern coast of Nicaragua  not far from the Honduran border.  ''La Prensa'' reports the walls of a church collapsed in the  city of Chinandega. There are no immediate reports of casualties. ](/news/2016/06/9/a-6-1-magnitude-earthquake-hits-the-northwestern-coast-of-nicaragua-not-far-from-the-honduran-border-la-prensa-reports-the-walls-of-a.md) _Context: Honduran_
+5. [Two  missionaries from the United States are found slain in separate areas of rural St. Mary parish in Jamaica. Randy Hentzel and Harold Nichols both worked for a Pennsylvania-based Christian charity called Teams for Medical Missions. ](/news/2016/05/1/two-missionaries-from-the-united-states-are-found-slain-in-separate-areas-of-rural-st-mary-parish-in-jamaica-randy-hentzel-and-harold-nic.md) _Context: Jamaica_
+6. [Gunmen dressed in police uniforms kill at least ten people in the Honduran capital of Tegucigalpa. ](/news/2016/03/5/gunmen-dressed-in-police-uniforms-kill-at-least-ten-people-in-the-honduran-capital-of-tegucigalpa.md) _Context: Honduran_
+7. [Voters in Jamaica go to the polls for a general election, with the Jamaican Labour Party, led by Andrew Holness, winning a narrow victory. ](/news/2016/02/25/voters-in-jamaica-go-to-the-polls-for-a-general-election-with-the-jamaican-labour-party-led-by-andrew-holness-winning-a-narrow-victory.md) _Context: Jamaica_
+8. [Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. ](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.md) _Context: Jamaica_
+9. [El Salvador's murder rate surges by 70% in 2015, an increase that may lead to the Central American nation edging out Honduras as the world's most murderous nation. ](/news/2015/12/29/el-salvador-s-murder-rate-surges-by-70-in-2015-an-increase-that-may-lead-to-the-central-american-nation-edging-out-honduras-as-the-world-s.md) _Context: Honduran_
+10. [An archaeological expedition claims to have found the legendary White City in northeastern Honduras, with artifacts that range in dates from the 11th to 14th century. ](/news/2015/03/3/an-archaeological-expedition-claims-to-have-found-the-legendary-white-city-in-northeastern-honduras-with-artifacts-that-range-in-dates-from.md) _Context: Honduran_

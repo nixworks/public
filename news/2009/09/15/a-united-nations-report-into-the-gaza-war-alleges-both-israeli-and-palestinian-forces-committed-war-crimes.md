@@ -1,0 +1,24 @@
+### [2009-09-15](/news/2009/09/15/index.md)
+
+#  A United Nations report into the Gaza War alleges both Israeli and Palestinian forces committed war crimes. 
+
+
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/09/2009915142916822510.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8257301.stm)
+
+### Related:
+
+1. [Gaza War:Israel asks the United Nations to disavow the Goldstone Report after the report's author, Judge Richard Goldstone, says that he retracts the accusation that Israel intentionally targeted civilians during the 2008-2009 Gaza War. ](/news/2011/04/2/gaza-war-pisrael-asks-the-united-nations-to-disavow-the-goldstone-report-after-the-report-s-author-judge-richard-goldstone-says-that-he-re.md) _Context: 2008–2009 Gaza War, Israel, United Nations, war crime_
+2. [ The United Nations Human Rights Council endorses the Goldstone report on the Gaza War, accusing both Israel and Hamas of war crimes. ](/news/2009/10/16/the-united-nations-human-rights-council-endorses-the-goldstone-report-on-the-gaza-war-accusing-both-israel-and-hamas-of-war-crimes.md) _Context: 2008–2009 Gaza War, Israel, United Nations, war crime_
+3. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _Context: Israel, United Nations, war crime_
+4. [Two attempts in South Africa to arrest former Israeli foreign minister Tzipi Livni for alleged war crimes during the war on Gaza are rejected. ](/news/2011/01/19/two-attempts-in-south-africa-to-arrest-former-israeli-foreign-minister-tzipi-livni-for-alleged-war-crimes-during-the-war-on-gaza-are-rejecte.md) _Context: 2008–2009 Gaza War, Israel, war crime_
+5. [Israel tells the United Nations it will limit the use of fatal burning weapon white phosphorus in future conflicts after using it on civilians during its War on Gaza. ](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.md) _Context: 2008–2009 Gaza War, Israel, United Nations_
+6. [United Nations figures indicate around 225 families remain homeless in Gaza since Israel's three-week military offensive was launched in December 2008. ](/news/2010/07/18/united-nations-figures-indicate-around-225-families-remain-homeless-in-gaza-since-israel-s-three-week-military-offensive-was-launched-in-dec.md) _Context: 2008–2009 Gaza War, Israel, United Nations_
+7. [In its annual report, Amnesty International says human rights abuses and repression increased in Iran and China last year, the African Union refused to cooperate with the International Criminal Court after it indicted Sudanese President Omar al-Bashir for war crimes in Darfur, the United Nations' Human Rights Council took little action while Sri Lanka's army and Tamil militants both committed potential war crimes, and Israel and the militant group Hamas did not follow up on reports that accused both sides of human rights abuses during the Gaza War. ](/news/2010/05/27/in-its-annual-report-amnesty-international-says-human-rights-abuses-and-repression-increased-in-iran-and-china-last-year-the-african-union.md) _Context: 2008–2009 Gaza War, Israel, United Nations_
+8. [Prime Minister of Israel Benjamin Netanyahu resists calls from the United States to stop construction in Jerusalem; the United Nations claims Israel's blockade of Gaza prevents it from educating thousands of Palestinian children. ](/news/2010/04/23/prime-minister-of-israel-benjamin-netanyahu-resists-calls-from-the-united-states-to-stop-construction-in-jerusalem-the-united-nations-claim.md) _Context: Israel, Palestinian, United Nations_
+9. [Middle East:Secretary-General of the United Nations Ban Ki-moon enters Gaza with the message "we (the United Nations) stand with you (Palestine)", criticises Israel's actions and speaks of his distress at the "unacceptable, unsustainable conditions" endured by Palestinians and the lack of reconstruction of damaged buildings. ](/news/2010/03/21/middle-east-psecretary-general-of-the-united-nations-ban-ki-moon-enters-gaza-with-the-message-we-the-united-nations-stand-with-you-pales.md) _Context: Israel, Palestinian, United Nations_
+10. [Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-the-december-23-2016-security-council-settl.md) _Context: Israel, United Nations_

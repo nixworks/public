@@ -1,0 +1,23 @@
+### [2005-11-17](/news/2005/11/17/index.md)
+
+#  The Archbishop of Canterbury Rowan Williams, the leader of the world-wide Anglican Communion, is challenged to rethink his personal stance on the ordination of gay clergy in the light of scripture by nearly half of all the Anglican Primates. 
+
+
+
+
+### Source:
+
+1. [Guardian Online](http://www.guardian.co.uk/religion/Story/0,2763,1644268,00.html)
+
+### Related:
+
+1. [The current Bishop of Durham Justin Welby is officially named as the next Archbishop of Canterbury, the leader of the Anglican Church. He will succeed the present incumbent, Rowan Williams, who is set to retire in December. ](/news/2012/11/9/the-current-bishop-of-durham-justin-welby-is-officially-named-as-the-next-archbishop-of-canterbury-the-leader-of-the-anglican-church-he-wi.md) _Context: Archbishop of Canterbury, Rowan Williams_
+2. [Dr. Rowan Williams announces his intention to retire as Archbishop of Canterbury at the end of the year. Having headed the Anglican Church since 2003, he will subsequently take up the role as Master of Magdalene College, Cambridge. ](/news/2012/03/16/dr-rowan-williams-announces-his-intention-to-retire-as-archbishop-of-canterbury-at-the-end-of-the-year-having-headed-the-anglican-church-s.md) _Context: Archbishop of Canterbury, Rowan Williams_
+3. [Clarence House confirms that Prince William and Catherine Middleton will be married by the Archbishop of Canterbury, Dr Rowan Williams. ](/news/2011/01/5/clarence-house-confirms-that-prince-william-and-catherine-middleton-will-be-married-by-the-archbishop-of-canterbury-dr-rowan-williams.md) _Context: Archbishop of Canterbury, Rowan Williams_
+4. [ Archbishop of Canterbury Rowan Williams and Pope Benedict XVI agree to "seek closer relations" in a meeting in Rome. ](/news/2009/11/21/archbishop-of-canterbury-rowan-williams-and-pope-benedict-xvi-agree-to-seek-closer-relations-in-a-meeting-in-rome.md) _Context: Archbishop of Canterbury, Rowan Williams_
+5. [ Rowan Williams, Archbishop of Canterbury and spiritual head of the Anglican community, declines to invite gay Bishop of New Hampshire Gene Robinson and unrecognized conservative Bishop Martyn Minns of the Convocation of Anglicans in North America to the 2008 Lambeth Conference.  ](/news/2007/05/22/rowan-williams-archbishop-of-canterbury-and-spiritual-head-of-the-anglican-community-declines-to-invite-gay-bishop-of-new-hampshire-gene.md) _Context: Archbishop of Canterbury, Rowan Williams_
+6. [German Justice Minister Heiko Maas says he will propose legislation to annul homosexuality convictions, and create a "right to compensation." A 19th-century law outlawed sexual relations between men. Homosexuality was decriminalized in 1969, but the law itself was not rescinded until 1994. ](/news/2016/05/11/german-justice-minister-heiko-maas-says-he-will-propose-legislation-to-annul-homosexuality-convictions-and-create-a-aright-to-compensatio.md) _Context: homosexuality_
+7. [Protesters demanding political reform leave Baghdad's Green Zone after camping for 24 hours in the heavily fortified government district. These activists, followers of Shi'ite Muslim cleric Muqtada al-Sadr, support Prime Minister Haider al-Abadi's  anti-corruption proposals to replace party-affiliated ministers with technocrats. A grid-locked parliament has been unable to act on these changes. ](/news/2016/05/1/protesters-demanding-political-reform-leave-baghdad-s-green-zone-after-camping-for-24-hours-in-the-heavily-fortified-government-district-th.md) _Context: cleric_
+8. [The Russian Duma rejects a Communist Party bill banning homosexual expression. ](/news/2016/01/18/the-russian-duma-rejects-a-communist-party-bill-banning-homosexual-expression.md) _Context: homosexuality_
+9. [Archbishops of the Anglican Communion meeting in England vote to sanction the U.S. branch of the Communion for its unilateral decision to allow same-sex marriages.](/news/2016/01/14/archbishops-of-the-anglican-communion-meeting-in-england-vote-to-sanction-the-u-s-branch-of-the-communion-for-its-unilateral-decision-to-al.md) _Context: Anglican Communion_
+10. [Nigerian soldiers kill at least 12 people and injure dozens more in a clash with followers  of Shi'a cleric Ibrahim Zakzaky's Islamic movement in the northern town of Zaria. The army says the crowd  surged towards General Tukur Buratai's convoy, some firing and attempting to kill Buratai. Afterward, the Nigerian Army and  the Islamic Movement accuse each other of instigating the attacks. ](/news/2015/12/12/nigerian-soldiers-kill-at-least-12-people-and-injure-dozens-more-in-a-clash-with-followers-of-shi-a-cleric-ibrahim-zakzaky-s-islamic-moveme.md) _Context: cleric_

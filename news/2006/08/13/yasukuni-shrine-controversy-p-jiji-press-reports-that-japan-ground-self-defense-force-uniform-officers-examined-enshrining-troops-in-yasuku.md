@@ -1,0 +1,24 @@
+### [2006-08-13](/news/2006/08/13/index.md)
+
+#  Yasukuni Shrine controversy: Jiji Press reports that Japan Ground Self-Defense Force uniform officers examined enshrining troops in Yasukuni Shrine in the event of their death during their non-combat mission in Iraq. Critics accuse the examination of being against Japanese constitutional separation of state and religion. 
+
+The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
+
+
+### Source:
+
+1. [Mainichi Daily News](http://mdn.mainichi-msn.co.jp/national/news/20060812p2a00m0na037000c.html)
+2. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200608090131.html)
+
+### Related:
+
+1. [An  explosion at Japan's controversial Yasukuni Shrine for the war dead in Tokyo damages the ceiling and a wall of a public bathroom near the shrine's southern entrance. No one was injured. ](/news/2015/11/23/an-explosion-at-japan-s-controversial-yasukuni-shrine-for-the-war-dead-in-tokyo-damages-the-ceiling-and-a-wall-of-a-public-bathroom-near-th.md) _Context: Yasukuni Shrine_
+2. [The Japan Ground Self-Defense Force will for the first time participate in Exercise Talisman Saber, a joint exercise between the United States and Australia. ](/news/2015/05/26/the-japan-ground-self-defense-force-will-for-the-first-time-participate-in-exercise-talisman-saber-a-joint-exercise-between-the-united-stat.md) _Context: Japan Ground Self-Defense Force_
+3. [The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. ](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.md) _Context: Yasukuni Shrine_
+4. [Two Japanese cabinet ministers Keiji Furuya and Yoshitaka Shindo visit the Yasukuni Shrine to mark the 69th anniversary of Japan's surrender at the end of World War II. This visit upsets China and South Korea as the shrine contains the graves of war criminals. ](/news/2014/08/15/two-japanese-cabinet-ministers-keiji-furuya-and-yoshitaka-shindo-visit-the-yasukuni-shrine-to-mark-the-69th-anniversary-of-japan-s-surrender.md) _Context: Yasukuni Shrine_
+5. [Japanese Prime Minister Shinzo Abe visits the Yasukuni Shrine. The location is controversial because it enshrines many war criminals from World War II. The visit provokes condemnation from China and South Korea and criticism from the United States. ](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.md) _Context: Yasukuni Shrine_
+6. [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md) _Context: Yasukuni Shrine_
+7. [Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. ](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.md) _Context: Yasukuni Shrine_
+8. [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md) _Context: Yasukuni Shrine_
+9. [European politicians, including Jean-Marie Le Pen and Adam Walker, visit Yasukuni Shrine in Chiyoda, Tokyo; visits to this shrine have traditionally been a sensitive point in international politics between Japan, Korea, and China. ](/news/2010/08/14/european-politicians-including-jean-marie-le-pen-and-adam-walker-visit-yasukuni-shrine-in-chiyoda-tokyo-visits-to-this-shrine-have-tradi.md) _Context: Yasukuni Shrine_
+10. [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md) _Context: Yasukuni Shrine_

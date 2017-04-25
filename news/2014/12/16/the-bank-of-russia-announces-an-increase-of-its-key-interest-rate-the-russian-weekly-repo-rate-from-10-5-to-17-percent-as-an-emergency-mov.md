@@ -1,0 +1,19 @@
+### [2014-12-16](/news/2014/12/16/index.md)
+
+# The Bank of Russia announces an increase of its key interest rate, the Russian weekly repo rate, from 10.5 to 17 percent as an emergency move to halt the collapse of the ruble's value and, thereby, stabilize the Russian economy. 
+
+The ruble plunged more than 11 percent against the dollar on Tuesday in its steepest intraday fall since the Russian financial crisis in 1998 as confidence in the central bank evaporated after an ineffectual rate hike.
+
+
+### Source:
+
+1. [Channel News Asia](http://www.channelnewsasia.com/news/business/international/russia-hikes-key-rate-to/1531324.html)
+2. [Reuters](http://www.reuters.com/article/2014/12/16/us-russia-rouble-exchange-idUSKBN0JU0KO20141216)
+
+### Related:
+
+1. [A court in southern Russia finds Ukrainian pilot Nadiya Savchenko guilty of being complicit in the killing of two Russian journalists, killing civilians and illegal border crossing and is sentenced to 22 years in prison and a fine of 30,000 rubles. Savchenko denies all the charges and the Ukrainian government said that they would continue to press for her release. ](/news/2016/03/22/a-court-in-southern-russia-finds-ukrainian-pilot-nadiya-savchenko-guilty-of-being-complicit-in-the-killing-of-two-russian-journalists-killi.md) _Context: rubles_
+2. [The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-60-60-against-the-dollar.md) _Context: rubles_
+3. [Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md) _Context: 2014 Russian financial crisis_
+4. [ Russian financial crisis of 2008-2009: Russia devalues the ruble for the sixth time in 2009 and will overhaul the state budget to reflect the sharp decrease in the price of petroleum, its key export. ](/news/2009/01/19/russian-financial-crisis-of-2008a2009-p-russia-devalues-the-ruble-for-the-sixth-time-in-2009-and-will-overhaul-the-state-budget-to-reflec.md) _Context: rubles_
+5. [ Court in Moscow sentences director Yuri Samodurov and Lyudmila Vasilovskaya for fine of 100,000 rubles (about 2,000 or $3,600) for blasphemy because of their 2003 exhibition ''Caution! Religion''. ](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodurov-and-lyudmila-vasilovskaya-for-fine-of-100-000-rubles-about-ps2-000-or-3-600-for-blasphe.md) _Context: rubles_

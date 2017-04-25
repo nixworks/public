@@ -1,0 +1,24 @@
+### [2010-10-10](/news/2010/10/10/index.md)
+
+# U.S. soul singer Solomon Burke dies at Amsterdam's Airport Schiphol. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11509614)
+2. [AP via Yahoo News](http://news.yahoo.com/s/ap/20101010/ap_on_en_mu/eu_obit_solomon_burke)
+
+### Related:
+
+1. [Power returns to Amsterdam after a 5-hour blackout that caused the closure of Amsterdam Airport Schiphol and disrupted public transport networks throughout the Netherlands. ](/news/2015/03/27/power-returns-to-amsterdam-after-a-5-hour-blackout-that-caused-the-closure-of-amsterdam-airport-schiphol-and-disrupted-public-transport-netw.md) _Context: Amsterdam, Amsterdam Airport Schiphol_
+2. [Several 1-inch needles are found in sandwiches on multiple Delta Air Lines flights from Amsterdam Airport Schiphol to the United States. The FBI and Dutch authorities launch a criminal investigation. ](/news/2012/07/17/several-1-inch-needles-are-found-in-sandwiches-on-multiple-delta-air-lines-flights-from-amsterdam-airport-schiphol-to-the-united-states-the.md) _Context: Amsterdam Airport Schiphol, United States_
+3. [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md) _Context: Amsterdam, Amsterdam Airport Schiphol_
+4. [2 Yemenis are released from custody in Amsterdam, having been arrested after being suspected by the United States of plotting a terrorist act. No evidence was found against the men. ](/news/2010/09/1/2-yemenis-are-released-from-custody-in-amsterdam-having-been-arrested-after-being-suspected-by-the-united-states-of-plotting-a-terrorist-ac.md) _Context: Amsterdam, United States_
+5. [ American officials investigate a possible attempted terrorist attack after an incident on Northwest Airlines Flight 253  from Amsterdam to Detroit. ](/news/2009/12/25/american-officials-investigate-a-possible-attempted-terrorist-attack-after-an-incident-on-northwest-airlines-flight-253-from-amsterdam-to.md) _Context: Amsterdam, United States_
+6. [ Amsterdam's Schiphol Airport holds a memorial ceremony for the nine victims of Turkish Airlines Flight 1951. ](/news/2009/03/7/amsterdam-s-schiphol-airport-holds-a-memorial-ceremony-for-the-nine-victims-of-turkish-airlines-flight-1951.md) _Context: Amsterdam, Amsterdam Airport Schiphol_
+7. [ The Netherlands' Safety Board finds that Turkish Airlines Flight 1951 crash-landed near Amsterdam's Schiphol Airport because of a faulty altimeter. ](/news/2009/03/4/the-netherlands-safety-board-finds-that-turkish-airlines-flight-1951-crash-landed-near-amsterdam-s-schiphol-airport-because-of-a-faulty-al.md) _Context: Amsterdam, Amsterdam Airport Schiphol_
+8. [ Turkish Airlines Flight 1951 crashes at Amsterdam's Schiphol Airport, killing nine people and injuring 84. ](/news/2009/02/25/turkish-airlines-flight-1951-crashes-at-amsterdam-s-schiphol-airport-killing-nine-people-and-injuring-84.md) _Context: Amsterdam, Amsterdam Airport Schiphol_
+9. [The United States launches 60  Tomahawk cruise missiles aimed at the Ash Sha'irat air base in Homs Governorate in response to the Syrian government's alleged use of chemical weapons in its attack on the town of Khan Shaykhun. The Government of Syria claims the attack killed six soldiers and nine civilians, including four children. ](/news/2017/04/7/the-united-states-launches-60-tomahawk-cruise-missiles-aimed-at-the-ash-sha-irat-air-base-in-homs-governorate-in-response-to-the-syrian-gov.md) _Context: United States_
+10. [Hyundai (Sonata and Santa Fe) and Kia (Optima, Sorento, and Sportage) are recalling 1.5 million cars, over 1.3 million in United States and 170,000 in South Korea, over an engine defect. ](/news/2017/04/7/hyundai-sonata-and-santa-fe-and-kia-optima-sorento-and-sportage-are-recalling-1-5-million-cars-over-1-3-million-in-united-states-and.md) _Context: United States_

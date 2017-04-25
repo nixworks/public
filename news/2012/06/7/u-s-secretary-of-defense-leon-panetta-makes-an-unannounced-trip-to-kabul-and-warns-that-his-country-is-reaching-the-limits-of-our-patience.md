@@ -1,0 +1,26 @@
+### [2012-06-7](/news/2012/06/7/index.md)
+
+# U.S. Secretary of Defense Leon Panetta makes an unannounced trip to Kabul and warns that his country is "reaching the limits of our patience here" with regard to Pakistan. 
+
+Washington is losing patience with Pakistan over alleged safe havens for Taliban militants, US Defence Secretary Leon Panetta warns.
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/world/2012/jun/07/pakistan-insurgent-bases-panetta)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/201267111154359107.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-18350766)
+4. [AFP via the ''Daily Nation](http://www.nation.co.ke/News/world/US+defence+chief+in+Kabul+on+unannounced+visit/-/1068/1422386/-/ry1y07/-/index.html)
+
+### Related:
+
+1. [Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. ](/news/2015/01/15/afghan-security-officials-arrest-five-men-in-kabul-in-relation-to-their-suspected-involvement-in-the-pakistan-school-massacre.md) _Context: Kabul, Pakistan_
+2. [The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. [http://english.samaylive.com/world/676469784.html (samaylive)].](/news/2010/07/27/the-afghan-war-diary-claim-that-pakistan-s-inter-service-intelligence-isi-orchestrated-the-suicide-attack-on-the-indian-embassy-in-kabul-i.md) _Context: Kabul, Pakistan_
+3. [ Afghanistan's National Directorate of Security eliminates a Pakistani terrorist cell responsible for at least six suicide bombings in Kabul. ](/news/2009/02/3/afghanistan-s-national-directorate-of-security-eliminates-a-pakistani-terrorist-cell-responsible-for-at-least-six-suicide-bombings-in-kabul.md) _Context: Kabul, Pakistan_
+4. [ A Pakistani cargo plane carrying eight to ten people crashes near Kabul, capital of Afghanistan. There are no survivors. The cause of the crash is unknown. ](/news/2005/11/11/a-pakistani-cargo-plane-carrying-eight-to-ten-people-crashes-near-kabul-capital-of-afghanistan-there-are-no-survivors-the-cause-of-the-c.md) _Context: Kabul, Pakistan_
+5. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Pakistan_
+6. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Pakistan_
+7. [An attack occurs at a Sufi shrine near Sargodha, Pakistan, killing more than 20 people. Authorities arrest a main suspect and several others. ](/news/2017/04/2/an-attack-occurs-at-a-sufi-shrine-near-sargodha-pakistan-killing-more-than-20-people-authorities-arrest-a-main-suspect-and-several-others.md) _Context: Pakistan_
+8. [A suicide bomber kills at least five people and wounds ten more near government offices in Kabul. ISIL claims responsibility for the attack. ](/news/2017/04/12/a-suicide-bomber-kills-at-least-five-people-and-wounds-ten-more-near-government-offices-in-kabul-isil-claims-responsibility-for-the-attack.md) _Context: Kabul_
+9. [ Pakistan sentences former Indian Navy officer Kulbhushan Yadav to death for espionage and sabotage. ](/news/2017/04/10/pakistan-sentences-former-indian-navy-officer-kulbhushan-yadav-to-death-for-espionage-and-sabotage.md) _Context: Pakistan_
+10. [A suicide bomber and unidentified gunmen dressed as doctors attack a military hospital in Kabul, killing at least 38 people and wounding dozens more. ISIL claims responsibility for the attack. ](/news/2017/03/8/a-suicide-bomber-and-unidentified-gunmen-dressed-as-doctors-attack-a-military-hospital-in-kabul-killing-at-least-38-people-and-wounding-doz.md) _Context: Kabul_

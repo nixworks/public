@@ -1,0 +1,40 @@
+## [2014-04-6](/news/2014/04/6/index.md)
+
+### [Syrian Civil War:Mortar fire kills two people near the Damascus Opera House. ](/news/2014/04/6/syrian-civil-war-pmortar-fire-kills-two-people-near-the-damascus-opera-house.md)
+DAMASCUS, Syria (AP) â€” Mortar shells exploded near the Damascus Opera House on Sunday, killing two, state media said, as rebels intensified their shelling of the Syrian capital to relieve pressure on an opposition neighborhood that government forces have been trying to seize.
+
+### [2014 pro-Russian protests in Ukraine:Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/2014-pro-russian-protests-in-ukraine-ppro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donets.md)
+Pro-Russian protesters storm government buildings in three eastern Ukrainian cities, calling for a referendum on independence.
+
+### [2014 Aswan tribal clashes:Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/2014-aswan-tribal-clashes-ptwo-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md)
+Two people were killed on Sunday when tribal clashes flared for a third day in the southern city of Aswan, security sources said.
+
+### [''Captain America: The Winter Soldier'' grosses an estimated US$96.2 million domestically during its opening weekend, the most ever for an April opener. ](/news/2014/04/6/captain-america-the-winter-soldier-grosses-an-estimated-us-96-2-million-domestically-during-its-opening-weekend-the-most-ever-for-an-a.md)
+UPDATED: The superhero sequel debuts to a stunning $96.2 million in North America; &quot;Noah&quot; comes in a distant No. 2 as it crosses the $178 million mark worldwide. 
+
+### [Veteran American actor Mickey Rooney dies at the age of 93. ](/news/2014/04/6/veteran-american-actor-mickey-rooney-dies-at-the-age-of-93.md)
+Mickey Rooney was the original Hardy boy. His 200-plus credits notwithstanding, the spry, spirited Rooney will be best remembered for playing the impetuous title character in MGM&#39;s beloved Andy Hardy movies.
+
+### [WrestleMania XXX takes place in New Orleans and sees the end of The Undertaker's Streak. ](/news/2014/04/6/wrestlemania-xxx-takes-place-in-new-orleans-and-sees-the-end-of-the-undertaker-s-streak.md)
+_Context: New Orleans, Streak, The Undertaker, WrestleMania XXX_
+
+### [The world's two largest cement manufacturers, LaFarge of France and Holcim of Switzerland, agree to a merger that would create a firm with a market value of $55 billion. ](/news/2014/04/6/the-world-s-two-largest-cement-manufacturers-lafarge-of-france-and-holcim-of-switzerland-agree-to-a-merger-that-would-create-a-firm-with-a.md)
+* Combined entity would have market value of $55 bln* Firms to announce plan on Monday, Holcim would buy Lafarge* Companies already working t
+
+### [Nigeria's economy passes South Africa's to become the largest in Africa. ](/news/2014/04/6/nigeria-s-economy-passes-south-africa-s-to-become-the-largest-in-africa.md)
+_Context: Nigeria's economy, South Africa_
+
+### [The Ambassador of Italy to Turkmenistan is charged for alleged child abuse while on holiday in the Philippines. ](/news/2014/04/6/the-ambassador-of-italy-to-turkmenistan-is-charged-for-alleged-child-abuse-while-on-holiday-in-the-philippines.md)
+The Italian ambassador to Turkmenistan has been detained by police in the Philippines, who have accused him of violating laws on the safeguarding of children, the Foreign Ministry in Rome said on Sunday.
+
+### [Costa Rican general election, 2014:Voters in Costa Rica go to the polls for a general election. Luis Guillermo Sols is the only presidential candidate left in the race following the withdrawal of Johnny Araya. ](/news/2014/04/6/costa-rican-general-election-2014-pvoters-in-costa-rica-go-to-the-polls-for-a-general-election-luis-guillermo-solis-is-the-only-presidenti.md)
+_Context: Costa Rican general election, 2014, Johnny Araya, Luis Guillermo Solís_
+
+### [Hungarian parliamentary election, 2014:Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/hungarian-parliamentary-election-2014-pvoters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-chr.md)
+_Context: Christian Democrats, Fidesz party, Hungarian Prime Minister, Hungarian parliamentary election, 2014, Viktor Orbán_
+
+### [Russian municipal electionsCommunist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-electionspcommunist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of.md)
+_Context: Anatoly Lokot, Communist Party, Novosibirsk, United Russia_
+
+## [Previous Day...](/news/2014/04/5/index.md)
+

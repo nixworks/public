@@ -1,0 +1,23 @@
+### [2009-08-10](/news/2009/08/10/index.md)
+
+#  Ecuador's Health Minister Caroline Chang says South America's twelve nations have pledged to respect regional vaccine price ceilings to prevent businesses from exploiting fear of the A/H1N1 flu pandemic. 
+
+South America&#039;s twelve nations on Saturday pledged to respect regional vaccine price ceilings to prevent businesses from exploiting fear of the A/H1N1 flu pandemic, Ecuador&#039;s Health Minister Caroline Chang said.
+
+
+### Source:
+
+1. [MercoPress](http://en.mercopress.com/2009/08/10/south-america-agrees-on-price-ceilings-for-the-ah1n1-vaccine)
+
+### Related:
+
+1. [Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.md) _Context: Ecuador_
+2. [The National Liberation Army releases former congressman Odin Sanchez, who had been held hostage by the rebel group since April 2016, paving the way for peace talks to begin between the rebels and the Colombian government next week in Ecuador. ](/news/2017/02/2/the-national-liberation-army-releases-former-congressman-odin-sanchez-who-had-been-held-hostage-by-the-rebel-group-since-april-2016-paving.md) _Context: Ecuador_
+3. [Mercosur suspends Venezuela from the South American trading bloc for failing to meet membership requirements on trade and human rights. ](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-american-trading-bloc-for-failing-to-meet-membership-requirements-on-trade-and-human-rights.md) _Context: South America_
+4. [The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea,  and for the northwest South American coast. ](/news/2016/09/29/the-u-s-national-hurricane-center-issues-a-tropical-storm-watch-for-aruba-bonaire-and-curaassao-islands-in-the-caribbean-sea-and-for-the.md) _Context: South America_
+5. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Ecuador_
+6. [The South American trading bloc Mercosur threatens to suspend Venezuela if it does not protect human rights and enact a law guaranteeing the free movement of Mercosur citizens. The bloc sets a deadline of December 1, 2016, for Venezuela to comply with their requirements. ](/news/2016/09/14/the-south-american-trading-bloc-mercosur-threatens-to-suspend-venezuela-if-it-does-not-protect-human-rights-and-enact-a-law-guaranteeing-the.md) _Context: South America_
+7. [A powerful 6.7 magnitude earthquake hits Ecuador near the town of Muisne, one person is killed. ](/news/2016/05/18/a-powerful-6-7-magnitude-earthquake-hits-ecuador-near-the-town-of-muisne-one-person-is-killed.md) _Context: Ecuador_
+8. [Heavy rain pelts earthquake-hit Ecuador causing floods, mostly in the town of Alluriquin in the Santo Domingo de los Tsachilas Province, killing at least four people and injuring several more. About 300 people have been affected by the floods after a local river burst its banks, engulfing the town with water. ](/news/2016/04/27/heavy-rain-pelts-earthquake-hit-ecuador-causing-floods-mostly-in-the-town-of-alluriquin-in-the-santo-domingo-de-los-tsa-chilas-province-ki.md) _Context: Ecuador_
+9. [The United Nations World Food Programme announces it is stepping up assistance to Ecuador's most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.md) _Context: Ecuador_
+10. [The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.md) _Context: South America_

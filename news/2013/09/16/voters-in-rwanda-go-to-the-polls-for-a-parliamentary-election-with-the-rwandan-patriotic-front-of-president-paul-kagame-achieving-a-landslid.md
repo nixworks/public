@@ -1,0 +1,24 @@
+### [2013-09-16](/news/2013/09/16/index.md)
+
+# Voters in Rwanda go to the polls for a parliamentary election with the Rwandan Patriotic Front of President Paul Kagame achieving a landslide victory. 
+
+
+
+
+### Source:
+
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hfGgXfY6vlq6-6sehqLlLEkrFgfA?docId=CNG.49bcc0089441faaa25bb3c6e28cc4338.2a1&hl=en)
+2. [NineMSN](http://news.ninemsn.com.au/world/2013/09/18/02/45/rwanda-s-ruling-party-wins-landslide-vote)
+
+### Related:
+
+1. [Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kagame-to-run-for-more-terms-in-office-the.md) _Context: Paul Kagame, President, Rwanda_
+2. [ Rwanda breaks off diplomatic relations with France after a French judge, Jean-Louis Bruguire, issues warrants for the arrest of President of Rwanda Paul Kagame and nine associates for their alleged involvement in the shooting down of a plane carrying former President Juvenal Habyarimana. The incident sparked the Rwandan Genocide in 1994. ](/news/2006/11/24/rwanda-breaks-off-diplomatic-relations-with-france-after-a-french-judge-jean-louis-bruguiere-issues-warrants-for-the-arrest-of-president.md) _Context: Paul Kagame, President, Rwanda_
+3. [Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. ](/news/2012/09/9/nestor-louis-michel-calls-rwandan-president-paul-kagame-a-great-leader-groot-leider-kagame-has-been-accused-of-war-crimes-during-rwan.md) _Context: Paul Kagame, Rwanda_
+4. [A military court in Rwanda sentences four former top officials who were allies of President Paul Kagame to long prison sentences ''in absentia''. ](/news/2011/01/14/a-military-court-in-rwanda-sentences-four-former-top-officials-who-were-allies-of-president-paul-kagame-to-long-prison-sentences-in-absent.md) _Context: Paul Kagame, Rwanda_
+5. [Rwanda's incumbent President Paul Kagame wins the country's presidential election with 95% of the vote. ](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.md) _Context: Paul Kagame, Rwanda_
+6. [Rwandan authorities arrest two people in connection with the killing of a journalist critical of Rwandan President Paul Kagame, and deny complicity in the murder. ](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.md) _Context: Paul Kagame, Rwanda_
+7. [Rwanda president Paul Kagame's rival Victoire Ingabire Umuhoza is released one day after her arrest on charges of terrorism and genocide denial but banned from leaving Kigali and ordered to report to authorities twice a month. ](/news/2010/04/22/rwanda-president-paul-kagame-s-rival-victoire-ingabire-umuhoza-is-released-one-day-after-her-arrest-on-charges-of-terrorism-and-genocide-den.md) _Context: Paul Kagame, Rwanda_
+8. [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md) _Context: Paul Kagame, Rwanda_
+9. [ Rwandan President Paul Kagame denies previous reports that quoted him as saying Rwanda would invade the Democratic Republic of Congo to deal with Hutu rebel groups responsible for the Rwandan genocide. ](/news/2006/11/13/rwandan-president-paul-kagame-denies-previous-reports-that-quoted-him-as-saying-rwanda-would-invade-the-democratic-republic-of-congo-to-dea.md) _Context: Paul Kagame, Rwanda_
+10. [A magnitude 5.7 earthquake occurs in northern Tanzania, near Lake Victoria, killing at least 13 people and injuring 200 others. Tanzanian authorities report significant damage in the town of Bukoba. The governments of Burundi, Kenya, Rwanda, and Uganda report tremors. ](/news/2016/09/10/a-magnitude-5-7-earthquake-occurs-in-northern-tanzania-near-lake-victoria-killing-at-least-13-people-and-injuring-200-others-tanzanian-au.md) _Context: Rwanda_

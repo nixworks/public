@@ -1,0 +1,23 @@
+### [2015-04-9](/news/2015/04/9/index.md)
+
+# A violent storm system spawns at least one tornado killing two people and injuring seven others in the American state of Illinois and causing widespread damage especially in the small towns of Rochelle and Fairdale. 
+
+A storm system threw off tornadoes killed 1 and left a trail of destruction Thursday night as it swept across a 50-mile swath of north central Illinois.
+
+
+### Source:
+
+1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-chicago-weather-20150409-story.html)
+
+### Related:
+
+1. [Tornadoes of 2015, At least 11 people are killed as tornadoes strike Dallas, Texas, and five people die in a flash flood in Illinois. A total of 34 people have died in this week's smorgasbord of storms that started Wednesday. Mark Wiley of the National Weather Service says this rare run of December tornado storms in the South and Midwest, and spring-like temperatures across much of the North and East, in part to a strong El Nino. ](/news/2015/12/27/tornadoes-of-2015-at-least-11-people-are-killed-as-tornadoes-strike-dallas-texas-and-five-people-die-in-a-flash-flood-in-illinois-a-tota.md) _Context: Illinois, Tornadoes of 2015, tornado_
+2. [The death toll in the spring-like, tornado-laden storms that began Wednesday in the American South has risen to 18 with additional tornadoes hitting north-central Alabama Friday and one outside of Dallas, Texas, today. ](/news/2015/12/26/the-death-toll-in-the-spring-like-tornado-laden-storms-that-began-wednesday-in-the-american-south-has-risen-to-18-with-additional-tornadoes.md) _Context: Tornadoes of 2015, tornado_
+3. [Tornadoes of 2015 At least six people die and dozens injured as major storms, packed with tornadoes, move through the American South and Midwest. Three people died when a tornado hit northern Mississippi, one was killed in Arkansas and two more in Tennessee. Officials continue  searching into the night for the missing. ](/news/2015/12/23/tornadoes-of-2015-pat-least-six-people-die-and-dozens-injured-as-major-storms-packed-with-tornadoes-move-through-the-american-south-and-mi.md) _Context: Tornadoes of 2015, tornado_
+4. [Tornadoes of 2015: Tornadoes are reported across several states in the Great Plains region of the United States including Oklahoma, Kansas and Nebraska. ](/news/2015/05/6/tornadoes-of-2015-tornadoes-are-reported-across-several-states-in-the-great-plains-region-of-the-united-states-including-oklahoma-kansas-a.md) _Context: Tornadoes of 2015, tornado_
+5. [At least 36 people are hospitalised and 30 per cent of the town of Van, Texas is damaged by a tornado. ](/news/2015/05/10/at-least-36-people-are-hospitalised-and-30-per-cent-of-the-town-of-van-texas-is-damaged-by-a-tornado.md) _Context: Tornadoes of 2015, tornado_
+6. [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md) _Context: Illinois, tornado_
+7. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: tornado_
+8. [Severe  storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several  people and damaging at least 100 homes with  one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at.md) _Context: tornado_
+9. [A new class action lawsuit, filed on Tuesday in U.S. federal court in Illinois,  claims the Volkswagen Group  used emission defeat devices in at least six of its Audi V6 gasoline engines. ](/news/2016/11/13/a-new-class-action-lawsuit-filed-on-tuesday-in-u-s-federal-court-in-illinois-claims-the-volkswagen-group-used-emission-defeat-devices-i.md) _Context: Illinois_
+10. [U.S. officials are investigating the hacking of election system databases in Illinois and Arizona. The FBI alerted all  election officials nationwide about this issue earlier this month. ](/news/2016/08/29/u-s-officials-are-investigating-the-hacking-of-election-system-databases-in-illinois-and-arizona-the-fbi-alerted-all-election-officials-n.md) _Context: Illinois_

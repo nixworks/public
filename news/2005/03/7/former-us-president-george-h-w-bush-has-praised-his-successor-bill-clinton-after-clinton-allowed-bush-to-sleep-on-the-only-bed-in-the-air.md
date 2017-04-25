@@ -1,0 +1,23 @@
+### [2005-03-7](/news/2005/03/7/index.md)
+
+#  Former US President George H. W. Bush has praised his successor Bill Clinton after Clinton allowed Bush to sleep on the only Bed in the airplane the pair were using on their tour of tsunami-hit areas. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4325585.stm)
+
+### Related:
+
+1. [U.S. news magazine ''Time'' selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those.md) _Context: Bill Clinton, George H. W. Bush_
+2. [ Former US Presidents Bill Clinton and George H. W. Bush visit Sri Lanka to see marks of the 2004 Indian Ocean earthquake ](/news/2005/02/21/former-us-presidents-bill-clinton-and-george-h-w-bush-visit-sri-lanka-to-see-marks-of-the-2004-indian-ocean-earthquake.md) _Context: Bill Clinton, George H. W. Bush_
+3. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami.  '''''[Newslink missing]'''''](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-mi.md) _Context: Bill Clinton, George H. W. Bush_
+4. [A 7.9 magnitude earthquake hits west of Panguna, Papua New Guinea, beneath Bougainville Island.  No immediate reports of casualties or major damage. Tsunami alert for Papua New Guinea and the Solomon Islands is rescinded. ](/news/2017/01/22/a-7-9-magnitude-earthquake-hits-west-of-panguna-papua-new-guinea-beneath-bougainville-island-no-immediate-reports-of-casualties-or-major.md) _Context: Tsunami_
+5. [ Former U.S. President George H. W. Bush is hospitalized in intensive care at Houston Methodist Hospital for treatment of pneumonia. His wife, Barbara is also hospitalized. ](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.md) _Context: George H. W. Bush_
+6. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: Tsunami_
+7. [A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. ](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.md) _Context: Tsunami_
+8. [The United States Geological Survey also reports that a magnitude 6.2 earthquake struck off the coast of Malaita island, Solomon Islands. However, no tsunami warning has been issued. ](/news/2016/06/10/the-united-states-geological-survey-also-reports-that-a-magnitude-6-2-earthquake-struck-off-the-coast-of-malaita-island-solomon-islands-ho.md) _Context: Tsunami_
+9. [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md) _Context: Tsunami_
+10. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: Tsunami_

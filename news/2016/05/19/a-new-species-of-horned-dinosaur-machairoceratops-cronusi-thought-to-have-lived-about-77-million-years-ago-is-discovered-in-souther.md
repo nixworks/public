@@ -1,0 +1,25 @@
+### [2016-05-19](/news/2016/05/19/index.md)
+
+#  A new species of horned dinosaur, ''Machairoceratops cronusi'',  thought to have lived about 77 million years ago, is discovered in southern Utah. 
+
+Scientists have added another dinosaur species to the prehistoric catalog, and this one was found in what is now Utah.
+
+
+### Source:
+
+1. [Huffington Post](http://www.huffingtonpost.com/entry/new-horned-dinosaur-utah_us_573ca9cce4b0646cbeebc520)
+2. [PLOS One](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154403)
+3. [FOX News](http://www.foxnews.com/science/2016/05/18/new-dinosaur-species-discovered-in-american-southwest.html)
+
+### Related:
+
+1. [Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. ](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.md) _Context: Utah_
+2. [U.S. President Barack Obama declares the Bears Ears in Utah and Gold Butte area of Nevada as National Monuments. Both are known for the presence of Native American populations and archaeological sites. ](/news/2016/12/29/u-s-president-barack-obama-declares-the-bears-ears-in-utah-and-gold-butte-area-of-nevada-as-national-monuments-both-are-known-for-the-pres.md) _Context: Utah_
+3. [The death of an elderly Utah woman  with a Zika virus infection in late June is the first reported Zika-related death in the continental United States. The woman had traveled to an area where Zika is spreading. The exact cause of death has not been determined; the lady had an underlying medical condition. ](/news/2016/07/8/the-death-of-an-elderly-utah-woman-with-a-zika-virus-infection-in-late-june-is-the-first-reported-zika-related-death-in-the-continental-uni.md) _Context: Utah_
+4. [The U.S. state of Utah declares pornography a "public health risk" in a move Governor of Utah Gary Herbert says is to "protect our families and our young people". The bill, signed by the governor, does not ban pornography in the state but does call for greater "efforts to prevent pornography exposure and addiction". ](/news/2016/04/20/the-u-s-state-of-utah-declares-pornography-a-public-health-risk-in-a-move-governor-of-utah-gary-herbert-says-is-to-protect-our-families.md) _Context: Utah_
+5. [U.S. federal health officials are investigating an outbreak of deadly E. coli bacteria that has sickened 19 people in California, Colorado, Missouri, Montana, Utah, Virginia, and Washington. Preliminary evidence suggests that rotisserie chicken salad made and sold in Costco Wholesale stores is the likely source. This follows a totally unrelated outbreak earlier this month connected to Chipotle Mexican Grill restaurants. Those restaurants have been cleaned, new ingredients ordered, and have been reopened. The Costco E. coli 157 strain, which has caused five people to be hospitalized- two of which developed hemolytic uremic syndrome (HUS; which can readily lead to acute renal failure and sepsis), is more dangerous than the Chipotle E. coli 026 strain, though there have been no deaths yet. ](/news/2015/11/24/u-s-federal-health-officials-are-investigating-an-outbreak-of-deadly-e-coli-bacteria-that-has-sickened-19-people-in-california-colorado.md) _Context: Utah_
+6. [Scott N. Johansen, a Utah Juvenile Court judge, reverses his original order to remove a foster child from same sex-parents.   The state Division of Child and Family Services and foster parents all filed motions asking for the reconsideration and promising an appeal.  The new decision eliminates the phrase, "It is not in the best interest of children to be raised by same-sex couples" and strikes an order for the child to be placed with a non-same-sex couple. ](/news/2015/11/14/scott-n-johansen-a-utah-juvenile-court-judge-reverses-his-original-order-to-remove-a-foster-child-from-same-sex-parents-the-state-divi.md) _Context: Utah_
+7. [The death toll rises to 16 from this week's flash flood along the  Utah - Arizona border in the United States. ](/news/2015/09/16/the-death-toll-rises-to-16-from-this-week-s-flash-flood-along-the-utah-a-arizona-border-in-the-united-states.md) _Context: Utah_
+8. [American actor Emile Hirsch takes a plea for 15 days in jail for an assault on a Paramount Pictures executive at the Sundance Resort in Utah. ](/news/2015/08/17/american-actor-emile-hirsch-takes-a-plea-for-15-days-in-jail-for-an-assault-on-a-paramount-pictures-executive-at-the-sundance-resort-in-utah.md) _Context: Utah_
+9. [The U.S. state of Utah reinstates the use of execution by firing squad for situations where lethal injection is not possible. ](/news/2015/03/23/the-u-s-state-of-utah-reinstates-the-use-of-execution-by-firing-squad-for-situations-where-lethal-injection-is-not-possible.md) _Context: Utah_
+10. [A defendant is shot to death by a U.S. marshal at a U.S. federal court in Salt Lake City, Utah after attempting to attack a witness.  ](/news/2014/04/21/a-defendant-is-shot-to-death-by-a-u-s-marshal-at-a-u-s-federal-court-in-salt-lake-city-utah-after-attempting-to-attack-a-witness.md) _Context: Utah_

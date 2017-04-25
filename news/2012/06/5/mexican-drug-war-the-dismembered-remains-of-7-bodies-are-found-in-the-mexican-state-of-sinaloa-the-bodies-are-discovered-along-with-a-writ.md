@@ -1,0 +1,23 @@
+### [2012-06-5](/news/2012/06/5/index.md)
+
+# Mexican Drug War: The dismembered remains of 7 bodies are found in the Mexican state of Sinaloa. The bodies are discovered along with a written message accusing the authorities of cooperating with the Sinaloa Cartel, suggesting that the message may have been written by Los Zetas. 
+
+
+
+
+### Source:
+
+1. [Washington Post](http://www.washingtonpost.com/world/the_americas/7-dismembered-bodies-found-in-mexican-pacific-coast-state-of-sinaloa/2012/06/05/gJQAcqxlGV_story.html)
+
+### Related:
+
+1. [Mexican Drug War: A car bomb explodes outside the city hall in the Mexican border city of Nuevo Laredo, injuring 7 bystanders. This is the third car bomb in Nuevo Laredo this year, and much of the violence is blamed on the country's most powerful cartels: Los Zetas and the Sinaloa Cartel. ](/news/2012/06/29/mexican-drug-war-a-car-bomb-explodes-outside-the-city-hall-in-the-mexican-border-city-of-nuevo-laredo-injuring-7-bystanders-this-is-the-t.md) _Context: Los Zetas, Mexican Drug War, Sinaloa Cartel_
+2. [Mexican Drug War:15 mutilated bodies are found inside two abandoned SUVs in the state of Jalisco, a region that is under dispute between Los Zetas and the Sinaloa Cartel. The Mexican authorities believe the massacre is a response by Los Zetas for the 2012 Nuevo Laredo massacres reportedly carried out by Joaquin Guzman Loera (a.k.a. ''El Chapo''), Mexico's most-wanted drug lord. ](/news/2012/05/9/mexican-drug-war-p15-mutilated-bodies-are-found-inside-two-abandoned-suvs-in-the-state-of-jalisco-a-region-that-is-under-dispute-between-lo.md) _Context: Los Zetas, Mexican Drug War, Sinaloa Cartel_
+3. [Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities-who-were-closing-i.md) _Context: Mexican Drug War, Sinaloa_
+4. [Mexican Drug War:Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa.  ](/news/2014/05/12/mexican-drug-war-pgalindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-kille.md) _Context: Los Zetas, Mexican Drug War_
+5. [Mexican Drug War:High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. ](/news/2013/12/18/mexican-drug-war-phigh-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasco.md) _Context: Mexican Drug War, Sinaloa Cartel_
+6. [The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md) _Context: Los Zetas, Mexican Drug War_
+7. [Mexican Drug War: The Mexican Navy confirms that Heriberto Lazcano Lazcano, the top leader of the criminal organization Los Zetas, was killed in a shootout yesterday. The body is stolen by armed gunmen. ](/news/2012/10/9/mexican-drug-war-the-mexican-navy-confirms-that-heriberto-lazcano-lazcano-the-top-leader-of-the-criminal-organization-los-zetas-was-kille.md) _Context: Los Zetas, Mexican Drug War_
+8. [Mexican Drug War: Initial reports from the Mexican Navy indicate that Heriberto Lazcano Lazcano, the top leader of the most dangerous Mexican criminal organization known as Los Zetas, may have been killed in a shootout. The forensic tests are currently on their way to confirm his identity. ](/news/2012/10/8/mexican-drug-war-initial-reports-from-the-mexican-navy-indicate-that-heriberto-lazcano-lazcano-the-top-leader-of-the-most-dangerous-mexica.md) _Context: Los Zetas, Mexican Drug War_
+9. [Mexican Drug War: The Mexican Army kills Manuel Torres Felix, one of the leaders of the Sinaloa Cartel. ](/news/2012/10/13/mexican-drug-war-the-mexican-army-kills-manuel-torres-fa-c-lix-one-of-the-leaders-of-the-sinaloa-cartel.md) _Context: Mexican Drug War, Sinaloa Cartel_
+10. [Mexican Drug War: Alleged members of Los Zetas, a drug cartel originally set up by former soldiers of the Mexican Army, attack several media outlets in Monterrey for publishing on a rumored split between the two principal Zetas bosses. ](/news/2012/08/6/mexican-drug-war-alleged-members-of-los-zetas-a-drug-cartel-originally-set-up-by-former-soldiers-of-the-mexican-army-attack-several-media.md) _Context: Los Zetas, Mexican Drug War_

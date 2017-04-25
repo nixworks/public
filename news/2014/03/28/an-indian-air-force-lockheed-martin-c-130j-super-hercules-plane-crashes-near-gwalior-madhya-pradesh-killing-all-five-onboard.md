@@ -1,0 +1,23 @@
+### [2014-03-28](/news/2014/03/28/index.md)
+
+# An Indian Air Force Lockheed Martin C-130J Super Hercules plane crashes near Gwalior, Madhya Pradesh, killing all five onboard. 
+
+Less than 10 minutes after it took off from Agra, one of the Indian Air Force&#039;s newest and sturdiest aircraft crashed near Gwalior, killing all five people on board.
+
+
+### Source:
+
+1. [NDTV](http://www.ndtv.com/article/india/air-force-s-new-c-130-j-aircraft-crashes-near-gwalior-five-killed-501343?curl=1395996681)
+
+### Related:
+
+1. [The search intensifies for the Indian Air Force Antonov An-32 military transport with 29 people aboard  that went missing over the Bay of Bengal shortly after its Friday morning takeoff from Tambaram. ](/news/2016/07/23/the-search-intensifies-for-the-indian-air-force-antonov-an-32-military-transport-with-29-people-aboard-that-went-missing-over-the-bay-of-be.md) _Context: Indian Air Force_
+2. [Five of the terrorists who attacked an Indian Air Force base in Pathankot, Punjab are reported to have been killed; mopping-up and search operations continue. National Security Guard officials state the operations will continue until the air base is made safe. ](/news/2016/01/4/five-of-the-terrorists-who-attacked-an-indian-air-force-base-in-pathankot-punjab-are-reported-to-have-been-killed-mopping-up-and-search-op.md) _Context: Indian Air Force_
+3. [Gunfire and loud explosions are heard at an Indian Air Force base in Pathankot, Punjab, as anti-terrorist operations continue. A further two militants, for a total of six, are reported to have been killed; seven military and paramilitary personnel are reported to have been killed, with up to 20 other security personnel wounded. ](/news/2016/01/3/gunfire-and-loud-explosions-are-heard-at-an-indian-air-force-base-in-pathankot-punjab-as-anti-terrorist-operations-continue-a-further-two.md) _Context: Indian Air Force_
+4. [Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base-in-pathankot-punjab-three-security-force.md) _Context: Indian Air Force_
+5. [A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 104 people with over 150 missing. ](/news/2015/09/12/a-series-of-explosions-involving-propane-triggering-nearby-illegally-stored-mining-detonators-in-the-indian-town-of-petlawad-in-the-state-of.md) _Context: Madhya Pradesh_
+6. [Two express passenger trains (12 coaches of the Kamayani Express; to Varanasi from Mumbai, or Bombay) derail, after being partially swept off a bridge while crossing flooded tracks in India's Madhya Pradesh state leaving at least 31 people killed and about 100 others injured. Related to this incident are monsoon rains and the end of a cyclone which have killed more than 100 people in India. ](/news/2015/08/4/two-express-passenger-trains-12-coaches-of-the-kamayani-express-to-varanasi-from-mumbai-or-bombay-derail-after-being-partially-swept-of.md) _Context: Madhya Pradesh_
+7. [A bus carrying at least 60 passengers plunges into a gorge in India's Madhya Pradesh resulting in at least ten deaths and 33 people injured. ](/news/2015/02/16/a-bus-carrying-at-least-60-passengers-plunges-into-a-gorge-in-india-s-madhya-pradesh-resulting-in-at-least-ten-deaths-and-33-people-injured.md) _Context: Madhya Pradesh_
+8. [Indian Air Force landing chopper-307 crashed in the Sitapur area of Uttar Pradesh, taking the lives of 7 people.  ](/news/2014/07/25/indian-air-force-landing-chopper-307-crashed-in-the-sitapur-area-of-uttar-pradesh-taking-the-lives-of-7-people.md) _Context: Indian Air Force_
+9. [A judicial inquiry is ordered into a stampede during Navrati festivities near a temple in India's Madhya Pradesh state that resulted in 109 deaths and 120 people being injured. ](/news/2013/10/14/a-judicial-inquiry-is-ordered-into-a-stampede-during-navrati-festivities-near-a-temple-in-india-s-madhya-pradesh-state-that-resulted-in-109.md) _Context: Madhya Pradesh_
+10. [A stampede breaks out on a bridge near the Ratangarh Mata Temple in Datia district, Madhya Pradesh, India during the Hindu festival Navratri, killing 115 people and injuring more than 110. ](/news/2013/10/13/a-stampede-breaks-out-on-a-bridge-near-the-ratangarh-mata-temple-in-datia-district-madhya-pradesh-india-during-the-hindu-festival-navratri.md) _Context: Madhya Pradesh_

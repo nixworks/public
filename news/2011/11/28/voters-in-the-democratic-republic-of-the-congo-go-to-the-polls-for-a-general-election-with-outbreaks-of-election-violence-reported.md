@@ -1,0 +1,23 @@
+### [2011-11-28](/news/2011/11/28/index.md)
+
+# Voters in the Democratic Republic of the Congo go to the polls for a general election, with outbreaks of election violence reported. 
+
+
+
+
+### Source:
+
+1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970203802204577066130301929116.html)
+
+### Related:
+
+1. [Security is increased in the Congolese capital Kinshasa prior to the announcement of results from presidential and parliamentary elections. ](/news/2011/12/8/security-is-increased-in-the-congolese-capital-kinshasa-prior-to-the-announcement-of-results-from-presidential-and-parliamentary-elections.md) _Context: Democratic Republic of the Congo, presidential election_
+2. [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md) _Context: Democratic Republic of the Congo, presidential election_
+3. [Human Rights Watch alleges that security forces in the Democratic Republic of the Congo have been responsible for the deaths of 24 people since the re-election of Joseph Kabila as President. ](/news/2011/12/22/human-rights-watch-alleges-that-security-forces-in-the-democratic-republic-of-the-congo-have-been-responsible-for-the-deaths-of-24-people-si.md) _Context: Democratic Republic of the Congo, presidential election_
+4. [Democratic Republic of the Congo opposition leader Etienne Tshisekedi's party calls for mass protests amid disputed elections. ](/news/2011/12/14/democratic-republic-of-the-congo-opposition-leader-etienne-tshisekedi-s-party-calls-for-mass-protests-amid-disputed-elections.md) _Context: Democratic Republic of the Congo, presidential election_
+5. [International monitors say that elections in the Democratic Republic of the Congo lacked credibility. ](/news/2011/12/11/international-monitors-say-that-elections-in-the-democratic-republic-of-the-congo-lacked-credibility.md) _Context: Democratic Republic of the Congo, presidential election_
+6. [At least six people are killed in clashes in the Democratic Republic of the Congo in the aftermath of disputed general elections in which Joseph Kabila was named President. ](/news/2011/12/10/at-least-six-people-are-killed-in-clashes-in-the-democratic-republic-of-the-congo-in-the-aftermath-of-disputed-general-elections-in-which-jo.md) _Context: Democratic Republic of the Congo, presidential election_
+7. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: Democratic Republic of the Congo_
+8. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Democratic Republic of the Congo_
+9. [Authorities find the remains of two missing U.N. investigators--former Swedish politician Zaida Catalan and U.S. national Michael Sharp--in a shallow grave in the province of Kasai-Central, Democratic Republic of the Congo. ](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n-investigatorsaformer-swedish-politician-zaida-catala-n-and-u-s-national-michael-sharpa.md) _Context: Democratic Republic of the Congo_
+10. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: Democratic Republic of the Congo_

@@ -1,0 +1,23 @@
+### [2009-06-5](/news/2009/06/5/index.md)
+
+#  The European Union's parliamentary election continues in the Czech Republic and Ireland. 
+
+
+
+
+### Source:
+
+1. [Europarl](http://www.europarl.europa.eu/elections2009/countries/default.htm;jsessionid=66ABC19790111794C40BF30609B89EC7.node1?language=EN)
+
+### Related:
+
+1. [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md) _Context: Czech, European Parliament, European Union, elections_
+2. [ Treaty of Lisbon: Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/treaty-of-lisbon-p-czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-t.md) _Context: Czech, European Union, Ireland_
+3. [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md) _Context: European Parliament, European Union, elections_
+4. [ The European Union's parliamentary election concludes in Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, and Sweden. ](/news/2009/06/7/the-european-union-s-parliamentary-election-concludes-in-austria-belgium-bulgaria-denmark-estonia-finland-france-germany-greece-hu.md) _Context: European Parliament, European Union, elections_
+5. [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md) _Context: European Parliament, European Union, elections_
+6. [ The European Commission of the European Union has announced that ten countries - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia - have met its criteria for entry, opening the way for an expansion of the EU from 15 member states to 25.  The European Parliament has still to consider each candidate individually and the final decision will require the approval of the current member states.](/news/2002/10/9/the-european-commission-of-the-european-union-has-announced-that-ten-countries-a-cyprus-the-czech-republic-estonia-hungary-latvia-li.md) _Context: Czech, European Parliament, European Union_
+7. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: European Parliament, European Union_
+8. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: European Union, Ireland_
+9. [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md) _Context: European Union, Ireland_
+10. [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md) _Context: European Union, Ireland_

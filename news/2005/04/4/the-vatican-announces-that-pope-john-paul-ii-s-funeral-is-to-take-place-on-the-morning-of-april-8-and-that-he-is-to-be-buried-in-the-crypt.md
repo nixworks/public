@@ -1,0 +1,23 @@
+### [2005-04-4](/news/2005/04/4/index.md)
+
+#  The Vatican announces that Pope John Paul II's funeral is to take place on the morning of April 8 and that he is to be buried in the crypt of Saint Peter in the Vatican. 
+
+
+
+
+### Source:
+
+1. [Guardian](http://www.guardian.co.uk/pope/story/0,12272,1451919,00.html)
+
+### Related:
+
+1. [the Vatican declares Pope John Paul II and Pope John XXIII canonized as saints. ](/news/2013/07/5/the-vatican-declares-pope-john-paul-ii-and-pope-john-xxiii-canonized-as-saints.md) _Context: Pope John Paul II, Vatican_
+2. [The Vatican brings Pope John Paul II's coffin out from below St. Peter's Basilica in Rome in preparation for his beatification. ](/news/2011/04/29/the-vatican-brings-pope-john-paul-ii-s-coffin-out-from-below-st-peter-s-basilica-in-rome-in-preparation-for-his-beatification.md) _Context: Pope John Paul II, Vatican_
+3. [ The Vatican announced that the late Pope, John Paul II, is to be beatified. This is the first step to becoming a saint. ](/news/2005/05/13/the-vatican-announced-that-the-late-pope-john-paul-ii-is-to-be-beatified-this-is-the-first-step-to-becoming-a-saint.md) _Context: Pope John Paul II, Vatican_
+4. [The Vatican announces that Pope John Paul&nbsp;II has accepted the resignation of Boston's Cardinal Bernard Francis Law due to widespread outcry among Boston Catholics over Law's role in covering up pedophilia-related and other sex crimes among priests in his diocese.](/news/2002/12/13/the-vatican-announces-that-pope-john-paul-nbsp-ii-has-accepted-the-resignation-of-boston-s-cardinal-bernard-francis-law-due-to-widespread-ou.md) _Context: Pope John Paul II, Vatican_
+5. [Pope Francis's visit to Armenia this weekend may stress relations with Turkey. The Pope is seeking to avoid reigniting the diplomatic dispute that arose last year when he described the 1915 mass killings of Armenians as a genocide. The Vatican prefers the Armenian phrase "Medz Yeghern," which roughly translates as "the great evil or calamity." ](/news/2016/06/23/pope-francis-s-visit-to-armenia-this-weekend-may-stress-relations-with-turkey-the-pope-is-seeking-to-avoid-reigniting-the-diplomatic-disput.md) _Context: Vatican_
+6. [The Vatican suspends PricewaterhouseCoopers'  audit of its finances over questions whether  proper procedures were followed when the December 2015 contract, reportedly worth $3 million, was enacted. Analysts say this move   exposes the rift between the church's old guard  and supporters of financial reform, and raises questions about the Catholic Church's commitment to cleaning up its finances. ](/news/2016/04/21/the-vatican-suspends-pricewaterhousecoopers-audit-of-its-finances-over-questions-whether-proper-procedures-were-followed-when-the-decembe.md) _Context: Vatican_
+7. [The Vatican  is replacing Italian Archbishop Carlo Maria Vigano,  the Apostolic Nuncio to the U.S., with French-born Archbishop Christophe Pierre, currently the Apostolic Nuncio to Mexico.  Vigano, who is 75, the statutory retirement age, in 2015 arranged the unexpected  meeting between   Pope Francis and controversial Kentucky clerk Kim Davis, who refused to follow her state's law on same-sex marriage. ](/news/2016/03/17/the-vatican-is-replacing-italian-archbishop-carlo-maria-vigana2-the-apostolic-nuncio-to-the-u-s-with-french-born-archbishop-christophe.md) _Context: Vatican_
+8. [Pope Francis, in his annual pre-Christmas speech, urged the Roman Curia (cardinals and bishops who direct Holy See actions),   to follow his "catalogue of virtues," e.g., to show more maturity, honesty, humility, and sobriety in their tasks. He listed "Curial antibiotics" to treat the "15 ailments of the Curia" he outlined last year and which still plague the Vatican. ](/news/2015/12/21/pope-francis-in-his-annual-pre-christmas-speech-urged-the-roman-curia-cardinals-and-bishops-who-direct-holy-see-actions-to-follow-his.md) _Context: Vatican_
+9. [The Vatican announces Mother Teresa's eligibility for canonization after a Vatican spokesman confirmed Pope Francis' recognition of a second miracle attributed to her involving the healing of a Brazilian man with multiple brain tumors. The Vatican has yet to confirm a canonization date for Teresa. ](/news/2015/12/18/the-vatican-announces-mother-teresa-s-eligibility-for-canonization-after-a-vatican-spokesman-confirmed-pope-francis-recognition-of-a-second.md) _Context: Vatican_
+10. [The Vatican releases a 10,000-word document that, among other things, says Jews don't need to be converted to find salvation, and that Catholics should work with Jews to fight antisemitism. ](/news/2015/12/10/the-vatican-releases-a-10-000-word-document-that-among-other-things-says-jews-don-t-need-to-be-converted-to-find-salvation-and-that-catho.md) _Context: Vatican_

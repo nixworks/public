@@ -1,0 +1,24 @@
+### [2010-08-14](/news/2010/08/14/index.md)
+
+# Lebanon fatally shoots and kills Abd-al-Rahman Awad, the suspected leader of Fatah al-Islam. 
+
+Lebanese security officials say they have killed the suspected leader of the militant Sunni Islamist group Fatah al-Islam.
+
+
+### Source:
+
+1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/lebanese-army-kills-top-islamist-after-threeyear-hunt-20100815-124r4.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10977538)
+
+### Related:
+
+1. [ 2007 Lebanon conflict: Lebanon's Defense Minister Elias al-Murr claims that at least 222 Fatah al-Islam militants were killed during the struggle. ](/news/2007/09/4/2007-lebanon-conflict-lebanon-s-defense-minister-elias-al-murr-claims-that-at-least-222-fatah-al-islam-militants-were-killed-during-the-st.md) _Context: Fatah al-Islam, Lebanon_
+2. [ 2007 Lebanon conflict: Fatah al-Islam fighters attempt an escape from the Nahr al-Bared refugee camp north of Tripoli, Lebanon with at least 41 people being killed in fighting and many being injured and captured by the Lebanese army. ](/news/2007/09/2/2007-lebanon-conflict-p-fatah-al-islam-fighters-attempt-an-escape-from-the-nahr-al-bared-refugee-camp-north-of-tripoli-lebanon-with-at-lea.md) _Context: Fatah al-Islam, Lebanon_
+3. [ The Lebanese government claim that the police have killed Abu Hureira, the second in command of Fatah al-Islam. ](/news/2007/08/6/the-lebanese-government-claim-that-the-police-have-killed-abu-hureira-the-second-in-command-of-fatah-al-islam.md) _Context: Fatah al-Islam, Lebanon_
+4. [ The Lebanese army has resumed shelling Fatah al-Islam positions inside the Nahr al-Bared refugee camp near Tripoli. All of the refugees have left the camp after recent fighting. ](/news/2007/07/12/the-lebanese-army-has-resumed-shelling-fatah-al-islam-positions-inside-the-nahr-al-bared-refugee-camp-near-tripoli-all-of-the-refugees-hav.md) _Context: Fatah al-Islam, Lebanon_
+5. [ Lebanon declares victory over Fatah al-Islam, an Al Qaeda-linked group, after a month-long battle at a Palestinian refugee camp. ](/news/2007/06/21/lebanon-declares-victory-over-fatah-al-islam-an-al-qaeda-linked-group-after-a-month-long-battle-at-a-palestinian-refugee-camp.md) _Context: Fatah al-Islam, Lebanon_
+6. [ 2007 North Lebanon conflict: Fighting resumes at the Nahr el-Bared camp between the Lebanese Army and Fatah al-Islam. ](/news/2007/06/1/2007-north-lebanon-conflict-fighting-resumes-at-the-nahr-el-bared-camp-between-the-lebanese-army-and-fatah-al-islam.md) _Context: Fatah al-Islam, Lebanon_
+7. [ Lebanon's Defence Minister Elias Murr issues an ultimatum to Fatah al-Islam militants in the Nahr el-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/23/lebanon-s-defence-minister-elias-murr-issues-an-ultimatum-to-fatah-al-islam-militants-in-the-nahr-el-bared-refugee-camp-in-tripoli-lebanon.md) _Context: Fatah al-Islam, Lebanon_
+8. [ Battle of Nahr al-Bared: Fighting breaks out between Fatah al-Islam militants and Lebanese soldiers at the Nahr al-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/20/battle-of-nahr-al-bared-fighting-breaks-out-between-fatah-al-islam-militants-and-lebanese-soldiers-at-the-nahr-al-bared-refugee-camp-in-tr.md) _Context: Fatah al-Islam, Lebanon_
+9. [The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. ](/news/2017/03/17/the-israeli-air-force-launches-several-airstrikes-on-targets-inside-syria-and-for-the-first-time-publicly-claims-responsibility-syrian-ai.md) _Context: Lebanon_
+10. [A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. ](/news/2016/06/27/a-suicide-bomber-attacks-the-lebanese-village-of-qaa-near-the-syrian-border-with-at-least-six-people-dead-and-13-people-injured.md) _Context: Lebanon_

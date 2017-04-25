@@ -1,0 +1,24 @@
+### [2010-09-12](/news/2010/09/12/index.md)
+
+# Albanians jeer Serbs following a Serbian defeat in an international basketball game leading to clashes in Mitrovica. 
+
+Mobs of Albanian and Serb youths clash in Kosovo following the defeat of Serbia by Turkey in a basketball championship game.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010912192150832421.html)
+2. [BBC News](http://www.bbc.co.uk/news/world-europe-11274357)
+
+### Related:
+
+1. [ Republic of Macedonia, Albania and Serbian autonomous province of Kosovo are experiencing blackouts as a result of the 2007 European heatwave that spreads over the Balkans.  It also causes bushfires everywhere in the region between Croatia, Hungary, Serbia and Greece. ](/news/2007/07/24/republic-of-macedonia-albania-and-serbian-autonomous-province-of-kosovo-are-experiencing-blackouts-as-a-result-of-the-2007-european-heatwa.md) _Context: Albania, Serbia_
+2. [ Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. ](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.md) _Context: Albania, Serbia_
+3. [Voters in Serbia go to the polls for an election, which Prime Minster Aleksandar Vucic of the conservative Serbian Progressive Party is expected to win. In projections, Vucic gets around 55% of the votes, avoiding a second round. ](/news/2017/04/2/voters-in-serbia-go-to-the-polls-for-an-election-which-prime-minster-aleksandar-vuaia-of-the-conservative-serbian-progressive-party-is-ex.md) _Context: Serbia_
+4. [Albanian Prime Minister Edi Rama dismisses four cabinet ministers, including Minister of Internal Affairs Saimir Tahiri and Minister of Health Ilir Beqaj, in a bid to make the government more technocratic following opposition Democratic Party protests. ](/news/2017/03/12/albanian-prime-minister-edi-rama-dismisses-four-cabinet-ministers-including-minister-of-internal-affairs-saimir-tahiri-and-minister-of-heal.md) _Context: Albania_
+5. [Serbian President Tomislav Nikolic accuses Kosovo of "seeking a war" after a train, en route to the Serb-majority city of Mitrovica in North Kosovo, and decorated in Serbian national colors and the words "''Kosovo je Srbija''" (Kosovo is Serbia), was prevented from crossing the Kosovan border. The Prime Minister of Kosovo Isa Mustafa says the train had been stopped "to protect the country's sovereignty". ](/news/2017/01/15/serbian-president-tomislav-nikolia-accuses-kosovo-of-seeking-a-war-after-a-train-en-route-to-the-serb-majority-city-of-mitrovica-in-nort.md) _Context: Serbia_
+6. [A lone gunman opened fire at a cafe in Zitiste, Serbia, killing five people and injuring 20 more. The perpetrator was arrested shortly afterward while attempting to flee the scene. ](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2itia-te-serbia-killing-five-people-and-injuring-20-more-the-perpetrator-was-arrested-shortly-af.md) _Context: Serbia_
+7. [ In basketball, Tim Duncan, who played his entire 19-season NBA career with the San Antonio Spurs, where he won five NBA titles and two MVP awards, made 15 All-Star appearances and made the All-NBA first team 10 times, announces his retirement. ](/news/2016/07/11/in-basketball-tim-duncan-who-played-his-entire-19-season-nba-career-with-the-san-antonio-spurs-where-he-won-five-nba-titles-and-two-mvp.md) _Context: basketball_
+8. [In basketball, the NBA draft is held with the Philadelphia 76ers choosing Australian Ben Simmons as the number one pick. ](/news/2016/06/23/in-basketball-the-nba-draft-is-held-with-the-philadelphia-76ers-choosing-australian-ben-simmons-as-the-number-one-pick.md) _Context: basketball_
+9. [Five people, all foreign holidaymakers, are killed and 23 are injured when their bus swerves off a highway en route to Belgrade, Serbia. ](/news/2016/06/21/five-people-all-foreign-holidaymakers-are-killed-and-23-are-injured-when-their-bus-swerves-off-a-highway-en-route-to-belgrade-serbia.md) _Context: Serbia_
+10. [In basketball, the Cleveland Cavaliers beat the Golden State Warriors in seven games to win the 2016 NBA Championship. Cleveland, winning its first NBA title in the franchise's 45-year history, also became the first NBA team to rally from a 3-1 deficit and win the crown. Tonight's victory also ends the 52-year title drought of Cleveland's major sports teams; in 1964, the Cleveland Browns shut out the Baltimore Colts for the NFL title. Cleveland's LeBron James is unanimously voted the Most Valuable Player of the NBA Finals, his third such award. ](/news/2016/06/19/in-basketball-the-cleveland-cavaliers-beat-the-golden-state-warriors-in-seven-games-to-win-the-2016-nba-championship-cleveland-winning-it.md) _Context: basketball_

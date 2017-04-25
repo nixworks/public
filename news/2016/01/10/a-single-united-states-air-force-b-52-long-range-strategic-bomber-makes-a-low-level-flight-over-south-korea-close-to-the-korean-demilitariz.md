@@ -1,0 +1,23 @@
+### [2016-01-10](/news/2016/01/10/index.md)
+
+# A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/northkorea-nuclear-idUSKCN0UO01I20160110)
+
+### Related:
+
+1. [A United States Air Force B-52 Stratofortress crashes at Andersen Air Force Base on Guam. All seven aircrew members escaped. No injuries have been reported. ](/news/2016/05/18/a-united-states-air-force-b-52-stratofortress-crashes-at-andersen-air-force-base-on-guam-all-seven-aircrew-members-escaped-no-injuries-hav.md) _Context: B-52 Stratofortress, Guam, United States Air Force_
+2. [South Korea says it will resume cross-border propaganda broadcasts and limit entry to the Kaesong Industrial Region in response to yesterday's nuclear test at the North's Punggye-ri Nuclear Test Site. North Korea considers the propaganda broadcasts to be "an act of war". ](/news/2016/01/7/south-korea-says-it-will-resume-cross-border-propaganda-broadcasts-and-limit-entry-to-the-kaesong-industrial-region-in-response-to-yesterday.md) _Context: North Korea, South Korea, nuclear test_
+3. [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md) _Context: North Korea, South Korea, nuclear test_
+4. [South Korean soldiers fire warning shots at a suspected North Korean drone near the Korean Demilitarized Zone (DMZ). The "unidentified flying object" was spotted around 29 miles north of Seoul, near South Korea's Dora Observation Post. ](/news/2016/01/13/south-korean-soldiers-fire-warning-shots-at-a-suspected-north-korean-drone-near-the-korean-demilitarized-zone-dmz-the-unidentified-flyin.md) _Context: Korean Demilitarized Zone, North Korea, South Korea_
+5. [North and South Korea exchange artillery fire over the border at Yeoncheon, prompting South Korea to order evacuations of its citizens in the area. ](/news/2015/08/20/north-and-south-korea-exchange-artillery-fire-over-the-border-at-yeoncheon-prompting-south-korea-to-order-evacuations-of-its-citizens-in-th.md) _Context: Korean Demilitarized Zone, North Korea, South Korea_
+6. [A South Korean official claims that North Korea is placing land mines in the Korean Demilitarized Zone to stop soldiers from defecting. The Korean DMZ already contains an estimated 1 million mines. ](/news/2015/06/14/a-south-korean-official-claims-that-north-korea-is-placing-land-mines-in-the-korean-demilitarized-zone-to-stop-soldiers-from-defecting-the.md) _Context: Korean Demilitarized Zone, North Korea, South Korea_
+7. [A United States military Sikorsky CH-53 Sea Stallion helicopter crashes near South Korea's border with North Korea, with no reported casualties. ](/news/2013/04/16/a-united-states-military-sikorsky-ch-53-sea-stallion-helicopter-crashes-near-south-korea-s-border-with-north-korea-with-no-reported-casualt.md) _Context: Korean Demilitarized Zone, North Korea, South Korea_
+8. [2013 Korean crisis:South Korean police stop a planned launch of anti-North Korean leaflets across the border, as the government of South Korea seeks to open dialogue with the North and defuse soaring tensions in the Korean Peninsula. ](/news/2013/04/13/2013-korean-crisis-psouth-korean-police-stop-a-planned-launch-of-anti-north-korean-leaflets-across-the-border-as-the-government-of-south-ko.md) _Context: Korean Demilitarized Zone, North Korea, South Korea_
+9. [North Korea ends all peace pacts with South Korea and closes the main Panmunjom border crossing inside the Korean Demilitarized Zone. North Korean generals affirm they are aiming their long range missiles at the U.S. mainland in retaliation for the recently approved U.N. sanctions. ](/news/2013/03/8/north-korea-ends-all-peace-pacts-with-south-korea-and-closes-the-main-panmunjom-border-crossing-inside-the-korean-demilitarized-zone-north.md) _Context: Korean Demilitarized Zone, North Korea, South Korea_
+10. [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md) _Context: Guam, North Korea, South Korea_

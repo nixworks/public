@@ -1,0 +1,23 @@
+### [2006-09-24](/news/2006/09/24/index.md)
+
+#  Venezuela's Foreign Minister Nicols Maduro is detained in John F. Kennedy International Airport for secondary screening. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/5375144.stm)
+
+### Related:
+
+1. [The President of Venezuela, Nicolas Maduro suspends plans to eliminate the 100 bolivar note from circulation, in a country where much of the population lives on cash, without bank accounts. ](/news/2016/12/17/the-president-of-venezuela-nicolas-maduro-suspends-plans-to-eliminate-the-100-bolavar-note-from-circulation-in-a-country-where-much-of-th.md) _Context: Nicolas Maduro, Venezuela_
+2. [Venezuela's National Election Council cancels a planned meeting to determine the validity of 1.85 million signatures on a petition for a referendum to oust President Nicols Maduro. ](/news/2016/06/3/venezuela-s-national-election-council-cancels-a-planned-meeting-to-determine-the-validity-of-1-85-million-signatures-on-a-petition-for-a-ref.md) _Context: Nicolas Maduro, Venezuela_
+3. [Police in the Dominican Republic raid a mansion owned by 30-year-old Francisco Flores de Freites, one of the two nephews of Venezuelan President Nicolas Maduro facing charges for allegedly trying to traffic 800 kg of cocaine into the U.S., and found more than 280 pounds of cocaine and 22 pounds of heroin hidden inside the nephew's posh Casa de Campo property and a 135-foot yacht named "The Kingdom" docked behind it. ](/news/2015/11/13/police-in-the-dominican-republic-raid-a-mansion-owned-by-30-year-old-francisco-flores-de-freites-one-of-the-two-nephews-of-venezuelan-presi.md) _Context: Nicolas Maduro, Venezuela_
+4. [Nicols Maduro is sworn in as the President of Venezuela despite a review of the results of the Venezuelan presidential election. ](/news/2013/04/19/nicolas-maduro-is-sworn-in-as-the-president-of-venezuela-despite-a-review-of-the-results-of-the-venezuelan-presidential-election.md) _Context: Nicolas Maduro, Venezuela_
+5. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Venezuela_
+6. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Venezuela_
+7. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: Venezuela_
+8. [Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-against-president-nicola-s-maduro-in.md) _Context: Venezuela_
+9. [Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. ](/news/2017/04/13/thousands-of-people-take-to-the-streets-in-caracas-as-venezuelan-authorities-acknowledge-a-fifth-death-in-the-protests.md) _Context: Venezuela_
+10. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Venezuela_

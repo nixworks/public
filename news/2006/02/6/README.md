@@ -1,0 +1,31 @@
+## [2006-02-6](/news/2006/02/6/index.md)
+
+### [ In Costa Rica, the presidential election is a tight race and too close to call. ](/news/2006/02/6/in-costa-rica-the-presidential-election-is-a-tight-race-and-too-close-to-call.md)
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
+
+### [ Mauritania denounces amendments to an oil contract made by former leader Maaouiya Ould Taya with Woodside Petroleum. The Mauritanian authorities declare that the amendments were signed "outside the legal framework of normal practice, to the great detriment of our country", and could cost Mauritania up to {{Nowrap|$200 million}} a year. ](/news/2006/02/6/mauritania-denounces-amendments-to-an-oil-contract-made-by-former-leader-maaouiya-ould-taya-with-woodside-petroleum-the-mauritanian-author.md)
+_Context: Maaouiya Ould Taya, Mauritania, Woodside Petroleum_
+
+### [ U.S. Senate Committee on the Judiciary hearings begin regarding the NSA warrantless surveillance program, with testimony from Attorney General Alberto Gonzales. ](/news/2006/02/6/u-s-senate-committee-on-the-judiciary-hearings-begin-regarding-the-nsa-warrantless-surveillance-program-with-testimony-from-attorney-gene.md)
+_Context: Alberto Gonzales, U.S. Senate Committee on the Judiciary, United States Attorney General, warrantless wiretapping_
+
+### [ As Stephen Harper is sworn in as Canada's 22nd Prime Minister, David Emerson crosses the floor from the Liberal Party to join Harper's Conservative Party, and is appointed as Minister of International Trade. Harper also appointed Michael Fortier, an unelected party supporter, to minister of public works and government services and to the senate. ](/news/2006/02/6/as-stephen-harper-is-sworn-in-as-canada-s-22nd-prime-minister-david-emerson-crosses-the-floor-from-the-liberal-party-to-join-harper-s-cons.md)
+_Context: Canadian Prime Minister, Conservative Party's, David Emerson, Liberal Party's, Michael Fortier, Stephen Harper, crosses the floor_
+
+### [ United States, Indonesian, and Australian scientists working in the Foja Mountains in eastern Papua, Indonesia, discover 20 previously unknown frog species, a new species of honeyeater, four new butterflies, and at least five new plants. Also discovered were a kangaroo unknown in Papua, and a six-wired bird-of-paradise, previously known only from dead specimens whose origin was unknown. ](/news/2006/02/6/united-states-indonesian-and-australian-scientists-working-in-the-foja-mountains-in-eastern-papua-indonesia-discover-20-previously-unkn.md)
+Get the latest science news and technology news, read tech reviews and more at ABC News.
+
+### [ German car company BMW is banned from the Google index after attempting to deliberately deceive Google users. ](/news/2006/02/6/german-car-company-bmw-is-banned-from-the-google-index-after-attempting-to-deliberately-deceive-google-users.md)
+_Context: BMW, Google_
+
+### [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry ''al-Salam Boccaccio '98'' sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-a.md)
+_Context: Egypt, El Salam Maritime Transport, Red Sea, Safaga, al-Salam Boccaccio '98_
+
+### [ Isabelle Dinoire, the French woman who received the world's first partial face transplant appears before the media for the first time, saying she expects to resume a normal life. ](/news/2006/02/6/isabelle-dinoire-the-french-woman-who-received-the-world-s-first-partial-face-transplant-appears-before-the-media-for-the-first-time-sayi.md)
+_Context: Isabelle Dinoire_
+
+### [ The Austrian Embassy in Tehran is pelted with stones by some 200 youths, in retaliation for the printing of the Muhammed Cartoons by three Austrian newspapers. [http://english.people.com.cn/200602/07/eng20060207_240614.html]](/news/2006/02/6/the-austrian-embassy-in-tehran-is-pelted-with-stones-by-some-200-youths-in-retaliation-for-the-printing-of-the-muhammed-cartoons-by-three.md)
+_Context: Muhammed Cartoons, Tehran, embassies_
+
+## [Previous Day...](/news/2006/02/5/index.md)
+

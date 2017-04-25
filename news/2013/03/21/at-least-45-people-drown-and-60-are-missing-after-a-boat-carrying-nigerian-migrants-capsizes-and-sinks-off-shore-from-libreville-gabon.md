@@ -1,0 +1,23 @@
+### [2013-03-21](/news/2013/03/21/index.md)
+
+# At least 45 people drown and 60 are missing after a boat carrying Nigerian migrants capsizes and sinks off shore from Libreville, Gabon. 
+
+Twenty-nine people are rescued after a boat carrying about 130 people from Nigeria to Gabon sinks, rescue officials say.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-21886069)
+
+### Related:
+
+1. [Large explosions and gunfire are reported in the Gabonese capital Libreville as security forces clash with supporters of opposition presidential candidate Jean Ping protesting the election results indicating a narrow victory by President Ali Bongo Ondimba. ](/news/2016/09/1/large-explosions-and-gunfire-are-reported-in-the-gabonese-capital-libreville-as-security-forces-clash-with-supporters-of-opposition-presiden.md) _Context: Gabon, Libreville_
+2. [In football, the final of the 2012 Africa Cup of Nations played at Libreville, Gabon, between Zambia and Ivory Coast, with Zambia winning 8-7 on penalties in a shock result. ](/news/2012/02/12/in-football-the-final-of-the-2012-africa-cup-of-nations-played-at-libreville-gabon-between-zambia-and-ivory-coast-with-zambia-winning-8.md) _Context: Gabon, Libreville_
+3. [ The U.N. General Assembly elects Bosnia and Herzegovina, Brazil, Gabon, Lebanon and Nigeria to the U.N. Security Council as non-veto-holding members. ](/news/2009/10/15/the-u-n-general-assembly-elects-bosnia-and-herzegovina-brazil-gabon-lebanon-and-nigeria-to-the-u-n-security-council-as-non-veto-holdin.md) _Context: Gabon, Nigeria_
+4. [ Gabonese firefighters battle a blaze at the heart of Libreville as fire consumes the nation's largest market. ](/news/2009/09/15/gabonese-firefighters-battle-a-blaze-at-the-heart-of-libreville-as-fire-consumes-the-nation-s-largest-market.md) _Context: Gabon, Libreville_
+5. [ The state funeral in Libreville of former President of Gabon Omar Bongo is attended by dignitaries from 40 nations. ](/news/2009/06/16/the-state-funeral-in-libreville-of-former-president-of-gabon-omar-bongo-is-attended-by-dignitaries-from-40-nations.md) _Context: Gabon, Libreville_
+6. [Nigerian spy chief Ayo Oke has been suspended by President Muhammadu Buhari after anti-corruption agents uncovered more than $43 million in cash at his flat in Lagos. ](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-by-president-muhammadu-buhari-after-anti-corruption-agents-uncovered-more-than-43-million-in.md) _Context: Nigeria_
+7. [Over the last week, a meningitis outbreak has killed at least 140 people in Nigeria. ](/news/2017/03/28/over-the-last-week-a-meningitis-outbreak-has-killed-at-least-140-people-in-nigeria.md) _Context: Nigeria_
+8. [Multiple suicide blasts occur at a refugee camp near Maiduguri, Nigeria, leaving eight people dead and wounding 18 others. ](/news/2017/03/22/multiple-suicide-blasts-occur-at-a-refugee-camp-near-maiduguri-nigeria-leaving-eight-people-dead-and-wounding-18-others.md) _Context: Nigeria_
+9. [Four suicide bombers kill at least two people and wound 16 others in Maiduguri, Nigeria. ](/news/2017/03/15/four-suicide-bombers-kill-at-least-two-people-and-wound-16-others-in-maiduguri-nigeria.md) _Context: Nigeria_
+10. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: Nigeria_

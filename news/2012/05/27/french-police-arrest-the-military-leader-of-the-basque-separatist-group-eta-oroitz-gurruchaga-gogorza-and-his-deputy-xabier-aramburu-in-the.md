@@ -1,0 +1,23 @@
+### [2012-05-27](/news/2012/05/27/index.md)
+
+# French police arrest the military leader of the Basque separatist group ETA Oroitz Gurruchaga Gogorza and his deputy Xabier Aramburu in the village of Cauna. 
+
+
+
+
+### Source:
+
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gfpGtZpxE_nEz7BR3WFwxxZ5hKTg?docId=CNG.4a0fda7c995c3b0e087f5420b229ac84.771)
+
+### Related:
+
+1. [ Spanish police capture two suspected members, Aitzol Etxaburu and Andoni Sarasola, of the Basque-region separatist group ETA. ](/news/2009/08/19/spanish-police-capture-two-suspected-members-aitzol-etxaburu-and-andoni-sarasola-of-the-basque-region-separatist-group-eta.md) _Context: Basque, ETA_
+2. [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md) _Context: ETA, French police_
+3. [  The militant Basque separatist group ETA begins handing over its remaining weapons during a ceremony in Bayonne, France, in which the group turned over to authorities an inventory of weapons and their locations. ](/news/2017/04/8/the-militant-basque-separatist-group-eta-begins-handing-over-its-remaining-weapons-during-a-ceremony-in-bayonne-france-in-which-the-grou.md) _Context: ETA_
+4. [In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _Context: ETA_
+5. [Two men armed with knives take a priest, two nuns and two parishioners hostage in a church near Rouen in the French region of Normandy. French police kill the hostage-takers after the 86-year-old priest, Jacques Hamel, was killed by slitting his throat. ](/news/2016/07/26/two-men-armed-with-knives-take-a-priest-two-nuns-and-two-parishioners-hostage-in-a-church-near-rouen-in-the-french-region-of-normandy-fren.md) _Context: French police_
+6. [A senior French police commander is killed by a  knife-wielding  25-year-old man outside his home in Magnanville near Paris, France. The attacker, who retreated inside the house, is also killed when elite police commandos storm the residence after negotiations failed.  The commander's partner, a female administrative police official, is found dead inside the home, while a young boy is rescued physically unharmed. The Islamic State, via its Amaq News Agency, claims responsibility for the attack. ](/news/2016/06/13/a-senior-french-police-commander-is-killed-by-a-knife-wielding-25-year-old-man-outside-his-home-in-magnanville-near-paris-france-the-att.md) _Context: French police_
+7. [French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's ''Charlie Hebdo'' shooting. ](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.md) _Context: French police_
+8. [About 20,000 pairs of empty shoes lay around Paris, symbolizing  the absent marchers who would have joined this weekend's worldwide climate change protests pressing for a bold international agreement at the upcoming climate summit there. The capital city was planned to be the center for demonstrations but French police banned large protests following the terrorist attacks this month. ](/news/2015/11/29/about-20-000-pairs-of-empty-shoes-lay-around-paris-symbolizing-the-absent-marchers-who-would-have-joined-this-weekend-s-worldwide-climate.md) _Context: French police_
+9. [At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix-near-the-belgian-border.md) _Context: French police_
+10. [A raid by French police in the Paris suburb of Saint-Denis kills at least two terror suspects, including a female suicide bomber, with eight others arrested. ](/news/2015/11/18/a-raid-by-french-police-in-the-paris-suburb-of-saint-denis-kills-at-least-two-terror-suspects-including-a-female-suicide-bomber-with-eight.md) _Context: French police_

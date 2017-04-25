@@ -1,0 +1,23 @@
+### [2005-05-27](/news/2005/05/27/index.md)
+
+#  Qur'an desecration by US military: Protests have occurred in Egypt, Pakistan, Jordan, Lebanon and Malaysia after the US military admitted that the Qur'an had been "mishandled" by soldiers. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4587679.stm)
+
+### Related:
+
+1. [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md) _Context: Egypt, Malaysia, Pakistan_
+2. [A massive sandstorm hits Lebanon and Syria as well as Jordan, Israel and Egypt. The Lebanese Health Ministry said the storm caused the deaths of two women, and sent hundreds to hospitals with breathing difficulties. Particularly hard hit were the 1.1 million Syrian refugees in Lebanon, many in flimsy tents in informal campsites. ](/news/2015/09/8/a-massive-sandstorm-hits-lebanon-and-syria-as-well-as-jordan-israel-and-egypt-the-lebanese-health-ministry-said-the-storm-caused-the-death.md) _Context: Egypt, Jordan, Lebanon_
+3. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _Context: Egypt, Pakistan_
+4. [Lebanese Customs seize five tonnes of Captagon amphetamine pills and Hashish, concealed in primary school desks that were to be shipped to Egypt, at Beirut-Rafic Hariri International Airport. Meanwhile, security forces in northern Lebanon found two workshops producing Captagon and other drugs during a series of raids. The drug is infamous as being used by Islamist militants in the Syrian civil war. ](/news/2015/12/29/lebanese-customs-seize-five-tonnes-of-captagon-amphetamine-pills-and-hashish-concealed-in-primary-school-desks-that-were-to-be-shipped-to-e.md) _Context: Egypt, Lebanon_
+5. [Pakistan says it was surprised to learn of the country's inclusion in Saudi Arabia's so-called "Islamic anti-terrorist alliance", and that Pakistan was not consulted before inclusion in the alliance by the Saudis. Pakistan's Foreign Secretary Aizaz Ahmad Chaudhry says he has asked the country's ambassador in Riyadh to get a clarification from Saudi Arabia on the matter. Malaysia has also denied any involvement in Saudi Arabia's military coalition to counter terrorism. ](/news/2015/12/16/pakistan-says-it-was-surprised-to-learn-of-the-country-s-inclusion-in-saudi-arabia-s-so-called-islamic-anti-terrorist-alliance-and-that-p.md) _Context: Malaysia, Pakistan_
+6. [Kuwaiti authorities announce they arrested six members of an extremist network suspected of supplying funds and weapons, including rockets, to Daesh (Islamic State) militants. Four others are still being sought outside of the country. The group includes a Lebanese, an Egyptian, five Syrians, two Australians, and a Kuwaiti national. ](/news/2015/11/19/kuwaiti-authorities-announce-they-arrested-six-members-of-an-extremist-network-suspected-of-supplying-funds-and-weapons-including-rockets.md) _Context: Egypt, Lebanon_
+7. [Arab-Israeli conflict:Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/arabaisraeli-conflict-ptwo-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no.md) _Context: Egypt, Jordan_
+8. [An explosion hits the gas pipeline between Egypt, Israel and Jordan in the North Sinai Governorate west of Arish. ](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.md) _Context: Egypt, Jordan_
+9. [An Egyptian ferry carrying 1200 people catches fire in the Red Sea between the Jordanian port of Aqaba and Nuweiba. ](/news/2011/11/3/an-egyptian-ferry-carrying-1200-people-catches-fire-in-the-red-sea-between-the-jordanian-port-of-aqaba-and-nuweiba.md) _Context: Egypt, Jordan_
+10. [Saboteurs attack Egypt's gas pipeline to Israel and Jordan, destroying a section of the pipeline west of al-Arish in Sinai. ](/news/2011/11/28/saboteurs-attack-egypt-s-gas-pipeline-to-israel-and-jordan-destroying-a-section-of-the-pipeline-west-of-al-arish-in-sinai.md) _Context: Egypt, Jordan_

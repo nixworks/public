@@ -1,0 +1,31 @@
+### [2015-11-16](/news/2015/11/16/index.md)
+
+# Authorities search for Belgium-born French national Salah Abdeslam, one of three brothers suspected of involvement in the attacks. Raids are reported to have taken place in Grenoble, Toulouse, Jeumont and the Paris suburb of Bobigny. This contradicts previously published official information that all the perpetrators of the attacks were dead. 
+
+Latest updates as Paris manhunt continues and France hits back at Islamic State in Raqqa
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/world/live/2015/nov/16/paris-attacks-france-airstrikes-isis-raqqa-syria-live)
+2. [Associate Press via Military Times](http://www.militarytimes.com/story/military/2015/11/15/iraq-warned-of-attacks-before-paris-assault/75833046/)
+3. [USA Today](http://www.usatoday.com/story/news/politics/2015/11/16/alabama-refuses-syrian-refugees-paris-terror-attack/75857924/)
+4. [NBC News](http://www.nbcnews.com/storyline/paris-terror-attacks/paris-attacks-belgian-abdelhamid-abaaoud-reportedly-mastermind-n464081)
+5. [Associated Press via Military.com](http://www.military.com/daily-news/2015/11/16/officials-no-credible-threats-target-us-after-paris-attacks.html)
+6. [The Independent](http://www.independent.co.uk/news/world/europe/france-attacks-mohamed-abdeslam-salah-abdeslam-fleeing-suspect-bataclan-a6736871.html)
+7. [Fox News](http://www.foxnews.com/world/2015/11/16/french-jets-target-isis-in-raqqa/)
+8. [CNN](http://edition.cnn.com/2015/11/15/world/paris-attacks/index.html)
+9. [MSN](http://www.msn.com/en-us/news/world/anonymous-declares-war-on-isis-after-paris-attacks/ar-BBn3FZy?li=AAa0dzB&ocid=iehp)
+
+### Related:
+
+1. [At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix-near-the-belgian-border.md) _Context: Belgium, November 2015 Paris Attacks, Paris_
+2. [The father of  Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While  generally free of liability under U.S. law  which  provides a legal ''safe harbor'' for content posted, this case targets  the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-i.md) _Context: November 2015 Paris Attacks, Paris_
+3. [Aftermath of the Six people are arrested in Belgium including:Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/aftermath-of-the-six-people-are-arrested-in-belgium-including-pmohamed-abrini-wanted-in-connection-with-the-2015-paris-attacks-is-arrested.md) _Context: Belgium, November 2015 Paris Attacks_
+4. [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md) _Context: Belgium, November 2015 Paris Attacks_
+5. [Three people arrested yesterday in connection with last year's attacks in Paris are released without charge. ](/news/2016/04/13/three-people-arrested-yesterday-in-connection-with-last-year-s-attacks-in-paris-are-released-without-charge.md) _Context: November 2015 Paris Attacks, Paris_
+6. [  Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-thre.md) _Context: Belgium, November 2015 Paris Attacks_
+7. [Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. ](/news/2016/03/15/belgian-security-forces-hunt-gunmen-linked-to-the-november-2015-paris-attacks-following-a-raid-on-a-house-in-brussels-which-left-four-office.md) _Context: Belgium, November 2015 Paris Attacks_
+8. [A man linked to the Paris attacks  is arrested in Mohammedia, Morocco. ](/news/2016/01/18/a-man-linked-to-the-paris-attacks-is-arrested-in-mohammedia-morocco.md) _Context: November 2015 Paris Attacks, Paris_
+9. [About 20,000 pairs of empty shoes lay around Paris, symbolizing  the absent marchers who would have joined this weekend's worldwide climate change protests pressing for a bold international agreement at the upcoming climate summit there. The capital city was planned to be the center for demonstrations but French police banned large protests following the terrorist attacks this month. ](/news/2015/11/29/about-20-000-pairs-of-empty-shoes-lay-around-paris-symbolizing-the-absent-marchers-who-would-have-joined-this-weekend-s-worldwide-climate.md) _Context: November 2015 Paris Attacks, Paris_
+10. [Belgian authorities reduce the threat level in Brussels from its highest level of four to three. The escalation to level four came after suspects in the ISIL attacks in Paris were linked to the city. Suspected Paris gunman, Salah Abdeslam, who lived in Brussels for several years, remains at large. ](/news/2015/11/26/belgian-authorities-reduce-the-threat-level-in-brussels-from-its-highest-level-of-four-to-three-the-escalation-to-level-four-came-after-sus.md) _Context: Belgium, Paris_

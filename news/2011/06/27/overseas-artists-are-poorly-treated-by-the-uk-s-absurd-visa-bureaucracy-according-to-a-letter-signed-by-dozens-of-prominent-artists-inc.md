@@ -1,0 +1,26 @@
+### [2011-06-27](/news/2011/06/27/index.md)
+
+# Overseas artists are "poorly treated" by the UK's "absurd visa bureaucracy" according to a letter signed by dozens of prominent artists, including David Hare, Tom Stoppard, Salman Rushdie, Hanif Kureishi, Philip Pullman, Antonia Fraser, Michael Morpurgo and Sarah Waters. The letter suggests Abbas Kiarostami and Grigory Sokolov have already been "dissuaded from future visits". 
+
+World-class artists and musicians are being put off coming to Britain by the &ldquo;bureaucratic and intrusive&rdquo; points-based immigration system introduced under Labour.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13927454)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/immigration/8599638/World-class-artists-put-off-coming-to-Britain-by-intrusive-points-based-immigration-system.html)
+3. [The Economic Times](http://economictimes.indiatimes.com/news/nri/visa-and-immigration/salman-rushdie-others-protest-uk-immigration-rules/articleshow/9013399.cms)
+4. [The Guardian](http://www.guardian.co.uk/commentisfree/2011/jun/27/britain-persecutes-visiting-artists-visa)
+
+### Related:
+
+1. [Nayantara Sahgal, is one of the latest authors in India who will return that nation's highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nationas-highest-award-from-the-national-academy-of-letters-i.md) _Context: Salman Rushdie_
+2. [Sir Nicholas Hytner, Sir Nicholas Serota, Julian Lloyd Webber, Richard Rogers, Sir David Hare and Grayson Perry are among the cultural figures to criticise the "incredibly shortsighted" policy of excluding creative subjects from the core qualification at 16. ](/news/2012/11/2/sir-nicholas-hytner-sir-nicholas-serota-julian-lloyd-webber-richard-rogers-sir-david-hare-and-grayson-perry-are-among-the-cultural-figur.md) _Context: Sir David Hare_
+3. [Writer Sir Salman Rushdie expresses doubt that his 1988 novel ''The Satanic Verses'' would be published today because of a climate of "fear and nervousness". ](/news/2012/09/17/writer-sir-salman-rushdie-expresses-doubt-that-his-1988-novel-the-satanic-verses-would-be-published-today-because-of-a-climate-of-fear.md) _Context: Salman Rushdie_
+4. [''The Stressful Life of Salman Rushdie and Implementation of his Verdict'', an in-development video game designed to introduce the younger generations to ''The Satanic Verses'' controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-g.md) _Context: Salman Rushdie_
+5. [Salman Rushdie, Art Spiegelman and Mario Vargas Llosa are among those to protest against the planned spending of US$300 million on the Fifth Avenue branch of the New York Public Library, saying it is "a misplaced use of funds in a time of great scarcity". A letter signed by more than 700 writers, academics and others is sent to the library. ](/news/2012/05/10/salman-rushdie-art-spiegelman-and-mario-vargas-llosa-are-among-those-to-protest-against-the-planned-spending-of-us-300-million-on-the-fifth.md) _Context: Salman Rushdie_
+6. [Jaipur Literature Festival:Ruchir Joshi, Jeet Thayil, Hari Kunzru and Amitava Kumar flee Jaipur on the advice of officials at the Jaipur Literature Festival after reading excerpts from Salman Rushdie's ''The Satanic Verses'', which is banned in India. Rushdie, himself banned from the event, is told that police are searching for the four fugitive writers. ](/news/2012/01/23/jaipur-literature-festival-pruchir-joshi-jeet-thayil-hari-kunzru-and-amitava-kumar-flee-jaipur-on-the-advice-of-officials-at-the-jaipur-li.md) _Context: Salman Rushdie_
+7. [Writer Salman Rushdie withdraws from the Jaipur Literature Festival in India due to new concerns about his possible assassination. ](/news/2012/01/20/writer-salman-rushdie-withdraws-from-the-jaipur-literature-festival-in-india-due-to-new-concerns-about-his-possible-assassination.md) _Context: Salman Rushdie_
+8. [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md) _Context: Philip Pullman_
+9. [Julian Assange's mother criticises leading figures in the U.S. government who called for her son's assassination on television, and expresses concerns that her son is being targeted by an American fatwa similar to the one brought against the writer Salman Rushdie in 1989. ](/news/2011/02/14/julian-assange-s-mother-criticises-leading-figures-in-the-u-s-government-who-called-for-her-son-s-assassination-on-television-and-expresse.md) _Context: Salman Rushdie_
+10. [Hanif Kureishi is awarded the PEN/Pinter prize. ](/news/2010/09/17/hanif-kureishi-is-awarded-the-pen-pinter-prize.md) _Context: Hanif Kureishi_

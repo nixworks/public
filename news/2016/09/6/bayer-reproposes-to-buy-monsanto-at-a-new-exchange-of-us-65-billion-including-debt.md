@@ -1,0 +1,23 @@
+### [2016-09-6](/news/2016/09/6/index.md)
+
+# Bayer reproposes to buy Monsanto at a new exchange of US$65 billion including debt. 
+
+Bayer AG raised its offer to buy Monsanto Co. and create a new global leader in seeds and pesticides, though the German firm said the higher price depended on achieving a “negotiated transaction.”
+
+
+### Source:
+
+1. [The Wall Street Journal](http://www.wsj.com/articles/bayer-raises-offer-to-buy-monsanto-1473121719)
+
+### Related:
+
+1. [American agrochemical and agricultural biotechnology company Monsanto rejects an unsolicited $62 billion takeover bid by German pharmaceutical giant Bayer, saying the price was too low but adding that it remained "open to further talks." ](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.md) _Context: Bayer, Monsanto_
+2. [German chemical and pharmaceutical company Bayer bids to merge with American agrochemical and agricultural firm Monsanto. ](/news/2016/05/19/german-chemical-and-pharmaceutical-company-bayer-bids-to-merge-with-american-agrochemical-and-agricultural-firm-monsanto.md) _Context: Bayer, Monsanto_
+3. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: Monsanto_
+4. [In an interview, U.S. President Donald Trump says the U.S. dollar is "getting too strong" and wants to keep interest rates low, causing the U.S. Dollar Index to fall. ](/news/2017/04/12/in-an-interview-u-s-president-donald-trump-says-the-u-s-dollar-is-getting-too-strong-and-wants-to-keep-interest-rates-low-causing-the.md) _Context: U.S. dollar_
+5. [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md) _Context: U.S. dollar_
+6. [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md) _Context: U.S. dollar_
+7. [Kraft Heinz drops its bid to buy Unilever for US$143 billion. Unilever rejected the idea last Friday but Kraft Heinz still expressed interest in finding an agreement. ](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.md) _Context: U.S. dollar_
+8. [British-Dutch consumer goods company Unilever rejects a US$143 billion takeover from Kraft Heinz, saying the deal had no financial or strategic merit. Nevertheless, Kraft is still interested in finding agreement; it has until March 17 to make a final bid under UK takeover rules. ](/news/2017/02/17/british-dutch-consumer-goods-company-unilever-rejects-a-us-143-billion-takeover-from-kraft-heinz-saying-the-deal-had-no-financial-or-strate.md) _Context: U.S. dollar_
+9. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: U.S. dollar_
+10. [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md) _Context: U.S. dollar_

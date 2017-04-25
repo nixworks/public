@@ -1,0 +1,23 @@
+### [2017-02-8](/news/2017/02/8/index.md)
+
+# The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. 
+
+Dismissals come hours after first phone call between presidents Trump and Erdoğan hints at closer ties between US and Turkey
+
+
+### Source:
+
+1. [The Guardian](https://www.theguardian.com/world/2017/feb/08/turkey-dismisses-4400-public-servants-erdogan-trump-phone-call)
+
+### Related:
+
+1. [About 330 people with alleged links to last year's coup attempt stand trial at a prison outside Ankara on charges of murder and attempting to overthrow the government, the largest trial to date. ](/news/2017/02/28/about-330-people-with-alleged-links-to-last-year-s-coup-attempt-stand-trial-at-a-prison-outside-ankara-on-charges-of-murder-and-attempting-t.md) _Context: 2016–17 Turkish purges, last year's coup attempt_
+2. [Kurdish-Turkish conflict (1978-present) / Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/kurdishaturkish-conflict-1978apresent-turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-pa.md) _Context: 2016–17 Turkish purges_
+3. [In Ankara, the Turkish government opens  the trial  of 270 suspects charged in July's failed coup in Ankara.  The defendants include, ''in absentia'', the alleged mastermind Fethullah Gulen, former NATO  Chief of Staff Major General Salih Sevil, and other high-ranking military officials. ](/news/2017/01/30/in-ankara-the-turkish-government-opens-the-trial-of-270-suspects-charged-in-july-s-failed-coup-in-ankara-the-defendants-include-in-a.md) _Context: last year's coup attempt_
+4. [The Supreme Court of Greece rejects the extradition of eight soldiers accused by Turkey of involvement in the 2016 Turkish ''coup d'etat'' attempt. ](/news/2017/01/26/the-supreme-court-of-greece-rejects-the-extradition-of-eight-soldiers-accused-by-turkey-of-involvement-in-the-2016-turkish-coup-d-a-c-tat.md) _Context: last year's coup attempt_
+5. [In an unusual show of unity, tens of thousands of supporters of Turkey's ruling party and the country's main opposition parties hold a cross-party "Republic and Democracy" rally in support of democracy in Istanbul's central Taksim Square. ](/news/2016/07/24/in-an-unusual-show-of-unity-tens-of-thousands-of-supporters-of-turkey-s-ruling-party-and-the-country-s-main-opposition-parties-hold-a-cross.md) _Context: last year's coup attempt_
+6. [Thousands gather in Istanbul's Taksim Square in a show of support for the new powers that President Recep Tayyip Erdogan has received in order to crackdown on dissent following the attempted coup. ](/news/2016/07/22/thousands-gather-in-istanbul-s-taksim-square-in-a-show-of-support-for-the-new-powers-that-president-recep-tayyip-erdoaan-has-received-in-or.md) _Context: last year's coup attempt_
+7. [Turkish President Recep Tayyip Erdogan declares a state of emergency for three months following Friday night's failed coup. ](/news/2016/07/20/turkish-president-recep-tayyip-erdogan-declares-a-state-of-emergency-for-three-months-following-friday-night-s-failed-coup.md) _Context: last year's coup attempt_
+8. [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md) _Context: last year's coup attempt_
+9. [ General Akin Ozturk,  Turkish Air Force chief until August 2015, confesses  to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-attempted-coup-d-a-c-tat-according-to.md) _Context: last year's coup attempt_
+10. [The President of Turkey Recep Tayyip Erdogan returns to Istanbul Ataturk Airport indicating that the coup may be faltering. ](/news/2016/07/16/the-president-of-turkey-recep-tayyip-erdoaan-returns-to-istanbul-atata1-4rk-airport-indicating-that-the-coup-may-be-faltering.md) _Context: last year's coup attempt_

@@ -1,0 +1,24 @@
+### [2009-03-19](/news/2009/03/19/index.md)
+
+#  A 7.9-magnitude earthquake occurs and the Hunga Tonga submarine volcano erupts in the Pacific Ocean near Tongatapu, Tonga. 
+
+Scientists sailed Thursday to inspect an undersea volcano that has been erupting for days near Tonga &#8212; shooting smoke, steam and ash thousands of feet into the sky above the South Pacific ocean.
+
+
+### Source:
+
+1. [MSNBC](http://www.msnbc.msn.com/id/29769097/)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Tsunami-Warning-After-Earthquake-In-South-Pacific-Near-Tonga/Article/200903315245318?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15245318_Tsunami%3A_Warning_After_Earthquake_In_South_Pacific_Near_Tonga)
+
+### Related:
+
+1. [An explosion of the Hunga Tonga submerged volcano in the South Pacific Ocean, near Nuku'alofa, Tonga, disrupts air travel and creates a one-kilometer new island. ](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.md) _Context: Hunga Tonga, Tonga_
+2. [The eruption of the Hunga Tonga volcano disrupts flights to and from Tonga. ](/news/2015/01/12/the-eruption-of-the-hunga-tonga-volcano-disrupts-flights-to-and-from-tonga.md) _Context: Hunga Tonga, Tonga_
+3. [2013 Solomon Islands earthquake:A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-pa-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqua.md) _Context: Pacific, magnitude_
+4. [ An earthquake measuring 8.1 on the Richter scale occurs at 11:14:19 UTC on the Pacific Ocean seafloor with an epicentre 390 kilometres (244 miles) east of Etorofu island (latitude 46.7 North, longitude 153.5 East). Tsunami warnings and watches are issued by the Pacific Tsunami Warning Center and the East Coast and Alaska Tsunami Warning Center. After expectations of a tsunami at least 2 metres (6 feet) high, the largest wave to hit Hokkaido measures only 40 centimetres (16 inches).](/news/2006/11/15/an-earthquake-measuring-8-1-on-the-richter-scale-occurs-at-11-14-19-utc-on-the-pacific-ocean-seafloor-with-an-epicentre-390-kilometres-244.md) _Context: Pacific, magnitude_
+5. [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md) _Context: Pacific_
+6. [A passenger bus carrying 46 people, mostly school groups from Tonga, crashes in the Gisborne Region of New Zealand, approximately 30 kilometers south of the city of Gisborne. Two people died while several were injured, with some still hospitalized. ](/news/2016/12/24/a-passenger-bus-carrying-46-people-mostly-school-groups-from-tonga-crashes-in-the-gisborne-region-of-new-zealand-approximately-30-kilomet.md) _Context: Tonga_
+7. [The United States Geological Survey (USGS) reports a 7.7 magnitude earthquake has struck off the Northern Mariana Islands in the Pacific Ocean. The Pacific Tsunami Warning Center says there is no tsunami threat because the quake was very deep in the earth. ](/news/2016/07/29/the-united-states-geological-survey-usgs-reports-a-7-7-magnitude-earthquake-has-struck-off-the-northern-mariana-islands-in-the-pacific-oce.md) _Context: Pacific_
+8. [Solar-powered aircraft Solar Impulse 2 lands in Mountain View, California after a 62-hour flight across the Pacific Ocean from Hawaii. ](/news/2016/04/23/solar-powered-aircraft-solar-impulse-2-lands-in-mountain-view-california-after-a-62-hour-flight-across-the-pacific-ocean-from-hawaii.md) _Context: Pacific_
+9. [A total solar eclipse occurs in Indonesia, and later, east of the international date line, in the northern Pacific Ocean. A partial eclipse occurs in northern Australia, South-East Asia, and the Pacific. ](/news/2016/03/9/a-total-solar-eclipse-occurs-in-indonesia-and-later-east-of-the-international-date-line-in-the-northern-pacific-ocean-a-partial-eclipse.md) _Context: Pacific_
+10. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: magnitude_

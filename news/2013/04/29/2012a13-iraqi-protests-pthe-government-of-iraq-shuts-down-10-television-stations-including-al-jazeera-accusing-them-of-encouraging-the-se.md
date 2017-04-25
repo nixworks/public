@@ -1,0 +1,23 @@
+### [2013-04-29](/news/2013/04/29/index.md)
+
+# 2012-13 Iraqi protests:The government of Iraq shuts down 10 television stations including Al Jazeera, accusing them of encouraging the sectarian violence by Sunni muslims in the country. 
+
+BAGHDAD - The Iraqi government ordered 10 predominantly Sunni Muslim satellite television channels to cease broadcasting Sunday, accusing them of encouraging the sectarian unrest that left...
+
+
+### Source:
+
+1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-iraq-tv-20130429,0,5315356.story)
+
+### Related:
+
+1. [Iraqi authorities ban Qatar-based satellite television network Al Jazeera from broadcasting in the country and closes its offices in Baghdad, accusing it of violating government guidelines issued in 2014 to regulate media "during the war on terror". ](/news/2016/04/27/iraqi-authorities-ban-qatar-based-satellite-television-network-al-jazeera-from-broadcasting-in-the-country-and-closes-its-offices-in-baghdad.md) _Context: Al Jazeera, Iraq_
+2. [The death toll of the recent spate of anti-government violence in Iraq surpasses 190 as protests against the leadership of Nouri al-Maliki continue.  ](/news/2013/04/27/the-death-toll-of-the-recent-spate-of-anti-government-violence-in-iraq-surpasses-190-as-protests-against-the-leadership-of-nouri-al-maliki-c.md) _Context: 2012–13 Iraqi protests, Iraq_
+3. [2011-2013 Iraqi protests:Ongoing protests by Sunni Muslims in Iraq against the government of Prime Minister Nouri al-Maliki turn deadly, as clashes leave 7 protesters and 2 soldiers dead in Fallujah. More than 60 others are injured, and at least 3 soldiers are kidnapped by unidentified gunmen. ](/news/2013/01/25/2011a2013-iraqi-protests-pongoing-protests-by-sunni-muslims-in-iraq-against-the-government-of-prime-minister-nouri-al-maliki-turn-deadly.md) _Context: Iraq, Sunni muslims_
+4. [ Al Jazeera airs an audiotape from Osama bin Laden saying al-Qaeda is making preparations for attacks in the United States but offering a "long-term truce" to rebuild Iraq and Afghanistan. ](/news/2006/01/19/al-jazeera-airs-an-audiotape-from-osama-bin-laden-saying-al-qaeda-is-making-preparations-for-attacks-in-the-united-states-but-offering-a-l.md) _Context: Al Jazeera, Iraq_
+5. [ Thousands of Iraqi Shia protest against Al Jazeera after a guest on a talk show on the network suggested that the Ayatollah Ali Sistani, Shia Islam's most senior cleric, should stay out of politics. ](/news/2005/12/15/thousands-of-iraqi-shia-protest-against-al-jazeera-after-a-guest-on-a-talk-show-on-the-network-suggested-that-the-ayatollah-ali-sistani-sh.md) _Context: Al Jazeera, Iraq_
+6. [  A tape, purporting to be of Saddam Hussein and to have been made on June 14, is broadcast on Al Jazeera, the Arabic language satellite television station. If it is Saddam, it marks the first public communication from the former Iraqi leader since his disappearance early on in the Invasion of Iraq. The United States military captures Turkish military personnel and lead them away with hoods over their heads.](/news/2003/07/4/a-tape-purporting-to-be-of-saddam-hussein-and-to-have-been-made-on-june-14-is-broadcast-on-al-jazeera-the-arabic-language-satellite-tel.md) _Context: Al Jazeera, Iraq_
+7. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq_
+8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq_
+9. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq_
+10. [Presidency of Donald Trump U.S. President Donald Trump signs a revised version of Executive Order 13769 eliminating Iraq from the order and reducing the indefinite suspension of Syrian refugees to 120 days. The order will be in effect on March 16, 2017. ](/news/2017/03/6/presidency-of-donald-trump-pu-s-president-donald-trump-signs-a-revised-version-of-executive-order-13769-eliminating-iraq-from-the-order-and.md) _Context: Iraq_

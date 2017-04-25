@@ -1,0 +1,19 @@
+### [1999-04-30](/news/1999/04/30/index.md)
+
+#  A third nail bomb (see April 17) explodes in the Admiral Duncan pub in Old Compton Street, Soho, London, killing a pregnant woman and two friends and injuring seventy others, including her husband. This was part of a hate campaign against ethnic minorities and gay people by David Copeland.
+
+
+
+
+### Related:
+
+1. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: gay_
+2. [Pedro Hernandez, convicted in February 2017 for the May 25, 1979 death of Etan Patz in the SoHo neighborhood of Manhattan, was sentenced yesterday to 25 years to life imprisonment.](/news/2017/04/19/pedro-hernandez-convicted-in-february-2017-for-the-may-25-1979-death-of-etan-patz-in-the-soho-neighborhood-of-manhattan-was-sentenced-yes.md) _Context: SoHo_
+3. [''Urbi et Orbi''Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/urbi-et-orbi-ppope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md) _Context: ethnic minorities_
+4. [Vladimir Putin cautions gay people should not "spread gay propaganda" when visiting the host city of Sochi. ](/news/2014/01/17/vladimir-putin-cautions-gay-people-should-not-spread-gay-propaganda-when-visiting-the-host-city-of-sochi.md) _Context: gay_
+5. [American conservative Christian lobby group One Million Moms launches a campaign against the decision of DC and Marvel Comics to include openly gay characters in their comics. ](/news/2012/05/31/american-conservative-christian-lobby-group-one-million-moms-launches-a-campaign-against-the-decision-of-dc-and-marvel-comics-to-include-ope.md) _Context: gay_
+6. [Transport chiefs in London ban a bus advert which suggested gay people could be cured. ](/news/2012/04/12/transport-chiefs-in-london-ban-a-bus-advert-which-suggested-gay-people-could-be-cured.md) _Context: gay_
+7. [Analyst Roland S. Martin is suspended from CNN over numerous offensive comments he made about gay men on Twitter during the broadcast of Super Bowl XLVI. ](/news/2012/02/9/analyst-roland-s-martin-is-suspended-from-cnn-over-numerous-offensive-comments-he-made-about-gay-men-on-twitter-during-the-broadcast-of-sup.md) _Context: gay_
+8. [In England, three men who distributed and posted through letterboxes leaflets calling for the execution of gay people are jailed. ](/news/2012/02/10/in-england-three-men-who-distributed-and-posted-through-letterboxes-leaflets-calling-for-the-execution-of-gay-people-are-jailed.md) _Context: gay_
+9. [US District Court Judge Virginia A. Phillips rules that the United States military's don't ask, don't tell policy violates the First Amendment rights of gay men and lesbians. ](/news/2010/09/9/us-district-court-judge-virginia-a-phillips-rules-that-the-united-states-military-s-don-t-ask-don-t-tell-policy-violates-the-first-amendme.md) _Context: gay_
+10. [ The bishops of the United States Episcopal Church agree to "exercise restraint" by not consecrating more gay bishops or authorizing rites for the blessing of same-sex unions in order to prevent a schism in the Anglican Church worldwide. ](/news/2007/09/26/the-bishops-of-the-united-states-episcopal-church-agree-to-exercise-restraint-by-not-consecrating-more-gay-bishops-or-authorizing-rites-f.md) _Context: gay_

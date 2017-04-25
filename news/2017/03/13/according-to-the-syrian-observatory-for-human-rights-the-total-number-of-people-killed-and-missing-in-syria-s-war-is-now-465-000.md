@@ -1,0 +1,23 @@
+### [2017-03-13](/news/2017/03/13/index.md)
+
+# According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-casualties-idUSKBN16K1Q1)
+
+### Related:
+
+1. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+2. [Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. ](/news/2017/02/14/rival-fighters-between-tahrir-al-sham-and-jund-al-aqsa-clash-in-syria-s-northern-idlib-governorate-killing-dozens-according-to-the-syrian.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+3. [ISIL recaptures the Syrian city of Palmyra despite heavy Russian airstrikes, according to the Syrian Observatory for Human Rights and Palmyra Coordination Committee (PCC). ](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+4. [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+5. [The Syrian Observatory for Human Rights says that at least 51 people have been killed in the Syrian city of Aleppo. ](/news/2016/08/13/the-syrian-observatory-for-human-rights-says-that-at-least-51-people-have-been-killed-in-the-syrian-city-of-aleppo.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+6. [The British-based Syrian Observatory for Human Rights reports U.S.-led coalition airstrikes on the  Islamic State-held city of Manbij in northern Syria kill at least 56 civilians, including 11 children, and injure dozens more. ](/news/2016/07/19/the-british-based-syrian-observatory-for-human-rights-reports-u-s-led-coalition-airstrikes-on-the-islamic-state-held-city-of-manbij-in-nor.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+7. [Airstrikes reportedly kill at least 82 people, including 58 civilians, in Syria's eastern Deir ez-Zor Governorate, according to the Syrian Observatory for Human Rights. ](/news/2016/06/26/airstrikes-reportedly-kill-at-least-82-people-including-58-civilians-in-syria-s-eastern-deir-ez-zor-governorate-according-to-the-syrian-o.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+8. [A rocket attack hits a hospital in the Syrian city of Aleppo, killing three civilians. The Syrian Observatory for Human Rights said the attack was part of a bigger shelling that killed 19 more people. ](/news/2016/05/3/a-rocket-attack-hits-a-hospital-in-the-syrian-city-of-aleppo-killing-three-civilians-the-syrian-observatory-for-human-rights-said-the-atta.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+9. [The Syrian Observatory for Human Rights says Syrian rebels have seized control of the al-Tanf border crossing on the Iraq-Syria border from ISIL militants. The rebel fighters who took the crossing reportedly entered Syria through Jordan. ](/news/2016/03/4/the-syrian-observatory-for-human-rights-says-syrian-rebels-have-seized-control-of-the-al-tanf-border-crossing-on-the-iraqasyria-border-fro.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+10. [The Syrian Observatory for Human Rights reports a drone attack,  "most likely operated by the US-led coalition," kills Abu al-Hija, a high-ranking Tunisian ISIL commander, near the Islamic State's de facto Syrian capital Raqqa. ](/news/2016/03/31/the-syrian-observatory-for-human-rights-reports-a-drone-attack-amost-likely-operated-by-the-us-led-coalition-a-kills-abu-al-hija-a-hi.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_

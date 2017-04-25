@@ -1,0 +1,23 @@
+### [2014-04-21](/news/2014/04/21/index.md)
+
+# According to reports, David Moyes will soon be sacked as manager of Manchester United after a season that left United without Champions League football for the first time in decades. 
+
+David Moyes is facing the sack by Manchester United, who have finally run out of patience with him and do not believe he can be trusted with the £150m overhaul the club intends to carry out this summer.
+
+
+### Source:
+
+1. [The Independent](http://www.independent.co.uk/sport/football/premier-league/david-moyes-to-be-sacked-manchester-united-runs-out-of-patience-with-managers-exit-imminent-9273253.html)
+
+### Related:
+
+1. [Manchester United manager David Moyes is fired and player-coach Ryan Giggs takes charge on an interim basis. Moyes' dismissal comes 10 months after he succeeded Sir Alex Ferguson. ](/news/2014/04/22/manchester-united-manager-david-moyes-is-fired-and-player-coach-ryan-giggs-takes-charge-on-an-interim-basis-moyes-dismissal-comes-10-month.md) _Context: David Moyes, Manchester United_
+2. [Current Everton manager David Moyes is confirmed as Alex Ferguson's successor at Manchester United. ](/news/2013/05/9/current-everton-manager-david-moyes-is-confirmed-as-alex-ferguson-s-successor-at-manchester-united.md) _Context: David Moyes, Manchester United_
+3. [Manchester United beat Southampton 3-2 at Wembley Stadium to win the 2016-17 EFL Cup. ](/news/2017/02/26/manchester-united-beat-southampton-3a2-at-wembley-stadium-to-win-the-2016a17-efl-cup.md) _Context: Manchester United_
+4. [Manchester United complete the signing of Paul Pogba on five-year deal from Juventus for a world record transfer fee of PS89m (EUR105m), making Pogba the most expensive football player ever. ](/news/2016/08/8/manchester-united-complete-the-signing-of-paul-pogba-on-five-year-deal-from-juventus-for-a-world-record-transfer-fee-of-aps89m-a-105m-mak.md) _Context: Manchester United_
+5. [Manchester United F.C. beat Crystal Palace F.C. 2-1 at Wembley Stadium in London to win the 2015-16 FA Cup. ](/news/2016/05/21/manchester-united-f-c-beat-crystal-palace-f-c-2-1-at-wembley-stadium-in-london-to-win-the-2015a16-fa-cup.md) _Context: Manchester United_
+6. [Leicester City's Jamie Vardy scores in a record eleven consecutive Premier League matches after scoring against Manchester United in a 1-1 draw at the King Power Stadium, breaking former Manchester United player Ruud van Nistelrooy's record. ](/news/2015/11/28/leicester-city-s-jamie-vardy-scores-in-a-record-eleven-consecutive-premier-league-matches-after-scoring-against-manchester-united-in-a-1-1-d.md) _Context: Manchester United_
+7. [In the 2012-13 Premier League, Manchester City claims a 2-1 victory over their rivals and leaders Manchester United with Sergio Aguero's winning goal. ](/news/2013/04/8/in-the-2012a13-premier-league-manchester-city-claims-a-2a1-victory-over-their-rivals-and-leaders-manchester-united-with-sergio-aguero-s.md) _Context: Manchester United_
+8. [2012-13 Premier League:Manchester United secure the 2012-13 Premier League title thanks to a Robin van Persie hat trick against Aston Villa at Old Trafford, which moves them 16 points clear of rivals and reigning champions Manchester City who have only a maximum of 15 points left to play for. This is Sir Alex Ferguson's 13th title of his 27-year tenure as United's manager. ](/news/2013/04/22/2012a13-premier-league-pmanchester-united-secure-the-2012a13-premier-league-title-thanks-to-a-robin-van-persie-hat-trick-against-aston-v.md) _Context: Manchester United_
+9. [Fallout of Manchester United v. Real Madrid:UEFA backs Turkish referee Cuneyt Cakir over his controversial decision to red card Manchester United's Nani in last night's elimination by a 2-1 scoreline (3-2 on aggregate) at the feet of Real Madrid in the second leg of their 2012-13 UEFA Champions League last 16 tie at Old Trafford. ](/news/2013/03/6/fallout-of-manchester-united-v-real-madrid-puefa-backs-turkish-referee-ca1-4neyt-aaka-r-over-his-controversial-decision-to-red-card-manchest.md) _Context: Manchester United_
+10. [Real Madrid defeat Manchester United by a 2-1 scoreline (3-2 on aggregate) in the second leg of their 2012-13 UEFA Champions League last 16 tie. With the Premier League club leading 1-0, Nani's controversial second half sending off provides the game's main turning point, and Cristiano Ronaldo ultimately scores the winning goal on his first return to Old Trafford since leaving in the summer of 2009. ](/news/2013/03/5/real-madrid-defeat-manchester-united-by-a-2a1-scoreline-3a2-on-aggregate-in-the-second-leg-of-their-2012a13-uefa-champions-league-la.md) _Context: Manchester United_

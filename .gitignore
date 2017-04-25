@@ -1,0 +1,7 @@
+.well-known
+*.html
+*.xml
+*.json
+*.txt
+*.png
+*.ico

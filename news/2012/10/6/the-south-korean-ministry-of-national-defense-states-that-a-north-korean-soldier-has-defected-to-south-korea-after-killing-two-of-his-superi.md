@@ -1,0 +1,23 @@
+### [2012-10-6](/news/2012/10/6/index.md)
+
+# The South Korean Ministry of National Defense states that a North Korean soldier has defected to South Korea after killing two of his superiors. 
+
+
+
+
+### Source:
+
+1. [AP via ''The Union Democrat](http://hosted.ap.org/dynamic/stories/A/AS_KOREAS_DEFECTOR?SITE=CASON&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-10-06-02-21-37)
+
+### Related:
+
+1. [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md) _Context: North Korea, South Korea, defectors_
+2. [North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to  South Korea. ](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md) _Context: North Korea, South Korea, defectors_
+3. [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md) _Context: North Korea, South Korea, defectors_
+4. [  North Korea accuses South Korea of kidnapping its citizens and demands their immediate return after Seoul's Ministry of Unification said 13 of them had defected to South Korea from China, where they worked in a Pyongyang-operated restaurant. China says that the 13 people, a male manager and 12 young female employees, had legitimate passports and had freely exited China. ](/news/2016/04/12/north-korea-accuses-south-korea-of-kidnapping-its-citizens-and-demands-their-immediate-return-after-seoul-s-ministry-of-unification-said-1.md) _Context: North Korea, South Korea, defectors_
+5. [South Korea announces that a colonel from North Korea's military spy agency defected to the south last year. Senior-level defections are rare, most being low level operatives. ](/news/2016/04/11/south-korea-announces-that-a-colonel-from-north-korea-s-military-spy-agency-defected-to-the-south-last-year-senior-level-defections-are-rar.md) _Context: North Korea, South Korea, defectors_
+6. [2013 Korean crisis:A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/2013-korean-crisis-pa-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increas.md) _Context: North Korea, South Korea, defense ministry_
+7. [2013 Korean crisis:South Korea's Ministry of Unification says that North Korea is denying workers entry to joint-Korean Kaesong complex amid tensions on the peninsula. The Ministry of Defence will consider a military action if the workers' security is threatened. The U.S. Navy sends USS ''John McCain'' and USS ''Decatur'' into the area. ](/news/2013/04/3/2013-korean-crisis-psouth-korea-s-ministry-of-unification-says-that-north-korea-is-denying-workers-entry-to-joint-korean-kaesong-complex-ami.md) _Context: North Korea, South Korea, defense ministry_
+8. [2013 Korean crisis:South Korea's defense ministry says it doubts North Korea has the ability to launch a nuclear-armed ballistic missile as claimed in a report by the United States Defense Intelligence Agency. ](/news/2013/04/12/2013-korean-crisis-psouth-korea-s-defense-ministry-says-it-doubts-north-korea-has-the-ability-to-launch-a-nuclear-armed-ballistic-missile-as.md) _Context: North Korea, South Korea, defense ministry_
+9. [The South Korean defence ministry says the launch of a satellite into space by North Korea was a disguised test of a 10,000 km range missile. ](/news/2012/12/23/the-south-korean-defence-ministry-says-the-launch-of-a-satellite-into-space-by-north-korea-was-a-disguised-test-of-a-10-000-km-range-missile.md) _Context: North Korea, South Korea, defense ministry_
+10. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea, South Korea_

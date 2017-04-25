@@ -1,0 +1,14 @@
+### [1999-07-21](/news/1999/07/21/index.md)
+
+#  Two divers die in the Deer Island Outfall Tunnel during a project to remove safety plugs inside risers leading from the tunnel to the bottom of Massachusetts Bay. 
+
+
+
+
+### Source:
+
+1. [Associated Press](http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/19990722/NEWS/307229950)
+
+### Related:
+
+1. [Baby Doe, a toddler who was found washed ashore Deer Island in Massachusetts in a trash bag, is identified as Bella Bond. ](/news/2015/09/18/baby-doe-a-toddler-who-was-found-washed-ashore-deer-island-in-massachusetts-in-a-trash-bag-is-identified-as-bella-bond.md) _Context: Deer Island_

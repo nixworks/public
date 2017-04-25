@@ -1,0 +1,23 @@
+### [2008-09-7](/news/2008/09/7/index.md)
+
+#  Subprime mortgage crisis: The United States federal government places mortgage financing companies Freddie Mac and Fannie Mae into conservatorship. The Federal Housing Finance Agency will manage the companies on a temporary basis. 
+
+The U.S. government on Sunday seized control of mortgage finance companies Fannie Mae and Freddie Mac in an aggressive move to help the distressed U.S. housing market and economy.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/businessNews/idINIndia-35361320080907)
+
+### Related:
+
+1. [Goldman Sachs agrees to buy back $3.15 billion in low quality mortgage bonds that it dumped on Fannie Mae and Freddie Mac preceding the financial crisis of 2007-08. ](/news/2014/08/23/goldman-sachs-agrees-to-buy-back-3-15-billion-in-low-quality-mortgage-bonds-that-it-dumped-on-fannie-mae-and-freddie-mac-preceding-the-fina.md) _Context: Fannie Mae, Freddie Mac_
+2. [United States Government owned mortgage firms Fannie Mae and Freddie Mac announce record profits during 2012. ](/news/2013/04/2/united-states-government-owned-mortgage-firms-fannie-mae-and-freddie-mac-announce-record-profits-during-2012.md) _Context: Fannie Mae, Freddie Mac_
+3. [ According to several news reports, the US government plans to take control of Fannie Mae and Freddie Mac in a takeover plan. ](/news/2008/09/5/according-to-several-news-reports-the-us-government-plans-to-take-control-of-fannie-mae-and-freddie-mac-in-a-takeover-plan.md) _Context: Fannie Mae, Freddie Mac_
+4. [ Government officials say that the Federal Bureau of Investigation is looking into possible fraud for mortgage financing companies Fannie Mae and Freddie Mac, Lehman Brothers, and insurer American International Group. ](/news/2008/09/23/government-officials-say-that-the-federal-bureau-of-investigation-is-looking-into-possible-fraud-for-mortgage-financing-companies-fannie-ma.md) _Context: Fannie Mae, Freddie Mac_
+5. [ Subprime mortgage crisis: British bank Lloyds TSB completes a 12.2bn takeover of rival HBOS, the UK's largest mortgage lender. The Competition Commission has allowed the deal as it has government backing, despite the fact that it will leave Lloyd's HBOS in control of a third of the UK mortgage market. ](/news/2008/09/18/subprime-mortgage-crisis-p-british-bank-lloyds-tsb-completes-a-ps12-2bn-takeover-of-rival-hbos-the-uk-s-largest-mortgage-lender-the-compet.md) _Context: housing crisis, mortgage_
+6. [ Ben Bernanke, the Chairman of the Federal Reserve, assures  the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gi.md) _Context: Fannie Mae, Freddie Mac_
+7. [ The United States Federal Reserve tightens mortgage regulation in an attempt to stamp out the practices that led to the subprime mortgage crisis. ](/news/2008/07/14/the-united-states-federal-reserve-tightens-mortgage-regulation-in-an-attempt-to-stamp-out-the-practices-that-led-to-the-subprime-mortgage-c.md) _Context: housing crisis, mortgage_
+8. [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md) _Context: housing crisis_
+9. [To resolve claims they were misled about the company's subprime mortgage exposure, a U.S. District Court Judge, Laura Swain approves a settlement between shareholders and American multinational insurer AIG, providing for a payout of $970.5 million. [http://www.reuters.com/article/2015/03/21/us-aig-classaction-settlement-idUSKBN0MG2E920150321 (Reuters)].](/news/2015/03/20/to-resolve-claims-they-were-misled-about-the-company-s-subprime-mortgage-exposure-a-u-s-district-court-judge-laura-swain-approves-a-settl.md) _Context: housing crisis_
+10. [The Obama Administration announces the creation of the Cyber Threat Intelligence Integration Center, a new United States federal government agency that will be a fusion center between existing agencies and the private sector for real-time use against cyber attacks. ](/news/2015/02/10/the-obama-administration-announces-the-creation-of-the-cyber-threat-intelligence-integration-center-a-new-united-states-federal-government.md) _Context: United States federal government_

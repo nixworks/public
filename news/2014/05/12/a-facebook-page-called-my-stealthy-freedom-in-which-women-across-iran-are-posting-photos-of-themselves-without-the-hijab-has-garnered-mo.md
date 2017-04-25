@@ -1,0 +1,24 @@
+### [2014-05-12](/news/2014/05/12/index.md)
+
+# A Facebook page called "My Stealthy Freedom", in which women across Iran are posting photos of themselves without the hijab, has garnered more than 130,000 likes, a week after it was created. 
+
+Women across Iran are posting photos of themselves without the hijab to a dedicated Facebook page.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/blogs-trending-27373368)
+2. [The Guardian](http://www.theguardian.com/world/2014/may/12/iran-women-hijab-facebook-pictures-alinejad)
+
+### Related:
+
+1. [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md) _Context: Iran_
+2. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Iran_
+3. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Facebook_
+4. [Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md) _Context: Facebook_
+5. [Flash flooding caused by torrential rain leaves at least 17 people dead and 20 others missing in northwestern Iran, according to state television. ](/news/2017/04/15/flash-flooding-caused-by-torrential-rain-leaves-at-least-17-people-dead-and-20-others-missing-in-northwestern-iran-according-to-state-telev.md) _Context: Iran_
+6. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _Context: Iran_
+7. [The Turkish government lifts the ban prohibiting female army officers from wearing a Hijab. The military is the last Turkish institution to end the ban. ](/news/2017/02/22/the-turkish-government-lifts-the-ban-prohibiting-female-army-officers-from-wearing-a-hijab-the-military-is-the-last-turkish-institution-to.md) _Context: Hijab_
+8. [Mark Zuckerberg publishes a new mission statement for his website, Facebook, including the development of artificial intelligence to identify potential tragic events such as suicides before they occur. ](/news/2017/02/17/mark-zuckerberg-publishes-a-new-mission-statement-for-his-website-facebook-including-the-development-of-artificial-intelligence-to-identif.md) _Context: Facebook_
+9. [Iranian Minister of Defence Hossein Dehghan confirms Iran tested a new missile, claiming that the test did not violate the 2015 nuclear deal nor UN resolution 2231. ](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.md) _Context: Iran_
+10. [A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. [http://www.reuters.com/article/facebook-lawsuit-idUSL1N1FM229 (Reuters)].](/news/2017/02/1/a-jury-finds-in-favor-of-video-game-publisher-zenimax-media-after-the-trial-of-its-copyright-lawsuit-against-oculus-and-facebook-regarding.md) _Context: Facebook_

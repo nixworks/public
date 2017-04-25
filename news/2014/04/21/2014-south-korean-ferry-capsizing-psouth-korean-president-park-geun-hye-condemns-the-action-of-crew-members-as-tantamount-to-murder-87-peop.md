@@ -1,0 +1,24 @@
+### [2014-04-21](/news/2014/04/21/index.md)
+
+# 2014 South Korean ferry capsizing:South Korean President Park Geun-hye condemns the action of crew members as tantamount to murder. 87 people are known to have died and 238 are missing and presumed dead in the sinking of Sewol ferry on 16 April. 
+
+JINDO, South Korea -- South Korean President Park Geun-hye on Monday likened the actions of the captain and some crew members of the sunken ferry Sewol to murder, as police made more four arrests and divers continued searching the submerged vessel. The captain of the South Korean ship, Lee Joon-seok, is already facing a series of criminal charges for his role in last week&#039;s sinking, in which at least 87 people have died and 215 others remain missing. Many of them are students and teachers on a field trip from a high school near Seoul.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2014/04/21/us-korea-ship-idUSBREA3F01Y20140421)
+2. [KDVR](http://kdvr.com/2014/04/21/four-more-south-korea-ferry-crew-members-arrested-death-toll-at-64-238-missing/)
+
+### Related:
+
+1. [A total of 113 people are known to have died, with 190 more passengers missing and presumed trapped inside the vessel. Seven crew members are detained for their failure to evacuate Sewol ferry. The reason for sinking is not yet clear. ](/news/2014/04/22/a-total-of-113-people-are-known-to-have-died-with-190-more-passengers-missing-and-presumed-trapped-inside-the-vessel-seven-crew-members-ar.md) _Context: 2014 South Korean ferry capsizing, Sewol_
+2. [2014 South Korean ferry capsizing:The death toll rises to 58 as Navy and Coast Guard divers comb the ferry to retrieve victims from the Sewol. Five routes into the ferry have been established, and operations are expected to pick up pace. ](/news/2014/04/20/2014-south-korean-ferry-capsizing-pthe-death-toll-rises-to-58-as-navy-and-coast-guard-divers-comb-the-ferry-to-retrieve-victims-from-the-sew.md) _Context: 2014 South Korean ferry capsizing, Sewol_
+3. [Authorities arrest Impeached South Korean President Park Geun-hye on charges of bribery, abuse of authority, coercion, and leaking government secrets. ](/news/2017/03/30/authorities-arrest-impeached-south-korean-president-park-geun-hye-on-charges-of-bribery-abuse-of-authority-coercion-and-leaking-governmen.md) _Context: Park Geun-hye_
+4. [South Korea's Constitutional Court upholds the impeachment of President Park Geun-hye, removing her from office. Hwang Kyo-ahn assumes powers as Acting President. ](/news/2017/03/10/south-korea-s-constitutional-court-upholds-the-impeachment-of-president-park-geun-hye-removing-her-from-office-hwang-kyo-ahn-assumes-power.md) _Context: Park Geun-hye_
+5. [A court in South Korea strikes down a request by prosecutors to issue an arrest warrant for Samsung vice chairman Lee Jae-yong, who is accused of bribery and embezzlement, in connection to a corruption scandal involving impeached President Park Geun-hye. ](/news/2017/01/19/a-court-in-south-korea-strikes-down-a-request-by-prosecutors-to-issue-an-arrest-warrant-for-samsung-vice-chairman-lee-jae-yong-who-is-accus.md) _Context: Park Geun-hye_
+6. [South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-group-in-relation-to-the-political-sca.md) _Context: Park Geun-hye_
+7. [South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234a56-vote-prime-minister-hwang-kyo-ahn-a-staunch-defender-of-ms-park-wil.md) _Context: Park Geun-hye_
+8. [A bill is introduced into the South Korean National Assembly to impeach President Park Geun-hye. A vote is expected tomorrow. ](/news/2016/12/8/a-bill-is-introduced-into-the-south-korean-national-assembly-to-impeach-president-park-geun-hye-a-vote-is-expected-tomorrow.md) _Context: Park Geun-hye_
+9. [The South Korean National Assembly begins hearings ahead of an impeachment vote against President Park Geun-Hye. ](/news/2016/12/5/the-south-korean-national-assembly-begins-hearings-ahead-of-an-impeachment-vote-against-president-park-geun-hye.md) _Context: Park Geun-hye_
+10. [United Nations secretary-general Ban Ki-moon and liberal candidate Moon Jae-in plan to contest the position vacated by Park Geun-hye. ](/news/2016/12/22/united-nations-secretary-general-ban-ki-moon-and-liberal-candidate-moon-jae-in-plan-to-contest-the-position-vacated-by-park-geun-hye.md) _Context: Park Geun-hye_

@@ -1,0 +1,23 @@
+### [2014-04-8](/news/2014/04/8/index.md)
+
+# As part of his state visit to the United Kingdom, Irish President Michael D. Higgins addresses the Houses of Parliament and attends a banquet at Windsor Castle with Elizabeth II. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-26932969)
+
+### Related:
+
+1. [Sinn Fein's Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-inas-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md) _Context: Elizabeth II, Michael D. Higgins, President, Windsor Castle, banquet_
+2. [President of Ireland, Michael D. Higgins arrives in the United Kingdom for a state visit, the first to the UK by an Irish Head of State. ](/news/2014/04/7/president-of-ireland-michael-d-higgins-arrives-in-the-united-kingdom-for-a-state-visit-the-first-to-the-uk-by-an-irish-head-of-state.md) _Context: Michael D. Higgins, President_
+3. [President of Ireland Michael D. Higgins calls for an investigation into the death of Savita Halappanavar to meet the needs of a "concerned public" as Savita's husband Praveen continues his battle against Ireland's government and the Health Service Executive (HSE) to hold a sworn, public inquiry into her death, which he believes occurred due to her being denied an abortion. ](/news/2012/11/21/president-of-ireland-michael-d-higgins-calls-for-an-investigation-into-the-death-of-savita-halappanavar-to-meet-the-needs-of-a-concerned-p.md) _Context: Michael D. Higgins, President_
+4. [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md) _Context: Michael D. Higgins, President_
+5. [Michael D. Higgins is inaugurated as the ninth President of Ireland. ](/news/2011/11/11/michael-d-higgins-is-inaugurated-as-the-ninth-president-of-ireland.md) _Context: Michael D. Higgins, President_
+6. [The Emir of Qatar begins a state visit to the United Kingdom by meeting Queen Elizabeth II at Windsor Palace. ](/news/2010/10/26/the-emir-of-qatar-begins-a-state-visit-to-the-united-kingdom-by-meeting-queen-elizabeth-ii-at-windsor-palace.md) _Context: Elizabeth II, Windsor Castle_
+7. [Queen Elizabeth II celebrates her 91st birthday. ](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.md) _Context: Elizabeth II_
+8. [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md) _Context: Elizabeth II_
+9. [The academic Phil Scraton refuses an OBE granted to him by Elizabeth II in her 2017 New Year Honours list for his work on the Hillsborough disaster. Professor Scraton wrote ''Hillsborough: The Truth'', first published in 1990 and seen as the definitive account of the disaster. ](/news/2016/12/29/the-academic-phil-scraton-refuses-an-obe-granted-to-him-by-elizabeth-ii-in-her-2017-new-year-honours-list-for-his-work-on-the-hillsborough-d.md) _Context: Elizabeth II_
+10. [Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. ](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.md) _Context: Elizabeth II_

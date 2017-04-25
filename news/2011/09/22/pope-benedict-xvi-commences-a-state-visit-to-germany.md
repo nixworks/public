@@ -1,0 +1,23 @@
+### [2011-09-22](/news/2011/09/22/index.md)
+
+# Pope Benedict XVI commences a state visit to Germany. 
+
+Pope Benedict XVI faces a clamour for change as he heads to Germany for his first state visit, with calls for reform on many fronts &ndash; from recognising gays to ordaining women to the priesthood.
+
+
+### Source:
+
+1. [The Telegraph](http://www.telegraph.co.uk/news/religion/8779609/Pope-visit-German-speaking-Catholics-want-reform-from-Rome.html)
+
+### Related:
+
+1. [Roman Catholic child sexual abuse investigation: The Dutch Catholic Church apologises and the country's religious leaders request an independent inquiry. A monastery head in Salzburg admits abuse of a boy more than four decades ago. The brother of Pope Benedict XVI admits physically disciplining students at a school in Germany before corporal punishment was banned in 1980. ](/news/2010/03/9/roman-catholic-child-sexual-abuse-investigation-the-dutch-catholic-church-apologises-and-the-country-s-religious-leaders-request-an-indepen.md) _Context: Benedict XVI, Germany_
+2. [Pope Benedict XVI is "distraught" by news alleged of child sexual abuse in Catholic dioceses in Germany, according to Archbishop Robert Zollitsch, as the church also faces paedophilia scandals in Ireland, Austria, and the Netherlands, while Pope Benedict defends clerical celibacy, calling it a symbol of "full devotion" and of "giving oneself to God and to others." ](/news/2010/03/12/pope-benedict-xvi-is-distraught-by-news-alleged-of-child-sexual-abuse-in-catholic-dioceses-in-germany-according-to-archbishop-robert-zoll.md) _Context: Benedict XVI, Germany_
+3. [ More than 800,000 people joined Pope Benedict XVI for the concluding Mass of World Youth Day 2005 in Cologne, Germany. ](/news/2005/08/21/more-than-800-000-people-joined-pope-benedict-xvi-for-the-concluding-mass-of-world-youth-day-2005-in-cologne-germany.md) _Context: Benedict XVI, Germany_
+4. [ Pope Benedict XVI made his first foreign trip to his homeland Germany, attending the World Youth Day 2005. He was welcomed with cheers and made several speeches to leaders of Germany and to pilgrims at the Rhine banks at a ship as well as in front of the Cologne cathedrale. - [http://news.bbc.co.uk/1/hi/in_pictures/4163022.stm BBC Pictures]; [http://news.bbc.co.uk/1/hi/world/europe/4161706.stm BBC News]; [http://www.msnbc.msn.com/id/8974211/ MSNBC].](/news/2005/08/18/pope-benedict-xvi-made-his-first-foreign-trip-to-his-homeland-germany-attending-the-world-youth-day-2005-he-was-welcomed-with-cheers-and.md) _Context: Benedict XVI, Germany_
+5. [ Papal conclave, 2005:  Ringing bells and white smoke at the Vatican indicate that, after four ballots, a new Pope, German Cardinal Joseph Ratzinger, has been elected. He has taken the regnal name Pope Benedict XVI. ](/news/2005/04/19/papal-conclave-2005-ringing-bells-and-white-smoke-at-the-vatican-indicate-that-after-four-ballots-a-new-pope-german-cardinal-joseph-r.md) _Context: Benedict XVI, Germany_
+6. [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md) _Context: Germany_
+7. [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md) _Context: Germany_
+8. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Germany_
+9. [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police  do not believe  terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md) _Context: Germany_
+10. [A report alleges that the German BND has been spying on journalists in Afghanistan. ](/news/2017/02/24/a-report-alleges-that-the-german-bnd-has-been-spying-on-journalists-in-afghanistan.md) _Context: Germany_

@@ -1,0 +1,24 @@
+### [2010-11-12](/news/2010/11/12/index.md)
+
+# Nigeria is to question an Iranian citizen over a shipment of arms seized in Lagos, warning that it could report Iran to the United Nations Security Council if sanctions had been breached. 
+
+Iran allows Nigeria to question one of its citizens inside its embassy, over a weapons shipment seized in Lagos.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11743454)
+2. [IBTimes Hong Kong](http://hken.ibtimes.com/articles/81372/20101112/nigeria-iran-arms-shipment-consignment-abuja-sanctions-united-nations-port-of-lagos.htm)
+
+### Related:
+
+1. [A court in Nigeria charges an Iranian man over an illegal weapons shipment discovered in Lagos. ](/news/2010/11/25/a-court-in-nigeria-charges-an-iranian-man-over-an-illegal-weapons-shipment-discovered-in-lagos.md) _Context: Iran, Lagos, Nigeria_
+2. [Nigeria reports Iran to the United Nations Security Council over the seizure of a shipment of weapons. ](/news/2010/11/16/nigeria-reports-iran-to-the-united-nations-security-council-over-the-seizure-of-a-shipment-of-weapons.md) _Context: Iran, Nigeria, United Nations Security Council_
+3. [Nigerian spy chief Ayo Oke has been suspended by President Muhammadu Buhari after anti-corruption agents uncovered more than $43 million in cash at his flat in Lagos. ](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-by-president-muhammadu-buhari-after-anti-corruption-agents-uncovered-more-than-43-million-in.md) _Context: Lagos, Nigeria_
+4. [At least 30 people are killed after a five-story building still under construction collapses in Lagos, Nigeria. ](/news/2016/03/9/at-least-30-people-are-killed-after-a-five-story-building-still-under-construction-collapses-in-lagos-nigeria.md) _Context: Lagos, Nigeria_
+5. [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md) _Context: Iran, United Nations Security Council_
+6. [U.S. Ambassador to the United Nations Samantha Power says the United States is investigating reports that Iran launched a medium-range ballistic missile in November, and if confirmed, will bring the issue to the U.N. Security Council and seek appropriate action. ](/news/2015/12/8/u-s-ambassador-to-the-united-nations-samantha-power-says-the-united-states-is-investigating-reports-that-iran-launched-a-medium-range-balli.md) _Context: Iran, United Nations Security Council_
+7. [The United Nations finds Iran's firing of a medium-range ballistic missile in October violated a June 2010 resolution banning the Islamic Republic from launches capable of delivering nuclear weapons. The test was not technically a violation of the July nuclear deal between Iran and six world powers.  It's not known if the Security Council will take any action.  ](/news/2015/12/15/the-united-nations-finds-iran-s-firing-of-a-medium-range-ballistic-missile-in-october-violated-a-june-2010-resolution-banning-the-islamic-re.md) _Context: Iran, United Nations Security Council_
+8. [The United States confirms Iran tested a medium-range missile capable of delivering a nuclear weapon, in "clear violation" of a United Nations Security Council ban on ballistic missile tests. ](/news/2015/10/16/the-united-states-confirms-iran-tested-a-medium-range-missile-capable-of-delivering-a-nuclear-weapon-in-clear-violation-of-a-united-natio.md) _Context: Iran, United Nations Security Council_
+9. [The United Nations Security Council unanimously approves the Nuclear Pact between Iran and a group of six world powers in return for sanctions relief. ](/news/2015/07/20/the-united-nations-security-council-unanimously-approves-the-nuclear-pact-between-iran-and-a-group-of-six-world-powers-in-return-for-sanctio.md) _Context: Iran, United Nations Security Council_
+10. [Eleven (11) of 15 United Nations Security Council members approve placing North Korea's human rights record on the Council's agenda. Russia and China oppose the decision while Chad and Nigeria abstain. This is the first time this issue has been debated by the Security Council. Procedurally, once a topic makes the agenda, that issue can be brought up again at any time. ](/news/2014/12/22/eleven-11-of-15-united-nations-security-council-members-approve-placing-north-korea-s-human-rights-record-on-the-council-s-agenda-russia.md) _Context: Nigeria, United Nations Security Council_

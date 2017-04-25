@@ -1,0 +1,22 @@
+### [2007-09-4](/news/2007/09/4/index.md)
+
+#  A Eurostar train sets a new record of 2 hours, 3 minutes and 39 seconds for rail travel between Paris and London, on the inaugural journey from Gare du Nord to St Pancras International on the new High Speed 1 line. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/6977211.stm)
+
+### Related:
+
+1. [ Queen Elizabeth II formally opens High Speed 1 and London's St Pancras station, the new home for Eurostar trains linking London with Paris and Brussels as of November 14, replacing the Eurostar terminus at Waterloo station. ](/news/2007/11/6/queen-elizabeth-ii-formally-opens-high-speed-1-and-london-s-st-pancras-station-the-new-home-for-eurostar-trains-linking-london-with-paris.md) _Context: Eurostar, High Speed 1, St Pancras station_
+2. [Eurostar services between Paris and London are delayed by hundreds of migrants trying to board the trains at Calais. ](/news/2015/09/1/eurostar-services-between-paris-and-london-are-delayed-by-hundreds-of-migrants-trying-to-board-the-trains-at-calais.md) _Context: Eurostar_
+3. [Frankfurt Airport is closed and Eurostar trains are suspended due to unseasonably heavy snowfall in Western Europe. ](/news/2013/03/12/frankfurt-airport-is-closed-and-eurostar-trains-are-suspended-due-to-unseasonably-heavy-snowfall-in-western-europe.md) _Context: Eurostar_
+4. [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md) _Context: Eurostar_
+5. ['''Winter of 2009-2010 in Europe'''More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/winter-of-2009a2010-in-europe-pmore-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-be.md) _Context: Eurostar_
+6. [ Eurostar finally resumes services after three days of continent-wide weather-related outages. ](/news/2009/12/22/eurostar-finally-resumes-services-after-three-days-of-continent-wide-weather-related-outages.md) _Context: Eurostar_
+7. [ Eurostar is suspended indefinitely due to the heavy snowfall affecting continental Europe. ](/news/2009/12/21/eurostar-is-suspended-indefinitely-due-to-the-heavy-snowfall-affecting-continental-europe.md) _Context: Eurostar_
+8. [ High Speed 1 (formerly known as the Channel Tunnel Rail Link) opens for commercial use in Britain, linking London St. Pancras, which also opened for commercial use, to the Channel Tunnel. ](/news/2007/11/14/high-speed-1-formerly-known-as-the-channel-tunnel-rail-link-opens-for-commercial-use-in-britain-linking-london-st-pancras-which-also-o.md) _Context: High Speed 1_
+9. [ Gangs of youths riot in Paris with the violence centred on the Gare du Nord, one of the main railway stations. ](/news/2007/03/28/gangs-of-youths-riot-in-paris-with-the-violence-centred-on-the-gare-du-nord-one-of-the-main-railway-stations.md) _Context: Gare du Nord_

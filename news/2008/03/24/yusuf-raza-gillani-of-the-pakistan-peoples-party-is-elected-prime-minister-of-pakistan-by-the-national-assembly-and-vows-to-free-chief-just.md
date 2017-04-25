@@ -1,0 +1,23 @@
+### [2008-03-24](/news/2008/03/24/index.md)
+
+#  Yusuf Raza Gillani of the Pakistan Peoples Party is elected Prime Minister of Pakistan by the National Assembly and vows to free Chief Justice Iftikhar Chaudhry and other judges from house arrest. 
+
+
+
+
+### Source:
+
+1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7311430.stm)
+
+### Related:
+
+1. [ Former Pakistani Prime Minister Nawaz Sharif is placed under house arrest to prevent the Pakistani Muslim League's proposed demonstration in Islamabad on March 16. ](/news/2009/03/15/former-pakistani-prime-minister-nawaz-sharif-is-placed-under-house-arrest-to-prevent-the-pakistani-muslim-league-s-proposed-demonstration-i.md) _Context: Prime Minister, house arrest_
+2. [ 2007 Pakistani state of emergency: Former Prime Minister of Pakistan Benazir Bhutto returns to Karachi after release from house arrest in Lahore.{{Fact|date=December 2007}} TV networks Geo TV and ARY Digital are shut down by the Pakistan government. ](/news/2007/11/17/2007-pakistani-state-of-emergency-p-former-prime-minister-of-pakistan-benazir-bhutto-returns-to-karachi-after-release-from-house-arrest-in.md) _Context: Prime Minister, house arrest_
+3. [ The Pakistan Peoples Party claims that its leader, former Prime Minister of Pakistan Benazir Bhutto, has been forbidden to leave the country. ](/news/2007/10/24/the-pakistan-peoples-party-claims-that-its-leader-former-prime-minister-of-pakistan-benazir-bhutto-has-been-forbidden-to-leave-the-countr.md) _Context: Pakistan Peoples Party, Prime Minister_
+4. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Prime Minister_
+5. [Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the  Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-founder-of-the-active-ter.md) _Context: house arrest_
+6. [Over 1,500 supporters of opposition party Pakistan Tehreek-e-Insaf are arrested ahead of a planned protest in the capital Islamabad against Prime Minister Nawaz Sharif. ](/news/2016/10/31/over-1-500-supporters-of-opposition-party-pakistan-tehreek-e-insaf-are-arrested-ahead-of-a-planned-protest-in-the-capital-islamabad-against.md) _Context: Prime Minister_
+7. [Ali Haider Gilani, the son of former Prime Minister of Pakistan Yousaf Raza Gilani, is rescued in a joint operation by U.S. and Afghan forces three years after he was kidnapped by suspected Taliban militants. ](/news/2016/05/10/ali-haider-gilani-the-son-of-former-prime-minister-of-pakistan-yousaf-raza-gilani-is-rescued-in-a-joint-operation-by-u-s-and-afghan-force.md) _Context: Prime Minister_
+8. [Prime Minister of Pakistan Nawaz Sharif bows to opposition demands that he ask Pakistan's chief justice to set up an independent commission to investigate offshore accounts linked to his family. Sharif said he would accept the commission's findings and even resign if called upon. ](/news/2016/04/23/prime-minister-of-pakistan-nawaz-sharif-bows-to-opposition-demands-that-he-ask-pakistan-s-chief-justice-to-set-up-an-independent-commission.md) _Context: Prime Minister_
+9. [Former President Pervez Musharraf travels to Dubai for medical treatment of his back and leg, before moving on to either the U.S. or U.K. for additional treatment, spokesperson Aasia Ishaque said. Musharraf, 72, will return to Pakistan to face all pending legal cases. Earlier this week, Prime Minister Nawaz Sharif's government implemented the Supreme Court ruling, and lifted the 2013 ban that barred  Musharraf from international trips. ](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.md) _Context: Prime Minister_
+10. [Indian Prime Minister Narendra Modi is met by Pakistani Prime Minister Nawaz Sharif  at Allama Iqbal International Airport in Lahore for a two-hour meeting. Modi's surprise stopover is the first since Indian Prime Minister Atal Bihari Vajpayee visited Pakistan in 2004.  ](/news/2015/12/25/indian-prime-minister-narendra-modi-is-met-by-pakistani-prime-minister-nawaz-sharif-at-allama-iqbal-international-airport-in-lahore-for-a-t.md) _Context: Prime Minister_

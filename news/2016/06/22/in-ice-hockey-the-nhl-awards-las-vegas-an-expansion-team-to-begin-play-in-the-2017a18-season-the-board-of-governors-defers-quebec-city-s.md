@@ -1,0 +1,23 @@
+### [2016-06-22](/news/2016/06/22/index.md)
+
+# In ice hockey, the NHL awards Las Vegas an expansion team to begin play in the 2017-18 season. The Board of Governors defers Quebec City's bid with the league, citing factors such as conference imbalance, difficulty of bringing two teams at the same time, and the weakening Canadian dollar. 
+
+NHL Commissioner Gary Bettman announced Wednesday in the ballroom of Encore at Wynn Las Vegas that the League has granted an expansion franchise to Las Vegas that will start playing as its 31st team in the 2017-18 season.
+
+
+### Source:
+
+1. [NHL](https://www.nhl.com/news/nhl-expands-to-las-vegas/c-281010682)
+
+### Related:
+
+1. [Former Executive Director of the NHLPA Paul Kelly reveals that the NHL wants to expand the league to 32 teams in the next 2-3 years, most likely to Quebec City and Toronto. ](/news/2013/01/30/former-executive-director-of-the-nhlpa-paul-kelly-reveals-that-the-nhl-wants-to-expand-the-league-to-32-teams-in-the-next-2a3-years-most.md) _Context: NHL, Quebec City_
+2. [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin.  The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-a.md) _Context: NHL, ice hockey_
+3. [French-Canadian student Alexandre Bissonnette is charged with six counts of murder and five counts of attempted murder in relation to an attack on a mosque in Quebec City. ](/news/2017/01/30/french-canadian-student-alexandre-bissonnette-is-charged-with-six-counts-of-murder-and-five-counts-of-attempted-murder-in-relation-to-an-att.md) _Context: Quebec City_
+4. [ A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-killed-two-suspects-were-apprehe.md) _Context: Quebec City_
+5. [In boxing, Philippine Senator Manny Pacquiao defeats Jessie Vargas in Las Vegas to claim the World Boxing Organization's welterweight title. ](/news/2016/11/6/in-boxing-philippine-senator-manny-pacquiao-defeats-jessie-vargas-in-las-vegas-to-claim-the-world-boxing-organization-s-welterweight-title.md) _Context: Las Vegas_
+6. [ In ice hockey, ESPN reports that the NHL will place an expansion team in Las Vegas, provided the team's backers can pay a US$500 million expansion fee. The team, which would enter the league no earlier than the 2017-18 season, would be the first major professional sports team in Las Vegas. The league's board of governors is scheduled to hold a formal vote on the expansion on June 22. ](/news/2016/06/14/in-ice-hockey-espn-reports-that-the-nhl-will-place-an-expansion-team-in-las-vegas-provided-the-team-s-backers-can-pay-a-us-500-million-ex.md) _Context: ice hockey_
+7. [Miss Philippines, Pia Wurtzbach, is crowned Miss Universe 2015 in Las Vegas, moments after host Steve Harvey incorrectly announced 1st runner-up Miss Colombia, Ariadna Gutierrez, as the winner. ](/news/2015/12/20/miss-philippines-pia-wurtzbach-is-crowned-miss-universe-2015-in-las-vegas-moments-after-host-steve-harvey-incorrectly-announced-1st-runne.md) _Context: Las Vegas_
+8. [In the second police officer shooting in the city in three days, a man ambushed a marked police SUV stopped at a traffic light in Las Vegas by walking up and firing multiple rounds, striking one officer in the hand. The shooter was arrested. ](/news/2015/09/6/in-the-second-police-officer-shooting-in-the-city-in-three-days-a-man-ambushed-a-marked-police-suv-stopped-at-a-traffic-light-in-las-vegas.md) _Context: Las Vegas_
+9. [A Canadian gold mining company, Tahoe Resources, agrees to buy Rio Alto Mining for more than CAN$1 billion, part of an ongoing consolidation in the precious metals mining industry. ](/news/2015/02/9/a-canadian-gold-mining-company-tahoe-resources-agrees-to-buy-rio-alto-mining-for-more-than-can-1-billion-part-of-an-ongoing-consolidation.md) _Context: Canadian dollar_
+10. [In ice hockey, Sidney Crosby, captain of the Pittsburgh Penguins, wins both the Hart Memorial Trophy and the Ted Lindsay Award for most valuable player as voted by the media and National Hockey League Players' Association, respectively. ](/news/2014/06/24/in-ice-hockey-sidney-crosby-captain-of-the-pittsburgh-penguins-wins-both-the-hart-memorial-trophy-and-the-ted-lindsay-award-for-most-valu.md) _Context: ice hockey_

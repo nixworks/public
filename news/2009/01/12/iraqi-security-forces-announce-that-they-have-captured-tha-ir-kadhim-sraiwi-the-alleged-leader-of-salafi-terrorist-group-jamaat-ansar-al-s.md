@@ -1,0 +1,23 @@
+### [2009-01-12](/news/2009/01/12/index.md)
+
+#  Iraqi Security Forces announce that they have captured Tha'ir Kadhim Sraiwi, the alleged leader of Salafi terrorist group Jamaat Ansar al-Sunna. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/7823117.stm)
+
+### Related:
+
+1. [Bomb and gun attacks across Iraq kill more than 30 people including members of the Iraqi security forces. ](/news/2013/07/11/bomb-and-gun-attacks-across-iraq-kill-more-than-30-people-including-members-of-the-iraqi-security-forces.md) _Context: Iraq, Iraqi security forces_
+2. [A string of attacks in Iraq targeting Iraqi security forces leaves at least 56 people  dead. ](/news/2010/08/25/a-string-of-attacks-in-iraq-targeting-iraqi-security-forces-leaves-at-least-56-people-dead.md) _Context: Iraq, Iraqi security forces_
+3. [ Iraq releases 24 security personnel arrested on Thursday on suspicion of aiding terrorism. ](/news/2008/12/20/iraq-releases-24-security-personnel-arrested-on-thursday-on-suspicion-of-aiding-terrorism.md) _Context: Iraq, terrorism_
+4. [The Federal Reserve Board of Governors lowers its overnight bank-lending rate to 1.25 percent, and this bigger-than-expected rate cut signals there may be more weakness in the economy than the market expected. The Fed indicated in its statements accompanying the rate cut that concern about a war with Iraq and the thread of terrorism may be slowing consumer and business spending.](/news/2002/11/6/the-federal-reserve-board-of-governors-lowers-its-overnight-bank-lending-rate-to-1-25-percent-and-this-bigger-than-expected-rate-cut-signal.md) _Context: Iraq, terrorism_
+5. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq_
+6. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq_
+7. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: terrorism_
+8. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: terrorism_
+9. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq_
+10. [Presidency of Donald Trump U.S. President Donald Trump signs a revised version of Executive Order 13769 eliminating Iraq from the order and reducing the indefinite suspension of Syrian refugees to 120 days. The order will be in effect on March 16, 2017. ](/news/2017/03/6/presidency-of-donald-trump-pu-s-president-donald-trump-signs-a-revised-version-of-executive-order-13769-eliminating-iraq-from-the-order-and.md) _Context: Iraq_

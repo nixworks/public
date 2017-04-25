@@ -1,0 +1,23 @@
+### [2012-10-23](/news/2012/10/23/index.md)
+
+# Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/politics/2012/oct/23/msps-resign-snp-nato-stance)
+
+### Related:
+
+1. [Former SNP politician Bill Walker resigns as a Member of the Scottish Parliament following conviction for a series of domestic abuse offences. ](/news/2013/09/7/former-snp-politician-bill-walker-resigns-as-a-member-of-the-scottish-parliament-following-conviction-for-a-series-of-domestic-abuse-offence.md) _Context: Member of the Scottish Parliament, Scottish National Party_
+2. [The Scottish National Party urges British Prime Minister David Cameron to amend the Scotland Bill to give the Scottish Parliament greater legislative powers. ](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.md) _Context: Scottish National Party, Scottish Parliament_
+3. [The Scottish Parliament meets for the first time since the victory of the Scottish National Party in the recent general election. ](/news/2011/05/11/the-scottish-parliament-meets-for-the-first-time-since-the-victory-of-the-scottish-national-party-in-the-recent-general-election.md) _Context: Scottish National Party, Scottish Parliament_
+4. [ The Labour Party performs poorly in local and regional elections in the UK, with the Scottish National Party winning the most seats in the Scottish Parliament and the Conservatives performing well in English local government elections. ](/news/2007/05/4/the-labour-party-performs-poorly-in-local-and-regional-elections-in-the-uk-with-the-scottish-national-party-winning-the-most-seats-in-the.md) _Context: Scottish National Party, Scottish Parliament_
+5. [ The Scottish National Party wins the Moray by-election, 2006 for the Moray constituency to the Scottish Parliament. ](/news/2006/04/27/the-scottish-national-party-wins-the-moray-by-election-2006-for-the-moray-constituency-to-the-scottish-parliament.md) _Context: Scottish National Party, Scottish Parliament_
+6. [At a NATO meeting, German foreign minister Sigmar Gabriel rejects as "quite unrealistic" the belief that Germany would spend 2% of GDP on the military. He says other spending such as development aid should be taken into account. ](/news/2017/03/31/at-a-nato-meeting-german-foreign-minister-sigmar-gabriel-rejects-as-quite-unrealistic-the-belief-that-germany-would-spend-2-of-gdp-on-th.md) _Context: NATO_
+7. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: NATO_
+8. [Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. ](/news/2017/03/18/eight-hundred-british-army-troops-arrive-in-estonia-as-part-of-nato-s-enhanced-forward-presence-to-deter-russian-aggression-in-eastern-europ.md) _Context: NATO_
+9. [A Montenegrin prosecutor accuses Russian authorities of being involved in the October 2016 coup plot in order to halt Montenegro's accession to NATO. Russian officials dismiss the allegations as "absurd." ](/news/2017/02/20/a-montenegrin-prosecutor-accuses-russian-authorities-of-being-involved-in-the-october-2016-coup-plot-in-order-to-halt-montenegro-s-accession.md) _Context: NATO_
+10. [In Ankara, the Turkish government opens  the trial  of 270 suspects charged in July's failed coup in Ankara.  The defendants include, ''in absentia'', the alleged mastermind Fethullah Gulen, former NATO  Chief of Staff Major General Salih Sevil, and other high-ranking military officials. ](/news/2017/01/30/in-ankara-the-turkish-government-opens-the-trial-of-270-suspects-charged-in-july-s-failed-coup-in-ankara-the-defendants-include-in-a.md) _Context: NATO_

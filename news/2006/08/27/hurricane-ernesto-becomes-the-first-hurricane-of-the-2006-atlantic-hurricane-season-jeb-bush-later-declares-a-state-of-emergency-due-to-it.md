@@ -1,0 +1,24 @@
+### [2006-08-27](/news/2006/08/27/index.md)
+
+#  Hurricane Ernesto becomes the first hurricane of the 2006 Atlantic hurricane season. Jeb Bush later declares a state of emergency due to its possible impact on Florida later in the week. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [ABC News](http://abcnews.go.com/International/wireStory?id=2361439&CMP=OTC-RSSFeeds0312)
+2. [Associated Press](http://rdu.news14.com/content/headlines/?ArID=89849&SecID=2)
+
+### Related:
+
+1. [ 2008 Atlantic Hurricane season: The Governor of Florida Charlie Crist declares a state of emergency as Tropical Storm Fay is due to hit Florida on Monday, possibly at hurricane strength. ](/news/2008/08/16/2008-atlantic-hurricane-season-the-governor-of-florida-charlie-crist-declares-a-state-of-emergency-as-tropical-storm-fay-is-due-to-hit-flo.md) _Context: Florida, state of emergency_
+2. [ United States district court judge Jeremy Fogel imposes a moratorium on lethal injections in California stating that they are unconstitutional. In an unrelated incident, the Governor of Florida Jeb Bush has suspended lethal injections in Florida pending an investigation into the system after the recent execution of ngel Nieves Daz took 34 minutes after it was botched. ](/news/2006/12/15/united-states-district-court-judge-jeremy-fogel-imposes-a-moratorium-on-lethal-injections-in-california-stating-that-they-are-unconstitutio.md) _Context: Florida, Jeb Bush_
+3. [ Residents in south Florida prepare for Tropical Storm Ernesto with concerns that the storm could again strengthen and become a hurricane after it leaves Cuba. ](/news/2006/08/29/residents-in-south-florida-prepare-for-tropical-storm-ernesto-with-concerns-that-the-storm-could-again-strengthen-and-become-a-hurricane-af.md) _Context: Florida, Tropical Storm Ernesto_
+4. [ Tropical Storm Alberto threatens to hit the Northwest coast of Florida, United States. Hurricane warnings are issued and Gov. Jeb Bush declares a state of emergency. Mandatory evacuations are ordered for low-lying areas. ](/news/2006/06/12/tropical-storm-alberto-threatens-to-hit-the-northwest-coast-of-florida-united-states-hurricane-warnings-are-issued-and-gov-jeb-bush-decl.md) _Context: Florida, Jeb Bush_
+5. [ Florida Governor Jeb Bush closes the inquiry into the case of Terri Schiavo, having been informed by prosecutors that there is no evidence of any crime leading to her 1990 collapse. ](/news/2005/07/8/florida-governor-jeb-bush-closes-the-inquiry-into-the-case-of-terri-schiavo-having-been-informed-by-prosecutors-that-there-is-no-evidence.md) _Context: Florida, Jeb Bush_
+6. [ United States Supreme Court rejects appeal of Florida governor Jeb Bush to keep brain damaged Terri Schiavo alive against the wishes of her husband. Her parents try to remove her husband from the post of her guardian ](/news/2005/01/26/united-states-supreme-court-rejects-appeal-of-florida-governor-jeb-bush-to-keep-brain-damaged-terri-schiavo-alive-against-the-wishes-of-her.md) _Context: Florida, Jeb Bush_
+7. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: state of emergency_
+8. [A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. ](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-arrested-at-school-and-spends-the-night-in-a-juvenile-facility-unknown-to-the-family-the-b.md) _Context: Florida_
+9. [A Sabal Trail Transmission Pipeline protester who was seen firing a high powered rifle at the pipeline construction site in Florida was chased by police until his car crashed. The suspect was shot and killed by a deputy after he tried to engage police in a gunfight ](/news/2017/02/26/a-sabal-trail-transmission-pipeline-protester-who-was-seen-firing-a-high-powered-rifle-at-the-pipeline-construction-site-in-florida-was-chas.md) _Context: Florida_
+10. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: Florida_

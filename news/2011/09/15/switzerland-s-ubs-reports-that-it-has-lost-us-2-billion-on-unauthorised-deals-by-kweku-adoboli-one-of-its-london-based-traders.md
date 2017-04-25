@@ -1,0 +1,24 @@
+### [2011-09-15](/news/2011/09/15/index.md)
+
+# Switzerland's UBS reports that it has lost US$2 billion on unauthorised deals by Kweku Adoboli, one of its London-based traders. 
+
+Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a London-based trader at the Swiss bank and
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/business/2011/sep/15/ubs-rogue-trader-man-arrested)
+2. [Reuters](http://www.reuters.com/article/2011/09/15/us-ubs-idUSTRE78E15I20110915)
+
+### Related:
+
+1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (PS1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-aps1-3bn-as-a-result-of-unauthorised-tradin.md) _Context: Kweku Adoboli, Swiss, UBS_
+2. [Rogue trader at Swiss bank UBS Kweku Adoboli is found guilty and is sentenced to seven years in prison for his role in the 2011 UBS rogue trader scandal. ](/news/2012/11/20/rogue-trader-at-swiss-bank-ubs-kweku-adoboli-is-found-guilty-and-is-sentenced-to-seven-years-in-prison-for-his-role-in-the-2011-ubs-rogue-tr.md) _Context: Kweku Adoboli, UBS_
+3. [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md) _Context: Swiss, UBS_
+4. [UBS trader Kweku Adoboli is charged with fraud and false accounting. ](/news/2011/09/16/ubs-trader-kweku-adoboli-is-charged-with-fraud-and-false-accounting.md) _Context: Kweku Adoboli, UBS_
+5. [ The United States and Switzerland sign an agreement designed to end a tax evasion dispute surrounding UBS U.S. customers. ](/news/2009/08/19/the-united-states-and-switzerland-sign-an-agreement-designed-to-end-a-tax-evasion-dispute-surrounding-ubs-u-s-customers.md) _Context: Swiss, UBS_
+6. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Swiss_
+7. [A vehicle mounts the pavement and runs into pedestrians in Islington, London, injuring 4. The teenage perpetrators are found carrying offensive weapons, but are not assumed to be terrorists. ](/news/2017/03/25/a-vehicle-mounts-the-pavement-and-runs-into-pedestrians-in-islington-london-injuring-4-the-teenage-perpetrators-are-found-carrying-offens.md) _Context: London_
+8. [Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants  to become citizens. ](/news/2017/02/12/voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md) _Context: Swiss_
+9. [Several British MPs demand an investigation into a recent scandal in which an Israeli embassy official in London had conspired to damage the reputation of several British politicians in response to the recent United Nations Security Council resolution. ](/news/2017/01/8/several-british-mps-demand-an-investigation-into-a-recent-scandal-in-which-an-israeli-embassy-official-in-london-had-conspired-to-damage-the.md) _Context: London_
+10. [In tennis, Roger Federer of Switzerland defeats Rafael Nadal of Spain in the final of the men's singles. ](/news/2017/01/29/in-tennis-roger-federer-of-switzerland-defeats-rafael-nadal-of-spain-in-the-final-of-the-men-s-singles.md) _Context: Swiss_

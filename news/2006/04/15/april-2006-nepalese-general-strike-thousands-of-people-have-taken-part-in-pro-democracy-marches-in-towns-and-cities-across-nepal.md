@@ -1,0 +1,23 @@
+### [2006-04-15](/news/2006/04/15/index.md)
+
+#  April 2006 Nepalese general strike: Thousands of people have taken part in pro-democracy marches in towns and cities across Nepal.  
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4911780.stm)
+
+### Related:
+
+1. [ Three protesters are wounded and six buildings are burned down in the fourth day of the pro-Democracy general strike in Nepal against King Gyanendra. ](/news/2006/04/8/three-protesters-are-wounded-and-six-buildings-are-burned-down-in-the-fourth-day-of-the-pro-democracy-general-strike-in-nepal-against-king.md) _Context: April 2006 Nepalese general strike, Nepal_
+2. [ April 2006 Nepalese general strike: King Gyanendra of Nepal asks for Prime Minister nominations to be made to assist in ending unrest in the country. ](/news/2006/04/21/april-2006-nepalese-general-strike-king-gyanendra-of-nepal-asks-for-prime-minister-nominations-to-be-made-to-assist-in-ending-unrest-in-th.md) _Context: April 2006 Nepalese general strike, Nepal_
+3. [ April 2006 Nepalese general strike: Nepali police open fire on pro-democracy protesters to prevent them from marching into Kathmandu, the capital, killing at least three people and injuring dozens. ](/news/2006/04/20/april-2006-nepalese-general-strike-nepali-police-open-fire-on-pro-democracy-protesters-to-prevent-them-from-marching-into-kathmandu-the-c.md) _Context: April 2006 Nepalese general strike, Nepal_
+4. [ A general strike in Nepal called by political parties opposed to King Gyanendra enters its 12th day, with food shortages and price rises triggering panic buying in some areas. ](/news/2006/04/17/a-general-strike-in-nepal-called-by-political-parties-opposed-to-king-gyanendra-enters-its-12th-day-with-food-shortages-and-price-rises-tr.md) _Context: April 2006 Nepalese general strike, Nepal_
+5. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
+6. [The government of Nepal proposes to amend the constitution to make it more inclusive. ](/news/2016/11/30/the-government-of-nepal-proposes-to-amend-the-constitution-to-make-it-more-inclusive.md) _Context: Nepal_
+7. [Three UNHCR workers - one from Sudan and two from Nepal - are kidnapped by unidentified gunmen in Geneina, the capital of the West Darfur state. ](/news/2016/11/28/three-unhcr-workers-one-from-sudan-and-two-from-nepal-are-kidnapped-by-unidentified-gunmen-in-geneina-the-capital-of-the-west-darfur-st.md) _Context: Nepal_
+8. [A bus skids off a mountain road in central Nepal, killing at least 19 people and injuring more than a dozen others. ](/news/2016/09/27/a-bus-skids-off-a-mountain-road-in-central-nepal-killing-at-least-19-people-and-injuring-more-than-a-dozen-others.md) _Context: Nepal_
+9. [In Nepal, Pushpa Kamal Dahal takes the oath of office and secrecy as Prime Minister. ](/news/2016/08/4/in-nepal-pushpa-kamal-dahal-takes-the-oath-of-office-and-secrecy-as-prime-minister.md) _Context: Nepal_
+10. [At least 64 people die in Nepal after heavy monsoonal rain triggers floods and landslides. ](/news/2016/07/28/at-least-64-people-die-in-nepal-after-heavy-monsoonal-rain-triggers-floods-and-landslides.md) _Context: Nepal_

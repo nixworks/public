@@ -1,0 +1,23 @@
+### [2014-04-11](/news/2014/04/11/index.md)
+
+# Astronomers, for the first time, discover a moon orbiting around an exoplanet. 
+
+
+
+
+### Source:
+
+1. [space.com via Huffington Post](http://www.huffingtonpost.com/2014/04/11/first-exomoon-alien-planet_n_5127551.html)
+
+### Related:
+
+1. [ Astronomers have directly confirmed the existence of an extrasolar planet orbiting the brown dwarf numbered 2M1207a. The team says that this is the first-ever infrared view of an exoplanet. ](/news/2005/05/1/astronomers-have-directly-confirmed-the-existence-of-an-extrasolar-planet-orbiting-the-brown-dwarf-numbered-2m1207a-the-team-says-that-thi.md) _Context: Astronomers, exoplanet_
+2. [Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets  orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. ](/news/2016/05/2/researchers-report-in-the-journal-nature-the-discovery-of-three-potentially-habitable-earth-like-exoplanets-orbiting-trappist-1-an-ultrac.md) _Context: exoplanet_
+3. [Astronomers' study reveals the surface of exoplanet 55 Cancri e has a 2500degC liquid face, constantly facing its star 55 Cancri, while the other side is relatively colder and solid. ](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exoplanet-55-cancri-e-has-a-2500adegc-liquid-face-constantly-facing-its-star-55-cancri-while-the-o.md) _Context: exoplanet_
+4. [Astronomers say they have observed bizarre light patterns using the Kepler Space Telescope from a star that appears old, but is shrouded in debris like a much younger star, roughly 1,500 light-years away. This has led to speculation that these are an "artificial extraterrestrial mega-structure", orbiting the star known as KIC 8462852 in the Cygnus constellation. KIC 8462852 lies just above the Milky Way between the constellations Cygnus and Lyra. It first attracted the attention of astronomers in 2009 when the Kepler Space Telescope identified it as a candidate for having orbiting Earth-like planets. ](/news/2015/10/15/astronomers-say-they-have-observed-bizarre-light-patterns-using-the-kepler-space-telescope-from-a-star-that-appears-old-but-is-shrouded-in.md) _Context: Astronomers_
+5. [NASA scientists announce the discovery of Kepler-452b, the first near-Earth sized exoplanet discovered orbiting the habitable zone of a Sun-like star. ](/news/2015/07/23/nasa-scientists-announce-the-discovery-of-kepler-452b-the-first-near-earth-sized-exoplanet-discovered-orbiting-the-habitable-zone-of-a-sun.md) _Context: exoplanet_
+6. [''The Astrophysical Journal'' publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-e.md) _Context: exoplanet_
+7. [NASA reports the discovery of Kepler-37b, the smallest exoplanet yet known. ](/news/2013/02/20/nasa-reports-the-discovery-of-kepler-37b-the-smallest-exoplanet-yet-known.md) _Context: exoplanet_
+8. [British astronomer and broadcaster Sir Patrick Moore, presenter of ''The Sky at Night'' for over 55 years, dies aged 89. ](/news/2012/12/9/british-astronomer-and-broadcaster-sir-patrick-moore-presenter-of-the-sky-at-night-for-over-55-years-dies-aged-89.md) _Context: Astronomers_
+9. [Alpha Centauri Bb, an exoplanet, is discovered orbiting around Alpha Centauri, the nearest star system to our Solar System. ](/news/2012/10/17/alpha-centauri-bb-an-exoplanet-is-discovered-orbiting-around-alpha-centauri-the-nearest-star-system-to-our-solar-system.md) _Context: exoplanet_
+10. [ESO astronomers discover an unexpected spiral structure around carbon star R Sculptoris. ](/news/2012/10/10/eso-astronomers-discover-an-unexpected-spiral-structure-around-carbon-star-r-sculptoris.md) _Context: Astronomers_

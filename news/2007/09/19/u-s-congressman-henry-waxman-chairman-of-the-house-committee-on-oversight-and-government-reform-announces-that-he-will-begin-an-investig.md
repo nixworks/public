@@ -1,0 +1,23 @@
+### [2007-09-19](/news/2007/09/19/index.md)
+
+#  U.S. Congressman Henry Waxman, chairman of the House Committee on Oversight and Government Reform, announces that he will begin an investigation into the activities of Howard Krongard, Inspector General of the State Department.  Krongard has been accused of interfering with investigations into corruption involving fraud in the building of the new United States Embassy in Iraq, the smuggling of illegal weapons into Iraq by Blackwater USA employees, and the activities of former chairman of the Broadcasting Board of Governors, Kenneth Tomlinson, in the use of his office for personal gain.  
+
+
+
+
+### Source:
+
+1. [VOA](http://www.voanews.com/english/2007-09-19-voa40.cfm)
+
+### Related:
+
+1. [ Richard J. Griffin resigns as head of the Bureau of Diplomatic Security in the United States State Department following the Blackwater shooting in Iraq. ](/news/2007/10/24/richard-j-griffin-resigns-as-head-of-the-bureau-of-diplomatic-security-in-the-united-states-state-department-following-the-blackwater-shoo.md) _Context: Blackwater, Iraq, State Department_
+2. [The United States government implements new restrictions to its visa waiver program which now requires, with limited exceptions, European, Japanese and Australian travelers to the United States who either have been visitors in the last five years to or are dual-citizens of Iran, Iraq, Syria and Sudan to obtain a travel visa. The new visa policies were mandated by legislation which was passed, in the aftermath of November 2015 Paris attacks, by Congress on the grounds of national security. ](/news/2016/01/22/the-united-states-government-implements-new-restrictions-to-its-visa-waiver-program-which-now-requires-with-limited-exceptions-european-j.md) _Context: Iraq, U.S. Congress_
+3. [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md) _Context: Iraq, U.S. Congress_
+4. [ U.S. Representative Henry Waxman sends a scathing letter to President George W. Bush, accusing the administration of having withheld until after the election a damaging audit regarding overcharges by Halliburton for services in Iraq (such as charging $27,000,000 for transporting $82,000 worth of fuel from Kuwait to Iraq). ](/news/2005/03/15/u-s-representative-henry-waxman-sends-a-scathing-letter-to-president-george-w-bush-accusing-the-administration-of-having-withheld-until.md) _Context: Henry Waxman, Iraq_
+5. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq_
+6. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq_
+7. [Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. ](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.md) _Context: House Oversight Committee_
+8. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq_
+9. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: U.S. Congress_
+10. [Presidency of Donald Trump U.S. President Donald Trump signs a revised version of Executive Order 13769 eliminating Iraq from the order and reducing the indefinite suspension of Syrian refugees to 120 days. The order will be in effect on March 16, 2017. ](/news/2017/03/6/presidency-of-donald-trump-pu-s-president-donald-trump-signs-a-revised-version-of-executive-order-13769-eliminating-iraq-from-the-order-and.md) _Context: Iraq_

@@ -1,0 +1,23 @@
+### [2015-10-22](/news/2015/10/22/index.md)
+
+# At least 10 people are killed and 12 injured when a suicide-bomber attacks a Pakistani Shia Mosque and Imambargah during prayers in the District Bagh of Kachhi 300 Km from Quetta in Balochistan. 
+
+Share this on WhatsApp
+
+
+### Source:
+
+1. [Pakistan Today](http://www.pakistantoday.com.pk/2015/10/22/national/10-shia-worshipers-killed-in-bagh-imambargah-suicide-attack/)
+
+### Related:
+
+1. [24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of-pakistan.md) _Context: Balochistan, Pakistan, Quetta_
+2. [In Pakistan, a bomb in Quetta explodes next to a bus carrying Shias, killing 10 and leaving 30 injured.](/news/2012/06/28/in-pakistan-a-bomb-in-quetta-explodes-next-to-a-bus-carrying-shias-killing-10-and-leaving-30-injured.md) _Context: Pakistan, Quetta, Shia_
+3. [In the Pakistani city of Quetta, armed people on motorcycles kill eight people; targeting Shias. ](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.md) _Context: Pakistan, Quetta, Shia_
+4. [ A Shia Muslim mosque in Quetta, Pakistan, is stormed by armed attackers, killing at least 32 worshippers and wounding 52. ](/news/2003/07/4/a-shia-muslim-mosque-in-quetta-pakistan-is-stormed-by-armed-attackers-killing-at-least-32-worshippers-and-wounding-52.md) _Context: Pakistan, Quetta, mosque_
+5. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: Shia, mosque_
+6. [  At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Pakistan, Quetta_
+7. [An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. ](/news/2016/10/4/an-apparent-sectarian-attack-by-two-motorcyclists-who-open-fire-on-a-bus-traveling-to-hazara-town-quetta-pakistan-kills-four-women-from-p.md) _Context: Quetta, Shia_
+8. [At least 70 people are killed and about 120 others injured in a suicide bombing  at a hospital in Quetta, Pakistan. ](/news/2016/08/8/at-least-70-people-are-killed-and-about-120-others-injured-in-a-suicide-bombing-at-a-hospital-in-quetta-pakistan.md) _Context: Pakistan, Quetta_
+9. [Thirteen people are injured when a  roadside bomb hits a Pakistani security vehicle in the southwestern city of Quetta, the same town where at least 74 were killed  in a suicide bombing at a hospital on Monday. The police were escorting a judge, who was not injured. ](/news/2016/08/11/thirteen-people-are-injured-when-a-roadside-bomb-hits-a-pakistani-security-vehicle-in-the-southwestern-city-of-quetta-the-same-town-where.md) _Context: Pakistan, Quetta_
+10. [Ten people  are killed and more than 40 injured when a suicide bomber on a bicycle blew himself up near a Pakistani security forces truck in Quetta, Pakistan. ](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.md) _Context: Pakistan, Quetta_

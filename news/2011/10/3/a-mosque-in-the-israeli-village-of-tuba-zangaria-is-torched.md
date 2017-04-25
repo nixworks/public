@@ -1,0 +1,23 @@
+### [2011-10-3](/news/2011/10/3/index.md)
+
+# A mosque in the Israeli village of Tuba-Zangaria is torched. 
+
+Police fear spike in ethnic tensions during Yom Kippur; police commissioner boosts patrols around mosques, other holy places throughout Israel in an effort to assure Arab community that police do not take such incidents lightly.
+
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/print-edition/news/police-brace-for-israeli-arab-revenge-attacks-following-mosque-torching-1.387966)
+
+### Related:
+
+1. [Operation Pillar of Defense:An Israeli strike on a home in Gaza has killed at least 10 people, officials say, as Sunday became the deadliest day since Israel launched an operation against Hamas militants last week. Over 80 Israeli alleged terrorist targets were hit today by IDF bombs including rocket firing sites and weapon smuggling tunnels. The IDF releases a video showing rocket launching sites adjacent to a Mosque and accuses Hamas of using human shields. ](/news/2012/11/18/operation-pillar-of-defense-pan-israeli-strike-on-a-home-in-gaza-has-killed-at-least-10-people-officials-say-as-sunday-became-the-deadlies.md) _Context: Israel, mosque_
+2. [Israel police  fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of.md) _Context: Israel, mosque_
+3. [ An Israeli airstrike on the mosque in the Gaza Strip village of Beit Lahia kills at least 13 people. ](/news/2009/01/3/an-israeli-airstrike-on-the-mosque-in-the-gaza-strip-village-of-beit-lahia-kills-at-least-13-people.md) _Context: Israel, mosque_
+4. [ Two women have been killed as Israeli troops opened fire on a crowd of women gathered to help besieged gunmen flee a mosque in Beit Hanoun in northern Gaza. ](/news/2006/11/4/two-women-have-been-killed-as-israeli-troops-opened-fire-on-a-crowd-of-women-gathered-to-help-besieged-gunmen-flee-a-mosque-in-beit-hanoun.md) _Context: Israel, mosque_
+5. [ Israeli-Palestinian Conflict: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-p-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md) _Context: Israel, mosque_
+6. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel_
+7. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: Israel_
+8. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: Israel_
+9. [Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marijuana-in-public-place.md) _Context: Israel_
+10. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: mosque_

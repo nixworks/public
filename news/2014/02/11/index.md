@@ -1,0 +1,46 @@
+## [2014-02-11](/news/2014/02/11/index.md)
+
+### [Iraqi insurgency (post-U.S withdraw):16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/iraqi-insurgency-post-u-s-withdraw-p16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipeline.md)
+Militants in pick-up trucks ambushed Iraqi army outposts protecting a major oil export pipeline in the north of the country overnight, killing at least 16 soldiers by shooting them and slitting their throats, security and medical sources said.
+
+### [War in North-West Pakistan:At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-pat-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md)
+_Context: Peshawar, War in North-West Pakistan_
+
+### [2013-14 Australian bushfire season:Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013a14-australian-bushfire-season-pbushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md)
+_Context: 2013–14 Australian bushfire season, Victoria_
+
+### [2013-14 United Kingdom floods:The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-pthe-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-ground.md)
+Some 1.6 million properties across Britain are now at risk of groundwater flooding and there is no end in sight, an expert says.
+
+### [A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. ](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.md)
+A military transport plane carrying members of the Algerian armed forces and their relatives crashed into a mountain on Tuesday, killing 77 people, the worst air disaster in the North African country in a decade.
+
+### [The first governmental meetings occur between the People's Republic of China (China) and the Republic of China (Taiwan) after a 65-year hiatus. ](/news/2014/02/11/the-first-governmental-meetings-occur-between-the-people-s-republic-of-china-china-and-the-republic-of-china-taiwan-after-a-65-year-hiat.md)
+_Context: China, Taiwan_
+
+### [Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. ](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.md)
+_Context: Cyprus dispute_
+
+### [Talks between North Korea and the United States occur, with North and South Korea scheduled to start high-level talks tomorrow. ](/news/2014/02/11/talks-between-north-korea-and-the-united-states-occur-with-north-and-south-korea-scheduled-to-start-high-level-talks-tomorrow.md)
+_Context: North Korea, United States_
+
+### [The second round of the Geneva II discussion occurs. ](/news/2014/02/11/the-second-round-of-the-geneva-ii-discussion-occurs.md)
+_Context: Geneva II_
+
+### [Talks between Cuba and the EU occur on restoring ties. ](/news/2014/02/11/talks-between-cuba-and-the-eu-occur-on-restoring-ties.md)
+The European Union agrees to launch negotiations with Cuba aimed at restoring full bilateral relations with the Communist-run island.
+
+### [The Arleigh Burke-class missile destroyer USS Donald Cook of the U.S. Navy arrives at a Spanish base in Rota to begin deployment with the U.S. 6th Fleet. ](/news/2014/02/11/the-arleigh-burke-class-missile-destroyer-uss-donald-cook-of-the-u-s-navy-arrives-at-a-spanish-base-in-rota-to-begin-deployment-with-the-u.md)
+The first of four U.S. Navy destroyers to form the centerpiece of Europe&rsquo;s missile defense shield arrived in southern Spain on Tuesday.
+
+### [The Republican Party-controlled U.S. House of Representatives votes to raise the government's borrowing limit for the next year, without attaching conditions, and sends the measure to the Senate for approval. ](/news/2014/02/11/the-republican-party-controlled-u-s-house-of-representatives-votes-to-raise-the-government-s-borrowing-limit-for-the-next-year-without-att.md)
+_Context: Republican, U.S. House of Representatives, United States Senate, borrowing limit_
+
+### [Kevin Faulconer is elected as Mayor of San Diego, California. ](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.md)
+_Context: California, Kevin Faulconer, San Diego_
+
+### [2014 Winter Olympics:The International Olympic Committee lifts the suspension of the Indian Olympic Association effective immediately. Indian athletes are now able to compete at the 2014 Winter Olympics under their nation's flag. ](/news/2014/02/11/2014-winter-olympics-pthe-international-olympic-committee-lifts-the-suspension-of-the-indian-olympic-association-effective-immediately-indi.md)
+_Context: 2014 Winter Olympics, Indian Olympic Association, International Olympic Committee_
+
+## [Previous Day...](/news/2014/02/10/index.md)
+

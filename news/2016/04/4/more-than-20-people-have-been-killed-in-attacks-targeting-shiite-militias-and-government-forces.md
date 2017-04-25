@@ -1,0 +1,23 @@
+### [2016-04-4](/news/2016/04/4/index.md)
+
+# More than 20 people have been killed in attacks targeting Shiite militias and government forces. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-security-idUSKCN0X10OY?feedType=RSS&feedName=topNews)
+
+### Related:
+
+1. [A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md) _Context: Iraqi Civil War (2014–present), Shiite_
+2. [Iraqi Civil War (2014-present) At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/iraqi-civil-war-2014apresent-pat-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of.md) _Context: Iraqi Civil War (2014–present), Shiite_
+3. [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _Context: Iraqi Civil War (2014–present), Shiite_
+4. [   At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state.md) _Context: Iraqi Civil War (2014–present), Shiite_
+5. [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _Context: Iraqi Civil War (2014–present), Shiite_
+6. [According to security sources, dozens of people are killed in an overnight attack in Tikrit by suspected ISIL militants. 31 bodies were taken to a hospital, according to a local doctor, while more continued to be found by morning. ](/news/2017/04/5/according-to-security-sources-dozens-of-people-are-killed-in-an-overnight-attack-in-tikrit-by-suspected-isil-militants-31-bodies-were-take.md) _Context: Iraqi Civil War (2014–present)_
+7. [At least 21 people are killed after two suicide bombers attack a wedding party near Tikrit. ](/news/2017/03/8/at-least-21-people-are-killed-after-two-suicide-bombers-attack-a-wedding-party-near-tikrit.md) _Context: Iraqi Civil War (2014–present)_
+8. [The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-in-mosul.md) _Context: Iraqi Civil War (2014–present)_
+9. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Iraqi Civil War (2014–present)_
+10. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Iraqi Civil War (2014–present)_

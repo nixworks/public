@@ -1,0 +1,23 @@
+### [2013-06-5](/news/2013/06/5/index.md)
+
+# In tennis, Maria Sharapova beats Jelena Jankovic to advance to the semi-finals of the French Open; Serena Williams wins her match, setting up a showdown between her and Sharapova. 
+
+
+
+
+### Source:
+
+1. [ESPN](http://espn.go.com/espnw/more-sports/9344329/2013-french-open-maria-sharapova-victoria-azarenka-advance)
+
+### Related:
+
+1. [ Serena Williams defeats Maria Sharapova, 6-1, 6-2, at the Australian Open, claiming her 8th Grand Slam victory, her first in two years. ](/news/2007/01/27/serena-williams-defeats-maria-sharapova-6-1-6-2-at-the-australian-open-claiming-her-8th-grand-slam-victory-her-first-in-two-years.md) _Context: Maria Sharapova, Serena Williams_
+2. [Serena Williams defeats her sister Venus Williams 6-4, 6-4 to win the women's singles and an Open era-record 23rd Grand Slam singles title. ](/news/2017/01/28/serena-williams-defeats-her-sister-venus-williams-6-4-6-4-to-win-the-women-s-singles-and-an-open-era-record-23rd-grand-slam-singles-title.md) _Context: Serena Williams_
+3. [In tennis, American defending champion Serena Williams defeats Angelique Kerber of Germany in straight sets to win her seventh Wimbledon Championships title and her 22nd Grand Slam title, tying the Open era record held by Steffi Graf. ](/news/2016/07/9/in-tennis-american-defending-champion-serena-williams-defeats-angelique-kerber-of-germany-in-straight-sets-to-win-her-seventh-wimbledon-cha.md) _Context: Serena Williams_
+4. [The International Tennis Federation suspends Russian star Maria Sharapova for two years for failing a drug test for meldonium at the Australian Open. ](/news/2016/06/8/the-international-tennis-federation-suspends-russian-star-maria-sharapova-for-two-years-for-failing-a-drug-test-for-meldonium-at-the-austral.md) _Context: Maria Sharapova_
+5. [In tennis, Garbine Muguruza of Spain wins the 2016 French Open by 7-5 6-4 in an upset defeat of Serena Williams. ](/news/2016/06/4/in-tennis-garbine-muguruza-of-spain-wins-the-2016-french-open-by-7a5-6a4-in-an-upset-defeat-of-serena-williams.md) _Context: Serena Williams_
+6. [The World Anti-Doping Agency advises that WADA-accredited laboratories are currently conducting studies on meldonium excretion rates since existing data is lacking. Meldonium became a banned substance on January 1, 2016. A large number of athletes, including grand-slam tennis champion Maria Sharapova, had taken the medication in the past, and  have tested positive this year. The new data will address how long meldonium stays in the body and determine if athletes were provided a reasonable amount of time to adhere to the new restrictions prior to testing. The drug was used by many Soviet-bloc athletes since the 80s. ](/news/2016/04/13/the-world-anti-doping-agency-advises-that-wada-accredited-laboratories-are-currently-conducting-studies-on-meldonium-excretion-rates-since-e.md) _Context: Maria Sharapova_
+7. [Russian tennis star Maria Sharapova tests positive for meldonium at the 2016 Australian Open tennis championship. She has taken the drug since 2006 on prescription for health issues. World Anti-Doping Agency President Craig Reedie says an athlete found guilty of using meldonium would normally face a one-year suspension. ](/news/2016/03/7/russian-tennis-star-maria-sharapova-tests-positive-for-meldonium-at-the-2016-australian-open-tennis-championship-she-has-taken-the-drug-sin.md) _Context: Maria Sharapova_
+8. [Indian Wells (California)  CEO and tennis tournament director Raymond Moore resigns following reactions of outrage, including by top-ranked Serena Williams and retired legend Martina Navratilova, to his comment that top-level women's players rode "on the coattails of the men" and were "very, very lucky" to have equal prize money. This is the event's second controversy involving female players. Serena and her sister Venus boycotted the tournament (also known as the BNP Paribas Open) until 2015 following verbal abuse directed toward the sisters in the 2001 open. ](/news/2016/03/22/indian-wells-california-ceo-and-tennis-tournament-director-raymond-moore-resigns-following-reactions-of-outrage-including-by-top-ranked.md) _Context: Serena Williams_
+9. [Serena Williams defeats Garbine Muguruza to win the 2015 Wimbledon Women's Singles title. ](/news/2015/07/11/serena-williams-defeats-garbia-e-muguruza-to-win-the-2015-wimbledon-women-s-singles-title.md) _Context: Serena Williams_
+10. [American tennis player Serena Williams wins her fifth Women's Singles at the US Open over Victoria Azarenka. ](/news/2013/09/8/american-tennis-player-serena-williams-wins-her-fifth-women-s-singles-at-the-us-open-over-victoria-azarenka.md) _Context: Serena Williams_

@@ -1,0 +1,23 @@
+### [2014-07-16](/news/2014/07/16/index.md)
+
+# Bashar Assad is sworn in to serve his third term as President of Syria. 
+
+
+
+
+### Source:
+
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-president-assad-to-be-sworn-in-for-3rd-term/2014/07/16/6e80ba64-0cc8-11e4-bd4e-462c357f0998_story.html)
+
+### Related:
+
+1. [A United States Treasury official says ISIL has made over $500 million selling oil to Syrian President Bashar Assad's government, and has also sold oil to Turkey. ](/news/2015/12/10/a-united-states-treasury-official-says-isil-has-made-over-500-million-selling-oil-to-syrian-president-bashar-assadas-government-and-has.md) _Context: Bashar Assad’s, Syrian President_
+2. [Gunmen attack prominent Syrian political cartoonist Ali Farzat, beating him badly and breaking both of his hands, with the beating believed to be related to cartoons critical of President of Syria Bashar Assad and his family. ](/news/2011/08/25/gunmen-attack-prominent-syrian-political-cartoonist-ali-farzat-beating-him-badly-and-breaking-both-of-his-hands-with-the-beating-believed.md) _Context: Bashar Assad’s, Syrian President_
+3. [ Israeli-Palestinian conflict (Operation Summer Rains): Israel rejects ultimatum to release all Palestinian female prisoners, prisoners under 18, and an additional 1,000 prisoners by 6 A.M. Tuesday, in exchange for information on its kidnapped  soldier Gilad Shalit. Defense Minister of Israel Amir Peretz calls Syrian President Bashar Assad to "open his eyes, because he is responsible". ](/news/2006/07/3/israeli-palestinian-conflict-operation-summer-rains-p-israel-rejects-ultimatum-to-release-all-palestinian-female-prisoners-prisoners-und.md) _Context: Bashar Assad’s, Syrian President_
+4. [The Organisation for the Prohibition of Chemical Weapons says, for the first time, that they suspect Syrian President Bashar al-Assad and other senior officials of the Syrian government are responsible for the use of chemical weapons in the conflict. ](/news/2017/01/13/the-organisation-for-the-prohibition-of-chemical-weapons-says-for-the-first-time-that-they-suspect-syrian-president-bashar-al-assad-and-ot.md) _Context: Syrian President_
+5. [ A group of German lawyers files a criminal complaint in Berlin against Syrian President Bashar al-Assad for alleged war crimes committed by his forces and foreign allies during the Syrian Civil War. ](/news/2016/11/28/a-group-of-german-lawyers-files-a-criminal-complaint-in-berlin-against-syrian-president-bashar-al-assad-for-alleged-war-crimes-committed-by.md) _Context: Syrian President_
+6. [Syrian President Bashar al-Assad says he will not negotiate with armed groups, a day after the Syrian opposition's multi-group, two-day meeting in Riyadh agreed on a framework for future negotiations to end the conflict. Assad's statement also appears to put a damper on peace talks Russia and the United States are working to set up. ](/news/2015/12/11/syrian-president-bashar-al-assad-says-he-will-not-negotiate-with-armed-groups-a-day-after-the-syrian-opposition-s-multi-group-two-day-meet.md) _Context: Syrian President_
+7. [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md) _Context: Syrian President_
+8. [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md) _Context: Syrian President_
+9. [An arrest warrant is issued for the cousin of Syrian President Bashar al-Assad, Suleiman Hilal Al-Assad, who is accused of shooting and killing Colonel Hassan Al-Sheikh of the Syrian Armed Forces at what can be described as a traffic dispute. ](/news/2015/08/9/an-arrest-warrant-is-issued-for-the-cousin-of-syrian-president-bashar-al-assad-suleiman-hilal-al-assad-who-is-accused-of-shooting-and-kill.md) _Context: Syrian President_
+10. [Israeli security forces claim that Hezbollah and forces loyal to the President of Syria Bashar al-Assad are responsible for firing rockets from Syrian territory onto the Golan Heights into the mount Hermon sky resort. ](/news/2015/01/27/israeli-security-forces-claim-that-hezbollah-and-forces-loyal-to-the-president-of-syria-bashar-al-assad-are-responsible-for-firing-rockets-f.md) _Context: Syrian President_

@@ -1,0 +1,23 @@
+### [2011-07-18](/news/2011/07/18/index.md)
+
+# The eastern United States will have a heat wave this week which has already commenced in the Plains States and Midwest. 
+
+There is no relief in sight for more than 40 states that will see highs in the 90s or higher this week.
+
+
+### Source:
+
+1. [USA Today](http://www.usatoday.com/weather/news/extremes/2011-07-17-heat-wave-to-hit-East_n.htm)
+
+### Related:
+
+1. [Tornadoes of 2015, At least 11 people are killed as tornadoes strike Dallas, Texas, and five people die in a flash flood in Illinois. A total of 34 people have died in this week's smorgasbord of storms that started Wednesday. Mark Wiley of the National Weather Service says this rare run of December tornado storms in the South and Midwest, and spring-like temperatures across much of the North and East, in part to a strong El Nino. ](/news/2015/12/27/tornadoes-of-2015-at-least-11-people-are-killed-as-tornadoes-strike-dallas-texas-and-five-people-die-in-a-flash-flood-in-illinois-a-tota.md) _Context: Eastern U.S., Midwestern_
+2. [Two people are killed and at least 15 are hospitalized following a 55-vehicle accident, involving a gas  tanker explosion, on Interstate 95 in Baltimore, Maryland, as cold air causes rain and wet roads to freeze across the Eastern U.S.  Three other deaths are reported from other accidents in the Baltimore-Washington, D.C. area. At least six people have been killed in total on icy roads. ](/news/2016/12/17/two-people-are-killed-and-at-least-15-are-hospitalized-following-a-55-vehicle-accident-involving-a-gas-tanker-explosion-on-interstate-95.md) _Context: Eastern U.S._
+3. [A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually  hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-by-the-el-nia-o-season-te.md) _Context: heat wave_
+4. [In a second day of severe weather, at least seven people are injured as tornadoes sweep across the Midwestern and Southern part of the United States, with more severe weather expected. ](/news/2016/04/1/in-a-second-day-of-severe-weather-at-least-seven-people-are-injured-as-tornadoes-sweep-across-the-midwestern-and-southern-part-of-the-unite.md) _Context: Midwestern_
+5. [The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md) _Context: Eastern U.S._
+6. [The death toll from the blizzard in the Eastern United States rises to at least 30. ](/news/2016/01/25/the-death-toll-from-the-blizzard-in-the-eastern-united-states-rises-to-at-least-30.md) _Context: Eastern U.S._
+7. [Record flooding along the Mississippi River and its tributaries that has closed major highways, forced evacuations, and overflowed levees, continues to threaten the Midwestern United States where at least 24 have died. The Mississippi  is expected to crest in the next few days in Thebes, Illinois, at 47.5 feet, breaking the 1995 record by more than a foot and a half (46 cm). And now periods of below-freezing air will cause some flooded areas to turn icy. ](/news/2015/12/31/record-flooding-along-the-mississippi-river-and-its-tributaries-that-has-closed-major-highways-forced-evacuations-and-overflowed-levees-c.md) _Context: Midwestern_
+8. [Officials report the casualties from yesterday's  spring-like storm that triggered more than 20 tornadoes, destroyed homes, delayed and cancelled air flights, and caused power outages in the U.S. Midwest and Southeast have risen to at least 11 people killed with dozens injured. Mississippi Governor Phil Bryant declares a state of emergency in areas affected by the storm. ](/news/2015/12/24/officials-report-the-casualties-from-yesterday-s-spring-like-storm-that-triggered-more-than-20-tornadoes-destroyed-homes-delayed-and-canc.md) _Context: Midwestern_
+9. [Tornadoes of 2015 At least six people die and dozens injured as major storms, packed with tornadoes, move through the American South and Midwest. Three people died when a tornado hit northern Mississippi, one was killed in Arkansas and two more in Tennessee. Officials continue  searching into the night for the missing. ](/news/2015/12/23/tornadoes-of-2015-pat-least-six-people-die-and-dozens-injured-as-major-storms-packed-with-tornadoes-move-through-the-american-south-and-mi.md) _Context: Midwestern_
+10. [A heat wave affecting the Middle East causes almost 100 deaths in Egypt. ](/news/2015/08/17/a-heat-wave-affecting-the-middle-east-causes-almost-100-deaths-in-egypt.md) _Context: heat wave_

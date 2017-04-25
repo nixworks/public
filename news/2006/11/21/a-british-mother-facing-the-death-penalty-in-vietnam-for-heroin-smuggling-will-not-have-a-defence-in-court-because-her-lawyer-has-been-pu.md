@@ -1,0 +1,23 @@
+### [2006-11-21](/news/2006/11/21/index.md)
+
+#  A British mother facing the death penalty in Vietnam for heroin smuggling will not have a defence in court - because her lawyer has been put under house arrest by the Vietnamese Government. 
+
+News and opinion from The Times &amp; The Sunday Times
+
+
+### Source:
+
+1. [The Times](http://www.timesonline.co.uk/article/0,,2-2462744,00.html)
+
+### Related:
+
+1. [Vietnam's Ministry of Justice, Ha Hung Cuong, becomes the second government ministry, after the Health Ministry, to back plans to legalize same-sex marriage in Vietnam, when he submits a draft of an amended Law on Marriage and Family to the government. ](/news/2013/07/30/vietnamas-ministry-of-justice-ha-ha1ng-caedega-ng-becomes-the-second-government-ministry-after-the-health-ministry-to-back-plans-to-leg.md) _Context: Vietnam, government_
+2. [ An Australian man of Vietnamese origin has been jailed for 20 years in Vietnam after being convicted of trying to smuggle 200g of heroin from Vietnam to Australia. ](/news/2005/06/1/an-australian-man-of-vietnamese-origin-has-been-jailed-for-20-years-in-vietnam-after-being-convicted-of-trying-to-smuggle-200g-of-heroin-fr.md) _Context: Vietnam, heroin_
+3. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were  involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Vietnam_
+4. [Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. ](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.md) _Context: Vietnam_
+5. [Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the  Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-founder-of-the-active-ter.md) _Context: house arrest_
+6. [Floods caused by heavy rain over the past week has caused at least 13 deaths in central Vietnam with more heavy rain forecast. ](/news/2016/12/4/floods-caused-by-heavy-rain-over-the-past-week-has-caused-at-least-13-deaths-in-central-vietnam-with-more-heavy-rain-forecast.md) _Context: Vietnam_
+7. [Floods in Vietnam kill at least 15. ](/news/2016/11/7/floods-in-vietnam-kill-at-least-15.md) _Context: Vietnam_
+8. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Vietnam_
+9. [Vietnam reports its first microcephaly case likely to be linked to the Zika virus. ](/news/2016/10/30/vietnam-reports-its-first-microcephaly-case-likely-to-be-linked-to-the-zika-virus.md) _Context: Vietnam_
+10. [The death toll in Vietnam, from Typhoon Sarika, rises to at least 31 people. ](/news/2016/10/18/the-death-toll-in-vietnam-from-typhoon-sarika-rises-to-at-least-31-people.md) _Context: Vietnam_

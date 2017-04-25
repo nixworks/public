@@ -1,0 +1,23 @@
+### [2011-03-30](/news/2011/03/30/index.md)
+
+# The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. 
+
+
+
+
+### Source:
+
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110330/wl_asia_afp/nkoreachinamilitaryrefugees)
+
+### Related:
+
+1. [According to South Korea's Yonhap news agency, North Korea appears to be preparing a test-launch of an intermediate-range ballistic missile. This comes after what the United States described as the "fiery, catastrophic" failure of the first attempt a few days prior. ](/news/2016/04/26/according-to-south-korea-s-yonhap-news-agency-north-korea-appears-to-be-preparing-a-test-launch-of-an-intermediate-range-ballistic-missile.md) _Context: North Korea, South Korea, Yonhap_
+2. [South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-but-was-unsucc.md) _Context: North Korea, South Korea, Yonhap_
+3. [North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country's founder Kim Il-sung, according to South Korea's Yonhap news agency. ](/news/2016/04/14/north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibly-preparing-for-launch-on-or-around-friday-t.md) _Context: North Korea, South Korea, Yonhap_
+4. [Four U.S. F-22 stealth fighters, escorted by other U.S. and South Korean jets, flew low over the Osan Air Base in a show of force following North Korea's recent rocket launch. The Yonhap news agency reported two of these stealth planes will be deployed in South Korea "for a while." ](/news/2016/02/17/four-u-s-f-22-stealth-fighters-escorted-by-other-u-s-and-south-korean-jets-flew-low-over-the-osan-air-base-in-a-show-of-force-following.md) _Context: North Korea, South Korea, Yonhap_
+5. [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md) _Context: China's, North Korea, South Korea_
+6. [South Korea's Yonhap news agency reports North Korea appears to conduct a submarine-launched ballistic missile test that ended in failure with no indication that the missile successfully ejected from the vessel and took off.  ](/news/2015/11/28/south-korea-s-yonhap-news-agency-reports-north-korea-appears-to-conduct-a-submarine-launched-ballistic-missile-test-that-ended-in-failure-wi.md) _Context: North Korea, South Korea, Yonhap_
+7. [South Korea and the People's Republic of China hold discussions about measures in response to North Korea's plans to launch a Unha rocket later this month. ](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.md) _Context: China's, North Korea, South Korea_
+8. [South Korea's Yonhap news agency reports that North Korea has installed an Unha rocket at its Dongchang-ri launch site. Japan is threatening to shoot down the rocket if it manages to stay airborne and threaten Japanese territory. ](/news/2012/12/3/south-korea-s-yonhap-news-agency-reports-that-north-korea-has-installed-an-unha-rocket-at-its-dongchang-ri-launch-site-japan-is-threatening.md) _Context: North Korea, South Korea, Yonhap_
+9. [Korean Peninsula:The Yonhap news agency reports that sources have advised them that North Korea is plotting to assassinate Kim Kwan-jin, currently South Korea's defence minister. ](/news/2011/08/10/korean-peninsula-pthe-yonhap-news-agency-reports-that-sources-have-advised-them-that-north-korea-is-plotting-to-assassinate-kim-kwan-jin-cu.md) _Context: North Korea, South Korea, Yonhap_
+10. [South Korea starts work on a new facility to rehouse refugees from North Korea to avoid both food shortages and political oppression. ](/news/2011/07/7/south-korea-starts-work-on-a-new-facility-to-rehouse-refugees-from-north-korea-to-avoid-both-food-shortages-and-political-oppression.md) _Context: North Korea, South Korea, refugee_

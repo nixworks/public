@@ -1,0 +1,23 @@
+### [2013-04-15](/news/2013/04/15/index.md)
+
+# Australian Prime Minister Julia Gillard announces that the late Swedish diplomat Raoul Wallenberg has been made an honorary Australian citizen. 
+
+
+
+
+### Source:
+
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/nation/holocaust-hero-raoul-wallenberg-made-first-honorary-australian/story-e6frg6nf-1226620896921)
+
+### Related:
+
+1. [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+2. [Australia opens a national probe into child sex abuse, with Prime Minister Julia Gillard warning of "uncomfortable truths" as institutions including schools and churches come under scrutiny. ](/news/2013/04/3/australia-opens-a-national-probe-into-child-sex-abuse-with-prime-minister-julia-gillard-warning-of-uncomfortable-truths-as-institutions-i.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+3. [The Prime Minister of Australia Julia Gillard announces that the next federal election will be held on September 14. ](/news/2013/01/30/the-prime-minister-of-australia-julia-gillard-announces-that-the-next-federal-election-will-be-held-on-september-14.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+4. [Australian Prime Minister Julia Gillard is among the MPs to have been revealed in the latest MPs' interests register to have received gifts, including iPods and concert tickets, from Bono. ](/news/2011/03/24/australian-prime-minister-julia-gillard-is-among-the-mps-to-have-been-revealed-in-the-latest-mps-interests-register-to-have-received-gifts.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+5. [Thousands of people gather in Canberra, Australia to protest the introduction of a carbon tax, Prime Minister Julia Gillard met the Australian Youth Climate Coalition which is pushing for a price on emissions, while climate change mitigation activists including the Australian Council of Trade Unions delivered a petition to Minister for Climate Change and Energy Efficiency Greg Combet signed by about 10,000 "working Australians" urging the government to take action. ](/news/2011/03/23/thousands-of-people-gather-in-canberra-australia-to-protest-the-introduction-of-a-carbon-tax-prime-minister-julia-gillard-met-the-australi.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+6. [Prime Minister Julia Gillard confirms she does not support the legalisation of same-sex marriage in Australia, ](/news/2010/06/30/prime-minister-julia-gillard-confirms-she-does-not-support-the-legalisation-of-same-sex-marriage-in-australia.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+7. [  Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissol.md) _Context: Australia, Prime Minister of Australia_
+8. [The Wallenberg family files an application to formally declare Swedish diplomat Raoul Wallenberg (born in 1912) to be dead. Wallenberg saved the lives of thousands of Jews in World War II only to disappear at the hands of the Soviet forces. ](/news/2016/03/30/the-wallenberg-family-files-an-application-to-formally-declare-swedish-diplomat-raoul-wallenberg-born-in-1912-to-be-dead-wallenberg-saved.md) _Context: Raoul Wallenberg, Sweden_
+9. [The family of Swedish diplomat Raoul Wallenberg, who saved tens of thousands of Jews from the Holocaust only to languish in a Russian prison, have asked authorities to officially declare him dead. ](/news/2015/11/20/the-family-of-swedish-diplomat-raoul-wallenberg-who-saved-tens-of-thousands-of-jews-from-the-holocaust-only-to-languish-in-a-russian-prison.md) _Context: Raoul Wallenberg, Sweden_
+10. [The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. ](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.md) _Context: Australia, Prime Minister of Australia_

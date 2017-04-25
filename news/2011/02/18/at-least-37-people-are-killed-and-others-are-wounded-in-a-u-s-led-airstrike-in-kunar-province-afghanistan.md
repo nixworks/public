@@ -1,0 +1,23 @@
+### [2011-02-18](/news/2011/02/18/index.md)
+
+# At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. 
+
+
+
+
+### Source:
+
+1. [Press TV](http://www.presstv.ir/detail/165845.html)
+
+### Related:
+
+1. [A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-the-border-with-pakistan.md) _Context: Afghan, Kunar Province_
+2. [War in Afghanistan (2001-present):Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001apresent-pafghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato.md) _Context: Afghan, Kunar Province_
+3. [War in Afghanistan (2001-present):An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001apresent-pan-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _Context: Afghan, Kunar Province_
+4. [War in Afghanistan (2001-present):Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001apresent-pafghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md) _Context: Afghan, Kunar Province_
+5. [ The Government of Afghanistan states that it will investigate claims that United States and NATO air strikes caused heavy civilian casualties in Farah Province and Kunar Province. ](/news/2007/07/7/the-government-of-afghanistan-states-that-it-will-investigate-claims-that-united-states-and-nato-air-strikes-caused-heavy-civilian-casualti.md) _Context: Afghan, Kunar Province_
+6. [ Operation Red Wings, a counterterrorism mission in Kunar province, Afghanistan, involving four U.S. Navy SEAL members, took place. Three of the SEALs were killed during the operation, whilst a fourth was protected by local villagers and was rescued by the US military. In addition, an MH-47 Chinook helicopter carrying 8 Nightstalkers - members of the Army's elite 160th Special Operations Aviation Regiment (SOAR) -  and 8 US Navy SEALs was shot down while attempting to come to their rescue to provide extraction in the mountains of the Kunar province, Afghanistan. ](/news/2005/06/28/operation-red-wings-a-counterterrorism-mission-in-kunar-province-afghanistan-involving-four-u-s-navy-seal-members-took-place-three-of.md) _Context: Afghan, Kunar Province_
+7. [A U.S. special forces service member is killed while taking part in an operation against ISIL militants in Afghanistan's eastern Nangarhar Province. ](/news/2017/04/8/a-u-s-special-forces-service-member-is-killed-while-taking-part-in-an-operation-against-isil-militants-in-afghanistan-s-eastern-nangarhar-p.md) _Context: Afghan_
+8. [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md) _Context: Afghan_
+9. [War in Afghanistan Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/war-in-afghanistan-ptaliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it.md) _Context: Afghan_
+10. [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield.  ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md) _Context: Afghan_

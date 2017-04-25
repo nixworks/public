@@ -1,0 +1,25 @@
+### [2010-06-7](/news/2010/06/7/index.md)
+
+# At least 5 people are confirmed dead as tornados and storms batter the Midwest U.S. state of Ohio. 
+
+
+
+
+### Source:
+
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/07/c_13336214.htm)
+2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/seven-confirmed-dead-in-us-tornado-20100607-xnqz.html)
+3. [trend.az](http://en.trend.az/regions/world/usa/1700291.html)
+
+### Related:
+
+1. [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel.  He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md) _Context: Ohio_
+2. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Ohio_
+3. [Nine people are injured in a shooting at the J&R Party Hall after-hours club in Columbus, Ohio. Two are in critical condition. ](/news/2017/04/16/nine-people-are-injured-in-a-shooting-at-the-j-r-party-hall-after-hours-club-in-columbus-ohio-two-are-in-critical-condition.md) _Context: Ohio_
+4. [Four state Democratic Parties sue  the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal"  group founder Roger Stone  for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder.md) _Context: Ohio_
+5. [The 2016 Republican National Convention gets underway in Cleveland, Ohio. With the day's theme being national and local security, notable speakers include reality television star Willie Robertson, actor Scott Baio, former Governor of Texas Rick Perry, former Mayor of New York City Rudy Giuliani, Milwaukee County sheriff David Clarke, retired United States Army lieutenant general Michael T. Flynn and Melania Trump, wife of presumptive Republican nominee for President of the United States Donald Trump. ](/news/2016/07/18/the-2016-republican-national-convention-gets-underway-in-cleveland-ohio-with-the-day-s-theme-being-national-and-local-security-notable-sp.md) _Context: Ohio_
+6. [Governor John Kasich signs a bill legalizing medical marijuana, making Ohio the 25th state in America to approve its use. ](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.md) _Context: Ohio_
+7. [The U.S. city of Cleveland, Ohio, agrees to pay $6 million to settle a wrongful death civil rights lawsuit brought by the family of Tamir Rice. Rice was a 12-year-old boy who was  walking outside a recreation center holding an air pellet gun when he was shot and killed by a Cleveland Police officer on November 22, 2014. Prosecutor Tim McGinty reported in December 2015 that an Ohio grand jury  decided not to indict the police officers. ](/news/2016/04/25/the-u-s-city-of-cleveland-ohio-agrees-to-pay-6-million-to-settle-a-wrongful-death-civil-rights-lawsuit-brought-by-the-family-of-tamir-ri.md) _Context: Ohio_
+8. [United States Federal agents are combing three states for 32 cases of commercial grade explosives, about 500 pounds of 21/2 to 5 inch  aerial shells, stolen from a  CSX train traveling from Chicago, Illinois, through Ohio that arrived in Detroit, Michigan,  on Wednesday. ](/news/2016/04/23/united-states-federal-agents-are-combing-three-states-for-32-cases-of-commercial-grade-explosives-about-500-pounds-of-2a1-2-to-5-inch-aerial.md) _Context: Ohio_
+9. [The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on  July 18-21, 2016; responding to an online petition  demanding  Quicken Loans Arena revoke its ban on  open carrying of firearms. ](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention-t.md) _Context: Ohio_
+10. [ North Korea sentences American Otto Warmbier, a 21-year-old from Cincinnati, Ohio, studying at the University of Virginia, to 15 years hard labor for removing a political poster from a hotel. ](/news/2016/03/16/north-korea-sentences-american-otto-warmbier-a-21-year-old-from-cincinnati-ohio-studying-at-the-university-of-virginia-to-15-years-hard.md) _Context: Ohio_

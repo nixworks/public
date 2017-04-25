@@ -1,0 +1,25 @@
+### [2010-10-14](/news/2010/10/14/index.md)
+
+# Rights groups in Indonesia welcome the striking down of a Suharto-era law banning books that were deemed to be "offensive" or a "threat to public order". 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11539342)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/14/court-ruling-ends-govt%E2%80%99s-authority-ban-books.html)
+3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jpFylLkCiUTq9Kat88Bo5ujCVAgQD9IRA2Q00?docId=D9IRA2Q00)
+
+### Related:
+
+1. [ Former Indonesian leader Suharto is taken to hospital in critical condition for anemia and low blood pressure. ](/news/2008/01/4/former-indonesian-leader-suharto-is-taken-to-hospital-in-critical-condition-for-anemia-and-low-blood-pressure.md) _Context: Indonesia, Suharto_
+2. [ Former Indonesian president Suharto is hospitalized; there are conflicting reports about his condition. ](/news/2005/05/9/former-indonesian-president-suharto-is-hospitalized-there-are-conflicting-reports-about-his-condition.md) _Context: Indonesia, Suharto_
+3. [ Leaders in Indonesia visit Suharto, the nation's former president, who is hospitalized with what has been diagnosed as intestinal bleeding. ](/news/2005/05/10/leaders-in-indonesia-visit-suharto-the-nation-s-former-president-who-is-hospitalized-with-what-has-been-diagnosed-as-intestinal-bleeding.md) _Context: Indonesia, Suharto_
+4. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Indonesia_
+5. [A landslide hits the Indonesian island of Java and leaves more than two dozen people missing. ](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.md) _Context: Indonesia_
+6. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were  involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Indonesia_
+7. [Flooding occurs across parts of Indonesia, including the capital Jakarta, due to torrential downpours over the last few days. Thousands of homes have been flooded and schools were forced to close. However, there are no reports of injuries yet. ](/news/2017/02/21/flooding-occurs-across-parts-of-indonesia-including-the-capital-jakarta-due-to-torrential-downpours-over-the-last-few-days-thousands-of-h.md) _Context: Indonesia_
+8. [Severe flooding following five days of incessant rain causes landslides that have killed 13 people in Indonesia's  West Nusa Tenggara Province. ](/news/2017/02/11/severe-flooding-following-five-days-of-incessant-rain-causes-landslides-that-have-killed-13-people-in-indonesia-s-west-nusa-tenggara-provin.md) _Context: Indonesia_
+9. [A ferry catches fire en route to Indonesia's Thousand Islands, killing at least 23 people and injuring 17 others. ](/news/2017/01/1/a-ferry-catches-fire-en-route-to-indonesia-s-thousand-islands-killing-at-least-23-people-and-injuring-17-others.md) _Context: Indonesia_
+10. [International aid organisations arrive in the Indonesian province of Aceh as the death toll for the earthquake passes 100. ](/news/2016/12/8/international-aid-organisations-arrive-in-the-indonesian-province-of-aceh-as-the-death-toll-for-the-earthquake-passes-100.md) _Context: Indonesia_

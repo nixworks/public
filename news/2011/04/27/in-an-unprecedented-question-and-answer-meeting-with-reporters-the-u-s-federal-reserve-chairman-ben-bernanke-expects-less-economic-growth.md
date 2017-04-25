@@ -1,0 +1,23 @@
+### [2011-04-27](/news/2011/04/27/index.md)
+
+# In an unprecedented question and answer meeting with reporters, the U.S. Federal Reserve chairman Ben Bernanke expects less economic growth for 2011 as the economy has been weaker in recent months than he had thought it would be. 
+
+The Federal Reserve cuts its economic growth forecast for this year, citing weaker growth than expected in the first three months of the year.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/business-13213424)
+
+### Related:
+
+1. [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md) _Context: Ben Bernanke, Chairman of the Federal Reserve, Federal Reserve System_
+2. [ Global financial crisis of 2008-2009: United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/global-financial-crisis-of-2008-2009-p-united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plos.md) _Context: Ben Bernanke, Chairman of the Federal Reserve, Federal Reserve System_
+3. [The U.S. Department of Treasury may probe why Bloomberg News reporters were monitoring how investment bank employees searched their site for financial information, including U.S. Chairman of the Federal Reserve Ben Bernanke and Treasury Secretary Timothy Geithner. ](/news/2013/05/13/the-u-s-department-of-treasury-may-probe-why-bloomberg-news-reporters-were-monitoring-how-investment-bank-employees-searched-their-site-for.md) _Context: Ben Bernanke, Chairman of the Federal Reserve_
+4. [Ben Bernanke, the Chairman of the United States Federal Reserve, gives a keynote address at a central banks conference at the US resort of Jackson Hole, Wyoming as statistics show that the US economy grew by 1%. ](/news/2011/08/26/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-gives-a-keynote-address-at-a-central-banks-conference-at-the-us-resort-of-j.md) _Context: Ben Bernanke, Chairman of the Federal Reserve_
+5. [A spokesman for U.S. President Barack Obama expresses the administration's support for a second term for the incumbent Chairman of the Federal Reserve, Ben Bernanke, and says lawmakers would send a bad message by "playing politics in any way" with Bernanke's confirmation. ](/news/2010/01/24/a-spokesman-for-u-s-president-barack-obama-expresses-the-administration-s-support-for-a-second-term-for-the-incumbent-chairman-of-the-feder.md) _Context: Ben Bernanke, Chairman of the Federal Reserve_
+6. [ U.S. President Barack Obama nominates Ben Bernanke for his second term as chairman of the Federal Reserve. ](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.md) _Context: Ben Bernanke, Chairman of the Federal Reserve_
+7. [ Amid news of slower-than expected growth and a quarterly rise in the unemployment rate in the United States, Federal Reserve System Chairman Ben Bernanke announced that there will be no increase to the Fed fund rate, ending a two-year period of rising interest rates. ](/news/2006/08/8/amid-news-of-slower-than-expected-growth-and-a-quarterly-rise-in-the-unemployment-rate-in-the-united-states-federal-reserve-system-chairma.md) _Context: Ben Bernanke, Federal Reserve System_
+8. [The Federal Reserve System raises the benchmark interest rate in the United States to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. ](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.md) _Context: Federal Reserve System_
+9. [Oil price reached its lowest since December 2008. Other indicators in broader markets caused investor jitters ahead of the expected interest rate hike by the U.S. central bank on Wednesday. ](/news/2015/12/14/oil-price-reached-its-lowest-since-december-2008-other-indicators-in-broader-markets-caused-investor-jitters-ahead-of-the-expected-interest.md) _Context: Federal Reserve System_
+10. [U.S. President Barack Obama nominates Janet Yellen to become the next chair of the Federal Reserve after Ben Bernanke leaves that office. ](/news/2013/10/9/u-s-president-barack-obama-nominates-janet-yellen-to-become-the-next-chair-of-the-federal-reserve-after-ben-bernanke-leaves-that-office.md) _Context: Ben Bernanke_

@@ -1,0 +1,23 @@
+### [2011-01-24](/news/2011/01/24/index.md)
+
+# One of the operatives on a boat caught in Israel's Gaza flotilla raid suggests Israel's report into the attack is a "PR exercise". 
+
+
+
+
+### Source:
+
+1. [Irish Examiner](http://www.irishexaminer.com/home/israeli-findings-on-gaza-flotilla-raid-a-pr-exercise-142987.html)
+
+### Related:
+
+1. [A Turkish ship carrying humanitarian aid for the Gaza Strip docks at the Israeli port city of Ashdod, the first warming move between the two countries since relations began to improve. Relations between Turkey and Israel were tense since the 2010 Gaza flotilla raid but ended last week when Turkey agreed to normalize ties in a diplomatic treaty. ](/news/2016/07/4/a-turkish-ship-carrying-humanitarian-aid-for-the-gaza-strip-docks-at-the-israeli-port-city-of-ashdod-the-first-warming-move-between-the-two.md) _Context: Gaza flotilla raid, Israel_
+2. [Israel-Turkey relations:Israel's Prime Minister Benjamin Netanyahu apologizes to his Turkish counterpart Recep Tayyip Erdogan for the death of nine activists during a flotilla raid in Gaza in 2010 and offers compensation for their families. ](/news/2013/03/22/israelaturkey-relations-pisrael-s-prime-minister-benjamin-netanyahu-apologizes-to-his-turkish-counterpart-recep-tayyip-erdoaan-for-the-de.md) _Context: Gaza flotilla raid, Israel_
+3. [Israel's State Comptroller criticises prime minister Benjamin Netanyahu's decision-making during the 2010 Gaza flotilla raid. ](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.md) _Context: Gaza flotilla raid, Israel_
+4. [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md) _Context: Gaza flotilla raid, Israel_
+5. [2010 Gaza flotilla raid:Turkey expels Israel's ambassador and cancels all military agreements with Israel, hours before a UN report investigating the raid is published. ](/news/2011/09/2/2010-gaza-flotilla-raid-pturkey-expels-israel-s-ambassador-and-cancels-all-military-agreements-with-israel-hours-before-a-un-report-investi.md) _Context: Gaza flotilla raid, Israel_
+6. [Turkey requests that Israel pass on the names and addresses of the soldiers who raided a Gaza-bound flotilla, killing nine Turks last May. ](/news/2011/05/14/turkey-requests-that-israel-pass-on-the-names-and-addresses-of-the-soldiers-who-raided-a-gaza-bound-flotilla-killing-nine-turks-last-may.md) _Context: Gaza flotilla raid, Israel_
+7. [Israeli inquiry into the Gaza flotilla raid:An Israeli inquiry finds its own army acts "legal pursuant to the rules of international law" during May's fatal Gaza flotilla raid in which 9 Turkish activists were killed; a separate United Nations inquiry said there had been an "unacceptable level of brutality". The inquiry also declares Israel's naval blockade of Gaza to be legal. ](/news/2011/01/23/israeli-inquiry-into-the-gaza-flotilla-raid-pan-israeli-inquiry-finds-its-own-army-acts-legal-pursuant-to-the-rules-of-international-law-d.md) _Context: Gaza flotilla raid, Israel_
+8. [Senior officials from Turkey and Israel meet in Geneva to resolve their differences following the Gaza flotilla raid in May. ](/news/2010/12/6/senior-officials-from-turkey-and-israel-meet-in-geneva-to-resolve-their-differences-following-the-gaza-flotilla-raid-in-may.md) _Context: Gaza flotilla raid, Israel_
+9. [Israeli Prime Minister Benjamin Netanyahu rules out apologising to Turkey for killing nine of its citizens during May's Gaza flotilla raid,saying, however, that Israel would "express its regret"; the interview came after Foreign Minister Avigdor Lieberman said that Turkey should apologize to Israel for supporting terrorists. ](/news/2010/12/27/israeli-prime-minister-benjamin-netanyahu-rules-out-apologising-to-turkey-for-killing-nine-of-its-citizens-during-may-s-gaza-flotilla-raid-s.md) _Context: Gaza flotilla raid, Israel_
+10. [Thousands of people shouting "death to Israel" gather at Sarayburnu port in Istanbul to welcome back the  MV ''Mavi Marmara'', draped with a banner containing faces of the 9 people killed during the Gaza flotilla raid. ](/news/2010/12/26/thousands-of-people-shouting-death-to-israel-gather-at-sarayburnu-port-in-istanbul-to-welcome-back-the-mv-mavi-marmara-draped-with-a.md) _Context: Gaza flotilla raid, Israel_

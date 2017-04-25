@@ -1,0 +1,23 @@
+### [2016-04-28](/news/2016/04/28/index.md)
+
+# The Parliament of Finland holds a debate on whether or not to abandon the Euro as its currency following a petition that garnered enough signatures to force the issue into parliament. This comes as Finland as dealing with a weakening economy but the petition is unlikely to lead to the country leaving the Eurozone. 
+
+Finnish lawmakers on Thursday held a rare debate on whether the Nordic country should quit the euro after 53,000 people signed a petition to force the issue into parliament.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-eurozone-finland-exit-idUSKCN0XP2FP)
+
+### Related:
+
+1. [The city council of Pello, Finland, offers 50 euro to each Finnish speaking taxpayer who changes language to Swedish in order to secure the bilingual Finnish-Swedish regime. ](/news/2014/06/13/the-city-council-of-pello-finland-offers-50-euro-to-each-finnish-speaking-taxpayer-who-changes-language-to-swedish-in-order-to-secure-the.md) _Context: Finland, euro_
+2. [Latvia officially adopts the Euro as its currency and becomes the 18th member of the Eurozone. ](/news/2014/01/1/latvia-officially-adopts-the-euro-as-its-currency-and-becomes-the-18th-member-of-the-eurozone.md) _Context: Eurozone, euro_
+3. [The eurozone will pay out of 43.7 billion euros in loans to Greece from December 13 for reducing Greece's debt. ](/news/2012/11/27/the-eurozone-will-pay-out-of-43-7-billion-euros-in-loans-to-greece-from-december-13-for-reducing-greece-s-debt.md) _Context: Eurozone, euro_
+4. [Eurozone debt crisis:The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/eurozone-debt-crisis-pthe-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoing.md) _Context: Eurozone, euro_
+5. [Angela Merkel, the German Chancellor, and Nicolas Sarkozy, the President of France, jointly propose a new set of policies for the euro zone defined to defend the euro as a currency, such as higher retirement ages and the abolition of inflation-indexed wages. ](/news/2011/02/4/angela-merkel-the-german-chancellor-and-nicolas-sarkozy-the-president-of-france-jointly-propose-a-new-set-of-policies-for-the-euro-zone.md) _Context: Eurozone, euro_
+6. [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md) _Context: Eurozone, euro_
+7. [ Slovakia adopts the euro and becomes the 16th member of the Eurozone. ](/news/2009/01/1/slovakia-adopts-the-euro-and-becomes-the-16th-member-of-the-eurozone.md) _Context: Eurozone, euro_
+8. [ Slovenia adopts the euro, replacing the tolar and becoming the second enlargement to the eurozone. ](/news/2007/01/1/slovenia-adopts-the-euro-replacing-the-tolar-and-becoming-the-second-enlargement-to-the-eurozone.md) _Context: Eurozone, euro_
+9. [ The European Central Bank raises Euro base interest rates by 0.25% to 2.5%. The move affects the 12 members of the Eurozone. ](/news/2006/03/2/the-european-central-bank-raises-euro-base-interest-rates-by-0-25-to-2-5-the-move-affects-the-12-members-of-the-eurozone.md) _Context: Eurozone, euro_
+10. [Finnish municipal elections, 2017 Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-pvoters-go-to-the-polls-for-municipal-elections-in-finland.md) _Context: Finland_

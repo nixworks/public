@@ -1,0 +1,25 @@
+### [2011-05-14](/news/2011/05/14/index.md)
+
+# Japanese earthquake, tsunami and nuclear crisis:A worker at the Fukushima power plant dies while working on crisis-fighting operations. 
+
+A worker died after collapsing at a facility in the crippled Fukushima Daiichi nuclear power plant in Japan, its owner said Saturday. 
+
+
+### Source:
+
+1. [PanARMENIAN](http://www.panarmenian.net/eng/world/news/69956/Over_15000_people_killed_in_Japan_quake_and_tsunami)
+2. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20110514p2g00m0dm011000c.html)
+3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/14/japan.fukushima.death/index.html)
+
+### Related:
+
+1. [According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-daiichi-nuclear-power-plant-damaged-by.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
+2. [French President Nicolas Sarkozy admits he did not visit Fukushima while in Japan after last year's earthquake and tsunami, despite having previously said he had done so. ](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
+3. [Two of the reactors damaged in the March earthquake and tsunami at the Fukushima Daiichi nuclear power plant in Japan may be riddled with holes, according to the facility's owner, Tokyo Electric Power Co. ](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
+4. [The Tokyo Electric Power Company (TEPCO) claims that three reactors at the Fukushima Daiichi Nuclear Power Plant suffered partial meltdowns following the 2011 Tohoku earthquake and tsunami; it had previously announced that only one reactor had suffered a meltdown. ](/news/2011/05/24/the-tokyo-electric-power-company-tepco-claims-that-three-reactors-at-the-fukushima-daiichi-nuclear-power-plant-suffered-partial-meltdowns.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
+5. [Japan's emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster.  Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md) _Context: an earthquake and tsunami_
+6. [Japan allocates 820 billion yen ($6.8 billion) for creating a nearly 400-kilometer (250-mile) chain of cement seawalls, at places nearly five stories high, against future tsunami disasters such as the one that struck the country's northeastern coast four years ago. ](/news/2015/03/22/japan-allocates-820-billion-yen-6-8-billion-for-creating-a-nearly-400-kilometer-250-mile-chain-of-cement-seawalls-at-places-nearly-fiv.md) _Context: an earthquake and tsunami_
+7. [South Korea bans all fishery imports from eight Japanese prefectures, amid concern over leaks of radioactive water from the crippled Fukushima nuclear plant. ](/news/2013/09/6/south-korea-bans-all-fishery-imports-from-eight-japanese-prefectures-amid-concern-over-leaks-of-radioactive-water-from-the-crippled-fukushi.md) _Context: Fukushima Daiichi Nuclear Power Plant_
+8. [Typhoon Man-yi hits central Japan with concerns raised about a possible impact on the stricken Fukushima Daiichi Nuclear Power Plant. ](/news/2013/09/16/typhoon-man-yi-hits-central-japan-with-concerns-raised-about-a-possible-impact-on-the-stricken-fukushima-daiichi-nuclear-power-plant.md) _Context: Fukushima Daiichi Nuclear Power Plant_
+9. [Steam begins to rise at the Fukushima Daiichi Nuclear Power Plant with utility company Tepco saying that it is possibly because of rain and that the levels of radioactivity in the surrounding areas have remained unchanged. ](/news/2013/07/18/steam-begins-to-rise-at-the-fukushima-daiichi-nuclear-power-plant-with-utility-company-tepco-saying-that-it-is-possibly-because-of-rain-and.md) _Context: Fukushima Daiichi Nuclear Power Plant_
+10. [Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage  at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. ](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.md) _Context: Fukushima Daiichi Nuclear Power Plant_

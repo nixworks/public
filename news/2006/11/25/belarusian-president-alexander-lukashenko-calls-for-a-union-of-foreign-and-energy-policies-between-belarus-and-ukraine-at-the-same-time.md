@@ -1,0 +1,23 @@
+### [2006-11-25](/news/2006/11/25/index.md)
+
+#  Belarusian President Alexander Lukashenko calls for a "union" of foreign and energy policies between Belarus and Ukraine. At the same time, he says his government falsified the results of the last presidential election by reducing the size of his own majority. 
+
+
+
+
+### Source:
+
+1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/11/b95b3bfa-932e-4317-8c22-99589908ea27.html)
+
+### Related:
+
+1. [Ten Olympic weightlifters fail a drug test in a reanalysis of samples from the 2012 Summer Olympics. Among them are four Kazakh gold medalists: Ilya Ilyin, Zulfiya Chinshanlo, Svetlana Podobedova and Maiya Maneza. The other athletes represent Azerbaijan, Belarus, Russia, and  Ukraine. All ten lifters are provisionally suspended by the International Weightlifting Federation and are expected to be stripped of their titles. ](/news/2016/06/16/ten-olympic-weightlifters-fail-a-drug-test-in-a-reanalysis-of-samples-from-the-2012-summer-olympics-among-them-are-four-kazakh-gold-medalis.md) _Context: Belarus, Ukrainian_
+2. [Authorities in Belarus detain prominent businessman Yury Chyzh, once a close adviser to Alexander Lukashenko and included in the EU's sanctions list, on suspicion of large-scale tax evasion. ](/news/2016/03/13/authorities-in-belarus-detain-prominent-businessman-yury-chyzh-once-a-close-adviser-to-alexander-lukashenko-and-included-in-the-eu-s-sancti.md) _Context: Alexander Lukashenko, Belarus_
+3. [In Minsk, about 1,000 opposition activists protest Russia's plans to establish a military air base in Belarus, saying it would turn the former Soviet republic into a Kremlin "vassal" and add to regional tensions. Belarussian President Alexander Lukashenko has refrained from commenting on the initiative to establish the base. ](/news/2015/10/4/in-minsk-about-1-000-opposition-activists-protest-russia-s-plans-to-establish-a-military-air-base-in-belarus-saying-it-would-turn-the-form.md) _Context: Alexander Lukashenko, Belarus_
+4. [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md) _Context: Belarus, Ukrainian_
+5. [The local KGB in Minsk arrests about 100 Ukrainian and 30 Belarusian soccer fans at a qualifying match between Ukraine and Belarus for the 2016 European Championship after they a sang the song, Putin-Huilo! (which roughly translates as "Putin is a dickhead!"). ](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.md) _Context: Belarus, Ukrainian_
+6. [2014 pro-Russian unrest in Ukraine:The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/2014-pro-russian-unrest-in-ukraine-pthe-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-be.md) _Context: Belarus, Ukrainian_
+7. [Four athletes who won medals at the 2004 Olympic Games in Athens are disqualified for doping. Ukraine's Yuriy Bilonoh will lose his gold medal in the shot put, while Belarus hammer thrower Ivan Tsikhan must return his silver. Two Athens bronze medalists, Russian shot putter Svetlana Krivelyova and discus thrower Irina Yatchenko of Belarus, are also affected by the IOC decision. No decision was taken on reallocating the medals yet. ](/news/2012/12/6/four-athletes-who-won-medals-at-the-2004-olympic-games-in-athens-are-disqualified-for-doping-ukraine-s-yuriy-bilonoh-will-lose-his-gold-med.md) _Context: Belarus, Ukrainian_
+8. [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md) _Context: Alexander Lukashenko, Belarus_
+9. [Opposition supporters are arrested in Belarus after the swearing-in of President Alexander Lukashenko. ](/news/2011/01/22/opposition-supporters-are-arrested-in-belarus-after-the-swearing-in-of-president-alexander-lukashenko.md) _Context: Alexander Lukashenko, Belarus_
+10. [Belarus president Alexander Lukashenko is sworn in for a fourth time following the disputed presidential election. ](/news/2011/01/21/belarus-president-alexander-lukashenko-is-sworn-in-for-a-fourth-time-following-the-disputed-presidential-election.md) _Context: Alexander Lukashenko, Belarus_

@@ -1,0 +1,23 @@
+### [2006-04-26](/news/2006/04/26/index.md)
+
+#  The Governor of Puerto Rico, Anbal Acevedo Vil, signs an executive order in which the government's budget will be exclusively used for health and security services. 43 agencies of the government will be shut down, while 15 will provide services partially. Another 60 will continue operating normally. The order is a result of the budget running dry before the end of the fiscal year. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=1894226&CMP=OTC-RSSFeeds0312)
+
+### Related:
+
+1. [Puerto Rico defaults on a $422 million debt payment. The Governor of Puerto Rico Alejandro Garcia Padilla calls the situation a "humanitarian crisis". This is the third time Puerto Rico has defaulted on bond payments. ](/news/2016/05/2/puerto-rico-defaults-on-a-422-million-debt-payment-the-governor-of-puerto-rico-alejandro-garcaa-padilla-calls-the-situation-a-humanitari.md) _Context: Governor of Puerto Rico_
+2. [Puerto Rico Governor Alejandro Garcia Padilla says the Commonwealth will default on a $422 million bond payment due Monday. Garcia Padilla says  debt payments have been suspended in order to pay for essential services  for the 3.5 million American citizens. Congress has been unable to pass a debt restructuring bill for Puerto Rico. ](/news/2016/05/1/puerto-rico-governor-alejandro-garcaa-padilla-says-the-commonwealth-will-default-on-a-422-million-bond-payment-due-monday-garcaa-padilla.md) _Context: Governor of Puerto Rico_
+3. [Puerto Rican Governor Alejandro Garcia Padilla announces he declared a state of emergency at the Commonwealth's Government Development Bank yesterday, which allows withdrawals only to fund necessary costs for health, public safety, and education services. Without this measure and debt restructuring,  the United States territory would be forced to default as it faces nearly $2.5 billion in bond payments from May through July. ](/news/2016/04/9/puerto-rican-governor-alejandro-garcaa-padilla-announces-he-adeclared-a-state-of-emergency-at-the-commonwealth-s-government-development-ba.md) _Context: Governor of Puerto Rico_
+4. [The Governor of Puerto Rico, Alejandro Garca Padilla, says that Puerto Rico's debts are "not payable". ](/news/2015/06/28/the-governor-of-puerto-rico-alejandro-garcia-padilla-says-that-puerto-rico-s-debts-are-not-payable.md) _Context: Governor of Puerto Rico_
+5. [The United States House of Representatives files a lawsuit against President Barack Obama for executive actions undertaken in relation to the implementation of the Affordable Care Act. ](/news/2014/11/21/the-united-states-house-of-representatives-files-a-lawsuit-against-president-barack-obama-for-executive-actions-undertaken-in-relation-to-th.md) _Context: executive actions_
+6. [The President of the United States Barack Obama announces executive orders to defer the deportations of a certain group of illegal immigrants: parents whose children are already U.S. citizens and legal permanent residents who have lived in the United States for five years or more. ](/news/2014/11/20/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-defer-the-deportations-of-a-certain-group-of-illegal-immigrant.md) _Context: executive actions_
+7. [Luis Fortuo, the Governor of the US Commonwealth of Puerto Rico, submits a plan for a two-part referendum to change the islands's status. ](/news/2011/10/5/luis-fortuno-the-governor-of-the-us-commonwealth-of-puerto-rico-submits-a-plan-for-a-two-part-referendum-to-change-the-islands-s-status.md) _Context: Governor of Puerto Rico_
+8. [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md) _Context: executive actions_
+9. [Guam Governor Felix Perez Camacho issues an executive order changing the name of ''Guam'' to ''Guahan'' in government documents and signage and calls for unification with the Northern Mariana Islands. ](/news/2010/02/17/guam-governor-felix-perez-camacho-issues-an-executive-order-changing-the-name-of-guam-to-guahan-in-government-documents-and-signage.md) _Context: executive actions_
+10. [ Luis Fortuno is sworn in as Governor of Puerto Rico. ](/news/2009/01/2/luis-fortua-o-is-sworn-in-as-governor-of-puerto-rico.md) _Context: Governor of Puerto Rico_

@@ -1,0 +1,25 @@
+### [2015-05-23](/news/2015/05/23/index.md)
+
+# The counting of votes for yesterday's referendum occurs with  the Republic of Ireland becoming the first country to adopt same sex marriage by referendum. 
+
+With all of the results in, Ireland has voted a historic yes in its gay marriage referendum
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/global/live/2015/may/23/counting-underway-for-irelands-referendum-on-marriage-equality)
+2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-23-EU--Ireland-Gay%20Marriage/id-0b452c093c1b4fe898c5c22143db517)
+3. [Independent Ireland](http://www.independent.ie/irish-news/referendum/referendum-2015-live-early-tallies-indicate-strong-yes-for-samesex-marriage-31238126.html)
+
+### Related:
+
+1. [Voters in Ireland go to the polls to vote on constitutional referendums, including one that would allow same-sex marriage. ](/news/2015/05/22/voters-in-ireland-go-to-the-polls-to-vote-on-constitutional-referendums-including-one-that-would-allow-same-sex-marriage.md) _Context: Ireland, Thirty-fourth Amendment of the Constitution (Marriage Equality) Bill 2015, same-sex marriage_
+2. [A mass grave is discovered at a former Catholic orphanage in Tuam, Ireland, containing "significant quantities of human remains", all of them children. It is alleged over 800 children died at this orphanage and most were buried in the 1950s. ](/news/2017/03/3/a-mass-grave-is-discovered-at-a-former-catholic-orphanage-in-tuam-ireland-containing-asignificant-quantities-of-human-remainsa-all-of.md) _Context: Ireland_
+3. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: Ireland_
+4. [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md) _Context: Ireland_
+5. [United Airlines Flight 880 makes an emergency landing at Shannon Airport in the Republic of Ireland due to "severe and unexpected turbulence". At least 12 people are hospitalized. ](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.md) _Context: Ireland_
+6. [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md) _Context: Ireland_
+7. [AMC Theatres is purchasing  London-based Odeon & UCI Cinemas Group in a deal valued at about PS921 million  ($1.21 billion). AMC   has 385 theaters with 5,380 screens, most in the United States.  Odeon & UCI  has  242 theaters and 2,236 screens in the U.K. and Ireland.  AMC noted its $1.1 billion (PS835 million) acquisition of  Columbus, Georgia's Carmike Cinemas (276 thrs/2,954 scrs) is still in the works. ](/news/2016/07/12/amc-theatres-is-purchasing-london-based-odeon-uci-cinemas-group-in-a-deal-valued-at-about-aps921-million-1-21-billion-amc-has-385-t.md) _Context: Ireland_
+8. [Governor Nathan Deal, of the American state of Georgia, vetoes a religious liberties bill  that would have protected people whose religious beliefs don't include same-sex marriage. ](/news/2016/03/28/governor-nathan-deal-of-the-american-state-of-georgia-vetoes-a-religious-liberties-bill-that-would-have-protected-people-whose-religious.md) _Context: same-sex marriage_
+9. [Thousands of people in Dublin, Ireland, attend the Irish government's commemoration of the 1916 Easter Rising against British rule. ](/news/2016/03/27/thousands-of-people-in-dublin-ireland-attend-the-irish-government-s-commemoration-of-the-1916-easter-rising-against-british-rule.md) _Context: Ireland_
+10. [The Vatican  is replacing Italian Archbishop Carlo Maria Vigano,  the Apostolic Nuncio to the U.S., with French-born Archbishop Christophe Pierre, currently the Apostolic Nuncio to Mexico.  Vigano, who is 75, the statutory retirement age, in 2015 arranged the unexpected  meeting between   Pope Francis and controversial Kentucky clerk Kim Davis, who refused to follow her state's law on same-sex marriage. ](/news/2016/03/17/the-vatican-is-replacing-italian-archbishop-carlo-maria-vigana2-the-apostolic-nuncio-to-the-u-s-with-french-born-archbishop-christophe.md) _Context: same-sex marriage_

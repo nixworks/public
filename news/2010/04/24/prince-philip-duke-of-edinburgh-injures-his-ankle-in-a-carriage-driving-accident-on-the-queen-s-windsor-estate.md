@@ -1,0 +1,23 @@
+### [2010-04-24](/news/2010/04/24/index.md)
+
+# Prince Philip, Duke of Edinburgh injures his ankle in a carriage driving accident on the Queen's Windsor estate. 
+
+
+
+
+### Source:
+
+1. [Arab News](http://arabnews.com/world/article46820.ece)
+
+### Related:
+
+1. [U.S. President Barack Obama, in an op-ed in London's ''Daily Telegraph'', urges Britons  to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-o.md) _Context: Prince Philip_
+2. [As part of his state visit to the United Kingdom, Irish President Michael D. Higgins addresses the Houses of Parliament and attends a banquet at Windsor Castle with Elizabeth II. ](/news/2014/04/8/as-part-of-his-state-visit-to-the-united-kingdom-irish-president-michael-d-higgins-addresses-the-houses-of-parliament-and-attends-a-banque.md) _Context: Windsor Castle_
+3. [Sinn Fein's Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-inas-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md) _Context: Windsor Castle_
+4. [Prince Philip, Duke of Edinburgh is admitted to a London hospital for an exploratory operation after experiencing abdominal pains. ](/news/2013/06/6/prince-philip-duke-of-edinburgh-is-admitted-to-a-london-hospital-for-an-exploratory-operation-after-experiencing-abdominal-pains.md) _Context: Prince Philip_
+5. [Prince Philip is admitted to a London hospital for an exploratory operation. ](/news/2013/06/5/prince-philip-is-admitted-to-a-london-hospital-for-an-exploratory-operation.md) _Context: Prince Philip_
+6. [Prince Philip, Duke of Edinburgh is taken to hospital as a "precautionary measure" after a recurrence of a bladder infection that affected him earlier in the year. ](/news/2012/08/15/prince-philip-duke-of-edinburgh-is-taken-to-hospital-as-a-precautionary-measure-after-a-recurrence-of-a-bladder-infection-that-affected-h.md) _Context: Prince Philip_
+7. [The Olympic torch arrives at Windsor Castle in Berkshire, where the bearer is greeted by Queen Elizabeth II before taking off for the next leg of the torch's journey to London. ](/news/2012/07/10/the-olympic-torch-arrives-at-windsor-castle-in-berkshire-where-the-bearer-is-greeted-by-queen-elizabeth-ii-before-taking-off-for-the-next-l.md) _Context: Windsor Castle_
+8. [Diamond Jubilee of Elizabeth II:Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-pprince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _Context: Prince Philip_
+9. [Prince Philip, the Duke of Edinburgh, is treated in hospital for a blocked coronary artery. ](/news/2011/12/23/prince-philip-the-duke-of-edinburgh-is-treated-in-hospital-for-a-blocked-coronary-artery.md) _Context: Prince Philip_
+10. [U.S. President Barack Obama meets Queen Elizabeth II and Prince Philip, Duke of Edinburgh and senior royals at the start of a three-day state visit to the United Kingdom. ](/news/2011/05/24/u-s-president-barack-obama-meets-queen-elizabeth-ii-and-prince-philip-duke-of-edinburgh-and-senior-royals-at-the-start-of-a-three-day-stat.md) _Context: Prince Philip_

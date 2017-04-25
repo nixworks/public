@@ -1,0 +1,24 @@
+### [2016-02-11](/news/2016/02/11/index.md)
+
+# Southern California Gas Company caps, at least temporarily, the natural gas leak that started last October and  has forced thousands to flee their homes. 
+
+The natural gas leak that flowed for three months and sickened hundreds near Los Angeles has been temporarily capped, gas company officials said.
+
+
+### Source:
+
+1. [UPI](http://www.upi.com/Top_News/US/2016/02/11/Massive-natural-gas-leak-near-Los-Angeles-finally-capped/6381455241476/?spt=hs&or=tn_us)
+2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-porter-ranch-gas-leak-fix-20160211-story.html)
+
+### Related:
+
+1. [An investigation by the United States Department of Transportation's Pipeline and Hazardous Materials Safety Administration finds that the natural gas leak occurring in Alaska's Cook Inlet began earlier than first reported, and represents significant safety and environmental risks. The agency gives pipeline operator Hilcorp Energy until May 1, 2017 to fix the leak, or shut the pipeline down. ](/news/2017/03/7/an-investigation-by-the-united-states-department-of-transportation-s-pipeline-and-hazardous-materials-safety-administration-finds-that-the-n.md) _Context: natural gas_
+2. [A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.md) _Context: natural gas_
+3. [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md) _Context: natural gas_
+4. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: natural gas_
+5. [According to a statement from Ukraine's nuclear energy authority, Yadernoye Toplivo, a private U.S. nuclear energy company, ConverDyn, could begin helping Ukraine in the production of enriched uranium, a day after Russia shut off natural gas supplies to the country after the two failed to reach agreement over Ukraine's unpaid gas debts to Russia.](/news/2015/07/2/according-to-a-statement-from-ukraine-s-nuclear-energy-authority-yadernoye-toplivo-a-private-u-s-nuclear-energy-company-converdyn-could.md) _Context: natural gas_
+6. [Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish-the-provincial-ca.md) _Context: natural gas_
+7. [The European Union opens an antitrust case against Russian gas giant Gazprom which supplies most of Central and eastern Europe with supplies of natural gas. ](/news/2015/04/22/the-european-union-opens-an-antitrust-case-against-russian-gas-giant-gazprom-which-supplies-most-of-central-and-eastern-europe-with-supplies.md) _Context: natural gas_
+8. [Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-the-sidelines-of-the-asiaaeurope-mee.md) _Context: natural gas_
+9. [The Natural Development and Reform Commission, an economic planning agency of the People's Republic of China, announces an increase in the price of natural gas sold to non-residential buyers. ](/news/2014/08/12/the-natural-development-and-reform-commission-an-economic-planning-agency-of-the-people-s-republic-of-china-announces-an-increase-in-the-p.md) _Context: natural gas_
+10. [Sino-Russian relations:Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/sino-russian-relations-pxi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _Context: natural gas_

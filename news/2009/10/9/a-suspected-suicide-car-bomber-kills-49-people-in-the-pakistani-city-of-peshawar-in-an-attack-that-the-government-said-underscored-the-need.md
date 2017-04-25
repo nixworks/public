@@ -1,0 +1,23 @@
+### [2009-10-9](/news/2009/10/9/index.md)
+
+#  A suspected suicide car-bomber kills 49 people in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban. 
+
+A suspected suicide car-bomber killed 49 people on Friday in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59810420091009)
+
+### Related:
+
+1. [Pakistan lifts the moratorium on the death penalty for terror-related cases following  the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-following-the-taliban-s-assault-on-a-school-in-peshawar-on-tues.md) _Context: Pakistan, Peshawar, Taliban_
+2. [War in North-West Pakistan:Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/war-in-north-west-pakistan-ptaliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing-a.md) _Context: Pakistan, Peshawar, Taliban_
+3. [Pakistani Taliban gunmen opened fire on a Peshawar school bus that kills 15 people. ](/news/2011/09/13/pakistani-taliban-gunmen-opened-fire-on-a-peshawar-school-bus-that-kills-15-people.md) _Context: Pakistan, Peshawar, Taliban_
+4. [ Taliban militants destroy 12 NATO trucks in Peshawar, Pakistan. ](/news/2009/03/28/taliban-militants-destroy-12-nato-trucks-in-peshawar-pakistan.md) _Context: Pakistan, Peshawar, Taliban_
+5. [ Pakistan commences a military operation against Taliban militants in the Khyber Agency near Peshawar. ](/news/2008/06/28/pakistan-commences-a-military-operation-against-taliban-militants-in-the-khyber-agency-near-peshawar.md) _Context: Pakistan, Peshawar, Taliban_
+6. [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md) _Context: Pakistan, Peshawar_
+7. [ Unidentified gunmen shoot dead Khurram Zaki, a Pakistani rights activist known for speaking out against the Taliban. ](/news/2016/05/8/unidentified-gunmen-shoot-dead-khurram-zaki-a-pakistani-rights-activist-known-for-speaking-out-against-the-taliban.md) _Context: Pakistan, Taliban_
+8. [ The Taliban leadership council  reportedly meets to determine a successor to Mullah Akhtar Mansour,  killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american.md) _Context: Pakistan, Taliban_
+9. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _Context: Pakistan, Peshawar_
+10. [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners.  The  representative did not say if the delegation will discuss the peace process.  ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representa.md) _Context: Pakistan, Taliban_

@@ -1,0 +1,24 @@
+### [2011-12-23](/news/2011/12/23/index.md)
+
+# Prince Philip, the Duke of Edinburgh, is treated in hospital for a blocked coronary artery. 
+
+The Duke of Edinburgh receives treatment for a blocked coronary artery after suffering chest pains, Buckingham Palace says.
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2011/12/23/world/europe/uk-prince-philip/index.html?hpt=hp_t2)
+2. [BBC](http://www.bbc.co.uk/news/uk-16323794)
+
+### Related:
+
+1. [U.S. President Barack Obama, in an op-ed in London's ''Daily Telegraph'', urges Britons  to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-o.md) _Context: Prince Philip_
+2. [Queen Elizabeth II (U.K.) arrives in Malta for the Commonwealth summit what begins tomorrow. The then-future Queen and the Duke of Edinburgh lived on the island from 1949-51. The Commonwealth is a group of 53 nations; most member states were once part of the British Empire, and 16 retain the Queen as head of state. ](/news/2015/11/26/queen-elizabeth-ii-u-k-arrives-in-malta-for-the-commonwealth-summit-what-begins-tomorrow-the-then-future-queen-and-the-duke-of-edinburgh.md) _Context: Duke of Edinburgh_
+3. [Prince Philip, Duke of Edinburgh is admitted to a London hospital for an exploratory operation after experiencing abdominal pains. ](/news/2013/06/6/prince-philip-duke-of-edinburgh-is-admitted-to-a-london-hospital-for-an-exploratory-operation-after-experiencing-abdominal-pains.md) _Context: Prince Philip_
+4. [Prince Philip is admitted to a London hospital for an exploratory operation. ](/news/2013/06/5/prince-philip-is-admitted-to-a-london-hospital-for-an-exploratory-operation.md) _Context: Prince Philip_
+5. [Prince Philip, Duke of Edinburgh is taken to hospital as a "precautionary measure" after a recurrence of a bladder infection that affected him earlier in the year. ](/news/2012/08/15/prince-philip-duke-of-edinburgh-is-taken-to-hospital-as-a-precautionary-measure-after-a-recurrence-of-a-bladder-infection-that-affected-h.md) _Context: Prince Philip_
+6. [Diamond Jubilee of Elizabeth II:Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-pprince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _Context: Prince Philip_
+7. [U.S. President Barack Obama meets Queen Elizabeth II and Prince Philip, Duke of Edinburgh and senior royals at the start of a three-day state visit to the United Kingdom. ](/news/2011/05/24/u-s-president-barack-obama-meets-queen-elizabeth-ii-and-prince-philip-duke-of-edinburgh-and-senior-royals-at-the-start-of-a-three-day-stat.md) _Context: Prince Philip_
+8. [Nstor Kirchner, former President of Argentina and current Secretary-General of the Union of South American Nations (UNASUR), has surgery on a blocked coronary artery. ](/news/2010/09/12/nestor-kirchner-former-president-of-argentina-and-current-secretary-general-of-the-union-of-south-american-nations-unasur-has-surgery-on.md) _Context: coronary artery_
+9. [Prince Philip, Duke of Edinburgh injures his ankle in a carriage driving accident on the Queen's Windsor estate. ](/news/2010/04/24/prince-philip-duke-of-edinburgh-injures-his-ankle-in-a-carriage-driving-accident-on-the-queen-s-windsor-estate.md) _Context: Prince Philip_
+10. [The Duke of Edinburgh, on a trip to Exeter, Devon with Elizabeth II of the United Kingdom, asks a female sea cadet if she works at a strip club before concluding that it is "probably too cold for that anyway". ](/news/2010/03/11/the-duke-of-edinburgh-on-a-trip-to-exeter-devon-with-elizabeth-ii-of-the-united-kingdom-asks-a-female-sea-cadet-if-she-works-at-a-strip-c.md) _Context: Duke of Edinburgh_

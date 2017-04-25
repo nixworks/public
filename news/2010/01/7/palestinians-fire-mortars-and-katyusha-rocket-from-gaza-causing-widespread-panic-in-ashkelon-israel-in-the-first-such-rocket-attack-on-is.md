@@ -1,0 +1,23 @@
+### [2010-01-7](/news/2010/01/7/index.md)
+
+# Palestinians fire mortars and Katyusha rocket from Gaza, causing widespread panic in Ashkelon, Israel, in the first such rocket attack on Israel in a year. 
+
+
+
+
+### Source:
+
+1. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1262339418665&pagename=JPost%2FJPArticle%2FShowFull)
+
+### Related:
+
+1. [A rocket fired from the Gaza Strip towards the Ashkelon region fell short and did not land in Israel with Palestinian sources indicating it may have hit a house. There were no immediate reports of injuries, or claims of responsibility. Journalists speculate that ISIL-affiliated groups are responsible. ](/news/2015/06/11/a-rocket-fired-from-the-gaza-strip-towards-the-ashkelon-region-fell-short-and-did-not-land-in-israel-with-palestinian-sources-indicating-it.md) _Context: Ashkelon, Gaza Strip, Palestinian rocket attacks on Israel_
+2. [Gaza-Israel conflict:Five people are injured on the Gaza Strip in an Israel Air Force raid following Palestinian militants firing a rocket towards Ashkelon. ](/news/2014/01/16/gazaaisrael-conflict-pfive-people-are-injured-on-the-gaza-strip-in-an-israel-air-force-raid-following-palestinian-militants-firing-a-rocke.md) _Context: Ashkelon, Gaza Strip, Palestinian rocket attacks on Israel_
+3. [The Israeli air force launches early morning airstrikes on smuggling tunnels along Gaza-Egypt border as well as a Hamas training camp in Gaza following Palestinian militants' rocket attacks against Beersheba and Ashkelon, Israel. ](/news/2011/03/24/the-israeli-air-force-launches-early-morning-airstrikes-on-smuggling-tunnels-along-gaza-egypt-border-as-well-as-a-hamas-training-camp-in-gaz.md) _Context: Ashkelon, Gaza Strip, Palestinian rocket attacks on Israel_
+4. [Palestinians fire three rockets from Gaza, landing in Israel's Ashkelon region, shortly after IDF soldiers kill a 65 year old farmer for unknown reasons, and bomb two sites in the Gaza Strip. ](/news/2011/01/10/palestinians-fire-three-rockets-from-gaza-landing-in-israel-s-ashkelon-region-shortly-after-idf-soldiers-kill-a-65-year-old-farmer-for-unk.md) _Context: Ashkelon, Gaza Strip, Palestinian rocket attacks on Israel_
+5. [The Palestinian militant group "Army of Islam" fires rockets from Gaza into southern Israel in response to the killing of three of its members by Israel last month, with one rocket landing close to a kindergarten near Ashkelon, injuring a 14-year-old girl; Israeli jets respond with air strikes in the Gaza Strip, injuring at least two Palestinian militants, Palestinian sources say. ](/news/2010/12/21/the-palestinian-militant-group-army-of-islam-fires-rockets-from-gaza-into-southern-israel-in-response-to-the-killing-of-three-of-its-membe.md) _Context: Ashkelon, Gaza Strip, Palestinian rocket attacks on Israel_
+6. [The Gaza Strip's sole power plant is shut down due to running out of fuel, amid unpaid bills and a dispute over tax bills on fuel imports to the blockaded Palestinian territory. ](/news/2017/04/16/the-gaza-strip-s-sole-power-plant-is-shut-down-due-to-running-out-of-fuel-amid-unpaid-bills-and-a-dispute-over-tax-bills-on-fuel-imports-to.md) _Context: Gaza Strip, Palestinian_
+7. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _Context: Gaza Strip, Palestinian_
+8. [For the second time this week, a rocket fired from Gaza lands in Israel.  There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-reports-of-injuries-or-claims-of-responsi.md) _Context: Gaza Strip, Palestinian rocket attacks on Israel_
+9. [Several rockets were fired from Gaza at Israel and exploded near the cities of Ashdod, Netivot and Ashkelon causing no casualties. The IDF retaliated with airstrikes against empty Hamas training camps in Gaza. ](/news/2015/06/4/several-rockets-were-fired-from-gaza-at-israel-and-exploded-near-the-cities-of-ashdod-netivot-and-ashkelon-causing-no-casualties-the-idf-r.md) _Context: Ashkelon, Gaza Strip_
+10. [Israeli-Palestinian conflict:Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeliapalestinian-conflict-pisraeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violence.md) _Context: Gaza Strip, Palestinian_

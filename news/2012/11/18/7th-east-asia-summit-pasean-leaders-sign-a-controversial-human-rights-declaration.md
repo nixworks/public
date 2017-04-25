@@ -1,0 +1,25 @@
+### [2012-11-18](/news/2012/11/18/index.md)
+
+# 7th East Asia Summit:ASEAN leaders sign a controversial human rights declaration. 
+
+
+
+
+### Source:
+
+1. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20121119/news_20121119_56_883756.htm)
+2. [Global Post](http://www.globalpost.com/dispatch/news/regions/asia-pacific/121118/asean-leaders-sign-human-rights-declaration)
+3. [Financial Express Bangladesh](http://www.thefinancialexpress-bd.com/index.php?ref=MjBfMTFfMTlfMTJfMV8xN18xNTAzODM=)
+
+### Related:
+
+1. [ASEAN formally invites Russia and the United States to attend the East Asia Summit and urges Myanmar to hold free and fair elections in a foreign ministers meeting in Hanoi, Vietnam. ](/news/2010/07/20/asean-formally-invites-russia-and-the-united-states-to-attend-the-east-asia-summit-and-urges-myanmar-to-hold-free-and-fair-elections-in-a-fo.md) _Context: ASEAN, East Asia Summit_
+2. [Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vice-president.md) _Context: Human rights_
+3. [Anders Behring Breivik, a convicted mass murderer in the 2011 Norway attacks, wins a human rights case against the government of Norway. ](/news/2016/04/20/anders-behring-breivik-a-convicted-mass-murderer-in-the-2011-norway-attacks-wins-a-human-rights-case-against-the-government-of-norway.md) _Context: Human rights_
+4. [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md) _Context: ASEAN_
+5. [The European Union warns Thailand that the country needs to quickly address the human rights and slavery issues in its seafood industry if it wants to avoid an EU import ban. ](/news/2015/12/18/the-european-union-warns-thailand-that-the-country-needs-to-quickly-address-the-human-rights-and-slavery-issues-in-its-seafood-industry-if-i.md) _Context: Human rights_
+6. [Chinese human rights lawyer Pu Zhiqiang goes on trial in Beijing for online social commentary critical of the ruling Communist Party. ](/news/2015/12/14/chinese-human-rights-lawyer-pu-zhiqiang-goes-on-trial-in-beijing-for-online-social-commentary-critical-of-the-ruling-communist-party.md) _Context: Human rights_
+7. [The United States and Russia exchanged charges concerning U.N. Assistant Secretary-General for Human Rights Ivan Simonovic's presentation at the U.N. Security Council meeting on Ukraine.  While violence between Ukrainian troops and pro-Russian rebels has lessened since September's agreement, Simonovic warned  of the massive civilian toll if major hostilities re-erupt. OCHA's John Ging said locals face unacceptable physical hardships and indignities, and that the suspension of humanitarian programs and expulsion of humanitarian workers in non-government controlled areas must end. ](/news/2015/12/11/the-united-states-and-russia-exchanged-charges-concerning-u-n-assistant-secretary-general-for-human-rights-ivan-a-imonovia-s-presentation.md) _Context: Human rights_
+8. [The United Nations General Assembly humanitarian committee adopts, by a 112&ndash;19 vote (with 50 abstentions), a resolution that condemns North Korea for gross violations of human rights and supports referring the country and its leaders to the International Criminal Court in The Hague. The resolution will be sent to the full General Assembly, where it is expected to pass, given the committee vote. ](/news/2015/11/19/the-united-nations-general-assembly-humanitarian-committee-adopts-by-a-112-ndash-19-vote-with-50-abstentions-a-resolution-that-condemns.md) _Context: Human rights_
+9. [The European Union narrowly votes (285-281) to recommend that its 28 member nations drop criminal charges against Edward Snowden and protect him from U.S. extradition and to recognize him as a defender of human rights because of his revelations regarding U.S. and British spying. ](/news/2015/10/29/the-european-union-narrowly-votes-285a281-to-recommend-that-its-28-member-nations-drop-criminal-charges-against-edward-snowden-and-prote.md) _Context: Human rights_
+10. [China hosts the ministers of defense from the Association of Southeast Asian Nations (ASEAN).  During the meeting a Chinese defense official suggests joint maritime drills between the host and ASEAN.  At the same time, it is widely expected that U.S. Navy vessels may soon sail within 12 nautical miles of islands China is constructing upon reefs and atolls in the South China Sea. ](/news/2015/10/16/china-hosts-the-ministers-of-defense-from-the-association-of-southeast-asian-nations-asean-during-the-meeting-a-chinese-defense-official.md) _Context: ASEAN_

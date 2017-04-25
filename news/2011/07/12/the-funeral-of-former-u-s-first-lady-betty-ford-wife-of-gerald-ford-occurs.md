@@ -1,0 +1,23 @@
+### [2011-07-12](/news/2011/07/12/index.md)
+
+# The funeral of former U.S. First Lady Betty Ford, wife of Gerald Ford, occurs. 
+
+Former occupants of the White House and other US dignitaries gather at a California church to honour late US First Lady Betty Ford.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-14132170)
+
+### Related:
+
+1. [Former First Lady Betty Ford, wife of former U.S. President Gerald R. Ford, dies at 93. ](/news/2011/07/8/former-first-lady-betty-ford-wife-of-former-u-s-president-gerald-r-ford-dies-at-93.md) _Context: Betty Ford, First Lady_
+2. [The US Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-us-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-celebrities-i.md) _Context: First Lady_
+3. [First Lady of the United States Michelle Obama begins a six-day visit to southern Africa with her daughters; they are granted an audience with Nelson Mandela. ](/news/2011/06/21/first-lady-of-the-united-states-michelle-obama-begins-a-six-day-visit-to-southern-africa-with-her-daughters-they-are-granted-an-audience-wi.md) _Context: First Lady_
+4. [The First Lady of the United States, Michelle Obama, makes an unannounced visit to Haiti. It is her first official trip overseas without US President Barack Obama since he took office last year. ](/news/2010/04/13/the-first-lady-of-the-united-states-michelle-obama-makes-an-unannounced-visit-to-haiti-it-is-her-first-official-trip-overseas-without-us.md) _Context: First Lady_
+5. [ Former United States President Gerald Ford is buried in his hometown of Grand Rapids, Michigan. ](/news/2007/01/3/former-united-states-president-gerald-ford-is-buried-in-his-hometown-of-grand-rapids-michigan.md) _Context: Gerald Ford_
+6. [ Former US President Gerald Ford's state funeral takes place at the National Cathedral in Washington, D.C. His casket is later moved to his hometown Grand Rapids, Michigan for burial on Wednesday January 3, 2007. ](/news/2007/01/2/former-us-president-gerald-ford-s-state-funeral-takes-place-at-the-national-cathedral-in-washington-d-c-his-casket-is-later-moved-to-his.md) _Context: Gerald Ford_
+7. [ Former U.S. President Gerald Ford's  funeral is held at the United States Capitol. ](/news/2006/12/30/former-u-s-president-gerald-ford-s-funeral-is-held-at-the-united-states-capitol.md) _Context: Gerald Ford_
+8. [ Gerald Ford, former President of the United States, dies at 93. ](/news/2006/12/26/gerald-ford-former-president-of-the-united-states-dies-at-93.md) _Context: Gerald Ford_
+9. [ Former U.S. President Gerald Ford is admitted to the Mayo Clinic in Minnesota. ](/news/2006/08/15/former-u-s-president-gerald-ford-is-admitted-to-the-mayo-clinic-in-minnesota.md) _Context: Gerald Ford_
+10. [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md) _Context: Gerald Ford_

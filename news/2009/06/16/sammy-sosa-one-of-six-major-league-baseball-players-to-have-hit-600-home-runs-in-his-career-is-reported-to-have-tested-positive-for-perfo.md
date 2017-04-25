@@ -1,0 +1,23 @@
+### [2009-06-16](/news/2009/06/16/index.md)
+
+#  Sammy Sosa, one of six Major League Baseball players to have hit 600 home runs in his career, is reported to have tested positive for performance-enhancing drugs during the 2003 season. 
+
+Sammy Sosa, who joined Mark McGwire in 1998 in pursuit of the single-season home run record, is said to be among players who tested positive for a performance-enhancing drug.
+
+
+### Source:
+
+1. [The New York Times](http://www.nytimes.com/2009/06/17/sports/baseball/17doping.html?hp)
+
+### Related:
+
+1. [ Major League Baseball player Alex Rodriguez allegedly tested positive for two anabolic steroids in 2003.  ](/news/2009/02/7/major-league-baseball-player-alex-rodriguez-allegedly-tested-positive-for-two-anabolic-steroids-in-2003.md) _Context: 2003 season, Major League Baseball, performance-enhancing drugs_
+2. [David Ortiz of the Boston Red Sox hits two home runs in the Sox' 10-4 win over the Tampa Bay Rays at Tropicana Field in St. Petersburg, Florida, making him the 27th player in MLB history with 500 career homers. ](/news/2015/09/12/david-ortiz-of-the-boston-red-sox-hits-two-home-runs-in-the-sox-10a4-win-over-the-tampa-bay-rays-at-tropicana-field-in-st-petersburg-fl.md) _Context: 500 career homers, Major League Baseball_
+3. [Albert Pujols of the Los Angeles Angels becomes the 26th player in Major League Baseball history to hit 500 career home runs. ](/news/2014/04/22/albert-pujols-of-the-los-angeles-angels-becomes-the-26th-player-in-major-league-baseball-history-to-hit-500-career-home-runs.md) _Context: 500 career homers, Major League Baseball_
+4. [A U.S. federal grand jury in Washington indicts former Major League Baseball superstar pitcher Roger Clemens on charges of making false statements to Congress about his alleged use of performance-enhancing drugs. ](/news/2010/08/19/a-u-s-federal-grand-jury-in-washington-indicts-former-major-league-baseball-superstar-pitcher-roger-clemens-on-charges-of-making-false-stat.md) _Context: Major League Baseball, performance-enhancing drugs_
+5. [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md) _Context: Major League Baseball, performance-enhancing drugs_
+6. [ Former United States Senator George Mitchell releases a report detailing the use of banned substances by current and former Major League Baseball players. ](/news/2007/12/13/former-united-states-senator-george-mitchell-releases-a-report-detailing-the-use-of-banned-substances-by-current-and-former-major-league-ba.md) _Context: Major League Baseball, performance-enhancing drugs_
+7. [ In American Major League Baseball, the Chicago Cubs defeat the Cleveland Indians 8-7 in 10 innings, winning the Series 4-3 and claiming their first MLB title since 1908. The Cubs' Ben Zobrist is named series MVP. Cubs win game 7 and the title in the early hours of November 3rd, 2016. ](/news/2016/11/2/in-american-major-league-baseball-the-chicago-cubs-defeat-the-cleveland-indians-8a7-in-10-innings-winning-the-series-4a3-and-claiming.md) _Context: Major League Baseball_
+8. [ In baseball, the Miami Marlins' Ichiro Suzuki becomes the 30th Major League Baseball player with 3,000 career hits, reaching the milestone with a seventh-inning triple against the Colorado Rockies. ](/news/2016/08/7/in-baseball-the-miami-marlins-ichiro-suzuki-becomes-the-30th-major-league-baseball-player-with-3-000-career-hits-reaching-the-milestone.md) _Context: Major League Baseball_
+9. [In baseball, Ichiro Suzuki reaches a combined total of career hits of 4,257 spanning Major League Baseball and Nippon Professional Baseball. It passes Pete Rose's career total encompassing Major League Baseball only of 4,256 but the MLB is considered to be a higher quality competition. ](/news/2016/06/15/in-baseball-ichiro-suzuki-reaches-a-combined-total-of-career-hits-of-4-257-spanning-major-league-baseball-and-nippon-professional-baseball.md) _Context: Major League Baseball_
+10. [Major League Baseball Commissioner Rob Manfred says the decision whether the Miami Marlins and Pittsburgh Pirates two-game series scheduled for later this month will be moved from Puerto Rico  because of concerns about the Zika virus, will be announced Monday "at the latest." ](/news/2016/05/5/major-league-baseball-commissioner-rob-manfred-says-the-decision-whether-the-miami-marlins-and-pittsburgh-pirates-two-game-series-scheduled.md) _Context: Major League Baseball_

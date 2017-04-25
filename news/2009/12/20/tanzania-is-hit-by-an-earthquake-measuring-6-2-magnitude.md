@@ -1,0 +1,24 @@
+### [2009-12-20](/news/2009/12/20/index.md)
+
+#  Tanzania is hit by an earthquake measuring 6.2 magnitude. 
+
+
+
+
+### Source:
+
+1. [Xinhua](http://news.xinhuanet.com/english/2009-12/20/content_12679006.htm)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=114210&sectionid=3510212)
+
+### Related:
+
+1. [Four earthquakes of magnitude 5.1 or higher strike near Amatrice, Italy, forcing evacuation of some schools and the Rome Metro. No deaths are reported from the quakes.  ](/news/2017/01/18/four-earthquakes-of-magnitude-5-1-or-higher-strike-near-amatrice-italy-forcing-evacuation-of-some-schools-and-the-rome-metro-no-deaths-ar.md) _Context: earthquake_
+2. [University of Washington researchers report, in the peer-reviewed ''Journal of the American Medical Association Oncology'', the discovery of an odontoma -- a ''benign tumor'' -- in the fossil of a   255-million-year old  Tanzanian mammal-like saber-toothed gorgonopsia. This is one of the oldest-known tumors ever found.  ](/news/2016/12/9/university-of-washington-researchers-report-in-the-peer-reviewed-journal-of-the-american-medical-association-oncology-the-discovery-of.md) _Context: Tanzania_
+3. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: earthquake_
+4. [A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. ](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.md) _Context: earthquake_
+5. [A 6.6 magnitude earthquake occurs in Central Italy 68 kilometres east southeast of Perugia. Many buildings are reported as having been destroyed. ](/news/2016/10/30/a-6-6-magnitude-earthquake-occurs-in-central-italy-68-kilometres-east-southeast-of-perugia-many-buildings-are-reported-as-having-been-destr.md) _Context: earthquake_
+6. [A 6.0 magnitude earthquake strikes Agusan del Sur province in Mindanao island. ](/news/2016/09/4/a-6-0-magnitude-earthquake-strikes-agusan-del-sur-province-in-mindanao-island.md) _Context: earthquake_
+7. [A 5.8-magnitude earthquake occurs in South Korea, 9km south of Gyeongju, injuring at least two people and causing nationwide panic. It is the strongest earthquake ever recorded in South Korea. ](/news/2016/09/12/a-5-8-magnitude-earthquake-occurs-in-south-korea-9km-south-of-gyeongju-injuring-at-least-two-people-and-causing-nationwide-panic-it-is-th.md) _Context: earthquake_
+8. [A magnitude 5.7 earthquake occurs in northern Tanzania, near Lake Victoria, killing at least 13 people and injuring 200 others. Tanzanian authorities report significant damage in the town of Bukoba. The governments of Burundi, Kenya, Rwanda, and Uganda report tremors. ](/news/2016/09/10/a-magnitude-5-7-earthquake-occurs-in-northern-tanzania-near-lake-victoria-killing-at-least-13-people-and-injuring-200-others-tanzanian-au.md) _Context: Tanzania_
+9. [This week, the Gambia and Tanzania outlawed child marriages. Friday, the Tanzanian High Court -- in a case filed by the  ''Msichana Initiative'', a lobbying group that advocates for girls' right to education -- ruled in favor of protecting girls from the harms of early marriage. And during  a feast ending the Muslim holy month of Ramadan on Wednesday, The Gambian President Yahya Jammeh announced that child and forced marriages are banned. Jammeh called on the National Assembly to quickly take up the issue. ](/news/2016/07/9/this-week-the-gambia-and-tanzania-outlawed-child-marriages-friday-the-tanzanian-high-court-a-in-a-case-filed-by-the-msichana-initiat.md) _Context: Tanzania_
+10. [The United States Geological Survey (USGS) reports a 7.7 magnitude earthquake has struck off the Northern Mariana Islands in the Pacific Ocean. The Pacific Tsunami Warning Center says there is no tsunami threat because the quake was very deep in the earth. ](/news/2016/07/29/the-united-states-geological-survey-usgs-reports-a-7-7-magnitude-earthquake-has-struck-off-the-northern-mariana-islands-in-the-pacific-oce.md) _Context: earthquake_

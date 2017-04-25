@@ -1,0 +1,23 @@
+### [2010-11-13](/news/2010/11/13/index.md)
+
+# The United Nations Security Council receives a report on violations of the Darfur weapons embargo; China says it is vaguely worded and full of flaws. 
+
+The UN Security Council receives a controversial report on violations of the Darfur weapons embargo, critical of China and Sudan.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11748989)
+
+### Related:
+
+1. [United Nations Security Council:The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-pthe-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md) _Context: Darfur, United Nations Security Council_
+2. [ The United Nations Security Council authorises up to 26,000 troops and soldiers being sent to the Darfur region of Sudan (United Nations African Union Mission in Darfur or UNAMID). ](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.md) _Context: Darfur, United Nations Security Council_
+3. [ Darfur conflict: The United Nations Security Council votes unanimously to initiate the process which would lead to a UN peacekeeping force relieving the beleaguered African Union peacekeepers in the war-torn Darfur region of Sudan. The Government of Sudan opposes the move. ](/news/2006/05/16/darfur-conflict-the-united-nations-security-council-votes-unanimously-to-initiate-the-process-which-would-lead-to-a-un-peacekeeping-force.md) _Context: Darfur, United Nations Security Council_
+4. [ The United Nations Security Council votes to refer those suspected of war crimes in Darfur to the International Criminal Court. ](/news/2005/04/1/the-united-nations-security-council-votes-to-refer-those-suspected-of-war-crimes-in-darfur-to-the-international-criminal-court.md) _Context: Darfur, United Nations Security Council_
+5. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: United Nations Security Council_
+6. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: United Nations Security Council_
+7. [ United Nations Security Council Resolution 2334 The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/united-nations-security-council-resolution-2334-pthe-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in.md) _Context: United Nations Security Council_
+8. [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md) _Context: United Nations Security Council_
+9. [The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. ](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.md) _Context: United Nations Security Council_
+10. [France seeks United States and Russian support for a Security Council resolution to impose a new truce that will allow aid into Aleppo, which has experienced two weeks of heavy Syrian and Russian bombing of rebel-held areas. ](/news/2016/10/5/france-seeks-united-states-and-russian-support-for-a-security-council-resolution-to-impose-a-new-truce-that-will-allow-aid-into-aleppo-whic.md) _Context: United Nations Security Council_

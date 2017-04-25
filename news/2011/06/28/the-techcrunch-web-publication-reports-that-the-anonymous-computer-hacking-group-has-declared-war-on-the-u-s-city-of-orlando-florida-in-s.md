@@ -1,0 +1,23 @@
+### [2011-06-28](/news/2011/06/28/index.md)
+
+# The TechCrunch web publication reports that the Anonymous computer hacking group has declared war on the U.S. city of Orlando, Florida, in supposed retaliation for the arrest of members of Food Not Bombs. 
+
+The hacktivist group Anonymous may be setting its sights on the city of Orlando, Florida next, if an anonymous press release which has landed in our inbox is..
+
+
+### Source:
+
+1. [Tech Crunch](http://techcrunch.com/2011/06/27/anonymous-declares-war-orlando/)
+
+### Related:
+
+1. [James Seevakumaran, a 30-year-old student at the University of Central Florida, pulls the fire alarm and plans to attack the school. Instead, after brandishing a gun at another student, he commits suicide in his dorm in Orlando, Florida, United States. The entire campus is evacuated when improvised explosive devices are found in the room. ](/news/2013/03/18/james-seevakumaran-a-30-year-old-student-at-the-university-of-central-florida-pulls-the-fire-alarm-and-plans-to-attack-the-school-instead.md) _Context: Florida, Orlando, Florida_
+2. [The Federal Bureau of Investigation arrests suspected members of the computer hacking groups LulzSec and Anonymous in the US cities of Phoenix, Arizona and San Francisco, California. ](/news/2011/09/22/the-federal-bureau-of-investigation-arrests-suspected-members-of-the-computer-hacking-groups-lulzsec-and-anonymous-in-the-us-cities-of-phoen.md) _Context: hacker group Anonymous, hackers_
+3. [Sixteen alleged members of the computer hacking group Anonymous are arrested in FBI raids across several states in the US. ](/news/2011/07/19/sixteen-alleged-members-of-the-computer-hacking-group-anonymous-are-arrested-in-fbi-raids-across-several-states-in-the-us.md) _Context: hacker group Anonymous, hackers_
+4. [Web sites associated with the Government of Malaysia are hacked according to a deadline set by the Anonymous group. ](/news/2011/06/16/web-sites-associated-with-the-government-of-malaysia-are-hacked-according-to-a-deadline-set-by-the-anonymous-group.md) _Context: hacker group Anonymous, hackers_
+5. [ One person dies after a monorail collision at Walt Disney World Resort in Orlando, Florida. ](/news/2009/07/5/one-person-dies-after-a-monorail-collision-at-walt-disney-world-resort-in-orlando-florida.md) _Context: Florida, Orlando, Florida_
+6. [A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. ](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-arrested-at-school-and-spends-the-night-in-a-juvenile-facility-unknown-to-the-family-the-b.md) _Context: Florida_
+7. [A Sabal Trail Transmission Pipeline protester who was seen firing a high powered rifle at the pipeline construction site in Florida was chased by police until his car crashed. The suspect was shot and killed by a deputy after he tried to engage police in a gunfight ](/news/2017/02/26/a-sabal-trail-transmission-pipeline-protester-who-was-seen-firing-a-high-powered-rifle-at-the-pipeline-construction-site-in-florida-was-chas.md) _Context: Florida_
+8. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: Florida_
+9. [An arriving passenger from Alaska removes his checked-baggage pistol and kills five people and injures six at the Fort Lauderdale-Hollywood International Airport in Florida. ](/news/2017/01/6/an-arriving-passenger-from-alaska-removes-his-checked-baggage-pistol-and-kills-five-people-and-injures-six-at-the-fort-lauderdaleahollywoo.md) _Context: Florida_
+10. [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md) _Context: Florida_

@@ -1,0 +1,19 @@
+### [2001-01-26](/news/2001/01/26/index.md)
+
+#  An earthquake hits Gujarat, India, killing more than 69,000 people.
+
+
+
+
+### Related:
+
+1. [The Indian state of Gujarat passes a law which makes the slaughter of a cow punishable by life imprisonment. ](/news/2017/03/31/the-indian-state-of-gujarat-passes-a-law-which-makes-the-slaughter-of-a-cow-punishable-by-life-imprisonment.md) _Context: Gujarat, India_
+2. [At least 37 people die in the Indian state of Gujarat after a passenger bus plunges off a bridge over the Purna River. ](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gujarat-after-a-passenger-bus-plunges-off-a-bridge-over-the-purna-river.md) _Context: Gujarat, India_
+3. [ A powerful,  magnitude 7.2 earthquake has shaken Tajikistan. It was felt as far away as India, Pakistan, and  Afghanistan. No damage or  casualties have been reported as the epicenter lies within the vast Badakhshan national park. The US Geological Survey describes the area as one of the "most seismically hazardous regions on Earth" because of tectonic activity along shifting fault lines.  ](/news/2015/12/7/a-powerful-magnitude-7-2-earthquake-has-shaken-tajikistan-it-was-felt-as-far-away-as-india-pakistan-and-afghanistan-no-damage-or-ca.md) _Context: India, earthquake_
+4. [An earthquake  measuring 7.5 on the Moment magnitude scale (MMS) strikes in the Hindu Kush mountain range in northeastern Afghanistan,  158 miles from Kabul, in the remote province of Badakhshan, one of Afghanistan's most inaccessible regions. Tremors reached as far as New Delhi, India. At least 263 are dead in Afghanistan and nearby northern Pakistan with more than 1,000 injured. The death toll will likely climb since communications in much of the affected areas are cut, and rescue teams had not yet reached districts closest to the epicenter, including some that are controlled by Taliban insurgents. ](/news/2015/10/26/an-earthquake-measuring-7-5-on-the-moment-magnitude-scale-mms-strikes-in-the-hindu-kush-mountain-range-in-northeastern-afghanistan-158.md) _Context: India, earthquake_
+5. [Protests by the Patidar community in Ahmedabad turn violent, sparking violence across the state of Gujarat, India. ](/news/2015/08/25/protests-by-the-patidar-community-in-ahmedabad-turn-violent-sparking-violence-across-the-state-of-gujarat-india.md) _Context: Gujarat, India_
+6. [Twelve people die of swine flu in the Indian state of Gujarat taking the death toll to 136 since January with 130 new cases reported. ](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-state-of-gujarat-taking-the-death-toll-to-136-since-january-with-130-new-cases-reported.md) _Context: Gujarat, India_
+7. [Heavy rains in Rajkot, Gujarat, India, lead to damage valued at over 100 million rupees. ](/news/2013/09/29/heavy-rains-in-rajkot-gujarat-india-lead-to-damage-valued-at-over-100-million-rupees.md) _Context: Gujarat, India_
+8. [The Indian state of Gujarat seeks the death penalty for ten people involved in the Naroda Patiya massacre in 2002 including former minister Maya Kodnani who had been earlier sentenced to prison sentences. ](/news/2013/04/17/the-indian-state-of-gujarat-seeks-the-death-penalty-for-ten-people-involved-in-the-naroda-patiya-massacre-in-2002-including-former-minister.md) _Context: Gujarat, India_
+9. [Voters in the Indian state of Gujarat go to the polls for a state election. ](/news/2012/12/17/voters-in-the-indian-state-of-gujarat-go-to-the-polls-for-a-state-election.md) _Context: Gujarat, India_
+10. [A special Gujarat state court charges 32 people with murder, including Maya Kodnani, later a minister in the Narendra Modi government, for their parts in the riots that led to the killing of 95 people in the Patia neighborhood of Naroda, India. ](/news/2012/08/29/a-special-gujarat-state-court-charges-32-people-with-murder-including-maya-kodnani-later-a-minister-in-the-narendra-modi-government-for-t.md) _Context: Gujarat, India_

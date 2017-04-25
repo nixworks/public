@@ -1,0 +1,23 @@
+### [2007-03-21](/news/2007/03/21/index.md)
+
+#  United States Secretary of State Condoleezza Rice announces that the Bush administration will cut its security package to the government of the Palestinian National Authority by nearly half in order to ensure that Hamas does not receive funding. 
+
+
+
+
+### Source:
+
+1. [AP via IHT](http://www.iht.com/articles/ap/2007/03/21/america/NA-GEN-US-Mideast.php)
+
+### Related:
+
+1. [ Israel releases 199 Palestinian prisoners as a goodwill gesture to the President of the Palestinian National Authority Mahmoud Abbas as the United States Secretary of State Condoleezza Rice visits the area. ](/news/2008/08/25/israel-releases-199-palestinian-prisoners-as-a-goodwill-gesture-to-the-president-of-the-palestinian-national-authority-mahmoud-abbas-as-the.md) _Context: Condoleezza Rice, Palestinian National Authority, United States Secretary of State_
+2. [ The United States Secretary of State Condoleezza Rice says that former President of the United States Jimmy Carter was advised not to hold talks with Hamas. ](/news/2008/04/22/the-united-states-secretary-of-state-condoleezza-rice-says-that-former-president-of-the-united-states-jimmy-carter-was-advised-not-to-hold.md) _Context: Condoleezza Rice, Hamas, United States Secretary of State_
+3. [ United States Secretary of State Condoleezza Rice says the White House wants to broker a permanent deal between Israel and the Palestinian Authority before President George W. Bush leaves office. ](/news/2007/11/21/united-states-secretary-of-state-condoleezza-rice-says-the-white-house-wants-to-broker-a-permanent-deal-between-israel-and-the-palestinian.md) _Context: Condoleezza Rice, George W. Bush, United States Secretary of State_
+4. [ Condoleezza Rice, the United States Secretary of State, travels to the Middle East to talk with Israel and the Palestinian National Authority about the peace process. ](/news/2007/03/23/condoleezza-rice-the-united-states-secretary-of-state-travels-to-the-middle-east-to-talk-with-israel-and-the-palestinian-national-authori.md) _Context: Condoleezza Rice, Palestinian National Authority, United States Secretary of State_
+5. [Four additional Palestinians charged with collaborating with Israel are publicly executed outside of the Jabalia refugee camp by Hamas; the killings are denounced by the secretary-general of the PA, Tayeb Abdel Rahim, who compared them to ISIS. ](/news/2014/08/23/four-additional-palestinians-charged-with-collaborating-with-israel-are-publicly-executed-outside-of-the-jabalia-refugee-camp-by-hamas-the.md) _Context: Hamas, Palestinian National Authority_
+6. [2014 Israel-Gaza conflict:A cease fire deal proposed by U.S. Secretary of State John Kerry is rejected by Israel and not commented on by Hamas. Israel agrees to a uni-lateral 12 hour humanitarian ceasefire as negotiations continue. ](/news/2014/07/25/2014-israelagaza-conflict-pa-cease-fire-deal-proposed-by-u-s-secretary-of-state-john-kerry-is-rejected-by-israel-and-not-commented-on-by.md) _Context: Hamas, United States Secretary of State_
+7. [Israel withholds 300 million NIS ($89 million) in tax and customs revenue collected on behalf of the Palestinians to the Palestinian Authority after Fatah and Hamas agree a unity deal intended to lead to a transitional government and fresh elections. Israeli Prime Minister Benjamin Netanyahu expresses his disregard for the agreement. ](/news/2011/05/1/israel-withholds-300-million-nis-89-million-in-tax-and-customs-revenue-collected-on-behalf-of-the-palestinians-to-the-palestinian-authori.md) _Context: Hamas, Palestinian National Authority_
+8. [Palestinian National Authority President Mahmoud Abbas says that general elections in September would be canceled if Hamas refused to allow voting in the Gaza Strip. ](/news/2011/02/17/palestinian-national-authority-president-mahmoud-abbas-says-that-general-elections-in-september-would-be-canceled-if-hamas-refused-to-allow.md) _Context: Hamas, Palestinian National Authority_
+9. [ Six people are killed during battle between Hamas militants and the Palestinian National Authority's Preventive Security Service in the West Bank. ](/news/2009/05/31/six-people-are-killed-during-battle-between-hamas-militants-and-the-palestinian-national-authority-s-preventive-security-service-in-the-wes.md) _Context: Hamas, Palestinian National Authority_
+10. [ U.S. Secretary of State Hillary Clinton and Palestinian National Authority President Mahmoud Abbas meet in the West Bank. ](/news/2009/03/4/u-s-secretary-of-state-hillary-clinton-and-palestinian-national-authority-president-mahmoud-abbas-meet-in-the-west-bank.md) _Context: Palestinian National Authority, United States Secretary of State_

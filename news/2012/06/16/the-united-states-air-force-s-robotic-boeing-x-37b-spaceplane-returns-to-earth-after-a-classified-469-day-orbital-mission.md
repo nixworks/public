@@ -1,0 +1,23 @@
+### [2012-06-16](/news/2012/06/16/index.md)
+
+# The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission. 
+
+The U.S. Air Force&#039;s secretive X-37B space plane landed after completing its hush-hush second mission, which officials have deemed a &quot;spectacular success.&quot;
+
+
+### Source:
+
+1. [Space.com](http://www.space.com/16110-secret-x37b-space-plane-landing.html)
+
+### Related:
+
+1. [The Boeing X-37B, a United States Air Force unmanned spaceplane, lands autonomously at Vandenberg Air Force Base, California, at 1:16am PST (0916 UTC) after 7 1/2 months in space. ](/news/2010/12/3/the-boeing-x-37b-a-united-states-air-force-unmanned-spaceplane-lands-autonomously-at-vandenberg-air-force-base-california-at-1-16am-pst.md) _Context: Boeing X-37B, United States Air Force, spaceplane_
+2. [A USAF F-16 crashes shortly after takeoff from Joint Base Andrews in Prince George's County, Maryland. The pilot inside ejected safely and was taken to a local hospital with non-life threatening injuries. ](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.md) _Context: United States Air Force_
+3. [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield.  ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md) _Context: United States Air Force_
+4. [The Obama administration chooses retired United States Air Force Brigadier General Gregory Touhill the first federal CISO chief, who reports to the CIO of the U.S. Tony Scott. ](/news/2016/09/8/the-obama-administration-chooses-retired-united-states-air-force-brigadier-general-gregory-touhill-the-first-federal-ciso-chief-who-reports.md) _Context: United States Air Force_
+5. [A United States Air Force U-2 reconnaissance aircraft crashes in Northern California, shortly after takeoff from Beale Air Force Base, killing one pilot and injuring another. ](/news/2016/09/20/a-united-states-air-force-u-2-reconnaissance-aircraft-crashes-in-northern-california-shortly-after-takeoff-from-beale-air-force-base-killi.md) _Context: United States Air Force_
+6. [A United States Air Force B-52 Stratofortress crashes at Andersen Air Force Base on Guam. All seven aircrew members escaped. No injuries have been reported. ](/news/2016/05/18/a-united-states-air-force-b-52-stratofortress-crashes-at-andersen-air-force-base-on-guam-all-seven-aircrew-members-escaped-no-injuries-hav.md) _Context: United States Air Force_
+7. [The United States Air Force deploys B-52 bombers to Al Udeid Air Base in Qatar to join operations against ISIL in Syria and Iraq. This is the first time they have been stationed in the Middle East since the end of the Gulf War in 1991. ](/news/2016/04/9/the-united-states-air-force-deploys-b-52-bombers-to-al-udeid-air-base-in-qatar-to-join-operations-against-isil-in-syria-and-iraq-this-is-th.md) _Context: United States Air Force_
+8. [Russia says it intercepted a U.S. Air Force plane approaching its border over the Baltic Sea on Friday because the aircraft had turned off its transponder which is needed for identification.  The Pentagon says the U.S. RC-135  was flying a routine route in international airspace when the Russian SU-27 fighter intercepted it in an "unsafe and unprofessional" way. ](/news/2016/04/30/russia-says-it-intercepted-a-u-s-air-force-plane-approaching-its-border-over-the-baltic-sea-on-friday-because-the-aircraft-had-turned-off-i.md) _Context: United States Air Force_
+9. [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md) _Context: United States Air Force_
+10. [The United States Air Force sends 12  F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-e.md) _Context: United States Air Force_

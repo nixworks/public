@@ -1,0 +1,25 @@
+### [2011-03-3](/news/2011/03/3/index.md)
+
+# The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. 
+
+Although the consitutionality of their proposal is questionable, Senate Republicans Thursday ordered the arrest of their 14 Democratic colleagues, who fled the state two weeks ago to avoid a vote
+
+
+### Source:
+
+1. [Wisconsin State Journal](http://host.madison.com/wsj/news/local/govt-and-politics/article_8d9ad090-45bd-11e0-bf68-001cc4c03286.html)
+2. [AP via ''Huffington Post](http://www.huffingtonpost.com/2011/03/03/judge-orders-protesters-removed-wisconsin-capitol_n_831167.html)
+3. [Milwaukee Journal-Sentinel](http://www.jsonline.com/blogs/news/117364028.html)
+
+### Related:
+
+1. [Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separate-from-the-budget-to-end-the-imp.md) _Context: 2011 Wisconsin budget protests, Democratic, Senate_
+2. [Voters in the 30th Senate district in the US state of Wisconsin go to the polls for the first recall election for Democrat Dave Hansen. ](/news/2011/07/19/voters-in-the-30th-senate-district-in-the-us-state-of-wisconsin-go-to-the-polls-for-the-first-recall-election-for-democrat-dave-hansen.md) _Context: Democratic, Senate_
+3. [The Wisconsin Senate votes to fine missing Democrats $100 a day for their absence during the 2011 Wisconsin protests. ](/news/2011/03/2/the-wisconsin-senate-votes-to-fine-missing-democrats-100-a-day-for-their-absence-during-the-2011-wisconsin-protests.md) _Context: Democratic, Senate_
+4. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Democratic_
+5. [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md) _Context: Democratic_
+6. [The former Democratic National Committee chair and ex-CNN contributor Donna Brazile admits that she had forwarded some debate questions to Hillary Clinton's campaign during last year's Democratic primary before two debates with Bernie Sanders. ](/news/2017/03/17/the-former-democratic-national-committee-chair-and-ex-cnn-contributor-donna-brazile-admits-that-she-had-forwarded-some-debate-questions-to-h.md) _Context: Democratic_
+7. [A declassified U.S. intelligence report claims that Vladimir Putin ordered a campaign to influence the U.S. presidential election against Democratic Party candidate Hillary Clinton. ](/news/2017/01/6/a-declassified-u-s-intelligence-report-claims-that-vladimir-putin-ordered-a-campaign-to-influence-the-u-s-presidential-election-against-de.md) _Context: Democratic_
+8. [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md) _Context: Democratic_
+9. [United States presidential election and general elections, 2016Although he narrowly lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/united-states-presidential-election-and-general-elections-2016palthough-he-narrowly-lost-the-popular-vote-donald-trump-the-republican-nom.md) _Context: Democratic_
+10. [In Democratic  Party congressional leadership elections, U.S. House minority leader Nancy Pelosi is re-elected, holding off the challenge by Tim Ryan. Democratic whip Steny Hoyer is also re-elected.   Current caucus vice chair Joseph Crowley takes the caucus chairmanship. Linda Sanchez, in a three-way race, is elected the new vice chair.  ](/news/2016/11/30/in-democratic-party-congressional-leadership-elections-u-s-house-minority-leader-nancy-pelosi-is-re-elected-holding-off-the-challenge-by.md) _Context: Democratic_

@@ -1,0 +1,11 @@
+### [2002-05-2](/news/2002/05/2/index.md)
+
+#  Squatters celebrated the reappropriation of Can Masdeu after a 3-day standoff with the Spanish national police resulting in the one of few successful attempts to resist a squat eviction in recent history.
+
+
+
+
+### Related:
+
+1. [At least twelve people are arrested in London outside the Parliament of the United Kingdom after a protest against anti-squatting legislation turns violent. ](/news/2011/11/1/at-least-twelve-people-are-arrested-in-london-outside-the-parliament-of-the-united-kingdom-after-a-protest-against-anti-squatting-legislatio.md) _Context: squatting_
+2. [ Grassroots occupations of Austrian universities spread to several more in Vienna, Graz and Linz, demanding free education for everyone. ](/news/2009/10/27/grassroots-occupations-of-austrian-universities-spread-to-several-more-in-vienna-graz-and-linz-demanding-free-education-for-everyone.md) _Context: squatting_

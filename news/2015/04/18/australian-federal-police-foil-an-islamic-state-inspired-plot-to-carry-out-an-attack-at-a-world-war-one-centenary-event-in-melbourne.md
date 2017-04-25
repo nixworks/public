@@ -1,0 +1,23 @@
+### [2015-04-18](/news/2015/04/18/index.md)
+
+# Australian Federal Police foil an Islamic State inspired plot to carry out an attack at a World War One centenary event in Melbourne. 
+
+Australian police charge a teenager in connection with what they say was an Islamic State-inspired plot to attack a World War One centenary event.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-australia-32361721)
+
+### Related:
+
+1. [One policeman has been killed and another has been critically injured after a man opened fire at police officers at the Champs-Elysees in central Paris. The gunman was killed while attempting to escape, and a bystander has been injured. ISIL claims responsibility for the attack although the claim is doubted. The President of France Francois Hollande says that all leads indicate that the attack was of a "terrorist nature". ](/news/2017/04/20/one-policeman-has-been-killed-and-another-has-been-critically-injured-after-a-man-opened-fire-at-police-officers-at-the-champs-alysa-c-es-in.md) _Context: ISIL_
+2. [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel.  He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md) _Context: ISIL_
+3. [The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _Context: ISIL_
+4. [A charter plane crashes into a Direct Factory Outlets shopping centre in Melbourne, Australia, shortly after taking off from Essendon Airport, killing the five people on board. ](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.md) _Context: Melbourne_
+5. [The ISIL-affiliated Syrian opposition group Jaysh Khaled bin Waleed overwhelms Tahrir al-Sham and Southern Front militants, capturing the towns of Tasil and Saham al-Jawlan, along with two other villages and a hill in Daraa Governorate. ](/news/2017/02/20/the-isil-affiliated-syrian-opposition-group-jaysh-khaled-bin-waleed-overwhelms-tahrir-al-sham-and-southern-front-militants-capturing-the-to.md) _Context: ISIL_
+6. [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md) _Context: ISIL_
+7. [Three people have been killed and twenty injured after a man drives a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to 6.](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.md) _Context: Melbourne_
+8. [Australian police raid several Melbourne properties and arrest seven Arab Australian men, who were believed to be plotting a terrorist attack on several sites in Melbourne for Christmas Day. ](/news/2016/12/23/australian-police-raid-several-melbourne-properties-and-arrest-seven-arab-australian-men-who-were-believed-to-be-plotting-a-terrorist-attac.md) _Context: Melbourne_
+9. [The death toll from an outbreak of thunderstorm asthma on 21 November in the Australian city of Melbourne reaches 6. Three others are in a critical condition. ](/news/2016/11/27/the-death-toll-from-an-outbreak-of-thunderstorm-asthma-on-21-november-in-the-australian-city-of-melbourne-reaches-6-three-others-are-in-a-c.md) _Context: Melbourne_
+10. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: ISIL_

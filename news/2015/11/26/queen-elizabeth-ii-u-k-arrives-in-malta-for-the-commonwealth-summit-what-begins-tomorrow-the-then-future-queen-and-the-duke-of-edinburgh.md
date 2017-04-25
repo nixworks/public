@@ -1,0 +1,23 @@
+### [2015-11-26](/news/2015/11/26/index.md)
+
+# Queen Elizabeth II (U.K.) arrives in Malta for the Commonwealth summit what begins tomorrow. The then-future Queen and the Duke of Edinburgh lived on the island from 1949-51. The Commonwealth is a group of 53 nations; most member states were once part of the British Empire, and 16 retain the Queen as head of state. 
+
+Armed Forces band of Malta sets the tone as they chose to play Thanks For The Memory while Her Majesty inspects guard of honour in Valletta
+
+
+### Source:
+
+1. [Telegraph](http://www.telegraph.co.uk/news/uknews/queen-elizabeth-II/12019780/Queen-in-Malta-Melancholy-on-what-is-likely-to-be-monarchs-last-trip-to-her-former-island-home.html)
+
+### Related:
+
+1. [The Commonwealth Heads of Government meeting in Malta calls for an ambitious and legally binding outcome at the 2015 United Nations Climate Change Conference. ](/news/2015/11/28/the-commonwealth-heads-of-government-meeting-in-malta-calls-for-an-ambitious-and-legally-binding-outcome-at-the-2015-united-nations-climate.md) _Context: Commonwealth Heads of Government Meeting 2015, Maltese_
+2. [Queen Elizabeth II celebrates her 91st birthday. ](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.md) _Context: Elizabeth II_
+3. [The gigantic limestone natural arch Azure Window on the Maltese island of Gozo collapses due to a storm. ](/news/2017/03/8/the-gigantic-limestone-natural-arch-azure-window-on-the-maltese-island-of-gozo-collapses-due-to-a-storm.md) _Context: Maltese_
+4. [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md) _Context: Elizabeth II_
+5. [The academic Phil Scraton refuses an OBE granted to him by Elizabeth II in her 2017 New Year Honours list for his work on the Hillsborough disaster. Professor Scraton wrote ''Hillsborough: The Truth'', first published in 1990 and seen as the definitive account of the disaster. ](/news/2016/12/29/the-academic-phil-scraton-refuses-an-obe-granted-to-him-by-elizabeth-ii-in-her-2017-new-year-honours-list-for-his-work-on-the-hillsborough-d.md) _Context: Elizabeth II_
+6. [An Afriqiyah Airways flight originating from Sabha, Libya, is hijacked and forced to make an emergency landing in Malta. Hijackers threaten to blow up the aircraft with grenades, but the standoff ends peacefully with all hostages released and both hijackers surrendering. ](/news/2016/12/23/an-afriqiyah-airways-flight-originating-from-sabha-libya-is-hijacked-and-forced-to-make-an-emergency-landing-in-malta-hijackers-threaten.md) _Context: Maltese_
+7. [A twin-prop Fairchild Metroliner Mark III light aircraft crashes shortly after takeoff from Malta International Airport, killing all five French nationals on board. Malta officials say that the aircraft was part of a French customs surveillance operation tracing routes of illicit trafficking, of humans and drugs on Libyan coasts, and that the flight was heading for the Libyan city of Misrata. ](/news/2016/10/24/a-twin-prop-fairchild-metroliner-mark-iii-light-aircraft-crashes-shortly-after-takeoff-from-malta-international-airport-killing-all-five-fr.md) _Context: Maltese_
+8. [Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. ](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.md) _Context: Elizabeth II_
+9. [U.S. President Barack Obama, in an op-ed in London's ''Daily Telegraph'', urges Britons  to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-o.md) _Context: Elizabeth II_
+10. [Elizabeth II, queen regnant of the United Kingdom and Head of the Commonwealth of Nations, celebrates her 90th birthday. ](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.md) _Context: Elizabeth II_

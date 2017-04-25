@@ -1,0 +1,25 @@
+### [2010-08-31](/news/2010/08/31/index.md)
+
+# Russian police detain more than 150 people including prominent opponents of Prime Minister of Russia Vladimir Putin such as former Deputy Prime Minister Boris Nemtsov, following protests in Moscow and Saint Petersburg in support of freedom of assembly. 
+
+MOSCOW &ndash; Russian police detained more than 150 people including prominent opponents of prime minister Vladimir Putin at anti-&hellip;
+
+
+### Source:
+
+1. [The Moscow Times](http://www.themoscowtimes.com/news/article/dozens-detained-as-eu-lawmakers-join-rally/414326.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/08/201083117447722442.html)
+3. [Irish Times](http://www.irishtimes.com/newspaper/world/2010/0901/1224277973446.html)
+
+### Related:
+
+1. [ Stefane & 3G will represent Georgia at the Eurovision Song Contest 2009 in Moscow with "We Don't Wanna Put In", a song allegedly against Russian Prime Minister Vladimir Putin. ](/news/2009/02/18/stefane-3g-will-represent-georgia-at-the-eurovision-song-contest-2009-in-moscow-with-we-don-t-wanna-put-in-a-song-allegedly-against-ru.md) _Context: Moscow, Prime Minister, Russia, Vladimir Putin_
+2. [A fire at a warehouse in Moscow, Russia, kills at least 17 people, all migrant workers from Kyrgyzstan.  The Investigative Committee of Russia, which reports directly to President Vladimir Putin, says a criminal inquiry has been launched. ](/news/2016/08/27/a-fire-at-a-warehouse-in-moscow-russia-kills-at-least-17-people-all-migrant-workers-from-kyrgyzstan-the-investigative-committee-of-russ.md) _Context: Moscow, Russia, Vladimir Putin_
+3. [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md) _Context: Prime Minister, Russia, Vladimir Putin_
+4. [Finland and Russia agree to impose temporary restrictions at two Arctic border crossing points on the Finnish-Russian border following an increased flow of asylum seekers from Russia to Finland. Under a deal clinched by Russian President Vladimir Putin and Finnish President Sauli Niinisto in Moscow, crossings at two popular entry points, Salla and Raja-Jooseppi, will be reserved only for Finnish, Russian and Belarusian citizens and their family members for a period of 180 days. ](/news/2016/03/22/finland-and-russia-agree-to-impose-temporary-restrictions-at-two-arctic-border-crossing-points-on-the-finnisharussian-border-following-an.md) _Context: Moscow, Russia, Vladimir Putin_
+5. [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md) _Context: Moscow, Russia, Vladimir Putin_
+6. [FIFA announces Moscow's Luzhniki Stadium will stage both the opening match and the final at the 2018 FIFA World Cup. Also FIFA chooses four cities for the 2017 FIFA Confederations Cup that will take place in the Russian cities of Moscow, Saint Petersburg, Kazan and Sochi. ](/news/2012/12/14/fifa-announces-moscow-s-luzhniki-stadium-will-stage-both-the-opening-match-and-the-final-at-the-2018-fifa-world-cup-also-fifa-chooses-four.md) _Context: Moscow, Russia, Saint Petersburg_
+7. [Three women from Russian feminist punk rock band Pussy Riot go on trial in Moscow for holding an "unsanctioned performance" which called for the ouster of Vladimir Putin at Moscow's Christ the Saviour Cathedral in February. ](/news/2012/07/30/three-women-from-russian-feminist-punk-rock-band-pussy-riot-go-on-trial-in-moscow-for-holding-an-unsanctioned-performance-which-called-for.md) _Context: Moscow, Russia, Vladimir Putin_
+8. [Voters in Russia go to the polls for a presidential election with Prime Minister Vladimir Putin claiming victory despite allegations of voter fraud. ](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.md) _Context: Prime Minister, Russia, Vladimir Putin_
+9. [2011-2012 Russian protests: Over 100,000 people protest for and against Russian Prime Minister Vladimir Putin in Moscow. ](/news/2012/02/4/2011a2012-russian-protests-over-100-000-people-protest-for-and-against-russian-prime-minister-vladimir-putin-in-moscow.md) _Context: Moscow, Russia, Vladimir Putin_
+10. [2011-2012 Russian protests: Thousands of Russians form a human chain around the centre of Moscow in protest against Vladimir Putin. ](/news/2012/02/26/2011-2012-russian-protests-thousands-of-russians-form-a-human-chain-around-the-centre-of-moscow-in-protest-against-vladimir-putin.md) _Context: Moscow, Russia, Vladimir Putin_

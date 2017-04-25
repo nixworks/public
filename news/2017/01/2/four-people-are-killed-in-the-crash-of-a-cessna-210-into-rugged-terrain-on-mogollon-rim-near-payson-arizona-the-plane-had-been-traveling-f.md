@@ -1,0 +1,16 @@
+### [2017-01-2](/news/2017/01/2/index.md)
+
+# Four people are killed in the crash of a Cessna 210 into rugged terrain on Mogollon Rim near Payson, Arizona. The plane had been traveling from Scottsdale, Arizona to Telluride, Colorado. 
+
+Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
+
+
+### Source:
+
+1. [Arizona Republic](http://www.reuters.com/article/us-arizona-crash-idUSKBN14N1ND)
+2. [Fox Spokane](http://www.myfoxspokane.com/4-dead-following-plane-crash-in-rugged-arizona-mountains/)
+3. [ABC News](http://abcnews.go.com/US/wireStory/dead-plane-crash-rugged-arizona-mountains-44537195)
+
+### Related:
+
+1. [ Famous U.S. test pilot Scott Crossfield dies in an air crash of a Cessna 210.](/news/2006/04/20/famous-u-s-test-pilot-scott-crossfield-dies-in-an-air-crash-of-a-cessna-210.md) _Context: Cessna 210_

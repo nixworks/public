@@ -1,0 +1,24 @@
+### [2012-12-26](/news/2012/12/26/index.md)
+
+# Russia's parliament approves a law banning Americans from adopting Russian children as response to a U.S. Magnitsky bill. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324669104578203132463233930.html)
+2. [AP via ABC News](http://abcnews.go.com/International/wireStory/russian-parliament-mull-anti-us-adoption-bill-18064296)
+
+### Related:
+
+1. [Following the Magnitsky bill, the U.S. sanctions designed to punish Russia for its rights record, Russia is to ban Americans from adopting their children. ](/news/2012/12/19/following-the-magnitsky-bill-the-u-s-sanctions-designed-to-punish-russia-for-its-rights-record-russia-is-to-ban-americans-from-adopting-t.md) _Context: Americans, Magnitsky bill, Russia, U.S._
+2. [Russia announces a tit-for-tat visa bar on Americans guilty of human rights violations, over the US Magnitsky bill. ](/news/2012/12/7/russia-announces-a-tit-for-tat-visa-bar-on-americans-guilty-of-human-rights-violations-over-the-us-magnitsky-bill.md) _Context: Americans, Magnitsky bill, Russia_
+3. [The President of Russia, Vladimir Putin, warns Romania and Poland against hosting parts of the U.S. missile defense shield. ](/news/2016/05/28/the-president-of-russia-vladimir-putin-warns-romania-and-poland-against-hosting-parts-of-the-u-s-missile-defense-shield.md) _Context: Russia, U.S._
+4. [According to a statement from Ukraine's nuclear energy authority, Yadernoye Toplivo, a private U.S. nuclear energy company, ConverDyn, could begin helping Ukraine in the production of enriched uranium, a day after Russia shut off natural gas supplies to the country after the two failed to reach agreement over Ukraine's unpaid gas debts to Russia.](/news/2015/07/2/according-to-a-statement-from-ukraine-s-nuclear-energy-authority-yadernoye-toplivo-a-private-u-s-nuclear-energy-company-converdyn-could.md) _Context: Russia, U.S._
+5. [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jacksonavanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md) _Context: Magnitsky bill, Russia_
+6. [Russia warns the U.S. that a renegotiation of the Start treaty may lead to the pact's destruction. ](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.md) _Context: Russia, U.S._
+7. [ The U.S. moves forward with plans to base a missile shield for National Missile Defense in the Czech Republic and Poland.  In response, Russian officials have claimed they may target the two Eastern European countries.  The Russians also claimed they could pull out of the 1987 Intermediate Range Nuclear Forces Treaty. ](/news/2007/02/19/the-u-s-moves-forward-with-plans-to-base-a-missile-shield-for-national-missile-defense-in-the-czech-republic-and-poland-in-response-rus.md) _Context: Russia, U.S._
+8. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: Russia_
+9. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Russia_
+10. [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md) _Context: Russia_

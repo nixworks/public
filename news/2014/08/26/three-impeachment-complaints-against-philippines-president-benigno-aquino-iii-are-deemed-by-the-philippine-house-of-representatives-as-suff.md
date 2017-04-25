@@ -1,0 +1,24 @@
+### [2014-08-26](/news/2014/08/26/index.md)
+
+# Three impeachment complaints against Philippines President Benigno Aquino III are deemed by the Philippine House of Representatives as "sufficient in form", paving the way for possible legal proceedings against him. 
+
+The House of Representatives Committee on Justice on Tuesday declared the three impeachment complaints filed against President Benigno Aquino III to be sufficient in form. 
+
+
+### Source:
+
+1. [The Philippine Star](http://www.philstar.com/headlines/2014/08/26/1361958/3-impeach-raps-vs-aquino-sufficient-form)
+2. [GMA Network](http://www.gmanetwork.com/news/story/376405/news/nation/only-first-3-impeachment-complaints-vs-pnoy-to-be-considered-tupas)
+
+### Related:
+
+1. [The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-resignation-of-philippin.md) _Context: Benigno Aquino III, Philippines, impeachment_
+2. [Philippine president Rodrigo Duterte accuses the Liberal Party of former president Benigno Aquino III and their allies of orchestrating an impeachment complaint against him regarding his anti-drug campaign. ](/news/2016/09/13/philippine-president-rodrigo-duterte-accuses-the-liberal-party-of-former-president-benigno-aquino-iii-and-their-allies-of-orchestrating-an-i.md) _Context: Benigno Aquino III, impeachment_
+3. [''Philippines v. China''On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-pon-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the.md) _Context: Benigno Aquino III, Philippines_
+4. [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md) _Context: Benigno Aquino III, Philippines_
+5. [The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-rival-of-mar-roxas-the-candidate-favored-b.md) _Context: Benigno Aquino III, Philippines_
+6. [Human rights activists and families of the victims decry the lack of justice six years after the murder of around 58 people, including journalists and politicians,  in Maguindanao, Mindanao. They criticize the regime of Philippines President Benigno Aquino III for the lack of convictions in the trial. ](/news/2015/11/23/human-rights-activists-and-families-of-the-victims-decry-the-lack-of-justice-six-years-after-the-murder-of-around-58-people-including-journ.md) _Context: Benigno Aquino III, Philippines_
+7. [ President Benigno Aquino III says the Philippines doesn't have the capacity to permanently house Manus Island refugees from Australian-run detention camps. ](/news/2015/10/27/president-benigno-aquino-iii-says-the-philippines-doesn-t-have-the-capacity-to-permanently-house-manus-island-refugees-from-australian-run.md) _Context: Benigno Aquino III, Philippines_
+8. [Philippines President Benigno Aquino III holds his final State of the Nation Address before stepping down in 2016.  He advocates the passage of the Bangsamoro Basic Law and an anti-dynasty bill. ](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.md) _Context: Benigno Aquino III, Philippines_
+9. [A journalist from CNN is shot and killed in the Philippines, the 27th journalist murdered during the administration of Benigno Aquino III. ](/news/2015/06/25/a-journalist-from-cnn-is-shot-and-killed-in-the-philippines-the-27th-journalist-murdered-during-the-administration-of-benigno-aquino-iii.md) _Context: Benigno Aquino III, Philippines_
+10. [Philippines President Benigno Aquino III asks Indonesian President Joko Widodo to spare the life of Mary Jane Veloso, a migrant domestic worker sentenced to death for drug trafficking.  ](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.md) _Context: Benigno Aquino III, Philippines_

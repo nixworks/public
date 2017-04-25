@@ -1,0 +1,43 @@
+## [2014-12-14](/news/2014/12/14/index.md)
+
+### [Syrian Civil War:A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/syrian-civil-war-pa-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loya.md)
+_Context: Aleppo Governorate, Bashar al-Assad, Islamist, Syrian Civil War_
+
+### [Miss World 2014 crowns Rolene Strauss, Miss South Africa, in London. ](/news/2014/12/14/miss-world-2014-crowns-rolene-strauss-miss-south-africa-in-london.md)
+_Context: London, Miss South Africa, Miss World 2014, Rolene Strauss_
+
+### [Archaeologists reconstruct two giant statues of Amenhotep III, toppled by an earthquake at the Nile River in 1200 BC. The team's restoration project re-erected surviving fragments at the northern gate of the king's funerary temple. ](/news/2014/12/14/archaeologists-reconstruct-two-giant-statues-of-amenhotep-iii-toppled-by-an-earthquake-at-the-nile-river-in-1200-bc-the-team-s-restoration.md)
+_Context: Amenhotep III_
+
+### [European private equity firm BC Partners agrees to buy American pet supplies retail chain PetSmart for $8.7 billion. ](/news/2014/12/14/european-private-equity-firm-bc-partners-agrees-to-buy-american-pet-supplies-retail-chain-petsmart-for-8-7-billion.md)
+_Context: BC Partners, PetSmart, United States dollars_
+
+### [Eleven Egyptian fishermen drown after their boat sinks in the Gulf of Suez. ](/news/2014/12/14/eleven-egyptian-fishermen-drown-after-their-boat-sinks-in-the-gulf-of-suez.md)
+_Context: Egyptian, Gulf of Suez_
+
+### [The death toll from a landslide in central Java in Indonesia rises to 24 with scores still missing. ](/news/2014/12/14/the-death-toll-from-a-landslide-in-central-java-in-indonesia-rises-to-24-with-scores-still-missing.md)
+Rescuers were hampered by a lack of equipment after the landslide roared down a mountainside and destroyed a remote village.
+
+### [The death toll of a capsized ferry MV Mutambala on December 12 in Lake Tanganyika, Democratic Republic of the Congo rises to 129 with authorities continuing to search for bodies or survivors. ](/news/2014/12/14/the-death-toll-of-a-capsized-ferry-mv-mutambala-on-december-12-in-lake-tanganyika-democratic-republic-of-the-congo-rises-to-129-with-author.md)
+At least 129 bodies have been recovered from Lake Tanganyika in the Democratic Republic of Congo, after a ferry capsized on Friday.
+
+### [Angalifu, a male of the critically endangered northern white rhinoceros, dies at the San Diego Zoo Safari Park. The remaining rhinoceroses are one female at the Zoo (Nola), three at a zoo in the Czech Republic, and one male at a Kenyan preserve (Sudan). ](/news/2014/12/14/angalifu-a-male-of-the-critically-endangered-northern-white-rhinoceros-dies-at-the-san-diego-zoo-safari-park-the-remaining-rhinoceroses-a.md)
+_Context: Angalifu, Nola, San Diego Zoo Safari Park, Sudan, endangered, northern white rhino_
+
+### [The United Nations adopts a format for national pledges to tackle climate change after meetings extend into the weekend at the conference held in Lima, Peru. ](/news/2014/12/14/the-united-nations-adopts-a-format-for-national-pledges-to-tackle-climate-change-after-meetings-extend-into-the-weekend-at-the-conference-he.md)
+UN member states reach agreement on how countries should tackle climate change, after differences cause talks to overrun by two days.
+
+### [Turkish police arrest 24 journalists, all of whom are supporters of Fethullah Gulen who is a rival of current Turkish President Recep Tayyip Erdogan and is currently in self-imposed exile in the United States. ](/news/2014/12/14/turkish-police-arrest-24-journalists-all-of-whom-are-supporters-of-fethullah-ga1-4len-who-is-a-rival-of-current-turkish-president-recep-tayyi.md)
+_Context: Fethullah Gülen, President, Recep Tayyip Erdoğan, Turkish, United States_
+
+### [At least 18 are held hostage in a chocolate shop in Sydney, Australia. Police stormed the cafe the following day.](/news/2014/12/14/at-least-18-are-held-hostage-in-a-chocolate-shop-in-sydney-australia-police-stormed-the-cafa-c-the-following-day.md)
+_Context: 2014 Sydney hostage crisis, Australia, Sydney_
+
+### [Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its-junior-coalition-partner-win-325.md)
+_Context: 2014, Japanese, Komeito, Liberal Democratic Party, Prime Minister, Shinzo Abe_
+
+### [Laurent Lamothe resigns as Prime Minister of Haiti along with several ministers following violent protests and a commission's call for him to step down. The protesters have been demanding the holding of early elections. ](/news/2014/12/14/laurent-lamothe-resigns-as-prime-minister-of-haiti-along-with-several-ministers-following-violent-protests-and-a-commission-s-call-for-him-t.md)
+PORT-AU-PRINCE, Haiti (AP) — Prime Minister Laurent Lamothe announced early Sunday that he was resigning 
+
+## [Previous Day...](/news/2014/12/13/index.md)
+

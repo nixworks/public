@@ -1,0 +1,24 @@
+### [2015-11-8](/news/2015/11/8/index.md)
+
+# Two suicide bomb attacks in Ngouboua, a remote village near Lake Chad, kill three people, including the bombers, and injure four others, according to Chadian Communication Minister Hassan Sylla Bakari. 
+
+At least three people were killed in a double suicide bombing in a village near the border with Nigeria in southwestern Chad.
+
+
+### Source:
+
+1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/08/At-least-three-killed-in-double-suicide-bombing-in-Chad/9561447034213/?spt=hs&or=tn_int)
+2. [Shanghai Daily](http://www.shanghaidaily.com/article/article_xinhua.aspx?id=308441)
+
+### Related:
+
+1. [The government of Chad declares a state of emergency in the Lake Chad area a day after a double suicide bombing that has killed two people. ](/news/2015/11/9/the-government-of-chad-declares-a-state-of-emergency-in-the-lake-chad-area-a-day-after-a-double-suicide-bombing-that-has-killed-two-people.md) _Context: Boko Haram insurgency, Chad, Lake Chad_
+2. [A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly-killed-in-the-fighting.md) _Context: Boko Haram insurgency, Chad, Lake Chad_
+3. [Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, Chad. ](/news/2015/07/8/suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-in-attacks-on-two-villages-on-lake-chad-chad.md) _Context: Boko Haram insurgency, Chad, Lake Chad_
+4. [Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attacked-the-village-of-ngoub.md) _Context: Boko Haram insurgency, Chad, Lake Chad_
+5. [A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md) _Context: Boko Haram insurgency, Lake Chad_
+6. [Niger, following  attacks by Boko Haram on Bosso and Yebi in the Lake Chad region,  extends for three months a state of emergency in Diffa. ](/news/2016/07/30/niger-following-attacks-by-boko-haram-on-bosso-and-yebi-in-the-lake-chad-region-extends-for-three-months-a-state-of-emergency-in-diffa.md) _Context: Boko Haram insurgency, Lake Chad_
+7. [Three suicide bombers at Lake Chad kill at least 30 people and injure at least 80 others. Three women carried out the attack at a weekly market on an island on the Chadian side of the lake. No group claims responsibility; officials suspect the attacks were carried out by members of the Boko Haram militant group from neighboring Nigeria. ](/news/2015/12/5/three-suicide-bombers-at-lake-chad-kill-at-least-30-people-and-injure-at-least-80-others-three-women-carried-out-the-attack-at-a-weekly-mar.md) _Context: Chad, Lake Chad_
+8. [An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers  but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-army-soldiers-and-three-ci.md) _Context: Boko Haram insurgency, Lake Chad_
+9. [Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram-killing-at-least-36-p.md) _Context: Boko Haram insurgency, Chad_
+10. [Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. ](/news/2015/01/9/refugees-flee-nigeria-s-borno-state-following-the-boko-haram-massacre-in-the-town-of-baga-7-300-flee-to-neighbouring-chad-while-over-1-000.md) _Context: Chad, Lake Chad_

@@ -1,0 +1,24 @@
+### [2005-04-4](/news/2005/04/4/index.md)
+
+#  South African president Thabo Mbeki hosts a meeting between rebels and the Cote d'Ivoire government in his presidential palace. 
+
+
+
+
+### Source:
+
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=vn20050404065153507C190642)
+2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1685042,00.html)
+
+### Related:
+
+1. [Former South African President Thabo Mbeki begins mediation efforts in the Ivory Coast following the disputed presidential election. ](/news/2010/12/5/former-south-african-president-thabo-mbeki-begins-mediation-efforts-in-the-ivory-coast-following-the-disputed-presidential-election.md) _Context: South Africa, Thabo Mbeki_
+2. [ Former South African President Thabo Mbeki will mediate between the Movement for Democratic Change and Zimbabwean President Robert Mugabe's government after Mugabe takes control of ministries that command the military and the police, an action that allegedly violates the power-sharing agreement reached last month. ](/news/2008/10/11/former-south-african-president-thabo-mbeki-will-mediate-between-the-movement-for-democratic-change-and-zimbabwean-president-robert-mugabe-s.md) _Context: South Africa, Thabo Mbeki_
+3. [ South Africa's ruling African National Congress party names deputy president Kgalema Motlanthe as the successor to President Thabo Mbeki. ](/news/2008/09/22/south-africa-s-ruling-african-national-congress-party-names-deputy-president-kgalema-motlanthe-as-the-successor-to-president-thabo-mbeki.md) _Context: South Africa, Thabo Mbeki_
+4. [ Former South African Deputy President Jacob Zuma's corruption trial is thrown out by the judge at Pietermaritzburg High Court, who rules that the State's case goes "from one disaster to another" and failed to follow proper procedure. This is thought likely to improve Zuma's chances of succeeding President Thabo Mbeki, but prosecutors have said that they will refile charges later. ](/news/2006/09/20/former-south-african-deputy-president-jacob-zuma-s-corruption-trial-is-thrown-out-by-the-judge-at-pietermaritzburg-high-court-who-rules-th.md) _Context: South Africa, Thabo Mbeki_
+5. [ In South Africa, President Thabo Mbeki names energy and minerals minister Phumzile Mlambo-Ngcuka as his deputy president. She is the first woman to hold the position. ](/news/2005/06/22/in-south-africa-president-thabo-mbeki-names-energy-and-minerals-minister-phumzile-mlambo-ngcuka-as-his-deputy-president-she-is-the-first.md) _Context: South Africa, Thabo Mbeki_
+6. [ Schabir Shaik, a financial advisor to South African Deputy President Jacob Zuma, is found guilty of two counts of corruption and one of fraud in a 165-page judgment broadcast live as it was delivered over three days. The affair is considered to be a blow to Mr Zuma's ambitions to succeed the current president, Thabo Mbeki. ](/news/2005/06/2/schabir-shaik-a-financial-advisor-to-south-african-deputy-president-jacob-zuma-is-found-guilty-of-two-counts-of-corruption-and-one-of-fra.md) _Context: South Africa, Thabo Mbeki_
+7. [ In Cte d'Ivoire, opposition leader Alassane Ouattara welcomes President Laurent Gbagbo's decision to let him contest elections. South African president Thabo Mbeki welcomes it as well. ](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.md) _Context: South Africa, Thabo Mbeki_
+8. [ Former South African President Nelson Mandela breaks a strong taboo when he announces that the death at age 54 of his sole surviving son, Makgatho Mandela, was caused by AIDS, which kills about 600 people daily in South Africa. His action is viewed as being critical of his successor, Thabo Mbeki, who has denied a link between HIV and AIDS. [http://abcnews.go.com/US/wireStory?id=390040 (ABC)], [http://news.bbc.co.uk/1/hi/world/africa/4151159.stm (BBC)].](/news/2005/01/6/former-south-african-president-nelson-mandela-breaks-a-strong-taboo-when-he-announces-that-the-death-at-age-54-of-his-sole-surviving-son-m.md) _Context: South Africa, Thabo Mbeki_
+9. [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md) _Context: South Africa_
+10. [At least nine people are killed in fires overnight in Cape Town, South Africa. ](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.md) _Context: South Africa_

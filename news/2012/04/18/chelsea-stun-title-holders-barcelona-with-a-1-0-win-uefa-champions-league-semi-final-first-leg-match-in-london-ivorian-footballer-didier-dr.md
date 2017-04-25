@@ -1,0 +1,23 @@
+### [2012-04-18](/news/2012/04/18/index.md)
+
+# Chelsea stun title holders Barcelona with a 1-0 win UEFA Champions League semi-final first-leg match in London, Ivorian footballer Didier Drogba scoring the only goal of the game. 
+
+Chelsea take a narrow advantage into the second leg of Champions League semi-final with 1-0 home win over Barcelona.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/04/2012418205828776536.html)
+
+### Related:
+
+1. [In the UEFA Champions League semi-final, Chelsea pull off a remarkable comeback against FC Barcelona at the Camp Nou, coming back from two goals down despite having captain John Terry sent off, central defender Gary Cahill injured in the opening minutes and Didier Drogba's concession of a penalty to Lionel Messi which hits the crossbar. Chelsea are left without the suspended quartet of Terry, Ramires, Branislav Ivanovic and Raul Meireles for the final at the Allianz Arena. ](/news/2012/04/24/in-the-uefa-champions-league-semi-final-chelsea-pull-off-a-remarkable-comeback-against-fc-barcelona-at-the-camp-nou-coming-back-from-two-g.md) _Context: Chelsea F.C., Didier Drogba, FC Barcelona_
+2. [Days after his hat-trick broke the Primera Division's 59-year goal-scoring record, Barcelona striker Lionel Messi scores another hat-trick in Nicosia to become the UEFA Champions League all-time top scorer. ](/news/2014/11/25/days-after-his-hat-trick-broke-the-primera-divisia3n-s-59-year-goal-scoring-record-barcelona-striker-lionel-messi-scores-another-hat-trick.md) _Context: FC Barcelona, UEFA Champions League_
+3. [Ivorian footballer Didier Drogba is signed for Turkish champions Galatasaray on an 18-month deal from Chinese club Shanghai Shenhua. ](/news/2013/01/28/ivorian-footballer-didier-drogba-is-signed-for-turkish-champions-galatasaray-on-an-18-month-deal-from-chinese-club-shanghai-shenhua.md) _Context: Côte d'Ivoire, Didier Drogba_
+4. [The 2012-13 UEFA Europa League Round of 32 and Round of 16 draw is held in Nyon, Switzerland. Europa League title holders Atletico Madrid will play Rubin Kazan while Champions League title holders Chelsea will face Sparta Prague. ](/news/2012/12/20/the-2012a13-uefa-europa-league-round-of-32-and-round-of-16-draw-is-held-in-nyon-switzerland-europa-league-title-holders-atla-c-tico-madrid.md) _Context: Chelsea F.C., UEFA Champions League_
+5. [Roberto Di Matteo is sacked by Chelsea F.C. after a 2012-13 UEFA Champions League defeat 0-3 to Juventus F.C. left them in danger of becoming the first title holders to exit the competition in the group stage. Di Matteo managed Chelsea to their first ever Champions League title in Munich last May. Rafael Benitez appointed Chelsea interim manager until end of season. ](/news/2012/11/21/roberto-di-matteo-is-sacked-by-chelsea-f-c-after-a-2012a13-uefa-champions-league-defeat-0-3-to-juventus-f-c-left-them-in-danger-of-becom.md) _Context: Chelsea F.C., UEFA Champions League_
+6. [Papiss Cisse fires two goals past UEFA Champions League finalists Chelsea to keep Newcastle United firmly in contention for a place in the Premier League's top four which would require Chelsea to defeat Bayern Munich in the final to qualify for next season. ](/news/2012/05/2/papiss-cissa-c-fires-two-goals-past-uefa-champions-league-finalists-chelsea-to-keep-newcastle-united-firmly-in-contention-for-a-place-in-the.md) _Context: Chelsea F.C., UEFA Champions League_
+7. [FootballFC Barcelona wins the 2010-11 UEFA Champions League beating Manchester United F.C. 3-1 in the 2011 UEFA Champions League Final. ](/news/2011/05/28/footballpfc-barcelona-wins-the-2010-11-uefa-champions-league-beating-manchester-united-f-c-3-1-in-the-2011-uefa-champions-league-final.md) _Context: FC Barcelona, UEFA Champions League_
+8. [FC Barcelona's Lionel Messi is widely hailed as the best footballer in the world after scoring four goals for the first time in his career in one UEFA Champions League game, including his fourth hat-trick of 2010. ](/news/2010/04/7/fc-barcelona-s-lionel-messi-is-widely-hailed-as-the-best-footballer-in-the-world-after-scoring-four-goals-for-the-first-time-in-his-career-i.md) _Context: FC Barcelona, UEFA Champions League_
+9. [Ivory Coast and Chelsea F.C. striker Didier Drogba is named African Footballer of the Year. ](/news/2010/03/11/ivory-coast-and-chelsea-f-c-striker-didier-drogba-is-named-african-footballer-of-the-year.md) _Context: Chelsea F.C., Didier Drogba_
+10. [ FC Barcelona defeats Manchester United F.C. to win the 2008-09 UEFA Champions League Final. ](/news/2009/05/27/fc-barcelona-defeats-manchester-united-f-c-to-win-the-2008-09-uefa-champions-league-final.md) _Context: FC Barcelona, UEFA Champions League_

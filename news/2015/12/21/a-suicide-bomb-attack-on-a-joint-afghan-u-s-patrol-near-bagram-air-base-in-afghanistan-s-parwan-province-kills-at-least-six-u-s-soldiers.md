@@ -1,0 +1,27 @@
+### [2015-12-21](/news/2015/12/21/index.md)
+
+# A suicide-bomb attack on a joint Afghan-U.S. patrol near Bagram Air Base in Afghanistan's Parwan Province, kills at least six U.S. soldiers and wounds another six. The Taliban's spokesman, Zabiullah Mujahid, claims responsibility for the attack in a message on Twitter. 
+
+Six American troops were killed in Afghanistan on Monday when a suicide bomber on a motorbike struck their patrol near Bagram air base, officials said, the deadliest attack on U.S. forces this year.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-afghanistan-attack-idUSKBN0U418520151221)
+2. [The Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2015/12/21/mass-casualty-in-afghanistan-six-u-s-troops-dead-others-wounded/)
+3. [FRANCE 24](http://www.france24.com/en/20151221-afghanistan-taliban-advance-key-sangin-afghan-helmand-province-deputy-governor-facebook-app)
+4. [RT](https://www.rt.com/news/326689-rockets-hit-kabul-explosions/)
+5. [Reuters](http://uk.reuters.com/article/uk-afghanistan-blast-idUKKBN0U422C20151221)
+
+### Related:
+
+1. [The United States sends more troops to Afghanistan's southern Helmand province to shore up security forces who are facing sustained attacks from the Taliban. ](/news/2016/02/9/the-united-states-sends-more-troops-to-afghanistan-s-southern-helmand-province-to-shore-up-security-forces-who-are-facing-sustained-attacks.md) _Context: Afghan, Taliban, United States, War in Afghanistan_
+2. [A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban-claims-responsibility.md) _Context: Afghan, Parwan, Taliban, War in Afghanistan_
+3. [War in Afghanistan Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/war-in-afghanistan-ptaliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it.md) _Context: Afghan, Taliban, War in Afghanistan_
+4. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: Afghan, Taliban, War in Afghanistan_
+5. [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md) _Context: Afghan, Taliban, War in Afghanistan_
+6. [According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-killed-in-a-u-s-airstrike-in-kunduz-pr.md) _Context: Taliban, United States, War in Afghanistan_
+7. [Battle of Boz Qandahari: Two United States military personnel, four Afghan Commandos, and 30 civilians are killed in clashes with the Taliban in Kunduz province, Afghanistan. ](/news/2016/11/3/battle-of-boz-qandahari-two-united-states-military-personnel-four-afghan-commandos-and-30-civilians-are-killed-in-clashes-with-the-taliba.md) _Context: Afghan, Taliban, War in Afghanistan_
+8. [Taliban officials make an offer to protect national interests such as copper mines and an international gas pipeline to assist the development of Afghanistan. ](/news/2016/11/29/taliban-officials-make-an-offer-to-protect-national-interests-such-as-copper-mines-and-an-international-gas-pipeline-to-assist-the-developme.md) _Context: Afghan, Taliban, War in Afghanistan_
+9. [A suicide bombing kills at least 14 people, mostly police officers, in Lashkargah, Helmand Province, as Taliban insurgents advance upon the Afghan city. ](/news/2016/10/10/a-suicide-bombing-kills-at-least-14-people-mostly-police-officers-in-lashkargah-helmand-province-as-taliban-insurgents-advance-upon-the.md) _Context: Afghan, Taliban, War in Afghanistan_
+10. [Taliban militants storm the city of Tarinkot, the provincial capital of Afghanistan's Urozgan Province, with fighting reported on multiple fronts throughout the city. Local officials flee to the nearby Tarinkot Airport for shelter. ](/news/2016/09/8/taliban-militants-storm-the-city-of-tarinkot-the-provincial-capital-of-afghanistan-s-urozgan-province-with-fighting-reported-on-multiple-f.md) _Context: Afghan, Taliban, War in Afghanistan_

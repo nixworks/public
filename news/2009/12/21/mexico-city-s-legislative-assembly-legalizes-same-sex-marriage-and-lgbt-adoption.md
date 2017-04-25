@@ -1,0 +1,24 @@
+### [2009-12-21](/news/2009/12/21/index.md)
+
+#  Mexico City's Legislative Assembly legalizes same-sex marriage and LGBT adoption. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8425269.stm)
+2. [Guardian](http://www.guardian.co.uk/world/2009/dec/22/mexico-city-legalises-samesex-marriage)
+
+### Related:
+
+1. [ Abortion in Mexico: Mexico City's Legislative Assembly votes to legalise abortion on demand during the first trimester of pregnancy. ](/news/2007/04/24/abortion-in-mexico-mexico-city-s-legislative-assembly-votes-to-legalise-abortion-on-demand-during-the-first-trimester-of-pregnancy.md) _Context: Legislative Assembly, Mexico City_
+2. [An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29-people-and-injures-at-least-70-others-pyrote.md) _Context: Mexico City_
+3. [Luis Videgaray Caso resigns as Mexico's finance minister amid fallout over President Enrique Pena Nieto's controversial meeting with U.S. presidential candidate Donald Trump in Mexico City. Videgaray is revealed to have been the main advocate of arranging the meeting. ](/news/2016/09/7/luis-videgaray-caso-resigns-as-mexico-s-finance-minister-amid-fallout-over-president-enrique-pea-a-nieto-s-controversial-meeting-with-u-s-p.md) _Context: Mexico City_
+4. [Mexico-United States relations U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/mexicoaunited-states-relations-pu-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexi.md) _Context: Mexico City_
+5. [Mexico City authorities declare a pollution alert after smog rose to 1.5 times acceptable limits the day before implementation of the City's new, temporary air quality program that will  keep one-fifth of the city's cars at home every weekday. ](/news/2016/04/4/mexico-city-authorities-declare-a-pollution-alert-after-smog-rose-to-1-5-times-acceptable-limits-the-day-before-implementation-of-the-city-s.md) _Context: Mexico City_
+6. [Mexico City, facing the capital's worst air-quality crisis in over a decade, issues a  temporary order that all cars remain idle one day a week. Today, authorities report a pollution index of 108 (bad) after low readings during Holy Week. Vehicles will also be forced from the roads one Saturday a month. The measure will begin next Tuesday, April 5, and run until Thursday, June 30, 2016. Starting July 1, improved technology will be  in place at smog-check centers where all vehicles must be tested every six months. ](/news/2016/03/30/mexico-city-facing-the-capital-s-worst-air-quality-crisis-in-over-a-decade-issues-a-temporary-order-that-all-cars-remain-idle-one-day-a-w.md) _Context: Mexico City_
+7. [The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. ](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.md) _Context: Mexico City_
+8. [Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. ](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.md) _Context: Mexico City_
+9. [Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-and-adoption-of-children-by-same.md) _Context: adoption of children by same-sex couples_
+10. [A Nieto Express propane gas tanker truck explodes near the loading dock of a maternity and children's hospital (Hospital Materno Infantil Cuajimalpa) in Mexico City, collapsing much of the hospital with at least three deaths and 70 people injured, 22 of whom are children. ](/news/2015/01/29/a-nieto-express-propane-gas-tanker-truck-explodes-near-the-loading-dock-of-a-maternity-and-children-s-hospital-hospital-materno-infantil-cu.md) _Context: Mexico City_

@@ -1,0 +1,23 @@
+### [2006-03-17](/news/2006/03/17/index.md)
+
+#  The fourth global World Water Forum meets in Mexico City to address problems of water shortages and conflicts. Protesters claim the forum is a platform for further privatization of water supplies. 
+
+
+
+
+### Source:
+
+1. [AP via Forbes](http://www.forbes.com/business/manufacturing/feeds/ap/2006/03/16/ap2601188.html)
+
+### Related:
+
+1. [ A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. ](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.md) _Context: World Water Forum, privatization, water_
+2. [An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29-people-and-injures-at-least-70-others-pyrote.md) _Context: Mexico City_
+3. [Luis Videgaray Caso resigns as Mexico's finance minister amid fallout over President Enrique Pena Nieto's controversial meeting with U.S. presidential candidate Donald Trump in Mexico City. Videgaray is revealed to have been the main advocate of arranging the meeting. ](/news/2016/09/7/luis-videgaray-caso-resigns-as-mexico-s-finance-minister-amid-fallout-over-president-enrique-pea-a-nieto-s-controversial-meeting-with-u-s-p.md) _Context: Mexico City_
+4. [Mexico-United States relations U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/mexicoaunited-states-relations-pu-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexi.md) _Context: Mexico City_
+5. [Mexico City authorities declare a pollution alert after smog rose to 1.5 times acceptable limits the day before implementation of the City's new, temporary air quality program that will  keep one-fifth of the city's cars at home every weekday. ](/news/2016/04/4/mexico-city-authorities-declare-a-pollution-alert-after-smog-rose-to-1-5-times-acceptable-limits-the-day-before-implementation-of-the-city-s.md) _Context: Mexico City_
+6. [Mexico City, facing the capital's worst air-quality crisis in over a decade, issues a  temporary order that all cars remain idle one day a week. Today, authorities report a pollution index of 108 (bad) after low readings during Holy Week. Vehicles will also be forced from the roads one Saturday a month. The measure will begin next Tuesday, April 5, and run until Thursday, June 30, 2016. Starting July 1, improved technology will be  in place at smog-check centers where all vehicles must be tested every six months. ](/news/2016/03/30/mexico-city-facing-the-capital-s-worst-air-quality-crisis-in-over-a-decade-issues-a-temporary-order-that-all-cars-remain-idle-one-day-a-w.md) _Context: Mexico City_
+7. [The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. ](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.md) _Context: Mexico City_
+8. [Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. ](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.md) _Context: Mexico City_
+9. [NASA publishes the first close up photos of Pluto from the New Horizons spacecraft. They show geologically young mountains made of water ice.  ](/news/2015/07/15/nasa-publishes-the-first-close-up-photos-of-pluto-from-the-new-horizons-spacecraft-they-show-geologically-young-mountains-made-of-water-ice.md) _Context: water_
+10. [A Nieto Express propane gas tanker truck explodes near the loading dock of a maternity and children's hospital (Hospital Materno Infantil Cuajimalpa) in Mexico City, collapsing much of the hospital with at least three deaths and 70 people injured, 22 of whom are children. ](/news/2015/01/29/a-nieto-express-propane-gas-tanker-truck-explodes-near-the-loading-dock-of-a-maternity-and-children-s-hospital-hospital-materno-infantil-cu.md) _Context: Mexico City_

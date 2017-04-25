@@ -1,0 +1,23 @@
+### [2006-05-3](/news/2006/05/3/index.md)
+
+#  Armavia Flight 967, an Airbus A320 airliner of Armenian airline Armavia, carrying over 110 people, crashes into the Black Sea while approaching Adler-Sochi International Airport. Rescue workers had found baggage, pieces of the shattered plane and oil floating at the site of the crash. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4967464.stm)
+
+### Related:
+
+1. [Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.md) _Context: Armenia_
+2. [Voters in Armenia go to the polls for an election, the first since constitutional changes were approved in a referendum in 2015, which changed the country's governance from a semi-presidential system to a parliamentary republic. Opinion polls predict a tight race between the nationalist Republican Party, led by President Serzh Sargsyan, and the centre-right Prosperous Armenia, led by Gagik Tsarukyan. With votes from 64% of the polling stations counted, the Republican Party leads with 49.7% of votes. ](/news/2017/04/2/voters-in-armenia-go-to-the-polls-for-an-election-the-first-since-constitutional-changes-were-approved-in-a-referendum-in-2015-which-chang.md) _Context: Armenia_
+3. [Armenia and the European Union agree on a new pact to boost ties between the two. It is expected to be signed later this year. This comes after Armenia rejected an Association Agreement in 2013. ](/news/2017/02/27/armenia-and-the-european-union-agree-on-a-new-pact-to-boost-ties-between-the-two-it-is-expected-to-be-signed-later-this-year-this-comes-af.md) _Context: Armenia_
+4. [In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. ](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.md) _Context: Armenia_
+5. [Eleven bodies have so far been recovered from the Black Sea from yesterday's military aircraft crash. All 92 people on board died. ](/news/2016/12/26/eleven-bodies-have-so-far-been-recovered-from-the-black-sea-from-yesterday-s-military-aircraft-crash-all-92-people-on-board-died.md) _Context: Black Sea_
+6. [A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.md) _Context: Black Sea_
+7. [Hovik Abrahamyan resigns as Prime Minister of Armenia citing civil unrest and a sharp economic downturn. ](/news/2016/09/8/hovik-abrahamyan-resigns-as-prime-minister-of-armenia-citing-civil-unrest-and-a-sharp-economic-downturn.md) _Context: Armenia_
+8. [A Russian Sukhoi Su-27 fighter jet makes an "unsafe close-range intercept" of a United States Navy P-8A Poseidon over the Black Sea in international airspace, coming within 10 feet (3.3 m) of the U.S. aircraft. ](/news/2016/09/7/a-russian-sukhoi-su-27-fighter-jet-makes-an-unsafe-close-range-intercept-of-a-united-states-navy-p-8a-poseidon-over-the-black-sea-in-inter.md) _Context: Black Sea_
+9. [At least seven people are killed and eight are injured after a helicopter carrying Turkish Armed Forces personnel crashes in Turkey's northern Giresun Province, on the Black Sea coast. ](/news/2016/07/5/at-least-seven-people-are-killed-and-eight-are-injured-after-a-helicopter-carrying-turkish-armed-forces-personnel-crashes-in-turkey-s-northe.md) _Context: Black Sea_
+10. [A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-station-surrender-to-police-the-na.md) _Context: Armenia_

@@ -1,0 +1,23 @@
+### [2012-03-10](/news/2012/03/10/index.md)
+
+# New protests erupt in Russia, after last week's election of Vladimir Putin as President for a third term. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-17323565)
+
+### Related:
+
+1. [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md) _Context: Russian President, Vladimir Putin, rally_
+2. [Tens of thousands rally at Moscow's Luzhniki Stadium in support of the Prime Minister Vladimir Putin's candidacy for President of Russia in the upcoming election on March 4th. ](/news/2012/02/23/tens-of-thousands-rally-at-moscow-s-luzhniki-stadium-in-support-of-the-prime-minister-vladimir-putin-s-candidacy-for-president-of-russia-in.md) _Context: Russian President, Vladimir Putin, last week's election_
+3. [When Russian President Vladimir Putin, during the January telephone conversation with President Donald Trump,  raised the possibility of extending the 2010  New START treaty that caps U.S. and Russian deployment of nuclear warheads, President Trump    declined, stating that this treaty  is a bad deal for the United States. ](/news/2017/02/9/when-russian-president-vladimir-putin-during-the-january-telephone-conversation-with-president-donald-trump-raised-the-possibility-of-ext.md) _Context: Russian President, Vladimir Putin_
+4. [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md) _Context: Russian President, Vladimir Putin_
+5. [Russian President Vladimir Putin signs a symbolic order to withdraw Russia's signature from the Rome Statute of the International Criminal Court (ICC) amid calls by pro-rebel western Non-governmental organisations for an investigation into alleged Russian war crimes in Syria. ](/news/2016/11/16/russian-president-vladimir-putin-signs-a-symbolic-order-to-withdraw-russia-s-signature-from-the-rome-statute-of-the-international-criminal-c.md) _Context: Russian President, Vladimir Putin_
+6. [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md) _Context: Russian President, Vladimir Putin_
+7. [A fire at a warehouse in Moscow, Russia, kills at least 17 people, all migrant workers from Kyrgyzstan.  The Investigative Committee of Russia, which reports directly to President Vladimir Putin, says a criminal inquiry has been launched. ](/news/2016/08/27/a-fire-at-a-warehouse-in-moscow-russia-kills-at-least-17-people-all-migrant-workers-from-kyrgyzstan-the-investigative-committee-of-russ.md) _Context: Russian President, Vladimir Putin_
+8. [Democratic presidential election nominee Hillary Clinton accuses Russian intelligence services of being behind recent hacks into Democratic National Committee computers, while also accusing Republican presidential nominee Donald Trump of supporting Russian President Vladimir Putin. ](/news/2016/07/31/democratic-presidential-election-nominee-hillary-clinton-accuses-russian-intelligence-services-of-being-behind-recent-hacks-into-democratic.md) _Context: Russian President, Vladimir Putin_
+9. [Following his meeting at Finnish  President Sauli Niinisto's residence, Russian President Vladimir Putin says that Russia would respect Finland's choice whether to join NATO, though as part of NATO's military infrastructure, Finnish Defence Forces would overnight be at the borders of the Russian Federation. Putin and Niinisto call for improved security in Baltic airspace where Russian and Western aircraft have had close encounters in recent months. ](/news/2016/07/1/following-his-meeting-at-finnish-president-sauli-niinistap-s-residence-russian-president-vladimir-putin-says-that-russia-would-respect-fin.md) _Context: Russian President, Vladimir Putin_
+10. [Turkish President Recep Tayyip Erdogan writes Russian President Vladimir Putin to offer condolences to the family of the deceased Russian pilot of the Sukhoi Su-24  warplane shot down last November. The Kremlin has insisted on a personal apology for months. A Turkish spokesman says this is a step toward improving bilateral relations between the two countries.  ](/news/2016/06/27/turkish-president-recep-tayyip-erdoaan-writes-russian-president-vladimir-putin-to-offer-condolences-to-the-family-of-the-deceased-russian-p.md) _Context: Russian President, Vladimir Putin_

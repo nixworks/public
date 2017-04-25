@@ -1,0 +1,24 @@
+### [2016-03-24](/news/2016/03/24/index.md)
+
+# Judges at the International Criminal Tribunal for the former Yugoslavia find former President of the Republika Srpska Radovan Karadzic guilty of committing genocide and crimes against humanity in Bosnia during the Bosnian War and is sentenced to 40 years in prison. Karadzic is found to be "criminally responsible" for the Srebrenica massacre. 
+
+Wartime leader of Bosnian Serbs found guilty of 10 of 11 charges at international criminal tribunal for the former Yugoslavia
+
+
+### Source:
+
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/bosnian-serb-leader-karadzic-faces-hague-courts-verdict/27632392.html)
+2. [The Guardian](http://www.theguardian.com/world/2016/mar/24/radovan-karadzic-criminally-responsible-for-genocide-at-srebenica)
+
+### Related:
+
+1. [Bosnia and Herzegovina officially releases its first census report since the end of the Bosnian War after multiple delays, showing that the country had lost one fifth of its population from 4.4 million to 3.5 million between then and 2013. ](/news/2016/06/30/bosnia-and-herzegovina-officially-releases-its-first-census-report-since-the-end-of-the-bosnian-war-after-multiple-delays-showing-that-the.md) _Context: Bosnia and Herzegovina, Bosnian War_
+2. [Former Deputy Prime Minister of Serbia and nationalist politician, Vojislav Seselj, is acquitted of all nine charges of committing atrocities in Bosnia and Croatia during the early 1990s by the International Criminal Tribunal for the former Yugoslavia. ](/news/2016/03/31/former-deputy-prime-minister-of-serbia-and-nationalist-politician-vojislav-a-ea-elj-is-acquitted-of-all-nine-charges-of-committing-atrocit.md) _Context: Bosnia and Herzegovina, International Criminal Tribunal for the former Yugoslavia_
+3. [A judge at the International Criminal Tribunal for the former Yugoslavia upholds the conviction of five men in connection with the Srebrenica massacre. ](/news/2015/01/30/a-judge-at-the-international-criminal-tribunal-for-the-former-yugoslavia-upholds-the-conviction-of-five-men-in-connection-with-the-srebrenic.md) _Context: International Criminal Tribunal for the former Yugoslavia, Srebrenica massacre_
+4. [The war crime convictions of Momcilo Perisic are overturned by a war crimes tribunal in The Hague. The Serbian general had been convicted and sentenced in 2011 for atrocities perpetrated both during wars in Croatia and Bosnia. ](/news/2013/02/28/the-war-crime-convictions-of-momailo-peria-ia-are-overturned-by-a-war-crimes-tribunal-in-the-hague-the-serbian-general-had-been-convicted.md) _Context: Bosnian War, International Criminal Tribunal for the former Yugoslavia_
+5. [Former Bosnian intelligence chief Zdravko Tolimir, believed to be a top aide to Ratko Mladic, is sentenced to life imprisonment by ICTY for his role in the Srebrenica massacre. ](/news/2012/12/13/former-bosnian-intelligence-chief-zdravko-tolimir-believed-to-be-a-top-aide-to-ratko-mladia-is-sentenced-to-life-imprisonment-by-icty-for.md) _Context: International Criminal Tribunal for the former Yugoslavia, Srebrenica massacre_
+6. [Police in Bosnia and Herzegovina arrest 25 people on suspicion of multiple murders, drug-trafficking and robbery in the biggest crackdown on organised crime since the Bosnian War. ](/news/2012/09/12/police-in-bosnia-and-herzegovina-arrest-25-people-on-suspicion-of-multiple-murders-drug-trafficking-and-robbery-in-the-biggest-crackdown-on.md) _Context: Bosnia and Herzegovina, Bosnian War_
+7. [520 men and boys killed in the Srebrenica massacre in 1995 are buried in Potocari, Bosnia and Herzegovina. ](/news/2012/07/11/520-men-and-boys-killed-in-the-srebrenica-massacre-in-1995-are-buried-in-potoaari-bosnia-and-herzegovina.md) _Context: Bosnia and Herzegovina, Srebrenica massacre_
+8. [Bosnia and Herzegovina marks the 20th anniversary of the start of the Bosnian War in April 1992. ](/news/2012/04/6/bosnia-and-herzegovina-marks-the-20th-anniversary-of-the-start-of-the-bosnian-war-in-april-1992.md) _Context: Bosnia and Herzegovina, Bosnian War_
+9. [Trial of Ratko Mladic in The Hague:Former Bosnian Serb Colonel General Ratko Mladic is scheduled to enter a plea on charges of genocide in the Srebrenica massacre during the Bosnian war at a United Nations war crimes court. ](/news/2011/07/4/trial-of-ratko-mladia-in-the-hague-pformer-bosnian-serb-colonel-general-ratko-mladia-is-scheduled-to-enter-a-plea-on-charges-of-genocide-i.md) _Context: Bosnian War, Srebrenica massacre_
+10. [The trial of former Bosnian Serb leader Radovan Karadzic resumes at the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2010/09/27/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-at-the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-h.md) _Context: International Criminal Tribunal for the former Yugoslavia, Radovan Karadžić_

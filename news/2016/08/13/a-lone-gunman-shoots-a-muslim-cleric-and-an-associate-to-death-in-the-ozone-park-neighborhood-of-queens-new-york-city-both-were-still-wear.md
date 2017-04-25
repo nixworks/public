@@ -1,0 +1,23 @@
+### [2016-08-13](/news/2016/08/13/index.md)
+
+# A lone gunman shoots a Muslim cleric and an associate to death in the Ozone Park neighborhood of Queens, New York City. Both were still wearing religious garb following afternoon prayers. No arrests have been made. 
+
+A New York City man appeared in court on Tuesday and denied charges he shot and killed a Muslim cleric and his assistant on a street in the borough of Queens over the weekend.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-new-york-shooting-idUSKCN10O0X4)
+
+### Related:
+
+1. [In Queens Village, a part of the New York City borough of Queens, 25-year-old New York Police Department (NYPD) officer Brian Moore is shot in the head through the cheek while on patrol with his partner, Erik Jansen, who was uninjured, according to NYPD Police Commissioner William Bratton. The officer was placed in an induced coma at Jamaica Hospital Medical Center, but his condition eventually deteriorated, and he died on Monday, May 4, 2015, after being taken off of life support. Demetrius Blackwell, 35, is charged with first-degree murder in the case. ](/news/2015/05/2/in-queens-village-a-part-of-the-new-york-city-borough-of-queens-25-year-old-new-york-police-department-nypd-officer-brian-moore-is-shot.md) _Context: New York's, Queens_
+2. [Three people are injured after a stabbing on a subway platform in the Parsons/Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md) _Context: New York's, Queens_
+3. [ In the basement of a hotel in the New York City borough of Queens, people hold a memorial service for the late Chinese leader Zhao Ziyang. This memorial follows the one held in the Shangri-la hotel yesterday. [http://www.nytimes.com/2005/01/23/nyregion/23protest.html (NYT)] (registration required)](/news/2005/01/22/in-the-basement-of-a-hotel-in-the-new-york-city-borough-of-queens-people-hold-a-memorial-service-for-the-late-chinese-leader-zhao-ziyang.md) _Context: New York's, Queens_
+4. [Amtrak Police taser a man at New York's Penn Station after the man allegedly became agitated due to a delayed train. Bystanders, falsely believing a shooting had occurred, caused a stampede, injuring more than a dozen people. ](/news/2017/04/14/amtrak-police-taser-a-man-at-new-york-s-penn-station-after-the-man-allegedly-became-agitated-due-to-a-delayed-train-bystanders-falsely-bel.md) _Context: New York's_
+5. [New York City Mayor Bill de Blasio announces that he is developing a plan to close the Rikers Island prison within 10 years. ](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.md) _Context: New York's_
+6. [Russia's Permanent Representative to the United Nations Vitaly Churkin dies suddenly in New York City. He would have turned 65 on Tuesday. ](/news/2017/02/20/russia-s-permanent-representative-to-the-united-nations-vitaly-churkin-dies-suddenly-in-new-york-city-he-would-have-turned-65-on-tuesday.md) _Context: New York's_
+7. [Authorities seek three men after they rob $6 million on New Year's Eve from the offices of high-end jewelry designer Gregg Ruth in New York City. ](/news/2017/01/1/authorities-seek-three-men-after-they-rob-6-million-on-new-year-s-eve-from-the-offices-of-high-end-jewelry-designer-gregg-ruth-in-new-york.md) _Context: New York's_
+8. [Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md) _Context: New York's_
+9. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: New York's_
+10. [The New York City Metropolitan Opera cancels its Saturday performances as a man,  during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention.  ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentifie.md) _Context: New York's_

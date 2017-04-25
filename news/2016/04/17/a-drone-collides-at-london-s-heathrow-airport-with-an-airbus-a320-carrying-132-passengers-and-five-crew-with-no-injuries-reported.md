@@ -1,0 +1,23 @@
+### [2016-04-17](/news/2016/04/17/index.md)
+
+# A drone collides at London's Heathrow Airport with an Airbus A320 carrying 132 passengers and five crew,  with no injuries reported. 
+
+A passenger aircraft approaching to land at London&#039;s Heathrow Airport may have collided with a drone, but landed safely, the BBC said, quoting police.
+
+
+### Source:
+
+1. [Sydney Morning Herald](http://www.smh.com.au/world/plane-may-have-collided-with-drone-at-heathrow-lands-safely-bbc-20160417-go8k6k.html)
+
+### Related:
+
+1. [British activists with the Black Lives Matter   movement from America block the road to Heathrow Airport and to streets in Manchester, Birmingham, and Nottingham, marking the fifth anniversary of the deadly police shooting of Mark Duggan in north London. Ten protestors are arrested. ](/news/2016/08/5/british-activists-with-the-black-lives-matter-movement-from-america-block-the-road-to-heathrow-airport-and-to-streets-in-manchester-birmi.md) _Context: Heathrow Airport_
+2. [Data from one of the flight recorders from EgyptAir Flight 804 shows that there was smoke on board when the Airbus A320 crashed into the water. Soot has also been found on the wreckage. ](/news/2016/06/29/data-from-one-of-the-flight-recorders-from-egyptair-flight-804-shows-that-there-was-smoke-on-board-when-the-airbus-a320-crashed-into-the-wat.md) _Context: Airbus A320_
+3. [  U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shab.md) _Context: drone_
+4. [ Planes have been left stranded at airports throughout the United Kingdom as the "Great Fog" descends. Heathrow Airport said around 45 flights had been cancelled there while London City Airport was closed for several hours. Other affected airports include Manchester, Leeds Bradford, Glasgow, Belfast, Southampton and Cardiff. ](/news/2015/11/2/planes-have-been-left-stranded-at-airports-throughout-the-united-kingdom-as-the-great-fog-descends-heathrow-airport-said-around-45-fligh.md) _Context: Heathrow Airport_
+5. [The Oklahoma Department of Corrections says a drone carrying mobile phones, drugs, and hacksaw blades crashed at the Oklahoma State Penitentiary in McAlester before inmates could grab the contraband. This is fourth reported drone-attempt in the United States; the others were at prisons in Ohio, Maryland, and South Carolina. ](/news/2015/10/29/the-oklahoma-department-of-corrections-says-a-drone-carrying-mobile-phones-drugs-and-hacksaw-blades-crashed-at-the-oklahoma-state-penitent.md) _Context: drone_
+6. [U.S. Secretary of Transportation Anthony Foxx announced that all unmanned aircraft, i.e. drones, will be required to be registered with the government just as manned aircraft are. DOT is forming a task force of government leaders and diverse stakeholders who will determine the specifics of which drones will be covered and how the registration process will work. ](/news/2015/10/19/u-s-secretary-of-transportation-anthony-foxx-announced-that-all-unmanned-aircraft-i-e-drones-will-be-required-to-be-registered-with-the.md) _Context: drone_
+7. [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md) _Context: drone_
+8. [An Asiana Airlines Airbus A320 en route from South Korea to Japan skids off the runway at Hiroshima Airport injuring 20 of the 74 passengers. ](/news/2015/04/14/an-asiana-airlines-airbus-a320-en-route-from-south-korea-to-japan-skids-off-the-runway-at-hiroshima-airport-injuring-20-of-the-74-passengers.md) _Context: Airbus A320_
+9. [Philippines President Benigno Aquino III demands an investigation after a drone purportedly belonging to the United States Navy is found in the Philippine province of Quezon, the second found in the country. ](/news/2015/01/7/philippines-president-benigno-aquino-iii-demands-an-investigation-after-a-drone-purportedly-belonging-to-the-united-states-navy-is-found-in.md) _Context: drone_
+10. [A teenager is arrested at Heathrow Airport in England in relation to suspected involvement in Syrian-related terrorism. ](/news/2014/06/1/a-teenager-is-arrested-at-heathrow-airport-in-england-in-relation-to-suspected-involvement-in-syrian-related-terrorism.md) _Context: Heathrow Airport_

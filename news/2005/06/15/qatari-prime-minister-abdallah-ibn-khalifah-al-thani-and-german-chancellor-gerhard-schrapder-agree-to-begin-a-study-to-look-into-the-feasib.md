@@ -1,0 +1,24 @@
+### [2005-06-15](/news/2005/06/15/index.md)
+
+#  Qatari Prime Minister Abdallah ibn Khalifah Al Thani and German Chancellor Gerhard Schroder agree to begin a study to look into the feasibility of building a maglev line approximately 160&nbsp;km long linking Qatar and Bahrain, powered by Transrapid technology developed by Siemens AG and ThyssenKrupp. Also being considered is a possible extension to the United Arab Emirates that would make the combined length of the line roughly 800&nbsp;km. 
+
+
+
+
+### Source:
+
+1. [AME Info](http://www.ameinfo.com/62493.html)
+2. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=52&story_id=21075&name=Qatar+agrees+to+feasibility+study+for+Gulf+maglev)
+
+### Related:
+
+1. [Foreign relations of the United States The United Arab Emirates and Bahrain issue a travel warning for their citizens heading to American cities where protests are occuring following ethnic tensions in the country. This comes after The Bahamas issued its own travel warning yesterday, after the shooting of Dallas police officers. ](/news/2016/07/10/foreign-relations-of-the-united-states-pthe-united-arab-emirates-and-bahrain-issue-a-travel-warning-for-their-citizens-heading-to-american-c.md) _Context: Bahrain, United Arab Emirates_
+2. [The Gulf Cooperation Council  formally designates Lebanon's Hezbollah militia a terrorist organization. The GCC  member states are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. ](/news/2016/03/2/the-gulf-cooperation-council-formally-designates-lebanon-s-hezbollah-militia-a-terrorist-organization-the-gcc-member-states-are-bahrain.md) _Context: Bahrain, United Arab Emirates_
+3. [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md) _Context: Bahrain, United Arab Emirates_
+4. [Sudan and Bahrain follow Saudi Arabia's lead and cut diplomatic relations with Iran, and the United Arab Emirates downgrades diplomatic ties. ](/news/2016/01/4/sudan-and-bahrain-follow-saudi-arabia-s-lead-and-cut-diplomatic-relations-with-iran-and-the-united-arab-emirates-downgrades-diplomatic-ties.md) _Context: Bahrain, United Arab Emirates_
+5. [ German Chancellor Gerhard Schroder informs that he won't play a role in the Merkel grand coalition cabinet. He criticizes the United States for its response to Hurricane Katrina and "Anglo-Saxon economic policies," while stressing the importance of Franco-Germanic ties. ](/news/2005/10/12/german-chancellor-gerhard-schrapder-informs-that-he-won-t-play-a-role-in-the-merkel-grand-coalition-cabinet-he-criticizes-the-united-state.md) _Context: Chancellor, Gerhard Schröder_
+6. [ Following the German federal election, 2005, Christian Democrat Angela Merkel will become the next Chancellor of Germany, replacing Social Democrat Gerhard Schroder, although Schroder's party will be the dominant party in the grand coalition.](/news/2005/10/10/following-the-german-federal-election-2005-christian-democrat-angela-merkel-will-become-the-next-chancellor-of-germany-replacing-social.md) _Context: Chancellor, Gerhard Schröder_
+7. [Citing a drop in demand, the Dubai-based, United Arab Emirates-owned airline Emirates Air announces a cut in flights to five of its 12 U.S. destinations.  The airline's Dubai hub, third-busiest in the world, is a major stop for travelers in countries affected by President Donald Trump's travel ban, and is also one of several Middle East airports affected by a U.S. ban on tablets, laptops, and similar devices in the passenger cabin. ](/news/2017/04/19/citing-a-drop-in-demand-the-dubai-based-united-arab-emirates-owned-airline-emirates-air-announces-a-cut-in-flights-to-five-of-its-12-u-s.md) _Context: United Arab Emirates_
+8. [The Somali pirates that hijacked the ''Aris 13'', a United Arab Emirates-owned oil tanker, release it without condition. ](/news/2017/03/16/the-somali-pirates-that-hijacked-the-aris-13-a-united-arab-emirates-owned-oil-tanker-release-it-without-condition.md) _Context: United Arab Emirates_
+9. [Off the northern coast of Somalia, Somali pirates hijack the ''Aris 13'', a United Arab Emirates-owned oil tanker, kidnapping eight Sri Lankan crew members. This is the first hijacking of a large commercial vessel in five years. ](/news/2017/03/14/off-the-northern-coast-of-somalia-somali-pirates-hijack-the-aris-13-a-united-arab-emirates-owned-oil-tanker-kidnapping-eight-sri-lank.md) _Context: United Arab Emirates_
+10. [The United Arab Emirates announces at the World Government Summit that its planned passenger drone will begin operations in July. ](/news/2017/02/14/the-united-arab-emirates-announces-at-the-world-government-summit-that-its-planned-passenger-drone-will-begin-operations-in-july.md) _Context: United Arab Emirates_

@@ -1,0 +1,24 @@
+### [2006-04-24](/news/2006/04/24/index.md)
+
+#  Former Trinidad and Tobago Prime Minister, and current Leader of the Opposition, Basdeo Panday, is convicted on three counts of failing to declare a London bank account in 1997, 1998, and 1999. He is sentenced to two years imprisonment with hard labour, fined TT$20,000 on each count, and ordered to forfeit approximately TT$1,600,000 (the accumulated year-end balances of the account in question). He intends to appeal the sentence, but resigned as Leader of the Opposition. 
+
+
+
+
+### Source:
+
+1. [T&T Express](http://www.trinidadexpress.com/index.pl/article_news?id=153641644)
+2. [Radio Jamaica](http://www.radiojamaica.com/news/story.php?category=2&story=24317)
+
+### Related:
+
+1. [Following the Obama Administration's pledge of additional Special Operations troops to Iraq, several members of Iraq's ruling alliance state that only the Iraqi Parliament can authorize the action, and political associates of Iraqi Prime Minister Haider al-Abadi report such a troop expansion would be unacceptable. Several members of Iraqi militias have also decried a deployment of more U.S. troops. During the pull out from Iraq, president Obama promised there would be no more "boots on the ground" in Iraq again. ](/news/2015/12/3/following-the-obama-administration-s-pledge-of-additional-special-operations-troops-to-iraq-several-members-of-iraqas-ruling-alliance-sta.md) _Context: Prime Minister_
+2. [U.S. Secretary of State John Kerry met today in Berlin with Israeli Prime Minister Benjamin Netanyahu regarding the recent spate of violence between Palestinians and Israelis. Kerry will meet on Saturday with Palestinian President Mahmoud Abbas and King Abdullah of Jordan in Amman. ](/news/2015/10/22/u-s-secretary-of-state-john-kerry-met-today-in-berlin-with-israeli-prime-minister-benjamin-netanyahu-regarding-the-recent-spate-of-violence.md) _Context: Prime Minister_
+3. [Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. ](/news/2015/09/7/voters-in-trinidad-and-tobago-go-to-the-polls-for-a-house-of-representatives-election-with-the-people-s-national-movement-led-by-keith-rowle.md) _Context: Trinidad and Tobago_
+4. [During presidential election Anthony Carmona is elected to be the next President of Trinidad and Tobago from 18 March 2013. ](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.md) _Context: Trinidad and Tobago_
+5. [Former FIFA vice-president Jack Warner becomes the national security minister of Trinidad and Tobago. ](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.md) _Context: Trinidad and Tobago_
+6. [2010-2011 Tunisian protests:Thousands of protesters defy curfew and march in Tunis, camping outside the government's main office complex and demanding that the Prime Minister and the old guard that served under former President Zine El Abidine Ben Ali, step down. ](/news/2011/01/25/2010a2011-tunisian-protests-pthousands-of-protesters-defy-curfew-and-march-in-tunis-camping-outside-the-government-s-main-office-complex.md) _Context: Prime Minister_
+7. [Daniel Skahan, a 29-year-old from Ottawa, is charged 5,000 $ for mischief and possession of incendiary materials, for his role in setting a fire just outside of Canadian Prime Minister Stephen Harper's home. ](/news/2010/08/15/daniel-skahan-a-29-year-old-from-ottawa-is-charged-5-000-for-mischief-and-possession-of-incendiary-materials-for-his-role-in-setting-a.md) _Context: Prime Minister_
+8. [The United Nations Human Rights Council appoints Sir Desmond de Silva of Britain, Karl Hudson-Phillips of Trinidad and Tobago, and Mary Shanth Dairiam of Malaysia to investigate the Gaza flotilla raid. ](/news/2010/07/23/the-united-nations-human-rights-council-appoints-sir-desmond-de-silva-of-britain-karl-hudson-phillips-of-trinidad-and-tobago-and-mary-shan.md) _Context: Trinidad and Tobago_
+9. [Trinidad and Tobago holds a general election, resulting in the victory of the United National Congress, and Kamla Persad-Bissessar becoming its first female Prime Minister. ](/news/2010/05/24/trinidad-and-tobago-holds-a-general-election-resulting-in-the-victory-of-the-united-national-congress-and-kamla-persad-bissessar-becoming.md) _Context: Trinidad and Tobago_
+10. [Turkey's Prime Minister, Recep Tayyip Erdogan, describes Israel as the "main threat to peace" in the Middle East. ](/news/2010/04/7/turkey-s-prime-minister-recep-tayyip-erdoaan-describes-israel-as-the-main-threat-to-peace-in-the-middle-east.md) _Context: Prime Minister_

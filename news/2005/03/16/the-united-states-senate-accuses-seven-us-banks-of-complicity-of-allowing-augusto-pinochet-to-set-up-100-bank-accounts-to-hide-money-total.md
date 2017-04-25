@@ -1,0 +1,25 @@
+### [2005-03-16](/news/2005/03/16/index.md)
+
+#  The United States Senate accuses seven US banks of complicity of allowing Augusto Pinochet to set up 100 bank accounts to hide money total to US$15 million. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2005/WORLD/americas/03/16/pinochet.funds/)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7914175)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4352905.stm)
+
+### Related:
+
+1. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md) _Context: United States Senate_
+2. [In a 6&ndash;2 decision (''NLRB v. SW General, Inc''), the U.S. Supreme Court puts new restrictions on presidential powers, limiting a president's authority to staff certain top government posts in a case involving an appointment to the National Labor Relations Board saying that under the Federal Vacancies Reform Act, a person cannot serve as the acting head of a federal agency once the president nominates him or her to permanently serve in the role if it is a position that requires U.S. Senate confirmation. The court upholds a lower court's ruling that then-President Barack Obama exceeded his legal authority with his temporary appointment of an NLRB general counsel in 2011. The ruling will give President Donald Trump and future presidents less flexibility in filling jobs that require Senate confirmation. ](/news/2017/03/21/in-a-6-ndash-2-decision-nlrb-v-sw-general-inc-the-u-s-supreme-court-puts-new-restrictions-on-presidential-powers-limiting-a-presi.md) _Context: United States Senate_
+3. [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md) _Context: United States Senate_
+4. [The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-general.md) _Context: United States Senate_
+5. [The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education.  ](/news/2017/02/7/the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary-of-education.md) _Context: United States Senate_
+6. [With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. ](/news/2017/02/17/with-a-52a46-vote-the-u-s-senate-confirms-attorney-general-of-oklahoma-scott-pruitt-as-the-administrator-of-the-environmental-protection.md) _Context: United States Senate_
+7. [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md) _Context: United States Senate_
+8. [The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/the-united-states-senate-in-a-53a47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _Context: United States Senate_
+9. [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md) _Context: United States Senate_
+10. [The United States Senate, in a 56-43 vote, confirms Rex Tillerson's nomination as United States Secretary of State. ](/news/2017/02/1/the-united-states-senate-in-a-56a43-vote-confirms-rex-tillerson-s-nomination-as-united-states-secretary-of-state.md) _Context: United States Senate_

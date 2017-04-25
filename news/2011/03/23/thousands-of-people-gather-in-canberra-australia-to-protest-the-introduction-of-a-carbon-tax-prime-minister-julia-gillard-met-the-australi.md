@@ -1,0 +1,26 @@
+### [2011-03-23](/news/2011/03/23/index.md)
+
+# Thousands of people gather in Canberra, Australia to protest the introduction of a carbon tax, Prime Minister Julia Gillard met the Australian Youth Climate Coalition which is pushing for a price on emissions, while climate change mitigation activists including the Australian Council of Trade Unions delivered a petition to Minister for Climate Change and Energy Efficiency Greg Combet signed by about 10,000 "working Australians" urging the government to take action. 
+
+Canberra has found itself at the centre of clashing rallies by climate action campaigners and anti-carbon tax protesters.
+
+
+### Source:
+
+1. [AAP via ''Adelaide Now](http://www.adelaidenow.com.au/news/breaking-news/anti-carbon-tax-rally-told-prime-minister-julia-gillard-like-pinocchio/story-e6frea73-1226026686775)
+2. [The Australian](http://www.theaustralian.com.au/national-affairs/climate/carbon-tax-protesters-labelled-extremists-as-they-rally-in-canberra/story-e6frg6xf-1226026565064)
+3. [Daily Telegraph](http://www.dailytelegraph.com.au/news/more-than-3000-rally-against-carbon-tax-outside-parliament-house/story-e6freuy9-1226026717154)
+4. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/tax-climate-protesters-rally-20110323-1c5iy.html)
+
+### Related:
+
+1. [The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. ](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.md) _Context: Australia, Canberra, Prime Minister of Australia_
+2. [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+3. [Australia opens a national probe into child sex abuse, with Prime Minister Julia Gillard warning of "uncomfortable truths" as institutions including schools and churches come under scrutiny. ](/news/2013/04/3/australia-opens-a-national-probe-into-child-sex-abuse-with-prime-minister-julia-gillard-warning-of-uncomfortable-truths-as-institutions-i.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+4. [Australian Prime Minister Julia Gillard announces that the late Swedish diplomat Raoul Wallenberg has been made an honorary Australian citizen. ](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+5. [The Prime Minister of Australia Julia Gillard announces that the next federal election will be held on September 14. ](/news/2013/01/30/the-prime-minister-of-australia-julia-gillard-announces-that-the-next-federal-election-will-be-held-on-september-14.md) _Context: Australia, Julia Gillard, Prime Minister of Australia_
+6. [Security escort Australian Prime Minister Julia Gillard and Opposition Leader Tony Abbott from a restaurant in Canberra after indigenous protesters surrounded the building on Australia Day in response to comments made by Abbott. ](/news/2012/01/26/security-escort-australian-prime-minister-julia-gillard-and-opposition-leader-tony-abbott-from-a-restaurant-in-canberra-after-indigenous-pro.md) _Context: Canberra, Julia Gillard, Prime Minister of Australia_
+7. [The Prime Minister of Australia Julia Gillard announces the details of a plan to introduce a carbon tax. ](/news/2011/07/10/the-prime-minister-of-australia-julia-gillard-announces-the-details-of-a-plan-to-introduce-a-carbon-tax.md) _Context: Julia Gillard, Prime Minister of Australia, carbon tax_
+8. [Thousands of people attend pro- and anti-carbon tax (part of a phase-in of an emissions trading program) rallies in Sydney, Australia. ](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-tax-part-of-a-phase-in-of-an-emissions-trading-program-rallies-in-sydney-australia.md) _Context: Australia, carbon tax, pro- and anti_
+9. [The Australian Council of Trade Unions and Australian Workers' Union threatens to withdraw support for the Julia Gillard minority government's plans to introduce a carbon tax unless it can be guaranteed that no jobs will be lost. ](/news/2011/04/15/the-australian-council-of-trade-unions-and-australian-workers-union-threatens-to-withdraw-support-for-the-julia-gillard-minority-government.md) _Context: Australian Council of Trade Unions, Julia Gillard, carbon tax_
+10. [Australia's Climate Change Minister, Greg Combet, says that the government's plans to impose a carbon tax, part of a phase-in of an emissions trading program, will impact less than 1,000 companies. ](/news/2011/03/7/australia-s-climate-change-minister-greg-combet-says-that-the-government-s-plans-to-impose-a-carbon-tax-part-of-a-phase-in-of-an-emission.md) _Context: Australia, Greg Combet, carbon tax_

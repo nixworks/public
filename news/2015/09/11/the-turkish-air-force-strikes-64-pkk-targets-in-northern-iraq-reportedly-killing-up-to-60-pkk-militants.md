@@ -1,0 +1,23 @@
+### [2015-09-11](/news/2015/09/11/index.md)
+
+# The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. 
+
+
+
+
+### Source:
+
+1. [Daily Sabah](http://www.dailysabah.com/politics/2015/09/11/turkish-jets-pound-64-pkk-targets-in-northern-iraq-killing-60-terrorists)
+
+### Related:
+
+1. [The Turkish Air Force launches a wave of airstrikes against PKK targets in northern Iraq and southeastern Turkey. Turkish security officials have also rejected a PKK ceasefire declared on Saturday shortly after the bombings in Ankara, saying "The PKK ceasefire means nothing for us. The operations will continue without a break". ](/news/2015/10/11/the-turkish-air-force-launches-a-wave-of-airstrikes-against-pkk-targets-in-northern-iraq-and-southeastern-turkey-turkish-security-officials.md) _Context: Iraqi Kurdistan, PKK, Turkey–PKK conflict, Turkish_
+2. [Turkey's air force launches a new wave of air-raids bombing PKK positions in northern Iraq and southeastern Turkey. Turkish warplanes destroy PKK fuel and ammunition depots in the Hakkari province on the border with Iraq, as well as, in the eastern Kars province, according to a military statement. ](/news/2015/10/4/turkey-s-air-force-launches-a-new-wave-of-air-raids-bombing-pkk-positions-in-northern-iraq-and-southeastern-turkey-turkish-warplanes-destro.md) _Context: Iraqi Kurdistan, PKK, Turkey–PKK conflict_
+3. [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md) _Context: Iraqi Kurdistan, Turkish_
+4. [Turkish security forces backed up by tanks and combat helicopters launch a large-scale operation against PKK militants in the mainly Kurdish town of Silvan, which has been under a punishing curfew for nine days. At least five people are killed in the fighting, including a Turkish soldier. ](/news/2015/11/11/turkish-security-forces-backed-up-by-tanks-and-combat-helicopters-launch-a-large-scale-operation-against-pkk-militants-in-the-mainly-kurdish.md) _Context: PKK, Turkey–PKK conflict_
+5. [At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-of-silvan.md) _Context: PKK, Turkey–PKK conflict_
+6. [Twin bomb blasts in the Turkish capital Ankara near the main train station leave at least 97 people dead and over 400 wounded. The bombing occurred during a peace rally protesting the conflict between Turkey and the militant Kurdish PKK.  ](/news/2015/10/10/twin-bomb-blasts-in-the-turkish-capital-ankara-near-the-main-train-station-leave-at-least-97-people-dead-and-over-400-wounded-the-bombing-o.md) _Context: PKK, Turkey–PKK conflict_
+7. [Four Turkish soldiers are killed in PKK attacks across southeastern Turkey. Turkish authorities impose a curfew in the city of Mardin due to escalating violence. ](/news/2015/10/1/four-turkish-soldiers-are-killed-in-pkk-attacks-across-southeastern-turkey-turkish-authorities-impose-a-curfew-in-the-city-of-mardin-due-to.md) _Context: PKK, Turkey–PKK conflict_
+8. [Turkish jets strike PKK militant positions across south-east Turkey and northern Iraq and deploy special forces to the Iraqi border following a deadly PKK attack which left at least 16 Turkish soldiers dead. ](/news/2015/09/7/turkish-jets-strike-pkk-militant-positions-across-south-east-turkey-and-northern-iraq-and-deploy-special-forces-to-the-iraqi-border-followin.md) _Context: PKK, Turkey–PKK conflict_
+9. [Two police officers are gunned down by suspected PKK militants on the streets of Adana, southern Turkey. ](/news/2015/09/29/two-police-officers-are-gunned-down-by-suspected-pkk-militants-on-the-streets-of-adana-southern-turkey.md) _Context: PKK, Turkey–PKK conflict_
+10. [Fighting in the south-eastern Sirnak Province kills thirty-four PKK militants, four civilians, and two Turkish soldiers. Also, the Turkish military conducts airstrikes on PKK camps in Iraq's northern Dohuk Governorate. ](/news/2015/09/26/fighting-in-the-south-eastern-aa-rnak-province-kills-thirty-four-pkk-militants-four-civilians-and-two-turkish-soldiers-also-the-turkish.md) _Context: PKK, Turkey–PKK conflict_

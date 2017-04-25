@@ -1,0 +1,24 @@
+### [2015-12-2](/news/2015/12/2/index.md)
+
+# The Institute of Contemporary History in Munich announces a publication of a two-volume set of Adolf Hitler's ''Mein Kampf''. The new edition, which contains 3,500 scholarly annotations, is intended, ''The New York Times'' reports, "To set the work in historical context, to show how Hitler wove truth with half-truth and outright lie, and thus to defang any propagandistic effect while revealing Nazism."  This is the first printing in Germany since the end of World War II. 
+
+
+
+
+### Source:
+
+1. [The Week](http://theweek.com/speedreads/591745/after-70-years-mein-kampf-published-again-germany)
+2. [The New York Times](http://www.nytimes.com/2015/12/02/world/europe/scholars-unveil-new-edition-of-hitlers-mein-kampf.html)
+
+### Related:
+
+1. [Documents discovered in a Russian archive suggest that Adolf Hitler ordered Rudolf Hess to go to the United Kingdom to negotiate with Winston Churchill over a World War II peace deal in 1941. ](/news/2011/05/30/documents-discovered-in-a-russian-archive-suggest-that-adolf-hitler-ordered-rudolf-hess-to-go-to-the-united-kingdom-to-negotiate-with-winsto.md) _Context: Adolf Hitler, World War II_
+2. [An art exhibition indicates Adolf Hitler's foreign minister, Joachim von Ribbentrop, planned to retire in Cornwall after the planned German invasion of Britain during World War II. ](/news/2010/10/3/an-art-exhibition-indicates-adolf-hitler-s-foreign-minister-joachim-von-ribbentrop-planned-to-retire-in-cornwall-after-the-planned-german.md) _Context: Adolf Hitler, World War II_
+3. [Austria's Leopold Museum agrees to pay $19 million to the estate of Jewish art dealer Egon Schiele's for ''Portrait of Wally'', stolen from her by Nazism in World War II. ](/news/2010/07/21/austria-s-leopold-museum-agrees-to-pay-19-million-to-the-estate-of-jewish-art-dealer-egon-schiele-s-for-portrait-of-wally-stolen-from.md) _Context: Nazism, World War II_
+4. [ A rare signed copy of Adolf Hitler's ''Mein Kampf'' sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for PS21,000 (EUR24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitleras-mein-kampf-sells-at-the-mullockas-auction-at-ludlow-racecourse-shropshire-for-aps21-000-a-2.md) _Context: Adolf Hitler, Mein Kampf_
+5. [ Nazi Officer Ladislav Niznansky is acquitted of charges relating to three massacres of Slovaks during World War II. ](/news/2005/12/19/nazi-officer-ladislav-niznansky-is-acquitted-of-charges-relating-to-three-massacres-of-slovaks-during-world-war-ii.md) _Context: Nazism, World War II_
+6. [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers ''in absentia'' to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role.md) _Context: Nazism, World War II_
+7. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Nazism_
+8. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: World War II_
+9. [Over 70,000 people are evacuated from Thessaloniki, Greece, as authorities attempt to defuse a World War II-era unexploded ordnance, which was discovered last week. ](/news/2017/02/11/over-70-000-people-are-evacuated-from-thessaloniki-greece-as-authorities-attempt-to-defuse-a-world-war-ii-era-unexploded-ordnance-which-w.md) _Context: World War II_
+10. [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md) _Context: World War II_

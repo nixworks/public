@@ -1,0 +1,23 @@
+### [2010-08-4](/news/2010/08/4/index.md)
+
+# U.S. Rep. Don Young R-Alaska claims that he has been cleared in a United States Department of Justice corruption probe. 
+
+
+
+
+### Source:
+
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jlcHyU6IkqVuvYMO9vgCi1xAFlywD9HCV7S80)
+
+### Related:
+
+1. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Republican, U.S. House_
+2. [A leaked memo from House Republicans reveals cutting provisions from Obamacare such as Medicaid expansions and subsidies for health insurance. ](/news/2017/02/25/a-leaked-memo-from-house-republicans-reveals-cutting-provisions-from-obamacare-such-as-medicaid-expansions-and-subsidies-for-health-insuranc.md) _Context: Republican, U.S. House_
+3. [The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-criticism-including-a-tweet-by-pres.md) _Context: Republican, U.S. House_
+4. [Members of the Republican party in the United States House of Representatives nominate Paul Ryan of Wisconsin to replace John Boehner of Ohio as Speaker of the House.  There will be a formal vote Thursday on the House floor. ](/news/2015/10/28/members-of-the-republican-party-in-the-united-states-house-of-representatives-nominate-paul-ryan-of-wisconsin-to-replace-john-boehner-of-ohi.md) _Context: Republican, U.S. House_
+5. [Rep. Thaddeus McCotter, R-Mich., announces his resignation from the United States House of Representatives. ](/news/2012/07/6/rep-thaddeus-mccotter-r-mich-announces-his-resignation-from-the-united-states-house-of-representatives.md) _Context: Republican, U.S. House_
+6. [Veteran Ohio Congressman Dennis Kucinich is defeated in a Democrat primary in the 9th district by incumbent Marcia C. Kaptur after he was affected by redistricting - Samuel Wurzelbacher aka Joe the Plumber wins the Republican Party primary. ](/news/2012/03/6/veteran-ohio-congressman-dennis-kucinich-is-defeated-in-a-democrat-primary-in-the-9th-district-by-incumbent-marcia-c-kaptur-after-he-was-af.md) _Context: Republican, U.S. House_
+7. [Incumbent Ohio Congresswoman Jean Schmidt is defeated in the Republican primary in the 2nd district by Brad Wenstrup. ](/news/2012/03/6/incumbent-ohio-congresswoman-jean-schmidt-is-defeated-in-the-republican-primary-in-the-2nd-district-by-brad-wenstrup.md) _Context: Republican, U.S. House_
+8. [The former Governor of Alaska Sarah Palin announces that she will not put her name forward as a Republican candidate for the 2012 presidential election. ](/news/2011/10/5/the-former-governor-of-alaska-sarah-palin-announces-that-she-will-not-put-her-name-forward-as-a-republican-candidate-for-the-2012-presidenti.md) _Context: Alaska, Republican_
+9. [Republicans in the United States House of Representatives announce they will delay a vote on extending the debt ceiling until Thursday due to concerns over level of proposed savings not being sufficient. ](/news/2011/07/27/republicans-in-the-united-states-house-of-representatives-announce-they-will-delay-a-vote-on-extending-the-debt-ceiling-until-thursday-due-t.md) _Context: Republican, U.S. House_
+10. [Rep Michele Bachmann announces mid-debate that she will seek the Republican Party nomination for President of the United States. ](/news/2011/06/13/rep-michele-bachmann-announces-mid-debate-that-she-will-seek-the-republican-party-nomination-for-president-of-the-united-states.md) _Context: Republican, U.S. House_

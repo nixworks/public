@@ -1,0 +1,23 @@
+### [2014-12-9](/news/2014/12/9/index.md)
+
+# Al Qaeda in the Islamic Maghreb release Serge Lazarevic, a French hostage seized three years ago in Mali. 
+
+
+
+
+### Source:
+
+1. [NYTimes](http://www.nytimes.com/2014/12/10/world/europe/french-hostage-serge-lazarevic-released.html?_r=0)
+
+### Related:
+
+1. [Ansar Dine, a militant Islamist group linked to Al-Qaeda in the Islamic Maghreb claims responsibility for yesterday's attack on a United Nations base in Kidal, northern Mali, that killed six UN peacekeepers, all from neighboring Guinea. ](/news/2016/02/13/ansar-dine-a-militant-islamist-group-linked-to-al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-yesterday-s-attack-on-a-united-nat.md) _Context: Mali, al-Qaeda_
+2. [Two French journalists working for RFI are kidnapped and killed in the town of Kidal in northern Mali. ](/news/2013/11/2/two-french-journalists-working-for-rfi-are-kidnapped-and-killed-in-the-town-of-kidal-in-northern-mali.md) _Context: Frenchman, Mali_
+3. [In Amenas hostage crisis:Suspected Islamic militants take over a BP facility in In Amenas, Algeria, killing at least 2 workers and taking up to 40 others hostage, including 13 Norwegians, a number of Americans, as well as nationals from Ireland, Japan, France and the United Kingdom. A previously unknown group allied to al-Qaeda's regional branch says the attack is in revenge for Algeria's support of the French operation against Islamic rebels in Mali. ](/news/2013/01/16/in-ama-c-nas-hostage-crisis-psuspected-islamic-militants-take-over-a-bp-facility-in-in-ama-c-nas-algeria-killing-at-least-2-workers-and-taking.md) _Context: Mali, al-Qaeda_
+4. [French authorities seek to make contact with Al-Qaeda in the Islamic Maghreb over the kidnapping of five French nationals and two others in Niger, now believed to have been taken to northern Mali. ](/news/2010/09/23/french-authorities-seek-to-make-contact-with-al-qaeda-in-the-islamic-maghreb-over-the-kidnapping-of-five-french-nationals-and-two-others-in.md) _Context: Mali, al-Qaeda_
+5. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali_
+6. [Aftermath of the President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/aftermath-of-the-president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-at.md) _Context: Mali_
+7. [Mali returns two people France deported on the same planes they arrived on. ](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.md) _Context: Mali_
+8. [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md) _Context: Mali_
+9. [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md) _Context: Frenchman_
+10. [The International Criminal Court sentences Ahmad al-Faqi al-Mahdi to nine years in jail for leading the destruction of nine of Timbuktu's mausoleums and the centuries-old door of the Malian city's Sidi Yahya Mosque. ](/news/2016/09/27/the-international-criminal-court-sentences-ahmad-al-faqi-al-mahdi-to-nine-years-in-jail-for-leading-the-destruction-of-nine-of-timbuktu-s-ma.md) _Context: Mali_

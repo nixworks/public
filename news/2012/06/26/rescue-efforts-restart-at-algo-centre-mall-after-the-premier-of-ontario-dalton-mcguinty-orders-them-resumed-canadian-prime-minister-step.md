@@ -1,0 +1,24 @@
+### [2012-06-26](/news/2012/06/26/index.md)
+
+# Rescue efforts restart at Algo Centre Mall, after the Premier of Ontario, Dalton McGuinty, orders them resumed. Canadian Prime Minister Stephen Harper asks the Canadian Forces to ready for deployment, if they should be needed. 
+
+Canada&#8217;s prime minister has offered to send the military to help with the rescue effort at a partially collapsed mall in Ontario where at least one person has died and another may still be alive beneath the rubble, officials said Tuesday.
+
+
+### Source:
+
+1. [Toronto Star](http://www.thestar.com/news/canada/article/1217181--elliot-lake-mall-roof-collapse-excavation-gear-on-its-way-dalton-mcguinty-says)
+2. [Washington Times](http://www.washingtontimes.com/news/2012/jun/26/harper-offers-military-for-rescue-at-mall-collapse/)
+
+### Related:
+
+1. [Canadian Prime Minister Stephen Harper confirms that he has asked Governor General David Johnston to dissolve the Canadian Parliament and set a general election for October 19. This will be the longest election campaign for Canada in recent history, since voting was once staggered over months to accommodate people travelling from remote regions of the country using archaic means of transportation. ](/news/2015/08/2/canadian-prime-minister-stephen-harper-confirms-that-he-has-asked-governor-general-david-johnston-to-dissolve-the-canadian-parliament-and-se.md) _Context: Stephen Harper_
+2. [A gunman shoots a Canadian Forces soldier outside the Canadian National War Memorial, with the gunman later reported dead inside the Canadian Parliament buildings. The incident came hours after Canada raised its terror threat level from low to medium following Monday's fatal hit-and-run attack on two soldiers in Quebec. ](/news/2014/10/22/a-gunman-shoots-a-canadian-forces-soldier-outside-the-canadian-national-war-memorial-with-the-gunman-later-reported-dead-inside-the-canadia.md) _Context: Canadian Forces_
+3. [Ontario premier Dalton McGuinty announces his resignation. ](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-resignation.md) _Context: Dalton McGuinty_
+4. [The roof of the Algo Centre Mall in Elliot Lake, Ontario, Canada collapses killing at least one person and trapping several others in the debris. ](/news/2012/06/24/the-roof-of-the-algo-centre-mall-in-elliot-lake-ontario-canada-collapses-killing-at-least-one-person-and-trapping-several-others-in-the-de.md) _Context: Algo Centre Mall_
+5. [Algo Centre Mall in Elliot Lake, Ontario undergoes a partial structural failure when a segment of the rooftop parking deck collapses into the building. 22 people are injured and two bodies are recovered four days later. ](/news/2012/06/23/algo-centre-mall-in-elliot-lake-ontario-undergoes-a-partial-structural-failure-when-a-segment-of-the-rooftop-parking-deck-collapses-into-th.md) _Context: Algo Centre Mall_
+6. [Canadian Prime Minister Stephen Harper goes on an official visit to China, meeting with President Hu Jintao, Premier Wen Jiabao, and Vice-Premier Li Keqiang. The two countries sign trade deals worth over $3 billion. ](/news/2012/02/9/canadian-prime-minister-stephen-harper-goes-on-an-official-visit-to-china-meeting-with-president-hu-jintao-premier-wen-jiabao-and-vice-pr.md) _Context: Stephen Harper_
+7. [Canadian Prime Minister Stephen Harper meets privately with Chongqing party boss Bo Xilai. The latter is currently embroiled in the Wang Lijun affair in what is rumoured to be an intense political struggle. ](/news/2012/02/11/canadian-prime-minister-stephen-harper-meets-privately-with-chongqing-party-boss-bo-xilai-the-latter-is-currently-embroiled-in-the-wang-lij.md) _Context: Stephen Harper_
+8. [Voters in Canada's most populous province Ontario go to the polls for a general election with the Ontario Liberal Party, led by Dalton McGuinty, winning another term under a slight minority government.](/news/2011/10/6/voters-in-canada-s-most-populous-province-ontario-go-to-the-polls-for-a-general-election-with-the-ontario-liberal-party-led-by-dalton-mcgui.md) _Context: Dalton McGuinty_
+9. [The minority government led by Prime Minister Stephen Harper is reprimanded by the Canadian House of Commons for failing to produce documents but avoids a no confidence motion. ](/news/2011/03/9/the-minority-government-led-by-prime-minister-stephen-harper-is-reprimanded-by-the-canadian-house-of-commons-for-failing-to-produce-document.md) _Context: Stephen Harper_
+10. [The minority of the Conservative Party of Canada led by Prime Minister Stephen Harper is defeated in a no confidence motion in the House of Commons with an election to be held in early May. ](/news/2011/03/25/the-minority-of-the-conservative-party-of-canada-led-by-prime-minister-stephen-harper-is-defeated-in-a-no-confidence-motion-in-the-house-of.md) _Context: Stephen Harper_

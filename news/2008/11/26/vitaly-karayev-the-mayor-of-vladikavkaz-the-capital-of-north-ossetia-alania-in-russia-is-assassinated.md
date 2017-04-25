@@ -1,0 +1,23 @@
+### [2008-11-26](/news/2008/11/26/index.md)
+
+#  Vitaly Karayev, the mayor of Vladikavkaz, the capital of North Ossetia-Alania in Russia is assassinated. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/7749500.stm)
+
+### Related:
+
+1. [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md) _Context: Russia, assassinated_
+2. [At least 16 people are killed and 98 injured in an apparent suicide bombing in the Russian Caucasus city of Vladikavkaz. ](/news/2010/09/9/at-least-16-people-are-killed-and-98-injured-in-an-apparent-suicide-bombing-in-the-russian-caucasus-city-of-vladikavkaz.md) _Context: Russia, Vladikavkaz_
+3. [At least one person is killed and 20 are injured in two separate explosions in Pyatigorsk and North Ossetia in Russia's North Caucasus. ](/news/2010/08/17/at-least-one-person-is-killed-and-20-are-injured-in-two-separate-explosions-in-pyatigorsk-and-north-ossetia-in-russia-s-north-caucasus.md) _Context: North Ossetia, Russia_
+4. [ According to officials, an explosion kills at least 11 people aboard a minibus in the North Caucasus city of Vladikavkaz, Russia. ](/news/2008/11/6/according-to-officials-an-explosion-kills-at-least-11-people-aboard-a-minibus-in-the-north-caucasus-city-of-vladikavkaz-russia.md) _Context: Russia, Vladikavkaz_
+5. [ A bomb attack on a bus kills five people and hurts 12 in the Russian republic of North Ossetia-Alania. ](/news/2007/11/22/a-bomb-attack-on-a-bus-kills-five-people-and-hurts-12-in-the-russian-republic-of-north-ossetia-alania.md) _Context: North Ossetia, Russia_
+6. [ The Interfax news agency reports that Russian security forces have received a warning of plans to assassinate the President of Russia Vladimir Putin in Iran.](/news/2007/10/14/the-interfax-news-agency-reports-that-russian-security-forces-have-received-a-warning-of-plans-to-assassinate-the-president-of-russia-vladi.md) _Context: Russia, assassinated_
+7. [ Suspected assassination plot: Alexander Litvinenko, a former Russian spy who defected to Britain six years ago, is fighting for his life in a London hospital after being poisoned with polonium-210 in a sushi bar. ](/news/2006/11/19/suspected-assassination-plot-alexander-litvinenko-a-former-russian-spy-who-defected-to-britain-six-years-ago-is-fighting-for-his-life-in.md) _Context: Russia, assassinated_
+8. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: Russia_
+9. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Russia_
+10. [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md) _Context: Russia_

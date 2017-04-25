@@ -1,0 +1,23 @@
+### [2012-07-11](/news/2012/07/11/index.md)
+
+# Bolivia revokes a mining concession to Canada's South American Silver Corporation after violent protests by Quechua people. 
+
+President Evo Morales to revoke concessions of Canadian silver mine following violent opposition from Quechua Indians.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/07/201271193933748927.html)
+
+### Related:
+
+1. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: Canadian_
+2. [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md) _Context: Canadian_
+3. [A herd of Plains bison are successfully reintroduced to the Banff National Park in Alberta, Canada, more than 100 years after they were nearly hunted out of existence. ](/news/2017/02/6/a-herd-of-plains-bison-are-successfully-reintroduced-to-the-banff-national-park-in-alberta-canada-more-than-100-years-after-they-were-near.md) _Context: Canadian_
+4. [The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline-through-canada-and-the-united-st.md) _Context: Canadian_
+5. [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md) _Context: Bolivia_
+6. [Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.md) _Context: Bolivia_
+7. [The immigration website of Canada crashes due to overflow, coinciding with the election in the United States. ](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.md) _Context: Canadian_
+8. [A Canadian pilot is killed when his CF-18 fighter jet crashes near an army facility in Cold Lake, Alberta. ](/news/2016/11/28/a-canadian-pilot-is-killed-when-his-cf-18-fighter-jet-crashes-near-an-army-facility-in-cold-lake-alberta.md) _Context: Canadian_
+9. [Canadian Prime Minister Justin Trudeau and EU officials sign the Comprehensive Economic and Trade Agreement (CETA). ](/news/2016/10/30/canadian-prime-minister-justin-trudeau-and-eu-officials-sign-the-comprehensive-economic-and-trade-agreement-ceta.md) _Context: Canadian_
+10. [Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-countries-begin-talks-on-rest.md) _Context: Canadian_

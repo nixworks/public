@@ -1,0 +1,23 @@
+### [2008-02-29](/news/2008/02/29/index.md)
+
+#  Northrop Grumman and EADS win a US$35 billion U.S. Air Force contract to build a new refueling plane, the KC-45, shutting out Boeing. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/ousiv/idUSN2861183920080301)
+
+### Related:
+
+1. [Northrop Grumman, the developer of the Air Force's current bomber, the B-2, beats out the Boeing-Lockheed Martin team and is awarded the Pentagon contract to build a fleet of stealthy planes known as the Long Range Strike Bomber (LRS-B). ](/news/2015/10/27/northrop-grumman-the-developer-of-the-air-force-s-current-bomber-the-b-2-beats-out-the-boeing-lockheed-martin-team-and-is-awarded-the-pen.md) _Context: Boeing, Northrop Grumman, United States Air Force_
+2. [The US Air Force awards Boeing a $35billion contract to build aerial refueling tankers.](/news/2011/02/24/the-us-air-force-awards-boeing-a-35billion-contract-to-build-aerial-refueling-tankers.md) _Context: Boeing, aerial refueling tankers_
+3. [ The US contractor Lockheed Martin is chosen over an alliance of Northrop Grumman and Boeing to build the new spacecraft ''Orion. Orion'' was previously known as the Crew Exploration Vehicle. ''Orion'' will go eventually to the moon by 2014. ](/news/2006/08/31/the-us-contractor-lockheed-martin-is-chosen-over-an-alliance-of-northrop-grumman-and-boeing-to-build-the-new-spacecraft-orion-orion-wa.md) _Context: Boeing, Northrop Grumman_
+4. [ Boeing Chairman and Chief Executive Officer Phil Condit resigns, a week after the aviation giant fires its Chief Financial Officer in an ethics scandal. The move comes as the company faces scrutiny by the Defense Department for a government plan to acquire Boeing 767 planes for use as refueling tankers and answers questions about the ousters of two executives for ethical misconduct during the period it was being negotiated. Former McDonnell Douglas CEO Harry Stonecipher will succeed Condit as CEO, while former Hewlett-Packard chairman and CEO Lewis Platt takes over as chairman. [http://www.reuters.co.uk/newsPackageArticle.jhtml?type=businessNews&storyID=412789&section=finance]](/news/2003/12/1/boeing-chairman-and-chief-executive-officer-phil-condit-resigns-a-week-after-the-aviation-giant-fires-its-chief-financial-officer-in-an-et.md) _Context: Boeing, aerial refueling tankers_
+5. [A USAF F-16 crashes shortly after takeoff from Joint Base Andrews in Prince George's County, Maryland. The pilot inside ejected safely and was taken to a local hospital with non-life threatening injuries. ](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.md) _Context: United States Air Force_
+6. [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield.  ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md) _Context: United States Air Force_
+7. [In an interview, U.S. President Donald Trump says the U.S. dollar is "getting too strong" and wants to keep interest rates low, causing the U.S. Dollar Index to fall. ](/news/2017/04/12/in-an-interview-u-s-president-donald-trump-says-the-u-s-dollar-is-getting-too-strong-and-wants-to-keep-interest-rates-low-causing-the.md) _Context: U.S. dollar_
+8. [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md) _Context: U.S. dollar_
+9. [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md) _Context: U.S. dollar_
+10. [Kraft Heinz drops its bid to buy Unilever for US$143 billion. Unilever rejected the idea last Friday but Kraft Heinz still expressed interest in finding an agreement. ](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.md) _Context: U.S. dollar_

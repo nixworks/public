@@ -1,0 +1,23 @@
+### [2012-12-1](/news/2012/12/1/index.md)
+
+# In college football, the Alabama Crimson Tide defeat the Georgia Bulldogs 32-28 in the 2012 Southeastern Conference Championship Game, projecting Alabama to play the Notre Dame Fighting Irish in the 2013 BCS National Championship Game. 
+
+Get a recap of the Alabama Crimson Tide vs. Georgia Bulldogs football game.
+
+
+### Source:
+
+1. [ESPN](http://scores.espn.go.com/ncf/recap?gameId=323360061)
+
+### Related:
+
+1. [In American football, the Alabama Crimson Tide defeats Notre Dame Fighting Irish to win the 2013 BCS National Championship Game. ](/news/2013/01/7/in-american-football-the-alabama-crimson-tide-defeats-notre-dame-fighting-irish-to-win-the-2013-bcs-national-championship-game.md) _Context: 2013 BCS National Championship Game, Alabama Crimson Tide, Notre Dame Fighting Irish_
+2. [In American football, Marcus Mariota of the University of Oregon football team wins the 2014 Heisman trophy for the best player in college football. ](/news/2014/12/13/in-american-football-marcus-mariota-of-the-university-of-oregon-football-team-wins-the-2014-heisman-trophy-for-the-best-player-in-college-f.md) _Context: college football_
+3. [In college football, the Florida State Seminoles defeat the Auburn Tigers to win the 2014 BCS National Championship Game. ](/news/2014/01/6/in-college-football-the-florida-state-seminoles-defeat-the-auburn-tigers-to-win-the-2014-bcs-national-championship-game.md) _Context: college football_
+4. [The football-sponsoring conference that will operate under the charter of the soon-to-split Big East Conference announces it will operate as the American Athletic Conference effective July 1. The AAC schools previously sold the "Big East" name to a group of seven schools that will leave the conference at that time. ](/news/2013/04/3/the-football-sponsoring-conference-that-will-operate-under-the-charter-of-the-soon-to-split-big-east-conference-announces-it-will-operate-as.md) _Context: college football_
+5. [Longtime college and professional American football coach Chuck Fairbanks dies at the age of 79. ](/news/2013/04/2/longtime-college-and-professional-american-football-coach-chuck-fairbanks-dies-at-the-age-of-79.md) _Context: college football_
+6. [Texas A&M University quarterback Johnny Manziel becomes the first freshman ever to win the Heisman Trophy as the most outstanding player in U.S. college football. ](/news/2012/12/8/texas-a-m-university-quarterback-johnny-manziel-becomes-the-first-freshman-ever-to-win-the-heisman-trophy-as-the-most-outstanding-player-in.md) _Context: college football_
+7. [The National Collegiate Athletic Association announces that it is penalizing the Ohio State Buckeyes football program with a one-year bowl game ban, among other penalties, as a result of a scandal at the program. Former head coach Jim Tressel is given a 5-year show-cause penalty as well. ](/news/2011/12/20/the-national-collegiate-athletic-association-announces-that-it-is-penalizing-the-ohio-state-buckeyes-football-program-with-a-one-year-bowl-g.md) _Context: college football_
+8. [Ohio State football head coach Jim Tressel resigns amidst a scandal over NCAA rules violations committed by him and members of the team. ](/news/2011/05/30/ohio-state-football-head-coach-jim-tressel-resigns-amidst-a-scandal-over-ncaa-rules-violations-committed-by-him-and-members-of-the-team.md) _Context: college football_
+9. [ U.S. college football: On the heels of last week's historic AP Poll shakeup, another one of comparable size occurs, in which four Top Ten teams and eleven ranked teams overall move down the list or off the poll entirely. LSU receives first place from all 65 sports critics, the first time that has occurred for any team since December 2006. #2 California earns its highest rank since 1951, #4 Boston College earns its highest showing since 1984, and #5 South Florida continues its ascent after first moving into the AP Poll three weeks ago. ](/news/2007/10/7/u-s-college-football-on-the-heels-of-last-week-s-historic-ap-poll-shakeup-another-one-of-comparable-size-occurs-in-which-four-top-ten-t.md) _Context: college football_
+10. [ U.S. college football: The new AP Poll results are released, with nine of the ten ranked teams that lost this past weekend either dropping further down the list or out of the poll completely. LSU rose to #1 for the first time since 1959, Kentucky and Boston College rise into the Top Ten for the first time since 1977 and 1992, respectively, and South Florida ascends into the Top Ten for the first time ever. ](/news/2007/09/30/u-s-college-football-the-new-ap-poll-results-are-released-with-nine-of-the-ten-ranked-teams-that-lost-this-past-weekend-either-dropping.md) _Context: college football_

@@ -1,0 +1,23 @@
+### [2009-09-7](/news/2009/09/7/index.md)
+
+#  The Indian Central Bureau of Investigation is to investigate the helicopter crash which killed the Chief Minister of Andhra Pradesh Y. S. Rajasekhara Reddy and four others. 
+
+
+
+
+### Source:
+
+1. [Times of India](http://timesofindia.indiatimes.com/news/india/CBI-to-probe-YSR-helicopter-crash/articleshow/4981749.cms)
+
+### Related:
+
+1. [ Thousands of mourners from across southern India pay their respects to the dead chief minister of Andhra Pradesh, Y. S. Rajasekhara Reddy. ](/news/2009/09/4/thousands-of-mourners-from-across-southern-india-pay-their-respects-to-the-dead-chief-minister-of-andhra-pradesh-y-s-rajasekhara-reddy.md) _Context: Andhra Pradesh, India, Y. S. Rajasekhara Reddy_
+2. [ Chief Minister of the Indian state of Andhra Pradesh, Y. S. Rajasekhara Reddy is confirmed dead when the wreckage of the helicopter that crashed with him on-board in southern India on Wednesday is located. ](/news/2009/09/3/chief-minister-of-the-indian-state-of-andhra-pradesh-y-s-rajasekhara-reddy-is-confirmed-dead-when-the-wreckage-of-the-helicopter-that-cr.md) _Context: Andhra Pradesh, India, Y. S. Rajasekhara Reddy_
+3. [ A helicopter carrying Andhra Pradesh Chief Minister Y. S. Rajasekhara Reddy disappears during a flight in southern India. ](/news/2009/09/2/a-helicopter-carrying-andhra-pradesh-chief-minister-y-s-rajasekhara-reddy-disappears-during-a-flight-in-southern-india.md) _Context: Andhra Pradesh, India, Y. S. Rajasekhara Reddy_
+4. [The Hirakhand express 18448, a scheduled passenger train from Jagdalpur to Bhubaneswar, derails near Kuneru in the Indian state of Andhra Pradesh. At least 25 are killed and around 200 others are injured. ](/news/2017/01/21/the-hirakhand-express-18448-a-scheduled-passenger-train-from-jagdalpur-to-bhubaneswar-derails-near-kuneru-in-the-indian-state-of-andhra-pr.md) _Context: Andhra Pradesh, India_
+5. [Tropical Cyclone Vardah is expected to make landfall in southern India today bringing heavy rain to the city of Chennai in Tamil Nadu as well as Andhra Pradesh. At least four people have been killed and tens of thousands of people have been evacuated from low lying areas. ](/news/2016/12/12/tropical-cyclone-vardah-is-expected-to-make-landfall-in-southern-india-today-bringing-heavy-rain-to-the-city-of-chennai-in-tamil-nadu-as-wel.md) _Context: Andhra Pradesh, India_
+6. [At least 15 people are killed in a wedding bus crash in Andhra Pradesh state in southern India. ](/news/2015/10/17/at-least-15-people-are-killed-in-a-wedding-bus-crash-in-andhra-pradesh-state-in-southern-india.md) _Context: Andhra Pradesh, India_
+7. [At least 22 Hindu pilgrims died after a van they are travelling in falls into a reservoir in the southern Indian town of Dhavaleswaram in Andhra Pradesh. ](/news/2015/06/13/at-least-22-hindu-pilgrims-died-after-a-van-they-are-travelling-in-falls-into-a-reservoir-in-the-southern-indian-town-of-dhavaleswaram-in-an.md) _Context: Andhra Pradesh, India_
+8. [The death toll from an Indian heat wave rises to 432 in the states of Andhra Pradesh and Telangana with extreme conditions forecast to continue. ](/news/2015/05/25/the-death-toll-from-an-indian-heat-wave-rises-to-432-in-the-states-of-andhra-pradesh-and-telangana-with-extreme-conditions-forecast-to-conti.md) _Context: Andhra Pradesh, India_
+9. [The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-andhra-pradesh-and-orissa-states.md) _Context: Andhra Pradesh, India_
+10. [Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with-5-dead-in-andhra-pradesh-and-3-people-de.md) _Context: Andhra Pradesh, India_

@@ -1,0 +1,24 @@
+### [2008-12-10](/news/2008/12/10/index.md)
+
+#  Scientists say they have found evidence for water vapour and carbon dioxide in the atmosphere of the extrasolar planet HD 189733 b. 
+
+Astronomers have detected carbon dioxide in the atmosphere of a planet 63 light-years away, but the planet is too hot for any possibility of life.
+
+
+### Source:
+
+1. [Nature](http://www.nature.com/nature/journal/v456/n7223/abs/nature07574.html)
+2. [NY Times](http://www.nytimes.com/2008/12/11/science/space/11planet.html)
+
+### Related:
+
+1. [An analysis of data detected by the Lunar Reconnaissance Orbiter of the LCROSS impact last October finds the presence of carbon monoxide in Cabeus Crater in higher concentrations than the approximately 155 kg of water ice and water vapour, more than initially estimated, in addition to two hydroxyl flavours and smaller quantities of hydrogen sulfide, carbon dioxide, sulfur dioxide, methane, formaldehyde, mercury, magnesium, calcium, sodium, hydrogen gas, and possibly ammonia, ethylene and silver. ](/news/2010/10/21/an-analysis-of-data-detected-by-the-lunar-reconnaissance-orbiter-of-the-lcross-impact-last-october-finds-the-presence-of-carbon-monoxide-in.md) _Context: carbon dioxide ({{chem|C|O|2}}), water vapour_
+2. [While attempting to create a nanotechnology-based, catalyst-mediated series of chemical reactions to turn carbon dioxide ({{chem|C|O|2}}) (a greenhouse gas) into a usable fuel, scientists at the Department of Energy's Oak Ridge National Laboratory instead discover a single-step process using the surface area of tiny spikes of copper and carbon as a catalyst to turn carbon dioxide into ethanol ({{chem|C|H|3|C|H|2|O|H}}). The reaction may serve as a method to alleviate possible climate change by both decreasing {{chem|C|O|2}} in the atmosphere and by using the ethanol as an additive to fuels to increase efficiency and thereby decrease consumption. ](/news/2016/10/18/while-attempting-to-create-a-nanotechnology-based-catalyst-mediated-series-of-chemical-reactions-to-turn-carbon-dioxide-chem-c-o-2-a.md) _Context: carbon dioxide ({{chem|C|O|2}})_
+3. [Researchers in Iceland report on CarbFix, in the journal ''Science'', that carbon dioxide emissions can be pumped into the earth and changed chemically to stone &nbsp;-- significantly  faster than expected. ](/news/2016/06/9/researchers-in-iceland-report-on-carbfix-in-the-journal-science-that-carbon-dioxide-emissions-can-be-pumped-into-the-earth-and-changed.md) _Context: carbon dioxide ({{chem|C|O|2}})_
+4. [Scientists announce creation of a new chemical compound, NOTT-202, capable of selectively absorbing carbon dioxide. ](/news/2012/06/12/scientists-announce-creation-of-a-new-chemical-compound-nott-202-capable-of-selectively-absorbing-carbon-dioxide.md) _Context: carbon dioxide ({{chem|C|O|2}})_
+5. [Astronomers discover the first Earth analog extrasolar planet that may be capable of supporting life, Gliese 581 g, located within the habitable zone and orbiting Gliese 581, a red dwarf star twenty light years from the solar system. ](/news/2010/09/29/astronomers-discover-the-first-earth-analog-extrasolar-planet-that-may-be-capable-of-supporting-life-gliese-581-g-located-within-the-habit.md) _Context: extrasolar planet_
+6. [NASA's Kepler telescope detects its first five exoplanets. ](/news/2010/01/4/nasa-s-kepler-telescope-detects-its-first-five-exoplanets.md) _Context: extrasolar planet_
+7. [ The International Day of Climate Action occurred worldwide in prelude to the United Nations Climate Change Conference of 2009, with over 5,400 actions to raise awareness of the assertion that 350 ppm is the maximum safe level of carbon dioxide in Earth's atmosphere, and call for mitigation of global warming before Earth reaches a climatological tipping point. ](/news/2009/10/24/the-international-day-of-climate-action-occurred-worldwide-in-prelude-to-the-united-nations-climate-change-conference-of-2009-with-over-5.md) _Context: carbon dioxide ({{chem|C|O|2}})_
+8. [ The smallest confirmed extrasolar planet, Gliese 581 e, is discovered. ](/news/2009/04/21/the-smallest-confirmed-extrasolar-planet-gliese-581-e-is-discovered.md) _Context: extrasolar planet_
+9. [ Three planets orbiting HR 8799 and one planet orbiting Fomalhaut are visually verified by telescopes, the first extrasolar planets whose existence have been confirmed via direct imaging. ](/news/2008/11/13/three-planets-orbiting-hr-8799-and-one-planet-orbiting-fomalhaut-are-visually-verified-by-telescopes-the-first-extrasolar-planets-whose-ex.md) _Context: extrasolar planet_
+10. [ Astronomers using the Mount John University Observatory discover MOA-2007-BLG-192-L b, the smallest known extrasolar planet which does not orbit a pulsar. ](/news/2008/06/2/astronomers-using-the-mount-john-university-observatory-discover-moa-2007-blg-192-l-b-the-smallest-known-extrasolar-planet-which-does-not.md) _Context: extrasolar planet_

@@ -1,0 +1,24 @@
+### [2013-04-12](/news/2013/04/12/index.md)
+
+# European Union finance ministers and central bank governors begin a two-day meeting at Dublin Castle to talk about austerity, the collapse of the Cypriot economy and the creation of a federal bank. 
+
+Eurozone and Ecofin finance ministers have agreed to extend the repayment of bailout loans for Ireland and Portugal by seven years.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/04/12/eurozone-officials-idUSL5N0CZ2420130412)
+2. [RTÉ News](http://www.rte.ie/news/2013/0412/380983-eu-finance-ministers/)
+
+### Related:
+
+1. [In Ireland, thousands of people attend an anti-austerity rally at Dublin Castle, where EU finance ministers are meeting. Opposition TDs Richard Boyd Barrett, Joan Collins and Joe Higgins address the demonstration. ](/news/2013/04/13/in-ireland-thousands-of-people-attend-an-anti-austerity-rally-at-dublin-castle-where-eu-finance-ministers-are-meeting-opposition-tds-rich.md) _Context: Dublin Castle, European Union, finance minister_
+2. [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades says the island has no intention of abandoning the euro, despite the tough conditions imposed by its 10 billion euro bailout deal with the European Union and International Monetary Fund. ](/news/2013/03/29/2012a2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-says-the-island-has-no-intention-of-abandoning-the-euro-despit.md) _Context: Cyprus, European Union, collapse_
+3. [2012-2013 Cypriot financial crisis: Security tightens in Cyprus as banks prepare to reopen after nearly two weeks, following a controversial international bailout that was negotiated with the European Union and the International Monetary Fund. ](/news/2013/03/28/2012a2013-cypriot-financial-crisis-security-tightens-in-cyprus-as-banks-prepare-to-reopen-after-nearly-two-weeks-following-a-controversi.md) _Context: Cyprus, European Union, collapse_
+4. [2012-2013 Cypriot financial crisis:Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012a2013-cypriot-financial-crisis-pcyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europe.md) _Context: Cyprus, European Union, collapse_
+5. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Cyprus, European Union_
+6. [Cyprus Finance Minister Michael Sarris resigns after completing talks on a controversial bailout deal and will be replaced by current Labour Minister Charis Georgiades. ](/news/2013/04/2/cyprus-finance-minister-michael-sarris-resigns-after-completing-talks-on-a-controversial-bailout-deal-and-will-be-replaced-by-current-labour.md) _Context: Cyprus, collapse_
+7. [2012-2013 Cypriot financial crisis: Cyprus's Ministry of Finance says banks will remain shut until Thursday to give regulators time to guard against a run on deposits, and that big depositors in Cypriot banks can lose up to 40% of their funds, while depositors with less than 100,000 euros in their accounts will not be affected by bailout plans. ](/news/2013/03/26/2012a2013-cypriot-financial-crisis-cyprus-s-ministry-of-finance-says-banks-will-remain-shut-until-thursday-to-give-regulators-time-to-gua.md) _Context: Cyprus, collapse_
+8. [2012-2013 Cypriot financial crisis: The Cyprus Parliament approves three bills that aim to raise enough money to qualify the country for a broader bailout package and stave off financial collapse. ](/news/2013/03/23/2012a2013-cypriot-financial-crisis-the-cyprus-parliament-approves-three-bills-that-aim-to-raise-enough-money-to-qualify-the-country-for-a.md) _Context: Cyprus, collapse_
+9. [2012-2013 Cypriot financial crisis: Minister of Finance of Cyprus Michael Sarris says that his talks with officials in Russia about a possible rescue package for Cypriot banks have led nowhere. ](/news/2013/03/22/2012a2013-cypriot-financial-crisis-minister-of-finance-of-cyprus-michael-sarris-says-that-his-talks-with-officials-in-russia-about-a-poss.md) _Context: Cyprus, collapse_
+10. [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades presents a new bailout package for Cypriot banks as Cyprus is hit with a liquidity crisis. ](/news/2013/03/20/2012a2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-presents-a-new-bailout-package-for-cypriot-banks-as-cyprus-is-h.md) _Context: Cyprus, collapse_

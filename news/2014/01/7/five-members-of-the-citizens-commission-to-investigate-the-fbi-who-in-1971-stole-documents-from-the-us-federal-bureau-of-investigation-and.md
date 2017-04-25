@@ -1,0 +1,25 @@
+### [2014-01-7](/news/2014/01/7/index.md)
+
+# Five members of the Citizens' Commission to Investigate the FBI, who in 1971 stole documents from the US Federal Bureau of Investigation and gave them to journalists, come forth. The leak exposed COINTELPRO, a program of surveillance and blackmail against American leftists including  Martin Luther King, Jr. 
+
+Bonnie Raines: Like Snowden, we broke laws to reveal something that was more dangerous. We wanted to hold J Edgar Hoover accountable
+
+
+### Source:
+
+1. [New York Magazine](http://nymag.com/daily/intelligencer/2014/01/activists-confess-to-1971-fbi-office-burglary.html)
+2. [The Guardian](http://www.theguardian.com/commentisfree/2014/jan/07/fbi-1971-burglary-hold-government-accountable)
+3. [New York Times](http://www.nytimes.com/2014/01/07/us/burglars-who-took-on-fbi-abandon-shadows.html?hp&pagewanted=all)
+
+### Related:
+
+1. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: FBI_
+2. [The Federal Bureau of Investigation becomes involved in the search for Elizabeth Thomas and the manhunt for her suspected kidnapper, Tad Cummins. ](/news/2017/03/16/the-federal-bureau-of-investigation-becomes-involved-in-the-search-for-elizabeth-thomas-and-the-manhunt-for-her-suspected-kidnapper-tad-cum.md) _Context: FBI_
+3. [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md) _Context: FBI_
+4. [U.S. officials are investigating the hacking of election system databases in Illinois and Arizona. The FBI alerted all  election officials nationwide about this issue earlier this month. ](/news/2016/08/29/u-s-officials-are-investigating-the-hacking-of-election-system-databases-in-illinois-and-arizona-the-fbi-alerted-all-election-officials-n.md) _Context: FBI_
+5. [ A police officer from Bethel, Alaska, will be sentenced to prison for charges related to police brutality in a 2014 case involving an intoxicated man. The charges followed an investigation by the Federal Bureau of Investigations civil rights division. The former officer, Andrew Reid, was found to have used excessive force and lying on official police reports. The victim suffered a separated shoulder and other injuries. ](/news/2016/08/24/a-police-officer-from-bethel-alaska-will-be-sentenced-to-prison-for-charges-related-to-police-brutality-in-a-2014-case-involving-an-intox.md) _Context: FBI_
+6. [''The New York Times'' reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that.md) _Context: FBI_
+7. [The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. ](/news/2016/07/5/the-fbi-recommends-with-numerous-reservations-about-her-actions-no-charges-be-filed-against-hillary-clinton-over-her-emails.md) _Context: FBI_
+8. [The American Federal Bureau of Investigation is investigating claims that the  Hillary Clinton campaign has been hacked as part of recent cyber-attacks on the Democrats. ](/news/2016/07/29/the-american-federal-bureau-of-investigation-is-investigating-claims-that-the-hillary-clinton-campaign-has-been-hacked-as-part-of-recent-cy.md) _Context: FBI_
+9. [Federal prosecutors announce the case against Apple Inc., concerning encrypted data on an iPhone belonging to one of the San Bernardino shooters, has been dropped since the FBI has found a means to access the data without compromising any information on the phone. ](/news/2016/03/28/federal-prosecutors-announce-the-case-against-apple-inc-concerning-encrypted-data-on-an-iphone-belonging-to-one-of-the-san-bernardino-shoo.md) _Context: FBI_
+10. [FBI-Apple encryption dispute A federal judge postpones Tuesday's hearing at the government's request. The FBI says a third party demonstrated a  way to access  Syed Rizwan Farook's iPhone. Melanie Newman, U.S. Department of Justice spokeswoman,  says officials are cautiously optimistic a test of this method will allow access to the phone without compromising the data. ](/news/2016/03/22/fbiaapple-encryption-dispute-pa-federal-judge-postpones-tuesday-s-hearing-at-the-government-s-request-the-fbi-says-a-third-party-demonstr.md) _Context: FBI_

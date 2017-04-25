@@ -1,0 +1,23 @@
+### [2010-10-8](/news/2010/10/8/index.md)
+
+# Arab League leaders meeting in Libya announce their support for Palestinian Authority President Mahmoud Abbas's decision to stop peace talks with Israel over Israel's recently expired moratorium on construction in the West Bank. 
+
+
+
+
+### Source:
+
+1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=190694)
+
+### Related:
+
+1. [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority, peace talks_
+2. [Israeli-Palestinian conflict:Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeliapalestinian-conflict-ppalestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-st.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority_
+3. [ Israel releases 199 Palestinian prisoners as a goodwill gesture to the President of the Palestinian National Authority Mahmoud Abbas as the United States Secretary of State Condoleezza Rice visits the area. ](/news/2008/08/25/israel-releases-199-palestinian-prisoners-as-a-goodwill-gesture-to-the-president-of-the-palestinian-national-authority-mahmoud-abbas-as-the.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority_
+4. [ Israeli Prime Minister Ehud Olmert and Palestinean President Mahmoud Abbas will attend a common meeting later this week. ](/news/2006/06/20/israeli-prime-minister-ehud-olmert-and-palestinean-president-mahmoud-abbas-will-attend-a-common-meeting-later-this-week.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority_
+5. [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md) _Context: Israel, Palestinian National Authority_
+6. [The Palestinian Ministry of Foreign Affairs says Israel prevented Indonesian Foreign Minister Retno Marsudi from entering the West Bank to meet with Palestinian officials. The Israeli spokesman would not comment. Israel and Indonesia do not have formal diplomatic relations. ](/news/2016/03/13/the-palestinian-ministry-of-foreign-affairs-says-israel-prevented-indonesian-foreign-minister-retno-marsudi-from-entering-the-west-bank-to-m.md) _Context: Israel, Palestinian National Authority_
+7. [U.S. Secretary of State John Kerry met today in Berlin with Israeli Prime Minister Benjamin Netanyahu regarding the recent spate of violence between Palestinians and Israelis. Kerry will meet on Saturday with Palestinian President Mahmoud Abbas and King Abdullah of Jordan in Amman. ](/news/2015/10/22/u-s-secretary-of-state-john-kerry-met-today-in-berlin-with-israeli-prime-minister-benjamin-netanyahu-regarding-the-recent-spate-of-violence.md) _Context: Israel, Mahmoud Abbas_
+8. [Mahmoud Abbas, the President of the Palestinian Authority, states that Palestine will no longer abide by the Oslo accords and claims that Israel has not been complying with them. ](/news/2015/09/30/mahmoud-abbas-the-president-of-the-palestinian-authority-states-that-palestine-will-no-longer-abide-by-the-oslo-accords-and-claims-that-is.md) _Context: Israel, Mahmoud Abbas_
+9. [Pope Francis urges President Shimon Peres of Israel and President Mahmoud Abbas of Palestine to work for peace at an historic joint prayer meeting at the Vatican. ](/news/2014/06/8/pope-francis-urges-president-shimon-peres-of-israel-and-president-mahmoud-abbas-of-palestine-to-work-for-peace-at-an-historic-joint-prayer-m.md) _Context: Israel, Mahmoud Abbas_
+10. [Mahmoud Abbas, the President of the Palestinian National Authority, accepts the resignation of Prime Minister Rami Hamdallah who had offered his resignation on Thursday. ](/news/2013/06/23/mahmoud-abbas-the-president-of-the-palestinian-national-authority-accepts-the-resignation-of-prime-minister-rami-hamdallah-who-had-offered.md) _Context: Mahmoud Abbas, Palestinian National Authority_

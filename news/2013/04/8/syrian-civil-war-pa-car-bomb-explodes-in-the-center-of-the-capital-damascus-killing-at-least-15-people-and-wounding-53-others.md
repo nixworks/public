@@ -1,0 +1,23 @@
+### [2013-04-8](/news/2013/04/8/index.md)
+
+# Syrian civil war:A car bomb explodes in the center of the capital, Damascus, killing at least 15 people and wounding 53 others. 
+
+At least 15 people are killed and 53 wounded as a car bomb explodes in a busy part of the Syrian capital Damascus, state media report.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22062326)
+
+### Related:
+
+1. [At least eight people are reportedly killed as a car bomb explodes at a checkpoint south of Damascus. ](/news/2016/04/25/at-least-eight-people-are-reportedly-killed-as-a-car-bomb-explodes-at-a-checkpoint-south-of-damascus.md) _Context: Damascus, Syrian Civil War, car bomb_
+2. [Syrian Civil War:A car bomb explodes near a police station in the Damascus suburb of Jobar, killing at least eight members of the security forces and injuring civilians. ](/news/2013/06/2/syrian-civil-war-pa-car-bomb-explodes-near-a-police-station-in-the-damascus-suburb-of-jobar-killing-at-least-eight-members-of-the-security.md) _Context: Damascus, Syrian Civil War, car bomb_
+3. [Syrian civil war:At least 61 people are killed and more than 200 injured following a car bombing near Syria's Baath Party headquarters in Damascus. Three other bombings kill 22 people and injure 50 others in the suburb of Barzeh, most of them government soldiers. These are the deadliest attacks in the Syrian capital since the outbreak of the civil war. ](/news/2013/02/21/syrian-civil-war-pat-least-61-people-are-killed-and-more-than-200-injured-following-a-car-bombing-near-syria-s-baath-party-headquarters-in-d.md) _Context: Damascus, Syrian Civil War, car bomb_
+4. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syrian Civil War_
+5. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syrian Civil War_
+6. [Twin bombings kill at least 40 people, mostly Shia Iraqi pilgrims, and wound over 100 in the Bab al-Saghir area of Damascus. ](/news/2017/03/11/twin-bombings-kill-at-least-40-people-mostly-shia-iraqi-pilgrims-and-wound-over-100-in-the-bab-al-saghir-area-of-damascus.md) _Context: Damascus, Syrian Civil War_
+7. [A report by Amnesty International states that between 5,000 and 13,000 people, most of them civilians, were hanged at the military-run Sednaya Prison near Damascus between September 2011 and December 2015. ](/news/2017/02/7/a-report-by-amnesty-international-states-that-between-5-000-and-13-000-people-most-of-them-civilians-were-hanged-at-the-military-run-sedna.md) _Context: Damascus, Syrian Civil War_
+8. [The Syrian Army recaptures all of the towns and villages in the Barada river valley near Damascus from rebel forces. ](/news/2017/01/29/the-syrian-army-recaptures-all-of-the-towns-and-villages-in-the-barada-river-valley-near-damascus-from-rebel-forces.md) _Context: Damascus, Syrian Civil War_
+9. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Damascus, Syrian Civil War_
+10. [Following a ceasefire agreement with the government, Syrian rebels begin evacuating the war-torn suburb of Darayya, near Damascus, ending a four-year-long siege by government forces. Under the terms of surrender, the 8,000 civilians who reside in the suburb will be moved to regime-controlled areas while several hundred rebel fighters will be given passage to the Idlib Governorate. ](/news/2016/08/26/following-a-ceasefire-agreement-with-the-government-syrian-rebels-begin-evacuating-the-war-torn-suburb-of-darayya-near-damascus-ending-a.md) _Context: Damascus, Syrian Civil War_

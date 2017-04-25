@@ -1,0 +1,24 @@
+### [2012-07-19](/news/2012/07/19/index.md)
+
+# Bangladeshi writer and film director Humayun Ahmed dies at 63 in New York while undergoing a treatment for colorectal cancer. 
+
+
+
+
+### Source:
+
+1. [BBC Bangla](http://www.bbc.co.uk/bengali/news/2012/07/120719_mb_humayun_ahmed.shtml)
+2. [Bangladesh News 24](http://bdnews24.com/details.php?cid=2&id=228520)
+
+### Related:
+
+1. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: New York_
+2. [Starting this spring, the state of New York will offer free four-year public college tuition for residents whose families make less than $100,000, the first state in the country to do so. ](/news/2017/04/10/starting-this-spring-the-state-of-new-york-will-offer-free-four-year-public-college-tuition-for-residents-whose-families-make-less-than-10.md) _Context: New York_
+3. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_
+4. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: New York_
+5. [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md) _Context: Bangladesh_
+6. [A court in the Philippines orders the central bank to return US$15 million back to Bangladesh. ](/news/2016/09/19/a-court-in-the-philippines-orders-the-central-bank-to-return-us-15-million-back-to-bangladesh.md) _Context: Bangladesh_
+7. [A boiler explodes causing a fire in a factory in the Bangladeshi city of Tongi killing at least 25 people and injures 70 others. ](/news/2016/09/10/a-boiler-explodes-causing-a-fire-in-a-factory-in-the-bangladeshi-city-of-tongi-killing-at-least-25-people-and-injures-70-others.md) _Context: Bangladesh_
+8. [A 6.8 magnitude earthquake hits central Myanmar, 25km west of the town of Chauk, and was also felt in Thailand, Bangladesh and India, according to reports. At least three people are killed. ](/news/2016/08/24/a-6-8-magnitude-earthquake-hits-central-myanmar-25km-west-of-the-town-of-chauk-and-was-also-felt-in-thailand-bangladesh-and-india-accord.md) _Context: Bangladesh_
+9. [New York authorities charge a man with second-degree murder in the deaths of a New York Muslim imam and his assistant. ](/news/2016/08/15/new-york-authorities-charge-a-man-with-second-degree-murder-in-the-deaths-of-a-new-york-muslim-imam-and-his-assistant.md) _Context: New York_
+10. [A group of radical Islamists hurl homemade bombs at police officers in the Kishoreganj District in central Bangladesh killing at least one officer and injuring several others. ](/news/2016/07/7/a-group-of-radical-islamists-hurl-homemade-bombs-at-police-officers-in-the-kishoreganj-district-in-central-bangladesh-killing-at-least-one-o.md) _Context: Bangladesh_

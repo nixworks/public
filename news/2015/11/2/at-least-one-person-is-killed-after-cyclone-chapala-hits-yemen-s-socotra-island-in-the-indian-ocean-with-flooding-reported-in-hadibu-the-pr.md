@@ -1,0 +1,23 @@
+### [2015-11-2](/news/2015/11/2/index.md)
+
+# At least one person is killed after Cyclone Chapala hits Yemen's Socotra island in the Indian Ocean with flooding reported in Hadibu, the provincial capital. The severe cyclone is expected to cause considerable damage when it makes landfall on Yemeni mainland. 
+
+A rare tropical cyclone makes landfall in Yemen, flooding the al-Qaeda controlled city of Mukalla, after battering the island of Socotra.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34698709)
+
+### Related:
+
+1. ["''Ravaged by months of war, Yemen now gets battered by the first tropical storm on record to make landfall''." Extremely Severe Cyclonic Storm Chapala slams into Yemen's central coast,  with maximum sustained winds of around 140 kph (85 mph) -- the equivalent of a Category 1 hurricane. The storm floods coastal areas, brings down electricity lines and destroys houses, with severe threat of mudslides. Chapala is expected to pour over two or three years worth of rain, up to 300 millimeters (12 inches), in a single day. ](/news/2015/11/3/ravaged-by-months-of-war-yemen-now-gets-battered-by-the-first-tropical-storm-on-record-to-make-landfall-extremely-severe-cyclonic-st.md) _Context: 2015 North Indian Ocean cyclone season, Extremely Severe Cyclonic Storm Chapala, Yemen_
+2. [Cyclone Chapala intensifies in the Arabian Sea as it heads towards Yemen and Oman which rarely experience tropical cyclones. The cyclone is expected to dump two years worth of rain on the normally arid Arabian Peninsula in two days. ](/news/2015/10/30/cyclone-chapala-intensifies-in-the-arabian-sea-as-it-heads-towards-yemen-and-oman-which-rarely-experience-tropical-cyclones-the-cyclone-is.md) _Context: 2015 North Indian Ocean cyclone season, Extremely Severe Cyclonic Storm Chapala, Yemen_
+3. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: Yemen_
+4. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Yemen_
+5. [Yemen reassesses its permission to the United States to run special operations ground missions against suspected terrorist groups because of the civilian deaths in the January 29 raid. Earlier reports indicated permission had been suspended. ](/news/2017/02/8/yemen-reassesses-its-permission-to-the-united-states-to-run-special-operations-ground-missions-against-suspected-terrorist-groups-because-of.md) _Context: Yemen_
+6. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Yemen_
+7. [A Houthi missile attack on a Yemeni military camp near the port city of Mocha  kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md) _Context: Yemen_
+8. [A suspected U.S. drone strike kills two al-Qaida militants in  central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen_
+9. [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md) _Context: Yemen_
+10. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _Context: Yemen_

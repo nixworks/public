@@ -1,0 +1,24 @@
+### [2009-10-27](/news/2009/10/27/index.md)
+
+#  The son of ex-French President Franois Mitterrand, Jean-Christophe Mitterrand and an ex-government minister, Charles Pasqua, are convicted for their roles in illegal arms sales to Angola. 
+
+
+
+
+### Source:
+
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g1XIg-SpMtu3eZJBlK2PytzlafagD9BJHLN00)
+2. [Reuters](http://www.reuters.com/article/companyNews/idUSLR21027820091027)
+
+### Related:
+
+1. [ Rwanda formally accuses senior French officials, including former Prime Minister Dominique de Villepin and late President Franois Mitterrand, of involvement in the 1994 Rwandan Genocide and calls for them to be put on trial. ](/news/2008/08/5/rwanda-formally-accuses-senior-french-officials-including-former-prime-minister-dominique-de-villepin-and-late-president-francois-mitterra.md) _Context: France, François Mitterrand, president_
+2. [ Newly declassified French government documents show that as President Franois Mitterrand knowingly supported the Rwandan Genocide because he believed it would limit "Anglo-Saxon influence." ](/news/2007/07/6/newly-declassified-french-government-documents-show-that-as-president-francois-mitterrand-knowingly-supported-the-rwandan-genocide-because.md) _Context: France, François Mitterrand, president_
+3. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _Context: France, president_
+4. [France's National Assembly votes to adopt a non-binding resolution to lift European Union sanctions against Russia, applied after Russia's annexation of Crimea in 2014. Former President Nicolas Sarkozy's Republicans, as well as center-right and far-left groups voted in favor of lifting the sanctions, while the ruling Socialist Party and The Greens voted against the resolution. ](/news/2016/04/28/france-s-national-assembly-votes-to-adopt-a-non-binding-resolution-to-lift-european-union-sanctions-against-russia-applied-after-russia-s-a.md) _Context: France, president_
+5. [Christiane Taubira, differing with President Francois Hollande concerning  pending terrorist/citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-minist.md) _Context: France, president_
+6. [With most of the votes counted, the opposition conservatives of former president Nicolas Sarkozy's party win in six of the country's 13  regions and lead in the Paris region. The ruling Socialists of President Francois Hollande's  party capture five regions. The winner in Corsica is not affiliated with a major party. France's far-right National Front (FN) fails to win a single region but did record its best showing in its history. Voter turnout was 58 percent. Definitive results are expected Monday. ](/news/2015/12/13/with-most-of-the-votes-counted-the-opposition-conservatives-of-former-president-nicolas-sarkozy-s-party-win-in-six-of-the-countryas-13-r.md) _Context: France, president_
+7. [The President of France Francois Hollande warns that France "will not tolerate" acts that threaten its security following claims by Wikileaks that the United States spied on him and his two predecessors Nicolas Sarkozy and Jacques Chirac between 2006 and 2012. ](/news/2015/06/24/the-president-of-france-franassois-hollande-warns-that-france-will-not-tolerate-acts-that-threaten-its-security-following-claims-by-wikilea.md) _Context: France, president_
+8. [Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorable-results-for-former-president-nicol.md) _Context: France, president_
+9. [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md) _Context: France, president_
+10. [France's top football clubs announce plans for a strike in Ligue 1 and Ligue 2 at the end of November in protest at the President Franois Hollande's 75% supertax proposal. ](/news/2013/10/24/france-s-top-football-clubs-announce-plans-for-a-strike-in-ligue-1-and-ligue-2-at-the-end-of-november-in-protest-at-the-president-francois-h.md) _Context: France, president_

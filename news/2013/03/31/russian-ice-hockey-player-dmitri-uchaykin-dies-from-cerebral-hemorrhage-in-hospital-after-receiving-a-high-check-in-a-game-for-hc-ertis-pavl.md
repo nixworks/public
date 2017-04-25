@@ -1,0 +1,23 @@
+### [2013-03-31](/news/2013/03/31/index.md)
+
+# Russian ice hockey player Dmitri Uchaykin dies from cerebral hemorrhage in hospital after receiving a high check in a game for HC Ertis-Pavlodar in the Kazakhstan Major League. 
+
+Tragic news out of the Kazakhstan Vyschaya Liga, the highest professional hockey league in Kazakhstan, where Russian forward Dmitri Uchaykin has passed away the morning after being hospitalized due to a hit to the head. Uchaykin suited up Saturday night … Continue reading →
+
+
+### Source:
+
+1. [Yahoo! Sports](http://sports.yahoo.com/blogs/nhl-puck-daddy/russian-forward-dmitri-uchaykin-dies-headshot-kazakhstan-hockey-195922921--nhl.html)
+
+### Related:
+
+1. [In ice hockey, the NHL awards Las Vegas an expansion team to begin play in the 2017-18 season. The Board of Governors defers Quebec City's bid with the league, citing factors such as conference imbalance, difficulty of bringing two teams at the same time, and the weakening Canadian dollar. ](/news/2016/06/22/in-ice-hockey-the-nhl-awards-las-vegas-an-expansion-team-to-begin-play-in-the-2017a18-season-the-board-of-governors-defers-quebec-city-s.md) _Context: ice hockey_
+2. [ In ice hockey, ESPN reports that the NHL will place an expansion team in Las Vegas, provided the team's backers can pay a US$500 million expansion fee. The team, which would enter the league no earlier than the 2017-18 season, would be the first major professional sports team in Las Vegas. The league's board of governors is scheduled to hold a formal vote on the expansion on June 22. ](/news/2016/06/14/in-ice-hockey-espn-reports-that-the-nhl-will-place-an-expansion-team-in-las-vegas-provided-the-team-s-backers-can-pay-a-us-500-million-ex.md) _Context: ice hockey_
+3. [Soyuz TMA-16M launches carrying three crew members to the International Space Station. Russian cosmonaut Mikhail Korniyenko and American astronaut Scott Kelly begin a special year-long mission to test the effects of long-term habitation on the human body under conditions of micro gravity and radiation. ](/news/2015/03/27/soyuz-tma-16m-launches-carrying-three-crew-members-to-the-international-space-station-russian-cosmonaut-mikhail-korniyenko-and-american-ast.md) _Context: Russian_
+4. [In ice hockey, Sidney Crosby, captain of the Pittsburgh Penguins, wins both the Hart Memorial Trophy and the Ted Lindsay Award for most valuable player as voted by the media and National Hockey League Players' Association, respectively. ](/news/2014/06/24/in-ice-hockey-sidney-crosby-captain-of-the-pittsburgh-penguins-wins-both-the-hart-memorial-trophy-and-the-ted-lindsay-award-for-most-valu.md) _Context: ice hockey_
+5. [In front of a crowd of 105,491 at Michigan Stadium in Ann Arbor, Michigan, potentially the largest ever to attend an ice hockey game, the Toronto Maple Leafs defeat the Detroit Red Wings 3-2 after a shootout in the 2014 NHL Winter Classic. ](/news/2014/01/1/in-front-of-a-crowd-of-105-491-at-michigan-stadium-in-ann-arbor-michigan-potentially-the-largest-ever-to-attend-an-ice-hockey-game-the-to.md) _Context: ice hockey_
+6. [The Russian designer of the AK-47 assault rifle, Mikhail Kalashnikov, dies at the age of 94. ](/news/2013/12/23/the-russian-designer-of-the-ak-47-assault-rifle-mikhail-kalashnikov-dies-at-the-age-of-94.md) _Context: Russian_
+7. [12 Russian citizens appear in a Moscow court charged with offences at a 2012 anti-Vladimir Putin rally; critics claim it is reminiscent of the Soviet-era show trials. ](/news/2013/06/6/12-russian-citizens-appear-in-a-moscow-court-charged-with-offences-at-a-2012-anti-vladimir-putin-rally-critics-claim-it-is-reminiscent-of-t.md) _Context: Russian_
+8. [In ice hockey, Nathan MacKinnon, a Canadian centre with the Halifax Mooseheads of the Quebec Major Junior Hockey League, is chosen by the Colorado Avalanche as the first pick in the 2013 NHL Entry Draft. ](/news/2013/06/30/in-ice-hockey-nathan-mackinnon-a-canadian-centre-with-the-halifax-mooseheads-of-the-quebec-major-junior-hockey-league-is-chosen-by-the-co.md) _Context: ice hockey_
+9. [In ice hockey, the Halifax Mooseheads defeat the Portland Winterhawks to win the 2013 Memorial Cup [http://www.mastercardmemorialcup.ca/article/halifax-mooseheads-win-mastercard-memorial-cup/144418]](/news/2013/05/26/in-ice-hockey-the-halifax-mooseheads-defeat-the-portland-winterhawks-to-win-the-2013-memorial-cup-http-www-mastercardmemorialcup-ca-arti.md) _Context: ice hockey_
+10. [In ice hockey, the United States win 2013 IIHF Women's World Championship defeating Canada 3-2 in the final. ](/news/2013/04/9/in-ice-hockey-the-united-states-win-2013-iihf-women-s-world-championship-defeating-canada-3a2-in-the-final.md) _Context: ice hockey_

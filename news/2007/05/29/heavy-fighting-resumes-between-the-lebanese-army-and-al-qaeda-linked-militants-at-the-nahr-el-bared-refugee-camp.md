@@ -1,0 +1,23 @@
+### [2007-05-29](/news/2007/05/29/index.md)
+
+#  Heavy fighting resumes between the Lebanese army and al Qaeda linked militants at the Nahr el-Bared refugee camp. 
+
+
+
+
+### Source:
+
+1. [AP via CNN](http://edition.cnn.com/2007/WORLD/meast/05/30/lebanon.army.ap/index.html?eref=rss_world)
+
+### Related:
+
+1. [ Lebanon declares victory over Fatah al-Islam, an Al Qaeda-linked group, after a month-long battle at a Palestinian refugee camp. ](/news/2007/06/21/lebanon-declares-victory-over-fatah-al-islam-an-al-qaeda-linked-group-after-a-month-long-battle-at-a-palestinian-refugee-camp.md) _Context: Lebanon, al-Qaeda, refugee_
+2. [Syrian Civil War spillover in Lebanon:Sources confirm that Lebanon has captured Majid bin Mohammad al-Majid, leader of the al-Qaeda-linked group Abdullah Azzam Brigades responsible for the recent bombing of the Iranian embassy in Beirut, Lebanon. ](/news/2014/01/1/syrian-civil-war-spillover-in-lebanon-psources-confirm-that-lebanon-has-captured-majid-bin-mohammad-al-majid-leader-of-the-al-qaeda-linked.md) _Context: Lebanon, al-Qaeda_
+3. [ 2007 North Lebanon conflict: Fighting resumes at the Nahr el-Bared camp between the Lebanese Army and Fatah al-Islam. ](/news/2007/06/1/2007-north-lebanon-conflict-fighting-resumes-at-the-nahr-el-bared-camp-between-the-lebanese-army-and-fatah-al-islam.md) _Context: Lebanon, Nahr el-Bared_
+4. [ Lebanon's Defence Minister Elias Murr issues an ultimatum to Fatah al-Islam militants in the Nahr el-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/23/lebanon-s-defence-minister-elias-murr-issues-an-ultimatum-to-fatah-al-islam-militants-in-the-nahr-el-bared-refugee-camp-in-tripoli-lebanon.md) _Context: Lebanon, Nahr el-Bared_
+5. [ Battle of Nahr al-Bared: Fighting breaks out between Fatah al-Islam militants and Lebanese soldiers at the Nahr al-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/20/battle-of-nahr-al-bared-fighting-breaks-out-between-fatah-al-islam-militants-and-lebanese-soldiers-at-the-nahr-al-bared-refugee-camp-in-tr.md) _Context: Lebanon, refugee_
+6. [The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. ](/news/2017/03/17/the-israeli-air-force-launches-several-airstrikes-on-targets-inside-syria-and-for-the-first-time-publicly-claims-responsibility-syrian-ai.md) _Context: Lebanon_
+7. [An unknown perpetrator using an Apache helicopter fires upon a boat carrying Somali refugees off the coast of Yemen, killing at least 40 of them, injuring 35 more. ](/news/2017/03/17/an-unknown-perpetrator-using-an-apache-helicopter-fires-upon-a-boat-carrying-somali-refugees-off-the-coast-of-yemen-killing-at-least-40-of.md) _Context: refugee_
+8. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: al-Qaeda_
+9. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: al-Qaeda_
+10. [Six Al Qaeda insurgents are killed by the  Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _Context: al-Qaeda_

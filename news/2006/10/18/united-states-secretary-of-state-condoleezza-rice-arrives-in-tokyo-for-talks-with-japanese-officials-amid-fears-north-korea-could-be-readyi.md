@@ -1,0 +1,23 @@
+### [2006-10-18](/news/2006/10/18/index.md)
+
+#  United States Secretary of State Condoleezza Rice arrives in Tokyo for talks with Japanese officials amid fears North Korea could be readying for a second nuclear test. 
+
+
+
+
+### Source:
+
+1. [USA Today](http://www.usatoday.com/news/world/2006-10-18-rice-japan_x.htm?POE=NEWISVA)
+
+### Related:
+
+1. [Japan deploys two MIM-104 Patriot surface-to-air missile interceptor systems in Tokyo in preparation for any North Korean ballistic missiles potentially heading for the city. The deployment comes amid concerns of an imminent North Korean missile launch following the detection of "increased activity" at a North Korean missile facility. ](/news/2016/01/31/japan-deploys-two-mim-104-patriot-surface-to-air-missile-interceptor-systems-in-tokyo-in-preparation-for-any-north-korean-ballistic-missiles.md) _Context: Japan, North Korea, Tokyo_
+2. [ US Secretary of State Condoleezza Rice arrives in Beijing for the last leg of her six-country Asian trip. Rice met with President Hu Jintao and Premier Wen Jiabao; talks about North Korea nuclear missiles program and Taiwan are on the top of the agenda. ](/news/2005/03/20/us-secretary-of-state-condoleezza-rice-arrives-in-beijing-for-the-last-leg-of-her-six-country-asian-trip-rice-met-with-president-hu-jintao.md) _Context: Condoleezza Rice, North Korea, United States Secretary of State_
+3. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan, North Korea_
+4. [Japan orders its military to shoot down any North Korean missiles that threaten to strike Japan at anytime, and is placing its forces on a state of alert for at least three months, according to a Ministry of Defense official. ](/news/2016/08/8/japan-orders-its-military-to-shoot-down-any-north-korean-missiles-that-threaten-to-strike-japan-at-anytime-and-is-placing-its-forces-on-a-s.md) _Context: Japan, North Korea_
+5. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other  lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-j.md) _Context: Japan, North Korea_
+6. [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md) _Context: Japan, Tokyo_
+7. [Japan places its military on high alert to be ready to shoot down any missile heading for its territory amid reports of a possible North Korean launch of an intermediate-range missile from its east coast. ](/news/2016/06/21/japan-places-its-military-on-high-alert-to-be-ready-to-shoot-down-any-missile-heading-for-its-territory-amid-reports-of-a-possible-north-kor.md) _Context: Japan, North Korea_
+8. [Yoichi Masuzoe resigns as the Governor of the Japanese capital Tokyo over a political funding scandal. He was due to face a no-confidence motion in the Tokyo Metropolitan Assembly later today. ](/news/2016/06/15/yaichi-masuzoe-resigns-as-the-governor-of-the-japanese-capital-tokyo-over-a-political-funding-scandal-he-was-due-to-face-a-no-confidence-m.md) _Context: Japan, Tokyo_
+9. [Rupert Wingfield-Hayes, the BBC's Tokyo correspondent, was detained in North Korea before being expelled by the government for "speaking very ill of the system". ](/news/2016/05/9/rupert-wingfield-hayes-the-bbc-s-tokyo-correspondent-was-detained-in-north-korea-before-being-expelled-by-the-government-for-speaking-ver.md) _Context: North Korea, Tokyo_
+10. [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md) _Context: Japan, North Korea_

@@ -1,0 +1,26 @@
+### [2015-10-5](/news/2015/10/5/index.md)
+
+# At least nine people are dead as Typhoon Mujigae hits southern China in the midst of the country's weeklong National Day holiday.  Mujigae also generates several strong tornadoes and leaves dozens of fishermen missing. Nearly 200,000 people had been evacuated before the storm made landfall. Neighboring Guangxi Zhuang region orders 12,700 fishing boats and 35,400 offshore workers to return to port. 
+
+Typhoon Mujigae prompted evacuation of about 200,000 people in southern China.
+
+
+### Source:
+
+1. [Manila Sun Star](http://www.sunstar.com.ph/manila/local-news/2015/10/04/kabayan-claims-2-lives-433910)
+2. [International Business Times](http://www.ibtimes.com/typhoon-mujigae-kills-8-south-china-leaves-dozens-missing-2126345)
+3. [Philippine Star](http://www.philstar.com/headlines/2015/10/04/1507068/storm-kabayan-leaves-two-dead)
+4. [AP](http://bigstory.ap.org/article/81f7ebb372e34ddf954e1c656e9cc6f3/typhoon-heads-south-china-tens-thousands-evacuated)
+
+### Related:
+
+1. [Chinese authorities arrest a suspect in yesterday's 17 Liucheng County mail bomb explosions that killed at least seven people and wounded more than 50. The suspect is identified as 33-year-old quarry-worker, Wei Yinyong, from Dapu township also in Guangxi Province. There is another explosion this morning. While it's not clear if it is connected, authorities reportedly located 60 packages yesterday which were being examined by a bomb squad. ](/news/2015/10/1/chinese-authorities-arrest-a-suspect-in-yesterday-s-17-liucheng-county-mail-bomb-explosions-that-killed-at-least-seven-people-and-wounded-mo.md) _Context: China, Guangxi Zhuang_
+2. [At least six people are killed and dozens injured in explosions at 15 locations in Liucheng County in China's Guangxi Zhuang Autonomous Region. The explosives were reportedly concealed inside express delivery packages. Chinese officials have identified a suspect, but the motive is not yet known. ](/news/2015/09/30/at-least-six-people-are-killed-and-dozens-injured-in-explosions-at-15-locations-in-liucheng-county-in-china-s-guangxi-zhuang-autonomous-regi.md) _Context: China, Guangxi Zhuang_
+3. [Chinese police shoot dead two ethnic Uighurs in Pingxiang, Guangxi while they attempt to cross into Vietnam after members of their group resisted arrest with knives. The public security ministry accuses a separatist group of orchestrating hundreds of cases of human smuggling. ](/news/2015/01/18/chinese-police-shoot-dead-two-ethnic-uighurs-in-pingxiang-guangxi-while-they-attempt-to-cross-into-vietnam-after-members-of-their-group-res.md) _Context: China, Guangxi Zhuang_
+4. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: China_
+5. [China launches its first cargo spacecraft, the Tianzhou 1, carried by a Long March 7 rocket. ](/news/2017/04/20/china-launches-its-first-cargo-spacecraft-the-tianzhou-1-carried-by-a-long-march-7-rocket.md) _Context: China_
+6. [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md) _Context: China_
+7. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: China_
+8. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: China_
+9. [American-born panda Bao Bao arrives in China. ](/news/2017/02/23/american-born-panda-bao-bao-arrives-in-china.md) _Context: China_
+10. [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md) _Context: China_

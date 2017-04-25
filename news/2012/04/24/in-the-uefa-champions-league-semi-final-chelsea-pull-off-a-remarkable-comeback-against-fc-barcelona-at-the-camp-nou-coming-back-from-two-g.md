@@ -1,0 +1,25 @@
+### [2012-04-24](/news/2012/04/24/index.md)
+
+# In the UEFA Champions League semi-final, Chelsea pull off a remarkable comeback against FC Barcelona at the Camp Nou, coming back from two goals down despite having captain John Terry sent off, central defender Gary Cahill injured in the opening minutes and Didier Drogba's concession of a penalty to Lionel Messi which hits the crossbar. Chelsea are left without the suspended quartet of Terry, Ramires, Branislav Ivanovic and Raul Meireles for the final at the Allianz Arena. 
+
+Chelsea claimed a stunning draw against Barcelona at the Camp Nou to book their place in the Champions League final in a game that will go down as a classic. Relive the action here.
+
+
+### Source:
+
+1. [RTE](http://www.rte.ie/sport/soccer/2012/0424/318345-live-updates-barcelona-v-chelsea/)
+2. [The Guardian](http://www.guardian.co.uk/football/2012/apr/24/barcelona-chelsea-champions-league-live-mbm)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/17832531)
+
+### Related:
+
+1. [Lionel Messi scores twice in FC Barcelona's historic comeback, 4-0 win over AC Milan at Camp Nou to reach quarter-finals of the 2012-13 UEFA Champions League. In the other match, Turkey's Galatasaray defeats Schalke 04 3-2 in Gelsenkirchen, Germany. ](/news/2013/03/12/lionel-messi-scores-twice-in-fc-barcelona-s-historic-comeback-4a0-win-over-ac-milan-at-camp-nou-to-reach-quarter-finals-of-the-2012a13.md) _Context: Camp Nou, FC Barcelona, Lionel Messi_
+2. [Lionel Messi is carried off on a stretcher with an apparent knee injury as FC Barcelona are held to 0-0 by Benfica at Camp Nou in the 2012-13 UEFA Champions League. ](/news/2012/12/5/lionel-messi-is-carried-off-on-a-stretcher-with-an-apparent-knee-injury-as-fc-barcelona-are-held-to-0a0-by-benfica-at-camp-nou-in-the-2012.md) _Context: Camp Nou, FC Barcelona, Lionel Messi_
+3. [Thousands of people gather in London for an open-top bus parade to celebrate Chelsea's UEFA Champions League victory over Munich in last night's final. ](/news/2012/05/20/thousands-of-people-gather-in-london-for-an-open-top-bus-parade-to-celebrate-chelsea-s-uefa-champions-league-victory-over-munich-in-last-nig.md) _Context: Chelsea F.C., UEFA Champions League, last May_
+4. [Association football:The final of the 2011-12 UEFA Champions League occurs in Munich, with Chelsea defeating Bayern Munich in a penalty shoot out after extra time, winning the competition for the first time in the club's history. ](/news/2012/05/19/association-football-pthe-final-of-the-2011a12-uefa-champions-league-occurs-in-munich-with-chelsea-defeating-bayern-munich-in-a-penalty-s.md) _Context: Chelsea F.C., UEFA Champions League, last May_
+5. [Chelsea stun title holders Barcelona with a 1-0 win UEFA Champions League semi-final first-leg match in London, Ivorian footballer Didier Drogba scoring the only goal of the game. ](/news/2012/04/18/chelsea-stun-title-holders-barcelona-with-a-1-0-win-uefa-champions-league-semi-final-first-leg-match-in-london-ivorian-footballer-didier-dr.md) _Context: Chelsea F.C., Didier Drogba, FC Barcelona_
+6. [In association football, Lionel Messi of FC Barcelona and Argentina wins the 2015 FIFA Ballon d'Or, for his fifth time. Barca manager Luis Enrique is named FIFA World Coach of the Year for Men's Football. Carli Lloyd of the Houston Dash and the USA is named FIFA Women's World Player of the Year, and USA coach Jill Ellis is named FIFA World Coach of the Year for Women's Football. ](/news/2016/01/11/in-association-football-lionel-messi-of-fc-barcelona-and-argentina-wins-the-2015-fifa-ballon-d-or-for-his-fifth-time-barassa-manager-luis.md) _Context: FC Barcelona, Lionel Messi_
+7. [Days after his hat-trick broke the Primera Division's 59-year goal-scoring record, Barcelona striker Lionel Messi scores another hat-trick in Nicosia to become the UEFA Champions League all-time top scorer. ](/news/2014/11/25/days-after-his-hat-trick-broke-the-primera-divisia3n-s-59-year-goal-scoring-record-barcelona-striker-lionel-messi-scores-another-hat-trick.md) _Context: FC Barcelona, Lionel Messi_
+8. [In football, Argentinian Lionel Messi of FC Barcelona sets a new goal scoring record in La Liga of 253 goals. ](/news/2014/11/22/in-football-argentinian-lionel-messi-of-fc-barcelona-sets-a-new-goal-scoring-record-in-la-liga-of-253-goals.md) _Context: FC Barcelona, Lionel Messi_
+9. [Liverpool striker Luis Suarez is banned for 10 games by the FA for biting Chelsea's Branislav Ivanovic. ](/news/2013/04/24/liverpool-striker-luis-sua-rez-is-banned-for-10-games-by-the-fa-for-biting-chelsea-s-branislav-ivanovia.md) _Context: Branislav Ivanović, Chelsea F.C._
+10. [Lionel Messi extends his record streak by scoring in his 14th consecutive 2012-13 La Liga game to give leader Barcelona a 2-1 win against Granada. The Argentine forward completes his 300th goal during 365th appearance for Catalan club. ](/news/2013/02/16/lionel-messi-extends-his-record-streak-by-scoring-in-his-14th-consecutive-2012a13-la-liga-game-to-give-leader-barcelona-a-2a1-win-agains.md) _Context: FC Barcelona, Lionel Messi_

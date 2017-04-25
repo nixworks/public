@@ -1,0 +1,23 @@
+### [2012-08-23](/news/2012/08/23/index.md)
+
+# Tropical Storm Isaac (2012): The U.S. National Hurricane Center lowers its previous hurricane warning threat level for Hispaniola island in the Caribbean Sea to a storm warning and hurricane watch in its 23.00 PM bulletin. 
+
+
+
+
+### Source:
+
+1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/)
+
+### Related:
+
+1. [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with  maximum sustained winds of  115 mph (185 km/h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md) _Context: Hispaniola, National Hurricane Center_
+2. [The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea,  and for the northwest South American coast. ](/news/2016/09/29/the-u-s-national-hurricane-center-issues-a-tropical-storm-watch-for-aruba-bonaire-and-curaassao-islands-in-the-caribbean-sea-and-for-the.md) _Context: Caribbean Sea, National Hurricane Center_
+3. [Tropical Storm Isaac:The United States National Hurricane Center issues hurricane warnings for the states of Florida, Alabama, Mississippi and Louisiana. A state of emergency is in effect in these four areas. ](/news/2012/08/26/tropical-storm-isaac-pthe-united-states-national-hurricane-center-issues-hurricane-warnings-for-the-states-of-florida-alabama-mississippi.md) _Context: National Hurricane Center, Tropical Storm Isaac_
+4. [Tropical Storm Isaac hits the island of Hispaniola containing Haiti and the Dominican Republic. A hurricane watch threat level is set for Haiti. ](/news/2012/08/24/tropical-storm-isaac-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic-a-hurricane-watch-threat-level-is-set-for-ha.md) _Context: Hispaniola, Tropical Storm Isaac_
+5. [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md) _Context: Caribbean Sea_
+6. [Hurricane Matthew becomes a category-5 hurricane with maximum sustained winds up to 160 mph, the strongest hurricane to form over the Caribbean Sea since Hurricane Felix in 2007. It is expected to impact parts of Haiti, Jamaica and eastern Cuba. ](/news/2016/09/30/hurricane-matthew-becomes-a-category-5-hurricane-with-maximum-sustained-winds-up-to-160-mph-the-strongest-hurricane-to-form-over-the-caribb.md) _Context: Caribbean Sea_
+7. [The National Hurricane Center declares a hurricane watch and tropical storm warning from the Anclote River, north of Tampa, to Destin, Florida, near the Georgia border.  Hermine, now at 45 mph (75 km), is expected to reach hurricane strength when it makes landfall Thursday afternoon. Florida Governor Rick Scott, with life-threatening flooding forecast, declares a state of emergency.  ](/news/2016/08/31/the-national-hurricane-center-declares-a-hurricane-watch-and-tropical-storm-warning-from-the-anclote-river-north-of-tampa-to-destin-flori.md) _Context: National Hurricane Center_
+8. [The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina,  moves northwest toward the Atlantic Coast. ](/news/2016/05/28/the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-the-newly-upgraded-tropical-storm.md) _Context: National Hurricane Center_
+9. [A school bus plunges off of a cliff on the Caribbean island of St. Vincent leaving at least five people dead and two missing. ](/news/2015/01/12/a-school-bus-plunges-off-of-a-cliff-on-the-caribbean-island-of-st-vincent-leaving-at-least-five-people-dead-and-two-missing.md) _Context: Caribbean Sea_
+10. [Tropical Storm Isaac causes floodings and kills at least three people in Haiti, a nation still recovering from the 2010 earthquake. The storm moves Northwest over east Cuba. ](/news/2012/08/25/tropical-storm-isaac-causes-floodings-and-kills-at-least-three-people-in-haiti-a-nation-still-recovering-from-the-2010-earthquake-the-stor.md) _Context: Tropical Storm Isaac_

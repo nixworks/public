@@ -1,0 +1,23 @@
+### [2009-12-19](/news/2009/12/19/index.md)
+
+#  Serbians, Macedonians, and Montenegrins are able to travel to continental Europe without a visa from this day on. 
+
+Today, for the first time in nearly two decades, millions of Serbs and other former Yugoslavs will be entitled to leave their countries and go almost anywhere in Europe without a visa. The end of the visa barrier, which falls on the festival of St Nicholas, comes 18 years after Slobodan Milosevic led Yugoslavia into the cold – and marks a new welcome for a nation that has long been shunned by the rest of Europe.
+
+
+### Source:
+
+1. [The Independent](http://www.independent.co.uk/news/world/europe/at-last-serbs-win-passport-to-freedom-1845113.html)
+
+### Related:
+
+1. [ Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. ](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.md) _Context:  Macedonia, Montenegro, Serbia_
+2. [Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration. ](/news/2016/02/19/serbia-closes-its-southern-border-with-macedonia-to-migrants-from-countries-not-affected-by-war-as-part-of-measures-to-prevent-illegal-immig.md) _Context:  Macedonia, Serbia_
+3. [Macedonia, Serbia, Croatia, and Slovenia shut their borders to so-called economic migrants, those not coming from war-torn countries such as Syria, Afghanistan, or Iraq, leaving thousands stranded at Balkan border crossings. Around 500 migrants from Iran, Morocco, and Algeria gather on the border between Greece and Macedonia to protest the closure. ](/news/2015/11/20/macedonia-serbia-croatia-and-slovenia-shut-their-borders-to-so-called-economic-migrants-those-not-coming-from-war-torn-countries-such-as.md) _Context:  Macedonia, Serbia_
+4. [ Republic of Macedonia, Albania and Serbian autonomous province of Kosovo are experiencing blackouts as a result of the 2007 European heatwave that spreads over the Balkans.  It also causes bushfires everywhere in the region between Croatia, Hungary, Serbia and Greece. ](/news/2007/07/24/republic-of-macedonia-albania-and-serbian-autonomous-province-of-kosovo-are-experiencing-blackouts-as-a-result-of-the-2007-european-heatwa.md) _Context:  Macedonia, Serbia_
+5. [Voters in Serbia go to the polls for an election, which Prime Minster Aleksandar Vucic of the conservative Serbian Progressive Party is expected to win. In projections, Vucic gets around 55% of the votes, avoiding a second round. ](/news/2017/04/2/voters-in-serbia-go-to-the-polls-for-an-election-which-prime-minster-aleksandar-vuaia-of-the-conservative-serbian-progressive-party-is-ex.md) _Context: Serbia_
+6. [Serbian President Tomislav Nikolic accuses Kosovo of "seeking a war" after a train, en route to the Serb-majority city of Mitrovica in North Kosovo, and decorated in Serbian national colors and the words "''Kosovo je Srbija''" (Kosovo is Serbia), was prevented from crossing the Kosovan border. The Prime Minister of Kosovo Isa Mustafa says the train had been stopped "to protect the country's sovereignty". ](/news/2017/01/15/serbian-president-tomislav-nikolia-accuses-kosovo-of-seeking-a-war-after-a-train-en-route-to-the-serb-majority-city-of-mitrovica-in-nort.md) _Context: Serbia_
+7. [ Macedonian voters elect a new parliament. ](/news/2016/12/11/macedonian-voters-elect-a-new-parliament.md) _Context:  Macedonia_
+8. [Floods in Macedonia's capital, Skopje, kill at least 21 people with  six others missing and dozens injured following torrential rain and strong winds late Saturday. ](/news/2016/08/7/floods-in-macedonia-s-capital-skopje-kill-at-least-21-people-with-six-others-missing-and-dozens-injured-following-torrential-rain-and-str.md) _Context:  Macedonia_
+9. [A lone gunman opened fire at a cafe in Zitiste, Serbia, killing five people and injuring 20 more. The perpetrator was arrested shortly afterward while attempting to flee the scene. ](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2itia-te-serbia-killing-five-people-and-injuring-20-more-the-perpetrator-was-arrested-shortly-af.md) _Context: Serbia_
+10. [Five people, all foreign holidaymakers, are killed and 23 are injured when their bus swerves off a highway en route to Belgrade, Serbia. ](/news/2016/06/21/five-people-all-foreign-holidaymakers-are-killed-and-23-are-injured-when-their-bus-swerves-off-a-highway-en-route-to-belgrade-serbia.md) _Context: Serbia_

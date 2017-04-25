@@ -1,0 +1,23 @@
+### [2016-02-23](/news/2016/02/23/index.md)
+
+# China reportedly deploys several J-11 and Xian JH-7 fighter jets to the disputed Woody Island in the South China Sea. 
+
+In a move likely to further increase already volatile tensions in the South China Sea, China has deployed fighter jets to a contested island in the South China Sea, the same island where China deployed surface-to-air missiles last week, two U.S. officials tell Fox News.
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/world/2016/02/23/exclusive-china-sends-fighter-jets-to-contested-island-in-south-china-sea.html)
+
+### Related:
+
+1. [Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackson-atoll-in-the-south-chin.md) _Context: China, South China Sea, South China Sea disputes_
+2. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier ''Liaoning'', sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following.md) _Context: China, South China Sea_
+3. [China's People's Liberation Army Navy seizes an underwater drone deployed by USNS ''Bowditch'' in the South China Sea; the United States files a formal diplomatic protest and a demand for its return. ](/news/2016/12/16/china-s-people-s-liberation-army-navy-seizes-an-underwater-drone-deployed-by-usns-bowditch-in-the-south-china-sea-the-united-states-fil.md) _Context: China, South China Sea_
+4. [Satellite images show anti-aircraft guns and missile defence systems being built on artificial islands in the South China Sea; China had previously committed to not militarising its controversial developments in the region. ](/news/2016/12/14/satellite-images-show-anti-aircraft-guns-and-missile-defence-systems-being-built-on-artificial-islands-in-the-south-china-sea-china-had-pre.md) _Context: China, South China Sea_
+5. [The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-japan-on-conducting-joint-patrols-in-the-south-china-sea.md) _Context: South China Sea, South China Sea disputes_
+6. [Iranian-born Australian politician Sam Dastyari pledges his support for China's position in the dispute. ](/news/2016/09/1/iranian-born-australian-politician-sam-dastyari-pledges-his-support-for-china-s-position-in-the-dispute.md) _Context: China, South China Sea disputes_
+7. [China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. ](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.md) _Context: China, South China Sea_
+8. [''Philippines v. China''The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/philippines-v-china-pthe-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south.md) _Context: China, South China Sea_
+9. [Ahead of a court decision by the Permanent Court of Arbitration, China holds a naval drill in the disputed South China Sea raising tensions in the region. ](/news/2016/07/9/ahead-of-a-court-decision-by-the-permanent-court-of-arbitration-china-holds-a-naval-drill-in-the-disputed-south-china-sea-raising-tensions.md) _Context: China, South China Sea_
+10. [China threatens the United States regarding the South China Sea and it will not accept a verdict in the Permanent Court of Arbitration. ](/news/2016/07/6/china-threatens-the-united-states-regarding-the-south-china-sea-and-it-will-not-accept-a-verdict-in-the-permanent-court-of-arbitration.md) _Context: China, South China Sea_

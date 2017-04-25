@@ -1,0 +1,23 @@
+### [2014-05-11](/news/2014/05/11/index.md)
+
+# 15 football supporters are killed in Kinshasa in a stampede caused by tear gas being thrown into the stand by police officers attempting to defuse a hostile incident. 
+
+
+
+
+### Source:
+
+1. [Radio Okapi](http://radiookapi.net/sport/2014/05/11/division-15-morts-21-blesses-apres-la-rencontre-vclub-mazembe-officiel/#.U3CL7fk7tzt)
+
+### Related:
+
+1. [Protesters in Brazil hold a violent demonstration against a proposed public spending cap in the capital Brasilia. Police used tear gas and rubber bullets in order to disperse the demonstrators. ](/news/2016/11/29/protesters-in-brazil-hold-a-violent-demonstration-against-a-proposed-public-spending-cap-in-the-capital-brasilia-police-used-tear-gas-and-r.md) _Context: tear gas_
+2. [A day after street violence in the Democratic Republic of the Congo between protesters opposed to President Joseph Kabila and security forces left at least 44 dead, armed men in military uniforms burn down the headquarters of the main opposition Union for Democracy and Social Progress (UDPS) in Kinshasa, DR Congo, killing at least two people. ](/news/2016/09/20/a-day-after-street-violence-in-the-democratic-republic-of-the-congo-between-protesters-opposed-to-president-joseph-kabila-and-security-force.md) _Context: Kinshasa_
+3. [A Democratic Republic of the Congo protest calling for the resignation of President Joseph Kabila turns violent in Kinshasa, leaving at least 17 people dead, including three police officers. Opposition groups say that 50 people died. ](/news/2016/09/19/a-democratic-republic-of-the-congo-protest-calling-for-the-resignation-of-president-joseph-kabila-turns-violent-in-kinshasa-leaving-at-leas.md) _Context: Kinshasa_
+4. [Thousands of people protest in the capital Kinshasa after the national electoral commission decides to postpone the election. ](/news/2016/07/31/thousands-of-people-protest-in-the-capital-kinshasa-after-the-national-electoral-commission-decides-to-postpone-the-election.md) _Context: Kinshasa_
+5. [Turkish police fire tear gas at protesters outside the Istanbul headquarters of the ''Zaman'' newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-been-taken-over-by-the-tur.md) _Context: tear gas_
+6. [Macedonian police use tear gas after hundreds of migrants frustrated with long delays broke a gate on the border with Greece and temporarily cross the border. ](/news/2016/02/29/macedonian-police-use-tear-gas-after-hundreds-of-migrants-frustrated-with-long-delays-broke-a-gate-on-the-border-with-greece-and-temporarily.md) _Context: tear gas_
+7. [Kosovo opposition lawmakers twice disrupt today's session of parliament by tossing tear gas into the chamber to protest recent changes giving the country's Serb minority greater powers, and demanding the government's resignation and  snap elections. ](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.md) _Context: tear gas_
+8. [Police in the Democratic Republic of the Congo fire teargas at students protesting increases in school fees in the capital Kinshasa. The students had started throwing stones. ](/news/2015/11/18/police-in-the-democratic-republic-of-the-congo-fire-teargas-at-students-protesting-increases-in-school-fees-in-the-capital-kinshasa-the-stu.md) _Context: Kinshasa_
+9. [Nicaragua deploys its military to help close its southern border in a dispute with Costa Rica over the passage of Cuban migrants on their way to the United States. Nicaragua's government said Costa Rica's decision to grant seven-day transit visas to 1,200 Cuban migrants who entered the country through Panama, "violated national sovereignty". Nicaraguan troops and riot police fired tear gas at people attempting to enter in what Costa Rica called a "humanitarian crisis". ](/news/2015/11/16/nicaragua-deploys-its-military-to-help-close-its-southern-border-in-a-dispute-with-costa-rica-over-the-passage-of-cuban-migrants-on-their-wa.md) _Context: tear gas_
+10. [Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders-with-serbia-and-croatia.md) _Context: tear gas_

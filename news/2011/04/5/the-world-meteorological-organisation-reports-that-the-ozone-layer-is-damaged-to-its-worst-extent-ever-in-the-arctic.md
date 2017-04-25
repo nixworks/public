@@ -1,0 +1,23 @@
+### [2011-04-5](/news/2011/04/5/index.md)
+
+# The World Meteorological Organisation reports that the ozone layer is damaged to its worst extent ever in the Arctic. 
+
+The stratospheric ozone layer, which shields the Earth from the Sun&#039;s harmful ultraviolet rays, has been damaged to its greatest-ever extent over the Arctic this winter.
+
+
+### Source:
+
+1. [The Independent](http://www.independent.co.uk/environment/climate-change/ozone-layer-damaged-by-unusually-harsh-winter-2263653.html)
+
+### Related:
+
+1. [ The World Meteorological Organisation says the hole in the Ozone layer is smaller than in 2008. ](/news/2009/09/16/the-world-meteorological-organisation-says-the-hole-in-the-ozone-layer-is-smaller-than-in-2008.md) _Context: World Meteorological Organisation, ozone layer_
+2. [The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around {{convert|-20|F|C}}. Temperatures around the North Pole have surpassed the {{convert|32|F|C}} threshold for a brief moment, according to the  U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is {{convert|50|F-change|1}} higher than usual for December. ](/news/2015/12/30/the-freak-weather-system-responsible-for-heavy-rain-and-tornadoes-in-the-u-s-and-high-winds-and-rainfall-in-the-british-isles-also-has-im.md) _Context: Arctic_
+3. [An avalanche in Svalbard,  a Norwegian Arctic archipelago, kills one and injures nine others as the snow smashes into 10 houses in Longyearbyen. The deluge from Sukkertoppen mountain follows Friday's  60 mph storm that ripped off a school roof and temporarily closed the airport. Dozens of homes at the foot of the mountain were evacuated and all of the area's residents have been located, according to Tone Hertzberg, a spokeswoman for Svalbard's governor. Experts from Norges Geotekniske Institutt are examining nearby slopes. ](/news/2015/12/20/an-avalanche-in-svalbard-a-norwegian-arctic-archipelago-kills-one-and-injures-nine-others-as-the-snow-smashes-into-10-houses-in-longyearb.md) _Context: Arctic_
+4. [A Russian Airborne Troops spokesman says the VDV is planning to expand their military exercises into the North Pole area of the Arctic in 2016. ](/news/2015/11/30/a-russian-airborne-troops-spokesman-says-the-vdv-is-planning-to-expand-their-military-exercises-into-the-north-pole-area-of-the-arctic-in-20.md) _Context: Arctic_
+5. [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of  "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md) _Context: Arctic_
+6. [President of Russia Vladimir Putin announces a policy mandate that increases military focus in the Arctic. ](/news/2013/12/11/president-of-russia-vladimir-putin-announces-a-policy-mandate-that-increases-military-focus-in-the-arctic.md) _Context: Arctic_
+7. [The United Nations World Meteorological Organisation says that greenhouse gases reached record levels in 2011. ](/news/2012/11/20/the-united-nations-world-meteorological-organisation-says-that-greenhouse-gases-reached-record-levels-in-2011.md) _Context: World Meteorological Organisation_
+8. [Frank Sherwood Rowland, the winner of the 1995 Nobel Prize in Chemistry for warning about the depletion of the ozone layer, dies in the US state of California. ](/news/2012/03/10/frank-sherwood-rowland-the-winner-of-the-1995-nobel-prize-in-chemistry-for-warning-about-the-depletion-of-the-ozone-layer-dies-in-the-us-s.md) _Context: ozone layer_
+9. [ExxonMobil and OAO Rosneft reach a deal which may reach $500 billion in projects in the Arctic, Gulf of Mexico, and the Black Sea. ](/news/2011/08/31/exxonmobil-and-oao-rosneft-reach-a-deal-which-may-reach-500-billion-in-projects-in-the-arctic-gulf-of-mexico-and-the-black-sea.md) _Context: Arctic_
+10. [A report warns of accumulating mercury in the Arctic regions and that global emissions of mercury could increase by 25% by 2020, after another report suggested a global sea level rise by 1.6 metres by 2100, while a previous study detected chemical changes from elemental mercury to neurotoxic monomethylmercury occurring in the Arctic Ocean. ](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.md) _Context: Arctic_

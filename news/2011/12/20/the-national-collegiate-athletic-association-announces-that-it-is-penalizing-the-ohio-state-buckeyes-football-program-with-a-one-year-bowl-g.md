@@ -1,0 +1,23 @@
+### [2011-12-20](/news/2011/12/20/index.md)
+
+# The National Collegiate Athletic Association announces that it is penalizing the Ohio State Buckeyes football program with a one-year bowl game ban, among other penalties, as a result of a scandal at the program. Former head coach Jim Tressel is given a 5-year show-cause penalty as well. 
+
+
+
+
+### Source:
+
+1. [ESPN](http://espn.go.com/college-football/story/_/id/7372757/ohio-state-buckeyes-football-penalties-include-bowl-ban)
+
+### Related:
+
+1. [Ohio State football head coach Jim Tressel resigns amidst a scandal over NCAA rules violations committed by him and members of the team. ](/news/2011/05/30/ohio-state-football-head-coach-jim-tressel-resigns-amidst-a-scandal-over-ncaa-rules-violations-committed-by-him-and-members-of-the-team.md) _Context: Buckeyes, Jim Tressel, NCAA, college football_
+2. [The Ohio State University suspends head coach Jim Tressel and fines him $250,000 for failing to advise the NCAA of breaches of its rules and conduct by some star Ohio State players. ](/news/2011/03/8/the-ohio-state-university-suspends-head-coach-jim-tressel-and-fines-him-250-000-for-failing-to-advise-the-ncaa-of-breaches-of-its-rules-and.md) _Context: Jim Tressel, Ohio State University_
+3. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32.  This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent.  Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-f.md) _Context: NCAA, college football_
+4. [ The University of Florida Gators defeat the Ohio State Buckeyes 84-75 in the 2007 NCAA Men's Division I Basketball Tournament championship game, becoming the first school in Division I history to win both the men's college basketball and college football titles in the same academic year. ](/news/2007/04/2/the-university-of-florida-gators-defeat-the-ohio-state-buckeyes-84-75-in-the-2007-ncaa-men-s-division-i-basketball-tournament-championship.md) _Context: Ohio State University, college football_
+5. [Law enforcement officials believed Abdul Razak Ali Artan, the perpetrator of a car ramming and stabbing attack at Ohio State University (OSU)'s Watts Hall, was inspired by terrorist propaganda from the Islamic State of Iraq and the Levant, and radical Muslim cleric Anwar al-Awlaki. ](/news/2016/11/29/law-enforcement-officials-believed-abdul-razak-ali-artan-the-perpetrator-of-a-car-ramming-and-stabbing-attack-at-ohio-state-university-osu.md) _Context: Ohio State University_
+6. [ Eleven people are hospitalized, one in critical condition, after a suspect rammed his  car  into a crowd, and then stabbed numerous people on Ohio State's Columbus campus. Police have declared the scene secure. The suspect, a refugee from Somalia, and a student at the university, is shot and killed by a police officer after he failed to obey orders to stop. ](/news/2016/11/28/eleven-people-are-hospitalized-one-in-critical-condition-after-a-suspect-rammed-his-car-into-a-crowd-and-then-stabbed-numerous-people.md) _Context: Ohio State University_
+7. [In American football, Marcus Mariota of the University of Oregon football team wins the 2014 Heisman trophy for the best player in college football. ](/news/2014/12/13/in-american-football-marcus-mariota-of-the-university-of-oregon-football-team-wins-the-2014-heisman-trophy-for-the-best-player-in-college-f.md) _Context: college football_
+8. [In a case brought by a group of former NCAA athletes, U.S. District Court judge Claudia Wilken rules that the NCAA violated antitrust law by restricting the compensation that college athletes can receive for their publicity rights. ](/news/2014/08/8/in-a-case-brought-by-a-group-of-former-ncaa-athletes-u-s-district-court-judge-claudia-wilken-rules-that-the-ncaa-violated-antitrust-law-by.md) _Context: NCAA_
+9. [In college football, the Florida State Seminoles defeat the Auburn Tigers to win the 2014 BCS National Championship Game. ](/news/2014/01/6/in-college-football-the-florida-state-seminoles-defeat-the-auburn-tigers-to-win-the-2014-bcs-national-championship-game.md) _Context: college football_
+10. [Ohio State University president E. Gordon Gee announces his retirement effective July 1 amidst controversy over insulting remarks he made in December 2012. ](/news/2013/06/4/ohio-state-university-president-e-gordon-gee-announces-his-retirement-effective-july-1-amidst-controversy-over-insulting-remarks-he-made-in.md) _Context: Ohio State University_

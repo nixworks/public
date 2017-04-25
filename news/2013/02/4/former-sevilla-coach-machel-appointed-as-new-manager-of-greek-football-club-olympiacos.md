@@ -1,0 +1,24 @@
+### [2013-02-4](/news/2013/02/4/index.md)
+
+# Former Sevilla coach Michel appointed as new manager of Greek football club Olympiacos. 
+
+The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
+
+
+### Source:
+
+1. [Reuters via Yahoo!](http://sports.yahoo.com/news/1-soccer-olympiakos-appoint-michel-first-league-defeat-191222964--sow.html)
+2. [AP via FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=2000674.html)
+
+### Related:
+
+1. [Spanish football club Sevilla fires coach Michel due to a poor run in the 2012-13 La Liga season and replaces him with Unai Emery. ](/news/2013/01/14/spanish-football-club-sevilla-fires-coach-machel-due-to-a-poor-run-in-the-2012a13-la-liga-season-and-replaces-him-with-unai-emery.md) _Context: Míchel, Sevilla FC, association football_
+2. [ More details emerge on the rescue of Olympiacos and Mexico international footballer Alan Pulido, kidnapped in Ciudad Victoria on May 28. He escaped by overpowering a captor left alone with him. ](/news/2016/05/30/more-details-emerge-on-the-rescue-of-olympiacos-and-mexico-international-footballer-alan-pulido-kidnapped-in-ciudad-victoria-on-may-28-he.md) _Context: Olympiacos, association football_
+3. [In association football, Sevilla FC of Spain becomes the first club to win the UEFA Europa League four times defeating FC Dnipro Dnipropetrovsk of Ukraine 3-2 with Colombian striker Carlos Bacca scoring twice in the final. ](/news/2015/05/27/in-association-football-sevilla-fc-of-spain-becomes-the-first-club-to-win-the-uefa-europa-league-four-times-defeating-fc-dnipro-dnipropetro.md) _Context: Sevilla FC, association football_
+4. [Greek football player Giorgos Katidis is banned from his national team for life after giving a Nazi style salute while celebrating a goal in the 2012-13 Superleague Greece match. ](/news/2013/03/17/greek-football-player-giorgos-katidis-is-banned-from-his-national-team-for-life-after-giving-a-nazi-style-salute-while-celebrating-a-goal-in.md) _Context: Greece, association football_
+5. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Greece_
+6. [Four Hellenic Army officers are killed and one is injured when their Bell UH-1 Iroquois border patrol helicopter crashes near Elassona in northern Greece. ](/news/2017/04/19/four-hellenic-army-officers-are-killed-and-one-is-injured-when-their-bell-uh-1-iroquois-border-patrol-helicopter-crashes-near-elassona-in-no.md) _Context: Greece_
+7. [Over 70,000 people are evacuated from Thessaloniki, Greece, as authorities attempt to defuse a World War II-era unexploded ordnance, which was discovered last week. ](/news/2017/02/11/over-70-000-people-are-evacuated-from-thessaloniki-greece-as-authorities-attempt-to-defuse-a-world-war-ii-era-unexploded-ordnance-which-w.md) _Context: Greece_
+8. [Germany announces plans to start deporting newly-arrived migrants to Greece starting in March. According to EU's Dublin Regulation, asylum seekers must file for asylum in the member state they arrived in. ](/news/2017/01/12/germany-announces-plans-to-start-deporting-newly-arrived-migrants-to-greece-starting-in-march-according-to-eu-s-dublin-regulation-asylum-s.md) _Context: Greece_
+9. [A body found in a burnt-out vehicle north of the Brazilian city of Rio de Janeiro is confirmed to be that of missing Greek Ambassador Kyriakos Amiridis. A military police officer who had an affair with the ambassador's wife confesses to the murder. The wife and a second man are also detained. ](/news/2016/12/30/a-body-found-in-a-burnt-out-vehicle-north-of-the-brazilian-city-of-rio-de-janeiro-is-confirmed-to-be-that-of-missing-greek-ambassador-kyriak.md) _Context: Greece_
+10. [In association football, Toronto FC play Seattle Sounders FC in the MLS Cup final held at Toronto's BMO Field. The Sounders win 5-4 in a penalty shootout after the game ended scoreless after extra time. It is the Sounders' first MLS title. ](/news/2016/12/10/in-association-football-toronto-fc-play-seattle-sounders-fc-in-the-mls-cup-final-held-at-toronto-s-bmo-field-the-sounders-win-5a4-in-a-p.md) _Context: association football_

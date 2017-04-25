@@ -1,0 +1,26 @@
+### [2010-05-27](/news/2010/05/27/index.md)
+
+# Libya welcomes the return of some ancient relics stolen by British soldiers in the 1950s and now on display in Tripoli's Museum of Libya. 
+
+Libyan artefacts taken to Britain in the 1950s have been returned home and go on display in Tripoli Museum.
+
+
+### Source:
+
+1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1281959/British-families-return-ancient-artefacts-taken-Libya-World-War-Two.html?ITO=1490&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailymail%2Fhome+%28Home+%7C+Mail+Online%29)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10175793.stm)
+3. [IOL](http://www.iol.co.za/index.php?from=rss_Discovery&set_id=1&click_id=588&art_id=nw20100527103643287C120664)
+4. [News24.com](http://www.news24.com/Africa/News/Britons-return-Libyan-antiquities-20100527)
+
+### Related:
+
+1. [ At least eight are killed in clashes in Tripoli, Libya. ](/news/2016/12/2/at-least-eight-are-killed-in-clashes-in-tripoli-libya.md) _Context: Libya, Tripoli_
+2. [A Medecins Sans Frontieres (Doctors Without Borders) ship rescues 209 people, including 50 children, from two dinghies in distress in the Mediterranean Sea but finds 22 dead bodies, 21 women and a child, lying in a pool of fuel in the bottom of one of the boats. The dinghies were 17 miles east of Tripoli, Libya. Cause of death is unknown, though an MSF official says it could be that fumes from mixed fuel and water rendered the people unconscious. The MSF ship is expected to arrive in the Sicilian port of Trapani on Friday.](/news/2016/07/20/a-ma-c-decins-sans-frontia-res-doctors-without-borders-ship-rescues-209-people-including-50-children-from-two-dinghies-in-distress-in-the.md) _Context: Libya, Tripoli_
+3. [The self-declared National Salvation government, one of the rival governments of Libya, resigns and gives up power to the UN-backed Libyan Presidential Council in Tripoli. ](/news/2016/04/6/the-self-declared-national-salvation-government-one-of-the-rival-governments-of-libya-resigns-and-gives-up-power-to-the-un-backed-libyan-p.md) _Context: Libya, Tripoli_
+4. [The unrecognized House of Representatives, one of the rival governments based in eastern Libya, ships its first cargo of crude oil in defiance of the U.N.-backed authorities in the capital Tripoli in a move that could deepen divisions within the country. The Tripoli-based government asked the United Nations Security Council yesterday to blacklist the tanker. ](/news/2016/04/27/the-unrecognized-house-of-representatives-one-of-the-rival-governments-based-in-eastern-libya-ships-its-first-cargo-of-crude-oil-in-defian.md) _Context: Libya, Tripoli_
+5. [ Rival governments in eastern and western Libya reach the initial phase of an agreement designed to foster elections that would bring about a single ruling entity in the North African country. The deal must  be endorsed by the internationally-recognized government in Tobruk and the General National Congress in Tripoli. ](/news/2015/12/6/rival-governments-in-eastern-and-western-libya-reach-the-initial-phase-of-an-agreement-designed-to-foster-elections-that-would-bring-about.md) _Context: Libya, Tripoli_
+6. [Hannibal Gaddafi, son of Libya's late leader Muammar Gaddafi, who was kidnapped by militants, is released in Baalbek, Lebanon. Gaddafi's abductors said they were seeking information on the fate of Shiite cleric Imam Moussa al-Sadr, who disappeared during a trip to Tripoli in 1978. ](/news/2015/12/11/hannibal-gaddafi-son-of-libya-s-late-leader-muammar-gaddafi-who-was-kidnapped-by-militants-is-released-in-baalbek-lebanon-gaddafi-s-abd.md) _Context: Libya, Tripoli_
+7. [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md) _Context: Libya, Tripoli_
+8. [A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md) _Context: Libya, Tripoli_
+9. [Libyan Civil War (2014-present) A Libyan helicopter carrying cash for a local bank on the way out and  returning to Tripoli with passengers is shot down near the coastal Almaya area west of the capital city, killing at least 14 of its 23 passengers including senior officers Hosein Bodaya and Duhain Al-Rammah, officials with Libya's Dawn militias. ](/news/2015/10/27/libyan-civil-war-2014apresent-pa-libyan-helicopter-carrying-cash-for-a-local-bank-on-the-way-out-and-returning-to-tripoli-with-passenge.md) _Context: Libya, Tripoli_
+10. [A prominent Libyan Zuwarah militia leader and migrant smuggler, Salah Al-Maskhout, is reportedly killed in Tripoli by Italian special forces. The EU recently approved military action against people smuggling networks operating out of Libya. ](/news/2015/09/26/a-prominent-libyan-zuwarah-militia-leader-and-migrant-smuggler-salah-al-maskhout-is-reportedly-killed-in-tripoli-by-italian-special-forces.md) _Context: Libya, Tripoli_

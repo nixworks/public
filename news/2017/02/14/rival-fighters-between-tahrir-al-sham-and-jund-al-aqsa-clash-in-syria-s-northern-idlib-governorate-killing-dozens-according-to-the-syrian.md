@@ -1,0 +1,23 @@
+### [2017-02-14](/news/2017/02/14/index.md)
+
+# Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. 
+
+Hardline Islamist factions turn on each other in an apparent battle for influence.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-middle-east-38966601)
+
+### Related:
+
+1. [Russian airstrikes on a Al-Nusra Front (Al-Qaeda's branch in Syria)-run prison complex in the northern town of Maarrat al-Nu'man, Idlib, leaves nearly 60 people dead. Most of those killed were rebels imprisoned by Al-Nusra, according to the Syrian Observatory for Human Rights. ](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.md) _Context: Idlib, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+2. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+3. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+4. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Syria, Syrian Civil War, Tahrir al-Sham_
+5. [ISIL recaptures the Syrian city of Palmyra despite heavy Russian airstrikes, according to the Syrian Observatory for Human Rights and Palmyra Coordination Committee (PCC). ](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+6. [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+7. [The Syrian Observatory for Human Rights says that at least 51 people have been killed in the Syrian city of Aleppo. ](/news/2016/08/13/the-syrian-observatory-for-human-rights-says-that-at-least-51-people-have-been-killed-in-the-syrian-city-of-aleppo.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+8. [Syrian Civil War Airstrikes hit  Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights.  At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/syrian-civil-war-pairstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-obs.md) _Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_
+9. [British-based Syrian Observatory for Human Rights reports a Save the Children maternity hospital in  Kafr Takharim in rebel-held  Idlib Governorate is hit by airstrikes. No report on casualties.  SOHR also says at least five people are killed  and more than 25 injured from airstrikes in another part of the northern Idlib countryside. ](/news/2016/07/29/british-based-syrian-observatory-for-human-rights-reports-a-save-the-children-maternity-hospital-in-kafr-takharim-in-rebel-held-idlib-gove.md) _Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_
+10. [The British-based Syrian Observatory for Human Rights reports U.S.-led coalition airstrikes on the  Islamic State-held city of Manbij in northern Syria kill at least 56 civilians, including 11 children, and injure dozens more. ](/news/2016/07/19/the-british-based-syrian-observatory-for-human-rights-reports-u-s-led-coalition-airstrikes-on-the-islamic-state-held-city-of-manbij-in-nor.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_

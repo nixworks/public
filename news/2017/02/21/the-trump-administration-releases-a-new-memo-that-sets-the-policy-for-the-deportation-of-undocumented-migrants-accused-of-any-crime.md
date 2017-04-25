@@ -1,0 +1,23 @@
+### [2017-02-21](/news/2017/02/21/index.md)
+
+# The Trump administration releases a new memo that sets the policy for the deportation of undocumented migrants accused of any crime. 
+
+Advocates say the immigrant community is bracing for more raids and deportations now that DHS has detailed whom it wants to deport.
+
+
+### Source:
+
+1. [NBC News](http://www.nbcnews.com/news/latino/trump-enforcement-plan-has-immigrants-bracing-raids-deportations-n723771)
+
+### Related:
+
+1. [In response to a federal appeal, U.S. District Judge Derrick Watson (Hawaii), who on March 15 issued a temporary, national restraining order on implementation of the revised federal immigration/refugee rules, upgrades his earlier ruling to a preliminary injunction until Hawaii's lawsuit is resolved. ](/news/2017/03/29/in-response-to-a-federal-appeal-u-s-district-judge-derrick-watson-hawaii-who-on-march-15-issued-a-temporary-national-restraining-order.md) _Context: United States immigration ban_
+2. [A second U.S. federal judge, Theodore D. Chuang of Maryland, grants that state's motion for a temporary restraining order on President Trump's revised travel ban. ](/news/2017/03/16/a-second-u-s-federal-judge-theodore-d-chuang-of-maryland-grants-that-state-s-motion-for-a-temporary-restraining-order-on-president-trump.md) _Context: United States immigration ban_
+3. [A U.S. federal judge in Hawaii, finding the revised federal immigration/refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md) _Context: United States immigration ban_
+4. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: United States immigration ban_
+5. [The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-general.md) _Context: Trump administration_
+6. [The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education.  ](/news/2017/02/7/the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary-of-education.md) _Context: Trump administration_
+7. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: deportees_
+8. [The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/the-united-states-senate-in-a-53a47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _Context: Trump administration_
+9. [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md) _Context: Trump administration_
+10. [The U.S. Senate confirms former U.S. labor secretary and deputy transportation secretary Elaine Chao as Secretary of Transportation. Chao is married to Senate Majority Leader Mitch McConnell. ](/news/2017/01/31/the-u-s-senate-confirms-former-u-s-labor-secretary-and-deputy-transportation-secretary-elaine-chao-as-secretary-of-transportation-chao-is.md) _Context: Trump administration_

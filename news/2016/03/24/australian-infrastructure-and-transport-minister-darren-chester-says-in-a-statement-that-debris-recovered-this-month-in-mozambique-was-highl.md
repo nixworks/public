@@ -1,0 +1,23 @@
+### [2016-03-24](/news/2016/03/24/index.md)
+
+# Australian infrastructure and transport minister Darren Chester says in a statement that debris recovered this month in Mozambique was highly likely to be from the missing Malaysia Airlines flight. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-malaysia-airlines-idUSKCN0WQ041)
+
+### Related:
+
+1. [A Malaysian court dismisses  Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore  has no liability to relatives. The court ruled  MAB's liability would be determined in a trial. ](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-37.md) _Context: Malaysia Airlines, Malaysia Airlines Flight 370_
+2. [Malaysia Airlines Flight 370:Australia, Malaysia and the People's Republic of China reach an agreement about the costs and direction of the ongoing search for the wreckage of Malaysia Airlines Flight 370 which is believed to have crashed in the Indian Ocean southwest of Western Australia. ](/news/2014/08/28/malaysia-airlines-flight-370-paustralia-malaysia-and-the-people-s-republic-of-china-reach-an-agreement-about-the-costs-and-direction-of-the.md) _Context: Australia, Malaysia Airlines Flight 370_
+3. [A Tropical Cyclone hampers the search for missing Malaysia Airlines Flight MH370 which vanished on March 8 with 239 people on board. A U.S. Navy submarine Bluefin-21 is on mission to find the wreckage. ](/news/2014/04/21/a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-with-239-people-on-board-a-u-s.md) _Context: Malaysia Airlines, Malaysia Airlines Flight 370_
+4. [Malaysia Airlines loses contact with a Boeing 777-200ER passenger plane carrying 239 people from Kuala Lumpur to Beijing, China. ](/news/2014/03/8/malaysia-airlines-loses-contact-with-a-boeing-777-200er-passenger-plane-carrying-239-people-from-kuala-lumpur-to-beijing-china.md) _Context: Malaysia Airlines, Malaysia Airlines Flight 370_
+5. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: Australia_
+6. [Australia adds stricter requirements to its citizenship application process, including harder tests on English language skills and the requirement that a migrant be able to demonstrate "Australian values". ](/news/2017/04/20/australia-adds-stricter-requirements-to-its-citizenship-application-process-including-harder-tests-on-english-language-skills-and-the-requi.md) _Context: Australia_
+7. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Australia_
+8. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Australia_
+9. [After eight years in power, the Liberal Party is defeated by the Labor Party in a landslide election. Mark McGowan is set to become the Australian state's new Premier. ](/news/2017/03/11/after-eight-years-in-power-the-liberal-party-is-defeated-by-the-labor-party-in-a-landslide-election-mark-mcgowan-is-set-to-become-the-aust.md) _Context: Australia_
+10. [Cyclone Dineo kills seven and destroys twenty-thousand homes in Mozambique. ](/news/2017/02/17/cyclone-dineo-kills-seven-and-destroys-twenty-thousand-homes-in-mozambique.md) _Context: Mozambique_

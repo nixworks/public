@@ -1,0 +1,23 @@
+### [2011-12-6](/news/2011/12/6/index.md)
+
+# Australia announces more sanctions against Iran amidst growing concerns about its nuclear and missile programs. 
+
+Foreign minister Kevin Rudd has announced additional sanctions against Iran after attacks on the UK embassy and a report from the UN atomic energy agency.
+
+
+### Source:
+
+1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/australia-adopts-more-sanctions-on-iran-20111206-1ogf9.html)
+
+### Related:
+
+1. [Iranian-born Australian politician Sam Dastyari pledges his support for China's position in the dispute. ](/news/2016/09/1/iranian-born-australian-politician-sam-dastyari-pledges-his-support-for-china-s-position-in-the-dispute.md) _Context: Australia, Iran_
+2. [A Somali asylum seeker sets herself alight in Nauru to protest her detention on the island by Australia, one week after an Iranian asylum seeker did the same thing. ](/news/2016/05/2/a-somali-asylum-seeker-sets-herself-alight-in-nauru-to-protest-her-detention-on-the-island-by-australia-one-week-after-an-iranian-asylum-se.md) _Context: Australia, Iran_
+3. [An Iranian asylum seeker self-immolates himself in Nauru to protest Australia's treatment of refugees. The protest coincides with a visit by representatives from the United Nations High Commissioner for Refugees to the island. Instead of admitting refugees into the country, Australia has been sending them to Nauru or Papua New Guinea. ](/news/2016/04/27/an-iranian-asylum-seeker-self-immolates-himself-in-nauru-to-protest-australia-s-treatment-of-refugees-the-protest-coincides-with-a-visit-by.md) _Context: Australia, Iran_
+4. [Europe and the United States lift sanctions imposed on Iran regarding its nuclear programme, and the Joint Comprehensive Plan of Action begins to be implemented. ](/news/2016/01/17/europe-and-the-united-states-lift-sanctions-imposed-on-iran-regarding-its-nuclear-programme-and-the-joint-comprehensive-plan-of-action-begi.md) _Context: Iran, nuclear programme_
+5. [An Australia-bound boat carrying Iranian asylum seekers sinks off the coast of Indonesia, leaving at least three people dead, 157 rescued and an uncertain number missing. ](/news/2013/07/24/an-australia-bound-boat-carrying-iranian-asylum-seekers-sinks-off-the-coast-of-indonesia-leaving-at-least-three-people-dead-157-rescued-an.md) _Context: Australia, Iran_
+6. [Representatives of six major world powers - China, France, Germany, United Kingdom, Russia and the United States - meet with Iranian officials to discuss the nation's nuclear program. ](/news/2013/02/26/representatives-of-six-major-world-powers-a-china-france-germany-united-kingdom-russia-and-the-united-states-a-meet-with-iranian-off.md) _Context: Iran, nuclear programme_
+7. [Up to 100 asylum seekers, many from Iran, riot again at Australia's Christmas Island Immigration Reception and Processing Centre. ](/news/2011/07/22/up-to-100-asylum-seekers-many-from-iran-riot-again-at-australia-s-christmas-island-immigration-reception-and-processing-centre.md) _Context: Australia, Iran_
+8. [Mohammad-Reza Rahimi, the Vice-President of Iran describes inhabitants of the United Kingdom as "not human" and "a bunch of idiots run by a mafia". He also describes Australians as "a bunch of cattlemen" and says that Koreans "need to be slapped". ](/news/2010/08/12/mohammad-reza-rahimi-the-vice-president-of-iran-describes-inhabitants-of-the-united-kingdom-as-not-human-and-a-bunch-of-idiots-run-by-a.md) _Context: Australia, Iran_
+9. [ CBS News's Mike Wallace holds an interview with Mahmoud Ahmadinejad, the president of Iran. In the interview, Ahmadinejad said that the letter he sent to George W. Bush was meant to "open a window towards the light" for Bush to "see that one can look on the world through a different perspective." He responded to his nation's nuclear program and possible weapons program saying that Iran was "studying" the offer presented by the United States and the European Union. He also claimed that Bush "believes that his power emanates from his nuclear warhead arsenals." ](/news/2006/08/8/cbs-news-s-mike-wallace-holds-an-interview-with-mahmoud-ahmadinejad-the-president-of-iran-in-the-interview-ahmadinejad-said-that-the-let.md) _Context: Iran, nuclear programme_
+10. [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md) _Context: Iran_

@@ -1,0 +1,25 @@
+### [2006-02-3](/news/2006/02/3/index.md)
+
+#  Israeli-Palestinian Conflict: Hezbollah fires some 30 mortar shells at IDF outposts along the northern Israeli border, lightly wounding an Israeli soldier. In response, Israeli Air Force strikes Hezbollah targets in southern Lebanon. 
+
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
+
+
+### Source:
+
+1. [YNET](http://www.ynetnews.com/articles/0,7340,L-3210491,00.html)
+2. [YNET](http://www.ynetnews.com/articles/0,7340,L-3210485,00.html)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-02-03T151204Z_01_L03725805_RTRUKOC_0_US-MIDEAST-ISRAEL-AIRSTRIKE.xml)
+
+### Related:
+
+1. [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md) _Context: Hezbollah, Israel, Lebanon_
+2. [Four Israeli soldiers are wounded by a landmine near the Lebanese border. ](/news/2013/08/7/four-israeli-soldiers-are-wounded-by-a-landmine-near-the-lebanese-border.md) _Context: Israel, Israel Defense Forces, Lebanon_
+3. [A 2009 Wikileaks document from the US embassy in Tel Aviv says that Israel is preparing for large scale war against Hamas or Hezbollah, and quotes the Israeli chief of staff as saying that the Israel Defense Forces must be prepared to stop the firing of rockets on Tel Aviv. ](/news/2011/01/2/a-2009-wikileaks-document-from-the-us-embassy-in-tel-aviv-says-that-israel-is-preparing-for-large-scale-war-against-hamas-or-hezbollah-and.md) _Context: Hezbollah, Israel, Israel Defense Forces_
+4. [Israeli-Lebanese conflict:Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israelialebanese-conflict-pisrael-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governme.md) _Context: Israel, Israel Defense Forces, Lebanon_
+5. [The Lebanese army claims that Israeli Air Force planes violated Lebanon's airspace several times, in violation of the United Nations Security Council Resolution, which ended the Israeli-Lebanese war of 2006 between Lebanese-based Islamic militant group Hezbollah and Israel. ](/news/2010/12/27/the-lebanese-army-claims-that-israeli-air-force-planes-violated-lebanon-s-airspace-several-times-in-violation-of-the-united-nations-securit.md) _Context: Hezbollah, Israel, Lebanon_
+6. [Hezbollah leader Hassan Nasrallah announces Monday as the day he will present evidence reputed to implicate Israel in the 2005 car bomb assassination of then Prime Minister of Lebanon Rafiq Hariri. ](/news/2010/08/7/hezbollah-leader-hassan-nasrallah-announces-monday-as-the-day-he-will-present-evidence-reputed-to-implicate-israel-in-the-2005-car-bomb-assa.md) _Context: Hezbollah, Israel, Lebanon_
+7. [Israel's Foreign Ministry alleges Hezbollah leader Hassan Nasrallah's press conference yesterday, in which he stated he has evidence that implicates Israel in the 2005 assassination of former Prime Minister of Lebanon Rafic Hariri and 22 others, was full of "ridiculous lies". ](/news/2010/08/10/israel-s-foreign-ministry-alleges-hezbollah-leader-hassan-nasrallah-s-press-conference-yesterday-in-which-he-stated-he-has-evidence-that-im.md) _Context: Hezbollah, Israel, Lebanon_
+8. [Hezbollah warns Israel on gas fields being claimed by both Israel and Lebanon. ](/news/2010/06/13/hezbollah-warns-israel-on-gas-fields-being-claimed-by-both-israel-and-lebanon.md) _Context: Hezbollah, Israel, Lebanon_
+9. [ 2008-2009 Israel-Gaza conflict: Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/2008a2009-israelagaza-conflict-p-several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibilit.md) _Context: Hezbollah, Israel, Lebanon_
+10. [ Hezbollah transfers the bodies of captured Israeli soldiers, Ehud Goldwasser and Eldad Regev, in exchange for the Lebanese convicted murderer Samir Kuntar, four other Hezbollah militants captured by Israel during the 2006 Lebanon War (Khaled Zidan, Maher Kurani, Mohammed Sarur and Hussein Suleiman), and the bodies of 200 Lebanese and Palestinians.](/news/2008/07/16/hezbollah-transfers-the-bodies-of-captured-israeli-soldiers-ehud-goldwasser-and-eldad-regev-in-exchange-for-the-lebanese-convicted-murder.md) _Context: Hezbollah, Israel, Lebanon_

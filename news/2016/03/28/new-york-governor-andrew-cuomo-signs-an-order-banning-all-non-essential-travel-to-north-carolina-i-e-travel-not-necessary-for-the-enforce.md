@@ -1,0 +1,23 @@
+### [2016-03-28](/news/2016/03/28/index.md)
+
+# New York Governor Andrew Cuomo signs an order banning all non-essential travel to North Carolina, i.e., travel not necessary for the enforcement of New York state law, public health, and/or safety, following the state's passage of  a  law blocking local governments from passing anti-discrimination ordinances. 
+
+New York state Gov. Andrew Cuomo on Monday signed an order banning all non-essential travel to North Carolina, after a law was passed blocking local governments from passing anti-discrimination ordinances.
+
+
+### Source:
+
+1. [CBS News](http://newyork.cbslocal.com/2016/03/28/cuomo-north-carolina-travel/)
+
+### Related:
+
+1. [Governor of New York Andrew Cuomo announces that Hurricane Sandy ran up a bill of $32 billion in New York. ](/news/2012/11/26/governor-of-new-york-andrew-cuomo-announces-that-hurricane-sandy-ran-up-a-bill-of-32-billion-in-new-york.md) _Context: Andrew Cuomo, New York Governor_
+2. [New York Governor Andrew Cuomo signs New York State's Marriage Equality Law, legalizing same-sex marriage in New York, and making New York the largest U.S. state to approve such legislation since California reversed its legalization in 2008. ](/news/2011/06/25/new-york-governor-andrew-cuomo-signs-new-york-state-s-marriage-equality-law-legalizing-same-sex-marriage-in-new-york-and-making-new-york-t.md) _Context: Andrew Cuomo, New York Governor_
+3. [The state legislature of North Carolina repeals the Public Facilities Privacy & Security Act, more commonly known as the "transgender bathroom bill." In its place, the legislature enacts a ban on cities in North Carolina from enacting "civil rights" protections for gay, lesbian, bisexual and transgender people through 2020. ](/news/2017/03/30/the-state-legislature-of-north-carolina-repeals-the-public-facilities-privacy-security-act-more-commonly-known-as-the-transgender-bathro.md) _Context: North Carolina_
+4. [Recounts begin in North Carolina. ](/news/2016/12/1/recounts-begin-in-north-carolina.md) _Context: North Carolina_
+5. [The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by  Democratic nominee Roy Cooper. ](/news/2016/11/30/the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory-to-accept-his-defeat-by-democratic-nominee-r.md) _Context: North Carolina_
+6. [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km/h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md) _Context: North Carolina_
+7. [The death toll in North Carolina rises to 22 as flood waters continue to rise. Governor Pat McCrory says places that had a foot of water in the morning, were under 12 feet of water. ](/news/2016/10/13/the-death-toll-in-north-carolina-rises-to-22-as-flood-waters-continue-to-rise-governor-pat-mccrory-says-places-that-had-a-foot-of-water-in.md) _Context: North Carolina_
+8. [The death toll in the United States from Hurricane Matthew rises to 27 with at least five people still missing in North Carolina. Governor Pat McCrory warns that the state's swollen rivers are still rising with flooding continuing to pose threats to life and property this week. The storm, downgraded to a post-tropical cyclone yesterday, moves away from the U.S. coastline on an east-northeast track. ](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.md) _Context: North Carolina_
+9. [The Obama administration through federal prosecutors announces corruption charges against nine defendants, including a former close aide to New York Governor Andrew Cuomo, over their roles in alleged bribery and fraud schemes tied to the awarding of large state contracts and other activities. ](/news/2016/09/22/the-obama-administration-through-federal-prosecutors-announces-corruption-charges-against-nine-defendants-including-a-former-close-aide-to.md) _Context: Andrew Cuomo_
+10. [The U.S. states of North Carolina and Virginia declare a state of emergency over gas shortages as a result of the Colonial pipeline leak in Shelby County, Alabama. ](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.md) _Context: North Carolina_

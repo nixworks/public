@@ -1,0 +1,40 @@
+## [2012-08-17](/news/2012/08/17/index.md)
+
+### [Syrian civil war:Fighting continues in major cities as Lakhdar Brahimi is named as the new United Nations envoy for Syria. ](/news/2012/08/17/syrian-civil-war-pfighting-continues-in-major-cities-as-lakhdar-brahimi-is-named-as-the-new-united-nations-envoy-for-syria.md)
+State media say rebels forced out of areas near Aleppo airport as the UN chooses a new UN-Arab League envoy to Syria.
+
+### [War on Terror:Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/war-on-terror-pafghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md)
+Two US soldiers are shot dead by a local policeman in Afghanistan, officials for the international Nato-led force in the country say.
+
+### [Turkey urges its citizens not to travel to Lebanon after the kidnapping of two Turkish nationals. ](/news/2012/08/17/turkey-urges-its-citizens-not-to-travel-to-lebanon-after-the-kidnapping-of-two-turkish-nationals.md)
+_Context: Lebanon, Turkish_
+
+### [More than 60 fishermen are rescued after being abducted by pirates in the Bay of Bengal. ](/news/2012/08/17/more-than-60-fishermen-are-rescued-after-being-abducted-by-pirates-in-the-bay-of-bengal.md)
+_Context: Bay of Bengal, Pirate_
+
+### [The president of Gabon Ali Bongo calls for calm following clashes between police and anti-government protesters and a subsequent attack on an opposition television station. ](/news/2012/08/17/the-president-of-gabon-ali-bongo-calls-for-calm-following-clashes-between-police-and-anti-government-protesters-and-a-subsequent-attack-on-a.md)
+_Context: Ali Bongo Ondimba, Gabon_
+
+### [North Caucasus insurgency: 4 police officers are killed in an attack near Grozny, the capital of the Russian North Caucasus republic of Chechnya. ](/news/2012/08/17/north-caucasus-insurgency-4-police-officers-are-killed-in-an-attack-near-grozny-the-capital-of-the-russian-north-caucasus-republic-of-chec.md)
+_Context: Chechnya, Grozny, Insurgency in the North Caucasus, Russia_
+
+### [An unusual spider discovered in 2010 is described as a separate family, the Trogloraptoridae. The single species will be named ''Trogloraptor marchingtoni'', after Neil Marchington, a deputy sheriff, amateur biologist and local cave explorer who helped with the discovery. ](/news/2012/08/17/an-unusual-spider-discovered-in-2010-is-described-as-a-separate-family-the-trogloraptoridae-the-single-species-will-be-named-troglorapto.md)
+The newfound spider family is being named trogloraptor, meaning &quot;cave robber,&quot; and the single species found near Grants Pass is named Trogloraptor marchingtoni for Neil Marchington, a Deschutes County deputy sheriff who is also an amateur biologist and local cave explorer who helped lead the team of scientists to caves where the spiders were found. A report on the discovery by Griswold and his colleagues, graduate student Tracy Audisio of San Francisco State and postdoctoral researcher Joel Ledford of UC Davis, has been accepted for publication in ZooKeys, a peer-reviewed zoology journal. The adults are huge for any spider - about the size of a 50-cent piece - and they spin primitive webs with only a few strands, but hang beneath those webs from the cool, damp ceilings of the caves, Griswold said. Primitive relatives of other arachnid families may yet be discovered in the same regions, he noted, because many unique evolutionary descendants of other widespread groups live there, including coast redwoods, mountain beavers, coastal-tailed frogs, and some pseudoscorpions whose evolutionary ancestors date back 380 million years.
+
+### [Mdecins Sans Frontires state that Sudanese refugees are in 'humanitarian disaster' in South Sudan. ](/news/2012/08/17/medecins-sans-frontieres-state-that-sudanese-refugees-are-in-humanitarian-disaster-in-south-sudan.md)
+People are dying in large numbers in a refugee camp in South Sudan, a medical charity says, describing the situation as a humanitarian disaster.
+
+### [Jang Song-thaek, the uncle of North Korean leader Kim Jong-un, meets Chinese president Hu Jintao. ](/news/2012/08/17/jang-song-thaek-the-uncle-of-north-korean-leader-kim-jong-un-meets-chinese-president-hu-jintao.md)
+_Context: China, Hu Jintao, Jang Song-thaek, Kim Jong-un, North Korea_
+
+### [Russia:A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/russia-pa-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and.md)
+Court sentences three members of band to two-year jail terms for performing protest song in a church.
+
+### [The death toll following yesterday's clash between South African police and Lonmin striking miners in Marikana, Rustenburg, rises to 34. South African President Jacob Zuma announces an inquiry. ](/news/2012/08/17/the-death-toll-following-yesterday-s-clash-between-south-african-police-and-lonmin-striking-miners-in-marikana-rustenburg-rises-to-34-sou.md)
+Police Minister Nathi Mthethwa says more than 30 people were killed in a shooting between police and miners in Marikana, Rustenburg.
+
+### [The Federal Constitutional Court of Germany rules that the German constitution allows its military to start operations inside Germany, for the first time since 1945. ](/news/2012/08/17/the-federal-constitutional-court-of-germany-rules-that-the-german-constitution-allows-its-military-to-start-operations-inside-germany-for-t.md)
+_Context: Federal Constitutional Court of Germany, German Constitution, military's_
+
+## [Previous Day...](/news/2012/08/16/index.md)
+

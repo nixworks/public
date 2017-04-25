@@ -1,0 +1,28 @@
+### [2010-04-21](/news/2010/04/21/index.md)
+
+# The man who attacked Oasis guitarist Noel Gallagher on stage at the 2008 Virgin Festival in Toronto is put under house arrest for 12 months. 
+
+
+
+
+### Source:
+
+1. [CBC](http://www.cbc.ca/canada/toronto/story/2010/04/21/oasis-sullivan.html?ref=rss)
+2. [Toronto Star](http://www.thestar.com/news/gta/crime/article/798506--no-jail-for-attack-on-oasis-guitarist?bn=1)
+3. [Billboard](http://www.billboard.biz/bbbiz/content_display/industry/e3ie7b73b7fc6c91a7a84e994b9eb586e08)
+4. [The Globe and Mail](http://www.theglobeandmail.com/news/national/toronto/man-gets-house-arrest-in-oasis-attack/article1541715/)
+5. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8635811.stm)
+6. [Digital Spy](http://www.digitalspy.co.uk/music/news/a215769/oasis-attacker-sentenced-to-house-arrest.html)
+
+### Related:
+
+1. [ Noel Gallagher leaves the British rock band Oasis. ](/news/2009/08/29/noel-gallagher-leaves-the-british-rock-band-oasis.md) _Context: Noel Gallagher, Oasis_
+2. [In association football, Toronto FC play Seattle Sounders FC in the MLS Cup final held at Toronto's BMO Field. The Sounders win 5-4 in a penalty shootout after the game ended scoreless after extra time. It is the Sounders' first MLS title. ](/news/2016/12/10/in-association-football-toronto-fc-play-seattle-sounders-fc-in-the-mls-cup-final-held-at-toronto-s-bmo-field-the-sounders-win-5a4-in-a-p.md) _Context: Toronto_
+3. [Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.md) _Context: Toronto_
+4. [Air Canada Flight 88, a scheduled flight from Shanghai to Toronto, diverts to Calgary International Airport after the aircraft, a Boeing 777, encountered violent turbulence. Twenty-one passengers, including three children, were taken to hospital. ](/news/2015/12/31/air-canada-flight-88-a-scheduled-flight-from-shanghai-to-toronto-diverts-to-calgary-international-airport-after-the-aircraft-a-boeing-777.md) _Context: Toronto_
+5. [The North Korean (DPRK) supreme court convicts and sentences South Korea-born Canadian pastor Hyeon Soo Lim to hard labor for life  for  trying to overthrow the  DPRK  and undermine the country's social system. Lim's relatives said he's traveled to North Korea more than 100 times since 1997, to help people, but not for any particular political purpose. Lim, from the Light Korean Presbyterian Church in Toronto, has been in custody since February. ](/news/2015/12/16/the-north-korean-dprk-supreme-court-convicts-and-sentences-south-korea-born-canadian-pastor-hyeon-soo-lim-to-hard-labor-for-life-for-try.md) _Context: Toronto_
+6. [The Games officially commence following Friday's opening ceremony in Toronto. ](/news/2015/07/10/the-games-officially-commence-following-friday-s-opening-ceremony-in-toronto.md) _Context: Toronto_
+7. [Five are shot in Toronto, Ontario, in a neighbourhood with children around playing, two critically and one in life-threatening condition, having been shot by the police. Four suspects detained. ](/news/2015/04/16/five-are-shot-in-toronto-ontario-in-a-neighbourhood-with-children-around-playing-two-critically-and-one-in-life-threatening-condition-ha.md) _Context: Toronto_
+8. [Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and 5 crews on board survive, with 23 treated for minor injuries. ](/news/2015/03/29/air-canada-flight-624-skids-off-the-runway-at-halifax-stanfield-international-airport-after-arriving-from-toronto-shortly-past-midnight-al.md) _Context: Toronto_
+9. [Moderate conservative John Tory is elected Mayor of Toronto, Ontario.](/news/2014/10/27/moderate-conservative-john-tory-is-elected-mayor-of-toronto-ontario.md) _Context: Toronto_
+10. [Four people are stabbed in an office in Toronto, Ontario, Canada. ](/news/2014/04/9/four-people-are-stabbed-in-an-office-in-toronto-ontario-canada.md) _Context: Toronto_

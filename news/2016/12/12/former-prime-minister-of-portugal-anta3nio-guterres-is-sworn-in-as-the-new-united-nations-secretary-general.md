@@ -1,0 +1,23 @@
+### [2016-12-12](/news/2016/12/12/index.md)
+
+# Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. 
+
+Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the ninth United Nations Secretary-General, pledging to personally help broker peace in various conflicts and reform the 71-year old world body to become more effective.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-un-guterres-idUSKBN14121H?feedType=RSS&feedName=topNews)
+
+### Related:
+
+1. [The United Nations General Assembly officially appoints former Portuguese Prime Minister Antonio Guterres  its next Secretary-General. ](/news/2016/10/13/the-united-nations-general-assembly-officially-appoints-former-portuguese-prime-minister-anta3nio-guterres-its-next-secretary-general.md) _Context: António Guterres, Prime Minister of Portugal, Secretary General_
+2. [Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacing-south-korea-s-ban-ki-moon.md) _Context: António Guterres, Portuguese_
+3. [The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. ](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.md) _Context: António Guterres, Secretary General_
+4. [South Africa will notify the United Nations that the country is withdrawing from the International Criminal Court (ICC). This separation would take effect one year from when notice is formally received by the  U.N. Secretary-General. Last week, Burundi's parliament voted to leave the ICC, but the required paperwork has not yet reached the U.N. ](/news/2016/10/20/south-africa-will-notify-the-united-nations-that-the-country-is-withdrawing-from-the-international-criminal-court-icc-this-separation-wou.md) _Context: Secretary General, United Nations_
+5. [Portuguese political crisis, 2013:Portuguese Minister of Foreign Affairs Paulo Portas quits after disagreeing with the prime minister's choice for Finance Minister, Maria Luis Albuquerque. The Minister for the Environment and Agriculture and the Minister of Social Security are also set to resign. ](/news/2013/07/2/portuguese-political-crisis-2013-pportuguese-minister-of-foreign-affairs-paulo-portas-quits-after-disagreeing-with-the-prime-minister-s-cho.md) _Context: Portuguese, Prime Minister of Portugal_
+6. [Syrian civil war:The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/syrian-civil-war-pthe-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md) _Context: Secretary General, United Nations_
+7. [Arab Spring:Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/arab-spring-psyrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-of.md) _Context: Secretary General, United Nations_
+8. [2011-2012 Syrian uprising: United Nations Secretary-General Ban Ki-moon calls on the Syrian regime to "stop killing its own people". ](/news/2012/01/15/2011a2012-syrian-uprising-punited-nations-secretary-general-ban-ki-moon-calls-on-the-syrian-regime-to-stop-killing-its-own-people.md) _Context: Secretary General, United Nations_
+9. [United Nations Secretary-General Ban Ki-moon says Belarus has "seriously violated" the arms embargo against the Ivory Coast, after a delivery of attack helicopters and material to the country. ](/news/2011/02/28/united-nations-secretary-general-ban-ki-moon-says-belarus-has-seriously-violated-the-arms-embargo-against-the-ivory-coast-after-a-deliver.md) _Context: Secretary General, United Nations_
+10. [United Nations Secretary-General Ban Ki-moon welcomes more than $200 million in funds pledged towards the humanitarian effort following the 2010 Pakistan floods. ](/news/2010/08/21/united-nations-secretary-general-ban-ki-moon-welcomes-more-than-200-million-in-funds-pledged-towards-the-humanitarian-effort-following-the.md) _Context: Secretary General, United Nations_

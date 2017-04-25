@@ -1,0 +1,23 @@
+### [2013-06-3](/news/2013/06/3/index.md)
+
+# A set of three unusually well preserved triceratops specimens is unearthed in the U.S. state of Wyoming. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2013/06/03/us/triceratops-found/)
+
+### Related:
+
+1. [Registered Democratic voters in the U.S. state of Wyoming gather, by county,  for the  Wyoming Democratic caucuses. Bernie Sanders is projected to win. ](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-projec.md) _Context: Wyoming_
+2. [Voters in Guam, Washington, D.C. and Wyoming head to the polls to vote in Republican Party caucuses, while Democratic Party members vote in the Northern Mariana Islands caucus. ](/news/2016/03/12/voters-in-guam-washington-d-c-and-wyoming-head-to-the-polls-to-vote-in-republican-party-caucuses-while-democratic-party-members-vote-in.md) _Context: Wyoming_
+3. [Glen Casada, a top Republican Tennessee lawmaker who is the chair of the state's House Republican Caucus, suggests activating the Tennessee National Guard to 'round up' Syrian refugees and remove them from the southeastern state, saying "Tennessee is a sovereign state, if the federal government is forsaking the obligation to protect our citizens, we need to act". ](/news/2015/11/18/glen-casada-a-top-republican-tennessee-lawmaker-who-is-the-chair-of-the-stateas-house-republican-caucus-suggests-activating-the-tennesse.md) _Context: state_
+4. [An unknown gunman shoots two policemen in front of the Ferguson city police headquarters in the U.S. state of Missouri. ](/news/2015/03/12/an-unknown-gunman-shoots-two-policemen-in-front-of-the-ferguson-city-police-headquarters-in-the-u-s-state-of-missouri.md) _Context: state_
+5. [Standard & Poor's reaches settlements totaling $1.5 billion with the U.S. Justice Department and several U.S. states for inflating ratings on subprime mortgage bonds in the lead-up to the 2008 financial crisis. ](/news/2015/02/3/standard-poor-s-reaches-settlements-totaling-1-5-billion-with-the-u-s-justice-department-and-several-u-s-states-for-inflating-ratings-o.md) _Context: state_
+6. [The United States Federal Government recognizes same-sex marriage in Alaska, Arizona, Idaho, North Carolina, West Virginia and Wyoming, bringing the total number of states with recognition of gay marriage to 32. ](/news/2014/10/25/the-united-states-federal-government-recognizes-same-sex-marriage-in-alaska-arizona-idaho-north-carolina-west-virginia-and-wyoming-brin.md) _Context: Wyoming_
+7. [Same-sex marriage is legalized in the U.S. state of New Mexico. ](/news/2013/12/19/same-sex-marriage-is-legalized-in-the-u-s-state-of-new-mexico.md) _Context: state_
+8. [New Jersey becomes the 14th U.S. state to allow same-sex marriages. ](/news/2013/10/21/new-jersey-becomes-the-14th-u-s-state-to-allow-same-sex-marriages.md) _Context: state_
+9. [22nd and Market building collapse. A building collapse in Philadelphia in the U.S. state of Pennsylvania kills 6, wounds 13, and traps at least 10. ](/news/2013/06/5/22nd-and-market-building-collapse-a-building-collapse-in-philadelphia-in-the-u-s-state-of-pennsylvania-kills-6-wounds-13-and-traps-at-le.md) _Context: state_
+10. [Parents in Polk County in the U.S. state of Florida protest against their children having their irises scanned by authorities without permission by schools. The EyeSwipe-Nano program is temporarily suspended. ](/news/2013/05/30/parents-in-polk-county-in-the-u-s-state-of-florida-protest-against-their-children-having-their-irises-scanned-by-authorities-without-permis.md) _Context: state_

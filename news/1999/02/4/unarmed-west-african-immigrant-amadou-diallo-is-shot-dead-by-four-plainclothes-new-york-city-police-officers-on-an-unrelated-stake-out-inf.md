@@ -1,0 +1,19 @@
+### [1999-02-4](/news/1999/02/4/index.md)
+
+#  Unarmed West African immigrant Amadou Diallo is shot dead by four plainclothes New York City police officers on an unrelated stake-out, inflaming race-relations in the city.
+
+
+
+
+### Related:
+
+1. [Amtrak Police taser a man at New York's Penn Station after the man allegedly became agitated due to a delayed train. Bystanders, falsely believing a shooting had occurred, caused a stampede, injuring more than a dozen people. ](/news/2017/04/14/amtrak-police-taser-a-man-at-new-york-s-penn-station-after-the-man-allegedly-became-agitated-due-to-a-delayed-train-bystanders-falsely-bel.md) _Context: New York's_
+2. [New York City Mayor Bill de Blasio announces that he is developing a plan to close the Rikers Island prison within 10 years. ](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.md) _Context: New York's_
+3. [Russia's Permanent Representative to the United Nations Vitaly Churkin dies suddenly in New York City. He would have turned 65 on Tuesday. ](/news/2017/02/20/russia-s-permanent-representative-to-the-united-nations-vitaly-churkin-dies-suddenly-in-new-york-city-he-would-have-turned-65-on-tuesday.md) _Context: New York's_
+4. [British Foreign Secretary Boris Johnson, during a visit to the Gambia, announces that the West African nation is to rejoin the Commonwealth of Nations following talks with Gambian President Adama Barrow. The Gambia withdrew from the Commonwealth in 2013 under Yahya Jammeh, who considered it a "neo-colonial institution". ](/news/2017/02/14/british-foreign-secretary-boris-johnson-during-a-visit-to-the-gambia-announces-that-the-west-african-nation-is-to-rejoin-the-commonwealth.md) _Context: West Africa_
+5. [Gambian President Yahya Jammeh accuses the West African regional bloc, ECOWAS, of "declaring war" after it said it was putting forces on alert in case he refused to step down at the end of his mandate on January 19. ](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-african-regional-bloc-ecowas-of-declaring-war-after-it-said-it-was-putting-forces-on-ale.md) _Context: West Africa_
+6. [Authorities seek three men after they rob $6 million on New Year's Eve from the offices of high-end jewelry designer Gregg Ruth in New York City. ](/news/2017/01/1/authorities-seek-three-men-after-they-rob-6-million-on-new-year-s-eve-from-the-offices-of-high-end-jewelry-designer-gregg-ruth-in-new-york.md) _Context: New York's_
+7. [Opposition candidate Adama Barrow defeats Gambian President Yahya Jammeh, bringing an end to Jammeh's 22-year-rule in the West African nation. ](/news/2016/12/2/opposition-candidate-adama-barrow-defeats-gambian-president-yahya-jammeh-bringing-an-end-to-jammeh-s-22-year-rule-in-the-west-african-natio.md) _Context: West Africa_
+8. [Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.md) _Context: West Africa_
+9. [Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md) _Context: New York's_
+10. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: New York's_

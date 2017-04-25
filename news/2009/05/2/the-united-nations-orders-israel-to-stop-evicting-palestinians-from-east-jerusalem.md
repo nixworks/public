@@ -1,0 +1,23 @@
+### [2009-05-2](/news/2009/05/2/index.md)
+
+#  The United Nations orders Israel to stop evicting Palestinians from East Jerusalem. 
+
+Israel must freeze all pending east Jerusalem home demolitions, UN report says.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/05/20095113927141744.html)
+
+### Related:
+
+1. [Israeli-Palestinian conflict:United Nations Secretary General Ban Ki-moon criticises Israel's refusal to cease illegal settlement building on Palestinian land, telling a UN General Assembly gathering that he is "very concerned at the lack of progress towards peace" and that the recent demolition of East Jerusalem's historic Shepherd Hotel and evictions of Palestinian families had "heightened tensions." He later meets survivors of the Auschwitz-Birkenau concentration camp. ](/news/2011/01/21/israeliapalestinian-conflict-punited-nations-secretary-general-ban-ki-moon-criticises-israel-s-refusal-to-cease-illegal-settlement-buildin.md) _Context: East Jerusalem, Israel, United Nations_
+2. [U.N. Secretary General Ban Ki-moon states as "illegal and unhelpful" the plan to demolish Palestinian homes in East Jerusalem to make way for a tourist park. ](/news/2010/06/24/u-n-secretary-general-ban-ki-moon-states-as-illegal-and-unhelpful-the-plan-to-demolish-palestinian-homes-in-east-jerusalem-to-make-way-fo.md) _Context: East Jerusalem, Palestinian, United Nations_
+3. [Israeli police clash with Palestinian protesters objecting to an "extremely provocative" march by settlers in Silwan in East Jerusalem, calling for the removal of Palestinians who live in the area. ](/news/2010/04/25/israeli-police-clash-with-palestinian-protesters-objecting-to-an-extremely-provocative-march-by-settlers-in-silwan-in-east-jerusalem-call.md) _Context: East Jerusalem, Israel, Palestinian_
+4. [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md) _Context: East Jerusalem, Israel, Palestinian_
+5. [ Palestinians accuse Israel of planning ethnic cleansing in Bustan, East Jerusalem. ](/news/2009/03/2/palestinians-accuse-israel-of-planning-ethnic-cleansing-in-bustan-east-jerusalem.md) _Context: East Jerusalem, Israel, Palestinian_
+6. [ Israeli-Palestinian Conflict:  A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/israeli-palestinian-conflict-p-a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an.md) _Context: Israel, Palestinian, United Nations_
+7. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel, Palestinian_
+8. [Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-the-december-23-2016-security-council-settl.md) _Context: Israel, United Nations_
+9. [Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-new-settlement-homes-i.md) _Context: East Jerusalem, Israel_
+10. [U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. ](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.md) _Context: Israel, United Nations_

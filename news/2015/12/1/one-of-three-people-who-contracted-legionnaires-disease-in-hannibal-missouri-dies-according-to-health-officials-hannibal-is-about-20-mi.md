@@ -1,0 +1,19 @@
+### [2015-12-1](/news/2015/12/1/index.md)
+
+# One of three people who contracted Legionnaires' disease in Hannibal, Missouri, dies, according to health officials. Hannibal is about 20 miles from Quincy, Illinois, where a Legionnaires' outbreak occurred earlier this year, contributing to 12 deaths and sickening dozens more. 
+
+Illinois officials admit they were caught off-guard by the wave of Legionnaires&#39; at their veterans&#39; home in Quincy.
+
+
+### Source:
+
+1. [AP via ABC News](http://abcnews.go.com/US/wireStory/legionnaires-disease-bacteria-found-hotel-guest-died-35513533)
+2. [ABC 7 via WLS AM](http://abc7chicago.com/health/quincy-legionnaires-outbreak-caught-state-officials-off-guard/991512/)
+
+### Related:
+
+1. [The death toll from a Legionnaires' disease outbreak at a Quincy, Illinois veterans home rises to at least seven with more than the current number of 32 sickened expected since the incubation period for illness can be up to two weeks. ](/news/2015/09/1/the-death-toll-from-a-legionnaires-disease-outbreak-at-a-quincy-illinois-veterans-home-rises-to-at-least-seven-with-more-than-the-current.md) _Context: Legionnaires' disease, Quincy, Illinois_
+2. [U.S. President Barack Obama declares the city of Flint, Michigan, to be in a federal public health state of emergency due to an ongoing crisis that involves lead contamination (and possibly Legionella which has caused 87 cases of Legionnaires' disease which has led to 10 deaths) in its local water supply.  ](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.md) _Context: Legionnaires' disease_
+3. [A second case of Legionnaires' Disease in less than a week is confirmed in Australia, leading to fears of a possible outbreak of the rare disease. ](/news/2013/06/5/a-second-case-of-legionnaires-disease-in-less-than-a-week-is-confirmed-in-australia-leading-to-fears-of-a-possible-outbreak-of-the-rare-di.md) _Context: Legionnaires' disease_
+4. [A second person dies after contracting Legionnaires' disease in Edinburgh. ](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.md) _Context: Legionnaires' disease_
+5. [ British cases of Legionnaires' disease continue to rise, to a total of 56 diagnosed cases so far, in that country's largest outbreak for many years. ](/news/2002/08/5/british-cases-of-legionnaires-disease-continue-to-rise-to-a-total-of-56-diagnosed-cases-so-far-in-that-country-s-largest-outbreak-for-ma.md) _Context: Legionnaires' disease_

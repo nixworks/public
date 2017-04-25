@@ -1,0 +1,24 @@
+### [2011-05-9](/news/2011/05/9/index.md)
+
+# A Twitter user tries to unmask some celebrities who have obtained super-injunctions to prevent publication of details of their private lives. 
+
+A user of Twitter has tried to unmask some of the public figures who have obtained super-injunctions to prevent publication of details of their private lives.
+
+
+### Source:
+
+1. [Twitter](http://twitter.com/#!/InjunctionSuper)
+2. [BBC](http://www.bbc.co.uk/news/uk-13330409)
+
+### Related:
+
+1. [The U.S. Department of Homeland Security withdraws its order that Twitter  unmask a user whose tweets are critical of President Donald Trump following the company's court filing to block the order on constitutional grounds. ](/news/2017/04/7/the-u-s-department-of-homeland-security-withdraws-its-order-that-twitter-unmask-a-user-whose-tweets-are-critical-of-president-donald-trump.md) _Context: Twitter_
+2. [A series of cyberattacks utilizing distributed denial-of-service attacks, targeting networks operated by DNS provider Dyn, makes major Internet platforms and services unavailable to large swaths of users in Europe and North America. Affected companies include Amazon, Twitter, Spotify, Reddit, PayPal, Netflix, and Airbnb. ](/news/2016/10/21/a-series-of-cyberattacks-utilizing-distributed-denial-of-service-attacks-targeting-networks-operated-by-dns-provider-dyn-makes-major-inter.md) _Context: Twitter_
+3. [Twitter announces 235,000 terror-linked accounts have been suspended over the past six months amid increasing pressure on tech companies from the White House to censor extremists from groups like ISIS.  ](/news/2016/08/18/twitter-announces-235-000-terror-linked-accounts-have-been-suspended-over-the-past-six-months-amid-increasing-pressure-on-tech-companies-fro.md) _Context: Twitter_
+4. [Breitbart tech editor and outspoken conservative gay activist Milo Yiannopoulos with more than 338,000 registered followers is "permanently" banned from Twitter. ](/news/2016/07/20/breitbart-tech-editor-and-outspoken-conservative-gay-activist-milo-yiannopoulos-with-more-than-338-000-registered-followers-is-permanently.md) _Context: Twitter_
+5. [The father of  Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While  generally free of liability under U.S. law  which  provides a legal ''safe harbor'' for content posted, this case targets  the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-i.md) _Context: Twitter_
+6. [In American football, Twitter wins the bidding contest over Amazon, Verizon, and others, for streaming rights to 10 of 16 National Football League (NFL) regular season ''Thursday Night Football Games'', ones that will also be telecast by either CBS or NBC. The league streamed one game last year with Yahoo!. Verizon, meanwhile, already owns the mobile rights to all NFL games which are available to subscribers via a mobile app; the 10 NFL games on Twitter will be free. ](/news/2016/04/5/in-american-football-twitter-wins-the-bidding-contest-over-amazon-verizon-and-others-for-streaming-rights-to-10-of-16-national-football.md) _Context: Twitter_
+7. [Twitter claims to have closed down 125,000 accounts linked to ISIL. ](/news/2016/02/6/twitter-claims-to-have-closed-down-125-000-accounts-linked-to-isil.md) _Context: Twitter_
+8. [Republican candidate Ted Cruz fires campaign spokesman Rick Tyler who posted incorrect information on Twitter about candidate Marco Rubio. ](/news/2016/02/22/republican-candidate-ted-cruz-fires-campaign-spokesman-rick-tyler-who-posted-incorrect-information-on-twitter-about-candidate-marco-rubio.md) _Context: Twitter_
+9. [A suicide-bomb attack on a joint Afghan-U.S. patrol near Bagram Air Base in Afghanistan's Parwan Province, kills at least six U.S. soldiers and wounds another six. The Taliban's spokesman, Zabiullah Mujahid, claims responsibility for the attack in a message on Twitter. ](/news/2015/12/21/a-suicide-bomb-attack-on-a-joint-afghan-u-s-patrol-near-bagram-air-base-in-afghanistan-s-parwan-province-kills-at-least-six-u-s-soldiers.md) _Context: Twitter_
+10. [After a poor 1st quarter earnings report, Twitter CEO Dick Costolo steps down with co-founder Jack Dorsey taking over as interim CEO effective July 1. ](/news/2015/06/11/after-a-poor-1st-quarter-earnings-report-twitter-ceo-dick-costolo-steps-down-with-co-founder-jack-dorsey-taking-over-as-interim-ceo-effecti.md) _Context: Twitter_

@@ -1,0 +1,23 @@
+### [2011-04-15](/news/2011/04/15/index.md)
+
+# The Tokyo Electric Power Company will pay a provisional 1 million yen to each household living within the exclusion zone near the Fukushima I Nuclear Power Plant. 
+
+
+
+
+### Source:
+
+1. [Kyodo](http://english.kyodonews.jp/news/2011/04/85611.html)
+
+### Related:
+
+1. [According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-daiichi-nuclear-power-plant-damaged-by.md) _Context: Tokyo Electric Power Company_
+2. [Steam begins to rise at the Fukushima Daiichi Nuclear Power Plant with utility company Tepco saying that it is possibly because of rain and that the levels of radioactivity in the surrounding areas have remained unchanged. ](/news/2013/07/18/steam-begins-to-rise-at-the-fukushima-daiichi-nuclear-power-plant-with-utility-company-tepco-saying-that-it-is-possibly-because-of-rain-and.md) _Context: Tokyo Electric Power Company_
+3. [Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage  at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. ](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.md) _Context: Tokyo Electric Power Company_
+4. [''The New York Times'' carries claims by anonymous sources that the Bank of Japan is said to be considering a further easing of monetary policy, and the government of Japan may intervene in markets to push the value of the yen down. ](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-sources-that-the-bank-of-japan-is-said-to-be-considering-a-further-easing-of-monetary-pol.md) _Context: yen_
+5. [The Tokyo Electric Power Company (Tepco) incurs wrath from shareholders at its first annual meeting since the Fukushima Daiichi nuclear disaster, with a motion asking the company to abandon nuclear power being defeated. ](/news/2011/06/28/the-tokyo-electric-power-company-tepco-incurs-wrath-from-shareholders-at-its-first-annual-meeting-since-the-fukushima-daiichi-nuclear-disa.md) _Context: Tokyo Electric Power Company_
+6. [Workers enter one of the buildings at Japan's Fukushima I Nuclear Power Plant for the first time since an explosion in the days following  the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/5/workers-enter-one-of-the-buildings-at-japan-s-fukushima-i-nuclear-power-plant-for-the-first-time-since-an-explosion-in-the-days-following-t.md) _Context: Fukushima I Nuclear Power Plant_
+7. [The Development Bank of Japan announces plans to establish a 50 billion yen fund to assist auto parts manufacturers hurt by the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.md) _Context: yen_
+8. [The Tokyo Electric Power Company (TEPCO) claims that three reactors at the Fukushima Daiichi Nuclear Power Plant suffered partial meltdowns following the 2011 Tohoku earthquake and tsunami; it had previously announced that only one reactor had suffered a meltdown. ](/news/2011/05/24/the-tokyo-electric-power-company-tepco-claims-that-three-reactors-at-the-fukushima-daiichi-nuclear-power-plant-suffered-partial-meltdowns.md) _Context: Tokyo Electric Power Company_
+9. [The Tokyo Electric Power Company (TEPCO) announces its financial results, with a 1 trillion Japanese yen loss predicted due to the Fukushima I nuclear accidents and the resignation of Masataka Shimizu as president of the utility following Japan's highest ever annual loss. ](/news/2011/05/20/the-tokyo-electric-power-company-tepco-announces-its-financial-results-with-a-1-trillion-japanese-yen-loss-predicted-due-to-the-fukushima.md) _Context: Tokyo Electric Power Company_
+10. [Japan's government approves a compensation plan to assist with the tens of billions of dollars for those affected by the malfunctions of the country's tsunami-crippled nuclear plant, fearing that Tokyo Electric Power Company (Tepco) could go bankrupt without the money. ](/news/2011/05/13/japan-s-government-approves-a-compensation-plan-to-assist-with-the-tens-of-billions-of-dollars-for-those-affected-by-the-malfunctions-of-the.md) _Context: Tokyo Electric Power Company_

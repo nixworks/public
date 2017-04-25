@@ -1,0 +1,23 @@
+### [2016-06-16](/news/2016/06/16/index.md)
+
+# Ten Olympic weightlifters fail a drug test in a reanalysis of samples from the 2012 Summer Olympics. Among them are four Kazakh gold medalists: Ilya Ilyin, Zulfiya Chinshanlo, Svetlana Podobedova and Maiya Maneza. The other athletes represent Azerbaijan, Belarus, Russia, and  Ukraine. All ten lifters are provisionally suspended by the International Weightlifting Federation and are expected to be stripped of their titles. 
+
+
+
+
+### Source:
+
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/four-kazack-gold-medalists-london-olympics-2012-fail-drug-retests-lose-medals-/27801505.html)
+
+### Related:
+
+1. [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md) _Context: Belarus, Russia, Ukrainian_
+2. [The Eurasian Economic Union between Russia, Kazakhstan, Belarus, Kyrgyzstan and Armenia comes into effect ](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.md) _Context: Belarus, Kazakhstan, Russia_
+3. [In chess, Ukraine wins 2013 Women's World Team Chess Championship ahead of China and Russia in Astana, Kazakhstan. ](/news/2013/03/12/in-chess-ukraine-wins-2013-women-s-world-team-chess-championship-ahead-of-china-and-russia-in-astana-kazakhstan.md) _Context: Kazakhstan, Russia, Ukrainian_
+4. [Four athletes who won medals at the 2004 Olympic Games in Athens are disqualified for doping. Ukraine's Yuriy Bilonoh will lose his gold medal in the shot put, while Belarus hammer thrower Ivan Tsikhan must return his silver. Two Athens bronze medalists, Russian shot putter Svetlana Krivelyova and discus thrower Irina Yatchenko of Belarus, are also affected by the IOC decision. No decision was taken on reallocating the medals yet. ](/news/2012/12/6/four-athletes-who-won-medals-at-the-2004-olympic-games-in-athens-are-disqualified-for-doping-ukraine-s-yuriy-bilonoh-will-lose-his-gold-med.md) _Context: Belarus, Russia, Ukrainian_
+5. [ Russia, Belarus, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan agree to form a rapid reaction force based in the Federation. ](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.md) _Context: Belarus, Kazakhstan, Russia_
+6. [ Russian oil supplies to Poland, Germany, and Ukraine are cut as the Russia-Belarus energy dispute escalates. ](/news/2007/01/8/russian-oil-supplies-to-poland-germany-and-ukraine-are-cut-as-the-russia-belarus-energy-dispute-escalates.md) _Context: Belarus, Russia, Ukrainian_
+7. [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that   civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized.  Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md) _Context: Russia, Ukrainian_
+8. [The second day of peace negotiations in Astana, Kazakhstan, end with the sponsors of the talks, Russia, Turkey and Iran, agreeing to set up commission between the three to monitor and enforce the fragile ceasefire to the Syrian Civil War. ](/news/2017/01/24/the-second-day-of-peace-negotiations-in-astana-kazakhstan-end-with-the-sponsors-of-the-talks-russia-turkey-and-iran-agreeing-to-set-up.md) _Context: Kazakhstan, Russia_
+9. [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md) _Context: Russia, Ukrainian_
+10. [The European Union  extends its main Ukraine-related economic  sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _Context: Russia, Ukrainian_

@@ -1,0 +1,23 @@
+### [2015-12-9](/news/2015/12/9/index.md)
+
+# Angela Merkel is named as ''Time'''s Person of the Year. 
+
+
+
+
+### Source:
+
+1. [CNN International](http://www.cnn.com/2015/12/09/europe/time-person-of-the-year-merkel/index.html)
+
+### Related:
+
+1. [''Time'' magazine names Pope Francis its Person of the Year. ](/news/2013/12/11/time-magazine-names-pope-francis-its-person-of-the-year.md) _Context: Person of the Year, Time_
+2. [U.S. news magazine ''Time'' selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those.md) _Context: Person of the Year, Time_
+3. [''Time'' magazine editors announce their list of 38 contenders nominated as the 2012 Time Person of the Year, including Barack Obama, Mitt Romney, Sheldon Adelson, Malala Yousafzai, Sandra Fluke, Felix Baumgartner, Curiosity rover, Bashar Assad, Mohamed Morsi, Psy, Pussy Riot, Higgs boson, Michael Phelps, and others.  The winner of the people's choice will be announced on 14 December. ](/news/2012/11/30/time-magazine-editors-announce-their-list-of-38-contenders-nominated-as-the-2012-time-person-of-the-year-including-barack-obama-mitt-r.md) _Context: Person of the Year, Time_
+4. [''Time'' names "The Protester" the magazine's 2011 Person of the Year, as a result of the Arab Spring and subsequent movements. ](/news/2011/12/14/time-names-the-protester-the-magazine-s-2011-person-of-the-year-as-a-result-of-the-arab-spring-and-subsequent-movements.md) _Context: Person of the Year, Time_
+5. [The Trump White House bars ''The New York Times'', CNN, the ''Los Angeles Times'', the ''New York Daily News'', ''The Hill'',  the ''Daily Mail'',  BBC,  Politico, and BuzzFeed from a Friday press "gaggle." Generally conservative, mostly new, outlets were permitted entry, such as  Breitbart News, One America News Network, and ''The Washington Times''. Also allowed in were ABC News, CBS News, NBC News,  ''The Wall Street Journal'', Bloomberg News, and Fox News. ''Time'' magazine and the Associated Press could have attended but chose not to  in protest. The White House Correspondents' Association, which represents the press corps, quickly rebuked the White House's actions. ](/news/2017/02/24/the-trump-white-house-bars-the-new-york-times-cnn-the-los-angeles-times-the-new-york-daily-news-the-hill-the-daily-m.md) _Context: Time_
+6. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: Angela Merkel_
+7. [German Chancellor Angela Merkel invites the presidents of Russia, Ukraine, and France to meet tomorrow in Berlin to discuss peace efforts in eastern Ukraine. ](/news/2016/10/18/german-chancellor-angela-merkel-invites-the-presidents-of-russia-ukraine-and-france-to-meet-tomorrow-in-berlin-to-discuss-peace-efforts-in.md) _Context: Angela Merkel_
+8. [German Chancellor Angela Merkel defends her stance regarding the European migrant crisis despite her party losing in the key election. ](/news/2016/09/6/german-chancellor-angela-merkel-defends-her-stance-regarding-the-european-migrant-crisis-despite-her-party-losing-in-the-key-election.md) _Context: Angela Merkel_
+9. [An assassination attempt against Angela Merkel is foiled by Czech police. ](/news/2016/08/26/an-assassination-attempt-against-angela-merkel-is-foiled-by-czech-police.md) _Context: Angela Merkel_
+10. [European Union leaders advise  the United Kingdom that, after their EU exit, to retain access to the bloc's lucrative single market, the UK must allow free movement for EU workers. German Chancellor Angela Merkel and French President Francois Hollande reiterated that freedom of movement of EU citizens is non-negotiable. ](/news/2016/06/29/european-union-leaders-advise-the-united-kingdom-that-after-their-eu-exit-to-retain-access-to-the-bloc-s-lucrative-single-market-the-uk.md) _Context: Angela Merkel_

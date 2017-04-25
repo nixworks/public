@@ -1,0 +1,26 @@
+### [2016-06-7](/news/2016/06/7/index.md)
+
+# Seven police officers and four civilians are killed, and 36 people are wounded, three critically, by a car bomb explosion near the main tourism district in Istanbul, Turkey. The explosives, detonated by remote control, wrecked a passing police bus, reports CNN Turk. There is no immediate claim of responsibility. 
+
+ISTANBUL (AP) — A car bomb hit a police vehicle in Istanbul during the morning rush hour on Tuesday, killing 11 people and wounding 36, the fourth bombing to hit the city this year. There was no immediate claim of responsibility,…
+
+
+### Source:
+
+1. [The Daily Star](http://www.thedailystar.net/frontpage/bomb-attack-cops-kills-11-istanbul-1236040)
+2. [AP](http://bigstory.ap.org/article/366603b622bf423db8756226ed803762/state-tv-says-bomb-attack-targets-police-vehicle-istanbul)
+3. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN0YT0FB)
+4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=54161#.V1c4-74Rsl0)
+
+### Related:
+
+1. [Turkish police conduct pre-dawn raids on 17 locations in Istanbul and detain some 50 people suspected of being linked to the Islamic State group, according to Turkey's state-run news agency. ](/news/2015/10/18/turkish-police-conduct-pre-dawn-raids-on-17-locations-in-istanbul-and-detain-some-50-people-suspected-of-being-linked-to-the-islamic-state-g.md) _Context: Istanbul, Turkish, Turkish police_
+2. [The General Directorate of Security reports an explosion in Istanbul, Turkey, most likely caused by a bomb, with a number of people injured. ](/news/2011/05/26/the-general-directorate-of-security-reports-an-explosion-in-istanbul-turkey-most-likely-caused-by-a-bomb-with-a-number-of-people-injured.md) _Context: Istanbul, Turkish, Turkish police_
+3. [At least 13 people are killed and 56 others are wounded in a car bomb attack on a bus carrying off-duty soldiers in Kayseri Province, central Turkey. ](/news/2016/12/17/at-least-13-people-are-killed-and-56-others-are-wounded-in-a-car-bomb-attack-on-a-bus-carrying-off-duty-soldiers-in-kayseri-province-centra.md) _Context: Turkish, car bomb_
+4. [Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. ](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.md) _Context: Istanbul, Turkish_
+5. [A suspected car bomb outside the office of the governor of the southern Turkish province of Adana kills at least two people and injures 16. ](/news/2016/11/24/a-suspected-car-bomb-outside-the-office-of-the-governor-of-the-southern-turkish-province-of-adana-kills-at-least-two-people-and-injures-16.md) _Context: Turkish, car bomb_
+6. [A motorcycle bomb in the Yenibosna neighborhood of Istanbul, Turkey, injures 10 civilians. ](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.md) _Context: Istanbul, Turkish_
+7. [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md) _Context: Istanbul, Turkish_
+8. [Turkey opens the Yavuz Sultan Selim Bridge in Istanbul, one of the world's biggest suspension bridges. ](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.md) _Context: Istanbul, Turkish_
+9. [In an unusual show of unity, tens of thousands of supporters of Turkey's ruling party and the country's main opposition parties hold a cross-party "Republic and Democracy" rally in support of democracy in Istanbul's central Taksim Square. ](/news/2016/07/24/in-an-unusual-show-of-unity-tens-of-thousands-of-supporters-of-turkey-s-ruling-party-and-the-country-s-main-opposition-parties-hold-a-cross.md) _Context: Istanbul, Turkish_
+10. [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md) _Context: Istanbul, Turkish_

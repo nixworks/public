@@ -1,0 +1,23 @@
+### [2012-02-1](/news/2012/02/1/index.md)
+
+# The Xinhua news agency reports that 25 Chinese workers held captive in the Sinai region of Egypt have been released. 
+
+
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2012/01/31/world/africa/egypt--chinese-workers/index.html)
+
+### Related:
+
+1. [Palestinian President Mahmoud Abbas speaks of an offer suggested by an Egyptian official whom he didn't name, that implies Egypt donating 600 square miles of land in Sinai to be used as a solution to the problem of Palestinian refugees. Mahmoud Abbas said that he rejected that offer. ](/news/2014/09/3/palestinian-president-mahmoud-abbas-speaks-of-an-offer-suggested-by-an-egyptian-official-whom-he-didn-t-name-that-implies-egypt-donating-60.md) _Context: Egypt, Sinai_
+2. [Xinhua reports that North Korea has released 16 Chinese fishermen after their boat was seized on May 6. ](/news/2013/05/21/xinhua-reports-that-north-korea-has-released-16-chinese-fishermen-after-their-boat-was-seized-on-may-6.md) _Context: Chinese, Xinhua_
+3. [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md) _Context: Egypt, Sinai_
+4. [Saboteurs attack Egypt's gas pipeline to Israel and Jordan, destroying a section of the pipeline west of al-Arish in Sinai. ](/news/2011/11/28/saboteurs-attack-egypt-s-gas-pipeline-to-israel-and-jordan-destroying-a-section-of-the-pipeline-west-of-al-arish-in-sinai.md) _Context: Egypt, Sinai_
+5. [ Egyptian police find 2.75 tonnes of explosives in the el-Gefgafa area of Sinai, believed to be en route to the Gaza Strip. ](/news/2007/09/2/egyptian-police-find-2-75-tonnes-of-explosives-in-the-el-gefgafa-area-of-sinai-believed-to-be-en-route-to-the-gaza-strip.md) _Context: Egypt, Sinai_
+6. [At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed-with-worshippers-on-palm-sunday-i.md) _Context: Egypt_
+7. [An Egyptian excavation team discovers the remains of a pyramid dating back 3,700 years to the thirteenth Dynasty of Egypt at the Dahshur necropolis 40km south of Cairo. ](/news/2017/04/3/an-egyptian-excavation-team-discovers-the-remains-of-a-pyramid-dating-back-3-700-years-to-the-thirteenth-dynasty-of-egypt-at-the-dahshur-nec.md) _Context: Egypt_
+8. [The Egyptian Ministry of Antiquities announces the discovery of   eight mummies, 10 colorful sarcophagi, and numerous figurines in  a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500.md) _Context: Egypt_
+9. [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md) _Context: Egypt_
+10. [A boat with 31 people on board, including more than 20 Chinese tourists, goes missing after sailing from the eastern Malaysian port of Kota Kinabalu to visit the island of Pulau Mengalum. ](/news/2017/01/28/a-boat-with-31-people-on-board-including-more-than-20-chinese-tourists-goes-missing-after-sailing-from-the-eastern-malaysian-port-of-kota.md) _Context: Chinese_

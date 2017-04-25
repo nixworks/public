@@ -1,0 +1,25 @@
+### [2005-12-4](/news/2005/12/4/index.md)
+
+#  A London tabloid claims that the CIA's use of Scotland's airports was part of an alleged CIA operation to catch and transfer terrorist suspects to secret prison camps in Europe. The three airports allegedly involved were Glasgow International, Glasgow Prestwick, and Edinburgh Airport. 
+
+
+
+
+### Source:
+
+1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/scotland/4496672.stm)
+2. [Hindustan Times](http://www.hindustantimes.com/news/181_1564503,00050003.htm)
+3. [Photo of aircraft (Airliners.net](http://www.airliners.net/search/photo.search?regsearch=N187D&distinct_entry=true)
+
+### Related:
+
+1. [The United Kingdom continues to face blizzard conditions with many schools closed, long queues on the M8 motorway in Scotland, and Edinburgh Airport closed. ](/news/2010/11/30/the-united-kingdom-continues-to-face-blizzard-conditions-with-many-schools-closed-long-queues-on-the-m8-motorway-in-scotland-and-edinburgh.md) _Context: Edinburgh Airport, Scotland_
+2. [ Europe's first death from H1N1 is reported in Paisley, Scotland. ](/news/2009/06/14/europe-s-first-death-from-h1n1-is-reported-in-paisley-scotland.md) _Context: Europe, Scotland_
+3. [ Scottish First Minister Alex Salmond activates Whitelee Wind Farm, Europe's largest onshore wind farm. ](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.md) _Context: Europe, Scotland_
+4. [ The United Kingdom Competition Commission recommends that BAA Limited should sell two out of its three airports in South East England (Heathrow, Gatwick, and Stansted) and one of its Scottish airports (either Edinburgh Airport or Glasgow International Airport) due to competition concerns. ](/news/2008/08/20/the-united-kingdom-competition-commission-recommends-that-baa-limited-should-sell-two-out-of-its-three-airports-in-south-east-england-heat.md) _Context: Edinburgh Airport, Glasgow International Airport_
+5. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: Scotland_
+6. [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md) _Context: Scotland_
+7. [Seattle-based Amazon.com says it  will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce.md) _Context: Europe_
+8. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10  in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _Context: Europe_
+9. [Following a joint police operation by Europol and Interpol last October and November across much of Europe, dubbed "Operation Pandora", more than 3,500 stolen artwork and artifacts are recovered, with 75 people arrested and 48,588 more being investigated. ](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.md) _Context: Europe_
+10. [A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain-evacuated-and-travel-disrupted.md) _Context: Europe_

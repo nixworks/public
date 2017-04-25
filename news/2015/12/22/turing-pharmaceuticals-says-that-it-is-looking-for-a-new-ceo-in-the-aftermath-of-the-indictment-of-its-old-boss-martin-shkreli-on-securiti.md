@@ -1,0 +1,23 @@
+### [2015-12-22](/news/2015/12/22/index.md)
+
+# Turing Pharmaceuticals says that it is looking for a new CEO in the aftermath of the indictment of its old boss, Martin Shkreli, on securities fraud charges. Turing and Shkreli became infamous together in September 2015, when they hiked the price of an AIDS drug by 5000%. 
+
+Turing Pharmaceuticals said on Tuesday it is seeking a new chief executive to replace Martin Shkreli, the price-gouging entrepreneur who is facing U.S. charges of securities fraud, and will cut jobs in a restructuring.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-turingpharma-ceo-idUSKBN0U605D20151223)
+
+### Related:
+
+1. [ A research team led by an evolutionary biologist at the University of Arizona publishes a paper in ''Nature'' on the genetic history of HIV proving that Gaetan Dugas, the Canadian flight attendant who had been identified for years as "Patient Zero" of the AIDS epidemic in the U.S., did not spread the virus to the country. The study indicates that HIV first spread to the U.S. from the Caribbean around 1970. ](/news/2016/10/26/a-research-team-led-by-an-evolutionary-biologist-at-the-university-of-arizona-publishes-a-paper-in-nature-on-the-genetic-history-of-hiv.md) _Context: AIDS_
+2. [United States federal prosecutors in New York City arrest Martin Shkreli on securities fraud charges for allegedly plundering for personal gain Retrophin, a biopharmaceutical company he ran as CEO from 2012 to 2014. ](/news/2015/12/17/united-states-federal-prosecutors-in-new-york-city-arrest-martin-shkreli-on-securities-fraud-charges-for-allegedly-plundering-for-personal-g.md) _Context: Martin Shkreli_
+3. [Martin Shkreli's Turing Pharmaceuticals is reneging on its pledge to cut the $750-per-pill price for Daraprim, a medication that has been marketed for 62 years. Instead, the biotech company is reducing what it charges hospitals, by up to 50 percent, for this parasitic infection treatment. Imprimis Pharmaceuticals, a pharmacy that compounds prescription drugs for individual patients, started selling a custom-made version of Pyrimethamine, the chemical name for Daraprim, for 99 cents per capsule. Impris reports orders are pouring in from doctors.  ](/news/2015/11/26/martin-shkreli-s-turing-pharmaceuticals-is-reneging-on-its-pledge-to-cut-the-750-per-pill-price-for-daraprim-a-medication-that-has-been-ma.md) _Context: Martin Shkreli_
+4. [Imprimis Pharmaceuticals Inc. announces it will begin selling $1 doses of the antimalarial drug used for HIV patients, pyrimethamine (generic name for Daraprim), whose price was recently raised to $750 per pill by Turing Pharmaceuticals following Martin Shkreli's purchase of its marketing rights this year. Imprimis also plans to start making inexpensive versions of other generic drugs whose prices have skyrocketed. ](/news/2015/10/23/imprimis-pharmaceuticals-inc-announces-it-will-begin-selling-1-doses-of-the-antimalarial-drug-used-for-hiv-patients-pyrimethamine-generi.md) _Context: Martin Shkreli_
+5. [A study finds that taking the AIDS drug tenofovir greatly reduces the risk of HIV infection among intravenous drug users. ](/news/2013/06/12/a-study-finds-that-taking-the-aids-drug-tenofovir-greatly-reduces-the-risk-of-hiv-infection-among-intravenous-drug-users.md) _Context: AIDS_
+6. [Intel elects American Brian Krzanich as their new CEO. ](/news/2013/05/2/intel-elects-american-brian-krzanich-as-their-new-ceo.md) _Context: CEO_
+7. [Ex-CEO of Enron Jeffrey Skilling is in talks with federal prosecutors to discuss a reduction in his sentence. ](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.md) _Context: CEO_
+8. [Apple Inc. publishes a letter, signed by CEO Tim Cook, to Chinese customers, to address the growing controversy over the company's warranty policies in the country. ](/news/2013/04/1/apple-inc-publishes-a-letter-signed-by-ceo-tim-cook-to-chinese-customers-to-address-the-growing-controversy-over-the-company-s-warranty.md) _Context: CEO_
+9. [Swiss referendum, 2013: Voters in Switzerland pass measures limiting CEO pay and outlawing golden parachutes. ](/news/2013/03/3/swiss-referendum-2013-voters-in-switzerland-pass-measures-limiting-ceo-pay-and-outlawing-golden-parachutes.md) _Context: CEO_
+10. [Marius Kloppers announces that he will resign as the CEO of the world's largest mining company BHP Billiton in May to be replaced by Andrew MacKenzie. ](/news/2013/02/20/marius-kloppers-announces-that-he-will-resign-as-the-ceo-of-the-world-s-largest-mining-company-bhp-billiton-in-may-to-be-replaced-by-andrew.md) _Context: CEO_

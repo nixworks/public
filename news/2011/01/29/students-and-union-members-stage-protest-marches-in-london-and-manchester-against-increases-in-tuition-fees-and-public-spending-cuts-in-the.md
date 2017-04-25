@@ -1,0 +1,23 @@
+### [2011-01-29](/news/2011/01/29/index.md)
+
+# Students and union members stage protest marches in London and Manchester against increases in tuition fees and public spending cuts in the United Kingdom. 
+
+Demonstrations are held in London and Manchester against raising university tuition fees in England and public spending cuts.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/education-12315841)
+
+### Related:
+
+1. [British activists with the Black Lives Matter   movement from America block the road to Heathrow Airport and to streets in Manchester, Birmingham, and Nottingham, marking the fifth anniversary of the deadly police shooting of Mark Duggan in north London. Ten protestors are arrested. ](/news/2016/08/5/british-activists-with-the-black-lives-matter-movement-from-america-block-the-road-to-heathrow-airport-and-to-streets-in-manchester-birmi.md) _Context: London, Manchester_
+2. [Thousands of students march in central London over a rise in university tuition fees. ](/news/2011/11/9/thousands-of-students-march-in-central-london-over-a-rise-in-university-tuition-fees.md) _Context: London, tuition fees_
+3. [English riots:Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/english-riots-prioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-bir.md) _Context: London, Manchester_
+4. [England riots:Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/england-riots-prioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-large.md) _Context: London, Manchester_
+5. [The Dow Live Earth Run for Water started on April 18th. The host cities are: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Lisboa, Rio de Janeiro, Sao Paulo, Singapore City, Stockholm, Toronto and Washington, D.C.. ](/news/2010/04/18/the-dow-live-earth-run-for-water-started-on-april-18th-the-host-cities-are-buenos-aires-cape-town-chicago-hong-kong-jimbaran-london.md) _Context: London, Manchester_
+6. [A vehicle mounts the pavement and runs into pedestrians in Islington, London, injuring 4. The teenage perpetrators are found carrying offensive weapons, but are not assumed to be terrorists. ](/news/2017/03/25/a-vehicle-mounts-the-pavement-and-runs-into-pedestrians-in-islington-london-injuring-4-the-teenage-perpetrators-are-found-carrying-offens.md) _Context: London_
+7. [Several British MPs demand an investigation into a recent scandal in which an Israeli embassy official in London had conspired to damage the reputation of several British politicians in response to the recent United Nations Security Council resolution. ](/news/2017/01/8/several-british-mps-demand-an-investigation-into-a-recent-scandal-in-which-an-israeli-embassy-official-in-london-had-conspired-to-damage-the.md) _Context: London_
+8. [At least six Britons from Manchester and Glasgow are killed in a bus crash in Saudi Arabia while they were on pilgrimage. ](/news/2017/01/19/at-least-six-britons-from-manchester-and-glasgow-are-killed-in-a-bus-crash-in-saudi-arabia-while-they-were-on-pilgrimage.md) _Context: Manchester_
+9. [London Mayor Sadiq Khan declares a public health emergency for at least the next three days because of high levels of air pollution in the London area. The Department for Environment says this pollution episode could last until at least Sunday. ](/news/2017/01/18/london-mayor-sadiq-khan-declares-a-public-health-emergency-for-at-least-the-next-three-days-because-of-high-levels-of-air-pollution-in-the-l.md) _Context: London_
+10. [A London-based trader who traded on the Chicago Mercantile Exchange, Navinder Singh Sarao, accused of contributing to the 2010 Wall Street "flash crash" by placing bogus orders to spoof the market, fails in his legal bid to stop extradition and will now be sent to the United States to face trial where he is wanted by U.S. authorities on 22 criminal counts of wire fraud, commodities fraud, and market manipulation. A judge initially approved his extradition in March, and today his bid to launch an appeal against that decision was rejected, ending his 18-month legal fight. He will now be extradited within 28 days. ](/news/2016/10/14/a-london-based-trader-who-traded-on-the-chicago-mercantile-exchange-navinder-singh-sarao-accused-of-contributing-to-the-2010-wall-street.md) _Context: London_

@@ -1,0 +1,24 @@
+### [2016-02-8](/news/2016/02/8/index.md)
+
+# Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. 
+
+
+
+
+### Source:
+
+1. [Huffington Post](http://www.huffingtonpost.com/entry/hawaii-dengue-emergency_us_56b92060e4b04f9b57dadece)
+2. [Reuters](http://www.reuters.com/article/us-hawaii-dengue-idUSKCN0VI0G2)
+
+### Related:
+
+1. [ Hurricane Ignacio, which has weakened to a Category 3 (115 mph) storm, is expected to side-step Hawaii this week though will still generate high surf, rain and powerful winds. The Big Island and Maui remain on a tropical storm watch. Ignacio may re-strengthen to a hurricane when he clears Oahu on Wednesday. ](/news/2015/08/30/hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-week-though-will-still-generate.md) _Context: Hawaii, island of Hawaii_
+2. [2014 Pacific hurricane season:Residents in the US state of Hawaii prepare for the impact of Hurricane Iselle expected to hit the island of Hawaii as a Category 1 hurricane before weakening to a tropical storm when it hits the islands of Maui and Oahu. ](/news/2014/08/7/2014-pacific-hurricane-season-presidents-in-the-us-state-of-hawaii-prepare-for-the-impact-of-hurricane-iselle-expected-to-hit-the-island-of.md) _Context: Hawaii, island of Hawaii_
+3. [Honduras declares a state of emergency after an outbreak of dengue fever kills 16 people and sickens 12,000. ](/news/2013/07/30/honduras-declares-a-state-of-emergency-after-an-outbreak-of-dengue-fever-kills-16-people-and-sickens-12-000.md) _Context: dengue fever, state of emergency_
+4. [ 2007 Pacific hurricane season: A state of emergency is declared on the island of Hawaii as Category 3 Hurricane Flossie approaches. ](/news/2007/08/13/2007-pacific-hurricane-season-a-state-of-emergency-is-declared-on-the-island-of-hawaii-as-category-3-hurricane-flossie-approaches.md) _Context: island of Hawaii, state of emergency_
+5. [ Hawaii earthquake: A 6.7-magnitude earthquake and a series of aftershocks hit the U.S. state of Hawaii at 7:07am local time, with an epicentre 9 miles (14 km) NNW of Kalaoa. 95% of power was lost throughout the state. Widespread structural damage on the Big Island is being reported, but no major injuries and no fatalities as of yet. Airports are only accepting incoming flights. ](/news/2006/10/15/hawaii-earthquake-a-6-7-magnitude-earthquake-and-a-series-of-aftershocks-hit-the-u-s-state-of-hawaii-at-7-07am-local-time-with-an-epicen.md) _Context: Hawaii, island of Hawaii_
+6. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: state of emergency_
+7. [A U.S. federal judge in Hawaii, finding the revised federal immigration/refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md) _Context: Hawaii_
+8. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: Hawaii_
+9. [The Grand National Assembly of Turkey votes to extend a state of emergency imposed after last year's attempted coup for another three months. ](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.md) _Context: state of emergency_
+10. [California Governor Jerry Brown declares a state of emergency in 50 counties, as winter storms kill four and cause millions of dollars in damage. ](/news/2017/01/24/california-governor-jerry-brown-declares-a-state-of-emergency-in-50-counties-as-winter-storms-kill-four-and-cause-millions-of-dollars-in-da.md) _Context: state of emergency_

@@ -1,0 +1,24 @@
+### [2012-06-15](/news/2012/06/15/index.md)
+
+# UEFA Euro 2012:In an unprecedented development, the match between France and Ukraine at the Donbass Arena in Donetsk, Ukraine, is postponed for 55 minutes in the midst of a lightning storm and torrential rain. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/football/2012/jun/15/euro-2012-ukraine-france-live)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/17875390)
+
+### Related:
+
+1. [UEFA Euro 2012:Spain tear through a feeble France team in their quarter-final meeting at the Donbass Arena in Donetsk, with Xabi Alonso scoring two goals on his 100th international appearance. ](/news/2012/06/23/uefa-euro-2012-pspain-tear-through-a-feeble-france-team-in-their-quarter-final-meeting-at-the-donbass-arena-in-donetsk-with-xabi-alonso-sco.md) _Context: Donbass Arena, Donetsk, France, UEFA Euro 2012_
+2. [UEFA Euro 2012:The debate surrounding goal-line technology resurfaces as co-hosts Ukraine are denied an apparent goal in controversial circumstances against England, with John Terry hooking the ball from behind the goal line after a shot by Marko Devic under the eyes of the fifth official beside the goal. Wayne Rooney's header in the second half carries England through at the Donbass Arena in Donetsk. ](/news/2012/06/19/uefa-euro-2012-pthe-debate-surrounding-goal-line-technology-resurfaces-as-co-hosts-ukraine-are-denied-an-apparent-goal-in-controversial-circ.md) _Context: Donbass Arena, Donetsk, UEFA Euro 2012, Ukraine_
+3. [UEFA Euro 2012:Laurent Blanc vacates his job as manager of the France national football team following his team's exit from the tournament. ](/news/2012/06/30/uefa-euro-2012-plaurent-blanc-vacates-his-job-as-manager-of-the-france-national-football-team-following-his-team-s-exit-from-the-tournament.md) _Context: France, UEFA Euro 2012_
+4. [UEFA Euro 2012:UEFA Euro 2012's off-day is dominated by the fall-out of yesterday's ghost goal scored by Ukraine against England, with John Terry hooking the ball from behind the goal line after a shot by Marko Devic under the eyes of the additional assistant beside the goal. ](/news/2012/06/20/uefa-euro-2012-puefa-euro-2012-s-off-day-is-dominated-by-the-fall-out-of-yesterday-s-ghost-goal-scored-by-ukraine-against-england-with-john.md) _Context: UEFA Euro 2012, Ukraine_
+5. [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that   civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized.  Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md) _Context: Donetsk_
+6. [A bomb placed in an elevator shaft kills Pro-Russian, high-ranking officer of the Donetsk People's Republic's special forces, Arseny Pavlov, also known as "Motorola", in Donetsk. ](/news/2016/10/16/a-bomb-placed-in-an-elevator-shaft-kills-pro-russian-high-ranking-officer-of-the-donetsk-people-s-republic-s-special-forces-arseny-pavlov.md) _Context: Donetsk_
+7. [In football, host nation France plays against Portugal for the 2016 UEFA European Championship at the Stade de France in Saint-Denis.  Portugal wins 1-0 with an Eder goal in extra time. ](/news/2016/07/10/in-football-host-nation-france-plays-against-portugal-for-the-2016-uefa-european-championship-at-the-stade-de-france-in-saint-denis-portu.md) _Context: France_
+8. [Northern Ireland achieves their first victory in a UEFA European Championship by defeating Ukraine 2-0; other results eliminate Ukraine. ](/news/2016/06/16/northern-ireland-achieves-their-first-victory-in-a-uefa-european-championship-by-defeating-ukraine-2a0-other-results-eliminate-ukraine.md) _Context: Ukraine_
+9. [Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-controlled-mariupol.md) _Context: Donetsk_
+10. [Portraits of former dictator Joseph Stalin go up in the city of Donetsk as the Donetsk People's Republic adopts more Soviet era policies. ](/news/2015/10/19/portraits-of-former-dictator-joseph-stalin-go-up-in-the-city-of-donetsk-as-the-donetsk-people-s-republic-adopts-more-soviet-era-policies.md) _Context: Donetsk_

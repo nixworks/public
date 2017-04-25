@@ -1,0 +1,24 @@
+### [2015-10-22](/news/2015/10/22/index.md)
+
+# The Associated Press reports that Kurds in Syria established a new administration in the Sunni-Arab town of Tal Abyad, which the Kurds wrestled from ISIS last June. 
+
+At least 13 people including medical staff were killed when Russian warplanes struck a field hospital in northwestern Syria, the Syrian Observatory for Human Rights said Wednesday. &quot;Thirteen people were killed in Russian air strikes on Tuesday on a field clinic in the town of Sarmin, including
+
+
+### Source:
+
+1. [U.S. News and World Report](http://www.usnews.com/news/world/articles/2015/10/21/syrian-kurds-form-new-administration-in-semi-autonomous-area)
+2. [AFP via Yahoo News](http://news.yahoo.com/russia-air-strike-field-hospital-kills-13-155302808.html)
+
+### Related:
+
+1. [Kurdish parties in northern Syria declare the establishment of a federal system in areas they control.  Turkey and the United States had warned this risks further destabilizing the already war-ravaged country. The move was criticized by the government of Syria. ](/news/2016/03/17/kurdish-parties-in-northern-syria-declare-the-establishment-of-a-federal-system-in-areas-they-control-turkey-and-the-united-states-had-war.md) _Context: Kurdish, Syria, Syrian Civil War_
+2. [A triple truck-bomb attack on the Kurdish YPG militia-controlled town of Tell Tamer in Syria's northeast Al-Hasakah Governorate leaves as many as 50 people dead and 80 others wounded. The Islamic State of Iraq and the Levant claims responsibility for the attacks, saying in an online statement that three of its fighters driving three separate vehicles had detonated the suicide bombs targeting "bases" belonging to Kurdish fighters. ](/news/2015/12/11/a-triple-truck-bomb-attack-on-the-kurdish-ypg-militia-controlled-town-of-tell-tamer-in-syria-s-northeast-al-hasakah-governorate-leaves-as-ma.md) _Context: Kurdish, Syria, Syrian Civil War_
+3. [U.S. cargo planes airdrop small arms ammunition and other supplies to Syrian rebels, including Kurdish groups such as YPG, in northern Syria. ](/news/2015/10/12/u-s-cargo-planes-airdrop-small-arms-ammunition-and-other-supplies-to-syrian-rebels-including-kurdish-groups-such-as-ypg-in-northern-syria.md) _Context: Kurdish, Syria, Syrian Civil War_
+4. [At least 20 Syrian rebels and 27 ISIS fighters are killed in a battle in Mare', Syria, in northern Aleppo Governorate near the Turkish border. ](/news/2015/09/5/at-least-20-syrian-rebels-and-27-isis-fighters-are-killed-in-a-battle-in-mare-syria-in-northern-aleppo-governorate-near-the-turkish-borde.md) _Context: ISIS, Syria, Syrian Civil War_
+5. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Kurdish, Syria_
+6. [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md) _Context: Syria, Syrian Civil War_
+7. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War_
+8. [The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead-of-a-syrian-democratic-forces-operation-to-take-contro.md) _Context: Syria, Syrian Civil War_
+9. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Syria, Syrian Civil War_
+10. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syria, Syrian Civil War_

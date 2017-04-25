@@ -1,0 +1,23 @@
+### [2011-05-10](/news/2011/05/10/index.md)
+
+# Former Football Association chairman David Triesman alleges that four members of FIFA sought "bribes" in return for backing England's failed bid to host the 2018 World Cup. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/sport1/hi/football/9481461.stm)
+
+### Related:
+
+1. [FIFA's independent ethics investigator Michael J. Garcia resigns from that position in protest over the organization's handling of his compiled report on corruption allegations in connection with the bidding process for the 2018 and 2022 FIFA World Cups. ](/news/2014/12/17/fifa-s-independent-ethics-investigator-michael-j-garcia-resigns-from-that-position-in-protest-over-the-organization-s-handling-of-his-compi.md) _Context: 2018, FIFA_
+2. [FIFA announces Moscow's Luzhniki Stadium will stage both the opening match and the final at the 2018 FIFA World Cup. Also FIFA chooses four cities for the 2017 FIFA Confederations Cup that will take place in the Russian cities of Moscow, Saint Petersburg, Kazan and Sochi. ](/news/2012/12/14/fifa-announces-moscow-s-luzhniki-stadium-will-stage-both-the-opening-match-and-the-final-at-the-2018-fifa-world-cup-also-fifa-chooses-four.md) _Context: 2018, FIFA_
+3. [A United Kingdom House of Commons inquiry into allegations of corruption associated with bids for the 2018 and 2022 FIFA World Cup tournaments accuses FIFA of trying to dismiss the allegations and questions FIFA President Sepp Blatter's commitment to reform. ](/news/2011/07/5/a-united-kingdom-house-of-commons-inquiry-into-allegations-of-corruption-associated-with-bids-for-the-2018-and-2022-fifa-world-cup-tournamen.md) _Context: 2018, FIFA_
+4. [David Triesman, Baron Triesman resigns as chairman of The Football Association as well as England's 2018 FIFA World Cup bid after his "entrapment" by ''The Mail on Sunday'' in which he suggested Spain could drop its bid if Russia bribed referees at the 2010 FIFA World Cup next month. ](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.md) _Context: 2018, The Football Association_
+5. [Sam Allardyce is appointed as the new England national football team manager by The Football Association following the resignation of Roy Hodgson in June. ](/news/2016/07/22/sam-allardyce-is-appointed-as-the-new-england-national-football-team-manager-by-the-football-association-following-the-resignation-of-roy-ho.md) _Context: The Football Association_
+6. [FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves  nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-near.md) _Context: FIFA_
+7. [UEFA President Michel Platini, who had been suspended by the FIFA Ethics Committee last fall, announces his resignation following the Court of Arbitration for Sport decision  that let stand his ban, shortened to four years which corresponds to the duration of his remaining time in office. The court ruled that Platini was guilty of conflict of interest for taking a $2 million payment from FIFA approved by Sepp Blatter in 2011.  ](/news/2016/05/9/uefa-president-michel-platini-who-had-been-suspended-by-the-fifa-ethics-committee-last-fall-announces-his-resignation-following-the-court.md) _Context: FIFA_
+8. [Fatma Samoura, a Senegalese United Nations official, is appointed as the Secretary General of FIFA. She is the first woman and first person from outside Europe to be appointed to the position. ](/news/2016/05/13/fatma-samoura-a-senegalese-united-nations-official-is-appointed-as-the-secretary-general-of-fifa-she-is-the-first-woman-and-first-person.md) _Context: FIFA_
+9. [Officials of FIFA meet in Zurich for the 2016 FIFA Extraordinary Congress to select a new President of FIFA to replace Sepp Blatter. Gianni Infantino is elected with a majority of votes in the second round of voting. ](/news/2016/02/26/officials-of-fifa-meet-in-za1-4rich-for-the-2016-fifa-extraordinary-congress-to-select-a-new-president-of-fifa-to-replace-sepp-blatter-gianni.md) _Context: FIFA_
+10. [Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-federation-of-guatemala.md) _Context: FIFA_

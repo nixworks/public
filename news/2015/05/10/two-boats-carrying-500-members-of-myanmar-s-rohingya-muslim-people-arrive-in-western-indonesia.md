@@ -1,0 +1,23 @@
+### [2015-05-10](/news/2015/05/10/index.md)
+
+# Two boats carrying 500 members of Myanmar's Rohingya Muslim people arrive in western Indonesia. 
+
+About 500 members of Myanmar&#039;s Rohingya Muslim community have been rescued off Aceh.
+
+
+### Source:
+
+1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/05/10/two-boats-500-people-land-indonesia)
+
+### Related:
+
+1. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country,  and calls on Myanmar State Counsellor   Aung San Suu Kyi and the United Nations to address the Rohingya's plight  and end the violence.   Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the  Association of Southeast Asian Nations's principle on  sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Muslim, Myanmar, Rohingya minority_
+2. [Yanghee Lee, the United Nations special human rights envoy to overwhelmingly Buddhist Myanmar, says more than 100,000 of the Muslim Rohingya minority remain in squalid camps they were forced to four years ago by violence. The government does not recognize most of these people as citizens, and has treated even long-term residents as illegal immigrants. Lee is encouraged by last March's peaceful transition to a democratically elected and civilian-led government. ](/news/2016/07/1/yanghee-lee-the-united-nations-special-human-rights-envoy-to-overwhelmingly-buddhist-myanmar-says-more-than-100-000-of-the-muslim-rohingya.md) _Context: Muslim, Myanmar, Rohingya minority_
+3. [  Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-a.md) _Context: Indonesia, Myanmar, Rohingya minority_
+4. [The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-military-and-police-forces-against-myanmar-s-rohi.md) _Context: Myanmar, Rohingya minority_
+5. [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md) _Context: Muslim, Myanmar_
+6. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Indonesia, Muslim_
+7. [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _Context: Myanmar, Rohingya minority_
+8. [The Philippines says that it is willing to accept 3,000 Rohingya refugees after an accusation by a newspaper was made. Last week Indonesia turned away boats carrying over 1,000 Rohingya refugees. ](/news/2015/05/18/the-philippines-says-that-it-is-willing-to-accept-3-000-rohingya-refugees-after-an-accusation-by-a-newspaper-was-made-last-week-indonesia-t.md) _Context: Indonesia, Rohingya minority_
+9. [Indonesia jails 14 Rohingya asylum seekers for their role in a deadly brawl in a North Sumatra detention centre that claimed 8 lives. ](/news/2013/12/5/indonesia-jails-14-rohingya-asylum-seekers-for-their-role-in-a-deadly-brawl-in-a-north-sumatra-detention-centre-that-claimed-8-lives.md) _Context: Indonesia, Rohingya minority_
+10. [A Buddhist mob torches more than 70 Muslim homes and stabs a 94-year-old woman to death in Rakhine State, Myanmar. ](/news/2013/10/1/a-buddhist-mob-torches-more-than-70-muslim-homes-and-stabs-a-94-year-old-woman-to-death-in-rakhine-state-myanmar.md) _Context: Muslim, Myanmar_

@@ -1,0 +1,23 @@
+### [2009-03-18](/news/2009/03/18/index.md)
+
+#  Governor Bill Richardson signs House Bill 285, repealing capital punishment in New Mexico. 
+
+
+
+
+### Source:
+
+1. [ABQ Journal](http://www.abqjournal.com/abqnews/politics-mainmenu-36/11444-death-penalty-announcement-at-6-pm.html)
+
+### Related:
+
+1. [Governor of the U.S. state of New Mexico Bill Richardson arrives in Pyongyang for talks with North Korean officials concerning the situation on the Korean peninsula. ](/news/2010/12/16/governor-of-the-u-s-state-of-new-mexico-bill-richardson-arrives-in-pyongyang-for-talks-with-north-korean-officials-concerning-the-situation.md) _Context: Bill Richardson, Governor, New Mexico_
+2. [ New Mexico Governor Bill Richardson withdraws his nomination to be the next United States Secretary of Commerce because of an ongoing federal investigation into possible pay-to-play politics. ](/news/2009/01/4/new-mexico-governor-bill-richardson-withdraws-his-nomination-to-be-the-next-united-states-secretary-of-commerce-because-of-an-ongoing-feder.md) _Context: Bill Richardson, Governor, New Mexico_
+3. [A court in the Indian city of Mumbai convicts and sentences Ankur Panwar to the death penalty for a fatal acid-throwing attack. ](/news/2016/09/8/a-court-in-the-indian-city-of-mumbai-convicts-and-sentences-ankur-panwar-to-the-death-penalty-for-a-fatal-acid-throwing-attack.md) _Context: death penalty_
+4. [The presidential campaigns of Texas Senator Ted Cruz and Governor of Ohio John Kasich announce they will now coordinate strategies to stop fellow Republican Donald Trump from becoming the party's nominee. Cruz's campaign will cut campaigning in Oregon and New Mexico to help Kasich, while the Kasich campaign will give Cruz a "clear path" in Indiana. ](/news/2016/04/25/the-presidential-campaigns-of-texas-senator-ted-cruz-and-governor-of-ohio-john-kasich-announce-they-will-now-coordinate-strategies-to-stop-f.md) _Context: New Mexico_
+5. [Pope Francis calls for a worldwide ban on the death penalty and urges Christian leaders to work to stop executions as part of the church's Holy Year of Mercy. ](/news/2016/02/21/pope-francis-calls-for-a-worldwide-ban-on-the-death-penalty-and-urges-christian-leaders-to-work-to-stop-executions-as-part-of-the-church-s-h.md) _Context: death penalty_
+6. [Google announces that Project Loon - to provide wireless access to four billion unconnected people around the globe in rural and remote areas via Internet-beaming helium balloons in the stratosphere - will be tested in Indonesia in 2016. Currently, one in three Indonesians are connected to the web, mostly via slow connections, in this 17,508-island archipelago of over 250 million people (and about 319 million mobile phones). The company, which also tested Loon-delivered internet in Chile, New Mexico (U.S.), and Sri Lanka, hopes to deliver LTE-speed to more than 100 million unconnected Indonesians in five years. ](/news/2015/10/29/google-announces-that-project-loon-a-to-provide-wireless-access-to-four-billion-unconnected-people-around-the-globe-in-rural-and-remote-ar.md) _Context: New Mexico_
+7. [Pope Francis becomes the first Pope ever to address a Joint Session of the United States Congress. Afterwards, he greets onlookers at the National Mall. He addresses many issues: abortion and the sanctity of life, the importance of the family and of marriage, climate change, immigration and the refugee crises caused by global unrest, proper business conduct, and worldwide abolition of capital punishment. ](/news/2015/09/24/pope-francis-becomes-the-first-pope-ever-to-address-a-joint-session-of-the-united-states-congress-afterwards-he-greets-onlookers-at-the-na.md) _Context: death penalty_
+8. [A Catholic and a Baptist church in Las Cruces, New Mexico are rocked by explosions at a mailbox and a trash can. ](/news/2015/08/2/a-catholic-and-a-baptist-church-in-las-cruces-new-mexico-are-rocked-by-explosions-at-a-mailbox-and-a-trash-can.md) _Context: New Mexico_
+9. [The Tunisian parliament approves a new anti-terror law that allows the death penalty for terrorists. ](/news/2015/07/25/the-tunisian-parliament-approves-a-new-anti-terror-law-that-allows-the-death-penalty-for-terrorists.md) _Context: death penalty_
+10. [The Supreme Court of the United States upholds the use of capital punishment by lethal injection involving midazolam. ](/news/2015/06/29/the-supreme-court-of-the-united-states-upholds-the-use-of-capital-punishment-by-lethal-injection-involving-midazolam.md) _Context: death penalty_

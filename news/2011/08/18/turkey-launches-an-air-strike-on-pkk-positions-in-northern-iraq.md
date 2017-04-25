@@ -1,0 +1,23 @@
+### [2011-08-18](/news/2011/08/18/index.md)
+
+# Turkey launches an air strike on PKK positions in northern Iraq. 
+
+
+
+
+### Source:
+
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iPUZlO9OIVXIhmLvr2aJdD_mRukQ?docId=9b9314f0f11a433bbab6b8b6b4dc08fd)
+
+### Related:
+
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq, Turkish_
+2. [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md) _Context: Iraq, Turkish_
+3. [Police in northern Greece move  more than 400 Syrians and Iraqis by bus from a makeshift camp near the Macedonian border to a shelter near the northern city of Thessaloniki. More than 50,000 migrants remain stranded in Greece following European border closures, and the European Union's agreement with Turkey. ](/news/2016/06/13/police-in-northern-greece-move-more-than-400-syrians-and-iraqis-by-bus-from-a-makeshift-camp-near-the-macedonian-border-to-a-shelter-near-t.md) _Context: Iraq, Turkish_
+4. [Eight Turkish soldiers and 21 Kurdistan Workers Party (PKK) militants are killed in clashes and in a subsequent helicopter crash near Turkey's border with Iraq. ](/news/2016/05/13/eight-turkish-soldiers-and-21-kurdistan-workers-party-pkk-militants-are-killed-in-clashes-and-in-a-subsequent-helicopter-crash-near-turkey.md) _Context: Iraq, Turkish_
+5. [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md) _Context: Iraq, Turkish_
+6. [Turkey refuses to withdraw its forces from northern Iraq despite being given a 48 hour ultimatum by Iraq to leave the country. Turkey says the troops are there as part of an international mission to train and equip Iraqi forces to fight against the Islamic State. The Iraqi government says it never invited such a force, and will take its case to the United Nations if they are not pulled out. ](/news/2015/12/7/turkey-refuses-to-withdraw-its-forces-from-northern-iraq-despite-being-given-a-48-hour-ultimatum-by-iraq-to-leave-the-country-turkey-says-t.md) _Context: Iraq, Turkish_
+7. [Iraq's government gives Turkey 48 hours to withdraw its forces from northern Iraq or face "all available options", including recourse to the UN Security Council. ](/news/2015/12/6/iraq-s-government-gives-turkey-48-hours-to-withdraw-its-forces-from-northern-iraq-or-face-all-available-options-including-recourse-to-the.md) _Context: Iraq, Turkish_
+8. [The Government of Iraq calls on Turkey to withdraw its troops from northern Iraq, near the Islamic State-controlled city of Mosul. Iraq's Foreign Ministry said Turkish forces had entered Iraqi territory without the knowledge of the central government in Baghdad. ](/news/2015/12/5/the-government-of-iraq-calls-on-turkey-to-withdraw-its-troops-from-northern-iraq-near-the-islamic-state-controlled-city-of-mosul-iraq-s-fo.md) _Context: Iraq, Turkish_
+9. [Iraq's Foreign Minister, Ibrahim al-Jaafari, renewed demands that Turkey fully withdraw its troops from northern Iraq, asserting that Turkey must respect Iraq's sovereignty or face potential military action. Last month the Turkish army mounted a big offensive invasion into Iraq's Kurdish territory including tanks and artillery without permission or even negotiation with the Iraqi government. ](/news/2015/12/30/iraq-s-foreign-minister-ibrahim-al-jaafari-renewed-demands-that-turkey-fully-withdraw-its-troops-from-northern-iraq-asserting-that-turkey.md) _Context: Iraq, Turkish_
+10. [The Syrian Observatory for Human Rights reports that at least 50 United States military instructors have deployed to northern Syria from Turkey and Iraq to train Kurdish forces ahead of an assault on ISIL's de facto capital Al-Raqqah. ](/news/2015/11/30/the-syrian-observatory-for-human-rights-reports-that-at-least-50-united-states-military-instructors-have-deployed-to-northern-syria-from-tur.md) _Context: Iraq, Turkish_

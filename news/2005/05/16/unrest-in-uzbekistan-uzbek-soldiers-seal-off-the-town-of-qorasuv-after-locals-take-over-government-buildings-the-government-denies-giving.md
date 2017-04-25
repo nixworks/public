@@ -1,0 +1,29 @@
+### [2005-05-16](/news/2005/05/16/index.md)
+
+#  Unrest in Uzbekistan: Uzbek soldiers seal off the town of Qorasuv after locals take over government buildings. The government denies giving an order to fire at protesters but they do not let journalists or the Red Cross visit the affected areas to evaluate the situation. Phone and internet access has been cut. There are varying reports of at least 700 people dead and continuing firefights in Andijan and other towns like Teshiktosh. Saidjahon Zaynabitdinov, head of the local human rights advocacy group ''Appeal'', says that government troops had killed 200 in Pakhtabad and expects mass arrests. Opposition supporters and human rights campaigners rally in the capital Tashkent. Hundreds of refugees have fled over the border of Kyrgyzstan; they believe that the death toll may be in thousands. 
+
+Another 200 people died in clashes with Uzbekistan security forces on top of 500 killed Friday, human rights group says Monday.
+
+
+### Source:
+
+1. [IHT](http://www.iht.com/articles/2005/05/16/artsevents/web.0516uzbek.php)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8505718)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4549873.stm)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L16708160.htm)
+5. [Moscow Times](http://www.moscowtimes.ru/stories/2005/05/16/003.html)
+6. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/16/uzbekistan.unrest/)
+7. [CBC](http://www.cbc.ca/world/story/2005/05/16/uzbekistan050516.html)
+
+### Related:
+
+1. [ Unrest in Uzbekistan: 36 foreign diplomats visit Andijan in a government-sponsored trip and under heavy guard. The Uzbek government continues to deny that civilians were killed. The official death toll has risen to 169 but some human rights groups state that it can be as high as 750. A group of Islamic rebels led by a man called Baxtiyor Rahimov claim that they now control the border town of Qorasuv. ](/news/2005/05/18/unrest-in-uzbekistan-36-foreign-diplomats-visit-andijan-in-a-government-sponsored-trip-and-under-heavy-guard-the-uzbek-government-continu.md) _Context: Andijan, Qorasuv, Uzbekistan, unrest_
+2. [ Unrest in Uzbekistan: The Uzbek government says they will allow foreign diplomats to visit Andijan. Survivors from Andijan who have crossed the border to Kyrgyzstan say that government troops opened fire without warning and that they were shelled in the Kyrgyzstan border crossing. Opposition believes that as many as 745 may be dead. Official government death toll is 169. Government officials still deny that soldiers killed civilians ](/news/2005/05/17/unrest-in-uzbekistan-the-uzbek-government-says-they-will-allow-foreign-diplomats-to-visit-andijan-survivors-from-andijan-who-have-crossed.md) _Context: Andijan, Kyrgyzstan, Uzbekistan, unrest_
+3. [ Unrest in Uzbekistan: Various governments, including that of the United States, demand further investigation into the events. Uzbek government troops report that they have retaken the town of Qorasuv. President Islom Karimov rejects calls for international inquiry. Oppositions group fear that state will begin active oppression against them ](/news/2005/05/19/unrest-in-uzbekistan-various-governments-including-that-of-the-united-states-demand-further-investigation-into-the-events-uzbek-governm.md) _Context: Qorasuv, Uzbekistan, unrest_
+4. [ Amid continuing unrest In Uzbekistan, the city of Andijan is sealed. British Foreign Secretary Jack Straw says there has been "a clear abuse of human rights" in Uzbekistan. ](/news/2005/05/15/amid-continuing-unrest-in-uzbekistan-the-city-of-andijan-is-sealed-british-foreign-secretary-jack-straw-says-there-has-been-a-clear-abus.md) _Context: Andijan, Uzbekistan, unrest_
+5. [ Unrest In Uzbekistan: Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/unrest-in-uzbekistan-p-thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md) _Context: Andijan, Uzbekistan, unrest_
+6. [ Unrest In Uzbekistan: Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/unrest-in-uzbekistan-p-thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the.md) _Context: Andijan, Uzbekistan, unrest_
+7. [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md) _Context: Kyrgyzstan, Uzbekistan_
+8. [The second tournament of the FIDE Grand Prix 2012-2013 is ended in Tashkent, Uzbekistan, with a 3-way tie for first place between Sergey Karjakin, Wang Hao and Alexander Morozevich. ](/news/2012/12/4/the-second-tournament-of-the-fide-grand-prix-2012a2013-is-ended-in-tashkent-uzbekistan-with-a-3-way-tie-for-first-place-between-sergey-k.md) _Context: Tashkent, Uzbekistan_
+9. [A 6.1 magnitude earthquake strikes in southern Kyrgyzstan, near the border with Uzbekistan. ](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.md) _Context: Kyrgyzstan, Uzbekistan_
+10. [2010 Kyrgyzstani uprising: Two people are killed and a state of emergency is declared in the city of Jalal-Abad, Kyrgyzstan after protesters attempted to storm an Uzbek university. ](/news/2010/05/19/2010-kyrgyzstani-uprising-ptwo-people-are-killed-and-a-state-of-emergency-is-declared-in-the-city-of-jalal-abad-kyrgyzstan-after-protester.md) _Context: Kyrgyzstan, Uzbekistan_

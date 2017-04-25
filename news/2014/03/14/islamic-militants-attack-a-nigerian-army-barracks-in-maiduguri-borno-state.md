@@ -1,0 +1,23 @@
+### [2014-03-14](/news/2014/03/14/index.md)
+
+# Islamic militants attack a Nigerian Army barracks in Maiduguri, Borno State. 
+
+
+
+
+### Source:
+
+1. [Voice of America](http://www.voanews.com/content/militants-assault-army-barracks-in-northern-nigeria/1870993.html)
+
+### Related:
+
+1. [According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his  belt, killing only himself. ](/news/2016/07/8/according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-damboa-borno-state-a-s.md) _Context: Borno State, Nigerian Army_
+2. [The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri.  ](/news/2016/07/29/the-united-nations-suspends-aid-to-dangerous-areas-of-nigeria-s-northeastern-borno-state-following-thursday-s-attack-by-boko-haram-isil-in.md) _Context: Borno State, Maiduguri_
+3. [Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-militants-according-to-the.md) _Context: Borno State, Nigerian Army_
+4. [The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md) _Context: Borno State, Nigerian Army_
+5. [Islamist insurgency in Nigeria:Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/islamist-insurgency-in-nigeria-pdual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers-a.md) _Context: Maiduguri, Nigerian Army_
+6. [Islamist insurgency in Nigeria:Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/islamist-insurgency-in-nigeria-ptwo-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northe.md) _Context: Borno State, Maiduguri_
+7. [Islamist insurgency in Nigeria:Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people.  ](/news/2014/06/5/islamist-insurgency-in-nigeria-psuspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maidugu.md) _Context: Borno State, Maiduguri_
+8. [Thousands of people flee Maiduguri in Borno State after recent deadly attacks there. ](/news/2011/07/12/thousands-of-people-flee-maiduguri-in-borno-state-after-recent-deadly-attacks-there.md) _Context: Borno State, Maiduguri_
+9. [At least four people, including Modu Fannami Gubio, a former opposition All Nigeria Peoples Party (ANPP) candidate for governor in Borno, Nigeria, are shot dead in Maiduguri. ](/news/2011/01/28/at-least-four-people-including-modu-fannami-gubio-a-former-opposition-all-nigeria-peoples-party-anpp-candidate-for-governor-in-borno-ni.md) _Context: Borno State, Maiduguri_
+10. [ Violence in Nigeria continues as troops shell the home of Ustaz Mohammed Yusuf in Maiduguri, Borno State. ](/news/2009/07/28/violence-in-nigeria-continues-as-troops-shell-the-home-of-ustaz-mohammed-yusuf-in-maiduguri-borno-state.md) _Context: Borno State, Maiduguri_

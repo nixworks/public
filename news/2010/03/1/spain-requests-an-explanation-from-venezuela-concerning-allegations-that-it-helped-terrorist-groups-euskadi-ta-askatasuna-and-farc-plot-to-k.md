@@ -1,0 +1,25 @@
+### [2010-03-1](/news/2010/03/1/index.md)
+
+# Spain requests an explanation from Venezuela concerning allegations that it helped terrorist groups Euskadi Ta Askatasuna and FARC plot to kill Colombian President Alvaro Uribe and other Colombian personalities in Spanish soil. 
+
+
+
+
+### Source:
+
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Spanish-Judge-Accuses-Venezuela-Of-Collaborating-With-ETA-And-FARC-To-Kill-Colombias-President/Article/201003115563486?f=rss)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8544476.stm)
+3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/6891263.html)
+
+### Related:
+
+1. [Colombian government and FARC representatives meet in Havana, and President Juan Manuel Santos will meet with presidential predecessors Alvaro Uribe, the accord opposition leader, and Andres Pastrana Arango, to continue negotiations to end the 52-year war that has killed around a quarter of a million people. ](/news/2016/10/4/colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-predecessors-alv.md) _Context: Colombia, Colombian President, FARC, Álvaro Uribe_
+2. [Colombian President Alvaro Uribe and Venezuelan President Hugo Chavez almost come to blows at the Rio Group summit in Playa del Carmen, Mexico, with Uribe taunting Chavez "Be a man! ... you're a coward face-to-face! Stay and argue face-to-face!" and Chavez responding with a simple "Go to Hell!" ](/news/2010/02/22/colombian-president-alvaro-uribe-and-venezuelan-president-hugo-cha-vez-almost-come-to-blows-at-the-rio-group-summit-in-playa-del-carmen-me.md) _Context: Colombia, Colombian President, Venezuela, Álvaro Uribe_
+3. [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md) _Context: Colombia, Colombian President, Venezuela, Álvaro Uribe_
+4. [FARC leader Rodrigo Londono (Timoleon) says his troops will honor its commitments to the Colombian government, including the permanent cease-fire, despite voters rejection of the peace accord in Sunday's referendum.  President Juan Manuel Santos calls the country's political parties to an emergency meeting. ](/news/2016/10/3/farc-leader-rodrigo-londoa-o-timolea3n-says-his-troops-will-honor-its-commitments-to-the-colombian-government-including-the-permanent-cea.md) _Context: Colombia, Colombian President, FARC_
+5. [Two former Colombian ministers Sabas Pretelt and Diego Palacio are sentenced to six years in prison for corruption in bribing lawmakers to support the 2006 re-election bid of former President Alvaro Uribe. ](/news/2015/04/15/two-former-colombian-ministers-sabas-pretelt-and-diego-palacio-are-sentenced-to-six-years-in-prison-for-corruption-in-bribing-lawmakers-to-s.md) _Context: Colombia, Colombian President, Álvaro Uribe_
+6. [FARC rebels kill 12 Colombian soldiers and wound four more in an ambush near the Colombian border with Venezuela. ](/news/2012/05/21/farc-rebels-kill-12-colombian-soldiers-and-wound-four-more-in-an-ambush-near-the-colombian-border-with-venezuela.md) _Context: Colombia, FARC, Venezuela_
+7. [President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. ](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.md) _Context: Colombia, Colombian President, Venezuela_
+8. [President of Venezuela Hugo Chavez announces that he has agreed to meet President of Colombia Juan Manuel Santos tomorrow for talks to end strained relations between the two countries. ](/news/2010/08/9/president-of-venezuela-hugo-cha-vez-announces-that-he-has-agreed-to-meet-president-of-colombia-juan-manuel-santos-tomorrow-for-talks-to-end.md) _Context: Colombia, Colombian President, Venezuela_
+9. [Colombia-Venezuela relations:Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-pvenezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-presiden.md) _Context: Colombia, Colombian President, Venezuela_
+10. [Colombia takes Venezuela to the Organisation of American States over claims that the latter tolerates training camps for left-wing guerrillas, particularly FARC and ELN within its borders. ](/news/2010/07/18/colombia-takes-venezuela-to-the-organisation-of-american-states-over-claims-that-the-latter-tolerates-training-camps-for-left-wing-guerrilla.md) _Context: Colombia, FARC, Venezuela_

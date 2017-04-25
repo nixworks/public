@@ -1,0 +1,23 @@
+### [2013-01-19](/news/2013/01/19/index.md)
+
+# In association football, FC Shakhtar Donetsk wins the 2013 Match World Cup, played this week at Zayed Sports City Stadium in Abu Dhabi, UAE. 
+
+
+
+
+### Source:
+
+1. [Match World Cup](http://www.matchworld-cup.com/en/winter/news/shakhtar-donetsk-wins-the-matchworld-cup-2013-41-1587)
+
+### Related:
+
+1. [Solar Impulse 2, a plane powered only by the sun, takes off from Kalaeloa, Hawaii, USA, on the ninth leg of its around-the-world journey. This portion of the trip will cover 2,542 nautical miles and, in about three days, is scheduled to touch down in Mountain View, California. The journey originated in Abu Dhabi, United Arab Emirates, on March 9, 2015, and, after another 8,130 nmi, will complete the circle when it lands in Abu Dhabi. ](/news/2016/04/21/solar-impulse-2-a-plane-powered-only-by-the-sun-takes-off-from-kalaeloa-hawaii-usa-on-the-ninth-leg-of-its-around-the-world-journey-th.md) _Context: Abu Dhabi, United Arab Emirates_
+2. [Israel will open a diplomatic mission to the International Renewable Energy Agency (Irena), the headquarters of which are located near the capital of the United Arab Emirates, Abu Dhabi.  Israel will be the first Irena member to open such a mission; other member nations work Irena relations from their missions to the UAE, which Israel does not have. ](/news/2015/11/30/israel-will-open-a-diplomatic-mission-to-the-international-renewable-energy-agency-irena-the-headquarters-of-which-are-located-near-the-c.md) _Context: Abu Dhabi, United Arab Emirates_
+3. [In other association football news:Ukrainian club Shakhtar Donetsk wins the 2013 Copa del Sol by defeating Poland's Widzew Lodz in the final. ](/news/2013/02/2/in-other-association-football-news-pukrainian-club-shakhtar-donetsk-wins-the-2013-copa-del-sol-by-defeating-poland-s-widzew-aa3dao-in-the-f.md) _Context: Shakhtar Donetsk, association football_
+4. [Shakhtar Donetsk wins 2013 Super Cup of Champions defeating Zenit St. Petersburg in Abu Dhabi, UAE. ](/news/2013/01/22/shakhtar-donetsk-wins-2013-super-cup-of-champions-defeating-zenit-st-petersburg-in-abu-dhabi-uae.md) _Context: Abu Dhabi, Shakhtar Donetsk_
+5. [In tennis, Rafael Nadal's long-awaited comeback from a knee injury has had to be postponed because of illness. He is out of an exhibition tournament in Abu Dhabi, UAE. ](/news/2012/12/25/in-tennis-rafael-nadal-s-long-awaited-comeback-from-a-knee-injury-has-had-to-be-postponed-because-of-illness-he-is-out-of-an-exhibition-to.md) _Context: Abu Dhabi, United Arab Emirates_
+6. [Hillary Clinton of the United States speaks out against Iran in Abu Dhabi during a five-day trip to the United Arab Emirates, Oman and Qatar. She requests that the world increase its pressure on Iran, a country she considers "a serious concern". ](/news/2011/01/9/hillary-clinton-of-the-united-states-speaks-out-against-iran-in-abu-dhabi-during-a-five-day-trip-to-the-united-arab-emirates-oman-and-qatar.md) _Context: Abu Dhabi, United Arab Emirates_
+7. [ French President Nicolas Sarkozy will open a military base in Abu Dhabi, United Arab Emirates. ](/news/2009/05/26/french-president-nicolas-sarkozy-will-open-a-military-base-in-abu-dhabi-united-arab-emirates.md) _Context: Abu Dhabi, United Arab Emirates_
+8. [Citing a drop in demand, the Dubai-based, United Arab Emirates-owned airline Emirates Air announces a cut in flights to five of its 12 U.S. destinations.  The airline's Dubai hub, third-busiest in the world, is a major stop for travelers in countries affected by President Donald Trump's travel ban, and is also one of several Middle East airports affected by a U.S. ban on tablets, laptops, and similar devices in the passenger cabin. ](/news/2017/04/19/citing-a-drop-in-demand-the-dubai-based-united-arab-emirates-owned-airline-emirates-air-announces-a-cut-in-flights-to-five-of-its-12-u-s.md) _Context: United Arab Emirates_
+9. [The Somali pirates that hijacked the ''Aris 13'', a United Arab Emirates-owned oil tanker, release it without condition. ](/news/2017/03/16/the-somali-pirates-that-hijacked-the-aris-13-a-united-arab-emirates-owned-oil-tanker-release-it-without-condition.md) _Context: United Arab Emirates_
+10. [Off the northern coast of Somalia, Somali pirates hijack the ''Aris 13'', a United Arab Emirates-owned oil tanker, kidnapping eight Sri Lankan crew members. This is the first hijacking of a large commercial vessel in five years. ](/news/2017/03/14/off-the-northern-coast-of-somalia-somali-pirates-hijack-the-aris-13-a-united-arab-emirates-owned-oil-tanker-kidnapping-eight-sri-lank.md) _Context: United Arab Emirates_

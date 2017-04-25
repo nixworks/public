@@ -1,0 +1,24 @@
+### [2010-01-1](/news/2010/01/1/index.md)
+
+#  Russians are surprised by a cartoon "gently lampooning" Dmitry Medvedev and Vladimir Putin who are portrayed dancing, singing and playing musical instruments. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8436959.stm)
+2. [France 24](http://www.france24.com/en/node/4960262)
+
+### Related:
+
+1. [Russian President Dmitry Medvedev orders Prime Minister Vladimir Putin to remove his deputies on the boards of state companies by 1 July. ](/news/2011/04/3/russian-president-dmitry-medvedev-orders-prime-minister-vladimir-putin-to-remove-his-deputies-on-the-boards-of-state-companies-by-1-july.md) _Context: Dmitry Medvedev, Russia, Vladimir Putin_
+2. [Russian President Dmitry Medvedev criticises Vladimir Putin's stance on United Nations Security Council Resolution 1973 concerning the situation in Libya as "unacceptable". Putin had said the resolution resembled a "medieval call for crusades". ](/news/2011/03/21/russian-president-dmitry-medvedev-criticises-vladimir-putin-s-stance-on-united-nations-security-council-resolution-1973-concerning-the-situa.md) _Context: Dmitry Medvedev, Russia, Vladimir Putin_
+3. [ Russian President Dmitry Medvedev criticizes Prime Minister Vladimir Putin's government for not acting quickly enough to deal with the current financial crisis. ](/news/2009/01/11/russian-president-dmitry-medvedev-criticizes-prime-minister-vladimir-putin-s-government-for-not-acting-quickly-enough-to-deal-with-the-curr.md) _Context: Dmitry Medvedev, Russia, Vladimir Putin_
+4. [ Russian voters go to the polls to decide the country's next president. Dmitry Medvedev of the United Russia wins the election and is expected to succeed Vladimir Putin as the President of Russia. ](/news/2008/03/2/russian-voters-go-to-the-polls-to-decide-the-country-s-next-president-dmitry-medvedev-of-the-united-russia-wins-the-election-and-is-expect.md) _Context: Dmitry Medvedev, Russia, Vladimir Putin_
+5. [ Russian President Vladimir Putin announces at a party meeting that he will support Dmitry Medvedev as his successor in the March 2008 presidential election. ](/news/2007/12/10/russian-president-vladimir-putin-announces-at-a-party-meeting-that-he-will-support-dmitry-medvedev-as-his-successor-in-the-march-2008-presi.md) _Context: Dmitry Medvedev, Russia, Vladimir Putin_
+6. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Russia, Vladimir Putin_
+7. [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md) _Context: Russia, Vladimir Putin_
+8. [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that   civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized.  Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md) _Context: Russia, Vladimir Putin_
+9. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Russia, Vladimir Putin_
+10. [Russian President Vladimir Putin signs a symbolic order to withdraw Russia's signature from the Rome Statute of the International Criminal Court (ICC) amid calls by pro-rebel western Non-governmental organisations for an investigation into alleged Russian war crimes in Syria. ](/news/2016/11/16/russian-president-vladimir-putin-signs-a-symbolic-order-to-withdraw-russia-s-signature-from-the-rome-statute-of-the-international-criminal-c.md) _Context: Russia, Vladimir Putin_

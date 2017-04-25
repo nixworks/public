@@ -1,0 +1,23 @@
+### [2016-04-27](/news/2016/04/27/index.md)
+
+# Israeli forces kill two Palestinian assailants at a checkpoint in the West Bank. 
+
+Israeli police shot dead a Palestinian woman and her teenage brother on Wednesday, saying they were armed with knives and tried to carry out an attack at a checkpoint in the occupied West Bank.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKCN0XO0YB)
+
+### Related:
+
+1. [A rock throwing 19-year old Palestinian is killed by IDF troops amid clashes in the West Bank village of Beit Rima. ](/news/2016/12/18/a-rock-throwing-19-year-old-palestinian-is-killed-by-idf-troops-amid-clashes-in-the-west-bank-village-of-beit-rima.md) _Context: Israeli–Palestinian conflict, West Bank_
+2. [Faulty readings from a  GPS system apparently resulted in two Israeli soldiers driving into the Qalandiya refugee camp in the occupied West Bank. Israeli forces sent in on a rescue mission, engaged armed Palestinians. One 22-year-old Palestinian man was killed with 10 others wounded, one seriously, in the ensuing gun battle.  At least 10 Israeli soldiers were wounded. ](/news/2016/03/1/faulty-readings-from-a-gps-system-apparently-resulted-in-two-israeli-soldiers-driving-into-the-qalandiya-refugee-camp-in-the-occupied-west.md) _Context: Israeli–Palestinian conflict, West Bank_
+3. [Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation" with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaza-will-fulfil-its-role-in-the-je.md) _Context: Israeli–Palestinian conflict, West Bank_
+4. [Palestinian militants fire 3 rockets into Israel during the night after several violent riots throughout Israel and the West Bank. ](/news/2015/10/10/palestinian-militants-fire-3-rockets-into-israel-during-the-night-after-several-violent-riots-throughout-israel-and-the-west-bank.md) _Context: Israeli–Palestinian conflict, West Bank_
+5. [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md) _Context: Israeli–Palestinian conflict, West Bank_
+6. [Israeli-Palestinian conflict:After having rocks hurled at them, Israeli troops respond and shoot dead a Palestinian man in the West Bank. ](/news/2013/10/31/israeliapalestinian-conflict-pafter-having-rocks-hurled-at-them-israeli-troops-respond-and-shoot-dead-a-palestinian-man-in-the-west-bank.md) _Context: Israeli–Palestinian conflict, West Bank_
+7. [Israeli-Palestinian conflict:A Palestinian, Naji Balbisi, dies from injuries he suffered during a clashes with Israeli forces in the West Bank city of Tulkarem, a day after his cousin, Amer al-Najjar, died in the clashes after they tried to firebomb a checkpoint. ](/news/2013/04/4/israeliapalestinian-conflict-pa-palestinian-naji-balbisi-dies-from-injuries-he-suffered-during-a-clashes-with-israeli-forces-in-the-west.md) _Context: Israeli–Palestinian conflict, West Bank_
+8. [Israeli-Palestinian conflict:A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeliapalestinian-conflict-pa-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md) _Context: Israeli–Palestinian conflict, West Bank_
+9. [Israeli-Palestinian conflict:Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/israeliapalestinian-conflict-ptwo-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md) _Context: Israeli–Palestinian conflict, West Bank_
+10. [Israeli-Palestinian conflict:Israel presses on with the construction of thousands of new homes in West Bank and East Jerusalem, despite worldwide criticism and suggestions that officials in Palestine may go to the International Criminal Court. ](/news/2012/12/19/israeliapalestinian-conflict-pisrael-presses-on-with-the-construction-of-thousands-of-new-homes-in-west-bank-and-east-jerusalem-despite-w.md) _Context: Israeli–Palestinian conflict, West Bank_

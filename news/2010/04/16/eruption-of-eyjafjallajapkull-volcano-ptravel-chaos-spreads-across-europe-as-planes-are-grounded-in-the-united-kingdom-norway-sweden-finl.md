@@ -1,0 +1,35 @@
+### [2010-04-16](/news/2010/04/16/index.md)
+
+# Eruption of Eyjafjallajokull volcano:Travel chaos spreads across Europe as planes are grounded in the United Kingdom, Norway, Sweden, Finland and Russia as a result of the giant cloud of ash coming across from Iceland. 
+
+Irish airspace reopened and transatlantic flights from Dublin resumed earlier today, but severe disruptions continued.
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2010/TRAVEL/04/16/iceland.flights.volcano/index.html)
+2. [Barcelona Reporter](http://www.barcelonareporter.com/index.php?/news/comments/ryanair_flights_cancelled_from_17_04_2010_till_until_1300hrs_19th_april_lis/1704100740pm)
+3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Volcano-Ash-Cloud-Flight-Restrictions-Will-Continue-Until-1am-Sat-NATS-Warns-After-Iceland-Eruption/Article/201004315604129?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15604129_Volcano_Ash_Cloud_Flight_Restrictions_Will_Continue_Until_1am_Sat%2C_NATS_Warns_After_Iceland_Eruption)
+4. [CNN](http://edition.cnn.com/2010/TECH/ptech/04/16/volcano.ash.norway.ipad/)
+5. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/201041692933434631.html)
+6. [RTÉ](http://www.rte.ie/news/2010/0416/travel.html)
+7. [New York Daily News](http://www.nydailynews.com/news/world/2010/04/16/2010-04-16_volcanic_ash_strands_norway_prime_minister_jens_stotlenberg_in_nyc_airport_so_he.html)
+8. [Los Angeles Times](http://www.latimes.com/technology/sns-ap-eu-norway-prime-minister-ipad,0,6981809.story)
+9. [Reuters](http://www.reuters.com/article/idUSWLB270820100416?type=marketsNews)
+10. [Irish Independent](http://www.independent.ie/national-news/thousands-grounded-until-next-week-2141959.html)
+11. [BBC](http://news.bbc.co.uk/1/hi/business/8624663.stm)
+12. [BBC](http://news.bbc.co.uk/1/hi/uk/8623806.stm)
+13. [BBC](http://news.bbc.co.uk/1/hi/health/8624806.stm)
+
+### Related:
+
+1. [Iceland opens an inquiry as it emerges that its citizens may be being spied on by the United States embassy. This follows similar investigations into possible illegal U.S. activities in Norway, Denmark, Sweden, and Finland, with possibly hundreds of Norwegians being monitored and Sweden describing the matter as "very serious". ](/news/2010/11/11/iceland-opens-an-inquiry-as-it-emerges-that-its-citizens-may-be-being-spied-on-by-the-united-states-embassy-this-follows-similar-investigat.md) _Context: Finland, Iceland, Norway, Sweden_
+2. [The British government announces that British airports will reopen and passenger flights will resume, but officials caution that it will take time for flight schedules to return to normal after the six-day shutdown caused by  volcanic ash from the 2010 eruptions of the Eyjafjallajokull volcano. ](/news/2010/04/21/the-british-government-announces-that-british-airports-will-reopen-and-passenger-flights-will-resume-but-officials-caution-that-it-will-tak.md) _Context: Eyjafjallajökull, United Kingdom, eruptions, volcanic ash problems_
+3. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement  that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Norway, Sweden, United Kingdom_
+4. [More than a dozen alleged ISIS-linked, terrorist members of Rawti Shax, a European offshoot of the Iraqi Kurdish jihadist network Ansar al-Islam,  are arrested in a coordinated, multi-nation sweep by police across Europe. The operation  dismantled an integrated cell in Italy, the United Kingdom, Norway, Finland, Switzerland, and Germany.  The group is accused of radicalizing fighters, planning attacks  targeting Norwegian and British diplomats in the Middle East, and planning to establish a caliphate in Iraq's Kurdistan region. ](/news/2015/11/12/more-than-a-dozen-alleged-isis-linked-terrorist-members-of-rawti-shax-a-european-offshoot-of-the-iraqi-kurdish-jihadist-network-ansar-al-i.md) _Context: Finland, Norway, United Kingdom_
+5. [Russia, Great Britain and France become the top-3 countries in the medal table of the 2013 European Athletics Indoor Championships in Gothenburg, Sweden. ](/news/2013/03/3/russia-great-britain-and-france-become-the-top-3-countries-in-the-medal-table-of-the-2013-european-athletics-indoor-championships-in-gothen.md) _Context: Russia, Sweden, United Kingdom_
+6. [The Irish Aviation Authority closes Donegal Airport, cancels at least two flights and announces the closure of all airspace in Ireland on Monday due to Icelandic volcanic ash, while British Airports, including some in Scotland, may also be affected due to continued eruptions of Eyjafjallajokull volcano. ](/news/2010/05/3/the-irish-aviation-authority-closes-donegal-airport-cancels-at-least-two-flights-and-announces-the-closure-of-all-airspace-in-ireland-on-mo.md) _Context: Eyjafjallajökull, Iceland, eruptions_
+7. [Contributions from Belgium, Canada, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, Norway, Spain, Sweden and Switzerland allow the World Bank to cancel $36 million in Haiti's remaining debt following January's devastating earthquake. ](/news/2010/05/28/contributions-from-belgium-canada-finland-france-germany-ireland-italy-japan-the-netherlands-norway-spain-sweden-and-switzerland.md) _Context: Finland, Norway, Sweden_
+8. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:The International Air Transport Association (IATA) criticises European governments, questions their leadership and asks them to reevaluate their decision-making process in the wake of the disaster. ](/news/2010/04/19/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-pthe-international-air-transport-association-iata-criticises-european.md) _Context: Eyjafjallajökull, eruptions, volcanic ash problems_
+9. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-pthousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _Context: Eyjafjallajökull, eruptions, volcanic ash problems_
+10. [Eruption of Eyjafjallajokull:The volcanic ash cloud above Europe causes a third day of disruption to air travel, leaving millions of passengers stranded unable to reach their destinations. Officials warn that airspace could remain shut for several more days. ](/news/2010/04/17/eruption-of-eyjafjallajapkull-pthe-volcanic-ash-cloud-above-europe-causes-a-third-day-of-disruption-to-air-travel-leaving-millions-of-passe.md) _Context: Eyjafjallajökull, eruptions, volcanic ash problems_

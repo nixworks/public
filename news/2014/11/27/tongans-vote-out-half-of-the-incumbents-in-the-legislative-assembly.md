@@ -1,0 +1,10 @@
+### [2014-11-27](/news/2014/11/27/index.md)
+
+# Tongans vote out half of the incumbents in the Legislative Assembly. 
+
+Tongans have dumped half of their members of parliament in a general election.
+
+
+### Source:
+
+1. [ABC Online](http://www.abc.net.au/news/2014-11-29/strong-turnout-for-tonga-election-as-many-mps-dumped/5923790)

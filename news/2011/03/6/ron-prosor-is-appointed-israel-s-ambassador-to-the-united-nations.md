@@ -1,0 +1,24 @@
+### [2011-03-6](/news/2011/03/6/index.md)
+
+# Ron Prosor is appointed Israel's ambassador to the United Nations. 
+
+
+
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/ron-prosor-named-israel-s-new-ambassador-to-the-un-1.347464)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4038215,00.html)
+
+### Related:
+
+1. [Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-the-december-23-2016-security-council-settl.md) _Context: Israel, United Nations_
+2. [U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. ](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.md) _Context: Israel, United Nations_
+3. [The  report of the diplomatic Quartet to the Security Council -- the United Nations, Russia, the United States, and the European Union -- calls on Israel to end  settlement construction and expansion policy, and calls on  Palestinians to act decisively to stop incitement to violence and to clearly condemn terrorist acts. Special Coordinator for the Middle East Peace Process Nickolay Mladenov tells the UNSC, "The main objective of this report is not about assigning blame ... (rather) it focuses on the major threats to achieving a negotiated peace." ](/news/2016/07/1/the-report-of-the-diplomatic-quartet-to-the-security-council-a-the-united-nations-russia-the-united-states-and-the-european-union-a.md) _Context: Israel, United Nations_
+4. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _Context: Israel, United Nations_
+5. [Canadian academic William Schabas resigns as the head of a United Nations committee investigating alleged Israeli war crimes in an offensive in the Gaza Strip during 2014 due to Israel alleging bias due to consultancy work he did for the Palestine Liberation Organisation. ](/news/2015/02/2/canadian-academic-william-schabas-resigns-as-the-head-of-a-united-nations-committee-investigating-alleged-israeli-war-crimes-in-an-offensive.md) _Context: Israel, United Nations_
+6. [Operation Protective Edge:United Nations High Commissioner for Human Rights Navi Pillay condemns both Israel's military actions in the Gaza Strip and Hamas for "indiscriminate attacks" on Israel, and warns that war crimes may have been committed.  ](/news/2014/07/23/operation-protective-edge-punited-nations-high-commissioner-for-human-rights-navi-pillay-condemns-both-israel-s-military-actions-in-the-gaza.md) _Context: Israel, United Nations_
+7. [Syrian civil war:Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/syrian-civil-war-pfour-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-isr.md) _Context: Israel, United Nations_
+8. [AFP reports on Israel's plans to counter a Palestinian bid for enhanced United Nations status later this month. ](/news/2012/11/6/afp-reports-on-israel-s-plans-to-counter-a-palestinian-bid-for-enhanced-united-nations-status-later-this-month.md) _Context: Israel, United Nations_
+9. [Syrian civil war: Three Syrian tanks have entered the demilitarized zone in the Golan Heights. Israel has launched a formal complaint to the United Nations. ](/news/2012/11/13/syrian-civil-war-pthree-syrian-tanks-have-entered-the-demilitarized-zone-in-the-golan-heights-israel-has-launched-a-formal-complaint-to-th.md) _Context: Israel, United Nations_
+10. [Two Palestinian prisoners held in Israel enter the 71st day of their hunger strikes. United Nations Secretary General Ban Ki-Moon expressed his concern about the condition of the hunger strikers. ](/news/2012/05/9/two-palestinian-prisoners-held-in-israel-enter-the-71st-day-of-their-hunger-strikes-united-nations-secretary-general-ban-ki-moon-expressed.md) _Context: Israel, United Nations_

@@ -1,0 +1,24 @@
+### [2005-06-21](/news/2005/06/21/index.md)
+
+#  In Zambia, former health ministry official Kashiba Bulaya has been charged again with accepting a bribe from a Bulgarian firm that manufactures anti-retrovirus drugs against AIDS. Government's decision to halt the case a month ago aroused protests. 
+
+
+
+
+### Source:
+
+1. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42b7bc5b:2d70f927ab316e?type=topNews&localeKey=en_ZA&storyID=8846873)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4116694.stm)
+
+### Related:
+
+1. [ The 5 Bulgarian nurses and the Palestinian assistant, imprisoned in Libya for 8 years and that had been sentenced to death, in several trials based on allegations of having inoculated AIDS to children, are leaving Libya and returning back to Sofia with Mrs Ccilia Sarkozy who negotiated their liberation. ](/news/2007/07/24/the-5-bulgarian-nurses-and-the-palestinian-assistant-imprisoned-in-libya-for-8-years-and-that-had-been-sentenced-to-death-in-several-tria.md) _Context: AIDS, Bulgaria_
+2. [ Zambian government reopens a case against Kashiwa Bulaya, former health ministry official and ally of president Levy Mwanawasa. Bulaya is accused of diverting AIDS drugs funds ](/news/2005/06/15/zambian-government-reopens-a-case-against-kashiwa-bulaya-former-health-ministry-official-and-ally-of-president-levy-mwanawasa-bulaya-is-a.md) _Context: AIDS, Zambia_
+3. [Zambian opposition leader and presidential election runner-up Hakainde Hichilema is charged with treason and "trying to overthrow the government". ](/news/2017/04/18/zambian-opposition-leader-and-presidential-election-runner-up-hakainde-hichilema-is-charged-with-treason-and-trying-to-overthrow-the-govern.md) _Context: Zambia_
+4. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Bulgaria_
+5. [Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls-predict-a-close-contest-between-borisso.md) _Context: Bulgaria_
+6. [At least seven people have been killed and 25 others are injured after an explosion caused by the derailment of a train carrying propane and butane in the Bulgarian village of Hitrino, near Shumen. ](/news/2016/12/10/at-least-seven-people-have-been-killed-and-25-others-are-injured-after-an-explosion-caused-by-the-derailment-of-a-train-carrying-propane-and.md) _Context: Bulgaria_
+7. [Voters in Bulgaria go to the polls for a presidential election, with exit polls showing no candidate receiving the majority necessary to win outright, and Rumen Radev and Tsetska Tsacheva likely to face one another in a run-off on 13 November.   ](/news/2016/11/6/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election-with-exit-polls-showing-no-candidate-receiving-the-majority-necessary-to-win.md) _Context: Bulgaria_
+8. [ A research team led by an evolutionary biologist at the University of Arizona publishes a paper in ''Nature'' on the genetic history of HIV proving that Gaetan Dugas, the Canadian flight attendant who had been identified for years as "Patient Zero" of the AIDS epidemic in the U.S., did not spread the virus to the country. The study indicates that HIV first spread to the U.S. from the Caribbean around 1970. ](/news/2016/10/26/a-research-team-led-by-an-evolutionary-biologist-at-the-university-of-arizona-publishes-a-paper-in-nature-on-the-genetic-history-of-hiv.md) _Context: AIDS_
+9. [Russia's Foreign Ministry warns of "retaliatory measures" over the entry of the United States Navy destroyer, USS ''Porter''. The USS ''Porter'' arrived in the Black Sea port of Varna, Bulgaria, earlier this week for what the U.S. Navy called a routine deployment. ](/news/2016/06/10/russia-s-foreign-ministry-warns-of-retaliatory-measures-over-the-entry-of-the-united-states-navy-destroyer-uss-porter-the-uss-port.md) _Context: Bulgaria_
+10. [Two people are burned alive amid xenophobic riots in Lusaka, Zambia. The riots started after rumours spread that Rwandans were behind recent ritual killings in the city. More than 250 people have been arrested after more than 60 Rwandan-owned shops were looted in two days of violence. ](/news/2016/04/20/two-people-are-burned-alive-amid-xenophobic-riots-in-lusaka-zambia-the-riots-started-after-rumours-spread-that-rwandans-were-behind-recent.md) _Context: Zambia_

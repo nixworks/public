@@ -1,0 +1,23 @@
+### [2014-04-25](/news/2014/04/25/index.md)
+
+# The UK government launches an inquiry after the ''Liverpool Echo'' reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-27165844)
+
+### Related:
+
+1. [Citing security concerns because of recent terrorist activity, the American and British governments impose a ban affecting inbound-passengers flying from much of the Middle East and North Africa. The ban includes airplane cabin passenger-accessible items such as laptops,  tablets, and other electronic devices which are larger than a smartphone. Larger such electronic devices will still be allowed on board in checked baggage which is thus more closely screened and passenger-inaccessible. ](/news/2017/03/21/citing-security-concerns-because-of-recent-terrorist-activity-the-american-and-british-governments-impose-a-ban-affecting-inbound-passenger.md) _Context: British_
+2. [A petition, launched Sunday to cancel U.S. President Donald Trump's state visit to the United Kingdom later this year, tops 1 million signatures, passing the threshold  for British Parliament debate.  A British government spokesman says the state visit is going ahead as planned. ](/news/2017/01/30/a-petition-launched-sunday-to-cancel-u-s-president-donald-trump-s-state-visit-to-the-united-kingdom-later-this-year-tops-1-million-signat.md) _Context: British_
+3. [The Supreme Court of the United Kingdom rules that the Government of the United Kingdom may not begin the formal Brexit process until Parliament votes in approval of the move.  ](/news/2017/01/24/the-supreme-court-of-the-united-kingdom-rules-that-the-government-of-the-united-kingdom-may-not-begin-the-formal-brexit-process-until-parlia.md) _Context: British_
+4. [The academic Phil Scraton refuses an OBE granted to him by Elizabeth II in her 2017 New Year Honours list for his work on the Hillsborough disaster. Professor Scraton wrote ''Hillsborough: The Truth'', first published in 1990 and seen as the definitive account of the disaster. ](/news/2016/12/29/the-academic-phil-scraton-refuses-an-obe-granted-to-him-by-elizabeth-ii-in-her-2017-new-year-honours-list-for-his-work-on-the-hillsborough-d.md) _Context: Hillsborough disaster_
+5. [There is no plan for Brexit, according to a critical leaked memo from the consulting firm Deloitte Touche Tohmatsu Limited. The document indicates Whitehall is working on 500 Brexit-related projects.  Both Deloitte and the British Government confirm the document is an internal working document from Deloitte that was compiled without government approval or assistance. ](/news/2016/11/15/there-is-no-plan-for-brexit-according-to-a-critical-leaked-memo-from-the-consulting-firm-deloitte-touche-tohmatsu-limited-the-document-ind.md) _Context: British_
+6. [Thousands of people protest in Whitehall calling on British Prime Minister David Cameron to resign over his financial affairs and his handling of them in relation to revelations made by the leak of the Panama Papers. ](/news/2016/04/9/thousands-of-people-protest-in-whitehall-calling-on-british-prime-minister-david-cameron-to-resign-over-his-financial-affairs-and-his-handli.md) _Context: Whitehall_
+7. [An inquest into the Hillsborough Disaster in 1989 when 96 fans of Liverpool FC were killed finds the fans were illegally killed. ](/news/2016/04/26/an-inquest-into-the-hillsborough-disaster-in-1989-when-96-fans-of-liverpool-fc-were-killed-finds-the-fans-were-illegally-killed.md) _Context: Hillsborough disaster_
+8. [The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given-at-11-00-bst-tomorrow.md) _Context: Hillsborough disaster_
+9. [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The  conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md) _Context: British_
+10. [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md) _Context: Wikipedia_

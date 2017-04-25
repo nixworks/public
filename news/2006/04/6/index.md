@@ -1,0 +1,31 @@
+## [2006-04-6](/news/2006/04/6/index.md)
+
+### [ An earthquake of 5.5 magnitude is reported in Western Gujarat in India.](/news/2006/04/6/an-earthquake-of-5-5-magnitude-is-reported-in-western-gujarat-in-india.md)
+_Context: Gujarat, earthquake_
+
+### [ The World Meteorological Organization has announced the retirement of a record five storm names from the 2005 Atlantic hurricane season. Retired names include Dennis, Katrina, Rita, Stan and Wilma. ](/news/2006/04/6/the-world-meteorological-organization-has-announced-the-retirement-of-a-record-five-storm-names-from-the-2005-atlantic-hurricane-season-re.md)
+_Context: 2005 Atlantic hurricane season, Dennis, Hurricane Katrina, Rita, Stan, Wilma, World Meteorological Organization_
+
+### [ The National Geographic Society unveils the restored Gospel of Judas in Washington, D.C. Written in Coptic, the document is thought to have come from the 2nd century. It had been deteriorating rapidly when found. ](/news/2006/04/6/the-national-geographic-society-unveils-the-restored-gospel-of-judas-in-washington-d-c-written-in-coptic-the-document-is-thought-to-have.md)
+Researchers say they have discovered the only known copy of the Gospel of Judas, which portrays Judas Iscariot not as a traitor, but as an essential player in helping Jesus carry out his mission. Alex Chadwick talks to Herb Krosney, author of The Lost Gospel.
+
+### [ A 1,500-year-old pyramid called the Hill of the Star has been found in Mexico City. ](/news/2006/04/6/a-1-500-year-old-pyramid-called-the-hill-of-the-star-has-been-found-in-mexico-city.md)
+_Context: Hill of the Star, Mexico City, Pyramid_
+
+### [ Orthodox Jews in Boro Park in New York City continue to protest after a 75-year-old Hasidic man was beaten and arrested by police for talking on a cell phone while driving. NYPD Chief Joseph Esposito allegedly cursed out the protestors in anti-Semitic terms, resulting in condemnations and calls for him to step down. ](/news/2006/04/6/orthodox-jews-in-boro-park-in-new-york-city-continue-to-protest-after-a-75-year-old-hasidic-man-was-beaten-and-arrested-by-police-for-talki.md)
+_Context: Boro Park, Joseph Esposito, New York City Police Department, Orthodox Jews_
+
+### [ Palaeontologists announce the discovery of the ''Tiktaalik'' genus, an important fossil link between fish and land animals. ](/news/2006/04/6/palaeontologists-announce-the-discovery-of-the-tiktaalik-genus-an-important-fossil-link-between-fish-and-land-animals.md)
+The 375 million-year-old fish fossil exhibits changes that anticipate the emergence of land animals. 
+
+### [ Israeli police arrest and release Khaled Abu Arafa, minister of Jerusalem affairs in the new Hamas-led government of the Palestinian Authority. ](/news/2006/04/6/israeli-police-arrest-and-release-khaled-abu-arafa-minister-of-jerusalem-affairs-in-the-new-hamas-led-government-of-the-palestinian-author.md)
+_Context: Hamas, Israel, Jerusalem, Khaled Abu Arafa, Palestinian Authority_
+
+### [ The Parliament of New Zealand passes a bill that on receiving Royal Assent will make New Zealand Sign Language the third official language of New Zealand, alongside English and Maori. ](/news/2006/04/6/the-parliament-of-new-zealand-passes-a-bill-that-on-receiving-royal-assent-will-make-new-zealand-sign-language-the-third-official-language.md)
+_Context: Maori language, New Zealand Sign Language, Parliament of New Zealand, Royal Assent_
+
+### [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. [http://news.bbc.co.uk/1/hi/uk/4882946.stm (BBC)]. It has been further confirmed that the bird had the deadly H5N1 strain of the virus [http://www.bloomberg.com/apps/news?pid=10000085&sid=aEgX0Zq0jJBM (Bloomberg)]. Scotland and the UK confirm H5N1 virus, but say a GB-wide poultry housing requirement would be "disproportionate." [http://www.fwi.co.uk/home/default.aspx (Farmers Weekly)].](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu-http-news-bbc-co-uk-1-hi-uk-4882946-stm-bb.md)
+_Context: Avian flu virus, Scotland, bird flu, swan_
+
+## [Previous Day...](/news/2006/04/5/index.md)
+

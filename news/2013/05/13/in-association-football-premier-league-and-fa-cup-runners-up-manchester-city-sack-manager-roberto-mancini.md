@@ -1,0 +1,23 @@
+### [2013-05-13](/news/2013/05/13/index.md)
+
+# In association football, Premier League and FA Cup runners-up Manchester City sack manager Roberto Mancini. 
+
+Roberto Mancini is sacked as Manchester City manager a year to the day since winning the Premier League.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/sport/0/football/22507128)
+
+### Related:
+
+1. [In association football, Manchester City defeat Manchester United in what had been described as the biggest match in Premier League history. Vincent Kompany scores the winning goal to take City to the summit of the Premier League table with two games of the season left to play. ](/news/2012/04/30/in-association-football-manchester-city-defeat-manchester-united-in-what-had-been-described-as-the-biggest-match-in-premier-league-history.md) _Context: English Premier League, Manchester City, association football_
+2. [At least 11 people are killed and 16 others are injured after a gunman opens fire on football fans watching an English Premier League game near Juba, South Sudan. ](/news/2016/11/6/at-least-11-people-are-killed-and-16-others-are-injured-after-a-gunman-opens-fire-on-football-fans-watching-an-english-premier-league-game-n.md) _Context: English Premier League, association football_
+3. [Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. ](/news/2016/11/25/four-police-forces-in-england-say-they-are-actively-investigating-allegations-of-child-sexual-abuse-in-association-football-several-ex-play.md) _Context: Manchester City, association football_
+4. [In association football, Paris Saint-Germain F.C. and Manchester City F.C. are fined EUR60 million by UEFA for breaches of the Fair Play regulations. ](/news/2014/05/16/in-association-football-paris-saint-germain-f-c-and-manchester-city-f-c-are-fined-a-60-million-by-uefa-for-breaches-of-the-fair-play-reg.md) _Context: Manchester City, association football_
+5. [In association football, Newcastle United fine their manager Alan Pardew nearly PS100,000 for headbutting David Meyler on the opposing Hull City during a Premier League match yesterday. ](/news/2014/03/2/in-association-football-newcastle-united-fine-their-manager-alan-pardew-nearly-aps100-000-for-headbutting-david-meyler-on-the-opposing-hull.md) _Context: English Premier League, association football_
+6. [In association football, having headbutted a player for the opposing team, an unprecedented incident during a Premier League match, Alan Pardew faces the sack. ](/news/2014/03/1/in-association-football-having-headbutted-a-player-for-the-opposing-team-an-unprecedented-incident-during-a-premier-league-match-alan-par.md) _Context: English Premier League, association football_
+7. [Association football:In England, Wigan Athletic, playing in their first FA Cup Final, defeat Manchester City with a last minute goal by Ben Watson at Wembley Stadium. ](/news/2013/05/11/association-football-pin-england-wigan-athletic-playing-in-their-first-fa-cup-final-defeat-manchester-city-with-a-last-minute-goal-by-ben.md) _Context: Manchester City, association football_
+8. [2012-13 Premier League:Manchester United secure the 2012-13 Premier League title thanks to a Robin van Persie hat trick against Aston Villa at Old Trafford, which moves them 16 points clear of rivals and reigning champions Manchester City who have only a maximum of 15 points left to play for. This is Sir Alex Ferguson's 13th title of his 27-year tenure as United's manager. ](/news/2013/04/22/2012a13-premier-league-pmanchester-united-secure-the-2012a13-premier-league-title-thanks-to-a-robin-van-persie-hat-trick-against-aston-v.md) _Context: English Premier League, Manchester City_
+9. [Manchester City will meet Wigan Athletic in the 2012-13 FA Cup Final after winning the semi-final against Chelsea 2-1 at Wembley Stadium. ](/news/2013/04/14/manchester-city-will-meet-wigan-athletic-in-the-2012a13-fa-cup-final-after-winning-the-semi-final-against-chelsea-2a1-at-wembley-stadium.md) _Context: FA Cup, Manchester City_
+10. [2012-13 FA Cup fourth round:For the first time in 24 years, a non-league team knocks a top flight team out of the FA Cup. Conference outfit Luton Town eliminate Premier League Norwich City with 1-0 victory at Carrow Road. ](/news/2013/01/26/2012a13-fa-cup-fourth-round-pfor-the-first-time-in-24-years-a-non-league-team-knocks-a-top-flight-team-out-of-the-fa-cup-conference-outf.md) _Context: English Premier League, FA Cup_

@@ -1,0 +1,15 @@
+### [2010-02-26](/news/2010/02/26/index.md)
+
+# Turkish police launch a second wave of arrests of military officers tied to the alleged "Sledgehammer" coup plot. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/02/26/turkey.sledgehammer.arrests/index.html)
+
+### Related:
+
+1. [Syrian civil war:Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-psyrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refu.md) _Context: Turkish police_
+2. [Turkish police arrest 120 suspects in a major anti-terrorism operation against Al-Qaeda. ](/news/2010/01/22/turkish-police-arrest-120-suspects-in-a-major-anti-terrorism-operation-against-al-qaeda.md) _Context: Turkish police_

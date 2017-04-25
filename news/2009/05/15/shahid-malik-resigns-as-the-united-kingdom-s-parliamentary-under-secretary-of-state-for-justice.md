@@ -1,0 +1,23 @@
+### [2009-05-15](/news/2009/05/15/index.md)
+
+#  Shahid Malik resigns as the United Kingdom's Parliamentary Under-Secretary of State for Justice. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/8051091.stm)
+
+### Related:
+
+1. [ Former Special Air Service officer John Wick is revealed as the whistleblower behind the United Kingdom Parliament's expenses controversy. ](/news/2009/05/22/former-special-air-service-officer-john-wick-is-revealed-as-the-whistleblower-behind-the-united-kingdom-parliament-s-expenses-controversy.md) _Context: United Kingdom, expenses controversy_
+2. [ The United Kingdom Home Office is restructured with a new Ministry of Justice being formed to handle prisons, probation and the sentencing of offenders. ](/news/2007/05/9/the-united-kingdom-home-office-is-restructured-with-a-new-ministry-of-justice-being-formed-to-handle-prisons-probation-and-the-sentencing.md) _Context: Ministry of Justice, United Kingdom_
+3. [The United Kingdom, on Friday, did not derive energy from any coal-fired source, the first continuous 24-hour, coal-free period for the UK since use of the fossil fuel began. Coal accounted for just 9 percent of the electricity generated last year. ](/news/2017/04/22/the-united-kingdom-on-friday-did-not-derive-energy-from-any-coal-fired-source-the-first-continuous-24-hour-coal-free-period-for-the-uk-s.md) _Context: United Kingdom_
+4. [British sports retailer Sports Direct agreed to acquire the American retail chains Bob's Stores and Eastern Mountain Sports for $101 million out of bankruptcy. ](/news/2017/04/21/british-sports-retailer-sports-direct-agreed-to-acquire-the-american-retail-chains-bob-s-stores-and-eastern-mountain-sports-for-101-million.md) _Context: United Kingdom_
+5. [A second parchment manuscript of the United States Declaration of Independence is discovered by Harvard University researchers, in a record office in Chichester, United Kingdom. ](/news/2017/04/21/a-second-parchment-manuscript-of-the-united-states-declaration-of-independence-is-discovered-by-harvard-university-researchers-in-a-record.md) _Context: United Kingdom_
+6. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: United Kingdom_
+7. [The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. ](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by-522-votes-to-13-a-snap-general-election-to-be-held-on-june-8.md) _Context: United Kingdom_
+8. [British Prime Minster Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minster-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-major.md) _Context: United Kingdom_
+9. [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md) _Context: United Kingdom_
+10. [The United Kingdom-based Jaeger fashion chain collapses into administration after failing to find a buyer. ](/news/2017/04/10/the-united-kingdom-based-jaeger-fashion-chain-collapses-into-administration-after-failing-to-find-a-buyer.md) _Context: United Kingdom_

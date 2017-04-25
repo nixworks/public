@@ -1,0 +1,23 @@
+### [2005-07-26](/news/2005/07/26/index.md)
+
+#  Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4716701.stm)
+
+### Related:
+
+1. [ Argentine prosecutors formally charge the Iranian government and the Lebanese militia Hezbollah over the 1994 bombing of a Jewish centre which killed 85 people. ](/news/2006/10/25/argentine-prosecutors-formally-charge-the-iranian-government-and-the-lebanese-militia-hezbollah-over-the-1994-bombing-of-a-jewish-centre-wh.md) _Context: Lebanon, militia_
+2. [ Time magazine cites United States military intelligence documents that an Iranian-backed Iraqi insurgent network, led by Abu Mustafa al-Sheibani, had introduced a bomb design based on Iranian-backed Lebanese militia Hizbollah plans in last eight months. ](/news/2005/08/14/time-magazine-cites-united-states-military-intelligence-documents-that-an-iranian-backed-iraqi-insurgent-network-led-by-abu-mustafa-al-she.md) _Context: Lebanon, militia_
+3. [ In Lebanon, Samir Geagea, former Maronite militia chief, leaves prison ](/news/2005/07/25/in-lebanon-samir-geagea-former-maronite-militia-chief-leaves-prison.md) _Context: Lebanon, Samir Geagea_
+4. [ In Lebanon, the Parliament grants amnesty to the imprisoned Lebanese Forces leader Samir Geagea. Geagea was arrested since 1994. ](/news/2005/07/18/in-lebanon-the-parliament-grants-amnesty-to-the-imprisoned-lebanese-forces-leader-samir-geagea-geagea-was-arrested-since-1994.md) _Context: Lebanon, Samir Geagea_
+5. [The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. ](/news/2017/03/17/the-israeli-air-force-launches-several-airstrikes-on-targets-inside-syria-and-for-the-first-time-publicly-claims-responsibility-syrian-ai.md) _Context: Lebanon_
+6. [A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. ](/news/2016/06/27/a-suicide-bomber-attacks-the-lebanese-village-of-qaa-near-the-syrian-border-with-at-least-six-people-dead-and-13-people-injured.md) _Context: Lebanon_
+7. [ Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir. ](/news/2016/05/19/syrian-government-forces-and-allies-including-lebanese-hezbollah-fighters-retake-a-large-area-southeast-of-damascus-including-the-key-to.md) _Context: Lebanon_
+8. [The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. ](/news/2016/04/20/the-united-states-supreme-court-rules-that-almost-2-billion-in-frozen-iranian-assets-must-be-turned-over-to-american-families-of-people-kil.md) _Context: Lebanon_
+9. [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md) _Context: Lebanon_
+10. [ Australian ''60 Minutes'' reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. ](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-her-crew-are-reportedly-facing-kidnapping-charges-in-lebanon-following-a-bungled-child-re.md) _Context: Lebanon_

@@ -1,0 +1,23 @@
+### [2011-06-23](/news/2011/06/23/index.md)
+
+# The President of Indonesia Susilo Bambang Yudhoyono condemns the beheading of an Indonesian maid in Saudi Arabia and condemns the Saudi Government of breaking the "norms and manners" of international relations. 
+
+
+
+
+### Source:
+
+1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_683019.html)
+
+### Related:
+
+1. [Australia and Indonesia sign a code of conduct to govern diplomatic ties following revelations in late 2013 that Australia's Defence Signals Directorate had tapped the phones of the President of Indonesia Susilo Bambang Yudhoyono. ](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.md) _Context: Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
+2. [2013 global surveillance disclosures:Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of  President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/2013-global-surveillance-disclosures-pindonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian.md) _Context: Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
+3. [Indonesia recalls its ambassador to Australia and will "review" Australian diplomatic positions in Jakarta following revelations that Australia had tapped the phone of the President Susilo Bambang Yudhoyono and his wife. ](/news/2013/11/18/indonesia-recalls-its-ambassador-to-australia-and-will-review-australian-diplomatic-positions-in-jakarta-following-revelations-that-austra.md) _Context: Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
+4. [An Indonesian woman is beheaded in Saudi Arabia for killing a Saudi woman. ](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.md) _Context: Indonesia, Saudi Arabia, beheading_
+5. [Indonesian President Susilo Bambang Yudhoyono arrives in Canberra for his "symbolic" three-day visit to Australia. ](/news/2010/03/9/indonesian-president-susilo-bambang-yudhoyono-arrives-in-canberra-for-his-symbolic-three-day-visit-to-australia.md) _Context: Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
+6. [ The President of Indonesia, Susilo Bambang Yudhoyono, is declared as the winner of the Indonesian presidential election. ](/news/2009/07/24/the-president-of-indonesia-susilo-bambang-yudhoyono-is-declared-as-the-winner-of-the-indonesian-presidential-election.md) _Context: Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
+7. [ The President of the United States George W. Bush visits Indonesia to meet with the President of Indonesia Susilo Bambang Yudhoyono with large crowds protesting US foreign policy. ](/news/2006/11/20/the-president-of-the-united-states-george-w-bush-visits-indonesia-to-meet-with-the-president-of-indonesia-susilo-bambang-yudhoyono-with-la.md) _Context: Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
+8. [ Memorial services around the world, including one in Banda Aceh, Indonesia, attended by President Susilo Bambang Yudhoyono, mark the first anniversary of the 2004 Indian Ocean earthquake and tsunami which saw 275,000 people killed or left missing. ](/news/2005/12/26/memorial-services-around-the-world-including-one-in-banda-aceh-indonesia-attended-by-president-susilo-bambang-yudhoyono-mark-the-first.md) _Context: Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
+9. [ Guantnamo Bay Qur'an desecration allegations: United States Secretary of State Condoleezza Rice promises "prompt action" if investigations prove that the Quran was desecrated by U.S. soldiers in Guantnamo Bay, Cuba. The Saudi Arabian government voices its "deep indignation" and has demanded a quick investigation and punishment for the perpetrators if found to be true. Seven people have died in Afghanistan following Anti-American protests in the wake of the allegations. There have also been protests in Pakistan and Indonesia. ](/news/2005/05/13/guantanamo-bay-qur-an-desecration-allegations-united-states-secretary-of-state-condoleezza-rice-promises-prompt-action-if-investigations.md) _Context: Indonesia, Saudi Arabia, government_
+10. [A suicide bomber attacks a police station in Solo, Indonesia, killing himself and injuring a  police officer. Solo is the birthplace of President Joko Widodo. ](/news/2016/07/5/a-suicide-bomber-attacks-a-police-station-in-solo-indonesia-killing-himself-and-injuring-a-police-officer-solo-is-the-birthplace-of-pres.md) _Context: Indonesia, President of Indonesia_

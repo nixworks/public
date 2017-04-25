@@ -1,0 +1,23 @@
+### [2010-05-30](/news/2010/05/30/index.md)
+
+# It is discovered that a British businessman was among the 93 people killed in the twin mosque attack in Pakistan on Friday. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/uk/10195474.stm)
+
+### Related:
+
+1. [At least 5 people are killed in an attack on the Lahore hospital in Pakistan where many of the injured in Friday's attack on members of the Ahmadis sect, as well as one of the captured militants, are undergoing treatment. ](/news/2010/06/1/at-least-5-people-are-killed-in-an-attack-on-the-lahore-hospital-in-pakistan-where-many-of-the-injured-in-friday-s-attack-on-members-of-the.md) _Context: Friday's attack, Pakistan_
+2. [The leaders of Pakistan's Ahmadiyya religious minority ask the government to provide better protection for the group, as they bury those killed in yesterday's double mosque attack in Lahore. ](/news/2010/05/29/the-leaders-of-pakistan-s-ahmadiyya-religious-minority-ask-the-government-to-provide-better-protection-for-the-group-as-they-bury-those-kil.md) _Context: Friday's attack, Pakistan_
+3. [Assailants attack two mosques in Lahore, Pakistan, killing at least 80 and injuring 50 more. ](/news/2010/05/28/assailants-attack-two-mosques-in-lahore-pakistan-killing-at-least-80-and-injuring-50-more.md) _Context: Friday's attack, Pakistan_
+4. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Pakistan_
+5. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Pakistan_
+6. [An attack occurs at a Sufi shrine near Sargodha, Pakistan, killing more than 20 people. Authorities arrest a main suspect and several others. ](/news/2017/04/2/an-attack-occurs-at-a-sufi-shrine-near-sargodha-pakistan-killing-more-than-20-people-authorities-arrest-a-main-suspect-and-several-others.md) _Context: Pakistan_
+7. [ Pakistan sentences former Indian Navy officer Kulbhushan Yadav to death for espionage and sabotage. ](/news/2017/04/10/pakistan-sentences-former-indian-navy-officer-kulbhushan-yadav-to-death-for-espionage-and-sabotage.md) _Context: Pakistan_
+8. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Pakistan_
+9. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Pakistan_
+10. [Heavy snow and avalanches kill dozens of people in Afghanistan and northern Pakistan, while Kabul International Airport is closed due to snow and ice on the runway. ](/news/2017/02/5/heavy-snow-and-avalanches-kill-dozens-of-people-in-afghanistan-and-northern-pakistan-while-kabul-international-airport-is-closed-due-to-sno.md) _Context: Pakistan_

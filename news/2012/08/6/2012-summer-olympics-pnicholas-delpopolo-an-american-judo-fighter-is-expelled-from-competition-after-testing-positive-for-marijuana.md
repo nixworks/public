@@ -1,0 +1,23 @@
+### [2012-08-6](/news/2012/08/6/index.md)
+
+# 2012 Summer Olympics:Nicholas Delpopolo, an American Judo fighter, is expelled from competition after testing positive for marijuana. 
+
+
+
+
+### Source:
+
+1. [The Huffington Post](http://www.huffingtonpost.com/2012/08/06/nicholas-delpopolo-olympics-judo-pot-doping_n_1746758.html)
+
+### Related:
+
+1. [Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marijuana-in-public-place.md) _Context: marijuana_
+2. [Ten Olympic weightlifters fail a drug test in a reanalysis of samples from the 2012 Summer Olympics. Among them are four Kazakh gold medalists: Ilya Ilyin, Zulfiya Chinshanlo, Svetlana Podobedova and Maiya Maneza. The other athletes represent Azerbaijan, Belarus, Russia, and  Ukraine. All ten lifters are provisionally suspended by the International Weightlifting Federation and are expected to be stripped of their titles. ](/news/2016/06/16/ten-olympic-weightlifters-fail-a-drug-test-in-a-reanalysis-of-samples-from-the-2012-summer-olympics-among-them-are-four-kazakh-gold-medalis.md) _Context: 2012 Summer Olympics_
+3. [Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring-of-2017.md) _Context: marijuana_
+4. [Six Russian athletes are to be stripped of the medals they won at World and European championships in 2010 and 2011 and the 2012 Summer Olympics following a ruling by the Court of Arbitration for Sport. The athletes affected are Sergei Balukin, Valeriy Borchin, Vladimir Kanaikin, Olga Kaniskina, Yulia Zaripova and Sergey Kirdyapkin. The ruling means Kirdyapkin is set to lose his gold medal won at the 2012 Olympics. ](/news/2016/03/24/six-russian-athletes-are-to-be-stripped-of-the-medals-they-won-at-world-and-european-championships-in-2010-and-2011-and-the-2012-summer-olym.md) _Context: 2012 Summer Olympics_
+5. [The same day the U.S. Drug Enforcement Administration announces it is easing restrictions on medical research involving cannabidiol (CBD), a key component in marijuana, NYU Langone Medical Center researchers report a clinical trial suggests a pill containing CBD may reduce seizures for children and young adults with epilepsy. ](/news/2015/12/24/the-same-day-the-u-s-drug-enforcement-administration-announces-it-is-easing-restrictions-on-medical-research-involving-cannabidiol-cbd-a.md) _Context: marijuana_
+6. [A World Anti-Doping Agency investigation into a Russian doping scandal recommends the suspension of Russian athletes from international competition and lifetime bans for five athletes, four coaches and an administrator. Among the athletes are London Olympic medalists Mariya Savinova-Farnosova and Ekaterina Poistogova. ](/news/2015/11/9/a-world-anti-doping-agency-investigation-into-a-russian-doping-scandal-recommends-the-suspension-of-russian-athletes-from-international-comp.md) _Context: 2012 Summer Olympics_
+7. [The Mexican Supreme Court, in a 4-1 decision, rules that people have the right to grow and distribute marijuana for their personal use. The decision challenges the country's current substance abuse laws. ''Fox News Latino'' and ''The New York Times'' point out the ruling only covers the plaintiffs in one case,  a group that wants to form a "Pot Club." A precedent will be established if the court approves five similar petitions. ](/news/2015/11/4/the-mexican-supreme-court-in-a-4-1-decision-rules-that-people-have-the-right-to-grow-and-distribute-marijuana-for-their-personal-use-the.md) _Context: marijuana_
+8. [Recreational marijuana stores open in Colorado. ](/news/2014/01/1/recreational-marijuana-stores-open-in-colorado.md) _Context: marijuana_
+9. [With governor Peter Shumlin signing the law, Vermont becomes the 17th state to decriminalize the possession of small amounts of cannabis. ](/news/2013/06/8/with-governor-peter-shumlin-signing-the-law-vermont-becomes-the-17th-state-to-decriminalize-the-possession-of-small-amounts-of-cannabis.md) _Context: marijuana_
+10. [South African amputee sprint runner Oscar Pistorius, who competed in the 2012 Summer Olympics, is charged with the murder of his girlfriend, Reeva Steenkamp, who was shot dead at Pistorius's home in Pretoria. ](/news/2013/02/14/south-african-amputee-sprint-runner-oscar-pistorius-who-competed-in-the-2012-summer-olympics-is-charged-with-the-murder-of-his-girlfriend.md) _Context: 2012 Summer Olympics_

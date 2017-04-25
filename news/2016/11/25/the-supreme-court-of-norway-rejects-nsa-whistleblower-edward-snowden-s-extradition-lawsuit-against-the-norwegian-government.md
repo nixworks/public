@@ -1,0 +1,23 @@
+### [2016-11-25](/news/2016/11/25/index.md)
+
+# The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-usa-security-snowden-lawsuit-idUSKBN13K1TR?il=0)
+
+### Related:
+
+1. [The U.S. House Intelligence Committee releases a summary of its two-year investigation into former NSA contractor Edward Snowden which downplays his alleged status as a whistleblower while acknowledging "tremendous damage to national security" as a result of the classified documents he stole. ](/news/2016/09/15/the-u-s-house-intelligence-committee-releases-a-summary-of-its-two-year-investigation-into-former-nsa-contractor-edward-snowden-which-downp.md) _Context: Edward Snowden, National Security Agency_
+2. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _Context: Edward Snowden, National Security Agency_
+3. [The ''Washington Post'' and ''The Guardian'' newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security.md) _Context: Edward Snowden, National Security Agency_
+4. [Edward Snowden offers Brazil information over the NSA spying of its citizens. ](/news/2013/12/17/edward-snowden-offers-brazil-information-over-the-nsa-spying-of-its-citizens.md) _Context: Edward Snowden, National Security Agency_
+5. [An amnesty deal is being floated by the National Security Agency for the leaker Edward Snowden. ](/news/2013/12/16/an-amnesty-deal-is-being-floated-by-the-national-security-agency-for-the-leaker-edward-snowden.md) _Context: Edward Snowden, National Security Agency_
+6. [American National Security Agency whistleblower Edward Snowden is granted a one-year temporary political asylum in Russia and leaves Moscow's Sheremetyevo Airport. ](/news/2013/08/1/american-national-security-agency-whistleblower-edward-snowden-is-granted-a-one-year-temporary-political-asylum-in-russia-and-leaves-moscow.md) _Context: Edward Snowden, National Security Agency_
+7. [A petition about pardoning former U.S. National Security Agency contractor  Edward Snowden reaches 100,000 signatures. ](/news/2013/06/22/a-petition-about-pardoning-former-u-s-national-security-agency-contractor-edward-snowden-reaches-100-000-signatures.md) _Context: Edward Snowden, National Security Agency_
+8. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: Norway_
+9. [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an  offshore prospect,  in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-th.md) _Context: Norway_
+10. [The Shadow Brokers group releases files allegedly from the National Security Agency which indicate efforts to monitor financial transactions made through the Society for Worldwide Interbank Financial Telecommunication. ](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.md) _Context: National Security Agency_

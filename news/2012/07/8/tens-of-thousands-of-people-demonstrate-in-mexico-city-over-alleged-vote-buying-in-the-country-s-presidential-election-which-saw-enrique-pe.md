@@ -1,0 +1,23 @@
+### [2012-07-8](/news/2012/07/8/index.md)
+
+# Tens of thousands of people demonstrate in Mexico City over alleged vote buying in the country's presidential election, which saw Enrique Pena Nieto elected. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/world/2012/jul/08/mexicans-protest-pena-nieto-election?newsfeed=true)
+
+### Related:
+
+1. [Luis Videgaray Caso resigns as Mexico's finance minister amid fallout over President Enrique Pena Nieto's controversial meeting with U.S. presidential candidate Donald Trump in Mexico City. Videgaray is revealed to have been the main advocate of arranging the meeting. ](/news/2016/09/7/luis-videgaray-caso-resigns-as-mexico-s-finance-minister-amid-fallout-over-president-enrique-pea-a-nieto-s-controversial-meeting-with-u-s-p.md) _Context: Enrique Peña Nieto, Mexico City_
+2. [Mexico-United States relations U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/mexicoaunited-states-relations-pu-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexi.md) _Context: Enrique Peña Nieto, Mexico City_
+3. [After a partial vote recount, Enrique Pena Nieto is confirmed as the winner of the 2012 Mexican presidential election ](/news/2012/07/6/after-a-partial-vote-recount-enrique-pea-a-nieto-is-confirmed-as-the-winner-of-the-2012-mexican-presidential-election.md) _Context: Enrique Peña Nieto, Mexican presidential elections_
+4. [In Mexico, the PRD candidate, Andres Manuel Lopez Obrador, accuses the Institutional Revolutionary Party (PRI) of using illicit funds and laundering money to finance the campaign of Enrique Pena Nieto, the president-elect in the recent presidential elections. The PRI denies the claims and retorts that Lopez Obrador is acting out of desperation and irrationality. ](/news/2012/07/18/in-mexico-the-prd-candidate-andra-c-s-manuel-la3pez-obrador-accuses-the-institutional-revolutionary-party-pri-of-using-illicit-funds-and.md) _Context: Enrique Peña Nieto, Mexican presidential elections_
+5. [Mexico's presidential runner-up and PRD candidate, Andres Manuel Lopez Obrador, files a lawsuit against Enrique Pena Nieto for alleged vote-buyings, biased media coverage, and manipulated opinion polls in the recent Mexican elections. ](/news/2012/07/13/mexico-s-presidential-runner-up-and-prd-candidate-andra-c-s-manuel-la3pez-obrador-files-a-lawsuit-against-enrique-pea-a-nieto-for-alleged-vo.md) _Context: Enrique Peña Nieto, Mexican presidential elections_
+6. [Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-president-donald-trump-citing-his-plan-to-build.md) _Context: Enrique Peña Nieto_
+7. [Mexican President Enrique Pena Nieto rejects the idea, announced by U.S. President Donald Trump, that Mexico would pay for any border wall between the United States and his country. ](/news/2017/01/25/mexican-president-enrique-pea-a-nieto-rejects-the-idea-announced-by-u-s-president-donald-trump-that-mexico-would-pay-for-any-border-wall.md) _Context: Enrique Peña Nieto_
+8. [An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29-people-and-injures-at-least-70-others-pyrote.md) _Context: Mexico City_
+9. [North American Leaders' Summit aka the ''Three Amigos Summit''Takes place in Ottawa, Canada as US President Barack Obama and Mexican President Enrique Pena Nieto meet with Canadian Prime Minister Justin Trudeau. President Obama later gives a special address to the Parliament of Canada. ](/news/2016/06/29/north-american-leaders-summit-aka-the-three-amigos-summit-ptakes-place-in-ottawa-canada-as-us-president-barack-obama-and-mexican-presid.md) _Context: Enrique Peña Nieto_
+10. [Mexico City authorities declare a pollution alert after smog rose to 1.5 times acceptable limits the day before implementation of the City's new, temporary air quality program that will  keep one-fifth of the city's cars at home every weekday. ](/news/2016/04/4/mexico-city-authorities-declare-a-pollution-alert-after-smog-rose-to-1-5-times-acceptable-limits-the-day-before-implementation-of-the-city-s.md) _Context: Mexico City_

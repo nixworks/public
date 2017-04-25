@@ -1,0 +1,23 @@
+### [2015-05-19](/news/2015/05/19/index.md)
+
+# The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-africa-32795149)
+
+### Related:
+
+1. [The East African Community calls on Burundi to postpone its presidential election due to unrest sparked by the decision by President Pierre Nkurunziza to run for a third term. ](/news/2015/05/31/the-east-african-community-calls-on-burundi-to-postpone-its-presidential-election-due-to-unrest-sparked-by-the-decision-by-president-pierre.md) _Context: 2015 Burundian unrest, Burundian presidential election, 2015, Pierre Nkurunziza, Presidents_
+2. [Voters in Burundi go to the polls for a presidential election amidst gunfire and violence with President Pierre Nkurunziza seeking a third term and opposition parties boycotting the election. At least two people have been killed in election violence. ](/news/2015/07/21/voters-in-burundi-go-to-the-polls-for-a-presidential-election-amidst-gunfire-and-violence-with-president-pierre-nkurunziza-seeking-a-third-t.md) _Context: Burundian presidential election, 2015, Pierre Nkurunziza, Presidents_
+3. [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md) _Context: 2015 Burundian unrest, Pierre Nkurunziza, Presidents_
+4. [After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister-of-defence.md) _Context: 2015 Burundian unrest, Pierre Nkurunziza, failed coup_
+5. [Burundi's President, Pierre Nkurunziza, says Burundians will fight against any African Union peacekeepers sent into the country in response to the ongoing crisis, "everyone has to respect Burundian borders," Nkurunziza said. The African Union said this earlier this month it was ready to send 5,000 peacekeepers to protect civilians caught up in months of violence. ](/news/2015/12/30/burundi-s-president-pierre-nkurunziza-says-burundians-will-fight-against-any-african-union-peacekeepers-sent-into-the-country-in-response.md) _Context: 2015 Burundian unrest, Pierre Nkurunziza_
+6. [Burundi's army repels attacks on military barracks in the capital, Bujumbura, in the worst violence since this spring's unrest that developed after President Pierre Nkurunziza decided to seek a third term in office. According to an army spokesman, at least 12 gunmen are killed and 20 captured. Reports that at least five soldiers have been killed are denied by the army, which says the soldiers were wounded. Two southern sites, a police station and an army camp, were also attacked, with no report on casualties. Kenya Airways and RwandAir cancels its flights to Bujumbura. ](/news/2015/12/11/burundias-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spring-s-unrest-that-develo.md) _Context: 2015 Burundian unrest, Pierre Nkurunziza_
+7. [Pierre Nkurunziza is sworn in for a third term as President of Burundi. ](/news/2015/08/20/pierre-nkurunziza-is-sworn-in-for-a-third-term-as-president-of-burundi.md) _Context: Pierre Nkurunziza, Presidents_
+8. [The President of Burundi, Pierre Nkurunziza, is elected for a third consecutive term. ](/news/2015/07/24/the-president-of-burundi-pierre-nkurunziza-is-elected-for-a-third-consecutive-term.md) _Context: Burundian presidential election, 2015, Pierre Nkurunziza_
+9. [The President of Burundi Pierre Nkurunziza claims victory for his National Council for the Defense of Democracy - Forces for the Defense of Democracy coalition despite the fact that opposition parties did not contest the election. ](/news/2015/07/1/the-president-of-burundi-pierre-nkurunziza-claims-victory-for-his-national-council-for-the-defense-of-democracy-a-forces-for-the-defense-o.md) _Context: Pierre Nkurunziza, Presidents_
+10. [The President of Burundi Pierre Nkurunziza officially registers to run for a third time sparking violent protests in the Nyakabiga district of Bujumbura. ](/news/2015/05/8/the-president-of-burundi-pierre-nkurunziza-officially-registers-to-run-for-a-third-time-sparking-violent-protests-in-the-nyakabiga-district.md) _Context: Pierre Nkurunziza, Presidents_

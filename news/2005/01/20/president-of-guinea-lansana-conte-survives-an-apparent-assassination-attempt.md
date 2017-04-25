@@ -1,0 +1,24 @@
+### [2005-01-20](/news/2005/01/20/index.md)
+
+#  President of Guinea Lansana Cont survives an apparent assassination attempt. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+
+### Source:
+
+1. [IAfrica](http://iafrica.com/news/worldnews/404918.htm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7374474)
+
+### Related:
+
+1. [ In Guinea, president Lansana Cont sacks three senior ministers, security minister Moussa Sampil, foreign affairs minister Mamadi Cond and mines minister Alpha Mady Soumah, to replace them with the members of his own Party of Unity and Progress. Journalists and students welcome sacking of Sampil because of his handling of an alleged assassination attempt against the president in January.  ](/news/2005/03/9/in-guinea-president-lansana-conte-sacks-three-senior-ministers-security-minister-moussa-sampil-foreign-affairs-minister-mamadi-conde-and.md) _Context: Guinea, Lansana Conté, assassinated_
+2. [Ousmane Cont, the eldest son of Guinea's dead leader Lansana Cont, is released from prison after 16 months. ](/news/2010/07/16/ousmane-conte-the-eldest-son-of-guinea-s-dead-leader-lansana-conte-is-released-from-prison-after-16-months.md) _Context: Guinea, Lansana Conté_
+3. [ 2007 Guinean general strike: Unions in Guinea resume a general strike to protest the President of Guinea Lansana Conte appointing Eugene Camara as Prime Minister of Guinea. At least 17 people have died in protests over the weekend. The protest started on the morning of the 12th with a march from the centre of Conakry to the palace. Widespread problems with armed bandits taking advantage of the insecurity have also been reported. Lansana Conte has now declared a state of emergency. ](/news/2007/02/12/2007-guinean-general-strike-unions-in-guinea-resume-a-general-strike-to-protest-the-president-of-guinea-lansana-conta-c-appointing-euga-ne.md) _Context: Guinea, President of Guinea_
+4. [ United Nations chief prosecutor of Sierra Leone's war crimes court David Crane claims that Charles Taylor, former president of Liberia, is still plotting to kill Guinean leader Lansana Cont. Cont has been in a hospital since he survived an assassination attempt in January.](/news/2005/05/3/united-nations-chief-prosecutor-of-sierra-leone-s-war-crimes-court-david-crane-claims-that-charles-taylor-former-president-of-liberia-is.md) _Context: Guinea, Lansana Conté_
+5. [ United Nations chief prosecutor of Sierra Leone's war crimes court David Crane (prosecutor) claims that Charles Taylor, former president of Liberia, is still plotting to kill Guinean leader Lansana Cont. Cont has been in a hospital since he survived an assassination attempt in January. ](/news/2005/05/2/united-nations-chief-prosecutor-of-sierra-leone-s-war-crimes-court-david-crane-prosecutor-claims-that-charles-taylor-former-president-of.md) _Context: Guinea, Lansana Conté_
+6. [Tens of thousands of people, including politicians and activists, gather for the funeral of Ko Ni, Myanmar leader Aung San Suu Kyi's longtime adviser,  who was assassinated yesterday as he walked out of the Yangon International Airport. ](/news/2017/01/30/tens-of-thousands-of-people-including-politicians-and-activists-gather-for-the-funeral-of-ko-ni-myanmar-leader-aung-san-suu-kyi-s-longtim.md) _Context: assassinated_
+7. [Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md) _Context: Guinea_
+8. [The Vice President of Afghanistan, Abdul Rashid Dostum, survives yet another assassination attempt. ](/news/2016/10/17/the-vice-president-of-afghanistan-abdul-rashid-dostum-survives-yet-another-assassination-attempt.md) _Context: assassinated_
+9. [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md) _Context: assassinated_
+10. [Ansar Dine, a militant Islamist group linked to Al-Qaeda in the Islamic Maghreb claims responsibility for yesterday's attack on a United Nations base in Kidal, northern Mali, that killed six UN peacekeepers, all from neighboring Guinea. ](/news/2016/02/13/ansar-dine-a-militant-islamist-group-linked-to-al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-yesterday-s-attack-on-a-united-nat.md) _Context: Guinea_

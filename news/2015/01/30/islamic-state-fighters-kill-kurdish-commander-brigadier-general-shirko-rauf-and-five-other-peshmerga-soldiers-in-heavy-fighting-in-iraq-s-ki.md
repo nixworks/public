@@ -1,0 +1,23 @@
+### [2015-01-30](/news/2015/01/30/index.md)
+
+# Islamic State fighters kill Kurdish commander Brigadier General Shirko Rauf and five other peshmerga soldiers in heavy fighting in Iraq's Kirkuk province. 
+
+Brigadier General Shirko Rauf and five other peshmerga soldiers killed during clashes in northern Iraqi city
+
+
+### Source:
+
+1. [AFP via ''The Guardian](http://www.theguardian.com/world/2015/jan/30/kurdish-commander-killed-islamic-state-attack-kirkuk)
+
+### Related:
+
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq, Kurdish, Peshmerga_
+2. [Kurdish forces, backed by U.S. airstrikes, capture several villages in an offensive to retake the Iraqi town of Sinjar from Islamic State militants, who overran it more than a year ago. The operation aims to cordon off the town, take control of Islamic State supply routes, and establish a buffer zone to protect the town from artillery, according to the Kurdish national security council. ](/news/2015/11/12/kurdish-forces-backed-by-u-s-airstrikes-capture-several-villages-in-an-offensive-to-retake-the-iraqi-town-of-sinjar-from-islamic-state-mi.md) _Context: Iraq, Islamic State of Iraq and the Levant, Peshmerga_
+3. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq, Islamic State of Iraq and the Levant_
+4. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq, Islamic State of Iraq and the Levant_
+5. [Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. ](/news/2017/03/18/thousands-of-iraqis-flee-western-mosul-as-the-battle-between-iraqi-and-allied-forces-and-isil-militants-escalates-in-the-densely-populated-o.md) _Context: Iraq, Islamic State of Iraq and the Levant_
+6. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: Iraq, Islamic State of Iraq and the Levant_
+7. [Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-militants.md) _Context: Iraq, Islamic State of Iraq and the Levant_
+8. [Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operations-against-isil-in-iraq-and-syria-fr.md) _Context: Iraq, Islamic State of Iraq and the Levant_
+9. [At least 80 Shia pilgrims are killed in a truck bomb attack in Iraq. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/24/at-least-80-shia-pilgrims-are-killed-in-a-truck-bomb-attack-in-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Iraq, Islamic State of Iraq and the Levant_
+10. [Turkish jets hit Kurdish-led Syrian Democratic Forces (SDF) militia with 26 airstrikes in three recently-captured-from-ISIL villages west of al-Bab and northeast of Aleppo. The Turkish General Staff says between 160 and 200 have been killed, while the Syrian Observatory for Human Rights reports 11 dead and dozens of people wounded. ](/news/2016/10/20/turkish-jets-hit-kurdish-led-syrian-democratic-forces-sdf-militia-with-26-airstrikes-in-three-recently-captured-from-isil-villages-west-of.md) _Context: Islamic State of Iraq and the Levant, Kurdish_

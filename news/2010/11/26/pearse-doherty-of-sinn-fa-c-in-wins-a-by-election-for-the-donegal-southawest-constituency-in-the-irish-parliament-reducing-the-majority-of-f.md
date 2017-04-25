@@ -1,0 +1,23 @@
+### [2010-11-26](/news/2010/11/26/index.md)
+
+# Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. 
+
+Sinn Fein candidate Pearse Doherty is elected to the Irish parliament in the wake of the EU bail-out.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11843901)
+
+### Related:
+
+1. [Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail,  as he forms the country's  government. Sinn Fein says it is not interested in forming a coalition government with Kenny's  Fine Gael party. ](/news/2016/03/1/prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-engage-with-other-parties-groups.md) _Context: Fianna Fáil, Sinn Féin_
+2. [Ireland's High Court refuses an application by Sinn Fein's Pearse Doherty against the Referendum Commission's statements on the European Stability Mechanism, as voting continues on offshore islands in the referendum on the European Fiscal Compact. ](/news/2012/05/30/ireland-s-high-court-refuses-an-application-by-sinn-fa-c-in-s-pearse-doherty-against-the-referendum-commission-s-statements-on-the-european-st.md) _Context: Pearse Doherty, Sinn Féin_
+3. [Opposition parties in Ireland are to hold crisis talks to bring down the Brian Cowen-led government after the Green Party pulled out of government yesterday; Fianna Fail no longer has a leader and it no longer has a coalition partner. ](/news/2011/01/24/opposition-parties-in-ireland-are-to-hold-crisis-talks-to-bring-down-the-brian-cowen-led-government-after-the-green-party-pulled-out-of-gove.md) _Context: Fianna Fáil, Green Party_
+4. [Bertie Ahern, the former taoiseach who led the stricken Fianna Fail political party from 1994 until 2008, announces he is to resign from Dail Eireann at the forthcoming general election. ](/news/2010/12/30/bertie-ahern-the-former-taoiseach-who-led-the-stricken-fianna-fa-il-political-party-from-1994-until-2008-announces-he-is-to-resign-from-da.md) _Context: Dáil Éireann, Fianna Fáil_
+5. [The leaders of Ireland's two main political parties, Fianna Fail and Fine Gael, come under fire. Irish Taoiseach Brian Cowen faces a motion of no confidence in Dail Eireann, his second in just over a year. Leader of the Opposition, Enda Kenny, who sacked his deputy leader yesterday to prevent a potential coup, faces further revolt from his party as nine more members of his frontbench call on him to resign. ](/news/2010/06/15/the-leaders-of-ireland-s-two-main-political-parties-fianna-fa-il-and-fine-gael-come-under-fire-irish-taoiseach-brian-cowen-faces-a-motion.md) _Context: Dáil Éireann, Fianna Fáil_
+6. [ Ireland's Green Party votes by 84% to endorse a new Programme for Government with government partners Fianna Fail.](/news/2009/10/10/ireland-s-green-party-votes-by-84-to-endorse-a-new-programme-for-government-with-government-partners-fianna-fa-il.md) _Context: Fianna Fáil, Green Party_
+7. [The deadline for the Government formation in Northern Ireland has expired following the refusal of the Democratic Unionist Party and  Sinn Fein to enter a power sharing agreement with each other, with both parties blaming each other for the impasse. ](/news/2017/03/27/the-deadline-for-the-government-formation-in-northern-ireland-has-expired-following-the-refusal-of-the-democratic-unionist-party-and-sinn-f.md) _Context: Sinn Féin_
+8. [Martin McGuinness of Sinn Fein resigns as the NI deputy first minister in protest of handling by the Democratic Unionist Party of a failed energy scheme that cost Northern Irish taxpayers PS490 million. His decision will likely lead to a snap election. ](/news/2017/01/9/martin-mcguinness-of-sinn-fa-c-in-resigns-as-the-ni-deputy-first-minister-in-protest-of-handling-by-the-democratic-unionist-party-of-a-failed.md) _Context: Sinn Féin_
+9. [Sinn Fein politician Martin McGuinness retires from politics for health reasons. ](/news/2017/01/19/sinn-fa-c-in-politician-martin-mcguinness-retires-from-politics-for-health-reasons.md) _Context: Sinn Féin_
+10. [The Secretary of State for Northern Ireland James Brokenshire announces a snap election is to take place on March 2 to elect members to the Northern Ireland Assembly after the Democratic Unionist Party (DUP) and Sinn Fein failed to agree on a power-sharing agreement. ](/news/2017/01/16/the-secretary-of-state-for-northern-ireland-james-brokenshire-announces-a-snap-election-is-to-take-place-on-march-2-to-elect-members-to-the.md) _Context: Sinn Féin_

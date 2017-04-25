@@ -1,0 +1,23 @@
+### [2012-02-14](/news/2012/02/14/index.md)
+
+# The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. 
+
+
+
+
+### Source:
+
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hkuo1PZCaqKEjQlULEfpD3Ldb76Q?docId=21a88b74cdf04dba8da5dcc35e4c2f7c)
+
+### Related:
+
+1. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Supreme Court, Venezuela_
+2. [Venezuela's Supreme Tribunal of Justice upholds the 13-year, 9-month-plus prison term of Popular Will party founder Leopoldo  Lopez  for  inciting  violence, via "subliminal messages,"  at  the   2014 anti-government protests where 43 people were killed.  Yesterday, United States President Donald Trump  met with Lopez's wife, Lilian Tintori, and called on Venezuela to release Lopez immediately.   ](/news/2017/02/16/venezuela-s-supreme-tribunal-of-justice-upholds-the-13-year-9-month-plus-prison-term-of-popular-will-party-founder-leopoldo-la3pez-for-i.md) _Context: Supreme Court, Venezuela_
+3. [Venezuela's Supreme Tribunal rules that opposition's proposed amendment to change the President's term of office from six  to four years can not be applied retroactively,  thereby ending this attempt to cut short President Nicolas Maduro's time in office. ](/news/2016/04/25/venezuela-s-supreme-tribunal-rules-that-opposition-s-proposed-amendment-to-change-the-president-s-term-of-office-from-six-to-four-years-can.md) _Context: Supreme Court, Venezuela_
+4. [Violence breaks out in in the Venezuelan city of San Cristobal between students and police after a supreme court ruling curtailed the power of the opposition-controlled National Assembly to review government appointments of Supreme Court justices. ](/news/2016/03/3/violence-breaks-out-in-in-the-venezuelan-city-of-san-crista3bal-between-students-and-police-after-a-supreme-court-ruling-curtailed-the-power.md) _Context: Supreme Court, Venezuela_
+5. [The Venezuelan Supreme Tribunal of Justice rules that the latest inauguration of President Hugo Chavez can be deferred while his recovery continues from a cancer operation. ](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.md) _Context: Supreme Court, Venezuela_
+6. [ Venezuelans go to the polls for regional elections. Allies of President Hugo Chvez win 17 of 21 governorships, but the opposition wins in the two biggest states of Miranda and Zulia as well as the mayorship of Caracas. ](/news/2008/11/23/venezuelans-go-to-the-polls-for-regional-elections-allies-of-president-hugo-chavez-win-17-of-21-governorships-but-the-opposition-wins-in.md) _Context: Venezuela, opposition_
+7. [Venezuela's Supreme Court announced it was suspending its services, citing political harassment and condemning deadly violence during a general strike by opponents of President Hugo Chvez.](/news/2002/12/10/venezuela-s-supreme-court-announced-it-was-suspending-its-services-citing-political-harassment-and-condemning-deadly-violence-during-a-gene.md) _Context: Supreme Court, Venezuela_
+8. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Venezuela_
+9. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Venezuela_
+10. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: Venezuela_

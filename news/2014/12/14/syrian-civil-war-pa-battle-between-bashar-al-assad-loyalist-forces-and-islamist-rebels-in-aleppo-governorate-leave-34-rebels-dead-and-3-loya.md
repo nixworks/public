@@ -1,0 +1,23 @@
+### [2014-12-14](/news/2014/12/14/index.md)
+
+# Syrian Civil War:A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. 
+
+
+
+
+### Source:
+
+1. [EFE via Fox News](http://latino.foxnews.com/latino/news/2014/12/14/34-islamist-rebels-die-in-combat-with-syrian-army-in-aleppo/)
+
+### Related:
+
+1. [The Syrian Observatory for Human Rights estimates that barrel bombs dropped by the Bashar al-Assad regime have killed at least 45 people in the Aleppo Governorate and injured dozens more. ](/news/2015/05/30/the-syrian-observatory-for-human-rights-estimates-that-barrel-bombs-dropped-by-the-bashar-al-assad-regime-have-killed-at-least-45-people-in.md) _Context: Aleppo Governorate, Bashar al-Assad, Syrian Civil War_
+2. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Aleppo Governorate, Syrian Civil War_
+3. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: Bashar al-Assad, Syrian Civil War_
+4. [The Syrian Army recaptures the strategic town of Tadef from ISIL, south of al-Bab, securing key transportation routes in eastern Aleppo Governorate. ](/news/2017/02/26/the-syrian-army-recaptures-the-strategic-town-of-tadef-from-isil-south-of-al-bab-securing-key-transportation-routes-in-eastern-aleppo-gove.md) _Context: Aleppo Governorate, Syrian Civil War_
+5. [The Organisation for the Prohibition of Chemical Weapons says, for the first time, that they suspect Syrian President Bashar al-Assad and other senior officials of the Syrian government are responsible for the use of chemical weapons in the conflict. ](/news/2017/01/13/the-organisation-for-the-prohibition-of-chemical-weapons-says-for-the-first-time-that-they-suspect-syrian-president-bashar-al-assad-and-ot.md) _Context: Bashar al-Assad, Syrian Civil War_
+6. [ A group of German lawyers files a criminal complaint in Berlin against Syrian President Bashar al-Assad for alleged war crimes committed by his forces and foreign allies during the Syrian Civil War. ](/news/2016/11/28/a-group-of-german-lawyers-files-a-criminal-complaint-in-berlin-against-syrian-president-bashar-al-assad-for-alleged-war-crimes-committed-by.md) _Context: Bashar al-Assad, Syrian Civil War_
+7. [The Syrian Observatory for Human Rights reports a car bomb has killed at least ten people in the city of Azaz, Aleppo Governorate. ](/news/2016/11/17/the-syrian-observatory-for-human-rights-reports-a-car-bomb-has-killed-at-least-ten-people-in-the-city-of-azaz-aleppo-governorate.md) _Context: Aleppo Governorate, Syrian Civil War_
+8. [Turkish-backed Free Syrian Army rebels seize control of the symbolic town of Dabiq, Aleppo Governorate, following clashes with ISIL militants. ](/news/2016/10/16/turkish-backed-free-syrian-army-rebels-seize-control-of-the-symbolic-town-of-dabiq-aleppo-governorate-following-clashes-with-isil-militant.md) _Context: Aleppo Governorate, Syrian Civil War_
+9. [Hours after the Syrian military declares the end of the ceasefire, an airstrike hits a convoy of United Nations OCHA aid trucks near the town of Urum al-Kubra, in the Aleppo Governorate, with the Syrian Observatory for Human Rights reporting that at least 12 people have been killed. ](/news/2016/09/19/hours-after-the-syrian-military-declares-the-end-of-the-ceasefire-an-airstrike-hits-a-convoy-of-united-nations-ocha-aid-trucks-near-the-tow.md) _Context: Aleppo Governorate, Syrian Civil War_
+10. [The Islamic State of Iraq and the Levant says its official spokesman, Abu Mohammad al-Adnani, has been killed in Syria's Aleppo Governorate. The group's statement, distributed by Amaq News Agency, did not say how al-Adnani was killed. ](/news/2016/08/30/the-islamic-state-of-iraq-and-the-levant-says-its-official-spokesman-abu-mohammad-al-adnani-has-been-killed-in-syria-s-aleppo-governorate.md) _Context: Aleppo Governorate, Syrian Civil War_

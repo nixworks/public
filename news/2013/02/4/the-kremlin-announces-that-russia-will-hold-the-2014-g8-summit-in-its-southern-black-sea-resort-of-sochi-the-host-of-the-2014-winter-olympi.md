@@ -1,0 +1,23 @@
+### [2013-02-4](/news/2013/02/4/index.md)
+
+# The Kremlin announces that Russia will hold the 2014 G8 summit in its southern Black Sea resort of Sochi, the host of the 2014 Winter Olympics. 
+
+
+
+
+### Source:
+
+1. [RIA Novosti](http://en.ria.ru/world/20130204/179223625/2014-G8-Summit-to-Be-Held-in-Sochi---Putin.html)
+
+### Related:
+
+1. [A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.md) _Context: Black Sea, Russia, Sochi_
+2. [The World Anti-Doping Agency finds that the Government of Russia was involved in an intensive doping program including at the 2014 Winter Olympics at Sochi. ](/news/2016/07/18/the-world-anti-doping-agency-finds-that-the-government-of-russia-was-involved-in-an-intensive-doping-program-including-at-the-2014-winter-ol.md) _Context: 2014 Winter Olympics, Russian Government, Sochi_
+3. [2014 Winter Olympics:The Winter Olympics in Sochi, Russia officially concludes. ](/news/2014/02/23/2014-winter-olympics-pthe-winter-olympics-in-sochi-russia-officially-concludes.md) _Context: 2014 Winter Olympics, Russia, Sochi_
+4. [2014 Winter Olympics:LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/2014-winter-olympics-plgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-un.md) _Context: 2014 Winter Olympics, Russia, Sochi_
+5. [Russia, Afghanistan, Tajikistan and Pakistan agree to step up the fight against terrorism and narcotics in a summit in the Russian Black Sea resort of Sochi. ](/news/2010/08/18/russia-afghanistan-tajikistan-and-pakistan-agree-to-step-up-the-fight-against-terrorism-and-narcotics-in-a-summit-in-the-russian-black-sea.md) _Context: Black Sea, Russia, Sochi_
+6. [International Olympic Committee (IOC) President Jacques Rogge inspects the site of the 2014 Winter Olympics in Sochi, Russia. ](/news/2010/06/7/international-olympic-committee-ioc-president-jacques-rogge-inspects-the-site-of-the-2014-winter-olympics-in-sochi-russia.md) _Context: 2014 Winter Olympics, Russia, Sochi_
+7. [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md) _Context: Russia, Russian Government_
+8. [A Russian Sukhoi Su-27 fighter jet makes an "unsafe close-range intercept" of a United States Navy P-8A Poseidon over the Black Sea in international airspace, coming within 10 feet (3.3 m) of the U.S. aircraft. ](/news/2016/09/7/a-russian-sukhoi-su-27-fighter-jet-makes-an-unsafe-close-range-intercept-of-a-united-states-navy-p-8a-poseidon-over-the-black-sea-in-inter.md) _Context: Black Sea, Russia_
+9. [The United States deploys F-22 Raptor fighter jets to Romania's RoAF 86th Air Base, near the Black Sea, in a show of strength and cooperation against Russia. "The United States and Romania enjoy a very strong partnership," said Hans G. Klemm, the United States Ambassador to Romania. ](/news/2016/04/26/the-united-states-deploys-f-22-raptor-fighter-jets-to-romania-s-roaf-86th-air-base-near-the-black-sea-in-a-show-of-strength-and-cooperatio.md) _Context: Black Sea, Russia_
+10. [Ukrainian Prime Minister Arseniy Yatsenyuk says his country is imposing a moratorium on  repayment of a $3 billion debt to Russia following Moscow's refusal to accept repayment terms already offered to other international creditors.  This means Ukraine is likely to default on the debt, which is due Sunday. ](/news/2015/12/18/ukrainian-prime-minister-arseniy-yatsenyuk-says-his-country-is-imposing-a-moratorium-on-repayment-of-a-3-billion-debt-to-russia-following.md) _Context: Russia, Russian Government_

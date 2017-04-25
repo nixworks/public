@@ -1,0 +1,23 @@
+### [2015-02-10](/news/2015/02/10/index.md)
+
+# Wang Yu-chi resigns as Taiwan's Minister of the Mainland Affairs Council responsible for maintaining relations with the People's Republic of China. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/02/10/us-taiwan-china-idUSKBN0LE07820150210)
+
+### Related:
+
+1. [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md) _Context: China's, Taiwan_
+2. [The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowledge-the-one-china-policy.md) _Context: China's, Taiwan_
+3. [The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-south-china-sea-despite-the-united-states-warnin.md) _Context: China's, Taiwan_
+4. [The People's Republic of China sends its first minister-level official to Taiwan to build ties with the self-governing island amid trade suspicions. ](/news/2014/06/25/the-people-s-republic-of-china-sends-its-first-minister-level-official-to-taiwan-to-build-ties-with-the-self-governing-island-amid-trade-sus.md) _Context: China's, Taiwan_
+5. [Typhoon Soulik kills three people in China's Guangdong province after having killed two people in Taiwan. ](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.md) _Context: China's, Taiwan_
+6. [Taiwan arrests Major General Lo Hsieh-che, head of the Taiwanese Army's electronic communications and information department, for allegedly leaking secrets to the People's Republic of China. ](/news/2011/02/8/taiwan-arrests-major-general-lo-hsieh-che-head-of-the-taiwanese-army-s-electronic-communications-and-information-department-for-allegedly.md) _Context: China's, Taiwan_
+7. [Tropical Storm Meranti is forecast to bring heavy rains to Fujian, Guangdong, Guangxi and Hainan provinces in the People's Republic of China, as well as in Taiwan. ](/news/2010/09/9/tropical-storm-meranti-is-forecast-to-bring-heavy-rains-to-fujian-guangdong-guangxi-and-hainan-provinces-in-the-people-s-republic-of-china.md) _Context: China's, Taiwan_
+8. [China and the United States officially resume military ties after a 10-month break following US arms sales to Taiwan, with the two countries emphasizing the importance of a close military dialogue. The two countries will also confer on maritime issues next month.](/news/2010/09/30/china-and-the-united-states-officially-resume-military-ties-after-a-10-month-break-following-us-arms-sales-to-taiwan-with-the-two-countries.md) _Context: China's, Taiwan_
+9. [ Taiwan's President Ma Ying-jeou calls on China to remove missiles targeting the island. ](/news/2009/10/30/taiwan-s-president-ma-ying-jeou-calls-on-china-to-remove-missiles-targeting-the-island.md) _Context: China's, Taiwan_
+10. [ The Dalai Lama begins a visit to Taiwan, amid criticism from China. ](/news/2009/08/30/the-dalai-lama-begins-a-visit-to-taiwan-amid-criticism-from-china.md) _Context: China's, Taiwan_

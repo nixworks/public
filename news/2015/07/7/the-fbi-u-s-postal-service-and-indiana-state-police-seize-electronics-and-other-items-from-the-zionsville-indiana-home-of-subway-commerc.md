@@ -1,0 +1,23 @@
+### [2015-07-7](/news/2015/07/7/index.md)
+
+# The FBI, U.S. Postal Service, and Indiana State Police seize electronics and other items from the Zionsville, Indiana home of Subway commercial spokesman Jared Fogle. The seizure comes two months after the former head of Fogle's foundation was arrested on child pornography charges. 
+
+
+
+
+### Source:
+
+1. [Indianapolis Star](http://www.indystar.com/story/news/2015/07/07/police-investigation-under-way-at-home-of-subway-pitchman-jared-fogle/29807473/)
+
+### Related:
+
+1. [Former Subway pitchman Jared Fogle reaches a plea deal with U.S. federal prosecutors in Indianapolis. Fogle will plead guilty to possessing and distributing child pornography and traveling across state lines to have sex with at least two teenage girls. Under the deal, he will serve from 5 to 121/2 years in prison, and will also pay $1.4 million in restitution to 14 victims. ](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.md) _Context: Jared Fogle, child pornography, restaurant_
+2. [A court sentences former restaurant spokesperson Jared Fogle to over 15 years imprisonment for sex with minors and the possession of child pornography. ](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.md) _Context: Jared Fogle, restaurant_
+3. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: FBI_
+4. [The Federal Bureau of Investigation becomes involved in the search for Elizabeth Thomas and the manhunt for her suspected kidnapper, Tad Cummins. ](/news/2017/03/16/the-federal-bureau-of-investigation-becomes-involved-in-the-search-for-elizabeth-thomas-and-the-manhunt-for-her-suspected-kidnapper-tad-cum.md) _Context: FBI_
+5. [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md) _Context: FBI_
+6. [The Norwegian newspaper ''Aftenposten'' accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-wara.md) _Context: child pornography_
+7. [U.S. officials are investigating the hacking of election system databases in Illinois and Arizona. The FBI alerted all  election officials nationwide about this issue earlier this month. ](/news/2016/08/29/u-s-officials-are-investigating-the-hacking-of-election-system-databases-in-illinois-and-arizona-the-fbi-alerted-all-election-officials-n.md) _Context: FBI_
+8. [ A police officer from Bethel, Alaska, will be sentenced to prison for charges related to police brutality in a 2014 case involving an intoxicated man. The charges followed an investigation by the Federal Bureau of Investigations civil rights division. The former officer, Andrew Reid, was found to have used excessive force and lying on official police reports. The victim suffered a separated shoulder and other injuries. ](/news/2016/08/24/a-police-officer-from-bethel-alaska-will-be-sentenced-to-prison-for-charges-related-to-police-brutality-in-a-2014-case-involving-an-intox.md) _Context: FBI_
+9. [''The New York Times'' reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that.md) _Context: FBI_
+10. [The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. ](/news/2016/07/5/the-fbi-recommends-with-numerous-reservations-about-her-actions-no-charges-be-filed-against-hillary-clinton-over-her-emails.md) _Context: FBI_

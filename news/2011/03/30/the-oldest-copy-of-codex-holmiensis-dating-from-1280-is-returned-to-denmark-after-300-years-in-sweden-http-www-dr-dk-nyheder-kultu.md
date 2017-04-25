@@ -1,0 +1,19 @@
+### [2011-03-30](/news/2011/03/30/index.md)
+
+# The oldest copy of ''Codex Holmiensis'', dating from 1280, is returned to Denmark after 300 years in Sweden. [http://www.dr.dk/Nyheder/Kultur/2011/03/30/103038.htm] (Danish)
+
+
+
+
+### Related:
+
+1. [In efforts to control an influx of migrants, Denmark introduces ten days of identity checks on its southern border with Germany, while Sweden introduces similar measures on the Oresund Bridge between itself and Denmark. All three countries are subject to the Schengen Agreement on the free movement of people. ](/news/2016/01/4/in-efforts-to-control-an-influx-of-migrants-denmark-introduces-ten-days-of-identity-checks-on-its-southern-border-with-germany-while-swede.md) _Context: Danish, Sweden_
+2. [Denmark reopens rail services to Germany after closing rail lines and a motorway in order to stem the flow of migrants on their way to Sweden. ](/news/2015/09/10/denmark-reopens-rail-services-to-germany-after-closing-rail-lines-and-a-motorway-in-order-to-stem-the-flow-of-migrants-on-their-way-to-swede.md) _Context: Danish, Sweden_
+3. [Norwegian Air Shuttle will ground all passengers in Norway, Denmark, and Sweden as the result of an industrial dispute. The action leaves 35,000 people stranded. ](/news/2015/03/3/norwegian-air-shuttle-will-ground-all-passengers-in-norway-denmark-and-sweden-as-the-result-of-an-industrial-dispute-the-action-leaves-35.md) _Context: Danish, Sweden_
+4. [Heavy snow hits Scandinavia disrupting transport in Norway, Sweden and Denmark. ](/news/2012/12/16/heavy-snow-hits-scandinavia-disrupting-transport-in-norway-sweden-and-denmark.md) _Context: Danish, Sweden_
+5. [Iceland opens an inquiry as it emerges that its citizens may be being spied on by the United States embassy. This follows similar investigations into possible illegal U.S. activities in Norway, Denmark, Sweden, and Finland, with possibly hundreds of Norwegians being monitored and Sweden describing the matter as "very serious". ](/news/2010/11/11/iceland-opens-an-inquiry-as-it-emerges-that-its-citizens-may-be-being-spied-on-by-the-united-states-embassy-this-follows-similar-investigat.md) _Context: Danish, Sweden_
+6. [ The Swedish national postal service will merge with its Danish counterpart, the new group will be based in Stockholm. ](/news/2008/04/1/the-swedish-national-postal-service-will-merge-with-its-danish-counterpart-the-new-group-will-be-based-in-stockholm.md) _Context: Danish, Sweden_
+7. [ The Danish, and as a consequence of sharing the same building, the Chilean and Swedish embassies in Damascus, are firebombed by protestors denouncing the publication of what they consider sacrilegious cartoons depicting the Prophet Muhammad. The Norwegian embassy is also burned. ](/news/2006/02/4/the-danish-and-as-a-consequence-of-sharing-the-same-building-the-chilean-and-swedish-embassies-in-damascus-are-firebombed-by-protestors.md) _Context: Danish, Sweden_
+8. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Sweden_
+9. [A bus carrying around 50 schoolchildren rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-schoolchildren-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three-p.md) _Context: Sweden_
+10. [The government of Sweden submits a bill to the Riksdag to reintroduce conscription this summer in response to new global security challenges. ](/news/2017/03/2/the-government-of-sweden-submits-a-bill-to-the-riksdag-to-reintroduce-conscription-this-summer-in-response-to-new-global-security-challenges.md) _Context: Sweden_

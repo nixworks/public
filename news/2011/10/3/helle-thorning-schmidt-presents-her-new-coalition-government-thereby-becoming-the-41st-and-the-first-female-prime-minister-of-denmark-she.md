@@ -1,0 +1,23 @@
+### [2011-10-3](/news/2011/10/3/index.md)
+
+# Helle Thorning-Schmidt presents her new coalition government, thereby becoming the 41st and the first female Prime Minister of Denmark. She takes over the office from Lars Lkke Rasmussen. 
+
+
+
+
+### Source:
+
+1. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/denmarks-first-female-prime-minister-presents-new-coalition-government-130963848.html)
+
+### Related:
+
+1. [The Prime Minister of Denmark Helle Thorning-Schmidt calls an election for June 18. ](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.md) _Context: Helle Thorning-Schmidt, Prime Minister of Denmark_
+2. [Denmark has a political taxes scandal involving a "big and sloppy error" by Social Democrats leader Helle Thorning-Schmidt. ](/news/2010/08/3/denmark-has-a-political-taxes-scandal-involving-a-big-and-sloppy-error-by-social-democrats-leader-helle-thorning-schmidt.md) _Context: Danish, Helle Thorning-Schmidt_
+3. [Danish Prime Minister Lars Lokke Rasmussen carries out a major cabinet reshuffling, bringing in female ministers in charge of Defence and Foreign Affairs, the first in Denmark's history. ](/news/2010/02/23/danish-prime-minister-lars-la-kke-rasmussen-carries-out-a-major-cabinet-reshuffling-bringing-in-female-ministers-in-charge-of-defence-and-f.md) _Context: Danish, Prime Minister of Denmark_
+4. [ Danish Prime Minister Lars Lkke Rasmussen replaces Connie Hedegaard in a "procedural move" as president of the U.N. climate talks, as further clashes take place around the perimeter of the summit. ](/news/2009/12/16/danish-prime-minister-lars-lokke-rasmussen-replaces-connie-hedegaard-in-a-procedural-move-as-president-of-the-u-n-climate-talks-as-furt.md) _Context: Danish, Lars Løkke Rasmussen_
+5. [ Danish Prime Minister Lars Loekke Rasmussen says a deal at a UN climate change summit in December is unlikely. ](/news/2009/10/29/danish-prime-minister-lars-loekke-rasmussen-says-a-deal-at-a-un-climate-change-summit-in-december-is-unlikely.md) _Context: Danish, Prime Minister of Denmark_
+6. [ Danish Prime Minister Anders Fogh Rasmussen will become NATO's Secretary General on August 1. ](/news/2009/04/4/danish-prime-minister-anders-fogh-rasmussen-will-become-nato-s-secretary-general-on-august-1.md) _Context: Danish, Prime Minister of Denmark_
+7. [ Danish voters go to the polls for an early parliamentary election called by Prime Minister Anders Fogh Rasmussen. ](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.md) _Context: Danish, Prime Minister of Denmark_
+8. [ In Denmark, parliamentary elections result in a continuation of the center-right coalition of Prime Minister Anders Fogh Rasmussen. ](/news/2005/02/8/in-denmark-parliamentary-elections-result-in-a-continuation-of-the-center-right-coalition-of-prime-minister-anders-fogh-rasmussen.md) _Context: Danish, Prime Minister of Denmark_
+9. [Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operations-against-isil-in-iraq-and-syria-fr.md) _Context: Danish_
+10. [Merger talks between Danish oil and gas corporations DONG Energy and Maersk have reached an impasse over valuation. ](/news/2016/12/14/merger-talks-between-danish-oil-and-gas-corporations-dong-energy-and-maersk-have-reached-an-impasse-over-valuation.md) _Context: Danish_

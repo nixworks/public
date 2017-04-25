@@ -1,0 +1,23 @@
+### [2007-06-21](/news/2007/06/21/index.md)
+
+#  The United Nations-backed Special Court for  Sierra Leone finds three leaders of the Armed Forces Revolutionary Council&mdash;Alex Tamba Brima, Brima Bazzy Kamara, and Santigie Borbor Kanu&mdash;guilty of war crimes. 
+
+
+
+
+### Source:
+
+1. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/06/20/sierra.leone.war.ap/index.html?eref=rss_world)
+
+### Related:
+
+1. [ The war crimes trial of former President of Liberia Charles G. Taylor at the UN-backed Special Court for Sierra Leone begins at The Hague. ](/news/2007/06/4/the-war-crimes-trial-of-former-president-of-liberia-charles-g-taylor-at-the-un-backed-special-court-for-sierra-leone-begins-at-the-hague.md) _Context: Special Court for Sierra Leone, United Nations, war crimes_
+2. [United Nations officials announce the creation of a new team in Geneva to investigate possible war crimes, crimes against humanity and genocide during the Syrian Civil War in order to prepare for future prosecutions of those responsible. ](/news/2017/02/16/united-nations-officials-announce-the-creation-of-a-new-team-in-geneva-to-investigate-possible-war-crimes-crimes-against-humanity-and-genoc.md) _Context: United Nations, war crimes_
+3. [The UN-backed Special Court for Sierra Leone in The Hague rejects an appeal against a conviction of former President of Liberia Charles Taylor on war crime charges. ](/news/2013/09/26/the-un-backed-special-court-for-sierra-leone-in-the-hague-rejects-an-appeal-against-a-conviction-of-former-president-of-liberia-charles-tayl.md) _Context: Special Court for Sierra Leone, United Nations_
+4. [Syrian civil war:The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/syrian-civil-war-pthe-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons.md) _Context: United Nations, war crimes_
+5. [Trial of Ratko Mladic in The Hague:Former Bosnian Serb Colonel General Ratko Mladic is scheduled to enter a plea on charges of genocide in the Srebrenica massacre during the Bosnian war at a United Nations war crimes court. ](/news/2011/07/4/trial-of-ratko-mladia-in-the-hague-pformer-bosnian-serb-colonel-general-ratko-mladia-is-scheduled-to-enter-a-plea-on-charges-of-genocide-i.md) _Context: United Nations, war crimes_
+6. [The United Nations-backed Extraordinary Chambers in the Courts of Cambodia indict four Khmer Rouge leaders for genocide, war crimes and crimes against humanity for their role in the  regime in the late 1970s, including Pol Pot's deputy Nuon Chea, former Foreign Minister Ieng Sary, Social Affairs minister Ieng Thirith and head of state Khieu Samphan. ](/news/2010/09/16/the-united-nations-backed-extraordinary-chambers-in-the-courts-of-cambodia-indict-four-khmer-rouge-leaders-for-genocide-war-crimes-and-crim.md) _Context: United Nations, war crimes_
+7. [Actress Mia Farrow gives evidence in the trial of former President of Liberia Charles Taylor before the United Nations Special Court for Sierra Leone. ](/news/2010/08/9/actress-mia-farrow-gives-evidence-in-the-trial-of-former-president-of-liberia-charles-taylor-before-the-united-nations-special-court-for-sie.md) _Context: Special Court for Sierra Leone, United Nations_
+8. [Model Naomi Campbell gives evidence that she received several "dirty looking stones" after meeting the former President of Liberia Charles Taylor in his trial at the United Nations Special Court for Sierra Leone. ](/news/2010/08/5/model-naomi-campbell-gives-evidence-that-she-received-several-dirty-looking-stones-after-meeting-the-former-president-of-liberia-charles-t.md) _Context: Special Court for Sierra Leone, United Nations_
+9. [Sri Lanka's President Mahinda Rajapakse and other prominent Sri Lankans protest international calls and the appointment of a United Nations panel to investigate war crimes allegedly committed during  the country's civil war with the Tamil Tiger separatists. ](/news/2010/06/28/sri-lanka-s-president-mahinda-rajapakse-and-other-prominent-sri-lankans-protest-international-calls-and-the-appointment-of-a-united-nations.md) _Context: United Nations, war crimes_
+10. [Prosecutors of the Special Court for Sierra Leone request United Nations judges to force supermodel Naomi Campbell to testify over allegations that she received a blood diamond from the former President of Liberia Charles Taylor. ](/news/2010/05/21/prosecutors-of-the-special-court-for-sierra-leone-request-united-nations-judges-to-force-supermodel-naomi-campbell-to-testify-over-allegatio.md) _Context: Special Court for Sierra Leone, United Nations_

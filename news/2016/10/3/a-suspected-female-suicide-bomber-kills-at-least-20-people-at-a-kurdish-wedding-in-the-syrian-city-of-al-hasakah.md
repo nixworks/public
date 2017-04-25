@@ -1,0 +1,24 @@
+### [2016-10-3](/news/2016/10/3/index.md)
+
+# A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. 
+
+A bomb killed at least 20 people at a Kurdish wedding in the northeast Syrian city of Hasaka on Monday, a Kurdish militia and a monitoring group said, while state media said the casualties had risen to at least 30 dead.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-middle-east-37547144)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-wedding-hall-idUSKCN12325X)
+
+### Related:
+
+1. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Al-Hasakah, Syria, Syrian Civil War_
+2. [Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. ](/news/2016/08/18/syrian-government-warplanes-bomb-kurdish-held-areas-of-al-hasakah-for-the-first-time-in-the-country-s-five-year-civil-war-killing-at-least.md) _Context: Al-Hasakah, Kurdish, Syrian Civil War_
+3. [The Kurdish-led Syrian Democratic Forces (SDF) take control of Al-Shaddadah and a nearby oilfield in Syria's north-east Al-Hasakah Governorate following heavy clashes with ISIL militants. ](/news/2016/02/19/the-kurdish-led-syrian-democratic-forces-sdf-take-control-of-al-shaddadah-and-a-nearby-oilfield-in-syria-s-north-east-al-hasakah-governora.md) _Context: Kurdish, Syria, Syrian Civil War_
+4. [The Syrian Observatory for Human Rights says that Turkey has shelled areas held by the Kurdish YPG militia group in Syria's Aleppo Governorate for the second successive day with two YPG fighters reportedly killed. ](/news/2016/02/14/the-syrian-observatory-for-human-rights-says-that-turkey-has-shelled-areas-held-by-the-kurdish-ypg-militia-group-in-syria-s-aleppo-governora.md) _Context: Kurdish, Syria, Syrian Civil War_
+5. [A newly formed U.S.-backed Syrian rebel alliance, Democratic Forces of Syria, launches an offensive against Islamic State forces in the northeast province of Hasaka. ](/news/2015/10/31/a-newly-formed-u-s-backed-syrian-rebel-alliance-democratic-forces-of-syria-launches-an-offensive-against-islamic-state-forces-in-the-nort.md) _Context: Al-Hasakah, Syria, Syrian Civil War_
+6. [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md) _Context: Syria, Syrian Civil War_
+7. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War_
+8. [The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead-of-a-syrian-democratic-forces-operation-to-take-contro.md) _Context: Syria, Syrian Civil War_
+9. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Syria, Syrian Civil War_
+10. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syria, Syrian Civil War_

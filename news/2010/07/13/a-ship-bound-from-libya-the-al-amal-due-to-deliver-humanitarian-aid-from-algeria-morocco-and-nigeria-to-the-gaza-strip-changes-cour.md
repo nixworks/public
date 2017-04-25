@@ -1,0 +1,23 @@
+### [2010-07-13](/news/2010/07/13/index.md)
+
+# A ship bound from Libya, the ''Al-Amal'', due to deliver humanitarian aid from Algeria, Morocco and  Nigeria to the Gaza Strip, changes course for Egypt after being warned to stay away by the Israeli Navy and receiving pressure from the United States to "act responsibly". 
+
+Libyan vessel changes course following warning from Israeli navy.
+
+
+### Source:
+
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010713124046138256.html)
+
+### Related:
+
+1. [The Israeli Navy fires warning shots at a Malaysian ship travelling to the Gaza Strip, forcing it to return to Egypt. ](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.md) _Context: Egypt, Gaza Strip, Israeli Navy_
+2. [A man from Israel is released after being detained as a suspected spy in Libya in return for the safe delivery to Gaza of 20 prefabricated houses, whose ship was forced to divert to Egypt in July. ](/news/2010/08/9/a-man-from-israel-is-released-after-being-detained-as-a-suspected-spy-in-libya-in-return-for-the-safe-delivery-to-gaza-of-20-prefabricated-h.md) _Context: Egypt, Gaza Strip, Libya_
+3. [Amnesty International condemns Sunday's execution, in Tripoli and Benghazi, Libya, of 18 people, some of whom were from Chad, Egypt and Nigeria. ](/news/2010/06/2/amnesty-international-condemns-sunday-s-execution-in-tripoli-and-benghazi-libya-of-18-people-some-of-whom-were-from-chad-egypt-and-nige.md) _Context: Egypt, Libya, Nigeria_
+4. [ Tomihiro Taniguchi, Deputy Director-General of the International Atomic Energy Agency, announces that Algeria, Egypt, Morocco and Saudi Arabia, and possibly Tunisia and the United Arab Emirates, will launch nuclear programs for desalination. A proliferation expert asserts the real reason behind the programs is for a "security hedge." ](/news/2006/11/4/tomihiro-taniguchi-deputy-director-general-of-the-international-atomic-energy-agency-announces-that-algeria-egypt-morocco-and-saudi-ara.md) _Context: Algeria, Egypt, Morocco_
+5. [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md) _Context: Egypt, Gaza Strip_
+6. [The Spanish-based Proactiva Open Arms NGO rescues more than 700 migrants in the Mediterranean Sea about 17 miles north of Sabratha, Libya. The rescued, who are from Nigeria, are transferred to the Italian Coast Guard.   ](/news/2016/08/28/the-spanish-based-proactiva-open-arms-ngo-rescues-more-than-700-migrants-in-the-mediterranean-sea-about-17-miles-north-of-sabratha-libya-t.md) _Context: Libya, Nigeria_
+7. [Four Egyptian security personnel are killed and another four are injured by a roadside bomb near the border town Rafah in the Sinai Peninsula. Islamist militants are suspected to have remotely detonated the device as an armored vehicle drove by the town's center, near the border with the Gaza Strip and Israel,  security sources told Ahram Online. ](/news/2015/12/8/four-egyptian-security-personnel-are-killed-and-another-four-are-injured-by-a-roadside-bomb-near-the-border-town-rafah-in-the-sinai-peninsul.md) _Context: Egypt, Gaza Strip_
+8. [Macedonia, Serbia, Croatia, and Slovenia shut their borders to so-called economic migrants, those not coming from war-torn countries such as Syria, Afghanistan, or Iraq, leaving thousands stranded at Balkan border crossings. Around 500 migrants from Iran, Morocco, and Algeria gather on the border between Greece and Macedonia to protest the closure. ](/news/2015/11/20/macedonia-serbia-croatia-and-slovenia-shut-their-borders-to-so-called-economic-migrants-those-not-coming-from-war-torn-countries-such-as.md) _Context: Algeria, Morocco_
+9. [An unspecified-type Egyptian military aircraft crashes due to a 'technical failure' near the Libyan border killing four crew members and injuring two others. ](/news/2015/08/13/an-unspecified-type-egyptian-military-aircraft-crashes-due-to-a-technical-failure-near-the-libyan-border-killing-four-crew-members-and-inj.md) _Context: Egypt, Libya_
+10. [Egypt opens its border with the Gaza Strip temporarily for the first time in months. Egypt blames Hamas for the Sinai insurgency. ](/news/2015/06/13/egypt-opens-its-border-with-the-gaza-strip-temporarily-for-the-first-time-in-months-egypt-blames-hamas-for-the-sinai-insurgency.md) _Context: Egypt, Gaza Strip_

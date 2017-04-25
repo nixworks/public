@@ -1,0 +1,26 @@
+### [2005-05-19](/news/2005/05/19/index.md)
+
+#  A United Nations legal team meet Indonesian officials to begin an inquiry for human rights abuses and killings related to East Timor's independence in 1999. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8540771)
+2. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8154)
+3. [Jakarta Post](http://www.thejakartapost.com/detailheadlines.asp?fileid=20050520.B11&irec=10)
+4. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CJ8ZX?OpenDocument)
+
+### Related:
+
+1. [A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. ](/news/2016/05/3/a-meeting-is-held-in-london-on-the-issue-of-west-papuan-independence-independence-leader-benny-wenda-joined-various-humanitarians-parliame.md) _Context: Indonesia, United Nations_
+2. [ According to United Nations officials, as many as 4,000 people could be buried under the rubble in the aftermath of the devastating earthquakes in Indonesia. ](/news/2009/10/3/according-to-united-nations-officials-as-many-as-4-000-people-could-be-buried-under-the-rubble-in-the-aftermath-of-the-devastating-earthqu.md) _Context: Indonesia, United Nations_
+3. [ The government in East Timor faces a motion of no confidence after releasing an Indonesian militia member, Martenus Bere, accused of crimes against humanity a decade ago. ](/news/2009/10/12/the-government-in-east-timor-faces-a-motion-of-no-confidence-after-releasing-an-indonesian-militia-member-martenus-bere-accused-of-crimes.md) _Context: East Timor, Indonesia_
+4. [ A New South Wales coroner concludes that a group of five journalists, known as the Balibo Five, were deliberately killed by Indonesian forces in 1975 in order to prevent them exposing Indonesia's 1975 invasion of East Timor. ](/news/2007/11/15/a-new-south-wales-coroner-concludes-that-a-group-of-five-journalists-known-as-the-balibo-five-were-deliberately-killed-by-indonesian-forc.md) _Context: East Timor, Indonesia_
+5. [ Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. ](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.md) _Context: East Timor, United Nations_
+6. [ People in East Timor finish voting in the second round of the country's first presidential election since it gained independence from Indonesia in 2002. ](/news/2007/05/9/people-in-east-timor-finish-voting-in-the-second-round-of-the-country-s-first-presidential-election-since-it-gained-independence-from-indon.md) _Context: East Timor, Indonesia_
+7. [ Indonesia declares the deaths of the Balibo Five to be a closed case despite a New South Wales coronial inquest into their deaths in Balibo, East Timor in 1975. ](/news/2007/03/2/indonesia-declares-the-deaths-of-the-balibo-five-to-be-a-closed-case-despite-a-new-south-wales-coronial-inquest-into-their-deaths-in-balibo.md) _Context: East Timor, Indonesia_
+8. [ A New South Wales coroner issues a warrant for the arrest of Indonesian politician Yunus Yosfiah for failure to appear to give evidence in the coronial inquest into the death of the Balibo Five in Balibo, East Timor in 1975. ](/news/2007/03/1/a-new-south-wales-coroner-issues-a-warrant-for-the-arrest-of-indonesian-politician-yunus-yosfiah-for-failure-to-appear-to-give-evidence-in.md) _Context: East Timor, Indonesia_
+9. [ A truth commission is set up by East Timor and Indonesia to promote reconciliation after the violence surrounding the 1999 independence referendum. ](/news/2007/02/19/a-truth-commission-is-set-up-by-east-timor-and-indonesia-to-promote-reconciliation-after-the-violence-surrounding-the-1999-independence-ref.md) _Context: East Timor, Indonesia_
+10. [ UN Security Council election: The United Nations General Assembly elects Belgium, Indonesia, Italy and South Africa to two-year terms on the Security Council, commencing 1 January 2007. The fifth seat remains deadlocked after ten rounds of voting between Guatemala and Venezuela and may be thrown open to other candidates from Latin America and the Caribbean. ](/news/2006/10/16/un-security-council-election-the-united-nations-general-assembly-elects-belgium-indonesia-italy-and-south-africa-to-two-year-terms-on-th.md) _Context: Indonesia, United Nations_

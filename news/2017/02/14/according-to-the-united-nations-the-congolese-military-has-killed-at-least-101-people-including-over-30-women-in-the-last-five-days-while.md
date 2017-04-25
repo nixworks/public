@@ -1,0 +1,23 @@
+### [2017-02-14](/news/2017/02/14/index.md)
+
+# According to the United Nations, the Congolese military has killed at least 101 people, including over 30 women, in the last five days while fighting Kamwina Nsapu rebels in Kasai-Central. 
+
+
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/soldiers-kill-101-clashes-kamwina-nsapu-170214110027063.html)
+
+### Related:
+
+1. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: Kasaï-Central, United Nations_
+2. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
+3. [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md) _Context: United Nations_
+4. [Authorities find the remains of two missing U.N. investigators--former Swedish politician Zaida Catalan and U.S. national Michael Sharp--in a shallow grave in the province of Kasai-Central, Democratic Republic of the Congo. ](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n-investigatorsaformer-swedish-politician-zaida-catala-n-and-u-s-national-michael-sharpa.md) _Context: Kasaï-Central_
+5. [Two UN officials with MONUSCO--an American and a Swede--are among six people kidnapped  near the village of Ngombe in the Democratic Republic of the Congo's Kasai-Central province. Congolese officials have not identified the kidnappers nor has any group  claimed responsibility. ](/news/2017/03/13/two-un-officials-with-monuscoaan-american-and-a-swedeaare-among-six-people-kidnapped-near-the-village-of-ngombe-in-the-democratic-repub.md) _Context: Kasaï-Central_
+6. [The United Nations drop sanctions on Gulbuddin Hekmatyar after his Hezb-e Islami faction and the Afghan government reached a deal in September. Hekmatyar is granted immunity in exchange for his abandoning violence and supporting the Constitution of Afghanistan. ](/news/2017/02/4/the-united-nations-drop-sanctions-on-gulbuddin-hekmatyar-after-his-hezb-e-islami-faction-and-the-afghan-government-reached-a-deal-in-septemb.md) _Context: United Nations_
+7. [The United Nations and various humanitarian groups call on the international community to help prevent a possible famine in Somalia as rising food prices and drought have left over six million people at risk of starvation. ](/news/2017/02/3/the-united-nations-and-various-humanitarian-groups-call-on-the-international-community-to-help-prevent-a-possible-famine-in-somalia-as-risin.md) _Context: United Nations_
+8. [Per the Afghan government's request, the United Nations drops sanctions against Hezb-e Islami party leader and former Prime Minister Gulbuddin Hekmatyar. This potentially sets up his return to Afghanistan, which is   part of the  country's peace deal with its second largest militant group, signed in September 2016. ](/news/2017/02/3/per-the-afghan-government-s-request-the-united-nations-drops-sanctions-against-hezb-e-islami-party-leader-and-former-prime-minister-gulbudd.md) _Context: United Nations_
+9. [The World Food Programme (WFP) and other United Nations agencies declare that there is a famine in parts of Unity State, South Sudan, with 100,000 facing starvation and another million on the brink of famine. ](/news/2017/02/20/the-world-food-programme-wfp-and-other-united-nations-agencies-declare-that-there-is-a-famine-in-parts-of-unity-state-south-sudan-with-1.md) _Context: United Nations_
+10. [According to the United Nations, as many as 96 families have been displaced by criminal gangs who are filling the vacuum left by FARC rebels in Colombia after the latter signed a peace deal with the government last year. ](/news/2017/02/18/according-to-the-united-nations-as-many-as-96-families-have-been-displaced-by-criminal-gangs-who-are-filling-the-vacuum-left-by-farc-rebels.md) _Context: United Nations_

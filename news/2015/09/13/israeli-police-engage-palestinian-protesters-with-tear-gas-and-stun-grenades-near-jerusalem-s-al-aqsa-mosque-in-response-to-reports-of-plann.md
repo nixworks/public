@@ -1,0 +1,25 @@
+### [2015-09-13](/news/2015/09/13/index.md)
+
+# Israeli police engage Palestinian protesters with tear gas and stun grenades near Jerusalem's Al-Aqsa Mosque in response to reports of planned incidents ahead of Rosh Hashanah, the Jewish New Year. Protesters throw fireworks and small explosive devices from inside the Mosque. 
+
+Israeli police clash with Palestinian youths after entering the al-Aqsa mosque complex in East Jerusalem.
+
+
+### Source:
+
+1. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Jordan-scolds-Israel-for-storming-Muslim-holy-sites-on-Temple-Mount-416123)
+2. [BBC](http://www.bbc.com/news/world-middle-east-34237219)
+3. [AP via ''Washington Post](https://www.washingtonpost.com/world/middle_east/israel-police-clash-with-palestinians-at-jerusalem-holy-site/2015/09/13/f867efc4-59f5-11e5-8475-781cc9851652_story.html)
+
+### Related:
+
+1. [Israel deploys an extra 800 Israeli police officers as Palestinians call for a "day of rage" protests in Jerusalem over entry restrictions to Al-Aqsa mosque. A police vehicle in Jerusalem was attacked with assault rifle fire. ](/news/2015/09/18/israel-deploys-an-extra-800-israeli-police-officers-as-palestinians-call-for-a-day-of-rage-protests-in-jerusalem-over-entry-restrictions-t.md) _Context: Israeli, Jerusalem, Palestinian_
+2. [UNESCO's executive board approves the "Occupied Palestine" resolution which reaffirms the cultural heritage of Palestine, especially East Jerusalem, and criticizes certain Israeli actions regarding the Palestinian territories. For the land in Jerusalem where the Al-Aqsa Mosque stands, the board uses only Islamic naming terms without also mentioning Jewish or Christian historical references. ](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.md) _Context: Al-Aqsa Mosque, Jerusalem_
+3. [Israel destroys the homes of three Palestinian terrorists. Rassen and Udai abu-Jamal who committed the 2014 Jerusalem synagogue attack and Moatez Hijazi who committed the excavator rampage in Jerusalem during the 2014 Israel-Gaza conflict. ](/news/2015/10/6/israel-destroys-the-homes-of-three-palestinian-terrorists-rassen-and-udai-abu-jamal-who-committed-the-2014-jerusalem-synagogue-attack-and-m.md) _Context: Jerusalem, Palestinian_
+4. [Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.md) _Context: Al-Aqsa Mosque, Jerusalem_
+5. [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md) _Context: Jerusalem, Palestinian_
+6. [3 police officers are injured in Jerusalem as Israeli riot police and Palestinian protesters clash before a Jewish festival. ](/news/2014/10/15/3-police-officers-are-injured-in-jerusalem-as-israeli-riot-police-and-palestinian-protesters-clash-before-a-jewish-festival.md) _Context: Jerusalem, Palestinian_
+7. [A Jewish Israeli man is shot dead near Jerusalem's Western Wall after a guard mistakes him for a Palestinian militant after hearing him shout "Allahu Akbar". ](/news/2013/06/21/a-jewish-israeli-man-is-shot-dead-near-jerusalem-s-western-wall-after-a-guard-mistakes-him-for-a-palestinian-militant-after-hearing-him-shou.md) _Context: Jerusalem, Palestinian_
+8. [A mosque in the Palestinian village of Kasra, north of Jerusalem, is attacked overnight, residents say. ](/news/2011/09/5/a-mosque-in-the-palestinian-village-of-kasra-north-of-jerusalem-is-attacked-overnight-residents-say.md) _Context: Jerusalem, Palestinian_
+9. [Arab-Israeli conflict:One Israeli is killed, seven are wounded in Beersheba and three Palestinian illegal aliens are wounded near the city of Ashdod by incoming mortars and rockets launched from the Gaza Strip. ](/news/2011/08/20/arab-israeli-conflict-pone-israeli-is-killed-seven-are-wounded-in-beersheba-and-three-palestinian-illegal-aliens-are-wounded-near-the-city.md) _Context: Arab-Israeli conflict, Palestinian_
+10. [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md) _Context: Jerusalem, Palestinian_

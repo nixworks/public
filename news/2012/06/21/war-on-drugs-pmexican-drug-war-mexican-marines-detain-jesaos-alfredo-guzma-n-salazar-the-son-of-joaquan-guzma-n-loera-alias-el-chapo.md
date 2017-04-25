@@ -1,0 +1,24 @@
+### [2012-06-21](/news/2012/06/21/index.md)
+
+# War on Drugs:Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias ''El Chapo''), Mexico's most-wanted drug lord in the western state of Jalisco. 
+
+
+
+
+### Source:
+
+1. [The Washington Post](http://www.washingtonpost.com/world/the_americas/mexico-marines-detain-a-son-of-most-wanted-mexican-drug-lord/2012/06/21/gJQAtVN3sV_story.html)
+2. [RT](http://www.rt.com/news/uruguay-marijuana-sell-users-323)
+
+### Related:
+
+1. [Mexican Drug War:15 mutilated bodies are found inside two abandoned SUVs in the state of Jalisco, a region that is under dispute between Los Zetas and the Sinaloa Cartel. The Mexican authorities believe the massacre is a response by Los Zetas for the 2012 Nuevo Laredo massacres reportedly carried out by Joaquin Guzman Loera (a.k.a. ''El Chapo''), Mexico's most-wanted drug lord. ](/news/2012/05/9/mexican-drug-war-p15-mutilated-bodies-are-found-inside-two-abandoned-suvs-in-the-state-of-jalisco-a-region-that-is-under-dispute-between-lo.md) _Context: Jalisco, Joaquín Guzmán Loera, Mexican Drug War_
+2. [Mexican Drug War:A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/mexican-drug-war-pa-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-th.md) _Context: Joaquín Guzmán Loera, Mexican Drug War, most-wanted drug lords_
+3. [Mexican President Enrique Pena Nieto proposes legalizing marijuana for medical purposes and easing limits for personal use of the drug. He said he would be sending a bill to the Congress to increase the amount users can legally carry from the current five grams to 28 (0.18-1oz). The news comes just two days after he addressed the United Nations General Assembly at a special session on drug policy and is seen as a chance to re-think the current strategy of fighting drug-trafficking, especially in Mexico where the fighting has killed tens of thousands of people. ](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.md) _Context: Mexican Drug War, War on Drugs_
+4. [Three Mexican Army soldiers die as gunfire downs a helicopter in the state of Jalisco. Ten soldiers and two Federal Police officers are injured. ](/news/2015/05/1/three-mexican-army-soldiers-die-as-gunfire-downs-a-helicopter-in-the-state-of-jalisco-ten-soldiers-and-two-federal-police-officers-are-inju.md) _Context: Jalisco, Mexican Drug War_
+5. [Jorge Eduardo Costilla Snchez, the supreme leader of the drug trafficking organization known as the Gulf Cartel and one of the most-wanted drug lords in Mexico, is arrested in the state of Tamaulipas. ](/news/2012/09/13/jorge-eduardo-costilla-sanchez-the-supreme-leader-of-the-drug-trafficking-organization-known-as-the-gulf-cartel-and-one-of-the-most-wanted.md) _Context: Mexican Drug War, most-wanted drug lords_
+6. [Mexican Drug War: The United States freezes the assets of three Belize-based associates of Mexico's top drug lord, Joaquin "El Chapo" Guzman. ](/news/2012/08/7/mexican-drug-war-the-united-states-freezes-the-assets-of-three-belize-based-associates-of-mexico-s-top-drug-lord-joaquan-el-chapo-guzma.md) _Context: Joaquín Guzmán Loera, Mexican Drug War_
+7. [Mexican Drug War:Four suspected drug traffickers of the Sinaloa Cartel, including the cousin of Joaquin "El Chapo" Guzman, Mexico's most-wanted drug lord, are captured in Spain. ](/news/2012/08/10/mexican-drug-war-pfour-suspected-drug-traffickers-of-the-sinaloa-cartel-including-the-cousin-of-joaquan-el-chapo-guzma-n-mexico-s-most.md) _Context: Joaquín Guzmán Loera, Mexican Drug War_
+8. [At least nine Mexican police officers in the state of Jalisco are shot dead during an ambush with drug cartels, continuing a recent wave of violence connected to the Mexican Drug War. ](/news/2010/10/29/at-least-nine-mexican-police-officers-in-the-state-of-jalisco-are-shot-dead-during-an-ambush-with-drug-cartels-continuing-a-recent-wave-of.md) _Context: Jalisco, Mexican Drug War_
+9. [Mexican police search for a gunman who shot and wounded a U.S. Consular official in Guadalajara, Jalisco. The victim is in stable condition. ](/news/2017/01/7/mexican-police-search-for-a-gunman-who-shot-and-wounded-a-u-s-consular-official-in-guadalajara-jalisco-the-victim-is-in-stable-condition.md) _Context: Jalisco_
+10. [A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-an-operation-agains.md) _Context: Mexican Drug War_

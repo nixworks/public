@@ -1,0 +1,25 @@
+### [2013-07-3](/news/2013/07/3/index.md)
+
+# 2013 Egyptian coup d'etat:Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. 
+
+Mohamed Morsi rejected a military ultimatum to strike a deal with his opponents tonight and declared himself Egyptâ€™s legitimate leader â€“ despite the eruption in Cairo of deadly gun battles during rallies to shore up his teetering position.
+
+
+### Source:
+
+1. [The Independent](http://www.independent.co.uk/news/world/africa/egypt-protests-military-coup-under-way-as-time-runs-out-for-mohamed-morsi-8683985.html)
+2. [CNN](http://www.cnn.com/2013/07/03/world/meast/egypt-protests/index.html?hpt=hp_t1)
+3. [The Times of Israel](http://www.timesofisrael.com/egyptian-leaders-meet-to-plan-post-morsi-transition/)
+
+### Related:
+
+1. [The governing body of the Egyptian military approves Field Marshal Abdel Fattah el-Sisi, who led the coup d'tat that overthrew President Mohamed Morsi in July 2013, to run for the presidency in the upcoming election. ](/news/2014/01/27/the-governing-body-of-the-egyptian-military-approves-field-marshal-abdel-fattah-el-sisi-who-led-the-coup-d-etat-that-overthrew-president-mo.md) _Context: Mohamed Morsi, coup d'état_
+2. [Aftermath of the 2013 Egyptian coup d'etat:At least 42 people have been killed and hundreds injured after the Army raids a sit-in by supporters of former President Mohamed Morsi in the Nasr City district of Cairo. ](/news/2013/07/8/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-pat-least-42-people-have-been-killed-and-hundreds-injured-after-the-army-raids-a-sit-in-by-suppo.md) _Context: Egyptian Army, Mohamed Morsi_
+3. [Aftermath of the 2013 Egyptian coup d'tat:Mass rival demonstrations are held across Egypt three weeks after Mohamed Morsi was deposed as president in a military coup d'tat. At least eight people die and hundreds are injured in violence during the rallies. ](/news/2013/07/26/aftermath-of-the-2013-egyptian-coup-d-etat-pmass-rival-demonstrations-are-held-across-egypt-three-weeks-after-mohamed-morsi-was-deposed-as-p.md) _Context: Mohamed Morsi, coup d'état_
+4. [The Muslim Brotherhood calls for millions of supporters to hold rallies across Egypt two weeks after Mohamed Morsi was deposed as president. ](/news/2013/07/19/the-muslim-brotherhood-calls-for-millions-of-supporters-to-hold-rallies-across-egypt-two-weeks-after-mohamed-morsi-was-deposed-as-president.md) _Context: Mohamed Morsi, coup d'état_
+5. [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md) _Context: Egyptian Army, Mohamed Morsi_
+6. [2012-2013 Egyptian protests:The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/2012a2013-egyptian-protests-pthe-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-be.md) _Context: Egyptian Army, Mohamed Morsi_
+7. [2012 Egyptian protests:At least 7 people are killed and more than 770 are injured during clashes between supporters and opponents of the President of Egypt Mohamed Morsi in front of the Presidential Palace in Cairo. The Egyptian Army deploys several tanks and armoured troop carriers to secure the building. ](/news/2012/12/6/2012-egyptian-protests-pat-least-7-people-are-killed-and-more-than-770-are-injured-during-clashes-between-supporters-and-opponents-of-the-pr.md) _Context: Egyptian Army, Mohamed Morsi_
+8. [Egypt's Supreme Constitutional Court defers a ruling on whether the Constituent Assembly is legal following pressure from supporters of President Mohamed Morsi. ](/news/2012/12/2/egypt-s-supreme-constitutional-court-defers-a-ruling-on-whether-the-constituent-assembly-is-legal-following-pressure-from-supporters-of-pres.md) _Context: Mohamed Morsi, Supreme Constitutional Court_
+9. [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _Context: Egyptian Army_
+10. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Egyptian Army_

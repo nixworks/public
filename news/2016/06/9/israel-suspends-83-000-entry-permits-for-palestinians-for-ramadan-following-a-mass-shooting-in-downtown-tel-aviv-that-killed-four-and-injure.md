@@ -1,0 +1,23 @@
+### [2016-06-9](/news/2016/06/9/index.md)
+
+# Israel suspends 83,000 entry permits for Palestinians for Ramadan following a mass shooting in downtown Tel Aviv that killed four and injured 17 people. 
+
+Israel said Thursday it had suspended entry permits for 83,000 Palestinians during the holy Muslim month of Ramadan following a shooting in Tel Aviv that killed four people. &quot;All permits for Ramadan, especially permits for family visits from...
+
+
+### Source:
+
+1. [AFP via Naharnet](http://www.naharnet.com/stories/en/211146)
+
+### Related:
+
+1. [Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. ](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.md) _Context: Israel, Israeli–Palestinian conflict (2015–present), June 2016 Tel Aviv shooting, Palestinian, Tel Aviv_
+2. [Israel temporarily bans all Palestinians from entering its territory until Sunday following the June 2016 Tel Aviv shooting. ](/news/2016/06/10/israel-temporarily-bans-all-palestinians-from-entering-its-territory-until-sunday-following-the-june-2016-tel-aviv-shooting.md) _Context: Israel, June 2016 Tel Aviv shooting, Palestinian_
+3. [Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _Context: Israel, Israeli–Palestinian conflict (2015–present), Palestinian_
+4. [Israel announces that it will transfer the bodies of 84 Palestinian militants to the Palestinian Authority, apparently as a diplomatic gesture to the Palestinians ahead of Ramadan. ](/news/2011/07/4/israel-announces-that-it-will-transfer-the-bodies-of-84-palestinian-militants-to-the-palestinian-authority-apparently-as-a-diplomatic-gestu.md) _Context: Israel, Palestinian, Ramadan_
+5. [ Israeli-Palestinian Conflict: At least 32 people are injured, including one seriously, when a Palestinian suicide bomber detonates himself at a food stand near Tel Aviv's central bus station. Palestinian Islamic Jihad's al-Quds brigades claims responsibility for the attack. It is the first terrorist attack of the year in Israel. ](/news/2006/01/19/israeli-palestinian-conflict-at-least-32-people-are-injured-including-one-seriously-when-a-palestinian-suicide-bomber-detonates-himself.md) _Context: Israel, Palestinian, Tel Aviv_
+6. [ Israeli-Palestinian conflict: Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/israeli-palestinian-conflict-p-following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-lead.md) _Context: Israel, Palestinian, Tel Aviv_
+7. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel, Palestinian_
+8. [A Tel Aviv, Israel, four story parking lot under construction collapses and kills at least two people and injures 18 others. ](/news/2016/09/5/a-tel-aviv-israel-four-story-parking-lot-under-construction-collapses-and-kills-at-least-two-people-and-injures-18-others.md) _Context: Israel, Tel Aviv_
+9. [Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-remembrance-day-and-independence-day-is-celebrate.md) _Context: Israel, Israeli–Palestinian conflict (2015–present)_
+10. [A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. ](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.md) _Context: Israel, Israeli–Palestinian conflict (2015–present)_

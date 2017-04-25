@@ -1,0 +1,23 @@
+### [2005-01-12](/news/2005/01/12/index.md)
+
+#  In the US, Lithuanian-born Vladas Zajanckauskas is charged with killing Jews in the Warsaw Ghetto during World War II. If sentenced, he may lose his US citizenship 
+
+
+
+
+### Source:
+
+1. [Boston Herald](http://news.bostonherald.com/localRegional/view.bg?articleid=62895)
+
+### Related:
+
+1. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: World War II_
+2. [Over 70,000 people are evacuated from Thessaloniki, Greece, as authorities attempt to defuse a World War II-era unexploded ordnance, which was discovered last week. ](/news/2017/02/11/over-70-000-people-are-evacuated-from-thessaloniki-greece-as-authorities-attempt-to-defuse-a-world-war-ii-era-unexploded-ordnance-which-w.md) _Context: World War II_
+3. [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md) _Context: World War II_
+4. [The German city of Augsburg is evacuated after a World War II-era explosive is discovered in the town. Explosive experts later defused the bomb. ](/news/2016/12/25/the-german-city-of-augsburg-is-evacuated-after-a-world-war-ii-era-explosive-is-discovered-in-the-town-explosive-experts-later-defused-the-b.md) _Context: World War II_
+5. [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md) _Context: Lithuania_
+6. [A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. ](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-sudan-to-aid-in-u-n-peacekeeping-operations-japan-s-first-such-action-since-world-war-ii.md) _Context: World War II_
+7. [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md) _Context: Lithuania_
+8. [Russian President Vladimir Putin deploys the nuclear-capable Iskander mobile short-range ballistic missile system to the Russian Kaliningrad exclave between Poland and Lithuania. ](/news/2016/10/8/russian-president-vladimir-putin-deploys-the-nuclear-capable-iskander-mobile-short-range-ballistic-missile-system-to-the-russian-kaliningrad.md) _Context: Lithuania_
+9. [The Secretary General of NATO Jens Stoltenberg says that the military alliance plans on sending four multinational battalions to Estonia, Latvia, Lithuania and Poland in order to boost their defense. However, Stoltenberg said that the battalions will only be deployed on a rotational basis instead of being based permanently. ](/news/2016/06/13/the-secretary-general-of-nato-jens-stoltenberg-says-that-the-military-alliance-plans-on-sending-four-multinational-battalions-to-estonia-la.md) _Context: Lithuania_
+10. [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md) _Context: World War II_

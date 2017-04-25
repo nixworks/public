@@ -1,0 +1,23 @@
+### [2008-09-3](/news/2008/09/3/index.md)
+
+#  The United States Court of Appeals for the Eighth Circuit finds "that a reliance on information in Wikipedia is insufficient grounds for a ruling" in an immigration case. 
+
+
+
+
+### Source:
+
+1. [Ars Technica](http://arstechnica.com/news.ars/post/20080902-appeals-court-smacks-down-judge-for-relying-on-wikipedia.html)
+
+### Related:
+
+1. [The United States Supreme Court,  in a 6-2 ruling written by Justice Anthony Kennedy, upholds the  8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-m.md) _Context: 8th U.S. Circuit Court of Appeals'_
+2. [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md) _Context: Wikipedia_
+3. [Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-for-pay-edits-violating-the-encyclopedia-s-gu.md) _Context: Wikipedia_
+4. [The Wikimedia Foundation and eight other organisations file a lawsuit in the state of Maryland, US against the National Security Agency and the United States Department of Justice regarding the NSA's mass surveillance program. The Wikimedia Foundation is the owner and parent company of Wikipedia. ](/news/2015/03/10/the-wikimedia-foundation-and-eight-other-organisations-file-a-lawsuit-in-the-state-of-maryland-us-against-the-national-security-agency-and.md) _Context: Wikipedia_
+5. [The Russian Presidential Library announces plans to establish a Russian version of Wikipedia stating that it would provide more "detailed and accurate" information about the country. ](/news/2014/11/16/the-russian-presidential-library-announces-plans-to-establish-a-russian-version-of-wikipedia-stating-that-it-would-provide-more-detailed-an.md) _Context: Wikipedia_
+6. [Russia plans an "alternative Wikipedia". ](/news/2014/11/14/russia-plans-an-alternative-wikipedia.md) _Context: Wikipedia_
+7. [Edits to Wikipedia made via computers within the United States Congress are blocked for ten days after a series of disruptive edits on pages created by congressional staff members. ](/news/2014/07/25/edits-to-wikipedia-made-via-computers-within-the-united-states-congress-are-blocked-for-ten-days-after-a-series-of-disruptive-edits-on-pages.md) _Context: Wikipedia_
+8. [The UK government launches an inquiry after the ''Liverpool Echo'' reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks.md) _Context: Wikipedia_
+9. [An entry on the documentary film ''Fuck'' causes offence after the Wikipedia website features it prominently on its home page. ](/news/2014/03/1/an-entry-on-the-documentary-film-fuck-causes-offence-after-the-wikipedia-website-features-it-prominently-on-its-home-page.md) _Context: Wikipedia_
+10. [A main belt asteroid discovered at Ukraine's Andrushivka Astronomical Observatory in August 2008 is named 274301 Wikipedia after the Wikipedia encyclopedia. ](/news/2013/01/31/a-main-belt-asteroid-discovered-at-ukraine-s-andrushivka-astronomical-observatory-in-august-2008-is-named-274301-wikipedia-after-the-wikiped.md) _Context: Wikipedia_

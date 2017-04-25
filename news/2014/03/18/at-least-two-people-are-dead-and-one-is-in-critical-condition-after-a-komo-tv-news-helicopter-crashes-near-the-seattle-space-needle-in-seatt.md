@@ -1,0 +1,23 @@
+### [2014-03-18](/news/2014/03/18/index.md)
+
+# At least two people are dead and one is in critical condition after a KOMO-TV news helicopter crashes near the Seattle Space Needle in Seattle, Washington. 
+
+The Seattle Fire Department said in addition to the fatalities, a 37-year-old man who managed to free himself from a car at the accident scene was taken to Harborview Medical Center in critical condition. 
+
+
+### Source:
+
+1. [AP via ''Washington Times](http://www.washingtontimes.com/news/2014/mar/18/news-helicopter-crashes-near-seattle-space-needle/)
+
+### Related:
+
+1. [In Seattle, Washington, a Seattle Fire Department crew, responding to reports of a natural gas leak in the Greenwood neighborhood, are caught in an explosion that injures nine firefighters. The explosion blew out windows in businesses and storefronts in the surrounding blocks, destroying three businesses and heavily damaging a fourth. ](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-crew-responding-to-reports-of-a-natural-gas-leak-in-the-greenwood-neighborhood-are-caugh.md) _Context: Seattle, Washington_
+2. [Xi Jinping begins his first visit to the United States as President of the People's Republic of China, meeting with technology company leaders and representatives in Seattle, Washington. ](/news/2015/09/22/xi-jinping-begins-his-first-visit-to-the-united-states-as-president-of-the-people-s-republic-of-china-meeting-with-technology-company-leade.md) _Context: Seattle, Washington_
+3. [Five people are killed in a shooting incident at an apartment complex in Federal Way, Washington, south of Seattle, United States. ](/news/2013/04/21/five-people-are-killed-in-a-shooting-incident-at-an-apartment-complex-in-federal-way-washington-south-of-seattle-united-states.md) _Context: Seattle, Washington_
+4. [A bouncer is critically injured and a woman is also wounded after a gunman opens fire in a bar in the Central District of Seattle, Washington, United States. The perpetrator was killed by authorities. ](/news/2013/01/28/a-bouncer-is-critically-injured-and-a-woman-is-also-wounded-after-a-gunman-opens-fire-in-a-bar-in-the-central-district-of-seattle-washingto.md) _Context: Seattle, Washington_
+5. [United States cartoonist Molly Norris of Seattle, Washington, who developed Everybody Draw Mohammed Day, goes into hiding following a death threat from an Islamist radical. ](/news/2010/09/15/united-states-cartoonist-molly-norris-of-seattle-washington-who-developed-everybody-draw-mohammed-day-goes-into-hiding-following-a-death.md) _Context: Seattle, Washington_
+6. [Bertha, once the world's largest tunnel boring machine, completes its {{convert|9,270|ft|m|adj=mid|-long}} tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-convert-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington.md) _Context: Seattle_
+7. [A U.S. federal judge in Hawaii, finding the revised federal immigration/refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md) _Context: Washington_
+8. [Seattle-based Amazon.com says it  will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce.md) _Context: Seattle_
+9. [ The U.S. Coast Guard continues to search for the missing ''F/V Destination'', a Seattle-based fishing vessel operating near St. George, Alaska, with a six-member crew. The Coast Guard has discovered a debris field, but no sign of the crew. ](/news/2017/02/13/the-u-s-coast-guard-continues-to-search-for-the-missing-f-v-destination-a-seattle-based-fishing-vessel-operating-near-st-george-ala.md) _Context: Seattle_
+10. [The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _Context: Washington_

@@ -1,0 +1,23 @@
+### [2007-09-19](/news/2007/09/19/index.md)
+
+#  Republican lawmakers block the United States Senate from taking up a bill to grant voting rights to Washington DC. 
+
+
+
+
+### Source:
+
+1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/09/18/AR2007091801158.html?hpid=moreheadlines)
+
+### Related:
+
+1. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Republican_
+2. [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md) _Context: Republican_
+3. [A leaked memo from House Republicans reveals cutting provisions from Obamacare such as Medicaid expansions and subsidies for health insurance. ](/news/2017/02/25/a-leaked-memo-from-house-republicans-reveals-cutting-provisions-from-obamacare-such-as-medicaid-expansions-and-subsidies-for-health-insuranc.md) _Context: Republican_
+4. [The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-criticism-including-a-tweet-by-pres.md) _Context: Republican_
+5. [Republican campaign manager Kellyanne Conway dismisses allegations of Russian interference in the 2016 U.S. presidential election, calling the claims "laughable and ridiculous".  ](/news/2016/12/11/republican-campaign-manager-kellyanne-conway-dismisses-allegations-of-russian-interference-in-the-2016-u-s-presidential-election-calling-t.md) _Context: Republican_
+6. [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md) _Context: Republican_
+7. [United States presidential election and general elections, 2016Although he narrowly lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/united-states-presidential-election-and-general-elections-2016palthough-he-narrowly-lost-the-popular-vote-donald-trump-the-republican-nom.md) _Context: Republican_
+8. [ A false alarm leads to Republican presidential nominee Donald Trump being rushed off stage by United States Secret Service agents at a campaign rally in Reno, Nevada. A man, reportedly carrying a gun, was escorted out of the venue by security officers shortly following the incident; however, further inspection revealed no weapons on his person. The man was brandishing a "Republicans against Trump" sign.](/news/2016/11/5/a-false-alarm-leads-to-republican-presidential-nominee-donald-trump-being-rushed-off-stage-by-united-states-secret-service-agents-at-a-camp.md) _Context: Republican_
+9. [Four state Democratic Parties sue  the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal"  group founder Roger Stone  for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder.md) _Context: Republican_
+10. [An arsonist firebombs a Republican Party office in Hillsborough, North Carolina, and leaves a graffiti message reading, "Nazi Republicans get out of town or else." ](/news/2016/10/16/an-arsonist-firebombs-a-republican-party-office-in-hillsborough-north-carolina-and-leaves-a-graffiti-message-reading-nazi-republicans-ge.md) _Context: Republican_

@@ -1,0 +1,23 @@
+### [2016-03-21](/news/2016/03/21/index.md)
+
+# Myanmar's new parliament, in its first legislative act, votes (611-3) to eliminate 15 government ministries. President-elect Htin Kyaw says by eliminating the ministers' salaries, the nation will save $4 million over five years. No civil servants will lose their jobs. 
+
+
+
+
+### Source:
+
+1. [AP](http://bigstory.ap.org/article/4c8c2d58f58b475b9a690f3190f03465/myanmar-parliament-votes-reduce-number-ministries)
+
+### Related:
+
+1. [The Myanmar Assembly of the Union, or parliament,  selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. ](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-th.md) _Context: Htin Kyaw, Myanmar, parliament_
+2. [In Myanmar's capital Naypyidaw, Htin Kyaw is sworn in by House Speaker Mahn Win Khaing Than as the first civilian president in 54 years.  Htin Kyaw, a close aide to Aung San Suu Kyi, takes power from former general Thein Sein. ](/news/2016/03/30/in-myanmar-s-capital-naypyidaw-htin-kyaw-is-sworn-in-by-house-speaker-mahn-win-khaing-than-as-the-first-civilian-president-in-54-years-ht.md) _Context: Htin Kyaw, Myanmar_
+3. [Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.md) _Context: Myanmar, parliament_
+4. [The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. ](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.md) _Context: Myanmar, parliament_
+5. [With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning  over 90 percent  (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in  the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.md) _Context: Myanmar, parliament_
+6. [At least 20 people are killed when a boat carrying wedding guests collides with a river barge in western Myanmar. ](/news/2017/04/8/at-least-20-people-are-killed-when-a-boat-carrying-wedding-guests-collides-with-a-river-barge-in-western-myanmar.md) _Context: Myanmar_
+7. [Twenty people have died and more than a dozen missing after a ferry capsizes in Myanmar's Irrawaddy River delta. ](/news/2017/04/7/twenty-people-have-died-and-more-than-a-dozen-missing-after-a-ferry-capsizes-in-myanmar-s-irrawaddy-river-delta.md) _Context: Myanmar_
+8. [According to the government of Myanmar, at least 30 people are killed in an attack on various police, military, and government installations by the Myanmar National Democratic Alliance Army in Laukkai. Four police officers were also taken hostage. ](/news/2017/03/6/according-to-the-government-of-myanmar-at-least-30-people-are-killed-in-an-attack-on-various-police-military-and-government-installations.md) _Context: Myanmar_
+9. [The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-military-and-police-forces-against-myanmar-s-rohi.md) _Context: Myanmar_
+10. [Tens of thousands of people, including politicians and activists, gather for the funeral of Ko Ni, Myanmar leader Aung San Suu Kyi's longtime adviser,  who was assassinated yesterday as he walked out of the Yangon International Airport. ](/news/2017/01/30/tens-of-thousands-of-people-including-politicians-and-activists-gather-for-the-funeral-of-ko-ni-myanmar-leader-aung-san-suu-kyi-s-longtim.md) _Context: Myanmar_

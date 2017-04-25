@@ -1,0 +1,23 @@
+### [2010-02-27](/news/2010/02/27/index.md)
+
+# 10 people die and at least 20 are injured after Islamic militant group Abu Sayyaf attacks a village in Maluso, Basilan early in the morning. 
+
+Al Qaeda-linked Muslim militants have attacked a town in the southern Philippines on Saturday, killing 10 people.
+
+
+### Source:
+
+1. [The Snydey Morning Herald](http://news.smh.com.au/breaking-news-world/philippines-abu-sayyaf-militants-kill-11-20100227-p9x3.html)
+
+### Related:
+
+1. [At least 18 soldiers are killed and 52 injured in clashes with Abu Sayyaf militants and allied gunmen in Basilan island, Philippines. ](/news/2016/04/9/at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen-in-basilan-island-philippines.md) _Context: Abu Sayyaf, Basilan island_
+2. [Abu Sayyaf guerillas kill six Philippine Army soldiers outside the town of Basilan. ](/news/2014/11/2/abu-sayyaf-guerillas-kill-six-philippine-army-soldiers-outside-the-town-of-basilan.md) _Context: Abu Sayyaf, Basilan island_
+3. [Philippine Army soldiers kill two Abu Sayyaf fighters in Al-Barka, Basilan. ](/news/2011/04/16/philippine-army-soldiers-kill-two-abu-sayyaf-fighters-in-al-barka-basilan.md) _Context: Abu Sayyaf, Basilan island_
+4. [Six Abu Sayyaf Islamic militants, including "most wanted" leader Albader Parad, die after coming into contact with troops at the foot of Mount Tucay in Maimbung, Sulu on Jolo in the Philippines.  ](/news/2010/02/21/six-abu-sayyaf-islamic-militants-including-most-wanted-leader-albader-parad-die-after-coming-into-contact-with-troops-at-the-foot-of-mou.md) _Context: Abu Sayyaf, Islam_
+5. [ The Philippines army captures an Abu Sayyaf base on the island of Basilan following a heavy struggle with at least 35 soldiers and militants killed in the battle. ](/news/2007/08/19/the-philippines-army-captures-an-abu-sayyaf-base-on-the-island-of-basilan-following-a-heavy-struggle-with-at-least-35-soldiers-and-militant.md) _Context: Abu Sayyaf, Basilan island_
+6. [Ten people are killed in Inabanga, Bohol, in the Philippines' Central Visayas, after the country's National Police and Armed Forces clash with suspected members of Abu Sayyaf. ](/news/2017/04/12/ten-people-are-killed-in-inabanga-bohol-in-the-philippines-central-visayas-after-the-country-s-national-police-and-armed-forces-clash-wi.md) _Context: Abu Sayyaf_
+7. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Abu Sayyaf_
+8. [Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. ](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.md) _Context: Abu Sayyaf_
+9. [Jakarta Governor Basuki Tjahaja Purnama (Ahok)  pleads not guilty  to charges of blaspheming Islam  during a September 27 campaign speech. Ahok is an  ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-a.md) _Context: Islam_
+10. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Abu Sayyaf_

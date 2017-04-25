@@ -1,0 +1,19 @@
+### [2002-12-27](/news/2002/12/27/index.md)
+
+# Presidential elections in Kenya between Uhuru Kenyatta, candidate for ruling party KANU, and Mwai Kibaki, candidate for opposition party NARC. Early reports say the latter wins a landslide victory.
+
+
+
+
+### Related:
+
+1. [The Kenyan electoral commission confirms that the opposition National Rainbow Coalition (NARC) has won landslide victories over the ruling KANU party in Friday's elections, ending 40 years of single party rule and 24 years of rule by Daniel arap Moi.  The NARC's presidential candidate, Mwai Kibaki, led by more than 30 percentage points over the KANU's official candidate.](/news/2002/12/29/the-kenyan-electoral-commission-confirms-that-the-opposition-national-rainbow-coalition-narc-has-won-landslide-victories-over-the-ruling-k.md) _Context: KANU, Kenya, Mwai Kibaki, National Rainbow Coalition_
+2. [ Ex-president of Kenya and chairman of KANU party, Daniel arap Moi, is due to step down. His successor will be Uhuru Kenyatta, son of Jomo Kenyatta. ](/news/2005/02/1/ex-president-of-kenya-and-chairman-of-kanu-party-daniel-arap-moi-is-due-to-step-down-his-successor-will-be-uhuru-kenyatta-son-of-jomo-k.md) _Context: KANU, Kenya, Uhuru Kenyatta_
+3. [Kenya officially swears in their new president, Uhuru Kenyatta. ](/news/2013/04/9/kenya-officially-swears-in-their-new-president-uhuru-kenyatta.md) _Context: Kenya, Uhuru Kenyatta_
+4. [The Supreme Court of Kenya unanimously confirms that Uhuru Kenyatta is the rightful winner of the recent disputed presidential election. ](/news/2013/03/30/the-supreme-court-of-kenya-unanimously-confirms-that-uhuru-kenyatta-is-the-rightful-winner-of-the-recent-disputed-presidential-election.md) _Context: Kenya, Uhuru Kenyatta_
+5. [The Kenyan Higher Education Minister William Ruto is suspended by President Mwai Kibaki after a court ruled he must stand trial for corruption allegations. ](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.md) _Context: Kenya, Mwai Kibaki_
+6. [Kenyan Assistant Roads Minister Wilfred Machage is suspended by President Mwai Kibaki after being charged, alongside two other MPs, with inciting hatred yesterday. ](/news/2010/06/17/kenyan-assistant-roads-minister-wilfred-machage-is-suspended-by-president-mwai-kibaki-after-being-charged-alongside-two-other-mps-with-inc.md) _Context: Kenya, Mwai Kibaki_
+7. [Kenya's Prime Minister Raila Odinga accuses the President Mwai Kibaki of "overstepping" his powers after the latter re-appointed two ministers sacked by Odinga over a corruption scandal. ](/news/2010/02/15/kenya-s-prime-minister-raila-odinga-accuses-the-president-mwai-kibaki-of-overstepping-his-powers-after-the-latter-re-appointed-two-ministe.md) _Context: Kenya, Mwai Kibaki_
+8. [Kenyan President Mwai Kibaki undoes the suspensions for fraud of the agriculture and education ministers handed out by his Prime Minister. ](/news/2010/02/14/kenyan-president-mwai-kibaki-undoes-the-suspensions-for-fraud-of-the-agriculture-and-education-ministers-handed-out-by-his-prime-minister.md) _Context: Kenya, Mwai Kibaki_
+9. [Kenyan President Mwai Kibaki demands eight senior officials to resign due to corruption scandals in the education ministry and a maize scandal. ](/news/2010/02/13/kenyan-president-mwai-kibaki-demands-eight-senior-officials-to-resign-due-to-corruption-scandals-in-the-education-ministry-and-a-maize-scand.md) _Context: Kenya, Mwai Kibaki_
+10. [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md) _Context: Kenya, Mwai Kibaki_

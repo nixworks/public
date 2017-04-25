@@ -1,0 +1,23 @@
+### [2012-01-7](/news/2012/01/7/index.md)
+
+# Iran praises the United States Navy after American sailors rescued Iranian fishermen from armed pirates in the Arabian Sea. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2012/01/07/world/meast/iran-us-navy-rescue/index.html?hpt=hp_t1)
+
+### Related:
+
+1. [The United States Navy's destroyer USS ''Mason'' comes under missile attack in the Red Sea, off the coast of Yemen. The two missiles, fired from Yemeni territory controlled by Iranian-backed Houthis, impacted the water well before reaching the ship, according to Pentagon spokesman Captain Jeff Davis. ](/news/2016/10/9/the-united-states-navy-s-destroyer-uss-mason-comes-under-missile-attack-in-the-red-sea-off-the-coast-of-yemen-the-two-missiles-fired.md) _Context: Iran, U.S. Navy_
+2. [Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-they-had-allegedly-entered-iranian.md) _Context: Iran, U.S. Navy_
+3. [An Iranian fishing boat loaded with weapons, including rockets and anti-tank shells, is intercepted and seized in the Arabian Sea, 150 miles southeast of the Omani Port of Salalah, by Arab coalition forces. Saudi Arabia has previously accused Iran of supplying weapons to Houthi militants in Yemen. ](/news/2015/09/30/an-iranian-fishing-boat-loaded-with-weapons-including-rockets-and-anti-tank-shells-is-intercepted-and-seized-in-the-arabian-sea-150-miles.md) _Context: Arabian Sea, Iran_
+4. [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md) _Context: Iran_
+5. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Iran_
+6. [A U.S. Navy F/A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS ''Carl Vinson''. The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-e.md) _Context: U.S. Navy_
+7. [Flash flooding caused by torrential rain leaves at least 17 people dead and 20 others missing in northwestern Iran, according to state television. ](/news/2017/04/15/flash-flooding-caused-by-torrential-rain-leaves-at-least-17-people-dead-and-20-others-missing-in-northwestern-iran-according-to-state-telev.md) _Context: Iran_
+8. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _Context: Iran_
+9. [Iranian Minister of Defence Hossein Dehghan confirms Iran tested a new missile, claiming that the test did not violate the 2015 nuclear deal nor UN resolution 2231. ](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.md) _Context: Iran_
+10. [The Iranian government declares three days of national mourning following the death of the former president and one of the key figures in the Islamic Republic. ](/news/2017/01/9/the-iranian-government-declares-three-days-of-national-mourning-following-the-death-of-the-former-president-and-one-of-the-key-figures-in-th.md) _Context: Iran_

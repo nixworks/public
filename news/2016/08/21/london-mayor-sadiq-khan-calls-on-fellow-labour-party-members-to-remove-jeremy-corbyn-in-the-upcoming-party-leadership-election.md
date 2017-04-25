@@ -1,0 +1,24 @@
+### [2016-08-21](/news/2016/08/21/index.md)
+
+# London Mayor Sadiq Khan calls on fellow Labour Party members to remove Jeremy Corbyn in the  upcoming party leadership election. 
+
+London mayor throws weight behind challenger Owen Smith, after condemning party leader for failing to show leadership over Brexit
+
+
+### Source:
+
+1. [The Observer'' via The Guardian](http://www.theguardian.com/politics/2016/aug/20/ditch-jeremy-corbyn-before-too-late-sadiq-khan-tells-labour)
+2. [Reuters](http://in.reuters.com/article/britain-labour-idINKCN10W04A)
+
+### Related:
+
+1. [The Communist Party of Britain announces it will not field any candidates in the upcoming general election for the first time since its formation in 1920, and endorses Labour leader Jeremy Corbyn, saying victory for Mr Corbyn at the general election in June would be "the first step towards a formation of left-led government at Westminster". ](/news/2017/04/24/the-communist-party-of-britain-announces-it-will-not-field-any-candidates-in-the-upcoming-general-election-for-the-first-time-since-its-form.md) _Context: Jeremy Corbyn, Labour_
+2. [London Mayor Sadiq Khan declares a public health emergency for at least the next three days because of high levels of air pollution in the London area. The Department for Environment says this pollution episode could last until at least Sunday. ](/news/2017/01/18/london-mayor-sadiq-khan-declares-a-public-health-emergency-for-at-least-the-next-three-days-because-of-high-levels-of-air-pollution-in-the-l.md) _Context: London Mayor, Sadiq Khan_
+3. [Incumbent Jeremy Corbyn wins the leadership contest over Owen Smith with 61.8% of the vote. ](/news/2016/09/24/incumbent-jeremy-corbyn-wins-the-leadership-contest-over-owen-smith-with-61-8-of-the-vote.md) _Context: Jeremy Corbyn, Labour Party (UK) leadership election, 2016_
+4. [Britain's Court of Appeal, reversing Monday's High Court decision, rules the  Labour Party has the right to prevent up to 130,000 new members who joined less than six months ago from voting in the party's leadership contest between incumbent Jeremy Corbyn and legislator Owen Smith. An appeal to the United Kingdom Supreme Court is possible. ](/news/2016/08/12/britain-s-court-of-appeal-reversing-monday-s-high-court-decision-rules-the-labour-party-has-the-right-to-prevent-up-to-130-000-new-member.md) _Context: Jeremy Corbyn, Labour_
+5. [Angela Eagle drops out of the race and announces her endorsement of Owen Smith, the last remaining candidate to challenge incumbent party leader Jeremy Corbyn. ](/news/2016/07/19/angela-eagle-drops-out-of-the-race-and-announces-her-endorsement-of-owen-smith-the-last-remaining-candidate-to-challenge-incumbent-party-le.md) _Context: Jeremy Corbyn, Labour Party (UK) leadership election, 2016_
+6. [The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-become-the-new-leader-of-the-labour-party-after.md) _Context: Jeremy Corbyn, Labour_
+7. [London votes Sadiq Khan to succeed Boris Johnson as Mayor of London; Khan is the first Muslim to be elected London's Mayor. ](/news/2016/05/6/london-votes-sadiq-khan-to-succeed-boris-johnson-as-mayor-of-london-khan-is-the-first-muslim-to-be-elected-london-s-mayor.md) _Context: London Mayor, Sadiq Khan_
+8. [Former Mayor of London Ken Livingstone is suspended by the Labour Party for claiming that Adolf Hitler was a Zionist. ](/news/2016/04/28/former-mayor-of-london-ken-livingstone-is-suspended-by-the-labour-party-for-claiming-that-adolf-hitler-was-a-zionist.md) _Context: Labour, London Mayor_
+9. [The outcome of the election for the next leader of the United Kingdom Labour Party is announced with Jeremy Corbyn winning the contest ahead of Yvette Cooper, Andy Burnham and Liz Kendall while Tom Watson is elected as the new deputy leader. ](/news/2015/09/12/the-outcome-of-the-election-for-the-next-leader-of-the-united-kingdom-labour-party-is-announced-with-jeremy-corbyn-winning-the-contest-ahead.md) _Context: Jeremy Corbyn, Labour_
+10. [Jeremy Corbyn, the leader of the opposition Labour Party, positions himself as an "anti-establishment" candidate as he vows to end the "rigged" system. ](/news/2017/04/20/jeremy-corbyn-the-leader-of-the-opposition-labour-party-positions-himself-as-an-anti-establishment-candidate-as-he-vows-to-end-the-rigg.md) _Context: Jeremy Corbyn_

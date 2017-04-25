@@ -1,0 +1,24 @@
+### [2005-07-26](/news/2005/07/26/index.md)
+
+#  In Israel, there are reports that Jewish ultranationalists have cast a Pulsa diNura death curse over Ariel Sharon 
+
+Condemnations of the Pulsa Dinura death prayer against Prime Minister Sharon, conducted by radical rabbis and right-wing activists, have come flooding in from across the political spectrum
+
+
+### Source:
+
+1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26684414.htm)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3118408,00.html)
+
+### Related:
+
+1. [Former Prime Minister of Israel, Ariel Sharon, is buried on his ranch in southern Israel following a state funeral at the Knesset attended by foreign dignitaries and Israelis. ](/news/2014/01/14/former-prime-minister-of-israel-ariel-sharon-is-buried-on-his-ranch-in-southern-israel-following-a-state-funeral-at-the-knesset-attended-b.md) _Context: Ariel Sharon, Israel_
+2. [ Israeli Prime Minister Ariel Sharon undergoes emergency surgery due to digestive problems. His condition is critical. ](/news/2006/02/11/israeli-prime-minister-ariel-sharon-undergoes-emergency-surgery-due-to-digestive-problems-his-condition-is-critical.md) _Context: Ariel Sharon, Israel_
+3. [ Israeli television claims that Police in Tel Aviv found evidence that proves Prime Minister of Israel Ariel Sharon's family took bribes while Sharon was running for the leadership of the Likud Party. An aide dismissed the allegations. ](/news/2006/01/3/israeli-television-claims-that-police-in-tel-aviv-found-evidence-that-proves-prime-minister-of-israel-ariel-sharon-s-family-took-bribes-whi.md) _Context: Ariel Sharon, Israel_
+4. [ Israeli Prime Minister Ariel Sharon calls for the expulsion of Iran from the United Nations after the Iranian President repeated Ruhollah Khomeini's call for Israel to be "wiped off the map". ](/news/2005/10/27/israeli-prime-minister-ariel-sharon-calls-for-the-expulsion-of-iran-from-the-united-nations-after-the-iranian-president-repeated-ruhollah-k.md) _Context: Ariel Sharon, Israel_
+5. [ In Israel, president Moshe Katsav states that he is worried about a possible assassination plot against Prime Minister of Israel Ariel Sharon. ](/news/2005/07/4/in-israel-president-moshe-katsav-states-that-he-is-worried-about-a-possible-assassination-plot-against-prime-minister-of-israel-ariel-shar.md) _Context: Ariel Sharon, Israel_
+6. [ In Israel, Omri Sharon, MP and son of Ariel Sharon, is indicted for involvement in illegal campaign contributions, perjury and forging documents. Omri Sharon states that he would give up his parliamentary immunity and stand trial ](/news/2005/07/26/in-israel-omri-sharon-mp-and-son-of-ariel-sharon-is-indicted-for-involvement-in-illegal-campaign-contributions-perjury-and-forging-docu.md) _Context: Ariel Sharon, Israel_
+7. [ Israeli-Palestinian Conflict:  Israel freezes the handover of West Bank Palestinian towns to the Palestinian Authority. Israel claims they will resume the handover process when militant groups are disarmed. The Prime Minister of Israel, Ariel Sharon, had agreed to hand over five West Bank towns to Palestinian control, but thus far has only handed over Tulkarm and Jericho. ](/news/2005/05/4/israeli-palestinian-conflict-p-israel-freezes-the-handover-of-west-bank-palestinian-towns-to-the-palestinian-authority-israel-claims-they.md) _Context: Ariel Sharon, Israel_
+8. [ Ariel Sharon, the Prime Minister of Israel, was heckled and booed at a meeting to promote the planned Israeli withdrawal from the Gaza Strip by several U.S. Jews. ](/news/2005/05/22/ariel-sharon-the-prime-minister-of-israel-was-heckled-and-booed-at-a-meeting-to-promote-the-planned-israeli-withdrawal-from-the-gaza-stri.md) _Context: Ariel Sharon, Israel_
+9. [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his "''courageous initiative''" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settl.md) _Context: Ariel Sharon, Israel_
+10. [ Israeli-Palestinian Conflict: A truce is declared between Israel and the Palestinian Authority.  Mahmoud Abbas, the President of the Palestinian Authority, and Ariel Sharon, the Prime Minister of Israel,  shook hands at a four-way summit at Sharm el-Sheikh that was also attended by Egyptian President Hosni Mubarak and Jordan's King Abdullah.  Palestinian organization Hamas says it is not bound by the ceasefire.  ](/news/2005/02/8/israeli-palestinian-conflict-a-truce-is-declared-between-israel-and-the-palestinian-authority-mahmoud-abbas-the-president-of-the-palest.md) _Context: Ariel Sharon, Israel_

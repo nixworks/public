@@ -1,0 +1,23 @@
+### [2016-10-13](/news/2016/10/13/index.md)
+
+# The Maldives leaves the Commonwealth of Nations after 34 years, claiming that it has been "unfairly and unjustly" treated by the intergovernmental organization. 
+
+The Maldives has left the Commonwealth, claiming it was &quot;unfairly and unjustly&quot; treated by the global body that was due to consider sanctions - including suspension - against the nation after its &quot;lack of progress&quot; on a raft of democratic reforms.
+
+
+### Source:
+
+1. [The Telegraph](http://www.telegraph.co.uk/news/2016/10/13/maldives-leaves-commonwealth-as-it-claims-unfair-treatment-in-ro/)
+
+### Related:
+
+1. [British Foreign Secretary Boris Johnson, during a visit to the Gambia, announces that the West African nation is to rejoin the Commonwealth of Nations following talks with Gambian President Adama Barrow. The Gambia withdrew from the Commonwealth in 2013 under Yahya Jammeh, who considered it a "neo-colonial institution". ](/news/2017/02/14/british-foreign-secretary-boris-johnson-during-a-visit-to-the-gambia-announces-that-the-west-african-nation-is-to-rejoin-the-commonwealth.md) _Context: Commonwealth of Nations_
+2. [A Maldives court convicts  Ahmed Adeeb, the country's former vice president, of masterminding a plot to kill President Abdulla Yameen. He is sentenced to 15 years  in prison. Earlier this week, Adeeb was sentenced to 10 years for firearms possession. ](/news/2016/06/10/a-maldives-court-convicts-ahmed-adeeb-the-country-s-former-vice-president-of-masterminding-a-plot-to-kill-president-abdulla-yameen-he-is.md) _Context: Maldives_
+3. [Police forcibly break up a protest in Male, Maldives, with tear gas and pepper spray and detain multiple journalists. The demonstration was against government moves to introduce a new law to criminalize defamation. ](/news/2016/04/3/police-forcibly-break-up-a-protest-in-mala-c-maldives-with-tear-gas-and-pepper-spray-and-detain-multiple-journalists-the-demonstration-was.md) _Context: Maldives_
+4. [Elizabeth II, queen regnant of the United Kingdom and Head of the Commonwealth of Nations, celebrates her 90th birthday. ](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.md) _Context: Commonwealth of Nations_
+5. [Maldives jails opposition leader Sheikh Imran Abdulla for terrorism. It is claimed that he urged the overthrow of the government in a speech. ](/news/2016/02/17/maldives-jails-opposition-leader-sheikh-imran-abdulla-for-terrorism-it-is-claimed-that-he-urged-the-overthrow-of-the-government-in-a-speech.md) _Context: Maldives_
+6. [Patricia Scotland, Baroness Scotland of Asthal, is appointed as the sixth Secretary-General  of the Commonwealth of Nations. She will become the first woman to hold the position from April 2016. ](/news/2015/11/27/patricia-scotland-baroness-scotland-of-asthal-is-appointed-as-the-sixth-secretary-general-of-the-commonwealth-of-nations-she-will-become.md) _Context: Commonwealth of Nations_
+7. [Voters in the Maldives go to the polls for the second round of a presidential election. ](/news/2013/11/9/voters-in-the-maldives-go-to-the-polls-for-the-second-round-of-a-presidential-election.md) _Context: Maldives_
+8. [Voters in the Maldives go to the polls for a presidential election with Abdulla Yameen winning the election with 51.3% of the vote. ](/news/2013/11/16/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-abdulla-yameen-winning-the-election-with-51-3-of-the-vote.md) _Context: Maldives_
+9. [The Gambia is to withdraw from the Commonwealth, 48 years after joining the 54-member grouping, which includes the United Kingdom and most of its former colonies. ](/news/2013/10/3/the-gambia-is-to-withdraw-from-the-commonwealth-48-years-after-joining-the-54-member-grouping-which-includes-the-united-kingdom-and-most-o.md) _Context: Commonwealth of Nations_
+10. [Voters in the Maldives go to the polls for a Presidential election with no candidate achieving an outright majority with a runoff election to be held on September 28. ](/news/2013/09/7/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-no-candidate-achieving-an-outright-majority-with-a-runoff-election-t.md) _Context: Maldives_

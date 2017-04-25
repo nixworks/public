@@ -1,0 +1,25 @@
+### [2011-10-9](/news/2011/10/9/index.md)
+
+# A magnitude 4.3 earthquake hits the southern coast of El Hierro in the southwestern Canary Islands of Spain, the strongest such earthquake to occur in an earthquake swarm on the island. The quake is believed to have been caused by rising magma, which has forced evacuations amid fears of an impending volcanic eruption, which last occurred on El Hierro in 1793. 
+
+Get the latest digital weather news by visiting our website online. Our live Irish weather broadcast is update 24/7!
+
+
+### Source:
+
+1. [Irish Weather Online](http://www.irishweatheronline.com/news/earth-science/geology/volcanic-alert-in-effect-on-el-hierro-as-4-3-magnitude-earthquake-hits/41200.html)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-2042873/Earthquake-swarm-Canary-Island-El-Hierro-sparks-fears-volcanic-eruption.html?ito=feeds-newsxml)
+3. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=731865&publicationSubCategoryId=200)
+
+### Related:
+
+1. [Residents of El Hierro in Spain's Canary Islands are evacuated following continuing volcanic activity. ](/news/2011/11/5/residents-of-el-hierro-in-spain-s-canary-islands-are-evacuated-following-continuing-volcanic-activity.md) _Context: Canary Islands', El Hierro, Spain_
+2. [Air travel disruption after the 2010 Eyjafjallajkull eruption:Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/air-travel-disruption-after-the-2010-eyjafjallajokull-eruption-pfour-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed.md) _Context: Canary Islands', Spain_
+3. [ A prominent human rights campaigner for the Western Sahara region, Aminatou Haidar, who is on hunger strike at an airport in the Canary Islands, is to appear in a Spanish court on charges of public disorder. ](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-western-sahara-region-aminatou-haidar-who-is-on-hunger-strike-at-an-airport-in-the-canary-isl.md) _Context: Canary Islands', Spain_
+4. [ Hundreds of firefighters on the Spanish island of La Palma in the Canary Islands are continuing to battle wildfires. ](/news/2009/08/2/hundreds-of-firefighters-on-the-spanish-island-of-la-palma-in-the-canary-islands-are-continuing-to-battle-wildfires.md) _Context: Canary Islands', Spain_
+5. [ UNESCO designates 22 new World Heritage Sites, including the Sydney Opera House; Canada's Rideau Canal; Japan's Iwami Ginzan Silver Mine; Turkmenistan's Parthian Fortresses of Nisa; India's Red Fort complexes; the Lope-Okanda Landscape of Gabon; the Richtersveld desert of South Africa; the rock carvings of Twyfelfontein in Namibia; the fortified tower houses of Guangdong Province in the People's Republic of China; Teide National Park in the Canary Islands, Spain; the ancient beech forests of Central Europe; Mehmed Pasa Sokolovic Bridge in Bosnia and Herzegovina; Bordeaux and the Port de la Lune in France; the Old Town of Corfu in Greece; and the Palace of Galerius in Gamzigrad-Romuliana in Serbia. ](/news/2007/06/28/unesco-designates-22-new-world-heritage-sites-including-the-sydney-opera-house-canada-s-rideau-canal-japan-s-iwami-ginzan-silver-mine-t.md) _Context: Canary Islands', Spain_
+6. [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md) _Context: magnitude_
+7. [In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _Context: Spain_
+8. [Europol reports a total of more than 10,000 assault rifles and 400 shelling weapons were seized in northern Spain during an anti-trafficking operation in January. ](/news/2017/03/14/europol-reports-a-total-of-more-than-10-000-assault-rifles-and-400-shelling-weapons-were-seized-in-northern-spain-during-an-anti-trafficking.md) _Context: Spain_
+9. [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md) _Context: Spain_
+10. [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md) _Context: Spain_

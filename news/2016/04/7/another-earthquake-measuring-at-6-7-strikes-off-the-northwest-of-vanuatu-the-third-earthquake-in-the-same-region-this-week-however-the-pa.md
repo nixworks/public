@@ -1,0 +1,23 @@
+### [2016-04-7](/news/2016/04/7/index.md)
+
+# Another earthquake measuring at 6.7 strikes off the northwest of Vanuatu, the third earthquake in the same region this week. However, the Pacific Tsunami Warning Center says the earthquake poses no tsunami threat. 
+
+An earthquake measuring 6.7 has struck the northwest of Vanuatu, the third large earthquake in the same region this week.
+
+
+### Source:
+
+1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/300919/another-large-earthquake-strikes-vanuatu's-north)
+
+### Related:
+
+1. [A magnitude 7.0 earthquake hits off the coast of the Vanuatu island of Malakula, prompting the Pacific Tsunami Warning Center (PTWC) to issue a tsunami warning for the coasts of New Caledonia, Papua New Guinea, Solomon Islands and Vanuatu, which was later cancelled. ](/news/2016/04/29/a-magnitude-7-0-earthquake-hits-off-the-coast-of-the-vanuatu-island-of-malakula-prompting-the-pacific-tsunami-warning-center-ptwc-to-issu.md) _Context: Pacific Tsunami Warning Center, Vanuatu_
+2. [Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-through-new-caledonia-tomorrow.md) _Context: Vanuatu_
+3. [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md) _Context: Vanuatu_
+4. [Tsunami warnings are issued for the Pacific region, including Indonesia and  the Solomon Islands, following a 7.9 magnitude earthquake east of Papua New Guinea. The Pacific Tsunami Warning Center later reports the threat has largely passed. ](/news/2016/12/17/tsunami-warnings-are-issued-for-the-pacific-region-including-indonesia-and-the-solomon-islands-following-a-7-9-magnitude-earthquake-east.md) _Context: Pacific Tsunami Warning Center_
+5. [The United States Geological Survey (USGS) reports a 7.7 magnitude earthquake has struck off the Northern Mariana Islands in the Pacific Ocean. The Pacific Tsunami Warning Center says there is no tsunami threat because the quake was very deep in the earth. ](/news/2016/07/29/the-united-states-geological-survey-usgs-reports-a-7-7-magnitude-earthquake-has-struck-off-the-northern-mariana-islands-in-the-pacific-oce.md) _Context: Pacific Tsunami Warning Center_
+6. [A 6.9 magnitude earthquake occurs off the coast of Vanuatu with a tsunami warning issued. ](/news/2016/04/3/a-6-9-magnitude-earthquake-occurs-off-the-coast-of-vanuatu-with-a-tsunami-warning-issued.md) _Context: Vanuatu_
+7. [A magnitude 7.8 earthquake strikes off the coast of Ecuador, near the town of Muisne. The Pacific Tsunami Warning Center issues a tsunami alert for coastal areas of Ecuador and Colombia. At least 42 people are reported dead with deaths reported in the cities of Manta, Guayaquil and Portoviejo. ](/news/2016/04/16/a-magnitude-7-8-earthquake-strikes-off-the-coast-of-ecuador-near-the-town-of-muisne-the-pacific-tsunami-warning-center-issues-a-tsunami-al.md) _Context: Pacific Tsunami Warning Center_
+8. [Residents of the islands of Tafea are urged to seek shelter as Severe Tropical Cyclone Ula approaches Vanuatu. ](/news/2016/01/10/residents-of-the-islands-of-tafea-are-urged-to-seek-shelter-as-severe-tropical-cyclone-ula-approaches-vanuatu.md) _Context: Vanuatu_
+9. [The U.S. Geological Survey reports a magnitude 6.7 earthquake struck off the southwest coast of Japan. The quake occurred 119 miles (191 km) west-southwest of Kagoshima. The Pacific Tsunami Center reported no major tsunami threat. A small tsunami, 30 centimeters (11.8 inches), was observed on the southern island of Nakanoshima. No reports of major damage or injuries. ](/news/2015/11/14/the-u-s-geological-survey-reports-a-magnitude-6-7-earthquake-struck-off-the-southwest-coast-of-japan-the-quake-occurred-119-miles-191-km.md) _Context: Pacific Tsunami Warning Center_
+10. [Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md) _Context: Vanuatu_

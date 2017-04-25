@@ -1,0 +1,24 @@
+### [2010-11-6](/news/2010/11/6/index.md)
+
+# Somali pirates receive a record PS7.6m in ransoms for seized South Korean and Singaporean ships. 
+
+Somali pirates are reported to have received a total of about $12.3m (£7.6m) in ransom money to release two ships.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/2010116231624431468.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11704306)
+
+### Related:
+
+1. [PiracySouth Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. ](/news/2011/02/16/piracypsouth-korea-will-fly-the-bodies-of-eight-somali-pirates-killed-in-a-commando-raid-on-a-freighter-last-month-from-muscat-oman-to-mog.md) _Context: Somali pirates, South Korea_
+2. [The South Korean navy directs an operation against Somali pirates who hijacked a South Korean ship, rescuing all 21 hostages, while eight pirates are killed and five are captured. ](/news/2011/01/21/the-south-korean-navy-directs-an-operation-against-somali-pirates-who-hijacked-a-south-korean-ship-rescuing-all-21-hostages-while-eight-pi.md) _Context: Somali pirates, South Korea_
+3. [Somali pirates hijack a South Korean owned Kenyan registered fishing boat with 43 crew aboard. ](/news/2010/10/17/somali-pirates-hijack-a-south-korean-owned-kenyan-registered-fishing-boat-with-43-crew-aboard.md) _Context: Somali pirates, South Korea_
+4. [Somali pirates hijack a Singaporean chemical tanker in the Gulf of Aden, carrying a cargo of ethylene glycol. ](/news/2010/06/28/somali-pirates-hijack-a-singaporean-chemical-tanker-in-the-gulf-of-aden-carrying-a-cargo-of-ethylene-glycol.md) _Context: Singapore, Somali pirates_
+5. [ Piracy in Somalia: A chemical tanker, the Singapore-operated ''MV Theresa VIII'' with 28 North Koreans on board, is seized by Somali pirates northwest of the Seychelles. ](/news/2009/11/17/piracy-in-somalia-p-a-chemical-tanker-the-singapore-operated-mv-theresa-viii-with-28-north-koreans-on-board-is-seized-by-somali-pirat.md) _Context: Singapore, Somali pirates_
+6. [ A South Korean Navy destroyer rescues a North Korean cargo ship from Somali pirates. ](/news/2009/05/4/a-south-korean-navy-destroyer-rescues-a-north-korean-cargo-ship-from-somali-pirates.md) _Context: Somali pirates, South Korea_
+7. [ The South Korean Navy destroyer ''Mummu the Great'' and the U.S. Navy cruiser ''Gettysburg'' capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gul.md) _Context: Somali pirates, South Korea_
+8. [Hyundai (Sonata and Santa Fe) and Kia (Optima, Sorento, and Sportage) are recalling 1.5 million cars, over 1.3 million in United States and 170,000 in South Korea, over an engine defect. ](/news/2017/04/7/hyundai-sonata-and-santa-fe-and-kia-optima-sorento-and-sportage-are-recalling-1-5-million-cars-over-1-3-million-in-united-states-and.md) _Context: South Korea_
+9. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: South Korea_
+10. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: South Korea_

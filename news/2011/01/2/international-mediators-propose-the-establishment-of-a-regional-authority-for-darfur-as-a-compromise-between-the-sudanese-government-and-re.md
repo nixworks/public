@@ -1,0 +1,23 @@
+### [2011-01-2](/news/2011/01/2/index.md)
+
+# International mediators propose the establishment of a regional authority for Darfur, as a compromise between the Sudanese government and rebels' demands, in a diplomatic effort to respond to Sudanese President Bashir's order last week to withdraw the Sudanese government delegation from talks in Doha. 
+
+
+
+
+### Source:
+
+1. [Radio Dabanga](http://www.radiodabanga.org/node/7902)
+
+### Related:
+
+1. [The High Court in Pretoria rules that the President of Sudan Omar Al-Bashir should be arrested in South Africa and detained pending a formal request from the International Criminal Court. However, immediately after the ruling, the South African Government announces that Al-Bashir has already departed. He is wanted in connection with the war in Darfur. ](/news/2015/06/15/the-high-court-in-pretoria-rules-that-the-president-of-sudan-omar-al-bashir-should-be-arrested-in-south-africa-and-detained-pending-a-formal.md) _Context: Darfur, Omar al-Bashir_
+2. [Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with-94-4-per-cent-of-the-vote-extend.md) _Context: Darfur, Omar al-Bashir_
+3. [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md) _Context: Darfur, Doha_
+4. [Sudanese president Omar al-Bashir, the subject of an International Criminal Court arrest warrant for genocide, war crimes and crimes against humanity in the region of Darfur, unexpectedly delays his visit to China without official explanation, after he had already departed for an anti-terrorism conference hosted by Iran. ](/news/2011/06/27/sudanese-president-omar-al-bashir-the-subject-of-an-international-criminal-court-arrest-warrant-for-genocide-war-crimes-and-crimes-against.md) _Context: Darfur, Omar al-Bashir_
+5. [Sudanese President Omar al-Bashir says the government will withdraw from peace talks with rebels from Darfur unless a deal is reached this week. ](/news/2010/12/30/sudanese-president-omar-al-bashir-says-the-government-will-withdraw-from-peace-talks-with-rebels-from-darfur-unless-a-deal-is-reached-this-w.md) _Context: Darfur, Omar al-Bashir_
+6. [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been  acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acqui.md) _Context: Darfur, Sudanese government_
+7. [President of Sudan Omar al-Bashir says the "mandate" of the United Nations, African Union and international aid organisations in Darfur is to "support government authorities" and that expulsion is the other option. ](/news/2010/08/8/president-of-sudan-omar-al-bashir-says-the-mandate-of-the-united-nations-african-union-and-international-aid-organisations-in-darfur-is-t.md) _Context: Darfur, Omar al-Bashir_
+8. [Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week.  ](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.md) _Context: Darfur, Sudanese government_
+9. [Sudan's President Omar al-Bashir could still face charges of genocide in Darfur. ](/news/2010/02/8/sudan-s-president-omar-al-bashir-could-still-face-charges-of-genocide-in-darfur.md) _Context: Darfur, Omar al-Bashir_
+10. [Sudanese President Omar al-Bashir and the main Darfur rebel group, the Justice and Equality Movement, sign a ceasefire deal. ](/news/2010/02/23/sudanese-president-omar-al-bashir-and-the-main-darfur-rebel-group-the-justice-and-equality-movement-sign-a-ceasefire-deal.md) _Context: Darfur, Omar al-Bashir_

@@ -1,0 +1,26 @@
+### [2010-08-12](/news/2010/08/12/index.md)
+
+# A national search uncovers 200 missing Japanese centenarians so far. 
+
+Nearly 200 Japanese centenarians are missing, according to a national audit carried out amid growing fears of widespread welfare fraud.
+
+
+### Source:
+
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20100812081608189C721133)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10949562)
+3. [Japan Today](http://www.japantoday.com/category/national/view/38-of-47-prefectures-checking-whereabouts-of-elderly)
+4. [AFP via France24](http://www.france24.com/en/20100812-nearly-200-japans-oldest-citizens-missing)
+
+### Related:
+
+1. [Remains of a 104-year-old woman's body are discovered in her son's backpack during a nationwide search in Japan for missing centenarians. It is thought they may have been there for a decade. ](/news/2010/08/20/remains-of-a-104-year-old-woman-s-body-are-discovered-in-her-son-s-backpack-during-a-nationwide-search-in-japan-for-missing-centenarians-it.md) _Context: 100th birthday, Japan_
+2. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan_
+3. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Japan_
+4. [A Japanese fleet returns home after hunting 333 whales in the Antarctic. The Japanese government states that the purpose was for research. ](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333-whales-in-the-antarctic-the-japanese-government-states-that-the-purpose-was-for-research.md) _Context: Japan_
+5. [An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. ](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.md) _Context: Japan_
+6. [Japan ratifies the  Trans-Pacific Partnership. ](/news/2016/12/9/japan-ratifies-the-trans-pacific-partnership.md) _Context: Japan_
+7. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan_
+8. [A 6.9 magnitude earthquake off Japan's Fukushima Prefecture injures 15 people, and triggers a 1 meter tsunami that causes a temporary power disruption at Fukushima Daini Nuclear Power Plant. ](/news/2016/11/22/a-6-9-magnitude-earthquake-off-japan-s-fukushima-prefecture-injures-15-people-and-triggers-a-1-meter-tsunami-that-causes-a-temporary-power.md) _Context: Japan_
+9. [Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md) _Context: Japan_
+10. [Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.md) _Context: Japan_

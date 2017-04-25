@@ -1,0 +1,23 @@
+### [2016-01-15](/news/2016/01/15/index.md)
+
+# A special court is set up at The Hague to try Kosovo Liberation Army suspects for alleged war crimes against ethnic minorities and political opponents. 
+
+A special court is being set up in The Hague to try war crimes committed during the war in Kosovo, the Dutch government says.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-35327494)
+
+### Related:
+
+1. [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the  International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-t.md) _Context: Kosovo Liberation Army, The Hague_
+2. [ Ramush Haradinaj, the former prime minister of Kosovo, flies to International Criminal Tribunal for the Former Yugoslavia in The Hague to answer for charges for his role as a former commander of Kosovo Liberation Army in 1998-1999. He goes there voluntarily. ](/news/2005/03/9/ramush-haradinaj-the-former-prime-minister-of-kosovo-flies-to-international-criminal-tribunal-for-the-former-yugoslavia-in-the-hague-to-a.md) _Context: Kosovo Liberation Army, The Hague_
+3. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: The Hague_
+4. [The trial of former President of the Ivory Coast Laurent Gbagbo for crimes against humanity begins at the International Criminal Court in The Hague. ](/news/2016/01/28/the-trial-of-former-president-of-the-ivory-coast-laurent-gbagbo-for-crimes-against-humanity-begins-at-the-international-criminal-court-in-th.md) _Context: The Hague_
+5. [NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-years-after-the-countr.md) _Context: Kosovo War_
+6. [The United Nations General Assembly humanitarian committee adopts, by a 112&ndash;19 vote (with 50 abstentions), a resolution that condemns North Korea for gross violations of human rights and supports referring the country and its leaders to the International Criminal Court in The Hague. The resolution will be sent to the full General Assembly, where it is expected to pass, given the committee vote. ](/news/2015/11/19/the-united-nations-general-assembly-humanitarian-committee-adopts-by-a-112-ndash-19-vote-with-50-abstentions-a-resolution-that-condemns.md) _Context: The Hague_
+7. [The Permanent Court of Arbitration in The Hague rules it has jurisdiction to hear the Philippines' case against China over maritime disputes in the South China Sea. ](/news/2015/10/30/the-permanent-court-of-arbitration-in-the-hague-rules-it-has-jurisdiction-to-hear-the-philippines-case-against-china-over-maritime-disputes.md) _Context: The Hague_
+8. [''Philippines v. China''The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/philippines-v-china-pthe-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually.md) _Context: The Hague_
+9. [Dutch police detain 200 young people in The Hague for not following curfew as violence continues in the Schilderswijk district for a fourth night. ](/news/2015/07/3/dutch-police-detain-200-young-people-in-the-hague-for-not-following-curfew-as-violence-continues-in-the-schilderswijk-district-for-a-fourth.md) _Context: The Hague_
+10. [The International Court of Arbitration in The Hague urges China to respond to ''Philippines v. China'', the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-re.md) _Context: The Hague_

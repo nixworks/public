@@ -1,0 +1,24 @@
+### [2015-06-16](/news/2015/06/16/index.md)
+
+# In basketball, the Golden State Warriors defeat the Cleveland Cavaliers 105-97 in Game 6 to secure their first title since 1975. Andre Iguodala is named the series MVP.  
+
+
+
+
+### Source:
+
+1. [AL.com](http://www.al.com/sports/index.ssf/2015/06/nba_finals_2015_who_should_be.html)
+2. [Fox Sports](http://www.foxsports.com.au/us-sports/nba-finals-game-6-live-cleveland-cavaliers-vs-golden-state-warriors-live-updates-video/story-e6frf6ju-1227398935259)
+
+### Related:
+
+1. [In basketball, the Cleveland Cavaliers beat the Golden State Warriors in seven games to win the 2016 NBA Championship. Cleveland, winning its first NBA title in the franchise's 45-year history, also became the first NBA team to rally from a 3-1 deficit and win the crown. Tonight's victory also ends the 52-year title drought of Cleveland's major sports teams; in 1964, the Cleveland Browns shut out the Baltimore Colts for the NFL title. Cleveland's LeBron James is unanimously voted the Most Valuable Player of the NBA Finals, his third such award. ](/news/2016/06/19/in-basketball-the-cleveland-cavaliers-beat-the-golden-state-warriors-in-seven-games-to-win-the-2016-nba-championship-cleveland-winning-it.md) _Context: Cleveland Cavaliers, Golden State Warriors, Most Valuable Player of the NBA Finals, basketball_
+2. [ The Cleveland Cavaliers defeated the Golden State Warriors in Game 6 of the NBA finals 115-101, forcing a Game 7 which will be held in Oakland, California on June 19.](/news/2016/06/16/the-cleveland-cavaliers-defeated-the-golden-state-warriors-in-game-6-of-the-nba-finals-115a101-forcing-a-game-7-which-will-be-held-in-oa.md) _Context: Cleveland Cavaliers, Golden State Warriors_
+3. [In basketball, the visiting Boston Celtics defeat the Golden State Warriors, snapping the Warrior's 14-month, 54-game home win streak which leaves the San Antonio Spurs with the only undefeated home record this season. ](/news/2016/04/2/in-basketball-the-visiting-boston-celtics-defeat-the-golden-state-warriors-snapping-the-warrior-s-14-month-54-game-home-win-streak-which.md) _Context: Golden State Warriors, basketball_
+4. [In basketball, Stephen Curry of the Golden State Warriors is named as Most Valuable Player of the North American National Basketball Association for the 2014-15 NBA season. ](/news/2015/05/4/in-basketball-stephen-curry-of-the-golden-state-warriors-is-named-as-most-valuable-player-of-the-north-american-national-basketball-associa.md) _Context: Golden State Warriors, basketball_
+5. [In basketball, the Golden State Warriors defeat the Houston Rockets 104-90 to win the Western Conference 4-1 and go to the NBA Finals for the first time since 1975. ](/news/2015/05/27/in-basketball-the-golden-state-warriors-defeat-the-houston-rockets-104-90-to-win-the-western-conference-4-1-and-go-to-the-nba-finals-for-th.md) _Context: 2015 NBA Finals, Golden State Warriors_
+6. [In North American basketball, the National Basketball Association holds its annual draft in the Barclays Center in Brooklyn with the Cleveland Cavaliers selecting Canadian Andrew Wiggins as the first pick. ](/news/2014/06/26/in-north-american-basketball-the-national-basketball-association-holds-its-annual-draft-in-the-barclays-center-in-brooklyn-with-the-clevela.md) _Context: Cleveland Cavaliers, basketball_
+7. [In basketball, David Blatt, who coached Maccabi Tel Aviv to the Euroleague title this past season, has reportedly reached a deal to become the new head coach of the Cleveland Cavaliers. Blatt is the first Euroleague coach to become an NBA head coach. ](/news/2014/06/20/in-basketball-david-blatt-who-coached-maccabi-tel-aviv-to-the-euroleague-title-this-past-season-has-reportedly-reached-a-deal-to-become-t.md) _Context: Cleveland Cavaliers, basketball_
+8. [In basketball, the Miami Heat defeat the San Antonio Spurs to win the NBA Finals 4-3, successfully defending their title from last season. Season MVP LeBron James is named Finals MVP for the second straight year. ](/news/2013/06/20/in-basketball-the-miami-heat-defeat-the-san-antonio-spurs-to-win-the-nba-finals-4a3-successfully-defending-their-title-from-last-season.md) _Context: Most Valuable Player of the NBA Finals, basketball_
+9. [In basketball, the Cleveland Cavaliers win the NBA Draft Lottery for number one pick in the 2013 NBA Draft. ](/news/2013/05/21/in-basketball-the-cleveland-cavaliers-win-the-nba-draft-lottery-for-number-one-pick-in-the-2013-nba-draft.md) _Context: Cleveland Cavaliers, basketball_
+10. [In American basketball, the Miami Heat wins the 2012 NBA Finals defeating the Oklahoma City Thunder four games to one. LeBron James wins the NBA Finals MVP award. ](/news/2012/06/21/in-american-basketball-the-miami-heat-wins-the-2012-nba-finals-defeating-the-oklahoma-city-thunder-four-games-to-one-lebron-james-wins-the.md) _Context: Most Valuable Player of the NBA Finals, basketball_

@@ -1,0 +1,23 @@
+### [2016-04-19](/news/2016/04/19/index.md)
+
+# Authorities in China sentence Huang Yu, a computer technician from Sichuan who worked for a government department which handled state secrets, to death for leaking more than 150,000 classified documents to an unidentified foreign power. The documents in question covered secrets ranging from the ruling Communist Party to military and financial issues. 
+
+Huang Yu convicted of leaking state secrets to unidentified foreign power, state television said on Tuesday
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/world/2016/apr/19/chinese-man-sentenced-to-death-for-leaking-150000-classified-documents)
+
+### Related:
+
+1. [Wei Hong is removed as the Governor of China's Sichuan province due to perceived disloyalty to the Communist Party. ](/news/2016/02/5/wei-hong-is-removed-as-the-governor-of-china-s-sichuan-province-due-to-perceived-disloyalty-to-the-communist-party.md) _Context: China, Communist Party of China, Sichuan_
+2. [China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-chinaapakistan-economic-corridor-that-connects-the-chin.md) _Context: China, military_
+3. [The two-child policy takes effect in China, allowing couples in the country to have at most two children, replacing the controversial one-child policy. The change in law was announced by the ruling Communist Party on October 29 and passed the Standing Committee of the National People's Congress on December 27, five days prior to its effect. ](/news/2016/01/1/the-two-child-policy-takes-effect-in-china-allowing-couples-in-the-country-to-have-at-most-two-children-replacing-the-controversial-one-ch.md) _Context: China, Communist Party of China_
+4. [Chinese Vice Foreign Minister Liu Zhenmin says the United States was making political provocations with its patrols in the disputed South China Sea. He also says China is building military facilities on islands and reefs in the South China Sea as part of its national defense policy. Yesterday, U.S. President Barack Obama said, for the sake of regional stability,  countries should stop building artificial islands and militarizing their claims in this sea. ](/news/2015/11/22/chinese-vice-foreign-minister-liu-zhenmin-says-the-united-states-was-making-political-provocations-with-its-patrols-in-the-disputed-south-ch.md) _Context: China, military_
+5. [The People's Liberation Army of China holds three days of live-fire drills in the Taiwan Strait, while Taiwan holds exercises simulating Chinese submarines attacking Kinmen and being repelled by Taiwanese amphibious forces. ](/news/2015/09/11/the-people-s-liberation-army-of-china-holds-three-days-of-live-fire-drills-in-the-taiwan-strait-while-taiwan-holds-exercises-simulating-chi.md) _Context: China, military_
+6. [Chinese prosecutors say that they are investigating former top Communist Party official Su Rong for alleged corruption. ](/news/2015/02/17/chinese-prosecutors-say-that-they-are-investigating-former-top-communist-party-official-su-rong-for-alleged-corruption.md) _Context: China, Communist Party of China_
+7. [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md) _Context: China, military_
+8. [''Philippines v. China''China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/philippines-v-china-pchina-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-th.md) _Context: China, military_
+9. [The death toll from yesterday's earthquake in China's Sichuan province rises to four with 54 injured. ](/news/2014/11/23/the-death-toll-from-yesterday-s-earthquake-in-china-s-sichuan-province-rises-to-four-with-54-injured.md) _Context: China, Sichuan_
+10. [A 5.9 magnitude earthquake occurs near the town of Kangding in China's Sichuan province resulting at least two deaths and 54 injuries. ](/news/2014/11/22/a-5-9-magnitude-earthquake-occurs-near-the-town-of-kangding-in-china-s-sichuan-province-resulting-at-least-two-deaths-and-54-injuries.md) _Context: China, Sichuan_

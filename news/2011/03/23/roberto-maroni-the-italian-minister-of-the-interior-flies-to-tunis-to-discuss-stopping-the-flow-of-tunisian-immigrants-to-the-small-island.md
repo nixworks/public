@@ -1,0 +1,23 @@
+### [2011-03-23](/news/2011/03/23/index.md)
+
+# Roberto Maroni, the Italian Minister of the Interior, flies to Tunis to discuss stopping the flow of Tunisian immigrants to the small island of Lampedusa following the Tunisian Revolution. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12827118?utm_source=twitterfeed&utm_medium=twitter)
+
+### Related:
+
+1. [Tunisian Revolution: Riot police break up an anti-government demonstration calling for a "new revolution" in the capital Tunis. ](/news/2011/05/6/tunisian-revolution-riot-police-break-up-an-anti-government-demonstration-calling-for-a-new-revolution-in-the-capital-tunis.md) _Context: Jasmine Revolution of 2011, Tunis_
+2. [Arab Spring:Tunisian revolution: Thousands of people demonstrate in Tunis to demand both the resignation of interim prime minister Beji Caid el Sebsi, a link with the old guard brought down in January's popular revolution, and the prosecution of Zine El Abidine Ben Ali, who fled to Saudi Arabia after being ousted, on charges such as murder and drug-trafficking. ](/news/2011/04/24/arab-spring-ptunisian-revolution-thousands-of-people-demonstrate-in-tunis-to-demand-both-the-resignation-of-interim-prime-minister-beji-cai.md) _Context: Jasmine Revolution of 2011, Tunis_
+3. [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _Context: Tunis_
+4. [UN-backed talks are underway in Tunis regarding the future of Libya, including discussions on forming a unified army for the Government of National Accord. ](/news/2016/07/17/un-backed-talks-are-underway-in-tunis-regarding-the-future-of-libya-including-discussions-on-forming-a-unified-army-for-the-government-of-n.md) _Context: Tunis_
+5. [Eritrean Mered Medhanie, aka ''The General'', leader of  one of the largest criminal operations unsafely smuggling migrants from Africa to Europe for up to EUR5,000 (PS3,900; $5,680), is extradited to Italy. Police say in one attempt at least 359 migrants died when their boat sank near the Italian island of Lampedusa in October 2013. ](/news/2016/06/8/eritrean-mered-medhanie-aka-the-general-leader-of-one-of-the-largest-criminal-operations-unsafely-smuggling-migrants-from-africa-to-e.md) _Context: Lampedusa_
+6. [Ernesto Fazzalari, Italy's second most-wanted fugitive and member of 'Ndrangheta, is arrested by the Carabinieri near Molochio in Calabria, Southern Italy, after two decades on the run. Interior Minister Angelino Alfano described Fazzalari as "one of the most important fugitives and a leading underworld figure". ](/news/2016/06/26/ernesto-fazzalari-italy-s-second-most-wanted-fugitive-and-member-of-ndrangheta-is-arrested-by-the-carabinieri-near-molochio-in-calabria.md) _Context: Interior Minister_
+7. [The Islamic State of Iraq and the Levant claim responsibility for yesterday's attack on Tunisia's presidential guard in Tunis that killed 14 people. ](/news/2015/11/25/the-islamic-state-of-iraq-and-the-levant-claim-responsibility-for-yesterday-s-attack-on-tunisia-s-presidential-guard-in-tunis-that-killed-14.md) _Context: Tunis_
+8. [An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis-leaves-at-least-15-people-dead-as-the-count.md) _Context: Tunis_
+9. [The Tunisian National Dialogue Quartet wins the 2015 Nobel Peace Prize for its "decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011." The Tunisian General Labour Union (UGTT), the Tunisian Confederation of Industry, Trade and Handicrafts (UTICA), the Tunisian Human Rights League (LTDH), and the Tunisian Order of Lawyers comprise the quartet. ](/news/2015/10/9/the-tunisian-national-dialogue-quartet-wins-the-2015-nobel-peace-prize-for-its-decisive-contribution-to-the-building-of-a-pluralistic-democ.md) _Context: Jasmine Revolution of 2011_
+10. [A Tunisian Army soldier is killed after a shooting rampage in which 7 fellow soldiers are killed and 10 others injured in their barracks in Tunis. ](/news/2015/05/25/a-tunisian-army-soldier-is-killed-after-a-shooting-rampage-in-which-7-fellow-soldiers-are-killed-and-10-others-injured-in-their-barracks-in.md) _Context: Tunis_

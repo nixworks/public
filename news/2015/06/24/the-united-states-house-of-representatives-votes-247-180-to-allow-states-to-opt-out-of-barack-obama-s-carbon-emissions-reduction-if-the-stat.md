@@ -1,0 +1,23 @@
+### [2015-06-24](/news/2015/06/24/index.md)
+
+# The United States House of Representatives votes 247-180 to allow states to opt out of Barack Obama's carbon emissions reduction if the state governor believes compliance would increase electricity bills too much or have an adverse effect on reliability of supply. 
+
+
+
+
+### Source:
+
+1. [AP](http://bigstory.ap.org/urn:publicid:ap.org:f8c8be3b6e2a42919b84084a4295a101)
+
+### Related:
+
+1. [The United States Senate and House of Representatives override the veto of President Barack Obama in regards to the Justice Against Sponsors of Terrorism Act. The act narrows the scope of the legal doctrine of foreign sovereign immunity, specifically, in this instance against the sovereign nation of Saudi Arabia. The action is the first such congressional veto override to Obama. ](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.md) _Context: Barack Obama, U.S. House_
+2. [The U.S. House passes the 2016 National Defense Authorization Act by a vote of 370-58.  In addition to funding the U.S. military, the bill contains provisions for sweeping personnel reforms. The previous version of the bill was vetoed by President Barack Obama.  Some sources expect swift passage by the U.S. Senate while other sources are not so optimistic. ](/news/2015/11/6/the-u-s-house-passes-the-2016-national-defense-authorization-act-by-a-vote-of-370-58-in-addition-to-funding-the-u-s-military-the-bill-c.md) _Context: Barack Obama, U.S. House_
+3. [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md) _Context: Barack Obama, U.S. House_
+4. [The United States House of Representatives votes to grant President Barack Obama fast track authority for the Trans-Pacific Partnership. ](/news/2015/06/25/the-united-states-house-of-representatives-votes-to-grant-president-barack-obama-fast-track-authority-for-the-trans-pacific-partnership.md) _Context: Barack Obama, U.S. House_
+5. [The United States House of Representatives files a lawsuit against President Barack Obama for executive actions undertaken in relation to the implementation of the Affordable Care Act. ](/news/2014/11/21/the-united-states-house-of-representatives-files-a-lawsuit-against-president-barack-obama-for-executive-actions-undertaken-in-relation-to-th.md) _Context: Barack Obama, U.S. House_
+6. [U.S. Representative Anthony Weiner of New York resigns his office amidst pressure from Democratic leadership and President Barack Obama after admitting to sending lewd photos via Twitter. ](/news/2011/06/16/u-s-representative-anthony-weiner-of-new-york-resigns-his-office-amidst-pressure-from-democratic-leadership-and-president-barack-obama-afte.md) _Context: Barack Obama, U.S. House_
+7. [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md) _Context: Barack Obama, U.S. House_
+8. [ Administration of United States President-elect Barack Obama:  Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. ](/news/2008/12/19/administration-of-united-states-president-elect-barack-obama-p-republican-party-representative-ray-lahood-of-illinois-is-nominated-as-the.md) _Context: Barack Obama, U.S. House_
+9. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: U.S. House_
+10. [U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. ](/news/2017/03/4/u-s-president-donald-trump-accuses-former-president-barack-obama-of-wiretapping-trump-tower-the-month-before-the-2016-presidential-election.md) _Context: Barack Obama_

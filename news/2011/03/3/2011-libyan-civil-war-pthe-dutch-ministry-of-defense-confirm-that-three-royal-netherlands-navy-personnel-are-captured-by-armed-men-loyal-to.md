@@ -1,0 +1,31 @@
+### [2011-03-3](/news/2011/03/3/index.md)
+
+# 2011 Libyan civil war:The Dutch Ministry of Defense confirm that three Royal Netherlands Navy personnel are captured by armed men loyal to Muammar Gaddafi during an evacuation operation. "Intensive diplomatic negotiations" are going on between Dutch and Libyan authorities and relatives of the crew are being kept informed. 
+
+The son of a retired Libyan academic fears the worst for his father and three brothers after they are kidnapped by Moamar Gaddafi&#039;s forces in Tripoli.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12632482)
+2. [The Guardian](http://www.guardian.co.uk/education/2011/mar/03/lse-director-resigns-gaddafi-scandal)
+3. [Reuters via CNBC](http://www.cnbc.com/id/41882123)
+4. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/03/libya.netherlands.sailors/index.html?hpt=T2)
+5. [ABC News Australia](http://www.abc.net.au/news/stories/2011/03/03/3154179.htm)
+6. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110304/pl_afp/libyaunrestpoliticsusobama)
+7. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/03/AR2011030303957.html)
+8. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-03/03/c_13759456.htm)
+9. [BBC](http://www.bbc.co.uk/news/uk-12642636)
+
+### Related:
+
+1. [2011 Libyan civil war:The three Royal Netherlands Navy personnel captured 12 days ago by armed men loyal to Libyan leader Muammar Gaddafi are released after negotiations after Greek Deputy Foreign Minister Dimitris Dollis secured their release and oversaw their evacuation to Athens, Greece. The crew was trying to rescue a Dutch citizen from Libya when armed men captured them. ](/news/2011/03/12/2011-libyan-civil-war-pthe-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi-a.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi, Netherlands, Royal Netherlands Navy_
+2. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+3. [2011 Libyan civil war: ousted Libyan dictator Muammar Gaddafi's stronghold of Sirte is reportedly close to being conquered by the forces of the National Transitional Council, who have captured the city's airport, hospital, university and conference centre. ](/news/2011/10/9/2011-libyan-civil-war-ousted-libyan-dictator-muammar-gaddafi-s-stronghold-of-sirte-is-reportedly-close-to-being-conquered-by-the-forces-of.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+4. [Aftermath of Libyan Civil War:The bodies of ousted Libyan dictator Muammar Gaddafi, his son and advisor Mutassim Gaddafi, and former defence minister Abu-Bakr Yunis Jabr are buried in unmarked graves by the National Transitional Council. ](/news/2011/10/25/aftermath-of-libyan-civil-war-pthe-bodies-of-ousted-libyan-dictator-muammar-gaddafi-his-son-and-advisor-mutassim-gaddafi-and-former-defenc.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+5. [2011 Libyan civil war:Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-pautopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+6. [2011 Libyan civil war:Deposed Libyan dictator Muammar Gaddafi is killed in a crossfire between Gaddafi loyalists and rebel fighters in his hometown of Sirte, Libya. [http://www.bbc.co.uk/news/world-africa-15389550 (BBC)]The pro-Gaddafi stronghold of Sirte is captured by National Transitional Council forces following a month-long siege. The fall of Sirte marks the effective consolidation of NTC control across Libya, following the capture of the Gaddafi holdout of Bani Walid on October 17. [http://af.reuters.com/article/topNews/idAFJOE79J09O20111020 (Reuters Africa)]Mutassim Gaddafi is killed in an extrajudicial killing. ([http://www.dailymail.co.uk/news/article-2051857/Gaddafi-dead-Dictators-son-Mutassim-pictured-moments-execution.html?ITO=google_news_rss_feed Daily Mail])](/news/2011/10/20/2011-libyan-civil-war-pdeposed-libyan-dictator-muammar-gaddafi-is-killed-in-a-crossfire-between-gaddafi-loyalists-and-rebel-fighters-in-his.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+7. [2011 Libyan civil war: forces loyal to deposed Libyan dictator Muammar Gaddafi launch a counter-attack against opposition fighters in the towns of Bani Walid and Sirte.  ](/news/2011/09/17/2011-libyan-civil-war-forces-loyal-to-deposed-libyan-dictator-muammar-gaddafi-launch-a-counter-attack-against-opposition-fighters-in-the-to.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+8. [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi's hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafias-hometown-of-sirt.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+9. [Libyan leader Muammar Gaddafi gives a live address to the nation after rebels claim a number of victories in the 2011 Libyan civil war. ](/news/2011/08/15/libyan-leader-muammar-gaddafi-gives-a-live-address-to-the-nation-after-rebels-claim-a-number-of-victories-in-the-2011-libyan-civil-war.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+10. [Alleged Libyan rape victim Iman al-Obeidi flees to Tunisia fearing reprisals from the regime of Muammar Gaddafi. ](/news/2011/05/8/alleged-libyan-rape-victim-iman-al-obeidi-flees-to-tunisia-fearing-reprisals-from-the-regime-of-muammar-gaddafi.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_

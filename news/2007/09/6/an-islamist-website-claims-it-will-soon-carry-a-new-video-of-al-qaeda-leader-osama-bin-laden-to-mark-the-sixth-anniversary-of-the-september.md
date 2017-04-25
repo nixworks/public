@@ -1,0 +1,23 @@
+### [2007-09-6](/news/2007/09/6/index.md)
+
+#  An Islamist website claims it will soon carry a new video of al Qaeda leader Osama bin Laden to mark the sixth anniversary of the September 11, 2001 attacks on U.S. cities. 
+
+An Islamist Web site said on Friday it would soon carry a new video of al Qaeda leader Osama bin Laden to mark the sixth anniversary of the September 11 attacks on U.S. cities.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/topNews/idUSL0664701620070906)
+
+### Related:
+
+1. [ A voice purporting to be that of Al-Qaeda leader Osama bin Laden says on an audiotape that Zacarias Moussaoui had no link to the September 11, 2001 attacks. ](/news/2006/05/23/a-voice-purporting-to-be-that-of-al-qaeda-leader-osama-bin-laden-says-on-an-audiotape-that-zacarias-moussaoui-had-no-link-to-the-september.md) _Context: Osama bin Laden, September 11, 2001 attacks, al-Qaeda_
+2. [Islamist rebels including the al-Qaeda-affiliated al-Nusra Front claim to have captured most of the town of Jisr al-Shughur in the Idlib Governorate. ](/news/2015/04/25/islamist-rebels-including-the-al-qaeda-affiliated-al-nusra-front-claim-to-have-captured-most-of-the-town-of-jisr-al-shughur-in-the-idlib-gov.md) _Context: Islamist, al-Qaeda_
+3. [In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. ](/news/2015/03/17/in-peshawar-an-unknown-assailant-shoots-and-kills-pakistani-lawyer-samiullah-afridi-who-had-defended-dr-shakil-afridi-in-regards-to-assi.md) _Context: Osama bin Laden, al-Qaeda_
+4. [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md) _Context: Osama bin Laden, al-Qaeda_
+5. [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md) _Context: Osama bin Laden, al-Qaeda_
+6. [Northern Mali conflict:One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-pone-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian.md) _Context: Islamist, al-Qaeda_
+7. [Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. ](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-and-children-are-deported-from-pakistan-to-saudi-arabia.md) _Context: Osama bin Laden, al-Qaeda_
+8. [Ayman al-Zawahiri is selected as the successor of leadership of al-Qaeda succeeding Osama bin Laden ](/news/2011/06/16/ayman-al-zawahiri-is-selected-as-the-successor-of-leadership-of-al-qaeda-succeeding-osama-bin-laden.md) _Context: Osama bin Laden, al-Qaeda_
+9. [The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. ](/news/2011/05/9/the-prime-minister-of-pakistan-yusuf-raza-gilani-warns-the-united-states-that-it-will-defend-its-air-space-from-incursions-following-the-rai.md) _Context: Osama bin Laden, al-Qaeda_
+10. [Oil prices fall following news that U.S. forces have killed al-Qaeda leader Osama bin Laden. ](/news/2011/05/2/oil-prices-fall-following-news-that-u-s-forces-have-killed-al-qaeda-leader-osama-bin-laden.md) _Context: Osama bin Laden, al-Qaeda_

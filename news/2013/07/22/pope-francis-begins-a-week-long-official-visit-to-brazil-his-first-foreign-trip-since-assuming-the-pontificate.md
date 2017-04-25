@@ -1,0 +1,23 @@
+### [2013-07-22](/news/2013/07/22/index.md)
+
+# Pope Francis begins a week-long official visit to Brazil, his first foreign trip since assuming the pontificate. 
+
+Pope Francis is flying to Brazil for his first foreign trip, where millions of young Catholics are expected to greet him at a festival amid high security.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23400985)
+
+### Related:
+
+1. [Tens of thousands of Roman Catholics greet Pope Francis in Rio de Janeiro, Brazil, during his first foreign trip as pontiff. ](/news/2013/07/23/tens-of-thousands-of-roman-catholics-greet-pope-francis-in-rio-de-janeiro-brazil-during-his-first-foreign-trip-as-pontiff.md) _Context: Brazil, Pope Francis_
+2. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-storm-a-security-vault-and-police-headquart.md) _Context: Brazil_
+3. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Pope Francis_
+4. [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on  a constitutional  amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago.  ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md) _Context: Pope Francis_
+5. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_
+6. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Pope Francis_
+7. [At the Indigenous Peoples Forum in Rome, Italy, Pope Francis says that developmental needs have to be reconciled with the protection of the particular characteristics of indigenous peoples and their territories. This is taken by some as a reference to the Standing Rock Sioux and other groups opposing the Dakota Access Pipeline. ](/news/2017/02/15/at-the-indigenous-peoples-forum-in-rome-italy-pope-francis-says-that-developmental-needs-have-to-be-reconciled-with-the-protection-of-the.md) _Context: Pope Francis_
+8. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: Brazil_
+9. [Members of the Brazilian Primeiro Comando da Capital prison gang kill 31 inmates in the Monte Cristo prison in the state of Roraima. This action was revenge for an earlier massacre in a prison in Amazonas that killed 56 inmates. ](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-capital-prison-gang-kill-31-inmates-in-the-monte-cristo-prison-in-the-state-of-roraima-this-ac.md) _Context: Brazil_
+10. [Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.md) _Context: Brazil_

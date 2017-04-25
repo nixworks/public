@@ -1,0 +1,23 @@
+### [2013-03-24](/news/2013/03/24/index.md)
+
+# US Secretary of State John Kerry arrives in Iraq on an unannounced visit to press for greater co-operation over the conflict in Syria. 
+
+US Secretary of State John Kerry says it is problematic that Iranian planes with arms for Syria are flying over Iraq, in an unannounced visit to Baghdad.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21915710)
+
+### Related:
+
+1. [The United States Secretary of State John Kerry says ISIL has committed genocide against Christians, Yazidis and Shias in areas it controls in Syria and Iraq. ](/news/2016/03/17/the-united-states-secretary-of-state-john-kerry-says-isil-has-committed-genocide-against-christians-yazidis-and-shias-in-areas-it-controls.md) _Context: Iraq, John Kerry, Syria, Syrian Civil War_
+2. [Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria.  ](/news/2016/06/4/syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-three-simultaneous-at.md) _Context: Iraq, Syria, Syrian Civil War_
+3. [The Syrian Observatory for Human Rights reports that at least 50 United States military instructors have deployed to northern Syria from Turkey and Iraq to train Kurdish forces ahead of an assault on ISIL's de facto capital Al-Raqqah. ](/news/2015/11/30/the-syrian-observatory-for-human-rights-reports-that-at-least-50-united-states-military-instructors-have-deployed-to-northern-syria-from-tur.md) _Context: Iraq, Syria, Syrian Civil War_
+4. [The Russian Air Force destroys around 500 fuel tanker vehicles used by ISIS and other extremist groups for transporting illegal oil from Syria to Iraq. ](/news/2015/11/18/the-russian-air-force-destroys-around-500-fuel-tanker-vehicles-used-by-isis-and-other-extremist-groups-for-transporting-illegal-oil-from-syr.md) _Context: Iraq, Syria, Syrian Civil War_
+5. [Iranian state television says Revolutionary Guard brigadier general, Hossein Hamadani, has been killed on the outskirts of Syria's Aleppo by Islamic State of Iraq and the Levant militants. This is the latest in a string of high-ranking Iranian commanders killed in Iraq and Syria in the last six months. ](/news/2015/10/9/iranian-state-television-says-revolutionary-guard-brigadier-general-hossein-hamadani-has-been-killed-on-the-outskirts-of-syria-s-aleppo-by.md) _Context: Iraq, Syria, Syrian Civil War_
+6. [France says it has carried out its first air-strikes against the Islamic State of Iraq and the Levant within Syria, destroying a training camp in the east of the country. Previously, France had only carried out air-strikes in Iraq with consent of the Iraqi government. ](/news/2015/09/27/france-says-it-has-carried-out-its-first-air-strikes-against-the-islamic-state-of-iraq-and-the-levant-within-syria-destroying-a-training-ca.md) _Context: Iraq, Syria, Syrian Civil War_
+7. [After more than 18 months of requests, Turkey comes under heavy international pressure to secure its borders to the influx of foreign fighters, oil, and weapons crossing into Syria to fight for ISIS. ISIS fighters have been moving towards the Turkey-Syria border using armored cars looted from Iraqi military bases. ](/news/2014/08/24/after-more-than-18-months-of-requests-turkey-comes-under-heavy-international-pressure-to-secure-its-borders-to-the-influx-of-foreign-fighte.md) _Context: Iraq, Syria, Syrian Civil War_
+8. [United States Secretary of State John Kerry arrives in Turkey, where he is to have talks addressing relations with Israel and the conflict in Syria. ](/news/2013/04/7/united-states-secretary-of-state-john-kerry-arrives-in-turkey-where-he-is-to-have-talks-addressing-relations-with-israel-and-the-conflict-i.md) _Context: John Kerry, Syria, Syrian Civil War_
+9. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq, Syria_
+10. [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md) _Context: Syria, Syrian Civil War_

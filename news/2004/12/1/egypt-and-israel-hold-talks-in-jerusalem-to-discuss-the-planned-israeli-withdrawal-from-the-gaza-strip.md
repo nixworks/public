@@ -1,0 +1,23 @@
+### [2004-12-1](/news/2004/12/1/index.md)
+
+# Egypt and Israel hold talks in Jerusalem to discuss the planned Israeli withdrawal from the Gaza Strip. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4057671.stm)
+
+### Related:
+
+1. [Four Egyptian security personnel are killed and another four are injured by a roadside bomb near the border town Rafah in the Sinai Peninsula. Islamist militants are suspected to have remotely detonated the device as an armored vehicle drove by the town's center, near the border with the Gaza Strip and Israel,  security sources told Ahram Online. ](/news/2015/12/8/four-egyptian-security-personnel-are-killed-and-another-four-are-injured-by-a-roadside-bomb-near-the-border-town-rafah-in-the-sinai-peninsul.md) _Context: Egypt, Gaza Strip, Israel_
+2. [Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation" with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaza-will-fulfil-its-role-in-the-je.md) _Context: Gaza Strip, Israel, Jerusalem_
+3. [Palestinians carried out three stabbing attacks against Israeli citizens and police in Jerusalem today with two of the attackers shot dead as the wave of violence continues, police said. There have been a series of stabbing attacks in Israel and the West Bank in recent days that have wounded several Israelis; nine attackers have been shot dead. Also, at least 16 Palestinians have been killed by Israeli forces during/after violent demonstrations in the West Bank and Gaza. ](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.md) _Context: Gaza Strip, Israel, Jerusalem_
+4. [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md) _Context: Gaza Strip, Israel, Jerusalem_
+5. [Israeli ground forces will leave the Gaza Strip ahead of an Egyptian mediated ceasefire starting at 0500 GMT today. ](/news/2014/08/5/israeli-ground-forces-will-leave-the-gaza-strip-ahead-of-an-egyptian-mediated-ceasefire-starting-at-0500-gmt-today.md) _Context: Egypt, Gaza Strip, Israel_
+6. [2014 Israel-Gaza conflict:On the 50th day of the conflict, an internationally supported long-term truce is reached where the borders of Gaza, Egypt, and Israel are opened for humanitarian and reconstruction supplies and the Gaza fishing zone is extended to 6 km.  Other issues such as an airport/seaport and the Israeli demand for demilitarization will be negotiated within a month. ](/news/2014/08/26/2014-israelagaza-conflict-pon-the-50th-day-of-the-conflict-an-internationally-supported-long-term-truce-is-reached-where-the-borders-of-g.md) _Context: Egypt, Gaza Strip, Israel_
+7. [Operation Pillar of Defense:Israeli air strikes kill at least 20 Palestinians in the Gaza Strip including Islamic Jihad members, while over 130 rockets are fired towards Israel injuring several, amid ceasefire talks in Egypt. ](/news/2012/11/19/operation-pillar-of-defense-pisraeli-air-strikes-kill-at-least-20-palestinians-in-the-gaza-strip-including-islamic-jihad-members-while-over.md) _Context: Egypt, Gaza Strip, Israel_
+8. [Following over 150 rockets being fired into Israel over the past four days from Gaza and attacks by Israel, Egypt has mediated a truce. Both Hamas and Ehud Barak praise the efforts for peace. ](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.md) _Context: Egypt, Gaza Strip, Israel_
+9. [Rockets fired from Gaza, reportedly aiming for Israel, land in the Sinai Peninsula of Egypt during the Palestinian-Israeli conflict. ](/news/2011/08/21/rockets-fired-from-gaza-reportedly-aiming-for-israel-land-in-the-sinai-peninsula-of-egypt-during-the-palestinian-israeli-conflict.md) _Context: Egypt, Gaza Strip, Israel_
+10. [Israel opposes Egypt's plan to open the Rafah Border Crossing with Gaza to two-way traffic due to its fears of "terror operatives". ](/news/2011/05/1/israel-opposes-egypt-s-plan-to-open-the-rafah-border-crossing-with-gaza-to-two-way-traffic-due-to-its-fears-of-terror-operatives.md) _Context: Egypt, Gaza Strip, Israel_

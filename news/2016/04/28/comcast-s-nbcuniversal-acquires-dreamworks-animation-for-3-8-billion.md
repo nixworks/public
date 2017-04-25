@@ -1,0 +1,19 @@
+### [2016-04-28](/news/2016/04/28/index.md)
+
+# Comcast's NBCUniversal acquires  Dreamworks Animation for $3.8 billion. 
+
+
+
+
+### Source:
+
+1. [CNN](http://money.cnn.com/2016/04/28/media/comcast-dreamworks-nbcuniversal/)
+
+### Related:
+
+1. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including  Yahoo Japan Corp.,  next week. Google, Time Inc., and  private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google.md) _Context: Comcast_
+2. [Bloomberg News reports that Comcast will walk away from its $45 billion takeover for Time Warner Cable. ](/news/2015/04/23/bloomberg-news-reports-that-comcast-will-walk-away-from-its-45-billion-takeover-for-time-warner-cable.md) _Context: Comcast_
+3. [Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. ](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.md) _Context: Comcast_
+4. [NBCUniversal buys full control of the US news website MSNBC.com and rebrands it as NBCNews.com. ](/news/2012/07/16/nbcuniversal-buys-full-control-of-the-us-news-website-msnbc-com-and-rebrands-it-as-nbcnews-com.md) _Context: NBCUniversal_
+5. [The U.S. Federal Communications Commission and the U.S. Justice Department approve a $28 billion merger of Comcast and NBC Universal with critics complaining of even greater media consolidation in the U.S. and how this merger removes competitive forces and hurts consumers. ](/news/2011/01/18/the-u-s-federal-communications-commission-and-the-u-s-justice-department-approve-a-28-billion-merger-of-comcast-and-nbc-universal-with-cr.md) _Context: Comcast_
+6. [United States Court of Appeals for the District of Columbia Circuit rules that the FCC cannot enforce net neutrality and that Comcast can limit its customers' access to BitTorrent. ](/news/2010/04/6/united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-that-the-fcc-cannot-enforce-net-neutrality-and-that-comcast-can-li.md) _Context: Comcast_

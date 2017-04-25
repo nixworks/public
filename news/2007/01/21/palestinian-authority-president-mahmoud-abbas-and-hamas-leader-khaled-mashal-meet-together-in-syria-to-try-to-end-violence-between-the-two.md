@@ -1,0 +1,24 @@
+### [2007-01-21](/news/2007/01/21/index.md)
+
+#  Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Mashal meet together in Syria to try to end violence between the two factions. However, differences remain and talks will resume possibly next week. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2811528)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6283769.stm)
+
+### Related:
+
+1. [Top Fatah members aligned with Palestinian Authority President Mahmoud Abbas asked Israel to attack Hamas ahead of Hamas' violent takeover of the Gaza Strip in 2007, according to a US diplomatic cable published by Wikileaks. ](/news/2010/12/21/top-fatah-members-aligned-with-palestinian-authority-president-mahmoud-abbas-asked-israel-to-attack-hamas-ahead-of-hamasa-violent-takeover.md) _Context: Hamas, Mahmoud Abbas, Palestinian Authority_
+2. [Turkish foreign minister Ahmet Davutoglu and exiled Hamas leader Khaled Mashal meet for talks in Syria. ](/news/2010/07/20/turkish-foreign-minister-ahmet-davutoalu-and-exiled-hamas-leader-khaled-mashal-meet-for-talks-in-syria.md) _Context: Hamas, Khaled Mashal, Syria_
+3. [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were "hijacked, at the hands of the Iranians"; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-ahijacked-at-the-hands-of-the-iraniansa-possibly-r.md) _Context: Hamas, Mahmoud Abbas, Palestinian Authority_
+4. [ A planned meeting between Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Meshaal is postponed. ](/news/2007/01/20/a-planned-meeting-between-palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-meshaal-is-postponed.md) _Context: Hamas, Mahmoud Abbas, Palestinian Authority_
+5. [ Hamas announces the formation of its new cabinet to govern the territory under the control of the Palestinian Authority. Hamas, however, in a last-ditch effort to include the Popular Front for the Liberation of Palestine in the government, postponed by one day the submission of the new cabinet to the approval of PNA President Mahmoud Abbas.  ](/news/2006/03/18/hamas-announces-the-formation-of-its-new-cabinet-to-govern-the-territory-under-the-control-of-the-palestinian-authority-hamas-however-in.md) _Context: Hamas, Mahmoud Abbas, Palestinian Authority_
+6. [ Israeli-Palestinian Conflict:  Hamas leader Khaled Mashal declares at a rally in Damascus, Syria that its informal ceasefire with Israel, which expires at the end of the year, will not be renewed. ](/news/2005/12/8/israeli-palestinian-conflict-p-hamas-leader-khaled-mashal-declares-at-a-rally-in-damascus-syria-that-its-informal-ceasefire-with-israel.md) _Context: Hamas, Khaled Mashal, Syria_
+7. [ Israeli-Palestinian Conflict: A truce is declared between Israel and the Palestinian Authority.  Mahmoud Abbas, the President of the Palestinian Authority, and Ariel Sharon, the Prime Minister of Israel,  shook hands at a four-way summit at Sharm el-Sheikh that was also attended by Egyptian President Hosni Mubarak and Jordan's King Abdullah.  Palestinian organization Hamas says it is not bound by the ceasefire.  ](/news/2005/02/8/israeli-palestinian-conflict-a-truce-is-declared-between-israel-and-the-palestinian-authority-mahmoud-abbas-the-president-of-the-palest.md) _Context: Hamas, Mahmoud Abbas, Palestinian Authority_
+8. [Mahmoud Abbas, the President of the State of Palestine, announces a unity cabinet containing members of both Fatah and Hamas. ](/news/2014/06/2/mahmoud-abbas-the-president-of-the-state-of-palestine-announces-a-unity-cabinet-containing-members-of-both-fatah-and-hamas.md) _Context: Hamas, Mahmoud Abbas_
+9. [Israeli-Palestinian conflict:Israel suspends peace talks with the Palestinian Authority following an announcement of a unity agreement between the ruling Palestinian faction Fatah and the militant Hamas rulers of Gaza. ](/news/2014/04/24/israeliapalestinian-conflict-pisrael-suspends-peace-talks-with-the-palestinian-authority-following-an-announcement-of-a-unity-agreement-be.md) _Context: Hamas, Palestinian Authority_
+10. [United States Secretary of State John Kerry meets Palestinian Authority President Mahmoud Abbas in Ramallah and urges him to restart peace talks, before holding talks with the Israeli Prime Minister Benjamin Netanyahu. ](/news/2013/04/8/united-states-secretary-of-state-john-kerry-meets-palestinian-authority-president-mahmoud-abbas-in-ramallah-and-urges-him-to-restart-peace-t.md) _Context: Mahmoud Abbas, Palestinian Authority_

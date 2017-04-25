@@ -1,0 +1,24 @@
+### [2010-08-1](/news/2010/08/1/index.md)
+
+# Colombia denies claims by Venezuela that it is planning a military attack, a day after Venezuelan president Hugo Chavez said he was sending troops to their mutual border. 
+
+
+
+
+### Source:
+
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/01/c_13424953.htm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/01/venezuela.colombia.troops/#fbid=Dxrzb6Q-4_O)
+
+### Related:
+
+1. [President of Venezuela Hugo Chavez announces that he has agreed to meet President of Colombia Juan Manuel Santos tomorrow for talks to end strained relations between the two countries. ](/news/2010/08/9/president-of-venezuela-hugo-cha-vez-announces-that-he-has-agreed-to-meet-president-of-colombia-juan-manuel-santos-tomorrow-for-talks-to-end.md) _Context: Colombia, Hugo Chávez, Venezuela_
+2. [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md) _Context: Colombia, Hugo Chávez, Venezuela_
+3. [Colombia-Venezuela relations:Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-pvenezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-presiden.md) _Context: Colombia, Hugo Chávez, Venezuela_
+4. [Colombian President Alvaro Uribe and Venezuelan President Hugo Chavez almost come to blows at the Rio Group summit in Playa del Carmen, Mexico, with Uribe taunting Chavez "Be a man! ... you're a coward face-to-face! Stay and argue face-to-face!" and Chavez responding with a simple "Go to Hell!" ](/news/2010/02/22/colombian-president-alvaro-uribe-and-venezuelan-president-hugo-cha-vez-almost-come-to-blows-at-the-rio-group-summit-in-playa-del-carmen-me.md) _Context: Colombia, Hugo Chávez, Venezuela_
+5. [ UNASUR leaders express fresh concerns over Colombian plans to grant United States troops access to its military bases but cannot agree on a declaration to formally condemn the proposals. Venezuelan President Hugo Chavez warns that "the winds of war are beginning to blow" across the region. ](/news/2009/08/11/unasur-leaders-express-fresh-concerns-over-colombian-plans-to-grant-united-states-troops-access-to-its-military-bases-but-cannot-agree-on-a.md) _Context: Colombia, Hugo Chávez, Venezuela_
+6. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Colombia, Venezuela_
+7. [Venezuelan opposition leaders say their Democratic Unity Roundtable  has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998.  There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists.md) _Context: Hugo Chávez, Venezuela_
+8. [A Venezuelan Air Force Sukhoi Su-30MKK crashes near the Colombian border after an illicit aircraft, probably linked to illicit drugs, enters Venezuelan airspace. ](/news/2015/09/18/a-venezuelan-air-force-sukhoi-su-30mkk-crashes-near-the-colombian-border-after-an-illicit-aircraft-probably-linked-to-illicit-drugs-enters.md) _Context: Colombia, Venezuela_
+9. [Colombia accuses Venezuela of violating its airspace for the second time in two days. ](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.md) _Context: Colombia, Venezuela_
+10. [Colombia and Venezuela recall their respective ambassadors amid rising tensions after a Venezuelan crackdown on Colombian migrants. ](/news/2015/08/28/colombia-and-venezuela-recall-their-respective-ambassadors-amid-rising-tensions-after-a-venezuelan-crackdown-on-colombian-migrants.md) _Context: Colombia, Venezuela_

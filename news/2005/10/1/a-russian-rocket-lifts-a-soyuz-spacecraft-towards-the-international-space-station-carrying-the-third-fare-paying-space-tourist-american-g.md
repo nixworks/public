@@ -1,0 +1,24 @@
+### [2005-10-1](/news/2005/10/1/index.md)
+
+#  A Russian rocket lifts a Soyuz spacecraft towards the International Space Station, carrying the third fare-paying space tourist, American Gregory Olsen. 
+
+
+
+
+### Source:
+
+1. [FloridaToday](http://www.floridatoday.com/apps/pbcs.dll/article?AID=/20051001/BREAKINGNEWS/51001002)
+2. [CNN](http://www.cnn.com/2005/TECH/space/10/01/russia.olsen.ap/index.html)
+
+### Related:
+
+1. [Soyuz TMA-16M launches carrying three crew members to the International Space Station. Russian cosmonaut Mikhail Korniyenko and American astronaut Scott Kelly begin a special year-long mission to test the effects of long-term habitation on the human body under conditions of micro gravity and radiation. ](/news/2015/03/27/soyuz-tma-16m-launches-carrying-three-crew-members-to-the-international-space-station-russian-cosmonaut-mikhail-korniyenko-and-american-ast.md) _Context: International Space Station, Soyuz_
+2. [A Soyuz capsule carrying astronauts Chris Hadfield of Canada, Thomas Marshburn of the United States and Roman Romanenko of Russia of Expedition 35 back from the International Space Station lands safely in Kazakhstan. ](/news/2013/05/14/a-soyuz-capsule-carrying-astronauts-chris-hadfield-of-canada-thomas-marshburn-of-the-united-states-and-roman-romanenko-of-russia-of-expedit.md) _Context: International Space Station, Soyuz_
+3. [Soyuz TMA-08M: A Soyuz spacecraft docks with the International Space Station after being in orbit for less than six hours, setting a record, in a test conducted to reduce the time crew members have to spend in the ferry craft. ](/news/2013/03/29/soyuz-tma-08m-a-soyuz-spacecraft-docks-with-the-international-space-station-after-being-in-orbit-for-less-than-six-hours-setting-a-record.md) _Context: International Space Station, Soyuz_
+4. [ Soyuz TMA-9, with space tourist Charles Simonyi and two crew from Expedition 14 to the International Space Station on board, safely return to Earth. ](/news/2007/04/21/soyuz-tma-9-with-space-tourist-charles-simonyi-and-two-crew-from-expedition-14-to-the-international-space-station-on-board-safely-return.md) _Context: International Space Station, space tourist_
+5. [ Soyuz TMA-5: A Russian Soyuz spacecraft lands in Kazakhstan, bringing 3 astronauts, Russian Salizhan Sharipov, Chinese American Leroy Chiao and Italian Roberto Vittori, safely back to Earth from the International Space Station. ](/news/2005/04/24/soyuz-tma-5-a-russian-soyuz-spacecraft-lands-in-kazakhstan-bringing-3-astronauts-russian-salizhan-sharipov-chinese-american-leroy-chiao.md) _Context: International Space Station, Soyuz_
+6. [ Space Adventures, a space tourist company, announces that two American customers have paid to board a Soyuz spacecraft on its journey to the International Space Station and back in 2004 and 2005. [http://www.spacedaily.com/news/tourism-03d.html]](/news/2003/12/16/space-adventures-a-space-tourist-company-announces-that-two-american-customers-have-paid-to-board-a-soyuz-spacecraft-on-its-journey-to-th.md) _Context: International Space Station, Soyuz_
+7. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: International Space Station_
+8. [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md) _Context: International Space Station_
+9. [NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. ](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.md) _Context: International Space Station_
+10. [SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-from-kennedy-space-center-placing-a-dragon-spacecraft-in-orbit-and-recovering-the-launcher-s.md) _Context: International Space Station_

@@ -1,0 +1,34 @@
+## [2013-01-6](/news/2013/01/6/index.md)
+
+### [Syrian civil war:The President of Syria Bashar al-Assad delivers a rare television appearance addressing the Syrian crisis and denounces the Syrian rebels as "enemies of God and puppets of the West". It is his first television appearance since June 2012. ](/news/2013/01/6/syrian-civil-war-pthe-president-of-syria-bashar-al-assad-delivers-a-rare-television-appearance-addressing-the-syrian-crisis-and-denounces-th.md)
+Syrian President Bashar al-Assad delivers a rare televised speech, denouncing the opposition as &quot;puppets of the West&quot;.
+
+### [Kashmir conflict:A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/kashmir-conflict-pa-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldie.md)
+_Context: Indian Army, Kashmir, Kashmir conflict, Pakistan Army_
+
+### [War in North-West Pakistan:A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-wazirista.md)
+A US drone attack kills at least eight suspected militants in a Pakistan north-western tribal area near the Afghan border, officials say.
+
+### [Kachin conflict:Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-conflict-pkachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md)
+_Context: Kachin, Kachin conflict, Laiza_
+
+### [War in Afghanistan (2001-present):Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/war-in-afghanistan-2001apresent-psuicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
+_Context: Afghan, Spin Boldak, War in Afghanistan (2001–present)_
+
+### [2012-2013 Central African Republic rebellion:South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/2012a2013-central-african-republic-rebellion-psouth-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an.md)
+South Africa is sending more soldiers to support government troops in the Central African Republic, where rebels are threatening the capital.
+
+### [Mahmoud Abbas, the President of the Palestinian National Authority, orders that the words "State of Palestine" be used on official documents. ](/news/2013/01/6/mahmoud-abbas-the-president-of-the-palestinian-national-authority-orders-that-the-words-state-of-palestine-be-used-on-official-documents.md)
+Palestinian President Mahmoud Abbas tells West Bank officials to prepare to put the words &quot;State of Palestine&quot; on public documents.
+
+### [In the Netherlands, Gerard Helders who served as Minister of Colonial Affairs from the 1957 until 1959, the oldest known former politician in the world dies at the age of 107. ](/news/2013/01/6/in-the-netherlands-gerard-helders-who-served-as-minister-of-colonial-affairs-from-the-1957-until-1959-the-oldest-known-former-politician-i.md)
+_Context: Gerard Helders, Minister of Colonial Affairs_
+
+### [At Apple, applications developers say they gave Apple plenty of warning about issues with its iOS maps issues. ](/news/2013/01/6/at-apple-applications-developers-say-they-gave-apple-plenty-of-warning-about-issues-with-its-ios-maps-issues.md)
+_Context: Apple Inc., developers, iOS_
+
+### [In ice hockey, the National Hockey League and the National Hockey League Players' Association reach an agreement that ends the 2012-13 NHL lockout and averts the cancellation of the 2012-13 NHL season. ](/news/2013/01/6/in-ice-hockey-the-national-hockey-league-and-the-national-hockey-league-players-association-reach-an-agreement-that-ends-the-2012a13-nhl.md)
+_Context: 119-day lockout, 2012–13 NHL season, NHL, National Hockey League Players' Association, ice hockey_
+
+## [Previous Day...](/news/2013/01/5/index.md)
+

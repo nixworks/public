@@ -1,0 +1,23 @@
+### [2011-01-25](/news/2011/01/25/index.md)
+
+# The Financial Crisis Inquiry Commission, a panel appointed by the United States Congress to study the causes of the 2007-08 financial crisis, refers certain cases of potentially criminal action to the Justice Department. The names of the suspected individuals have not been disclosed. 
+
+A bipartisan panel investigating the financial crisis has referred cases of potential wrongdoing by financial industry officials to the Justice Department, a person familiar with the matter said on Tuesday.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/idUSTRE70O0P220110125)
+
+### Related:
+
+1. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: U.S. Congress_
+2. [U.S. immigration suspension, ''State of Washington v. Trump''Trump's travel ban remains suspended as the U.S. Court of Appeals for the Ninth Circuit denies the Justice Department's request to stay the ruling which blocks major portions of the executive order. ](/news/2017/02/5/u-s-immigration-suspension-state-of-washington-v-trump-ptrump-s-travel-ban-remains-suspended-as-the-u-s-court-of-appeals-for-the-nint.md) _Context: U.S. Justice Department_
+3. [The U.S. Justice Department tells the Ninth Circuit Court of Appeals that it won't be seeking further action by the court since this executive order will soon be replaced by a different one.  Justice added they expect the Ninth Circuit ruling will be vacated once the new executive order is issued. ](/news/2017/02/16/the-u-s-justice-department-tells-the-ninth-circuit-court-of-appeals-that-it-won-t-be-seeking-further-action-by-the-court-since-this-executi.md) _Context: U.S. Justice Department_
+4. [The United States House of Representatives votes in favor of legislation that approves preliminary budgetary measures for the United States Congress to begin repealing the Patient Protection and Affordable Care Act, colloquially known as Obamacare. ](/news/2017/01/13/the-united-states-house-of-representatives-votes-in-favor-of-legislation-that-approves-preliminary-budgetary-measures-for-the-united-states.md) _Context: U.S. Congress_
+5. [  The U.S. Justice Department (DOJ) issues final approval for Alaska Airlines to acquire Virgin America, in a US$2.6 billion dollar merger. In exchange for approval, the DOJ requires Alaska Airlines to reduce its partnership with American Airlines. ](/news/2016/12/6/the-u-s-justice-department-doj-issues-final-approval-for-alaska-airlines-to-acquire-virgin-america-in-a-us-2-6-billion-dollar-merger.md) _Context: U.S. Justice Department_
+6. [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md) _Context: U.S. Congress_
+7. [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md) _Context: U.S. Justice Department_
+8. [The United States Congress passes a law allowing families of the victims of the September 11 attacks to sue Saudi Arabia. U.S. president Barack Obama threatens to veto it. ](/news/2016/09/9/the-united-states-congress-passes-a-law-allowing-families-of-the-victims-of-the-september-11-attacks-to-sue-saudi-arabia-u-s-president-bar.md) _Context: U.S. Congress_
+9. [The Obama administration through the United States Department of Justice lowers the fine against Germany's Deutsche Bank to a settlement of US$5.4 billion after being handed a demand for up to $14 billion earlier this month over the sale of toxic mortgage bonds. ](/news/2016/09/30/the-obama-administration-through-the-united-states-department-of-justice-lowers-the-fine-against-germany-s-deutsche-bank-to-a-settlement-of.md) _Context: U.S. Justice Department_
+10. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: U.S. Justice Department_

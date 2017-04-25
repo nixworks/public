@@ -1,0 +1,24 @@
+### [2013-04-7](/news/2013/04/7/index.md)
+
+# 2013 Korean crisis:The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. 
+
+Pentagon puts off intercontinental missile launch apparently to avoid stoking tensions with North Korea.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/2013471341732178.html)
+2. [CNN](http://www.cnn.com/2013/04/06/world/asia/koreas-tensions)
+
+### Related:
+
+1. [2013 Korean crisis:North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-pnorth-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-agai.md) _Context: 2013 Korean crisis, North Korea, United States_
+2. [Aftermath of the 2013 Korean crisis:North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/aftermath-of-the-2013-korean-crisis-pnorth-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-statin.md) _Context: 2013 Korean crisis, North Korea, United States_
+3. [2013 Korean crisis:The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-pthe-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md) _Context: 2013 Korean crisis, North Korea, United States_
+4. [2013 Korean crisis:North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/2013-korean-crisis-pnorth-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-states.md) _Context: 2013 Korean crisis, North Korea, United States_
+5. [2013 Korean crisis:South Korea's defense ministry says it doubts North Korea has the ability to launch a nuclear-armed ballistic missile as claimed in a report by the United States Defense Intelligence Agency. ](/news/2013/04/12/2013-korean-crisis-psouth-korea-s-defense-ministry-says-it-doubts-north-korea-has-the-ability-to-launch-a-nuclear-armed-ballistic-missile-as.md) _Context: 2013 Korean crisis, North Korea, United States_
+6. [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md) _Context: 2013 Korean crisis, North Korea, United States_
+7. [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md) _Context: North Korea, United States, intercontinental ballistic missile_
+8. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea, United States_
+9. [Air China suspends all flights to North Korea's capital Pyongyang amid rising tensions between North Korea and the United States. ](/news/2017/04/14/air-china-suspends-all-flights-to-north-korea-s-capital-pyongyang-amid-rising-tensions-between-north-korea-and-the-united-states.md) _Context: North Korea, United States_
+10. [U.S.-based monitoring group 38 North says satellite imagery of North Korea's Punggye-ri Nuclear Test Site indicates that preparation for a sixth nuclear weapons test is underway. ](/news/2017/04/13/u-s-based-monitoring-group-38-north-says-satellite-imagery-of-north-korea-s-punggye-ri-nuclear-test-site-indicates-that-preparation-for-a-s.md) _Context: North Korea, United States_

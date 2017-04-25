@@ -1,0 +1,23 @@
+### [2012-10-1](/news/2012/10/1/index.md)
+
+# California becomes the first U.S. state to forbid "conversion therapy" for minors, effective January 1st, 2013. 
+
+California to be first state to ban a controversial form of psychotherapy aimed at making gay teenagers straight.
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/politics/2012/09/30/california-to-become-first-state-to-ban-gay-teen-conversion-therapy/)
+
+### Related:
+
+1. [Police arrest 75 people outside Oakland City Hall in the U.S. state of California while clearing the campsite of the Occupy Oakland protest. ](/news/2011/10/25/police-arrest-75-people-outside-oakland-city-hall-in-the-u-s-state-of-california-while-clearing-the-campsite-of-the-occupy-oakland-protest.md) _Context: California, state_
+2. [Writer Raymond Chandler's wife's ashes are buried over his casket during a ceremony in San Diego in the U.S. state of California. ](/news/2011/02/15/writer-raymond-chandler-s-wife-s-ashes-are-buried-over-his-casket-during-a-ceremony-in-san-diego-in-the-u-s-state-of-california.md) _Context: California, state_
+3. [The death toll from the fire in the San Francisco suburb of San Bruno in the U.S. state of California, reaches 4, with 50 other people injured. ](/news/2010/09/10/the-death-toll-from-the-fire-in-the-san-francisco-suburb-of-san-bruno-in-the-u-s-state-of-california-reaches-4-with-50-other-people-injur.md) _Context: California, state_
+4. [Hewlett-Packard (HP), the world's largest computer maker based in the U.S. state of California, pays US$55 million amid allegations it defrauded the United States government. ](/news/2010/08/31/hewlett-packard-hp-the-world-s-largest-computer-maker-based-in-the-u-s-state-of-california-pays-us-55-million-amid-allegations-it-defra.md) _Context: California, state_
+5. [A spectator commits suicide during a concert by The Swell Season in the U.S. state of California. ](/news/2010/08/20/a-spectator-commits-suicide-during-a-concert-by-the-swell-season-in-the-u-s-state-of-california.md) _Context: California, state_
+6. [Same-sex marriage in the U.S. state of California, due to resume on Wednesday, is blocked by the Ninth Circuit Court of Appeals until it is decided whether a ban is constitutional. ](/news/2010/08/17/same-sex-marriage-in-the-u-s-state-of-california-due-to-resume-on-wednesday-is-blocked-by-the-ninth-circuit-court-of-appeals-until-it-is.md) _Context: California, state_
+7. [A rally takes place outside Google's offices in the U.S. state of California against a proposal to change online data treatment. ](/news/2010/08/14/a-rally-takes-place-outside-google-s-offices-in-the-u-s-state-of-california-against-a-proposal-to-change-online-data-treatment.md) _Context: California, state_
+8. [Federal Judge Vaughn R. Walker, after deciding for the plaintiffs in Perry v. Schwarzenegger, mandates that same-sex marriage in the U.S. state of California should resume on August 18. ](/news/2010/08/12/federal-judge-vaughn-r-walker-after-deciding-for-the-plaintiffs-in-perry-v-schwarzenegger-mandates-that-same-sex-marriage-in-the-u-s-st.md) _Context: California, state_
+9. [ Coroners in the U.S. state of California estimate the death toll from the current heat wave at at least 123.](/news/2006/07/28/coroners-in-the-u-s-state-of-california-estimate-the-death-toll-from-the-current-heat-wave-at-at-least-123.md) _Context: California, state_
+10. [ Stanley Williams is executed at San Quentin State Prison by the U.S. state of California. ](/news/2005/12/13/stanley-williams-is-executed-at-san-quentin-state-prison-by-the-u-s-state-of-california.md) _Context: California, state_

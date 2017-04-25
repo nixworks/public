@@ -1,0 +1,25 @@
+### [2015-10-4](/news/2015/10/4/index.md)
+
+# Heavy flooding along the French Riviera in the southeast of France killls at least 17 people with four more still missing. Rail, road, and air traffic are all suspended, and 27,000 homes are without electricity. A major stretch of the French Riviera has been declared a natural disaster zone. According to local radio station France Bleu-Azur, more than 17cm of rain fell on the Alpes-Maritimes region in two hours, the same amount the region would usually expect over two months. 
+
+Violent storms and flooding along the French Riviera have killed at least 17 people and another four are still missing in what were described as &quot;apocalyptic&quot; scenes, local officials said Sunday. Up to 180 millimetres (seven inches) of rain fell in just three hours overnight, transforming
+
+
+### Source:
+
+1. [AFP via Yahoo News](http://news.yahoo.com/12-dead-heavy-flooding-french-riviera-officials-021738690.html)
+2. [Euro News](http://www.euronews.com/2015/10/05/french-riviera-declared-disaster-zone-after-deadly-flash-floods/)
+3. [Sky News](http://news.sky.com/story/1563567/flash-floods-on-french-riviera-up-to-16-dead)
+
+### Related:
+
+1. [ In France, large forest fires rage in the French Riviera. Authorities evacuate thousands. ](/news/2005/07/5/in-france-large-forest-fires-rage-in-the-french-riviera-authorities-evacuate-thousands.md) _Context: France, French Riviera_
+2. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: France_
+3. [An explosion occurs at a carnival in Villepinte, Seine-Saint-Denis, France, injuring at least 18 people. ](/news/2017/04/1/an-explosion-occurs-at-a-carnival-in-villepinte-seine-saint-denis-france-injuring-at-least-18-people.md) _Context: France_
+4. [On Friday night a man begins to shoot in a Lille Metro station in Lille, France. Three people are injured, including being shot in the leg and neck. The gunman is not thought to be a terrorist, and is still on the run. ](/news/2017/03/24/on-friday-night-a-man-begins-to-shoot-in-a-lille-metro-station-in-lille-france-three-people-are-injured-including-being-shot-in-the-leg-a.md) _Context: France_
+5. [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md) _Context: France_
+6. [Bruno Le Roux resigns as France's Minister of the Interior amid a jobs scandal involving two of his daughters. Using public funds, Bruno had hired his 15 and 16-year-old daughters as parliamentary assistants while he was serving as a deputy in the French National Assembly. ](/news/2017/03/21/bruno-le-roux-resigns-as-france-s-minister-of-the-interior-amid-a-jobs-scandal-involving-two-of-his-daughters-using-public-funds-bruno-had.md) _Context: France_
+7. [A shooting at a school in Grasse, France, injures at least eight people. Authorities arrest a 17-year-old student. ](/news/2017/03/16/a-shooting-at-a-school-in-grasse-france-injures-at-least-eight-people-authorities-arrest-a-17-year-old-student.md) _Context: France_
+8. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: France_
+9. [A fire at the Flamanville Nuclear Power Plant in northwest France caused an explosion in a "non-nuclear" part of the station. One reactor was taken offline and five people were affected by fumes. The accident did not cause a radioactive leak. ](/news/2017/02/9/a-fire-at-the-flamanville-nuclear-power-plant-in-northwest-france-caused-an-explosion-in-a-non-nuclear-part-of-the-station-one-reactor-wa.md) _Context: France_
+10. [At least four skiers are killed in an avalanche at the Tignes resort in France. ](/news/2017/02/13/at-least-four-skiers-are-killed-in-an-avalanche-at-the-tignes-resort-in-france.md) _Context: France_

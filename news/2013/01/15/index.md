@@ -1,0 +1,43 @@
+## [2013-01-15](/news/2013/01/15/index.md)
+
+### [Syrian civil war: Aleppo University bombings: 83 people are killed and more than 150 injured in a rocket barrage aimed at Aleppo University, as government forces and rebels continue fighting in the suburbs of Damascus. Both sides accused each other of launching the missiles. ](/news/2013/01/15/syrian-civil-war-paleppo-university-bombings-83-people-are-killed-and-more-than-150-injured-in-a-rocket-barrage-aimed-at-aleppo-university.md)
+Syria UN envoy says 82 students killed in Aleppo blastsUNITED NATIONS, Jan 15 (Reuters) - At least 82 students in Syria were killed on Tuesday in two explosions that rocked the university in Aleppo, Syria&#39;s biggest city, Syria&#39;s U.N. envoy told the U.N. Security Council.&quot;A cowardly terrorist act targeted the students of Aleppo University as they sat for their midterm examinations. This act killed 82 students and wounded 162 other students,&quot; Syria&#39;s U.N. ambassador, Bashar Ja&#39;afari, told the council during a debate on counter-terrorism.The cause of the explosions was not clear but the government and opposition activists blamed each other.
+
+### [Northern Mali conflict (2012-present):African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/northern-mali-conflict-2012apresent-pafrican-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-we.md)
+Announcement comes as Hollande says France will end intervention only when stability returns to West African country.
+
+### [Iraqi insurgency (post-U.S. withdrawal):A suicide bomber kills a Sunni MP and six others in Fallujah, two days after Finance Minister Rafi al-Issawi survived an assassination attempt in the same city. The parliamentarian, Ifan Saadoun al-Issawi, was an important member of the Sahwa{{dn|date=July 2013}} committee in Fallujah and part of the opposition to Prime Minister Nouri al-Maliki. ](/news/2013/01/15/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bomber-kills-a-sunni-mp-and-six-others-in-fallujah-two-days-after-finance-minister-rafi.md)
+Ayfan Sadoun al-Essawi and six others killed in suicide attack in Fallujah, officials say.
+
+### [Kashmir conflict:Pakistan claims another of its soldiers is killed from gunfire by Indian troops near the Line of Control. This is the fifth such fatality reported in the past two weeks from either of the neighboring countries who each claim the disputed territory. ](/news/2013/01/15/kashmir-conflict-ppakistan-claims-another-of-its-soldiers-is-killed-from-gunfire-by-indian-troops-near-the-line-of-control-this-is-the-fift.md)
+Indian troops killed a Pakistani soldier in the disputed territory of Kashmir late on Tuesday, the Pakistani army said, the fifth fatality in hostilities between the nuclear armed neighbors since the new year.
+
+### [Badrashin railway accident: A train carrying Egyptian Army recruits derails near Giza, Greater Cairo, killing 19 and injuring 120 others. ](/news/2013/01/15/badrashin-railway-accident-a-train-carrying-egyptian-army-recruits-derails-near-giza-greater-cairo-killing-19-and-injuring-120-others.md)
+Military train derails in Giza, outside of Cairo, killing 19 people and injuring more than 100 others.
+
+### [2013 Saltsjobanan train crash: A Saltsjobanan commuter train crashes into a residential building in the upscale Stockholm suburb of Saltsjobaden seriously injuring one person. ](/news/2013/01/15/2013-saltsjapbanan-train-crash-a-saltsjapbanan-commuter-train-crashes-into-a-residential-building-in-the-upscale-stockholm-suburb-of-saltsj.md)
+A cleaning woman stole an empty commuter train in a suburb of Stockholm and crashed it into a house, injuring herself, Swedish officials say.
+
+### [2013 horse meat contamination in burgers scandal: The Republic of Ireland's Food Safety Authority says that horse DNA has been found in some beefburgers on sale in UK and Irish supermarkets. ](/news/2013/01/15/2013-horse-meat-contamination-in-burgers-scandal-the-republic-of-ireland-s-food-safety-authority-says-that-horse-dna-has-been-found-in-some.md)
+_Context: 2013 horse meat contamination in burgers scandal, DNA, Ireland, UK, beefburger, horse, supermarket chain_
+
+### [Egyptian human rights lawyer Ahmed al-Gizawi is sentenced to five years imprisonment and 300 lashes in Saudi Arabia. ](/news/2013/01/15/egyptian-human-rights-lawyer-ahmed-al-gizawi-is-sentenced-to-five-years-imprisonment-and-300-lashes-in-saudi-arabia.md)
+An Egyptian human rights lawyer is sentenced to five years in jail and 300 lashes by a court in Saudi Arabia for trafficking drugs.
+
+### [Two people are shot dead and another person was wounded at Hazard Community and Technical College in Hazard, Kentucky, United States. ](/news/2013/01/15/two-people-are-shot-dead-and-another-person-was-wounded-at-hazard-community-and-technical-college-in-hazard-kentucky-united-states.md)
+Man charged in shooting that kills 2, injures 1 at Hazard Community and Technical College
+
+### [Pakistani Supreme Court ordered the arrest of Prime Minister of Pakistan Raja Pervez Ashraf in relation to a bribery case within 24 hours. ](/news/2013/01/15/pakistani-supreme-court-ordered-the-arrest-of-prime-minister-of-pakistan-raja-pervez-ashraf-in-relation-to-a-bribery-case-within-24-hours.md)
+An enigmatic preacher with thousands of followers is demanding the government’s ouster, the top court has ordered the arrest of the prime minister and violence is surging.
+
+### [Russia launches three Kosmos series military-purpose satellites using Rokot launch vehicle. ](/news/2013/01/15/russia-launches-three-kosmos-series-military-purpose-satellites-using-rokot-launch-vehicle.md)
+_Context: Kosmos series, Rokot, Russia, launch vehicle, launches, released an object into orbit_
+
+### [Paul McGinley is chosen to lead Europe in their defence of the 2014 Ryder Cup at Gleneagles in Perthshire, Scotland. ](/news/2013/01/15/paul-mcginley-is-chosen-to-lead-europe-in-their-defence-of-the-2014-ryder-cup-at-gleneagles-in-perthshire-scotland.md)
+_Context: 2014 Ryder Cup, Gleneagles, Paul McGinley, Perthshire, Scotland_
+
+### [The Associated Press reports that the U.S. cyclist Lance Armstrong has admitted to doping in his career during his interview with Oprah Winfrey, yet to be aired. ](/news/2013/01/15/the-associated-press-reports-that-the-u-s-cyclist-lance-armstrong-has-admitted-to-doping-in-his-career-during-his-interview-with-oprah-winf.md)
+During two-and-a-half-hour interview, former cyclist confesses to using to PEDs, AP reports, citing source.
+
+## [Previous Day...](/news/2013/01/14/index.md)
+

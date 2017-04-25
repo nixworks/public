@@ -1,0 +1,24 @@
+### [2005-01-9](/news/2005/01/9/index.md)
+
+#  After a 66% turnout and extended hours, an exit poll shows Mahmoud Abbas winning the Palestinian presidential election with two-thirds of the vote and  challenger Mustafa Barghouti getting 19.7%. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4160171.stm)
+2. [AP](http://story.news.yahoo.com/news?tmpl=story&e=1&u=/ap/20050109/ap_on_re_mi_ea/palestinians_poll)
+
+### Related:
+
+1. [ Israeli-Palestinian conflict:  Palestinian presidential candidate Mustafa Barghouti is  arrested by Israeli police on the last day of the campaign as he tried to enter the Al-Aqsa Mosque. ](/news/2005/01/7/israeliapalestinian-conflict-p-palestinian-presidential-candidate-mustafa-barghouti-is-arrested-by-israeli-police-on-the-last-day-of-th.md) _Context: Mustafa Barghouti, Palestinian presidential election_
+2. [ Palestinian presidential election: Mahmoud Abbas (a.k.a. Abu Mazen) is sworn in as president of the Palestinian Authority in a ceremony in the West Bank town of Ramallah, six days after winning the Palestinian presidential election. ](/news/2005/01/15/palestinian-presidential-election-p-mahmoud-abbas-a-k-a-abu-mazen-is-sworn-in-as-president-of-the-palestinian-authority-in-a-ceremony-in.md) _Context: Mahmoud Abbas, Palestinian presidential election_
+3. [ Mahmoud Abbas is officially declared winner of the Palestinian presidential election, with 62.3% of the votes cast. ](/news/2005/01/10/mahmoud-abbas-is-officially-declared-winner-of-the-palestinian-presidential-election-with-62-3-of-the-votes-cast.md) _Context: Mahmoud Abbas, Palestinian presidential election_
+4. [Newly-revealed secret information, decoded from documents from the Mitrokhin Archive, a collection of handwritten notes by KGB archivist Vasili Mitrokhin, who smuggled his notes out of Russia in the 1990s when he defected to Britain, show that Palestinian leader Mahmoud Abbas was once a "spy" under the Russian agency the KGB using the codename "Mole". ](/news/2016/09/8/newly-revealed-secret-information-decoded-from-documents-from-the-mitrokhin-archive-a-collection-of-handwritten-notes-by-kgb-archivist-vas.md) _Context: Mahmoud Abbas_
+5. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Mahmoud Abbas_
+6. [U.S. Secretary of State John Kerry met today in Berlin with Israeli Prime Minister Benjamin Netanyahu regarding the recent spate of violence between Palestinians and Israelis. Kerry will meet on Saturday with Palestinian President Mahmoud Abbas and King Abdullah of Jordan in Amman. ](/news/2015/10/22/u-s-secretary-of-state-john-kerry-met-today-in-berlin-with-israeli-prime-minister-benjamin-netanyahu-regarding-the-recent-spate-of-violence.md) _Context: Mahmoud Abbas_
+7. [Palestinian rioters set fire to the building containing Joseph's Tomb in the West Bank city of Nablus causing heavy damage to the structure before the fire is put out. Palestinian Authority President Mahmoud Abbas condemns the attack. ](/news/2015/10/16/palestinian-rioters-set-fire-to-the-building-containing-joseph-s-tomb-in-the-west-bank-city-of-nablus-causing-heavy-damage-to-the-structure.md) _Context: Mahmoud Abbas_
+8. [Mahmoud Abbas, the President of the Palestinian Authority, states that Palestine will no longer abide by the Oslo accords and claims that Israel has not been complying with them. ](/news/2015/09/30/mahmoud-abbas-the-president-of-the-palestinian-authority-states-that-palestine-will-no-longer-abide-by-the-oslo-accords-and-claims-that-is.md) _Context: Mahmoud Abbas_
+9. [President of the State of Palestine Mahmoud Abbas resigns from the Executive Committee of the Palestinian Liberation Organisation along with 11 ministers to force an election. The last time there were elections in the Palestinian authority was in 2005. ](/news/2015/08/22/president-of-the-state-of-palestine-mahmoud-abbas-resigns-from-the-executive-committee-of-the-palestinian-liberation-organisation-along-with.md) _Context: Mahmoud Abbas_
+10. [Palestinian President Mahmoud Abbas speaks of an offer suggested by an Egyptian official whom he didn't name, that implies Egypt donating 600 square miles of land in Sinai to be used as a solution to the problem of Palestinian refugees. Mahmoud Abbas said that he rejected that offer. ](/news/2014/09/3/palestinian-president-mahmoud-abbas-speaks-of-an-offer-suggested-by-an-egyptian-official-whom-he-didn-t-name-that-implies-egypt-donating-60.md) _Context: Mahmoud Abbas_

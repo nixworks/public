@@ -1,0 +1,23 @@
+### [2009-09-12](/news/2009/09/12/index.md)
+
+#  Eight people are swept away by flash floods and a ninth is killed by lightning as more thunderstorms lash southwestern Algeria. Five people are killed in storms in Morocco. 
+
+
+
+
+### Source:
+
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090912174208949C638886)
+
+### Related:
+
+1. [Macedonia, Serbia, Croatia, and Slovenia shut their borders to so-called economic migrants, those not coming from war-torn countries such as Syria, Afghanistan, or Iraq, leaving thousands stranded at Balkan border crossings. Around 500 migrants from Iran, Morocco, and Algeria gather on the border between Greece and Macedonia to protest the closure. ](/news/2015/11/20/macedonia-serbia-croatia-and-slovenia-shut-their-borders-to-so-called-economic-migrants-those-not-coming-from-war-torn-countries-such-as.md) _Context: Algeria, Morocco_
+2. [A ship bound from Libya, the ''Al-Amal'', due to deliver humanitarian aid from Algeria, Morocco and  Nigeria to the Gaza Strip, changes course for Egypt after being warned to stay away by the Israeli Navy and receiving pressure from the United States to "act responsibly". ](/news/2010/07/13/a-ship-bound-from-libya-the-al-amal-due-to-deliver-humanitarian-aid-from-algeria-morocco-and-nigeria-to-the-gaza-strip-changes-cour.md) _Context: Algeria, Morocco_
+3. [ Tomihiro Taniguchi, Deputy Director-General of the International Atomic Energy Agency, announces that Algeria, Egypt, Morocco and Saudi Arabia, and possibly Tunisia and the United Arab Emirates, will launch nuclear programs for desalination. A proliferation expert asserts the real reason behind the programs is for a "security hedge." ](/news/2006/11/4/tomihiro-taniguchi-deputy-director-general-of-the-international-atomic-energy-agency-announces-that-algeria-egypt-morocco-and-saudi-ara.md) _Context: Algeria, Morocco_
+4. [ In Rabat, Morocco, some 30.000 protesters march to call for release of prisoners of war held by Polisario in Algeria. ](/news/2005/03/6/in-rabat-morocco-some-30-000-protesters-march-to-call-for-release-of-prisoners-of-war-held-by-polisario-in-algeria.md) _Context: Algeria, Morocco_
+5. [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md) _Context: Morocco_
+6. [Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. ](/news/2017/01/31/morocco-rejoins-the-african-union-after-a-33-year-absence-despite-opposition-from-several-member-states-over-the-political-status-of-wester.md) _Context: Morocco_
+7. [Voters in Morocco go to the polls for a general election with the ruling Justice and Development Party winning the most seats. ](/news/2016/10/7/voters-in-morocco-go-to-the-polls-for-a-general-election-with-the-ruling-justice-and-development-party-winning-the-most-seats.md) _Context: Morocco_
+8. [Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. ](/news/2016/08/5/republican-presidential-candidate-donald-trump-says-he-plans-to-ban-immigration-from-afghanistan-iraq-morocco-pakistan-the-philippines.md) _Context: Morocco_
+9. [Morocco formally announces it wishes to rejoin the African Union 32 years after leaving over its recognition of the Sahrawi Arab Democratic Republic in Western Sahara. ](/news/2016/07/18/morocco-formally-announces-it-wishes-to-rejoin-the-african-union-32-years-after-leaving-over-its-recognition-of-the-sahrawi-arab-democratic.md) _Context: Morocco_
+10. [Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-people-smugglers-who-were-taki.md) _Context: Algeria_

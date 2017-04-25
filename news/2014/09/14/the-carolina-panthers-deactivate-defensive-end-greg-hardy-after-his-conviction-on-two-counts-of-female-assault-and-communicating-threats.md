@@ -1,0 +1,14 @@
+### [2014-09-14](/news/2014/09/14/index.md)
+
+# The Carolina Panthers deactivate defensive end Greg Hardy after his conviction on two counts of female assault and communicating threats. 
+
+Hardy, who is appealing a conviction for assaulting a woman, was supposed to play Sunday.
+
+
+### Source:
+
+1. [USA Today](http://www.usatoday.com/story/sports/nfl/panthers/2014/09/14/carolina-panthers-deactivate-greg-hardy-for-detroit-lions-game/15625873/)
+
+### Related:
+
+1. [In American football, the Denver Broncos defeat the Carolina Panthers 24-10 in Super Bowl 50. Broncos outside linebacker Von Miller is named as the game's Most Valuable Player.  ](/news/2016/02/7/in-american-football-the-denver-broncos-defeat-the-carolina-panthers-24a10-in-super-bowl-50-broncos-outside-linebacker-von-miller-is-nam.md) _Context: Carolina Panthers_

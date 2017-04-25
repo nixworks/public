@@ -1,0 +1,23 @@
+### [2017-01-30](/news/2017/01/30/index.md)
+
+# Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. 
+
+The once-powerful tycoon is sent to a high security prison in Rio, accused of paying bribes.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38796393)
+
+### Related:
+
+1. [A small plane carrying Brazilian Supreme Court Justice Teori Zavascki crashes  into the sea  near the tourist town of Paraty in the state of Rio de Janeiro, killing the magistrate and two other people. Zavascki had been handling the politically-charged Operation Car Wash corruption trials. ](/news/2017/01/19/a-small-plane-carrying-brazilian-supreme-court-justice-teori-zavascki-crashes-into-the-sea-near-the-tourist-town-of-paraty-in-the-state-of.md) _Context: Operation Car Wash, Rio de Janeiro_
+2. [Brazilian construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal. ](/news/2016/12/21/brazilian-construction-firm-odebrecht-and-affiliated-petrochemical-company-braskem-plead-guilty-of-violating-american-foreign-bribery-laws-i.md) _Context: Brazil, Operation Car Wash_
+3. [Former Rio de Janeiro governor Sergio Cabral is arrested in corruption probe. ](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.md) _Context: Rio de Janeiro, Sérgio Cabral Filho_
+4. [Brazilian prosecutors file corruption charges against former President Luiz Inacio Lula da Silva and his wife, Marisa Leticia Lula da Silva. Federal judge Sergio Moro will preside over his case. ](/news/2016/09/14/brazilian-prosecutors-file-corruption-charges-against-former-president-luiz-ina-cio-lula-da-silva-and-his-wife-marisa-letacia-lula-da-silv.md) _Context: Brazil, Operation Car Wash_
+5. [Acting on a request from Brazil's top prosecutor, Supreme Court Justice Teori Zavascki suspends President of the Deputies Chamber Eduardo Cunha for obstructing the Petrobras corruption investigation. The full court confirms this action, Cunha is eliminated from the line of succession to President Dilma Rousseff, who may be suspended from office next week. ](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.md) _Context: Brazil, Operation Car Wash_
+6. [A survey conducted by Datafolha shows a majority of Brazilians now favor the impeachment or resignation of President Dilma Rousseff. The poll showed 68 percent of respondents favor Rousseff's impeachment by Congress, while 65 percent think the president should resign. The president's approval ratings have been hammered by Brazil's worst recession in decades and its biggest ever corruption probe. ](/news/2016/03/19/a-survey-conducted-by-datafolha-shows-a-majority-of-brazilians-now-favor-the-impeachment-or-resignation-of-president-dilma-rousseff-the-pol.md) _Context: Brazil, Operation Car Wash_
+7. [Brazilian Supreme Court Justice Gilmar Mendes rules Luiz Inacio Lula da Silva should be stripped of a ministerial role in President Dilma Rousseff's Cabinet so he can be investigated in connection with the state oil company Petrobras's alleged  kickback scheme. Earlier today, injunctions suspending Lula's appointment  as chief of staff   were overturned at  Attorney General  Jose Eduardo Cardozo's request for a Supreme Court ruling on the motions. ](/news/2016/03/18/brazilian-supreme-court-justice-gilmar-mendes-rules-luiz-ina-cio-lula-da-silva-should-be-stripped-of-a-ministerial-role-in-president-dilma-r.md) _Context: Brazil, Operation Car Wash_
+8. [Floods in Rio de Janeiro, Brazil, kill more than 250 people. ](/news/2011/01/12/floods-in-rio-de-janeiro-brazil-kill-more-than-250-people.md) _Context: Brazil, Rio de Janeiro_
+9. [95 farm workers are rescued from difficult living conditions in two south-eastern states (Minas Gerais and Rio de Janeiro (state)) of Brazil. ](/news/2010/09/12/95-farm-workers-are-rescued-from-difficult-living-conditions-in-two-south-eastern-states-minas-gerais-and-rio-de-janeiro-state-of-brazil.md) _Context: Brazil, Rio de Janeiro_
+10. [Rescue efforts continue in Brazil in an attempt to locate around 200 people believed to have been buried in their homes by a large landslide in Morro do Bumba near Rio de Janeiro city in the state of Rio de Janeiro. ](/news/2010/04/9/rescue-efforts-continue-in-brazil-in-an-attempt-to-locate-around-200-people-believed-to-have-been-buried-in-their-homes-by-a-large-landslide.md) _Context: Brazil, Rio de Janeiro_

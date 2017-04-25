@@ -1,0 +1,23 @@
+### [2014-10-9](/news/2014/10/9/index.md)
+
+# Former Slovenian prime minister Alenka Bratusek withdraws her candidacy as Vice-President of the European Commission and as European Commissioner for Energy after having been rejected by the European Parliament. 
+
+The withdrawal of the Slovenian commission candidate clears the way for a new nominee, but the Juncker team is still at risk of being delayed.
+
+
+### Source:
+
+1. [EU Observer](http://euobserver.com/political/125991)
+
+### Related:
+
+1. [With 13 votes for and 122 against, the European Parliament rejects former Slovenian Prime Minister Alenka Bratusek's candidacy for Vice-President of the European Commission and as Commissioner for the Energy Union. ](/news/2014/10/8/with-13-votes-for-and-122-against-the-european-parliament-rejects-former-slovenian-prime-minister-alenka-bratua-ek-s-candidacy-for-vice-pre.md) _Context: Alenka Bratušek, European Commission Vice-President, European Commissioner for Energy, European Parliament_
+2. [Violeta Bulc is nominated as Slovenia's new candidate for EU commissioner after the former prime minister Alenka Bratusek was rejected by the European Parliament. ](/news/2014/10/10/violeta-bulc-is-nominated-as-slovenia-s-new-candidate-for-eu-commissioner-after-the-former-prime-minister-alenka-bratua-ek-was-rejected-by-t.md) _Context: Alenka Bratušek, European Parliament, Slovenia_
+3. [Outgoing Slovenian prime minister Alenka Bratusek is formally nominated by Jean-Claude Juncker as the country's EU commissioner despite resistance from the prime minister-designate Miro Cerar, and according to several European media she is slated to become a Vice-President of the Commission. ](/news/2014/09/5/outgoing-slovenian-prime-minister-alenka-bratua-ek-is-formally-nominated-by-jean-claude-juncker-as-the-country-s-eu-commissioner-despite-res.md) _Context: Alenka Bratušek, European Commission Vice-President_
+4. [Slovenian MEPs of the European People's Party announce that they will vote against the new line-up of the European Commission on 22 October unless former PM Alenka Bratusek is replaced as Slovenia's commissioner. ](/news/2014/09/20/slovenian-meps-of-the-european-people-s-party-announce-that-they-will-vote-against-the-new-line-up-of-the-european-commission-on-22-october.md) _Context: Alenka Bratušek, Slovenia_
+5. [Miro Cerar secures an absolute majority of votes in parliament to become new prime minister of Slovenia after receiving an endorsement by the Pensioner's Party DeSUS, as well as by the outgoing PM Alenka Bratusek and her Alliance. ](/news/2014/08/13/miro-cerar-secures-an-absolute-majority-of-votes-in-parliament-to-become-new-prime-minister-of-slovenia-after-receiving-an-endorsement-by-th.md) _Context: Alenka Bratušek, Slovenia_
+6. [Parliament of Slovenia ousts Prime Minister Janez Jansa amid corruption allegations. Opposition leader Alenka Bratusek is tasked to form a new government. ](/news/2013/02/28/parliament-of-slovenia-ousts-prime-minister-janez-jana-a-amid-corruption-allegations-opposition-leader-alenka-bratua-ek-is-tasked-to-form-a.md) _Context: Alenka Bratušek, Slovenia_
+7. [ The European Commission of the European Union has announced that ten countries - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia - have met its criteria for entry, opening the way for an expansion of the EU from 15 member states to 25.  The European Parliament has still to consider each candidate individually and the final decision will require the approval of the current member states.](/news/2002/10/9/the-european-commission-of-the-european-union-has-announced-that-ten-countries-a-cyprus-the-czech-republic-estonia-hungary-latvia-li.md) _Context: European Parliament, Slovenia_
+8. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: European Parliament_
+9. [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _Context: European Parliament_
+10. [Antonio Tajani has been elected as new President of the European Parliament. ](/news/2017/01/17/antonio-tajani-has-been-elected-as-new-president-of-the-european-parliament.md) _Context: European Parliament_

@@ -1,0 +1,24 @@
+### [2013-02-5](/news/2013/02/5/index.md)
+
+# Riots take place in Dhaka, the capital of Bangladesh, ahead of the verdict of a trial in the International Crimes Tribunal against Abdul Quader Molla, the assistant secretary general of the Jamaat-e-Islami party dating from the 1971 Bangladeshi War of Independence. He is given a life sentence. 
+
+Jamaat-e-Islami Abdul Quader Molla was sentenced following charges of rape, genocide and murder.
+
+
+### Source:
+
+1. [AFP via Dawn.com](http://dawn.com/2013/02/05/deadly-riots-ahead-of-bangladesh-war-crimes-verdict/)
+2. [AFP via ''The Express Tribune](http://tribune.com.pk/story/502922/deadly-riots-ahead-of-bangladesh-war-crimes-verdict/)
+
+### Related:
+
+1. [Bangladesh hangs Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami, for committing atrocities in the Bangladesh Liberation War in 1971. ](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.md) _Context: Abdul Kader Mullah, Bangladesh, Bangladesh Jamaat-e-Islami_
+2. [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami, Dhaka_
+3. [Three people are dead and over 200 are injured when Hefajat-e-Islam and Jamaat-e-Islami clash with police in Dhaka, Bangladesh. ](/news/2013/05/5/three-people-are-dead-and-over-200-are-injured-when-hefajat-e-islam-and-jamaat-e-islami-clash-with-police-in-dhaka-bangladesh.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami, Dhaka_
+4. [Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the  Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-of-dhaka-bangladesh.md) _Context: Bangladesh, Dhaka_
+5. [The head of Bangladesh's largest Islamist party, Bangladesh Jamaat-e-Islami, Motiur Rahman Nizami, is executed for his alleged role in acts of genocide and war crimes 45 years ago during the independence war against Pakistan in 1971. Nizami is the fifth senior opposition leader to be executed in connection with the war; a total of 17 people have received the death penalty. Authorities prepare for possibly violent protests. ](/news/2016/05/11/the-head-of-bangladeshas-largest-islamist-party-bangladesh-jamaat-e-islami-motiur-rahman-nizami-is-executed-for-his-alleged-role-in-act.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
+6. [Xulhaz Mannan, a Bangladeshi employee of a U.S. charity (USAID), who is also an editor for the country's only LGBT magazine, and a friend are hacked to death in Dhaka, Bangladesh, by suspected Islamist militants. Guards at the building were also injured. ](/news/2016/04/25/xulhaz-mannan-a-bangladeshi-employee-of-a-u-s-charity-usaid-who-is-also-an-editor-for-the-country-s-only-lgbt-magazine-and-a-friend-ar.md) _Context: Bangladesh, Dhaka_
+7. [Bangladesh executes two former members of parliament, Salahuddin Quader Chowdhury, of the Bangladesh Nationalist Party, and Ali Ahsan Mohammad Mojaheed, of the Jamaat-e-Islami party, who were convicted in 2013 of war crimes committed during the country's 1971 war of independence.  ](/news/2015/11/22/bangladesh-executes-two-former-members-of-parliament-salahuddin-quader-chowdhury-of-the-bangladesh-nationalist-party-and-ali-ahsan-mohamm.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
+8. [Teachers, writers and students lead a protest rally in Dhaka against the recent killings and attacks on secular authors and publishers in Bangladesh. ](/news/2015/11/1/teachers-writers-and-students-lead-a-protest-rally-in-dhaka-against-the-recent-killings-and-attacks-on-secular-authors-and-publishers-in-ba.md) _Context: Bangladesh, Dhaka_
+9. [A series of bomb blasts targeting Shia Muslims in the Bangladeshi capital Dhaka kills at least one person and injures dozens more. Claims of responsibility by ISIS are  discounted by Dhaka police who told AFP, "So far we have not found any link to any militant group." ](/news/2015/10/24/a-series-of-bomb-blasts-targeting-shia-muslims-in-the-bangladeshi-capital-dhaka-kills-at-least-one-person-and-injures-dozens-more-claims-of.md) _Context: Bangladesh, Dhaka_
+10. [ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islamic-state-s-first-attack-in-bangladesh.md) _Context: Bangladesh, Dhaka_

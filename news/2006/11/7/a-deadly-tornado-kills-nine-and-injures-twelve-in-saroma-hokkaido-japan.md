@@ -1,0 +1,23 @@
+### [2006-11-7](/news/2006/11/7/index.md)
+
+#  A deadly tornado kills nine and injures twelve in Saroma, Hokkaido, Japan. 
+
+
+
+
+### Source:
+
+1. [Sky News](http://news.sky.com/skynews/article/0,,30200-13550726,00.html)
+
+### Related:
+
+1. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan_
+2. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: tornado_
+3. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Japan_
+4. [A Japanese fleet returns home after hunting 333 whales in the Antarctic. The Japanese government states that the purpose was for research. ](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333-whales-in-the-antarctic-the-japanese-government-states-that-the-purpose-was-for-research.md) _Context: Japan_
+5. [An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. ](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.md) _Context: Japan_
+6. [Severe  storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several  people and damaging at least 100 homes with  one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at.md) _Context: tornado_
+7. [Japan ratifies the  Trans-Pacific Partnership. ](/news/2016/12/9/japan-ratifies-the-trans-pacific-partnership.md) _Context: Japan_
+8. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan_
+9. [A 6.9 magnitude earthquake off Japan's Fukushima Prefecture injures 15 people, and triggers a 1 meter tsunami that causes a temporary power disruption at Fukushima Daini Nuclear Power Plant. ](/news/2016/11/22/a-6-9-magnitude-earthquake-off-japan-s-fukushima-prefecture-injures-15-people-and-triggers-a-1-meter-tsunami-that-causes-a-temporary-power.md) _Context: Japan_
+10. [Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md) _Context: Japan_

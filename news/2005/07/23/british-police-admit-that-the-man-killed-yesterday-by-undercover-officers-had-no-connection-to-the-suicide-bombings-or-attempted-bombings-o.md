@@ -1,0 +1,23 @@
+### [2005-07-23](/news/2005/07/23/index.md)
+
+#  British police admit that the man killed yesterday by undercover officers had no connection to the suicide bombings or attempted bombings of previous days and weeks.  Metropolitan Police has described the killing as a "tragedy". The victim, Jean Charles de Menezes, 27, was Brazilian. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4711021.stm)
+
+### Related:
+
+1. [ In the United Kingdom, the Crown Prosecution Service announce that police officers involved in the fatal shooting of Jean Charles de Menezes in the aftermath of the attempted bombings of London on July 21, 2005 will not face criminal charges, although the Metropolitan Police Service is to be prosecuted under the Health and Safety at Work Act. ](/news/2006/07/17/in-the-united-kingdom-the-crown-prosecution-service-announce-that-police-officers-involved-in-the-fatal-shooting-of-jean-charles-de-meneze.md) _Context: Jean Charles de Menezes, Scotland Yard_
+2. [ ITN news announces it has uncovered classified documents which seem to imply that Jean Charles de Menezes, the man shot dead by British Police on July 22, 2005, was not wearing a heavy coat, did not jump the ticket barrier, was not given a warning, and did not at any time flee from police. ](/news/2005/08/16/itn-news-announces-it-has-uncovered-classified-documents-which-seem-to-imply-that-jean-charles-de-menezes-the-man-shot-dead-by-british-pol.md) _Context: British Police, Jean Charles de Menezes_
+3. [Scotland Yard confirms that they are investigating a triple murder in relation to the death of British actress Sian Blake and her two sons after the discovery of their dead bodies on Tuesday. ](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.md) _Context: Scotland Yard_
+4. [Scotland Yard advises that it will be treating three non-fatal stabbings at the Leytonstone tube station in London as a terrorist incident. ](/news/2015/12/5/scotland-yard-advises-that-it-will-be-treating-three-non-fatal-stabbings-at-the-leytonstone-tube-station-in-london-as-a-terrorist-incident.md) _Context: Scotland Yard_
+5. [Shaker Aamer, the last British resident held at the Guantanamo Bay detention camp, is released. Aamer faces no charges in Britain; Scotland Yard detectives questioned him for three days during his detention. ](/news/2015/10/30/shaker-aamer-the-last-british-resident-held-at-the-guantanamo-bay-detention-camp-is-released-aamer-faces-no-charges-in-britain-scotland.md) _Context: Scotland Yard_
+6. [In cricket, former New Zealand player Chris Cairns is to be charged with perjury by London's Metropolitan Police Service in relation to a 2012 libel trial regarding allegations of match fixing made by former Indian Premier League boss Lalit Modi. ](/news/2014/09/12/in-cricket-former-new-zealand-player-chris-cairns-is-to-be-charged-with-perjury-by-london-s-metropolitan-police-service-in-relation-to-a-20.md) _Context: Scotland Yard_
+7. [Metropolitan Police arrested two suspects after three women are rescued from a residential address in Lambeth, South London, after thirty years of captivity. ](/news/2013/11/21/metropolitan-police-arrested-two-suspects-after-three-women-are-rescued-from-a-residential-address-in-lambeth-south-london-after-thirty-ye.md) _Context: Scotland Yard_
+8. [Scotland Yard discovers new evidence and new witnesses in the Madeleine McCann case and opens a formal investigation into her disappearance. ](/news/2013/07/4/scotland-yard-discovers-new-evidence-and-new-witnesses-in-the-madeleine-mccann-case-and-opens-a-formal-investigation-into-her-disappearance.md) _Context: Scotland Yard_
+9. [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid ''The Sun'' about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-a.md) _Context: Scotland Yard_
+10. [As part of "a policy of reducing the impact of rough sleepers on the community" London's Metropolitan police seize belongings including sleeping bags from homeless people. ](/news/2013/05/24/as-part-of-a-policy-of-reducing-the-impact-of-rough-sleepers-on-the-community-london-s-metropolitan-police-seize-belongings-including-slee.md) _Context: Scotland Yard_

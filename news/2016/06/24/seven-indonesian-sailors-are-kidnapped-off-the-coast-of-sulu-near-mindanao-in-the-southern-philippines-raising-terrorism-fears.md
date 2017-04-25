@@ -1,0 +1,24 @@
+### [2016-06-24](/news/2016/06/24/index.md)
+
+# Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. 
+
+
+
+
+### Source:
+
+1. [The New York Times](http://www.nytimes.com/aponline/2016/06/24/world/asia/ap-as-indonesia-philippines-hostages.html)
+2. [Philippine Daily Inquirer](http://globalnation.inquirer.net/140404/authorities-verifying-report-asg-abducted-indonesian-sailors-anew)
+
+### Related:
+
+1. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Moro conflict, Philippines, Sulu_
+2. [  At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Moro conflict, Philippines, Sulu_
+3. [Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-militants.md) _Context: Indonesia, Moro conflict, Philippines_
+4. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Moro conflict, Philippines_
+5. [A 6.5 magnitude earthquake strikes 14 kilometers (8 miles) northwest of Surigao City on the Philippines island of Mindanao and kills four people, injures  more than 100  others, and damages multiple buildings. ](/news/2017/02/10/a-6-5-magnitude-earthquake-strikes-14-kilometers-8-miles-northwest-of-surigao-city-on-the-philippines-island-of-mindanao-and-kills-four-pe.md) _Context: Mindanao, Philippines_
+6. [The armed group Abu Sayyaf kidnaps a German national and murders his female companion off the coast of Mindanao in the Philippines. ](/news/2016/11/7/the-armed-group-abu-sayyaf-kidnaps-a-german-national-and-murders-his-female-companion-off-the-coast-of-mindanao-in-the-philippines.md) _Context: Mindanao, Philippines_
+7. [Muslim rebel group Moro National Liberation Front leader Nur Misuari meets with Philippines president Rodrigo Duterte in Malacanang Palace after receiving a reprieve from previous crimes of rebellion. ](/news/2016/11/3/muslim-rebel-group-moro-national-liberation-front-leader-nur-misuari-meets-with-philippines-president-rodrigo-duterte-in-malacaa-ang-palace.md) _Context: Moro conflict, Philippines_
+8. [Almost 2,000 families are displaced in Mindanao region of the Philippines due to clashes between government forces and Islamist militants. ](/news/2016/11/29/almost-2-000-families-are-displaced-in-mindanao-region-of-the-philippines-due-to-clashes-between-government-forces-and-islamist-militants.md) _Context: Mindanao, Philippines_
+9. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Moro conflict, Philippines_
+10. [The Philippines Secretary of National Defense Delfin Lorenzana suspends participation in any joint patrols with the United States in the disputed South China Sea. Lorenzana will ask a detachment of 107 U.S. troops providing counterterrorism assistance on the southern island of Mindanao to leave as President Rodrigo Duterte requested. ](/news/2016/10/7/the-philippines-secretary-of-national-defense-delfin-lorenzana-suspends-participation-in-any-joint-patrols-with-the-united-states-in-the-dis.md) _Context: Mindanao, Philippines_

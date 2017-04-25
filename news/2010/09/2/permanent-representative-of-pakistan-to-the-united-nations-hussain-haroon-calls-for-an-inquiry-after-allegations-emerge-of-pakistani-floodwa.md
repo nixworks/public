@@ -1,0 +1,10 @@
+### [2010-09-2](/news/2010/09/2/index.md)
+
+# Permanent Representative of Pakistan to the United Nations Hussain Haroon calls for an inquiry after allegations emerge of Pakistani floodwaters being diverted into vulnerable villages in a bid to preserve crops. 
+
+A Pakistani diplomat calls for a probe into allegations that rich landowners diverted water into unprotected villages during the floods to save their own crops.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11160995)

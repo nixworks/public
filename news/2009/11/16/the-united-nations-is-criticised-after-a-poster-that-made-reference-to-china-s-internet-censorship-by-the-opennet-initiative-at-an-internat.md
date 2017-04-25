@@ -1,0 +1,25 @@
+### [2009-11-16](/news/2009/11/16/index.md)
+
+#  The United Nations is criticised after a poster that made reference to China's internet censorship by the OpenNet Initiative at an international conference focussed on Internet freedom in Sharm el-Sheik, Egypt, is removed. 
+
+The United Nations is drawing fire after disrupting a meeting of rights activists at its internet governance convention in Egypt.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/technology/8361849.stm)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h2sbeua-b-jM_2xSM-f4mFsiFFJQD9C0PH4G0)
+3. [CBC](http://www.cbc.ca/technology/story/2009/11/16/internet-censorship--governance-egypt.html)
+
+### Related:
+
+1. [U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. ](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.md) _Context: Egypt, United Nations_
+2. [Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. ](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.md) _Context: Egypt, United Nations_
+3. [The International Air Transport Association calls for the United Nations to intervene in the dispute between the People's Republic of China and the European Union over airlines' involvement in the EU's carbon tax scheme for airlines. ](/news/2012/02/12/the-international-air-transport-association-calls-for-the-united-nations-to-intervene-in-the-dispute-between-the-people-s-republic-of-china.md) _Context: China's, United Nations_
+4. [The United Nations Working Group on Arbitrary Detention calls on China to release Liu Xiaobo and his wife. ](/news/2011/08/2/the-united-nations-working-group-on-arbitrary-detention-calls-on-china-to-release-liu-xiaobo-and-his-wife.md) _Context: China's, United Nations_
+5. [South Korea announces plans to submit a claim to the United Nations to a larger portion of the East China Sea in a move which is likely to be disputed by the People's Republic of China and Japan. ](/news/2011/07/3/south-korea-announces-plans-to-submit-a-claim-to-the-united-nations-to-a-larger-portion-of-the-east-china-sea-in-a-move-which-is-likely-to-b.md) _Context: China's, United Nations_
+6. [China denies claims by the United Nations that 300 Tibetan monks have forcibly disappeared over the past three months. ](/news/2011/06/9/china-denies-claims-by-the-united-nations-that-300-tibetan-monks-have-forcibly-disappeared-over-the-past-three-months.md) _Context: China's, United Nations_
+7. [China announces the creation of a State Internet Information Office to 'direct, coordinate, and supervise' online content management, prompting fears that online censorship will grow even more stringent. ](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.md) _Context: China's, blocks mentions_
+8. [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md) _Context: China's, United Nations_
+9. [China defends its censorship of the internet in a document laying out the government's attitude towards the web. ](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.md) _Context: China's, blocks mentions_
+10. [Hackers based in China access classified Indian documents, emails of the Dalai Lama, offices of the United Nations and the Pakistani embassy in the United States. ](/news/2010/04/6/hackers-based-in-china-access-classified-indian-documents-emails-of-the-dalai-lama-offices-of-the-united-nations-and-the-pakistani-embassy.md) _Context: China's, United Nations_

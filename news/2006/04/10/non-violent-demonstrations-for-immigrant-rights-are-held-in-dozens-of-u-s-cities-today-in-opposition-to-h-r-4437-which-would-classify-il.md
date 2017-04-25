@@ -1,0 +1,25 @@
+### [2006-04-10](/news/2006/04/10/index.md)
+
+#  Non-violent demonstrations for immigrant rights are held in dozens of U.S. cities today in opposition to H.R. 4437, which would classify illegal aliens as felons. 
+
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
+
+
+### Source:
+
+1. [New York Times](http://www.nytimes.com/2006/04/10/us/10cnd-rallies.html?_r=1&oref=slogin)
+2. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2006-04-10T175733Z_01_N10367945_RTRIDST_0_USA-IMMIGRATION-PICTURE.XML)
+3. [AP via Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=1509365)
+
+### Related:
+
+1. [ Protests against the US immigration reform bill H.R. 4437 are held in several US cities.  500,000 people march in Los Angeles, 50,000 in Denver, and 20,000 in Phoenix, Arizona, protesting proposed legislation that includes construction of a security wall along the United States-Mexico border.  ](/news/2006/03/25/protests-against-the-us-immigration-reform-bill-h-r-4437-are-held-in-several-us-cities-500-000-people-march-in-los-angeles-50-000-in-de.md) _Context: H.R. 4437, Non-violent demonstrations for immigrant rights_
+2. [In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office.  ](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.md) _Context: felons_
+3. [ Joyce Mitchell, who had smuggled hacksaw blades inside frozen meat to Richard Matt and David Sweat in prison, before withdrawing as their getaway driver, pleads guilty to a first-degree felony of promoting prison contraband and to a misdemeanor count of fourth-degree criminal facilitation. She faces up to 7 years in prison when sentenced. ](/news/2015/07/28/joyce-mitchell-who-had-smuggled-hacksaw-blades-inside-frozen-meat-to-richard-matt-and-david-sweat-in-prison-before-withdrawing-as-their-g.md) _Context: felons_
+4. [Texas Governor Rick Perry is indicted on felony charges for abuse of power. He is accused of coercing a District Attorney who had been convicted of drunk driving to resign by threatening to veto funding for state public corruption prosecutors. ](/news/2014/08/15/texas-governor-rick-perry-is-indicted-on-felony-charges-for-abuse-of-power-he-is-accused-of-coercing-a-district-attorney-who-had-been-convi.md) _Context: felons_
+5. [A man suspected of a shooting at the New River Community College in Christiansburg, Virginia, United States, is charged with multiple counts of malicious wounding and use of a firearm during the commission of a felony, and held without bail. ](/news/2013/04/13/a-man-suspected-of-a-shooting-at-the-new-river-community-college-in-christiansburg-virginia-united-states-is-charged-with-multiple-counts.md) _Context: felons_
+6. [U.S. actress Halle Berry is granted a restraining order against a convicted felon arrested on her Hollywood Hills property on Monday. ](/news/2011/07/12/u-s-actress-halle-berry-is-granted-a-restraining-order-against-a-convicted-felon-arrested-on-her-hollywood-hills-property-on-monday.md) _Context: felons_
+7. [Los Angeles County prosecuters lodge four felony charges against a man suspected of bombing a Chabad house in the US suburb of Santa Monica, California. ](/news/2011/04/12/los-angeles-county-prosecuters-lodge-four-felony-charges-against-a-man-suspected-of-bombing-a-chabad-house-in-the-us-suburb-of-santa-monica.md) _Context: felons_
+8. [GlaxoSmithKline pleads guilty to intentionally manufacturing and distributing adulterated drugs, including Paxil, and will pay $750 million for committing the felony. ](/news/2010/10/26/glaxosmithkline-pleads-guilty-to-intentionally-manufacturing-and-distributing-adulterated-drugs-including-paxil-and-will-pay-750-million.md) _Context: felons_
+9. [ O.J. Simpson is charged with several felonies in Las Vegas, Nevada. ](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.md) _Context: felons_
+10. [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md) _Context: felons_

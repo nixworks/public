@@ -1,0 +1,23 @@
+### [2015-11-28](/news/2015/11/28/index.md)
+
+# A slow moving wintry storm system is responsible for more than a dozen deaths in the U.S. states of Texas, Oklahoma and Kansas. 
+
+
+
+
+### Source:
+
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-11-28-US--Severe%20Weather/id-c9bd42e42d2142648e87f9b9e9b27fb7)
+
+### Related:
+
+1. [In the United States, the National Weather Service issues a blizzard warning for northeastern Colorado and western Kansas with an expected snowfall by midday of 12 inches in Denver, Colorado. Denver International Airport cancels 143 arriving and departing flighits. Several tornadoes occur overnight in northern Texas, western Kansas, and southern Nebraska. ](/news/2015/11/17/in-the-united-states-the-national-weather-service-issues-a-blizzard-warning-for-northeastern-colorado-and-western-kansas-with-an-expected-s.md) _Context: Kansas, Texas, United States_
+2. [The remnants of Tropical Storm Hermine causes widespread flooding in the US states of Texas and Oklahoma with at least two people dead. ](/news/2010/09/8/the-remnants-of-tropical-storm-hermine-causes-widespread-flooding-in-the-us-states-of-texas-and-oklahoma-with-at-least-two-people-dead.md) _Context: Oklahoma!, Texas, United States_
+3. [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md) _Context: Oklahoma!, Texas, United States_
+4. [ Western U.S. Freeze of 2007: 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/western-u-s-freeze-of-2007-p-65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u.md) _Context: Oklahoma!, Texas, United States_
+5. [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md) _Context: Texas, United States_
+6. [A head on crash between a pickup truck and a church bus outside Garner State Park in the American state of Texas kills at least 12 people and injures 3 others. ](/news/2017/03/29/a-head-on-crash-between-a-pickup-truck-and-a-church-bus-outside-garner-state-park-in-the-american-state-of-texas-kills-at-least-12-people-an.md) _Context: Texas, United States_
+7. [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md) _Context: Texas, United States_
+8. [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md) _Context: Texas, United States_
+9. [At least three people are missing after heavy rains caused flooding in the U.S. states of Texas and Kansas. So far, four people have died in the flooding. ](/news/2016/05/29/at-least-three-people-are-missing-after-heavy-rains-caused-flooding-in-the-u-s-states-of-texas-and-kansas-so-far-four-people-have-died-in.md) _Context: Kansas, Texas_
+10. [At least nine people are injured in severe storms that spawned multiple tornado touchdowns in northeastern Oklahoma and sections of the Southwestern United States. One patient is in critical condition; the others suffered serious injuries, according to the Emergency Medical Services Authority. Parts  of Texas, Louisiana, and Arkansas are also impacted. A flash flood watch has been issued through Thursday evening. Two (2) to 4 inches of rain is expected, with perhaps 6 inches in some locations. ](/news/2016/03/30/at-least-nine-people-are-injured-in-severe-storms-that-spawned-multiple-tornado-touchdowns-in-northeastern-oklahoma-and-sections-of-the-sout.md) _Context: Oklahoma!, Texas_

@@ -1,0 +1,25 @@
+### [2016-01-26](/news/2016/01/26/index.md)
+
+# The U.S. Federal Bureau of Investigation arrests a Milwaukee, Wisconsin, man who is alleged to have been planning a machine gun mass shooting at a  local Masonic Temple. 
+
+Prosecutors say Samy Mohamed Hamzeh targeted a &quot;secret society&quot; that goes back to George Washington.
+
+
+### Source:
+
+1. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/01/27/milwaukee-man-arrested-after-allegedly-plotting-mass-shooting-we-will-eliminate-everyone/)
+2. [FBI](http://www.justice.gov/usao-edwi/pr/federal-bureau-investigation-arrests-milwaukee-man-who-planned-mass-shooting-man)
+3. [Milwaukee Journal Sentinel](http://www.jsonline.com/news/crime/fbi-thwarts-mass-shooting-at-milwaukee-masonic-temple-b99659005z1-366609371.html)
+
+### Related:
+
+1. [Violence breaks out in Milwaukee, Wisconsin, following a fatal police shooting of a 23-year-old male criminal armed with a handgun earlier in the day. The Milwaukee Police Department says an officer was injured after being struck in the head by a brick, while a police car and gas station were set on fire. ](/news/2016/08/13/violence-breaks-out-in-milwaukee-wisconsin-following-a-fatal-police-shooting-of-a-23-year-old-male-criminal-armed-with-a-handgun-earlier-i.md) _Context: Milwaukee, Wisconsin_
+2. [Protesters demanding a $15 minimum wage stormed the venue in front of local and national media  prior to the start of the sixth debate, this one between Hillary Clinton and Bernie Sanders  in Milwaukee, Wisconsin. ](/news/2016/02/11/protesters-demanding-a-15-minimum-wage-stormed-the-venue-in-front-of-local-and-national-media-prior-to-the-start-of-the-sixth-debate-this.md) _Context: Milwaukee, Wisconsin_
+3. [A Wisconsin gun shop, which a jury found negligently sold the gun an assailant used to injure two Milwaukee police officers to a straw buyer, reaches a $1 million settlement with the officers. ](/news/2015/12/12/a-wisconsin-gun-shop-which-a-jury-found-negligently-sold-the-gun-an-assailant-used-to-injure-two-milwaukee-police-officers-to-a-straw-buyer.md) _Context: Milwaukee, Wisconsin_
+4. [The Roman Catholic Archdiocese of Milwaukee, in Milwaukee, Wisconsin, according to its Archbishop, Jerome  Listecki, reaches a collective settlement agreement of $21 million for its sex abuse claims, meaning it could emerge from its January 4, 2011 Chapter 11 bankruptcy. ](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-milwaukee-wisconsin-according-to-its-archbishop-jerome-listecki-reaches-a-collective-se.md) _Context: Milwaukee, Wisconsin_
+5. [A 76-year-old man is sentenced to life in prison without parole for the 2012 murder of a 13-year-old boy in Milwaukee, Wisconsin. ](/news/2013/07/22/a-76-year-old-man-is-sentenced-to-life-in-prison-without-parole-for-the-2012-murder-of-a-13-year-old-boy-in-milwaukee-wisconsin.md) _Context: Milwaukee, Wisconsin_
+6. [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel.  He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md) _Context: Terrorism in the United States_
+7. [As expected, during a visit to Kenosha, Wisconsin, President Donald Trump signed an executive order requiring U.S. federal agencies to take measures aimed at protecting U.S. workers, boost protections for some U.S. products, and examine the H-1B visa program which affords foreign workers opportunities for employment in U.S. specialty fields. ](/news/2017/04/18/as-expected-during-a-visit-to-kenosha-wisconsin-president-donald-trump-signed-an-executive-order-requiring-u-s-federal-agencies-to-take.md) _Context: Wisconsin_
+8. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: FBI_
+9. [The Federal Bureau of Investigation becomes involved in the search for Elizabeth Thomas and the manhunt for her suspected kidnapper, Tad Cummins. ](/news/2017/03/16/the-federal-bureau-of-investigation-becomes-involved-in-the-search-for-elizabeth-thomas-and-the-manhunt-for-her-suspected-kidnapper-tad-cum.md) _Context: FBI_
+10. [The Jill Stein-initiated  recounts begin in Wisconsin. ](/news/2016/12/1/the-jill-stein-initiated-recounts-begin-in-wisconsin.md) _Context: Wisconsin_

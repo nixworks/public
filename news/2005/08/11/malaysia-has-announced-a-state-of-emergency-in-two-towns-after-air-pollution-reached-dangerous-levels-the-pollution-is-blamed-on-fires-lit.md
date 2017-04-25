@@ -1,0 +1,23 @@
+### [2005-08-11](/news/2005/08/11/index.md)
+
+#  Malaysia has announced a state of emergency in two towns after air pollution reached dangerous levels. The pollution is blamed on fires lit to clear land in neighbouring Indonesia, seriously affecting air quality and visibility across the Strait of Malacca. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4140660.stm)
+
+### Related:
+
+1. [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md) _Context: Indonesia, Malaysia_
+2. [A Malaysian oil tanker, MT ''Vier Harmoni'', is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-n.md) _Context: Indonesia, Malaysia_
+3. [Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-militants.md) _Context: Indonesia, Malaysia_
+4. [Philippine officials report four Indonesian sailors were kidnapped last night off the Philippines' southernmost town of Sitangkai, Tawi-Tawi, near Malaysia's Sabah state. Seven gunmen in a blue speedboat attacked two Indonesian-flagged tugboats.  Six other sailors, including one who was shot, were not taken by ISIL-linked Abu Sayyaf militants. ](/news/2016/04/16/philippine-officials-report-four-indonesian-sailors-were-kidnapped-last-night-off-the-philippines-southernmost-town-of-sitangkai-tawi-tawi.md) _Context: Indonesia, Malaysia_
+5. [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md) _Context: Indonesia, Malaysia_
+6. [An overloaded wooden boat with Sumatra-bound migrants sinks off the coast of Malaysia killing at least 15 people, 13 of which are women. Nearby fisherman rescue 19 people with more than 40  missing. The Malaysian Maritime Enforcement Agency states that the boat was taking  migrant workers home to Tanjung Balai in Indonesia's Sumatra province for the Hari Raya Haji celebration. ](/news/2015/09/3/an-overloaded-wooden-boat-with-sumatra-bound-migrants-sinks-off-the-coast-of-malaysia-killing-at-least-15-people-13-of-which-are-women-nea.md) _Context: Indonesia, Malaysia_
+7. [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md) _Context: Indonesia, Malaysia_
+8. [''Philippines v. China''The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/philippines-v-china-pthe-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually.md) _Context: Indonesia, Malaysia_
+9. [South East Asian migrant crisisThe foreign ministers of Indonesia, Malaysia and Thailand meet in Kuala Lumpur to discuss people smuggling and the migrant crisis. Malaysia and Indonesia agree to accept asylum seekers providing that they can be resettled or repatriated within a year. ](/news/2015/05/20/south-east-asian-migrant-crisispthe-foreign-ministers-of-indonesia-malaysia-and-thailand-meet-in-kuala-lumpur-to-discuss-people-smuggling-a.md) _Context: Indonesia, Malaysia_
+10. [Flooding and the death toll continues in Indonesia, Malaysia, the Philippines and Thailand. ](/news/2014/12/30/flooding-and-the-death-toll-continues-in-indonesia-malaysia-the-philippines-and-thailand.md) _Context: Indonesia, Malaysia_

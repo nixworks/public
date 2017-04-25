@@ -1,0 +1,23 @@
+### [2015-05-10](/news/2015/05/10/index.md)
+
+# The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. 
+
+Three fresh tremors today jolted Nepal, triggering panic among the people already battered by the devastating earthquake and over 150 aftershocks as the death toll crossed 8,000.
+
+
+### Source:
+
+1. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Three-fresh-tremors-hit-Nepal-as-toll-crosses-8000/articleshow/47221521.cms)
+
+### Related:
+
+1. [India offers Nepal an additional billion dollars to help it recover from the April 2015 Nepal earthquake. ](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.md) _Context: April 2015 Nepal earthquake, Nepal_
+2. [Nepal announces plans to reopen heritage sites in the Kathmandu Valley two months after the April 2015 Nepal earthquake. ](/news/2015/06/15/nepal-announces-plans-to-reopen-heritage-sites-in-the-kathmandu-valley-two-months-after-the-april-2015-nepal-earthquake.md) _Context: April 2015 Nepal earthquake, Nepal_
+3. [Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25-000-classrooms-and-killed-mor.md) _Context: April 2015 Nepal earthquake, Nepal_
+4. [The death toll from the earthquakes in Nepal rises to more than 3,700 with reports that tens of thousands of people are homeless. There are fears that the death toll could rise to over 5,000. ](/news/2015/04/27/the-death-toll-from-the-earthquakes-in-nepal-rises-to-more-than-3-700-with-reports-that-tens-of-thousands-of-people-are-homeless-there-are.md) _Context: April 2015 Nepal earthquake, Nepal_
+5. [Rescue and recovery attempts continue in Nepal after Saturday's earthquake with the death toll more than 2200 and expected to rise further. ](/news/2015/04/26/rescue-and-recovery-attempts-continue-in-nepal-after-saturday-s-earthquake-with-the-death-toll-more-than-2200-and-expected-to-rise-further.md) _Context: April 2015 Nepal earthquake, Nepal_
+6. [A strong 7.9 earthquake strikes between the Nepalese capital Kathmandu and the regional headquarter city of Pokhara. The Government of Nepal declares a state of emergency with 1500 dead. A number of UNESCO World Heritage Sites are destroyed, including the historic Dharahara tower. Deaths are also recorded in India, Bangladesh and the Chinese province of Tibet. ](/news/2015/04/25/a-strong-7-9-earthquake-strikes-between-the-nepalese-capital-kathmandu-and-the-regional-headquarter-city-of-pokhara-the-government-of-nepal.md) _Context: April 2015 Nepal earthquake, Nepal_
+7. [The death toll from the Nepalese avalanche caused by the remnants of Cyclone Hudhud reaches 40. ](/news/2014/10/18/the-death-toll-from-the-nepalese-avalanche-caused-by-the-remnants-of-cyclone-hudhud-reaches-40.md) _Context: Nepal, avalanche_
+8. [A snowstorm and avalanche in the Nepalese Himalayas triggered by the remnants of Cyclone Hudhud kills at least 17 people with 100 more out of contact. ](/news/2014/10/15/a-snowstorm-and-avalanche-in-the-nepalese-himalayas-triggered-by-the-remnants-of-cyclone-hudhud-kills-at-least-17-people-with-100-more-out-o.md) _Context: Nepal, avalanche_
+9. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
+10. [An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. ](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.md) _Context: avalanche_

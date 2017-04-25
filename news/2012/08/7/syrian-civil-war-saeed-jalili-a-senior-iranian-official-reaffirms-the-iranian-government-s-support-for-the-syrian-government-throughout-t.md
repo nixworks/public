@@ -1,0 +1,23 @@
+### [2012-08-7](/news/2012/08/7/index.md)
+
+# Syrian civil war: Saeed Jalili, a senior Iranian official, reaffirms the Iranian government's support for the Syrian government throughout the crisis. 
+
+Senior Iranian official meets Assad in Damascus as new deaths are reported in Aleppo where troops are battling rebels.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201287142241794676.html)
+
+### Related:
+
+1. [   At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict. ](/news/2016/05/7/at-least-13-iranian-soldiers-are-killed-in-a-battle-with-islamist-militants-in-a-village-near-aleppo-syria-this-is-the-largest-single-d.md) _Context: Iran, Syria, Syrian Civil War_
+2. [Iranian state television says Revolutionary Guard brigadier general, Hossein Hamadani, has been killed on the outskirts of Syria's Aleppo by Islamic State of Iraq and the Levant militants. This is the latest in a string of high-ranking Iranian commanders killed in Iraq and Syria in the last six months. ](/news/2015/10/9/iranian-state-television-says-revolutionary-guard-brigadier-general-hossein-hamadani-has-been-killed-on-the-outskirts-of-syria-s-aleppo-by.md) _Context: Iran, Syria, Syrian Civil War_
+3. [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md) _Context: Iran, Syria, Syrian Civil War_
+4. [Iran is invited to attend the next round of  talks  over Syria's future, along with the representatives from the United States, Russia, Saudi Arabia, Turkey, Britain, France, Germany, Jordan,  the United Arab Emirates, and the United Nations mediator for Syria, Staffan de Mistura. The next round of the "Vienna II" meeting is expected to start tomorrow and continue Friday in Vienna, Austria. ](/news/2015/10/27/iran-is-invited-to-attend-the-next-round-of-talks-over-syria-s-future-along-with-the-representatives-from-the-united-states-russia-saud.md) _Context: Iran, Syria, Syrian Civil War_
+5. [Syrian Civil War:Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-pfriends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _Context: Iran, Syria, Syrian Civil War_
+6. [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md) _Context: Syria, Syrian Civil War_
+7. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War_
+8. [The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead-of-a-syrian-democratic-forces-operation-to-take-contro.md) _Context: Syria, Syrian Civil War_
+9. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Syria, Syrian Civil War_
+10. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syria, Syrian Civil War_

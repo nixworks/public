@@ -1,0 +1,23 @@
+### [2012-02-3](/news/2012/02/3/index.md)
+
+# The Football Association removes John Terry as captain of the England national football team over allegations of racial abuse of Anton Ferdinand during a match. 
+
+John Terry is stripped of the England captaincy, the Football Association has confirmed.
+
+
+### Source:
+
+1. [BBC Sport](http://www.bbc.co.uk/sport/0/football/16866149)
+
+### Related:
+
+1. [England national football team and Chelsea captain John Terry faces charges at the Westminster Magistrates' Court in London that he used an ethnic slur against QPR defender Anton Ferdinand during a match in October. ](/news/2012/02/1/england-national-football-team-and-chelsea-captain-john-terry-faces-charges-at-the-westminster-magistrates-court-in-london-that-he-used-an.md) _Context: Anton, England national football team, John Terry_
+2. [Sam Allardyce is appointed as the new England national football team manager by The Football Association following the resignation of Roy Hodgson in June. ](/news/2016/07/22/sam-allardyce-is-appointed-as-the-new-england-national-football-team-manager-by-the-football-association-following-the-resignation-of-roy-ho.md) _Context: England national football team, The Football Association_
+3. [Football Against Racism in Europe (FARE), a pan-European anti-racism group, reports England's football fans to FIFA over racist chants roared throughout last Friday's World Cup qualifying match in San Marino. Among the chants were songs referring to the IRA and Second World War and a ditty calling for Anton and Rio Ferdinand to be tossed on a bonfire. England face a heavy fine as punishment and the prospect of further sanctions, such as playing qualifiers behind closed doors. ](/news/2013/03/28/football-against-racism-in-europe-fare-a-pan-european-anti-racism-group-reports-england-s-football-fans-to-fifa-over-racist-chants-roare.md) _Context: Anton, England national football team_
+4. [John Terry is found not guilty of racially abusing Anton Ferdinand. ](/news/2012/07/13/john-terry-is-found-not-guilty-of-racially-abusing-anton-ferdinand.md) _Context: Anton, John Terry_
+5. [UEFA Euro 2012:UEFA Euro 2012's off-day is dominated by the fall-out of yesterday's ghost goal scored by Ukraine against England, with John Terry hooking the ball from behind the goal line after a shot by Marko Devic under the eyes of the additional assistant beside the goal. ](/news/2012/06/20/uefa-euro-2012-puefa-euro-2012-s-off-day-is-dominated-by-the-fall-out-of-yesterday-s-ghost-goal-scored-by-ukraine-against-england-with-john.md) _Context: England national football team, John Terry_
+6. [UEFA Euro 2012:The debate surrounding goal-line technology resurfaces as co-hosts Ukraine are denied an apparent goal in controversial circumstances against England, with John Terry hooking the ball from behind the goal line after a shot by Marko Devic under the eyes of the fifth official beside the goal. Wayne Rooney's header in the second half carries England through at the Donbass Arena in Donetsk. ](/news/2012/06/19/uefa-euro-2012-pthe-debate-surrounding-goal-line-technology-resurfaces-as-co-hosts-ukraine-are-denied-an-apparent-goal-in-controversial-circ.md) _Context: England national football team, John Terry_
+7. [UEFA opens disciplinary proceedings against The Football Association after England fans attempted to invade the pitch during their game with Sweden in Kiev. ](/news/2012/06/17/uefa-opens-disciplinary-proceedings-against-the-football-association-after-england-fans-attempted-to-invade-the-pitch-during-their-game-with.md) _Context: England national football team, The Football Association_
+8. [John Terry, the captain of the England football team is to face criminal charges over allegations he used racist language towards a black player during a Premier League game. ](/news/2011/12/21/john-terry-the-captain-of-the-england-football-team-is-to-face-criminal-charges-over-allegations-he-used-racist-language-towards-a-black-pl.md) _Context: England national football team, John Terry_
+9. [Underdogs Iceland defeat England 2-1 at the Allianz Riviera in Nice to reach the quarter-finals of the UEFA European Championship. ](/news/2016/06/27/underdogs-iceland-defeat-england-2-1-at-the-allianz-riviera-in-nice-to-reach-the-quarter-finals-of-the-uefa-european-championship.md) _Context: England national football team_
+10. [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md) _Context: England national football team_

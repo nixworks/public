@@ -1,0 +1,24 @@
+### [2015-12-18](/news/2015/12/18/index.md)
+
+# The European Union warns Thailand that the country needs to quickly address the human rights and slavery issues in its seafood industry if it wants to avoid an EU import ban. 
+
+(AP) — For the past year, The Associated Press has investigated slave labor in Thailand&#8217;s $7 billion seafood export industry, resulting in the freeing of more than 2,000 fishermen. This week, the AP came out with another investigation looking at slavery in shrimp processing sheds in Thailand. This is the story of one of those
+
+
+### Source:
+
+1. [AP investigation via New Europe](http://neurope.eu/wires/portrait-of-slavery-fisherman-jailed-by-captain-for-wanting-to-go-home-returns-to-family/)
+2. [AP](http://bigstory.ap.org/article/98bff6da2e6d4906bfbf41fd8f2140ca/eu-demands-thailand-address-slavery-its-seafood-industry)
+
+### Related:
+
+1. [The European Union narrowly votes (285-281) to recommend that its 28 member nations drop criminal charges against Edward Snowden and protect him from U.S. extradition and to recognize him as a defender of human rights because of his revelations regarding U.S. and British spying. ](/news/2015/10/29/the-european-union-narrowly-votes-285a281-to-recommend-that-its-28-member-nations-drop-criminal-charges-against-edward-snowden-and-prote.md) _Context: European Union, Human rights_
+2. [ In Niger, government cancels special ceremony that would have released about 7000 slaves because no slaves appeared. Local human rights group Timidra blames government threats against tribal leaders. ](/news/2005/03/5/in-niger-government-cancels-special-ceremony-that-would-have-released-about-7000-slaves-because-no-slaves-appeared-local-human-rights-gro.md) _Context: Human rights, slavery_
+3. [A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-thai-provinces-of-yala-patta.md) _Context: Thailand_
+4. [Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. ](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.md) _Context: Thailand_
+5. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: European Union_
+6. [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md) _Context: Thailand_
+7. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: European Union_
+8. [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md) _Context: European Union_
+9. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: European Union_
+10. [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md) _Context: European Union_

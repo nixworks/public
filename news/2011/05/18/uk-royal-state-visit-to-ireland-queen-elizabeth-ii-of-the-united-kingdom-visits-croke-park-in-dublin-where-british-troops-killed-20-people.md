@@ -1,0 +1,23 @@
+### [2011-05-18](/news/2011/05/18/index.md)
+
+# UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. 
+
+
+
+
+### Source:
+
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Video-Queen-Visits-Dublins-Croke-Park-Scene-Of-Massacre-By-British-Soldiers-For-Ireland-Trip/Article/201105315994142?lpos=World_News_Carousel_Region_2&lid=ARTICLE_15994142_Video%3A_Queen_Visits_Dublins_Croke_Park%2C_Scene_Of_Massacre_By_British_Soldiers%2C_For_Ireland_Trip)
+
+### Related:
+
+1. [Queen Elizabeth II's visit to the Republic of Ireland:Queen Elizabeth II starts her first state visit to the Republic of Ireland, the first visit of a British monarch since Ireland's independence from the United Kingdom in 1921. Elizabeth is also the first British monarch to visit Ireland since George V's state visit in 1911. ](/news/2011/05/17/queen-elizabeth-ii-s-visit-to-the-republic-of-ireland-pqueen-elizabeth-ii-starts-her-first-state-visit-to-the-republic-of-ireland-the-first.md) _Context: Queen Elizabeth II, UK royal state visit to Ireland, United Kingdom_
+2. [The United Kingdom's Queen Elizabeth II announces she will miss a Commonwealth meeting for the first time in 40 years. Prince Charles will attend on her behalf. ](/news/2013/05/7/the-united-kingdom-s-queen-elizabeth-ii-announces-she-will-miss-a-commonwealth-meeting-for-the-first-time-in-40-years-prince-charles-will-a.md) _Context: Queen Elizabeth II, United Kingdom_
+3. [Following severe flooding in Ireland and parts of the United Kingdom, two apparent flood deaths are reported in the Irish capital Dublin. ](/news/2011/10/25/following-severe-flooding-in-ireland-and-parts-of-the-united-kingdom-two-apparent-flood-deaths-are-reported-in-the-irish-capital-dublin.md) _Context: Dublin, United Kingdom_
+4. [ Armagh beat Kerry at Croke Park, Dublin by a scoreline of 1-12 to 0-14 to win their first All-Ireland Senior Football Championship.](/news/2002/09/22/armagh-beat-kerry-at-croke-park-dublin-by-a-scoreline-of-1-12-to-0-14-to-win-their-first-all-ireland-senior-football-championship.md) _Context: Croke Park, Dublin_
+5. [The United Kingdom, on Friday, did not derive energy from any coal-fired source, the first continuous 24-hour, coal-free period for the UK since use of the fossil fuel began. Coal accounted for just 9 percent of the electricity generated last year. ](/news/2017/04/22/the-united-kingdom-on-friday-did-not-derive-energy-from-any-coal-fired-source-the-first-continuous-24-hour-coal-free-period-for-the-uk-s.md) _Context: United Kingdom_
+6. [British sports retailer Sports Direct agreed to acquire the American retail chains Bob's Stores and Eastern Mountain Sports for $101 million out of bankruptcy. ](/news/2017/04/21/british-sports-retailer-sports-direct-agreed-to-acquire-the-american-retail-chains-bob-s-stores-and-eastern-mountain-sports-for-101-million.md) _Context: United Kingdom_
+7. [A second parchment manuscript of the United States Declaration of Independence is discovered by Harvard University researchers, in a record office in Chichester, United Kingdom. ](/news/2017/04/21/a-second-parchment-manuscript-of-the-united-states-declaration-of-independence-is-discovered-by-harvard-university-researchers-in-a-record.md) _Context: United Kingdom_
+8. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: United Kingdom_
+9. [The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. ](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by-522-votes-to-13-a-snap-general-election-to-be-held-on-june-8.md) _Context: United Kingdom_
+10. [British Prime Minster Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minster-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-major.md) _Context: United Kingdom_

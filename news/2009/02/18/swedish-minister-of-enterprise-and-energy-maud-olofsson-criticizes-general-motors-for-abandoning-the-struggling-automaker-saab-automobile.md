@@ -1,0 +1,23 @@
+### [2009-02-18](/news/2009/02/18/index.md)
+
+#  Swedish Minister of Enterprise and Energy Maud Olofsson criticizes General Motors for "abandoning" the struggling automaker Saab Automobile. 
+
+
+
+
+### Source:
+
+1. [The Local](http://www.thelocal.se/17668/20090218/)
+
+### Related:
+
+1. [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md) _Context: General Motors, Saab Automobile, Sweden_
+2. [ General Motors says it may provide its struggling Swedish subsidiary Saab Automobile with US$400 million. ](/news/2009/02/19/general-motors-says-it-may-provide-its-struggling-swedish-subsidiary-saab-automobile-with-us-400-million.md) _Context: General Motors, Saab Automobile, Sweden_
+3. [ General Motors announces that it will begin shutting down operations at the Swedish carmaker Saab automobile. ](/news/2009/12/18/general-motors-announces-that-it-will-begin-shutting-down-operations-at-the-swedish-carmaker-saab-automobile.md) _Context: General Motors, Saab Automobile_
+4. [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md) _Context: General Motors, Saab Automobile_
+5. [ General Motors asks Germany to indebt its subsidiary automakers Opel and Vauxhall Motors. ](/news/2009/05/28/general-motors-asks-germany-to-indebt-its-subsidiary-automakers-opel-and-vauxhall-motors.md) _Context: General Motors, automakers_
+6. [ Automotive industry crisis of 2008-2009: United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/automotive-industry-crisis-of-2008-2009-p-united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforc.md) _Context: General Motors, automakers_
+7. [ Toyota surpasses General Motors to become the world's largest automaker. ](/news/2009/01/21/toyota-surpasses-general-motors-to-become-the-world-s-largest-automaker.md) _Context: General Motors, automakers_
+8. [ Global financial crisis of 2008: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-p-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _Context: General Motors, automakers_
+9. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Sweden_
+10. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: General Motors_

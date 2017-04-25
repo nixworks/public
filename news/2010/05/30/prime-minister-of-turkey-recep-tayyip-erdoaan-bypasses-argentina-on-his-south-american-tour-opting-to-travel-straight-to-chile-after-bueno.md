@@ -1,0 +1,23 @@
+### [2010-05-30](/news/2010/05/30/index.md)
+
+# Prime Minister of Turkey Recep Tayyip Erdogan bypasses Argentina on his South American tour, opting to travel straight to Chile after Buenos Aires officials call off an event honouring Mustafa Kemal Ataturk due to what Turkey considers "hostile" interference from Armenian pressure groups. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10194763.stm)
+
+### Related:
+
+1. [ On the country's Independence Day, snow falls in Buenos Aires, Argentina, for the first time in 89 years and the second time in recorded history. Two people die of exposure in Argentina while one person dies in Chile. ](/news/2007/07/9/on-the-country-s-independence-day-snow-falls-in-buenos-aires-argentina-for-the-first-time-in-89-years-and-the-second-time-in-recorded-hi.md) _Context: Argentina, Buenos Aires, Chile_
+2. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Argentina, Chile_
+3. [Turkish Prime Minister Ahmet Davutoglu announces his resignation effective 22 May amid conflict with President Recep Tayyip Erdogan  over Turkey's increasingly authoritarian rule. Davutoglu said he would step down following an extraordinary meeting of AKP party leaders scheduled for May 22. ](/news/2016/05/5/turkish-prime-minister-ahmet-davutoalu-announces-his-resignation-effective-22-may-amid-conflict-with-president-recep-tayyip-erdoaan-over.md) _Context: Prime Minister of Turkey, Recep Tayyip Erdoğan_
+4. [The President of Turkey Recep Tayyip Erdogan formally approves his ally Binali Yildirim as the Prime Minister. ](/news/2016/05/24/the-president-of-turkey-recep-tayyip-erdoaan-formally-approves-his-ally-binali-ya-lda-ra-m-as-the-prime-minister.md) _Context: Prime Minister of Turkey, Recep Tayyip Erdoğan_
+5. [ Binali Yildirim is appointed Prime Minister of Turkey after the resignation of Ahmet Davutoglu amid disagreements with President Recep Tayyip Erdogan. ](/news/2016/05/23/binali-ya-lda-ra-m-is-appointed-prime-minister-of-turkey-after-the-resignation-of-ahmet-davutoalu-amid-disagreements-with-president-recep.md) _Context: Prime Minister of Turkey, Recep Tayyip Erdoğan_
+6. [President Recep Tayyip Erdogan proclaims Turkey's right to launch operations in Syria against "terrorist organizations." Prime Minister Ahmet Davutoglu tells reporters, "The only thing we expect from our U.S. ally is to support Turkey with no ifs or buts." ](/news/2016/02/20/president-recep-tayyip-erdoaan-proclaims-turkey-s-right-to-launch-operations-in-syria-against-aterrorist-organizations-a-prime-minister.md) _Context: Prime Minister of Turkey, Recep Tayyip Erdoğan_
+7. [A day after Turkey's president Recep Tayyip Erdogan had harsh words for Russia, Turkish Prime Minister Ahmet Davutoglu, in an essay in the London ''Times'', says the downing of the Russian jet,  "was not -- and is not -- an act against a specific country. ... While the measures to defend our territory will remain in place, Turkey will work with Russia and our allies to calm tensions." ](/news/2015/11/28/a-day-after-turkey-s-president-recep-tayyip-erdoaan-had-harsh-words-for-russia-turkish-prime-minister-ahmet-davutoalu-in-an-essay-in-the.md) _Context: Prime Minister of Turkey, Recep Tayyip Erdoğan_
+8. [Voters in Argentina go to the polls for a presidential runoff between Daniel Scioli of the ruling Justicialist Party and Mauricio Macri of the opposition PRO.  Mauricio Macri, the mayor of Buenos Aires, was elected with 53% of the vote. ](/news/2015/11/22/voters-in-argentina-go-to-the-polls-for-a-presidential-runoff-between-daniel-scioli-of-the-ruling-justicialist-party-and-mauricio-macri-of-t.md) _Context: Argentina, Buenos Aires_
+9. [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture ''Monument to Humanity'' -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md) _Context: Armenia, Recep Tayyip Erdoğan_
+10. [Voters in Turkey go to the polls for the first round of voting in a presidential election with current Prime Minister Recep Tayyip Erdogan poised for a first round victory. ](/news/2014/08/10/voters-in-turkey-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-current-prime-minister-recep-tayyip-erdoaan.md) _Context: Prime Minister of Turkey, Recep Tayyip Erdoğan_

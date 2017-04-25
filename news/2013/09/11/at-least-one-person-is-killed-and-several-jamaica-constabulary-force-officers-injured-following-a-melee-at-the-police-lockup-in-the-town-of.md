@@ -1,0 +1,14 @@
+### [2013-09-11](/news/2013/09/11/index.md)
+
+# At least one person is killed and several Jamaica Constabulary Force officers injured following a melee at the police lockup in the town of Mandeville. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/melee-lockup-leaves-prisoner-dead-jamaica-20230787)
+
+### Related:
+
+1. [ Jamaican Police announce that Bob Woolmer, the coach of the Pakistan national cricket team, was murdered on Sunday, and proceed to question all members of the team. ](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.md) _Context: Jamaica Constabulary Force_

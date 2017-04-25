@@ -1,0 +1,23 @@
+### [2012-10-16](/news/2012/10/16/index.md)
+
+# Senkaku Islands dispute: Seven People's Liberation Army Navy warships are spotted by Japanese helicopters outside Japanese territorial waters near Yonaguni. 
+
+The Japanese government&#8217;s Defense Ministry stated on Tuesday that as many as seven Chinese Navy warships were found just outside of territorial waters not far from Okinawa. Government officia…
+
+
+### Source:
+
+1. [Japan Daily Press](http://japandailypress.com/7-chinese-naval-ships-found-in-waters-near-okinawa-1616134)
+
+### Related:
+
+1. [Japan summons China's ambassador, Cheng Yonghua, to Tokyo after a People's Liberation Army Navy warship sailed close to its territorial waters near the disputed Senkaku Islands in the East China Sea for the first time. ](/news/2016/06/9/japan-summons-china-s-ambassador-cheng-yonghua-to-tokyo-after-a-people-s-liberation-army-navy-warship-sailed-close-to-its-territorial-wate.md) _Context: People's Liberation Army Navy, Senkaku Islands dispute_
+2. [As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. ](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-isl.md) _Context: Senkaku Islands dispute, island of Yonaguni_
+3. [Senkaku Islands dispute:Japanese Defense Minister Itsunori Onodera states that the country has lodged a protest with China after a People's Liberation Army Navy frigate directed weapon-targeting radar at a Japanese Maritime Self-Defense Force destroyer near the disputed Senkaku Islands. ](/news/2013/02/5/senkaku-islands-dispute-pjapanese-defense-minister-itsunori-onodera-states-that-the-country-has-lodged-a-protest-with-china-after-a-people-s.md) _Context: People's Liberation Army Navy, Senkaku Islands dispute_
+4. [China's People's Liberation Army Navy seizes an underwater drone deployed by USNS ''Bowditch'' in the South China Sea; the United States files a formal diplomatic protest and a demand for its return. ](/news/2016/12/16/china-s-people-s-liberation-army-navy-seizes-an-underwater-drone-deployed-by-usns-bowditch-in-the-south-china-sea-the-united-states-fil.md) _Context: People's Liberation Army Navy_
+5. [As a result of talks between U.S. Chief of Naval Operations Admiral John Richardson and Chinese Commander of the People's Liberation Army Navy Admiral Wu Shengli about a U.S. warship's transit with 12 nautical miles of China's man-made islands in the South China Sea, the United States and China agree to maintain dialogue and follow Code for Unplanned Encounters at Sea protocols, according to a U.S. official. ](/news/2015/10/29/as-a-result-of-talks-between-u-s-chief-of-naval-operations-admiral-john-richardson-and-chinese-commander-of-the-people-s-liberation-army-na.md) _Context: People's Liberation Army Navy_
+6. [The Chinese navy issues warnings eight times as a United States Navy surveillance plane flies over manmade islands in the South China Sea. ](/news/2015/05/20/the-chinese-navy-issues-warnings-eight-times-as-a-united-states-navy-surveillance-plane-flies-over-manmade-islands-in-the-south-china-sea.md) _Context: People's Liberation Army Navy_
+7. [Senkaku Islands dispute:United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-punited-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims.md) _Context: Senkaku Islands dispute_
+8. [Senkaku Islands dispute:China deploys fighter jets to the Chinese Air Defense Identification Zone, as tensions escalate further over the disputed islands in the East China Sea. ](/news/2013/11/29/senkaku-islands-dispute-pchina-deploys-fighter-jets-to-the-chinese-air-defense-identification-zone-as-tensions-escalate-further-over-the-di.md) _Context: Senkaku Islands dispute_
+9. [Senkaku Islands dispute:China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu/Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/senkaku-islands-dispute-pchina-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-isl.md) _Context: Senkaku Islands dispute_
+10. [Japan reports that two Chinese ships have entered territorial waters off the coast of the disputed Senkaku Islands. ](/news/2013/09/19/japan-reports-that-two-chinese-ships-have-entered-territorial-waters-off-the-coast-of-the-disputed-senkaku-islands.md) _Context: Senkaku Islands dispute_

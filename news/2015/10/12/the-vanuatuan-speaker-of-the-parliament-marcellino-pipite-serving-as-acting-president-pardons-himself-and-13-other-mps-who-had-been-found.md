@@ -1,0 +1,14 @@
+### [2015-10-12](/news/2015/10/12/index.md)
+
+# The Vanuatuan Speaker of the Parliament, Marcellino Pipite, serving as acting President, pardons himself and 13 other MPs who had been found guilty of bribery on 9 October 2015. 
+
+Vanuatu&#039;s acting president has used his executive powers to pardon himself and 13 MPs convicted of bribery.
+
+
+### Source:
+
+1. [ABC News](http://www.abc.net.au/news/2015-10-11/convicted-vanuatu-acting-president-pardons-himself-13-others/6844372)
+
+### Related:
+
+1. [ Thirty prisoners burn down and escape their jail in Vanuatu. Two Members of Parliament are later arrested for harboring some of the fugitives. ](/news/2008/12/19/thirty-prisoners-burn-down-and-escape-their-jail-in-vanuatu-two-members-of-parliament-are-later-arrested-for-harboring-some-of-the-fugitiv.md) _Context: Speaker of the Parliament_

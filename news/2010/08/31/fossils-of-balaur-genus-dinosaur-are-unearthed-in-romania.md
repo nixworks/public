@@ -1,0 +1,23 @@
+### [2010-08-31](/news/2010/08/31/index.md)
+
+# Fossils of Balaur genus dinosaur are unearthed in Romania. 
+
+Fossils of a new type of dinosaur, which looks like a beefy version of the predatory Velociraptor, have been unearthed in Romania.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/science-environment-11137905)
+
+### Related:
+
+1. [The journal ''Scientific Reports'' publishes research from a team, led by Australian Age of Dinosaurs Museum's Stephen Poropat, reporting the discovery of a new Australian dinosaur species, ''Savannasaurus elliottorum'', using fossils first found in 2005 at Winton, Queensland, Australia. ](/news/2016/10/20/the-journal-scientific-reports-publishes-research-from-a-team-led-by-australian-age-of-dinosaurs-museum-s-stephen-poropat-reporting-th.md) _Context: dinosaur, fossil_
+2. [The extinct reptile ''Nyasasaurus'' is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanza.md) _Context: dinosaur, fossil_
+3. [ One of the world's biggest accumulations of dinosaur fossils is found near Zhucheng, China. ](/news/2008/12/31/one-of-the-world-s-biggest-accumulations-of-dinosaur-fossils-is-found-near-zhucheng-china.md) _Context: dinosaur, fossil_
+4. [A freight train derails in Hunedoara County, Romania, killing both crew members on board. ](/news/2017/04/8/a-freight-train-derails-in-hunedoara-county-romania-killing-both-crew-members-on-board.md) _Context: Romania_
+5. [A motorway bridge near Ancona, Italy, collapses killing two Italians and injuring two Romanian workers. The Italian highway agency links the collapse with a temporary structure that was designed to support it. ](/news/2017/03/9/a-motorway-bridge-near-ancona-italy-collapses-killing-two-italians-and-injuring-two-romanian-workers-the-italian-highway-agency-links-the.md) _Context: Romania_
+6. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Romania_
+7. [Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md) _Context: Romania_
+8. [  More than 600,000 people protest in dozens of cities in Romania and diaspora against Grindeanu Government. ](/news/2017/02/5/more-than-600-000-people-protest-in-dozens-of-cities-in-romania-and-diaspora-against-grindeanu-government.md) _Context: Romania_
+9. [  Despite massive protests in recent days, Romania's government adopts an emergency ordinance to decriminalize some graft offences.](/news/2017/01/31/despite-massive-protests-in-recent-days-romania-s-government-adopts-an-emergency-ordinance-to-decriminalize-some-graft-offences.md) _Context: Romania_
+10. [  In the largest protest since the 1989 Revolution, more than 90,000 people march through Romania's capital and other cities against a government proposal to pardon thousands of prisoners. ](/news/2017/01/29/in-the-largest-protest-since-the-1989-revolution-more-than-90-000-people-march-through-romania-s-capital-and-other-cities-against-a-gover.md) _Context: Romania_

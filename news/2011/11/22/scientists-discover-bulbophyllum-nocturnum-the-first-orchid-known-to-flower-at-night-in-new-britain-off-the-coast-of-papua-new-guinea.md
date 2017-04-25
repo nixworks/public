@@ -1,0 +1,23 @@
+### [2011-11-22](/news/2011/11/22/index.md)
+
+# Scientists discover ''Bulbophyllum nocturnum'', the first orchid known to flower at night, in New Britain off the coast of Papua New Guinea. 
+
+A &quot;remarkable&quot; night-flowering orchid, the first of its kind known to science, has been described by a team of botanists.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/science-environment-15818662)
+
+### Related:
+
+1. [A strong earthquake of 6.6 magnitude occurs off the coast of New Britain in Papua New Guinea but no tsunami warning is issued. ](/news/2011/06/16/a-strong-earthquake-of-6-6-magnitude-occurs-off-the-coast-of-new-britain-in-papua-new-guinea-but-no-tsunami-warning-is-issued.md) _Context: New Britain, Papua New Guinea_
+2. [A series of two earthquakes, the second quake measuring magnitude 7.3, hit New Britain in Papua New Guinea. A tsunami warning is issued but later retracted. ](/news/2010/07/18/a-series-of-two-earthquakes-the-second-quake-measuring-magnitude-7-3-hit-new-britain-in-papua-new-guinea-a-tsunami-warning-is-issued-but.md) _Context: New Britain, Papua New Guinea_
+3. [A 7.9 magnitude earthquake hits west of Panguna, Papua New Guinea, beneath Bougainville Island.  No immediate reports of casualties or major damage. Tsunami alert for Papua New Guinea and the Solomon Islands is rescinded. ](/news/2017/01/22/a-7-9-magnitude-earthquake-hits-west-of-panguna-papua-new-guinea-beneath-bougainville-island-no-immediate-reports-of-casualties-or-major.md) _Context: Papua New Guinea_
+4. [Tsunami warnings are issued for the Pacific region, including Indonesia and  the Solomon Islands, following a 7.9 magnitude earthquake east of Papua New Guinea. The Pacific Tsunami Warning Center later reports the threat has largely passed. ](/news/2016/12/17/tsunami-warnings-are-issued-for-the-pacific-region-including-indonesia-and-the-solomon-islands-following-a-7-9-magnitude-earthquake-east.md) _Context: Papua New Guinea_
+5. [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md) _Context: Papua New Guinea_
+6. [A court in Papua New Guinea orders the closure of the facility housing migrants. ](/news/2016/08/3/a-court-in-papua-new-guinea-orders-the-closure-of-the-facility-housing-migrants.md) _Context: Papua New Guinea_
+7. [The governments of Papua New Guinea and Australia confirm that the Manus Regional Processing Centre will close following a ruling by the Supreme Court of Papua New Guinea. ](/news/2016/08/17/the-governments-of-papua-new-guinea-and-australia-confirm-that-the-manus-regional-processing-centre-will-close-following-a-ruling-by-the-sup.md) _Context: Papua New Guinea_
+8. [Papua New Guinea student protestsPapua New Guinea student protest leader Noel Anjo says demonstrations  will continue despite the court order barring protests.  "The students are not going to give up until and unless the prime minister resigns or surrenders himself to police and is arrested and charged," Anjo said. ](/news/2016/06/9/papua-new-guinea-student-protestsppapua-new-guinea-student-protest-leader-noel-anjo-says-demonstrations-will-continue-despite-the-court-ord.md) _Context: Papua New Guinea_
+9. [Five new species of orchid are discovered in the Philippines. ](/news/2016/06/25/five-new-species-of-orchid-are-discovered-in-the-philippines.md) _Context: orchid_
+10. [Head of Australia's Department of Immigration Mike Pezzullo denies that the detention centre for asylum seekers on Manus Island must be closed. He said there was no crisis that required any closure of the centre despite Papua New Guinea's Supreme Court ruling it to be unconstitutional and ordering the release of the detainees. ](/news/2016/05/6/head-of-australia-s-department-of-immigration-mike-pezzullo-denies-that-the-detention-centre-for-asylum-seekers-on-manus-island-must-be-clos.md) _Context: Papua New Guinea_

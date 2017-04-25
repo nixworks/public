@@ -1,0 +1,23 @@
+### [2006-10-13](/news/2006/10/13/index.md)
+
+#  The British and Irish governments set a provisional date of 26 March 2007 for restoring devolution to Northern Ireland through the St Andrews Agreement. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/6046302.stm)
+
+### Related:
+
+1. [Taoiseach Brian Cowen meets Prime Minister Gordon Brown in London for talks on the devolution process in Northern Ireland. ](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.md) _Context: Northern Ireland, devolution_
+2. [ Home rule returns to Northern Ireland. DUP leader Ian Paisley and Sinn Fein's Martin McGuinness take office as First Minister and Deputy First Minister, respectively. ](/news/2007/05/8/home-rule-returns-to-northern-ireland-dup-leader-ian-paisley-and-sinn-fa-c-in-s-martin-mcguinness-take-office-as-first-minister-and-deputy-f.md) _Context: Northern Ireland, devolution_
+3. [Police investigate the discovery of human excrement in cans of Coca-Cola in a Northern Ireland bottling facility. None of the contaminated product left the facility. ](/news/2017/03/28/police-investigate-the-discovery-of-human-excrement-in-cans-of-coca-cola-in-a-northern-ireland-bottling-facility-none-of-the-contaminated-p.md) _Context: Northern Ireland_
+4. [The Met Office issues warnings for parts of Scotland, Northern England and Northern Ireland as Storm Barbara prepares to make landfall. ](/news/2016/12/20/the-met-office-issues-warnings-for-parts-of-scotland-northern-england-and-northern-ireland-as-storm-barbara-prepares-to-make-landfall.md) _Context: Northern Ireland_
+5. [Prime Minister David Cameron tells the House of Commons that legal experts advise that the UK-wide Brexit result binds the entire nation, even though  Northern Ireland and Scotland voted to stay in the EU. Yesterday, both Scottish and Northern Irish representatives told the European Parliament's plenary session they will leave the UK if that is the required price to keep their homelands fully connected to Europe. ](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.md) _Context: Northern Ireland_
+6. [  MI5 raises the threat level for dissident Northern Ireland militants from "moderate" to "substantial", meaning there is a strong possibility of an attack on the British mainland. ](/news/2016/05/11/mi5-raises-the-threat-level-for-dissident-northern-ireland-militants-from-moderate-to-substantial-meaning-there-is-a-strong-possibili.md) _Context: Northern Ireland_
+7. [Peter Robinson announces he will step down as Northern Ireland's First Minister and as leader of the Democratic Unionist Party, corresponding with recent tensions in the area and a murder linked with the Irish Republican Army. ](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.md) _Context: Northern Ireland_
+8. [Political parties in Northern Ireland hold talks to save a power-sharing agreement following claims that Irish nationalist militants were involved in the murder of a former operative. ](/news/2015/09/21/political-parties-in-northern-ireland-hold-talks-to-save-a-power-sharing-agreement-following-claims-that-irish-nationalist-militants-were-in.md) _Context: Northern Ireland_
+9. [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md) _Context: Northern Ireland_
+10. [New research has suggested lung cancer patients could benefit from the use of statin drugs. Dr. Chris Cardwell, Ph.D., and researchers at Queens University Belfast in Northern Ireland found lung cancer patients who used statins within a year of diagnosis had a reduced risk of death from the disease, the American Association for Cancer Research reported. To make their finding, the research team looked at data on about 14,000 patients who were newly diagnosed with lung cancer between the years of 1998 and 2009 and were a part of the English cancer registry. ](/news/2015/05/2/new-research-has-suggested-lung-cancer-patients-could-benefit-from-the-use-of-statin-drugs-dr-chris-cardwell-ph-d-and-researchers-at-qu.md) _Context: Northern Ireland_

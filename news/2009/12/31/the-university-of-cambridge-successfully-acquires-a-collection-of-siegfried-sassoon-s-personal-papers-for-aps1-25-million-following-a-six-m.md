@@ -1,0 +1,18 @@
+### [2009-12-31](/news/2009/12/31/index.md)
+
+#  The University of Cambridge successfully acquires a collection of Siegfried Sassoon's personal papers for PS1.25 million, following a six-month fundraising campaign. 
+
+Cambridge University has acquired an important collection of personal papers belonging to Siegfried Sassoon, the British anti-war poet noted for his bravery in battle, after a six-month fund-raising campaign.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/england/cambridgeshire/8418787.stm)
+2. [Reuters](http://www.reuters.com/article/idUSTRE5BH00F20091218?type=artsNews)
+
+### Related:
+
+1. [Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University  student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. ](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.md) _Context: Cambridge University _
+2. [Oxford finish a length and a half ahead of Cambridge to win the 159th annual University Boat Race. ](/news/2013/03/31/oxford-finish-a-length-and-a-half-ahead-of-cambridge-to-win-the-159th-annual-university-boat-race.md) _Context: Cambridge University _
+3. [A researcher at the University of Cambridge predicts that in about four years, the Arctic polar ice cap will melt completely during the summer months. ](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.md) _Context: Cambridge University _
+4. [ A human rights protester throws a shoe at Chinese Premier Wen Jiabao during a speech at Cambridge University. ](/news/2009/02/2/a-human-rights-protester-throws-a-shoe-at-chinese-premier-wen-jiabao-during-a-speech-at-cambridge-university.md) _Context: Cambridge University _

@@ -1,0 +1,23 @@
+### [2012-08-8](/news/2012/08/8/index.md)
+
+# The Supreme Court of Pakistan orders the Prime Minister Raja Pervez Ashraf to appear before it to explain his alleged failure to comply with orders reopening corruption charges against President Asif Ali Zardari. 
+
+Pakistan Prime Minister Raja Pervez Ashraf was ordered on Wednesday to appear before the Supreme Court this month over his failure to comply with orders to reopen corruption cases against President Asif Ali Zardari.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2012/08/08/us-pakistan-politics-court-idUSBRE87706D20120808)
+
+### Related:
+
+1. [The Prime Minister of Pakistan Raja Pervez Ashraf appears in the Pakistani Supreme Court over his failure to reopen investigations of corruption against President Asif Ali Zardari. ](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.md) _Context: Asif Ali Zardari, President, Prime Minister, Raja Pervez Ashraf, Supreme Court_
+2. [Former President Pervez Musharraf travels to Dubai for medical treatment of his back and leg, before moving on to either the U.S. or U.K. for additional treatment, spokesperson Aasia Ishaque said. Musharraf, 72, will return to Pakistan to face all pending legal cases. Earlier this week, Prime Minister Nawaz Sharif's government implemented the Supreme Court ruling, and lifted the 2013 ban that barred  Musharraf from international trips. ](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.md) _Context: President, Prime Minister, Supreme Court_
+3. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Prime Minister, Supreme Court_
+4. [The President of Pakistan, Asif Ali Zardari has a farewell ceremony after the completion of his five year term. He will be replaced by Mamnoon Hussain. ](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a-farewell-ceremony-after-the-completion-of-his-five-year-term-he-will-be-replaced-by-mamno.md) _Context: Asif Ali Zardari, President_
+5. [A Pakistani court indicts former President Pervez Musharraf for his alleged involvement in the 2007 assassination of former Prime Minister Benazir Bhutto. ](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.md) _Context: President, Prime Minister_
+6. [Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. ](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.md) _Context: President, Supreme Court_
+7. [A Pakistani election tribunal comprising judges of the Lahore High Court declares former Prime Minister Raja Pervez Ashraf ineligible for contesting the upcoming general election. ](/news/2013/04/16/a-pakistani-election-tribunal-comprising-judges-of-the-lahore-high-court-declares-former-prime-minister-raja-pervez-ashraf-ineligible-for-co.md) _Context: Prime Minister, Raja Pervez Ashraf_
+8. [Pakistani Supreme Court ordered the arrest of Prime Minister of Pakistan Raja Pervez Ashraf in relation to a bribery case within 24 hours. ](/news/2013/01/15/pakistani-supreme-court-ordered-the-arrest-of-prime-minister-of-pakistan-raja-pervez-ashraf-in-relation-to-a-bribery-case-within-24-hours.md) _Context: Prime Minister, Raja Pervez Ashraf_
+9. [The President of Pakistan Asif Ali Zardari arrives in India on the first visit by a Pakistani President in seven years. ](/news/2012/04/8/the-president-of-pakistan-asif-ali-zardari-arrives-in-india-on-the-first-visit-by-a-pakistani-president-in-seven-years.md) _Context: Asif Ali Zardari, President_
+10. [The Supreme Court of Pakistan finds Prime Minister Syed Yousaf Raza Gillani guilty of contempt of court but he is given only a token sentence of imprisonment lasting less than a minute. ](/news/2012/04/26/the-supreme-court-of-pakistan-finds-prime-minister-syed-yousaf-raza-gillani-guilty-of-contempt-of-court-but-he-is-given-only-a-token-sentenc.md) _Context: Prime Minister, Supreme Court_

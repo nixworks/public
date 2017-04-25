@@ -1,0 +1,23 @@
+### [2010-05-9](/news/2010/05/9/index.md)
+
+# Dallas Braden of the Oakland Athletics throws the 19th perfect game in Major League Baseball history in a 4-0 win over the Tampa Bay Rays. 
+
+Dallas Braden threw the 19th perfect game in major league history, leading the Oakland Athletics past the Tampa Bay Rays, 4-0.
+
+
+### Source:
+
+1. [ESPN](http://sports.espn.go.com/mlb/recap?gameId=300509111)
+
+### Related:
+
+1. [MLB announces the Tampa Bay Rays professional baseball team will play an exhibition game with the Cuban National Team on March 22, 2016, in Havana. United States President Barack Obama, who is scheduled to visit the island nation then, is expected to attend. ](/news/2016/03/1/mlb-announces-the-tampa-bay-rays-professional-baseball-team-will-play-an-exhibition-game-with-the-cuban-national-team-on-march-22-2016-in.md) _Context: Major League Baseball, Tampa Bay Rays_
+2. [David Ortiz of the Boston Red Sox hits two home runs in the Sox' 10-4 win over the Tampa Bay Rays at Tropicana Field in St. Petersburg, Florida, making him the 27th player in MLB history with 500 career homers. ](/news/2015/09/12/david-ortiz-of-the-boston-red-sox-hits-two-home-runs-in-the-sox-10a4-win-over-the-tampa-bay-rays-at-tropicana-field-in-st-petersburg-fl.md) _Context: Major League Baseball, Tampa Bay Rays_
+3. [ In Major League Baseball, Washington Nationals pitcher Max Scherzer, one strike away from a perfect game, loses his bid when he hits the Pittsburgh Pirates' Jose Tabata with a pitch. Scherzer retires the next batter to complete a 6-0 win and a no-hitter. ](/news/2015/06/20/in-major-league-baseball-washington-nationals-pitcher-max-scherzer-one-strike-away-from-a-perfect-game-loses-his-bid-when-he-hits-the-pi.md) _Context: Major League Baseball, perfect game_
+4. [Former professional Major League Baseball slugger Jose Canseco, 48, a former Oakland Athletics Rookie of the Year (who also played for six other teams, from 1985 to 2001, and admitted to steroid use) is accused of sexual assault in Las Vegas, Nevada. He has not yet been formally charged, and claimed on social media that the woman's accusations were false. ](/news/2013/05/22/former-professional-major-league-baseball-slugger-jose-canseco-48-a-former-oakland-athletics-rookie-of-the-year-who-also-played-for-six-o.md) _Context: Major League Baseball, Oakland Athletics_
+5. [In Major League Baseball, Philip Humber of the Chicago White Sox pitches a perfect game against the Seattle Mariners. It is the 21st perfect game in MLB history and the third in team history. ](/news/2012/04/21/in-major-league-baseball-philip-humber-of-the-chicago-white-sox-pitches-a-perfect-game-against-the-seattle-mariners-it-is-the-21st-perfect.md) _Context: Major League Baseball, perfect game_
+6. [Derek Jeter, shortstop for the New York Yankees, becomes the 28th member of the 3,000 hit club in Major League Baseball history by means of a home run off David Price of the Tampa Bay Rays. ](/news/2011/07/9/derek-jeter-shortstop-for-the-new-york-yankees-becomes-the-28th-member-of-the-3-000-hit-club-in-major-league-baseball-history-by-means-of.md) _Context: Major League Baseball, Tampa Bay Rays_
+7. [Japanese baseball player Hideki Matsui of the Oakland Athletics hits his 500th career home run in his professional career playing in both North America's Major League Baseball and Nippon Professional Baseball in his homeland. ](/news/2011/07/20/japanese-baseball-player-hideki-matsui-of-the-oakland-athletics-hits-his-500th-career-home-run-in-his-professional-career-playing-in-both-no.md) _Context: Major League Baseball, Oakland Athletics_
+8. [Roy Halladay pitches the 20th perfect game in Major League Baseball history in the Philadelphia Phillies' 1-0 win over the Florida Marlins. ](/news/2010/05/29/roy-halladay-pitches-the-20th-perfect-game-in-major-league-baseball-history-in-the-philadelphia-phillies-1a0-win-over-the-florida-marlins.md) _Context: Major League Baseball, perfect game_
+9. [ Chicago White Sox pitcher Mark Buehrle completes a perfect game against the Tampa Bay Rays. ](/news/2009/07/23/chicago-white-sox-pitcher-mark-buehrle-completes-a-perfect-game-against-the-tampa-bay-rays.md) _Context: Tampa Bay Rays, perfect game_
+10. [ In American Major League Baseball, the Chicago Cubs defeat the Cleveland Indians 8-7 in 10 innings, winning the Series 4-3 and claiming their first MLB title since 1908. The Cubs' Ben Zobrist is named series MVP. Cubs win game 7 and the title in the early hours of November 3rd, 2016. ](/news/2016/11/2/in-american-major-league-baseball-the-chicago-cubs-defeat-the-cleveland-indians-8a7-in-10-innings-winning-the-series-4a3-and-claiming.md) _Context: Major League Baseball_

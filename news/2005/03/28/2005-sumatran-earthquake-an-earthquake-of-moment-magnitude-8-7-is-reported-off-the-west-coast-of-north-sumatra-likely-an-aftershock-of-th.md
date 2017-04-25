@@ -1,0 +1,27 @@
+### [2005-03-28](/news/2005/03/28/index.md)
+
+#  2005 Sumatran earthquake: An earthquake of moment magnitude 8.7 is reported off the west coast of North Sumatra, likely an aftershock of the 2004 Indian Ocean earthquake. Concerned about the threat of a tsunami, emergency evacuations begin in Malaysia, Thailand, and Sri Lanka, although no significant tsunami activity is reported. Indonesia's vice-president reports up to 2,000 deaths 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4388579.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/28/indonesia.quake/index.html)
+3. [CBC](http://www.cbc.ca/world/story/2005/03/28/quake050328.html)
+4. [USGS](http://earthquake.usgs.gov/eqinthenews/2005/usweax/)
+5. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4898004,00.html)
+
+### Related:
+
+1. [  A second major earthquake off the coast of Sumatra prompts tsunami warnings for Sri Lanka, India, Indonesia, Christmas Island and the Cocos Islands. ](/news/2007/09/13/a-second-major-earthquake-off-the-coast-of-sumatra-prompts-tsunami-warnings-for-sri-lanka-india-indonesia-christmas-island-and-the-coco.md) _Context: Indonesia, Sri Lanka, Tsunami, earthquake_
+2. [ 2004 Indian Ocean earthquake: World leaders gather in Jakarta, Indonesia, for an emergency summit with the United Nations. Aid pledges since the Asian Tsunami disaster are near USD 4 billion (EUR 3 billion). Nearly 150,000 people have been confirmed dead in the four hardest hit nations - Indonesia, India, Sri Lanka and Thailand. ](/news/2005/01/6/2004-indian-ocean-earthquake-world-leaders-gather-in-jakarta-indonesia-for-an-emergency-summit-with-the-united-nations-aid-pledges-sinc.md) _Context: 2004 Indian Ocean earthquake, Indonesia, Sri Lanka, Thailand_
+3. [ A series of moderate-intensity aftershocks rattle the Andaman and Nicobar Islands and Sumatra in Indonesia over a month after the region was devastated by a quake-generated tsunami. No casualties or damage is reported. ](/news/2005/01/29/a-series-of-moderate-intensity-aftershocks-rattle-the-andaman-and-nicobar-islands-and-sumatra-in-indonesia-over-a-month-after-the-region-wa.md) _Context: Indonesia, Tsunami, aftershock, earthquake_
+4. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: Indonesia, Tsunami, earthquake_
+5. [A magnitude 7.1 earthquake strikes southwestern Alaska, leaving 10,000 in the Anchorage area without power and forcing the evacuation of several homes on the Kenai Peninsula. The National Weather Service reported that there was no tsunami following the earthquake. ](/news/2016/01/24/a-magnitude-7-1-earthquake-strikes-southwestern-alaska-leaving-10-000-in-the-anchorage-area-without-power-and-forcing-the-evacuation-of-sev.md) _Context: Tsunami, earthquake, magnitude_
+6. [The U.S. Geological Survey reports a magnitude 6.7 earthquake struck off the southwest coast of Japan. The quake occurred 119 miles (191 km) west-southwest of Kagoshima. The Pacific Tsunami Center reported no major tsunami threat. A small tsunami, 30 centimeters (11.8 inches), was observed on the southern island of Nakanoshima. No reports of major damage or injuries. ](/news/2015/11/14/the-u-s-geological-survey-reports-a-magnitude-6-7-earthquake-struck-off-the-southwest-coast-of-japan-the-quake-occurred-119-miles-191-km.md) _Context: Tsunami, earthquake, magnitude_
+7. [''Philippines v. China''The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/philippines-v-china-pthe-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually.md) _Context: Indonesia, Malaysia, Thailand_
+8. [South East Asian migrant crisisThe foreign ministers of Indonesia, Malaysia and Thailand meet in Kuala Lumpur to discuss people smuggling and the migrant crisis. Malaysia and Indonesia agree to accept asylum seekers providing that they can be resettled or repatriated within a year. ](/news/2015/05/20/south-east-asian-migrant-crisispthe-foreign-ministers-of-indonesia-malaysia-and-thailand-meet-in-kuala-lumpur-to-discuss-people-smuggling-a.md) _Context: Indonesia, Malaysia, Thailand_
+9. [Flooding and the death toll continues in Indonesia, Malaysia, the Philippines and Thailand. ](/news/2014/12/30/flooding-and-the-death-toll-continues-in-indonesia-malaysia-the-philippines-and-thailand.md) _Context: Indonesia, Malaysia, Thailand_
+10. [ A 7.6-magnitude earthquake strikes off South Island, New Zealand, generating brief fears of a small tsunami. ](/news/2009/07/15/a-7-6-magnitude-earthquake-strikes-off-south-island-new-zealand-generating-brief-fears-of-a-small-tsunami.md) _Context: Tsunami, earthquake, magnitude_

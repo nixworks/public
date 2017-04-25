@@ -1,0 +1,23 @@
+### [2010-05-7](/news/2010/05/7/index.md)
+
+# 4 policemen are killed and another seriously injured when militants open fire in Pakistan's Mansehra district of North-West Frontier Province. 
+
+
+
+
+### Source:
+
+1. [PTI](http://www.ptinews.com/news/643601_Militants-kill-4-policemen-in-Pak)
+
+### Related:
+
+1. [At least 31 people are killed and several more remain missing after flash floods ravage the Khyber Pakhtunkhwa province of Pakistan. ](/news/2016/07/3/at-least-31-people-are-killed-and-several-more-remain-missing-after-flash-floods-ravage-the-khyber-pakhtunkhwa-province-of-pakistan.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+2. [At least 63 people are killed and over 30 are injured as flash floods ravage Khyber Pakhtunkhwa, Azad Kashmir and other parts of northwest Pakistan. ](/news/2016/04/4/at-least-63-people-are-killed-and-over-30-are-injured-as-flash-floods-ravage-khyber-pakhtunkhwa-azad-kashmir-and-other-parts-of-northwest-p.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+3. [At least 45 people are killed and another 34 hospitalized following heavy rains and flash floods in the northwestern Pakistani province of Khyber Pakhtunkhwa. ](/news/2016/04/3/at-least-45-people-are-killed-and-another-34-hospitalized-following-heavy-rains-and-flash-floods-in-the-northwestern-pakistani-province-of-k.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+4. [A suicide-bomb attack outside the regional office of the National Database and Registration Authority (NADRA) in the northwestern Pakistani city of Mardan, Khyber Pakhtunkhwa, leaves at least 26 people dead and 45 wounded. The militant Islamist group Jamaat-ul-Ahrar, a Tehrik-i-Taliban Pakistan splinter group, claims responsibility for the attack. ](/news/2015/12/29/a-suicide-bomb-attack-outside-the-regional-office-of-the-national-database-and-registration-authority-nadra-in-the-northwestern-pakistani.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+5. [Pakistani journalist Zaman Mehsud is shot dead  by two motorcycle-riding gunmen in Pakistan's Khyber Pakhtunkhwa province, near the country's  northwestern tribal region. According to a 2014 report, at least 56 journalists have been killed in Pakistan since 1992. ](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-by-two-motorcycle-riding-gunmen-in-pakistan-s-khyber-pakhtunkhwa-province-near-the-country.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+6. [A Pakistani military helicopter crashes in Khyber Pakhtunkhwa province resulting in at least 11 deaths. ](/news/2015/08/6/a-pakistani-military-helicopter-crashes-in-khyber-pakhtunkhwa-province-resulting-in-at-least-11-deaths.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+7. [At least 47 people are killed and more than 90 wounded in two separate bomb blasts in Pakistan, one in a Shiite suburb of Quetta and the other in an attack on a paramilitary convoy in the northwest of the country; a Sunni extremist group reportedly claims responsibility. ](/news/2013/07/1/at-least-47-people-are-killed-and-more-than-90-wounded-in-two-separate-bomb-blasts-in-pakistan-one-in-a-shiite-suburb-of-quetta-and-the-oth.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+8. [Terrorism in Pakistan:A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/terrorism-in-pakistan-pa-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-nat.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+9. [War in North-West Pakistan:Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-pgunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-job.md) _Context: Khyber Pakhtunkhwa, Pakistan_
+10. [More than 200 Afghan militants cross over into Pakistan and attack a security checkpoint in northwest Pakistan, sparking a clash in which 28 Pakistani security forces and six civilians die, along with 45 Afghans. ](/news/2011/06/3/more-than-200-afghan-militants-cross-over-into-pakistan-and-attack-a-security-checkpoint-in-northwest-pakistan-sparking-a-clash-in-which-28.md) _Context: Khyber Pakhtunkhwa, Pakistan_

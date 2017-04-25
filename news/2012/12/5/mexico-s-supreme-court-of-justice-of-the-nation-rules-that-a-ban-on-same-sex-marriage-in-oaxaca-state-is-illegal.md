@@ -1,0 +1,23 @@
+### [2012-12-5](/news/2012/12/5/index.md)
+
+# Mexico's Supreme Court of Justice of the Nation rules that a ban on same-sex marriage in Oaxaca state is illegal. 
+
+
+
+
+### Source:
+
+1. [The Washington Post](http://www.washingtonpost.com/world/the_americas/mexican-supreme-court-rules-in-favor-of-same-sex-marriage-in-southern-oaxaca-state/2012/12/05/13549720-3f5e-11e2-8a5c-473797be602c_story.html)
+
+### Related:
+
+1. [The Supreme Court of Justice of the Nation rules same-sex marriages in Mexico City have to be recognised across Mexico. ](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.md) _Context: Mexican Supreme Court, Mexico, same-sex marriage_
+2. [The 2010 Oaxaca landslide in the Mexican state of Oaxaca is less deadly than initially feared, with eleven people missing. ](/news/2010/09/29/the-2010-oaxaca-landslide-in-the-mexican-state-of-oaxaca-is-less-deadly-than-initially-feared-with-eleven-people-missing.md) _Context: Mexico, Oaxaca_
+3. [The Supreme Court of Justice of the Nation upholds as constitutional a law allowing same-sex marriages in Mexico City. ](/news/2010/08/5/the-supreme-court-of-justice-of-the-nation-upholds-as-constitutional-a-law-allowing-same-sex-marriages-in-mexico-city.md) _Context: Mexican Supreme Court, same-sex marriage_
+4. [Mexico's Supreme Court of Justice of the Nation upholds a Mexico City law allowing gay adoption. ](/news/2010/08/16/mexico-s-supreme-court-of-justice-of-the-nation-upholds-a-mexico-city-law-allowing-gay-adoption.md) _Context: Mexican Supreme Court, Mexico_
+5. [ Mexico's Supreme Court resolves by an 8-3 vote to uphold the constitutionality of the Federal District's 2007 Abortion Law. ](/news/2008/08/28/mexico-s-supreme-court-resolves-by-an-8a3-vote-to-uphold-the-constitutionality-of-the-federal-district-s-2007-abortion-law.md) _Context: Mexican Supreme Court, Mexico_
+6. [ Thirty-three people are killed when a bus plunges down a ravine near Huautla de Jimnez in the north of the Mexican state of Oaxaca. ](/news/2007/01/25/thirty-three-people-are-killed-when-a-bus-plunges-down-a-ravine-near-huautla-de-jimenez-in-the-north-of-the-mexican-state-of-oaxaca.md) _Context: Mexico, Oaxaca_
+7. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
+8. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: Mexico_
+9. [Following a start-of-year hike to the price of gas, widespread riots and looting mostly targeting gas stations, supermarkets and department stores take place in several cities in Mexico. Over 250 people are said to have been arrested so far while blockades to PEMEX installations potentially lead to critical situations in some states. ](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.md) _Context: Mexico_
+10. [Ford announces that it has cancelled plans to build a $1.6 billion plant in Mexico, long criticized by U.S. President-elect Donald Trump, and will invest $700 million in its Michigan plant in Flat Rock, potentially creating 700 new jobs from the investment and expansion of the plant. ](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-build-a-1-6-billion-plant-in-mexico-long-criticized-by-u-s-president-elect-donald-trump-an.md) _Context: Mexico_

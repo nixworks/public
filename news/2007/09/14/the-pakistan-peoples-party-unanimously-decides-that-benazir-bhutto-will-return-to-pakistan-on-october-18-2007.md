@@ -1,0 +1,19 @@
+### [2007-09-14](/news/2007/09/14/index.md)
+
+#  The Pakistan Peoples Party unanimously decides that Benazir Bhutto will return to Pakistan on October 18, 2007. 
+
+
+
+
+### Related:
+
+1. [ 2007 Pakistani state of emergency: Benazir Bhutto is placed under house arrest hours before a proposed mass rally against the 2007 Pakistani state of emergency. Over 5000 supporters of Pakistan Peoples Party have been arrested to avert rally. ](/news/2007/11/9/2007-pakistani-state-of-emergency-p-benazir-bhutto-is-placed-under-house-arrest-hours-before-a-proposed-mass-rally-against-the-2007-pakista.md) _Context: Benazir Bhutto, Pakistan Peoples Party_
+2. [ The Pakistan Peoples Party claims that its leader, former Prime Minister of Pakistan Benazir Bhutto, has been forbidden to leave the country. ](/news/2007/10/24/the-pakistan-peoples-party-claims-that-its-leader-former-prime-minister-of-pakistan-benazir-bhutto-has-been-forbidden-to-leave-the-countr.md) _Context: Benazir Bhutto, Pakistan Peoples Party_
+3. [A Pakistani court indicts former President Pervez Musharraf for his alleged involvement in the 2007 assassination of former Prime Minister Benazir Bhutto. ](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.md) _Context: Benazir Bhutto_
+4. [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md) _Context: Benazir Bhutto_
+5. [Bilawal Bhutto Zardari, the son of Pakistan's murdered ex-Prime Minister Benazir Bhutto, promises to fight militancy and maintain democracy, in his first major political speech marking five years since his mother's death. ](/news/2012/12/27/bilawal-bhutto-zardari-the-son-of-pakistan-s-murdered-ex-prime-minister-benazir-bhutto-promises-to-fight-militancy-and-maintain-democracy.md) _Context: Benazir Bhutto_
+6. [A Pakistan anti-terror court indicts two police officers and five alleged members of the Taliban for the murder of former Prime Minister of Pakistan Benazir Bhutto. ](/news/2011/11/5/a-pakistan-anti-terror-court-indicts-two-police-officers-and-five-alleged-members-of-the-taliban-for-the-murder-of-former-prime-minister-of.md) _Context: Benazir Bhutto_
+7. [ UN Secretary General Ban Ki-moon announces a commission to investigate the assassination of former Pakistani prime minister Benazir Bhutto. ](/news/2009/02/4/un-secretary-general-ban-ki-moon-announces-a-commission-to-investigate-the-assassination-of-former-pakistani-prime-minister-benazir-bhutto.md) _Context: Benazir Bhutto_
+8. [  The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _Context: Pakistan Peoples Party_
+9. [ Yusuf Raza Gillani of the Pakistan Peoples Party is elected Prime Minister of Pakistan by the National Assembly and vows to free Chief Justice Iftikhar Chaudhry and other judges from house arrest. ](/news/2008/03/24/yusuf-raza-gillani-of-the-pakistan-peoples-party-is-elected-prime-minister-of-pakistan-by-the-national-assembly-and-vows-to-free-chief-just.md) _Context: Pakistan Peoples Party_
+10. [ Scotland Yard detectives investigating the death of former Prime Minister of Pakistan Benazir Bhutto say that she died from the effect of a bomb blast not gunfire. ](/news/2008/02/8/scotland-yard-detectives-investigating-the-death-of-former-prime-minister-of-pakistan-benazir-bhutto-say-that-she-died-from-the-effect-of-a.md) _Context: Benazir Bhutto_

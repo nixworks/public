@@ -1,0 +1,29 @@
+### [2013-08-27](/news/2013/08/27/index.md)
+
+# The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. 
+
+Russia&#x20;warned&#x20;that&#x20;a&#x20;military&#x20;intervention&#x20;in&#x20;Syria&#x20;could&#x20;have&#x20;&quot;catastrophic&#x20;consequences&quot;&#x20;on&#x20;Tuesday&#x20;and&#x20;called&#x20;on&#x20;Western&#x20;powers&#x20;to&#x20;show&#x20;&quot;prudence&quot;&#x20;over&#x20;the&#x20;crisis,&#x20;as&#x20;the&#x20;UK&#x20;military&#x20;began&#x20;to&#x20;draw&#x20;up&#x20;contingency&#x20;plans&#x20;for&#x20;a&#x20;possible&#x20;attack.
+
+
+### Source:
+
+1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10268547/Syria-Russia-evacuates-citizens-ahead-of-military-strikes-in-the-next-few-days.html)
+2. [Fox News](http://www.foxnews.com/world/2013/08/27/hollande-says-france-ready-to-punish-syria-over-gas-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29)
+3. [Daily Star](http://www.dailystar.com.lb/News/Lebanon-News/2013/Aug-27/228849-tripoli-bombings-suspect-says-syria-intelligence-behind-attack.ashx#axzz2dCnO1Qwy)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-23850274#)
+5. [BBC](http://www.bbc.co.uk/news/uk-23851292)
+6. [ (France 24](http://www.france24.com/en/20130827-russia-warns-attack-syria-uk-plans-usa)
+7. [NBC](http://worldnews.nbcnews.com/_news/2013/08/26/20192545-kerry-accuses-syria-of-using-chemical-agents-us-preparing-to-release-evidence?lite)
+
+### Related:
+
+1. [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md) _Context: Russia, Syria, Syrian Civil War_
+2. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Russia, Syria, Syrian Civil War_
+3. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Russia, Syria, Syrian Civil War_
+4. [A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.md) _Context: Russia, Syria, Syrian Civil War_
+5. [Between four and 20 people are reported killed by government and Russian  airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo,  says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md) _Context: Russia, Syria, Syrian Civil War_
+6. [The Obama administration through the U.S. State Department announces the suspension of bilateral talks with Russia about the cessation of hostilities in Syria, as Russia and the Syrian government continue to pursue a military course despite the ceasefire accord. ](/news/2016/10/3/the-obama-administration-through-the-u-s-state-department-announces-the-suspension-of-bilateral-talks-with-russia-about-the-cessation-of-ho.md) _Context: Russia, Syria, Syrian Civil War_
+7. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _Context: Russia, Syria, Syrian Civil War_
+8. [Syrian civil war and The U.S. Obama administration and the Russian Putin administration agree to a Syrian peace deal. The deal is intended to end combat in specified areas and create a joint center of combat to fight ISIL and Al-Nusra Front. ](/news/2016/09/10/syrian-civil-war-and-the-u-s-obama-administration-and-the-russian-putin-administration-agree-to-a-syrian-peace-deal-the-deal-is-intended-t.md) _Context: Russia, Syria, Syrian Civil War_
+9. [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md) _Context: Russia, Syria, Syrian Civil War_
+10. [Russian Defense Minister Sergei Shoigu says Russia and Syria will open humanitarian corridors to Aleppo, and will provide a way for rebel fighters to lay down their arms. ](/news/2016/07/28/russian-defense-minister-sergei-shoigu-says-russia-and-syria-will-open-humanitarian-corridors-to-aleppo-and-will-provide-a-way-for-rebel-fi.md) _Context: Russia, Syria, Syrian Civil War_

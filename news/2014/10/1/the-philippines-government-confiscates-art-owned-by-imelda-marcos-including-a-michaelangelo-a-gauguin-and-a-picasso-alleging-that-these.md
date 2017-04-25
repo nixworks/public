@@ -1,0 +1,23 @@
+### [2014-10-1](/news/2014/10/1/index.md)
+
+# The Philippines government confiscates art owned by Imelda Marcos, including a Michaelangelo, a Gauguin, and a Picasso, alleging that these were bought using embezzled funds. 
+
+Artworks belonging to former Philippine first lady Imelda Marcos are seized by authorities who claim they were acquired with embezzled state funds.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/entertainment-arts-29427876)
+
+### Related:
+
+1. [Human rights abuse victims during the regime of Ferdinand Marcos stake a claim on auction proceeds from Imelda Marcos' art collection, which includes pieces by Michelangelo, Monet, Van Gogh, and Picasso. ](/news/2016/04/15/human-rights-abuse-victims-during-the-regime-of-ferdinand-marcos-stake-a-claim-on-auction-proceeds-from-imelda-marcos-art-collection-which.md) _Context: Imelda Marcos, Picasso_
+2. [Imelda Marcos's former aide is sentenced in New York City for attempting to sell a painting of Claude Monet allegedly bought with embezzled funds. ](/news/2014/01/8/imelda-marcos-s-former-aide-is-sentenced-in-new-york-city-for-attempting-to-sell-a-painting-of-claude-monet-allegedly-bought-with-embezzled.md) _Context: Imelda Marcos, embezzlement_
+3. [Former Philippine First Lady Imelda Marcos visits the detained ex-President Gloria Macapagal-Arroyo and criticizes the current President Benigno Aquino III as "cruel, unjust". ](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.md) _Context: Imelda Marcos, Philippines_
+4. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Philippines_
+5. [A U.S. Navy F/A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS ''Carl Vinson''. The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-e.md) _Context: Philippines_
+6. [Scientists announce, through the ''Proceedings of the National Academy of Sciences of the United States of America'', that live specimens of the rare ''Kuphus polythalamia'' (giant shipworm) have been discovered for the first time in the Philippines. ](/news/2017/04/18/scientists-announce-through-the-proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america-that-live-specimens-of.md) _Context: Philippines_
+7. [At least 24 people are dead after a Leomarick Trans bus falls into a ravine in the Philippines province of Nueva Ecija. ](/news/2017/04/18/at-least-24-people-are-dead-after-a-leomarick-trans-bus-falls-into-a-ravine-in-the-philippines-province-of-nueva-ecija.md) _Context: Philippines_
+8. [The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. ](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-province-of-cebu-rises-to-nine-with-ten-missing.md) _Context: Philippines_
+9. [More than 10,000 people are left homeless after a fire ravages a densely populated neighborhood of the Philippines capital Manila. ](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.md) _Context: Philippines_
+10. [The Liberal Party of the Philippines, the party of vice president Leni Robredo and detained senator Leila de Lima, formally becomes the opposition after its members and its ally from the Akbayan party are ousted from key positions in the Senate. ](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.md) _Context: Philippines_

@@ -1,0 +1,24 @@
+### [2011-01-24](/news/2011/01/24/index.md)
+
+# Jared L. Loughner pleads not guilty to orchestrating the 2011 Tucson shooting and the attempted murder of United States Democratic Representative Gabrielle Giffords. 
+
+Jared L. Loughner rejected charges that he tried to kill Representative Gabrielle Giffords and two aides.
+
+
+### Source:
+
+1. [New York Times](http://www.nytimes.com/2011/01/25/us/25loughner.html?partner=rss&emc=rss)
+2. [ABC News](http://abcnews.go.com/US/wireStory?id=12752579)
+
+### Related:
+
+1. [Voters in the 8th congressional district in the US state of Arizona go to the polls for a special election caused by the resignation of Gabrielle Giffords due to health reasons with Democrat Ron Barber duly elected. ](/news/2012/06/12/voters-in-the-8th-congressional-district-in-the-us-state-of-arizona-go-to-the-polls-for-a-special-election-caused-by-the-resignation-of-gabr.md) _Context: Democratic, Gabrielle Giffords_
+2. [A shooting rampage takes place at a supermarket in Tucson in the U.S. state of Arizona. Twenty are shot, including U.S. Representative Gabrielle Giffords. Six others are confirmed dead, including District Court judge John Roll. ](/news/2011/01/8/a-shooting-rampage-takes-place-at-a-supermarket-in-tucson-in-the-u-s-state-of-arizona-twenty-are-shot-including-u-s-representative-gabri.md) _Context: 2011 Tucson shooting, Gabrielle Giffords_
+3. [United States Representative Gabrielle Giffords leaves hospital in Tucson, Arizona for rehabilitation in Houston, Texas less than two weeks after the 2011 Tucson shooting. ](/news/2011/01/21/united-states-representative-gabrielle-giffords-leaves-hospital-in-tucson-arizona-for-rehabilitation-in-houston-texas-less-than-two-weeks.md) _Context: 2011 Tucson shooting, Gabrielle Giffords_
+4. [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md) _Context: 2011 Tucson shooting, Gabrielle Giffords_
+5. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Democratic_
+6. [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md) _Context: Democratic_
+7. [The former Democratic National Committee chair and ex-CNN contributor Donna Brazile admits that she had forwarded some debate questions to Hillary Clinton's campaign during last year's Democratic primary before two debates with Bernie Sanders. ](/news/2017/03/17/the-former-democratic-national-committee-chair-and-ex-cnn-contributor-donna-brazile-admits-that-she-had-forwarded-some-debate-questions-to-h.md) _Context: Democratic_
+8. [A declassified U.S. intelligence report claims that Vladimir Putin ordered a campaign to influence the U.S. presidential election against Democratic Party candidate Hillary Clinton. ](/news/2017/01/6/a-declassified-u-s-intelligence-report-claims-that-vladimir-putin-ordered-a-campaign-to-influence-the-u-s-presidential-election-against-de.md) _Context: Democratic_
+9. [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md) _Context: Democratic_
+10. [United States presidential election and general elections, 2016Although he narrowly lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/united-states-presidential-election-and-general-elections-2016palthough-he-narrowly-lost-the-popular-vote-donald-trump-the-republican-nom.md) _Context: Democratic_

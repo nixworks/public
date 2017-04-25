@@ -1,0 +1,23 @@
+### [2015-07-28](/news/2015/07/28/index.md)
+
+# A Libyan court sentences Saif al-Islam Gaddafi to death in absentia for alleged atrocities in 2011. 
+
+
+
+
+### Source:
+
+1. [AP via Fox News](http://www.foxnews.com/world/2015/07/28/libya-court-sentences-qaddafi-son-to-death-in-absentia-for-2011-killings/)
+
+### Related:
+
+1. [Muammar Gaddafi's fugitive son Saif al-Islam Gaddafi, who is wanted by the International Criminal Court, is captured in Libya. ](/news/2011/11/19/muammar-gaddafi-s-fugitive-son-saif-al-islam-gaddafi-who-is-wanted-by-the-international-criminal-court-is-captured-in-libya.md) _Context: Libya, Saif al-Islam Gaddafi_
+2. [Saif al-Islam Gaddafi, son of the late Libyan dictator Muammar Gaddafi, is reported to be attempting to negotiate a surrender to the International Criminal Court. ](/news/2011/10/26/saif-al-islam-gaddafi-son-of-the-late-libyan-dictator-muammar-gaddafi-is-reported-to-be-attempting-to-negotiate-a-surrender-to-the-interna.md) _Context: Libya, Saif al-Islam Gaddafi_
+3. [Heavy fighting continues in the Libyan capital Tripoli as Muammar Gaddafi's son Saif al-Islam Gaddafi leads a counterattack despite earlier reports of his capture. ](/news/2011/08/23/heavy-fighting-continues-in-the-libyan-capital-tripoli-as-muammar-gaddafi-s-son-saif-al-islam-gaddafi-leads-a-counterattack-despite-earlier.md) _Context: Libya, Saif al-Islam Gaddafi_
+4. [ Saif al-Islam Gaddafi, a son of Libyan leader Muammar Gaddafi, has called for independent institutions in Libya including a central bank, a high court and media. ](/news/2007/08/21/saif-al-islam-gaddafi-a-son-of-libyan-leader-muammar-gaddafi-has-called-for-independent-institutions-in-libya-including-a-central-bank-a.md) _Context: Libya, Saif al-Islam Gaddafi_
+5. [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md) _Context: Libya_
+6. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Libya_
+7. [Libyan fisherman discover the bodies of 28 migrants in a broken-down boat off the coast of Sabratha. ](/news/2017/04/18/libyan-fisherman-discover-the-bodies-of-28-migrants-in-a-broken-down-boat-off-the-coast-of-sabratha.md) _Context: Libya_
+8. [More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _Context: Libya_
+9. [A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.md) _Context: Libya_
+10. [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md) _Context: Libya_

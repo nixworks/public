@@ -1,0 +1,24 @@
+### [2005-02-7](/news/2005/02/7/index.md)
+
+#  In Guatemala, the constitutional court stops a trial of 16 military officers accused of war crimes and killing hundreds of civilians. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7545678)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4238417.stm)
+
+### Related:
+
+1. [Dutch businessman Guus Kouwenhoven is found guilty of war crimes and arms trafficking for using his lumber business to sell weapons to Liberia's former president Charles Taylor during the country's civil war between 2000 and 2003 and is sentenced to 19 years in prison. ](/news/2017/04/22/dutch-businessman-guus-kouwenhoven-is-found-guilty-of-war-crimes-and-arms-trafficking-for-using-his-lumber-business-to-sell-weapons-to-liber.md) _Context: war crime_
+2. [A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting  conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including-alleged-sexual-and-physical.md) _Context: Guatemala_
+3. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: war crime_
+4. [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 38 children. ](/news/2017/03/11/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-38-children.md) _Context: Guatemala_
+5. [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 35 children. ](/news/2017/03/10/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-35-children.md) _Context: Guatemala_
+6. [The Guatemalan army blockades a ship from the Dutch NGO Women on Waves that provides material for abortions. ](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.md) _Context: Guatemala_
+7. [As part of an ongoing peace process, the Congress of Colombia approves an amnesty law for thousands of demobilizing FARC rebels. The amnesty does not apply to FARC rebels who have committed war crimes or human rights violations. ](/news/2016/12/28/as-part-of-an-ongoing-peace-process-the-congress-of-colombia-approves-an-amnesty-law-for-thousands-of-demobilizing-farc-rebels-the-amnesty.md) _Context: war crime_
+8. [According to the United States Department of Defense, an airstrike that hit a hospital in Kunduz, Afghanistan, last October did not amount to a war crime because the airstrike was "unintentional" and that those involved would face suspension but not criminal charges. In response to the briefing, a president of the organization which operated the hospital described it as "an admission of an uncontrolled military operation in a densely populated urban area, during which US forces failed to follow the basic laws of war." ](/news/2016/04/30/according-to-the-united-states-department-of-defense-an-airstrike-that-hit-a-hospital-in-kunduz-afghanistan-last-october-did-not-amount-t.md) _Context: war crime_
+9. [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md) _Context: Guatemala_
+10. [The International Criminal Court finds ex-Vice President of the Democratic Republic of the Congo Jean-Pierre Bemba guilty of war crimes. Bemba is accused of not taking steps to stop his militia from committing mass murder, rape and pillage in neighbouring Central African Republic. ](/news/2016/03/21/the-international-criminal-court-finds-ex-vice-president-of-the-democratic-republic-of-the-congo-jean-pierre-bemba-guilty-of-war-crimes-bem.md) _Context: war crime_

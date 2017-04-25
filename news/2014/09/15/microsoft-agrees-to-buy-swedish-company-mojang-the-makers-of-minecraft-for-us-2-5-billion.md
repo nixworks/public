@@ -1,0 +1,23 @@
+### [2014-09-15](/news/2014/09/15/index.md)
+
+# Microsoft agrees to buy Swedish company Mojang, the makers of Minecraft, for US$2.5 billion. 
+
+
+
+
+### Source:
+
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-15-US--Microsoft-Minecraft/id-98a097472dd046728493477d71e68e15)
+
+### Related:
+
+1. [Microsoft acknowledges that a Windows 10 update has stopped millions of webcams from working. ](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.md) _Context: Microsoft_
+2. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _Context: Microsoft_
+3. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including  Yahoo Japan Corp.,  next week. Google, Time Inc., and  private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google.md) _Context: Microsoft_
+4. [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md) _Context: Microsoft_
+5. [Reuters reports, based on an unnamed "person familiar with the situation," that Microsoft executives are lining up financing for a possible acquisition of troubled dotcom pioneer Yahoo. ](/news/2016/03/26/reuters-reports-based-on-an-unnamed-person-familiar-with-the-situation-that-microsoft-executives-are-lining-up-financing-for-a-possible.md) _Context: Microsoft_
+6. [Many Skype users are unable to access the service. The Microsoft-owned company acknowledges the problem. ](/news/2015/09/21/many-skype-users-are-unable-to-access-the-service-the-microsoft-owned-company-acknowledges-the-problem.md) _Context: Microsoft_
+7. [Microsoft announces another 7,800 job cuts primarily in its struggling phone division acquired from Nokia. ](/news/2015/07/8/microsoft-announces-another-7-800-job-cuts-primarily-in-its-struggling-phone-division-acquired-from-nokia.md) _Context: Microsoft_
+8. [In the United States, the NASDAQ and S&P 500 end at record highs spurred by strong results by tech giants Google, Amazon and Microsoft. ](/news/2015/04/24/in-the-united-states-the-nasdaq-and-s-p-500-end-at-record-highs-spurred-by-strong-results-by-tech-giants-google-amazon-and-microsoft.md) _Context: Microsoft_
+9. [Microsoft co-founder Paul Allen and his team of researchers find the ''Musashi'', one of Japan's biggest and most famous battleships which was sunk by American forces in 1944, on the floor of the Sibuyan Sea. ](/news/2015/03/4/microsoft-co-founder-paul-allen-and-his-team-of-researchers-find-the-musashi-one-of-japan-s-biggest-and-most-famous-battleships-which-w.md) _Context: Microsoft_
+10. [Swede Alex Yucel pleads guilty in the United States to distributing Blackshades software that was used to hack into 500,000 computers worldwide. ](/news/2015/02/18/swede-alex-yucel-pleads-guilty-in-the-united-states-to-distributing-blackshades-software-that-was-used-to-hack-into-500-000-computers-worldw.md) _Context: Swede_

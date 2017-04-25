@@ -1,0 +1,24 @@
+### [2011-02-10](/news/2011/02/10/index.md)
+
+# The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. 
+
+
+
+
+### Source:
+
+1. [AAP via ''The Age](http://news.theage.com.au/breaking-news-world/bashir-terror-trial-begins-in-jakarta-20110210-1anur.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12406081)
+
+### Related:
+
+1. [An Indonesian court delivers a guilty verdict in the terrorism trial of radical Muslim cleric Abu Bakar Bashir in the South Jakarta District Court and sentenced to 15 years in prison.  ](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.md) _Context: Abu Bakar Bashir, Indonesia, Jakarta, terrorism_
+2. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Indonesia, Jakarta, Muslim_
+3. [Umar Patek, a key suspect in the 2002 Bali bombings, faces trial on terrorism charges in Jakarta after being extradicted from Pakistan to Indonesia. ](/news/2011/08/11/umar-patek-a-key-suspect-in-the-2002-bali-bombings-faces-trial-on-terrorism-charges-in-jakarta-after-being-extradicted-from-pakistan-to-in.md) _Context: Indonesia, Jakarta, terrorism_
+4. [Abu Bakar Bashir, a prominent Indonesian cleric, rejects his terrorism trial as "outside Islamic law." ](/news/2011/06/6/abu-bakar-bashir-a-prominent-indonesian-cleric-rejects-his-terrorism-trial-as-outside-islamic-law.md) _Context: Abu Bakar Bashir, Indonesia, terrorism_
+5. [Indonesia drops some of the key terrorism charges against radical cleric Abu Bakar Bashir, meaning that it is unlikely that he will receive the death penalty. ](/news/2011/05/9/indonesia-drops-some-of-the-key-terrorism-charges-against-radical-cleric-abu-bakar-bashir-meaning-that-it-is-unlikely-that-he-will-receive.md) _Context: Abu Bakar Bashir, Indonesia, terrorism_
+6. [Muslim cleric Abu Bakar Bashir is arrested - along with his wife, the driver of the car he was in and another woman - by Indonesian police in Ciamis, West Java. ](/news/2010/08/9/muslim-cleric-abu-bakar-bashir-is-arrested-along-with-his-wife-the-driver-of-the-car-he-was-in-and-another-woman-by-indonesian-police-i.md) _Context: Abu Bakar Bashir, Indonesia, Muslim_
+7. [At least three security officers are killed after riots in north Jakarta, Indonesia, over plans to bulldoze a cemetery containing a memorial to a revered Muslim scholar. ](/news/2010/04/15/at-least-three-security-officers-are-killed-after-riots-in-north-jakarta-indonesia-over-plans-to-bulldoze-a-cemetery-containing-a-memorial.md) _Context: Indonesia, Jakarta, Muslim_
+8. [ In Indonesia, Muslim cleric Abu Bakar Bashir is found guilty of conspiracy for his involvement in the 2002 Bali bombing, but was found not guilty of all charges surrounding the 2003 bombing of the Marriott hotel in Jakarta. He received a two and a half year jail sentence. ](/news/2005/03/3/in-indonesia-muslim-cleric-abu-bakar-bashir-is-found-guilty-of-conspiracy-for-his-involvement-in-the-2002-bali-bombing-but-was-found-not.md) _Context: Abu Bakar Bashir, Indonesia, Jakarta_
+9. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Muslim, terrorism_
+10. [Flooding occurs across parts of Indonesia, including the capital Jakarta, due to torrential downpours over the last few days. Thousands of homes have been flooded and schools were forced to close. However, there are no reports of injuries yet. ](/news/2017/02/21/flooding-occurs-across-parts-of-indonesia-including-the-capital-jakarta-due-to-torrential-downpours-over-the-last-few-days-thousands-of-h.md) _Context: Indonesia, Jakarta_

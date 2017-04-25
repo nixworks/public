@@ -1,0 +1,28 @@
+### [2014-03-3](/news/2014/03/3/index.md)
+
+# 86th Academy Awards:''12 Years a Slave'' wins three Oscars, including the Academy Award for Best Picture. 
+
+Capping one of the tightest races in recent Academy Awards history, director Steve McQueen ’s searing survival tale “12 Years a Slave” won the best picture Oscar, beating out “American Hustle” and “Gravity.”
+
+
+### Source:
+
+1. [euronews](http://www.euronews.com/2014/03/03/oscars-2014-gravity-dominate-awards-as-12-years-a-slave-takes-best-film/)
+2. [Reuters](http://in.reuters.com/article/2014/03/03/us-oscars-foreignlanguage-idINBREA2205120140303)
+3. [Reuters](http://www.reuters.com/article/2014/03/03/oscars-bestactor-idUSW1N0BP02D20140303)
+4. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-oscars-2014-12-years-slave-wins-best-picture-20140226,0,410016.story#axzz2us9i7ug3)
+5. [LA Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-oscars-2014-animated-feature-winner-20140228,0,1617710.story#axzz2v0XwOcXT)
+6. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-oscars-2014-cate-blanchett-best-actress-20140226,0,386009.story)
+
+### Related:
+
+1. [87th Academy Awards Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for ''Birdman''. ''Birdman'' then wins the Academy Award for Best Picture. ](/news/2015/02/22/87th-academy-awards-palejandro-gonza-lez-ia-a-rritu-becomes-the-second-mexican-director-to-win-academy-award-for-best-director-for-birdman.md) _Context: Academy Award for Best Picture_
+2. [The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are ''American Sniper'', ''Birdman'', ''Boyhood'', ''The Grand Budapest Hotel'', ''The Imitation Game'', ''Selma'', ''The Theory of Everything'', and ''Whiplash''. ](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.md) _Context: Academy Award for Best Picture_
+3. [67th British Academy Film Awards:The British Academy Film Awards are held at the Royal Opera House in London with ''12 Years a Slave'' winning best film and Chiwetel Ejiofor winning best actor for his role in it. ](/news/2014/02/16/67th-british-academy-film-awards-pthe-british-academy-film-awards-are-held-at-the-royal-opera-house-in-london-with-12-years-a-slave-winn.md) _Context: 12 Years a Slave_
+4. [''Gravity'' and ''American Hustle'' lead the nominations for the 86th Academy Awards. ](/news/2014/01/16/gravity-and-american-hustle-lead-the-nominations-for-the-86th-academy-awards.md) _Context: 86th Academy Awards_
+5. [The Golden Globe Awards are held in Beverly Hills, California, with ''12 Years a Slave'' winning the Golden Globe Award for Best Motion Picture - Drama and ''American Hustle'' winning the Golden Globe Award for Best Motion Picture - Musical or Comedy. ](/news/2014/01/12/the-golden-globe-awards-are-held-in-beverly-hills-california-with-12-years-a-slave-winning-the-golden-globe-award-for-best-motion-pict.md) _Context: 12 Years a Slave_
+6. [The Academy of Motion Picture Arts and Sciences changes the rules regarding the Academy Award for Best Picture at the 84th Academy Awards, allowing anywhere from five to ten nominees, provided that each receives a minimum of 5% of the nominating votes. ](/news/2011/06/15/the-academy-of-motion-picture-arts-and-sciences-changes-the-rules-regarding-the-academy-award-for-best-picture-at-the-84th-academy-awards-a.md) _Context: Academy Award for Best Picture_
+7. [Nominations for the 82nd Academy Awards are announced. ''Avatar'' and ''The Hurt Locker'' lead the way with nine nominations each, and are both among ten nominees for Best Picture, the first time more than five films have been up for consideration since 1943. ](/news/2010/02/2/nominations-for-the-82nd-academy-awards-are-announced-avatar-and-the-hurt-locker-lead-the-way-with-nine-nominations-each-and-are-b.md) _Context: Academy Award for Best Picture_
+8. [ ''Slumdog Millionaire'' wins eight Academy Awards, including Best Picture and Director for Danny Boyle. Sean Penn wins Best Actor for ''Milk'' and Kate Winslet wins Best Actress for ''The Reader''. ](/news/2009/02/22/slumdog-millionaire-wins-eight-academy-awards-including-best-picture-and-director-for-danny-boyle-sean-penn-wins-best-actor-for-mil.md) _Context: Academy Award for Best Picture_
+9. [ 79th Academy Awards: ''The Departed'' wins four Academy Awards including Best Picture and Best Director for Martin Scorsese. Helen Mirren wins the Academy Award for Best Actress for her role as Elizabeth II of the United Kingdom in ''The Queen''. Forest Whitaker won the Academy Award for Best Actor for playing Idi Amin in ''The Last King of Scotland''. Alan Arkin won the Academy Award for Best Supporting Actor for his role in ''Little Miss Sunshine'' with Jennifer Hudson winning the Academy Award for Best Supporting Actress for her role in ''Dreamgirls''. ](/news/2007/02/25/79th-academy-awards-the-departed-wins-four-academy-awards-including-best-picture-and-best-director-for-martin-scorsese-helen-mirren-w.md) _Context: Academy Award for Best Picture_
+10. [ 78th Academy Awards: ''Crash'' wins Best Picture, Ang Lee (''Brokeback Mountain'') wins Best Director, Reese Witherspoon (''Walk the Line'') wins Best Actress, and Philip Seymour Hoffman (''Capote'') wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line.md) _Context: Academy Award for Best Picture_

@@ -1,0 +1,19 @@
+### [2002-09-5](/news/2002/09/5/index.md)
+
+#  An assassination attempt was made on President Hamid Karzai of Afghanistan in Kandahar.  A gunman wearing the uniform of the new Afghan Army opened fire, wounding the Governor of Kandahar and an American Special Operations officer.  The gunman and one of the President's bodyguards were killed.
+
+
+
+
+### Related:
+
+1. [Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in-kandahar-afghanistan.md) _Context: Afghan, Kandahar_
+2. [Three Taliban insurgents are killed by a team of Afghan police and private commandos after attacking a former National Directorate of Security headquarters in Kandahar, Afghanistan. The Taliban claims they killed four commandos and five policemen, which police deny. ](/news/2014/03/12/three-taliban-insurgents-are-killed-by-a-team-of-afghan-police-and-private-commandos-after-attacking-a-former-national-directorate-of-securi.md) _Context: Afghan, Kandahar_
+3. [War in Afghanistan (2001-present):A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/war-in-afghanistan-2001apresent-pa-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md) _Context: Afghan, Kandahar_
+4. [Attorney general Mohammad Ishaq Aloko is fired by Afghan President Hamid Karzai, over an unsanctioned meeting with Taliban peace negotiators in the United Arab Emirates. ](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.md) _Context: Afghan, Hamid Karzai_
+5. [Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separate-incidents.md) _Context: Afghan, Kandahar_
+6. [War in Afghanistan (2001-present):Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001apresent-pafghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato.md) _Context: Afghan, Hamid Karzai_
+7. [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md) _Context: Afghan, Hamid Karzai_
+8. [A United States helicopter crashes near Kandahar in southern Afghanistan, killing one coalition service member and injuring another. ](/news/2013/03/16/a-united-states-helicopter-crashes-near-kandahar-in-southern-afghanistan-killing-one-coalition-service-member-and-injuring-another.md) _Context: Afghan, Kandahar_
+9. [War in Afghanistan:President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/war-in-afghanistan-ppresident-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-t.md) _Context: Afghan, Hamid Karzai_
+10. [President Karzai dismisses Mohammad Gulab Mangal and others in a reshuffle of the government in Afghanistan. ](/news/2012/09/20/president-karzai-dismisses-mohammad-gulab-mangal-and-others-in-a-reshuffle-of-the-government-in-afghanistan.md) _Context: Afghan, Hamid Karzai_

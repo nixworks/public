@@ -1,0 +1,23 @@
+### [2016-05-30](/news/2016/05/30/index.md)
+
+#   At least 11 Afghan policemen are killed in a suspected Taliban attack on security checkpoints in Helmand province. 
+
+
+
+
+### Source:
+
+1. [The Statesman](http://www.thestatesman.com/news/world/11-policemen-killed-in-afghan-checkpoints-attack/145461.html)
+
+### Related:
+
+1. [Twelve Afghan National Police officers are killed in a  Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md) _Context: Afghan security forces, Helmand Province, Taliban, War in Afghanistan_
+2. [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md) _Context: Helmand Province, Taliban, War in Afghanistan_
+3. [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md) _Context: Afghan security forces, Taliban, War in Afghanistan_
+4. [According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowzjan-province-in-an-ambush-by-militant.md) _Context: Afghan security forces, Taliban, War in Afghanistan_
+5. [Five people are killed in a Taliban attack on Afghan Member of Parliament Mir Wali's home in Helmand Province. At least three security guards and two civilians were killed in the assault; Wali and others  were injured. The gunmen are holding a number of occupants hostage. ](/news/2016/12/21/five-people-are-killed-in-a-taliban-attack-on-afghan-member-of-parliament-mir-wali-s-home-in-helmand-province-at-least-three-security-guard.md) _Context: Helmand Province, Taliban, War in Afghanistan_
+6. [A suicide bombing kills at least 14 people, mostly police officers, in Lashkargah, Helmand Province, as Taliban insurgents advance upon the Afghan city. ](/news/2016/10/10/a-suicide-bombing-kills-at-least-14-people-mostly-police-officers-in-lashkargah-helmand-province-as-taliban-insurgents-advance-upon-the.md) _Context: Helmand Province, Taliban, War in Afghanistan_
+7. [At least two people are killed and 12 injured after a suicide bomb attack on a police training center in Helmand Province. ](/news/2016/05/14/at-least-two-people-are-killed-and-12-injured-after-a-suicide-bomb-attack-on-a-police-training-center-in-helmand-province.md) _Context: Afghan security forces, Helmand Province, War in Afghanistan_
+8. [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md) _Context: Afghan security forces, Taliban, War in Afghanistan_
+9. [According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. ](/news/2016/04/16/according-to-a-police-chief-at-least-40-taliban-fighters-are-killed-after-launching-an-offensive-against-afghan-security-forces-to-seize-th.md) _Context: Afghan security forces, Taliban, War in Afghanistan_
+10. [A battle rages in the Kunduz Province of Afghanistan as the Taliban launches its spring offensive to capture the city of Kunduz. According to a Taliban spokesperson, several outposts already fell to them but this could not be verified immediately while a police chief says that the security forces were keeping "the situation under control". ](/news/2016/04/15/a-battle-rages-in-the-kunduz-province-of-afghanistan-as-the-taliban-launches-its-spring-offensive-to-capture-the-city-of-kunduz-according-t.md) _Context: Afghan security forces, Taliban, War in Afghanistan_

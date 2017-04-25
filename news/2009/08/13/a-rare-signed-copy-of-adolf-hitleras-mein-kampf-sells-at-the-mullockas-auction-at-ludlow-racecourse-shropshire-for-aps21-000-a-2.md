@@ -1,0 +1,28 @@
+### [2009-08-13](/news/2009/08/13/index.md)
+
+#  A rare signed copy of Adolf Hitler's ''Mein Kampf'' sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for PS21,000 (EUR24,400). 
+
+The collector who sold a rare signed copy of Hitler&rsquo;s Mein Kampf at auction in England yesterday for &pound;21,000 (&euro;24,400) is from&hellip;
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/world/2009/aug/13/adolf-hitler-mein-kampf-auction)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/shropshire/8200691.stm)
+3. [The New York Times](http://www.nytimes.com/2009/08/14/world/europe/14briefs-britainauction.html)
+4. [Evening Herald](http://www.herald.ie/world-news/signed-mein-kampf-sells-for-euro24400-1859956.html)
+5. [Toronto Star](http://www.thestar.com/news/world/article/681118)
+6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0814/breaking41.htm)
+
+### Related:
+
+1. [The Institute of Contemporary History in Munich announces a publication of a two-volume set of Adolf Hitler's ''Mein Kampf''. The new edition, which contains 3,500 scholarly annotations, is intended, ''The New York Times'' reports, "To set the work in historical context, to show how Hitler wove truth with half-truth and outright lie, and thus to defang any propagandistic effect while revealing Nazism."  This is the first printing in Germany since the end of World War II. ](/news/2015/12/2/the-institute-of-contemporary-history-in-munich-announces-a-publication-of-a-two-volume-set-of-adolf-hitleras-mein-kampf-the-new-edit.md) _Context: Adolf Hitler, Mein Kampf_
+2. [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP {{Nowrap|PS53 million}} (USD {{Nowrap|$92.6 million}}, {{Nowrap|EUR77.8 million}}). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp.md) _Context: euro, £_
+3. [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md) _Context: euro_
+4. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: euro_
+5. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: euro_
+6. [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing PS245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-aps245.md) _Context: £_
+7. [European Union-The Gambia relationsThe European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/european-unionathe-gambia-relationspthe-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-th.md) _Context: euro_
+8. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: euro_
+9. [Consultancy PwC says that global banks with business both in London and on the European continent must plan for a hard Brexit that entails a break with many of the benefits of the Euro system, and a short transition period. ](/news/2017/01/31/consultancy-pwc-says-that-global-banks-with-business-both-in-london-and-on-the-european-continent-must-plan-for-a-hard-brexit-that-entails-a.md) _Context: euro_
+10. [UK Prime Minister Theresa May and Turkish President Recep Tayyip Erdogan sign a PS100 million defense deal to build new fighter jets. Under the deal, BAE Systems will collaborate with Turkish companies to build the TAI TFX. ](/news/2017/01/28/uk-prime-minister-theresa-may-and-turkish-president-recep-tayyip-erdoaan-sign-a-aps100-million-defense-deal-to-build-new-fighter-jets-under.md) _Context: £_

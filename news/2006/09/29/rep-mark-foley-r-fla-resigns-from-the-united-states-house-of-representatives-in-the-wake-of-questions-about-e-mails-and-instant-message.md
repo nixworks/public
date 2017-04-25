@@ -1,0 +1,24 @@
+### [2006-09-29](/news/2006/09/29/index.md)
+
+#  Rep. Mark Foley, R-Fla., resigns from the United States House of Representatives in the wake of questions about e-mails and instant messages he wrote to a former Capitol page. 
+
+
+
+
+### Source:
+
+1. [AP via Sun Sentinel](http://www.sun-sentinel.com/news/local/palmbeach/sfl-929foley,0,7432259.story?coll=sfla-news-palm)
+2. [The New York Times](http://www.nytimes.com/aponline/washington/29wire-foley.html?ref=washington)
+
+### Related:
+
+1. [ Former U.S. Rep. Mark Foley, under FBI investigation for e-mail exchanges with teenage congressional pages, has checked himself into rehabilitation facility for alcoholism treatment.](/news/2006/10/2/former-u-s-rep-mark-foley-under-fbi-investigation-for-e-mail-exchanges-with-teenage-congressional-pages-has-checked-himself-into-rehabi.md) _Context: Mark Foley, U.S. House, e-mail_
+2. [ Speaker of the United States House of Representatives Dennis Hastert sits down with ethics investigators trying to determine when he and his staff learned about ex-Rep. Mark Foley's come-ons to former male pages and what they did to stop it. ](/news/2006/10/24/speaker-of-the-united-states-house-of-representatives-dennis-hastert-sits-down-with-ethics-investigators-trying-to-determine-when-he-and-hi.md) _Context: Mark Foley, U.S. House_
+3. [ The United States House of Representatives reject a Republican resolution offered by Duncan Hunter (R-California) "expressing the sense of the House of Representatives that the deployment of United States forces in Iraq be terminated immediately" by a vote of 403-3. Ohio Republican Jean Schmidt is forced by Democratic (and quiet Republican) protests to apologise to Pennsylvania Democrat John Murtha for quoting a Marine who said those wishing to "cut and run" from Iraq are called "cowards" The Marine she claimed to be quoting told he never said any such thing. ](/news/2005/11/18/the-united-states-house-of-representatives-reject-a-republican-resolution-offered-by-duncan-hunter-r-california-expressing-the-sense-of.md) _Context: Republican, U.S. House_
+4. [A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. ](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-arrested-at-school-and-spends-the-night-in-a-juvenile-facility-unknown-to-the-family-the-b.md) _Context: Florida_
+5. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: U.S. House_
+6. [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md) _Context: U.S. House_
+7. [U.S. Representative Matt Gaetz proposes a bill to eliminate the United States Environmental Protection Agency. ](/news/2017/02/6/u-s-representative-matt-gaetz-proposes-a-bill-to-eliminate-the-united-states-environmental-protection-agency.md) _Context: U.S. House_
+8. [A Sabal Trail Transmission Pipeline protester who was seen firing a high powered rifle at the pipeline construction site in Florida was chased by police until his car crashed. The suspect was shot and killed by a deputy after he tried to engage police in a gunfight ](/news/2017/02/26/a-sabal-trail-transmission-pipeline-protester-who-was-seen-firing-a-high-powered-rifle-at-the-pipeline-construction-site-in-florida-was-chas.md) _Context: Florida_
+9. [A leaked memo from House Republicans reveals cutting provisions from Obamacare such as Medicaid expansions and subsidies for health insurance. ](/news/2017/02/25/a-leaked-memo-from-house-republicans-reveals-cutting-provisions-from-obamacare-such-as-medicaid-expansions-and-subsidies-for-health-insuranc.md) _Context: U.S. House_
+10. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: Florida_

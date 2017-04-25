@@ -1,0 +1,23 @@
+### [2016-10-15](/news/2016/10/15/index.md)
+
+# The Obama administration agrees to an international limit on the use of hydrofluorocarbon gases in refrigeration and air conditioning. 
+
+Countries meeting in Rwanda have agreed a &quot;monumental&quot; deal to phase out gases used in fridges that are worsening global warming.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/science-environment-37665529)
+
+### Related:
+
+1. [The Trump administration revokes Obama-era orders on protection of gender identity under Title IX. ](/news/2017/02/22/the-trump-administration-revokes-obama-era-orders-on-protection-of-gender-identity-under-title-ix.md) _Context: Obama-era_
+2. [Citing unnamed U.S. officials, ''The Washington Post'' reports that U.S. President Donald Trump berated Australian Prime Minister Malcolm Turnbull. Trump claimed it was "the worst call by far" and criticized a refugee settlement deal organised between the Turnbull Government and the Obama administration in late 2016. ](/news/2017/02/2/citing-unnamed-u-s-officials-the-washington-post-reports-that-u-s-president-donald-trump-berated-australian-prime-minister-malcolm-tu.md) _Context: Obama-era_
+3. [The Obama administration's Treasury Department, in a move against corporate tax inversions, enacts regulations to combat a key tax-reduction technique known as earnings stripping. ](/news/2016/10/13/the-obama-administration-s-treasury-department-in-a-move-against-corporate-tax-inversions-enacts-regulations-to-combat-a-key-tax-reduction.md) _Context: Obama-era_
+4. [The Obama administration announces it is cancelling plans to permit drilling for oil and gas off the southeastern U.S. Atlantic coast. A new plan involves 10 potential lease sales in the Gulf of Mexico and three off the coast of Alaska. ](/news/2016/03/15/the-obama-administration-announces-it-is-cancelling-plans-to-permit-drilling-for-oil-and-gas-off-the-southeastern-u-s-atlantic-coast-a-new.md) _Context: Obama-era_
+5. [United States Homeland Security Secretary Jeh Johnson says the Obama administration will announce a new terror alert system "in the coming days," that will better inform the public about threats to the United States. This will be the third terror alert system put in place since the September 11, 2001, terrorist attacks. ](/news/2015/12/7/united-states-homeland-security-secretary-jeh-johnson-says-the-obama-administration-will-announce-a-new-terror-alert-system-in-the-coming-d.md) _Context: Obama-era_
+6. [The Obama Administration and the International Rescue Committee ask a federal judge to reject attempts by Texas to block Syrian refugees from resettling in the state. Later, the Texas Attorney General withdraws the state's December 2, 2015 request for a temporary restraining order. ](/news/2015/12/4/the-obama-administration-and-the-international-rescue-committee-ask-a-federal-judge-to-reject-attempts-by-texas-to-block-syrian-refugees-fro.md) _Context: Obama-era_
+7. [''Reuters'' reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-lebanon-to-speed-up-the-p.md) _Context: Obama-era_
+8. [The United States State Department formally denies Calgary-based TransCanada Corporation's request, made Monday, to pause the review of the proposed Keystone XL oil pipeline. ''Reuters'' states this is expected to lead to the project's rejection by the Obama administration. ](/news/2015/11/4/the-united-states-state-department-formally-denies-calgary-based-transcanada-corporation-s-request-made-monday-to-pause-the-review-of-the.md) _Context: Obama-era_
+9. [Wikileaks releases U.S. Central Intelligence Agency director John O. Brennan's personal information after the top spy's personal email account was allegedly hacked by a 13-year-old and information sent to Wikileaks. All of the documents predate Brennan's time in the Obama administration and reveal no classified data. Among the information released are Social Security numbers,  an incomplete questionnaire for security clearance, and addresses of his family and associates. ](/news/2015/10/21/wikileaks-releases-u-s-central-intelligence-agency-director-john-o-brennan-s-personal-information-after-the-top-spy-s-personal-email-accou.md) _Context: Obama-era_
+10. [The Russian gas company Gazprom suspends shipments of gas to Ukraine following a payment dispute. ](/news/2015/07/1/the-russian-gas-company-gazprom-suspends-shipments-of-gas-to-ukraine-following-a-payment-dispute.md) _Context: gas_

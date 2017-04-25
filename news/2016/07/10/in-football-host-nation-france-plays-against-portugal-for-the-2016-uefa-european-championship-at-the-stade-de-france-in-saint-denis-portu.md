@@ -1,0 +1,25 @@
+### [2016-07-10](/news/2016/07/10/index.md)
+
+# In football, host nation France plays against Portugal for the 2016 UEFA European Championship at the Stade de France in Saint-Denis.  Portugal wins 1-0 with an Eder goal in extra time. 
+
+Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League, the UEFA Europa League and the UEFA European Football Championship (UEFA EURO 2012, UEFA EURO 2016 etc). The website features live video streaming of many UEFA competitions together with an extensive video archive and mobile service. In addition, there is coverage of the 54 national association domestic leagues, the route to UEFA&#39;s club competitions.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/sport/football/36696772)
+2. [UEFA official](http://www.uefa.com/uefaeuro/season=2016/matches/round=2000451/match=2017907/index.html)
+3. [ABC News Australia](http://www.abc.net.au/news/2016-07-11/portugal-claims-euro-2016-glory-thanks-to-eder-extra-time-goal/7585076)
+
+### Related:
+
+1. [French footballers Franck Ribery and Karim Benzema are placed under formal judicial investigation for soliciting sex with an underage prostitute. ](/news/2010/07/20/french-footballers-franck-riba-c-ry-and-karim-benzema-are-placed-under-formal-judicial-investigation-for-soliciting-sex-with-an-underage-prost.md) _Context: France, association football_
+2. [Franck Ribery and other footballers from the French national football team are investigated by police in connection with an underage prostitution ring. ](/news/2010/04/19/franck-riba-c-ry-and-other-footballers-from-the-french-national-football-team-are-investigated-by-police-in-connection-with-an-underage-prosti.md) _Context: France, association football_
+3. [ The France national football team beat the Republic of Ireland at the Stade de France to qualify for the 2010 FIFA World Cup finals in South Africa, with Thierry Henry admitting after the game that he committed handball in the move leading to the decisive goal. ](/news/2009/11/18/the-france-national-football-team-beat-the-republic-of-ireland-at-the-stade-de-france-to-qualify-for-the-2010-fifa-world-cup-finals-in-sout.md) _Context: France, Stade de France_
+4. [In association football, Toronto FC play Seattle Sounders FC in the MLS Cup final held at Toronto's BMO Field. The Sounders win 5-4 in a penalty shootout after the game ended scoreless after extra time. It is the Sounders' first MLS title. ](/news/2016/12/10/in-association-football-toronto-fc-play-seattle-sounders-fc-in-the-mls-cup-final-held-at-toronto-s-bmo-field-the-sounders-win-5a4-in-a-p.md) _Context: association football_
+5. [At least 11 people are killed and 16 others are injured after a gunman opens fire on football fans watching an English Premier League game near Juba, South Sudan. ](/news/2016/11/6/at-least-11-people-are-killed-and-16-others-are-injured-after-a-gunman-opens-fire-on-football-fans-watching-an-english-premier-league-game-n.md) _Context: association football_
+6. [Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. ](/news/2016/11/25/four-police-forces-in-england-say-they-are-actively-investigating-allegations-of-child-sexual-abuse-in-association-football-several-ex-play.md) _Context: association football_
+7. [Manchester United complete the signing of Paul Pogba on five-year deal from Juventus for a world record transfer fee of PS89m (EUR105m), making Pogba the most expensive football player ever. ](/news/2016/08/8/manchester-united-complete-the-signing-of-paul-pogba-on-five-year-deal-from-juventus-for-a-world-record-transfer-fee-of-aps89m-a-105m-mak.md) _Context: association football_
+8. [Underdogs Iceland defeat England 2-1 at the Allianz Riviera in Nice to reach the quarter-finals of the UEFA European Championship. ](/news/2016/06/27/underdogs-iceland-defeat-england-2-1-at-the-allianz-riviera-in-nice-to-reach-the-quarter-finals-of-the-uefa-european-championship.md) _Context: 2016 UEFA European Championship_
+9. [In football, Chile wins the Copa America, defeating Argentina in a penalty shootout after regular time and extra time end scoreless. ](/news/2016/06/26/in-football-chile-wins-the-copa-ama-c-rica-defeating-argentina-in-a-penalty-shootout-after-regular-time-and-extra-time-end-scoreless.md) _Context: association football_
+10. [Northern Ireland achieves their first victory in a UEFA European Championship by defeating Ukraine 2-0; other results eliminate Ukraine. ](/news/2016/06/16/northern-ireland-achieves-their-first-victory-in-a-uefa-european-championship-by-defeating-ukraine-2a0-other-results-eliminate-ukraine.md) _Context: 2016 UEFA European Championship_

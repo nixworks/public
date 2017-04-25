@@ -1,0 +1,23 @@
+### [2016-02-22](/news/2016/02/22/index.md)
+
+# Jat protesters reach an agreement with the Indian government on increased  reservations similar to those authorized for economically disadvantaged lower castes.  Authorities say at least 19 people have been killed in the three-day demonstrations.  Protest leaders call for reopening  blockaded roads  in the northern state of Haryana. Water restrictions, implemented after protesters  damaged the water station's New Dehli feed, remain in effect while engineers repair the equipment. 
+
+Haryana Jat protest: The agitating members of the Jat community have been demanding their inclusion in the OBC category and thereby reservation in government jobs
+
+
+### Source:
+
+1. [The Indian Express](http://indianexpress.com/article/india/india-news-india/jat-reservation-agitation-haryana-live-updates-rohtak/)
+
+### Related:
+
+1. [According to Indian Police, at least one person is killed and up to 20 people  injured   during, what became violent, protests by the Jat agricultural community in Rohtak, India, for a 10 percent increase in the number of their caste quota (affirmative action). ](/news/2016/02/19/according-to-indian-police-at-least-one-person-is-killed-and-up-to-20-people-injured-during-what-became-violent-protests-by-the-jat-ag.md) _Context: Jat, reservations_
+2. [The Government of India revokes the Public Health Foundation of India's registration, allegedly for  foreign-funded lobbying practices. ](/news/2017/04/20/the-government-of-india-revokes-the-public-health-foundation-of-india-s-registration-allegedly-for-foreign-funded-lobbying-practices.md) _Context: Government of India_
+3. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India  for 24 hours alleging the channel's   coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chan.md) _Context: Government of India_
+4. [Water supply is restored to the Indian city of Delhi as repairs are made to the vital Munak canal after the Jat reservation agitation is resolved. ](/news/2016/02/23/water-supply-is-restored-to-the-indian-city-of-delhi-as-repairs-are-made-to-the-vital-munak-canal-after-the-jat-reservation-agitation-is-res.md) _Context: Jat reservation agitation_
+5. [Jat protesters shut down 70% of Delhi's water supply meaning the Indian city could run out of water by the end of the weekend. At least nine people are killed in fighting. ](/news/2016/02/20/jat-protesters-shut-down-70-of-delhi-s-water-supply-meaning-the-indian-city-could-run-out-of-water-by-the-end-of-the-weekend-at-least-nine.md) _Context: Jat_
+6. [The Government of India deploys the Army to the state of Gujarat after two days of caste-related violence results in seven deaths. ](/news/2015/08/27/the-government-of-india-deploys-the-army-to-the-state-of-gujarat-after-two-days-of-caste-related-violence-results-in-seven-deaths.md) _Context: Government of India_
+7. [The Government of India approves the construction of seven stealth frigates and six nuclear submarines for the Indian Navy. ](/news/2015/02/18/the-government-of-india-approves-the-construction-of-seven-stealth-frigates-and-six-nuclear-submarines-for-the-indian-navy.md) _Context: Government of India_
+8. [The International Olympic Committee suspends India's national Olympic committee because of government interference in its election process. India's athletes will be barred from competing in Olympic events under their national flag, although the IOC could allow them to do so under the Olympic flag. ](/news/2012/12/4/the-international-olympic-committee-suspends-india-s-national-olympic-committee-because-of-government-interference-in-its-election-process.md) _Context: Government of India_
+9. [Computer security firm McAfee uncovers one of the largest series of cyber attacks against the International Olympic Committee, Indian government, the United Nations, the steel industry and defence and security firms. ](/news/2011/08/3/computer-security-firm-mcafee-uncovers-one-of-the-largest-series-of-cyber-attacks-against-the-international-olympic-committee-indian-govern.md) _Context: Government of India_
+10. [The Supreme Court of India calls on the Indian government to explain why police were sent in to disperse a peaceful anti-corruption demonstration. ](/news/2011/06/6/the-supreme-court-of-india-calls-on-the-indian-government-to-explain-why-police-were-sent-in-to-disperse-a-peaceful-anti-corruption-demonstr.md) _Context: Government of India_

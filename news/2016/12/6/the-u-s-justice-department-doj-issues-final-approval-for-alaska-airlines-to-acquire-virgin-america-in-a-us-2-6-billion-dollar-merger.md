@@ -1,0 +1,23 @@
+### [2016-12-6](/news/2016/12/6/index.md)
+
+#   The U.S. Justice Department (DOJ) issues final approval for Alaska Airlines to acquire Virgin America, in a US$2.6 billion dollar merger. In exchange for approval, the DOJ requires Alaska Airlines to reduce its partnership with American Airlines. 
+
+Antitrust enforcers at the Justice Department granted approval for the $2.6 billion merger of Alaska Air Group and Virgin America.
+
+
+### Source:
+
+1. [The Wall Street Journal](http://www.wsj.com/articles/justice-department-close-to-approving-alaska-air-virgin-america-deal-1481031602)
+
+### Related:
+
+1. [The United States tentatively approves eight, of 12 that applied, airlines for flights from 10 U.S. cities to Havana as early as this fall: Alaska Airlines, American Airlines, Delta Air Lines, Frontier Airlines, JetBlue Airways, Southwest Airlines, Spirit Airlines, and United Airlines. Last month, flights were approved from five U.S. cities to nine other international airports. ](/news/2016/07/7/the-united-states-tentatively-approves-eight-of-12-that-applied-airlines-for-flights-from-10-u-s-cities-to-havana-as-early-as-this-fall.md) _Context: Alaska Airlines, American Airlines_
+2. [Alaska Airlines announces plans to acquire Virgin America for $4 billion. ](/news/2016/04/4/alaska-airlines-announces-plans-to-acquire-virgin-america-for-4-billion.md) _Context: Alaska Airlines, Virgin America_
+3. [The United States Department of Justice and six states file an antitrust lawsuit to block the proposed merger of American Airlines and US Airways. ](/news/2013/08/13/the-united-states-department-of-justice-and-six-states-file-an-antitrust-lawsuit-to-block-the-proposed-merger-of-american-airlines-and-us-ai.md) _Context: American Airlines, U.S. Justice Department_
+4. [American Airlines announces it is investigating a viral video of an incident on a San Francisco to Dallas flight which shows a male flight attendant upsetting a female passenger, who he had allegedly forcefully taken a baby buggy from, and threatening to fight a male passenger. The American Airlines employee has been suspended. ](/news/2017/04/22/american-airlines-announces-it-is-investigating-a-viral-video-of-an-incident-on-a-san-francisco-to-dallas-flight-which-shows-a-male-flight-a.md) _Context: American Airlines_
+5. [U.S. immigration suspension, ''State of Washington v. Trump''Trump's travel ban remains suspended as the U.S. Court of Appeals for the Ninth Circuit denies the Justice Department's request to stay the ruling which blocks major portions of the executive order. ](/news/2017/02/5/u-s-immigration-suspension-state-of-washington-v-trump-ptrump-s-travel-ban-remains-suspended-as-the-u-s-court-of-appeals-for-the-nint.md) _Context: U.S. Justice Department_
+6. [The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-popeyes-chicken-restaurant-chain-in.md) _Context: US$_
+7. [The U.S. Justice Department tells the Ninth Circuit Court of Appeals that it won't be seeking further action by the court since this executive order will soon be replaced by a different one.  Justice added they expect the Ninth Circuit ruling will be vacated once the new executive order is issued. ](/news/2017/02/16/the-u-s-justice-department-tells-the-ninth-circuit-court-of-appeals-that-it-won-t-be-seeking-further-action-by-the-court-since-this-executi.md) _Context: U.S. Justice Department_
+8. [  Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. ](/news/2016/12/6/airlines-serving-the-regional-hub-cancel-87-flights-into-and-out-of-sea-tac-airport-due-to-ice-on-airport-runways-among-the-affected-air.md) _Context: Alaska Airlines_
+9. [Alaska Airlines cancels 20 flights into and out of Seattle due to inclement weather forecast in the Pacific Northwest area. ](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.md) _Context: Alaska Airlines_
+10. [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md) _Context: U.S. Justice Department_

@@ -1,0 +1,22 @@
+### [2016-02-17](/news/2016/02/17/index.md)
+
+# Canadian multinational aerospace and transportation company Bombardier Inc. is to cut 7,000 jobs worldwide over the next two years, including over a thousand jobs in the United Kingdom. 
+
+Decision will affect 1,350 UK workers as company blames job losses on economic conditions
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/business/2016/feb/17/bombardier-7000-job-losses-worldwide)
+
+### Related:
+
+1. [Dutch aerospace company Fokker Technologies is acquired by the British multinational GKN. ](/news/2015/07/28/dutch-aerospace-company-fokker-technologies-is-acquired-by-the-british-multinational-gkn.md) _Context: aerospace, multinational_
+2. [Goldman Sachs, the American multinational investment banking firm, launches an FDIC-insured, Internet-based savings bank.  The Wall Street institution, whose investment banking account minimums are in the millions, sets a minimum deposit of $1 dollar for GSBank.com. ](/news/2016/04/25/goldman-sachs-the-american-multinational-investment-banking-firm-launches-an-fdic-insured-internet-based-savings-bank-the-wall-street-i.md) _Context: multinational_
+3. [Tata Steel is to cut 1,050 jobs in the United Kingdom, with the majority going in South Wales. The Indian multinational steel-making company announced there will be 750 job losses at its Port Talbot Steelworks in Port Talbot, Wales while another 300 jobs will go at its plants in Corby and Hartlepool in England. ](/news/2016/01/18/tata-steel-is-to-cut-1-050-jobs-in-the-united-kingdom-with-the-majority-going-in-south-wales-the-indian-multinational-steel-making-company.md) _Context: multinational_
+4. [American, British-based telecommunications and television company Liberty Global announces a PS3.5bn (US$5.3bn) deal to buy British multinational telecommunications company Cable and Wireless Communications (CWC). ](/news/2015/11/16/american-british-based-telecommunications-and-television-company-liberty-global-announces-a-aps3-5bn-us-5-3bn-deal-to-buy-british-multinat.md) _Context: multinational_
+5. [Vodafone Group Plc announces criminals accessed customer account details, including phone numbers and some bank details. The British multinational telecommunications company of over 400 million subscribers says it is contacting about 1,800 affected customers. This is the second recent hacking of a U.K. phone carrier. Last week, TalkTalk Telecom Group Plc said its systems had been attacked. ](/news/2015/10/31/vodafone-group-plc-announces-criminals-accessed-customer-account-details-including-phone-numbers-and-some-bank-details-the-british-multina.md) _Context: multinational_
+6. [A customer of American multinational retail corporation Wal-Mart is bitten by a rattlesnake on the premises of the Clarkston, Washington store. ](/news/2012/05/15/a-customer-of-american-multinational-retail-corporation-wal-mart-is-bitten-by-a-rattlesnake-on-the-premises-of-the-clarkston-washington-sto.md) _Context: multinational_
+7. [Multinational public transport company Arriva wins a major public bus and rail transport contract in Stockholm, Sweden. ](/news/2011/11/22/multinational-public-transport-company-arriva-wins-a-major-public-bus-and-rail-transport-contract-in-stockholm-sweden.md) _Context: multinational_
+8. [ Global consulting firm Accenture and multinational corporation Procter & Gamble end their endorsement deals with golfer Tiger Woods following a marital infidelity controversy. ](/news/2009/12/13/global-consulting-firm-accenture-and-multinational-corporation-procter-gamble-end-their-endorsement-deals-with-golfer-tiger-woods-followi.md) _Context: multinational_
+9. [ Kansas City Southern Railway names Francisco Javier Rin as the new CEO, succeeding interim CEO Vicente Corta Fernandez, for its subsidiary Grupo Transportacin Ferroviaria Mexicana. Before joining TFM, Rin was president of Bombardier's Rail Control Solutions Division in London, England, from 2001 to 2005, president and managing director of Bombardier's Mexican division from 1995 to 2001, and general director of Dina Autobuses/Consorcin-Grupo Dina from 1991 to 1995. ](/news/2005/07/5/kansas-city-southern-railway-names-francisco-javier-rion-as-the-new-ceo-succeeding-interim-ceo-vicente-corta-fernandez-for-its-subsidiary.md) _Context: Bombardier Inc._

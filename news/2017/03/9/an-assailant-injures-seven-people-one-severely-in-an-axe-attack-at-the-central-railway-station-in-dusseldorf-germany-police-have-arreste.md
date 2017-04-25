@@ -1,0 +1,17 @@
+### [2017-03-9](/news/2017/03/9/index.md)
+
+# An assailant injures seven people, one severely, in an axe attack at the central railway station in Dsseldorf, Germany. Police have arrested one suspect. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2017/03/09/europe/dusseldorf-train-station-attack/index.html)
+
+### Related:
+
+1. [Tyson Fury of the United Kingdom defeats Ukrainian boxer Wladimir Klitschko in a title fight in Dusseldorf winning the WBA Super, IBF and WBO heavyweight titles. ](/news/2015/11/28/tyson-fury-of-the-united-kingdom-defeats-ukrainian-boxer-wladimir-klitschko-in-a-title-fight-in-dusseldorf-winning-the-wba-super-ibf-and-wb.md) _Context: Düsseldorf_
+2. [Italy poises itself to return to the Eurovision Song Contest after 13 years. Eurovision Song Contest 2011 is scheduled for May in Dsseldorf. ](/news/2010/12/3/italy-poises-itself-to-return-to-the-eurovision-song-contest-after-13-years-eurovision-song-contest-2011-is-scheduled-for-may-in-dusseldorf.md) _Context: Düsseldorf_
+3. [ Several people are killed after a bus comes off a road and slides down an embankment into a river east of Dsseldorf, Germany. ](/news/2009/09/22/several-people-are-killed-after-a-bus-comes-off-a-road-and-slides-down-an-embankment-into-a-river-east-of-dusseldorf-germany.md) _Context: Düsseldorf_
+4. [ The "Al-Tawhid trial" in Dsseldorf, Germany results in sentences between five and eight years against the defendants, four Palestinian men charged with plotting attacks on Jewish installations in Germany on the orders of Abu Musab al-Zarqawi.](/news/2005/10/26/the-al-tawhid-trial-in-dusseldorf-germany-results-in-sentences-between-five-and-eight-years-against-the-defendants-four-palestinian-men.md) _Context: Düsseldorf_

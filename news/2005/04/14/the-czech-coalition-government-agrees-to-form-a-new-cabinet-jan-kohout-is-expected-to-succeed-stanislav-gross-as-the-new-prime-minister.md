@@ -1,0 +1,27 @@
+### [2005-04-14](/news/2005/04/14/index.md)
+
+#  The Czech coalition government agrees to form a new cabinet. Jan Kohout is expected to succeed Stanislav Gross as the new prime minister.  
+
+
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a6.qpWR7XwL8&refer=europe)
+2. [CNN](http://edition.cnn.com/2005/WORLD/europe/04/13/czech.politics.reut/)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aH1PLVExi3Hc&refer=europe)
+4. [Prague Post](http://www.praguepost.com/P03/2005/Art/0407/news1.php)
+5. [BBC](http://news.bbc.co.uk/2/hi/europe/4442987.stm)
+
+### Related:
+
+1. [The Czech Foreign Minister Jan Kohout uses strong words to condemn the discovery of illegal weapons at the Palestinian embassy complex where a possible booby-trapped safe killed the ambassador Jamal al-Jamal on January 1, saying it is "a serious violation of the Vienna Convention on Diplomatic Relations." ](/news/2014/01/6/the-czech-foreign-minister-jan-kohout-uses-strong-words-to-condemn-the-discovery-of-illegal-weapons-at-the-palestinian-embassy-complex-where.md) _Context: Czech, Jan Kohout_
+2. [ Czech prime minister Stanislav Gross resigns. Jiri Paroubek is expected to succeed him. ](/news/2005/04/25/czech-prime-minister-stanislav-gross-resigns-jiaa-paroubek-is-expected-to-succeed-him.md) _Context: Czech, Stanislav Gross_
+3. [ Czech Republic government is in crisis after the coalition partner of the ruling Civic Democrats party. Christian Democrats, calls for its three ministers to leave. That would lead into a minority government. Prime minister Stanislav Gross also faces a no confidence vote in Friday over his personal finances ](/news/2005/03/30/czech-republic-government-is-in-crisis-after-the-coalition-partner-of-the-ruling-civic-democrats-party-christian-democrats-calls-for-its.md) _Context: Czech, Stanislav Gross_
+4. [Czech police announce the arrest of a man at a Prague hotel two weeks ago who they claim is a Russian hacker suspected of targeting the U.S. ](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-prague-hotel-two-weeks-ago-who-they-claim-is-a-russian-hacker-suspected-of-targeting-the-u-s.md) _Context: Czech_
+5. [ Six people are hurt as an unknown assailant fires shots at a Czech tourist bus on the A7 autoroute near Saulce-sur-Rhone in southeastern France. ](/news/2016/06/5/six-people-are-hurt-as-an-unknown-assailant-fires-shots-at-a-czech-tourist-bus-on-the-a7-autoroute-near-saulce-sur-rha-ne-in-southeastern-f.md) _Context: Czech_
+6. [Czech Minister of the Interior Milan Chovanec says that authorities in Prague will send a group of 25 Iraqi Christians back to Iraq after they tried to move to Germany rather than staying in the Czech Republic. The refugees were on their way to Germany via bus before being stopped at the border. Czech authorities agreed to a request by the German police to take the people back. Chovanec said the 25 Iraqis abused Czech generosity and should go back to Iraq within seven days. ](/news/2016/04/3/czech-minister-of-the-interior-milan-chovanec-says-that-authorities-in-prague-will-send-a-group-of-25-iraqi-christians-back-to-iraq-after-th.md) _Context: Czech_
+7. [Slovakia's newly-formed coalition government gains a vote of confidence as the legislature approves its program manifesto, 79-61. The ruling Direction - Social Democracy party, which did not win an absolute majority in March, has joined with the three other parties--Slovak National Party, Most-Hid, and Network--to total 85 of the National Council's 150 seats. ](/news/2016/04/26/slovakia-s-newly-formed-coalition-government-gains-a-vote-of-confidence-as-the-legislature-approves-its-program-manifesto-79-61-the-ruling.md) _Context: coalition government_
+8. [Leaders of the Czech Republic choose "Czechia" as the one-word alternative name of their country to make it easier for companies, politicians and sportsmen to use on products, name tags and sporting jerseys. However, this change must still win cabinet approval before the foreign ministry can lodge the name with the United Nations for it to become the country's official short name. ](/news/2016/04/15/leaders-of-the-czech-republic-choose-aczechiaa-as-the-one-word-alternative-name-of-their-country-to-make-it-easier-for-companies-politi.md) _Context: Czech_
+9. [Voters in Slovakia choose representatives for  all 150 National Council seats. While anti-migrant Prime Minister Robert Fico's Smer party is expected to lose its parliamentary majority, it should be in position to lead a coalition government. ](/news/2016/03/5/voters-in-slovakia-choose-representatives-for-all-150-national-council-seats-while-anti-migrant-prime-minister-robert-fico-s-smer-party-is.md) _Context: coalition government_
+10. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement  that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Czech_

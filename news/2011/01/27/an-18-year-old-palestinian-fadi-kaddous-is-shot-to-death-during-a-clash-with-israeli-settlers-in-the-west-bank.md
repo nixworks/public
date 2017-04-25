@@ -1,0 +1,23 @@
+### [2011-01-27](/news/2011/01/27/index.md)
+
+# An 18-year-old Palestinian, Fadi Kaddous, is shot to death during a clash with Israeli settlers in the West Bank. 
+
+Incident comes only a day after police confirmed Palestinian reports saying that a Palestinian youth was shot to death by an unidentified Israeli citizen.
+
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/palestinian-killed-after-settlers-open-fire-in-west-bank-village-1.339749?localLinksEnabled=false)
+
+### Related:
+
+1. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Palestinian, West Bank_
+2. [Israeli security forces arrest 18 Palestinians on the West Bank for alleged terrorism related offences. ](/news/2016/04/11/israeli-security-forces-arrest-18-palestinians-on-the-west-bank-for-alleged-terrorism-related-offences.md) _Context: Palestinian, West Bank_
+3. [Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _Context: Palestinian, West Bank_
+4. [Palestinian rioters set fire to the building containing Joseph's Tomb in the West Bank city of Nablus causing heavy damage to the structure before the fire is put out. Palestinian Authority President Mahmoud Abbas condemns the attack. ](/news/2015/10/16/palestinian-rioters-set-fire-to-the-building-containing-joseph-s-tomb-in-the-west-bank-city-of-nablus-causing-heavy-damage-to-the-structure.md) _Context: Palestinian, West Bank_
+5. [Palestinian militants fire 3 rockets into Israel during the night after several violent riots throughout Israel and the West Bank. ](/news/2015/10/10/palestinian-militants-fire-3-rockets-into-israel-during-the-night-after-several-violent-riots-throughout-israel-and-the-west-bank.md) _Context: Palestinian, West Bank_
+6. [A Palestinian man from the West Bank, Hamza Muhammad Hassan Matrouk, illegally crosses into Israel for the express purpose to stab people attacking over a dozen Israelis on a bus in central Tel Aviv. Security forces capture the assailant as he continued to indiscriminately stab people in the street. ](/news/2015/01/21/a-palestinian-man-from-the-west-bank-hamza-muhammad-hassan-matrouk-illegally-crosses-into-israel-for-the-express-purpose-to-stab-people-at.md) _Context: Palestinian, West Bank_
+7. [Pro-Palestinian activists begin a week of protests on the West Bank. ](/news/2011/07/10/pro-palestinian-activists-begin-a-week-of-protests-on-the-west-bank.md) _Context: Palestinian, West Bank_
+8. [Israeli troops round up five men and kill a 67-year-old Palestinian man during an operation into the West Bank, aiming at arresting members of Hamas. ](/news/2011/01/7/israeli-troops-round-up-five-men-and-kill-a-67-year-old-palestinian-man-during-an-operation-into-the-west-bank-aiming-at-arresting-members.md) _Context: Palestinian, West Bank_
+9. [The Israeli military disciplines four officers involved in two clashes with West Bank protesters in which four Palestinian civilians were killed. ](/news/2010/04/27/the-israeli-military-disciplines-four-officers-involved-in-two-clashes-with-west-bank-protesters-in-which-four-palestinian-civilians-were-ki.md) _Context: Palestinian, West Bank_
+10. [ Israeli troops kill a Palestinian shopkeeper and seriously injure another in the West Bank town of Nablus. ](/news/2007/06/2/israeli-troops-kill-a-palestinian-shopkeeper-and-seriously-injure-another-in-the-west-bank-town-of-nablus.md) _Context: Palestinian, West Bank_

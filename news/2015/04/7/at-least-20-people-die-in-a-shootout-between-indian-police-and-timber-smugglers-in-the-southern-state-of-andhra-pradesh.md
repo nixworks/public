@@ -1,0 +1,23 @@
+### [2015-04-7](/news/2015/04/7/index.md)
+
+# At least 20 people die in a shootout between Indian police and timber smugglers in the southern state of Andhra Pradesh. 
+
+HYDERABAD, India (AFP) - At least 20 people died in a gun battle between the police and alleged timber smugglers in the southern Indian state of Andhra Pradesh on Tuesday, a local police chief said.. Read more at straitstimes.com.
+
+
+### Source:
+
+1. [AFP via ''Straits Times](http://www.straitstimes.com/news/asia/south-asia/story/india-police-say-20-dead-after-shootout-smugglers-20150407)
+
+### Related:
+
+1. [Indian police introduce a curfew in the city of Sangareddi in Andhra Pradesh due to an outbreak of communal violence. ](/news/2012/03/30/indian-police-introduce-a-curfew-in-the-city-of-sangareddi-in-andhra-pradesh-due-to-an-outbreak-of-communal-violence.md) _Context: Andhra Pradesh, Indian police_
+2. [The Hirakhand express 18448, a scheduled passenger train from Jagdalpur to Bhubaneswar, derails near Kuneru in the Indian state of Andhra Pradesh. At least 25 are killed and around 200 others are injured. ](/news/2017/01/21/the-hirakhand-express-18448-a-scheduled-passenger-train-from-jagdalpur-to-bhubaneswar-derails-near-kuneru-in-the-indian-state-of-andhra-pr.md) _Context: Andhra Pradesh_
+3. [Tropical Cyclone Vardah is expected to make landfall in southern India today bringing heavy rain to the city of Chennai in Tamil Nadu as well as Andhra Pradesh. At least four people have been killed and tens of thousands of people have been evacuated from low lying areas. ](/news/2016/12/12/tropical-cyclone-vardah-is-expected-to-make-landfall-in-southern-india-today-bringing-heavy-rain-to-the-city-of-chennai-in-tamil-nadu-as-wel.md) _Context: Andhra Pradesh_
+4. [Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.md) _Context: Indian police_
+5. [At least 15 people are killed in a wedding bus crash in Andhra Pradesh state in southern India. ](/news/2015/10/17/at-least-15-people-are-killed-in-a-wedding-bus-crash-in-andhra-pradesh-state-in-southern-india.md) _Context: Andhra Pradesh_
+6. [Indian police arrest Jammu and Kashmir separatist Shabir Shah ahead of a meeting with Pakistani National Security Adviser Sartaj Aziz. ](/news/2015/08/22/indian-police-arrest-jammu-and-kashmir-separatist-shabir-shah-ahead-of-a-meeting-with-pakistani-national-security-adviser-sartaj-aziz.md) _Context: Indian police_
+7. [At least 7 people are killed and many injured after gunmen attack an Indian police station in Punjab. ](/news/2015/07/27/at-least-7-people-are-killed-and-many-injured-after-gunmen-attack-an-indian-police-station-in-punjab.md) _Context: Indian police_
+8. [At least 27 people are killed in a stampede at the Godavari Maha Pushkaram Hindu festival in the Indian state of Andhra Pradesh. ](/news/2015/07/14/at-least-27-people-are-killed-in-a-stampede-at-the-godavari-maha-pushkaram-hindu-festival-in-the-indian-state-of-andhra-pradesh.md) _Context: Andhra Pradesh_
+9. [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _Context: Indian police_
+10. [At least 22 Hindu pilgrims died after a van they are travelling in falls into a reservoir in the southern Indian town of Dhavaleswaram in Andhra Pradesh. ](/news/2015/06/13/at-least-22-hindu-pilgrims-died-after-a-van-they-are-travelling-in-falls-into-a-reservoir-in-the-southern-indian-town-of-dhavaleswaram-in-an.md) _Context: Andhra Pradesh_

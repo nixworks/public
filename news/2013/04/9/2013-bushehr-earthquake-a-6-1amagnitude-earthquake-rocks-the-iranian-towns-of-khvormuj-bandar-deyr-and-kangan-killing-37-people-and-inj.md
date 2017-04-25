@@ -1,0 +1,25 @@
+### [2013-04-9](/news/2013/04/9/index.md)
+
+# 2013 Bushehr earthquake: A 6.1-magnitude earthquake rocks the Iranian towns of Khvormuj, Bandar Deyr and Kangan, killing 37 people and injuring over 850, and was felt as far as Bahrain. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/04/09/us-iran-quake-idUSBRE9380HA20130409)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22077834)
+3. [CNN](http://www.cnn.com/2013/04/09/world/meast/iran-earthquake)
+
+### Related:
+
+1. [2013 Sistan and Baluchestan earthquake:At least 37 people are dead after a 7.8 magnitude earthquake strikes with its epicenter below Khash County, Sistan and Baluchestan Province, Iran, near the border with Pakistan. Tremors are felt throughout the Middle East, Pakistan and North India, and hundreds of deaths are expected by the Iran government. ](/news/2013/04/16/2013-sistan-and-baluchestan-earthquake-pat-least-37-people-are-dead-after-a-7-8-magnitude-earthquake-strikes-with-its-epicenter-below-khash.md) _Context: Iran, earthquake, magnitude_
+2. [ An earthquake, registering 6.4 on the Richter Scale, strikes the city of Zarand and several villages in Iran at 02:25 UTC, leaving at least 546 dead. (''see'' 2005 Zarand earthquake).](/news/2005/02/22/an-earthquake-registering-6-4-on-the-richter-scale-strikes-the-city-of-zarand-and-several-villages-in-iran-at-02-25-utc-leaving-at-least.md) _Context: Iran, earthquake, magnitude_
+3. [A powerful earthquake occurs near the southern Iranian city of Bam at 0156 GMT (5.26am local time). The USGS estimates its magnitude as 6.7 on the Richter scale. The BBC reports that ''"70% of the modern city of Bam"'' is destroyed. Iranian government officials estimate the death toll at over 20,000 with a further 50,000 injured. Bam Citadel the largest adobe structure of the world is destroyed. The area of the citadel is about 180,000 square meters and the construction date of parts of it goes back for about 2500 years. [http://earthquake.usgs.gov/recenteqsww/Quakes/uscvad.htm][http://news.bbc.co.uk/1/hi/world/middle_east/3348613.stm][http://edition.cnn.com/2003/WORLD/meast/12/26/iran.quake/index.html]](/news/2003/12/26/a-powerful-earthquake-occurs-near-the-southern-iranian-city-of-bam-at-0156-gmt-5-26am-local-time-the-usgs-estimates-its-magnitude-as-6-7.md) _Context: Iran, earthquake, magnitude_
+4. [ Natural disaster - a major earthquake hit Iran, with its epicentre at Bou'in-Zahra, measuring at least 6.0 on the Richter scale.](/news/2002/06/22/natural-disaster-a-a-major-earthquake-hit-iran-with-its-epicentre-at-bou-in-zahra-measuring-at-least-6-0-on-the-richter-scale.md) _Context: Iran, earthquake, magnitude_
+5. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: earthquake, magnitude_
+6. [Bahrain says it has dismantled a terrorist cell allegedly linked to Iran's Revolutionary Guard and Lebanon's Hezbollah. ](/news/2016/01/6/bahrain-says-it-has-dismantled-a-terrorist-cell-allegedly-linked-to-iran-s-revolutionary-guard-and-lebanon-s-hezbollah.md) _Context: Bahrain, Iran_
+7. [Sudan and Bahrain follow Saudi Arabia's lead and cut diplomatic relations with Iran, and the United Arab Emirates downgrades diplomatic ties. ](/news/2016/01/4/sudan-and-bahrain-follow-saudi-arabia-s-lead-and-cut-diplomatic-relations-with-iran-and-the-united-arab-emirates-downgrades-diplomatic-ties.md) _Context: Bahrain, Iran_
+8. [Bahrain recalls its ambassador to Iran and expels the Iranian acting ''charge d'affaires'' who is declared ''persona non-grata'', a day after Bahraini security forces discovered a large bomb-making factory in Nuwaidrat and arrested a number of suspects linked to Iran's Revolutionary Guards. Bahrain's decision to recall its ambassador comes "in light of continued Iranian meddling in the affairs of the kingdom of Bahrain in order to create sectarian strife and impose hegemony and control." ](/news/2015/10/1/bahrain-recalls-its-ambassador-to-iran-and-expels-the-iranian-acting-charga-c-d-affaires-who-is-declared-persona-non-grata-a-day-aft.md) _Context: Bahrain, Iran_
+9. [A strong 6.2 magnitude earthquake occurs in southern Iran with reports of injuries and property damage. ](/news/2013/05/11/a-strong-6-2-magnitude-earthquake-occurs-in-southern-iran-with-reports-of-injuries-and-property-damage.md) _Context: Iran, earthquake_
+10. [2013 Lushan earthquake: An earthquake of 7.0 magnitude strikes Lushan County, Sichuan province, China, with the latest estimate showing 193 people dead, 24 missing and 11,826 injured. ](/news/2013/04/20/2013-lushan-earthquake-an-earthquake-of-7-0-magnitude-strikes-lushan-county-sichuan-province-china-with-the-latest-estimate-showing-193.md) _Context: earthquake, magnitude_

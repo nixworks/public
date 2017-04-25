@@ -1,0 +1,24 @@
+### [2013-06-18](/news/2013/06/18/index.md)
+
+# U.S. government surveillance programs (including PRISM): Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month.  
+
+
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/politics/2013/06/18/nsa-chief-defends-surveillance-says-helped-prevent-terror-more-than-50-times/)
+2. [CNN](http://www.cnn.com/2013/06/18/politics/nsa-leaks/index.html)
+
+### Related:
+
+1. [The U.S. House Intelligence Committee releases a summary of its two-year investigation into former NSA contractor Edward Snowden which downplays his alleged status as a whistleblower while acknowledging "tremendous damage to national security" as a result of the classified documents he stole. ](/news/2016/09/15/the-u-s-house-intelligence-committee-releases-a-summary-of-its-two-year-investigation-into-former-nsa-contractor-edward-snowden-which-downp.md) _Context: National Security Agency, United States House Permanent Select Committee on Intelligence_
+2. [U.S. government surveillance programs (including PRISM):The existence of Boundless Informant, an NSA tool used by the U.S. government to watch every country on planet Earth, is revealed. ](/news/2013/06/8/u-s-government-surveillance-programs-including-prism-pthe-existence-of-boundless-informant-an-nsa-tool-used-by-the-u-s-government-to-wa.md) _Context: National Security Agency, PRISM_
+3. [PRISM (U.S. government surveillance program):The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/prism-u-s-government-surveillance-program-pthe-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data.md) _Context: National Security Agency, PRISM_
+4. [United States House Permanent Select Committee on Intelligence Chairman Rep. Devin Nunes recuses himself from the committee's probe into Russian interference in the  2016 presidential election; Rep. Mike Conaway will take the lead in this investigation. ](/news/2017/04/6/united-states-house-permanent-select-committee-on-intelligence-chairman-rep-devin-nunes-recuses-himself-from-the-committeeas-probe-into-r.md) _Context: United States House Permanent Select Committee on Intelligence_
+5. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: U.S. House_
+6. [The Shadow Brokers group releases files allegedly from the National Security Agency which indicate efforts to monitor financial transactions made through the Society for Worldwide Interbank Financial Telecommunication. ](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.md) _Context: National Security Agency_
+7. [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md) _Context: U.S. House_
+8. [The United States House Permanent Select Committee on Intelligence holds a hearing about Russian interference in the 2016 election and confirms that there is an ongoing investigation into ties between Trump's team and Russia. ](/news/2017/03/20/the-united-states-house-permanent-select-committee-on-intelligence-holds-a-hearing-about-russian-interference-in-the-2016-election-and-confi.md) _Context: United States House Permanent Select Committee on Intelligence_
+9. [U.S. Representative Matt Gaetz proposes a bill to eliminate the United States Environmental Protection Agency. ](/news/2017/02/6/u-s-representative-matt-gaetz-proposes-a-bill-to-eliminate-the-united-states-environmental-protection-agency.md) _Context: U.S. House_
+10. [A leaked memo from House Republicans reveals cutting provisions from Obamacare such as Medicaid expansions and subsidies for health insurance. ](/news/2017/02/25/a-leaked-memo-from-house-republicans-reveals-cutting-provisions-from-obamacare-such-as-medicaid-expansions-and-subsidies-for-health-insuranc.md) _Context: U.S. House_

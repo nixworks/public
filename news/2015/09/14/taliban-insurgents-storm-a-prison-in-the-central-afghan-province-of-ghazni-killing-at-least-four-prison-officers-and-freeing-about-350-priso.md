@@ -1,0 +1,23 @@
+### [2015-09-14](/news/2015/09/14/index.md)
+
+# Taliban insurgents storm a prison in the central Afghan province of Ghazni killing at least four prison officers and freeing about 350 prisoners. The deputy provincial governor of the Ghazni province says the attackers were well-organised and wearing military uniforms. 
+
+Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least four police officers and freeing more than 350 prisoners.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-asia-34241882)
+
+### Related:
+
+1. [The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-the-ghazni-province-on-june-3-and-5.md) _Context: Ghazni Province, Taliban, War in Afghanistan_
+2. [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md) _Context: Ghazni Province, Taliban, War in Afghanistan_
+3. [The Taliban seize control of the provincial capital of Kunduz in northern Afghanistan. Locals say militants have raised their flag above the city's main square. ](/news/2015/09/28/the-taliban-seize-control-of-the-provincial-capital-of-kunduz-in-northern-afghanistan-locals-say-militants-have-raised-their-flag-above-the.md) _Context: Taliban, War in Afghanistan, provincial_
+4. [War in Afghanistan Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/war-in-afghanistan-ptaliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it.md) _Context: Taliban, War in Afghanistan_
+5. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: Taliban, War in Afghanistan_
+6. [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md) _Context: Taliban, War in Afghanistan_
+7. [At least 16 people were killed and 40 more  wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-att.md) _Context: Taliban, War in Afghanistan_
+8. [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md) _Context: Taliban, War in Afghanistan_
+9. [Twelve Afghan National Police officers are killed in a  Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md) _Context: Taliban, War in Afghanistan_
+10. [According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-killed-in-a-u-s-airstrike-in-kunduz-pr.md) _Context: Taliban, War in Afghanistan_

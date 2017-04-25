@@ -1,0 +1,23 @@
+### [2007-06-4](/news/2007/06/4/index.md)
+
+#  The United Nations Environment Programme estimates that 40% of the world population will be affected by the loss of glaciers and snow on the mountains of Asia due to global warming. 
+
+
+
+
+### Source:
+
+1. [UNEP](http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=512&ArticleID=5599&l=en)
+
+### Related:
+
+1. [ The British Antarctic Survey announces that the flow rate of 300 previously unmeasured glaciers increased by 12% between 1993 and 2003, adding to concerns over glacier retreat and the rise in sea levels caused by global warming. ](/news/2007/06/5/the-british-antarctic-survey-announces-that-the-flow-rate-of-300-previously-unmeasured-glaciers-increased-by-12-between-1993-and-2003-add.md) _Context: glaciers, global warming's_
+2. [The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-already-reported-in-singapore-and-tha.md) _Context: Asia_
+3. [A study concludes that typhoons in Asia are becoming stronger. ](/news/2016/09/6/a-study-concludes-that-typhoons-in-asia-are-becoming-stronger.md) _Context: Asia_
+4. [The World Health Organization (WHO) states that 92% of the world's population lives in air pollution levels surpassing the organization's limits. ](/news/2016/09/27/the-world-health-organization-who-states-that-92-of-the-world-s-population-lives-in-air-pollution-levels-surpassing-the-organization-s-li.md) _Context: world's population_
+5. [Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. ](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.md) _Context: Asia_
+6. [The Philippine peso sinks to become the "worst performing currency in Asia" as a result of a volatile and unpredictable presidential election. ](/news/2016/04/27/the-philippine-peso-sinks-to-become-the-worst-performing-currency-in-asia-as-a-result-of-a-volatile-and-unpredictable-presidential-electio.md) _Context: Asia_
+7. [A report from  the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to  accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures,  while efforts trying to attribute droughts and extreme rainfall has medium confidence. ](/news/2016/03/11/a-report-from-the-national-academies-of-sciences-engineering-and-medicine-states-climate-science-progress-makes-it-possible-to-accuratel.md) _Context: global warming's_
+8. [New Zealand Prime Minister John Key says  his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru's detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. ](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-country-is-willing-to-accept-some-asylum-seekers-from-the-middle-east-and-asia-currently-in-d.md) _Context: Asia_
+9. [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md) _Context: Asia_
+10. [Scientists warn a new strain of the Panama Disease fungus, which in the 1950s nearly wiped out the most popular banana in the world, the Gros Michel,  is threatening today's favorite, the Cavendish, according to a new study published in  ''PLOS Pathogens''. This  untreatable fungal disease, called Tropical Race 4, has been active for decades in Southeast Asia. It  recently has spread to other parts of Asia, Africa, the Middle East, and Australia, and is expected to make its way to Latin America, where the vast majority of the world's exported bananas are grown. ](/news/2015/12/6/scientists-warn-a-new-strain-of-the-panama-disease-fungus-which-in-the-1950s-nearly-wiped-out-the-most-popular-banana-in-the-world-the-gro.md) _Context: Asia_

@@ -1,0 +1,23 @@
+### [2016-05-28](/news/2016/05/28/index.md)
+
+# Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". 
+
+
+
+
+### Source:
+
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/ukraine-rasmussen-advicer-nato/27762742.html)
+
+### Related:
+
+1. [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call,  discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strateg.md) _Context: Petro Poroshenko, Russia, Ukrainian President_
+2. [Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the-legislation-also-bans-movie.md) _Context: Petro Poroshenko, Russia, Ukrainian President_
+3. [The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshenko-on-sunday.md) _Context: Petro Poroshenko, Russia, Ukrainian President_
+4. [2014-15 Russian military intervention in Ukraine:The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014a15-russian-military-intervention-in-ukraine-pthe-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-he.md) _Context: Petro Poroshenko, Russia, Ukrainian President_
+5. [Russian Foreign Minister Sergey Lavrov says that Russia now formally recognizes Petro Poroshenko as the legitimate President of Ukraine in the hope that Poroshenko will "live up to Russia's trust." ](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.md) _Context: Petro Poroshenko, Russia, Ukrainian President_
+6. [NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." ](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general-of-nato-jens-stoltenberg.md) _Context: Russia, Secretary General of NATO_
+7. [Syrian Civil War, Russian military intervention in the Syrian Civil War NATO Secretary-General Jens Stoltenberg says Russia's pair of violations of Turkish airspace over the weekend do not look like accidents. Russia, which said it's looking into claims of a second violation, reported the first violation lasted a few seconds and was due to poor weather. ](/news/2015/10/6/syrian-civil-war-russian-military-intervention-in-the-syrian-civil-war-pnato-secretary-general-jens-stoltenberg-says-russia-s-pair-of-viola.md) _Context: Russia, Secretary General of NATO_
+8. [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md) _Context: Petro Poroshenko, Ukrainian President_
+9. [Ukrainian President Petro Poroshenko warns of a threat to a planned ceasefire tonight from heavy fighting today and accuses Russia of "significantly increasing" its offensive. In a live interview he ordered all Ukrainian forces to cease fire after midnight. ](/news/2015/02/14/ukrainian-president-petro-poroshenko-warns-of-a-threat-to-a-planned-ceasefire-tonight-from-heavy-fighting-today-and-accuses-russia-of-signi.md) _Context: Petro Poroshenko, Russia_
+10. [Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md) _Context: Petro Poroshenko, Ukrainian President_

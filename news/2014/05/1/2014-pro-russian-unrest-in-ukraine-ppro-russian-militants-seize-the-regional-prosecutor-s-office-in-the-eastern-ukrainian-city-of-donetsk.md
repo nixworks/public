@@ -1,0 +1,24 @@
+### [2014-05-1](/news/2014/05/1/index.md)
+
+# 2014 pro-Russian unrest in Ukraine:Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk.  
+
+
+
+
+### Source:
+
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-2617592/Preparing-war-Ukraine-puts-troops-combat-alert-Russian-invasion-weeks-inaction-against-pro-Kremlin-uprising.html)
+2. [BBC](http://www.bbc.com/news/world-europe-27243753)
+
+### Related:
+
+1. [2014 pro-Russian unrest in Ukraine:Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/2014-pro-russian-unrest-in-ukraine-pvoters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-respe.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_
+2. [2014 pro-Russian unrest in Ukraine: War in Donbass:Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_
+3. [2014 pro-Russian unrest in Ukraine: War in Donbass:Ukrainian government forces recapture control of Yasynuvata from pro-Russian insurgents; government troops have now all but encircled the rebels' second-largest stronghold of Luhansk, and rebels declared a "state of siege" in Donetsk. ](/news/2014/08/4/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pukrainian-government-forces-recapture-control-of-yasynuvata-from-pro-russian-insurgents.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_
+4. [2014 pro-Russian unrest in Ukraine: War in Donbass:The pro-Russian separatists in Donetsk, who are now in great danger of being encircled by the Ukraine government forces, renew their calls for Russia to send troops and arms to their aid. ](/news/2014/08/3/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pthe-pro-russian-separatists-in-donetsk-who-are-now-in-great-danger-of-being-encircled-b.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_
+5. [2014 pro-Russian unrest in Ukraine: War in Donbass:Ukrainian forces retake control of the towns of Krasnohorivka and Staromykhailivka, outside the pro-Russian rebels' stronghold of Donetsk. ](/news/2014/08/2/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pukrainian-forces-retake-control-of-the-towns-of-krasnohorivka-and-staromykhailivka-outs.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_
+6. [Fighting restarts near Donetsk as international investigators arrive to examine the crash of Malaysia Airlines Flight 17. ](/news/2014/07/21/fighting-restarts-near-donetsk-as-international-investigators-arrive-to-examine-the-crash-of-malaysia-airlines-flight-17.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_
+7. [2014 pro-Russian unrest in Ukraine:Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk.  ](/news/2014/06/3/2014-pro-russian-unrest-in-ukraine-pheavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-re.md) _Context: 2014 pro-Russian unrest in Ukraine, eastern Ukraine_
+8. [2014 pro-Russian unrest in Ukraine and the A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued.  ](/news/2014/05/5/2014-pro-russian-unrest-in-ukraine-and-the-a-ukrainian-military-helicopter-patrolling-around-the-eastern-city-of-sloviansk-is-shot-down-all.md) _Context: 2014 pro-Russian unrest in Ukraine, eastern Ukraine_
+9. [Pro-Russian militants force the closure of Donetsk International Airport a day after preventing any voters in the city of Donetsk from casting a vote in the Ukrainian presidential election. ](/news/2014/05/26/pro-russian-militants-force-the-closure-of-donetsk-international-airport-a-day-after-preventing-any-voters-in-the-city-of-donetsk-from-casti.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_
+10. [2014 pro-Russian unrest in Ukraine:Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/2014-pro-russian-unrest-in-ukraine-pukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-protes.md) _Context: 2014 pro-Russian unrest in Ukraine, Donetsk_

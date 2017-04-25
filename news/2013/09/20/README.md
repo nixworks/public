@@ -1,0 +1,28 @@
+## [2013-09-20](/news/2013/09/20/index.md)
+
+### [Al-Qaeda insurgency in Yemen:Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/al-qaeda-insurgency-in-yemen-pseparate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md)
+_Context: Al-Qaeda insurgency in Yemen, Shabwa Governorate, Yemeni Army_
+
+### [Syrian civil war:Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/syrian-civil-war-piranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md)
+Outline of nuclear deal begins to emerge before UN debut as president says people should &#x27;be completely free in private life&#x27;
+
+### [The video game ''Grand Theft Auto V'' becomes the fastest single entertainment product to reach sales of US$1 billion. ](/news/2013/09/20/the-video-game-grand-theft-auto-v-becomes-the-fastest-single-entertainment-product-to-reach-sales-of-us-1-billion.md)
+Grand Theft Auto V has crossed the $1 billion sales mark after three days in stores, a rate faster than any other video game, film or other entertainment product has ever managed, its creator Take Two Interactive Inc said on Friday.
+
+### [The US Obama administration and the EPA propose that new coal plants be at least about 40% cleaner than current coal plants. ](/news/2013/09/20/the-us-obama-administration-and-the-epa-propose-that-new-coal-plants-be-at-least-about-40-cleaner-than-current-coal-plants.md)
+Proposal to tackle emissions from the power sector will require new plants to be about 40% cleaner than current coal plants
+
+### [The Philippines evacuates coastal villages, suspends ferry services and calls in fishing boats as category 5 Typhoon Usagi approaches. ](/news/2013/09/20/the-philippines-evacuates-coastal-villages-suspends-ferry-services-and-calls-in-fishing-boats-as-category-5-typhoon-usagi-approaches.md)
+The Philippines evacuated northern coastal villages, suspended ferry services and called in fishing boats on Friday as an approaching category-five storm, already labelled a super typhoon, gained strength on a path set for southern China.
+
+### [Iranian President Hassan Rouhani calls for "constructive dialogue" and an end to "unhealthy rivalries". ](/news/2013/09/20/iranian-president-hassan-rouhani-calls-for-constructive-dialogue-and-an-end-to-unhealthy-rivalries.md)
+_Context: Hassan Rouhani, Iran_
+
+### [The Greenpeace ship ''Arctic Sunrise'', which was protesting against Gazprom drilling in the Arctic area 60km north of the Russian coast, is boarded by the Russian military. The activists claim that oil exploitation would risk three nature reserves protected by Russian law. ](/news/2013/09/20/the-greenpeace-ship-arctic-sunrise-which-was-protesting-against-gazprom-drilling-in-the-arctic-area-60km-north-of-the-russian-coast-is.md)
+Russians drop armed guards on to the deck and round up the crew of the Arctic Sunrise, which is protesting against Gazprom drilling
+
+### [In baseball, Alex Rodriguez of the New York Yankees sets a new record in Major League Baseball for grand slam home runs with 24. ](/news/2013/09/20/in-baseball-alex-rodriguez-of-the-new-york-yankees-sets-a-new-record-in-major-league-baseball-for-grand-slam-home-runs-with-24.md)
+_Context: Alex Rodriguez, Major League Baseball, New York Yankees, baseball, grand slam, home run_
+
+## [Previous Day...](/news/2013/09/19/index.md)
+

@@ -1,0 +1,24 @@
+### [2015-09-21](/news/2015/09/21/index.md)
+
+# Many Skype users are unable to access the service. The Microsoft-owned company acknowledges the problem. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/09/21/us-microsoft-skype-idUSKCN0RL0YC20150921)
+2. [Skype](http://heartbeat.skype.com/2015/09/skype_presence_issues.html)
+
+### Related:
+
+1. [PRISM (U.S. government surveillance program):The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/prism-u-s-government-surveillance-program-pthe-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data.md) _Context: Microsoft, Skype_
+2. [Microsoft completes its acquisition of Internet phone company Skype for US$8.5 billion. ](/news/2011/10/14/microsoft-completes-its-acquisition-of-internet-phone-company-skype-for-us-8-5-billion.md) _Context: Microsoft, Skype_
+3. [Microsoft announces that it is purchasing Internet phone service Skype for US$8.5 billion. ](/news/2011/05/10/microsoft-announces-that-it-is-purchasing-internet-phone-service-skype-for-us-8-5-billion.md) _Context: Microsoft, Skype_
+4. [Microsoft acknowledges that a Windows 10 update has stopped millions of webcams from working. ](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.md) _Context: Microsoft_
+5. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _Context: Microsoft_
+6. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including  Yahoo Japan Corp.,  next week. Google, Time Inc., and  private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google.md) _Context: Microsoft_
+7. [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md) _Context: Microsoft_
+8. [Reuters reports, based on an unnamed "person familiar with the situation," that Microsoft executives are lining up financing for a possible acquisition of troubled dotcom pioneer Yahoo. ](/news/2016/03/26/reuters-reports-based-on-an-unnamed-person-familiar-with-the-situation-that-microsoft-executives-are-lining-up-financing-for-a-possible.md) _Context: Microsoft_
+9. [Microsoft announces another 7,800 job cuts primarily in its struggling phone division acquired from Nokia. ](/news/2015/07/8/microsoft-announces-another-7-800-job-cuts-primarily-in-its-struggling-phone-division-acquired-from-nokia.md) _Context: Microsoft_
+10. [In the United States, the NASDAQ and S&P 500 end at record highs spurred by strong results by tech giants Google, Amazon and Microsoft. ](/news/2015/04/24/in-the-united-states-the-nasdaq-and-s-p-500-end-at-record-highs-spurred-by-strong-results-by-tech-giants-google-amazon-and-microsoft.md) _Context: Microsoft_

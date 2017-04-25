@@ -1,0 +1,23 @@
+### [2009-02-20](/news/2009/02/20/index.md)
+
+#  New York State Attorney General Andrew Cuomo subpoenas Bank of America Chairman and CEO Kenneth Lewis for misleading investors during the purchase of Merrill Lynch. 
+
+
+
+
+### Source:
+
+1. [Wall Street Journal](http://online.wsj.com/article/SB123509642439429175.html)
+
+### Related:
+
+1. [ExxonMobil says that it is preparing a response to the subpoena from the Attorney General of New York pursuant to an investigation into whether Exxon has misled the public about climate change. ](/news/2015/11/5/exxonmobil-says-that-it-is-preparing-a-response-to-the-subpoena-from-the-attorney-general-of-new-york-pursuant-to-an-investigation-into-whet.md) _Context: New York, subpoena_
+2. [A New York state appellate court in Manhattan rules to approve in its entirety the 2011 settlement by Bank of America with 22 institutional investors including BlackRock Inc, MetLife Inc, and Allianz SE's Pacific Investment Management Co to resolve claims over $174 billion of mortgage securities issued by the former Countrywide Financial Corp. in a $8.5 billion settlement. ](/news/2015/03/5/a-new-york-state-appellate-court-in-manhattan-rules-to-approve-in-its-entirety-the-2011-settlement-by-bank-of-america-with-22-institutional.md) _Context: Bank of America, New York_
+3. [The ex-chief financial officer of Bank of America, Joe Price, agrees to pay a $7.5 million fine for misleading investors during the acquisition of Merrill Lynch. ](/news/2014/04/25/the-ex-chief-financial-officer-of-bank-of-america-joe-price-agrees-to-pay-a-7-5-million-fine-for-misleading-investors-during-the-acquisit.md) _Context: Bank of America, Merrill Lynch_
+4. [Governor of New York Andrew Cuomo announces that Hurricane Sandy ran up a bill of $32 billion in New York. ](/news/2012/11/26/governor-of-new-york-andrew-cuomo-announces-that-hurricane-sandy-ran-up-a-bill-of-32-billion-in-new-york.md) _Context: Andrew Cuomo, New York_
+5. [New York Governor Andrew Cuomo signs New York State's Marriage Equality Law, legalizing same-sex marriage in New York, and making New York the largest U.S. state to approve such legislation since California reversed its legalization in 2008. ](/news/2011/06/25/new-york-governor-andrew-cuomo-signs-new-york-state-s-marriage-equality-law-legalizing-same-sex-marriage-in-new-york-and-making-new-york-t.md) _Context: Andrew Cuomo, New York_
+6. [Internet retailer Overstock.com has amended its complaint in a long-standing lawsuit against Goldman Sachs and Merrill Lynch to demand treble damages under New Jersey's racketeering statute.  Merrill Lynch is a subsidiary of Bank of America. ](/news/2011/01/27/internet-retailer-overstock-com-has-amended-its-complaint-in-a-long-standing-lawsuit-against-goldman-sachs-and-merrill-lynch-to-demand-trebl.md) _Context: Bank of America, Merrill Lynch_
+7. [ The New York State Attorney General Andrew Cuomo reaches a $7 billion settlement with Citigroup to buy back auction rate securities from about 40,000 clients throughout the United States. ](/news/2008/08/7/the-new-york-state-attorney-general-andrew-cuomo-reaches-a-7-billion-settlement-with-citigroup-to-buy-back-auction-rate-securities-from-ab.md) _Context: Andrew Cuomo, State Attorney General_
+8. [ A former Bank of America broker, Theodore Sihpol is acquitted by a jury in a New York Court of charges that he assisted a New Jersey hedge fund in trading illegally in mutual funds, at the expense of investors in the latter. ](/news/2005/06/9/a-former-bank-of-america-broker-theodore-sihpol-is-acquitted-by-a-jury-in-a-new-york-court-of-charges-that-he-assisted-a-new-jersey-hedge.md) _Context: Bank of America, New York_
+9. [ A London newspaper reports that Merrill Lynch, New York, is trying to persuade at least seventeen members of the corporate derivatives team of rival investment bank JP Morgan to defect. An anonymous source/headhunter quoted in the newspaper predicted that the seventeen will be working at Merrill Lynch by the end of the summer. ](/news/2005/05/29/a-london-newspaper-reports-that-merrill-lynch-new-york-is-trying-to-persuade-at-least-seventeen-members-of-the-corporate-derivatives-team.md) _Context: Merrill Lynch, New York_
+10. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: New York_

@@ -1,0 +1,20 @@
+### [2013-12-27](/news/2013/12/27/index.md)
+
+# Authorities are investigating a reported heart attack of Joaquin "El Chapo" Guzman, Mexico's and the world's most-wanted man, suffered in November. 
+
+World s most wanted drug lord, authorities believe, was treated at a private hospital in Mexico
+
+
+### Source:
+
+1. [San Diego Red](http://www.sandiegored.com/noticias/46742/Joaquin-El-Chapo-Guzman-might-have-suffered-a-heart-attack/)
+
+### Related:
+
+1. [Mexican drug kingpin Joaquin Guzman Loera escapes from a maximum security prison the Federal Social Readaptation Center No. 1. ](/news/2015/07/11/mexican-drug-kingpin-joaquan-guzma-n-loera-escapes-from-a-maximum-security-prison-the-federal-social-readaptation-center-no-1.md) _Context: Joaquín Guzmán Loera_
+2. [The United States Department of the Treasury issues sanctions to three Mexican nationals linked to the Sinaloa Cartel for laundering money for the drug lords Ismael Zambada Garcia and Joaquin Guzman Loera. The Kingpin Act sanctions prohibit Americans to do any kind of business with them. ](/news/2013/07/30/the-united-states-department-of-the-treasury-issues-sanctions-to-three-mexican-nationals-linked-to-the-sinaloa-cartel-for-laundering-money-f.md) _Context: Joaquín Guzmán Loera_
+3. [Mexican Drug War: The United States freezes the assets of three Belize-based associates of Mexico's top drug lord, Joaquin "El Chapo" Guzman. ](/news/2012/08/7/mexican-drug-war-the-united-states-freezes-the-assets-of-three-belize-based-associates-of-mexico-s-top-drug-lord-joaquan-el-chapo-guzma.md) _Context: Joaquín Guzmán Loera_
+4. [Mexican Drug War:Four suspected drug traffickers of the Sinaloa Cartel, including the cousin of Joaquin "El Chapo" Guzman, Mexico's most-wanted drug lord, are captured in Spain. ](/news/2012/08/10/mexican-drug-war-pfour-suspected-drug-traffickers-of-the-sinaloa-cartel-including-the-cousin-of-joaquan-el-chapo-guzma-n-mexico-s-most.md) _Context: Joaquín Guzmán Loera_
+5. [War on Drugs:Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias ''El Chapo''), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-pmexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md) _Context: Joaquín Guzmán Loera_
+6. [Mexican Drug War:15 mutilated bodies are found inside two abandoned SUVs in the state of Jalisco, a region that is under dispute between Los Zetas and the Sinaloa Cartel. The Mexican authorities believe the massacre is a response by Los Zetas for the 2012 Nuevo Laredo massacres reportedly carried out by Joaquin Guzman Loera (a.k.a. ''El Chapo''), Mexico's most-wanted drug lord. ](/news/2012/05/9/mexican-drug-war-p15-mutilated-bodies-are-found-inside-two-abandoned-suvs-in-the-state-of-jalisco-a-region-that-is-under-dispute-between-lo.md) _Context: Joaquín Guzmán Loera_
+7. [Mexican Drug War:A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/mexican-drug-war-pa-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-th.md) _Context: Joaquín Guzmán Loera_

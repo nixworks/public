@@ -1,0 +1,23 @@
+### [2008-03-1](/news/2008/03/1/index.md)
+
+#  The President of Armenia Robert Kocharyan declares a state of emergency following anti-government protests in Yerevan. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/topNews/idUSL0153930520080301?feedType=RSS&feedName=topNews)
+
+### Related:
+
+1. [ Eight people are killed in violent protests in Yerevan, Armenia, following protests over the outcome of the latest presidential election. ](/news/2008/03/2/eight-people-are-killed-in-violent-protests-in-yerevan-armenia-following-protests-over-the-outcome-of-the-latest-presidential-election.md) _Context: Armenia, Yerevan, violent protests_
+2. [ Armenian President Robert Kocharyan and Azerbaijani President Ilham Aliyev agree to allow the residents of Nagorno-Karabakh to decide the region's future status through a popular vote. ](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.md) _Context: Armenia, Armenian President, Robert Kocharyan_
+3. [A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-station-surrender-to-police-the-na.md) _Context: Armenia, Yerevan_
+4. [At least one person is reportedly killed and others are taken hostage after an armed group seized control of the police headquarters in the Erebuni District of Yerevan, Armenia. The gunmen are demanding the release of jailed opposition figure, Jirair Sefilian, according to Armenia's National Security Service. ](/news/2016/07/17/at-least-one-person-is-reportedly-killed-and-others-are-taken-hostage-after-an-armed-group-seized-control-of-the-police-headquarters-in-the.md) _Context: Armenia, Yerevan_
+5. [Pope Francis, in his first speech upon arrival at the presidential palace of Serzh Sargsyan in the Armenian capital Yerevan, denounces the planned genocide of Armenians by Ottoman-era Turks a century ago, though the word "genocide" was not included in his prepared speech. ](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.md) _Context: Armenia, Yerevan_
+6. [Armenia will recognize the independence of the breakaway Nagorno-Karabakh Republic from Azerbaijan if military actions there continue, according to Armenian President Serzh Sargsyan. Azerbaijan has resorted to an "unprecedented provocation along the entire perimeter of the contact line" with Nagorno-Karabakh, Sargsyan told a meeting with ambassadors from member states of the Organization for Security and Co-operation in Europe, referring to the latest flare-up of the conflict. ](/news/2016/04/4/armenia-will-recognize-the-independence-of-the-breakaway-nagorno-karabakh-republic-from-azerbaijan-if-military-actions-there-continue-accor.md) _Context: Armenia, Armenian President_
+7. [At least two people are killed and seven are injured following an explosion on a bus in Yerevan, Armenia. The cause of the blast is being investigated. ](/news/2016/04/25/at-least-two-people-are-killed-and-seven-are-injured-following-an-explosion-on-a-bus-in-yerevan-armenia-the-cause-of-the-blast-is-being-in.md) _Context: Armenia, Yerevan_
+8. [The Constitutional Court of Armenia upholds the reelection of President Serzh Sargsyan in the recent presidential election. ](/news/2013/03/14/the-constitutional-court-of-armenia-upholds-the-reelection-of-president-serzh-sargsyan-in-the-recent-presidential-election.md) _Context: Armenia, Armenian President_
+9. [Official partial returns from the Armenian presidential election indicate that incumbent President Serzh Sargsyan will be reelected in a landslide with the leading Opposition candidate Raffi Hovannisian raising concerns about irregularities. ](/news/2013/02/19/official-partial-returns-from-the-armenian-presidential-election-indicate-that-incumbent-president-serzh-sargsyan-will-be-reelected-in-a-lan.md) _Context: Armenia, Armenian President_
+10. [Voters in Armenia go to the polls for a presidential election with incumbent President Serzh Sargsyan expected to win. Independent observers including the Parliamentary Assembly of the Council of Europe have expressed concern about the conduct of the elections. ](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.md) _Context: Armenia, Armenian President_

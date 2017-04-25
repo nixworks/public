@@ -1,0 +1,23 @@
+### [2010-09-22](/news/2010/09/22/index.md)
+
+# Iranian human rights campaigner Emadeddin Baghi is sentenced to six years in jail after recording an interview for the BBC with reformist cleric Grand Ayatollah Hussein-Ali Montazeri. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11392331)
+
+### Related:
+
+1. [Amnesty International reports that at least 160 young Iranians are currently awaiting execution and 73 others have been put to death between 2005 and 2015, which including sentencing girls as young as 9 and boys as young as 15 to death. ](/news/2016/01/27/amnesty-international-reports-that-at-least-160-young-iranians-are-currently-awaiting-execution-and-73-others-have-been-put-to-death-between.md) _Context: Human rights in Iran, Iran_
+2. [The BBC claims that a "sophisticated cyber-attack" against its online service has been linked to efforts to disrupt its Persian Service by Iran. ](/news/2012/03/14/the-bbc-claims-that-a-sophisticated-cyber-attack-against-its-online-service-has-been-linked-to-efforts-to-disrupt-its-persian-service-by-i.md) _Context: BBC, Iran_
+3. [ Clashes between police and protesters take place in the Iranian city of Isfahan at a memorial service for Ayatollah Hussein-Ali Montazeri. ](/news/2009/12/23/clashes-between-police-and-protesters-take-place-in-the-iranian-city-of-isfahan-at-a-memorial-service-for-ayatollah-hussein-ali-montazeri.md) _Context: Hussein-Ali Montazeri, Iran_
+4. [ There is major outcry in Iran following the death of democracy activist Akbar Mohammadi in Evin Prison. Mohammadi was condemned to death for his role in the 1999 student protests at Tehran University. He had been on a hunger strike for more than a week, protesting the refusal by the Islamic Regime to allow him to seek proper medical treatment for life threatening injuries suffered as a result of torture. Reportedly he was beaten severely by prison guards the night of his death.](/news/2006/08/1/there-is-major-outcry-in-iran-following-the-death-of-democracy-activist-akbar-mohammadi-in-evin-prison-mohammadi-was-condemned-to-death-fo.md) _Context: Human rights in Iran, Iran_
+5. [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md) _Context: Iran_
+6. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Iran_
+7. [Flash flooding caused by torrential rain leaves at least 17 people dead and 20 others missing in northwestern Iran, according to state television. ](/news/2017/04/15/flash-flooding-caused-by-torrential-rain-leaves-at-least-17-people-dead-and-20-others-missing-in-northwestern-iran-according-to-state-telev.md) _Context: Iran_
+8. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _Context: Iran_
+9. [The Trump White House bars ''The New York Times'', CNN, the ''Los Angeles Times'', the ''New York Daily News'', ''The Hill'',  the ''Daily Mail'',  BBC,  Politico, and BuzzFeed from a Friday press "gaggle." Generally conservative, mostly new, outlets were permitted entry, such as  Breitbart News, One America News Network, and ''The Washington Times''. Also allowed in were ABC News, CBS News, NBC News,  ''The Wall Street Journal'', Bloomberg News, and Fox News. ''Time'' magazine and the Associated Press could have attended but chose not to  in protest. The White House Correspondents' Association, which represents the press corps, quickly rebuked the White House's actions. ](/news/2017/02/24/the-trump-white-house-bars-the-new-york-times-cnn-the-los-angeles-times-the-new-york-daily-news-the-hill-the-daily-m.md) _Context: BBC_
+10. [Iranian Minister of Defence Hossein Dehghan confirms Iran tested a new missile, claiming that the test did not violate the 2015 nuclear deal nor UN resolution 2231. ](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.md) _Context: Iran_

@@ -1,0 +1,27 @@
+### [2005-04-24](/news/2005/04/24/index.md)
+
+#  About 1 million people march silently through Mexico City in support of the capital's embattled mayor, Andrs Manuel Lpez Obrador. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2005/WORLD/americas/04/24/mexico.reut/)
+2. [El&nbsp;Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10267&tabla=miami)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4479771.stm)
+4. [The&nbsp;Guardian](http://www.guardian.co.uk/international/story/0,,1469424,00.html)
+5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aM93blcVRAa4&refer=latin_america)
+
+### Related:
+
+1. [ Andrs Manuel Lpez Obrador, mayor of Mexico City, announces that he will quit his post on July 31 to concentrate on his campaign to be president of Mexico. ](/news/2005/05/9/andres-manuel-lopez-obrador-mayor-of-mexico-city-announces-that-he-will-quit-his-post-on-july-31-to-concentrate-on-his-campaign-to-be-pre.md) _Context: Andrés Manuel López Obrador, Mexico City_
+2. [ The Mexican Chamber of Deputies votes by 360 to 127 to suspend the executive immunity of Mayor Andrs Manuel Lpez Obrador of Mexico City, thereby removing him from office to face criminal charges. ](/news/2005/04/7/the-mexican-chamber-of-deputies-votes-by-360-to-127-to-suspend-the-executive-immunity-of-mayor-andres-manuel-lopez-obrador-of-mexico-city.md) _Context: Andrés Manuel López Obrador, Mexico City_
+3. [ 100 supporters of the Party of the Democratic Revolution protest outside the ranch of Mexican president Vicente Fox. They protest against the trial of Andrs Manuel Lpez Obrador, popular mayor of Mexico City. ](/news/2005/04/17/100-supporters-of-the-party-of-the-democratic-revolution-protest-outside-the-ranch-of-mexican-president-vicente-fox-they-protest-against-t.md) _Context: Andrés Manuel López Obrador, Mexico City_
+4. [An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29-people-and-injures-at-least-70-others-pyrote.md) _Context: Mexico City_
+5. [Luis Videgaray Caso resigns as Mexico's finance minister amid fallout over President Enrique Pena Nieto's controversial meeting with U.S. presidential candidate Donald Trump in Mexico City. Videgaray is revealed to have been the main advocate of arranging the meeting. ](/news/2016/09/7/luis-videgaray-caso-resigns-as-mexico-s-finance-minister-amid-fallout-over-president-enrique-pea-a-nieto-s-controversial-meeting-with-u-s-p.md) _Context: Mexico City_
+6. [Mexico-United States relations U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/mexicoaunited-states-relations-pu-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexi.md) _Context: Mexico City_
+7. [Mexico City authorities declare a pollution alert after smog rose to 1.5 times acceptable limits the day before implementation of the City's new, temporary air quality program that will  keep one-fifth of the city's cars at home every weekday. ](/news/2016/04/4/mexico-city-authorities-declare-a-pollution-alert-after-smog-rose-to-1-5-times-acceptable-limits-the-day-before-implementation-of-the-city-s.md) _Context: Mexico City_
+8. [Mexico City, facing the capital's worst air-quality crisis in over a decade, issues a  temporary order that all cars remain idle one day a week. Today, authorities report a pollution index of 108 (bad) after low readings during Holy Week. Vehicles will also be forced from the roads one Saturday a month. The measure will begin next Tuesday, April 5, and run until Thursday, June 30, 2016. Starting July 1, improved technology will be  in place at smog-check centers where all vehicles must be tested every six months. ](/news/2016/03/30/mexico-city-facing-the-capital-s-worst-air-quality-crisis-in-over-a-decade-issues-a-temporary-order-that-all-cars-remain-idle-one-day-a-w.md) _Context: Mexico City_
+9. [The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. ](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.md) _Context: Mexico City_
+10. [Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. ](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.md) _Context: Mexico City_

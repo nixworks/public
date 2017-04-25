@@ -1,0 +1,24 @@
+### [2015-12-9](/news/2015/12/9/index.md)
+
+# The Republican Speaker of the House Paul Ryan and Senate Majority Leader Mitch McConnell distance the party from presidential candidate Donald Trump's recent comments calling for a ban on Muslims entering the United States.  While not entering into a political fray - in view of U.S. partnerships with Muslim nations and Muslim personnel serving in the United States Armed Forces - the Pentagon press secretary calls anti-Muslim rhetoric a national security threat. 
+
+Pentagon Press Secretary Peter Cook insists that the U.S. is not at war with Islam.
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2015/12/08/politics/paul-ryan-trump-comments-not-who-we-are-as-a-party/)
+2. [Politico](http://www.politico.com/story/2015/12/pentagon-muslim-rhetoric-donald-trump-islamic-state-216560)
+
+### Related:
+
+1. [Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any-d.md) _Context: Donald Trump, Republican, United States_
+2. [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md) _Context: Defense Department, U.S. military personnel, United States_
+3. [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md) _Context: Donald Trump, United States_
+4. [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md) _Context: Donald Trump, Republican_
+5. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Donald Trump, United States_
+6. [Talks between top Donald Trump advisers and Speaker Paul Ryan happen at the capital to discuss tax reform. ](/news/2017/01/9/talks-between-top-donald-trump-advisers-and-speaker-paul-ryan-happen-at-the-capital-to-discuss-tax-reform.md) _Context: Donald Trump, Paul Ryan_
+7. [Mexican President Enrique Pena Nieto rejects the idea, announced by U.S. President Donald Trump, that Mexico would pay for any border wall between the United States and his country. ](/news/2017/01/25/mexican-president-enrique-pea-a-nieto-rejects-the-idea-announced-by-u-s-president-donald-trump-that-mexico-would-pay-for-any-border-wall.md) _Context: Donald Trump, United States_
+8. [U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning  U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partnership-and-reinstates-the-mex.md) _Context: Donald Trump, United States_
+9. [President-elect of the United States Donald Trump is named Time Person of the Year. ](/news/2016/12/7/president-elect-of-the-united-states-donald-trump-is-named-time-person-of-the-year.md) _Context: Donald Trump, United States_
+10. [ After a meeting with President-elect of the United States Donald Trump, Masayoshi Son of SoftBank Group pledges to invest $50 billion in the United States and create 50,000 jobs. ](/news/2016/12/6/after-a-meeting-with-president-elect-of-the-united-states-donald-trump-masayoshi-son-of-softbank-group-pledges-to-invest-50-billion-in-th.md) _Context: Donald Trump, United States_

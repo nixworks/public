@@ -1,0 +1,23 @@
+### [2016-08-15](/news/2016/08/15/index.md)
+
+# An Olympics aerial camera and its cables fall sixty-five feet, injuring seven people. 
+
+Olympic Broadcasting Services says &quot;full investigation&quot; underway
+
+
+### Source:
+
+1. [USA Today](http://www.usatoday.com/story/sports/olympics/rio-2016/2016/08/15/camera-fall-olympic-park-rio/88765972/)
+
+### Related:
+
+1. [Contractors and suppliers for the Rio de Janeiro Olympic Games claim they are owed millions in unpaid debts. ](/news/2016/11/28/contractors-and-suppliers-for-the-rio-de-janeiro-olympic-games-claim-they-are-owed-millions-in-unpaid-debts.md) _Context: 2016 Summer Olympics_
+2. [French swimmer Camille Lacourt accuses Chinese swimmer Sun Yang of doping, saying "he pisses purple", while American swimmer Michael Phelps says "something needs to be done" to prevent doping from infiltrating swimming. ](/news/2016/08/9/french-swimmer-camille-lacourt-accuses-chinese-swimmer-sun-yang-of-doping-saying-he-pisses-purple-while-american-swimmer-michael-phelps.md) _Context: 2016 Summer Olympics_
+3. [ After the men's 400-metre freestyle final of the 2016 Summer Olympics, Australian gold medalist Mack Horton says Chinese silver medalist Sun Yang is a "drug cheat", referring to Sun's three-month doping ban in 2014; Chinese netizens have swarmed Horton's online pages to demand an apology; Chinese state media has since called Horton "immoral" and described Australia as a former "offshore prison". ](/news/2016/08/7/after-the-men-s-400-metre-freestyle-final-of-the-2016-summer-olympics-australian-gold-medalist-mack-horton-says-chinese-silver-medalist-su.md) _Context: 2016 Summer Olympics_
+4. [The International Olympic Committee rules that 271 of the 389 athletes nominated by the Russian Olympic Committee will be eligible to participate in the 2016 summer Olympics. ](/news/2016/08/4/the-international-olympic-committee-rules-that-271-of-the-389-athletes-nominated-by-the-russian-olympic-committee-will-be-eligible-to-partic.md) _Context: 2016 Summer Olympics_
+5. [Anita Wlodarczyk of Poland breaks her own hammer throw world record, set earlier this month at the Rio Olympics, by close to 3/4 meter, with a throw of 82.98 meters at the Kamila Skolimowska Memorial in Warsaw. ](/news/2016/08/28/anita-waodarczyk-of-poland-breaks-her-own-hammer-throw-world-record-set-earlier-this-month-at-the-rio-olympics-by-close-to-a3-4-meter-with.md) _Context: 2016 Summer Olympics_
+6. [Darya Klishina, Russia's sole track and field competitor at the Rio Olympics, has her exemption to Russia's blanket ban revoked. Reportedly, new evidence  emerged in relation to a World Anti-Doping Agency report. Klishina is appealing the decision to the Court of Arbitration for Sport. ](/news/2016/08/13/darya-klishina-russia-s-sole-track-and-field-competitor-at-the-rio-olympics-has-her-exemption-to-russia-s-blanket-ban-revoked-reportedly.md) _Context: 2016 Summer Olympics_
+7. [2016 Summer Olympics Singaporean swimmer Joseph Schooling defeats American swimmer Michael Phelps in the 100m butterfly event, attaining Singapore's first-ever Olympic gold; Schooling's winning time of 50.39 seconds is an Olympic, Asian, and national record. ](/news/2016/08/12/2016-summer-olympics-psingaporean-swimmer-joseph-schooling-defeats-american-swimmer-michael-phelps-in-the-100m-butterfly-event-attaining-si.md) _Context: 2016 Summer Olympics_
+8. [Eight members of the Cuba men's national volleyball team, which is supposed to participate in the 2016 Summer Olympics, are arrested for aggravated group rape in Tampere, Finland, with two later being released. ](/news/2016/07/4/eight-members-of-the-cuba-men-s-national-volleyball-team-which-is-supposed-to-participate-in-the-2016-summer-olympics-are-arrested-for-agg.md) _Context: 2016 Summer Olympics_
+9. [The Russian Olympic Committee appeals the ban of its track and field team from participating in the upcoming summer Olympics by the International Association of Athletics Federations (IAAF), because of large scale doping, with the Court of Arbitration for Sport. A hearing on the case will take place on July 19. ](/news/2016/07/3/the-russian-olympic-committee-appeals-the-ban-of-its-track-and-field-team-from-participating-in-the-upcoming-summer-olympics-by-the-internat.md) _Context: 2016 Summer Olympics_
+10. [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village  because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-f.md) _Context: 2016 Summer Olympics_

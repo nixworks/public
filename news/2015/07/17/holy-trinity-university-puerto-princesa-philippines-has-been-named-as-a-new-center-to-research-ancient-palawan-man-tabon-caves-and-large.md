@@ -1,0 +1,23 @@
+### [2015-07-17](/news/2015/07/17/index.md)
+
+# Holy Trinity University, Puerto Princesa, Philippines has been named as a new center to research ancient Palawan man, Tabon Caves, and large sculptures found along Palawan's coast. 
+
+The Holy Trinity University in Puerto Princesa, Palawan, has been selected for a new college and research center to study...
+
+
+### Source:
+
+1. [Palawan-News](http://palawan-news.com/htu-named-as-research-center-for-ancient-palawan/)
+
+### Related:
+
+1. [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md) _Context: Palawan, Philippines_
+2. [  Spratly Islands:  The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-r.md) _Context: Palawan, Philippines_
+3. [A Philippine Air Force GAF Nomad experiences possible engine trouble after takeoff from Cagayancillo Airport on Cagayancillo off Palawan in the Philippines. Its pilot attempts to return to the airport, but the plane overshoots the runway and crashes into the Sulu Sea, killing 11 of the 12 people on board. Philippine governor Salvatore Socrates and Philippine Air Force Major General Santiago Madrid are among the dead.](/news/2000/07/2/a-philippine-air-force-gaf-nomad-experiences-possible-engine-trouble-after-takeoff-from-cagayancillo-airport-on-cagayancillo-off-palawan-in.md) _Context: Palawan, Philippines_
+4. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Philippines_
+5. [A U.S. Navy F/A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS ''Carl Vinson''. The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-e.md) _Context: Philippines_
+6. [Scientists announce, through the ''Proceedings of the National Academy of Sciences of the United States of America'', that live specimens of the rare ''Kuphus polythalamia'' (giant shipworm) have been discovered for the first time in the Philippines. ](/news/2017/04/18/scientists-announce-through-the-proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america-that-live-specimens-of.md) _Context: Philippines_
+7. [At least 24 people are dead after a Leomarick Trans bus falls into a ravine in the Philippines province of Nueva Ecija. ](/news/2017/04/18/at-least-24-people-are-dead-after-a-leomarick-trans-bus-falls-into-a-ravine-in-the-philippines-province-of-nueva-ecija.md) _Context: Philippines_
+8. [The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. ](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-province-of-cebu-rises-to-nine-with-ten-missing.md) _Context: Philippines_
+9. [More than 10,000 people are left homeless after a fire ravages a densely populated neighborhood of the Philippines capital Manila. ](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.md) _Context: Philippines_
+10. [The Liberal Party of the Philippines, the party of vice president Leni Robredo and detained senator Leila de Lima, formally becomes the opposition after its members and its ally from the Akbayan party are ousted from key positions in the Senate. ](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.md) _Context: Philippines_

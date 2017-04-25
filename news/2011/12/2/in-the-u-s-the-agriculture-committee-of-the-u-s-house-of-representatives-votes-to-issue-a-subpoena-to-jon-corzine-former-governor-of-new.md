@@ -1,0 +1,23 @@
+### [2011-12-2](/news/2011/12/2/index.md)
+
+# In the U.S., the Agriculture Committee of the U.S. House of Representatives votes to issue a subpoena to Jon Corzine, former Governor of New Jersey, in connection with the collapse of MF Global and the disappearance of customer funds. 
+
+
+
+
+### Source:
+
+1. [Committee press release](http://agriculture.house.gov/press/PRArticle.aspx?NewsID=1489)
+
+### Related:
+
+1. [Former CEO of MF Global, Jon Corzine, testifies to a committee of the U.S. House of Representatives that he doesn't know what happened to the hundreds of millions of dollars of customers' money, supposedly in segregated accounts, that appears to be missing. ](/news/2011/12/8/former-ceo-of-mf-global-jon-corzine-testifies-to-a-committee-of-the-u-s-house-of-representatives-that-he-doesn-t-know-what-happened-to-th.md) _Context: Jon Corzine, MF Global, U.S. House of Representatives_
+2. [The U.S. District Court in Manhattan finds that the trustee of MF Global may proceed with a lawsuit against former executives thereof, including former CEO Jon Corzine. ](/news/2014/03/25/the-u-s-district-court-in-manhattan-finds-that-the-trustee-of-mf-global-may-proceed-with-a-lawsuit-against-former-executives-thereof-inclu.md) _Context: Jon Corzine, MF Global_
+3. [A U.S. District Court judge, Victor Marrero, denies a motion by former New Jersey Governor Jon Corzine, the former CEO of MF Global, to dismiss investor litigation intended to hold him accountable for MF Global's blow-up in October 2011. ](/news/2013/11/12/a-u-s-district-court-judge-victor-marrero-denies-a-motion-by-former-new-jersey-governor-jon-corzine-the-former-ceo-of-mf-global-to-dism.md) _Context: Jon Corzine, MF Global_
+4. [The Financial Services Committee of the United States House of Representatives receives a memo quoting Edith O'Brien, the treasurer of defunct broker MF Global, to the effect that Jon S. Corzine was personally ordering the transfer of customers' money to a brokerage account with JP Morgan Chase last October. ](/news/2012/03/23/the-financial-services-committee-of-the-united-states-house-of-representatives-receives-a-memo-quoting-edith-o-brien-the-treasurer-of-defun.md) _Context: Jon Corzine, MF Global_
+5. [ A police report shows that New Jersey Governor Jon Corzine was not wearing a seatbelt during the hit and run car accident that injured him the day before. ](/news/2007/04/13/a-police-report-shows-that-new-jersey-governor-jon-corzine-was-not-wearing-a-seatbelt-during-the-hit-and-run-car-accident-that-injured-him.md) _Context: Jon Corzine, New Jersey_
+6. [ Governor of New Jersey Jon Corzine suffers numerous serious injuries resulting from a hit and run car accident on the Garden State Parkway in Galloway Township. ](/news/2007/04/12/governor-of-new-jersey-jon-corzine-suffers-numerous-serious-injuries-resulting-from-a-hit-and-run-car-accident-on-the-garden-state-parkway.md) _Context: Jon Corzine, New Jersey_
+7. [ New Jersey Governor Jon S. Corzine signs a bill granting civil unions to same-sex couples, with all the rights and privileges of marriage. New Jersey becomes the third U.S. state to offer civil unions, and the fifth to offer some version of marriage to gay couples. ](/news/2006/12/21/new-jersey-governor-jon-s-corzine-signs-a-bill-granting-civil-unions-to-same-sex-couples-with-all-the-rights-and-privileges-of-marriage.md) _Context: Jon Corzine, New Jersey_
+8. [ United States Senator Jon Corzine wins the New Jersey Democratic Party gubernatorial primary. Doug Forrester, a former mayor, wins the New Jersey Republican Party gubernatorial primary after a heated contest with another former mayor, Bret Schundler. The November 2005 election will be the first since Governor James McGreevey resigned over a scandal in which he was revealed to be homosexual. ](/news/2005/06/7/united-states-senator-jon-corzine-wins-the-new-jersey-democratic-party-gubernatorial-primary-doug-forrester-a-former-mayor-wins-the-new.md) _Context: Jon Corzine, New Jersey_
+9. [A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-major-structural-damage-occurs.md) _Context: New Jersey_
+10. [A U.S. district court judge gives the go-ahead to a billion-dollar lawsuit against PricewaterhouseCoopers in connection with the losses at MF Global in October 2011. ](/news/2016/08/5/a-u-s-district-court-judge-gives-the-go-ahead-to-a-billion-dollar-lawsuit-against-pricewaterhousecoopers-in-connection-with-the-losses-at-m.md) _Context: MF Global_

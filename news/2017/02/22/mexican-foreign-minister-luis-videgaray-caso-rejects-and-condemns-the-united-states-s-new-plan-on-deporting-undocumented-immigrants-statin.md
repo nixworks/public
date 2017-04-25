@@ -1,0 +1,20 @@
+### [2017-02-22](/news/2017/02/22/index.md)
+
+# Mexican Foreign Minister Luis Videgaray Caso rejects and condemns the  United States's new plan on deporting undocumented immigrants, stating that Mexico cannot "accept unilateral decisions imposed by one government on another." 
+
+Two top US officials are in Mexico to discuss the measures with President Enrique Pena Nieto.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-latin-america-39054999)
+
+### Related:
+
+1. [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens'  rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso  said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immi.md) _Context: Foreign Minister, Luis Videgaray Caso_
+2. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: 2017 Mexico–United States diplomatic crisis_
+3. [Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-president-donald-trump-citing-his-plan-to-build.md) _Context: 2017 Mexico–United States diplomatic crisis_
+4. [Mexican President Enrique Pena Nieto rejects the idea, announced by U.S. President Donald Trump, that Mexico would pay for any border wall between the United States and his country. ](/news/2017/01/25/mexican-president-enrique-pea-a-nieto-rejects-the-idea-announced-by-u-s-president-donald-trump-that-mexico-would-pay-for-any-border-wall.md) _Context: 2017 Mexico–United States diplomatic crisis_
+5. [Luis Videgaray Caso resigns as Mexico's finance minister amid fallout over President Enrique Pena Nieto's controversial meeting with U.S. presidential candidate Donald Trump in Mexico City. Videgaray is revealed to have been the main advocate of arranging the meeting. ](/news/2016/09/7/luis-videgaray-caso-resigns-as-mexico-s-finance-minister-amid-fallout-over-president-enrique-pea-a-nieto-s-controversial-meeting-with-u-s-p.md) _Context: Luis Videgaray Caso_
+6. [Due to concerns about an increasingly anti-Mexican climate across the border, Mexico unexpectedly changes two of its top officials responsible for U.S. relations. Foreign Minister Claudia Ruiz Massieu told local media, "We have been warning that our citizens have begun to feel a more hostile climate. This (anti-Mexican) rhetoric has made it clear that we have to act in a different way so that this tendency being generated doesn't damage the bilateral relationship." ](/news/2016/04/5/due-to-concerns-about-an-increasingly-anti-mexican-climate-across-the-border-mexico-unexpectedly-changes-two-of-its-top-officials-responsib.md) _Context: Foreign Minister_
+7. [ One day after US ambassador to Mexico Tony Garza claimed that Mexican soldiers had helped drug smugglers to escape pursuit by Texas state police on US soil near El Paso, Texas, Mexican Secretary of Foreign Affairs Luis Ernesto Derbez suggested that the people involved may have been US soldiers wearing the uniforms of Mexican military.  ](/news/2006/01/26/one-day-after-us-ambassador-to-mexico-tony-garza-claimed-that-mexican-soldiers-had-helped-drug-smugglers-to-escape-pursuit-by-texas-state-p.md) _Context: Foreign Minister_

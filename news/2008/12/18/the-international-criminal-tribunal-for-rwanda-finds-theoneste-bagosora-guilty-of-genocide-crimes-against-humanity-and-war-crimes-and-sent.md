@@ -1,0 +1,23 @@
+### [2008-12-18](/news/2008/12/18/index.md)
+
+#  The International Criminal Tribunal for Rwanda finds Thoneste Bagosora guilty of genocide, crimes against humanity and war crimes and sentences him to life imprisonment. 
+
+A U.N. court convicted former army colonel Theoneste Bagosora Thursday of genocide in Rwanda in 1994 and sentenced him to jail for life.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4BH1QB20081218?feedType=RSS&feedName=worldNews&rpc=69)
+
+### Related:
+
+1. [Former Rwandan administrator Dominique Ntawukulilyayo is given a 25-year sentence of imprisonment by the International Criminal Tribunal for Rwanda after being convicted of the transportation of soldiers during the Rwandan Genocide. ](/news/2010/08/3/former-rwandan-administrator-dominique-ntawukulilyayo-is-given-a-25-year-sentence-of-imprisonment-by-the-international-criminal-tribunal-for.md) _Context: International Criminal Tribunal for Rwanda, Rwanda, Rwandan Genocide_
+2. [ Democratic Republic of Congo transfers Grgoire Ndahimana to the International Criminal Tribunal for Rwanda (ICTR) to stand trial for the massacre of at least 2,000 Rwandan Tutsis during the 1994 genocide. ](/news/2009/09/20/democratic-republic-of-congo-transfers-gregoire-ndahimana-to-the-international-criminal-tribunal-for-rwanda-ictr-to-stand-trial-for-the-m.md) _Context: International Criminal Tribunal for Rwanda, Rwanda, Rwandan Genocide_
+3. [ Rwandan official Aloys Mutabingwa, a representative at the International Criminal Tribunal for Rwanda, says that 100 Rwandans connected to the Rwandan genocide are "comfortably living in France". ](/news/2005/04/5/rwandan-official-aloys-mutabingwa-a-representative-at-the-international-criminal-tribunal-for-rwanda-says-that-100-rwandans-connected-to.md) _Context: International Criminal Tribunal for Rwanda, Rwanda, Rwandan Genocide_
+4. [ The United Nations International Criminal Tribunal for Rwanda sentences Mika Muhimana, former Hutu civic leader, to life imprisonment for his role in the Rwandan genocide. ](/news/2005/04/28/the-united-nations-international-criminal-tribunal-for-rwanda-sentences-mika-muhimana-former-hutu-civic-leader-to-life-imprisonment-for-h.md) _Context: International Criminal Tribunal for Rwanda, Rwandan Genocide, life imprisonment_
+5. [A French court sentences two former Rwandan mayors of the town of Kabarondo to life in prison on charges of crimes against humanity and genocide committed during the Rwandan Genocide in 1994. During the genocide, Hutu extremists massacred over 2,000 Tutsi who sought refuge in the town. ](/news/2016/07/7/a-french-court-sentences-two-former-rwandan-mayors-of-the-town-of-kabarondo-to-life-in-prison-on-charges-of-crimes-against-humanity-and-geno.md) _Context: Rwanda, Rwandan Genocide_
+6. [  A Swedish court sentences  Claver Berinkindi, a 61-year-old  Swedish citizen originally from Rwanda, to life in prison for participation  in the Rwandan genocide in 1994. ](/news/2016/05/16/a-swedish-court-sentences-claver-berinkindi-a-61-year-old-swedish-citizen-originally-from-rwanda-to-life-in-prison-for-participation.md) _Context: Rwanda, Rwandan Genocide_
+7. [Authorities in Rwanda jail former politician Leon Mugesera for life. Mugesera was known for describing Tutsis as "cockroaches" and called for their extermination in a speech in 1992 and is said to be a precursor to the Rwandan genocide. ](/news/2016/04/15/authorities-in-rwanda-jail-former-politician-la-c-on-mugesera-for-life-mugesera-was-known-for-describing-tutsis-as-cockroaches-and-called-f.md) _Context: Rwanda, Rwandan Genocide_
+8. [Former Rwandan minister Augustin Ngirabatware is sentenced to 35 years imprisonment for his role during the 1994 Rwandan Genocide. ](/news/2012/12/20/former-rwandan-minister-augustin-ngirabatware-is-sentenced-to-35-years-imprisonment-for-his-role-during-the-1994-rwandan-genocide.md) _Context: Rwanda, Rwandan Genocide_
+9. [Rwanda's "gacaca courts", set up to try those responsible for playing a role in the 1994 Rwandan Genocide, finish their work. ](/news/2012/06/18/rwanda-s-gacaca-courts-set-up-to-try-those-responsible-for-playing-a-role-in-the-1994-rwandan-genocide-finish-their-work.md) _Context: Rwanda, Rwandan Genocide_
+10. [Two former Rwandan politicians of the National Republican Movement for Democracy and Development party&ndash;Mathieu Ngirumpatse and douard Karemera&ndash;are jailed for their role in the 1994 Rwandan Genocide. ](/news/2011/12/21/two-former-rwandan-politicians-of-the-national-republican-movement-for-democracy-and-development-party-ndash-mathieu-ngirumpatse-and-edouard.md) _Context: Rwanda, Rwandan Genocide_

@@ -1,0 +1,24 @@
+### [2016-03-15](/news/2016/03/15/index.md)
+
+# Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. 
+
+Police in Brussels have shot dead a suspect in an anti-terror operation linked to the Paris attacks, after gunmen with assault rifles opened fire and wounded four officers. The dead person has not been identified but prosecutors said it was not Salah Abdeslam, a key suspect in the November Paris massacre which killed 130 people, and who fled to Brussels after the attacks.
+
+
+### Source:
+
+1. [The Independent](http://www.independent.co.uk/news/world/europe/brussels-anti-terror-raid-shooting-a6932326.html)
+2. [Irish Times](http://www.irishtimes.com/news/world/europe/brussels-on-high-alert-after-anti-terrorism-raid-leaves-one-dead-1.2573973)
+
+### Related:
+
+1. [  Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-thre.md) _Context: Belgium, Brussels, November 2015 Paris Attacks_
+2. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium, Brussels_
+3. [Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. ](/news/2016/06/18/twelve-people-are-arrested-and-three-men-are-subsequently-charged-with-terrorism-offences-in-belgium-after-dozens-of-raids-were-carried-out.md) _Context: Belgium, Brussels_
+4. [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md) _Context: Belgium, Brussels_
+5. [Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invol.md) _Context: Brussels, November 2015 Paris Attacks_
+6. [Aftermath of the Six people are arrested in Belgium including:Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/aftermath-of-the-six-people-are-arrested-in-belgium-including-pmohamed-abrini-wanted-in-connection-with-the-2015-paris-attacks-is-arrested.md) _Context: Belgium, November 2015 Paris Attacks_
+7. [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md) _Context: Belgium, November 2015 Paris Attacks_
+8. [Aftermath of the Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-conf.md) _Context: Belgium, Brussels_
+9. [Aftermath of the At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was.md) _Context: Belgium, Brussels_
+10. [Aftermath of the Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/aftermath-of-the-belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-ma.md) _Context: Belgium, Brussels_

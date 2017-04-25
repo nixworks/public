@@ -1,0 +1,37 @@
+## [2014-06-15](/news/2014/06/15/index.md)
+
+### [The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md)
+_Context: Kessab, Syria, Syrian Civil War, Syrian Military_
+
+### [Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md)
+A comprehensive operation against terrorists is being launched upon direction of govt.
+
+### [7 people are killed in Aden, Yemen, after a gunman opens fire on a minibus. ](/news/2014/06/15/7-people-are-killed-in-aden-yemen-after-a-gunman-opens-fire-on-a-minibus.md)
+_Context: Aden, Yemen_
+
+### [2014 Northern Iraq offensive:The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-pthe-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-near.md)
+_Context: 2014 Northern Iraq offensive, Baghdad, Islamic State in Iraq and the Levant, United States_
+
+### [Islamist militants kill dozens of people in the Kenyan town of Mpeketoni in the Lamu Archipelago in a four hour series of attacks on hotels. ](/news/2014/06/15/islamist-militants-kill-dozens-of-people-in-the-kenyan-town-of-mpeketoni-in-the-lamu-archipelago-in-a-four-hour-series-of-attacks-on-hotels.md)
+Attackers flying flags of Somalia&#039;s al-Shabaab carry out deadliest attack on Kenyan soil since Westgate mall, targeting hotels and businesses near resort island
+
+### [A report by the Official Monetary and Financial Institutions Forum finds that total global investments, including gold and stock, by public investors, such as central banks, sovereign wealth funds, and pension funds, now total $29.1 trillion. ](/news/2014/06/15/a-report-by-the-official-monetary-and-financial-institutions-forum-finds-that-total-global-investments-including-gold-and-stock-by-public.md)
+_Context: central banks, gold, pension funds, sovereign wealth funds, stock_
+
+### [Medtronic agrees to purchase Covidien for US$42.9 billion. ](/news/2014/06/15/medtronic-agrees-to-purchase-covidien-for-us-42-9-billion.md)
+U.S. medical device maker Medtronic Inc (MDT.N) said on Sunday it had agreed to buy Covidien Plc COV.N for $42.9 billion in cash and stock and move its executive base to Ireland in the latest transaction aiming for lower corporate tax rates abroad.
+
+### [Voters in Colombia go to the polls for a presidential election, pitting incumbent Juan Manuel Santos against Oscar Ivan Zuluaga. Santos is reelected with 51% of the vote. ](/news/2014/06/15/voters-in-colombia-go-to-the-polls-for-a-presidential-election-pitting-incumbent-juan-manuel-santos-against-ascar-iva-n-zuluaga-santos-is.md)
+Santos predicts &lsquo;beginning of a new Colombia&rsquo; after victory
+
+### [In golf, Martin Kaymer of Germany wins the U.S. Open by eight strokes for his second career major championship. ](/news/2014/06/15/in-golf-martin-kaymer-of-germany-wins-the-u-s-open-by-eight-strokes-for-his-second-career-major-championship.md)
+_Context: Germany, Martin Kaymer, U.S. Open, golf, major championship_
+
+### [The 82nd 24 Hours of Le Mans ends with Audi drivers Andre Lotterer, Benoit Treluyer, and Marcel Fassler winning outright in their Audi R18 e-tron quattro. ](/news/2014/06/15/the-82nd-24-hours-of-le-mans-ends-with-audi-drivers-andra-c-lotterer-benoa-r-t-tra-c-luyer-and-marcel-fa-ssler-winning-outright-in-their-audi-r.md)
+Audi survives a frantic and chaotic 2014 edition of the 24 Hours of Le Mans.
+
+### [San Antonio Spurs beat the Miami Heat in the 2014 NBA Finals. ](/news/2014/06/15/san-antonio-spurs-beat-the-miami-heat-in-the-2014-nba-finals.md)
+Live coverage of game five of the NBA Finals series between the Heat and Spurs in San Antonio as the Spurs look to finish the job.
+
+## [Previous Day...](/news/2014/06/14/index.md)
+

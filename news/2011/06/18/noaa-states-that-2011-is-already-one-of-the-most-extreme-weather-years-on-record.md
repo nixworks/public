@@ -1,0 +1,23 @@
+### [2011-06-18](/news/2011/06/18/index.md)
+
+# NOAA states that 2011 is already one of the most extreme weather years on record. 
+
+
+
+
+### Source:
+
+1. [Scientific American](http://www.scientificamerican.com/article.cfm?id=noaa-makes-2011-most-extreme-weather-year)
+
+### Related:
+
+1. [NASA projects that 2016 will have the warmest global temperature average on record. This year would be the third record-breaking year in a row. Per NOAA annals, April marked the 12th record warmest month in a row. ](/news/2016/05/22/nasa-projects-that-2016-will-have-the-warmest-global-temperature-average-on-record-this-year-would-be-the-third-record-breaking-year-in-a-r.md) _Context: NOAA_
+2. [A report from  the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to  accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures,  while efforts trying to attribute droughts and extreme rainfall has medium confidence. ](/news/2016/03/11/a-report-from-the-national-academies-of-sciences-engineering-and-medicine-states-climate-science-progress-makes-it-possible-to-accuratel.md) _Context: extreme weather_
+3. [ 2004 Indian Ocean earthquake:  The United States National Oceanic and Atmospheric Administration (NOAA) reveals a detailed minute-to-minute Indian Ocean tsunami timeline.  ](/news/2005/01/8/2004-indian-ocean-earthquake-p-the-united-states-national-oceanic-and-atmospheric-administration-noaa-reveals-a-detailed-minute-to-minut.md) _Context: NOAA_
+4. [ NOAA and NASA researchers announce the ozone hole over Antarctica has grown markedly smaller since last year and has broken into two, due to warmer temperatures.](/news/2002/09/30/noaa-and-nasa-researchers-announce-the-ozone-hole-over-antarctica-has-grown-markedly-smaller-since-last-year-and-has-broken-into-two-due-t.md) _Context: NOAA_
+5. [ Extreme weather, recent celebrity deaths: About one-third of the Maili glacier breaks off from the Caucasus Mountains and buries Karmadon, Russia, under up to 500 feet of ice and debris, killing 125, including the young Russian movie star Sergei Bodrov Jr.](/news/2002/09/19/extreme-weather-recent-celebrity-deaths-about-one-third-of-the-maili-glacier-breaks-off-from-the-caucasus-mountains-and-buries-karmadon.md) _Context: extreme weather_
+6. [ Extreme weather: Dozens are killed by floods caused by torrential rains in Europe, including the Malse and Blanice rivers of the Czech Republic, the Black Sea resort village of Shirokaya Balka near Novorossiisk in Russia, and Romania. The downpours have also caused extensive damage in Austria, Bulgaria, Croatia, Italy, and Spain.](/news/2002/08/9/extreme-weather-dozens-are-killed-by-floods-caused-by-torrential-rains-in-europe-including-the-mala-e-and-blanice-rivers-of-the-czech-rep.md) _Context: extreme weather_
+7. [ Extreme weather: In China, the Dongting Lake floods Yueyang, forcing the evacuation of 600,000 people; the crest of the flooding from the Yangtze River is expected Sunday. Floods and landslides have killed nearly 1000 people in China, 200 in the Hunan province. There have been 376 deaths in India, 494 in Nepal, and 158 deaths in Bangladesh this monsoon season.](/news/2002/08/22/extreme-weather-in-china-the-dongting-lake-floods-yueyang-forcing-the-evacuation-of-600-000-people-the-crest-of-the-flooding-from-the-y.md) _Context: extreme weather_
+8. [ Extreme weather: In India, a 125-year-old dam bursts under torrential rains, killing 10.](/news/2002/08/21/extreme-weather-in-india-a-125-year-old-dam-bursts-under-torrential-rains-killing-10.md) _Context: extreme weather_
+9. [ Extreme weather: The flooding death toll in Europe reaches 109. The Danube peaks at Budapest at a record {{convert|28.3|ft|m}}, mostly contained by the walls along the river. Dessau is flooded. Overall damage in the Czech Republic is expected to cost {{Nowrap|$2.8 billion}}.](/news/2002/08/19/extreme-weather-the-flooding-death-toll-in-europe-reaches-109-the-danube-peaks-at-budapest-at-a-record-convert-28-3-ft-m-mostly-cont.md) _Context: extreme weather_
+10. [ Extreme weather: One of the sea lions who escaped from the Prague Zoo on the 13th is safely recaptured near Wittenberg.](/news/2002/08/18/extreme-weather-one-of-the-sea-lions-who-escaped-from-the-prague-zoo-on-the-13th-is-safely-recaptured-near-wittenberg.md) _Context: extreme weather_

@@ -1,0 +1,23 @@
+### [2007-08-20](/news/2007/08/20/index.md)
+
+#  Atlanta Falcons quarterback Michael Vick agrees to a plea deal to charges of conspiracy to travel in interstate commerce in aid of unlawful activities and conspiracy to sponsor a dog in an animal fighting venture in Richmond, Virginia, USA. 
+
+Atlanta Falcons quarterback Michael Vick accepted a plea deal Monday and lengthy prison sentence to avoid additional federal charges in a dogfighting case that has driven his NFL career to a halt.
+
+
+### Source:
+
+1. [ESPN.com](http://sports.espn.go.com/nfl/news/story?id=2983121)
+
+### Related:
+
+1. [ Atlanta Falcons quarterback Michael Vick and three others are indicted by a federal grand jury in connection with the Bad Newz Kennels dog fighting investigation. ](/news/2007/07/18/atlanta-falcons-quarterback-michael-vick-and-three-others-are-indicted-by-a-federal-grand-jury-in-connection-with-the-bad-newz-kennels-dog.md) _Context: Atlanta Falcons, Michael Vick, quarterback_
+2. [ Former Atlanta Falcons quarterback Michael Vick receives a 23-month jail sentence for his involvement in a dogfighting ring. ](/news/2007/12/10/former-atlanta-falcons-quarterback-michael-vick-receives-a-23-month-jail-sentence-for-his-involvement-in-a-dogfighting-ring.md) _Context: Atlanta Falcons, Michael Vick_
+3. [ Michael Vick, former National Football League star, arrived in US Federal Circuit Court in Richmond, Virginia and pleads guilty to federal dogfighting charges and then issues a public apology at the Omni Richmond Hotel. Sentencing by U.S. District Judge Henry E. Hudson will be in December 2007. ](/news/2007/08/27/michael-vick-former-national-football-league-star-arrived-in-us-federal-circuit-court-in-richmond-virginia-and-pleads-guilty-to-federal.md) _Context: Michael Vick, Richmond, Virginia_
+4. [ Queen Elizabeth II of the United Kingdom begins a tour of Virginia with a speech to the General Assembly of Virginia in Richmond in honour of the 400th anniversary of the first permanent English settlement in Jamestown, Virginia. She also meets with victims of the Virginia Tech Massacre before departing for Colonial Williamsburg. ](/news/2007/05/3/queen-elizabeth-ii-of-the-united-kingdom-begins-a-tour-of-virginia-with-a-speech-to-the-general-assembly-of-virginia-in-richmond-in-honour.md) _Context: Richmond, Virginia, Virginia_
+5. [NASA's Orbital ATK Antares 230 rocket launches carrying an unmanned resupply spacecraft, the Cygnus CRS OA-5 cargo ship, to the International Space Station from NASA's Wallops Flight Facility in Virginia. The mission returns the Antares rocket to flight after an anomaly on October 28, 2014, caused an Antares-series rocket to explode seconds after liftoff. ](/news/2016/10/17/nasa-s-orbital-atk-antares-230-rocket-launches-carrying-an-unmanned-resupply-spacecraft-the-cygnus-crs-oa-5-cargo-ship-to-the-internationa.md) _Context: Virginia_
+6. [The ''Richmond Times-Dispatch'' of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. ](/news/2016/09/4/the-richmond-times-dispatch-of-virginia-is-first-to-endorse-libertarian-candidate-gary-johnson-for-president-and-the-first-newspaper-med.md) _Context: Virginia_
+7. [The U.S. states of North Carolina and Virginia declare a state of emergency over gas shortages as a result of the Colonial pipeline leak in Shelby County, Alabama. ](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.md) _Context: Virginia_
+8. [The United States Supreme Court grants  a Virginia school board's emergency request to stop implementation of the federal government policy that calls for student use of the bathroom consistent with their gender identity in order to allow the board to appeal the  Fourth Circuit Court ruling that upheld this policy. ](/news/2016/08/3/the-united-states-supreme-court-grants-a-virginia-school-board-s-emergency-request-to-stop-implementation-of-the-federal-government-policy.md) _Context: Virginia_
+9. [Presumptive  Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virginia-as-her-vice-presidential-running-mat.md) _Context: Virginia_
+10. [Six people are killed and 10 injured when a van crashes in the U.S. state of Virginia. ](/news/2016/06/18/six-people-are-killed-and-10-injured-when-a-van-crashes-in-the-u-s-state-of-virginia.md) _Context: Virginia_

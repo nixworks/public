@@ -1,0 +1,23 @@
+### [2015-05-15](/news/2015/05/15/index.md)
+
+# Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/05/15/us-burundi-politics-idUSKBN0NY0O020150515)
+
+### Related:
+
+1. [Burundi's President, Pierre Nkurunziza, says Burundians will fight against any African Union peacekeepers sent into the country in response to the ongoing crisis, "everyone has to respect Burundian borders," Nkurunziza said. The African Union said this earlier this month it was ready to send 5,000 peacekeepers to protect civilians caught up in months of violence. ](/news/2015/12/30/burundi-s-president-pierre-nkurunziza-says-burundians-will-fight-against-any-african-union-peacekeepers-sent-into-the-country-in-response.md) _Context: Burundi, Pierre Nkurunziza_
+2. [The President of Burundi, Pierre Nkurunziza, is elected for a third consecutive term. ](/news/2015/07/24/the-president-of-burundi-pierre-nkurunziza-is-elected-for-a-third-consecutive-term.md) _Context: Burundi, Pierre Nkurunziza_
+3. [Voters in Burundi go to the polls for a presidential election amidst gunfire and violence with President Pierre Nkurunziza seeking a third term and opposition parties boycotting the election. At least two people have been killed in election violence. ](/news/2015/07/21/voters-in-burundi-go-to-the-polls-for-a-presidential-election-amidst-gunfire-and-violence-with-president-pierre-nkurunziza-seeking-a-third-t.md) _Context: Burundi, Pierre Nkurunziza_
+4. [The East African Community calls on Burundi to postpone its presidential election due to unrest sparked by the decision by President Pierre Nkurunziza to run for a third term. ](/news/2015/05/31/the-east-african-community-calls-on-burundi-to-postpone-its-presidential-election-due-to-unrest-sparked-by-the-decision-by-president-pierre.md) _Context: Burundi, Pierre Nkurunziza_
+5. [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md) _Context: Burundi, Pierre Nkurunziza_
+6. [Two policemen and a civilian are killed and three others injured after a grenade attack in Burundi's capital Bujumbura. The attack takes place a day after a similar incident injured three officers, and comes in the midst of intensifying protests against current president Pierre Nkurunziza. ](/news/2015/05/2/two-policemen-and-a-civilian-are-killed-and-three-others-injured-after-a-grenade-attack-in-burundi-s-capital-bujumbura-the-attack-takes-pla.md) _Context: Burundi, Pierre Nkurunziza_
+7. [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md) _Context: Pierre Nkurunziza, failed coup_
+8. [After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister-of-defence.md) _Context: Pierre Nkurunziza, failed coup_
+9. [Major General Godefroid Niyombare has declared a coup in Burundi and the establishment of a "national salvation committee". President Pierre Nkurunziza is attempting to return home from Tanzania. ](/news/2015/05/13/major-general-godefroid-niyombare-has-declared-a-coup-in-burundi-and-the-establishment-of-a-national-salvation-committee-president-pierre.md) _Context: Godefroid Niyombare, Pierre Nkurunziza_
+10. [Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. ](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.md) _Context: Burundi, Pierre Nkurunziza_

@@ -1,0 +1,52 @@
+## [2013-02-21](/news/2013/02/21/index.md)
+
+### [Syrian civil war:At least 61 people are killed and more than 200 injured following a car bombing near Syria's Baath Party headquarters in Damascus. Three other bombings kill 22 people and injure 50 others in the suburb of Barzeh, most of them government soldiers. These are the deadliest attacks in the Syrian capital since the outbreak of the civil war. ](/news/2013/02/21/syrian-civil-war-pat-least-61-people-are-killed-and-more-than-200-injured-following-a-car-bombing-near-syria-s-baath-party-headquarters-in-d.md)
+A car bomb killed more than 50 people and wounded 200 in central Damascus on Thursday when it blew up on a busy highway close to ruling Baath Party offices and the Russian Embassy, state media and activists said.
+
+### [2013 Hyderabad blasts:At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/2013-hyderabad-blasts-pat-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md)
+At least 12 people are killed by twin blasts in the southern Indian city of Hyderabad, which PM Manmohan Singh has called a &quot;dastardly attack&quot;.
+
+### [Michael Edwards becomes the first British writer elected at the Academie francaise. ](/news/2013/02/21/michael-edwards-becomes-the-first-british-writer-elected-at-the-acada-c-mie-franassaise.md)
+_Context: Académie française, Michael Edwards, United Kingdom, writer_
+
+### [PayPal, the online payments business, a division of eBay, launches a European version of the PayPal Here mobile payments system. ](/news/2013/02/21/paypal-the-online-payments-business-a-division-of-ebay-launches-a-european-version-of-the-paypal-here-mobile-payments-system.md)
+PayPal launched a European version of its PayPal Here mobile payments service for small merchants on Thursday as the online payments division of eBay Inc steps up competition with rivals, including Square Inc.
+
+### [A watchdog group releases a report that details write-downs of $19 billion on more than 168,000 properties by five United States banks. Under terms of a federal and state settlement of foreclosure-processing violations reached one year ago in March, Bank of America lost the most and had $13.5 billion in homeowner debts written off. The other banks are Citigroup Inc, JPMorgan Chase & Co, Wells Fargo & Co, and Ally Financial Inc. ](/news/2013/02/21/a-watchdog-group-releases-a-report-that-details-write-downs-of-19-billion-on-more-than-168-000-properties-by-five-united-states-banks-unde.md)
+_Context: Ally Financial, Bank of America, Citigroup, JPMorgan Chase, United States dollars, Wells Fargo_
+
+### [A major snowstorm occurs in the Midwestern United States leading to two deaths so far. ](/news/2013/02/21/a-major-snowstorm-occurs-in-the-midwestern-united-states-leading-to-two-deaths-so-far.md)
+A major winter storm in the US Midwest that is already blamed for two deaths blankets several states in up to 17in (43cm) of snow.
+
+### [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md)
+_Context: Las Vegas, Nevada, Nevada, Paradise, Nevada, United States, shooting_
+
+### [Three young girls are kidnapped, raped, and killed in the Bhandara district of India. ](/news/2013/02/21/three-young-girls-are-kidnapped-raped-and-killed-in-the-bhandara-district-of-india.md)
+_Context: Bhandara district, India_
+
+### [Retired police sergeant Drew Peterson, whose fourth wife, Stacy Peterson, disappeared in 2007, is sentenced by the US state of Illinois to 38 years incarceration for the 2004 murder of his third wife, Kathleen Savio. ](/news/2013/02/21/retired-police-sergeant-drew-peterson-whose-fourth-wife-stacy-peterson-disappeared-in-2007-is-sentenced-by-the-us-state-of-illinois-to-3.md)
+_Context: Drew Peterson, Illinois, US$, incarceration, police sergeant_
+
+### [Japan executes by hanging three convicted murderers, Kaoru Kobayashi, Masahiro Kanagawa and Keiki Muto. The number of death-row inmates in Japan now stands at 134. ](/news/2013/02/21/japan-executes-by-hanging-three-convicted-murderers-kaoru-kobayashi-masahiro-kanagawa-and-keiki-muto-the-number-of-death-row-inmates-in-j.md)
+_Context: Japan, Kaoru Kobayashi, Masahiro Kanagawa, death-row inmates, hanging_
+
+### [An adviser to the President of Egypt Mohamed Morsi claims that parliamentary elections will commence in late April 2013. ](/news/2013/02/21/an-adviser-to-the-president-of-egypt-mohamed-morsi-claims-that-parliamentary-elections-will-commence-in-late-april-2013.md)
+_Context: Egypt, Egyptian President, Mohamed Morsi, Parliament of Egypt, the upcoming parliamentary election_
+
+### [The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaelogical excavation in Luxor, Egypt. ](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-pharaoh-ramses-ii-is-found-in-an-archaelogical-excavation-in-luxor-egypt.md)
+A pyramid that dates back more than 3000 years and was built for an adviser to King Ramses II has been discovered in Luxor.
+
+### [A study finds that bumblebees can sense electric fields around flowers. ](/news/2013/02/21/a-study-finds-that-bumblebees-can-sense-electric-fields-around-flowers.md)
+_Context: bumblebee, electric field, flower_
+
+### [The second legs of the 2012-13 UEFA Europa League round of 32 are held across Europe. Among the football teams eliminated are titleholders Atletico Madrid, Ajax (in the first ever penalty shootout in the knockout phase of the competition) and European giants Liverpool, while both London sides left, Tottenham and Chelsea, advance into the last 16. ](/news/2013/02/21/the-second-legs-of-the-2012a13-uefa-europa-league-round-of-32-are-held-across-europe-among-the-football-teams-eliminated-are-titleholders.md)
+While Chelsea FC and Tottenham Hotspur FC struck at the death, Liverpool FC and holders Club Atl&#233;tico de Madrid fell just short and AFC Ajax went out in historic fashion.
+
+### [29-year-old superheavyweight amateur boxer Jerimiah Moen dies in the hospital after his fight during Upper Midwest Golden Gloves tournament  in East Grand Forks, Minnesota, United States. ](/news/2013/02/21/29-year-old-superheavyweight-amateur-boxer-jerimiah-moen-dies-in-the-hospital-after-his-fight-during-upper-midwest-golden-gloves-tournament.md)
+Jerimiah &quot;J.J.&quot; Moen, a 29-year-old super-heavyweight, collapsed and lost consciousness seconds after the opening round in the first ring death in Minnesota in nearly 20 years and probably the second boxing match fatality in state history.
+
+### [The 2013 FIS Nordic World Ski Championships begin today in Val di Fiemme, Italy, with men's and women's sprint in cross-country skiing. ](/news/2013/02/21/the-2013-fis-nordic-world-ski-championships-begin-today-in-val-di-fiemme-italy-with-men-s-and-women-s-sprint-in-cross-country-skiing.md)
+FIS-Ski - International Ski Federation
+
+## [Previous Day...](/news/2013/02/20/index.md)
+

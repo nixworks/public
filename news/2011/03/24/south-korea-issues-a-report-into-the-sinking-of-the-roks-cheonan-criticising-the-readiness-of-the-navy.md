@@ -1,0 +1,23 @@
+### [2011-03-24](/news/2011/03/24/index.md)
+
+# South Korea issues a report into the sinking of the ROKS ''Cheonan criticising the readiness of the Navy. 
+
+South Korea issues a report criticising its lack readiness which allowed a North Korean attack on a warship one year ago.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12844507?utm_source=twitterfeed&utm_medium=twitter)
+
+### Related:
+
+1. [The South Korean Navy ship ''Choi Young'' arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md) _Context: South Korea, South Korean Navy_
+2. [The South Korean navy directs an operation against Somali pirates who hijacked a South Korean ship, rescuing all 21 hostages, while eight pirates are killed and five are captured. ](/news/2011/01/21/the-south-korean-navy-directs-an-operation-against-somali-pirates-who-hijacked-a-south-korean-ship-rescuing-all-21-hostages-while-eight-pi.md) _Context: South Korea, South Korean Navy_
+3. [The United Nations Security Council issues a Presidential Statement condemning the sinking of the South Korean warship ROKS ''Cheonan''. ](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.md) _Context: South Korea, sinking_
+4. [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS ''Cheonan''. ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md) _Context: South Korean Navy, sinking_
+5. [North Korea asks the United Nations Security Council to investigate the sinking of the ''Cheonan''. Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-south-korea-wants-the-coun.md) _Context: South Korea, sinking_
+6. [China encourages North Korea and South Korea  to avoid violent clashes in the aftermath of the sinking of a South Korean warship. ](/news/2010/05/30/china-encourages-north-korea-and-south-korea-to-avoid-violent-clashes-in-the-aftermath-of-the-sinking-of-a-south-korean-warship.md) _Context: South Korea, sinking_
+7. [North Korea says it will scrap an accord aimed at preventing accidental naval clashes with South Korea after being blamed for a torpedo attack that sank a South Korean warship. ](/news/2010/05/27/north-korea-says-it-will-scrap-an-accord-aimed-at-preventing-accidental-naval-clashes-with-south-korea-after-being-blamed-for-a-torpedo-atta.md) _Context: South Korea, sinking_
+8. [Sinking of the ROKS ''Cheonan'':South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-psouth-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md) _Context: South Korea, sinking_
+9. [Sinking of the ROKS ''Cheonan'':South Korea announces it will take the case of the sinking of the ''Cheonan'' to the United Nations Security Council. ](/news/2010/05/23/sinking-of-the-roks-cheonan-psouth-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-securit.md) _Context: South Korea, sinking_
+10. [The South Korean Defence Minister Kim Tae-Young announces that investigators have found traces of explosives in the wreck of the ROKS ''Cheonan'' that sank in March. ](/news/2010/05/10/the-south-korean-defence-minister-kim-tae-young-announces-that-investigators-have-found-traces-of-explosives-in-the-wreck-of-the-roks-cheo.md) _Context: South Korea, sinking_

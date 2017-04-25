@@ -1,0 +1,19 @@
+### [2002-09-27](/news/2002/09/27/index.md)
+
+#  East Timor becomes the 191st member of the United Nations.
+
+
+
+
+### Related:
+
+1. [ Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. ](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.md) _Context: East Timor, United Nations_
+2. [ The United Nations Security Council approves a new peacekeeping mission in East Timor, United Nations Integrated Mission in Timor-Leste (UNMIT), which will have 1,608 police and up to 35 military liaison officers. ](/news/2006/08/25/the-united-nations-security-council-approves-a-new-peacekeeping-mission-in-east-timor-united-nations-integrated-mission-in-timor-leste-un.md) _Context: East Timor, United Nations_
+3. [ After six years, the last United Nations peacekeepers have left East Timor. ](/news/2005/05/20/after-six-years-the-last-united-nations-peacekeepers-have-left-east-timor.md) _Context: East Timor, United Nations_
+4. [ A United Nations legal team meet Indonesian officials to begin an inquiry for human rights abuses and killings related to East Timor's independence in 1999. ](/news/2005/05/19/a-united-nations-legal-team-meet-indonesian-officials-to-begin-an-inquiry-for-human-rights-abuses-and-killings-related-to-east-timor-s-inde.md) _Context: East Timor, United Nations_
+5. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
+6. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
+7. [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md) _Context: United Nations_
+8. [Elections are held in East Timor to vote for the nation's 4th President. Francisco Guterres, runner-up in the 2007 and 2012 elections, is expected to win due to the support of Xanana Gusmao. ](/news/2017/03/20/elections-are-held-in-east-timor-to-vote-for-the-nation-s-4th-president-francisco-guterres-runner-up-in-the-2007-and-2012-elections-is-ex.md) _Context: East Timor_
+9. [The United Nations drop sanctions on Gulbuddin Hekmatyar after his Hezb-e Islami faction and the Afghan government reached a deal in September. Hekmatyar is granted immunity in exchange for his abandoning violence and supporting the Constitution of Afghanistan. ](/news/2017/02/4/the-united-nations-drop-sanctions-on-gulbuddin-hekmatyar-after-his-hezb-e-islami-faction-and-the-afghan-government-reached-a-deal-in-septemb.md) _Context: United Nations_
+10. [The United Nations and various humanitarian groups call on the international community to help prevent a possible famine in Somalia as rising food prices and drought have left over six million people at risk of starvation. ](/news/2017/02/3/the-united-nations-and-various-humanitarian-groups-call-on-the-international-community-to-help-prevent-a-possible-famine-in-somalia-as-risin.md) _Context: United Nations_

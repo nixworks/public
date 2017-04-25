@@ -1,0 +1,61 @@
+## [2013-01-27](/news/2013/01/27/index.md)
+
+### [War in Afghanistan (2001-present):At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/war-in-afghanistan-2001apresent-pat-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-da.md)
+_Context: Afghan security forces, Kandahar, War in Afghanistan (2001–present)_
+
+### [Syrian civil war:Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-preports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
+_Context: Damascus, Darayya, Syria, Syrian Civil War_
+
+### [Northern Mali conflict (2012-present): French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012apresent-pfrench-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-i.md)
+French and Malian forces move on Timbuktu after recapturing other northern towns from rebels, as African states discuss sending more troops.
+
+### [2012-2013 Egyptian protests:Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/2012a2013-egyptian-protests-pseven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port.md)
+At least seven people are killed and 630 others injured after violence breaks out at funeral procession in port city.
+
+### [Kiss nightclub fire: A fire at a nightclub in the southern Brazilian city of Santa Maria kills at least 235 people and injures at least 169 people. ](/news/2013/01/27/kiss-nightclub-fire-a-fire-at-a-nightclub-in-the-southern-brazilian-city-of-santa-maria-kills-at-least-235-people-and-injures-at-least-169.md)
+At least 233 people die in a fire that swept through a nightclub in southern Brazil, police say, after a musician reportedly let off fireworks on stage.
+
+### [At least 7 workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-7-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md)
+_Context: Bangladesh, Dhaka, fire_
+
+### [A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. ](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.md)
+_Context: Indonesia, Sumatra, landslide_
+
+### [Heavy rain caused by former Tropical Cyclone Oswald continues to cause significant flooding in the Australian state of Queensland with the capital Brisbane amongst those affected. ](/news/2013/01/27/heavy-rain-caused-by-former-tropical-cyclone-oswald-continues-to-cause-significant-flooding-in-the-australian-state-of-queensland-with-the-c.md)
+Brisbane and Ipswich will flood this week, with floodwaters predicted to inundate 3,600 homes and 1,250 businesses in Brisbane, Queensland Premier Campbell Newman says.
+
+### [A bus crashes and falls into a ravine near the eastern Portuguese town of Serta, killing 11 people and injuring 32. ](/news/2013/01/27/a-bus-crashes-and-falls-into-a-ravine-near-the-eastern-portuguese-town-of-sertaps-killing-11-people-and-injuring-32.md)
+At least 10 people die and more than 30 are injured after a bus crashes from a rain-soaked road into a ravine in the eastern Portuguese town of Serta.
+
+### [A retaining wall of a soccer field collapses during a match in the Ugur Sports Facility in Sirnak Province, Turkey, killing 7 people and injuring 3 others. ](/news/2013/01/27/a-retaining-wall-of-a-soccer-field-collapses-during-a-match-in-the-ugur-sports-facility-in-aa-rnak-province-turkey-killing-7-people-and-i.md)
+Rescuers searched for possible survivors following the collapse of a soccer field retaining wall in Turkey that killed seven people, officials said.
+
+### [Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. ](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.md)
+_Context: France, Paris, gay marriage_
+
+### [Voters in Bulgaria go to the polls to vote on a referendum on building a new nuclear power plant at Belene. ](/news/2013/01/27/voters-in-bulgaria-go-to-the-polls-to-vote-on-a-referendum-on-building-a-new-nuclear-power-plant-at-belene.md)
+A controversial referendum on whether to build a new nuclear power plant in Bulgaria appears to have been invalidated by low turnout.
+
+### [Using H-IIA rocket, Japan launches two spy satellites to collect sharp imagery for the government's defence and intelligence agency. ](/news/2013/01/27/using-h-iia-rocket-japan-launches-two-spy-satellites-to-collect-sharp-imagery-for-the-government-s-defence-and-intelligence-agency.md)
+Japan launched two spy satellites Sunday to collect sharp imagery for the government&#039;s defense and intelligence agencies.
+
+### [In tennis, Novak Djokovic wins the men's singles at the 2013 Australian Open after his four-set victory over Andy Murray in the final. The Serbian player becomes the first male player in the Open Era to win three consecutive Australian Open singles titles. ](/news/2013/01/27/in-tennis-novak-djokovic-wins-the-men-s-singles-at-the-2013-australian-open-after-his-four-set-victory-over-andy-murray-in-the-final-the-s.md)
+Novak Djokovic fights back to beat Andy Murray in four sets and win his third successive Australian Open in Melbourne.
+
+### [In chess, Magnus Carlsen, the world number one from Norway, wins the 2013 Tata Steel Chess Tournament ahead of Levon Aronian and Viswanathan Anand. ](/news/2013/01/27/in-chess-magnus-carlsen-the-world-number-one-from-norway-wins-the-2013-tata-steel-chess-tournament-ahead-of-levon-aronian-and-viswanathan.md)
+_Context: Levon Aronian, Magnus Carlsen, Norway, Tata Steel Chess Tournament, Viswanathan Anand, chess, world number one_
+
+### [In team handball, Spain wins 2013 World Men's Handball Championship defeating Denmark with a 35-19 score in the final. ](/news/2013/01/27/in-team-handball-spain-wins-2013-world-men-s-handball-championship-defeating-denmark-with-a-35a19-score-in-the-final.md)
+_Context: 2013 World Men's Handball Championship, Denmark, Spain, team handball_
+
+### [In boxing, 17-year-old Indonesian boxer Tubagus Sakti dies of a brain haemorrhage after losing a fight to Ical Tobida in Jakarta. ](/news/2013/01/27/in-boxing-17-year-old-indonesian-boxer-tubagus-sakti-dies-of-a-brain-haemorrhage-after-losing-a-fight-to-ical-tobida-in-jakarta.md)
+_Context: Indonesia, Jakarta, boxing, brain haemorrhage_
+
+### [In auto racing, Charlie Kimball, Juan Pablo Montoya, Scott Pruett and Memo Rojas from Chip Ganassi Racing team win 2013 24 Hours of Daytona. ](/news/2013/01/27/in-auto-racing-charlie-kimball-juan-pablo-montoya-scott-pruett-and-memo-rojas-from-chip-ganassi-racing-team-win-2013-24-hours-of-daytona.md)
+Chip Ganassi Racing claimed a fifth victory in its 10 years of competing at the Daytona 24 Hours after Juan Pablo Montoya came through to seal the honours in a thrilling final hour
+
+### [2012-13 FA Cup fourth round:European champions Chelsea twice come from behind to secure a replay against third-tier club Brentford in the first meeting between the teams since 1950. ](/news/2013/01/27/2012a13-fa-cup-fourth-round-peuropean-champions-chelsea-twice-come-from-behind-to-secure-a-replay-against-third-tier-club-brentford-in-the.md)
+Leeds send Tottenham crashing out of the FA Cup with a famous fourth-round victory at Elland Road.
+
+## [Previous Day...](/news/2013/01/26/index.md)
+

@@ -1,0 +1,23 @@
+### [2016-06-16](/news/2016/06/16/index.md)
+
+#  The Cleveland Cavaliers defeated the Golden State Warriors in Game 6 of the NBA finals 115-101, forcing a Game 7 which will be held in Oakland, California on June 19.
+
+
+
+
+### Source:
+
+1. [The New York Times](http://www.nytimes.com/2016/06/17/sports/basketball/cleveland-cavs-golden-state-warriors-game-6-nba-finals.html?_r=0)
+
+### Related:
+
+1. [In basketball, the Cleveland Cavaliers beat the Golden State Warriors in seven games to win the 2016 NBA Championship. Cleveland, winning its first NBA title in the franchise's 45-year history, also became the first NBA team to rally from a 3-1 deficit and win the crown. Tonight's victory also ends the 52-year title drought of Cleveland's major sports teams; in 1964, the Cleveland Browns shut out the Baltimore Colts for the NFL title. Cleveland's LeBron James is unanimously voted the Most Valuable Player of the NBA Finals, his third such award. ](/news/2016/06/19/in-basketball-the-cleveland-cavaliers-beat-the-golden-state-warriors-in-seven-games-to-win-the-2016-nba-championship-cleveland-winning-it.md) _Context: 2016 NBA Championship, Cleveland Cavaliers, Golden State Warriors_
+2. [In basketball, the Golden State Warriors defeat the Cleveland Cavaliers 105-97 in Game 6 to secure their first title since 1975. Andre Iguodala is named the series MVP.  ](/news/2015/06/16/in-basketball-the-golden-state-warriors-defeat-the-cleveland-cavaliers-105-97-in-game-6-to-secure-their-first-title-since-1975-andre-iguod.md) _Context: Cleveland Cavaliers, Golden State Warriors_
+3. [Portland Trail Blazers players, Golden State Warriors players and Warriors' fans get involved in a melee after the Trail Blazers beat the Warriors, 113-111 in Oakland. It might be the first time in NBA history that a home team's fans attack the visiting team during or after a game.](/news/2002/12/20/portland-trail-blazers-players-golden-state-warriors-players-and-warriors-fans-get-involved-in-a-melee-after-the-trail-blazers-beat-the-wa.md) _Context: Golden State Warriors, Oakland, California_
+4. [Two members of funk band Tower of Power are seriously injured after being struck by a train near Jack London Square in Oakland, California.](/news/2017/01/12/two-members-of-funk-band-tower-of-power-are-seriously-injured-after-being-struck-by-a-train-near-jack-london-square-in-oakland-california.md) _Context: Oakland, California_
+5. [The confirmed death toll in Friday night's warehouse fire in Oakland, California rises to 33 with several people still missing. ](/news/2016/12/4/the-confirmed-death-toll-in-friday-night-s-warehouse-fire-in-oakland-california-rises-to-33-with-several-people-still-missing.md) _Context: Oakland, California_
+6. [Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-warehouse-kills-at-least-nine.md) _Context: Oakland, California_
+7. [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md) _Context: Oakland, California_
+8. [A group of United States mayors forms ''"Mayors Against Discrimination"'' in the wake of  recent discriminatory laws enacted  in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carol.md) _Context: Oakland, California_
+9. [In basketball, the visiting Boston Celtics defeat the Golden State Warriors, snapping the Warrior's 14-month, 54-game home win streak which leaves the San Antonio Spurs with the only undefeated home record this season. ](/news/2016/04/2/in-basketball-the-visiting-boston-celtics-defeat-the-golden-state-warriors-snapping-the-warrior-s-14-month-54-game-home-win-streak-which.md) _Context: Golden State Warriors_
+10. [In basketball, Stephen Curry of the Golden State Warriors is named as Most Valuable Player of the North American National Basketball Association for the 2014-15 NBA season. ](/news/2015/05/4/in-basketball-stephen-curry-of-the-golden-state-warriors-is-named-as-most-valuable-player-of-the-north-american-national-basketball-associa.md) _Context: Golden State Warriors_

@@ -1,0 +1,24 @@
+### [2005-04-15](/news/2005/04/15/index.md)
+
+#  A Palestinian Fatah gunman infiltrates the Golan Heights from Syria and attacks an IDF outpost near the border. The outpost commander manages to disarm the gunman and arrest him. The IDF will investigate how the 21-year-old man, draped in a Palestinian flag, managed to penetrate so deep without being detected earlier. 
+
+
+
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/hasen/spages/565532.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4448233.stm)
+
+### Related:
+
+1. [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in  al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied.md) _Context: Golan Heights, Israel Defense Forces, Syria_
+2. [Israeli forces fire on pro-Palestinian protesters attempting to breach the Syrian-Israeli border in the Golan Heights on Naksa Day, marking the anniversary of the 1967 Six Day War; Syrian sources claim that close to 20 people are killed and over 325 injured, while Israeli officials confirm at least 12 injures. ](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.md) _Context: Golan Heights, Israel Defense Forces, Palestinian_
+3. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: Israel Defense Forces, Syria_
+4. [An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria-near-the-golan-heights.md) _Context: Golan Heights, Syria_
+5. [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md) _Context: Golan Heights, Israel Defense Forces_
+6. [The Prime Minister of Israel Benjamin Netanyahu vows that the Israeli-occupied Golan Heights, recognized as part of Syria, will forever stay in the country's hands and called on the international community to recognize Israeli sovereignty over the area. ](/news/2016/04/17/the-prime-minister-of-israel-benjamin-netanyahu-vows-that-the-israeli-occupied-golan-heights-recognized-as-part-of-syria-will-forever-stay.md) _Context: Golan Heights, Syria_
+7. [Israel says an Arab-Israeli man who served in the Israel Defense Forces (IDF) has joined Islamic State militants in Syria. ](/news/2015/12/13/israel-says-an-arab-israeli-man-who-served-in-the-israel-defense-forces-idf-has-joined-islamic-state-militants-in-syria.md) _Context: Israel Defense Forces, Syria_
+8. [Israeli security forces claim that Hezbollah and forces loyal to the President of Syria Bashar al-Assad are responsible for firing rockets from Syrian territory onto the Golan Heights into the mount Hermon sky resort. ](/news/2015/01/27/israeli-security-forces-claim-that-hezbollah-and-forces-loyal-to-the-president-of-syria-bashar-al-assad-are-responsible-for-firing-rockets-f.md) _Context: Golan Heights, Syria_
+9. [Syrian civil war:Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/syrian-civil-war-pisrael-and-syria-exchange-gunfire-on-the-golan-heights.md) _Context: Golan Heights, Syria_
+10. [Albert del Rosario, the Philippines Secretary of Foreign Affairs, wants to withdraw Filipino peacekeepers from the Golan Heights subsequent to Syrian rebels kidnapping four troops. ](/news/2013/05/10/albert-del-rosario-the-philippines-secretary-of-foreign-affairs-wants-to-withdraw-filipino-peacekeepers-from-the-golan-heights-subsequent.md) _Context: Golan Heights, Syria_

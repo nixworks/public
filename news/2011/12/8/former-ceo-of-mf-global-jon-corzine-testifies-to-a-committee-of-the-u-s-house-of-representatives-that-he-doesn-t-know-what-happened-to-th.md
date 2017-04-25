@@ -1,0 +1,23 @@
+### [2011-12-8](/news/2011/12/8/index.md)
+
+# Former CEO of MF Global, Jon Corzine, testifies to a committee of the U.S. House of Representatives that he doesn't know what happened to the hundreds of millions of dollars of customers' money, supposedly in segregated accounts, that appears to be missing. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2011/12/08/us-mfglobal-corzine-idUSTRE7B70ET20111208)
+
+### Related:
+
+1. [In the U.S., the Agriculture Committee of the U.S. House of Representatives votes to issue a subpoena to Jon Corzine, former Governor of New Jersey, in connection with the collapse of MF Global and the disappearance of customer funds. ](/news/2011/12/2/in-the-u-s-the-agriculture-committee-of-the-u-s-house-of-representatives-votes-to-issue-a-subpoena-to-jon-corzine-former-governor-of-new.md) _Context: Jon Corzine, MF Global, U.S. House of Representatives_
+2. [The U.S. District Court in Manhattan finds that the trustee of MF Global may proceed with a lawsuit against former executives thereof, including former CEO Jon Corzine. ](/news/2014/03/25/the-u-s-district-court-in-manhattan-finds-that-the-trustee-of-mf-global-may-proceed-with-a-lawsuit-against-former-executives-thereof-inclu.md) _Context: Jon Corzine, MF Global_
+3. [A U.S. District Court judge, Victor Marrero, denies a motion by former New Jersey Governor Jon Corzine, the former CEO of MF Global, to dismiss investor litigation intended to hold him accountable for MF Global's blow-up in October 2011. ](/news/2013/11/12/a-u-s-district-court-judge-victor-marrero-denies-a-motion-by-former-new-jersey-governor-jon-corzine-the-former-ceo-of-mf-global-to-dism.md) _Context: Jon Corzine, MF Global_
+4. [The Financial Services Committee of the United States House of Representatives receives a memo quoting Edith O'Brien, the treasurer of defunct broker MF Global, to the effect that Jon S. Corzine was personally ordering the transfer of customers' money to a brokerage account with JP Morgan Chase last October. ](/news/2012/03/23/the-financial-services-committee-of-the-united-states-house-of-representatives-receives-a-memo-quoting-edith-o-brien-the-treasurer-of-defun.md) _Context: Jon Corzine, MF Global_
+5. [A U.S. district court judge gives the go-ahead to a billion-dollar lawsuit against PricewaterhouseCoopers in connection with the losses at MF Global in October 2011. ](/news/2016/08/5/a-u-s-district-court-judge-gives-the-go-ahead-to-a-billion-dollar-lawsuit-against-pricewaterhousecoopers-in-connection-with-the-losses-at-m.md) _Context: MF Global_
+6. [The Republican Party-controlled U.S. House of Representatives votes to raise the government's borrowing limit for the next year, without attaching conditions, and sends the measure to the Senate for approval. ](/news/2014/02/11/the-republican-party-controlled-u-s-house-of-representatives-votes-to-raise-the-government-s-borrowing-limit-for-the-next-year-without-att.md) _Context: U.S. House of Representatives_
+7. [Republican U.S. House of Representatives member Bill Young of Florida dies in office. ](/news/2013/10/18/republican-u-s-house-of-representatives-member-bill-young-of-florida-dies-in-office.md) _Context: U.S. House of Representatives_
+8. [The U.S. House of Representatives voted overwhelmingly to end a Jackson-Vanik amendment, long-standing trade restriction with Russia. Also Magnitsky Law was adopted instead, it requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death, three years ago, of Sergei Magnitsky. ([http://www.washingtonpost.com/world/europe/russia-chafes-as-house-passes-magnitsky-bill/2012/11/16/b589e544-300f-11e2-a30e-5ca76eeec857_story.html Washington Post])](/news/2012/11/16/the-u-s-house-of-representatives-voted-overwhelmingly-to-end-a-jacksonavanik-amendment-long-standing-trade-restriction-with-russia-also.md) _Context: U.S. House of Representatives_
+9. [A bankruptcy court judge ruled that the trustee liquidating MF Global, James Giddens, and his law firm, Hughes Hubbard & Reed, are sufficiently "disinterested" in the disposition of assets for Giddens to continue his work in that capacity. ](/news/2011/12/27/a-bankruptcy-court-judge-ruled-that-the-trustee-liquidating-mf-global-james-giddens-and-his-law-firm-hughes-hubbard-reed-are-sufficien.md) _Context: MF Global_
+10. [Gary Gensler, chairman of the U.S. Commodity Futures Trading Commission, recuses himself from that agency's investigation into the bankruptcy of MF Global. ](/news/2011/11/7/gary-gensler-chairman-of-the-u-s-commodity-futures-trading-commission-recuses-himself-from-that-agency-s-investigation-into-the-bankruptc.md) _Context: MF Global_

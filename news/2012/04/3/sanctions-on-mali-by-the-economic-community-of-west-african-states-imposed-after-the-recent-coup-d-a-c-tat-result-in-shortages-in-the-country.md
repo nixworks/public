@@ -1,0 +1,23 @@
+### [2012-04-3](/news/2012/04/3/index.md)
+
+# Sanctions on Mali by the Economic Community of West African States imposed after the recent coup d'etat result in shortages in the country. 
+
+Malians scramble to stockpile fuel and other items as post-coup embargo by West African neighbours begins to take hold.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/201243124638453622.html)
+
+### Related:
+
+1. [Malian interim President Dioncounda Traore appoints Django Sissoko to be a new Acting Prime Minister, after his predecessor Cheick Modibo Diarra was forced to resign by leaders of the 2012 coup d'etat. ](/news/2012/12/12/malian-interim-president-dioncounda-traora-c-appoints-django-sissoko-to-be-a-new-acting-prime-minister-after-his-predecessor-cheick-modibo-d.md) _Context: Mali, Mali's coup_
+2. [2012 Malian coup d'tat: The Economic Community of West African States pledges to send troops to Mali if the country agrees. ](/news/2012/05/3/2012-malian-coup-d-etat-the-economic-community-of-west-african-states-pledges-to-send-troops-to-mali-if-the-country-agrees.md) _Context: ECOWAS, Mali_
+3. [2012 Mali counter-coup attempt: Heavy fighting takes place in the Malian capital Bamako between coup supporters and opponents. ](/news/2012/05/1/2012-mali-counter-coup-attempt-heavy-fighting-takes-place-in-the-malian-capital-bamako-between-coup-supporters-and-opponents.md) _Context: Mali, Mali's coup_
+4. [2012 Malian coup d'tat: Mali coup leader Amadou Haya Sanogo rejects a decision by the Economic Community of West African States to deploy troops to the country. ](/news/2012/04/29/2012-malian-coup-d-etat-mali-coup-leader-amadou-haya-sanogo-rejects-a-decision-by-the-economic-community-of-west-african-states-to-deploy-t.md) _Context: ECOWAS, Mali_
+5. [Former Malian President Amadou Toumani Toure arrives in Senegal after being ousted in a military coup. ](/news/2012/04/20/former-malian-president-amadou-toumani-toure-arrives-in-senegal-after-being-ousted-in-a-military-coup.md) _Context: Mali, Mali's coup_
+6. [Mali appoints Cheick Modibo Diarra, Microsoft chairman for Africa and a former NASA astrophysicist, as its interim prime minister after a coup d'etat. ](/news/2012/04/17/mali-appoints-cheick-modibo-diarra-microsoft-chairman-for-africa-and-a-former-nasa-astrophysicist-as-its-interim-prime-minister-after-a-co.md) _Context: Mali, Mali's coup_
+7. [2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. ](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.md) _Context: Mali, Mali's coup_
+8. [Lieutenant General Ousman Badjie, chief of the Gambian army, recognizes Adama Barrow as the new commander-and-chief of the armed forces and says that his troops will not fight ECOWAS soldiers. ](/news/2017/01/20/lieutenant-general-ousman-badjie-chief-of-the-gambian-army-recognizes-adama-barrow-as-the-new-commander-and-chief-of-the-armed-forces-and.md) _Context: ECOWAS_
+9. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali_
+10. [Aftermath of the President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/aftermath-of-the-president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-at.md) _Context: Mali_

@@ -1,0 +1,25 @@
+## [2008-11-20](/news/2008/11/20/index.md)
+
+### [ United States Attorney General Michael Mukasey collapses while giving a speech to the Federalist Society in Washington, D.C. ](/news/2008/11/20/united-states-attorney-general-michael-mukasey-collapses-while-giving-a-speech-to-the-federalist-society-in-washington-d-c.md)
+Michael Mukasey collapsed while giving a speech to the Federalist Society in Washington.
+
+### [ The Swedish Parliament ratifies the Treaty of Lisbon. ](/news/2008/11/20/the-swedish-parliament-ratifies-the-treaty-of-lisbon.md)
+_Context: Riksdag, Sweden, Treaty of Lisbon_
+
+### [ NASA's Mars Reconnaissance Orbiter discovers evidence of enormous underground deposits of water ice on Mars; one such deposit, under Hellas Planitia, is estimated to be the size of Los Angeles. ](/news/2008/11/20/nasa-s-mars-reconnaissance-orbiter-discovers-evidence-of-enormous-underground-deposits-of-water-ice-on-mars-one-such-deposit-under-hellas.md)
+_Context: Hellas Planitia, Los Angeles, Mars, Mars Reconnaissance Orbiter, NASA, ice, underground deposits, water_
+
+### [ Global financial crisis of 2008: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-p-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md)
+_Context: Chrysler, Ford Motor Company, General Motors, Global financial crisis of 2008, U.S. Congress, automakers, global crisis_
+
+### [ At least one person is dead and twenty injured after a bomb is thrown into a People's Alliance for Democracy protest compound in Bangkok, Thailand. ](/news/2008/11/20/at-least-one-person-is-dead-and-twenty-injured-after-a-bomb-is-thrown-into-a-people-s-alliance-for-democracy-protest-compound-in-bangkok-t.md)
+At least one person has died in Bangkok after a bomb was thrown into a compound full of anti-government protesters.
+
+### [ Piracy in Somalia: The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/piracy-in-somalia-p-the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md)
+_Context: Gulf of Aden, Russia, Russian Navy, Somali pirates, Somalia_
+
+### [ Five Guantnamo Bay detainees who successfully argued ''Boumediene v. Bush'' before the Supreme Court are ordered freed by Judge Richard J. Leon of the District Court for Washington, D.C. ](/news/2008/11/20/five-guantanamo-bay-detainees-who-successfully-argued-boumediene-v-bush-before-the-supreme-court-are-ordered-freed-by-judge-richard-j.md)
+A federal judge ordered the release of five Algerian men held at Guantánamo Bay for nearly seven years.
+
+## [Previous Day...](/news/2008/11/19/index.md)
+

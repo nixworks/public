@@ -1,0 +1,23 @@
+### [2011-01-3](/news/2011/01/3/index.md)
+
+# Republican U.S. Representative Darrell Issa calls for Attorney General Eric Holder to resign over lack of progress in prosecuting Julian Assange, and plans are announced of holding a congressional inquiry into Wikileaks and Assange. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/media/2011/jan/03/republicans-wikileaks-investigation)
+
+### Related:
+
+1. [The United States House of Representatives holds Attorney-General Eric Holder in contempt for his perceived obstruction of the Congressional investigation into Operation Fast and Furious. Most House Republicans and 17 Democrats approve the decision. ](/news/2012/06/28/the-united-states-house-of-representatives-holds-attorney-general-eric-holder-in-contempt-for-his-perceived-obstruction-of-the-congressional.md) _Context: Eric Holder, U.S. House, United States Attorney General_
+2. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Republican, U.S. House_
+3. [A leaked memo from House Republicans reveals cutting provisions from Obamacare such as Medicaid expansions and subsidies for health insurance. ](/news/2017/02/25/a-leaked-memo-from-house-republicans-reveals-cutting-provisions-from-obamacare-such-as-medicaid-expansions-and-subsidies-for-health-insuranc.md) _Context: Republican, U.S. House_
+4. [The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-criticism-including-a-tweet-by-pres.md) _Context: Republican, U.S. House_
+5. [Members of the Republican party in the United States House of Representatives nominate Paul Ryan of Wisconsin to replace John Boehner of Ohio as Speaker of the House.  There will be a formal vote Thursday on the House floor. ](/news/2015/10/28/members-of-the-republican-party-in-the-united-states-house-of-representatives-nominate-paul-ryan-of-wisconsin-to-replace-john-boehner-of-ohi.md) _Context: Republican, U.S. House_
+6. [London police end their three-year long, round-the-clock guard outside the Ecuadorian Embassy   waiting to arrest WikiLeaks founder Julian Assange. Officers have been stationed at this embassy since June 2012.  Police said the operation cost 11.1 million pounds (17.6 million dollars) through April 2015. Assange is wanted for jumping bail in England and sexual assault allegations in Sweden. Assange denies the Swedish charges and suspects the real reason is to bring him to the U.S. ](/news/2015/10/12/london-police-end-their-three-year-long-round-the-clock-guard-outside-the-ecuadorian-embassy-waiting-to-arrest-wikileaks-founder-julian-a.md) _Context: Julian Assange, WikiLeaks_
+7. [Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. ](/news/2015/08/13/swedish-prosecutors-drop-some-charges-against-wikileaks-founder-julian-assange-as-the-statute-of-limitations-expire-but-will-continue-to-inv.md) _Context: Julian Assange, WikiLeaks_
+8. [The Swedish Supreme Court rejects a bid from Wikileaks founder Julian Assange to revoke the warrant for his detention in 2010. ](/news/2015/05/11/the-swedish-supreme-court-rejects-a-bid-from-wikileaks-founder-julian-assange-to-revoke-the-warrant-for-his-detention-in-2010.md) _Context: Julian Assange, WikiLeaks_
+9. [Wikileaks founder Julian Assange, who is wanted for questioning in Sweden, says that he will leave his refuge in the Ecuadorean embassy in London "soon". ](/news/2014/08/18/wikileaks-founder-julian-assange-who-is-wanted-for-questioning-in-sweden-says-that-he-will-leave-his-refuge-in-the-ecuadorean-embassy-in-l.md) _Context: Julian Assange, WikiLeaks_
+10. [Talks between the foreign ministers of Britain and Ecuador end with no breakthrough over WikiLeaks founder Julian Assange, who remains in the country's London embassy. ](/news/2013/06/17/talks-between-the-foreign-ministers-of-britain-and-ecuador-end-with-no-breakthrough-over-wikileaks-founder-julian-assange-who-remains-in-th.md) _Context: Julian Assange, WikiLeaks_

@@ -1,0 +1,24 @@
+### [2005-04-10](/news/2005/04/10/index.md)
+
+#  A magnitude 6.1 earthquake strikes Tokyo. There are no reports of serious damages. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8136399)
+2. [Japan Times](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20050411x1.htm)
+
+### Related:
+
+1. [A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. ](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.md) _Context: Tokyo, earthquake_
+2. [ A 5.3 magnitude aftershock hits the Noto Peninsula of Honshu, 300 km northwest of Tokyo, a day after a 6.9 magnitude earthquake hits the same area. ](/news/2007/03/26/a-5-3-magnitude-aftershock-hits-the-noto-peninsula-of-honsha-300-km-northwest-of-tokyo-a-day-after-a-6-9-magnitude-earthquake-hits-the-s.md) _Context: Tokyo, earthquake_
+3. [ The strongest earthquake to hit Tokyo in more than a decade strikes eastern Japan at 4:35 p.m. local time, injuring at least 27 people, rattling buildings and disrupting train and plane services. ](/news/2005/07/23/the-strongest-earthquake-to-hit-tokyo-in-more-than-a-decade-strikes-eastern-japan-at-4-35-p-m-local-time-injuring-at-least-27-people-rat.md) _Context: Tokyo, earthquake_
+4. [ Japan Meteorological Agency issues tsunami warnings near the Izu island chain south of Tokyo after a strong undersea earthquake (6.8 on the Richter scale). ](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.md) _Context: Tokyo, earthquake_
+5. [Four earthquakes of magnitude 5.1 or higher strike near Amatrice, Italy, forcing evacuation of some schools and the Rome Metro. No deaths are reported from the quakes.  ](/news/2017/01/18/four-earthquakes-of-magnitude-5-1-or-higher-strike-near-amatrice-italy-forcing-evacuation-of-some-schools-and-the-rome-metro-no-deaths-ar.md) _Context: earthquake_
+6. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: earthquake_
+7. [Tokyo breaks ground for the National Olympic Stadium on the site of the stadium used for the 1964 Olympic Games. ](/news/2016/12/11/tokyo-breaks-ground-for-the-national-olympic-stadium-on-the-site-of-the-stadium-used-for-the-1964-olympic-games.md) _Context: Tokyo_
+8. [A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. ](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.md) _Context: earthquake_
+9. [A 6.6 magnitude earthquake occurs in Central Italy 68 kilometres east southeast of Perugia. Many buildings are reported as having been destroyed. ](/news/2016/10/30/a-6-6-magnitude-earthquake-occurs-in-central-italy-68-kilometres-east-southeast-of-perugia-many-buildings-are-reported-as-having-been-destr.md) _Context: earthquake_
+10. [A 6.0 magnitude earthquake strikes Agusan del Sur province in Mindanao island. ](/news/2016/09/4/a-6-0-magnitude-earthquake-strikes-agusan-del-sur-province-in-mindanao-island.md) _Context: earthquake_

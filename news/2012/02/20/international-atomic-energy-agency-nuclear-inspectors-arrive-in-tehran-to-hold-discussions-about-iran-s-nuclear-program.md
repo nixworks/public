@@ -1,0 +1,23 @@
+### [2012-02-20](/news/2012/02/20/index.md)
+
+# International Atomic Energy Agency nuclear inspectors arrive in Tehran to hold discussions about Iran's nuclear program. 
+
+
+
+
+### Source:
+
+1. [Deutsche Welle](http://www.dw.de/dw/article/0,,15751907,00.html)
+
+### Related:
+
+1. [International Atomic Energy Agency (IAEA) director general Yukiya Amano begins talks in Tehran aimed at convincing the Iranian government to co-operate with the agency. ](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.md) _Context: International Atomic Energy Agency, Iran, Tehran_
+2. [ The International Atomic Energy Agency propose draft agreement for Iran and three world powers to agree, aimed at reducing international concerns over Tehran's nuclear programme. ](/news/2009/10/21/the-international-atomic-energy-agency-propose-draft-agreement-for-iran-and-three-world-powers-to-agree-aimed-at-reducing-international-co.md) _Context: International Atomic Energy Agency, Iran, Tehran_
+3. [ Iran invites the International Atomic Energy Agency to Tehran to discuss its nuclear program. ](/news/2007/06/25/iran-invites-the-international-atomic-energy-agency-to-tehran-to-discuss-its-nuclear-program.md) _Context: International Atomic Energy Agency, Iran, Tehran_
+4. [The 17-story Plasco Building collapses after a blaze in Tehran, Iran. The building was evacuated but 30 firefighters have been killed in the collapse. ](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-blaze-in-tehran-iran-the-building-was-evacuated-but-30-firefighters-have-been-killed-in-the.md) _Context: Iran, Tehran_
+5. [As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. ](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.md) _Context: Iran, Tehran_
+6. [Saudi Arabia breaks off diplomatic relations with Iran after Sheikh Nimr's execution and an attack on the Saudi embassy in Tehran. ](/news/2016/01/3/saudi-arabia-breaks-off-diplomatic-relations-with-iran-after-sheikh-nimr-s-execution-and-an-attack-on-the-saudi-embassy-in-tehran.md) _Context: Iran, Tehran_
+7. [Pakistani prime minister Nawaz Sharif and army chief General Raheel Sharif will visit Riyadh on Monday and Tehran on Tuesday to launch mediation efforts between Iran and Saudi Arabia for normalization of relations and to ease the tensions in the region after Saudi Arabia executed a prominent Shia cleric Sheikh Nimr and an attack on the Saudi Embassy in Tehran. ](/news/2016/01/17/pakistani-prime-minister-nawaz-sharif-and-army-chief-general-raheel-sharif-will-visit-riyadh-on-monday-and-tehran-on-tuesday-to-launch-media.md) _Context: Iran, Tehran_
+8. [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md) _Context: International Atomic Energy Agency, Iran_
+9. [Russia's envoy to the International Atomic Energy Agency says he expects the historic nuclear deal between Iran and world powers, the P5+1, to be implemented in January. Before the end of the year, Iran will exchange its stockpile of low-enriched uranium for Russia's non-enriched forms of uranium, he said. ](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.md) _Context: International Atomic Energy Agency, Iran_
+10. [Eleven tons of enriched uranium are on a ship heading from Iran to Russia, per the July 14th international agreement. Iran delivers 200 tons of Russian yellowcake in return. The International Atomic Energy Agency will decide when Tehran has complied with its obligations which would make dismantling of economic sanctions possible.  ](/news/2015/12/28/eleven-tons-of-enriched-uranium-are-on-a-ship-heading-from-iran-to-russia-per-the-july-14th-international-agreement-iran-delivers-200-tons.md) _Context: International Atomic Energy Agency, Iran_

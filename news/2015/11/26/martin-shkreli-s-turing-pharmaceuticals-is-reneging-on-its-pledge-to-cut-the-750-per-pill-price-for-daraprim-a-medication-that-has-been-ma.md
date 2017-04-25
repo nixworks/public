@@ -1,0 +1,23 @@
+### [2015-11-26](/news/2015/11/26/index.md)
+
+# Martin Shkreli's Turing Pharmaceuticals is reneging on its pledge to cut the $750-per-pill price for Daraprim, a medication that has been marketed for 62 years. Instead, the biotech company is reducing what it charges hospitals, by up to 50 percent, for this parasitic infection treatment. Imprimis Pharmaceuticals, a pharmacy that compounds prescription drugs for individual patients, started selling a custom-made version of Pyrimethamine, the chemical name for Daraprim, for 99 cents per capsule. Impris reports orders are pouring in from doctors.  
+
+The pharmaceutical company instead agreed to cut the prices it charges hospitals for Daraprim.
+
+
+### Source:
+
+1. [AP via Washington Post](http://www.washingtonpost.com/business/economy/turing-reneges-on-drug-price-cut-rivals-version-sells-well/2015/11/25/d2c22bd8-93cd-11e5-b5e4-279b4501e8a6_story.html?wpmm=1&wpisrc=nl_evening)
+
+### Related:
+
+1. [Imprimis Pharmaceuticals Inc. announces it will begin selling $1 doses of the antimalarial drug used for HIV patients, pyrimethamine (generic name for Daraprim), whose price was recently raised to $750 per pill by Turing Pharmaceuticals following Martin Shkreli's purchase of its marketing rights this year. Imprimis also plans to start making inexpensive versions of other generic drugs whose prices have skyrocketed. ](/news/2015/10/23/imprimis-pharmaceuticals-inc-announces-it-will-begin-selling-1-doses-of-the-antimalarial-drug-used-for-hiv-patients-pyrimethamine-generi.md) _Context: Martin Shkreli, Pyrimethamine_
+2. [The earthquake death toll rises to 116.  Tainan's disaster response office says  search and rescue operations have ended. The last body was found yesterday. Ninety-six, of the 289 people rescued, remain hospitalized. ](/news/2016/02/14/the-earthquake-death-toll-rises-to-116-tainan-s-disaster-response-office-says-search-and-rescue-operations-have-ended-the-last-body-was.md) _Context: hospital_
+3. [Turing Pharmaceuticals says that it is looking for a new CEO in the aftermath of the indictment of its old boss, Martin Shkreli, on securities fraud charges. Turing and Shkreli became infamous together in September 2015, when they hiked the price of an AIDS drug by 5000%. ](/news/2015/12/22/turing-pharmaceuticals-says-that-it-is-looking-for-a-new-ceo-in-the-aftermath-of-the-indictment-of-its-old-boss-martin-shkreli-on-securiti.md) _Context: Martin Shkreli_
+4. [United States federal prosecutors in New York City arrest Martin Shkreli on securities fraud charges for allegedly plundering for personal gain Retrophin, a biopharmaceutical company he ran as CEO from 2012 to 2014. ](/news/2015/12/17/united-states-federal-prosecutors-in-new-york-city-arrest-martin-shkreli-on-securities-fraud-charges-for-allegedly-plundering-for-personal-g.md) _Context: Martin Shkreli_
+5. [Two hospital nurses are arrested in the Uruguayan capital Montevideo in connection with the suspicious death of dozens of patients over several years at two hospitals. ](/news/2012/03/18/two-hospital-nurses-are-arrested-in-the-uruguayan-capital-montevideo-in-connection-with-the-suspicious-death-of-dozens-of-patients-over-seve.md) _Context: hospital_
+6. [United States Representative Gabrielle Giffords leaves hospital in Tucson, Arizona for rehabilitation in Houston, Texas less than two weeks after the 2011 Tucson shooting. ](/news/2011/01/21/united-states-representative-gabrielle-giffords-leaves-hospital-in-tucson-arizona-for-rehabilitation-in-houston-texas-less-than-two-weeks.md) _Context: hospital_
+7. [ The Sri Lankan Army kills 91 people and injures 87 others at a hospital inside a civilian safe zone. ](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.md) _Context: hospital_
+8. [ Artillery shelling kills 50 people and injures 40 more at a hospital in Sri Lanka's war zone. ](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.md) _Context: hospital_
+9. [ Six laptops containing information on about 20,000 patients are stolen from a London hospital. ](/news/2008/06/18/six-laptops-containing-information-on-about-20-000-patients-are-stolen-from-a-london-hospital.md) _Context: hospital_
+10. [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md) _Context: hospital_

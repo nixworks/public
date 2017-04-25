@@ -1,0 +1,23 @@
+### [2015-12-13](/news/2015/12/13/index.md)
+
+# Syrian rebels fire volleys of mortar shells into Damascus,  killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that  kill at least 35  people and injure many more, according to the Syrian Observatory for Human Rights.  
+
+
+
+
+### Source:
+
+1. [Reuters](https://www.washingtonpost.com/world/middle_east/syria-child-killed-as-mortar-shells-strike-damascus/2015/12/13/7c0e68d2-a184-11e5-8318-bd8caed8c588_story.html)
+
+### Related:
+
+1. [The British-based Syrian Observatory for Human Rights reports U.S.-led coalition airstrikes on the  Islamic State-held city of Manbij in northern Syria kill at least 56 civilians, including 11 children, and injure dozens more. ](/news/2016/07/19/the-british-based-syrian-observatory-for-human-rights-reports-u-s-led-coalition-airstrikes-on-the-islamic-state-held-city-of-manbij-in-nor.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights, airstrike_
+2. [The Syrian Observatory for Human Rights says Syrian rebels have seized control of the al-Tanf border crossing on the Iraq-Syria border from ISIL militants. The rebel fighters who took the crossing reportedly entered Syria through Jordan. ](/news/2016/03/4/the-syrian-observatory-for-human-rights-says-syrian-rebels-have-seized-control-of-the-al-tanf-border-crossing-on-the-iraqasyria-border-fro.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights, Syrian rebels_
+3. [The Syrian Observatory for Human Rights says suspected Russian airstrikes kill 32 civilians, half of them women and children, in three areas in northern Syria. No suspected militants were killed in the attacks. ](/news/2015/12/18/the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-children-in-three-areas.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights, airstrike_
+4. [According to the Syrian Observatory for Human Rights, a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma kills at least 110 people and leaves hundreds injured. ](/news/2015/08/16/according-to-the-syrian-observatory-for-human-rights-a-series-of-air-raids-by-the-syrian-arab-air-force-on-the-rebel-held-market-town-of-do.md) _Context: Douma, Syrian Civil War, Syrian Observatory for Human Rights, Syrian rebels_
+5. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+6. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syria, Syrian Civil War_
+7. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+8. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syria, Syrian Civil War_
+9. [Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. ](/news/2017/02/14/rival-fighters-between-tahrir-al-sham-and-jund-al-aqsa-clash-in-syria-s-northern-idlib-governorate-killing-dozens-according-to-the-syrian.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+10. [The Syrian Army recaptures all of the towns and villages in the Barada river valley near Damascus from rebel forces. ](/news/2017/01/29/the-syrian-army-recaptures-all-of-the-towns-and-villages-in-the-barada-river-valley-near-damascus-from-rebel-forces.md) _Context: Damascus, Syrian Civil War, Syrian rebels_

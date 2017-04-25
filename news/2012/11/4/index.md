@@ -1,0 +1,31 @@
+## [2012-11-4](/news/2012/11/4/index.md)
+
+### [Syrian civil war: Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-psyrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md)
+Syrian rebels capture a key oilfield in eastern Deir Ezzor province, activists say, the first time such a facility has been taken.
+
+### [A car bomb detonates in Semdinli, Turkey, killing 1 and injuring 12. The attack is blamed on Kurdish rebels. ](/news/2012/11/4/a-car-bomb-detonates-in-semdinli-turkey-killing-1-and-injuring-12-the-attack-is-blamed-on-kurdish-rebels.md)
+A car bomb targeting a military vehicle in southeast Turkey on Sunday killed an 11-year-old child and wounded 18 other people, Turkish officials said.
+
+### [A policeman is killed and 11 others are injured in a grenade attack on a church in the Kenyan town of Garissa near the border with Somalia. ](/news/2012/11/4/a-policeman-is-killed-and-11-others-are-injured-in-a-grenade-attack-on-a-church-in-the-kenyan-town-of-garissa-near-the-border-with-somalia.md)
+_Context: Garissa, Somalia_
+
+### [Iran's Revolutionary Guard Corps establish and inaugurate a new naval base on the Strait of Hormuz, near Bandar Lengeh. ](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.md)
+_Context: Bandar Lengeh, Iranian Revolutionary guards, Strait of Hormuz_
+
+### [Danny Boyle and Nicholas Serota write a letter criticising the decision by a Tower Hamlets London Borough Council to sell the Henry Moore sculpture ''Draped Seated Woman''. Moore sold the sculpture at a fraction of its market value in the 1960s on the understanding that it would be displayed in a public space in a socially deprived area. ](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.md)
+The Oscar-winning film-maker joins leading arts figures to write a letter protesting the sale of a Henry Moore sculpture by a London council.
+
+### [Somalia's Prime Minister Abdi Farah Shirdon, who lives in Kenya, appoints a new 10-member cabinet, including Somalia's first female Foreign Minister, Fowsiyo Yussuf Haji Aadan. ](/news/2012/11/4/somalia-s-prime-minister-abdi-farah-shirdon-who-lives-in-kenya-appoints-a-new-10-member-cabinet-including-somalia-s-first-female-foreign.md)
+_Context: Abdi Farah Shirdon, Fowsiyo Yussuf Haji Aadan_
+
+### [Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. ](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.md)
+_Context: 118th, Coptic Christian pope, Coptic Orthodox Church, Tawadros_
+
+### [Finnish racing driver Kimi Rikknen wins Formula One's 2012 Abu Dhabi Grand Prix ahead of Fernando Alonso and Sebastian Vettel. ](/news/2012/11/4/finnish-racing-driver-kimi-raikkonen-wins-formula-one-s-2012-abu-dhabi-grand-prix-ahead-of-fernando-alonso-and-sebastian-vettel.md)
+Kimi Raikkonen wins the Abu Dhabi GP as Sebastian Vettel held on to his championship lead despite starting from the pit lane.
+
+### [In women's tennis, the Czech Republic defeats Serbia 3-1 to win the 2012 Fed Cup. ](/news/2012/11/4/in-women-s-tennis-the-czech-republic-defeats-serbia-3-1-to-win-the-2012-fed-cup.md)
+Lucie Safarova beats Jelena Jankovic to ensure the Czech Republic defend their Fed Cup title with a 3-1 victory over Serbia.
+
+## [Previous Day...](/news/2012/11/3/index.md)
+

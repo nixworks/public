@@ -1,0 +1,22 @@
+## [2013-07-7](/news/2013/07/7/index.md)
+
+### [A serial blast injures 5 people near Mahabodhi temple at Bodh Gaya, in the Indian state of Bihar. ](/news/2013/07/7/a-serial-blast-injures-5-people-near-mahabodhi-temple-at-bodh-gaya-in-the-indian-state-of-bihar.md)
+Nine blasts took place outside the world famous temple at around 5am today.Initial reports said that there has been no damage to the temple.
+
+### [A De Havilland Otter air taxi crashes near the Soldotna Airport in Soldotna, Alaska, killing all ten on board. ](/news/2013/07/7/a-de-havilland-otter-air-taxi-crashes-near-the-soldotna-airport-in-soldotna-alaska-killing-all-ten-on-board.md)
+Get the latest breaking news across the U.S. on ABCNews.com
+
+### [Abu Qatada, a Palestinian Muslim cleric allegedly affiliated with al-Qaeda, is deported from the United Kingdom to Jordan to face charges of terrorism. ](/news/2013/07/7/abu-qatada-a-palestinian-muslim-cleric-allegedly-affiliated-with-al-qaeda-is-deported-from-the-united-kingdom-to-jordan-to-face-charges-of.md)
+Radical cleric Abu Qatada is held in a high security jail near the Jordanian capital Amman, after being deported from the UK.
+
+### [Police in Sweden fatally shoot a knife-wielding man after he allegedly stabbed three people, an elderly woman fatally. ](/news/2013/07/7/police-in-sweden-fatally-shoot-a-knife-wielding-man-after-he-allegedly-stabbed-three-people-an-elderly-woman-fatally.md)
+Police in Sweden have shot and killed a knife-wielding man after he allegedly stabbed three people, including an elderly woman who died from her injuries.
+
+### [Opponents of deposed Egyptian president Mohamed Morsi call for demonstrations to be held today in the aftermath of the 2013 Egyptian coup d'etat ](/news/2013/07/7/opponents-of-deposed-egyptian-president-mohamed-morsi-call-for-demonstrations-to-be-held-today-in-the-aftermath-of-the-2013-egyptian-coup-d.md)
+_Context: Aftermath of the 2013 Egyptian coup d'état, Egyptian President, Mohamed Morsi_
+
+### [Andy Murray of the United Kingdom wins the Men's Singles at Wimbledon, defeating Novak Djokovic of Serbia in straight sets. Murray becomes the first British man to win Wimbledon since Fred Perry in 1936. ](/news/2013/07/7/andy-murray-of-the-united-kingdom-wins-the-men-s-singles-at-wimbledon-defeating-novak-djokovic-of-serbia-in-straight-sets-murray-becomes-t.md)
+_Context: Andy Murray, Fred Perry, Men's Singles, Novak Djokovic, Serbia, United Kingdom, Wimbledon_
+
+## [Previous Day...](/news/2013/07/6/index.md)
+

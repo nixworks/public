@@ -1,0 +1,11 @@
+### [2009-11-14](/news/2009/11/14/index.md)
+
+#  U.S. evangelist Tony Alamo is sentenced to 175 years in prison for taking underage girls across several states for sexual intercourse. 
+
+Tony Alamo, a US preacher, has been sentenced to 175 years in prison for taking underage girls across state lines for sexual intercourse.
+
+
+### Source:
+
+1. [Telegraph.co.uk](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/6565830/US-evangelist-Tony-Alamo-gets-175-years-for-sex-crimes.html)
+2. [CNN](http://edition.cnn.com/2009/CRIME/11/13/arkansas.evangelist.trial/)

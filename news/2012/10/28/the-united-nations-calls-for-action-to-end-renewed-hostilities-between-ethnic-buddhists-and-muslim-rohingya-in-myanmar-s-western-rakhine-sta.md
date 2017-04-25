@@ -1,0 +1,23 @@
+### [2012-10-28](/news/2012/10/28/index.md)
+
+# The United Nations calls for action to end renewed hostilities between ethnic Buddhists and Muslim Rohingya in Myanmar's western Rakhine State that have killed dozens and displaced more than 22,500. 
+
+World body says more than 22,000 people have been displaced after a flare-up in fighting between Muslims and Buddhists.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/10/20121028111853775290.html)
+
+### Related:
+
+1. [According to Myanmar's military, it has ended its "clearance operation" against the country's Rohingya minority in Rakhine State, which the United Nations says may amount to ethnic cleansing and crimes against humanity. ](/news/2017/02/16/according-to-myanmar-s-military-it-has-ended-its-clearance-operation-against-the-country-s-rohingya-minority-in-rakhine-state-which-the.md) _Context: Rakhine State, Rohingya minority, United Nations_
+2. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country,  and calls on Myanmar State Counsellor   Aung San Suu Kyi and the United Nations to address the Rohingya's plight  and end the violence.   Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the  Association of Southeast Asian Nations's principle on  sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Myanmar, Rohingya minority, United Nations_
+3. [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _Context: Myanmar, Rohingya minority, United Nations_
+4. [A Buddhist mob torches more than 70 Muslim homes and stabs a 94-year-old woman to death in Rakhine State, Myanmar. ](/news/2013/10/1/a-buddhist-mob-torches-more-than-70-muslim-homes-and-stabs-a-94-year-old-woman-to-death-in-rakhine-state-myanmar.md) _Context: Buddhist, Myanmar, Rakhine State_
+5. [The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-military-and-police-forces-against-myanmar-s-rohi.md) _Context: Myanmar, Rohingya minority_
+6. [Yanghee Lee, the United Nations special human rights envoy to overwhelmingly Buddhist Myanmar, says more than 100,000 of the Muslim Rohingya minority remain in squalid camps they were forced to four years ago by violence. The government does not recognize most of these people as citizens, and has treated even long-term residents as illegal immigrants. Lee is encouraged by last March's peaceful transition to a democratically elected and civilian-led government. ](/news/2016/07/1/yanghee-lee-the-united-nations-special-human-rights-envoy-to-overwhelmingly-buddhist-myanmar-says-more-than-100-000-of-the-muslim-rohingya.md) _Context: Myanmar, Rohingya minority_
+7. [  Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-a.md) _Context: Myanmar, Rohingya minority_
+8. [Two boats carrying 500 members of Myanmar's Rohingya Muslim people arrive in western Indonesia. ](/news/2015/05/10/two-boats-carrying-500-members-of-myanmar-s-rohingya-muslim-people-arrive-in-western-indonesia.md) _Context: Myanmar, Rohingya minority_
+9. [Buddhist mobs burn down Muslim homes and shops in Lashio, Myanmar leaving 1 dead and 4 others injured. ](/news/2013/05/29/buddhist-mobs-burn-down-muslim-homes-and-shops-in-lashio-myanmar-leaving-1-dead-and-4-others-injured.md) _Context: Buddhist, Myanmar_
+10. [Several boats carrying over 100 Rohingya Muslims away from an oncoming cyclone capsize off the coast of Myanmar leaving only 42 survivors. ](/news/2013/05/14/several-boats-carrying-over-100-rohingya-muslims-away-from-an-oncoming-cyclone-capsize-off-the-coast-of-myanmar-leaving-only-42-survivors.md) _Context: Myanmar, Rohingya minority_

@@ -1,0 +1,23 @@
+### [2012-12-7](/news/2012/12/7/index.md)
+
+# Abu-Zaid al Kuwaiti, a senior al-Qaida official and a potential successor to the group's present leader, Dr. Ayman Al-Zawahiri, is killed in the morning in a Predator drone strike over Pakistan while eating breakfast (according to both U.S. officials and affiliated jihadists). 
+
+A senior al-Qaida official and potential successor to the group&rsquo;s leader Ayman al-Zawahiri was killed Friday morning in a Predator drone strike, according to reports on jihadi web forums and U.S. officials. Sheikh Khalid Bin Abdul Rehman Al-Hus
+
+
+### Source:
+
+1. [NBC News](http://openchannel.nbcnews.com/_news/2012/12/07/15760065-senior-al-qaida-leader-killed-in-drone-strike-in-pakistan-jihadis-us-officials-say)
+
+### Related:
+
+1. [War in North-West Pakistan:Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-pfour-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _Context: Pakistan, U.S._
+2. [A British court rejects an attempt by the son of a man killed in U.S. drone strike in Pakistan to force the UK government to reveal if it provided intelligence to assist US action. ](/news/2012/12/21/a-british-court-rejects-an-attempt-by-the-son-of-a-man-killed-in-u-s-drone-strike-in-pakistan-to-force-the-uk-government-to-reveal-if-it-pr.md) _Context: Pakistan, U.S._
+3. [A U.S. missile strike kills seven militants in the Spin Drand area of Khyber, Pakistan. ](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.md) _Context: Pakistan, U.S._
+4. [ A United States Predator drone launches a missile strike on a Pakistani madrassa killing six people reportedly including al-Qaeda member Abu Khabab al-Masri.](/news/2008/07/28/a-united-states-predator-drone-launches-a-missile-strike-on-a-pakistani-madrassa-killing-six-people-reportedly-including-al-qaeda-member-ab.md) _Context: Pakistan, Predator drone_
+5. [ United States Secretary of Defense Robert Gates says the U.S. is "ready and willing" to send troops to Pakistan to combat al-Qaeda and the Taliban. ](/news/2008/01/25/united-states-secretary-of-defense-robert-gates-says-the-u-s-is-ready-and-willing-to-send-troops-to-pakistan-to-combat-al-qaeda-and-the.md) _Context: Pakistan, U.S._
+6. [ The United States government announces that fourteen suspected terrorists are to be transferred to the Guantanamo Bay detainment camp and admits that these suspects have been held in CIA black sites. These people include Khalid Sheik Mohammed, believed to be the No. 3 al-Qaida leader before he was captured in Pakistan in 2003; Ramzi Binalshibh, an alleged would-be 9/11 hijacker; and Abu Zubaydah, who was believed to be a link between Osama bin Laden and many al-Qaida cells before he was also captured in Pakistan in March 2002. ](/news/2006/09/6/the-united-states-government-announces-that-fourteen-suspected-terrorists-are-to-be-transferred-to-the-guantanamo-bay-detainment-camp-and-a.md) _Context: Al Qaida's, Pakistan_
+7. [ The U.S. CIA attempts to kill Ayman al-Zawahiri by bombing Damadola, Pakistan, a village near the Afghanistan border. The attack kills at least 18 people: eight men, five women and five children. Anonymous U.S. government sources claim he was invited to a feast in the village, but did not attend. ](/news/2006/01/13/the-u-s-cia-attempts-to-kill-ayman-al-zawahiri-by-bombing-damadola-pakistan-a-village-near-the-afghanistan-border-the-attack-kills-at-l.md) _Context: Ayman al-Zawahiri, Pakistan_
+8. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Pakistan_
+9. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Pakistan_
+10. [An attack occurs at a Sufi shrine near Sargodha, Pakistan, killing more than 20 people. Authorities arrest a main suspect and several others. ](/news/2017/04/2/an-attack-occurs-at-a-sufi-shrine-near-sargodha-pakistan-killing-more-than-20-people-authorities-arrest-a-main-suspect-and-several-others.md) _Context: Pakistan_

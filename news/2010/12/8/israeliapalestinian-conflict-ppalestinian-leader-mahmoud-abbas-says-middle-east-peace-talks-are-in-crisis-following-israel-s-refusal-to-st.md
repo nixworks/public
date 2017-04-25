@@ -1,0 +1,24 @@
+### [2010-12-8](/news/2010/12/8/index.md)
+
+# Israeli-Palestinian conflict:Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/world/2010/dec/08/israel-to-allow-exports-gaza-strip)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11946465)
+
+### Related:
+
+1. [Arab League leaders meeting in Libya announce their support for Palestinian Authority President Mahmoud Abbas's decision to stop peace talks with Israel over Israel's recently expired moratorium on construction in the West Bank. ](/news/2010/10/8/arab-league-leaders-meeting-in-libya-announce-their-support-for-palestinian-authority-president-mahmoud-abbas-s-decision-to-stop-peace-talks.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority_
+2. [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority_
+3. [ Israel releases 199 Palestinian prisoners as a goodwill gesture to the President of the Palestinian National Authority Mahmoud Abbas as the United States Secretary of State Condoleezza Rice visits the area. ](/news/2008/08/25/israel-releases-199-palestinian-prisoners-as-a-goodwill-gesture-to-the-president-of-the-palestinian-national-authority-mahmoud-abbas-as-the.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority_
+4. [ Israeli Prime Minister Ehud Olmert and Palestinean President Mahmoud Abbas will attend a common meeting later this week. ](/news/2006/06/20/israeli-prime-minister-ehud-olmert-and-palestinean-president-mahmoud-abbas-will-attend-a-common-meeting-later-this-week.md) _Context: Israel, Mahmoud Abbas, Palestinian National Authority_
+5. [ Israeli-Palestinian conflict: Seven Palestinians are killed when an Israeli tank opens fire on farmland in the northern Gaza Strip. Palestinian presidential candidate and Fatah leader Mahmoud Abbas responds to the deaths with a strong verbal attack on the "Zionist enemy" Israel. Six of the dead were from the same family, including an 11-year-old boy. All the dead were civilians younger than 18. ](/news/2005/01/4/israeliapalestinian-conflict-seven-palestinians-are-killed-when-an-israeli-tank-opens-fire-on-farmland-in-the-northern-gaza-strip-pales.md) _Context: Israel, Israeli–Palestinian conflict, Mahmoud Abbas_
+6. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _Context: Israel, Israeli–Palestinian conflict, Mahmoud Abbas_
+7. [Israeli authorities approve 153 construction permits for settlement homes in East Jerusalem, and plan to approve another 11,000 in the coming months. ](/news/2017/01/27/israeli-authorities-approve-153-construction-permits-for-settlement-homes-in-east-jerusalem-and-plan-to-approve-another-11-000-in-the-comin.md) _Context: Israel, Israeli–Palestinian conflict_
+8. [Israel approves the construction of 2,500 more new settlement homes in the West Bank, the most in years and the second time new homes were approved since Donald Trump was inaugurated as President of the United States. ](/news/2017/01/24/israel-approves-the-construction-of-2-500-more-new-settlement-homes-in-the-west-bank-the-most-in-years-and-the-second-time-new-homes-were-a.md) _Context: Israel, Israeli settlement_
+9. [Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-new-settlement-homes-i.md) _Context: Israel, Israeli settlement_
+10. [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md) _Context: Israel, Palestinian National Authority_

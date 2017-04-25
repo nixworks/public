@@ -1,0 +1,19 @@
+### [2001-07-13](/news/2001/07/13/index.md)
+
+#  The International Olympic Committee session in Moscow, Russia. Beijing wins the bid as the host city for the 2008 Summer Olympics.
+
+
+
+
+### Related:
+
+1. [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md) _Context: Beijing, Beijing Olympiad_
+2. [ U.S. President George W. Bush, on his way to Beijing to attend the Olympics, stops in South Korea and Thailand. ](/news/2008/08/5/u-s-president-george-w-bush-on-his-way-to-beijing-to-attend-the-olympics-stops-in-south-korea-and-thailand.md) _Context: Beijing, Beijing Olympiad_
+3. [ 2008 Summer Olympics: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-p-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md) _Context: Beijing Olympiad, International Olympic Committee_
+4. [ The International Olympic Committee lifts its ban on Iraqi athletes participating in the Beijing Olympics following assurances from the Government of Iraq about the independence of the Iraqi Olympic Committee. ](/news/2008/07/29/the-international-olympic-committee-lifts-its-ban-on-iraqi-athletes-participating-in-the-beijing-olympics-following-assurances-from-the-gov.md) _Context: Beijing Olympiad, International Olympic Committee_
+5. [ Beijing introduces traffic restrictions and factory closures in an effort to reduce air pollution for the 2008 Summer Olympics. ](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.md) _Context: Beijing, Beijing Olympiad_
+6. [ Chinese restaurants in Beijing are told not to serve dog meat during 2008 Summer Olympics, but can continue to serve Donkey meat ](/news/2008/07/11/chinese-restaurants-in-beijing-are-told-not-to-serve-dog-meat-during-2008-summer-olympics-but-can-continue-to-serve-donkey-meat.md) _Context: Beijing, Beijing Olympiad_
+7. [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md) _Context: Beijing, Beijing Olympiad_
+8. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: Beijing_
+9. [Tens of thousands of people march through Moscow, Russia, to commemorate the two-year anniversary of opposition leader Boris Nemtsov's assassination. ](/news/2017/02/26/tens-of-thousands-of-people-march-through-moscow-russia-to-commemorate-the-two-year-anniversary-of-opposition-leader-boris-nemtsov-s-assas.md) _Context: Moscow_
+10. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10  in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _Context: Moscow_

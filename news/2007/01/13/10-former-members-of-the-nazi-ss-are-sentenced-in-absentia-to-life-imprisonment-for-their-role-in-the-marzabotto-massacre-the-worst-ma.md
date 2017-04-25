@@ -1,0 +1,23 @@
+### [2007-01-13](/news/2007/01/13/index.md)
+
+#  10 former members of the Nazi SS are sentenced ''in absentia'' to life imprisonment for their role in the Marzabotto massacre, the worst massacre in Italy during World War II. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/6259987.stm)
+
+### Related:
+
+1. [The sunken Italian World War II flagship ''Roma'' is discovered off the coast of Sardinia. ](/news/2012/06/29/the-sunken-italian-world-war-ii-flagship-roma-is-discovered-off-the-coast-of-sardinia.md) _Context: Italian, World War II_
+2. [Nine Germans are convicted ''in absentia'' in Verona Italy for killing hundreds of civilians during World War II. ](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.md) _Context: Italian, World War II_
+3. [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers ''in absentia'' to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role.md) _Context: World War II, life imprisonment_
+4. [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md) _Context: Italian_
+5. [The Indian state of Gujarat passes a law which makes the slaughter of a cow punishable by life imprisonment. ](/news/2017/03/31/the-indian-state-of-gujarat-passes-a-law-which-makes-the-slaughter-of-a-cow-punishable-by-life-imprisonment.md) _Context: life imprisonment_
+6. [Italian police arrest 34 people of a drug gang who reportedly planned to steal Enzo Ferrari's corpse, and hold it for ransom. ](/news/2017/03/30/italian-police-arrest-34-people-of-a-drug-gang-who-reportedly-planned-to-steal-enzo-ferrari-s-corpse-and-hold-it-for-ransom.md) _Context: Italian_
+7. [An eruption at Mount Etna on the Italian island of Sicily injures at least ten people, including several in a BBC News crew. ](/news/2017/03/16/an-eruption-at-mount-etna-on-the-italian-island-of-sicily-injures-at-least-ten-people-including-several-in-a-bbc-news-crew.md) _Context: Italian_
+8. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: World War II_
+9. [At the Indigenous Peoples Forum in Rome, Italy, Pope Francis says that developmental needs have to be reconciled with the protection of the particular characteristics of indigenous peoples and their territories. This is taken by some as a reference to the Standing Rock Sioux and other groups opposing the Dakota Access Pipeline. ](/news/2017/02/15/at-the-indigenous-peoples-forum-in-rome-italy-pope-francis-says-that-developmental-needs-have-to-be-reconciled-with-the-protection-of-the.md) _Context: Italian_
+10. [Over 70,000 people are evacuated from Thessaloniki, Greece, as authorities attempt to defuse a World War II-era unexploded ordnance, which was discovered last week. ](/news/2017/02/11/over-70-000-people-are-evacuated-from-thessaloniki-greece-as-authorities-attempt-to-defuse-a-world-war-ii-era-unexploded-ordnance-which-w.md) _Context: World War II_

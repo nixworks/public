@@ -1,0 +1,23 @@
+### [2013-11-9](/news/2013/11/9/index.md)
+
+# Islamist insurgency in Nigeria:Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. 
+
+Five members of theNigerian Islamist sect Boko Haram and two soldiers were killedin gun battles in Kano on Saturday, the army said, the firstviolence in months linked to insurgents in the largest northerncity.
+
+
+### Source:
+
+1. [Reuters](http://in.reuters.com/article/2013/11/09/nigeria-bokoharam-idINL5N0IU0BS20131109)
+
+### Related:
+
+1. [At least 13 people are dead and 34 injured after Boko Haram gunmen attack a government college in the northern Nigerian city of Kano. ](/news/2014/09/17/at-least-13-people-are-dead-and-34-injured-after-boko-haram-gunmen-attack-a-government-college-in-the-northern-nigerian-city-of-kano.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Kano, Nigeria_
+2. [Islamist terror group Boko Haram abduct two prominent traditional rulers from Borno State in  Nigeria. ](/news/2014/05/30/islamist-terror-group-boko-haram-abduct-two-prominent-traditional-rulers-from-borno-state-in-nigeria.md) _Context: Boko Haram, Islamist, Islamist insurgency in Nigeria, Nigeria_
+3. [Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-militants-according-to-the.md) _Context: Boko Haram, Nigeria, Nigerian Army_
+4. [The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operation-in-the-northeastern.md) _Context: Boko Haram, Nigeria, Nigerian Army_
+5. [Three suicide bombers at Lake Chad kill at least 30 people and injure at least 80 others. Three women carried out the attack at a weekly market on an island on the Chadian side of the lake. No group claims responsibility; officials suspect the attacks were carried out by members of the Boko Haram militant group from neighboring Nigeria. ](/news/2015/12/5/three-suicide-bombers-at-lake-chad-kill-at-least-30-people-and-injure-at-least-80-others-three-women-carried-out-the-attack-at-a-weekly-mar.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
+6. [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage,  Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
+7. [Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. ](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
+8. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
+9. [Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria. ](/news/2015/03/8/forces-from-niger-and-chad-launch-a-ground-and-air-offensive-against-boko-haram-islamist-militants-in-northeastern-nigeria.md) _Context: Boko Haram, Islamist, Nigeria_
+10. [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_

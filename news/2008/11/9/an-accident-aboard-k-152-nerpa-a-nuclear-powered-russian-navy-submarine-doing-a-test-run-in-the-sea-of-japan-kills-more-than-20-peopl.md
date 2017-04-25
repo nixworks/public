@@ -1,0 +1,23 @@
+### [2008-11-9](/news/2008/11/9/index.md)
+
+#  An accident aboard K-152 ''Nerpa'', a nuclear-powered Russian Navy submarine doing a test run in the Sea of Japan, kills more than 20 people. 
+
+At least 20 people are killed after the failure of a fire-extinguishing system.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2008/11/2008118225856836818.html)
+
+### Related:
+
+1. [NATO intercepts Russian jets over the Baltic Sea while  Sweden's six-day search for a possibly damaged Russian Navy submarine continues. ](/news/2014/10/22/nato-intercepts-russian-jets-over-the-baltic-sea-while-sweden-s-six-day-search-for-a-possibly-damaged-russian-navy-submarine-continues.md) _Context: Russia, Russian Navy, submarine_
+2. [Russia withdraws a request to refuel three of its warships, including the flagship of the Russian Navy, ''Admiral Kuznetsov'', en route to Syria, at the Spanish port of Ceuta following NATO pressure on the Spanish government to not allow the warships to dock. ](/news/2016/10/26/russia-withdraws-a-request-to-refuel-three-of-its-warships-including-the-flagship-of-the-russian-navy-admiral-kuznetsov-en-route-to-s.md) _Context: Russia, Russian Navy_
+3. [Russian Defense Minister Sergey Shoygu dismisses  50 high-ranking Navy officers, including Baltic Fleet Commander Viktor Kravchuk and Chief of Staff Sergei Popov, following a month-long inspection that found incompetence, deficiencies in training, and misinformation regarding the state of the fleet. ](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief.md) _Context: Russia, Russian Navy_
+4. [The carrier USS ''Ronald Reagan'', during a military exercise with South Korea  in the Sea of Japan's international waters, scrambled four fighter jets to intercept approaching Russian warplanes,  according to the U.S. Navy. IHS Jane's Defence Weekly said encounters such as these were common during the Cold War, subsided with its end but picked up again under current Russian President Vladimir Putin.  ](/news/2015/10/29/the-carrier-uss-ronald-reagan-during-a-military-exercise-with-south-korea-in-the-sea-of-japan-s-international-waters-scrambled-four-f.md) _Context: Russia, Sea of Japan_
+5. [The People's Republic of China and Russia begin joint naval exercises in the Sea of Japan. ](/news/2013/07/5/the-people-s-republic-of-china-and-russia-begin-joint-naval-exercises-in-the-sea-of-japan.md) _Context: Russia, Sea of Japan_
+6. [ Piracy in Somalia: The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/piracy-in-somalia-p-the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md) _Context: Russia, Russian Navy_
+7. [ Russian President Vladimir Putin fires the chief of the Russian Navy Vladimir Masorin, and appoints in his place the commander of the Russian Northern Fleet, Vladimir Vysotsky. ](/news/2007/09/12/russian-president-vladimir-putin-fires-the-chief-of-the-russian-navy-vladimir-masorin-and-appoints-in-his-place-the-commander-of-the-russi.md) _Context: Russia, Russian Navy_
+8. [ The Cosmos 1 experimental solar sail spacecraft, a project of international space advocacy group The Planetary Society and science based entertainment company Cosmos Studios, is launched by a Russian R-29R Volna ICBM from a Russian Delta III submarine submerged in the Barents Sea. However, the spacecraft is feared lost, for the rocket failed 83 seconds after launch. ](/news/2005/06/21/the-cosmos-1-experimental-solar-sail-spacecraft-a-project-of-international-space-advocacy-group-the-planetary-society-and-science-based-en.md) _Context: Russia, submarine_
+9. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: Russia_
+10. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Russia_

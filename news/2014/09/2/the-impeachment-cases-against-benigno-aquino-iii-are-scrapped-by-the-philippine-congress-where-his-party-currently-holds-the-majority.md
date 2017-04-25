@@ -1,0 +1,23 @@
+### [2014-09-2](/news/2014/09/2/index.md)
+
+# The impeachment cases against Benigno Aquino III are scrapped by the Philippine Congress, where his party currently holds the majority. 
+
+
+
+
+### Source:
+
+1. [Economic Times](http://m.economictimes.com/news/international/world-news/philippine-house-rejects-president-benigno-aquino-impeachment/articleshow/41518281.cms)
+
+### Related:
+
+1. [Philippine president Rodrigo Duterte accuses the Liberal Party of former president Benigno Aquino III and their allies of orchestrating an impeachment complaint against him regarding his anti-drug campaign. ](/news/2016/09/13/philippine-president-rodrigo-duterte-accuses-the-liberal-party-of-former-president-benigno-aquino-iii-and-their-allies-of-orchestrating-an-i.md) _Context: Benigno Aquino III, impeachment_
+2. [The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-resignation-of-philippin.md) _Context: Benigno Aquino III, impeachment_
+3. [Moro insurgency in the Philippines:Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/moro-insurgency-in-the-philippines-pphilippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-giv.md) _Context: Benigno Aquino III, Congress of the Philippines_
+4. [Three impeachment complaints against Philippines President Benigno Aquino III are deemed by the Philippine House of Representatives as "sufficient in form", paving the way for possible legal proceedings against him. ](/news/2014/08/26/three-impeachment-complaints-against-philippines-president-benigno-aquino-iii-are-deemed-by-the-philippine-house-of-representatives-as-suff.md) _Context: Benigno Aquino III, impeachment_
+5. [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md) _Context: Benigno Aquino III_
+6. [''Philippines v. China''On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-pon-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the.md) _Context: Benigno Aquino III_
+7. [  The Congress of the Philippines proclaims Rodrigo Duterte and Leni Robredo as President-elect and Vice President-elect of the Philippines, respectively. ](/news/2016/05/30/the-congress-of-the-philippines-proclaims-rodrigo-duterte-and-leni-robredo-as-president-elect-and-vice-president-elect-of-the-philippines.md) _Context: Congress of the Philippines_
+8. [Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and-boxer-manny-pac.md) _Context: Benigno Aquino III_
+9. [ Abu Sayyaf militants, who threatened to kill three foreigners kidnapped in September, 2015,  from a "high-end" Philippine resort, unless they were paid 900 million pesos (17 mil Euros) by midnight today (15:00 UTC), have beheaded one of the hostages, Canadian John Ridsdel. Philippine President Benigno Aquino III  had ordered an all-out effort to rescue the hostages, including a Philippine woman, kidnapped  by the Daesh-linked group. ](/news/2016/04/25/abu-sayyaf-militants-who-threatened-to-kill-three-foreigners-kidnapped-in-september-2015-from-a-high-end-philippine-resort-unless-th.md) _Context: Benigno Aquino III_
+10. [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md) _Context: Benigno Aquino III_

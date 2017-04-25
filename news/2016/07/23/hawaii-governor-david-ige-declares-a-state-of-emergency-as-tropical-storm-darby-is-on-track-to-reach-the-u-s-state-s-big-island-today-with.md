@@ -1,0 +1,24 @@
+### [2016-07-23](/news/2016/07/23/index.md)
+
+# Hawaii Governor David Ige declares a state of emergency as Tropical Storm Darby is on track to reach the U.S. state's Big Island today with maximum sustained winds approaching 50 mph (80 kph). The storm, which previously was a Category 3 hurricane, could produce up to 15 inches (40 cm) of rain. 
+
+Tropical Storm Darby bore down on Hawaii on Saturday, prompting its governor to declare an emergency over a storm expected to make landfall with strong winds and heavy rain later in the day.
+
+
+### Source:
+
+1. [NHC](http://www.prh.noaa.gov/cphc/tcpages/archive/?prod=TCPCP3.EP052016.048.201607231702)
+2. [Reuters](http://www.reuters.com/article/us-storm-darby-idUSKCN10307V)
+
+### Related:
+
+1. [A hurricane watch is issued for the island of Hawaii as Hurricane Madeline approaches. ](/news/2016/08/29/a-hurricane-watch-is-issued-for-the-island-of-hawaii-as-hurricane-madeline-approaches.md) _Context: 2016 Pacific hurricane season, island of Hawaii_
+2. [Hawaii Governor David Ige declares a state of emergency to address homelessness as the state has seen an alarming increase in unsheltered individuals and families over the past two years, particularly on O'ahu. Hawaii has the  highest per capita rate of homelessness among the 50 states at about 465 people per 100,000 citizens. This act "frees up" money for this problem. ](/news/2015/10/16/hawaii-governor-david-ige-declares-a-state-of-emergency-to-address-homelessness-as-the-state-has-seen-an-alarming-increase-in-unsheltered-in.md) _Context: David Ige, Hawaii Governor_
+3. [Hawaii Governor David Ige signs an emergency proclamation in anticipation of the arrival of Hurricane Ignacio on Monday. Ignacio is expected to strengthen to Category 2 this weekend. The state is still recovering from precipitation from Tropical Storm Kilo which skirted the islands earlier this week. In addition, Hurricane Jimena, which is expected to intensify to near category 5 strength on Saturday, is trailing Ignacio and also heading toward Hawaii. ](/news/2015/08/28/hawaii-governor-david-ige-signs-an-emergency-proclamation-in-anticipation-of-the-arrival-of-hurricane-ignacio-on-monday-ignacio-is-expected.md) _Context: David Ige, Hawaii Governor_
+4. [Primary elections in Hawaii:Incumbent Governor Neil Abercrombie loses to challenger David Ige, becoming the first sitting Governor to be defeated in a primary election. Ige, a Democrat, will face Republican Duke Aiona and independent Mufi Hannemann in the gubernatorial general election. ](/news/2014/08/9/primary-elections-in-hawaii-pincumbent-governor-neil-abercrombie-loses-to-challenger-david-ige-becoming-the-first-sitting-governor-to-be-de.md) _Context: David Ige, Hawaii Governor_
+5. [Hurricane Newton makes its way towards the resort town of Los Cabos, Mexico. ](/news/2016/09/6/hurricane-newton-makes-its-way-towards-the-resort-town-of-los-cabos-mexico.md) _Context: 2016 Pacific hurricane season_
+6. [Remnants of Hurricane Earl helped form Tropical Storm Javier which is southeast of the Mexican resort of  Cabo San Lucas on  the Baja California Peninsula.  A hurricane warning  is issued for the southern portion of the peninsula. Rainfall from the storm is expected to impact the American Southwest, starting Tuesday evening. ](/news/2016/08/8/remnants-of-hurricane-earl-helped-form-tropical-storm-javier-which-is-southeast-of-the-mexican-resort-of-cabo-san-lucas-on-the-baja-califo.md) _Context: 2016 Pacific hurricane season_
+7. [Tropical Storm Madeline  is expected to reach the American state of Hawaii Tuesday, just before world leaders arrive for the World Conservation Congress. ](/news/2016/08/28/tropical-storm-madeline-is-expected-to-reach-the-american-state-of-hawaii-tuesday-just-before-world-leaders-arrive-for-the-world-conservat.md) _Context: 2016 Pacific hurricane season_
+8. [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md) _Context: island of Hawaii_
+9. [Hurricane Pali becomes the earliest hurricane on record in the central Pacific Ocean. It is currently no threat to land. ](/news/2016/01/12/hurricane-pali-becomes-the-earliest-hurricane-on-record-in-the-central-pacific-ocean-it-is-currently-no-threat-to-land.md) _Context: 2016 Pacific hurricane season_
+10. [Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii (''Big Island'') over the weekend. ](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-island-of-hawaii-big-island.md) _Context: island of Hawaii_

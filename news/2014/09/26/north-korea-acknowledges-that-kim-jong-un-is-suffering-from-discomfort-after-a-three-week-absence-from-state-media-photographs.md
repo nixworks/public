@@ -1,0 +1,23 @@
+### [2014-09-26](/news/2014/09/26/index.md)
+
+# North Korea acknowledges that Kim Jong-un is suffering from "discomfort", after a three-week absence from state media photographs. 
+
+North Korean leader has not been photographed by state media since appearing at a concert with his wife in September.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/09/kim-jong-un-suffering-from-discomfort-201492611159278936.html)
+
+### Related:
+
+1. [A joint New Year editorial by North Korean media calls for "human shields" to protect new Supreme Leader Kim Jong-un. ](/news/2012/01/1/a-joint-new-year-editorial-by-north-korean-media-calls-for-human-shields-to-protect-new-supreme-leader-kim-jong-un.md) _Context: Kim Jong-un, North Korea, state media_
+2. [North Korean media name Kim Jong-un &ndash; the son and successor of late leader Kim Jong-il &ndash; as the Supreme Commander of the Korean People's Army. ](/news/2011/12/24/north-korean-media-name-kim-jong-un-ndash-the-son-and-successor-of-late-leader-kim-jong-il-ndash-as-the-supreme-commander-of-the-korean.md) _Context: Kim Jong-un, North Korea, state media_
+3. [North Korea temporarily bans all Malaysian nationals (estimated to be at least 11 people including embassy employees) from leaving the country amid a growing dispute between the two countries over the death of Kim Jong-nam, the half-brother of Kim Jong-un. Malaysian official Khairy Jamaluddin calls the move "tantamount to taking hostages". ](/news/2017/03/7/north-korea-temporarily-bans-all-malaysian-nationals-estimated-to-be-at-least-11-people-including-embassy-employees-from-leaving-the-count.md) _Context: Kim Jong-un, North Korea_
+4. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were  involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Kim Jong-un, North Korea_
+5. [Malaysian police claim that Kim Jong-nam, half brother of North Korean leader Kim Jong-un, was killed by VX nerve agent, a toxin used almost exclusively for chemical warfare. ](/news/2017/02/24/malaysian-police-claim-that-kim-jong-nam-half-brother-of-north-korean-leader-kim-jong-un-was-killed-by-vx-nerve-agent-a-toxin-used-almost.md) _Context: Kim Jong-un, North Korea_
+6. [Kim Jong Un, the leader of North Korea, claims that the country is close to developing an intercontinental ballistic missile. ](/news/2017/01/1/kim-jong-un-the-leader-of-north-korea-claims-that-the-country-is-close-to-developing-an-intercontinental-ballistic-missile.md) _Context: Kim Jong-un, North Korea_
+7. [Two North Korean officials are reportedly publicly executed by Kim Jong-un after they allegedly disobeyed orders: former agriculture minister Hwang Min for unsuitable policies and Ri Yong Jin, a senior official at the education ministry, for sleeping at a meeting with Kim, disrespect for the leader and corruption. They were allegedly executed by anti-aircraft artillery fire. ](/news/2016/08/30/two-north-korean-officials-are-reportedly-publicly-executed-by-kim-jong-un-after-they-allegedly-disobeyed-orders-former-agriculture-ministe.md) _Context: Kim Jong-un, North Korea_
+8. [North Korea says the United States has "crossed the red line in our showdown" after placing sanctions on its leader Kim Jong-un over human rights abuses, and considers the sanctions to be a "declaration of war" by the United States. ](/news/2016/07/28/north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions-on-its-leader-kim-jong-un-over-human-r.md) _Context: Kim Jong-un, North Korea_
+9. [ North Korean leader Kim Jong-un rules out a nuclear first strike unless North Korea's sovereignty is violated. ](/news/2016/05/8/north-korean-leader-kim-jong-un-rules-out-a-nuclear-first-strike-unless-north-korea-s-sovereignty-is-violated.md) _Context: Kim Jong-un, North Korea_
+10. [North Korea's state media reports Supreme Leader Kim Jong-un, in comments released today, states  the country has miniaturized nuclear warheads to be mounted on ballistic missiles, and has ordered improvements in the power and precision of its arsenal. ](/news/2016/03/9/north-korea-s-state-media-reports-supreme-leader-kim-jong-un-in-comments-released-today-states-the-country-has-miniaturized-nuclear-warhe.md) _Context: Kim Jong-un, North Korea_

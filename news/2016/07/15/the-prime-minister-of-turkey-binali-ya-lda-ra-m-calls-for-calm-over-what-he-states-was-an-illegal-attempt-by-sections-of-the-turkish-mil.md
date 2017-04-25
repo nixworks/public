@@ -1,0 +1,27 @@
+### [2016-07-15](/news/2016/07/15/index.md)
+
+# The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. 
+
+Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not to use the attempted coup as &ldquo;carte blanche to do whatever he wants,&quot; amid concerns the putsch has become a pretext for him to consolidate power.
+
+
+### Source:
+
+1. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/15/turkey-low-flying-jets-and-gunfire-heard-in-ankara1/)
+2. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/attempt-coup-turkey-prime-minister-says-n610531?cid=eml_nbn_20160715)
+3. [CNBC](http://www.cnbc.com/2016/07/15/gunfire-heard-jets-seen-flying-in-turkish-capital-of-ankara.html)
+4. [Reuters via Trust](http://news.trust.org/item/20160716024151-60u31)
+5. [Washington Post](https://www.washingtonpost.com/news/world/wp/2016/07/15/turkish-president-rejects-coup-attempt-urges-supporters-to-take-to-the-streets/?wpisrc=al_alert-COMBO-world%252Bnation)
+
+### Related:
+
+1. [Suspected ISIL militants attack  Turkey's Istanbul Ataturk Airport. Turkish Prime Minister Binali Yildirim says 36 people were killed, as were the three suicide bombers. Justice Minister Bekir Bozdag says 147 were wounded. ](/news/2016/06/28/suspected-isil-militants-attack-turkey-s-istanbul-atata1-4rk-airport-turkish-prime-minister-binali-ya-lda-ra-m-says-36-people-were-killed-a.md) _Context: Binali Yıldırım, Prime Minister of Turkey_
+2. [Israeli Prime Minister Benjamin Netanyahu and  Turkish Prime Minister Binali Yildirim announce their countries have agreed on a pact to normalize diplomatic relations that have been strained for six years since the Gaza flotilla raid when nine Turkish activists were killed. ](/news/2016/06/27/israeli-prime-minister-benjamin-netanyahu-and-turkish-prime-minister-binali-ya-lda-ra-m-announce-their-countries-have-agreed-on-a-pact-to-n.md) _Context: Binali Yıldırım, Prime Minister of Turkey_
+3. [The President of Turkey Recep Tayyip Erdogan formally approves his ally Binali Yildirim as the Prime Minister. ](/news/2016/05/24/the-president-of-turkey-recep-tayyip-erdoaan-formally-approves-his-ally-binali-ya-lda-ra-m-as-the-prime-minister.md) _Context: Binali Yıldırım, Prime Minister of Turkey_
+4. [ Binali Yildirim is appointed Prime Minister of Turkey after the resignation of Ahmet Davutoglu amid disagreements with President Recep Tayyip Erdogan. ](/news/2016/05/23/binali-ya-lda-ra-m-is-appointed-prime-minister-of-turkey-after-the-resignation-of-ahmet-davutoalu-amid-disagreements-with-president-recep.md) _Context: Binali Yıldırım, Prime Minister of Turkey_
+5. [Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." ](/news/2017/03/29/turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which-was-part-of-international-military-opera.md) _Context: Binali Yıldırım_
+6. [The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. ](/news/2017/02/8/the-turkish-government-dismisses-more-than-4-400-public-servants-from-their-jobs-in-the-latest-purge-within-the-country-following-a-failed-c.md) _Context: last year's coup attempt_
+7. [About 330 people with alleged links to last year's coup attempt stand trial at a prison outside Ankara on charges of murder and attempting to overthrow the government, the largest trial to date. ](/news/2017/02/28/about-330-people-with-alleged-links-to-last-year-s-coup-attempt-stand-trial-at-a-prison-outside-ankara-on-charges-of-murder-and-attempting-t.md) _Context: last year's coup attempt_
+8. [In Ankara, the Turkish government opens  the trial  of 270 suspects charged in July's failed coup in Ankara.  The defendants include, ''in absentia'', the alleged mastermind Fethullah Gulen, former NATO  Chief of Staff Major General Salih Sevil, and other high-ranking military officials. ](/news/2017/01/30/in-ankara-the-turkish-government-opens-the-trial-of-270-suspects-charged-in-july-s-failed-coup-in-ankara-the-defendants-include-in-a.md) _Context: last year's coup attempt_
+9. [The Supreme Court of Greece rejects the extradition of eight soldiers accused by Turkey of involvement in the 2016 Turkish ''coup d'etat'' attempt. ](/news/2017/01/26/the-supreme-court-of-greece-rejects-the-extradition-of-eight-soldiers-accused-by-turkey-of-involvement-in-the-2016-turkish-coup-d-a-c-tat.md) _Context: last year's coup attempt_
+10. [The Turkish military kills 35 Kurdistan Workers' Party militants after they attempt to capture a base in Turkey's Hakkari Province. ](/news/2016/07/30/the-turkish-military-kills-35-kurdistan-workers-party-militants-after-they-attempt-to-capture-a-base-in-turkey-s-hakkac-ri-province.md) _Context: Turkish military_

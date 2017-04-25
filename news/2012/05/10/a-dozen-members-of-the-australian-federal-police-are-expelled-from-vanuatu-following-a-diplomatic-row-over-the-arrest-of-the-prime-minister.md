@@ -1,0 +1,23 @@
+### [2012-05-10](/news/2012/05/10/index.md)
+
+# A dozen members of the Australian Federal Police are expelled from Vanuatu, following a diplomatic row over the arrest of the Prime Minister of Vanuatu's private secretary in Australia last month. 
+
+
+
+
+### Source:
+
+1. [AFP via Yahoo News Australia](http://au.news.yahoo.com/thewest/a/-/world/13653101/australian-police-thrown-out-of-vanuatu/)
+
+### Related:
+
+1. [Australian police in Sydney arrest two men  who, police say, were planning attacks on locations such as  naval bases and police headquarters. New South Wales Deputy Police Commissioner  Catherine Burn said Wednesday's activity brings the number of people arrested in connection with last year's Operation Appleby to 13. ](/news/2015/12/23/australian-police-in-sydney-arrest-two-men-who-police-say-were-planning-attacks-on-locations-such-as-naval-bases-and-police-headquarters.md) _Context: Australia, police_
+2. [Detectives from Scotland Yard contact police in Australia over the apparent suicide of Jacintha Saldanha. ](/news/2012/12/9/detectives-from-scotland-yard-contact-police-in-australia-over-the-apparent-suicide-of-jacintha-saldanha.md) _Context: Australia, police_
+3. [Vanuatu Prime Minister Sato Kilman is ousted in a vote of no confidence. Serge Vohor becomes the new Prime Minister of Vanuatu.  ](/news/2011/04/24/vanuatu-prime-minister-sato-kilman-is-ousted-in-a-vote-of-no-confidence-serge-vohor-becomes-the-new-prime-minister-of-vanuatu.md) _Context: Prime Minister of Vanuatu, Vanuatu_
+4. [Vanuatu Prime Minister Edward Natapei is ousted in a vote of no confidence while traveling en route to Cancun, Mexico. Sato Kilman becomes Prime Minister. ](/news/2010/12/2/vanuatu-prime-minister-edward-natapei-is-ousted-in-a-vote-of-no-confidence-while-traveling-en-route-to-cancun-mexico-sato-kilman-becomes-p.md) _Context: Prime Minister of Vanuatu, Vanuatu_
+5. [ Edward Natapei is elected the new Prime Minister of Vanuatu following the 2008 general elections replacing Ham Lini. ](/news/2008/09/22/edward-natapei-is-elected-the-new-prime-minister-of-vanuatu-following-the-2008-general-elections-replacing-ham-lini.md) _Context: Prime Minister of Vanuatu, Vanuatu_
+6. [ Australian authorities increase security as the interrogation of Dr. Mohamed Haneef over his possible involvement in the 2007 Glasgow International Airport attack and the 2007 London car bombs incidents continues. The Australian Federal Police conducts raids on two hospitals in Perth, Western Australia. ](/news/2007/07/6/australian-authorities-increase-security-as-the-interrogation-of-dr-mohamed-haneef-over-his-possible-involvement-in-the-2007-glasgow-inter.md) _Context: Australia, police_
+7. [ Australia: The first person convicted under new anti-terrorism laws has been acquitted on appeal. Jack Thomas was convicted in March on two counts of receiving funds from a terrorist network and for carrying a falsified passport. According to [http://www.abc.net.au/news/newsitems/200608/s1718664.htm ABC News] his 5-year sentence was today quashed by the Victorian Court of Appeal, which ruled information obtained during an interview with Australian Federal Police Officers in Pakistan, conducted without legal representation and under threat of torture, was inadmissible.  ](/news/2006/08/18/australia-the-first-person-convicted-under-new-anti-terrorism-laws-has-been-acquitted-on-appeal-jack-thomas-was-convicted-in-march-on-two.md) _Context: Australia, police_
+8. [ Severely injured victims of the 2005 Bali bombings are being evacuated to medical facilities in Australia and Singapore. The Australian Government has made moves to assist Indonesia in its response, dispatching Australian Federal Police officers and forensic experts to assist in investigations. ](/news/2005/10/2/severely-injured-victims-of-the-2005-bali-bombings-are-being-evacuated-to-medical-facilities-in-australia-and-singapore-the-australian-gov.md) _Context: Australia, police_
+9. [ In Australia, a suspicious package containing white powder sent to Foreign Minister Alexander Downer led security guards to close the mail-room of Parliament House in Canberra and enact decontamination procedures. Federal Police later deemed the package harmless, but analysis continues.](/news/2005/06/3/in-australia-a-suspicious-package-containing-white-powder-sent-to-foreign-minister-alexander-downer-led-security-guards-to-close-the-mail.md) _Context: Australia, police_
+10. [Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-through-new-caledonia-tomorrow.md) _Context: Vanuatu_

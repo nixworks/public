@@ -1,0 +1,23 @@
+### [2014-11-12](/news/2014/11/12/index.md)
+
+# Russian Defence Minister Sergey Shoigu says that the country will resume long-distance military flights for the first time since the Cold War to the western Atlantic Ocean and Caribbean Sea. 
+
+Russia has said it will conduct regular air patrols to the Caribbean and the Gulf of Mexico, missions that were wound down after the Cold War.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-30028371)
+
+### Related:
+
+1. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _Context: War in Donbass_
+2. [Donetsk People's Republic commander Mikhail Tolstykh, better known by his ''nom de guerre'' "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-d.md) _Context: War in Donbass_
+3. [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call,  discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strateg.md) _Context: War in Donbass_
+4. [A rebel commander is killed by a bomb in eastern Ukraine while three Ukrainian Army soldiers are killed in fighting. At least 33 people have been killed in fighting over the past week. ](/news/2017/02/4/a-rebel-commander-is-killed-by-a-bomb-in-eastern-ukraine-while-three-ukrainian-army-soldiers-are-killed-in-fighting-at-least-33-people-have.md) _Context: War in Donbass_
+5. [According to the Stockholm International Peace Research Institute, the global transfer of weapons between 2012 and 2016 has been higher than any other five-year period since the end of the Cold War, with the Middle East increasing its weapon imports by 212%, second only to India, who accounted for 13% of the world's imports. ](/news/2017/02/20/according-to-the-stockholm-international-peace-research-institute-the-global-transfer-of-weapons-between-2012-and-2016-has-been-higher-than.md) _Context: Cold War_
+6. [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that   civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized.  Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md) _Context: War in Donbass_
+7. [The Ukrainian military says seven soldiers have been killed  by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of.md) _Context: War in Donbass_
+8. [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md) _Context: War in Donbass_
+9. [As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a United Nations report released today. ](/news/2016/12/8/as-of-december-1-the-total-death-toll-for-the-war-stands-at-an-estimated-9-758-people-according-to-a-united-nations-report-released-today.md) _Context: War in Donbass_
+10. [The European Union  extends its main Ukraine-related economic  sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _Context: War in Donbass_

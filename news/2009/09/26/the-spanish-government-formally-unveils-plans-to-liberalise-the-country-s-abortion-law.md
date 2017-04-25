@@ -1,0 +1,23 @@
+### [2009-09-26](/news/2009/09/26/index.md)
+
+#  The Spanish government formally unveils plans to liberalise the country's abortion law. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8276984.stm)
+
+### Related:
+
+1. [Tens of thousands demonstrate against an abortion bill in several Spanish cities. ](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortion-bill-in-several-spanish-cities.md) _Context: Spain, abortion_
+2. [In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _Context: Spain_
+3. [Europol reports a total of more than 10,000 assault rifles and 400 shelling weapons were seized in northern Spain during an anti-trafficking operation in January. ](/news/2017/03/14/europol-reports-a-total-of-more-than-10-000-assault-rifles-and-400-shelling-weapons-were-seized-in-northern-spain-during-an-anti-trafficking.md) _Context: Spain_
+4. [The Guatemalan army blockades a ship from the Dutch NGO Women on Waves that provides material for abortions. ](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.md) _Context: abortion_
+5. [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md) _Context: Spain_
+6. [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md) _Context: Spain_
+7. [In tennis, Roger Federer of Switzerland defeats Rafael Nadal of Spain in the final of the men's singles. ](/news/2017/01/29/in-tennis-roger-federer-of-switzerland-defeats-rafael-nadal-of-spain-in-the-final-of-the-men-s-singles.md) _Context: Spain_
+8. [U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning  U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partnership-and-reinstates-the-mex.md) _Context: abortion_
+9. [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md) _Context: Spain_
+10. [Residents of the economically struggling town of Pinos Puente in Granada, Spain, win the El Gordo lottery. ](/news/2016/12/22/residents-of-the-economically-struggling-town-of-pinos-puente-in-granada-spain-win-the-el-gordo-lottery.md) _Context: Spain_

@@ -1,0 +1,23 @@
+### [2005-12-6](/news/2005/12/6/index.md)
+
+#  The BBC World Service reports that the U.S. are moving into four new bases in Romania, one of the bases is where the CIA has been accused of carrying out extraordinary rendition. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4504682.stm)
+
+### Related:
+
+1. [The European Court of Human Rights rules that Khalid El-Masri, a German citizen, was an innocent victim of extraordinary rendition by the Central Intelligence Agency and orders Macedonia to pay him EUR60,000 after it arrested him and sent him to the CIA. CIA agents then transferred him to a detention facility in Afghanistan. ](/news/2012/12/13/the-european-court-of-human-rights-rules-that-khalid-el-masri-a-german-citizen-was-an-innocent-victim-of-extraordinary-rendition-by-the-ce.md) _Context: Central Intelligence Agency, extraordinary rendition_
+2. [An investigation by the Associated Press and German media uncovers a secret prison suspected of having been operated by the Central Intelligence Agency in Bucharest, Romania. ](/news/2011/12/8/an-investigation-by-the-associated-press-and-german-media-uncovers-a-secret-prison-suspected-of-having-been-operated-by-the-central-intellig.md) _Context: Central Intelligence Agency, Romania_
+3. [The United States Court of Appeals for the Ninth Circuit dismisses a lawsuit associated with the Central Intelligence Agency's practice of "extraordinary rendition". ](/news/2010/09/8/the-united-states-court-of-appeals-for-the-ninth-circuit-dismisses-a-lawsuit-associated-with-the-central-intelligence-agency-s-practice-of.md) _Context: Central Intelligence Agency, extraordinary rendition_
+4. [ Extraordinary renditions. The Bundesnachrichtendienst (German intelligence agency) declares that it had known of Khalid El-Masri's seizure 16 months before Germany was officially informed of his mistaken arrest in the name of the War on Terror. Germany had previously claimed that it did not know of el-Masri's abduction by the CIA and his stay in the Salt Pit in Afghanistan until his return to the country in May 2004 ](/news/2006/06/1/extraordinary-renditions-the-bundesnachrichtendienst-german-intelligence-agency-declares-that-it-had-known-of-khalid-el-masri-s-seizure.md) _Context: Central Intelligence Agency, extraordinary rendition_
+5. [A freight train derails in Hunedoara County, Romania, killing both crew members on board. ](/news/2017/04/8/a-freight-train-derails-in-hunedoara-county-romania-killing-both-crew-members-on-board.md) _Context: Romania_
+6. [A motorway bridge near Ancona, Italy, collapses killing two Italians and injuring two Romanian workers. The Italian highway agency links the collapse with a temporary structure that was designed to support it. ](/news/2017/03/9/a-motorway-bridge-near-ancona-italy-collapses-killing-two-italians-and-injuring-two-romanian-workers-the-italian-highway-agency-links-the.md) _Context: Romania_
+7. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _Context: Central Intelligence Agency_
+8. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Romania_
+9. [Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md) _Context: Romania_
+10. [  More than 600,000 people protest in dozens of cities in Romania and diaspora against Grindeanu Government. ](/news/2017/02/5/more-than-600-000-people-protest-in-dozens-of-cities-in-romania-and-diaspora-against-grindeanu-government.md) _Context: Romania_

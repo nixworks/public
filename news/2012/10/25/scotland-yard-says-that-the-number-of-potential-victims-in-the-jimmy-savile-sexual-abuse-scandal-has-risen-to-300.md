@@ -1,0 +1,24 @@
+### [2012-10-25](/news/2012/10/25/index.md)
+
+# Scotland Yard says that the number of potential victims in the Jimmy Savile sexual abuse scandal has risen to 300. 
+
+Police investigating the Jimmy Savile abuse scandal are now dealing with around 300 alleged victims as they warned living culprits: &#039;we will come for you.&#039;
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/media/2012/oct/25/jimmy-savile-bbc-director-general)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9633678/Jimmy-Savile-300-victims-400-lines-of-inquiry-130-interviews.html)
+
+### Related:
+
+1. [Jimmy Savile sexual abuse scandal:Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/jimmy-savile-sexual-abuse-scandal-pscotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-vic.md) _Context: Jimmy Savile sexual abuse scandal, Scotland Yard_
+2. [A report by Dame Janet Smith finds that management at the BBC staff knew of complaints against Jimmy Savile but did not advise senior management due to a "culture of fear". ](/news/2016/02/25/a-report-by-dame-janet-smith-finds-that-management-at-the-bbc-staff-knew-of-complaints-against-jimmy-savile-but-did-not-advise-senior-manage.md) _Context: Jimmy Savile sexual abuse scandal_
+3. [The Metropolitan Police and NSPCC have confirmed 214 separate sexual offences committed by Jimmy Savile over a period of fifty years. ](/news/2013/01/11/the-metropolitan-police-and-nspcc-have-confirmed-214-separate-sexual-offences-committed-by-jimmy-savile-over-a-period-of-fifty-years.md) _Context: Jimmy Savile sexual abuse scandal_
+4. [Detectives from Scotland Yard contact police in Australia over the apparent suicide of Jacintha Saldanha. ](/news/2012/12/9/detectives-from-scotland-yard-contact-police-in-australia-over-the-apparent-suicide-of-jacintha-saldanha.md) _Context: Scotland Yard_
+5. [Jimmy Savile sexual abuse scandal:The Pollard report into practices at the BBC is published, and finds there was a "complete inability" to deal with the Jimmy Savile crisis. ](/news/2012/12/19/jimmy-savile-sexual-abuse-scandal-pthe-pollard-report-into-practices-at-the-bbc-is-published-and-finds-there-was-a-acomplete-inabilitya.md) _Context: Jimmy Savile sexual abuse scandal_
+6. [North Wales child abuse scandal and fallout of the Jimmy Savile sexual abuse scandal:The UK broadcaster ITV faces an investigation by the media regulator Ofcom after television presenter Phillip Schofield handed Prime Minister David Cameron an internet-generated list of potential suspects in a child abuse case involving a care home during a live interview on Thursday, and asked him to comment. ](/news/2012/11/9/north-wales-child-abuse-scandal-and-fallout-of-the-jimmy-savile-sexual-abuse-scandal-pthe-uk-broadcaster-itv-faces-an-investigation-by-the-m.md) _Context: Jimmy Savile sexual abuse scandal_
+7. [A former BBC Radio 1 disc jockey is detained by police in the ongoing investigation into the Jimmy Savile sexual abuse scandal. ](/news/2012/11/15/a-former-bbc-radio-1-disc-jockey-is-detained-by-police-in-the-ongoing-investigation-into-the-jimmy-savile-sexual-abuse-scandal.md) _Context: Jimmy Savile sexual abuse scandal_
+8. [Former pop star Gary Glitter is arrested on suspicion of sex offences by police investigating the Jimmy Savile sexual abuse scandal. ](/news/2012/10/28/former-pop-star-gary-glitter-is-arrested-on-suspicion-of-sex-offences-by-police-investigating-the-jimmy-savile-sexual-abuse-scandal.md) _Context: Jimmy Savile sexual abuse scandal_
+9. [Jimmy Savile sexual abuse scandal:The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-pthe-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statemen.md) _Context: Jimmy Savile sexual abuse scandal_
+10. [The UK's Director of Public Prosecutions is to review a 2009 decision by the Crown Prosecution Service not to prosecute Jimmy Savile over allegations of sexual abuse. ](/news/2012/10/24/the-uk-s-director-of-public-prosecutions-is-to-review-a-2009-decision-by-the-crown-prosecution-service-not-to-prosecute-jimmy-savile-over-al.md) _Context: Jimmy Savile sexual abuse scandal_

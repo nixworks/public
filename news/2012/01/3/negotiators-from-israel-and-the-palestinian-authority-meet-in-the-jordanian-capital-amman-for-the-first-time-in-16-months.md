@@ -1,0 +1,23 @@
+### [2012-01-3](/news/2012/01/3/index.md)
+
+# Negotiators from Israel and the Palestinian Authority meet in the Jordanian capital, Amman, for the first time in 16 months. 
+
+
+
+
+### Source:
+
+1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=251937)
+
+### Related:
+
+1. [U.S. Secretary of State John Kerry met today in Berlin with Israeli Prime Minister Benjamin Netanyahu regarding the recent spate of violence between Palestinians and Israelis. Kerry will meet on Saturday with Palestinian President Mahmoud Abbas and King Abdullah of Jordan in Amman. ](/news/2015/10/22/u-s-secretary-of-state-john-kerry-met-today-in-berlin-with-israeli-prime-minister-benjamin-netanyahu-regarding-the-recent-spate-of-violence.md) _Context: Amman, Israel, Jordan_
+2. [Israel withdraws its ambassador to Jordan due to fears of a violent protest in Amman. ](/news/2011/09/15/israel-withdraws-its-ambassador-to-jordan-due-to-fears-of-a-violent-protest-in-amman.md) _Context: Amman, Israel, Jordan_
+3. [ The President of Egypt, Hosni Mubarak, invites the leaders of the Palestinian Authority, Israel, and Jordan to a summit on Sunday to discuss the Palestinian crisis. ](/news/2007/06/21/the-president-of-egypt-hosni-mubarak-invites-the-leaders-of-the-palestinian-authority-israel-and-jordan-to-a-summit-on-sunday-to-discus.md) _Context: Israel, Jordan, Palestinian Authority_
+4. [ Israeli-Palestinian Conflict: A truce is declared between Israel and the Palestinian Authority.  Mahmoud Abbas, the President of the Palestinian Authority, and Ariel Sharon, the Prime Minister of Israel,  shook hands at a four-way summit at Sharm el-Sheikh that was also attended by Egyptian President Hosni Mubarak and Jordan's King Abdullah.  Palestinian organization Hamas says it is not bound by the ceasefire.  ](/news/2005/02/8/israeli-palestinian-conflict-a-truce-is-declared-between-israel-and-the-palestinian-authority-mahmoud-abbas-the-president-of-the-palest.md) _Context: Israel, Jordan, Palestinian Authority_
+5. [Ahmad Daqamseh, the Jordanian soldier who shot seven Israeli schoolchildren on March 13, 1997, is released from prison in Jordan. ](/news/2017/03/12/ahmad-daqamseh-the-jordanian-soldier-who-shot-seven-israeli-schoolchildren-on-march-13-1997-is-released-from-prison-in-jordan.md) _Context: Israel, Jordan_
+6. [A Muslim preacher from a local mosque shoots and kills Jordanian writer and cartoonist Nahed Hattar in front of a courthouse in the capital Amman. Authorities take the gunman into custody.](/news/2016/09/25/a-muslim-preacher-from-a-local-mosque-shoots-and-kills-jordanian-writer-and-cartoonist-nahed-hattar-in-front-of-a-courthouse-in-the-capital.md) _Context: Amman, Jordan_
+7. [ A Jordanian policeman shoots dead two American instructors and a South African before being killed at a police training centre in Al-Muwaqqar, on the eastern outskirts of Amman. U.S. contractors are sent to the facility to assist Jordanian police trainers. ](/news/2015/11/9/a-jordanian-policeman-shoots-dead-two-american-instructors-and-a-south-african-before-being-killed-at-a-police-training-centre-in-al-muwaqq.md) _Context: Amman, Jordan_
+8. [Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.md) _Context: Israel, Jordan_
+9. [A massive sandstorm hits Lebanon and Syria as well as Jordan, Israel and Egypt. The Lebanese Health Ministry said the storm caused the deaths of two women, and sent hundreds to hospitals with breathing difficulties. Particularly hard hit were the 1.1 million Syrian refugees in Lebanon, many in flimsy tents in informal campsites. ](/news/2015/09/8/a-massive-sandstorm-hits-lebanon-and-syria-as-well-as-jordan-israel-and-egypt-the-lebanese-health-ministry-said-the-storm-caused-the-death.md) _Context: Israel, Jordan_
+10. [The settlement minister of the Palestinian Authority, Ziad Abu Ein, dies after a confrontation with Israeli soldiers during a West Bank protest. ](/news/2014/12/10/the-settlement-minister-of-the-palestinian-authority-ziad-abu-ein-dies-after-a-confrontation-with-israeli-soldiers-during-a-west-bank-prot.md) _Context: Israel, Palestinian Authority_

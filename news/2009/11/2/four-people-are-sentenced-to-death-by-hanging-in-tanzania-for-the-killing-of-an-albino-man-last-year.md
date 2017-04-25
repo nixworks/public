@@ -1,0 +1,24 @@
+### [2009-11-2](/news/2009/11/2/index.md)
+
+#  Four people are sentenced to death by hanging in Tanzania for the killing of an Albino man last year. 
+
+
+
+
+### Source:
+
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091102222026336C538917)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8338838.stm)
+
+### Related:
+
+1. [Nathan Mutei, a Kenyan man, is jailed for 17 years in Tanzania after being convicted of attempting to sell an albino man; the prized albino is escorted back to Kenya under armed guard. ](/news/2010/08/18/nathan-mutei-a-kenyan-man-is-jailed-for-17-years-in-tanzania-after-being-convicted-of-attempting-to-sell-an-albino-man-the-prized-albino.md) _Context: Tanzania, albino_
+2. [Police in Tanzania arrest a Kenyan national who was attempting to sell an albino man. ](/news/2010/08/17/police-in-tanzania-arrest-a-kenyan-national-who-was-attempting-to-sell-an-albino-man.md) _Context: Tanzania, albino_
+3. [ A court in Tanzania sentences three men to death by hanging for killing a 14-year-old albino boy, Matatizo Dunia, to steal parts of his anatomy. It is the country's first conviction for this offence. ](/news/2009/09/23/a-court-in-tanzania-sentences-three-men-to-death-by-hanging-for-killing-a-14-year-old-albino-boy-matatizo-dunia-to-steal-parts-of-his-ana.md) _Context: Tanzania, albino_
+4. [ Tsutomu Miyazaki, known as "The Otaku Murderer", is executed by hanging in Tokyo for the murders and cannibalization of four young girls in 1988 and 1989. He was hanged with two others, each convicted in separate, unrelated murders. ](/news/2008/06/17/tsutomu-miyazaki-known-as-the-otaku-murderer-is-executed-by-hanging-in-tokyo-for-the-murders-and-cannibalization-of-four-young-girls-in.md) _Context: death penalty, hanging_
+5. [Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-others-related-to-incidents-that.md) _Context: hanging_
+6. [University of Washington researchers report, in the peer-reviewed ''Journal of the American Medical Association Oncology'', the discovery of an odontoma -- a ''benign tumor'' -- in the fossil of a   255-million-year old  Tanzanian mammal-like saber-toothed gorgonopsia. This is one of the oldest-known tumors ever found.  ](/news/2016/12/9/university-of-washington-researchers-report-in-the-peer-reviewed-journal-of-the-american-medical-association-oncology-the-discovery-of.md) _Context: Tanzania_
+7. [A court in the Indian city of Mumbai convicts and sentences Ankur Panwar to the death penalty for a fatal acid-throwing attack. ](/news/2016/09/8/a-court-in-the-indian-city-of-mumbai-convicts-and-sentences-ankur-panwar-to-the-death-penalty-for-a-fatal-acid-throwing-attack.md) _Context: death penalty_
+8. [A magnitude 5.7 earthquake occurs in northern Tanzania, near Lake Victoria, killing at least 13 people and injuring 200 others. Tanzanian authorities report significant damage in the town of Bukoba. The governments of Burundi, Kenya, Rwanda, and Uganda report tremors. ](/news/2016/09/10/a-magnitude-5-7-earthquake-occurs-in-northern-tanzania-near-lake-victoria-killing-at-least-13-people-and-injuring-200-others-tanzanian-au.md) _Context: Tanzania_
+9. [This week, the Gambia and Tanzania outlawed child marriages. Friday, the Tanzanian High Court -- in a case filed by the  ''Msichana Initiative'', a lobbying group that advocates for girls' right to education -- ruled in favor of protecting girls from the harms of early marriage. And during  a feast ending the Muslim holy month of Ramadan on Wednesday, The Gambian President Yahya Jammeh announced that child and forced marriages are banned. Jammeh called on the National Assembly to quickly take up the issue. ](/news/2016/07/9/this-week-the-gambia-and-tanzania-outlawed-child-marriages-friday-the-tanzanian-high-court-a-in-a-case-filed-by-the-msichana-initiat.md) _Context: Tanzania_
+10. [Durham and Oxford universities' geologists, working with  a helium exploration company, discover an at least 54 billion cubic foot field of helium in the Tanzanian East African Rift Valley. Previously, helium  has only been found in small quantities. This field, found using a new exploration approach connected to volcanic activity, could potentially meet global demand for several years.  ](/news/2016/06/28/durham-and-oxford-universities-geologists-working-with-a-helium-exploration-company-discover-an-at-least-54-billion-cubic-foot-field-of.md) _Context: Tanzania_

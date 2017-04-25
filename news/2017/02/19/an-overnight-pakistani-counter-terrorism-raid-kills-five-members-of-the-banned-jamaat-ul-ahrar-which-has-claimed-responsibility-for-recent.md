@@ -1,0 +1,23 @@
+### [2017-02-19](/news/2017/02/19/index.md)
+
+# An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. 
+
+MULTAN, Pakistan (AP) — Pakistani police say that counter-terrorism forces killed five militants in an overnight raid and seized weapons and explosives from their hideout. Nayab Haider, a spokesman for the counter-terrorism…
+
+
+### Source:
+
+1. [AP](http://bigstory.ap.org/article/cb8b72dd732c46b48768d0dcd76946c7/pakistani-police-kill-5-militants-counter-terrorism-raid)
+
+### Related:
+
+1. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Jamaat-ul-Ahrar, War in North-West Pakistan_
+2. [Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. ](/news/2017/02/21/multiple-suicide-bombers-kill-at-least-six-people-near-a-district-court-in-charsadda-jamaat-ul-ahrar-claimed-responsibility-for-the-attack.md) _Context: Jamaat-ul-Ahrar, War in North-West Pakistan_
+3. [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md) _Context: Jamaat-ul-Ahrar, War in North-West Pakistan_
+4. [A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar-claims-the-responsibility.md) _Context: Jamaat-ul-Ahrar, War in North-West Pakistan_
+5. [A Taliban suicide bomber hits a court complex in the town of Shabqadar killing at least 13 people and injuring 36.  Jamaat-ul-Ahrar, a  Pakistani Taliban faction, says the attack is retaliation for Mumtaz Qadri's execution last week. ](/news/2016/03/7/a-taliban-suicide-bomber-hits-a-court-complex-in-the-town-of-shabqadar-killing-at-least-13-people-and-injuring-36-jamaat-ul-ahrar-a-paki.md) _Context: Jamaat-ul-Ahrar, War in North-West Pakistan_
+6. [A suicide-bomb attack outside the regional office of the National Database and Registration Authority (NADRA) in the northwestern Pakistani city of Mardan, Khyber Pakhtunkhwa, leaves at least 26 people dead and 45 wounded. The militant Islamist group Jamaat-ul-Ahrar, a Tehrik-i-Taliban Pakistan splinter group, claims responsibility for the attack. ](/news/2015/12/29/a-suicide-bomb-attack-outside-the-regional-office-of-the-national-database-and-registration-authority-nadra-in-the-northwestern-pakistani.md) _Context: Jamaat-ul-Ahrar, War in North-West Pakistan_
+7. [The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _Context: Pakistani counter-terrorism, War in North-West Pakistan_
+8. [The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.md) _Context: Pakistani counter-terrorism, War in North-West Pakistan_
+9. [A suicide bomber kills at least six people and wounds 18  near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: War in North-West Pakistan_
+10. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: War in North-West Pakistan_

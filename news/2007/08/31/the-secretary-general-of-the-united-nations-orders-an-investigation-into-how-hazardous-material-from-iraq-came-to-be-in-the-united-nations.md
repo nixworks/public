@@ -1,0 +1,23 @@
+### [2007-08-31](/news/2007/08/31/index.md)
+
+#  The Secretary-General of the United Nations orders an investigation into how hazardous material from Iraq came to be in the United Nations headquarters in New York. 
+
+
+
+
+### Source:
+
+1. [Xinhua](http://news.xinhuanet.com/english/2007-09/01/content_6641860.htm)
+
+### Related:
+
+1. [The United Nations estimates that four million people have become homeless as a result of the 2010 Pakistan floods; Secretary-General of the United Nations Ban Ki-moon, speaking in New York, states that the floods are a "slow-motion tsunami" as he calls for more funds to assist those affected. ](/news/2010/08/19/the-united-nations-estimates-that-four-million-people-have-become-homeless-as-a-result-of-the-2010-pakistan-floods-secretary-general-of-the.md) _Context: New York, Secretary General, United Nations_
+2. [ United Nations Secretary-General Ban Ki-moon visits Iraq to meet with Prime Minister Nouri al-Maliki. ](/news/2009/02/6/united-nations-secretary-general-ban-ki-moon-visits-iraq-to-meet-with-prime-minister-nouri-al-maliki.md) _Context: Iraq, Secretary General, United Nations_
+3. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq, United Nations_
+4. [Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. ](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.md) _Context: Secretary General, United Nations_
+5. [South Africa will notify the United Nations that the country is withdrawing from the International Criminal Court (ICC). This separation would take effect one year from when notice is formally received by the  U.N. Secretary-General. Last week, Burundi's parliament voted to leave the ICC, but the required paperwork has not yet reached the U.N. ](/news/2016/10/20/south-africa-will-notify-the-united-nations-that-the-country-is-withdrawing-from-the-international-criminal-court-icc-this-separation-wou.md) _Context: Secretary General, United Nations_
+6. [A record 175 states sign the United Nations climate agreement in New York on opening day. The agreement will enter into force once 55 countries representing at least 55 percent of global emissions formally join it. ](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.md) _Context: New York, United Nations_
+7. [Turkey refuses to withdraw its forces from northern Iraq despite being given a 48 hour ultimatum by Iraq to leave the country. Turkey says the troops are there as part of an international mission to train and equip Iraqi forces to fight against the Islamic State. The Iraqi government says it never invited such a force, and will take its case to the United Nations if they are not pulled out. ](/news/2015/12/7/turkey-refuses-to-withdraw-its-forces-from-northern-iraq-despite-being-given-a-48-hour-ultimatum-by-iraq-to-leave-the-country-turkey-says-t.md) _Context: Iraq, United Nations_
+8. [ In Iraq, a cholera outbreak prompts United Nations agencies UNICEF and the World Health Organization to launch a prevention and treatment campaign.  So far, around 2,200 cases have been confirmed, and some infections have occurred in neighboring countries. ](/news/2015/11/7/in-iraq-a-cholera-outbreak-prompts-united-nations-agencies-unicef-and-the-world-health-organization-to-launch-a-prevention-and-treatment-c.md) _Context: Iraq, United Nations_
+9. [The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. ](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.md) _Context: Iraq, United Nations_
+10. [The United Nations declares its highest state of emergency in Iraq following the advance of Islamic State of Iraq and the Levant. ](/news/2014/08/14/the-united-nations-declares-its-highest-state-of-emergency-in-iraq-following-the-advance-of-islamic-state-of-iraq-and-the-levant.md) _Context: Iraq, United Nations_

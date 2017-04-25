@@ -1,0 +1,24 @@
+### [2013-06-17](/news/2013/06/17/index.md)
+
+# Brazilians go to the streets in Sao Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22946736)
+2. [News Day](http://www.newsday.com/news/world/another-round-of-protests-in-brazilian-cities-1.5501273)
+
+### Related:
+
+1. [The Dow Live Earth Run for Water started on April 18th. The host cities are: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Lisboa, Rio de Janeiro, Sao Paulo, Singapore City, Stockholm, Toronto and Washington, D.C.. ](/news/2010/04/18/the-dow-live-earth-run-for-water-started-on-april-18th-the-host-cities-are-buenos-aires-cape-town-chicago-hong-kong-jimbaran-london.md) _Context: Rio de Janeiro, São Paulo_
+2. [A body found in a burnt-out vehicle north of the Brazilian city of Rio de Janeiro is confirmed to be that of missing Greek Ambassador Kyriakos Amiridis. A military police officer who had an affair with the ambassador's wife confesses to the murder. The wife and a second man are also detained. ](/news/2016/12/30/a-body-found-in-a-burnt-out-vehicle-north-of-the-brazilian-city-of-rio-de-janeiro-is-confirmed-to-be-that-of-missing-greek-ambassador-kyriak.md) _Context: Rio de Janeiro_
+3. [The Ambassador of Greece to Brazil, Kyriakos Amiridis, is reported missing while on vacation in Rio de Janeiro. A homicide team is investigating his disappearance. ](/news/2016/12/29/the-ambassador-of-greece-to-brazil-kyriakos-amiridis-is-reported-missing-while-on-vacation-in-rio-de-janeiro-a-homicide-team-is-investiga.md) _Context: Rio de Janeiro_
+4. [Contractors and suppliers for the Rio de Janeiro Olympic Games claim they are owed millions in unpaid debts. ](/news/2016/11/28/contractors-and-suppliers-for-the-rio-de-janeiro-olympic-games-claim-they-are-owed-millions-in-unpaid-debts.md) _Context: Rio de Janeiro_
+5. [American Olympic swimmers Ryan Lochte, Gunnar Bentz, Jack Conger and Jimmy Feigen claim they were robbed at gunpoint in Rio de Janeiro by men posing as Brazilian police officers. ](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.md) _Context: Rio de Janeiro_
+6. [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village  because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-f.md) _Context: Rio de Janeiro_
+7. [The International Olympic Committee (IOC) upholds its ban on Russian track and field athletes participating in the 2016 Summer Olympics in Rio de Janeiro due to various doping scandals. IOC officials plan to gather next Tuesday to discuss the matter further. ](/news/2016/06/17/the-international-olympic-committee-ioc-upholds-its-ban-on-russian-track-and-field-athletes-participating-in-the-2016-summer-olympics-in-r.md) _Context: Rio de Janeiro_
+8. [The International Olympic Committee (IOC) executive board backs host Tokyo's  proposal to include baseball-softball, surfing, karate, sport climbing, and skateboarding in the 2020 Summer Olympics. The full IOC will vote on this in Rio de Janeiro, Brazil, in August. ](/news/2016/06/1/the-international-olympic-committee-ioc-executive-board-backs-host-tokyo-s-proposal-to-include-baseball-softball-surfing-karate-sport.md) _Context: Rio de Janeiro_
+9. [Brazilian Police say they have identified and are searching for four of the more than 30 men suspected in last Saturday's gang rape of a 16-year-old girl in Rio de Janeiro. The assault came to light after several men posted about the attack online. ](/news/2016/05/28/brazilian-police-say-they-have-identified-and-are-searching-for-four-of-the-more-than-30-men-suspected-in-last-saturday-s-gang-rape-of-a-16.md) _Context: Rio de Janeiro_
+10. [More than 150 prominent scientists worldwide send a letter to World Health Organization Director-General Margaret Chan calling for the postponement or relocation of the Rio de Janeiro 2016 Summer Olympics because of the widening Zika virus outbreak in Brazil, despite U.S. Centers for Disease Control and Prevention Director Tom Frieden's statement yesterday that "there is no public health reason to cancel or delay the Olympics." ](/news/2016/05/27/more-than-150-prominent-scientists-worldwide-send-a-letter-to-world-health-organization-director-general-margaret-chan-calling-for-the-postp.md) _Context: Rio de Janeiro_

@@ -1,0 +1,24 @@
+### [2008-12-5](/news/2008/12/5/index.md)
+
+#  O. J. Simpson is sentenced to 15-33 years in prison with eligibility for parole after 9 years for kidnapping and robbery of two sports memorabilia dealers in a Las Vegas, Nevada, casino. 
+
+This was not the O.J. Simpson of old.His wrists shackled, eyes reddened and husky voice cracking, the fallen football star -- who famously was acquitted of double murder in Los Angeles -- was...
+
+
+### Source:
+
+1. [AFP via ''Melbourne Age](http://www.theage.com.au/world/emotional-oj-simpson-gets-15-years-jail-for-kidnapping-20081206-6snm.html?page=-1)
+2. [Los Angeles Times](http://www.latimes.com/news/local/la-na-oj-sentencing6-2008dec06,0,3919620.story)
+
+### Related:
+
+1. [Extreme heat in Las Vegas, Nevada, US, leads to dozens of hospitalizations. ](/news/2013/06/29/extreme-heat-in-las-vegas-nevada-us-leads-to-dozens-of-hospitalizations.md) _Context: Las Vegas, Nevada_
+2. [ Two schools in the Las Vegas Valley, Nevada, United States, are locked down, after a former student reportedly brought an AK-47 or other automatic weapons to school. (Wikinews) ](/news/2006/10/2/two-schools-in-the-las-vegas-valley-nevada-united-states-are-locked-down-after-a-former-student-reportedly-brought-an-ak-47-or-other-au.md) _Context: Las Vegas, Nevada_
+3. [Two UN officials with MONUSCO--an American and a Swede--are among six people kidnapped  near the village of Ngombe in the Democratic Republic of the Congo's Kasai-Central province. Congolese officials have not identified the kidnappers nor has any group  claimed responsibility. ](/news/2017/03/13/two-un-officials-with-monuscoaan-american-and-a-swedeaare-among-six-people-kidnapped-near-the-village-of-ngombe-in-the-democratic-repub.md) _Context: kidnapped_
+4. [U.S. President Barack Obama declares the Bears Ears in Utah and Gold Butte area of Nevada as National Monuments. Both are known for the presence of Native American populations and archaeological sites. ](/news/2016/12/29/u-s-president-barack-obama-declares-the-bears-ears-in-utah-and-gold-butte-area-of-nevada-as-national-monuments-both-are-known-for-the-pres.md) _Context: Nevada_
+5. [Reform candidate Rocky de la Fuente files for a sample recount in parts of Nevada. ](/news/2016/11/30/reform-candidate-rocky-de-la-fuente-files-for-a-sample-recount-in-parts-of-nevada.md) _Context: Nevada_
+6. [Four state Democratic Parties sue  the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal"  group founder Roger Stone  for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder.md) _Context: Nevada_
+7. [Tesla motors opens a 'Gigafactory' near Reno in the middle of the Nevada desert. ](/news/2016/07/27/tesla-motors-opens-a-gigafactory-near-reno-in-the-middle-of-the-nevada-desert.md) _Context: Nevada_
+8. [ In ice hockey, ESPN reports that the NHL will place an expansion team in Las Vegas, provided the team's backers can pay a US$500 million expansion fee. The team, which would enter the league no earlier than the 2017-18 season, would be the first major professional sports team in Las Vegas. The league's board of governors is scheduled to hold a formal vote on the expansion on June 22. ](/news/2016/06/14/in-ice-hockey-espn-reports-that-the-nhl-will-place-an-expansion-team-in-las-vegas-provided-the-team-s-backers-can-pay-a-us-500-million-ex.md) _Context: Las Vegas_
+9. [Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. ](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.md) _Context: Nevada_
+10. [The United States and the United Kingdom issue travel alerts for their citizens to avoid the Sulu Archipelago in the  southwestern Philippines where a wave of kidnappings by Abu Sayyaf militants has occurred. ](/news/2016/04/21/the-united-states-and-the-united-kingdom-issue-travel-alerts-for-their-citizens-to-avoid-the-sulu-archipelago-in-the-southwestern-philippin.md) _Context: kidnapped_

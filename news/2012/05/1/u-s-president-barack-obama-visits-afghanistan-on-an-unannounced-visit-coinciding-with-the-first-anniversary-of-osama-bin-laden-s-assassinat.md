@@ -1,0 +1,23 @@
+### [2012-05-1](/news/2012/05/1/index.md)
+
+# U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-asia-17916489)
+
+### Related:
+
+1. [Pakistan expels British military advisers following the United States Navy Seals raid that resulted in the death of Osama bin Laden. ](/news/2011/06/27/pakistan-expels-british-military-advisers-following-the-united-states-navy-seals-raid-that-resulted-in-the-death-of-osama-bin-laden.md) _Context: Osama bin Laden, Pakistan, father's killing_
+2. [Pakistan's Directorate for Inter-Services Intelligence has arrested Central Intelligence Agency informants who contributed to the raid on Osama bin Laden. ](/news/2011/06/14/pakistan-s-directorate-for-inter-services-intelligence-has-arrested-central-intelligence-agency-informants-who-contributed-to-the-raid-on-os.md) _Context: Osama bin Laden, Pakistan, father's killing_
+3. [Death of Osama bin Laden:President of the United States Barack Obama announces in a special TV broadcast that Osama bin Laden, the founder and leader of the militant Islamist group Al-Qaeda and the most-wanted fugitive on the FBI's Ten Most Wanted Fugitives, was killed on May 2 (Pakistan Standard Time) during an American military operation in Abbottabad, near Islamabad, Pakistan and that his body is in U.S. custody. ](/news/2011/05/1/death-of-osama-bin-laden-ppresident-of-the-united-states-barack-obama-announces-in-a-special-tv-broadcast-that-osama-bin-laden-the-founder.md) _Context: Osama bin Laden, Pakistan, father's killing_
+4. [  The President of Afghanistan Hamid Karzai warns the Taliban that he will send forces into Pakistan in hot pursuit of militants. ](/news/2008/06/15/the-president-of-afghanistan-hamid-karzai-warns-the-taliban-that-he-will-send-forces-into-pakistan-in-hot-pursuit-of-militants.md) _Context: Afghan, Hamid Karzai, Pakistan_
+5. [ Vice President of the United States Dick Cheney makes surprise visits to Pakistan and Afghanistan to encourage President of Pakistan Pervez Musharraf and President of Afghanistan Hamid Karzai to increase border security between the two countries and to take further action against the Taliban and al-Qaeda. ](/news/2007/02/26/vice-president-of-the-united-states-dick-cheney-makes-surprise-visits-to-pakistan-and-afghanistan-to-encourage-president-of-pakistan-pervez.md) _Context: Afghan, Hamid Karzai, Pakistan_
+6. [ President Hamid Karzai of Afghanistan says at a press conference that he does not believe that Osama bin Laden is in Afghanistan.  CIA chief Porter Goss has said in a recent interview that he has an "excellent idea" of bin Laden's whereabouts. ](/news/2005/07/9/president-hamid-karzai-of-afghanistan-says-at-a-press-conference-that-he-does-not-believe-that-osama-bin-laden-is-in-afghanistan-cia-chie.md) _Context: Afghan, Hamid Karzai, Osama bin Laden_
+7. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Afghan, Pakistan_
+8. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Afghan, Pakistan_
+9. [Heavy snow and avalanches kill dozens of people in Afghanistan and northern Pakistan, while Kabul International Airport is closed due to snow and ice on the runway. ](/news/2017/02/5/heavy-snow-and-avalanches-kill-dozens-of-people-in-afghanistan-and-northern-pakistan-while-kabul-international-airport-is-closed-due-to-sno.md) _Context: Afghan, Pakistan_
+10. [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md) _Context: Afghan, Pakistan_

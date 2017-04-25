@@ -1,0 +1,19 @@
+### [2004-01-1](/news/2004/01/1/index.md)
+
+#  Ireland's Roman Catholic and Protestant Boy Scouts organisations merge after nearly a century of division, in spite of efforts by the Roman Catholic bishops to block the merger.
+
+
+
+
+### Related:
+
+1. [Pope Benedict XVI tells Roman Catholic bishops around the world they must obey Summorum Pontificum, a papal order allowing priests to say the old-style Tridentine Mass, regardless of their opinion on it. ](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.md) _Context: Roman Catholic, bishop_
+2. [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md) _Context: Roman Catholic, bishop_
+3. [ At the end of their three-week synod in the Vatican, more than 200 African Roman Catholic bishops issue a 12-page document urging what they call corrupt political leaders on the continent to repent their sins or resign and criticising multinational companies who exploit and destroy the earth. ](/news/2009/10/23/at-the-end-of-their-three-week-synod-in-the-vatican-more-than-200-african-roman-catholic-bishops-issue-a-12-page-document-urging-what-they.md) _Context: Roman Catholic, bishop_
+4. [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md) _Context: Roman Catholic, bishop_
+5. [ A senior Irish Catholic bishop says Roman Catholics can vote "Yes" in the country's second referendum on the Treaty of Lisbon "in good conscience". ](/news/2009/09/17/a-senior-irish-catholic-bishop-says-roman-catholics-can-vote-yes-in-the-country-s-second-referendum-on-the-treaty-of-lisbon-in-good-cons.md) _Context: Roman Catholic, bishop_
+6. [ Zimbabwe's Roman Catholic bishops call on the President of Zimbabwe Robert Mugabe to stand down or face "open revolt" in a message posted on church bulletin boards across the country. ](/news/2007/04/8/zimbabwe-s-roman-catholic-bishops-call-on-the-president-of-zimbabwe-robert-mugabe-to-stand-down-or-face-open-revolt-in-a-message-posted-o.md) _Context: Roman Catholic, bishop_
+7. [Pope Francis issues ''Amoris Laetitia'' or the Joy of Love, a document on the Roman Catholic approach to love, sex, marriage and family life.  ](/news/2016/04/8/pope-francis-issues-amoris-laetitia-or-the-joy-of-love-a-document-on-the-roman-catholic-approach-to-love-sex-marriage-and-family-life.md) _Context: Roman Catholic_
+8. [Pope Francis accepts the resignation of Robert Finn as bishop of the Roman Catholic Diocese of Kansas City-Saint Joseph for failing to report a suspected child abuser. ](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-finn-as-bishop-of-the-roman-catholic-diocese-of-kansas-cityasaint-joseph-for-failing-to-rep.md) _Context: bishop_
+9. [In Australia, the New South Wales Police charge the Roman Catholic Archbishop of Adelaide, Philip Wilson, with allegedly covering up a child sexual abuse crime committed by another priest, James Fletcher, in the 1970s. ](/news/2015/03/17/in-australia-the-new-south-wales-police-charge-the-roman-catholic-archbishop-of-adelaide-philip-wilson-with-allegedly-covering-up-a-child.md) _Context: Roman Catholic_
+10. [The General Synod of the Church of England meeting in York votes to allow women to become bishops. ](/news/2014/07/14/the-general-synod-of-the-church-of-england-meeting-in-york-votes-to-allow-women-to-become-bishops.md) _Context: bishop_

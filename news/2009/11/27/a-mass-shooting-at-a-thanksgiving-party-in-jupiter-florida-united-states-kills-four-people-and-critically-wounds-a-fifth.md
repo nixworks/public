@@ -1,0 +1,23 @@
+### [2009-11-27](/news/2009/11/27/index.md)
+
+#  A mass shooting at a Thanksgiving party in Jupiter, Florida, United States kills four people and critically wounds a fifth. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2009/CRIME/11/27/florida.shooting/index.html)
+
+### Related:
+
+1. [Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. ](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-nightclub-in-belle-glade-florida-united-states.md) _Context: Florida, United States, shooting_
+2. [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md) _Context: Florida, United States, shooting_
+3. [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md) _Context: Florida, United States_
+4. [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md) _Context: Florida, United States_
+5. [New Frontiers program The United Launch Alliance successfully launches NASA's OSIRIS-REx from Cape Canaveral Air Force Station Space Launch Complex 41 in Florida. The mission is to study asteroid 101955 Bennu and in 2023 to return a sample to Earth for detailed analysis. If successful, OSIRIS-REx will be the first U.S. spacecraft to return samples from an asteroid. ](/news/2016/09/8/new-frontiers-program-pthe-united-launch-alliance-successfully-launches-nasa-s-osiris-rex-from-cape-canaveral-air-force-station-space-launch.md) _Context: Florida, United States_
+6. [Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonwealth-of-the-northern-mariana-islands-head-to.md) _Context: Florida, United States_
+7. [More than 200 black bears are killed in a single day in the U.S. state of Florida after state officials allow the hunting of the animals for the first time in 21 years; supporters say the aim is to cut down on the animals' surging population, but animal rights activists have criticized the hunts as cruel and ineffective. ](/news/2015/10/25/more-than-200-black-bears-are-killed-in-a-single-day-in-the-u-s-state-of-florida-after-state-officials-allow-the-hunting-of-the-animals-for.md) _Context: Florida, United States_
+8. [In Florida, United States, Eric Rivera Jr. is convicted of second-degree murder in the 2007 killing of NFL Washington Redskins player Sean Taylor during a burglary. ](/news/2013/11/4/in-florida-united-states-eric-rivera-jr-is-convicted-of-second-degree-murder-in-the-2007-killing-of-nfl-washington-redskins-player-sean-t.md) _Context: Florida, United States_
+9. [A shooting at Marine Corps Base Quantico in Virginia, United States, kills three people, including the suspected shooter. ](/news/2013/03/22/a-shooting-at-marine-corps-base-quantico-in-virginia-united-states-kills-three-people-including-the-suspected-shooter.md) _Context: United States, shooting_
+10. [The suspect wanted in connection with the shooting death of prison chief Tom Clements in Colorado, is believed to be the man that was killed in a shootout with deputies in Montague County, Texas, United States. A deputy was seriously injured in the shootout. ](/news/2013/03/21/the-suspect-wanted-in-connection-with-the-shooting-death-of-prison-chief-tom-clements-in-colorado-is-believed-to-be-the-man-that-was-killed.md) _Context: United States, shooting_

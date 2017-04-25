@@ -1,0 +1,17 @@
+### [2008-07-25](/news/2008/07/25/index.md)
+
+#  Congressman Dennis Kucinich (D-Ohio) presents the articles for the impeachment of President George W. Bush to the U.S. House Judiciary Committee. 
+
+
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/story/0,2933,391121,00.html)
+
+### Related:
+
+1. [Veteran Ohio Congressman Dennis Kucinich is defeated in a Democrat primary in the 9th district by incumbent Marcia C. Kaptur after he was affected by redistricting - Samuel Wurzelbacher aka Joe the Plumber wins the Republican Party primary. ](/news/2012/03/6/veteran-ohio-congressman-dennis-kucinich-is-defeated-in-a-democrat-primary-in-the-9th-district-by-incumbent-marcia-c-kaptur-after-he-was-af.md) _Context: Dennis Kucinich_
+2. [ The United States House of Representatives votes today on whether to refer Articles of Impeachment against George W. Bush introduced Monday evening by Rep. Dennis Kucinich to a committee. ](/news/2008/06/11/the-united-states-house-of-representatives-votes-today-on-whether-to-refer-articles-of-impeachment-against-george-w-bush-introduced-monday.md) _Context: Dennis Kucinich_
+3. [ United States presidential election, 2008: Ohio Congressman Dennis Kucinich withdraws his candidacy. ](/news/2008/01/25/united-states-presidential-election-2008-ohio-congressman-dennis-kucinich-withdraws-his-candidacy.md) _Context: Dennis Kucinich_
+4. [ U.S. Congressman Dennis Kucinich (D-Ohio) submits Resolution ](/news/2007/04/26/u-s-congressman-dennis-kucinich-d-ohio-submits-resolution.md) _Context: Dennis Kucinich_

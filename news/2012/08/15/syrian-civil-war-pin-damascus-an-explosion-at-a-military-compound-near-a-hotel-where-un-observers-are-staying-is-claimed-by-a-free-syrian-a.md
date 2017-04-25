@@ -1,0 +1,27 @@
+### [2012-08-15](/news/2012/08/15/index.md)
+
+# Syrian civil war:In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. 
+
+Spokesperson of Free Syrian Army unit that planned Damascus bombings tells Al Jazeera they targeted military, not UN.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2012/08/15/us-syria-crisis-idUSBRE8610SH20120815)
+2. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Local-News/2012/Aug-15/184782-saudi-arabia-calls-on-all-its-citizens-to-leave-lebanon-immediately.ashx#axzz23eJPmhNh)
+3. [CNN](http://edition.cnn.com/2012/08/15/world/meast/syria-unrest/index.html?hpt=hp_t1)
+4. [UNHCR](http://www.ohchr.org/Documents/HRBodies/HRCouncil/PRCoISyria15082012_en.pdf)
+5. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128156451195915.html)
+
+### Related:
+
+1. [The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _Context: Free Syrian Army, Syrian Civil War_
+2. [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md) _Context: Free Syrian Army, Syrian Civil War_
+3. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Free Syrian Army, Syrian Civil War_
+4. [Turkish-backed Free Syrian Army rebels seize control of the symbolic town of Dabiq, Aleppo Governorate, following clashes with ISIL militants. ](/news/2016/10/16/turkish-backed-free-syrian-army-rebels-seize-control-of-the-symbolic-town-of-dabiq-aleppo-governorate-following-clashes-with-isil-militant.md) _Context: Free Syrian Army, Syrian Civil War_
+5. [The Turkish Armed Forces and US-backed Syrian rebels launch an initially successful campaign to capture the town of Jarabulus from ISIL. The Turkish Land Forces are also shelling YPG positions to prevent them from capturing areas that ISIL will retreat from. ](/news/2016/08/24/the-turkish-armed-forces-and-us-backed-syrian-rebels-launch-an-initially-successful-campaign-to-capture-the-town-of-jarabulus-from-isil-the.md) _Context: Free Syrian Army, Syrian Civil War_
+6. [The al-Nusra Front, an al-Qaeda affiliate, assaults the Free Syrian Army's 13th Division in Maarrat al-Nu'man, killing seven FSA fighters with 40 captured. The Syrian Observatory for Human Rights says Nusra seized anti-tank missiles, armored vehicles, a tank, and other arms from the U.S.-backed division. ](/news/2016/03/13/the-al-nusra-front-an-al-qaeda-affiliate-assaults-the-free-syrian-army-s-13th-division-in-maarrat-al-nu-man-killing-seven-fsa-fighters-wi.md) _Context: Free Syrian Army, Syrian Civil War_
+7. [The Kurdish-led Syrian Democratic Forces (SDF) reportedly take control of the Menagh Military Airbase in the northern Aleppo Governorate after Ahrar ash-Sham, Levant Front and Free Syrian Army fighters withdraw amid Russian airstrikes. ](/news/2016/02/10/the-kurdish-led-syrian-democratic-forces-sdf-reportedly-take-control-of-the-menagh-military-airbase-in-the-northern-aleppo-governorate-aft.md) _Context: Free Syrian Army, Syrian Civil War_
+8. [The Syrian Army, backed by Russian airstrikes, retakes control of the strategic town of Salma in the northern Latakia Governorate. The town had been mostly under rebel (FSA) and jihadist (Al-Nusra Front) control since 2012. ](/news/2016/01/12/the-syrian-army-backed-by-russian-airstrikes-retakes-control-of-the-strategic-town-of-salma-in-the-northern-latakia-governorate-the-town.md) _Context: Free Syrian Army, Syrian Civil War_
+9. [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md) _Context: Free Syrian Army, Syrian Civil War_
+10. [Russian airstrikes in Syria's coastal Latakia province have killed a top FSA commander, Basil Zamo, and several other rebel fighters. ](/news/2015/10/20/russian-airstrikes-in-syriaas-coastal-latakia-province-have-killed-a-top-fsa-commander-basil-zamo-and-several-other-rebel-fighters.md) _Context: Free Syrian Army, Syrian Civil War_

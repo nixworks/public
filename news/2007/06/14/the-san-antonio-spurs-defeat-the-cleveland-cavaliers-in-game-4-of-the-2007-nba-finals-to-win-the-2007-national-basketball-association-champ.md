@@ -1,0 +1,23 @@
+### [2007-06-14](/news/2007/06/14/index.md)
+
+#  The San Antonio Spurs defeat the Cleveland Cavaliers in Game 4 of the 2007 NBA Finals to win the 2007 National Basketball Association Championship. 
+
+
+
+
+### Source:
+
+1. [SI](http://sportsillustrated.cnn.com/basketball/nba/boxscores/2007/06/14/22005_boxscore.html)
+
+### Related:
+
+1. [ In basketball, Tim Duncan, who played his entire 19-season NBA career with the San Antonio Spurs, where he won five NBA titles and two MVP awards, made 15 All-Star appearances and made the All-NBA first team 10 times, announces his retirement. ](/news/2016/07/11/in-basketball-tim-duncan-who-played-his-entire-19-season-nba-career-with-the-san-antonio-spurs-where-he-won-five-nba-titles-and-two-mvp.md) _Context: NBA, San Antonio Spurs_
+2. [Four-time NBA MVP LeBron James, who opted out of the final two years of his contract with the Miami Heat, announces that he will return to the Cleveland Cavaliers, where he played for the first seven seasons of his NBA career. ](/news/2014/07/11/four-time-nba-mvp-lebron-james-who-opted-out-of-the-final-two-years-of-his-contract-with-the-miami-heat-announces-that-he-will-return-to-t.md) _Context: Cleveland Cavaliers, NBA_
+3. [In North American basketball, the National Basketball Association holds its annual draft in the Barclays Center in Brooklyn with the Cleveland Cavaliers selecting Canadian Andrew Wiggins as the first pick. ](/news/2014/06/26/in-north-american-basketball-the-national-basketball-association-holds-its-annual-draft-in-the-barclays-center-in-brooklyn-with-the-clevela.md) _Context: Cleveland Cavaliers, NBA_
+4. [In basketball, David Blatt, who coached Maccabi Tel Aviv to the Euroleague title this past season, has reportedly reached a deal to become the new head coach of the Cleveland Cavaliers. Blatt is the first Euroleague coach to become an NBA head coach. ](/news/2014/06/20/in-basketball-david-blatt-who-coached-maccabi-tel-aviv-to-the-euroleague-title-this-past-season-has-reportedly-reached-a-deal-to-become-t.md) _Context: Cleveland Cavaliers, NBA_
+5. [The Cleveland Cavaliers set a new record for consecutive losses in a single National Basketball Association season in the United States. ](/news/2011/02/5/the-cleveland-cavaliers-set-a-new-record-for-consecutive-losses-in-a-single-national-basketball-association-season-in-the-united-states.md) _Context: Cleveland Cavaliers, NBA_
+6. [The Cleveland Cavaliers match the United States National Basketball Association record for a single-season losing streak by losing their 23rd straight match to the Memphis Grizzlies. ](/news/2011/02/4/the-cleveland-cavaliers-match-the-united-states-national-basketball-association-record-for-a-single-season-losing-streak-by-losing-their-23r.md) _Context: Cleveland Cavaliers, NBA_
+7. [In basketball, the Cleveland Cavaliers beat the Golden State Warriors in seven games to win the 2016 NBA Championship. Cleveland, winning its first NBA title in the franchise's 45-year history, also became the first NBA team to rally from a 3-1 deficit and win the crown. Tonight's victory also ends the 52-year title drought of Cleveland's major sports teams; in 1964, the Cleveland Browns shut out the Baltimore Colts for the NFL title. Cleveland's LeBron James is unanimously voted the Most Valuable Player of the NBA Finals, his third such award. ](/news/2016/06/19/in-basketball-the-cleveland-cavaliers-beat-the-golden-state-warriors-in-seven-games-to-win-the-2016-nba-championship-cleveland-winning-it.md) _Context: Cleveland Cavaliers_
+8. [ The Cleveland Cavaliers defeated the Golden State Warriors in Game 6 of the NBA finals 115-101, forcing a Game 7 which will be held in Oakland, California on June 19.](/news/2016/06/16/the-cleveland-cavaliers-defeated-the-golden-state-warriors-in-game-6-of-the-nba-finals-115a101-forcing-a-game-7-which-will-be-held-in-oa.md) _Context: Cleveland Cavaliers_
+9. [Bryce Dejean-Jones, a National Basketball Association player with the New Orleans Pelicans, is shot dead in Dallas, Texas,  after breaking down an apartment bedroom door. ](/news/2016/05/28/bryce-dejean-jones-a-national-basketball-association-player-with-the-new-orleans-pelicans-is-shot-dead-in-dallas-texas-after-breaking-d.md) _Context: NBA_
+10. [In basketball, the visiting Boston Celtics defeat the Golden State Warriors, snapping the Warrior's 14-month, 54-game home win streak which leaves the San Antonio Spurs with the only undefeated home record this season. ](/news/2016/04/2/in-basketball-the-visiting-boston-celtics-defeat-the-golden-state-warriors-snapping-the-warrior-s-14-month-54-game-home-win-streak-which.md) _Context: San Antonio Spurs_

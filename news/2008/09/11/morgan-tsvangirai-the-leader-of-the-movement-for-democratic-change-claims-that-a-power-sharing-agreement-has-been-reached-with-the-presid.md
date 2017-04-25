@@ -1,0 +1,23 @@
+### [2008-09-11](/news/2008/09/11/index.md)
+
+#  Morgan Tsvangirai, the leader of the Movement for Democratic Change, claims that a power sharing agreement has been reached with the President of Zimbabwe Robert Mugabe. 
+
+
+
+
+### Source:
+
+1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7611459.stm)
+
+### Related:
+
+1. [ The runoff election for the 2008 presidential election between the President of Zimbabwe Robert Mugabe and Morgan Tsvangirai of the Movement for Democratic Change is set for June 27. ](/news/2008/05/16/the-runoff-election-for-the-2008-presidential-election-between-the-president-of-zimbabwe-robert-mugabe-and-morgan-tsvangirai-of-the-movemen.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, President of Zimbabwe, Robert Mugabe_
+2. [Zimbabwe's top court rules that the general election should be held on July 31 despite an appeal by President Robert Mugabe and his main rival Prime Minister Morgan Tsvangirai. ](/news/2013/07/5/zimbabwe-s-top-court-rules-that-the-general-election-should-be-held-on-july-31-despite-an-appeal-by-president-robert-mugabe-and-his-main-riv.md) _Context: Morgan Tsvangirai, President of Zimbabwe, Robert Mugabe_
+3. [Zimbabwe President Robert Mugabe states that a power sharing deal with Morgan Tsvangirai should not be extended past its expiration in four months time. ](/news/2010/10/16/zimbabwe-president-robert-mugabe-states-that-a-power-sharing-deal-with-morgan-tsvangirai-should-not-be-extended-past-its-expiration-in-four.md) _Context: Morgan Tsvangirai, President of Zimbabwe, Robert Mugabe_
+4. [ Movement for Democratic Change President Morgan Tsvangirai agrees to become Zimbabwe's Prime Minister on February 11 in a deal with President Robert Mugabe. ](/news/2009/01/31/movement-for-democratic-change-president-morgan-tsvangirai-agrees-to-become-zimbabwe-s-prime-minister-on-february-11-in-a-deal-with-preside.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe_
+5. [ Morgan Tsvangirai of Zimbabwe's Movement for Democratic Change states that power-sharing talks with President Robert Mugabe have failed to reach an agreement. ](/news/2008/10/17/morgan-tsvangirai-of-zimbabwe-s-movement-for-democratic-change-states-that-power-sharing-talks-with-president-robert-mugabe-have-failed-to.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe_
+6. [ Zimbabweans go to the polls for a runoff election with the President of Zimbabwe Robert Mugabe expected to be reelected following the withdrawal of Morgan Tsvangarai of the opposition Movement for Democratic Change. ](/news/2008/06/27/zimbabweans-go-to-the-polls-for-a-runoff-election-with-the-president-of-zimbabwe-robert-mugabe-expected-to-be-reelected-following-the-withd.md) _Context: Movement for Democratic Change, President of Zimbabwe, Robert Mugabe_
+7. [  The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. ](/news/2008/05/2/the-opposition-movement-for-democratic-change-proposes-a-power-sharing-arrangement-with-the-president-of-zimbabwe-robert-mugabe-s-party-t.md) _Context: Movement for Democratic Change, President of Zimbabwe, Robert Mugabe_
+8. [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean '''parliamentary''' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe_
+9. [ Leading opponents of Zimbabwe's President Robert Mugabe, including Morgan Tsvangirai, leader of the Movement for Democratic Change, and four other members of parliament and party activists, are arrested for defying a ban on protest rallies in Harare. Riot police shoot one activist dead. ](/news/2007/03/11/leading-opponents-of-zimbabwe-s-president-robert-mugabe-including-morgan-tsvangirai-leader-of-the-movement-for-democratic-change-and-fou.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe_
+10. [ In Zimbabwe, state prosecutors dropped treason charges against opposition leader Morgan Tsvangirai. Mr Tsvangirai, leader of the Movement for Democratic Change, was accused of organising mass protests in 2003 to overthrow Robert Mugabe's controversial regime. ](/news/2005/08/2/in-zimbabwe-state-prosecutors-dropped-treason-charges-against-opposition-leader-morgan-tsvangirai-mr-tsvangirai-leader-of-the-movement-f.md) _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe_

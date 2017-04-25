@@ -1,0 +1,24 @@
+### [2007-02-16](/news/2007/02/16/index.md)
+
+#  The United States House of Representatives passes House Concurrent Resolution 63; a non-binding resolution criticising U.S. President George W. Bush's Surge Plan in Iraq. 
+
+
+
+
+### Source:
+
+1. [Clerk.House.gov](http://clerk.house.gov/evs/2007/index.asp)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6368985.stm)
+
+### Related:
+
+1. [ Iraq War: U.S. President George W. Bush meets with Democratic Party officials in Congress to try find ways to fund the Iraq War. ](/news/2007/05/2/iraq-war-u-s-president-george-w-bush-meets-with-democratic-party-officials-in-congress-to-try-find-ways-to-fund-the-iraq-war.md) _Context: George W. Bush, Iraq War, U.S. President_
+2. [ Iraq War: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-p-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md) _Context: George W. Bush, Iraq War, U.S. House_
+3. [ U.S. President George W. Bush delivers the State of the Union Address to a joint session of the U.S. Congress (the House of Representatives and the Senate).  Moments before the address began, anti-war protester Cindy Sheehan is arrested in the U.S. Capitol Building for refusing to cover up a T-shirt she was wearing to protest the war and occupation of Iraq. [http://www.cnn.com/2006/POLITICS/01/31/sheehan.arrest/index.html?section=cnn_topstories (CNN)] Also directed out of the U.S. Capitol Building was Beverly Young, wife of GOP congressman Bill Young, for wearing a T-shirt that read "Support the Troops: Defending Our Freedom" [http://abcnews.go.com/WNT/story?id=1567217&WNTad=true (ABC)].](/news/2006/01/31/u-s-president-george-w-bush-delivers-the-state-of-the-union-address-to-a-joint-session-of-the-u-s-congress-the-house-of-representatives.md) _Context: George W. Bush, Iraq War, U.S. House_
+4. [A private note, due to remain secret despite calls for it to be published by the chairman of the Iraq Inquiry, shows former British prime minister Tony Blair privately assured former American president George W. Bush "you can count on us" before they jointly invaded Iraq prior to the Iraq War. ](/news/2011/01/21/a-private-note-due-to-remain-secret-despite-calls-for-it-to-be-published-by-the-chairman-of-the-iraq-inquiry-shows-former-british-prime-mi.md) _Context: George W. Bush, Iraq War_
+5. [ In an interview, U.S. President George W. Bush names No Child Left Behind as one of his most significant achievements and hopes to be remembered for the current situation in Iraq ](/news/2008/11/29/in-an-interview-u-s-president-george-w-bush-names-no-child-left-behind-as-one-of-his-most-significant-achievements-and-hopes-to-be-remem.md) _Context: George W. Bush, U.S. President_
+6. [ Subprime mortgage crisis: U.S. President George W. Bush signs the US$ 700,000,000,000 bailout bill after it is passed by the House. ](/news/2008/10/3/subprime-mortgage-crisis-p-u-s-president-george-w-bush-signs-the-us-700-000-000-000-bailout-bill-after-it-is-passed-by-the-house.md) _Context: George W. Bush, U.S. House_
+7. [ The United States House of Representatives fails to override President Bush's veto of a bill outlawing waterboarding and other interrogation techniques. ](/news/2008/03/11/the-united-states-house-of-representatives-fails-to-override-president-bush-s-veto-of-a-bill-outlawing-waterboarding-and-other-interrogatio.md) _Context: George W. Bush, U.S. House_
+8. [ War in Iraq: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-p-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md) _Context: George W. Bush, Iraq War_
+9. [ U.S. President George W. Bush calls for a UN-backed action over Kosovo's independence despite Russian and Serbian opposition. ](/news/2007/06/9/u-s-president-george-w-bush-calls-for-a-un-backed-action-over-kosovo-s-independence-despite-russian-and-serbian-opposition.md) _Context: George W. Bush, U.S. President_
+10. [ Iraq War: On the fourth anniversary of his "Mission Accomplished" speech, President George W. Bush, citing the provisions setting a deadline for the withdrawal of U.S. troops, vetoes an Iraq War funding measure that also improves resting, training and equipping standards for combat troops before their deployment, and sets binding benchmarks for the Iraqi government. ](/news/2007/05/1/iraq-war-p-on-the-fourth-anniversary-of-his-mission-accomplished-speech-president-george-w-bush-citing-the-provisions-setting-a-deadli.md) _Context: George W. Bush, Iraq War_

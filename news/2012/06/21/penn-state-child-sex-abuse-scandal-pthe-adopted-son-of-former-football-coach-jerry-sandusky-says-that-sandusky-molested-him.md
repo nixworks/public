@@ -1,0 +1,23 @@
+### [2012-06-21](/news/2012/06/21/index.md)
+
+# Penn State child sex abuse scandal:The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2012/06/21/justice/pennsylvania-sandusky-trial/index.html?hpt=hp_t1)
+
+### Related:
+
+1. [Former Penn State assistant coach Jerry Sandusky is transferred to State Correctional Institution - Greene in Franklin Township, Pennsylvania, to serve his 30-to-60-year sentence on child sexual abuse charges. ](/news/2012/10/31/former-penn-state-assistant-coach-jerry-sandusky-is-transferred-to-state-correctional-institution-a-greene-in-franklin-township-pennsylva.md) _Context: Jerry Sandusky, Penn State scandal, sexual abuse_
+2. [Charges of perjury and child endangerment, among others, are filed against former Penn State President Graham Spanier and two other administrators in connection with the Penn State scandal involving imprisoned former football coach Jerry Sandusky; new charges also are filed against Athletic Director Tim Curley and retired Vice President Gary Schultz, who are already under arrest on perjury and failure to report child abuse charges. ](/news/2012/11/1/charges-of-perjury-and-child-endangerment-among-others-are-filed-against-former-penn-state-president-graham-spanier-and-two-other-administ.md) _Context: Jerry Sandusky, Penn State scandal_
+3. [Penn State child sex abuse scandal:An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/penn-state-child-sex-abuse-scandal-pan-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md) _Context: Jerry Sandusky, Penn State scandal_
+4. [Penn State's ex-president Graham Spanier rejects the report by former FBI head Louis Freeh accusing the university of a cover-up, saying he never heard even a hint of child sex abuse by Jerry Sandusky, despite indications of "horseplay", having never met a higher level of awareness. ](/news/2012/08/22/penn-state-s-ex-president-graham-spanier-rejects-the-report-by-former-fbi-head-louis-freeh-accusing-the-university-of-a-cover-up-saying-he.md) _Context: Jerry Sandusky, Penn State scandal_
+5. [Jerry Sandusky, former American football coach at Pennsylvania State University, is convicted on 45 charges of child sex abuse. He is on suicide watch. ](/news/2012/06/22/jerry-sandusky-former-american-football-coach-at-pennsylvania-state-university-is-convicted-on-45-charges-of-child-sex-abuse-he-is-on-sui.md) _Context: American football, Jerry Sandusky_
+6. [2016 NCAA Division I FBS football season (American football) Lamar Jackson of the Louisville Cardinals wins the Heisman Trophy. At 19, Jackson is the youngest ever winner of the Trophy. ](/news/2016/12/10/2016-ncaa-division-i-fbs-football-season-american-football-p-lamar-jackson-of-the-louisville-cardinals-wins-the-heisman-trophy-at-19-jack.md) _Context: American football_
+7. [In American football, a United States appeals court has denied New England Patriots quarterback Tom Brady's appeal for his role in the Deflategate controversy. ](/news/2016/07/13/in-american-football-a-united-states-appeals-court-has-denied-new-england-patriots-quarterback-tom-brady-s-appeal-for-his-role-in-the-defla.md) _Context: American football_
+8. [In American football, Twitter wins the bidding contest over Amazon, Verizon, and others, for streaming rights to 10 of 16 National Football League (NFL) regular season ''Thursday Night Football Games'', ones that will also be telecast by either CBS or NBC. The league streamed one game last year with Yahoo!. Verizon, meanwhile, already owns the mobile rights to all NFL games which are available to subscribers via a mobile app; the 10 NFL games on Twitter will be free. ](/news/2016/04/5/in-american-football-twitter-wins-the-bidding-contest-over-amazon-verizon-and-others-for-streaming-rights-to-10-of-16-national-football.md) _Context: American football_
+9. [In American football, the National Football League starts its draft for the 2016 NFL season with the Los Angeles Rams choosing Jared Goff with the first pick. ](/news/2016/04/28/in-american-football-the-national-football-league-starts-its-draft-for-the-2016-nfl-season-with-the-los-angeles-rams-choosing-jared-goff-wi.md) _Context: American football_
+10. [American football quarterback Peyton Manning retires after eighteen seasons in the National Football League with two Super Bowl championships, five MVP awards, and single-season and career league records for most passing yards and touchdown passes. ](/news/2016/03/7/american-football-quarterback-peyton-manning-retires-after-eighteen-seasons-in-the-national-football-league-with-two-super-bowl-championship.md) _Context: American football_

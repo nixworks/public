@@ -1,0 +1,23 @@
+### [2016-09-15](/news/2016/09/15/index.md)
+
+# The Obama administration through the U.S. Justice Department seeks a fine of $14 billion against Deutsche Bank in regards to mortgage securities. 
+
+
+
+
+### Source:
+
+1. [Marketwatch](http://www.marketwatch.com/story/deutsche-bank-shares-drop-after-report-of-14-billion-fine-2016-09-15)
+
+### Related:
+
+1. [The Obama administration through the United States Department of Justice lowers the fine against Germany's Deutsche Bank to a settlement of US$5.4 billion after being handed a demand for up to $14 billion earlier this month over the sale of toxic mortgage bonds. ](/news/2016/09/30/the-obama-administration-through-the-united-states-department-of-justice-lowers-the-fine-against-germany-s-deutsche-bank-to-a-settlement-of.md) _Context: Deutsche Bank, Obama Administration, U.S. Justice Department_
+2. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: Obama Administration, U.S. Justice Department_
+3. [U.S. immigration suspension, ''State of Washington v. Trump''Trump's travel ban remains suspended as the U.S. Court of Appeals for the Ninth Circuit denies the Justice Department's request to stay the ruling which blocks major portions of the executive order. ](/news/2017/02/5/u-s-immigration-suspension-state-of-washington-v-trump-ptrump-s-travel-ban-remains-suspended-as-the-u-s-court-of-appeals-for-the-nint.md) _Context: U.S. Justice Department_
+4. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: Obama Administration_
+5. [The U.S. Justice Department tells the Ninth Circuit Court of Appeals that it won't be seeking further action by the court since this executive order will soon be replaced by a different one.  Justice added they expect the Ninth Circuit ruling will be vacated once the new executive order is issued. ](/news/2017/02/16/the-u-s-justice-department-tells-the-ninth-circuit-court-of-appeals-that-it-won-t-be-seeking-further-action-by-the-court-since-this-executi.md) _Context: U.S. Justice Department_
+6. [Deutsche Bank agrees to a $7.2 billion settlement with the U.S. Department of Justice over its sale and pooling of toxic mortgage securities in the years leading up to the 2008 financial crisis. ](/news/2017/01/17/deutsche-bank-agrees-to-a-7-2-billion-settlement-with-the-u-s-department-of-justice-over-its-sale-and-pooling-of-toxic-mortgage-securities.md) _Context: Deutsche Bank_
+7. [  The U.S. Justice Department (DOJ) issues final approval for Alaska Airlines to acquire Virgin America, in a US$2.6 billion dollar merger. In exchange for approval, the DOJ requires Alaska Airlines to reduce its partnership with American Airlines. ](/news/2016/12/6/the-u-s-justice-department-doj-issues-final-approval-for-alaska-airlines-to-acquire-virgin-america-in-a-us-2-6-billion-dollar-merger.md) _Context: U.S. Justice Department_
+8. [The Obama administration lifts U.S. sanctions on Myanmar by terminating an emergency order that deemed the policies of the former military government a threat to U.S. national security. ](/news/2016/10/7/the-obama-administration-lifts-u-s-sanctions-on-myanmar-by-terminating-an-emergency-order-that-deemed-the-policies-of-the-former-military-g.md) _Context: Obama Administration_
+9. [The Obama administration formally accuses the Russian government of cyber attacks against the U.S. Democratic Party in influencing presidential election. ](/news/2016/10/7/the-obama-administration-formally-accuses-the-russian-government-of-cyber-attacks-against-the-u-s-democratic-party-in-influencing-president.md) _Context: Obama Administration_
+10. [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md) _Context: U.S. Justice Department_

@@ -1,0 +1,23 @@
+### [2014-07-29](/news/2014/07/29/index.md)
+
+# Moscow describes Tokyo's decision to impose further sanctions on Russia in the wake of the downing of Malaysia Airlines Flight 17 as an "unfriendly step" that may harm "the entire system of relations" between Russia and Japan. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2014/07/29/us-ukraine-crisis-russia-japan-idUSKBN0FY0GN20140729)
+
+### Related:
+
+1. [Malaysia Airlines Flight 17; Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/malaysia-airlines-flight-17-dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-miss.md) _Context: Malaysia Airlines Flight 17, Russia_
+2. [Russia announces it will deploy state-of-the art missile defense systems to the far eastern Kuril Islands where they and Japan have rival territorial claims dating to the end of the Second World War. Russian Defence Minister Sergey Shoygu also says that Russia will form new defence units in the country's Western Military District in response to NATO's recent deployment of forces to member states near its border. ](/news/2016/03/25/russia-announces-it-will-deploy-state-of-the-art-missile-defense-systems-to-the-far-eastern-kuril-islands-where-they-and-japan-have-rival-te.md) _Context: Japan, Russia_
+3. [Russia is reportedly constructing hundreds of buildings for military use on the disputed Kunashir and Iturup islands, also claimed by Japan, in the Sea of Okhotsk. The Russian Defence Ministry  said the new military buildings would help "raise the combat readiness of troops on the eastern frontiers of Russia". ](/news/2015/12/2/russia-is-reportedly-constructing-hundreds-of-buildings-for-military-use-on-the-disputed-kunashir-and-iturup-islands-also-claimed-by-japan.md) _Context: Japan, Russia_
+4. [Russian Defence Minister Sergei Shoigu announces Russia plans to build a new military base on the Kuril Islands, a group of Pacific islands it seized from Japan at the end of World War II. ](/news/2015/10/22/russian-defence-minister-sergei-shoigu-announces-russia-plans-to-build-a-new-military-base-on-the-kuril-islands-a-group-of-pacific-islands.md) _Context: Japan, Russia_
+5. [Russia vetoes  a U.N. Security Council resolution that would have established an international criminal tribunal to investigate the downing of Malaysia Airlines Flight 17. ](/news/2015/07/30/russia-vetoes-a-u-n-security-council-resolution-that-would-have-established-an-international-criminal-tribunal-to-investigate-the-downing.md) _Context: Malaysia Airlines Flight 17, Russia_
+6. [Japan imposes additional sanctions on Russia due to the Ukraine conflict and a visit by an aide of the President of Russia Vladimir Putin to a contested island off the coast off northern Japan. ](/news/2014/09/24/japan-imposes-additional-sanctions-on-russia-due-to-the-ukraine-conflict-and-a-visit-by-an-aide-of-the-president-of-russia-vladimir-putin-to.md) _Context: Japan, Russia_
+7. [The European Union agrees to impose new sanctions on Russia, expanding a list of Russian entities and individuals subject to asset freezes and travel bans and threatens to target vast sectors of the Russian economy if Moscow does not act swiftly to rein in rebels believed to have shot down a Malaysia Airlines plane over eastern Ukraine. ](/news/2014/07/22/the-european-union-agrees-to-impose-new-sanctions-on-russia-expanding-a-list-of-russian-entities-and-individuals-subject-to-asset-freezes-a.md) _Context: Malaysia Airlines Flight 17, Russia_
+8. [2014 Crimean crisis - Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/2014-crimean-crisis-japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promoting-the-secession-of.md) _Context: Japan, Russia_
+9. [Russia and Japan begin discussing the main starting points and modality of the upcoming talks on a peace treaty. ](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.md) _Context: Japan, Russia_
+10. [Japan scrambles its fighter aircraft to intercept two Russian SU-27 fighter aircraft, claiming that they have violated its airspace off Rishiri Island. Russia denies its aircraft entered Japanese airspace. ](/news/2013/02/7/japan-scrambles-its-fighter-aircraft-to-intercept-two-russian-su-27-fighter-aircraft-claiming-that-they-have-violated-its-airspace-off-rish.md) _Context: Japan, Russia_

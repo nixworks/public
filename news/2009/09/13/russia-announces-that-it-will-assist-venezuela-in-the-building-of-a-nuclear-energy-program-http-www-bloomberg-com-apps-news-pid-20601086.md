@@ -1,0 +1,19 @@
+### [2009-09-13](/news/2009/09/13/index.md)
+
+#  Russia announces that it will assist Venezuela in the building of a nuclear energy program.[http://www.bloomberg.com/apps/news?pid=20601086&sid=aElQ3UEU9eYM(Bloomberg)]
+
+
+
+
+### Related:
+
+1. [Russian allies, including Venezuela and Turkey, file a dozen requests for Mi-28N Night Hunter attack helicopters from Russia. ](/news/2010/02/20/russian-allies-including-venezuela-and-turkey-file-a-dozen-requests-for-mi-28n-night-hunter-attack-helicopters-from-russia.md) _Context: Russia, Venezuela_
+2. [ Venezuelan President Hugo Chvez says a consignment of Russian-made missiles with a 300km range are due to arrive in his country. ](/news/2009/09/12/venezuelan-president-hugo-chavez-says-a-consignment-of-russian-made-missiles-with-a-300km-range-are-due-to-arrive-in-his-country.md) _Context: Russia, Venezuela_
+3. [ Venezuelan President Hugo Chavez recognizes Abkhazia and South Ossetia during a visit to Russia. ](/news/2009/09/10/venezuelan-president-hugo-cha-vez-recognizes-abkhazia-and-south-ossetia-during-a-visit-to-russia.md) _Context: Russia, Venezuela_
+4. [ Russia's Air Force says the country may base strategic bombers in Cuba or on a Venezuelan island. ](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.md) _Context: Russia, Venezuela_
+5. [ Russia sells Venezuela 98 Ilyushin Il-114 aircraft. ](/news/2007/08/24/russia-sells-venezuela-98-ilyushin-il-114-aircraft.md) _Context: Russia, Venezuela_
+6. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: Russia_
+7. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Russia_
+8. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Venezuela_
+9. [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md) _Context: Russia_
+10. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Venezuela_

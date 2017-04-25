@@ -1,0 +1,26 @@
+### [2011-01-16](/news/2011/01/16/index.md)
+
+# Leadership challenge to Taoiseach Brian Cowen:Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. 
+
+The Irish prime minister announces he will not be standing down as leader of the ruling Fianna Fail party.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12202558)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-12201420)
+3. [RTÉ](http://www.rte.ie/news/2011/0116/politics.html)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0116/breaking2.html)
+
+### Related:
+
+1. [Taoiseach Brian Cowen promises to dissolve Dail Eireann next Tuesday and to announce the date of the Irish general election, 2011. ](/news/2011/01/28/taoiseach-brian-cowen-promises-to-dissolve-da-il-aireann-next-tuesday-and-to-announce-the-date-of-the-irish-general-election-2011.md) _Context: Brian Cowen, Taoiseach, recently claimed back_
+2. [Situation in Ireland:Taoiseach Brian Cowen announces he is to make a "significant" statement on his leadership of the ruling Fianna Fail party in Dublin at 14:00, to be broadcast on television and radio. ](/news/2011/01/22/situation-in-ireland-ptaoiseach-brian-cowen-announces-he-is-to-make-a-significant-statement-on-his-leadership-of-the-ruling-fianna-fa-il-p.md) _Context: Brian Cowen, Fianna Fáil, Taoiseach_
+3. [Situation in Ireland:Taoiseach Brian Cowen wins a vote of confidence in his leadership, a secret ballot held at a meeting of the Fianna Fail parliamentary party in Dublin. ](/news/2011/01/18/situation-in-ireland-ptaoiseach-brian-cowen-wins-a-vote-of-confidence-in-his-leadership-a-secret-ballot-held-at-a-meeting-of-the-fianna-fa.md) _Context: Brian Cowen, Fianna Fáil, Taoiseach_
+4. [Bertie Ahern, the former taoiseach who led the stricken Fianna Fail political party from 1994 until 2008, announces he is to resign from Dail Eireann at the forthcoming general election. ](/news/2010/12/30/bertie-ahern-the-former-taoiseach-who-led-the-stricken-fianna-fa-il-political-party-from-1994-until-2008-announces-he-is-to-resign-from-da.md) _Context: Fianna Fáil, Taoiseach, recently claimed back_
+5. [The leaders of Ireland's two main political parties, Fianna Fail and Fine Gael, come under fire. Irish Taoiseach Brian Cowen faces a motion of no confidence in Dail Eireann, his second in just over a year. Leader of the Opposition, Enda Kenny, who sacked his deputy leader yesterday to prevent a potential coup, faces further revolt from his party as nine more members of his frontbench call on him to resign. ](/news/2010/06/15/the-leaders-of-ireland-s-two-main-political-parties-fianna-fa-il-and-fine-gael-come-under-fire-irish-taoiseach-brian-cowen-faces-a-motion.md) _Context: Brian Cowen, Fianna Fáil, Taoiseach_
+6. [Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail,  as he forms the country's  government. Sinn Fein says it is not interested in forming a coalition government with Kenny's  Fine Gael party. ](/news/2016/03/1/prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-engage-with-other-parties-groups.md) _Context: Fianna Fáil, Taoiseach_
+7. [Enda Kenny is elected as the 13th Taoiseach of Ireland by a margin of 117-27 in the 31st Dail Eireann, replacing Brian Cowen. ](/news/2011/03/9/enda-kenny-is-elected-as-the-13th-taoiseach-of-ireland-by-a-margin-of-117-27-in-the-31st-da-il-aireann-replacing-brian-cowen.md) _Context: Brian Cowen, Taoiseach_
+8. [Moriarty Tribunal in Ireland:Former government minister Michael Lowry refuses to resign the seat he recently claimed back in Dail Eireann in the aftermath of the Moriarty Tribunal's findings that he assisted billionaire businessman Denis O'Brien "beyond doubt" in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal. Taoiseach Enda Kenny admits Fine Gael accepted a donation worth thousands of dollars from Esat at the time. ](/news/2011/03/24/moriarty-tribunal-in-ireland-pformer-government-minister-michael-lowry-refuses-to-resign-the-seat-he-recently-claimed-back-in-da-il-aireann.md) _Context: Taoiseach, recently claimed back_
+9. [Irish general election, 2011:The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/irish-general-election-2011-pthe-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling-f.md) _Context: Fianna Fáil, recently claimed back_
+10. [Irish general election, 2011:Brian Cowen resigns by requesting the dissolution of the 30th Dail, allowing a general election to take place, the first such election of the eurozone debt crisis. ](/news/2011/02/1/irish-general-election-2011-pbrian-cowen-resigns-by-requesting-the-dissolution-of-the-30th-da-il-allowing-a-general-election-to-take-place.md) _Context: Brian Cowen, recently claimed back_

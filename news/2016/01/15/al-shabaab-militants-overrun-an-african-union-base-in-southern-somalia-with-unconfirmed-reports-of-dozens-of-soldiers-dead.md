@@ -1,0 +1,24 @@
+### [2016-01-15](/news/2016/01/15/index.md)
+
+# al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. 
+
+Al Shabaab fighters attacked a remote Somali army base and entered a nearby town close to the border with Kenya on Friday, saying they had killed dozens of Kenyan soldiers in an African Union force supporting the government.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-somalia-attacks-idUSKCN0UT0BT)
+2. [BBC](http://www.bbc.com/news/world-africa-35321522?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+
+### Related:
+
+1. [Somali police say at least seven are dead after clashes as Somali and African Union troops pushed back al-Shabab extremists from Afgooye, a town near Mogadishu. ](/news/2016/10/18/somali-police-say-at-least-seven-are-dead-after-clashes-as-somali-and-african-union-troops-pushed-back-al-shabab-extremists-from-afgooye-a.md) _Context: Somalia, War in Somalia, al-Shabaab_
+2. [At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed  two buses in Mandera, Kenya, near the Somalian border. ](/news/2016/07/1/at-least-six-people-are-shot-and-killed-and-several-people-wounded-by-suspected-al-shabaab-militants-who-ambushed-two-buses-in-mandera-ken.md) _Context: Somalia, War in Somalia, al-Shabaab_
+3. [A suspected Al-Shabab suicide bomber blows open the gate of Mogadishu's Nasa-Hablod hotel in Somalia, before militant fighters storm the building. Officials said at least 15 were killed, 25 injured, and an unknown number of guests were taken hostage. ](/news/2016/06/25/a-suspected-al-shabab-suicide-bomber-blows-open-the-gate-of-mogadishu-s-nasa-hablod-hotel-in-somalia-before-militant-fighters-storm-the-bui.md) _Context: Somalia, War in Somalia, al-Shabaab_
+4. [The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. ](/news/2016/05/2/the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-militants-the-remaining-troops-will.md) _Context: Somalia, War in Somalia, al-Shabaab_
+5. [  U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shab.md) _Context: Somalia, War in Somalia, al-Shabaab_
+6. [A suicide bomber in Somalia's Puntland region detonates while hugging Saeed Ali, the treasurer of Galkayo, killing him and several police officers guarding him. Islamic militant group Al-Shabaab claims responsibility. ](/news/2016/03/31/a-suicide-bomber-in-somaliaas-puntland-region-detonates-while-hugging-saeed-ali-the-treasurer-of-galkayo-killing-him-and-several-police.md) _Context: Somalia, War in Somalia, al-Shabaab_
+7. [al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md) _Context: African Union, War in Somalia, al-Shabaab_
+8. [At least two people are killed in an attack, near the north-eastern village of El Wak in Mandera County near the Somali border. A group of Kenyan Muslims traveling on a bus ambushed by suspected Al-Shabaab insurgents, protected Christian passengers by refusing to be split into groups, according to eyewitnesses. ](/news/2015/12/21/at-least-two-people-are-killed-in-an-attack-near-the-north-eastern-village-of-el-wak-in-mandera-county-near-the-somali-border-a-group-of-k.md) _Context: Somalia, War in Somalia, al-Shabaab_
+9. [ Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md) _Context: African Union, Somalia, al-Shabaab_
+10. [War in Somalia (2009-present):Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009apresent-pkenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-af.md) _Context: African Union, Somalia, al-Shabaab_

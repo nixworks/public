@@ -1,0 +1,24 @@
+### [2007-04-23](/news/2007/04/23/index.md)
+
+#  Former Russian President Boris Yeltsin dies at the age of 76. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2007/WORLD/europe/04/23/russia.yeltsin/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/6584481.stm)
+
+### Related:
+
+1. [ Russia's first President Boris Yeltsin spent his retirement in a "golden cage", his phone tapped and the Kremlin controlling visitors, a colleague reveals. ](/news/2009/09/21/russia-s-first-president-boris-yeltsin-spent-his-retirement-in-a-golden-cage-his-phone-tapped-and-the-kremlin-controlling-visitors-a-co.md) _Context: Boris Yeltsin, Russia_
+2. [ Government sources reveal that the Russian administration of Boris Yeltsin sent unofficial signals to Finland at the end of 1991 about returning Karelia to Finland. ](/news/2007/08/15/government-sources-reveal-that-the-russian-administration-of-boris-yeltsin-sent-unofficial-signals-to-finland-at-the-end-of-1991-about-retu.md) _Context: Boris Yeltsin, Russia_
+3. [ Thousands of people gather in Moscow, Russia to mourn former President Boris Yeltsin. ](/news/2007/04/24/thousands-of-people-gather-in-moscow-russia-to-mourn-former-president-boris-yeltsin.md) _Context: Boris Yeltsin, Russia_
+4. [ Russian President Boris Yeltsin fires his Prime Minister, Sergei Stepashin, and for the fourth time fires his entire cabinet](/news/1999/08/9/russian-president-boris-yeltsin-fires-his-prime-minister-sergei-stepashin-and-for-the-fourth-time-fires-his-entire-cabinet.md) _Context: Boris Yeltsin, Russia_
+5. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: Russia_
+6. [Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The ''Novaya Gazeta'' newspaper  reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. ](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men-in-chechnya-including-television-personalities-and-religious-figures-for-nontraditional.md) _Context: Russia_
+7. [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md) _Context: Russia_
+8. [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md) _Context: Russia_
+9. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Russia_
+10. [Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _Context: Russia_

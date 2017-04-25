@@ -1,0 +1,23 @@
+### [2015-07-24](/news/2015/07/24/index.md)
+
+# The United States Department of Transportation opens an investigation into whether airlines engaged in price gouging by raising ticket prices in the Northeastern United States following the 2015 Philadelphia train derailment in May. 
+
+
+
+
+### Source:
+
+1. [AP](http://bigstory.ap.org/article/7a349d7bb4774ec99f21f31706b14643/transportation-chief-4-airlines-probed-price-gouging)
+
+### Related:
+
+1. [An investigation by the United States Department of Transportation's Pipeline and Hazardous Materials Safety Administration finds that the natural gas leak occurring in Alaska's Cook Inlet began earlier than first reported, and represents significant safety and environmental risks. The agency gives pipeline operator Hilcorp Energy until May 1, 2017 to fix the leak, or shut the pipeline down. ](/news/2017/03/7/an-investigation-by-the-united-states-department-of-transportation-s-pipeline-and-hazardous-materials-safety-administration-finds-that-the-n.md) _Context: United States Department of Transportation_
+2. [The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over {{convert|4|feet|meters}} of snow. ](/news/2017/03/14/the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with-some-areas-in-the-northeastern-unit.md) _Context: Northeastern United States_
+3. [A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _Context: Northeastern United States_
+4. [The U.S. Transportation Department's emergency order banning Samsung Galaxy Note 7 from aircraft in the United States goes into effect. ](/news/2016/10/15/the-u-s-transportation-department-s-emergency-order-banning-samsung-galaxy-note-7-from-aircraft-in-the-united-states-goes-into-effect.md) _Context: United States Department of Transportation_
+5. [The United States and Cuba sign an agreement restoring commercial air traffic between the two countries for the first time in 50 years. The U.S. Department of Transportation immediately opened bidding for as many as 110 U.S.-Cuba flights per day to Havana and nine other destinations. Travel from the U.S. is permitted in   12 authorized categories, which does not include tourism. ](/news/2016/02/16/the-united-states-and-cuba-sign-an-agreement-restoring-commercial-air-traffic-between-the-two-countries-for-the-first-time-in-50-years-the.md) _Context: United States Department of Transportation_
+6. [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md) _Context: Northeastern United States_
+7. [A dangerous cold snap hits the northeastern United States with the city of Boston, Massachusetts, to face its coldest Valentine's Day in four decades. ](/news/2016/02/13/a-dangerous-cold-snap-hits-the-northeastern-united-states-with-the-city-of-boston-massachusetts-to-face-its-coldest-valentine-s-day-in-fou.md) _Context: Northeastern United States_
+8. [U.S. Secretary of Transportation Anthony Foxx announced that all unmanned aircraft, i.e. drones, will be required to be registered with the government just as manned aircraft are. DOT is forming a task force of government leaders and diverse stakeholders who will determine the specifics of which drones will be covered and how the registration process will work. ](/news/2015/10/19/u-s-secretary-of-transportation-anthony-foxx-announced-that-all-unmanned-aircraft-i-e-drones-will-be-required-to-be-registered-with-the.md) _Context: United States Department of Transportation_
+9. [Amtrak resumes train services between New York City and Philadelphia, Pennsylvania, following a fatal train derailment on May 12. ](/news/2015/05/18/amtrak-resumes-train-services-between-new-york-city-and-philadelphia-pennsylvania-following-a-fatal-train-derailment-on-may-12.md) _Context: 2015 Philadelphia train derailment_
+10. [The death toll from the derailment rises to eight, with 43 of the more than 200 injured remaining hospitalised. ](/news/2015/05/14/the-death-toll-from-the-derailment-rises-to-eight-with-43-of-the-more-than-200-injured-remaining-hospitalised.md) _Context: 2015 Philadelphia train derailment_

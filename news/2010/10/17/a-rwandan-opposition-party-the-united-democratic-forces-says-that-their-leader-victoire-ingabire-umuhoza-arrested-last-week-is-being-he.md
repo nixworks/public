@@ -1,0 +1,23 @@
+### [2010-10-17](/news/2010/10/17/index.md)
+
+# A Rwandan opposition party, the United Democratic Forces, says that their, leader Victoire Ingabire Umuhoza, arrested last week, is being held in "intolerable and immoral" conditions without food or water. 
+
+
+
+
+### Source:
+
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hUyO-_MczSAP8u4fclzOtfS2SFUQ?docId=CNG.d20ea2c6ca63a74962021e021debd7ad.481)
+
+### Related:
+
+1. [A Rwandan court reschedules the trial date of the  United Democratic Forces opposition party leader, Victoire Ingabire, for another 30 days for prosecutors to complete building their case against her. ](/news/2010/11/26/a-rwandan-court-reschedules-the-trial-date-of-the-united-democratic-forces-opposition-party-leader-victoire-ingabire-for-another-30-days.md) _Context:  United Democratic Forces, Rwanda_
+2. [Rwandan opposition parties appeal to the United States and the UN Security Council to intervene on behalf of the opposition FDU party leader, Victoire Ingabire Umuhoza, arrested last week, and other political prisoners. ](/news/2010/10/18/rwandan-opposition-parties-appeal-to-the-united-states-and-the-un-security-council-to-intervene-on-behalf-of-the-opposition-fdu-party-leader.md) _Context: Rwanda, Victoire Ingabire_
+3. [Rwanda president Paul Kagame's rival Victoire Ingabire Umuhoza is released one day after her arrest on charges of terrorism and genocide denial but banned from leaving Kigali and ordered to report to authorities twice a month. ](/news/2010/04/22/rwanda-president-paul-kagame-s-rival-victoire-ingabire-umuhoza-is-released-one-day-after-her-arrest-on-charges-of-terrorism-and-genocide-den.md) _Context: Rwanda, Victoire Ingabire_
+4. [Rwandan opposition leader Victoire Ingabire Umuhoza is arrested on charges such as collaboration with a terrorist organisation and genocide denial. ](/news/2010/04/21/rwandan-opposition-leader-victoire-ingabire-umuhoza-is-arrested-on-charges-such-as-collaboration-with-a-terrorist-organisation-and-genocide.md) _Context: Rwanda, Victoire Ingabire_
+5. [A magnitude 5.7 earthquake occurs in northern Tanzania, near Lake Victoria, killing at least 13 people and injuring 200 others. Tanzanian authorities report significant damage in the town of Bukoba. The governments of Burundi, Kenya, Rwanda, and Uganda report tremors. ](/news/2016/09/10/a-magnitude-5-7-earthquake-occurs-in-northern-tanzania-near-lake-victoria-killing-at-least-13-people-and-injuring-200-others-tanzanian-au.md) _Context: Rwanda_
+6. [A French court sentences two former Rwandan mayors of the town of Kabarondo to life in prison on charges of crimes against humanity and genocide committed during the Rwandan Genocide in 1994. During the genocide, Hutu extremists massacred over 2,000 Tutsi who sought refuge in the town. ](/news/2016/07/7/a-french-court-sentences-two-former-rwandan-mayors-of-the-town-of-kabarondo-to-life-in-prison-on-charges-of-crimes-against-humanity-and-geno.md) _Context: Rwanda_
+7. [  A Swedish court sentences  Claver Berinkindi, a 61-year-old  Swedish citizen originally from Rwanda, to life in prison for participation  in the Rwandan genocide in 1994. ](/news/2016/05/16/a-swedish-court-sentences-claver-berinkindi-a-61-year-old-swedish-citizen-originally-from-rwanda-to-life-in-prison-for-participation.md) _Context: Rwanda_
+8. [Two people are burned alive amid xenophobic riots in Lusaka, Zambia. The riots started after rumours spread that Rwandans were behind recent ritual killings in the city. More than 250 people have been arrested after more than 60 Rwandan-owned shops were looted in two days of violence. ](/news/2016/04/20/two-people-are-burned-alive-amid-xenophobic-riots-in-lusaka-zambia-the-riots-started-after-rumours-spread-that-rwandans-were-behind-recent.md) _Context: Rwanda_
+9. [Authorities in Rwanda jail former politician Leon Mugesera for life. Mugesera was known for describing Tutsis as "cockroaches" and called for their extermination in a speech in 1992 and is said to be a precursor to the Rwandan genocide. ](/news/2016/04/15/authorities-in-rwanda-jail-former-politician-la-c-on-mugesera-for-life-mugesera-was-known-for-describing-tutsis-as-cockroaches-and-called-f.md) _Context: Rwanda_
+10. [Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kagame-to-run-for-more-terms-in-office-the.md) _Context: Rwanda_

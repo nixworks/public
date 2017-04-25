@@ -1,0 +1,23 @@
+### [2006-11-21](/news/2006/11/21/index.md)
+
+#  Part of the Supreme Court of the Democratic Republic of Congo burns down during a gunfight, thereby suspending the Court's review of electoral fraud and irregularities alleged to have taken place during the contested second round of the 2006 presidential election. 
+
+Some six million Ethio
+
+
+### Source:
+
+1. [IRIN](http://www.irinnews.org/report.asp?ReportID=56456&SelectRegion=Great_Lakes&SelectCountry=DRC)
+
+### Related:
+
+1. [ Fighting erupts in Kinshasa, Democratic Republic of Congo, between Government troops and the personal militia of Jean-Pierre Bemba, defeated presidential candidate in 2006 and recently elected Senator. The Spanish embassy is caught in the crossfire, leading to its evacuation under United Nations guard. ](/news/2007/03/22/fighting-erupts-in-kinshasa-democratic-republic-of-congo-between-government-troops-and-the-personal-militia-of-jean-pierre-bemba-defeate.md) _Context: Democratic Republic of Congo, presidential candidate in 2006_
+2. [ The Supreme Court of the Democratic Republic of the Congo confirms that Joseph Kabila had won the 2006 presidential election. ](/news/2006/11/27/the-supreme-court-of-the-democratic-republic-of-the-congo-confirms-that-joseph-kabila-had-won-the-2006-presidential-election.md) _Context: Supreme Court of the Democratic Republic of the Congo, presidential candidate in 2006_
+3. [Clashes between Pygmy and Bantu tribes in Tanganyika region of Democratic Republic of Congo leave 20 people dead. ](/news/2016/10/18/clashes-between-pygmy-and-bantu-tribes-in-tanganyika-region-of-democratic-republic-of-congo-leave-20-people-dead.md) _Context: Democratic Republic of Congo_
+4. [Police in the Democratic Republic of Congo's capital Kinshasa fire on protesters opposing efforts by President Joseph Kabila to delay presidential and parliamentary elections due in 2016 leaving at least four people dead and ten injured. ](/news/2015/01/19/police-in-the-democratic-republic-of-congo-s-capital-kinshasa-fire-on-protesters-opposing-efforts-by-president-joseph-kabila-to-delay-presid.md) _Context: Democratic Republic of Congo_
+5. [The Democratic Republic of Congo confirms two deaths from Ebola in the north of the country, the first cases reported from the current outbreak. ](/news/2014/08/24/the-democratic-republic-of-congo-confirms-two-deaths-from-ebola-in-the-north-of-the-country-the-first-cases-reported-from-the-current-outbr.md) _Context: Democratic Republic of Congo_
+6. [The M23 rebel movement and the Congolese Army are engaged in heavy fighting in the environs of Goma. ](/news/2013/07/15/the-m23-rebel-movement-and-the-congolese-army-are-engaged-in-heavy-fighting-in-the-environs-of-goma.md) _Context: Democratic Republic of Congo_
+7. [2012-13 Central African Republic conflict:Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/2012a13-central-african-republic-conflict-prebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-pr.md) _Context: Democratic Republic of Congo_
+8. [M23 rebellion:The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/m23-rebellion-pthe-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-k.md) _Context: Democratic Republic of Congo_
+9. [Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. ](/news/2012/09/9/nestor-louis-michel-calls-rwandan-president-paul-kagame-a-great-leader-groot-leider-kagame-has-been-accused-of-war-crimes-during-rwan.md) _Context: Democratic Republic of Congo_
+10. [2012 East DR Congo conflict: The Democratic Republic of Congo (DRC)'s military has been shelling positions it believes are held by rebels who have been fighting the army for weeks in the country's east. ](/news/2012/05/17/2012-east-dr-congo-conflict-the-democratic-republic-of-congo-drc-s-military-has-been-shelling-positions-it-believes-are-held-by-rebels-wh.md) _Context: Democratic Republic of Congo_

@@ -1,0 +1,23 @@
+### [2013-06-29](/news/2013/06/29/index.md)
+
+# Vice President of the United States Joe Biden asks Ecuador to reject an asylum request by Edward Snowden. 
+
+US Vice President Joe Biden has asked Ecuador to turn down an asylum request from National Security Agency leaker Edward Snowden, the country&#039;s president said last night. Rafael Correa said he had a &quot;friendly and very cordial&quot; conversation with Mr Biden, and told the Vice President that Ecuador hadn&#039;t sought to be put in the situation of deciding whether to harbour an American fugitive.
+
+
+### Source:
+
+1. [The Independent](http://www.independent.co.uk/news/world/americas/us-vice-president-joe-biden-asks-ecuador-to-refuse-asylum-for-whistleblower-edward-snowden-8680110.html)
+
+### Related:
+
+1. [Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. ](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.md) _Context: Joe Biden, U.S. Vice President_
+2. [Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md) _Context: Joe Biden, U.S. Vice President_
+3. [Vice President of the United States Joe Biden criticizes the People's Republic of China for a recent crackdown of foreign journalists in the country. ](/news/2013/12/5/vice-president-of-the-united-states-joe-biden-criticizes-the-people-s-republic-of-china-for-a-recent-crackdown-of-foreign-journalists-in-the.md) _Context: Joe Biden, U.S. Vice President_
+4. [Felipe Calderon, the President of Mexico, asks Joe Biden, the vice-President of the United States for assistance in stopping the flow of money and weapons into Mexico. ](/news/2012/03/5/felipe-caldera3n-the-president-of-mexico-asks-joe-biden-the-vice-president-of-the-united-states-for-assistance-in-stopping-the-flow-of-mo.md) _Context: Joe Biden, U.S. Vice President_
+5. [United States Vice President Joe Biden pays a surprise visit to Iraq. ](/news/2010/08/30/united-states-vice-president-joe-biden-pays-a-surprise-visit-to-iraq.md) _Context: Joe Biden, U.S. Vice President_
+6. [Britain, France and the EU support U.S. Vice President Joe Biden's condemnation of Israeli expansion of settlements in occupied territory. ](/news/2010/03/10/britain-france-and-the-eu-support-u-s-vice-president-joe-biden-s-condemnation-of-israeli-expansion-of-settlements-in-occupied-territory.md) _Context: Joe Biden, U.S. Vice President_
+7. [Joe Biden's visit to Iraq:U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/joe-biden-s-visit-to-iraq-pu-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md) _Context: Joe Biden, U.S. Vice President_
+8. [ US Vice President Joe Biden says in an ABC interview that Washington will not interfere in an Israeli attack on Iran. ](/news/2009/07/5/us-vice-president-joe-biden-says-in-an-abc-interview-that-washington-will-not-interfere-in-an-israeli-attack-on-iran.md) _Context: Joe Biden, U.S. Vice President_
+9. [Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.md) _Context: Ecuador_
+10. [The U.S. Pacific Command and South Korea's Joint Chiefs of Staff report  that a North Korean missile, tested near the city of Sinpo on  the country's east coast, blew up almost immediately after the launch, just hours before U.S. Vice President Mike Pence was due in South Korea for talks about the North's arms program. ](/news/2017/04/16/the-u-s-pacific-command-and-south-korea-s-joint-chiefs-of-staff-report-that-a-north-korean-missile-tested-near-the-city-of-sinpo-on-the.md) _Context: U.S. Vice President_

@@ -1,0 +1,23 @@
+### [2009-02-8](/news/2009/02/8/index.md)
+
+#  Twenty-four people are confirmed dead in the crash of an Embraer 110P1 air taxi in Amazonas, Brazil. 
+
+
+
+
+### Source:
+
+1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/136346/amazon-plane-crash-kills-24)
+
+### Related:
+
+1. [ An Embraer EMB-110P1 air taxi carrying 20 people crashes in Amazonas, Brazil. ](/news/2009/02/7/an-embraer-emb-110p1-air-taxi-carrying-20-people-crashes-in-amazonas-brazil.md) _Context: 110P1, Amazonas, Brazil, Embraer, air taxi_
+2. [Members of the Brazilian Primeiro Comando da Capital prison gang kill 31 inmates in the Monte Cristo prison in the state of Roraima. This action was revenge for an earlier massacre in a prison in Amazonas that killed 56 inmates. ](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-capital-prison-gang-kill-31-inmates-in-the-monte-cristo-prison-in-the-state-of-roraima-this-ac.md) _Context: Amazonas, Brazil_
+3. [A twin-engine Embraer 821 plane crashes in the Brazilian state of Para, killing all nine passengers and the pilot. ](/news/2013/03/13/a-twin-engine-embraer-821-plane-crashes-in-the-brazilian-state-of-para-killing-all-nine-passengers-and-the-pilot.md) _Context: Brazil, Embraer_
+4. [ In the ongoing dispute between the United States and Venezuela, the US has tried to veto a sale of Embraer airplanes to Venezuela. Brazilian foreign minister Celso Amorim branded the US attempted veto as "indefensible nonsense". The US recently failed to block a large sale of Spanish military equipment to Venezuela. [http://english.eluniversal.com/2006/01/23/en_eco_art_23A659543.shtml (El Universal)], [http://www.spainherald.com/2006-01-18news.html (Spain Herald)].](/news/2006/01/23/in-the-ongoing-dispute-between-the-united-states-and-venezuela-the-us-has-tried-to-veto-a-sale-of-embraer-airplanes-to-venezuela-brazilia.md) _Context: Brazil, Embraer_
+5. [ The Brazilian government extends a state of emergency to cover the whole of Amazonas, the country's largest state, following a severe drought which has seen many rivers and lakes dry up. ](/news/2005/10/15/the-brazilian-government-extends-a-state-of-emergency-to-cover-the-whole-of-amazonas-the-country-s-largest-state-following-a-severe-droug.md) _Context: Amazonas, Brazil_
+6. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-storm-a-security-vault-and-police-headquart.md) _Context: Brazil_
+7. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_
+8. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: Brazil_
+9. [Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.md) _Context: Brazil_
+10. [Brazilian police enter the Alcacuz prison outside the city of Natal, Rio Grande do Norte, after a week of fighting leaves 26 inmates dead. At least 126 people have been killed in Brazil's prisons since the beginning of the year. ](/news/2017/01/21/brazilian-police-enter-the-alcacuz-prison-outside-the-city-of-natal-rio-grande-do-norte-after-a-week-of-fighting-leaves-26-inmates-dead-a.md) _Context: Brazil_

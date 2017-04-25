@@ -1,0 +1,24 @@
+### [2014-10-29](/news/2014/10/29/index.md)
+
+# In Major League Baseball, the San Francisco Giants win the 2014 World Series, defeating the Kansas City Royals by 4 games to 3 for the Giants' third World Series win in five seasons, followed by civil disorder in the streets. Giants pitcher Madison Bumgarner is named as series MVP. 
+
+MLB World Series minute-by-minute report: The San Francisco Giants are champions for the third time in five seasons after beating the Kansas City Royals 3-2 in Game 7 of the 2014 World Series
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/sport/live/2014/oct/29/san-francisco-giants-v-kansas-city-royals-2014-world-series-live-game-7)
+2. [AP](http://hosted.ap.org/dynamic/stories/B/BBO_WORLD_SERIES_MVP?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+
+### Related:
+
+1. [In North American Major League Baseball, the Kansas City Royals sweep the Baltimore Orioles in the 2014 American League Championship Series 4-0 to progress to the 2014 World Series. ](/news/2014/10/15/in-north-american-major-league-baseball-the-kansas-city-royals-sweep-the-baltimore-orioles-in-the-2014-american-league-championship-series.md) _Context: 2014 World Series, Major League Baseball_
+2. [In Major League Baseball, the San Francisco Giants defeat the Detroit Tigers in game four of the 2012 World Series, sweeping the Tigers and winning their second World Series in three years. Pablo Sandoval is named World Series MVP. ](/news/2012/10/28/in-major-league-baseball-the-san-francisco-giants-defeat-the-detroit-tigers-in-game-four-of-the-2012-world-series-sweeping-the-tigers-and.md) _Context: Giants', Major League Baseball_
+3. [A U.S. federal grand jury in Washington indicts former Major League Baseball superstar pitcher Roger Clemens on charges of making false statements to Congress about his alleged use of performance-enhancing drugs. ](/news/2010/08/19/a-u-s-federal-grand-jury-in-washington-indicts-former-major-league-baseball-superstar-pitcher-roger-clemens-on-charges-of-making-false-stat.md) _Context: Major League Baseball, pitcher_
+4. [Roy Halladay pitches the 20th perfect game in Major League Baseball history in the Philadelphia Phillies' 1-0 win over the Florida Marlins. ](/news/2010/05/29/roy-halladay-pitches-the-20th-perfect-game-in-major-league-baseball-history-in-the-philadelphia-phillies-1a0-win-over-the-florida-marlins.md) _Context: Major League Baseball, pitcher_
+5. [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md) _Context: Major League Baseball, pitcher_
+6. [ Barry Bonds of the San Francisco Giants hits his 756th career home run, passing Hank Aaron as the all-time leader in Major League Baseball. Bonds hits the shot against Washington Nationals pitcher Mike Bacsik in the fifth inning of their game at AT&T Park in San Francisco, California. ](/news/2007/08/7/barry-bonds-of-the-san-francisco-giants-hits-his-756th-career-home-run-passing-hank-aaron-as-the-all-time-leader-in-major-league-baseball.md) _Context: Giants', Major League Baseball_
+7. [ San Francisco Giants outfielder Barry Bonds ties Hank Aaron for most career home runs with 755, while Alex Rodriguez becomes the youngest player to hit 500 home runs in Major League Baseball. ](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.md) _Context: Giants', Major League Baseball_
+8. [ Former Major League Baseball pitcher Ugueth Urbina is sentenced to 14 years in prison after being convicted of attempted murder in Venezuela. ](/news/2007/03/28/former-major-league-baseball-pitcher-ugueth-urbina-is-sentenced-to-14-years-in-prison-after-being-convicted-of-attempted-murder-in-venezuel.md) _Context: Major League Baseball, pitcher_
+9. [ In American Major League Baseball, the Chicago Cubs defeat the Cleveland Indians 8-7 in 10 innings, winning the Series 4-3 and claiming their first MLB title since 1908. The Cubs' Ben Zobrist is named series MVP. Cubs win game 7 and the title in the early hours of November 3rd, 2016. ](/news/2016/11/2/in-american-major-league-baseball-the-chicago-cubs-defeat-the-cleveland-indians-8a7-in-10-innings-winning-the-series-4a3-and-claiming.md) _Context: Major League Baseball_
+10. [ In baseball, the Miami Marlins' Ichiro Suzuki becomes the 30th Major League Baseball player with 3,000 career hits, reaching the milestone with a seventh-inning triple against the Colorado Rockies. ](/news/2016/08/7/in-baseball-the-miami-marlins-ichiro-suzuki-becomes-the-30th-major-league-baseball-player-with-3-000-career-hits-reaching-the-milestone.md) _Context: Major League Baseball_

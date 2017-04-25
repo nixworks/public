@@ -1,0 +1,24 @@
+### [2015-12-12](/news/2015/12/12/index.md)
+
+# Sixteen people are killed and many more injured by a car bomb and a second, delayed explosion  near a hospital in Syria's mainly Alawite, government-controlled neighborhood of al-Zahra, east of  Homs' old city, the Syrian Observatory for Human Rights reports. The attack comes just five days  after the government and rebels agreed on a local ceasefire in the western al-Waer suburb. 
+
+Syria has suffered another day of death and destruction. This time in the central city of Homs. At least 16 people were killed and scores more
+
+
+### Source:
+
+1. [EuroNews](http://www.euronews.com/2015/12/12/syria-explosions-in-homs-leave-at-least-16-dead/)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-blast-idUSKBN0TV0AZ20151212#8Wrebpd8a9PrsS52.97)
+
+### Related:
+
+1. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+2. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+3. [The Syrian Observatory for Human Rights reports that militants attacked two Syrian Armed Forces bases in Homs, killing at least 42 people, including a senior intelligence officer. ](/news/2017/02/25/the-syrian-observatory-for-human-rights-reports-that-militants-attacked-two-syrian-armed-forces-bases-in-homs-killing-at-least-42-people-i.md) _Context: Homs, Syrian Civil War, Syrian Observatory for Human Rights_
+4. [Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. ](/news/2017/02/14/rival-fighters-between-tahrir-al-sham-and-jund-al-aqsa-clash-in-syria-s-northern-idlib-governorate-killing-dozens-according-to-the-syrian.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+5. [ISIL recaptures the Syrian city of Palmyra despite heavy Russian airstrikes, according to the Syrian Observatory for Human Rights and Palmyra Coordination Committee (PCC). ](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+6. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Homs, Syria, Syrian Civil War_
+7. [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+8. [The Syrian Observatory for Human Rights says that at least 51 people have been killed in the Syrian city of Aleppo. ](/news/2016/08/13/the-syrian-observatory-for-human-rights-says-that-at-least-51-people-have-been-killed-in-the-syrian-city-of-aleppo.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+9. [The British-based Syrian Observatory for Human Rights reports U.S.-led coalition airstrikes on the  Islamic State-held city of Manbij in northern Syria kill at least 56 civilians, including 11 children, and injure dozens more. ](/news/2016/07/19/the-british-based-syrian-observatory-for-human-rights-reports-u-s-led-coalition-airstrikes-on-the-islamic-state-held-city-of-manbij-in-nor.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+10. [Airstrikes reportedly kill at least 82 people, including 58 civilians, in Syria's eastern Deir ez-Zor Governorate, according to the Syrian Observatory for Human Rights. ](/news/2016/06/26/airstrikes-reportedly-kill-at-least-82-people-including-58-civilians-in-syria-s-eastern-deir-ez-zor-governorate-according-to-the-syrian-o.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_

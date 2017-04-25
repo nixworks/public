@@ -1,0 +1,23 @@
+### [2016-10-20](/news/2016/10/20/index.md)
+
+# Following his October 5 arrest, U.S. federal prosecutors in Baltimore charge Harold T. Martin III, a former National Security Agency contractor, for violating the Espionage Act, specifically, with felony theft of government property. Prosecutors state that, over a 20-year time period, Martin stole at least 50 terabytes of data and "six full bankers boxes" of classified and other documents. The prosecutors state that Martin had an "arsenal" of weapons in his home. 
+
+Prosecutors said in court papers they plan to charge Harold T. Martin under the Espionage Act and want bail denied.
+
+
+### Source:
+
+1. [The Washington Post](https://www.washingtonpost.com/world/national-security/government-alleges-massive-theft-by-nsa-contractor/2016/10/20/e021c380-96cc-11e6-bb29-bf2701dbe0a3_story.html)
+
+### Related:
+
+1. [The Shadow Brokers group releases files allegedly from the National Security Agency which indicate efforts to monitor financial transactions made through the Society for Worldwide Interbank Financial Telecommunication. ](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.md) _Context: National Security Agency_
+2. [Two people are killed and at least 15 are hospitalized following a 55-vehicle accident, involving a gas  tanker explosion, on Interstate 95 in Baltimore, Maryland, as cold air causes rain and wet roads to freeze across the Eastern U.S.  Three other deaths are reported from other accidents in the Baltimore-Washington, D.C. area. At least six people have been killed in total on icy roads. ](/news/2016/12/17/two-people-are-killed-and-at-least-15-are-hospitalized-following-a-55-vehicle-accident-involving-a-gas-tanker-explosion-on-interstate-95.md) _Context: Baltimore_
+3. [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md) _Context: National Security Agency_
+4. [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md) _Context: National Security Agency_
+5. [The U.S. House Intelligence Committee releases a summary of its two-year investigation into former NSA contractor Edward Snowden which downplays his alleged status as a whistleblower while acknowledging "tremendous damage to national security" as a result of the classified documents he stole. ](/news/2016/09/15/the-u-s-house-intelligence-committee-releases-a-summary-of-its-two-year-investigation-into-former-nsa-contractor-edward-snowden-which-downp.md) _Context: National Security Agency_
+6. [The U.S. National Security Agency's website goes down amid hacking fears. ](/news/2016/08/17/the-u-s-national-security-agency-s-website-goes-down-amid-hacking-fears.md) _Context: National Security Agency_
+7. [Baltimore prosecutors drop all charges against the final three police officers with pending cases in the death of Freddie Gray. None of the six cases resulted in a conviction. ](/news/2016/07/27/baltimore-prosecutors-drop-all-charges-against-the-final-three-police-officers-with-pending-cases-in-the-death-of-freddie-gray-none-of-the.md) _Context: Baltimore_
+8. [Baltimore police officer Caesar Goodson is cleared of all charges for the murder of Freddie Gray, a black detainee, on April 19, 2015. ](/news/2016/06/23/baltimore-police-officer-caesar-goodson-is-cleared-of-all-charges-for-the-murder-of-freddie-gray-a-black-detainee-on-april-19-2015.md) _Context: Baltimore_
+9. [Judge Barry Williams finds Baltimore, Maryland, Police Officer Edward Nero not guilty of all charges. Nero  was accused of second-degree intentional assault, two counts of misconduct in office, and reckless endangerment. Community leaders and elected officials appeal for calm. ](/news/2016/05/23/judge-barry-williams-finds-baltimore-maryland-police-officer-edward-nero-not-guilty-of-all-charges-nero-was-accused-of-second-degree-int.md) _Context: Baltimore_
+10. [Exaggerator wins the Preakness Stakes at Pimlico Race Course in Baltimore, Maryland. ](/news/2016/05/21/exaggerator-wins-the-preakness-stakes-at-pimlico-race-course-in-baltimore-maryland.md) _Context: Baltimore_

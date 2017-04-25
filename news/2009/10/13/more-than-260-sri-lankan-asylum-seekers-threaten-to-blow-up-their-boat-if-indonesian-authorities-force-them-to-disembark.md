@@ -1,0 +1,23 @@
+### [2009-10-13](/news/2009/10/13/index.md)
+
+#  More than 260 Sri Lankan asylum seekers threaten to blow up their boat if Indonesian authorities force them to disembark. 
+
+
+
+
+### Source:
+
+1. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26207428-25837,00.html)
+
+### Related:
+
+1. [Google announces that Project Loon - to provide wireless access to four billion unconnected people around the globe in rural and remote areas via Internet-beaming helium balloons in the stratosphere - will be tested in Indonesia in 2016. Currently, one in three Indonesians are connected to the web, mostly via slow connections, in this 17,508-island archipelago of over 250 million people (and about 319 million mobile phones). The company, which also tested Loon-delivered internet in Chile, New Mexico (U.S.), and Sri Lanka, hopes to deliver LTE-speed to more than 100 million unconnected Indonesians in five years. ](/news/2015/10/29/google-announces-that-project-loon-a-to-provide-wireless-access-to-four-billion-unconnected-people-around-the-globe-in-rural-and-remote-ar.md) _Context: Indonesia, Sri Lanka_
+2. [New Zealand refuses entry to Sri Lankan asylum seekers detained in Indonesia who claimed to be heading there. ](/news/2011/07/12/new-zealand-refuses-entry-to-sri-lankan-asylum-seekers-detained-in-indonesia-who-claimed-to-be-heading-there.md) _Context: Indonesia, Sri Lanka_
+3. [ A lawsuit is threatened against the Indonesian Navy and International Organization for Migration after a 29-year-old Sri Lankan asylum seeker is allowed to die through medical negligence after vomiting blood and having a seizure in Indonesia. ](/news/2009/12/24/a-lawsuit-is-threatened-against-the-indonesian-navy-and-international-organization-for-migration-after-a-29-year-old-sri-lankan-asylum-seek.md) _Context: Indonesia, Sri Lanka_
+4. [  A second major earthquake off the coast of Sumatra prompts tsunami warnings for Sri Lanka, India, Indonesia, Christmas Island and the Cocos Islands. ](/news/2007/09/13/a-second-major-earthquake-off-the-coast-of-sumatra-prompts-tsunami-warnings-for-sri-lanka-india-indonesia-christmas-island-and-the-coco.md) _Context: Indonesia, Sri Lanka_
+5. [ 2005 Sumatran earthquake: An earthquake of moment magnitude 8.7 is reported off the west coast of North Sumatra, likely an aftershock of the 2004 Indian Ocean earthquake. Concerned about the threat of a tsunami, emergency evacuations begin in Malaysia, Thailand, and Sri Lanka, although no significant tsunami activity is reported. Indonesia's vice-president reports up to 2,000 deaths ](/news/2005/03/28/2005-sumatran-earthquake-an-earthquake-of-moment-magnitude-8-7-is-reported-off-the-west-coast-of-north-sumatra-likely-an-aftershock-of-th.md) _Context: Indonesia, Sri Lanka_
+6. [ 2004 Indian Ocean earthquake: World leaders gather in Jakarta, Indonesia, for an emergency summit with the United Nations. Aid pledges since the Asian Tsunami disaster are near USD 4 billion (EUR 3 billion). Nearly 150,000 people have been confirmed dead in the four hardest hit nations - Indonesia, India, Sri Lanka and Thailand. ](/news/2005/01/6/2004-indian-ocean-earthquake-world-leaders-gather-in-jakarta-indonesia-for-an-emergency-summit-with-the-united-nations-aid-pledges-sinc.md) _Context: Indonesia, Sri Lanka_
+7. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Indonesia_
+8. [A landfill slide in Colombo, Sri Lanka, kills at least 16 people. ](/news/2017/04/14/a-landfill-slide-in-colombo-sri-lanka-kills-at-least-16-people.md) _Context: Sri Lanka_
+9. [A landslide hits the Indonesian island of Java and leaves more than two dozen people missing. ](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.md) _Context: Indonesia_
+10. [Off the northern coast of Somalia, Somali pirates hijack the ''Aris 13'', a United Arab Emirates-owned oil tanker, kidnapping eight Sri Lankan crew members. This is the first hijacking of a large commercial vessel in five years. ](/news/2017/03/14/off-the-northern-coast-of-somalia-somali-pirates-hijack-the-aris-13-a-united-arab-emirates-owned-oil-tanker-kidnapping-eight-sri-lank.md) _Context: Sri Lanka_

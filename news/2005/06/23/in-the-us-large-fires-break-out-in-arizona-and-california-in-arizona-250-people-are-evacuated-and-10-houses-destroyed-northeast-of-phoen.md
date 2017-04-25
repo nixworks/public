@@ -1,0 +1,25 @@
+### [2005-06-23](/news/2005/06/23/index.md)
+
+#  In the US, large fires break out in Arizona and California. In Arizona, 250 people are evacuated and 10 houses destroyed northeast of Phoenix. Two fires break out in California in Morongo Valley and San Bernardino Valley 
+
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
+
+
+### Source:
+
+1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-cleanup24jun24,0,4707101.story?coll=la-home-headlines)
+2. [KESQ](http://www.kesq.com/Global/story.asp?S=3511462&nav=9qrxbMre)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-06-23T233846Z_01_N2365997_RTRIDST_0_NEWS-ENVIRONMENT-FIRE-DC.XML)
+
+### Related:
+
+1. [The Federal Bureau of Investigation arrests suspected members of the computer hacking groups LulzSec and Anonymous in the US cities of Phoenix, Arizona and San Francisco, California. ](/news/2011/09/22/the-federal-bureau-of-investigation-arrests-suspected-members-of-the-computer-hacking-groups-lulzsec-and-anonymous-in-the-us-cities-of-phoen.md) _Context: Arizona, California, Phoenix, Arizona_
+2. [Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. ](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.md) _Context: Arizona, California_
+3. [Mysterious lights from an unidentified flying object spook people in Arizona, California, and Nevada. It was later confirmed as a test flight of a UGM-133 Trident II missile. ](/news/2015/11/8/mysterious-lights-from-an-unidentified-flying-object-spook-people-in-arizona-california-and-nevada-it-was-later-confirmed-as-a-test-fligh.md) _Context: Arizona, California_
+4. [Health authorities in the United States say that 53 people in nine states have been sickened in a salmonella outbreak. California is the worst affected state with 31 cases with the other states with cases include Arizona, Illinois, Mississippi, New Mexico, South Dakota, Virginia, Washington and Wisconsin. ](/news/2015/05/21/health-authorities-in-the-united-states-say-that-53-people-in-nine-states-have-been-sickened-in-a-salmonella-outbreak-california-is-the-wor.md) _Context: Arizona, California_
+5. [Three people are dead, including the shooter, one person is wounded after a shooting at an office building in Phoenix, Arizona, United States. ](/news/2013/01/30/three-people-are-dead-including-the-shooter-one-person-is-wounded-after-a-shooting-at-an-office-building-in-phoenix-arizona-united-state.md) _Context: Arizona, Phoenix, Arizona_
+6. [Seven US Marines die in a helicopter crash on the border of the states of California and Arizona. ](/news/2012/02/22/seven-us-marines-die-in-a-helicopter-crash-on-the-border-of-the-states-of-california-and-arizona.md) _Context: Arizona, California_
+7. [The US city of Phoenix, Arizona is hit by a large dust storm leaving thousands of people without power and grounding flights at Phoenix  Sky Harbor International Airport. ](/news/2011/07/5/the-us-city-of-phoenix-arizona-is-hit-by-a-large-dust-storm-leaving-thousands-of-people-without-power-and-grounding-flights-at-phoenix-sky.md) _Context: Arizona, Phoenix, Arizona_
+8. [The U.S. city of Phoenix, Arizona, is hit by a haboob or dust storm. ](/news/2011/07/18/the-u-s-city-of-phoenix-arizona-is-hit-by-a-haboob-or-dust-storm.md) _Context: Arizona, Phoenix, Arizona_
+9. [A strong weather system leaves damage in the U.S. states of California and Arizona after producing flooding rains, strong winds, and a rare outbreak of tornadoes in the region. ](/news/2010/01/23/a-strong-weather-system-leaves-damage-in-the-u-s-states-of-california-and-arizona-after-producing-flooding-rains-strong-winds-and-a-rare.md) _Context: Arizona, California_
+10. [ The U.S. National Transportation Safety Board prepares its final report on the 2007 collision between two news helicopters in Phoenix, Arizona. ](/news/2009/01/28/the-u-s-national-transportation-safety-board-prepares-its-final-report-on-the-2007-collision-between-two-news-helicopters-in-phoenix-ariz.md) _Context: Arizona, Phoenix, Arizona_

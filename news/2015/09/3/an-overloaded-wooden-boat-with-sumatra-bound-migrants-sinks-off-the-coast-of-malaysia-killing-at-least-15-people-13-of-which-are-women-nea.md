@@ -1,0 +1,25 @@
+### [2015-09-3](/news/2015/09/3/index.md)
+
+# An overloaded wooden boat with Sumatra-bound migrants sinks off the coast of Malaysia killing at least 15 people, 13 of which are women. Nearby fisherman rescue 19 people with more than 40  missing. The Malaysian Maritime Enforcement Agency states that the boat was taking  migrant workers home to Tanjung Balai in Indonesia's Sumatra province for the Hari Raya Haji celebration. 
+
+An overloaded wooden boat believed to be carrying dozens of Indonesian illegal immigrants sank off the coast of Malaysia on Thursday, killing at least 14 people, among them 13 women, maritime officials said.
+
+
+### Source:
+
+1. [Malaysian Star](http://www.thestar.com.my/News/Nation/2015/09/04/40-Indonesians-missing-at-sea-Boat-ferrying-illegal-immigrants-home-capsizes-off-Sabak-Bernam/)
+2. [Reuters](http://in.reuters.com/article/2015/09/03/malaysia-boat-capsized-idINKCN0R30CX20150903)
+3. [The NY Daily News](http://www.nydailynews.com/news/world/boat-100-migrants-capsizes-malaysia-dead-article-1.2347017)
+
+### Related:
+
+1. [A Malaysian oil tanker, MT ''Vier Harmoni'', is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-n.md) _Context: Indonesia, Malaysia, Malaysian Maritime Enforcement Agency_
+2. [2013 Southeast Asian haze: Haze from Indonesian forest fires in Sumatra increase air pollution in Singapore and Malaysia to hazardous levels. ](/news/2013/06/20/2013-southeast-asian-haze-haze-from-indonesian-forest-fires-in-sumatra-increase-air-pollution-in-singapore-and-malaysia-to-hazardous-levels.md) _Context: Indonesia, Malaysia, Sumatra_
+3. [ Two earthquakes measuring 6.4 and 6.3 on the Moment magnitude scale hit Sumatra in Indonesia, with the epicenter near Lake Singkarak. At least 82 fatalities are currently reported. The earthquakes were felt as far as in Malaysia and Singapore. ](/news/2007/03/6/two-earthquakes-measuring-6-4-and-6-3-on-the-moment-magnitude-scale-hit-sumatra-in-indonesia-with-the-epicenter-near-lake-singkarak-at-le.md) _Context: Indonesia, Malaysia, Sumatra_
+4. [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md) _Context: Indonesia, Malaysia_
+5. [Indonesia's Mount Sinabung erupts, killing at least six people in Sumatra. ](/news/2016/05/22/indonesia-s-mount-sinabung-erupts-killing-at-least-six-people-in-sumatra.md) _Context: Indonesia, Sumatra_
+6. [Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-militants.md) _Context: Indonesia, Malaysia_
+7. [Philippine officials report four Indonesian sailors were kidnapped last night off the Philippines' southernmost town of Sitangkai, Tawi-Tawi, near Malaysia's Sabah state. Seven gunmen in a blue speedboat attacked two Indonesian-flagged tugboats.  Six other sailors, including one who was shot, were not taken by ISIL-linked Abu Sayyaf militants. ](/news/2016/04/16/philippine-officials-report-four-indonesian-sailors-were-kidnapped-last-night-off-the-philippines-southernmost-town-of-sitangkai-tawi-tawi.md) _Context: Indonesia, Malaysia_
+8. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: Indonesia, Sumatra_
+9. [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md) _Context: Indonesia, Malaysia_
+10. [The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.md) _Context: Indonesia, Sumatra_

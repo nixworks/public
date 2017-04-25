@@ -1,0 +1,19 @@
+### [2012-04-17](/news/2012/04/17/index.md)
+
+# Spanish foreign minister Jose Garcia-Margallo y Marfil attacks Argentina over its decision to nationalise YPF, an Argentine oil company in which Spanish company Repsol has a majority shareholding, a decision reported to be popular in Argentina. 
+
+Spain says Argentina has shot itself in the foot with its decision to nationalise the Spanish majority stake in the YPF oil company.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-17739204)
+
+### Related:
+
+1. [Spain seeks to deter Argentina's nationalization of YPF, an Argentine oil company majority-owned by Spain's Repsol, warning that such a nationalization would make Argentina a "pariah". ](/news/2012/04/13/spain-seeks-to-deter-argentina-s-nationalization-of-ypf-an-argentine-oil-company-majority-owned-by-spain-s-repsol-warning-that-such-a-nati.md) _Context: Repsol, YPF_
+2. [Spain's Foreign Minister Jose Garcia-Margallo y Marfil says Spain will seek to jointly govern Gibraltar with Britain. Gibraltar, which is at the southern end of the Iberian peninsula bordering Spain, overwhelmingly voted in favour of Britain remaining in the EU. ](/news/2016/06/24/spain-s-foreign-minister-josa-c-garcaa-margallo-y-marfil-says-spain-will-seek-to-jointly-govern-gibraltar-with-britain-gibraltar-which-is.md) _Context: José García-Margallo y Marfil_
+3. [Spanish energy company Repsol acquires Canadian energy producer Talisman Energy for $13 billion including debt. ](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.md) _Context: Repsol_
+4. [The Argentine Chamber of Deputies approves the bill submitted by President Cristina Fernndez de Kirchner to nationalize 51% of YPF by a 207-32 vote. ](/news/2012/05/3/the-argentine-chamber-of-deputies-approves-the-bill-submitted-by-president-cristina-fernandez-de-kirchner-to-nationalize-51-of-ypf-by-a-207.md) _Context: YPF_
+5. [The Argentine Senate passes with an overwhelming majority a bill submitted by president Cristina Fernandez de Kirchner to nationalise 51% of YPF. ](/news/2012/04/26/the-argentine-senate-passes-with-an-overwhelming-majority-a-bill-submitted-by-president-cristina-ferna-ndez-de-kirchner-to-nationalise-51-o.md) _Context: YPF_
+6. [Argentine president Cristina Fernandez de Kirchner submits a bill that would nationalise 51% of YPF to Congress. ](/news/2012/04/16/argentine-president-cristina-ferna-ndez-de-kirchner-submits-a-bill-that-would-nationalise-51-of-ypf-to-congress.md) _Context: YPF_

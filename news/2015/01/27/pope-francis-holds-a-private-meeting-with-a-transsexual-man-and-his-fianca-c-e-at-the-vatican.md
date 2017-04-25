@@ -1,0 +1,23 @@
+### [2015-01-27](/news/2015/01/27/index.md)
+
+# Pope Francis holds a private meeting with a transsexual man and his fiancee at the Vatican. 
+
+
+
+
+### Source:
+
+1. [The Daily Mail](http://www.dailymail.co.uk/news/article-2928251/Pope-holds-private-meeting-transsexual-man-fianc-e-sex-swap-Spaniard-said-local-priest-denounced-devil-s-daughter.html)
+
+### Related:
+
+1. [Pope Francis pleads for peace in a Christmas Mass in the Vatican. ](/news/2016/12/25/pope-francis-pleads-for-peace-in-a-christmas-mass-in-the-vatican.md) _Context: Pope Francis, Vatican City_
+2. [At the beginning of today's weekly general audience, Pope Francis asks for  forgiveness for the scandals which have recently hit Rome and the Vatican. He did not offer details. The Church's Synod on the Family concludes Sunday, October 25, 2015. ](/news/2015/10/14/at-the-beginning-of-today-s-weekly-general-audience-pope-francis-asks-for-forgiveness-for-the-scandals-which-have-recently-hit-rome-and-th.md) _Context: Pope Francis, Vatican City_
+3. [Pope Francis asks Catholic faithful in Europe to host refugee families  fleeing death from war and hunger, and announces the Vatican's two churches will welcome two families of refugees. ](/news/2015/09/6/pope-francis-asks-catholic-faithful-in-europe-to-host-refugee-families-fleeing-death-from-war-and-hunger-and-announces-the-vatican-s-two-c.md) _Context: Pope Francis, Vatican City_
+4. [Pope Francis urges President Shimon Peres of Israel and President Mahmoud Abbas of Palestine to work for peace at an historic joint prayer meeting at the Vatican. ](/news/2014/06/8/pope-francis-urges-president-shimon-peres-of-israel-and-president-mahmoud-abbas-of-palestine-to-work-for-peace-at-an-historic-joint-prayer-m.md) _Context: Pope Francis, Vatican City_
+5. [Pope Francis invites the President of Israel Shimon Peres and the President of the State of Palestine Mahmoud Abbas to pray with him at the Vatican for peace and the invitations are accepted. ](/news/2014/05/25/pope-francis-invites-the-president-of-israel-shimon-peres-and-the-president-of-the-state-of-palestine-mahmoud-abbas-to-pray-with-him-at-the.md) _Context: Pope Francis, Vatican City_
+6. [Pending approval from Pope Francis, reports that Pope John Paul II may be canonized at the end of the year are confirmed after approval by the Vatican Congregation for the Causes of Saints of an alleged second miracle. ](/news/2013/07/2/pending-approval-from-pope-francis-reports-that-pope-john-paul-ii-may-be-canonized-at-the-end-of-the-year-are-confirmed-after-approval-by-t.md) _Context: Pope Francis, Vatican City_
+7. [Giving his first audience at the Vatican, Pope Francis tells journalists he wants "a poor Church, for the poor". ](/news/2013/03/16/giving-his-first-audience-at-the-vatican-pope-francis-tells-journalists-he-wants-a-poor-church-for-the-poor.md) _Context: Pope Francis, Vatican City_
+8. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Pope Francis_
+9. [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on  a constitutional  amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago.  ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md) _Context: Pope Francis_
+10. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: Pope Francis_

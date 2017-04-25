@@ -1,0 +1,24 @@
+### [2012-10-1](/news/2012/10/1/index.md)
+
+# War in Afghanistan: A suicide bombing in the eastern Afghan city of Khost kills three NATO soldiers and 16 Afghan police officers and civilians. 
+
+A suicide bomber has killed at least 20 people, three of them Nato soldiers, in the eastern Afghan city of Khost, officials say.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-asia-19783194)
+2. [New York Times](http://www.nytimes.com/2012/10/02/world/asia/suicide-bomber-afghanistan.html)
+
+### Related:
+
+1. [War on Terror:Afghanistan: A bomb kills three NATO soldiers in east Afghanistan. An explosion in a cemetery in Lashkar Gah, the capital of Helmand province, in Afghanistan kills two people. A NATO soldier is killed by an Afghan police officer. Three New Zealand soldiers are killed in Bamiyan, central Afghanistan when the convoy in which they were traveling was hit by an improvised explosive device. ](/news/2012/08/19/war-on-terror-pafghanistan-a-bomb-kills-three-nato-soldiers-in-east-afghanistan-an-explosion-in-a-cemetery-in-lashkar-gah-the-capital-of.md) _Context: Afghan, NATO, War in Afghanistan (2001-present)_
+2. [Around 70 insurgents are killed when two NATO helicopters strike inside Pakistan in its northwest  Khost tribal area bordering Afghanistan. Pakistan strongly condemned the attack, calling it a violation of its airspace. ](/news/2010/09/27/around-70-insurgents-are-killed-when-two-nato-helicopters-strike-inside-pakistan-in-its-northwest-khost-tribal-area-bordering-afghanistan.md) _Context: Afghan, Khost, NATO_
+3. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: Afghan, NATO_
+4. [NATO members in Warsaw, Poland, agree to extend their mission in Afghanistan into 2017 and announced that they will continue to fund the Afghan Armed Forces to 2020. ](/news/2016/07/9/nato-members-in-warsaw-poland-agree-to-extend-their-mission-in-afghanistan-into-2017-and-announced-that-they-will-continue-to-fund-the-afg.md) _Context: Afghan, NATO_
+5. [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md) _Context: Afghan, NATO_
+6. [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md) _Context: Afghan, Afghan security forces_
+7. [According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. ](/news/2016/04/16/according-to-a-police-chief-at-least-40-taliban-fighters-are-killed-after-launching-an-offensive-against-afghan-security-forces-to-seize-th.md) _Context: Afghan, Afghan security forces_
+8. [A battle rages in the Kunduz Province of Afghanistan as the Taliban launches its spring offensive to capture the city of Kunduz. According to a Taliban spokesperson, several outposts already fell to them but this could not be verified immediately while a police chief says that the security forces were keeping "the situation under control". ](/news/2016/04/15/a-battle-rages-in-the-kunduz-province-of-afghanistan-as-the-taliban-launches-its-spring-offensive-to-capture-the-city-of-kunduz-according-t.md) _Context: Afghan, Afghan security forces_
+9. [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md) _Context: Afghan, Afghan security forces_
+10. [A suicide bomber kills 12 new police recruits in the Nangarhar Province of Afghanistan. The Taliban claims responsibility for the attack. ](/news/2016/04/11/a-suicide-bomber-kills-12-new-police-recruits-in-the-nangarhar-province-of-afghanistan-the-taliban-claims-responsibility-for-the-attack.md) _Context: Afghan, Afghan security forces_

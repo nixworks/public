@@ -1,0 +1,23 @@
+### [2015-10-19](/news/2015/10/19/index.md)
+
+# Seven hikers are killed by a forest fire while climbing Indonesia's Mount Lawu. 
+
+A fast-moving blaze thought to have been caused by a campfire trapped the victims who were reportedly climbing Mount Lawu even though its slopes were officially closed because of fire risk
+
+
+### Source:
+
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/indonesia/11940068/Seven-hikers-killed-by-raging-forest-fire-on-Indonesian-mountain.html)
+
+### Related:
+
+1. [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md) _Context: Indonesia, forest fire_
+2. [2013 Southeast Asian haze: Haze from Indonesian forest fires in Sumatra increase air pollution in Singapore and Malaysia to hazardous levels. ](/news/2013/06/20/2013-southeast-asian-haze-haze-from-indonesian-forest-fires-in-sumatra-increase-air-pollution-in-singapore-and-malaysia-to-hazardous-levels.md) _Context: Indonesia, forest fire_
+3. [Forest fires in Sumatra, Indonesia, cause a thick haze to drift over Singapore. ](/news/2010/10/22/forest-fires-in-sumatra-indonesia-cause-a-thick-haze-to-drift-over-singapore.md) _Context: Indonesia, forest fire_
+4. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Indonesia_
+5. [A landslide hits the Indonesian island of Java and leaves more than two dozen people missing. ](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.md) _Context: Indonesia_
+6. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were  involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Indonesia_
+7. [Flooding occurs across parts of Indonesia, including the capital Jakarta, due to torrential downpours over the last few days. Thousands of homes have been flooded and schools were forced to close. However, there are no reports of injuries yet. ](/news/2017/02/21/flooding-occurs-across-parts-of-indonesia-including-the-capital-jakarta-due-to-torrential-downpours-over-the-last-few-days-thousands-of-h.md) _Context: Indonesia_
+8. [Severe flooding following five days of incessant rain causes landslides that have killed 13 people in Indonesia's  West Nusa Tenggara Province. ](/news/2017/02/11/severe-flooding-following-five-days-of-incessant-rain-causes-landslides-that-have-killed-13-people-in-indonesia-s-west-nusa-tenggara-provin.md) _Context: Indonesia_
+9. [Chile has declared a state of emergency and requested international help to help deal with forest fires. ](/news/2017/01/22/chile-has-declared-a-state-of-emergency-and-requested-international-help-to-help-deal-with-forest-fires.md) _Context: forest fire_
+10. [A ferry catches fire en route to Indonesia's Thousand Islands, killing at least 23 people and injuring 17 others. ](/news/2017/01/1/a-ferry-catches-fire-en-route-to-indonesia-s-thousand-islands-killing-at-least-23-people-and-injuring-17-others.md) _Context: Indonesia_

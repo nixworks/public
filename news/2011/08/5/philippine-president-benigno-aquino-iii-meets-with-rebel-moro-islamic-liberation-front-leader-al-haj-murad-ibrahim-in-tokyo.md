@@ -1,0 +1,24 @@
+### [2011-08-5](/news/2011/08/5/index.md)
+
+# Philippine President Benigno Aquino III meets with rebel Moro Islamic Liberation Front leader Al Haj Murad Ibrahim in Tokyo. 
+
+
+
+
+### Source:
+
+1. [Philippine Inquirer](http://newsinfo.inquirer.net/36817/aquino-meets-with-moro-rebel-leader-in-tokyo)
+2. [Radio Australia](http://www.radioaustralianews.net.au/stories/201108/3286942.htm?desktop)
+
+### Related:
+
+1. [Typhoon Haiyan:Philippine President Benigno Aquino III is criticized by survivors, aid agencies, and international and local media for his inadequate response to the tragedy. ](/news/2013/11/14/typhoon-haiyan-pphilippine-president-benigno-aquino-iii-is-criticized-by-survivors-aid-agencies-and-international-and-local-media-for-his.md) _Context: Benigno Aquino III, Philippine, Philippine President_
+2. [Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-united-states-refuses-to-sell-some-weapons.md) _Context: Philippine, Philippine President_
+3. [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md) _Context: Benigno Aquino III, Philippine President_
+4. [''Philippines v. China''On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-pon-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the.md) _Context: Benigno Aquino III, Philippine President_
+5. [ Abu Sayyaf militants, who threatened to kill three foreigners kidnapped in September, 2015,  from a "high-end" Philippine resort, unless they were paid 900 million pesos (17 mil Euros) by midnight today (15:00 UTC), have beheaded one of the hostages, Canadian John Ridsdel. Philippine President Benigno Aquino III  had ordered an all-out effort to rescue the hostages, including a Philippine woman, kidnapped  by the Daesh-linked group. ](/news/2016/04/25/abu-sayyaf-militants-who-threatened-to-kill-three-foreigners-kidnapped-in-september-2015-from-a-high-end-philippine-resort-unless-th.md) _Context: Benigno Aquino III, Philippine President_
+6. [Reuters reports Japanese Prime Minister Shinzo Abe and Philippine President Benigno Aquino are set to agree on a deal paving the way for Tokyo to directly supply Manila with used military equipment. An announcement is expected this week during the Asia-Pacific Economic Cooperation (APEC) summit in Manila. ](/news/2015/11/15/reuters-reports-japanese-prime-minister-shinza-abe-and-philippine-president-benigno-aquino-are-set-to-agree-on-a-deal-paving-the-way-for-to.md) _Context: Benigno Aquino III, Philippine President_
+7. [ President Benigno Aquino III says the Philippines doesn't have the capacity to permanently house Manus Island refugees from Australian-run detention camps. ](/news/2015/10/27/president-benigno-aquino-iii-says-the-philippines-doesn-t-have-the-capacity-to-permanently-house-manus-island-refugees-from-australian-run.md) _Context: Benigno Aquino III, Philippine President_
+8. [Philippine presidential election, 2016:President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/philippine-presidential-election-2016-ppresident-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-se.md) _Context: Benigno Aquino III, Philippine President_
+9. [Benigno Aquino, the President of the Philippines, says that his government will start discussions with Japan about allowing Japan Self-Defense Forces to refuel at Filipino bases allowing the extension of operations into the South China Sea. ](/news/2015/06/5/benigno-aquino-the-president-of-the-philippines-says-that-his-government-will-start-discussions-with-japan-about-allowing-japan-self-defen.md) _Context: Benigno Aquino III, Philippine President_
+10. [The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-resignation-of-philippin.md) _Context: Benigno Aquino III, Philippine President_

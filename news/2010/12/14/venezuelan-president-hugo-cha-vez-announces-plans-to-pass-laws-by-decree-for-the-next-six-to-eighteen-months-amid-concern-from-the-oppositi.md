@@ -1,0 +1,23 @@
+### [2010-12-14](/news/2010/12/14/index.md)
+
+# Venezuelan President Hugo Chavez announces plans to pass laws by decree for the next six to eighteen months, amid concern from the opposition. 
+
+Venezuelan parliament supports in first vote president’s controversial proposal to rule by decree.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012146225420220.html)
+
+### Related:
+
+1. [The Venezuelan parliament temporarily grants more powers to President Hugo Chavez in the wake of recent flooding, allowing him to pass laws by decree without the support of the National Assembly.](/news/2010/12/18/the-venezuelan-parliament-temporarily-grants-more-powers-to-president-hugo-cha-vez-in-the-wake-of-recent-flooding-allowing-him-to-pass-laws.md) _Context: Hugo Chávez, Venezuela, Venezuelan President, royal decrees_
+2. [Return of Hugo Chavez:President Hugo Chavez returns to Venezuela after undergoing surgery for cancer in Cuba. ](/news/2011/07/4/return-of-hugo-cha-vez-ppresident-hugo-cha-vez-returns-to-venezuela-after-undergoing-surgery-for-cancer-in-cuba.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+3. [Venezuelan President Hugo Chavez responds to criticism from Organization of American States Secretary General Jose Miguel Insulza by saying the OAS is interfering in the country's internal affairs and referring to Insulza as a "spokesman of the empire" during a radio address. ](/news/2011/01/10/venezuelan-president-hugo-cha-vez-responds-to-criticism-from-organization-of-american-states-secretary-general-josa-c-miguel-insulza-by-sayin.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+4. [President of Venezuela Hugo Chavez announces that he has agreed to meet President of Colombia Juan Manuel Santos tomorrow for talks to end strained relations between the two countries. ](/news/2010/08/9/president-of-venezuela-hugo-cha-vez-announces-that-he-has-agreed-to-meet-president-of-colombia-juan-manuel-santos-tomorrow-for-talks-to-end.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+5. [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+6. [Venezuelan authorities issue an arrest warrant for the head of Globovision, the country's only remaining independent television station which criticises President of Venezuela Hugo Chavez. ](/news/2010/06/13/venezuelan-authorities-issue-an-arrest-warrant-for-the-head-of-globovisia3n-the-country-s-only-remaining-independent-television-station-whi.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+7. [ Libyan leader Muammar al-Gaddafi and Venezuelan President Hugo Chavez  sign eight accords in Caracas following the weekend's second ASA summit. ](/news/2009/09/28/libyan-leader-muammar-al-gaddafi-and-venezuelan-president-hugo-cha-vez-sign-eight-accords-in-caracas-following-the-weekend-s-second-asa-su.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+8. [ Venezuelan President Hugo Chavez announces that China is to invest 16 billion US dollars to boost oil production in the country particularly along the Orinoco River as part of a strategy to reduce dependence on the US market. ](/news/2009/09/16/venezuelan-president-hugo-cha-vez-announces-that-china-is-to-invest-16-billion-us-dollars-to-boost-oil-production-in-the-country-particular.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+9. [ Speaking in Lima's ''El Comercio'' in response to some ironic quotes by Peruvian President Alan Garcia, Venezuelan President Hugo Chavez says his country will continue to export oil to the United States because it is "in interest". ](/news/2009/09/1/speaking-in-lima-s-el-comercio-in-response-to-some-ironic-quotes-by-peruvian-president-alan-garcaa-venezuelan-president-hugo-cha-vez.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_
+10. [ Pro-government activist, Lina Ron, surrenders to Venezuelan authorities one day after attacking opposition television station Globovision. President Hugo Chavez condemns the attack, saying it helps his opponents brand him as a tyrant. ](/news/2009/08/4/pro-government-activist-lina-ron-surrenders-to-venezuelan-authorities-one-day-after-attacking-opposition-television-station-globovisia3n.md) _Context: Hugo Chávez, Venezuela, Venezuelan President_

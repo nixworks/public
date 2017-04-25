@@ -1,0 +1,23 @@
+### [2015-03-17](/news/2015/03/17/index.md)
+
+# In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. 
+
+
+
+
+### Source:
+
+1. [Huffington Post](http://www.huffingtonpost.com/2015/03/17/lawyer-for-pakistan-docto_n_6887056.html)
+
+### Related:
+
+1. [Shakil Afridi, a Pakistani physician who helped the CIA to track down Osama bin Laden by collecting DNA samples from residents of bin Laden's compound, is sentenced to 33 years' imprisonment for treason. ](/news/2012/05/23/shakil-afridi-a-pakistani-physician-who-helped-the-cia-to-track-down-osama-bin-laden-by-collecting-dna-samples-from-residents-of-bin-laden.md) _Context: CIA, Dr. Shakil Afridi, Osama bin Laden, Pakistan_
+2. [Pakistan orders foreign nationals working for the Save the Children NGO to leave the country within four weeks. The Pakistani government has accused the organization of being linked to the fake vaccination program used in the hunt for Osama bin Laden. The charity and the U.S. government deny any links. ](/news/2012/09/7/pakistan-orders-foreign-nationals-working-for-the-save-the-children-ngo-to-leave-the-country-within-four-weeks-the-pakistani-government-has.md) _Context: Dr. Shakil Afridi, Osama bin Laden, Pakistan_
+3. [Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. ](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-and-children-are-deported-from-pakistan-to-saudi-arabia.md) _Context: Osama bin Laden, Pakistan, al-Qaeda_
+4. [Death of Osama bin Laden:President of the United States Barack Obama announces in a special TV broadcast that Osama bin Laden, the founder and leader of the militant Islamist group Al-Qaeda and the most-wanted fugitive on the FBI's Ten Most Wanted Fugitives, was killed on May 2 (Pakistan Standard Time) during an American military operation in Abbottabad, near Islamabad, Pakistan and that his body is in U.S. custody. ](/news/2011/05/1/death-of-osama-bin-laden-ppresident-of-the-united-states-barack-obama-announces-in-a-special-tv-broadcast-that-osama-bin-laden-the-founder.md) _Context: Osama bin Laden, Pakistan, al-Qaeda_
+5. [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md) _Context: Pakistan, Peshawar_
+6. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _Context: Pakistan, Peshawar_
+7. [   A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _Context: Pakistan, Peshawar_
+8. [Pakistan arrests 97 people allegedly involved in terrorist groups such as al-Qaeda and Lashkar-e-Jhangvi who were allegedly plotting a variety of attacks including a plan to get Daniel Pearl's killer out of prison. ](/news/2016/02/12/pakistan-arrests-97-people-allegedly-involved-in-terrorist-groups-such-as-al-qaeda-and-lashkar-e-jhangvi-who-were-allegedly-plotting-a-varie.md) _Context: Pakistan, al-Qaeda_
+9. [At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-peshawar-pakistan.md) _Context: Pakistan, Peshawar_
+10. [At least 17 people are injured in Peshawar, Pakistan, and five people are hurt in Afghanistan's Nangarhar Province after a 6.3-magnitude earthquake hit near the Afghanistan-Tajikistan border. The epicenter is in Afghanistan's quake-prone Ishkashim district, a mountainous area where mainly impoverished farmers live in homes  made with mud, according to Peshawar District Officer Muhmand Asim Khan. Other details about damage or casualties are not presently available. ](/news/2015/12/25/at-least-17-people-are-injured-in-peshawar-pakistan-and-five-people-are-hurt-in-afghanistan-s-nangarhar-province-after-a-6-3-magnitude-ear.md) _Context: Pakistan, Peshawar_

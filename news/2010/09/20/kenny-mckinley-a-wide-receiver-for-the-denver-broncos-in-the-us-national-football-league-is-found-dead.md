@@ -1,0 +1,23 @@
+### [2010-09-20](/news/2010/09/20/index.md)
+
+# Kenny McKinley, a wide receiver for the Denver Broncos in the US National Football League, is found dead. 
+
+Denver Broncos wide receiver Kenny McKinley died on Monday. He was 23. The team confirmed the news on Twitter and said it was &quot;deeply saddened&quot; after being informed.
+
+
+### Source:
+
+1. [USA Today](http://content.usatoday.com/communities/thehuddle/post/2010/09/broncos-wr-kenny-mckinley-dies-at-age-w3/1)
+
+### Related:
+
+1. [Ex National Football League player Darren Sharper is sentenced to 20 years in prison for drugging and raping two women in the American city of Los Angeles, California. Sharper has been accused of attacking a dozen women across the United States. ](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.md) _Context: National Football League, United States_
+2. [In a suit filed by two former American professional football (NFL) players, the Ohio Supreme Court upholds a lower court ruling that Cleveland's formula for taxing visiting professional athletes, the so-called "jock tax," violates players' due process rights. A spokesman says the city will begin issuing refunds to players. ](/news/2015/11/15/in-a-suit-filed-by-two-former-american-professional-football-nfl-players-the-ohio-supreme-court-upholds-a-lower-court-ruling-that-clevela.md) _Context: National Football League, United States_
+3. [National Football League owners in the United States lock out their players in the first labour dispute since 1987. ](/news/2011/03/12/national-football-league-owners-in-the-united-states-lock-out-their-players-in-the-first-labour-dispute-since-1987.md) _Context: National Football League, United States_
+4. [Owners and players in the United States National Football League resume talks in an effort to avoid a lockout next season. ](/news/2011/02/9/owners-and-players-in-the-united-states-national-football-league-resume-talks-in-an-effort-to-avoid-a-lockout-next-season.md) _Context: National Football League, United States_
+5. [ The United States Coast Guard searches Florida's west coast for a fishing vessel carrying National Football League players Marquis Cooper and Corey Smith. ](/news/2009/03/1/the-united-states-coast-guard-searches-florida-s-west-coast-for-a-fishing-vessel-carrying-national-football-league-players-marquis-cooper-a.md) _Context: National Football League, United States_
+6. [ Kevin Everett of the National Football League's Buffalo Bills suffers a life-threatening spinal cord injury in a game against the Denver Broncos. The surgeon who operated on him says Monday Everett is unlikely to walk again, assuming he survives. ([http://sports.yahoo.com/nfl/news;_ylt=Anq3P_Gq2fSSuR_vm9qwb81DubYF?slug=ap-bills-everetthurt&prov=ap&type=lgns AP via Yahoo])](/news/2007/09/9/kevin-everett-of-the-national-football-league-s-buffalo-bills-suffers-a-life-threatening-spinal-cord-injury-in-a-game-against-the-denver-br.md) _Context: Denver Broncos, National Football League_
+7. [The United States launches 60  Tomahawk cruise missiles aimed at the Ash Sha'irat air base in Homs Governorate in response to the Syrian government's alleged use of chemical weapons in its attack on the town of Khan Shaykhun. The Government of Syria claims the attack killed six soldiers and nine civilians, including four children. ](/news/2017/04/7/the-united-states-launches-60-tomahawk-cruise-missiles-aimed-at-the-ash-sha-irat-air-base-in-homs-governorate-in-response-to-the-syrian-gov.md) _Context: United States_
+8. [Hyundai (Sonata and Santa Fe) and Kia (Optima, Sorento, and Sportage) are recalling 1.5 million cars, over 1.3 million in United States and 170,000 in South Korea, over an engine defect. ](/news/2017/04/7/hyundai-sonata-and-santa-fe-and-kia-optima-sorento-and-sportage-are-recalling-1-5-million-cars-over-1-3-million-in-united-states-and.md) _Context: United States_
+9. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: United States_
+10. [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: United States_

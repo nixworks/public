@@ -1,0 +1,23 @@
+### [2015-03-8](/news/2015/03/8/index.md)
+
+# A unknown gunman in a vehicle kills Dreekius Oricko Johnson, 28, and wounds former Tennessee Titans and New York Jets running back Chris Johnson in Orlando, Florida. 
+
+
+
+
+### Source:
+
+1. [USA Today'' via MSN](http://www.msn.com/en-us/sports/nfl/former-jets-rb-chris-johnson-shot-in-florida-one-dead/ar-AA9wVxl)
+
+### Related:
+
+1. [With the death of an 18-year-old killer whale at its San Antonio, Texas facility and the recent malfunction of the Sky Tower ride at its park in Orlando, Florida, SeaWorld's problems in the wake of recent earning shortfalls, decline in attendance, and drop the values of its shares.  In response, the company plans new pricing and attractions. ](/news/2015/12/25/with-the-death-of-an-18-year-old-killer-whale-at-its-san-antonio-texas-facility-and-the-recent-malfunction-of-the-sky-tower-ride-at-its-par.md) _Context: Florida, Orlando_
+2. [A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. ](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-arrested-at-school-and-spends-the-night-in-a-juvenile-facility-unknown-to-the-family-the-b.md) _Context: Florida_
+3. [A Sabal Trail Transmission Pipeline protester who was seen firing a high powered rifle at the pipeline construction site in Florida was chased by police until his car crashed. The suspect was shot and killed by a deputy after he tried to engage police in a gunfight ](/news/2017/02/26/a-sabal-trail-transmission-pipeline-protester-who-was-seen-firing-a-high-powered-rifle-at-the-pipeline-construction-site-in-florida-was-chas.md) _Context: Florida_
+4. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: Florida_
+5. [An arriving passenger from Alaska removes his checked-baggage pistol and kills five people and injures six at the Fort Lauderdale-Hollywood International Airport in Florida. ](/news/2017/01/6/an-arriving-passenger-from-alaska-removes-his-checked-baggage-pistol-and-kills-five-people-and-injures-six-at-the-fort-lauderdaleahollywoo.md) _Context: Florida_
+6. [U.S. President Donald Trump nominates New York Jets owner Woody Johnson to be the next United States Ambassador to the United Kingdom. ](/news/2017/01/20/u-s-president-donald-trump-nominates-new-york-jets-owner-woody-johnson-to-be-the-next-united-states-ambassador-to-the-united-kingdom.md) _Context: New York Jets_
+7. [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md) _Context: Florida_
+8. [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md) _Context: Florida_
+9. [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with  maximum sustained winds of  115 mph (185 km/h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md) _Context: Florida_
+10. [Circuit Court Judge Debra Nelson in Seminole County, Florida, sentences Matthew Apperson, convicted by a jury last month of second-degree attempted murder, to 20 years in prison for shooting at George Zimmerman, who had shot and killed unarmed black teenager Trayvon Martin in February 2012. ](/news/2016/10/17/circuit-court-judge-debra-nelson-in-seminole-county-florida-sentences-matthew-apperson-convicted-by-a-jury-last-month-of-second-degree-at.md) _Context: Florida_

@@ -1,0 +1,24 @@
+### [2009-09-30](/news/2009/09/30/index.md)
+
+#  The death toll from Typhoon Ketsana across Southeast Asia rises to 300. 
+
+
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/30/vietnam.typhoon.ketsana.toll/)
+2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i6eatUwlDQQIHZiKqXjLHTmQSrogD9B1HABO2)
+
+### Related:
+
+1. [The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _Context: Southeast Asia_
+2. [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md) _Context: Southeast Asia_
+3. [Pulitzer PrizesThe Associated Press wins the Pulitzer Prize for Public Service for documenting the use of slave labor in Southeast Asia to supply seafood to American tables. ](/news/2016/04/18/pulitzer-prizespthe-associated-press-wins-the-pulitzer-prize-for-public-service-for-documenting-the-use-of-slave-labor-in-southeast-asia-to.md) _Context: Southeast Asia_
+4. [A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually  hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-by-the-el-nia-o-season-te.md) _Context: Southeast Asia_
+5. [Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-that-takes-over-the-southeast-asi.md) _Context: Southeast Asia_
+6. [Scientists warn a new strain of the Panama Disease fungus, which in the 1950s nearly wiped out the most popular banana in the world, the Gros Michel,  is threatening today's favorite, the Cavendish, according to a new study published in  ''PLOS Pathogens''. This  untreatable fungal disease, called Tropical Race 4, has been active for decades in Southeast Asia. It  recently has spread to other parts of Asia, Africa, the Middle East, and Australia, and is expected to make its way to Latin America, where the vast majority of the world's exported bananas are grown. ](/news/2015/12/6/scientists-warn-a-new-strain-of-the-panama-disease-fungus-which-in-the-1950s-nearly-wiped-out-the-most-popular-banana-in-the-world-the-gro.md) _Context: Southeast Asia_
+7. [Singapore says the Islamist group plans to take the conflict into Southeast Asia. ](/news/2015/05/29/singapore-says-the-islamist-group-plans-to-take-the-conflict-into-southeast-asia.md) _Context: Southeast Asia_
+8. [Sultan Abdul Halim Muadzam Shah Bridge or the Penang Second Bridge, Southeast Asia's longest bridge over water in Penang, Malaysia is officially opened.](/news/2014/03/1/sultan-abdul-halim-muadzam-shah-bridge-or-the-penang-second-bridge-southeast-asia-s-longest-bridge-over-water-in-penang-malaysia-is-offici.md) _Context: Southeast Asia_
+9. [Baker Atyani, ''Al Arabiya{{'}}s'' TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine.md) _Context: Southeast Asia_
+10. [In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered in the Golden Triangle region of Southeast Asia. ](/news/2011/10/5/in-the-mekong-river-massacre-two-chinese-cargo-boats-are-hijacked-and-13-crew-members-murdered-in-the-golden-triangle-region-of-southeast-a.md) _Context: Southeast Asia_

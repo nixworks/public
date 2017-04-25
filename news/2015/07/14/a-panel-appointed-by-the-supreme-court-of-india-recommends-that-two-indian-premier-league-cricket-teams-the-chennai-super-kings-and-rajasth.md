@@ -1,0 +1,23 @@
+### [2015-07-14](/news/2015/07/14/index.md)
+
+# A panel appointed by the Supreme Court of India recommends that two Indian Premier League cricket teams, the Chennai Super Kings and Rajasthan Royals be suspended for two years due to a corruption scandal. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-asia-india-33517583)
+
+### Related:
+
+1. [ The Rajasthan Royals led by Shane Warne win the first Indian Premier League cricket competition defeating the Chennai Super Kings in the final at the DY Patil Stadium in Navi Mumbai. ](/news/2008/06/1/the-rajasthan-royals-led-by-shane-warne-win-the-first-indian-premier-league-cricket-competition-defeating-the-chennai-super-kings-in-the-fi.md) _Context: Chennai Super Kings, Indian Premier League, Rajasthan Royals_
+2. [In Twenty20 cricket, the Mumbai Indians defeat Chennai Super Kings in the final to win a maiden Indian Premier League title. ](/news/2013/05/26/in-twenty20-cricket-the-mumbai-indians-defeat-chennai-super-kings-in-the-final-to-win-a-maiden-indian-premier-league-title.md) _Context: Chennai Super Kings, Indian Premier League_
+3. [Chennai Super Kings defeat Mumbai Indians to win the third Indian Premier League cricket tournament. ''[http://edition.cnn.com/2010/SPORT/04/25/cricket.ipl.chennai.win.tendulkar/index.html?hpt=T2 CNN], [http://english.aljazeera.net/sport/ Al Jazeera], [http://www.smh.com.au/sport/cricket/chennai-win-ipl-with-22run-win-over-mumbai-20100426-tm1h.html Sydney Morning Herald]''](/news/2010/04/25/chennai-super-kings-defeat-mumbai-indians-to-win-the-third-indian-premier-league-cricket-tournament-http-edition-cnn-com-2010-sport-04.md) _Context: Chennai Super Kings, Indian Premier League_
+4. [The Indian Supreme Court orders all cinemas must play the national anthem, and the audience must stand  during its performance, before a film is screened. Order is effective in 10 days. ](/news/2016/11/30/the-indian-supreme-court-orders-all-cinemas-must-play-the-national-anthem-and-the-audience-must-stand-during-its-performance-before-a-fil.md) _Context: Indian Supreme Court_
+5. [A United Nations arbitration court rules India must allow an Italian marine, facing charges of murdering two fishermen during an anti-piracy mission in 2012, to return home pending the Permanent Court of Arbitration's decision over jurisdiction. The suspect, who will remain under the authority of the Supreme Court of India, has been   staying in the Italian embassy in New Delhi; his co-defendant returned to Italy with health problems in 2014. ](/news/2016/05/2/a-united-nations-arbitration-court-rules-india-must-allow-an-italian-marine-facing-charges-of-murdering-two-fishermen-during-an-anti-piracy.md) _Context: Indian Supreme Court_
+6. [In response to an ongoing Supreme Court case regarding the ownership of the Koh-i-Noor diamond, the government of India said it should not try to reclaim it from the United Kingdom. The government argues that the diamond was given to the British as a gift and was not stolen. However, the Supreme Court says it will continue with the case. ](/news/2016/04/19/in-response-to-an-ongoing-supreme-court-case-regarding-the-ownership-of-the-koh-i-noor-diamond-the-government-of-india-said-it-should-not-t.md) _Context: Indian Supreme Court_
+7. [In cricket, former New Zealand player Chris Cairns is to be charged with perjury by London's Metropolitan Police Service in relation to a 2012 libel trial regarding allegations of match fixing made by former Indian Premier League boss Lalit Modi. ](/news/2014/09/12/in-cricket-former-new-zealand-player-chris-cairns-is-to-be-charged-with-perjury-by-london-s-metropolitan-police-service-in-relation-to-a-20.md) _Context: Indian Premier League_
+8. [In a landmark ruling, the Supreme Court of India recognizes transgender as a "third gender". ](/news/2014/04/15/in-a-landmark-ruling-the-supreme-court-of-india-recognizes-transgender-as-a-third-gender.md) _Context: Indian Supreme Court_
+9. [LGBT rights in India:The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/lgbt-rights-in-india-pthe-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md) _Context: Indian Supreme Court_
+10. [Police in the Indian city of Mumbai charge several people in connection with a cricket match fixing scandal, including umpire Asad Rauf, former Chennai Super Kings principal Gurunath Meiyappan, Bollywood actor Vindoo Dara Singh and 15 bookies. ](/news/2013/09/21/police-in-the-indian-city-of-mumbai-charge-several-people-in-connection-with-a-cricket-match-fixing-scandal-including-umpire-asad-rauf-for.md) _Context: Chennai Super Kings_

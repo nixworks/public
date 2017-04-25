@@ -1,0 +1,22 @@
+## [2008-08-24](/news/2008/08/24/index.md)
+
+### [ A suicide bomber attacks a feast in Baghdad's Abu Ghraib district resulting in at least 21 deaths. ](/news/2008/08/24/a-suicide-bomber-attacks-a-feast-in-baghdad-s-abu-ghraib-district-resulting-in-at-least-21-deaths.md)
+_Context: Abu Ghraib, Baghdad_
+
+### [ A small plane crashes east of Guatemala City, killing ten and injuring four. ](/news/2008/08/24/a-small-plane-crashes-east-of-guatemala-city-killing-ten-and-injuring-four.md)
+_Context: Guatemala City_
+
+### [ Iran Aseman Airlines Flight 6895, a Boeing 737, crashes in Bishkek, Kyrgyzstan shortly after takeoff, killing 71 people. ](/news/2008/08/24/iran-aseman-airlines-flight-6895-a-boeing-737-crashes-in-bishkek-kyrgyzstan-shortly-after-takeoff-killing-71-people.md)
+_Context: 737, Bishkek, Flight 6895, Iran Aseman Airlines, Kyrgyzstan_
+
+### [ 2008 South Ossetia War: A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/2008-south-ossetia-war-p-a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russ.md)
+_Context: 2008 South Ossetia war, Georgia, Russia_
+
+### [ 2008 Summer Olympics: Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/2008-summer-olympics-p-samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic.md)
+Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for AFL, NRL, Rugby, Cricket, Football and more.
+
+### [ Protesters in the Indian state of West Bengal "lay siege" to the factory producing the Tata Nano, in a dispute over land expropriation. ](/news/2008/08/24/protesters-in-the-indian-state-of-west-bengal-lay-siege-to-the-factory-producing-the-tata-nano-in-a-dispute-over-land-expropriation.md)
+_Context: India, Tata Nano, West Bengal_
+
+## [Previous Day...](/news/2008/08/23/index.md)
+

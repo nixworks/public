@@ -1,0 +1,23 @@
+### [2010-10-26](/news/2010/10/26/index.md)
+
+# Ecuador throws its support behind Peru in their demands for the return of over 40,000 Machu Picchu artifacts taken by US explorer Hiram Bingham III, and now in Yale's possession. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/idUSTRE69Q0BO20101027)
+
+### Related:
+
+1. [UNESCO declares the Rizal Monument in Manila, Machu Picchu of Peru, Camino de Santiago of Spain, and the Dampier Archipelago of Australia as World Heritage Sites in Danger. ](/news/2014/11/18/unesco-declares-the-rizal-monument-in-manila-machu-picchu-of-peru-camino-de-santiago-of-spain-and-the-dampier-archipelago-of-australia-as.md) _Context: Machu Picchu, Peru_
+2. [45,000 Inca artefacts taken by Yale University from Machu Picchu almost a century ago, and described by the president as "the dignity and pride of Peru", arrive in Lima after a long campaign by Peruvians to have them returned. ](/news/2011/03/30/45-000-inca-artefacts-taken-by-yale-university-from-machu-picchu-almost-a-century-ago-and-described-by-the-president-as-the-dignity-and-pr.md) _Context: Machu Picchu, Yale_
+3. [Authorities in Peru begin evacuating over 2,000 tourists stranded by heavy rains on Machu Picchu. ](/news/2010/01/26/authorities-in-peru-begin-evacuating-over-2-000-tourists-stranded-by-heavy-rains-on-machu-picchu.md) _Context: Machu Picchu, Peru_
+4. [ A powerful earthquake measuring 7.9 on the Richter Scale rocks Peru 100 miles near Lima, according to the U.S. Geological Survey. A tsunami warning is issued for Peru, Ecuador, Chile and Colombia, following the earthquakes. At least 72 people are killed and another 680 injured. ](/news/2007/08/15/a-powerful-earthquake-measuring-7-9-on-the-richter-scale-rocks-peru-100-miles-near-lima-according-to-the-u-s-geological-survey-a-tsunami.md) _Context: Ecuador, Peru_
+5. [ The New Seven Wonders of the World are announced.  These are The Great Wall of China, Petra in Jordan, the Christ the Redeemer statue in Brazil, Machu Picchu in Peru, Mexico's Chichen Itza Mayan site, the Colosseum in Rome and the Taj Mahal in India. ](/news/2007/07/7/the-new-seven-wonders-of-the-world-are-announced-these-are-the-great-wall-of-china-petra-in-jordan-the-christ-the-redeemer-statue-in-br.md) _Context: Machu Picchu, Peru_
+6. [ Peru suspends free trade talks with Chile due to allegations that Chile supplied arms to Ecuador during that nation's 1995 war with Peru. ](/news/2005/05/4/peru-suspends-free-trade-talks-with-chile-due-to-allegations-that-chile-supplied-arms-to-ecuador-during-that-nation-s-1995-war-with-peru.md) _Context: Ecuador, Peru_
+7. [ Peruvian authorities submit a $130 million plan to UNESCO to preserve the Inca citadel of Machu Picchu. ](/news/2005/04/19/peruvian-authorities-submit-a-130-million-plan-to-unesco-to-preserve-the-inca-citadel-of-machu-picchu.md) _Context: Machu Picchu, Peru_
+8. [Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.md) _Context: Ecuador_
+9. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Peru_
+10. [Heavy flooding in Peru kills at least 67 people and forces thousands to abandon their homes. ](/news/2017/03/17/heavy-flooding-in-peru-kills-at-least-67-people-and-forces-thousands-to-abandon-their-homes.md) _Context: Peru_

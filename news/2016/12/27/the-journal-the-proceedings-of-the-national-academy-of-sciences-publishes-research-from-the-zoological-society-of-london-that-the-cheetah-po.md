@@ -1,0 +1,21 @@
+### [2016-12-27](/news/2016/12/27/index.md)
+
+# The journal the Proceedings of the National Academy of Sciences publishes research from the Zoological Society of London that the cheetah population approaches extinction with only 7,100 individuals left alive in the wild as a result of a sudden crash in population. 
+
+A new study estimates there are just 7,100 now left in the wild as they face growing conflict with humans.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/science-environment-38415906)
+2. [The Proceeding of the National Academy of Science](http://www.pnas.org/content/early/2016/12/20/1611122114.abstract)
+
+### Related:
+
+1. [An analysis of drinking water from three homes in Bradford County, Pennsylvania revealed traces of a compound commonly found in Marcellus Shale drilling fluids. The paper in the Proceedings of the National Academy of Sciences (PNAS) addresses the potential risks to underground drinking water from the drilling technique fracking. ](/news/2015/05/4/an-analysis-of-drinking-water-from-three-homes-in-bradford-county-pennsylvania-revealed-traces-of-a-compound-commonly-found-in-marcellus-sh.md) _Context: Proceedings of the National Academy of Sciences_
+2. [An extensive study concludes that several factors aligned to cause the extinction of wooly mammoths. ](/news/2012/06/12/an-extensive-study-concludes-that-several-factors-aligned-to-cause-the-extinction-of-wooly-mammoths.md) _Context: extinction_
+3. [India halts a plan to re-introduce cheetahs to the country by shipments from Africa. ](/news/2012/05/9/india-halts-a-plan-to-re-introduce-cheetahs-to-the-country-by-shipments-from-africa.md) _Context: cheetah_
+4. [A cheetah is captured roaming the streets in the emirate of Sharjah. ](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the-emirate-of-sharjah.md) _Context: cheetah_
+5. [Russia hosts the International Tiger Forum summit meeting of international wildlife experts and officials from 13 countries in St.Petersburg, to discuss the protection of tigers which could become extinct in 12 years if unprotected. ](/news/2010/11/21/russia-hosts-the-international-tiger-forum-summit-meeting-of-international-wildlife-experts-and-officials-from-13-countries-in-st-petersburg.md) _Context: extinction_
+6. [ The first global study of coral reefs finds that one-third of coral-building species face extinction. ](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.md) _Context: extinction_
+7. [ The Indian government bans veterinary drug diclofenac because of a connection to the near extinction of vultures. ](/news/2005/03/22/the-indian-government-bans-veterinary-drug-diclofenac-because-of-a-connection-to-the-near-extinction-of-vultures.md) _Context: extinction_

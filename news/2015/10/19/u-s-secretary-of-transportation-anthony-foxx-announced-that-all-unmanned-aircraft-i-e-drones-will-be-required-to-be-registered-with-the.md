@@ -1,0 +1,26 @@
+### [2015-10-19](/news/2015/10/19/index.md)
+
+# U.S. Secretary of Transportation Anthony Foxx announced that all unmanned aircraft, i.e. drones, will be required to be registered with the government just as manned aircraft are. DOT is forming a task force of government leaders and diverse stakeholders who will determine the specifics of which drones will be covered and how the registration process will work. 
+
+The Obama administration said on Monday that it would require drone owners to register their unmanned aircraft as part of an effort to curtail rogue drone flights that pose a danger to commercial aircraft and crowded public venues.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/10/19/us-usa-drones-registry-idUSKCN0SD1YV20151019)
+2. [DOT](https://www.transportation.gov/briefing-room/us-transportation-secretary-anthony-foxx-announces-unmanned-aircraft-registration)
+3. [NBC News](http://www.nbcnews.com/tech/innovation/faa-require-recreational-drone-operators-register-n447156)
+4. [Forbes](http://www.forbes.com/sites/johngoglia/2015/10/19/dotfaa-announce-mandatory-registration-of-all-drones-task-force-formed/)
+
+### Related:
+
+1. [An investigation by the United States Department of Transportation's Pipeline and Hazardous Materials Safety Administration finds that the natural gas leak occurring in Alaska's Cook Inlet began earlier than first reported, and represents significant safety and environmental risks. The agency gives pipeline operator Hilcorp Energy until May 1, 2017 to fix the leak, or shut the pipeline down. ](/news/2017/03/7/an-investigation-by-the-united-states-department-of-transportation-s-pipeline-and-hazardous-materials-safety-administration-finds-that-the-n.md) _Context: United States Department of Transportation_
+2. [The U.S. Transportation Department's emergency order banning Samsung Galaxy Note 7 from aircraft in the United States goes into effect. ](/news/2016/10/15/the-u-s-transportation-department-s-emergency-order-banning-samsung-galaxy-note-7-from-aircraft-in-the-united-states-goes-into-effect.md) _Context: United States Department of Transportation_
+3. [A drone collides at London's Heathrow Airport with an Airbus A320 carrying 132 passengers and five crew,  with no injuries reported. ](/news/2016/04/17/a-drone-collides-at-london-s-heathrow-airport-with-an-airbus-a320-carrying-132-passengers-and-five-crew-with-no-injuries-reported.md) _Context: drone_
+4. [  U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shab.md) _Context: drone_
+5. [The United States and Cuba sign an agreement restoring commercial air traffic between the two countries for the first time in 50 years. The U.S. Department of Transportation immediately opened bidding for as many as 110 U.S.-Cuba flights per day to Havana and nine other destinations. Travel from the U.S. is permitted in   12 authorized categories, which does not include tourism. ](/news/2016/02/16/the-united-states-and-cuba-sign-an-agreement-restoring-commercial-air-traffic-between-the-two-countries-for-the-first-time-in-50-years-the.md) _Context: United States Department of Transportation_
+6. [The Oklahoma Department of Corrections says a drone carrying mobile phones, drugs, and hacksaw blades crashed at the Oklahoma State Penitentiary in McAlester before inmates could grab the contraband. This is fourth reported drone-attempt in the United States; the others were at prisons in Ohio, Maryland, and South Carolina. ](/news/2015/10/29/the-oklahoma-department-of-corrections-says-a-drone-carrying-mobile-phones-drugs-and-hacksaw-blades-crashed-at-the-oklahoma-state-penitent.md) _Context: drone_
+7. [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md) _Context: drone_
+8. [The United States Department of Transportation opens an investigation into whether airlines engaged in price gouging by raising ticket prices in the Northeastern United States following the 2015 Philadelphia train derailment in May. ](/news/2015/07/24/the-united-states-department-of-transportation-opens-an-investigation-into-whether-airlines-engaged-in-price-gouging-by-raising-ticket-price.md) _Context: United States Department of Transportation_
+9. [Philippines President Benigno Aquino III demands an investigation after a drone purportedly belonging to the United States Navy is found in the Philippine province of Quezon, the second found in the country. ](/news/2015/01/7/philippines-president-benigno-aquino-iii-demands-an-investigation-after-a-drone-purportedly-belonging-to-the-united-states-navy-is-found-in.md) _Context: drone_
+10. [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. ](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries.md) _Context: drone_

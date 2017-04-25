@@ -1,0 +1,23 @@
+### [2007-10-7](/news/2007/10/7/index.md)
+
+#  U.S. college football: On the heels of last week's historic AP Poll shakeup, another one of comparable size occurs, in which four Top Ten teams and eleven ranked teams overall move down the list or off the poll entirely. LSU receives first place from all 65 sports critics, the first time that has occurred for any team since December 2006. #2 California earns its highest rank since 1951, #4 Boston College earns its highest showing since 1984, and #5 South Florida continues its ascent after first moving into the AP Poll three weeks ago. 
+
+
+
+
+### Source:
+
+1. [AP via Yahoo! Sports](http://sports.yahoo.com/ncaaf/news;_ylt=AiWxiTBZZ1JUsFR4UEqtK8IcvrYF?slug=ap-t25-collegefbpoll&prov=ap&type=lgns)
+
+### Related:
+
+1. [ U.S. college football: The new AP Poll results are released, with nine of the ten ranked teams that lost this past weekend either dropping further down the list or out of the poll completely. LSU rose to #1 for the first time since 1959, Kentucky and Boston College rise into the Top Ten for the first time since 1977 and 1992, respectively, and South Florida ascends into the Top Ten for the first time ever. ](/news/2007/09/30/u-s-college-football-the-new-ap-poll-results-are-released-with-nine-of-the-ten-ranked-teams-that-lost-this-past-weekend-either-dropping.md) _Context: AP Poll, Boston College, Louisiana State University, University of South Florida, college football_
+2. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32.  This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent.  Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-f.md) _Context: AP Poll, college football_
+3. [The United States launches 60  Tomahawk cruise missiles aimed at the Ash Sha'irat air base in Homs Governorate in response to the Syrian government's alleged use of chemical weapons in its attack on the town of Khan Shaykhun. The Government of Syria claims the attack killed six soldiers and nine civilians, including four children. ](/news/2017/04/7/the-united-states-launches-60-tomahawk-cruise-missiles-aimed-at-the-ash-sha-irat-air-base-in-homs-governorate-in-response-to-the-syrian-gov.md) _Context: United States_
+4. [Hyundai (Sonata and Santa Fe) and Kia (Optima, Sorento, and Sportage) are recalling 1.5 million cars, over 1.3 million in United States and 170,000 in South Korea, over an engine defect. ](/news/2017/04/7/hyundai-sonata-and-santa-fe-and-kia-optima-sorento-and-sportage-are-recalling-1-5-million-cars-over-1-3-million-in-united-states-and.md) _Context: United States_
+5. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: United States_
+6. [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: United States_
+7. [Tomorrow, the United States will end a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/25/tomorrow-the-united-states-will-end-a-six-year-central-african-hunt-for-joseph-kony.md) _Context: United States_
+8. [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md) _Context: United States_
+9. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _Context: United States_
+10. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: United States_

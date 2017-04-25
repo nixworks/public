@@ -1,0 +1,24 @@
+### [2009-12-1](/news/2009/12/1/index.md)
+
+#  Tony Abbott becomes the leader of the Federal Liberal Party of Australia and Leader of the Opposition defeating Malcolm Turnbull by 42 votes to 41 following a party revolt over its position on the Rudd government's Carbon Pollution Reduction Scheme. 
+
+New Liberal leader Tony Abbott has promised to take the fight to the Government over emissions trading after wresting the leadership from Malcolm Turnbull by just one vote today.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8387653.stm)
+2. [ABC News Australia](http://www.abc.net.au/news/stories/2009/12/01/2758345.htm?section=business)
+
+### Related:
+
+1. [Malcolm Turnbull launches a challenge for the leadership of the Liberal Party of Australia against incumbent Prime Minister Tony Abbott and wins 54&ndash;44. ](/news/2015/09/14/malcolm-turnbull-launches-a-challenge-for-the-leadership-of-the-liberal-party-of-australia-against-incumbent-prime-minister-tony-abbott-and.md) _Context: Liberal Party, Malcolm Turnbull, Tony Abbott_
+2. [Australian federal election, 2013:Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/australian-federal-election-2013-pvoters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-opposition.md) _Context: Leader of the Opposition, Liberal Party, Tony Abbott_
+3. [ Malcolm Turnbull is elected as the new leader of the Federal Liberal Party of Australia and Leader of the Opposition following a leadership spill. ](/news/2008/09/16/malcolm-turnbull-is-elected-as-the-new-leader-of-the-federal-liberal-party-of-australia-and-leader-of-the-opposition-following-a-leadership.md) _Context: Leader of the Opposition, Liberal Party, Malcolm Turnbull_
+4. [The Leader of the Opposition, Bill Shorten, concedes defeat as continued counting in marginal seats indicates that the governing coalition of the Liberal Party and National Party will either win a narrow majority or be able to govern with the support of independents. Malcolm Turnbull will continue as Prime Minister of Australia and has claimed victory. ](/news/2016/07/10/the-leader-of-the-opposition-bill-shorten-concedes-defeat-as-continued-counting-in-marginal-seats-indicates-that-the-governing-coalition-o.md) _Context: Liberal Party, Malcolm Turnbull_
+5. [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September,  is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md) _Context: Malcolm Turnbull, Tony Abbott_
+6. [Malcolm Turnbull is sworn in as the Prime Minister of Australia following his election to the leadership of the Liberal Party of Australia. ](/news/2015/09/15/malcolm-turnbull-is-sworn-in-as-the-prime-minister-of-australia-following-his-election-to-the-leadership-of-the-liberal-party-of-australia.md) _Context: Liberal Party, Malcolm Turnbull_
+7. [Australian Prime Minister Kevin Rudd and Leader of the Opposition Tony Abbott participate in the first of three televised leaders debates ahead of September's federal election. ](/news/2013/08/11/australian-prime-minister-kevin-rudd-and-leader-of-the-opposition-tony-abbott-participate-in-the-first-of-three-televised-leaders-debates-ah.md) _Context: Kevin Rudd, Tony Abbott_
+8. [Former Prime Minister of Australia Kevin Rudd joins Julia Gillard's election campaign while recovering from gallbladder surgery by attacking the opposition leader Tony Abbott. ](/news/2010/08/5/former-prime-minister-of-australia-kevin-rudd-joins-julia-gillard-s-election-campaign-while-recovering-from-gallbladder-surgery-by-attacking.md) _Context: Kevin Rudd, Tony Abbott_
+9. [After eight years in power, the Liberal Party is defeated by the Labor Party in a landslide election. Mark McGowan is set to become the Australian state's new Premier. ](/news/2017/03/11/after-eight-years-in-power-the-liberal-party-is-defeated-by-the-labor-party-in-a-landslide-election-mark-mcgowan-is-set-to-become-the-aust.md) _Context: Liberal Party_
+10. [Incumbent Australian Senator Cory Bernardi defects from the centre-right Liberal Party of Australia to establish his own minor party, the Australian Conservatives. ](/news/2017/02/7/incumbent-australian-senator-cory-bernardi-defects-from-the-centre-right-liberal-party-of-australia-to-establish-his-own-minor-party-the-au.md) _Context: Liberal Party_

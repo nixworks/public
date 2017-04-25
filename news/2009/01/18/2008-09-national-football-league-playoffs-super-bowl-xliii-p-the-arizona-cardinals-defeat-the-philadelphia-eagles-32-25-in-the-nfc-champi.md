@@ -1,0 +1,24 @@
+### [2009-01-18](/news/2009/01/18/index.md)
+
+#  2008-09 National Football League playoffs (Super Bowl XLIII): The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. 
+
+Get box score updates on the Baltimore Ravens vs. Pittsburgh Steelers football game.
+
+
+### Source:
+
+1. [USA Today](http://blogs.usatoday.com/gameon/2009/01/were-blogging-t.html)
+2. [ESPN](http://scores.espn.go.com/nfl/boxscore?gameId=290118023)
+
+### Related:
+
+1. [ The Pittsburgh Steelers defeat the Arizona Cardinals 27-23 to win Super Bowl XLIII. ](/news/2009/02/1/the-pittsburgh-steelers-defeat-the-arizona-cardinals-27-23-to-win-super-bowl-xliii.md) _Context: Arizona Cardinals, Super Bowl XLIII_
+2. [Ex National Football League player Darren Sharper is sentenced to 20 years in prison for drugging and raping two women in the American city of Los Angeles, California. Sharper has been accused of attacking a dozen women across the United States. ](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.md) _Context: National Football League_
+3. [U.S. District Judge Jane Triche Milazzo sentences former NFL player Darren Sharper to 18 years in prison in rape and drugging case involving as many as 16 women in several U.S. states. ](/news/2016/08/18/u-s-district-judge-jane-triche-milazzo-sentences-former-nfl-player-darren-sharper-to-18-years-in-prison-in-rape-and-drugging-case-involving.md) _Context: National Football League_
+4. [Attorneys for 80-year old American pro football legend and Hall of Famer Paul Hornung, who has dementia, sue Riddell sports equipment manufacturer, stating its helmets failed to protect Hornung from brain injury. The suit says Hornung suffered multiple concussions as a player and his neurodegenerative disease has been linked to repetitive head trauma. ](/news/2016/07/7/attorneys-for-80-year-old-american-pro-football-legend-and-hall-of-famer-paul-hornung-who-has-dementia-sue-riddell-sports-equipment-manufa.md) _Context: National Football League_
+5. [In American football, Twitter wins the bidding contest over Amazon, Verizon, and others, for streaming rights to 10 of 16 National Football League (NFL) regular season ''Thursday Night Football Games'', ones that will also be telecast by either CBS or NBC. The league streamed one game last year with Yahoo!. Verizon, meanwhile, already owns the mobile rights to all NFL games which are available to subscribers via a mobile app; the 10 NFL games on Twitter will be free. ](/news/2016/04/5/in-american-football-twitter-wins-the-bidding-contest-over-amazon-verizon-and-others-for-streaming-rights-to-10-of-16-national-football.md) _Context: National Football League_
+6. [In American football, the National Football League starts its draft for the 2016 NFL season with the Los Angeles Rams choosing Jared Goff with the first pick. ](/news/2016/04/28/in-american-football-the-national-football-league-starts-its-draft-for-the-2016-nfl-season-with-the-los-angeles-rams-choosing-jared-goff-wi.md) _Context: National Football League_
+7. [American football quarterback Peyton Manning retires after eighteen seasons in the National Football League with two Super Bowl championships, five MVP awards, and single-season and career league records for most passing yards and touchdown passes. ](/news/2016/03/7/american-football-quarterback-peyton-manning-retires-after-eighteen-seasons-in-the-national-football-league-with-two-super-bowl-championship.md) _Context: National Football League_
+8. [The National Football League's top health and safety official acknowledges a link between American football and chronic traumatic encephalopathy. ](/news/2016/03/14/the-national-football-league-s-top-health-and-safety-official-acknowledges-a-link-between-american-football-and-chronic-traumatic-encephalop.md) _Context: National Football League_
+9. [In a suit filed by two former American professional football (NFL) players, the Ohio Supreme Court upholds a lower court ruling that Cleveland's formula for taxing visiting professional athletes, the so-called "jock tax," violates players' due process rights. A spokesman says the city will begin issuing refunds to players. ](/news/2015/11/15/in-a-suit-filed-by-two-former-american-professional-football-nfl-players-the-ohio-supreme-court-upholds-a-lower-court-ruling-that-clevela.md) _Context: National Football League_
+10. [Deflategate: In American football, the National Football League finds that two New England Patriots employees intentionally deflated footballs used in the American Football Conference game against the Indianapolis Colts and that quarterback Tom Brady was generally aware of the deflation. ](/news/2015/05/6/deflategate-in-american-football-the-national-football-league-finds-that-two-new-england-patriots-employees-intentionally-deflated-footbal.md) _Context: National Football League_

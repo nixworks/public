@@ -1,0 +1,23 @@
+### [2013-04-10](/news/2013/04/10/index.md)
+
+# The Chamber of Deputies (Congress) of Uruguay votes to legalize same-sex marriage. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22102740)
+
+### Related:
+
+1. [Authorities cannot contact the South Korean cargo freighter ''Stellar Daisy''. It is believed that the ship sunk off the coast of Uruguay. ](/news/2017/04/1/authorities-cannot-contact-the-south-korean-cargo-freighter-stellar-daisy-it-is-believed-that-the-ship-sunk-off-the-coast-of-uruguay.md) _Context: Uruguay_
+2. [Violent storms cause floods across Uruguay with seven people killed and more than 2,000 left homeless. Four of those were killed by a tornado that struck Dolores. Four million people in the Chilean capital of Santiago were left without tap water as heavy rains triggered landslides. This led to the fouling of the city's water supply. ](/news/2016/04/18/violent-storms-cause-floods-across-uruguay-with-seven-people-killed-and-more-than-2-000-left-homeless-four-of-those-were-killed-by-a-tornad.md) _Context: Uruguay_
+3. [A tornado hits the Uruguayan town of Dolores resulting in at least four deaths and seven injuries. ](/news/2016/04/15/a-tornado-hits-the-uruguayan-town-of-dolores-resulting-in-at-least-four-deaths-and-seven-injuries.md) _Context: Uruguay_
+4. [Governor Nathan Deal, of the American state of Georgia, vetoes a religious liberties bill  that would have protected people whose religious beliefs don't include same-sex marriage. ](/news/2016/03/28/governor-nathan-deal-of-the-american-state-of-georgia-vetoes-a-religious-liberties-bill-that-would-have-protected-people-whose-religious.md) _Context: same-sex marriage_
+5. [The Vatican  is replacing Italian Archbishop Carlo Maria Vigano,  the Apostolic Nuncio to the U.S., with French-born Archbishop Christophe Pierre, currently the Apostolic Nuncio to Mexico.  Vigano, who is 75, the statutory retirement age, in 2015 arranged the unexpected  meeting between   Pope Francis and controversial Kentucky clerk Kim Davis, who refused to follow her state's law on same-sex marriage. ](/news/2016/03/17/the-vatican-is-replacing-italian-archbishop-carlo-maria-vigana2-the-apostolic-nuncio-to-the-u-s-with-french-born-archbishop-christophe.md) _Context: same-sex marriage_
+6. [Filipino Senate candidate and boxer Manny Pacquiao calls LGBT people "less than animals" when asked about his opposition to same-sex marriage, prompting condemnation from prominent Filipino LGBT figures such as Aiza Seguerra, John Lapus and Vice Ganda. Pacquiao later apologizes. ](/news/2016/02/16/filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about-his-opposition-to-same-sex-marriag.md) _Context: same-sex marriage_
+7. [Uruguay's National Emergencies System reports two people have died in flooding from heavy rains in its northern provinces, and almost 5,500 have been evacuated.  The Uruguay River has risen close to three meters over safe levels in Paysandu, and almost four meters (13 feet) in Salto.  ](/news/2015/12/24/uruguay-s-national-emergencies-system-reports-two-people-have-died-in-flooding-from-heavy-rains-in-its-northern-provinces-and-almost-5-500.md) _Context: Uruguay_
+8. [The Church of Jesus Christ of Latter-day Saints (Mormon) new policy states those in a same-sex marriage are to be considered apostates, and children living in a same-sex household may not be blessed as babies, or baptized until they are 18. ](/news/2015/11/6/the-church-of-jesus-christ-of-latter-day-saints-mormon-new-policy-states-those-in-a-same-sex-marriage-are-to-be-considered-apostates-and.md) _Context: same-sex marriage_
+9. [ Egypt, Senegal, Uruguay, Japan, and Ukraine are elected to two-year, non-permanent seats on the United Nations Security Council for 2016-17,  replacing Chad, Chile, Jordan, Lithuania, and Nigeria. ](/news/2015/10/15/egypt-senegal-uruguay-japan-and-ukraine-are-elected-to-two-year-non-permanent-seats-on-the-united-nations-security-council-for-2016-17.md) _Context: Uruguay_
+10. [''Miller v. Davis''Kim Davis, the  Rowan County, Kentucky, clerk, is jailed for contempt of court for continuing to refuse, on grounds of religious freedom, to issue marriage licenses to same-sex couples per U.S. District Judge David Bunning's August 12, 2015, order. The deputy clerks are ordered to issue these licenses. ](/news/2015/09/3/miller-v-davis-pkim-davis-the-rowan-county-kentucky-clerk-is-jailed-for-contempt-of-court-for-continuing-to-refuse-on-grounds-of-r.md) _Context: same-sex marriage_

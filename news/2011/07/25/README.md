@@ -1,0 +1,49 @@
+## [2011-07-25](/news/2011/07/25/index.md)
+
+### [2011 Syrian uprising: State media announce a new law permitting the formation of political parties. ](/news/2011/07/25/2011-syrian-uprising-state-media-announce-a-new-law-permitting-the-formation-of-political-parties.md)
+_Context: 2011 Syrian uprising_
+
+### [2011 Bahraini uprising: A panel begins work an inquiry into the crackdown on protests. ](/news/2011/07/25/2011-bahraini-uprising-a-panel-begins-work-an-inquiry-into-the-crackdown-on-protests.md)
+Fact-finding mission, appointed by the king, begins inquiry into the crackdown that left more than 30 people dead.
+
+### [Greek-Cypriot filmmaker Michael Cacoyannis who was nominated for five Academy Awards for  his films including ''Zorba the Greek'' dies in Athens aged 89. ](/news/2011/07/25/greek-cypriot-filmmaker-michael-cacoyannis-who-was-nominated-for-five-academy-awards-for-his-films-including-zorba-the-greek-dies-in-at.md)
+_Context: Academy Awards, Athens, Greek-Cypriot, Michael Cacoyannis, Zorba the Greek_
+
+### [Moody's cuts Greece's credit rating further to Ca on the grounds that a proposed debt swap is equivalent to a default. ](/news/2011/07/25/moody-s-cuts-greece-s-credit-rating-further-to-ca-on-the-grounds-that-a-proposed-debt-swap-is-equivalent-to-a-default.md)
+_Context: Greece, Moody's, defaults_
+
+### [2011 Horn of Africa famine: The World Bank promises $500 million in aid to drought victims in East Africa as a United Nations agency hosts an emergency meeting aimed at fighting famine. ](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promises-500-million-in-aid-to-drought-victims-in-east-africa-as-a-united-nations-agency-hosts-a.md)
+Efforts to save starving Somalis and others suffering from drought in East Africa were intensified Monday, with United Nations agencies pitching for more funding for relief efforts.
+
+### [South Korea and the People's Republic of China will hold inaugural defense strategic meetings this week. ](/news/2011/07/25/south-korea-and-the-people-s-republic-of-china-will-hold-inaugural-defense-strategic-meetings-this-week.md)
+_Context: China's, South Korea_
+
+### [Australia and Malaysia sign a pact to exchange asylum seekers in Kuala Lumpur. ](/news/2011/07/25/australia-and-malaysia-sign-a-pact-to-exchange-asylum-seekers-in-kuala-lumpur.md)
+_Context: Australia, Kuala Lumpur, Malaysia, asylum seeker_
+
+### [Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md)
+Norwegian police revised down the death toll from Friday&#039;s bomb and shooting attack to 76 people from a previous estimate of 93, citing difficulties in gathering information at Utoeya island, where the shooting spree occurred.
+
+### [An Egyptian court decides to try former President of Egypt Hosni Mubarak and Interior Minister Habib al-Adly together on charges relating to the death of protesters in the 2011 Egyptian revolution. ](/news/2011/07/25/an-egyptian-court-decides-to-try-former-president-of-egypt-hosni-mubarak-and-interior-minister-habib-al-adly-together-on-charges-relating-to.md)
+_Context: 2011 Egyptian revolution, Egypt, Egyptian President, Habib al-Adly, Hosni Mubarak_
+
+### [The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md)
+President Obama and House Speaker John A. Boehner escalated their battle over the national debt on Monday, pressing their arguments in a pair of prime-time television addresses as Congress remained at a loss over how to keep the United States from defaulting next week for the first time.
+
+### [Canada's Leader of the Opposition Jack Layton announces that he will take a medical leave of absence and an interim leader of the New Democratic Party will be appointed. ](/news/2011/07/25/canada-s-leader-of-the-opposition-jack-layton-announces-that-he-will-take-a-medical-leave-of-absence-and-an-interim-leader-of-the-new-democr.md)
+_Context: Jack Layton, Leader of the Official Opposition, New Democratic Party, interim leader_
+
+### [The Obama Administration released a Strategy to Combat Transnational Organized Crime ](/news/2011/07/25/the-obama-administration-released-a-strategy-to-combat-transnational-organized-crime.md)
+_Context: Obama Administration_
+
+### [Truong Tan Sang becomes the new President of Vietnam. ](/news/2011/07/25/truong-tan-sang-becomes-the-new-president-of-vietnam.md)
+_Context: President of Vietnam, Truong Tan Sang_
+
+### [In American football, the NFL Players Association executive unanimously accepts a 10 year pay deal with team owners in the US National Football League. ](/news/2011/07/25/in-american-football-the-nfl-players-association-executive-unanimously-accepts-a-10-year-pay-deal-with-team-owners-in-the-us-national-footb.md)
+The NFL Players Association executive committee has voted to accept the labor settlement with the NFL, a source said Monday.
+
+### [In softball, the United States defeats Japan 6-4 to win its fifth straight World Cup. ](/news/2011/07/25/in-softball-the-united-states-defeats-japan-6-4-to-win-its-fifth-straight-world-cup.md)
+_Context: Japan, United States, World Cup, softball_
+
+## [Previous Day...](/news/2011/07/24/index.md)
+

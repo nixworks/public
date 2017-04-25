@@ -1,0 +1,19 @@
+## [2005-03-19](/news/2005/03/19/index.md)
+
+### [ A 7.0 magnitude earthquake hits Japan's southernmost main island of Kyushu. Japan's Meteorological Agency emits warnings for tsunamis that could hit areas including the coast of Kyushu. ](/news/2005/03/19/a-7-0-magnitude-earthquake-hits-japan-s-southernmost-main-island-of-kya-sha-japan-s-meteorological-agency-emits-warnings-for-tsunamis-tha.md)
+_Context: Japan, Japan's Meteorological Agency, Kyūshū, Tsunami, magnitude_
+
+### [ One Briton killed and 12 people wounded by a car bomb in Doha, Qatar. ](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-car-bomb-in-doha-qatar.md)
+_Context: Doha, Qatar, United Kingdom_
+
+### [ Pakistan successfully test-fires a long-range nuclear-capable ballistic missile, Shaheen-II, the latest in a series of tests. Shaheen-II can travel up to 2,000 km and carry all kinds of warheads. ](/news/2005/03/19/pakistan-successfully-test-fires-a-long-range-nuclear-capable-ballistic-missile-shaheen-ii-the-latest-in-a-series-of-tests-shaheen-ii-ca.md)
+_Context: Pakistan, Shaheen-II, ballistic missile_
+
+### [ G20 group of the developing countries calls on rich nations to end their farming subsidies in five years ](/news/2005/03/19/g20-group-of-the-developing-countries-calls-on-rich-nations-to-end-their-farming-subsidies-in-five-years.md)
+Business news & Financial news from Reuters.com.
+
+### [ Manny Pacquiao and Erik Morales met for their first of three epic boxing matches.  Morales won the 12-round bout by unanimous decision.  Pacquiao would later revenge the bout, fighting Morales two more times, winning both by knockout.](/news/2005/03/19/manny-pacquiao-and-erik-morales-met-for-their-first-of-three-epic-boxing-matches-morales-won-the-12-round-bout-by-unanimous-decision-pa.md)
+_Context: Erik Morales, Manny Pacquiao_
+
+## [Previous Day...](/news/2005/03/18/index.md)
+

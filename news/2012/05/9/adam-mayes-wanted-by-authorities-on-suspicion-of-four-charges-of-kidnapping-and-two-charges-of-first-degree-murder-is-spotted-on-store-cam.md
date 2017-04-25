@@ -1,0 +1,23 @@
+### [2012-05-9](/news/2012/05/9/index.md)
+
+# Adam Mayes, wanted by authorities on suspicion of four charges of kidnapping and two charges of first-degree murder, is spotted on store cameras in a Guntown, Mississippi store and is added to the Tennessee Bureau of Investigation's Most Wanted List. 
+
+
+
+
+### Source:
+
+1. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/05/09/11616054-man-suspected-of-killing-2-kidnapping-2-appears-in-mississippi-stores-surveillance-tape?lite)
+
+### Related:
+
+1. [Two UN officials with MONUSCO--an American and a Swede--are among six people kidnapped  near the village of Ngombe in the Democratic Republic of the Congo's Kasai-Central province. Congolese officials have not identified the kidnappers nor has any group  claimed responsibility. ](/news/2017/03/13/two-un-officials-with-monuscoaan-american-and-a-swedeaare-among-six-people-kidnapped-near-the-village-of-ngombe-in-the-democratic-repub.md) _Context: kidnapped_
+2. [Indonesian police kill two militants in a clash in a remote jungle area on Sulawesi island. One may be  Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, and the country's "most wanted man."  Forensic tests will be carried out. Three others, including two women, escaped. ](/news/2016/07/18/indonesian-police-kill-two-militants-in-a-clash-in-a-remote-jungle-area-on-sulawesi-island-one-may-be-abu-wardah-santoso-leader-of-isil-c.md) _Context: most wanted man_
+3. [The United States and the United Kingdom issue travel alerts for their citizens to avoid the Sulu Archipelago in the  southwestern Philippines where a wave of kidnappings by Abu Sayyaf militants has occurred. ](/news/2016/04/21/the-united-states-and-the-united-kingdom-issue-travel-alerts-for-their-citizens-to-avoid-the-sulu-archipelago-in-the-southwestern-philippin.md) _Context: kidnapped_
+4. [ Australian ''60 Minutes'' reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. ](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-her-crew-are-reportedly-facing-kidnapping-charges-in-lebanon-following-a-bungled-child-re.md) _Context: kidnapped_
+5. [Islamist militants kill two Tunisian soldiers and injure four others who were seeking to free a man kidnapped  in a mountainous area near the border with Algeria. ](/news/2015/10/12/islamist-militants-kill-two-tunisian-soldiers-and-injure-four-others-who-were-seeking-to-free-a-man-kidnapped-in-a-mountainous-area-near-th.md) _Context: kidnapped_
+6. [Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-about-the-others.md) _Context: kidnapped_
+7. [Aaron Hernandez was arraigned and pled not guilty to first-degree murder. He was held without bail, but reserved the right to request bail later.](/news/2013/09/6/aaron-hernandez-was-arraigned-and-pled-not-guilty-to-first-degree-murder-he-was-held-without-bail-but-reserved-the-right-to-request-bail-l.md) _Context: first-degree murder_
+8. [The jury in the U.S. state of Arizona that convicted Jodi Arias of first-degree murder last week quickly decide that she should either face the death penalty or life in prison without parole during the penalty phase of trial. ](/news/2013/05/15/the-jury-in-the-u-s-state-of-arizona-that-convicted-jodi-arias-of-first-degree-murder-last-week-quickly-decide-that-she-should-either-face.md) _Context: first-degree murder_
+9. [The remains of a missing young Oregon woman, Whitney Heichel, 21, a Starbucks barista from the Portland, Oregon suburb of Gresham, Oregon, are found on Larch Mountain, Multnomah County, Oregon; after DNA testing and fingerprint analysis, Gresham Police arrested a neighbor who lived nearby in her Gresham apartment complex, Jonathan Holt, 24, on suspicion of aggravated first-degree murder. ](/news/2012/10/19/the-remains-of-a-missing-young-oregon-woman-whitney-heichel-21-a-starbucks-barista-from-the-portland-oregon-suburb-of-gresham-oregon-a.md) _Context: first-degree murder_
+10. [Colombia's Revolutionary Armed Forces of Colombia or FARC announces that it has abandoned kidnapping and will soon release its last remaining captives. ](/news/2012/02/26/colombia-s-revolutionary-armed-forces-of-colombia-or-farc-announces-that-it-has-abandoned-kidnapping-and-will-soon-release-its-last-remainin.md) _Context: kidnapped_

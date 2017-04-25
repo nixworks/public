@@ -1,0 +1,23 @@
+### [2015-11-6](/news/2015/11/6/index.md)
+
+# Okinawa Governor Takeshi Onaga says he "cannot comply with the recommendation" from Tokyo's Land Minister Keiichi Ishii, and will not retract his revocation of a U.S. military base relocation permit. 
+
+A dispute in Okinawa is escalating after the governor of the island refused to retract a revocation of a U.S. military base relocation permit.
+
+
+### Source:
+
+1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/06/Okinawa-governor-refuses-to-back-down-on-US-base-relocation/1571446836720/?spt=hs&or=tn_int)
+
+### Related:
+
+1. [ The United States military says it will shortly return 4,000 hectares  of its Okinawa military installation, 17 percent of the area it controls, to the Japanese government. ](/news/2016/07/29/the-united-states-military-says-it-will-shortly-return-4-000-hectares-of-its-okinawa-military-installation-17-percent-of-the-area-it-cont.md) _Context: Japan, Japan–United States relations, Okinawa_
+2. [Over 50,000 people protest in Okinawa capital Naha against U.S. military presence on the Japanese island, spurred on by last month's arrest of an U.S. Marine veteran, civilian contractor for  the rape and killing of a 20-year-old local woman. ](/news/2016/06/19/over-50-000-people-protest-in-okinawa-capital-naha-against-u-s-military-presence-on-the-japanese-island-spurred-on-by-last-month-s-arrest.md) _Context: Japan, Japan–United States relations, Okinawa_
+3. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan, Japan–United States relations_
+4. [The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-japan-on-conducting-joint-patrols-in-the-south-china-sea.md) _Context: Japan, Japan–United States relations_
+5. [Voters in Okinawa, Japan, go to the polls to elect the members of the next Okinawa Prefectural Assembly. The election results give the camp supporting Governor Takeshi Onaga a clear majority in the assembly. Onaga is opposed to the central government's plan to relocate MCAS Futenma to Henoko Bay in Nago. ](/news/2016/06/5/voters-in-okinawa-japan-go-to-the-polls-to-elect-the-members-of-the-next-okinawa-prefectural-assembly-the-election-results-give-the-camp.md) _Context: Japan, Takeshi Onaga_
+6. [Thousands protest outside the Japanese parliament in Tokyo against the  relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md) _Context: Japan, Japan–United States relations_
+7. [Hearings begin in the legal battle between the Japanese government and local officials in Okinawa over plans to move a U.S. military air base on the southern island. This fall, Okinawa Governor Takeshi Onaga revoked his predecessor's authorization for a US Marine Corps air base. ](/news/2015/12/2/hearings-begin-in-the-legal-battle-between-the-japanese-government-and-local-officials-in-okinawa-over-plans-to-move-a-u-s-military-air-bas.md) _Context: Okinawa, Takeshi Onaga_
+8. [The Japanese government officially sues the governor of Okinawa, Takeshi Onaga, over his denial of permits to allow work to begin on the Relocation of Marine Corps Air Station Futenma. ](/news/2015/11/17/the-japanese-government-officially-sues-the-governor-of-okinawa-takeshi-onaga-over-his-denial-of-permits-to-allow-work-to-begin-on-the-rel.md) _Context: Japan, Takeshi Onaga_
+9. [The Governor of the Japanese prefecture of Okinawa, Takeshi Onaga, revokes permission given by a predecessor for landfill work to replace a United States Marine Corps base. ](/news/2015/10/13/the-governor-of-the-japanese-prefecture-of-okinawa-takeshi-onaga-revokes-permission-given-by-a-predecessor-for-landfill-work-to-replace-a.md) _Context: Japan, Takeshi Onaga_
+10. [Takeshi Onaga, the governor of the Japanese prefecture of Okinawa, revokes approval for work on the US Marine Corps Air Station Futenma. ](/news/2015/09/14/takeshi-onaga-the-governor-of-the-japanese-prefecture-of-okinawa-revokes-approval-for-work-on-the-us-marine-corps-air-station-futenma.md) _Context: Okinawa, Takeshi Onaga_

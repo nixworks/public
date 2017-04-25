@@ -1,0 +1,26 @@
+### [2010-04-12](/news/2010/04/12/index.md)
+
+# 2010 Holywood car bombing:A car bomb explodes shortly after midnight near Northern Ireland's MI5 headquarters in Holywood, County Down, blowing an elderly man off his feet and sending him to hospital. 
+
+The Real IRA has claimed responsibility for the car bomb that exploded close to the British Army base in Co Down this morning.
+
+
+### Source:
+
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/12/c_13247544.htm)
+2. [RTÉ](http://www.rte.ie/news/2010/0412/holywood.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8614723.stm)
+4. [Times Online](http://www.timesonline.co.uk/tol/news/uk/crime/article7095068.ece)
+
+### Related:
+
+1. [  MI5 raises the threat level for dissident Northern Ireland militants from "moderate" to "substantial", meaning there is a strong possibility of an attack on the British mainland. ](/news/2016/05/11/mi5-raises-the-threat-level-for-dissident-northern-ireland-militants-from-moderate-to-substantial-meaning-there-is-a-strong-possibili.md) _Context: MI5, Northern Ireland_
+2. [Torrential rain in Northern Ireland causes flooding in the towns of Newry and Newcastle in County Down. ](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.md) _Context: County Down, Northern Ireland_
+3. [A controlled explosion is carried out on a device discovered beneath the car of a serving soldier, believed to be an army major, in Bangor, County Down in Northern Ireland. ](/news/2010/08/4/a-controlled-explosion-is-carried-out-on-a-device-discovered-beneath-the-car-of-a-serving-soldier-believed-to-be-an-army-major-in-bangor.md) _Context: County Down, Northern Ireland_
+4. [Police investigate the discovery of human excrement in cans of Coca-Cola in a Northern Ireland bottling facility. None of the contaminated product left the facility. ](/news/2017/03/28/police-investigate-the-discovery-of-human-excrement-in-cans-of-coca-cola-in-a-northern-ireland-bottling-facility-none-of-the-contaminated-p.md) _Context: Northern Ireland_
+5. [The Met Office issues warnings for parts of Scotland, Northern England and Northern Ireland as Storm Barbara prepares to make landfall. ](/news/2016/12/20/the-met-office-issues-warnings-for-parts-of-scotland-northern-england-and-northern-ireland-as-storm-barbara-prepares-to-make-landfall.md) _Context: Northern Ireland_
+6. [Prime Minister David Cameron tells the House of Commons that legal experts advise that the UK-wide Brexit result binds the entire nation, even though  Northern Ireland and Scotland voted to stay in the EU. Yesterday, both Scottish and Northern Irish representatives told the European Parliament's plenary session they will leave the UK if that is the required price to keep their homelands fully connected to Europe. ](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.md) _Context: Northern Ireland_
+7. [Peter Robinson announces he will step down as Northern Ireland's First Minister and as leader of the Democratic Unionist Party, corresponding with recent tensions in the area and a murder linked with the Irish Republican Army. ](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.md) _Context: Northern Ireland_
+8. [Andrew Parker, head of British security agency MI5, states that ISIS terrorists are planning attacks in Great Britain and current terror threat levels are the highest he's witnessed in his career. ](/news/2015/10/30/andrew-parker-head-of-british-security-agency-mi5-states-that-isis-terrorists-are-planning-attacks-in-great-britain-and-current-terror-thr.md) _Context: MI5_
+9. [Political parties in Northern Ireland hold talks to save a power-sharing agreement following claims that Irish nationalist militants were involved in the murder of a former operative. ](/news/2015/09/21/political-parties-in-northern-ireland-hold-talks-to-save-a-power-sharing-agreement-following-claims-that-irish-nationalist-militants-were-in.md) _Context: Northern Ireland_
+10. [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md) _Context: Northern Ireland_

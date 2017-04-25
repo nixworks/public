@@ -1,0 +1,23 @@
+### [2005-07-1](/news/2005/07/1/index.md)
+
+#  A Toronto mosque makes history by hosting the first known Muslim prayer service in history to be led by a woman. 
+
+
+
+
+### Source:
+
+1. [CBC](http://www.cbc.ca/canada/story/2005/07/01/muslim050701.html)
+
+### Related:
+
+1. [A dispute between a Muslim gold shop owner and Buddhist sellers escalates into communal violence that leaves 10 people dead, 20 injured, and 4 mosques burnt to the ground in Myanmar. ](/news/2013/03/21/a-dispute-between-a-muslim-gold-shop-owner-and-buddhist-sellers-escalates-into-communal-violence-that-leaves-10-people-dead-20-injured-and.md) _Context: Muslim, mosque_
+2. [Hundreds of Muslim villagers clash with riot police in the Ningxia region of northern China after a mosque is demolished by local authorities. ](/news/2012/01/2/hundreds-of-muslim-villagers-clash-with-riot-police-in-the-ningxia-region-of-northern-china-after-a-mosque-is-demolished-by-local-authoritie.md) _Context: Muslim, mosque_
+3. [ Iranian police arrest about 180 Sufi Muslims who attacked a Shia mosque in Borujerd after a cleric said their religion was "illegitimate". ](/news/2007/11/10/iranian-police-arrest-about-180-sufi-muslims-who-attacked-a-shia-mosque-in-borujerd-after-a-cleric-said-their-religion-was-illegitimate.md) _Context: Muslim, mosque_
+4. [ 2005 Paris riots continue for the fifth consecutive night, sparked by the death of two Muslim youths from electric shock. The controversy caused by police firing tear gas into a mosque on Sunday night led to families of the dead youths pulling out of a meeting with the French Minister of the Interior Nicolas Sarkozy. ](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.md) _Context: Muslim, mosque_
+5. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Muslim_
+6. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: mosque_
+7. [  A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _Context: mosque_
+8. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country,  and calls on Myanmar State Counsellor   Aung San Suu Kyi and the United Nations to address the Rohingya's plight  and end the violence.   Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the  Association of Southeast Asian Nations's principle on  sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Muslim_
+9. [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md) _Context: Muslim_
+10. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Muslim_

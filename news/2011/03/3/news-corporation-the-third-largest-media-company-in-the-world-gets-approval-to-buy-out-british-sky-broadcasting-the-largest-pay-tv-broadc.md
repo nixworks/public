@@ -1,0 +1,24 @@
+### [2011-03-3](/news/2011/03/3/index.md)
+
+# News Corporation, the third largest media company in the world, gets approval to buy out British Sky Broadcasting, the largest pay-TV broadcaster in the United Kingdom, for $12.7 billion. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/business-12631875)
+2. [Business Week](http://www.businessweek.com/news/2011-03-03/news-corp-wins-approval-for-bskyb-in-return-for-sky-news-sale.html)
+
+### Related:
+
+1. [Media conglomerate News Corporation sells MySpace to Specific Media. ](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.md) _Context: Media conglomerate, News Corporation_
+2. [News Corporation agrees to pay $139 million to American shareholders due to the phone hacking scandal. ](/news/2013/04/22/news-corporation-agrees-to-pay-139-million-to-american-shareholders-due-to-the-phone-hacking-scandal.md) _Context: News Corporation_
+3. [British police widen their phone-hacking inquiry with new arrests of journalists from newspapers not owned by News Corporation, which previously has been the focus of the investigation. ](/news/2012/07/11/british-police-widen-their-phone-hacking-inquiry-with-new-arrests-of-journalists-from-newspapers-not-owned-by-news-corporation-which-previo.md) _Context: News Corporation_
+4. [''The Wall Street Journal'' reports that the board of News Corporation has agreed to split the company into two businesses for publishing and entertainment. ](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-of-news-corporation-has-agreed-to-split-the-company-into-two-businesses-for-publishing-an.md) _Context: News Corporation_
+5. [British Culture Secretary Jeremy Hunt appears at the Leveson Inquiry into media practices in the UK. The inquiry hears that he congratulated James Murdoch on the progress of News Corporation's takeover bid for BSkyB just hours before he was charged with overseeing it, but acted impartially once he took on the role. Prime Minister David Cameron says he will not order an inquiry into Hunt's ministerial conduct. ](/news/2012/05/31/british-culture-secretary-jeremy-hunt-appears-at-the-leveson-inquiry-into-media-practices-in-the-uk-the-inquiry-hears-that-he-congratulated.md) _Context: News Corporation_
+6. [At the Leveson Inquiry into British media practices, UK Secretary of State for Business Vince Cable, who initially had responsibility for overseeing News Corporation's bid to take full control of BSkyB, tells the hearing he was warned the Liberal Democrats would be "done over" by the company's newspapers if he ruled against the takeover. ](/news/2012/05/30/at-the-leveson-inquiry-into-british-media-practices-uk-secretary-of-state-for-business-vince-cable-who-initially-had-responsibility-for-ov.md) _Context: News Corporation_
+7. [Leveson Inquiry:Former British Prime Minister Tony Blair tells the Leveson Inquiry he had a "working relationship" with News Corporation chairman Rupert Murdoch, but that Murdoch did not influence policy during his time in office. ](/news/2012/05/28/leveson-inquiry-pformer-british-prime-minister-tony-blair-tells-the-leveson-inquiry-he-had-a-working-relationship-with-news-corporation-ch.md) _Context: News Corporation_
+8. [As the Leveson Inquiry releases emails exchanged between UK Secretary of State for Culture, Media and Sport Jeremy Hunt and News Corporation lobbyist Fred Michel, Prime Minister David Cameron says he does not regret his decision to let Hunt rule on News Corp's bid for BSkyB. ](/news/2012/05/25/as-the-leveson-inquiry-releases-emails-exchanged-between-uk-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-and-news-corporation.md) _Context: News Corporation_
+9. [News Corporation lobbyist Fred Michel tells the Leveson Inquiry there was nothing inappropriate in his relationship with Adam Smith, a special adviser to UK Secretary of State for Culture, Media and Sport Jeremy Hunt. Smith later tells the hearing Hunt sent a memorandum to Prime Minister David Cameron in which he said he was in favour of News Corp's bid to take control of BSkyB before he was given a key role in the process. ](/news/2012/05/24/news-corporation-lobbyist-fred-michel-tells-the-leveson-inquiry-there-was-nothing-inappropriate-in-his-relationship-with-adam-smith-a-speci.md) _Context: News Corporation_
+10. [The News Corporation board expresses its "full confidence" in Rupert Murdoch following a UK government media committee's conclusion yesterday that Murdoch is "not a fit person" to run a major international business. ](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.md) _Context: News Corporation_

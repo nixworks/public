@@ -1,0 +1,10 @@
+### [2013-05-24](/news/2013/05/24/index.md)
+
+# A collision between a hotel shuttle bus and a tractor-trailer occurs near the Atlanta airport, injuring eighteen people. 
+
+Authorities say 18 people have been taken to the hospital following a crash between a hotel shuttle bus and a tractor-trailer near Atlanta&#39;s airport.
+
+
+### Source:
+
+1. [AP via News24](http://www.news24.com/news24/World/News/18-hurt-in-US-shuttle-bus-crash-20130524)

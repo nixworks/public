@@ -1,0 +1,24 @@
+### [2012-12-16](/news/2012/12/16/index.md)
+
+# Syrian civil war:A Palestinian refugee camp in the capital of Damascus is reported to be attacked by Syrian war planes. Syrian Observatory for Human Rights reported at least eight deaths. 
+
+A Palestinian refugee camp in the Syrian capital Damascus has been attacked, activists say, causing an unknown number of casualties.
+
+
+### Source:
+
+1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57559467/islamist-rebels-take-over-syrian-infantry-base/)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20747485)
+
+### Related:
+
+1. [According to the Syrian Observatory for Human Rights, two suicide bombings occur near the Sayyidah Zaynab shrine in a Damascus suburb, killing at least 20 people. ](/news/2016/06/11/according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-damascus-suburb-killi.md) _Context: Damascus, Syrian Civil War, Syrian Observatory for Human Rights_
+2. [Syrian Army troops surround the central prison in Hama after inmates revolted, seizing several guards. The Syrian Observatory for Human Rights says inmates were protesting against a planned transfer of prisoners from Hama to Sednaya Prison near Damascus. ](/news/2016/05/2/syrian-army-troops-surround-the-central-prison-in-hama-after-inmates-revolted-seizing-several-guards-the-syrian-observatory-for-human-righ.md) _Context: Damascus, Syrian Civil War, Syrian Observatory for Human Rights_
+3. [ISIL claims to have shot down a Syrian Arab Air Force MiG-23, southeast of Damascus, and captured its pilot. Amaq News Agency, which supports ISIL, gave the pilot's name as Azzam Eid, from Hama. The Syrian Observatory for Human Rights says it was not clear whether the plane had been shot down or crashed because of mechanical failure. ](/news/2016/04/23/isil-claims-to-have-shot-down-a-syrian-arab-air-force-mig-23-southeast-of-damascus-and-captured-its-pilot-amaq-news-agency-which-support.md) _Context: Damascus, Syrian Civil War, Syrian Observatory for Human Rights_
+4. [The Syrian Observatory for Human Rights claims that the Al-Nusra Front as well as other insurgents have captured the village of Tel el-Ais in a strategic position overlooking the highway between Aleppo and Damascus. ](/news/2016/04/2/the-syrian-observatory-for-human-rights-claims-that-the-al-nusra-front-as-well-as-other-insurgents-have-captured-the-village-of-tel-el-ais-i.md) _Context: Damascus, Syrian Civil War, Syrian Observatory for Human Rights_
+5. [Syrian rebels fire volleys of mortar shells into Damascus,  killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that  kill at least 35  people and injure many more, according to the Syrian Observatory for Human Rights.  ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-ai.md) _Context: Damascus, Syrian Civil War, Syrian Observatory for Human Rights_
+6. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+7. [At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-rights.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+8. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syrian Civil War_
+9. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
+10. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syrian Civil War_

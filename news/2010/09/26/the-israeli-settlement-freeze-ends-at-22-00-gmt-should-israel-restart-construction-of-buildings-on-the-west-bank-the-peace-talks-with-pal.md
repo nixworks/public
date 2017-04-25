@@ -1,0 +1,24 @@
+### [2010-09-26](/news/2010/09/26/index.md)
+
+# The Israeli settlement freeze ends at 22.00 (GMT), should Israel restart construction of buildings on the West Bank the peace talks with Palestinian leader Mahmoud Abbas are expected to end. 
+
+
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2010/WORLD/meast/09/26/israel.settlement.moratorium/index.html?hpt=T1)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11415719)
+
+### Related:
+
+1. [President of the Palestinian Authority Mahmoud Abbas speaks of the possibility of dissolving the Authority if Israel continues its construction on occupied Palestinian land in the West Bank, saying there is little point remaining "the president of an authority that doesn't exist". ](/news/2010/12/4/president-of-the-palestinian-authority-mahmoud-abbas-speaks-of-the-possibility-of-dissolving-the-authority-if-israel-continues-its-construct.md) _Context: Israel, Mahmoud Abbas, West Bank_
+2. [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md) _Context: Israel, Mahmoud Abbas, West Bank_
+3. [Mahmoud Abbas addresses the United Nations General Assembly, where he states that Palestinians desire "a comprehensive and just" peace agreement and requests that Israel cease its policy of building settlements in the West Bank. ](/news/2010/09/25/mahmoud-abbas-addresses-the-united-nations-general-assembly-where-he-states-that-palestinians-desire-a-comprehensive-and-just-peace-agree.md) _Context: Israel, Mahmoud Abbas, West Bank_
+4. [ Israel begins the Gaza Strip pullout plan. The Kissufim Roadblock was shut down at midnight between August 14 and August 15. Palestinian leader Mahmoud Abbas hailed the move as "historic" but said Israel should also pull out of the West Bank. ](/news/2005/08/15/israel-begins-the-gaza-strip-pullout-plan-the-kissufim-roadblock-was-shut-down-at-midnight-between-august-14-and-august-15-palestinian-le.md) _Context: Israel, Mahmoud Abbas, West Bank_
+5. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _Context: Israel, Mahmoud Abbas, West Bank_
+6. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel, West Bank_
+7. [Israel passes the Regulation Law which retroactively legalizes 4,000 housing units in 16 settlements on Area C West Bank occupied Palestinian territories. ](/news/2017/02/6/israel-passes-the-regulation-law-which-retroactively-legalizes-4-000-housing-units-in-16-settlements-on-area-c-west-bank-occupied-palestinia.md) _Context: Israel, West Bank_
+8. [The White House cautions Israel that building new settlements  or expanding existing settlements in  the West Bank, "... may not be helpful in achieving (peace)." ](/news/2017/02/2/the-white-house-cautions-israel-that-building-new-settlements-or-expanding-existing-settlements-in-the-west-bank-may-not-be-helpful.md) _Context: Israel, West Bank_
+9. [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md) _Context: Israel, West Bank_
+10. [Israel announces it will build an entirely new settlement in the West Bank for the first time in about twenty years. Many in the international community believe that such settlements are illegal but Israel disputes that. The settlement program is illegal under international law. ](/news/2017/02/1/israel-announces-it-will-build-an-entirely-new-settlement-in-the-west-bank-for-the-first-time-in-about-twenty-years-many-in-the-internation.md) _Context: Israel, West Bank_

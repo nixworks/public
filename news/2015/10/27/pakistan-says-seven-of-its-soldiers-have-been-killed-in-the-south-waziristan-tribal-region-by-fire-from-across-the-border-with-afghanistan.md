@@ -1,0 +1,24 @@
+### [2015-10-27](/news/2015/10/27/index.md)
+
+# Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. 
+
+Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan.
+
+
+### Source:
+
+1. [UPI](http://www.upi.com/Top_News/World-News/2015/10/27/Cross-border-firing-from-Afghanistan-kills-seven-Pakistani-soldiers/4211445982953/?spt=hs&or=tn_int)
+2. [BBC](http://www.bbc.com/news/world-asia-34647241)
+
+### Related:
+
+1. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Afghan, Pakistan, War in North-West Pakistan_
+2. [War in North-West Pakistan At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/war-in-north-west-pakistan-pat-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in.md) _Context: Federally Administered Tribal Areas, Pakistan, War in North-West Pakistan_
+3. [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md) _Context: Afghan, Pakistan, War in North-West Pakistan_
+4. [War in North-West Pakistan:A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/war-in-north-west-pakistan-pa-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federally.md) _Context: Afghan, Federally Administered Tribal Areas, War in North-West Pakistan_
+5. [War in North-West Pakistan:A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-pa-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md) _Context: Afghan, Pakistan, War in North-West Pakistan_
+6. [War in North-West Pakistan:15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/war-in-north-west-pakistan-p15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e.md) _Context: Federally Administered Tribal Areas, Pakistan, War in North-West Pakistan_
+7. [War in North-West Pakistan:A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-pa-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal-a.md) _Context: Federally Administered Tribal Areas, Pakistan, War in North-West Pakistan_
+8. [War in North-West Pakistan:A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/war-in-north-west-pakistan-pa-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-wazi.md) _Context: Pakistan, South Waziristan, War in North-West Pakistan_
+9. [War in North-West Pakistan:A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-wazirista.md) _Context: Pakistan, South Waziristan, War in North-West Pakistan_
+10. [War in North-West Pakistan:At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-pat-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md) _Context: Afghan, Pakistan, War in North-West Pakistan_

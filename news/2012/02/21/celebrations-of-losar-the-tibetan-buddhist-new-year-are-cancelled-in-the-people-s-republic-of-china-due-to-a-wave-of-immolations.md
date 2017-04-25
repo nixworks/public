@@ -1,0 +1,23 @@
+### [2012-02-21](/news/2012/02/21/index.md)
+
+# Celebrations of Losar, the Tibetan Buddhist New Year, are cancelled in the People's Republic of China due to a wave of immolations. 
+
+For Tibetan Buddhists, tomorrow is Losar, the start of the year 2139; an occasion that the Dalai Lama will mark in the main temple in Mcleod Ganj, Dharamsala.
+
+
+### Source:
+
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/tibet/9095889/As-Tibet-marks-new-year-self-immolations-mean-there-will-be-no-celebrations.html)
+
+### Related:
+
+1. [Tibetan advocacy groups claim that as many as seven ethnic Tibetans have been killed and 60 wounded in the past week in protests in China's Sichuan province bordering Tibet. ](/news/2012/01/30/tibetan-advocacy-groups-claim-that-as-many-as-seven-ethnic-tibetans-have-been-killed-and-60-wounded-in-the-past-week-in-protests-in-china-s.md) _Context: China's, Tibetan_
+2. [Human rights groups send an open letter to the President of the People's Republic of China, Hu Jintao, pressing the Chinese government to address the underlying causes of protests that have led 11 Tibetans to set themselves on fire since March. ](/news/2011/11/8/human-rights-groups-send-an-open-letter-to-the-president-of-the-people-s-republic-of-china-hu-jintao-pressing-the-chinese-government-to-ad.md) _Context: China's, Tibetan_
+3. [ The Dalai Lama warns that he is losing confidence in Chinese officials and that the Tibetan people are facing "great danger". ](/news/2008/11/23/the-dalai-lama-warns-that-he-is-losing-confidence-in-chinese-officials-and-that-the-tibetan-people-are-facing-great-danger.md) _Context: China's, Tibetan_
+4. [Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. ](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.md) _Context: China's_
+5. [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md) _Context: China's_
+6. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country,  and calls on Myanmar State Counsellor   Aung San Suu Kyi and the United Nations to address the Rohingya's plight  and end the violence.   Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the  Association of Southeast Asian Nations's principle on  sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Buddhist_
+7. [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md) _Context: China's_
+8. [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md) _Context: China's_
+9. [United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-ing-wen-the-first-known-contact-bet.md) _Context: China's_
+10. [At least 74 people are dead and many others injured and trapped after a construction platform at a power plant in the Chinese city of Fengcheng in Jiangxi province collapses. ](/news/2016/11/24/at-least-74-people-are-dead-and-many-others-injured-and-trapped-after-a-construction-platform-at-a-power-plant-in-the-chinese-city-of-fengch.md) _Context: China's_

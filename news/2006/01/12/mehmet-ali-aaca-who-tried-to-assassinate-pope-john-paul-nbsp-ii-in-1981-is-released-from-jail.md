@@ -1,0 +1,16 @@
+### [2006-01-12](/news/2006/01/12/index.md)
+
+#  Mehmet Ali Agca, who tried to assassinate Pope John Paul&nbsp;II in 1981, is released from jail. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4604362.stm)
+
+### Related:
+
+1. [ Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. ](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-custody-mehmet-ali-aaca-the-man-who-shot-pope-john-paul-nbsp-ii-in-1981-after-an-appeals.md) _Context: Mehmet Ali Ağca, Pope John Paul&nbsp;II_
+2. [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md) _Context: Mehmet Ali Ağca_
+3. [ An Italian parliamentary commission accuses the former Soviet Union of orchestrating the 1981 attempt to assassinate Pope John Paul&nbsp;II ](/news/2006/03/3/an-italian-parliamentary-commission-accuses-the-former-soviet-union-of-orchestrating-the-1981-attempt-to-assassinate-pope-john-paul-nbsp-ii.md) _Context: Pope John Paul&nbsp;II_

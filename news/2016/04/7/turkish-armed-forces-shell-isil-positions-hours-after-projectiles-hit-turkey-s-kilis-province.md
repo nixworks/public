@@ -1,0 +1,23 @@
+### [2016-04-7](/news/2016/04/7/index.md)
+
+# Turkish Armed Forces shell ISIL positions hours after projectiles hit Turkey's Kilis Province. 
+
+Turkish artillery units began to shell Syrian positions of the Islamic State of Iraq and the Levant (ISIL) hours after two projectiles hit the southeastern province of Kilis, located near Turkey’s Syrian border, and wounded three on April 7
+
+
+### Source:
+
+1. [Hurriyet](http://www.hurriyetdailynews.com/turkish-military-shells-isil-after-projectiles-hit-southeastern-province.aspx?pageID=238&nID=97449&NewsCatID=352)
+
+### Related:
+
+1. [At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-fighter-jets-on-the-town-of-al-bab-in-the-last-24-hours.md) _Context: Turkish, Turkish troops_
+2. [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md) _Context: Turkish, Turkish troops_
+3. [At least seven people are killed and eight are injured after a helicopter carrying Turkish Armed Forces personnel crashes in Turkey's northern Giresun Province, on the Black Sea coast. ](/news/2016/07/5/at-least-seven-people-are-killed-and-eight-are-injured-after-a-helicopter-carrying-turkish-armed-forces-personnel-crashes-in-turkey-s-northe.md) _Context: Turkish, Turkish troops_
+4. [Turkey declares a curfew in the town of Yuksekova on the border with Iran as Turkish forces prepare an offensive against the PKK. ](/news/2016/03/13/turkey-declares-a-curfew-in-the-town-of-ya1-4ksekova-on-the-border-with-iran-as-turkish-forces-prepare-an-offensive-against-the-pkk.md) _Context: Turkish, Turkish troops_
+5. [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md) _Context: Turkish, Turkish troops_
+6. [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md) _Context: Turkish, Turkish troops_
+7. [Turkey refuses to withdraw its forces from northern Iraq despite being given a 48 hour ultimatum by Iraq to leave the country. Turkey says the troops are there as part of an international mission to train and equip Iraqi forces to fight against the Islamic State. The Iraqi government says it never invited such a force, and will take its case to the United Nations if they are not pulled out. ](/news/2015/12/7/turkey-refuses-to-withdraw-its-forces-from-northern-iraq-despite-being-given-a-48-hour-ultimatum-by-iraq-to-leave-the-country-turkey-says-t.md) _Context: Turkish, Turkish troops_
+8. [Iraq's government gives Turkey 48 hours to withdraw its forces from northern Iraq or face "all available options", including recourse to the UN Security Council. ](/news/2015/12/6/iraq-s-government-gives-turkey-48-hours-to-withdraw-its-forces-from-northern-iraq-or-face-all-available-options-including-recourse-to-the.md) _Context: Turkish, Turkish troops_
+9. [The Syrian Observatory for Human Rights reports that at least 50 United States military instructors have deployed to northern Syria from Turkey and Iraq to train Kurdish forces ahead of an assault on ISIL's de facto capital Al-Raqqah. ](/news/2015/11/30/the-syrian-observatory-for-human-rights-reports-that-at-least-50-united-states-military-instructors-have-deployed-to-northern-syria-from-tur.md) _Context: Military intervention against ISIL, Turkish_
+10. [ The U.S. deploys around a dozen A-10 ground-attack planes to Turkey's southern Incirlik Air Base. A U.S. military official said the deployment had "added capability" to the coalition's efforts against ISIL in Iraq and Syria. ](/news/2015/10/20/the-u-s-deploys-around-a-dozen-a-10-ground-attack-planes-to-turkey-s-southern-incirlik-air-base-a-u-s-military-official-said-the-deploym.md) _Context: Military intervention against ISIL, Turkish_

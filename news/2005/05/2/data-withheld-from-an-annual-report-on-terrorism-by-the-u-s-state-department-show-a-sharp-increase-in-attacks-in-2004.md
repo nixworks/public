@@ -1,0 +1,23 @@
+### [2005-05-2](/news/2005/05/2/index.md)
+
+#  Data withheld from an annual report on terrorism by the U.S. State Department show a sharp increase in attacks in 2004. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4488513.stm)
+
+### Related:
+
+1. [  The United States Department of State's annual report on terrorism states that al-Qaeda "has reconstituted some of its pre-9/11 operational capabilities" in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/04/30/the-united-states-department-of-state-s-annual-report-on-terrorism-states-that-al-qaeda-has-reconstituted-some-of-its-pre-9-11-operationa.md) _Context: State Department, terrorism_
+2. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: terrorism_
+3. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: terrorism_
+4. [U.S. immigration suspension, ''State of Washington v. Trump''The Department of Homeland Security says it has stopped enforcing the executive order per Judge James Robart's ruling in ''State of Washington v. Trump''. The State Department activates visas that had been previously suspended because of this order. ](/news/2017/02/4/u-s-immigration-suspension-state-of-washington-v-trump-pthe-department-of-homeland-security-says-it-has-stopped-enforcing-the-executiv.md) _Context: State Department_
+5. [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police  do not believe  terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md) _Context: terrorism_
+6. [Patrick F. Kennedy, Joyce Anne Barr, Michele Thoren Bond and Gentry O. Smith resign from the United States Department of State, after Victoria Nuland and Gregory B. Starr had declined to stay on in the Donald Trump administration. ](/news/2017/01/26/patrick-f-kennedy-joyce-anne-barr-michele-thoren-bond-and-gentry-o-smith-resign-from-the-united-states-department-of-state-after-victor.md) _Context: State Department_
+7. [Turkey probes around 10,000 social media users for allegedly insulting government officials or supporting "terror-related activity." ](/news/2016/12/25/turkey-probes-around-10-000-social-media-users-for-allegedly-insulting-government-officials-or-supporting-terror-related-activity.md) _Context: terrorism_
+8. [The Kremlin says almost all communications channels with the United States are frozen. The U.S. State Department says the dialogue with Russia continues despite their differences. ](/news/2016/12/21/the-kremlin-says-almost-all-communications-channels-with-the-united-states-are-frozen-the-u-s-state-department-says-the-dialogue-with-russ.md) _Context: State Department_
+9. [United States State Department blocks the sale of firearms to the Philippines due to concerns of human rights violations. ](/news/2016/11/2/united-states-state-department-blocks-the-sale-of-firearms-to-the-philippines-due-to-concerns-of-human-rights-violations.md) _Context: State Department_
+10. [Between four and 20 people are reported killed by government and Russian  airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo,  says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md) _Context: State Department_

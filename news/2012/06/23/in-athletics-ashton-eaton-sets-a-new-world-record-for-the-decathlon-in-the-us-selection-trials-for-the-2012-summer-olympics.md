@@ -1,0 +1,23 @@
+### [2012-06-23](/news/2012/06/23/index.md)
+
+# In athletics, Ashton Eaton sets a new world record for the decathlon in the US selection trials for the 2012 Summer Olympics. 
+
+Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
+
+
+### Source:
+
+1. [AP via ABC News America](http://abcnews.go.com/Sports/wireStory/gay-makes-10-seconds-flat-16636976#.T-Zq6Rdo3TA)
+
+### Related:
+
+1. [Ten Olympic weightlifters fail a drug test in a reanalysis of samples from the 2012 Summer Olympics. Among them are four Kazakh gold medalists: Ilya Ilyin, Zulfiya Chinshanlo, Svetlana Podobedova and Maiya Maneza. The other athletes represent Azerbaijan, Belarus, Russia, and  Ukraine. All ten lifters are provisionally suspended by the International Weightlifting Federation and are expected to be stripped of their titles. ](/news/2016/06/16/ten-olympic-weightlifters-fail-a-drug-test-in-a-reanalysis-of-samples-from-the-2012-summer-olympics-among-them-are-four-kazakh-gold-medalis.md) _Context: 2012 Summer Olympics_
+2. [Six Russian athletes are to be stripped of the medals they won at World and European championships in 2010 and 2011 and the 2012 Summer Olympics following a ruling by the Court of Arbitration for Sport. The athletes affected are Sergei Balukin, Valeriy Borchin, Vladimir Kanaikin, Olga Kaniskina, Yulia Zaripova and Sergey Kirdyapkin. The ruling means Kirdyapkin is set to lose his gold medal won at the 2012 Olympics. ](/news/2016/03/24/six-russian-athletes-are-to-be-stripped-of-the-medals-they-won-at-world-and-european-championships-in-2010-and-2011-and-the-2012-summer-olym.md) _Context: 2012 Summer Olympics_
+3. [A World Anti-Doping Agency investigation into a Russian doping scandal recommends the suspension of Russian athletes from international competition and lifetime bans for five athletes, four coaches and an administrator. Among the athletes are London Olympic medalists Mariya Savinova-Farnosova and Ekaterina Poistogova. ](/news/2015/11/9/a-world-anti-doping-agency-investigation-into-a-russian-doping-scandal-recommends-the-suspension-of-russian-athletes-from-international-comp.md) _Context: 2012 Summer Olympics_
+4. [In athletics, six athletes are announced to have failed drug tests including American Tyson Gay and Jamaican Asafa Powell. ](/news/2013/07/14/in-athletics-six-athletes-are-announced-to-have-failed-drug-tests-including-american-tyson-gay-and-jamaican-asafa-powell.md) _Context: athletics_
+5. [In athletics, Tsegaye Kebede wins the 2013 London Marathon men's race; Priscah Jeptoo wins the women's race. ](/news/2013/04/21/in-athletics-tsegaye-kebede-wins-the-2013-london-marathon-men-s-race-priscah-jeptoo-wins-the-women-s-race.md) _Context: athletics_
+6. [South African amputee sprint runner Oscar Pistorius, who competed in the 2012 Summer Olympics, is charged with the murder of his girlfriend, Reeva Steenkamp, who was shot dead at Pistorius's home in Pretoria. ](/news/2013/02/14/south-african-amputee-sprint-runner-oscar-pistorius-who-competed-in-the-2012-summer-olympics-is-charged-with-the-murder-of-his-girlfriend.md) _Context: 2012 Summer Olympics_
+7. [Elizabeth II addresses her Commonwealth subjects in her annual Royal Christmas Message, referring to the 2012 Summer Olympics in London and the "humbling" experience of her diamond jubilee celebrations. Her speech - the first to be broadcast in 3D - does not include mention the recently-announced pregnancy of Catherine, Duchess of Cambridge, wife of her eldest grandson. ](/news/2012/12/25/elizabeth-ii-addresses-her-commonwealth-subjects-in-her-annual-royal-christmas-message-referring-to-the-2012-summer-olympics-in-london-and.md) _Context: 2012 Summer Olympics_
+8. [In athletics, Jamaican sprinter Usain Bolt and American sprinter Allyson Felix are named 2012 IAAF World Athletes of the Year. ](/news/2012/11/24/in-athletics-jamaican-sprinter-usain-bolt-and-american-sprinter-allyson-felix-are-named-2012-iaaf-world-athletes-of-the-year.md) _Context: athletics_
+9. [Official GDP figures indicate the 2012 Summer Olympics helped the UK economy emerge from recession in the three months from July to September, with growth of 1.0%. ](/news/2012/10/25/official-gdp-figures-indicate-the-2012-summer-olympics-helped-the-uk-economy-emerge-from-recession-in-the-three-months-from-july-to-septembe.md) _Context: 2012 Summer Olympics_
+10. [2012 Summer Olympics:Ireland's Katie Taylor wins gold by defeating Russia's Sofya Ochigava in the women's boxing event at ExCeL London. ](/news/2012/08/9/2012-summer-olympics-pireland-s-katie-taylor-wins-gold-by-defeating-russia-s-sofya-ochigava-in-the-women-s-boxing-event-at-excel-london.md) _Context: 2012 Summer Olympics_

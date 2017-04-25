@@ -1,0 +1,24 @@
+### [2011-03-11](/news/2011/03/11/index.md)
+
+# Taiwan's opposition leader Tsai Ing-wen launches her presidential bid. 
+
+
+
+
+### Source:
+
+1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201103110013&Type=aIPL)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_644019.html)
+
+### Related:
+
+1. [Voters in the Republic of China go to the polls for the 2012 presidential election. Incumbent President Ma Ying-jeou ultimately wins re-election with 51% of the vote, defeating Democratic Progressive Party chairwoman Tsai Ing-wen. ](/news/2012/01/14/voters-in-the-republic-of-china-go-to-the-polls-for-the-2012-presidential-election-incumbent-president-ma-ying-jeou-ultimately-wins-re-elec.md) _Context: Taiwan, Tsai Ing-wen, presidential election_
+2. [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md) _Context: Tsai Ing-wen_
+3. [ China resumes diplomatic ties with Sao Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sapso-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md) _Context: Taiwan_
+4. [United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-ing-wen-the-first-known-contact-bet.md) _Context: Tsai Ing-wen_
+5. [Taiwanese president Tsai Ing-wen refutes accusations that she would have interpreted the 1992 consensus differently. ](/news/2016/07/25/taiwanese-president-tsai-ing-wen-refutes-accusations-that-she-would-have-interpreted-the-1992-consensus-differently.md) _Context: Tsai Ing-wen_
+6. [Taiwanese President Tsai Ing-wen rejects a supposed deadline set by Chinese President Xi Jinping for accepting the 1992 Consensus, saying such a deadline is against the will of the people. ](/news/2016/07/22/taiwanese-president-tsai-ing-wen-rejects-a-supposed-deadline-set-by-chinese-president-xi-jinping-for-accepting-the-1992-consensus-saying-su.md) _Context: Tsai Ing-wen_
+7. [China cancels an invitation to a Taiwanese children's choir after it performed the island's national anthem at last month's inauguration of President Tsai Ing-wen; the Puzangalan Choir consisting of children from the Paiwan aboriginal tribe had been due to take part in a choral festival in Guangdong province in July. ](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.md) _Context: Tsai Ing-wen_
+8. [Chinese state media Xinhua News Agency criticizes Taiwan President Tsai Ing-wen as politically extreme and lacking emotional balance because she is unmarried and does not have children. ](/news/2016/05/26/chinese-state-media-xinhua-news-agency-criticizes-taiwan-president-tsai-ing-wen-as-politically-extreme-and-lacking-emotional-balance-because.md) _Context: Tsai Ing-wen_
+9. [Tsai Ing-wen is sworn in as the first female President of Taiwan. ](/news/2016/05/20/tsai-ing-wen-is-sworn-in-as-the-first-female-president-of-taiwan.md) _Context: Tsai Ing-wen_
+10. [China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast-just-days-before-the-i.md) _Context: Tsai Ing-wen_

@@ -1,0 +1,24 @@
+### [2014-05-5](/news/2014/05/5/index.md)
+
+# 2014 pro-Russian unrest in Ukraine and the A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued.  
+
+
+
+
+### Source:
+
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_MOLDOVA_UKRAINE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2014-05-05-16-48-17)
+2. [CNN](http://www.cnn.com/2014/05/05/world/europe/ukraine-crisis/index.html)
+
+### Related:
+
+1. [2014 pro-Russian unrest in Ukraine:Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk.  ](/news/2014/06/3/2014-pro-russian-unrest-in-ukraine-pheavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-re.md) _Context: 2014 pro-Russian unrest in Ukraine, Sloviansk, eastern Ukraine_
+2. [2014 pro-Russian unrest in Ukraine and the The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. ](/news/2014/05/2/2014-pro-russian-unrest-in-ukraine-and-the-the-armed-forces-of-ukraine-launch-a-military-operation-against-separatists-in-the-city-of-slovia.md) _Context: 2014 pro-Russian unrest in Ukraine, Siege of Sloviansk, Sloviansk_
+3. [Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.md) _Context: 2014 pro-Russian unrest in Ukraine, Sloviansk_
+4. [2014 pro-Russian unrest in Ukraine:Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant.  ](/news/2014/05/13/2014-pro-russian-unrest-in-ukraine-pvalery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-ass.md) _Context: 2014 pro-Russian unrest in Ukraine, eastern Ukraine_
+5. [2014 pro-Russian unrest in Ukraine:Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk.  ](/news/2014/05/1/2014-pro-russian-unrest-in-ukraine-ppro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md) _Context: 2014 pro-Russian unrest in Ukraine, eastern Ukraine_
+6. [2014 pro-Russian unrest in Ukraine:Pro-Russian militants in the eastern Ukrainian city of Luhansk seize the regional administration's headquarters, resulting in a tense standoff with the militants and security personnel. ](/news/2014/04/29/2014-pro-russian-unrest-in-ukraine-ppro-russian-militants-in-the-eastern-ukrainian-city-of-luhansk-seize-the-regional-administration-s-headq.md) _Context: 2014 pro-Russian unrest in Ukraine, eastern Ukraine_
+7. [2014 pro-Russian unrest in Ukraine:The Ukrainian government says it's regained control of the city hall in the eastern port of Mariupol from pro-Russian separatists. Administrative buildings have been taken over in at least a dozen towns in Eastern Ukraine. ](/news/2014/04/24/2014-pro-russian-unrest-in-ukraine-pthe-ukrainian-government-says-it-s-regained-control-of-the-city-hall-in-the-eastern-port-of-mariupol-fro.md) _Context: 2014 pro-Russian unrest in Ukraine, eastern Ukraine_
+8. [2014 pro-Russian unrest in Ukraine:Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-prussian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mili.md) _Context: 2014 pro-Russian unrest in Ukraine, Sloviansk_
+9. [According to pro-Russian militants, the bodies of two pro-Russian militants are pulled from the Seversky Donets River in Sloviansk, Ukraine, with both having multiple stab wounds. The claim could not be independently verified. ](/news/2014/04/21/according-to-pro-russian-militants-the-bodies-of-two-pro-russian-militants-are-pulled-from-the-seversky-donets-river-in-sloviansk-ukraine.md) _Context: 2014 pro-Russian unrest in Ukraine, Sloviansk_
+10. [2014 pro-Russian unrest in Ukraine:Three people are killed in an attack on check post in Eastern Ukraine manned by pro-Russian supporters. ](/news/2014/04/20/2014-pro-russian-unrest-in-ukraine-pthree-people-are-killed-in-an-attack-on-check-post-in-eastern-ukraine-manned-by-pro-russian-supporters.md) _Context: 2014 pro-Russian unrest in Ukraine, eastern Ukraine_

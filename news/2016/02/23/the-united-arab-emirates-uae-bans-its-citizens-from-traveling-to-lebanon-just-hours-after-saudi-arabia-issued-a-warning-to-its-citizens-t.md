@@ -1,0 +1,23 @@
+### [2016-02-23](/news/2016/02/23/index.md)
+
+# The United Arab Emirates (UAE) bans its citizens from traveling to Lebanon, just hours after Saudi Arabia issued a warning to its citizens to leave Lebanon in retaliation for Lebanon choosing to side with Iran in the Iran-Saudi Arabia proxy conflict and Hezbollah's influence on the Lebanese government. 
+
+Saudi Arabia has cancelled billions of dollars of aid to Lebanon over claims Beirut has sided with Iran in a diplomatic fallout with Riyadh
+
+
+### Source:
+
+1. [Middle East Eye](http://www.middleeasteye.net/news/saudi-arabia-and-uae-tell-citizens-not-go-lebanon-1263867364)
+
+### Related:
+
+1. [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md) _Context: Hezbollah, Iran, Lebanon, Saudi Arabia_
+2. [The Gulf Cooperation Council  formally designates Lebanon's Hezbollah militia a terrorist organization. The GCC  member states are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. ](/news/2016/03/2/the-gulf-cooperation-council-formally-designates-lebanon-s-hezbollah-militia-a-terrorist-organization-the-gcc-member-states-are-bahrain.md) _Context: Hezbollah, Lebanon, Saudi Arabia, United Arab Emirates_
+3. [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md) _Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia, United Arab Emirates_
+4. [Bahrain says it has dismantled a terrorist cell allegedly linked to Iran's Revolutionary Guard and Lebanon's Hezbollah. ](/news/2016/01/6/bahrain-says-it-has-dismantled-a-terrorist-cell-allegedly-linked-to-iran-s-revolutionary-guard-and-lebanon-s-hezbollah.md) _Context: Hezbollah, Iran, Lebanon_
+5. [Sudan and Bahrain follow Saudi Arabia's lead and cut diplomatic relations with Iran, and the United Arab Emirates downgrades diplomatic ties. ](/news/2016/01/4/sudan-and-bahrain-follow-saudi-arabia-s-lead-and-cut-diplomatic-relations-with-iran-and-the-united-arab-emirates-downgrades-diplomatic-ties.md) _Context: Iran, Saudi Arabia, United Arab Emirates_
+6. [Iran is invited to attend the next round of  talks  over Syria's future, along with the representatives from the United States, Russia, Saudi Arabia, Turkey, Britain, France, Germany, Jordan,  the United Arab Emirates, and the United Nations mediator for Syria, Staffan de Mistura. The next round of the "Vienna II" meeting is expected to start tomorrow and continue Friday in Vienna, Austria. ](/news/2015/10/27/iran-is-invited-to-attend-the-next-round-of-talks-over-syria-s-future-along-with-the-representatives-from-the-united-states-russia-saud.md) _Context: Iran, Saudi Arabia, United Arab Emirates_
+7. [Syrian Civil War:Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-pfriends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _Context: Hezbollah, Iran, Lebanon_
+8. [Saudi Arabia police arrest one Iranian, one Lebanese and 16 Saudis on charges of spying. ](/news/2013/03/19/saudi-arabia-police-arrest-one-iranian-one-lebanese-and-16-saudis-on-charges-of-spying.md) _Context: Iran, Lebanon, Saudi Arabia_
+9. [A pan-Arab satellite television channel, Al Mayadeen ("The Squares" in Arabic), is launched in Lebanon that is speculated to be a mouthpiece for Iran and Hezbollah. ](/news/2012/06/11/a-pan-arab-satellite-television-channel-al-mayadeen-the-squares-in-arabic-is-launched-in-lebanon-that-is-speculated-to-be-a-mouthpiece.md) _Context: Hezbollah, Iran, Lebanon_
+10. [Azerbaijan's National Security Ministry says it has uncovered a terrorist plot aimed at Jewish targets organized by a non-state group linked to Iran's Revolutionary Guard and Lebanon's Hezbollah. ](/news/2012/02/22/azerbaijan-s-national-security-ministry-says-it-has-uncovered-a-terrorist-plot-aimed-at-jewish-targets-organized-by-a-non-state-group-linked.md) _Context: Hezbollah, Iran, Lebanon_

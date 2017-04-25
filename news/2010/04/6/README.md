@@ -1,0 +1,67 @@
+## [2010-04-6](/news/2010/04/6/index.md)
+
+### [Israeli-Palestinian conflict:Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks.  ](/news/2010/04/6/israeliapalestinian-conflict-ppalestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement-t.md)
+Israeli officials: Let’s wait and see; Kassam hits Negev, causing no harm.
+
+### [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md)
+In one of the bloodiest attacks on security forces, Naxals trapped and gunned down 75 personnel during a joint &quot;Operation Green Hunt&quot; offensive against the ultras in the thick forests of Mukrana in Dantewada district. 
+
+### [Iraq War: At least eight explosions rock Baghdad and kill at least 35 people and wound over 140 others. ](/news/2010/04/6/iraq-war-at-least-eight-explosions-rock-baghdad-and-kill-at-least-35-people-and-wound-over-140-others.md)
+String of attacks on residential buildings across Iraqi capital leaves dozens dead.
+
+### [Kyrgyz Revolution of 2010: Hundreds of protesters seize a government office in Bishkek to request the resignition of Kurmanbek Bakiyev after battling flashbangs and lachrymators. A local governor is taken hostage by protesters. Hundreds surround police HQ. Almazbek Atambayev is seized by police. There are riots in Talas. ](/news/2010/04/6/kyrgyz-revolution-of-2010-hundreds-of-protesters-seize-a-government-office-in-bishkek-to-request-the-resignition-of-kurmanbek-bakiyev-after.md)
+_Context: Almazbek Atambayev, Bishkek, Kurmanbek Bakiyev, Second Kyrgyz Revolution, Talas, flashbang, tear gas_
+
+### [Piracy in Somalia: A South Korean warship catches up with an oil tanker that was hijacked by Somali pirates in the Indian Ocean. ](/news/2010/04/6/piracy-in-somalia-a-south-korean-warship-catches-up-with-an-oil-tanker-that-was-hijacked-by-somali-pirates-in-the-indian-ocean.md)
+A South Korean destroyer caught up with a supertanker hijacked by Somali pirates in the Indian Ocean Sunday, the Ministry of Foreign Affairs and Trade said Tuesday.
+
+### [Vigils and a musical requiem are among a series of events held in L'Aquila to mark the first anniversary of one of Europe's largest post-war natural disasters. ](/news/2010/04/6/vigils-and-a-musical-requiem-are-among-a-series-of-events-held-in-l-aquila-to-mark-the-first-anniversary-of-one-of-europe-s-largest-post-war.md)
+_Context: 2009 L'Aquila earthquake, L'Aquila_
+
+### [AOL announces it is to sell or shut down Bebo two years after purchasing it. ](/news/2010/04/6/aol-announces-it-is-to-sell-or-shut-down-bebo-two-years-after-purchasing-it.md)
+_Context: AOL, Bebo_
+
+### [United States Court of Appeals for the District of Columbia Circuit rules that the FCC cannot enforce net neutrality and that Comcast can limit its customers' access to BitTorrent. ](/news/2010/04/6/united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-that-the-fcc-cannot-enforce-net-neutrality-and-that-comcast-can-li.md)
+A ruling would let providers slow down access to certain content and favor their services over those of competitors.
+
+### [About 103 people are killed in flooding and mudslides in Rio de Janeiro state in Brazil.  Of the total, thirty-three people died in the city of Rio de Janeiro, while 33 were killed in the neighbouring city of Niteroi, 12 people dead in Sao Goncalo, and one in Petropolis.  ](/news/2010/04/6/about-103-people-are-killed-in-flooding-and-mudslides-in-rio-de-janeiro-state-in-brazil-of-the-total-thirty-three-people-died-in-the-city.md)
+Torrential rain leads to mudslides, leaving at least 95 dead in Rio de Janeiro state.
+
+### [Details of North Korea's own Red Star operating system emerge. ](/news/2010/04/6/details-of-north-korea-s-own-red-star-operating-system-emerge.md)
+_Context: North Korea, Red Star operating system_
+
+### [Prime Minister of Turkey Recep Tayyip Erdogan, speaking about 100,000 Armenian illegal immigrants currently living in Turkey, says "I may have to tell these 100,000 to go back to their country because they are not my citizens. I don't have to keep them in my country". ](/news/2010/04/6/prime-minister-of-turkey-recep-tayyip-erdoaan-speaking-about-100-000-armenian-illegal-immigrants-currently-living-in-turkey-says-i-may-h.md)
+_Context: Armenia, Prime Minister, Recep Tayyip Erdoğan, Turkish_
+
+### [Hackers based in China access classified Indian documents, emails of the Dalai Lama, offices of the United Nations and the Pakistani embassy in the United States. ](/news/2010/04/6/hackers-based-in-china-access-classified-indian-documents-emails-of-the-dalai-lama-offices-of-the-united-nations-and-the-pakistani-embassy.md)
+Chinese hackers have pilfered classified documents from the India&rsquo;s security, defense, and diplomatic establishment, including assessments of the Maoist and Naxalite movements.
+
+### [Turkish police arrest at least 14 military officers, including four generals, accused of a 2003 coup plot. ](/news/2010/04/6/turkish-police-arrest-at-least-14-military-officers-including-four-generals-accused-of-a-2003-coup-plot.md)
+Police detain at least 14 military officers over alleged plot to topple government.
+
+### [Baton-wielding Egyptian police disperse a pro-democracy demonstration in Cairo. ](/news/2010/04/6/baton-wielding-egyptian-police-disperse-a-pro-democracy-demonstration-in-cairo.md)
+_Context: Cairo, Egypt_
+
+### [South African police build a barricade from razor wire to curtail people scuffles outside Ventersdorp Magistrate's court where two farm workers, aged 15 and 28, are charged with Saturday's murder of white supremacist leader Eugene Terre'Blanche. ](/news/2010/04/6/south-african-police-build-a-barricade-from-razor-wire-to-curtail-people-scuffles-outside-ventersdorp-magistrate-s-court-where-two-farm-work.md)
+_Context: Eugène Terre'Blanche, South Africa, Ventersdorp_
+
+### [President of Yemen Ali Abdullah Saleh frees prisoners as part of its support for the cease-fire. ](/news/2010/04/6/president-of-yemen-ali-abdullah-saleh-frees-prisoners-as-part-of-its-support-for-the-cease-fire.md)
+_Context: Saleh, Yemen, Yemeni President_
+
+### [Campaigning ahead of Sri Lanka's parliamentary election comes to an end. ](/news/2010/04/6/campaigning-ahead-of-sri-lanka-s-parliamentary-election-comes-to-an-end.md)
+Opposition vows to deny ruling party the majority needed to enact constitution changes.
+
+### [British Prime Minister Gordon Brown calls a general election for 6 May. ](/news/2010/04/6/british-prime-minister-gordon-brown-calls-a-general-election-for-6-may.md)
+Prime minister confirms May 6 as date for vote that could see his Labour party ousted.
+
+### [Lord Saville is asked to hold back until after the UK general election the publication of the Bloody Sunday (1972) report into the killing of 14 unarmed civil rights protesters by British Army paratroopers in Bogside, Derry. ](/news/2010/04/6/lord-saville-is-asked-to-hold-back-until-after-the-uk-general-election-the-publication-of-the-bloody-sunday-1972-report-into-the-killing-o.md)
+The Bloody Sunday report into the death of 14 people at the hands of the British Army will not be published until after the UK election.
+
+### [Nigeria's acting President Goodluck Jonathan inaugurates a new Cabinet. ](/news/2010/04/6/nigeria-s-acting-president-goodluck-jonathan-inaugurates-a-new-cabinet.md)
+_Context: Goodluck Jonathan, Nigeria_
+
+### [Announcement of first animals that spent their entire lives without oxygen were discovered in depths of Mediterranean Sea. They belong to three new species from phylum Loricifera. ](/news/2010/04/6/announcement-of-first-animals-that-spent-their-entire-lives-without-oxygen-were-discovered-in-depths-of-mediterranean-sea-they-belong-to-th.md)
+Several unicellular organisms (prokaryotes and protozoa) can live under permanently anoxic conditions. Although a few metazoans can survive temporarily in the absence of oxygen, it is believed that multi-cellular organisms cannot spend their entire life cycle without free oxygen. Deep seas include some of the most extreme ecosystems on Earth, such as the deep hypersaline anoxic basins of the Mediterranean Sea. These are permanently anoxic systems inhabited by a huge and partly unexplored microbial biodiversity. During the last ten years three oceanographic expeditions were conducted to search for the presence of living fauna in the sediments of the deep anoxic hypersaline L&#x27;Atalante basin (Mediterranean Sea). We report here that the sediments of the L&#x27;Atalante basin are inhabited by three species of the animal phylum Loricifera (Spinoloricus nov. sp., Rugiloricus nov. sp. and Pliciloricus nov. sp.) new to science. Using radioactive tracers, biochemical analyses, quantitative X-ray microanalysis and infrared spectroscopy, scanning and transmission electron microscopy observations on ultra-sections, we provide evidence that these organisms are metabolically active and show specific adaptations to the extreme conditions of the deep basin, such as the lack of mitochondria, and a large number of hydrogenosome-like organelles, associated with endosymbiotic prokaryotes. This is the first evidence of a metazoan life cycle that is spent entirely in permanently anoxic sediments. Our findings allow us also to conclude that these metazoans live under anoxic conditions through an obligate anaerobic metabolism that is similar to that demonstrated so far only for unicellular eukaryotes. The discovery of these life forms opens new perspectives for the study of metazoan life in habitats lacking molecular oxygen.
+
+## [Previous Day...](/news/2010/04/5/index.md)
+

@@ -1,0 +1,23 @@
+### [2014-09-11](/news/2014/09/11/index.md)
+
+# Syrian Civil War:The al-Qaeda-linked Nusra Front releases dozens of Fijian United Nations peacekeepers captured near the Golan Heights. 
+
+Dozens of Fijian U.N. peacekeepers, released by al Qaeda-linked group Nusra Front in Syria, arrived in Israeli-held territory on the Golan Heights on Thursday, an Israeli military spokeswoman said.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2014/09/11/us-syria-crisis-fiji-idUSKBN0H60C120140911?feedType=RSS&feedName=topNews)
+
+### Related:
+
+1. [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md) _Context: Nusra Front, Syrian Civil War, al-Qaeda_
+2. [Syrian Civil War:Thirty-two United Nations peacekeepers from the Philippines were evacuated under fire from the Golan Heights border checkpoint between Syria and Israel, while others remain under fire from groups including the Al-Nusra Front. ](/news/2014/08/31/syrian-civil-war-pthirty-two-united-nations-peacekeepers-from-the-philippines-were-evacuated-under-fire-from-the-golan-heights-border-checkp.md) _Context: Golan Heights, Syrian Civil War, United Nations_
+3. [Syrian Civil War: United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/syrian-civil-war-punited-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _Context: Golan Heights, Syrian Civil War, United Nations_
+4. [Syrian civil war:Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/syrian-civil-war-pfour-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-isr.md) _Context: Golan Heights, Syrian Civil War, United Nations_
+5. [Syrian civil war: Three Syrian tanks have entered the demilitarized zone in the Golan Heights. Israel has launched a formal complaint to the United Nations. ](/news/2012/11/13/syrian-civil-war-pthree-syrian-tanks-have-entered-the-demilitarized-zone-in-the-golan-heights-israel-has-launched-a-formal-complaint-to-th.md) _Context: Golan Heights, Syrian Civil War, United Nations_
+6. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Syrian Civil War, al-Qaeda_
+7. [United Nations officials announce the creation of a new team in Geneva to investigate possible war crimes, crimes against humanity and genocide during the Syrian Civil War in order to prepare for future prosecutions of those responsible. ](/news/2017/02/16/united-nations-officials-announce-the-creation-of-a-new-team-in-geneva-to-investigate-possible-war-crimes-crimes-against-humanity-and-genoc.md) _Context: Syrian Civil War, United Nations_
+8. [Russia begins to withdraw its forces from Syria, with its aircraft carrier battle group being the first to leave. The United Nations says the ceasefire is "largely holding". ](/news/2017/01/6/russia-begins-to-withdraw-its-forces-from-syria-with-its-aircraft-carrier-battle-group-being-the-first-to-leave-the-united-nations-says-th.md) _Context: Syrian Civil War, United Nations_
+9. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Syrian Civil War, United Nations_
+10. [The Obama administration claims that Russia was responsible for the bombing of a United Nations aid convoy near Aleppo on September 19. Russia denies its involvement. In the aftermath of the attack, the United Nations suspends all aid convoys in Syria. ](/news/2016/09/21/the-obama-administration-claims-that-russia-was-responsible-for-the-bombing-of-a-united-nations-aid-convoy-near-aleppo-on-september-19-russ.md) _Context: Syrian Civil War, United Nations_

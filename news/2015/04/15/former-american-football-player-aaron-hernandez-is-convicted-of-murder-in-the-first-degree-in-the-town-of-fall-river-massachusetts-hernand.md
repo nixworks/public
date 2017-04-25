@@ -1,0 +1,23 @@
+### [2015-04-15](/news/2015/04/15/index.md)
+
+# Former American football player Aaron Hernandez is convicted of murder in the first degree in the town of Fall River, Massachusetts. Hernandez shot a former friend Odin Lloyd in 2013. He was automatically sentenced to life in prison without parole. 
+
+
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2015/04/15/us/aaron-hernandez-verdict/)
+
+### Related:
+
+1. [Former New England Patriots player Aaron Hernandez, acquitted last week of a 2012 double murder but serving a life sentence for a 2013 murder, is found hanged in his prison cell, and is pronounced dead an hour later. ](/news/2017/04/19/former-new-england-patriots-player-aaron-hernandez-acquitted-last-week-of-a-2012-double-murder-but-serving-a-life-sentence-for-a-2013-murde.md) _Context: 2013 murder, Aaron Hernandez_
+2. [Former New England Patriots tight end Aaron Hernandez is formally charged with murder in the US state of Massachusetts more than a week after the body of former semi-professional American football player Odin Lloyd is found near his home. ](/news/2013/06/26/former-new-england-patriots-tight-end-aaron-hernandez-is-formally-charged-with-murder-in-the-us-state-of-massachusetts-more-than-a-week-afte.md) _Context: Aaron Hernandez, American football_
+3. [2016 NCAA Division I FBS football season (American football) Lamar Jackson of the Louisville Cardinals wins the Heisman Trophy. At 19, Jackson is the youngest ever winner of the Trophy. ](/news/2016/12/10/2016-ncaa-division-i-fbs-football-season-american-football-p-lamar-jackson-of-the-louisville-cardinals-wins-the-heisman-trophy-at-19-jack.md) _Context: American football_
+4. [In American football, a United States appeals court has denied New England Patriots quarterback Tom Brady's appeal for his role in the Deflategate controversy. ](/news/2016/07/13/in-american-football-a-united-states-appeals-court-has-denied-new-england-patriots-quarterback-tom-brady-s-appeal-for-his-role-in-the-defla.md) _Context: American football_
+5. [In American football, Twitter wins the bidding contest over Amazon, Verizon, and others, for streaming rights to 10 of 16 National Football League (NFL) regular season ''Thursday Night Football Games'', ones that will also be telecast by either CBS or NBC. The league streamed one game last year with Yahoo!. Verizon, meanwhile, already owns the mobile rights to all NFL games which are available to subscribers via a mobile app; the 10 NFL games on Twitter will be free. ](/news/2016/04/5/in-american-football-twitter-wins-the-bidding-contest-over-amazon-verizon-and-others-for-streaming-rights-to-10-of-16-national-football.md) _Context: American football_
+6. [In American football, the National Football League starts its draft for the 2016 NFL season with the Los Angeles Rams choosing Jared Goff with the first pick. ](/news/2016/04/28/in-american-football-the-national-football-league-starts-its-draft-for-the-2016-nfl-season-with-the-los-angeles-rams-choosing-jared-goff-wi.md) _Context: American football_
+7. [American football quarterback Peyton Manning retires after eighteen seasons in the National Football League with two Super Bowl championships, five MVP awards, and single-season and career league records for most passing yards and touchdown passes. ](/news/2016/03/7/american-football-quarterback-peyton-manning-retires-after-eighteen-seasons-in-the-national-football-league-with-two-super-bowl-championship.md) _Context: American football_
+8. [The National Football League's top health and safety official acknowledges a link between American football and chronic traumatic encephalopathy. ](/news/2016/03/14/the-national-football-league-s-top-health-and-safety-official-acknowledges-a-link-between-american-football-and-chronic-traumatic-encephalop.md) _Context: American football_
+9. [The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who  have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. ](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.md) _Context: parole_
+10. [In American football, the Denver Broncos defeat the Carolina Panthers 24-10 in Super Bowl 50. Broncos outside linebacker Von Miller is named as the game's Most Valuable Player.  ](/news/2016/02/7/in-american-football-the-denver-broncos-defeat-the-carolina-panthers-24a10-in-super-bowl-50-broncos-outside-linebacker-von-miller-is-nam.md) _Context: American football_

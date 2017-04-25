@@ -1,0 +1,23 @@
+### [2016-01-26](/news/2016/01/26/index.md)
+
+# French taxidrivers, air traffic controllers and school teachers go on strike over working conditions and competition from non-traditional services such as Uber. 
+
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+
+### Source:
+
+1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/french-schools-taxis-strike-36518454)
+
+### Related:
+
+1. [French air traffic controllers begin strike action with the south of France expected to be worst affected. ](/news/2013/10/10/french-air-traffic-controllers-begin-strike-action-with-the-south-of-france-expected-to-be-worst-affected.md) _Context: Frenchman, air traffic controller_
+2. [Uber agrees to pay $20 million to settle U.S. Federal Trade Commission claims the company exaggerated prospective earnings and downplayed the  costs of buying/leasing a car when recruiting new drivers. ](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.md) _Context: Uber_
+3. [Uber suspends tests of its self-driving cars in San Francisco, California, after the California Department of Motor Vehicles revoked the registration of the vehicles in the state in response to two red-light violations. ](/news/2016/12/21/uber-suspends-tests-of-its-self-driving-cars-in-san-francisco-california-after-the-california-department-of-motor-vehicles-revoked-the-reg.md) _Context: Uber_
+4. [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md) _Context: Frenchman_
+5. [Uber announces plans to merge its China operations with rival Didi Chuxing with the merge company valued at $35 billion. ](/news/2016/08/1/uber-announces-plans-to-merge-its-china-operations-with-rival-didi-chuxing-with-the-merge-company-valued-at-35-billion.md) _Context: Uber_
+6. [The Saudi Arabian Public Investment Fund raises $3.5 billion for Uber. It is the largest single investment the company has ever received. ](/news/2016/06/1/the-saudi-arabian-public-investment-fund-raises-3-5-billion-for-uber-it-is-the-largest-single-investment-the-company-has-ever-received.md) _Context: Uber_
+7. [Kalamazoo County, Michigan authorities say last evening's shooting spree resulted in six deaths with two others seriously wounded. Each victim was shot multiple times. Police acknowledge that an earlier report that a 14-year-old girl died is incorrect; she is alive, but  "severely, gravely" injured. The suspect, a 45-year-old man who is a Uber driver without a prior criminal record,  was taken into custody without a struggle. ](/news/2016/02/21/kalamazoo-county-michigan-authorities-say-last-evening-s-shooting-spree-resulted-in-six-deaths-with-two-others-seriously-wounded-each-vict.md) _Context: Uber_
+8. [Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with  competitor Lyft in 2014. ](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.md) _Context: Uber_
+9. [The Seattle City Council  unanimously votes  to give Uber, Lyft, and other contract drivers the power to unionize. The Washington city becomes the first in the United States to do so. Seattle Mayor Ed Murray opposes the bill which can still become law without his signature. Court challenges are expected. ](/news/2015/12/14/the-seattle-city-council-unanimously-votes-to-give-uber-lyft-and-other-contract-drivers-the-power-to-unionize-the-washington-city-becom.md) _Context: Uber_
+10. [Authorities search for Belgium-born French national Salah Abdeslam, one of three brothers suspected of involvement in the attacks. Raids are reported to have taken place in Grenoble, Toulouse, Jeumont and the Paris suburb of Bobigny. This contradicts previously published official information that all the perpetrators of the attacks were dead. ](/news/2015/11/16/authorities-search-for-belgium-born-french-national-salah-abdeslam-one-of-three-brothers-suspected-of-involvement-in-the-attacks-raids-are.md) _Context: Frenchman_

@@ -1,0 +1,23 @@
+### [2016-01-19](/news/2016/01/19/index.md)
+
+# Pakistan lifts a three-year ban on YouTube after Google launches a local version that allows the government to demand removal of material it considers to be offensive. Similar systems have existed in China for many years. 
+
+Pakistan said on Monday it had removed a three-year ban on YouTube after the Google-owned video-sharing website launched a local version that allows the government to demand removal of material it considers offensive. Pakistan banned access to YouTube in September 2012 after an anti-Islam film, &quot;
+
+
+### Source:
+
+1. [Reuters via Yahoo](http://finance.yahoo.com/news/pakistan-lifts-ban-youtube-launch-050557383.html)
+
+### Related:
+
+1. [China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-chinaapakistan-economic-corridor-that-connects-the-chin.md) _Context: China, Pakistan_
+2. [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which  would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md) _Context: Pakistan, government_
+3. [Reporters Without Borders releases their annual report regarding press freedom around the world with 71 journalists killed in 2013 so far. The deadliest countries are Syria, India, the Philippines, Pakistan, and Somalia while the worst jailers are China, Turkey, Eritrea, Iran, and Syria. ](/news/2013/12/19/reporters-without-borders-releases-their-annual-report-regarding-press-freedom-around-the-world-with-71-journalists-killed-in-2013-so-far-t.md) _Context: China, Pakistan_
+4. [PRISM (U.S. government surveillance program):The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/prism-u-s-government-surveillance-program-pthe-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data.md) _Context: Google, YouTube_
+5. [The Government of Pakistan decides to accord recognition to the Republic of Kosovo. ](/news/2012/12/24/the-government-of-pakistan-decides-to-accord-recognition-to-the-republic-of-kosovo.md) _Context: Pakistan, government_
+6. [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of ''Innocence of Muslims''. The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-o.md) _Context: Pakistan, government_
+7. [The Pakistani Taliban confirms that it is holding peace talks with the government. ](/news/2011/12/10/the-pakistani-taliban-confirms-that-it-is-holding-peace-talks-with-the-government.md) _Context: Pakistan, government_
+8. [The United States announces the removal of a number of troops from Pakistan, following a request from the Pakistani government. ](/news/2011/05/26/the-united-states-announces-the-removal-of-a-number-of-troops-from-pakistan-following-a-request-from-the-pakistani-government.md) _Context: Pakistan, government_
+9. [Paul Allen's company, Interval Licensing LLC, files a patent infringement lawsuit against Google, Apple Computer, AOL, eBay, Facebook, Netflix, Office Depot, OfficeMax, Staples Inc., Yahoo and YouTube.  ](/news/2010/08/27/paul-allen-s-company-interval-licensing-llc-files-a-patent-infringement-lawsuit-against-google-apple-computer-aol-ebay-facebook-netfl.md) _Context: Google, YouTube_
+10. [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md) _Context: Pakistan, government_

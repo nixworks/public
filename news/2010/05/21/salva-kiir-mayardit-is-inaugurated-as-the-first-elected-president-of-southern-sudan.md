@@ -1,0 +1,25 @@
+### [2010-05-21](/news/2010/05/21/index.md)
+
+# Salva Kiir Mayardit is inaugurated as the first elected president of Southern Sudan. 
+
+Following&#x20;last&#x20;month&#x2019;s&#x20;elections,&#x20;when&#x20;he&#x20;was&#x20;elected&#x20;leader&#x20;of&#x20;the&#x20;semi-autonomous&#x20;southern&#x20;region,&#x20;Salva&#x20;Kiir&#x20;&#x28;pictured&#x29;&#x20;was&#x20;sworn&#x20;in&#x20;as&#x20;president&#x20;at&#x20;a&#x20;ceremony&#x20;in&#x20;Juba&#x20;Friday.&#x20;All&#x20;eyes&#x20;now&#x20;are&#x20;on&#x20;a&#x20;referendum&#x20;set&#x20;for&#x20;Jan.
+
+
+### Source:
+
+1. [he Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052101898.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8696881.stm)
+3. [France24](http://www.france24.com/en/20100521-sudan-south-leader-sworn-salva-kiir-president)
+
+### Related:
+
+1. [Salva Kiir Mayardit, the President of Southern Sudan, calls on the government of Sudan to withdraw its forces from the province of Abyei. ](/news/2011/05/26/salva-kiir-mayardit-the-president-of-southern-sudan-calls-on-the-government-of-sudan-to-withdraw-its-forces-from-the-province-of-abyei.md) _Context: Salva Kiir Mayardit, Southern Sudan_
+2. [Sudanese President Omar al-Bashir goes to Juba to meet with Southern Sudanese President of the Government Salva Kiir Mayardit ahead of Southern Sudan's independence referendum. ](/news/2011/01/4/sudanese-president-omar-al-bashir-goes-to-juba-to-meet-with-southern-sudanese-president-of-the-government-salva-kiir-mayardit-ahead-of-south.md) _Context: Salva Kiir Mayardit, Southern Sudan_
+3. [Two top level officials overseeing South Sudan's military courts resign from their posts, accusing the government of interfering in the court's moves to discipline soldiers accused of rape and murder. The resignations come less than a week after a military general and the Minister of Labour resigned in protest of President Salva Kiir Mayardit's alleged approval of atrocities against civilians not belonging to the Dinka group. ](/news/2017/02/19/two-top-level-officials-overseeing-south-sudan-s-military-courts-resign-from-their-posts-accusing-the-government-of-interfering-in-the-cour.md) _Context: Salva Kiir Mayardit_
+4. [South Sudan President Salva Kiir fires six ministers allied to his long-time rival Riek Machar, replacing them  with people linked to a breakaway faction of Machar's SPLM-IO party. ](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-ministers-allied-to-his-long-time-rival-riek-machar-replacing-them-with-people-linked-to-a-brea.md) _Context: Salva Kiir Mayardit_
+5. [Five soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital Juba, with reports of heavy gunfire continuing, despite President Salva Kiir Mayardit and rebel leader Riek Machar having reached a peace deal back in April. ](/news/2016/07/8/five-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions-are-killed-in-clashes-in-the-capital-juba-with-reports-of-heavy.md) _Context: Salva Kiir Mayardit_
+6. [After five days of fighting that left 272 people dead and thousands more displaced in the capital, Juba, President Salva Kiir Mayardit and rebel leader and Vice-President Riek Machar declare a ceasefire. ](/news/2016/07/12/after-five-days-of-fighting-that-left-272-people-dead-and-thousands-more-displaced-in-the-capital-juba-president-salva-kiir-mayardit-and-r.md) _Context: Salva Kiir Mayardit_
+7. [Former Vice President and opposition leader Riek Machar says he will return to the capital Juba on April 18 to form a transitional government with President Salva Kiir Mayardit in the hopes of bringing peace to South Sudan after their acrimonious split ignited more than two years of war. ](/news/2016/04/7/former-vice-president-and-opposition-leader-riek-machar-says-he-will-return-to-the-capital-juba-on-april-18-to-form-a-transitional-governmen.md) _Context: Salva Kiir Mayardit_
+8. [Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. ](/news/2016/04/23/rebel-leader-riek-machar-misses-an-international-deadline-to-return-to-the-capital-juba-to-take-the-post-of-vice-president-machar-was-offer.md) _Context: Salva Kiir Mayardit_
+9. [The President of South Sudan, Salva Kiir Mayardit, sacks his entire government, including the Vice President, Riek Machar. ](/news/2013/07/23/the-president-of-south-sudan-salva-kiir-mayardit-sacks-his-entire-government-including-the-vice-president-riek-machar.md) _Context: Salva Kiir Mayardit_
+10. [The leaders of Sudan and South Sudan, Omar al-Bashir and Salva Kiir Mayardit, respectively, will meet in Addis Ababa to convene for talks regarding escalating tensions is response to Sudan's recent seizure of Abyei. ](/news/2013/01/4/the-leaders-of-sudan-and-south-sudan-omar-al-bashir-and-salva-kiir-mayardit-respectively-will-meet-in-addis-ababa-to-convene-for-talks-re.md) _Context: Salva Kiir Mayardit_

@@ -1,0 +1,25 @@
+### [2013-09-10](/news/2013/09/10/index.md)
+
+# Syrian civil war:Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. 
+
+
+
+
+### Source:
+
+1. [Human Rights Watch](http://www.hrw.org/news/2013/09/10/syria-government-likely-culprit-chemical-attack)
+2. [France 24](http://www.france24.com/en/breaking/20130910-france-propose-un-resolution-syria-chemical-weapons-handover?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130910_1143&ns_linkname=20130910_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+3. [AFP via ''the Australian](http://www.theaustralian.com.au/news/world/barack-obama-denounces-sickening-gas-attack-in-syria-as-he-makes-case-for-action/story-e6frg6so-1226716776098)
+
+### Related:
+
+1. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syria, Syrian Civil War_
+2. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syria, Syrian Civil War_
+3. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Damascus, Syria, Syrian Civil War_
+4. [A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility.  ](/news/2016/02/9/a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Damascus, Syria, Syrian Civil War_
+5. [Syrian rebels fire volleys of mortar shells into Damascus,  killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that  kill at least 35  people and injure many more, according to the Syrian Observatory for Human Rights.  ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-ai.md) _Context: Damascus, Syria, Syrian Civil War_
+6. [Human Rights Watch releases a report finding, because of  a language barrier, integration issues, and financial difficulties, more than 400,000 Syrian refugee children in Turkey are not able to attend school despite the  Turkish government allowing them access to the Turkish schooling system. ](/news/2015/11/9/human-rights-watch-releases-a-report-finding-because-of-a-language-barrier-integration-issues-and-financial-difficulties-more-than-400.md) _Context: Human Rights Watch, Syria, Syrian Civil War_
+7. [Two shells hit the Russian embassy in Syria's capital Damascus, as hundreds of pro-government supporters rallied outside in support of Russian airstrikes. Russian Foreign Minister Sergey Lavrov described the shelling as "a terrorist act." ](/news/2015/10/13/two-shells-hit-the-russian-embassy-in-syria-s-capital-damascus-as-hundreds-of-pro-government-supporters-rallied-outside-in-support-of-russi.md) _Context: Damascus, Syria, Syrian Civil War_
+8. [The United Nations Security Council unanimously adopts a resolution aimed at identifying those responsible for deploying chlorine and other chemical weapons in attacks in Syria. ](/news/2015/08/7/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-identifying-those-responsible-for-deploying-chlorine-and-other.md) _Context: Syria, Syrian Civil War, chemical weapons_
+9. [Syrian Civil War:Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syrian-civil-war-psyria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-proh.md) _Context: Syria, Syrian Civil War, chemical weapons_
+10. [Syrian Civil War:Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-civil-war-psyrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md) _Context: Damascus, Syria, Syrian Civil War_

@@ -1,0 +1,24 @@
+### [2007-01-24](/news/2007/01/24/index.md)
+
+#  In a speech at Brandeis University, former United States President Jimmy Carter apologizes for the wording of a sentence in his recently published book, ''Palestine: Peace Not Apartheid''. He referred to the wording as "stupid" and subsequent reprintings will change it.  Despite the book's controversy, the audience received him with a standing ovation. 
+
+
+
+
+### Source:
+
+1. [JTA](http://www.jta.org/page_view_story.asp?intarticleid=17510&intcategoryid=4)
+2. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=6567&ref=daily_briefing)
+
+### Related:
+
+1. [Former U.S. President Jimmy Carter announces that his latest medical tests show he is cancer-free. Carter, 91, announced in August that a melanoma for which he had been treated had returned. ](/news/2015/12/6/former-u-s-president-jimmy-carter-announces-that-his-latest-medical-tests-show-he-is-cancer-free-carter-91-announced-in-august-that-a-me.md) _Context: Jimmy Carter_
+2. [U.S. President Barack Obama calls on China to stop constructing artificial islands in the South China Sea. Obama's comments to reporters come after a meeting with Philippine President  Benigno S. Aquino III. The U.S. president is in Manila for the latest Asia-Pacific Economic Cooperation summit where the Trans-Pacific Partnership is the central topic of conversation. China attempts to keep the topic of the islands off the agenda. ](/news/2015/11/18/u-s-president-barack-obama-calls-on-china-to-stop-constructing-artificial-islands-in-the-south-china-sea-obamaas-comments-to-reporters-c.md) _Context: U.S. President_
+3. [Former U.S. President Jimmy Carter announceds that his liver cancer (melanoma) has spread to his brain. In addition to radiation, Carter will be treated with a new drug, Keytruda (pembrolizumab), that boosts the immune system without the debilitating side effects of older treatments. ](/news/2015/08/20/former-u-s-president-jimmy-carter-announceds-that-his-liver-cancer-melanoma-has-spread-to-his-brain-in-addition-to-radiation-carter-wil.md) _Context: Jimmy Carter_
+4. [Former U.S. President Jimmy Carter, aged 90, announces that recent liver surgery revealed that he is suffering from an as-yet unspecified form of cancer which has spread to other parts of his body. ](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.md) _Context: Jimmy Carter_
+5. [According to former U.S. President Jimmy Carter, the flu causes his Vice President, Walter Mondale, 87, to be hospitalized at the famed Mayo Clinic, in Rochester, Minnesota. ](/news/2015/03/7/according-to-former-u-s-president-jimmy-carter-the-flu-causes-his-vice-president-walter-mondale-87-to-be-hospitalized-at-the-famed-mayo.md) _Context: Jimmy Carter_
+6. [Monica Lewinsky releases a book recalling her affair with then United States President Bill Clinton. ](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.md) _Context: U.S. President_
+7. [A recommendation against practices by the National Security Agency is presented to United States President Barack Obama. ](/news/2013/12/19/a-recommendation-against-practices-by-the-national-security-agency-is-presented-to-united-states-president-barack-obama.md) _Context: U.S. President_
+8. [U.S. news magazine ''Time'' selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those.md) _Context: Jimmy Carter_
+9. [Current U.S. officials and former president Jimmy Carter disagree over allegations that the U.S. is deliberately keeping food aid from North Korea despite severe food shortages among people there. ](/news/2011/04/30/current-u-s-officials-and-former-president-jimmy-carter-disagree-over-allegations-that-the-u-s-is-deliberately-keeping-food-aid-from-north.md) _Context: Jimmy Carter_
+10. [Former U.S. president Jimmy Carter, after visiting North Korea, calls on the U.S. and South Korea to stop starving the North Koreans and accuses the U.S. and South Korea of violating the human rights of the North Korean people. Carter also says Kim Jong-il is willing to hold unconditional talks with South Korea, though current U.S. officials dismiss the visit of their former president to North Korea as "strictly private". ](/news/2011/04/28/former-u-s-president-jimmy-carter-after-visiting-north-korea-calls-on-the-u-s-and-south-korea-to-stop-starving-the-north-koreans-and-acc.md) _Context: Jimmy Carter_

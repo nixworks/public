@@ -1,0 +1,23 @@
+### [2006-09-15](/news/2006/09/15/index.md)
+
+#  The U.S. State Department's annual report on religious freedom criticizes the governments of Uzbekistan, Iran and China for increasing repression while noting improvement in the practices of the governments of Saudi Arabia, Sudan and Vietnam. 
+
+
+
+
+### Source:
+
+1. [Voice of America](http://www.voanews.com/english/2006-09-15-voa55.cfm)
+
+### Related:
+
+1. [Iranian government approved a bill to switch country's currency from rial to the more commonly used toman. The bill must be approved by the parliament. ](/news/2016/12/9/iranian-government-approved-a-bill-to-switch-country-s-currency-from-rial-to-the-more-commonly-used-toman-the-bill-must-be-approved-by-the.md) _Context: Iranian government_
+2. [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md) _Context: Iranian government_
+3. [King Salman of Saudi Arabia names a new cabinet and replaces officials in several key government positions, removing two sons of the late monarch Abdullah from their regional governorships in the process. ](/news/2015/01/30/king-salman-of-saudi-arabia-names-a-new-cabinet-and-replaces-officials-in-several-key-government-positions-removing-two-sons-of-the-late-mo.md) _Context: government_
+4. [Vietnam's Ministry of Justice, Ha Hung Cuong, becomes the second government ministry, after the Health Ministry, to back plans to legalize same-sex marriage in Vietnam, when he submits a draft of an amended Law on Marriage and Family to the government. ](/news/2013/07/30/vietnamas-ministry-of-justice-ha-ha1ng-caedega-ng-becomes-the-second-government-ministry-after-the-health-ministry-to-back-plans-to-leg.md) _Context: government_
+5. [Iranian presidential election:Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-pcandidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-a.md) _Context: Iranian government_
+6. [U.S. President Barack Obama chooses a Washington, D.C. lawyer, Clifford Sloan, with experience in all three branches of government to be the U.S. State Department's Special Envoy for closing the military-run prison at the Guantanamo Bay Naval Base. ](/news/2013/06/16/u-s-president-barack-obama-chooses-a-washington-d-c-lawyer-clifford-sloan-with-experience-in-all-three-branches-of-government-to-be-the.md) _Context: U.S. State Department_
+7. [Senkaku Islands dispute:The Japan Coast Guard claims that two government ships from the People's Republic of China have entered waters near the disputed Senkaku Islands. ](/news/2013/02/4/senkaku-islands-dispute-pthe-japan-coast-guard-claims-that-two-government-ships-from-the-people-s-republic-of-china-have-entered-waters-near.md) _Context: government_
+8. [The Japanese government announces it will soon buy the disputed Senkaku Islands claimed by China (as Diaoyu Islands) and Taiwan (as Tiaoyutai Islands). Chinese leaders respond angrily. ](/news/2012/09/10/the-japanese-government-announces-it-will-soon-buy-the-disputed-senkaku-islands-claimed-by-china-as-diaoyu-islands-and-taiwan-as-tiaoyuta.md) _Context: government_
+9. [Following several acts of self-immolation by Tibetans in Tibet, exiled Tibetans in India urge the Chinese government to end its repressive policies restricting the religious freedom of Tibetans. ](/news/2011/11/15/following-several-acts-of-self-immolation-by-tibetans-in-tibet-exiled-tibetans-in-india-urge-the-chinese-government-to-end-its-repressive-p.md) _Context: government_
+10. [Iranian actress Marzieh Vafamehr is sentenced to 90 lashes of the cane and a year's jail in Tehran for appearing in the film ''My Tehran For Sale'' which criticises the Government of Iran's harsh policies on the arts. ](/news/2011/10/10/iranian-actress-marzieh-vafamehr-is-sentenced-to-90-lashes-of-the-cane-and-a-year-s-jail-in-tehran-for-appearing-in-the-film-my-tehran-for.md) _Context: Iranian government_

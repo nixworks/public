@@ -1,0 +1,23 @@
+### [2010-10-6](/news/2010/10/6/index.md)
+
+# A Federal Court of Canada judge rejects a request by francophone groups outside Quebec to overturn the Conservative government's decision to scrap the longform census. 
+
+
+
+
+### Source:
+
+1. [Toronto Sun](http://www.torontosun.com/news/canada/2010/10/06/15603441.html)
+
+### Related:
+
+1. [ Incumbent parties lose two of three by-elections in Canadian federal parliamentary ridings in Quebec. Thomas Mulcair takes the Liberal stronghold of Outremont, bringing the New Democratic Party its second-ever victory in Quebec. Conservative Denis Lebel takes the Bloc-held riding of Roberval--Lac-Saint-Jean, while Eve-Mary Thai Thi Lac holds Saint-Hyacinthe--Bagot for the Bloc Quebecois. ](/news/2007/09/17/incumbent-parties-lose-two-of-three-by-elections-in-canadian-federal-parliamentary-ridings-in-quebec-thomas-mulcair-takes-the-liberal-stro.md) _Context: Conservative Party's, Quebec_
+2. [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md) _Context: Quebec_
+3. [Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-jean-lapierre-was-one-of-the-p.md) _Context: Quebec_
+4. [Quebec-based Valeant Pharmaceuticals International cut all ties with Philidor Rx Services. This comes in the wake of recent revelations that Valeant was looking to acquire Philidor, a relationship that raised questions from various quarters. Valeant is the subject of U.S. federal investigations. ](/news/2015/10/30/quebec-based-valeant-pharmaceuticals-international-cut-all-ties-with-philidor-rx-services-this-comes-in-the-wake-of-recent-revelations-that.md) _Context: Quebec_
+5. [A sightseeing seaplane crashes on Quebec's North Shore killing all six people aboard. ](/news/2015/08/24/a-sightseeing-seaplane-crashes-on-quebec-s-north-shore-killing-all-six-people-aboard.md) _Context: Quebec_
+6. [A gunman shoots a Canadian Forces soldier outside the Canadian National War Memorial, with the gunman later reported dead inside the Canadian Parliament buildings. The incident came hours after Canada raised its terror threat level from low to medium following Monday's fatal hit-and-run attack on two soldiers in Quebec. ](/news/2014/10/22/a-gunman-shoots-a-canadian-forces-soldier-outside-the-canadian-national-war-memorial-with-the-gunman-later-reported-dead-inside-the-canadia.md) _Context: Quebec_
+7. [Quebec general election, 2014:Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-pvoters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _Context: Quebec_
+8. [The death toll from the Lac-Mgantic derailment in the Canadian province of Quebec rises to 20, with 30 people missing presumed dead. ](/news/2013/07/10/the-death-toll-from-the-lac-megantic-derailment-in-the-canadian-province-of-quebec-rises-to-20-with-30-people-missing-presumed-dead.md) _Context: Quebec_
+9. [Michael Applebaum, mayor of Montreal, Quebec is arrested on charges of fraud and abuse of public office. ](/news/2013/06/17/michael-applebaum-mayor-of-montreal-quebec-is-arrested-on-charges-of-fraud-and-abuse-of-public-office.md) _Context: Quebec_
+10. [In Canada's Newfoundland and Labrador Province, Liberal Party's Yvonne Jones won a by-election to the province's Labrador electoral riding, formerly held by Conservative Party's Peter Penashue. The by-election was widely viewed as a crucial test for new Liberal Party leader Justin Trudeau. ](/news/2013/05/13/in-canada-s-newfoundland-and-labrador-province-liberal-party-s-yvonne-jones-won-a-by-election-to-the-province-s-labrador-electoral-riding.md) _Context: Conservative Party's_

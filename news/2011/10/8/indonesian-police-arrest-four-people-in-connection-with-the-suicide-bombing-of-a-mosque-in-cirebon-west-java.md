@@ -1,0 +1,23 @@
+### [2011-10-8](/news/2011/10/8/index.md)
+
+# Indonesian police arrest four people in connection with the suicide bombing of a mosque in Cirebon, West Java. 
+
+
+
+
+### Source:
+
+1. [Jakarta Post](http://www.thejakartapost.com/news/2011/10/08/at-least-4-nabbed-cirebon-bombing-links.html)
+
+### Related:
+
+1. [A bomb explodes in a mosque in the Indonesian city of Cirebon in West Java with at least one person dead and seventeen injured. ](/news/2011/04/15/a-bomb-explodes-in-a-mosque-in-the-indonesian-city-of-cirebon-in-west-java-with-at-least-one-person-dead-and-seventeen-injured.md) _Context: Cirebon, West Java, mosque_
+2. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: mosque, suicide bombing_
+3. [Syrian civil war:At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/syrian-civil-war-pat-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government.md) _Context: mosque, suicide bombing_
+4. [At least 29 people are killed in an suicide bombing in Baghdad's largest Sunni mosque including Khalid al-Fahdawi, a member of the Council of Representatives of Iraq. ](/news/2011/08/28/at-least-29-people-are-killed-in-an-suicide-bombing-in-baghdad-s-largest-sunni-mosque-including-khalid-al-fahdawi-a-member-of-the-council-o.md) _Context: mosque, suicide bombing_
+5. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: mosque_
+6. [  A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _Context: mosque_
+7. [Human remains are found in the sea near where an Indonesian police plane carrying 13 people crashed. The plane was traveling to the island of Batam. ](/news/2016/12/4/human-remains-are-found-in-the-sea-near-where-an-indonesian-police-plane-carrying-13-people-crashed-the-plane-was-traveling-to-the-island-o.md) _Context: Indonesian police_
+8. [An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. ](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.md) _Context: Indonesian police_
+9. [Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrested-in-connection-to-alle.md) _Context: Indonesian police_
+10. [The far-right mayor of the Hungarian border village of Asotthalom, Laszlo Toroczkai, bans the open expression of Islam, including the construction of mosques and wearing of veils and headscarves, and the promotion of same-sex marriages. ](/news/2016/11/25/the-far-right-mayor-of-the-hungarian-border-village-of-asotthalom-la-szla3-toroczkai-bans-the-open-expression-of-islam-including-the-con.md) _Context: mosque_

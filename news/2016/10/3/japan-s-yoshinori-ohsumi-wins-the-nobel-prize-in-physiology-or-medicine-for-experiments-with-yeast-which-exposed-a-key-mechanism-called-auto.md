@@ -1,0 +1,24 @@
+### [2016-10-3](/news/2016/10/3/index.md)
+
+# Japan's Yoshinori Ohsumi wins the Nobel Prize in Physiology or Medicine for experiments with yeast which exposed a key mechanism called autophagy in the body's defenses where cells degrade and recycle their components. 
+
+NEW YORK (AP) — Like a busy city, a cell works better if it can dispose of and recycle its garbage. Now a Japanese scientist has won the Nobel Prize in medicine for showing how that happens. The research may pay off in…
+
+
+### Source:
+
+1. [AP](http://bigstory.ap.org/article/242b5562d613445b919d280824a69407/nobel-prize-announcements-kick-medicine-award)
+2. [Reuters](http://www.reuters.com/article/us-nobel-prize-medicine-idUSKCN1230TX?il=0)
+
+### Related:
+
+1. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan_
+2. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Japan_
+3. [A Japanese fleet returns home after hunting 333 whales in the Antarctic. The Japanese government states that the purpose was for research. ](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333-whales-in-the-antarctic-the-japanese-government-states-that-the-purpose-was-for-research.md) _Context: Japan_
+4. [An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. ](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.md) _Context: Japan_
+5. [Japan ratifies the  Trans-Pacific Partnership. ](/news/2016/12/9/japan-ratifies-the-trans-pacific-partnership.md) _Context: Japan_
+6. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan_
+7. [A 6.9 magnitude earthquake off Japan's Fukushima Prefecture injures 15 people, and triggers a 1 meter tsunami that causes a temporary power disruption at Fukushima Daini Nuclear Power Plant. ](/news/2016/11/22/a-6-9-magnitude-earthquake-off-japan-s-fukushima-prefecture-injures-15-people-and-triggers-a-1-meter-tsunami-that-causes-a-temporary-power.md) _Context: Japan_
+8. [Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md) _Context: Japan_
+9. [Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.md) _Context: Japan_
+10. [Two explosions in a park in the Japanese city of Utsunomiya, Tochigi Prefecture, kill at least one person and injure three others. Local media report that a 72-year-old ex-military officer is responsible for the blasts. A fire the same day destroyed the suspect's house. ](/news/2016/10/23/two-explosions-in-a-park-in-the-japanese-city-of-utsunomiya-tochigi-prefecture-kill-at-least-one-person-and-injure-three-others-local-med.md) _Context: Japan_

@@ -1,0 +1,23 @@
+### [2016-01-7](/news/2016/01/7/index.md)
+
+# South Korea says it will resume cross-border propaganda broadcasts and limit entry to the Kaesong Industrial Region in response to yesterday's nuclear test at the North's Punggye-ri Nuclear Test Site. North Korea considers the propaganda broadcasts to be "an act of war". 
+
+South Korea also cancels cross-border initiatives after Pyongyang’s claim that it successfully tested a hydrogen bomb
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/world/2016/jan/07/north-korea-nuclear-test-japan-and-south-korea-unite-against-serious-threat)
+
+### Related:
+
+1. [South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.md) _Context: Kaesong area, North Korea, South Korea_
+2. [A 5.1 magnitude earthquake near Sungjibaegam, North Korea, is suspected to be a nuclear explosion at the Punggye-ri Nuclear Test Site. North Korea announces it has conducted a hydrogen bomb test. They claim to have tested a miniaturized bomb. If not true it would mean that the test partially failed. ](/news/2016/01/6/a-5-1-magnitude-earthquake-near-sungjibaegam-north-korea-is-suspected-to-be-a-nuclear-explosion-at-the-punggye-ri-nuclear-test-site-north.md) _Context: North Korea, Punggye-ri Nuclear Test Site, nuclear test_
+3. [North Korea may be preparing for an imminent thermonuclear weapon test at its Punggye-ri Nuclear Test Site, located in the country's North Hamgyong Province where previous tests took place in 2006, 2009 and 2013, according to a South Korean military report. ](/news/2016/01/3/north-korea-may-be-preparing-for-an-imminent-thermonuclear-weapon-test-at-its-punggye-ri-nuclear-test-site-located-in-the-country-s-north-h.md) _Context: North Korea, Punggye-ri Nuclear Test Site, South Korea_
+4. [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md) _Context: North Korea, South Korea, nuclear test_
+5. [A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. ](/news/2016/01/10/a-single-united-states-air-force-b-52-long-range-strategic-bomber-makes-a-low-level-flight-over-south-korea-close-to-the-korean-demilitariz.md) _Context: North Korea, South Korea, nuclear test_
+6. [North Korea and South Korea agree to resume talks on reopening the Kaesong industrial zone. ](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.md) _Context: Kaesong area, North Korea, South Korea_
+7. [2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. ](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.md) _Context: Kaesong area, North Korea, South Korea_
+8. [2013 Korean crisis:A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/2013-korean-crisis-pa-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increas.md) _Context: North Korea, Punggye-ri Nuclear Test Site, South Korea_
+9. [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md) _Context: Kaesong area, North Korea, South Korea_
+10. [2013 Korean crisis:North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/2013-korean-crisis-pnorth-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-insi.md) _Context: Kaesong area, North Korea, South Korea_

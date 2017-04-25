@@ -1,0 +1,23 @@
+### [2009-09-23](/news/2009/09/23/index.md)
+
+#  A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine ''Gosc Niedzielny'' for wanting an abortion. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8271895.stm)
+
+### Related:
+
+1. [Catholic figurehead Sean Brady's intervention in Ireland's abortion debate draws harsh criticism from legislators and more calls for the Church to transfer the rest of the compensation it promised for those abused by priests, but has not yet paid. ](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.md) _Context: Catholic, abortion_
+2. [The death of a pregnant woman from septicaemia in an Irish hospital prompts international outrage, protests and condemnation. University College Hospital Galway refused numerous requests from Savita Halappanavar and her family for an abortion on the grounds that "this is a Catholic country." ](/news/2012/11/14/the-death-of-a-pregnant-woman-from-septicaemia-in-an-irish-hospital-prompts-international-outrage-protests-and-condemnation-university-col.md) _Context: Catholic, abortion_
+3. [ The Vatican establishes a low cost charter flight service to Catholic shrines in France, Poland, Spain and the Middle East for pilgrims. ](/news/2007/08/27/the-vatican-establishes-a-low-cost-charter-flight-service-to-catholic-shrines-in-france-poland-spain-and-the-middle-east-for-pilgrims.md) _Context: Catholic, Poland_
+4. [ In Swiebodzice, Poland, an old tenement house collapses killing at least six people, including two children, and injuring six. The exploration teams are looking for 4 missing people. ](/news/2017/04/8/in-awiebodzice-poland-an-old-tenement-house-collapses-killing-at-least-six-people-including-two-children-and-injuring-six-the-explora.md) _Context: Poland_
+5. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Nazism_
+6. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Poland_
+7. [The Guatemalan army blockades a ship from the Dutch NGO Women on Waves that provides material for abortions. ](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.md) _Context: abortion_
+8. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10  in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _Context: Poland_
+9. [U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning  U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partnership-and-reinstates-the-mex.md) _Context: abortion_
+10. [3,000 U.S. troops are deployed in Poland as part of NATO's Operation Atlantic Resolve.  Poland says that the deployment is a necessary response to Russian military exercises near its border and its intervention in Ukraine while Russia condemns the move as a "threat to national interests and security". ](/news/2017/01/12/3-000-u-s-troops-are-deployed-in-poland-as-part-of-nato-s-operation-atlantic-resolve-poland-says-that-the-deployment-is-a-necessary-respo.md) _Context: Poland_

@@ -1,0 +1,23 @@
+### [2017-02-9](/news/2017/02/9/index.md)
+
+# At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. 
+
+
+
+
+### Source:
+
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/russia-turkey-air-strike-soldiers-killed/28300387.html)
+
+### Related:
+
+1. [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md) _Context: Battle of al-Bab, Syrian Civil War, Turkish troops, al-Bab_
+2. [Syrian rebels, with backing from the Turkish Armed Forces, advance on ISIL-held al-Bab, capturing the outskirts of the town. ](/news/2017/02/8/syrian-rebels-with-backing-from-the-turkish-armed-forces-advance-on-isil-held-al-bab-capturing-the-outskirts-of-the-town.md) _Context: Syrian Civil War, Turkish troops, al-Bab_
+3. [At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-fighter-jets-on-the-town-of-al-bab-in-the-last-24-hours.md) _Context: Syrian Civil War, Turkish troops, al-Bab_
+4. [The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _Context: Battle of al-Bab, Syrian Civil War, al-Bab_
+5. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Russia, Syria, Syrian Civil War_
+6. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Russia, Syria, Syrian Civil War_
+7. [A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.md) _Context: Russia, Syria, Syrian Civil War_
+8. [Between four and 20 people are reported killed by government and Russian  airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo,  says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md) _Context: Russia, Syria, Syrian Civil War_
+9. [The Obama administration through the U.S. State Department announces the suspension of bilateral talks with Russia about the cessation of hostilities in Syria, as Russia and the Syrian government continue to pursue a military course despite the ceasefire accord. ](/news/2016/10/3/the-obama-administration-through-the-u-s-state-department-announces-the-suspension-of-bilateral-talks-with-russia-about-the-cessation-of-ho.md) _Context: Russia, Syria, Syrian Civil War_
+10. [Turkish-backed rebels advance on the symbolic ISIL-controlled town of Dabiq, in northern Syria. ISIL believes Dabiq is the location where an apocalyptic battle will take place shortly before the end of the world. ](/news/2016/10/15/turkish-backed-rebels-advance-on-the-symbolic-isil-controlled-town-of-dabiq-in-northern-syria-isil-believes-dabiq-is-the-location-where-an.md) _Context: Syria, Syrian Civil War, Turkish troops_

@@ -1,0 +1,24 @@
+### [2012-11-21](/news/2012/11/21/index.md)
+
+# Roberto Di Matteo is sacked by Chelsea F.C. after a 2012-13 UEFA Champions League defeat 0-3 to Juventus F.C. left them in danger of becoming the first title holders to exit the competition in the group stage. Di Matteo managed Chelsea to their first ever Champions League title in Munich last May. Rafael Benitez appointed Chelsea interim manager until end of season. 
+
+
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/football/2012/nov/21/rafael-benitez-chelsea-manager-coach)
+2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1234455)
+
+### Related:
+
+1. [Papiss Cisse fires two goals past UEFA Champions League finalists Chelsea to keep Newcastle United firmly in contention for a place in the Premier League's top four which would require Chelsea to defeat Bayern Munich in the final to qualify for next season. ](/news/2012/05/2/papiss-cissa-c-fires-two-goals-past-uefa-champions-league-finalists-chelsea-to-keep-newcastle-united-firmly-in-contention-for-a-place-in-the.md) _Context: 2012–13 UEFA Champions League, Chelsea F.C., UEFA Champions League, last May_
+2. [The 2012-13 UEFA Europa League Round of 32 and Round of 16 draw is held in Nyon, Switzerland. Europa League title holders Atletico Madrid will play Rubin Kazan while Champions League title holders Chelsea will face Sparta Prague. ](/news/2012/12/20/the-2012a13-uefa-europa-league-round-of-32-and-round-of-16-draw-is-held-in-nyon-switzerland-europa-league-title-holders-atla-c-tico-madrid.md) _Context: Chelsea F.C., UEFA Champions League, title holders_
+3. [Association football:The final of the 2011-12 UEFA Champions League occurs in Munich, with Chelsea defeating Bayern Munich in a penalty shoot out after extra time, winning the competition for the first time in the club's history. ](/news/2012/05/19/association-football-pthe-final-of-the-2011a12-uefa-champions-league-occurs-in-munich-with-chelsea-defeating-bayern-munich-in-a-penalty-s.md) _Context: Chelsea F.C., Munich, last May_
+4. [In the 2012-13 UEFA Champions League quarter-finals, Paris Saint-Germain secures a 2-2 draw against Barcelona while Bayern Munich beats Juventus 2-0. ](/news/2013/04/2/in-the-2012a13-uefa-champions-league-quarter-finals-paris-saint-germain-secures-a-2a2-draw-against-barcelona-while-bayern-munich-beats.md) _Context: 2012–13 UEFA Champions League, Juventus_
+5. [Spain's Barcelona and Germany's Bayern Munich reach 2012-13 UEFA Champions League semi-finals defeating Paris Saint-Germain and Juventus respectively. ](/news/2013/04/10/spain-s-barcelona-and-germany-s-bayern-munich-reach-2012a13-uefa-champions-league-semi-finals-defeating-paris-saint-germain-and-juventus-r.md) _Context: 2012–13 UEFA Champions League, Juventus_
+6. [Italy's Juventus and France's Paris Saint-Germain reach 2012-13 UEFA Champions League quarter-finals defeating Celtic and Valencia respectively. ](/news/2013/03/6/italy-s-juventus-and-france-s-paris-saint-germain-reach-2012a13-uefa-champions-league-quarter-finals-defeating-celtic-and-valencia-respect.md) _Context: 2012–13 UEFA Champions League, Juventus_
+7. [Chelsea miss numerous chances, including a penalty, though still manage an 8-0 Premier League victory over Aston Villa, the team's worst defeat in their 138-year history. ](/news/2012/12/23/chelsea-miss-numerous-chances-including-a-penalty-though-still-manage-an-8a0-premier-league-victory-over-aston-villa-the-team-s-worst-d.md) _Context: 2012–13 Premier League, Chelsea F.C._
+8. [Thousands of people gather in London for an open-top bus parade to celebrate Chelsea's UEFA Champions League victory over Munich in last night's final. ](/news/2012/05/20/thousands-of-people-gather-in-london-for-an-open-top-bus-parade-to-celebrate-chelsea-s-uefa-champions-league-victory-over-munich-in-last-nig.md) _Context: Chelsea F.C., last May_
+9. [In the UEFA Champions League semi-final, Chelsea pull off a remarkable comeback against FC Barcelona at the Camp Nou, coming back from two goals down despite having captain John Terry sent off, central defender Gary Cahill injured in the opening minutes and Didier Drogba's concession of a penalty to Lionel Messi which hits the crossbar. Chelsea are left without the suspended quartet of Terry, Ramires, Branislav Ivanovic and Raul Meireles for the final at the Allianz Arena. ](/news/2012/04/24/in-the-uefa-champions-league-semi-final-chelsea-pull-off-a-remarkable-comeback-against-fc-barcelona-at-the-camp-nou-coming-back-from-two-g.md) _Context: Chelsea F.C., last May_
+10. [Chelsea stun title holders Barcelona with a 1-0 win UEFA Champions League semi-final first-leg match in London, Ivorian footballer Didier Drogba scoring the only goal of the game. ](/news/2012/04/18/chelsea-stun-title-holders-barcelona-with-a-1-0-win-uefa-champions-league-semi-final-first-leg-match-in-london-ivorian-footballer-didier-dr.md) _Context: Chelsea F.C., UEFA Champions League_

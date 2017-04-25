@@ -1,0 +1,23 @@
+### [2007-01-11](/news/2007/01/11/index.md)
+
+#  2007 Chinese anti-satellite missile test: The Second Artillery Battalion of the People's Liberation Army of China tests a missile destroying one of its own satellites 535 miles above Earth. 
+
+The Chinese government confirmed the test, but said it had no intention of participating in a “space race.”
+
+
+### Source:
+
+1. [New York Times](http://www.nytimes.com/2007/01/23/world/asia/23cnd-china.html?hp&ex=1169614800&en=d9317a9a60f6aebb&ei=5094&partner=homepage)
+
+### Related:
+
+1. [Authorities in China sentence Huang Yu, a computer technician from Sichuan who worked for a government department which handled state secrets, to death for leaking more than 150,000 classified documents to an unidentified foreign power. The documents in question covered secrets ranging from the ruling Communist Party to military and financial issues. ](/news/2016/04/19/authorities-in-china-sentence-huang-yu-a-computer-technician-from-sichuan-who-worked-for-a-government-department-which-handled-state-secret.md) _Context: China, military_
+2. [China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-chinaapakistan-economic-corridor-that-connects-the-chin.md) _Context: China, military_
+3. [Chinese Vice Foreign Minister Liu Zhenmin says the United States was making political provocations with its patrols in the disputed South China Sea. He also says China is building military facilities on islands and reefs in the South China Sea as part of its national defense policy. Yesterday, U.S. President Barack Obama said, for the sake of regional stability,  countries should stop building artificial islands and militarizing their claims in this sea. ](/news/2015/11/22/chinese-vice-foreign-minister-liu-zhenmin-says-the-united-states-was-making-political-provocations-with-its-patrols-in-the-disputed-south-ch.md) _Context: China, military_
+4. [The People's Liberation Army of China holds three days of live-fire drills in the Taiwan Strait, while Taiwan holds exercises simulating Chinese submarines attacking Kinmen and being repelled by Taiwanese amphibious forces. ](/news/2015/09/11/the-people-s-liberation-army-of-china-holds-three-days-of-live-fire-drills-in-the-taiwan-strait-while-taiwan-holds-exercises-simulating-chi.md) _Context: China, military_
+5. [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md) _Context: China, military_
+6. [''Philippines v. China''China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/philippines-v-china-pchina-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-th.md) _Context: China, military_
+7. [China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing-after-the-earthquake.md) _Context: China, military_
+8. [''The New York Times'' publishes allegations that a Chinese People's Liberation Army unit called PLA Unit 61398 may be the source of hacking attacks on the West. ](/news/2013/02/19/the-new-york-times-publishes-allegations-that-a-chinese-people-s-liberation-army-unit-called-pla-unit-61398-may-be-the-source-of-hacking.md) _Context: China, military_
+9. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: China_
+10. [China launches its first cargo spacecraft, the Tianzhou 1, carried by a Long March 7 rocket. ](/news/2017/04/20/china-launches-its-first-cargo-spacecraft-the-tianzhou-1-carried-by-a-long-march-7-rocket.md) _Context: China_

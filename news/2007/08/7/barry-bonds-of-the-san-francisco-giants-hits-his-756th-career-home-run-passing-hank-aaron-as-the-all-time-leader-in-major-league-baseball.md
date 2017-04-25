@@ -1,0 +1,24 @@
+### [2007-08-7](/news/2007/08/7/index.md)
+
+#  Barry Bonds of the San Francisco Giants hits his 756th career home run, passing Hank Aaron as the all-time leader in Major League Baseball. Bonds hits the shot against Washington Nationals pitcher Mike Bacsik in the fifth inning of their game at AT&T Park in San Francisco, California. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/baseball/6936213.stm)
+2. [MLB.com](http://mlb.mlb.com/news/article.jsp?ymd=20070806&content_id=2133618&vkey=news_mlb&fext=.jsp&c_id=mlb)
+
+### Related:
+
+1. [ San Francisco Giants outfielder Barry Bonds ties Hank Aaron for most career home runs with 755, while Alex Rodriguez becomes the youngest player to hit 500 home runs in Major League Baseball. ](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.md) _Context: Barry Bonds, Giants', Hank Aaron, Major League Baseball, home run_
+2. [David Ortiz of the Boston Red Sox hits two home runs in the Sox' 10-4 win over the Tampa Bay Rays at Tropicana Field in St. Petersburg, Florida, making him the 27th player in MLB history with 500 career homers. ](/news/2015/09/12/david-ortiz-of-the-boston-red-sox-hits-two-home-runs-in-the-sox-10a4-win-over-the-tampa-bay-rays-at-tropicana-field-in-st-petersburg-fl.md) _Context: Major League Baseball, home run_
+3. [ In Major League Baseball, Washington Nationals pitcher Max Scherzer, one strike away from a perfect game, loses his bid when he hits the Pittsburgh Pirates' Jose Tabata with a pitch. Scherzer retires the next batter to complete a 6-0 win and a no-hitter. ](/news/2015/06/20/in-major-league-baseball-washington-nationals-pitcher-max-scherzer-one-strike-away-from-a-perfect-game-loses-his-bid-when-he-hits-the-pi.md) _Context: Major League Baseball, Washington Nationals_
+4. [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md) _Context: Barry Bonds, Major League Baseball_
+5. [A proposal to change the demolition of Candlestick Park in San Francisco, California from a gradual process to implosion has been met with opposition from the city's residents, citing health risks from the dispersal of concrete dust. ](/news/2015/01/6/a-proposal-to-change-the-demolition-of-candlestick-park-in-san-francisco-california-from-a-gradual-process-to-implosion-has-been-met-with-o.md) _Context: Major League Baseball, San Francisco, California_
+6. [In Major League Baseball, the San Francisco Giants win the 2014 World Series, defeating the Kansas City Royals by 4 games to 3 for the Giants' third World Series win in five seasons, followed by civil disorder in the streets. Giants pitcher Madison Bumgarner is named as series MVP. ](/news/2014/10/29/in-major-league-baseball-the-san-francisco-giants-win-the-2014-world-series-defeating-the-kansas-city-royals-by-4-games-to-3-for-the-giant.md) _Context: Giants', Major League Baseball_
+7. [In baseball, Alex Rodriguez of the New York Yankees sets a new record in Major League Baseball for grand slam home runs with 24. ](/news/2013/09/20/in-baseball-alex-rodriguez-of-the-new-york-yankees-sets-a-new-record-in-major-league-baseball-for-grand-slam-home-runs-with-24.md) _Context: Major League Baseball, home run_
+8. [In Major League Baseball, the San Francisco Giants defeat the Detroit Tigers in game four of the 2012 World Series, sweeping the Tigers and winning their second World Series in three years. Pablo Sandoval is named World Series MVP. ](/news/2012/10/28/in-major-league-baseball-the-san-francisco-giants-defeat-the-detroit-tigers-in-game-four-of-the-2012-world-series-sweeping-the-tigers-and.md) _Context: Giants', Major League Baseball_
+9. [In baseball, Jim Thome of the Minnesota Twins becomes the eighth player in the history of North American Major League Baseball to hit 600 career home runs. ](/news/2011/08/15/in-baseball-jim-thome-of-the-minnesota-twins-becomes-the-eighth-player-in-the-history-of-north-american-major-league-baseball-to-hit-600-ca.md) _Context: Major League Baseball, home run_
+10. [Derek Jeter, shortstop for the New York Yankees, becomes the 28th member of the 3,000 hit club in Major League Baseball history by means of a home run off David Price of the Tampa Bay Rays. ](/news/2011/07/9/derek-jeter-shortstop-for-the-new-york-yankees-becomes-the-28th-member-of-the-3-000-hit-club-in-major-league-baseball-history-by-means-of.md) _Context: Major League Baseball, home run_

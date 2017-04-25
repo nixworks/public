@@ -1,0 +1,23 @@
+### [2010-12-3](/news/2010/12/3/index.md)
+
+# There are mass celebrations on the streets of Doha, Qatar, following FIFA's announcement that the country of 1,696,563 people is to present the 2022 FIFA World Cup. 
+
+Frenzied celebrations erupt across tiny Gulf nation after it wins bid to host 2022 football World Cup.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012374444141404.html)
+
+### Related:
+
+1. [FIFA executive committee member Franz Beckenbauer says Qatar ought to be allowed to host the 2022 FIFA World Cup, the first in the Middle East and in an Arab country, during winter in an unusual move. The event is usually held during summer months. ](/news/2010/12/4/fifa-executive-committee-member-franz-beckenbauer-says-qatar-ought-to-be-allowed-to-host-the-2022-fifa-world-cup-the-first-in-the-middle-ea.md) _Context: 2022 FIFA World Cup, FIFA, Qatar_
+2. [President of FIFA Gianni Infantino says a new independent committee will be set up to monitor working conditions at Qatar's 2022 World Cup venues. The move is an attempt by the world football's governing body to ease fears of human rights abuses in the state, where organizations like Amnesty International documented multiple cases of poor working conditions and abuses against migrant workers. ](/news/2016/04/22/president-of-fifa-gianni-infantino-says-a-new-independent-committee-will-be-set-up-to-monitor-working-conditions-at-qatar-s-2022-world-cup-v.md) _Context: 2022 FIFA World Cup, Qatar_
+3. [The meeting in Doha, Qatar, of the world's top oil producers, from both OPEC and non-OPEC countries, fails to agree on an output freeze. Oil analysts say  the failure was due to Iran's non-participation, and Saudi Arabia linking its cooperation  to Iran's inclusion. Oil prices drop in early Asian trading and on the New York Mercantile Exchange. ](/news/2016/04/18/the-meeting-in-doha-qatar-of-the-world-s-top-oil-producers-from-both-opec-and-non-opec-countries-fails-to-agree-on-an-output-freeze-oil.md) _Context: Doha, Qatar_
+4. [Members of OPEC meet in Doha, Qatar, amid uncertainty in the markets and the outcome of the meeting. Since 2014, the price of oil has dropped dramatically. Analysts hope that an agreement to freeze output will reassure global energy markets that the recent recovery in prices is sustainable. ](/news/2016/04/17/members-of-opec-meet-in-doha-qatar-amid-uncertainty-in-the-markets-and-the-outcome-of-the-meeting-since-2014-the-price-of-oil-has-droppe.md) _Context: Doha, Qatar_
+5. [FIFA's independent ethics investigator Michael J. Garcia resigns from that position in protest over the organization's handling of his compiled report on corruption allegations in connection with the bidding process for the 2018 and 2022 FIFA World Cups. ](/news/2014/12/17/fifa-s-independent-ethics-investigator-michael-j-garcia-resigns-from-that-position-in-protest-over-the-organization-s-handling-of-his-compi.md) _Context: 2022 FIFA World Cup, FIFA_
+6. [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md) _Context: Doha, Qatar_
+7. [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md) _Context: Doha, Qatar_
+8. [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md) _Context: Doha, Qatar_
+9. [The 15-page article published by French football magazine ''France Football'' and titled ''The Qatargate'' reveals evidence pointing towards Qatar buying the right to host the 2022 FIFA World Cup. ](/news/2013/01/29/the-15-page-article-published-by-french-football-magazine-france-football-and-titled-the-qatargate-reveals-evidence-pointing-towards.md) _Context: 2022 FIFA World Cup, Qatar_
+10. [A United Nations climate conference held in Doha, Qatar, agrees to extend the Kyoto Protocol until 2020. ](/news/2012/12/8/a-united-nations-climate-conference-held-in-doha-qatar-agrees-to-extend-the-kyoto-protocol-until-2020.md) _Context: Doha, Qatar_

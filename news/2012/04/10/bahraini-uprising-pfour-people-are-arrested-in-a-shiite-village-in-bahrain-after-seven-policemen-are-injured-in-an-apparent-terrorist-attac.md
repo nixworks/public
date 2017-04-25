@@ -1,0 +1,24 @@
+### [2012-04-10](/news/2012/04/10/index.md)
+
+# Bahraini uprising:Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". 
+
+
+
+
+### Source:
+
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/04/10/206773.html)
+2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1891172)
+
+### Related:
+
+1. [The Bahrain High Civil Court  in Manama dissolves Al Wefaq, Bahrain's main Shia opposition group, accusing it of helping to foster violence and terrorism in the Sunni-led, Shia-majority island country. The Bahraini court previously issued a three-month suspension of the group last month. ](/news/2016/07/17/the-bahrain-high-civil-court-in-manama-dissolves-al-wefaq-bahrain-s-main-shia-opposition-group-accusing-it-of-helping-to-foster-violence.md) _Context: Bahrain, Shi'ite_
+2. [Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-accused-him-of-promoting-s.md) _Context: Bahrain, Shi'ite_
+3. [Bahrain's public prosecution charges seven police officers with torturing Shia medics to obtain confessions during the ongoing Bahraini uprising. ](/news/2012/09/18/bahrain-s-public-prosecution-charges-seven-police-officers-with-torturing-shia-medics-to-obtain-confessions-during-the-ongoing-bahraini-upri.md) _Context: Bahrain, Shi'ite_
+4. [Arab Spring:Bahraini uprising:Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-pbahraini-uprising-psecurity-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-regi.md) _Context: 2011–2012 Bahraini uprising, Bahrain_
+5. [2011-2012 Bahraini uprising: A 15-year-old is shot through the chest by police in Bahrain. ](/news/2012/04/14/2011a2012-bahraini-uprising-a-15-year-old-is-shot-through-the-chest-by-police-in-bahrain.md) _Context: 2011–2012 Bahraini uprising, Bahrain_
+6. [Canadian national Naser al-Raas is arrested in Bahrain for attending a rally in the 2011-2012 Bahraini uprising. ](/news/2012/02/1/canadian-national-naser-al-raas-is-arrested-in-bahrain-for-attending-a-rally-in-the-2011a2012-bahraini-uprising.md) _Context: 2011–2012 Bahraini uprising, Bahrain_
+7. [4 Shia Muslim activists are arrested in Bahrain. ](/news/2010/08/15/4-shia-muslim-activists-are-arrested-in-bahrain.md) _Context: Bahrain, Shi'ite_
+8. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Shi'ite_
+9. [Violence erupts at a protest rally in Baghdad, Iraq, killing at least four protesters and one police officer. Thousands of supporters of Shia cleric Muqtada al-Sadr gathered in the capital to demand an overhaul of the country's electoral system. ](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.md) _Context: Shi'ite_
+10. [Bahrain executes three people for their alleged involvement in a bombing that killed three police officers in 2014, the first executions in the country since 2010. ](/news/2017/01/15/bahrain-executes-three-people-for-their-alleged-involvement-in-a-bombing-that-killed-three-police-officers-in-2014-the-first-executions-in.md) _Context: Bahrain_

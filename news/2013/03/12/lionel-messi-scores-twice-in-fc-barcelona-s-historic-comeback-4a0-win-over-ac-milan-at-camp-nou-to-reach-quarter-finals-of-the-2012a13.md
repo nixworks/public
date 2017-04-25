@@ -1,0 +1,24 @@
+### [2013-03-12](/news/2013/03/12/index.md)
+
+# Lionel Messi scores twice in FC Barcelona's historic comeback, 4-0 win over AC Milan at Camp Nou to reach quarter-finals of the 2012-13 UEFA Champions League. In the other match, Turkey's Galatasaray defeats Schalke 04 3-2 in Gelsenkirchen, Germany. 
+
+
+
+
+### Source:
+
+1. [ESPN](http://espnfc.com/uk/en/report/358618/report.html)
+2. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000348/match=2009596/index.html)
+
+### Related:
+
+1. [AC Milan defeat FC Barcelona 2-0 in the first leg of the 2012-13 UEFA Champions League round of 16, while Galatasaray S.K. and FC Schalke 04 draw 1-1. ](/news/2013/02/20/ac-milan-defeat-fc-barcelona-2a0-in-the-first-leg-of-the-2012a13-uefa-champions-league-round-of-16-while-galatasaray-s-k-and-fc-schalk.md) _Context: 2012–13 UEFA Champions League, FC Barcelona, Milan, Schalke 04, semi-finals_
+2. [Lionel Messi is carried off on a stretcher with an apparent knee injury as FC Barcelona are held to 0-0 by Benfica at Camp Nou in the 2012-13 UEFA Champions League. ](/news/2012/12/5/lionel-messi-is-carried-off-on-a-stretcher-with-an-apparent-knee-injury-as-fc-barcelona-are-held-to-0a0-by-benfica-at-camp-nou-in-the-2012.md) _Context: 2012–13 UEFA Champions League, Camp Nou, FC Barcelona, Lionel Messi_
+3. [In the 2012-13 UEFA Champions League quarter-finals, Malaga secures a 0-0 draw against Borussia Dortmund while Real Madrid beats Galatasaray S.K. 3-0. ](/news/2013/04/3/in-the-2012a13-uefa-champions-league-quarter-finals-ma-laga-secures-a-0a0-draw-against-borussia-dortmund-while-real-madrid-beats-galata.md) _Context: 2012–13 UEFA Champions League, Galatasaray S.K., semi-finals_
+4. [In the 2012-13 UEFA Champions League quarter-finals, Paris Saint-Germain secures a 2-2 draw against Barcelona while Bayern Munich beats Juventus 2-0. ](/news/2013/04/2/in-the-2012a13-uefa-champions-league-quarter-finals-paris-saint-germain-secures-a-2a2-draw-against-barcelona-while-bayern-munich-beats.md) _Context: 2012–13 UEFA Champions League, FC Barcelona, semi-finals_
+5. [Spain's Barcelona and Germany's Bayern Munich reach 2012-13 UEFA Champions League semi-finals defeating Paris Saint-Germain and Juventus respectively. ](/news/2013/04/10/spain-s-barcelona-and-germany-s-bayern-munich-reach-2012a13-uefa-champions-league-semi-finals-defeating-paris-saint-germain-and-juventus-r.md) _Context: 2012–13 UEFA Champions League, FC Barcelona, semi-finals_
+6. [Fallout of Manchester United v. Real Madrid:UEFA backs Turkish referee Cuneyt Cakir over his controversial decision to red card Manchester United's Nani in last night's elimination by a 2-1 scoreline (3-2 on aggregate) at the feet of Real Madrid in the second leg of their 2012-13 UEFA Champions League last 16 tie at Old Trafford. ](/news/2013/03/6/fallout-of-manchester-united-v-real-madrid-puefa-backs-turkish-referee-ca1-4neyt-aaka-r-over-his-controversial-decision-to-red-card-manchest.md) _Context: 2012–13 UEFA Champions League, Turkish, semi-finals_
+7. [Germany's Bayern Munich and Spain's Malaga reach 2012-13 UEFA Champions League quarter-finals defeating Arsenal and Porto on aggregate respectively. ](/news/2013/03/13/germany-s-bayern-munich-and-spain-s-ma-laga-reach-2012a13-uefa-champions-league-quarter-finals-defeating-arsenal-and-porto-on-aggregate-re.md) _Context: 2012–13 UEFA Champions League, Germany, semi-finals_
+8. [Barcelona's star Lionel Messi scores twice against Real Betis, his 85th and 86th goals in a calendar year, breaking the record created by German legend Gerd Muller (85 goals) in 1972. ](/news/2012/12/9/barcelona-s-star-lionel-messi-scores-twice-against-real-betis-his-85th-and-86th-goals-in-a-calendar-year-breaking-the-record-created-by-ge.md) _Context: FC Barcelona, Germany, Lionel Messi_
+9. [UEFA announces the 2012-13 UEFA Champions League Round of 16 draw. Barcelona will face Milan while Real Madrid will play Manchester United. ](/news/2012/12/20/uefa-announces-the-2012a13-uefa-champions-league-round-of-16-draw-barcelona-will-face-milan-while-real-madrid-will-play-manchester-united.md) _Context: 2012–13 UEFA Champions League, FC Barcelona, semi-finals_
+10. [In the UEFA Champions League semi-final, Chelsea pull off a remarkable comeback against FC Barcelona at the Camp Nou, coming back from two goals down despite having captain John Terry sent off, central defender Gary Cahill injured in the opening minutes and Didier Drogba's concession of a penalty to Lionel Messi which hits the crossbar. Chelsea are left without the suspended quartet of Terry, Ramires, Branislav Ivanovic and Raul Meireles for the final at the Allianz Arena. ](/news/2012/04/24/in-the-uefa-champions-league-semi-final-chelsea-pull-off-a-remarkable-comeback-against-fc-barcelona-at-the-camp-nou-coming-back-from-two-g.md) _Context: Camp Nou, FC Barcelona, Lionel Messi_

@@ -1,0 +1,27 @@
+### [2010-12-4](/news/2010/12/4/index.md)
+
+# An aircraft crashes at Domodedovo airport in Moscow after undergoing multiple engine failure, with at least 2 deaths and 80 injuries. 
+
+Two people were killed and dozens injured when a Russian airliner rolled off the runway during an emergency landing at a Moscow airport on Saturday. A Tu-154 plane with 160 passengers and eight crew m
+
+
+### Source:
+
+1. [The Hindu](http://www.thehindu.com/news/international/article931816.ece)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/dec/04/airplane-emergency-landing-moscow-two-killed)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/04/c_13635236.htm)
+4. [RIA Novosti](http://en.rian.ru/russia/20101204/161629703.html)
+5. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/two-die-80-hurt-in-moscow-plane-accident-20101205-18kzk.html)
+
+### Related:
+
+1. [Tens of thousands of people march through Moscow, Russia, to commemorate the two-year anniversary of opposition leader Boris Nemtsov's assassination. ](/news/2017/02/26/tens-of-thousands-of-people-march-through-moscow-russia-to-commemorate-the-two-year-anniversary-of-opposition-leader-boris-nemtsov-s-assas.md) _Context: Moscow_
+2. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10  in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _Context: Moscow_
+3. [The Russian ambassador to Turkey Andrei Karlov is killed in a gun attack at an art gallery in Ankara. Russia calls the assassin, 22-year old police officer, Mevlut Mert Altintas, a "terrorist". Turkish Foreign Minister Mevlut Cavusoglu goes to Moscow for a planned trilateral meeting on Syria, saying "the incident will not impact relations between Turkey and Russia". ](/news/2016/12/19/the-russian-ambassador-to-turkey-andrei-karlov-is-killed-in-a-gun-attack-at-an-art-gallery-in-ankara-russia-calls-the-assassin-22-year-old.md) _Context: Moscow_
+4. [A fire at a warehouse in Moscow, Russia, kills at least 17 people, all migrant workers from Kyrgyzstan.  The Investigative Committee of Russia, which reports directly to President Vladimir Putin, says a criminal inquiry has been launched. ](/news/2016/08/27/a-fire-at-a-warehouse-in-moscow-russia-kills-at-least-17-people-all-migrant-workers-from-kyrgyzstan-the-investigative-committee-of-russ.md) _Context: Moscow_
+5. [''The New York Times'' reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that.md) _Context: Moscow_
+6. [Three high-ranking officers of the Investigative Committee of Russia in Moscow are detained for accepting bribes from a crime lord. ](/news/2016/07/20/three-high-ranking-officers-of-the-investigative-committee-of-russia-in-moscow-are-detained-for-accepting-bribes-from-a-crime-lord.md) _Context: Moscow_
+7. [At least three people are killed and dozens are wounded after a mass brawl, involving around 200 people, mostly North Caucasusian migrants, breaks out in Khovanskoye Cemetery in southwest Moscow. The Mayor of Moscow Sergey Sobyanin said that none of those responsible would go unpunished. ](/news/2016/05/14/at-least-three-people-are-killed-and-dozens-are-wounded-after-a-mass-brawl-involving-around-200-people-mostly-north-caucasusian-migrants.md) _Context: Moscow_
+8. [A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fighting-alongside-russian-backed-separatists-in.md) _Context: Moscow_
+9. [Russia-United States relations,  U.S. Secretary of State John Kerry leaves for Moscow for talks on Syria and Ukraine with Russian President Vladimir Putin and Foreign Minister Sergey Lavrov on  Wednesday. Kerry is also  expected to discuss the case of Ukrainian pilot Nadiya Savchenko,  who today was sentenced to 22 years in prison in the city of Donetsk. ](/news/2016/03/22/russiaaunited-states-relations-u-s-secretary-of-state-john-kerry-leaves-for-moscow-for-talks-on-syria-and-ukraine-with-russian-presiden.md) _Context: Moscow_
+10. [Finland and Russia agree to impose temporary restrictions at two Arctic border crossing points on the Finnish-Russian border following an increased flow of asylum seekers from Russia to Finland. Under a deal clinched by Russian President Vladimir Putin and Finnish President Sauli Niinisto in Moscow, crossings at two popular entry points, Salla and Raja-Jooseppi, will be reserved only for Finnish, Russian and Belarusian citizens and their family members for a period of 180 days. ](/news/2016/03/22/finland-and-russia-agree-to-impose-temporary-restrictions-at-two-arctic-border-crossing-points-on-the-finnisharussian-border-following-an.md) _Context: Moscow_

@@ -1,0 +1,25 @@
+### [2013-04-11](/news/2013/04/11/index.md)
+
+# 2013 Korean crisis:North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. 
+
+A powerful US military sea-based radar is now in place to detect any possible missile launches by North Korea, according to a senior US defence official.
+
+
+### Source:
+
+1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/world/us-radar-in-place-to/635142.html)
+2. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/n-korea-blames-south-s/635042.html)
+3. [CNN](http://www.cnn.com/2013/04/11/world/asia/koreas-tensions)
+
+### Related:
+
+1. [The President of China, Xi Jinping, arrives in South Korea for talks with the President of South Korea, Park Geun-hye, days after a North Korean missile test.](/news/2014/07/3/the-president-of-china-xi-jinping-arrives-in-south-korea-for-talks-with-the-president-of-south-korea-park-geun-hye-days-after-a-north-ko.md) _Context: North Korea, Park Geun-hye, President, South Korea_
+2. [2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. ](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.md) _Context: 2013 Korean crisis, Kaesong area, North Korea, South Korea_
+3. [2013 Korean crisis:North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/2013-korean-crisis-pnorth-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-insi.md) _Context: 2013 Korean crisis, Kaesong area, North Korea, South Korea_
+4. [2013 Korean crisis: North Korea declares it is in a state of war with South Korea, and will conduct any further dealings under "wartime regulations". Russia urges calm on both sides. North Korea threatens to shut down the industrial plant in Kaesong, on the border with South Korea. ](/news/2013/03/30/2013-korean-crisis-north-korea-declares-it-is-in-a-state-of-war-with-south-korea-and-will-conduct-any-further-dealings-under-wartime-regu.md) _Context: 2013 Korean crisis, Kaesong, North Korea, South Korea_
+5. [North Korea renews war threats against South Korea and the United States, saying conditions "for a simmering nuclear war" have been created on the Korean peninsula. The country also says it is cutting a military hotline, which facilitates the travel of South Korean workers to a joint industrial complex in Kaesong. ](/news/2013/03/27/north-korea-renews-war-threats-against-south-korea-and-the-united-states-saying-conditions-for-a-simmering-nuclear-war-have-been-created.md) _Context: Kaesong, Kaesong area, North Korea, South Korea_
+6. [Authorities arrest Impeached South Korean President Park Geun-hye on charges of bribery, abuse of authority, coercion, and leaking government secrets. ](/news/2017/03/30/authorities-arrest-impeached-south-korean-president-park-geun-hye-on-charges-of-bribery-abuse-of-authority-coercion-and-leaking-governmen.md) _Context: Park Geun-hye, President, South Korea_
+7. [South Korea's Constitutional Court upholds the impeachment of President Park Geun-hye, removing her from office. Hwang Kyo-ahn assumes powers as Acting President. ](/news/2017/03/10/south-korea-s-constitutional-court-upholds-the-impeachment-of-president-park-geun-hye-removing-her-from-office-hwang-kyo-ahn-assumes-power.md) _Context: Park Geun-hye, President, South Korea_
+8. [A court in South Korea strikes down a request by prosecutors to issue an arrest warrant for Samsung vice chairman Lee Jae-yong, who is accused of bribery and embezzlement, in connection to a corruption scandal involving impeached President Park Geun-hye. ](/news/2017/01/19/a-court-in-south-korea-strikes-down-a-request-by-prosecutors-to-issue-an-arrest-warrant-for-samsung-vice-chairman-lee-jae-yong-who-is-accus.md) _Context: Park Geun-hye, President, South Korea_
+9. [South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-group-in-relation-to-the-political-sca.md) _Context: Park Geun-hye, President, South Korea_
+10. [South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234a56-vote-prime-minister-hwang-kyo-ahn-a-staunch-defender-of-ms-park-wil.md) _Context: Park Geun-hye, President, South Korea_

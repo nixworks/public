@@ -1,0 +1,30 @@
+### [2015-11-14](/news/2015/11/14/index.md)
+
+# The death toll from the terrorist attacks in Paris stands at 129. 
+
+French prosecutors said on Saturday that three coordinated teams of gunmen and suicide bombers carried out a wave of attacks across Paris that killed 129 people in what President Francois Hollande called an &quot;act of war&quot; by Islamic State.
+
+
+### Source:
+
+1. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/world/france-s-hollande-cancels/2259848.html)
+2. [The Jerusalem Post](http://www.jpost.com/International/ISIS-claims-responsibility-for-Paris-terror-attacks-433023)
+3. [CBS News](http://www.cbsnews.com/news/paris-attack-survivors-use-facebook-safety-check-porteouverte/)
+4. [Reuters](http://www.reuters.com/article/2015/11/14/us-france-shooting-idUSKCN0T22IU20151114?feedType=RSS&feedName=topNews)
+5. [ABC News Australia](http://www.abc.net.au/news/2015-11-15/details-emerge-about-paris-attackers-syrian-passport-found/6941864)
+6. [Reuters](http://www.reuters.com/article/2015/11/14/us-france-shooting-greece-idUSKCN0T312W20151114)
+7. [RT](https://www.rt.com/news/322051-poland-rejects-refugee-quota/)
+8. [The Guardian](http://www.theguardian.com/world/live/2015/nov/13/shootings-reported-in-eastern-paris-live#block-56469c90e4b0ced428cb2822)
+
+### Related:
+
+1. [The father of  Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While  generally free of liability under U.S. law  which  provides a legal ''safe harbor'' for content posted, this case targets  the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-i.md) _Context: November 2015 Paris Attacks, Paris_
+2. [Three people arrested yesterday in connection with last year's attacks in Paris are released without charge. ](/news/2016/04/13/three-people-arrested-yesterday-in-connection-with-last-year-s-attacks-in-paris-are-released-without-charge.md) _Context: November 2015 Paris Attacks, Paris_
+3. [A man linked to the Paris attacks  is arrested in Mohammedia, Morocco. ](/news/2016/01/18/a-man-linked-to-the-paris-attacks-is-arrested-in-mohammedia-morocco.md) _Context: November 2015 Paris Attacks, Paris_
+4. [About 20,000 pairs of empty shoes lay around Paris, symbolizing  the absent marchers who would have joined this weekend's worldwide climate change protests pressing for a bold international agreement at the upcoming climate summit there. The capital city was planned to be the center for demonstrations but French police banned large protests following the terrorist attacks this month. ](/news/2015/11/29/about-20-000-pairs-of-empty-shoes-lay-around-paris-symbolizing-the-absent-marchers-who-would-have-joined-this-weekend-s-worldwide-climate.md) _Context: November 2015 Paris Attacks, Paris_
+5. [At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix-near-the-belgian-border.md) _Context: November 2015 Paris Attacks, Paris_
+6. [Russian warships launch cruise missiles from the Caspian Sea against Islamic State of Iraq and the Levant positions in Syria's eastern Deir ez-Zor. Russian Defense Minister, Sergey Shoigu, reported over 600 terrorists were killed in the strikes. Video footage also emerged of Russian ground crew servicemen writing the words "For Paris" on bombs to be dropped on ISIL targets in a show of solidarity with France in the wake of the November 13 terror attacks that left 130 people dead in Paris. ](/news/2015/11/20/russian-warships-launch-cruise-missiles-from-the-caspian-sea-against-islamic-state-of-iraq-and-the-levant-positions-in-syria-s-eastern-deir.md) _Context: November 2015 Paris Attacks, Paris_
+7. [A raid by French police in the Paris suburb of Saint-Denis kills at least two terror suspects, including a female suicide bomber, with eight others arrested. ](/news/2015/11/18/a-raid-by-french-police-in-the-paris-suburb-of-saint-denis-kills-at-least-two-terror-suspects-including-a-female-suicide-bomber-with-eight.md) _Context: November 2015 Paris Attacks, Paris_
+8. [Two Air France flights bound for Paris from the United States are diverted for several hours on following anonymous bomb threats. ](/news/2015/11/17/two-air-france-flights-bound-for-paris-from-the-united-states-are-diverted-for-several-hours-on-following-anonymous-bomb-threats.md) _Context: November 2015 Paris Attacks, Paris_
+9. [More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. ](/news/2015/11/17/more-than-half-of-the-state-governors-in-the-united-states-reject-accepting-asylum-seekers-from-syria-after-the-attacks-in-paris-all-except.md) _Context: November 2015 Paris Attacks, Paris_
+10. [Authorities search for Belgium-born French national Salah Abdeslam, one of three brothers suspected of involvement in the attacks. Raids are reported to have taken place in Grenoble, Toulouse, Jeumont and the Paris suburb of Bobigny. This contradicts previously published official information that all the perpetrators of the attacks were dead. ](/news/2015/11/16/authorities-search-for-belgium-born-french-national-salah-abdeslam-one-of-three-brothers-suspected-of-involvement-in-the-attacks-raids-are.md) _Context: November 2015 Paris Attacks, Paris_

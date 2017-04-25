@@ -1,0 +1,24 @@
+### [2015-10-31](/news/2015/10/31/index.md)
+
+# Vodafone Group Plc announces criminals accessed customer account details, including phone numbers and some bank details. The British multinational telecommunications company of over 400 million subscribers says it is contacting about 1,800 affected customers. This is the second recent hacking of a U.K. phone carrier. Last week, TalkTalk Telecom Group Plc said its systems had been attacked. 
+
+Vodafone Group Plc. said criminals accessed customer account details, including phone numbers and some bank details, in the second hacking attack in just over a week on a U.K. phone carrier.
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-10-31/vodafone-says-some-u-k-customers-accounts-accessed-by-hackers)
+2. [Financial Times](http://www.ft.com/intl/cms/s/0/ca560af4-7ff6-11e5-84dc-31c8b3b18e5f.html#axzz3qB3hxtxQ)
+
+### Related:
+
+1. [Tata Steel is to cut 1,050 jobs in the United Kingdom, with the majority going in South Wales. The Indian multinational steel-making company announced there will be 750 job losses at its Port Talbot Steelworks in Port Talbot, Wales while another 300 jobs will go at its plants in Corby and Hartlepool in England. ](/news/2016/01/18/tata-steel-is-to-cut-1-050-jobs-in-the-united-kingdom-with-the-majority-going-in-south-wales-the-indian-multinational-steel-making-company.md) _Context: United Kingdom, multinational_
+2. [American, British-based telecommunications and television company Liberty Global announces a PS3.5bn (US$5.3bn) deal to buy British multinational telecommunications company Cable and Wireless Communications (CWC). ](/news/2015/11/16/american-british-based-telecommunications-and-television-company-liberty-global-announces-a-aps3-5bn-us-5-3bn-deal-to-buy-british-multinat.md) _Context: United Kingdom, multinational_
+3. [ British mobile phone operator Vodafone posts the largest annual loss in British corporate history &ndash; 21.8 billion &ndash; as it writes down the value of company purchases made mainly in Germany in the years up to 2000. ](/news/2006/05/30/british-mobile-phone-operator-vodafone-posts-the-largest-annual-loss-in-british-corporate-history-ndash-ps21-8-billion-ndash-as-it-write.md) _Context: United Kingdom, Vodafone Group Plc_
+4. [The United Kingdom, on Friday, did not derive energy from any coal-fired source, the first continuous 24-hour, coal-free period for the UK since use of the fossil fuel began. Coal accounted for just 9 percent of the electricity generated last year. ](/news/2017/04/22/the-united-kingdom-on-friday-did-not-derive-energy-from-any-coal-fired-source-the-first-continuous-24-hour-coal-free-period-for-the-uk-s.md) _Context: United Kingdom_
+5. [British sports retailer Sports Direct agreed to acquire the American retail chains Bob's Stores and Eastern Mountain Sports for $101 million out of bankruptcy. ](/news/2017/04/21/british-sports-retailer-sports-direct-agreed-to-acquire-the-american-retail-chains-bob-s-stores-and-eastern-mountain-sports-for-101-million.md) _Context: United Kingdom_
+6. [A second parchment manuscript of the United States Declaration of Independence is discovered by Harvard University researchers, in a record office in Chichester, United Kingdom. ](/news/2017/04/21/a-second-parchment-manuscript-of-the-united-states-declaration-of-independence-is-discovered-by-harvard-university-researchers-in-a-record.md) _Context: United Kingdom_
+7. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: United Kingdom_
+8. [The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. ](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by-522-votes-to-13-a-snap-general-election-to-be-held-on-june-8.md) _Context: United Kingdom_
+9. [British Prime Minster Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minster-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-major.md) _Context: United Kingdom_
+10. [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md) _Context: United Kingdom_

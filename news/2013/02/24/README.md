@@ -1,0 +1,49 @@
+## [2013-02-24](/news/2013/02/24/index.md)
+
+### [Syrian civil war:French freelance photographer Olivier Voisin, who was wounded near Idlib in January 2013, dies in Antakya, Turkey, after surgery. ](/news/2013/02/24/syrian-civil-war-pfrench-freelance-photographer-olivier-voisin-who-was-wounded-near-idlib-in-january-2013-dies-in-antakya-turkey-after-s.md)
+French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x20;died&#x20;from&#x20;injuries&#x20;sustained&#x20;while&#x20;covering&#x20;the&#x20;civil&#x20;war&#x20;in&#x20;Syria,&#x20;France&#x27;s&#x20;ministry&#x20;of&#x20;foreign&#x20;affairs&#x20;confirmed&#x20;to&#x20;FRANCE24&#x20;on&#x20;Sunday.
+
+### [Northern Mali conflict:10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/northern-mali-conflict-p10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-no.md)
+_Context: Adrar des Ifoghas, Chad, Islamist, Mali, Northern Mali conflict (2012–present)_
+
+### [War in Afghanistan:Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/war-in-afghanistan-ptwo-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-provinc.md)
+KABUL, Afghanistan -- Afghan security forces foiled an apparent suicide bomber in central Kabul on Sunday morning but attackers struck police and intelligence offices in two other eastern cities,...
+
+### [Nigerian Sharia conflict:At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/nigerian-sharia-conflict-pat-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md)
+_Context: Nigeria, Nigerian Sharia conflict, Yobe State_
+
+### [M23 rebellion:Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/m23-rebellion-peleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal.md)
+Regional African leaders sign a UN-brokered accord which aims to bring peace to the troubled eastern Democratic Republic of Congo.
+
+### [The 85th Academy Awards are held at the Dolby Theatre in the Los Angeles district of Hollywood. ](/news/2013/02/24/the-85th-academy-awards-are-held-at-the-dolby-theatre-in-the-los-angeles-district-of-hollywood.md)
+Find out who won, and who lost, at the 2013 Academy Awards.
+
+### [Anemia drug Omontys is recalled due to reports of fatal anaphylactic reactions in 0.02% of patients. ](/news/2013/02/24/anemia-drug-omontys-is-recalled-due-to-reports-of-fatal-anaphylactic-reactions-in-0-02-of-patients.md)
+All lots of the new anemia drug peginesatide (Omontys) have been recalled because of severe hypersensitivity reactions -- some fatal -- observed after the drug was approved last March.
+
+### [Voters in Italy go to the polls for the first day of a general election. ](/news/2013/02/24/voters-in-italy-go-to-the-polls-for-the-first-day-of-a-general-election.md)
+Why the rest of the world is so nervous.
+
+### [Nicos Anastasiades of the conservative Democratic Rally party wins the Cypriot presidential election. ](/news/2013/02/24/nicos-anastasiades-of-the-conservative-democratic-rally-party-wins-the-cypriot-presidential-election.md)
+_Context: Cyprus, Democratic Rally, Nicos Anastasiades, presidential election_
+
+### [Raul Castro is elected by the National Assembly of People's Power to a second term as the President of Cuba with Miguel Diaz-Canel announced as the First Vice-President of the Council of State. ](/news/2013/02/24/raaol-castro-is-elected-by-the-national-assembly-of-people-s-power-to-a-second-term-as-the-president-of-cuba-with-miguel-daaz-canel-announc.md)
+Cuban leader Raul Castro announced on Sunday he would step down from power after his second term as president ends in 2018, and the new parliament named a 52-year-old rising star to become his first vice president and most visible successor.
+
+### [A new study finds that chimpanzees will solve puzzles for the fun of it. ](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.md)
+_Context: chimpanzee, fun, puzzle_
+
+### [In stock car racing, Jimmie Johnson wins the 2013 Daytona 500. Pole winner Danica Patrick finishes eighth, marking the highest ever finish by a woman. ](/news/2013/02/24/in-stock-car-racing-jimmie-johnson-wins-the-2013-daytona-500-pole-winner-danica-patrick-finishes-eighth-marking-the-highest-ever-finish-b.md)
+Danica Patrick gets cheers as loud as those for Dale Earnhardt Jr.
+
+### [In association football, Swansea City beat Bradford City 5-0 to win the 2013 Football League Cup Final. ](/news/2013/02/24/in-association-football-swansea-city-beat-bradford-city-5a0-to-win-the-2013-football-league-cup-final.md)
+Swansea claim their first major knockout trophy as they brush aside League Two Bradford to win the Capital One Cup.
+
+### [Derby della Madonnina:  Inter Milan and AC Milan battle to a 1-1 draw in their 2012-13 Serie A local derby. AC Milan's striker Mario Balotelli was the target of racial abuse from fans of his ex-club Inter Milan. ](/news/2013/02/24/derby-della-madonnina-inter-milan-and-ac-milan-battle-to-a-1a1-draw-in-their-2012a13-serie-a-local-derby-ac-milan-s-striker-mario-bal.md)
+Inter Milan are fined 50,000 euros after their fans are found guilty of racial abuse towards AC Milan striker Mario Balotelli.
+
+### [Slovenian alpine ski racer Tina Maze secures the ladies overall title in the 2013 Alpine Skiing World Cup with nine races still remaining. ](/news/2013/02/24/slovenian-alpine-ski-racer-tina-maze-secures-the-ladies-overall-title-in-the-2013-alpine-skiing-world-cup-with-nine-races-still-remaining.md)
+Tina Maze of Slovenia clinched her first overall World Cup title Sunday, winning the super-combined in France, for her eighth victory this season.
+
+## [Previous Day...](/news/2013/02/23/index.md)
+

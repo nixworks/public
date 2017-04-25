@@ -1,0 +1,25 @@
+### [2005-07-19](/news/2005/07/19/index.md)
+
+#  In Thailand, dozens of newspapers editors of Thai Journalist's Association protest against new emergency laws that include media censorship and phone tapping  
+
+
+
+
+### Source:
+
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158815/1/.html)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/BKK118908.htm)
+3. [Index](http://www.indexonline.org/en/indexindex/articles/2005/3/thailand-proposed-executive-decree-would-thr.shtml)
+
+### Related:
+
+1. [ Mass media in Fiji protest against government censorship. ](/news/2009/04/13/mass-media-in-fiji-protest-against-government-censorship.md) _Context: censorship, mass media_
+2. [ Government of Thailand changes the new emergency laws, weakening two articles that would have, among other things, enforced curfews and censorship of personal communication. ](/news/2005/07/20/government-of-thailand-changes-the-new-emergency-laws-weakening-two-articles-that-would-have-among-other-things-enforced-curfews-and-cen.md) _Context: Thailand, censorship_
+3. [ King Gyanendra of Nepal includes media censorship as part of the emergency measures he has declared. ](/news/2005/02/3/king-gyanendra-of-nepal-includes-media-censorship-as-part-of-the-emergency-measures-he-has-declared.md) _Context: censorship, mass media_
+4. [A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-thai-provinces-of-yala-patta.md) _Context: Thailand_
+5. [Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. ](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.md) _Context: Thailand_
+6. [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md) _Context: Thailand_
+7. [Flash flooding in southern Thailand kills at least 18 people. ](/news/2017/01/7/flash-flooding-in-southern-thailand-kills-at-least-18-people.md) _Context: Thailand_
+8. [A traffic collision between a minivan and a pickup truck in the Ban Bueng District of Chonburi Province, Thailand kills at least 25 people and leaves 2 others injured. Authorities investigate the cause of the accident. ](/news/2017/01/2/a-traffic-collision-between-a-minivan-and-a-pickup-truck-in-the-ban-bueng-district-of-chonburi-province-thailand-kills-at-least-25-people-a.md) _Context: Thailand_
+9. [A Saab JAS 39 Gripen fighter jet crashes at Hat Yai International Airport in Thailand while performing at a Children's Day air show, killing the pilot, who failed to eject. ](/news/2017/01/14/a-saab-jas-39-gripen-fighter-jet-crashes-at-hat-yai-international-airport-in-thailand-while-performing-at-a-children-s-day-air-show-killing.md) _Context: Thailand_
+10. [ Heavy flooding kills 14 people in Thailand and badly affects the islands of Samui and Pha Ngan in the Gulf of Thailand. It has also severed the rail link to southern Thailand and Malaysia. ](/news/2016/12/6/heavy-flooding-kills-14-people-in-thailand-and-badly-affects-the-islands-of-samui-and-pha-ngan-in-the-gulf-of-thailand-it-has-also-severed.md) _Context: Thailand_

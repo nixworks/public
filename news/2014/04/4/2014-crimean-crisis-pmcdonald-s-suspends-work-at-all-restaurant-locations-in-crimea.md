@@ -1,0 +1,23 @@
+### [2014-04-4](/news/2014/04/4/index.md)
+
+# 2014 Crimean Crisis:McDonald's suspends work at all restaurant locations in Crimea. 
+
+
+
+
+### Source:
+
+1. [KNTV](http://www.nbcbayarea.com/news/national-international/253869301.html?_osource=SocialFlowTwt_BAYBrand)
+
+### Related:
+
+1. [Longtime FIFA corporate sponsors -- Coca-Cola Co., McDonald's, Visa Inc., and Budweiser owner Anheuser-Busch InBev -- demand FIFA President Sepp Blatter step down immediately following last week's announcement of his criminal investigation by the Swiss attorney general. Blatter refused. ](/news/2015/10/2/longtime-fifa-corporate-sponsors-coca-cola-co-mcdonald-s-visa-inc-and-budweiser-owner-anheuser-busch-inbev-demand-fifa-president.md) _Context: McDonald's_
+2. [The Obama Administration, through its appointment of a majority of board members on the Democratic-controlled U.S. National Labor Relations Board's 3&ndash;2 ruling in the Browning-Ferris case uses an expanded definition of joint employer when determining if a parent company shares responsibility for workers hired by a subcontractor or franchisee. The Republican-controlled US Congress responded to arguments from businesses such as the International Franchise Association by adding another NLRB-related rider to the budget to block implementation of this latest ruling. Browning-Ferris  can appeal the decision to a federal appeals court. The ruling could affect current unionization and pay efforts at McDonald's franchises. ](/news/2015/08/27/the-obama-administration-through-its-appointment-of-a-majority-of-board-members-on-the-democratic-controlled-u-s-national-labor-relations.md) _Context: McDonald's_
+3. [Food safety incidents in China:McDonald's restaurants stop selling Chicken McNuggets and some other chicken products in Hong Kong, China and Japan from Shanghai Husi Foods that allegedly sold out-of-date items to fast food restaurants. ](/news/2014/07/25/food-safety-incidents-in-china-pmcdonald-s-restaurants-stop-selling-chicken-mcnuggets-and-some-other-chicken-products-in-hong-kong-china-an.md) _Context: McDonald's_
+4. [2014 Crimean crisis:Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/2014-crimean-crisis-prussian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-vict.md) _Context: 2014 Crimean crisis_
+5. [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md) _Context: 2014 Crimean crisis_
+6. [2014 Crimean crisis:The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/2014-crimean-crisis-pthe-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observati.md) _Context: 2014 Crimean crisis_
+7. [2014 Crimean crisis:NATO suspends "all practical civilian and military cooperation" with Russia as a result of the annexation of Crimea, and no sign that Russian troops have withdrawn from the Ukrainian border. ](/news/2014/04/1/2014-crimean-crisis-pnato-suspends-all-practical-civilian-and-military-cooperation-with-russia-as-a-result-of-the-annexation-of-crimea-an.md) _Context: 2014 Crimean crisis_
+8. [2014 Crimean crisis:Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/2014-crimean-crisis-parmed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing-s.md) _Context: 2014 Crimean crisis_
+9. [Two members of the protest band Pussy Riot are left with chemical burns and head injuries after being attacked by a group of people in a McDonald's. ](/news/2014/03/6/two-members-of-the-protest-band-pussy-riot-are-left-with-chemical-burns-and-head-injuries-after-being-attacked-by-a-group-of-people-in-a-mcd.md) _Context: McDonald's_
+10. [2014 Crimean crisis:The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-pthe-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of-h.md) _Context: 2014 Crimean crisis_

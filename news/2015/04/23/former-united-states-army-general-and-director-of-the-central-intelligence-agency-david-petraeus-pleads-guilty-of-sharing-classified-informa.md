@@ -1,0 +1,23 @@
+### [2015-04-23](/news/2015/04/23/index.md)
+
+# Former United States Army general and Director of the Central Intelligence Agency David Petraeus pleads guilty of sharing classified information with his biographer and lover. He is given two years probation and a $100,000 fine. 
+
+Former US army general and CIA director fined $100,000 – $60,000 more than expected – after pleading guilty to leaking information to biographer and lover Paula Broadwell
+
+
+### Source:
+
+1. [The Guardian](http://www.theguardian.com/us-news/2015/apr/23/david-petraeus-sentenced-sharing-classified-information)
+
+### Related:
+
+1. [Former CIA director and U.S. Army officer David Petraeus pleads guilty in federal court to a charge of unauthorized removal and retention of classified information. ](/news/2015/03/3/former-cia-director-and-u-s-army-officer-david-petraeus-pleads-guilty-in-federal-court-to-a-charge-of-unauthorized-removal-and-retention-of.md) _Context: David Petraeus, Director of the CIA, United States Army_
+2. [CIA Director David Petraeus submits his resignation to President Barack Obama, citing an extramarital affair he had. ](/news/2012/11/9/cia-director-david-petraeus-submits-his-resignation-to-president-barack-obama-citing-an-extramarital-affair-he-had.md) _Context: David Petraeus, Director of the CIA_
+3. [David Petraeus, the Director of the Central Intelligence Agency, is honored with the Grand Cross with swords in the Order of Orange-Nassau in The Hague for his service as a four-star general in Iraq and Afghanistan. ](/news/2012/03/16/david-petraeus-the-director-of-the-central-intelligence-agency-is-honored-with-the-grand-cross-with-swords-in-the-order-of-orange-nassau-i.md) _Context: David Petraeus, Director of the CIA_
+4. [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md) _Context: David Petraeus, Director of the CIA_
+5. [United States Army General David Petraeus, the Commander of the International Security Assistance Force in Afghanistan, condemns plans by a small Florida church to burn copies of the Koran on the anniversary of the September 11 attacks as inflammatory. ](/news/2010/09/7/united-states-army-general-david-petraeus-the-commander-of-the-international-security-assistance-force-in-afghanistan-condemns-plans-by-a.md) _Context: David Petraeus, United States Army_
+6. [A United States Army UH-60 Black Hawk helicopter crashes on a golf course in Leonardtown, Maryland. At least one crew member is injured and taken to hospital. ](/news/2017/04/17/a-united-states-army-uh-60-black-hawk-helicopter-crashes-on-a-golf-course-in-leonardtown-maryland-at-least-one-crew-member-is-injured-and.md) _Context: United States Army_
+7. [President Donald Trump names United States Army Lt. General H. R. McMaster as National Security Advisor and says that U.S. Lt. Gen. Keith Kellogg, who has been the acting NSA, will remain as the NSC's Chief of Staff. ](/news/2017/02/20/president-donald-trump-names-united-states-army-lt-general-h-r-mcmaster-as-national-security-advisor-and-says-that-u-s-lt-gen-keith-ke.md) _Context: United States Army_
+8. [Michael T. Flynn resigns as National Security Advisor following controversy over his alleged contacts with Russian officials. Retired United States Army general Keith Kellogg subsequently becomes acting  National Security Advisor until a permanent replacement is appointed. ](/news/2017/02/13/michael-t-flynn-resigns-as-national-security-advisor-following-controversy-over-his-alleged-contacts-with-russian-officials-retired-united.md) _Context: United States Army_
+9. [Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. ](/news/2016/11/18/officials-serving-on-president-elect-donald-trump-s-transition-team-reveal-selections-for-high-level-positions-including-senator-jeff-sessi.md) _Context: Director of the CIA_
+10. [A Defense Department audit reveals that the United States Army had manipulated its finances, making $6.5 trillion of improper accounting adjustments in order to balance the books in 2015. ](/news/2016/08/19/a-defense-department-audit-reveals-that-the-united-states-army-had-manipulated-its-finances-making-6-5-trillion-of-improper-accounting-adj.md) _Context: United States Army_

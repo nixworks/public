@@ -1,0 +1,14 @@
+### [2016-03-3](/news/2016/03/3/index.md)
+
+# Honduran indigenous environmental activist Berta Caceres is assassinated in her home in La Esperanza in Intibuca Department. 
+
+
+
+
+### Source:
+
+1. [Telesur](http://www.telesurtv.net/english/news/Honduras-Indigenous-Leader-Berta-Caceres-Assassinated-in-Home-20160303-0010.html)
+
+### Related:
+
+1. [Honduran authorities arrest four men  in the March 3 home invasion killing of Goldman Environmental Prize-winning environmental activist  Berta Caceres. One of the suspects was an active duty army officer while the others worked for  Desarrollos Energeticos SA, whose hydroelectric project Caceres had opposed since 2006. The four also face charges on the attempted murder of Mexican environmental activist Gustavo Castro Soto, who was injured in the attack. ](/news/2016/05/2/honduran-authorities-arrest-four-men-in-the-march-3-home-invasion-killing-of-goldman-environmental-prize-winning-environmental-activist-be.md) _Context: Berta Cáceres_

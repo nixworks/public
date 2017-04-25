@@ -1,0 +1,34 @@
+## [2012-08-1](/news/2012/08/1/index.md)
+
+### [Alfred Hitchcock's 1958 suspense thriller ''Vertigo'' is named as the greatest film of all time in a poll by the British Film Institute's ''Sight and Sound'' magazine. ](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertigo-is-named-as-the-greatest-film-of-all-time-in-a-poll-by-the-british-film-institute-s.md)
+_Context: Alfred Hitchcock, Sight and Sound, Vertigo_
+
+### [Power is restored in India following an earlier blackout in three grids that left over 600 million people without power. ](/news/2012/08/1/power-is-restored-in-india-following-an-earlier-blackout-in-three-grids-that-left-over-600-million-people-without-power.md)
+_Context: India, blackout_
+
+### [Saudi Aramco is ranked by ''Forbes'' as the first among the world's 25 largest oil companies. ](/news/2012/08/1/saudi-aramco-is-ranked-by-forbes-as-the-first-among-the-world-s-25-largest-oil-companies.md)
+_Context: Forbes, Saudi Aramco_
+
+### [Heading toward Taiwan, slow-moving Typhoon Saola's torrential rains lead to the deaths of at least 12 people and displacement of 154,000 in the Philippines. ](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.md)
+_Context: Taiwan, The Philippines, Typhoon Saola_
+
+### [The Tal Law, which granted a sweeping exemption from military service to a majority of the Israeli ultra-Orthodox population in Israel, expires. As a result Defense Minister Ehud Barak orders the Israeli Defense Forces to prepare for a universal draft of ultra-Orthodox Jewish males in 30 days. ](/news/2012/08/1/the-tal-law-which-granted-a-sweeping-exemption-from-military-service-to-a-majority-of-the-israeli-ultra-orthodox-population-in-israel-expi.md)
+No haredim slated to be drafted as defense minister orders IDF to create a plan within 30 days on enlistment.
+
+### [Somali security forces kill two suicide bombers trying to infiltrate a meeting of 825 Somali elders discussing the country's new constitution in Mogadishu. ](/news/2012/08/1/somali-security-forces-kill-two-suicide-bombers-trying-to-infiltrate-a-meeting-of-825-somali-elders-discussing-the-country-s-new-constitutio.md)
+_Context: Mogadishu, Somalia_
+
+### [Prosecutors formally charge three Mexican Army generals, including active General Roberto Dawe Gonzalez and retired General Toms ngeles Dauahare, and a lieutenant-colonel for their alleged links to a drug trafficking organization known as the Beltrn-Leyva Cartel. ](/news/2012/08/1/prosecutors-formally-charge-three-mexican-army-generals-including-active-general-roberto-dawe-gonzalez-and-retired-general-tomas-angeles-da.md)
+_Context: Beltrán Leyva Cartel, Mexican Army, Roberto Dawe Gonzalez, Tomás Ángeles Dauahare_
+
+### [Four coordinated low intensity bombs explode in the Indian city of Pune. ](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.md)
+_Context: India, Pune_
+
+### [A second Israeli who set himself on fire in protest of economic difficulties in Tel Aviv dies of his injuries in hospital. ](/news/2012/08/1/a-second-israeli-who-set-himself-on-fire-in-protest-of-economic-difficulties-in-tel-aviv-dies-of-his-injuries-in-hospital.md)
+A second Israeli who set himself on fire in protest at economic difficulties has died of his injuries, the hospital treating him said on Wednesday.
+
+### [2012 Summer Olympics: The Badminton World Federation charges eight women's doubles players from South Korea, China and Indonesia with "not using one's best efforts to win a match". ](/news/2012/08/1/2012-summer-olympics-the-badminton-world-federation-charges-eight-women-s-doubles-players-from-south-korea-china-and-indonesia-with-not-u.md)
+Eight female Olympic players are accused of not &quot;using best efforts to win&quot; - as British gold medal hopes focus on rowing and cycling.
+
+## [Previous Day...](/news/2012/07/31/index.md)
+

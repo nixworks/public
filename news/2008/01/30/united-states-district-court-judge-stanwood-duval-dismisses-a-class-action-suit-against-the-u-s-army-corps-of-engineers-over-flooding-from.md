@@ -1,0 +1,23 @@
+### [2008-01-30](/news/2008/01/30/index.md)
+
+#  United States District Court judge Stanwood Duval dismisses a class action suit against the U.S. Army Corps of Engineers over flooding from a levee breach in New Orleans, Louisiana after Hurricane Katrina. 
+
+
+
+
+### Source:
+
+1. [AP via Google News](http://ap.google.com/article/ALeqM5jVbvfaTjQtevryQeGj7a0XOOwGlQD8UGHBL81)
+
+### Related:
+
+1. [ United States district court judge Florence-Marie Cooper rules that President George W. Bush cannot exempt the United States Navy from complying with environmental laws banning sonar training. ](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.md) _Context: U.S. federal court, judge_
+2. [ United States District Court judge Ronald Whyte strikes down a California law aiming to prohibit minors from buying or renting violent video games on First Amendment grounds. ](/news/2007/08/6/united-states-district-court-judge-ronald-whyte-strikes-down-a-california-law-aiming-to-prohibit-minors-from-buying-or-renting-violent-vide.md) _Context: U.S. federal court, judge_
+3. [ United States District Court judge William Hoeveler rules against former Panamanian leader Manuel Noriega returning to Panama after he completes his sentence in a United States prison stating that there was no reason why he shouldn't be extradited to France to face a prison term there. ](/news/2007/08/24/united-states-district-court-judge-william-hoeveler-rules-against-former-panamanian-leader-manuel-noriega-returning-to-panama-after-he-comp.md) _Context: U.S. federal court, judge_
+4. [ Seven policemen charged in a deadly Danziger Bridge shooting in the chaotic aftermath of Hurricane Katrina turn themselves in at a New Orleans city jail. ](/news/2007/01/2/seven-policemen-charged-in-a-deadly-danziger-bridge-shooting-in-the-chaotic-aftermath-of-hurricane-katrina-turn-themselves-in-at-a-new-orle.md) _Context: Hurricane Katrina, New Orleans, Louisiana_
+5. [ United States District Court judge Richard J. Leon orders the Bush administration to resume making payments to thousands of people who lost their homes as a result of Hurricane Katrina. ](/news/2006/11/29/united-states-district-court-judge-richard-j-leon-orders-the-bush-administration-to-resume-making-payments-to-thousands-of-people-who-lost.md) _Context: Hurricane Katrina, U.S. federal court_
+6. [ A report issued by the United States Army Corps of Engineers admits their responsibility for 2005 levee failures that flooded the majority of New Orleans, Louisiana in the aftermath of Hurricane Katrina. ](/news/2006/06/1/a-report-issued-by-the-united-states-army-corps-of-engineers-admits-their-responsibility-for-2005-levee-failures-that-flooded-the-majority.md) _Context: Hurricane Katrina, New Orleans, Louisiana_
+7. [ 2005 levee failures in Greater New Orleans: An Investigations of the 17th Street Canal, whose failure flooded much of New Orleans, Louisiana in the wake of Hurricane Katrina, show that metal pilings were seven feet shallower than engineering specifications. ](/news/2005/11/10/2005-levee-failures-in-greater-new-orleans-an-investigations-of-the-17th-street-canal-whose-failure-flooded-much-of-new-orleans-louisian.md) _Context: Hurricane Katrina, New Orleans, Louisiana_
+8. [ CNN reports that the Louisiana attorney general is investigating the possibility that mercy killings of critically ill patients by staff medical professionals  at Memorial Medical Center in New Orleans, Louisiana occurred during Hurricane Katrina. ](/news/2005/10/12/cnn-reports-that-the-louisiana-attorney-general-is-investigating-the-possibility-that-mercy-killings-of-critically-ill-patients-by-staff-me.md) _Context: Hurricane Katrina, New Orleans, Louisiana_
+9. [  New Orleans mayor Ray Nagin again urges the city's remaining holdouts to leave the area.  New Orleans is now only 60% underwater.  The number of dead in the city could be as few as 2,000 and as many as 20,000, according to estimates. ](/news/2005/09/7/new-orleans-mayor-ray-nagin-again-urges-the-city-s-remaining-holdouts-to-leave-the-area-new-orleans-is-now-only-60-underwater-the-num.md) _Context: Hurricane Katrina, New Orleans, Louisiana_
+10. [ U.S. President George W. Bush tours the area devastated by Hurricane Katrina amidst growing criticism of his lack of leadership.  Media reports say he will not visit New Orleans. Bush said order would be restored and New Orleans would emerge from its "darkest days". ](/news/2005/09/2/u-s-president-george-w-bush-tours-the-area-devastated-by-hurricane-katrina-amidst-growing-criticism-of-his-lack-of-leadership-media-rep.md) _Context: Hurricane Katrina, New Orleans, Louisiana_

@@ -1,0 +1,23 @@
+### [2008-05-28](/news/2008/05/28/index.md)
+
+#  Ehud Barak, the Defense Minister of Israel and Leader of the Labor Party, calls for the resignation of the Prime Minister of Israel Ehud Olmert to step aside to face corruption allegations. 
+
+
+
+
+### Source:
+
+1. [AP via Google News](http://ap.google.com/article/ALeqM5jHxO0KmvqjmyFN039njXdLAIrXUAD90UNSG80)
+
+### Related:
+
+1. [ The Prime Minister of Israel Ehud Olmert strikes a deal with the Labor Party to avoid dissolution of the Knesset in return for Olmert holding a leadership contest for the Kadima party by September. ](/news/2008/06/25/the-prime-minister-of-israel-ehud-olmert-strikes-a-deal-with-the-labor-party-to-avoid-dissolution-of-the-knesset-in-return-for-olmert-holdi.md) _Context: Ehud Olmert, Labor Party, prime minister of Israel_
+2. [ Ehud Barak, former Prime Minister of Israel, declares victory in a vote for the leadership of the Israeli Labor Party, with 51.5% of the vote compared to 47.5% for former security chief Ami Ayalon. ](/news/2007/06/12/ehud-barak-former-prime-minister-of-israel-declares-victory-in-a-vote-for-the-leadership-of-the-israeli-labor-party-with-51-5-of-the-vo.md) _Context: Ehud Barak, Labor Party, prime minister of Israel_
+3. [ Ehud Barak, former Prime Minister of Israel, wins the first round of the Israeli Labor Party leadership election and faces a runoff against former secret service chief Ami Ayalon. ](/news/2007/05/29/ehud-barak-former-prime-minister-of-israel-wins-the-first-round-of-the-israeli-labor-party-leadership-election-and-faces-a-runoff-against.md) _Context: Ehud Barak, Labor Party, prime minister of Israel_
+4. [ A top aide to Israeli Prime Minister Ehud Olmert has been suspended from her job for six months while a corruption inquiry is conducted, officials say. ](/news/2007/02/11/a-top-aide-to-israeli-prime-minister-ehud-olmert-has-been-suspended-from-her-job-for-six-months-while-a-corruption-inquiry-is-conducted-of.md) _Context: Ehud Olmert, anti-corruption, prime minister of Israel_
+5. [Former Prime Minister of Israel Ehud Olmert starts a 19-month prison sentence for bribery and obstructing justice. In the last decade, he was found or admitted guilty in four different corruption investigations. ](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-starts-a-19-month-prison-sentence-for-bribery-and-obstructing-justice-in-the-last-decade-he-wa.md) _Context: Ehud Olmert, prime minister of Israel_
+6. [Former Prime Minister of Israel Ehud Olmert is sentenced to eight months in jail following a conviction on corruption charges for unlawfully accepting multiple envelopes with cash from an American supporter. There are 3 more criminals prosecutions against him. ](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.md) _Context: Ehud Olmert, prime minister of Israel_
+7. [The Jerusalem District Court finds former Prime Minister of Israel Ehud Olmert guilty of accepting cash from an American businessman for personal use. ](/news/2015/03/30/the-jerusalem-district-court-finds-former-prime-minister-of-israel-ehud-olmert-guilty-of-accepting-cash-from-an-american-businessman-for-per.md) _Context: Ehud Olmert, prime minister of Israel_
+8. [Turkey's Foreign Ministry summons Israel's ambassador after the Israeli Defence Minister Ehud Barak accuses the new head of Turkish intelligence of being a "friend of Iran". ](/news/2010/08/3/turkey-s-foreign-ministry-summons-israel-s-ambassador-after-the-israeli-defence-minister-ehud-barak-accuses-the-new-head-of-turkish-intellig.md) _Context: Defense Minister, Ehud Barak_
+9. [Defense Minister of Israel Ehud Barak testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. His prime minister Benjamin Netanyahu yesterday testified that he had left Barak to "co-ordinate" the raid and response "in all of its aspects" while he visited North America. ](/news/2010/08/10/defense-minister-of-israel-ehud-barak-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-flotilla-ra.md) _Context: Defense Minister, Ehud Barak_
+10. [Israel asks the United Nations to suspend attempts to organise an international inquiry into the Gaza flotilla raid, with Israeli Defence Minister Ehud Barak saying "some organisation, probably backed by a terror organisation, (is) once again trying to send a vessel into Gaza." ](/news/2010/06/22/israel-asks-the-united-nations-to-suspend-attempts-to-organise-an-international-inquiry-into-the-gaza-flotilla-raid-with-israeli-defence-mi.md) _Context: Defense Minister, Ehud Barak_

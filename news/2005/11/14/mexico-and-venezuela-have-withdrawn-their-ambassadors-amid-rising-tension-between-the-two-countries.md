@@ -1,0 +1,23 @@
+### [2005-11-14](/news/2005/11/14/index.md)
+
+#  Mexico and Venezuela have withdrawn their ambassadors amid rising tension between the two countries. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://news.yahoo.com/s/ap/20051114/ap_on_re_la_am_ca/mexico_venezuela;_ylt=AobDzJmlALX2YL_KoTYBbYNbbBAF;_ylu=X3oDMTA4NTMzazIyBHNlYwMxNjk2)
+
+### Related:
+
+1. [Colombian President Alvaro Uribe and Venezuelan President Hugo Chavez almost come to blows at the Rio Group summit in Playa del Carmen, Mexico, with Uribe taunting Chavez "Be a man! ... you're a coward face-to-face! Stay and argue face-to-face!" and Chavez responding with a simple "Go to Hell!" ](/news/2010/02/22/colombian-president-alvaro-uribe-and-venezuelan-president-hugo-cha-vez-almost-come-to-blows-at-the-rio-group-summit-in-playa-del-carmen-me.md) _Context: Mexico, Venezuela_
+2. [ On an official visit to Colombia, Mexican President Felipe Calderon offers his country's mediation in the conflict between that country, Ecuador and Venezuela. ](/news/2009/08/13/on-an-official-visit-to-colombia-mexican-president-felipe-caldera3n-offers-his-countryas-mediation-in-the-conflict-between-that-country.md) _Context: Mexico, Venezuela_
+3. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Venezuela_
+4. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Venezuela_
+5. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: Venezuela_
+6. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
+7. [Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-against-president-nicola-s-maduro-in.md) _Context: Venezuela_
+8. [Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. ](/news/2017/04/13/thousands-of-people-take-to-the-streets-in-caracas-as-venezuelan-authorities-acknowledge-a-fifth-death-in-the-protests.md) _Context: Venezuela_
+9. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Venezuela_
+10. [Peru-Venezuela relationsPeruvian  President Pedro Pablo Kuczynski's government creates a temporary visa for thousands of Venezuelans whose country  is mired in a deep economic crisis. Visa holders will be able to study, work, and receive health services in Peru for a year. "This is part of our migratory policy that aims to build bridges not walls", says Interior Minister Carlos Basombrio. ](/news/2017/02/3/peruavenezuela-relationspperuvian-president-pedro-pablo-kuczynski-s-government-creates-a-temporary-visa-for-thousands-of-venezuelans-whos.md) _Context: Venezuela_

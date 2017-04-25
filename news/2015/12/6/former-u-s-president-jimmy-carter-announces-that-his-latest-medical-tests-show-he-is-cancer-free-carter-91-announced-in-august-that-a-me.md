@@ -1,0 +1,24 @@
+### [2015-12-6](/news/2015/12/6/index.md)
+
+# Former U.S. President Jimmy Carter announces that his latest medical tests show he is cancer-free. Carter, 91, announced in August that a melanoma for which he had been treated had returned. 
+
+Former President Jimmy Carter said Sunday his cancer is gone. Carter said in a statement that his most recent MRI brain scan did not reveal any signs of the original cancer spots or any new ones and that he’ll continue his treatment.
+
+
+### Source:
+
+1. [The Atlantic Journal-Constitution](http://www.ajc.com/news/news/carter-cancer-is-gone/npdFQ/)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/06/458680791/former-president-jimmy-carter-says-he-is-cancer-free?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=202706)
+
+### Related:
+
+1. [Former U.S. President Jimmy Carter announceds that his liver cancer (melanoma) has spread to his brain. In addition to radiation, Carter will be treated with a new drug, Keytruda (pembrolizumab), that boosts the immune system without the debilitating side effects of older treatments. ](/news/2015/08/20/former-u-s-president-jimmy-carter-announceds-that-his-liver-cancer-melanoma-has-spread-to-his-brain-in-addition-to-radiation-carter-wil.md) _Context: Jimmy Carter, melanoma_
+2. [U.S. news magazine ''Time'' selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those.md) _Context: Jimmy Carter, U.S._
+3. [U.S. President Barack Obama expands the Papahanaumokuakea Marine National Monument off the coast of Hawai'i, making it the largest national park on the planet. ](/news/2016/08/26/u-s-president-barack-obama-expands-the-papahanaumokuakea-marine-national-monument-off-the-coast-of-hawai-i-making-it-the-largest-nationa.md) _Context: U.S._
+4. [The President of Russia, Vladimir Putin, warns Romania and Poland against hosting parts of the U.S. missile defense shield. ](/news/2016/05/28/the-president-of-russia-vladimir-putin-warns-romania-and-poland-against-hosting-parts-of-the-u-s-missile-defense-shield.md) _Context: U.S._
+5. [ U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md) _Context: U.S._
+6. [Government officials from Cuba and the U.S. met in Havana, beginning settlement discussions surrounding $1.9 billion worth of U.S. assets seized by Fidel Castro's regime in the early 1960s.  By law, the United States embargo against Cuba cannot cease until settlements are made. ](/news/2015/12/9/government-officials-from-cuba-and-the-u-s-met-in-havana-beginning-settlement-discussions-surrounding-1-9-billion-worth-of-u-s-assets-se.md) _Context: U.S._
+7. [Janet L. Yellen, chairperson of the U.S. Federal Reserve Bank, states that economic conditions improved to the point where a rise in the Fed's benchmark interest rate is likely when the Federal Open Market Committee meets in mid-December. ](/news/2015/12/2/janet-l-yellen-chairperson-of-the-u-s-federal-reserve-bank-states-that-economic-conditions-improved-to-the-point-where-a-rise-in-the-fed.md) _Context: U.S._
+8. [Quebec-based Valeant Pharmaceuticals International cut all ties with Philidor Rx Services. This comes in the wake of recent revelations that Valeant was looking to acquire Philidor, a relationship that raised questions from various quarters. Valeant is the subject of U.S. federal investigations. ](/news/2015/10/30/quebec-based-valeant-pharmaceuticals-international-cut-all-ties-with-philidor-rx-services-this-comes-in-the-wake-of-recent-revelations-that.md) _Context: U.S._
+9. [Iraqi Civil War (2014-present), American-led intervention in Iraq, United States Secretary of Defense Ashton Carter indicates a more robust role ahead for the United States military in bolstering indigenous forces countering ISIS and in response to Russia's increasing role in Middle East conflicts. ](/news/2015/10/26/iraqi-civil-war-2014apresent-american-led-intervention-in-iraq-united-states-secretary-of-defense-ashton-carter-indicates-a-more-robus.md) _Context: U.S._
+10. [Former U.S. President Jimmy Carter, aged 90, announces that recent liver surgery revealed that he is suffering from an as-yet unspecified form of cancer which has spread to other parts of his body. ](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.md) _Context: Jimmy Carter_

@@ -1,0 +1,24 @@
+### [2014-05-9](/news/2014/05/9/index.md)
+
+# 2014 pro-Russian unrest in Ukraine:On Victory Day, the Ukrainian Institute of National Memory calls on Ukrainians to replace the ribbon of Saint George with a red poppy flower, a symbol that is used in Commonwealth countries on Remembrance Day. 
+
+Symbol of defeat of Nazi Germany seen in new light by neighbouring states 
+
+
+### Source:
+
+1. [Irish Times](http://www.irishtimes.com/news/world/europe/russian-ribbon-of-saint-george-divides-former-soviet-empire-1.1788933)
+2. [AFP via ''Zeenews](http://zeenews.india.com/news/world/triumphant-russia-subdued-ukraine-eye-victory-day-celebrations_930375.html)
+
+### Related:
+
+1. [British Home Secretary Theresa May bans the Islamic extremist group Muslims Against Crusades, which planned to repeat a poppy-burning demonstration held on Remembrance Day in 2010. ](/news/2011/11/10/british-home-secretary-theresa-may-bans-the-islamic-extremist-group-muslims-against-crusades-which-planned-to-repeat-a-poppy-burning-demons.md) _Context: Remembrance Day, symbol_
+2. [Malaysia Airlines Flight 17; Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/malaysia-airlines-flight-17-dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-miss.md) _Context: 2014 pro-Russian unrest in Ukraine_
+3. [Russia stages its biggest ever military parade in Moscow's Red Square to commemorate the 70th anniversary of Victory Day despite a boycott by many western world leaders due to Russian involvement in the Ukrainian crisis. ](/news/2015/05/9/russia-stages-its-biggest-ever-military-parade-in-moscow-s-red-square-to-commemorate-the-70th-anniversary-of-victory-day-despite-a-boycott-b.md) _Context: Victory Day_
+4. [Swedish Prime Minister Stefan Lofven says that neither he nor any other of his cabinet-level ministers will be attending the 70th anniversary of the end of World War II in Moscow due to Russia's actions in Ukraine. Sweden joins a large group of European countries unofficially boycotting the May 9th Victory Day parade.  ](/news/2015/04/5/swedish-prime-minister-stefan-lapfven-says-that-neither-he-nor-any-other-of-his-cabinet-level-ministers-will-be-attending-the-70th-anniversa.md) _Context: Victory Day_
+5. [Foreign ministers from members of NATO attend a summit in Belgium to discuss the 2014 pro-Russian unrest in Ukraine and the Islamic State in Iraq and the Levant insurgency. ](/news/2014/12/3/foreign-ministers-from-members-of-nato-attend-a-summit-in-belgium-to-discuss-the-2014-pro-russian-unrest-in-ukraine-and-the-islamic-state-in.md) _Context: 2014 pro-Russian unrest in Ukraine_
+6. [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md) _Context: 2014 pro-Russian unrest in Ukraine_
+7. [At least three people die in a new round of fighting between the Armed Forces of Ukraine and pro-Russian separatists. ](/news/2014/11/26/at-least-three-people-die-in-a-new-round-of-fighting-between-the-armed-forces-of-ukraine-and-pro-russian-separatists.md) _Context: 2014 pro-Russian unrest in Ukraine_
+8. [2014 pro-Russian unrest in Ukraine:Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/2014-pro-russian-unrest-in-ukraine-pvoters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-respe.md) _Context: 2014 pro-Russian unrest in Ukraine_
+9. [Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-the-sidelines-of-the-asiaaeurope-mee.md) _Context: 2014 pro-Russian unrest in Ukraine_
+10. [2014 pro-Russian unrest in Ukraine:The RIA Novosti news agency reports that Russian photojournalist Andrey Stenin has been found dead in Ukraine. It was discovered that he died 4 weeks ago. ](/news/2014/09/3/2014-pro-russian-unrest-in-ukraine-pthe-ria-novosti-news-agency-reports-that-russian-photojournalist-andrey-stenin-has-been-found-dead-in-uk.md) _Context: 2014 pro-Russian unrest in Ukraine_

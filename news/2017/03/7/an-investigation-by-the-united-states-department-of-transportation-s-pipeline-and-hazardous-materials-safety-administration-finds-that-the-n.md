@@ -1,0 +1,23 @@
+### [2017-03-7](/news/2017/03/7/index.md)
+
+# An investigation by the United States Department of Transportation's Pipeline and Hazardous Materials Safety Administration finds that the natural gas leak occurring in Alaska's Cook Inlet began earlier than first reported, and represents significant safety and environmental risks. The agency gives pipeline operator Hilcorp Energy until May 1, 2017 to fix the leak, or shut the pipeline down. 
+
+A leaking gas line in the Cook Inlet does pose safety and environmental risks according to the Pipeline and Hazardous Materials Safety Administration.
+
+
+### Source:
+
+1. [KTUU-TV](http://www.ktuu.com/content/news/Investigation-finds-Hilcorp-gas-leak-poses-risks--starter-earlier-than-first-reported-415636093.html)
+
+### Related:
+
+1. [A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.md) _Context: 2016-2017 Cook Inlet natural gas leak, Cook Inlet, natural gas_
+2. [ The National Oceanic and Atmospheric Administration declares that the beluga whale of Alaska's Cook Inlet is an endangered species. ](/news/2008/10/17/the-national-oceanic-and-atmospheric-administration-declares-that-the-beluga-whale-of-alaska-s-cook-inlet-is-an-endangered-species.md) _Context: Alaska, Cook Inlet_
+3. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Alaska_
+4. [An arriving passenger from Alaska removes his checked-baggage pistol and kills five people and injures six at the Fort Lauderdale-Hollywood International Airport in Florida. ](/news/2017/01/6/an-arriving-passenger-from-alaska-removes-his-checked-baggage-pistol-and-kills-five-people-and-injures-six-at-the-fort-lauderdaleahollywoo.md) _Context: Alaska_
+5. [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md) _Context: natural gas_
+6. [A volcanic eruption continues on Bogoslof Island near Unalaska, in the Aleutian Islands of Alaska. The eruption has impacted air transportation routes. ](/news/2016/12/30/a-volcanic-eruption-continues-on-bogoslof-island-near-unalaska-in-the-aleutian-islands-of-alaska-the-eruption-has-impacted-air-transportat.md) _Context: Alaska_
+7. [The U.S. Transportation Department's emergency order banning Samsung Galaxy Note 7 from aircraft in the United States goes into effect. ](/news/2016/10/15/the-u-s-transportation-department-s-emergency-order-banning-samsung-galaxy-note-7-from-aircraft-in-the-united-states-goes-into-effect.md) _Context: United States Department of Transportation_
+8. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: natural gas_
+9. [Two nearby boats, responding to a Coast Guard emergency broadcast, rescue 46 people  from the sinking 220-foot ''Alaska Juris'' fishing boat in the Bering Sea off Alaska's Aleutian Islands. There are no reports of injuries; all on board were wearing survival suits. ](/news/2016/07/26/two-nearby-boats-responding-to-a-coast-guard-emergency-broadcast-rescue-46-people-from-the-sinking-220-foot-alaska-juris-fishing-boat.md) _Context: Alaska_
+10. [A small-plane crashes near Chugiak, Anchorage in Alaska, killing at least four people, according to the Anchorage Fire Department. ](/news/2016/04/20/a-small-plane-crashes-near-chugiak-anchorage-in-alaska-killing-at-least-four-people-according-to-the-anchorage-fire-department.md) _Context: Alaska_

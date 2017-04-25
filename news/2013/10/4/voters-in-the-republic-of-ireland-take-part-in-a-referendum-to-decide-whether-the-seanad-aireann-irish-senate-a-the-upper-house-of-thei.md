@@ -1,0 +1,23 @@
+### [2013-10-4](/news/2013/10/4/index.md)
+
+# Voters in the Republic of Ireland take part in a referendum to decide whether the Seanad Eireann (Irish Senate) - the upper house of their parliament - should be abolished, and reforms made to the Court of Appeal. 
+
+Voting has closed in a referendum on whether to retain the Senate in the Republic of Ireland.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-24395339)
+
+### Related:
+
+1. [In two referendums, voters in the Republic of Ireland reject government proposals to abolish Seanad ireann, the upper house of the country's parliament, but support plans to create a Court of Appeal. ](/news/2013/10/5/in-two-referendums-voters-in-the-republic-of-ireland-reject-government-proposals-to-abolish-seanad-eireann-the-upper-house-of-the-country.md) _Context: Court of Appeal, Ireland, two referendums_
+2. [The secretive Opus Dei sect is mobilising within the Irish professions to interfere with abortion law reform, according to Senator John Crown. ](/news/2013/03/12/the-secretive-opus-dei-sect-is-mobilising-within-the-irish-professions-to-interfere-with-abortion-law-reform-according-to-senator-john-crow.md) _Context: Ireland, Seanad Éireann_
+3. [ The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. ](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significant-losses-in-ireland-s-local-elections-and-parliamentary-by-elections-in-dublin-central-and.md) _Context: Ireland, parliament_
+4. [A mass grave is discovered at a former Catholic orphanage in Tuam, Ireland, containing "significant quantities of human remains", all of them children. It is alleged over 800 children died at this orphanage and most were buried in the 1950s. ](/news/2017/03/3/a-mass-grave-is-discovered-at-a-former-catholic-orphanage-in-tuam-ireland-containing-asignificant-quantities-of-human-remainsa-all-of.md) _Context: Ireland_
+5. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: Ireland_
+6. [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md) _Context: Ireland_
+7. [United Airlines Flight 880 makes an emergency landing at Shannon Airport in the Republic of Ireland due to "severe and unexpected turbulence". At least 12 people are hospitalized. ](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.md) _Context: Ireland_
+8. [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md) _Context: Ireland_
+9. [AMC Theatres is purchasing  London-based Odeon & UCI Cinemas Group in a deal valued at about PS921 million  ($1.21 billion). AMC   has 385 theaters with 5,380 screens, most in the United States.  Odeon & UCI  has  242 theaters and 2,236 screens in the U.K. and Ireland.  AMC noted its $1.1 billion (PS835 million) acquisition of  Columbus, Georgia's Carmike Cinemas (276 thrs/2,954 scrs) is still in the works. ](/news/2016/07/12/amc-theatres-is-purchasing-london-based-odeon-uci-cinemas-group-in-a-deal-valued-at-about-aps921-million-1-21-billion-amc-has-385-t.md) _Context: Ireland_
+10. [Thousands of people in Dublin, Ireland, attend the Irish government's commemoration of the 1916 Easter Rising against British rule. ](/news/2016/03/27/thousands-of-people-in-dublin-ireland-attend-the-irish-government-s-commemoration-of-the-1916-easter-rising-against-british-rule.md) _Context: Ireland_

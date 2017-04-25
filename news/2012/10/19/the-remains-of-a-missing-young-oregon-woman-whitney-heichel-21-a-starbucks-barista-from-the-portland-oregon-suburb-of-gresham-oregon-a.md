@@ -1,0 +1,23 @@
+### [2012-10-19](/news/2012/10/19/index.md)
+
+# The remains of a missing young Oregon woman, Whitney Heichel, 21, a Starbucks barista from the Portland, Oregon suburb of Gresham, Oregon, are found on Larch Mountain, Multnomah County, Oregon; after DNA testing and fingerprint analysis, Gresham Police arrested a neighbor who lived nearby in her Gresham apartment complex, Jonathan Holt, 24, on suspicion of aggravated first-degree murder. 
+
+
+
+
+### Source:
+
+1. [NBC](http://usnews.nbcnews.com/_news/2012/10/20/14571413-police-missing-oregon-womans-remains-found-neighbor-arrested?lite)
+
+### Related:
+
+1. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: Portland_
+2. [A natural gas explosion damages several buildings and injures eight people in downtown Portland, Oregon. ](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildings-and-injures-eight-people-in-downtown-portland-oregon.md) _Context: Portland_
+3. [A group of United States mayors forms ''"Mayors Against Discrimination"'' in the wake of  recent discriminatory laws enacted  in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carol.md) _Context: Portland_
+4. [The Associated Press reports that Russia's crackdown on Muslims is fueling their exodus to ISIS.  For example, Russia's southernmost republic of Dagestan keeps devout Muslims under surveillance, routinely raids their homes, and hauls them to police stations to give DNA samples and fingerprints. Regional police say nearly a third of the estimated 3,000 Russians who are believed to have gone to fight alongside IS militants in Syria are from Dagestan. The AP added, "Few efforts are made by Russian authorities to stop young men from leaving." ](/news/2015/11/25/the-associated-press-reports-that-russia-s-crackdown-on-muslims-is-fueling-their-exodus-to-isis-for-example-russia-s-southernmost-republi.md) _Context: fingerprint_
+5. [The Obama Administration through the U.S. Department of Housing and Urban Development reports more than 500,000 people. a quarter of them children, were homeless this year amid scarce affordable housing across much of the nation. Los Angeles, Seattle, Portland, Oregon, and Hawaii all recently declared emergencies over the rise of homelessness. ](/news/2015/11/19/the-obama-administration-through-the-u-s-department-of-housing-and-urban-development-reports-more-than-500-000-people-a-quarter-of-them-ch.md) _Context: Portland_
+6. [An unknown person shoots four people outside of Rosemary Anderson High School, an alternative high school in Portland, Oregon. Police later question a 22-year-old man. ](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.md) _Context: Portland_
+7. [The European Commission announces that they will begin a formal investigation into Apple, Starbucks and Fiat in relation to tax arrangements with Ireland, the Netherlands and Luxembourg.  ](/news/2014/06/11/the-european-commission-announces-that-they-will-begin-a-formal-investigation-into-apple-starbucks-and-fiat-in-relation-to-tax-arrangements.md) _Context: Starbucks_
+8. [Starbucks is ordered to pay Kraft Foods $2.76 billion in damages over a dispute about packaged coffee. ](/news/2013/11/13/starbucks-is-ordered-to-pay-kraft-foods-2-76-billion-in-damages-over-a-dispute-about-packaged-coffee.md) _Context: Starbucks_
+9. [Aaron Hernandez was arraigned and pled not guilty to first-degree murder. He was held without bail, but reserved the right to request bail later.](/news/2013/09/6/aaron-hernandez-was-arraigned-and-pled-not-guilty-to-first-degree-murder-he-was-held-without-bail-but-reserved-the-right-to-request-bail-l.md) _Context: first-degree murder_
+10. [Starbucks announces it will no longer allow customers to smoke in any of its locations. ](/news/2013/05/31/starbucks-announces-it-will-no-longer-allow-customers-to-smoke-in-any-of-its-locations.md) _Context: Starbucks_

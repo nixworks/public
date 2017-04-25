@@ -1,0 +1,24 @@
+### [2013-08-20](/news/2013/08/20/index.md)
+
+# Alan Rusbridger, the editor of ''The Guardian'', reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. 
+
+Guardian editor Alan Rusbridger claims that the paper was made to destroy leaked government files under supervision of GCHQ officials
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-23770301)
+2. [The Guardian](http://www.theguardian.com/media/2013/aug/20/guardian-editor-alan-rusbridger-nsa)
+
+### Related:
+
+1. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _Context: Edward Snowden, UK_
+2. [The ''Washington Post'' and ''The Guardian'' newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security.md) _Context: Edward Snowden, The Guardian_
+3. [''The Guardian'' deputy editor Paul Johnson confirms that British law enforcement agencies have threatened to close the newspaper over its role in publishing global surveillance information obtained from U.S. whistleblower Edward Snowden. ](/news/2014/03/26/the-guardian-deputy-editor-paul-johnson-confirms-that-british-law-enforcement-agencies-have-threatened-to-close-the-newspaper-over-its-r.md) _Context: Edward Snowden, The Guardian_
+4. [Glenn Greenwald, a reporter with ''The Guardian'' who has published information provided him by NSA contractor Edward Snowden, is leaving the British newspaper to join a new journalistic enterprise to be bankrolled by Pierre Omidyar, the founder of eBay. ](/news/2013/10/15/glenn-greenwald-a-reporter-with-the-guardian-who-has-published-information-provided-him-by-nsa-contractor-edward-snowden-is-leaving-th.md) _Context: Edward Snowden, The Guardian_
+5. [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md) _Context: Edward Snowden_
+6. [The U.S. House Intelligence Committee releases a summary of its two-year investigation into former NSA contractor Edward Snowden which downplays his alleged status as a whistleblower while acknowledging "tremendous damage to national security" as a result of the classified documents he stole. ](/news/2016/09/15/the-u-s-house-intelligence-committee-releases-a-summary-of-its-two-year-investigation-into-former-nsa-contractor-edward-snowden-which-downp.md) _Context: Edward Snowden_
+7. [The European Union narrowly votes (285-281) to recommend that its 28 member nations drop criminal charges against Edward Snowden and protect him from U.S. extradition and to recognize him as a defender of human rights because of his revelations regarding U.S. and British spying. ](/news/2015/10/29/the-european-union-narrowly-votes-285a281-to-recommend-that-its-28-member-nations-drop-criminal-charges-against-edward-snowden-and-prote.md) _Context: Edward Snowden_
+8. [''The Guardian'' publishes articles alleging that the Chicago Police Department have been running a black site at Homan Square for detained Americans; former justice officials call for investigation.  The CPD denies the allegations. ](/news/2015/02/26/the-guardian-publishes-articles-alleging-that-the-chicago-police-department-have-been-running-a-black-site-at-homan-square-for-detained.md) _Context: The Guardian_
+9. [A UK regulatory agency, the Financial Conduct Authority announces plans to cap the interest rates that can be set by payday lenders, as well as their default charges. ](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.md) _Context: UK_
+10. [Yahoo webcams may have been hijacked by the GCHQ according to leaks in ''The Guardian''. ](/news/2014/02/27/yahoo-webcams-may-have-been-hijacked-by-the-gchq-according-to-leaks-in-the-guardian.md) _Context: The Guardian_

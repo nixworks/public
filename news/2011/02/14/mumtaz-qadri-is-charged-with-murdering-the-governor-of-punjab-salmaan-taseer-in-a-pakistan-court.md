@@ -1,0 +1,23 @@
+### [2011-02-14](/news/2011/02/14/index.md)
+
+# Mumtaz Qadri is charged with murdering the Governor of Punjab Salmaan Taseer in a Pakistan court. 
+
+A police bodyguard who confessed to the killing of Punjab Governor Salman Taseer is charged with murder in a Pakistani court.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12445519)
+
+### Related:
+
+1. [The funeral for murdered Punjab Governor Salmaan Taseer takes place in Lahore, Pakistan. ](/news/2011/01/5/the-funeral-for-murdered-punjab-governor-salmaan-taseer-takes-place-in-lahore-pakistan.md) _Context: Pakistan, Pakistani Punjab governor, Salmaan Taseer_
+2. [Salmaan Taseer, the Governor of the Pakistani province of Punjab, is assassinated by Malik Mumtaz Hussain Qadri, one of his security guards at Koshar Market, Islamabad. ](/news/2011/01/4/salmaan-taseer-the-governor-of-the-pakistani-province-of-punjab-is-assassinated-by-malik-mumtaz-hussain-qadri-one-of-his-security-guards.md) _Context: Pakistan, Pakistani Punjab governor, Salmaan Taseer_
+3. [Shahbaz Taseer, the son of  Pakistani Punjab governor Salmaan Taseer who was murdered in 2011 for criticizing the country's blasphemy laws, is reunited with his family  four-and-a-half years after his kidnapping. Tuesday, Shahbaz was rescued by Pakistani secret service and counter-terrorism operatives    in Kuchlak, Balochistan Province. He had been abducted in Lahore in August 2011, seven months after  his father's murder  by bodyguard Mumtaz Qadri.  Qadri was executed on  February 29, 2016. His death was claimed as the reason for the deadly Taliban suicide bombing in Shabqadar  two days ago. ](/news/2016/03/9/shahbaz-taseer-the-son-of-pakistani-punjab-governor-salmaan-taseer-who-was-murdered-in-2011-for-criticizing-the-country-s-blasphemy-laws.md) _Context: Pakistani Punjab governor, Salmaan Taseer_
+4. [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md) _Context: Pakistan, Salmaan Taseer_
+5. [Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punjab.md) _Context: Pakistan, Salmaan Taseer_
+6. [Pakistani authorities hang Mumtaz Qadri for his role in the murder of reformist Punjab governor Salmaan Taseer in 2011. ](/news/2016/02/29/pakistani-authorities-hang-mumtaz-qadri-for-his-role-in-the-murder-of-reformist-punjab-governor-salmaan-taseer-in-2011.md) _Context: Pakistan, Salmaan Taseer_
+7. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Pakistan_
+8. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Pakistan_
+9. [An attack occurs at a Sufi shrine near Sargodha, Pakistan, killing more than 20 people. Authorities arrest a main suspect and several others. ](/news/2017/04/2/an-attack-occurs-at-a-sufi-shrine-near-sargodha-pakistan-killing-more-than-20-people-authorities-arrest-a-main-suspect-and-several-others.md) _Context: Pakistan_
+10. [ Pakistan sentences former Indian Navy officer Kulbhushan Yadav to death for espionage and sabotage. ](/news/2017/04/10/pakistan-sentences-former-indian-navy-officer-kulbhushan-yadav-to-death-for-espionage-and-sabotage.md) _Context: Pakistan_

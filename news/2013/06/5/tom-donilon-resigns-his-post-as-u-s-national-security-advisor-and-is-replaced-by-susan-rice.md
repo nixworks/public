@@ -1,0 +1,21 @@
+### [2013-06-5](/news/2013/06/5/index.md)
+
+# Tom Donilon resigns his post as U.S. National Security Advisor and is replaced by Susan Rice. 
+
+
+
+
+### Source:
+
+1. [Financial Times](http://www.ft.com/cms/s/0/e04049da-cdd1-11e2-8313-00144feab7de.html)
+
+### Related:
+
+1. [United States National Security Advisor Susan Rice and Chinese Foreign Minister Wang Yi agree on a draft resolution that would expand United Nations Security Council sanctions following North Korea's latest nuclear test. U.S. President Barack Obama participated in the meeting. The draft is now headed to the  full 15-member council. ](/news/2016/02/24/united-states-national-security-advisor-susan-rice-and-chinese-foreign-minister-wang-yi-agree-on-a-draft-resolution-that-would-expand-united.md) _Context: National Security Advisor, Susan Rice_
+2. [Media reports indicate that former National Security Advisor Susan Rice improperly requested the unmasking of some American names, including those of Donald Trump's campaign staff, that had been incidentally collected during national security investigations. A National Security Adviser may request unmasking if specific criteria are met. A Rice associate denies that the unmasking was improper. ](/news/2017/04/3/media-reports-indicate-that-former-national-security-advisor-susan-rice-improperly-requested-the-unmasking-of-some-american-names-including.md) _Context: Susan Rice_
+3. [President Donald Trump names United States Army Lt. General H. R. McMaster as National Security Advisor and says that U.S. Lt. Gen. Keith Kellogg, who has been the acting NSA, will remain as the NSC's Chief of Staff. ](/news/2017/02/20/president-donald-trump-names-united-states-army-lt-general-h-r-mcmaster-as-national-security-advisor-and-says-that-u-s-lt-gen-keith-ke.md) _Context: National Security Advisor_
+4. [Michael T. Flynn resigns as National Security Advisor following controversy over his alleged contacts with Russian officials. Retired United States Army general Keith Kellogg subsequently becomes acting  National Security Advisor until a permanent replacement is appointed. ](/news/2017/02/13/michael-t-flynn-resigns-as-national-security-advisor-following-controversy-over-his-alleged-contacts-with-russian-officials-retired-united.md) _Context: National Security Advisor_
+5. [Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. ](/news/2016/11/18/officials-serving-on-president-elect-donald-trump-s-transition-team-reveal-selections-for-high-level-positions-including-senator-jeff-sessi.md) _Context: National Security Advisor_
+6. [U.S. Ambassador to the United Nations Susan Rice withdraws her name from consideration to be nominated U.S. Secretary of State, following increasing opposition to her nomination by Republican members of the Senate. ](/news/2012/12/13/u-s-ambassador-to-the-united-nations-susan-rice-withdraws-her-name-from-consideration-to-be-nominated-u-s-secretary-of-state-following-in.md) _Context: Susan Rice_
+7. [United States National Security Advisor General James L. Jones announces his resignation effective in two weeks; his deputy Thomas E. Donilon is expected to replace him. ](/news/2010/10/8/united-states-national-security-advisor-general-james-l-jones-announces-his-resignation-effective-in-two-weeks-his-deputy-thomas-e-donilo.md) _Context: National Security Advisor_
+8. [ Reports indicate that President-elect Barack Obama has decided to keep Robert Gates as the United States Secretary of Defense and tap Marine General James L. Jones as National Security Advisor. ](/news/2008/11/25/reports-indicate-that-president-elect-barack-obama-has-decided-to-keep-robert-gates-as-the-united-states-secretary-of-defense-and-tap-marin.md) _Context: National Security Advisor_

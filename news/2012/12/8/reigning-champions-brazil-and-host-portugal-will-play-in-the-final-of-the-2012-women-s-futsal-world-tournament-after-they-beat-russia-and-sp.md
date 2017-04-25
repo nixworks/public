@@ -1,0 +1,23 @@
+### [2012-12-8](/news/2012/12/8/index.md)
+
+# Reigning champions Brazil and host Portugal will play in the final of the 2012 Women's Futsal World Tournament after they beat Russia and Spain in the semifinals respectively. 
+
+
+
+
+### Source:
+
+1. [FutsalPlanet](http://www.futsalplanet.com/news/news-01.asp?id=17004)
+
+### Related:
+
+1. [Brazil women's national futsal team wins its third consecutive world title after defeating the Portugal team in the final of the 2012 Women's Futsal World Tournament by a 3-0 score. ](/news/2012/12/9/brazil-women-s-national-futsal-team-wins-its-third-consecutive-world-title-after-defeating-the-portugal-team-in-the-final-of-the-2012-women.md) _Context: 2012 Women's Futsal World Tournament, Brazil, Portuguese, world title_
+2. [Russia withdraws a request to refuel three of its warships, including the flagship of the Russian Navy, ''Admiral Kuznetsov'', en route to Syria, at the Spanish port of Ceuta following NATO pressure on the Spanish government to not allow the warships to dock. ](/news/2016/10/26/russia-withdraws-a-request-to-refuel-three-of-its-warships-including-the-flagship-of-the-russian-navy-admiral-kuznetsov-en-route-to-s.md) _Context: Russia, Spain_
+3. [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md) _Context: Russia, Spain_
+4. [The remnants of former Tropical Storm Henri combines with another storm in western Europe to cause heavy rains and possible floods in the United Kingdom, France, Spain and Portugal. ](/news/2015/09/16/the-remnants-of-former-tropical-storm-henri-combines-with-another-storm-in-western-europe-to-cause-heavy-rains-and-possible-floods-in-the-un.md) _Context: Portuguese, Spain_
+5. [Bolivia summons the ambassadors of France, Spain and Portugal to explain why their countries blocked President Evo Morales' official jet ''en route'' to land on the Eurozone last week, amid orders to be searched if Edward Snowden was on board. ](/news/2013/07/8/bolivia-summons-the-ambassadors-of-france-spain-and-portugal-to-explain-why-their-countries-blocked-president-evo-morales-official-jet-e.md) _Context: Portuguese, Spain_
+6. [NSA spying scandalBolivian president Evo Morales calls the Eurozone for a violation of international law and threatens to close down the U.S. embassy in Bolivia after the episode of having his official airplane being refused to land ''en route'' to Vienna, amid suspicions of having former NSA employee Edward Snowden on board. Ambassadors of France, Italy, Spain and Portugal are summoned to give full explanations.](/news/2013/07/5/nsa-spying-scandalpbolivian-president-evo-morales-calls-the-eurozone-for-a-violation-of-international-law-and-threatens-to-close-down-the-u.md) _Context: Portuguese, Spain_
+7. [Leaders of Brazil, Russia, India, China and South Africa meet in Durban for the 2013 BRICS summit. ](/news/2013/03/26/leaders-of-brazil-russia-india-china-and-south-africa-meet-in-durban-for-the-2013-brics-summit.md) _Context: Brazil, Russia_
+8. [Protests against unemployment and austerity measures take place across several European countries.  The largest protests reportedly take place in Spain and Portugal, with smaller protests in Greece, Italy, and Belgium. ](/news/2012/11/14/protests-against-unemployment-and-austerity-measures-take-place-across-several-european-countries-the-largest-protests-reportedly-take-pla.md) _Context: Portuguese, Spain_
+9. [The leaders of Brazil, Russia, India, China and South Africa meet in New Delhi, India, for the 2012 BRICS summit. ](/news/2012/03/29/the-leaders-of-brazil-russia-india-china-and-south-africa-meet-in-new-delhi-india-for-the-2012-brics-summit.md) _Context: Brazil, Russia_
+10. [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md) _Context: Portuguese, Spain_

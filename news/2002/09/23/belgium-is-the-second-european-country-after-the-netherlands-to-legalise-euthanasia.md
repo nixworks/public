@@ -1,0 +1,19 @@
+### [2002-09-23](/news/2002/09/23/index.md)
+
+#  Belgium is the second European country (after the Netherlands) to legalise euthanasia.
+
+
+
+
+### Related:
+
+1. [Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-newly-reinstated-m.md) _Context: Belgium, Netherlands_
+2. [A local doctor in Belgium grants euthanasia to a terminally-ill minor, marking the first case of such procedure performed since the 2014 removal of age restrictions. ](/news/2016/09/17/a-local-doctor-in-belgium-grants-euthanasia-to-a-terminally-ill-minor-marking-the-first-case-of-such-procedure-performed-since-the-2014-rem.md) _Context: Belgium, euthanasia_
+3. [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md) _Context: Belgium, Netherlands_
+4. [Belgian lawmakers vote to extend euthanasia to people aged under 18. ](/news/2014/02/13/belgian-lawmakers-vote-to-extend-euthanasia-to-people-aged-under-18.md) _Context: Belgium, euthanasia_
+5. [Greek mail bombsParcel bombs explode at the Mexican, Russian and Swiss embassies in Greece. Similar packages were sent or addressed to the embassies of Belgium, Bulgaria, Chile, Germany and the Netherlands over the past two days. ](/news/2010/11/2/greek-mail-bombspparcel-bombs-explode-at-the-mexican-russian-and-swiss-embassies-in-greece-similar-packages-were-sent-or-addressed-to-the.md) _Context: Belgium, Netherlands_
+6. [Hundreds of flights over Belgium, Germany, Luxembourg and the Netherlands are delayed by an air traffic control problem. ](/news/2010/08/20/hundreds-of-flights-over-belgium-germany-luxembourg-and-the-netherlands-are-delayed-by-an-air-traffic-control-problem.md) _Context: Belgium, Netherlands_
+7. [Contributions from Belgium, Canada, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, Norway, Spain, Sweden and Switzerland allow the World Bank to cancel $36 million in Haiti's remaining debt following January's devastating earthquake. ](/news/2010/05/28/contributions-from-belgium-canada-finland-france-germany-ireland-italy-japan-the-netherlands-norway-spain-sweden-and-switzerland.md) _Context: Belgium, Netherlands_
+8. [Services from the UK, France, Germany and the Netherlands remain disrupted as investigations continue into the Halle train collision in Belgium.](/news/2010/02/17/services-from-the-uk-france-germany-and-the-netherlands-remain-disrupted-as-investigations-continue-into-the-halle-train-collision-in-belg.md) _Context: Belgium, Netherlands_
+9. [ South Africa's Constitutional Court declares that current marriage laws restricting marriage to opposite-sex couples are unconstitutional and must be changed within a year. Once the change is made, South Africa will be the fifth country in the world where same-sex marriages are recognized, after Canada, Spain, the Netherlands, and Belgium. ](/news/2005/12/1/south-africa-s-constitutional-court-declares-that-current-marriage-laws-restricting-marriage-to-opposite-sex-couples-are-unconstitutional-a.md) _Context: Belgium, Netherlands_
+10. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Netherlands_

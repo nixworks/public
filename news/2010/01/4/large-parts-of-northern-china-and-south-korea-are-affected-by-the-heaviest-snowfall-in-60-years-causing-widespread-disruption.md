@@ -1,0 +1,25 @@
+### [2010-01-4](/news/2010/01/4/index.md)
+
+# Large parts of northern China and South Korea are affected by the heaviest snowfall in 60 years, causing widespread disruption. 
+
+Record high snowfall blanketed the central part of the Korean peninsula on the first working day of 2010, Monday, causing massive flight cancellations and seriously snarled road traffic.
+
+
+### Source:
+
+1. [People's Daily](http://english.people.com.cn/90001/90776/90882/6858078.html)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/01/117_58405.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8438871.stm)
+
+### Related:
+
+1. [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md) _Context: China's, South Korea_
+2. [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md) _Context: China's, South Korea_
+3. [The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. ](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.md) _Context: China's, South Korea_
+4. [South Korea announces that it will expand its air defense zone in response to a recent move by the People's Republic of China. ](/news/2013/12/8/south-korea-announces-that-it-will-expand-its-air-defense-zone-in-response-to-a-recent-move-by-the-people-s-republic-of-china.md) _Context: China's, South Korea_
+5. [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md) _Context: China's, South Korea_
+6. [South Korea and the People's Republic of China hold discussions about measures in response to North Korea's plans to launch a Unha rocket later this month. ](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.md) _Context: China's, South Korea_
+7. [Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. ](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.md) _Context: China's, South Korea_
+8. [2012 Summer Olympics: The Badminton World Federation charges eight women's doubles players from South Korea, China and Indonesia with "not using one's best efforts to win a match". ](/news/2012/08/1/2012-summer-olympics-the-badminton-world-federation-charges-eight-women-s-doubles-players-from-south-korea-china-and-indonesia-with-not-u.md) _Context: China's, South Korea_
+9. [South Korea seizes thousands of smuggled capsules from Northeastern People's Republic of China filled with powdered human flesh. ](/news/2012/05/7/south-korea-seizes-thousands-of-smuggled-capsules-from-northeastern-people-s-republic-of-china-filled-with-powdered-human-flesh.md) _Context: China's, South Korea_
+10. [Tropical Storm MufiaAt least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/tropical-storm-mufiapat-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been.md) _Context: China's, South Korea_

@@ -1,0 +1,23 @@
+### [2015-04-18](/news/2015/04/18/index.md)
+
+# The Prime Minister of Italy Matteo Renzi warns that thousands of Libyans will continue to risk their lives travelling to Europe unless the civil war ends. More than 2000 people have been rescued in the past week. 
+
+Italian Prime Minister Matteo Renzi has warned that thousands of Africans will continue to risk their lives trying to travel to Europe unless the civil war ends in Libya.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-32363879)
+
+### Related:
+
+1. [ Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%.  ](/news/2016/12/5/following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as-prime-minister-of-italy-with-most-ballo.md) _Context: Matteo Renzi, Prime Minister_
+2. [Italians go to the polls to for a referendum on whether to approve a constitutional law that amends the Constitution of Italy to reform the powers of the Italian Parliament. Prime Minister Matteo Renzi, who introduced the referendum bill, resigns after exit polls show that the no case is likely to be successful. ](/news/2016/12/4/italians-go-to-the-polls-to-for-a-referendum-on-whether-to-approve-a-constitutional-law-that-amends-the-constitution-of-italy-to-reform-the.md) _Context: Matteo Renzi, Prime Minister_
+3. [  During a visit to Iran, Prime Minister of Italy Matteo Renzi signs various bilateral agreements to enhance relations between the two countries, including plans for cooperation between the Italian electricity and gas company Enel and the National Iranian Oil Company. ](/news/2016/04/12/during-a-visit-to-iran-prime-minister-of-italy-matteo-renzi-signs-various-bilateral-agreements-to-enhance-relations-between-the-two-count.md) _Context: Matteo Renzi, Prime Minister_
+4. [Matteo Renzi is sworn in as the Prime Minister of Italy. ](/news/2014/02/22/matteo-renzi-is-sworn-in-as-the-prime-minister-of-italy.md) _Context: Matteo Renzi, Prime Minister_
+5. [Mayor of Florence, Matteo Renzi, is given a mandate by Italian President Giorgio Napolitano to form a new government as Italy's prime minister-designate. ](/news/2014/02/17/mayor-of-florence-matteo-renzi-is-given-a-mandate-by-italian-president-giorgio-napolitano-to-form-a-new-government-as-italyas-prime-mini.md) _Context: Matteo Renzi, Prime Minister_
+6. [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md) _Context: Libyan Civil War (2014–present)_
+7. [Seattle-based Amazon.com says it  will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce.md) _Context: Europe_
+8. [A motorcade carrying prime minister Fayez al-Sarraj of the internationally recognized Government of National Accord, is attacked by unidentified gunmen in Tripoli. There were no injuries reported. ](/news/2017/02/20/a-motorcade-carrying-prime-minister-fayez-al-sarraj-of-the-internationally-recognized-government-of-national-accord-is-attacked-by-unidenti.md) _Context: Libyan Civil War (2014–present)_
+9. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10  in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _Context: Europe_
+10. [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md) _Context: Prime Minister_

@@ -1,0 +1,24 @@
+### [2014-04-6](/news/2014/04/6/index.md)
+
+# 2014 Aswan tribal clashes:Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. 
+
+Two people were killed on Sunday when tribal clashes flared for a third day in the southern city of Aswan, security sources said.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2014/04/06/us-egypt-violence-idUSBREA350CC20140406)
+2. [Bloomberg](http://www.businessweek.com/news/2014-04-06/two-killed-in-egypt-tribal-clashes-as-death-toll-rises-to-25)
+
+### Related:
+
+1. [2014 Aswan tribal clashes:23 people are killed in a gunfight between feuding tribes near the Egyptian city of Aswan. ](/news/2014/04/5/2014-aswan-tribal-clashes-p23-people-are-killed-in-a-gunfight-between-feuding-tribes-near-the-egyptian-city-of-aswan.md) _Context: 2014 Aswan tribal clashes, Aswan, Egypt_
+2. [Officials in 3 Egyptian governorates declare a state of emergency after a barge leaked some 100 tons of gasoline into the Nile River north of Aswan. ](/news/2010/09/11/officials-in-3-egyptian-governorates-declare-a-state-of-emergency-after-a-barge-leaked-some-100-tons-of-gasoline-into-the-nile-river-north-o.md) _Context: Aswan, Egypt_
+3. [ 15 people, including 11 foreign nationals, are kidnapped near Aswan in southern Egypt. ](/news/2008/09/22/15-people-including-11-foreign-nationals-are-kidnapped-near-aswan-in-southern-egypt.md) _Context: Aswan, Egypt_
+4. [At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed-with-worshippers-on-palm-sunday-i.md) _Context: Egypt_
+5. [An Egyptian excavation team discovers the remains of a pyramid dating back 3,700 years to the thirteenth Dynasty of Egypt at the Dahshur necropolis 40km south of Cairo. ](/news/2017/04/3/an-egyptian-excavation-team-discovers-the-remains-of-a-pyramid-dating-back-3-700-years-to-the-thirteenth-dynasty-of-egypt-at-the-dahshur-nec.md) _Context: Egypt_
+6. [The Egyptian Ministry of Antiquities announces the discovery of   eight mummies, 10 colorful sarcophagi, and numerous figurines in  a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500.md) _Context: Egypt_
+7. [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md) _Context: Egypt_
+8. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Egypt_
+9. [Tests,  by a  team of international archaeologists,   of mummified legs  found in QV66 in Egypt's Valley of the Queens indicate they most likely  belong to  Queen Nefertari, Pharaoh Ramesses II's first and favorite wife.  ](/news/2016/12/5/tests-by-a-team-of-international-archaeologists-of-mummified-legs-found-in-qv66-in-egypt-s-valley-of-the-queens-indicate-they-most-li.md) _Context: Egypt_
+10. [A producer of Al Jazeera is arrested in Egypt. ](/news/2016/12/25/a-producer-of-al-jazeera-is-arrested-in-egypt.md) _Context: Egypt_

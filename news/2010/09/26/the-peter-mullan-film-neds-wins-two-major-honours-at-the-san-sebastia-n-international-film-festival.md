@@ -1,0 +1,14 @@
+### [2010-09-26](/news/2010/09/26/index.md)
+
+# The Peter Mullan film ''Neds'' wins two major honours at the San Sebastian International Film Festival. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11413830)
+
+### Related:
+
+1. [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md) _Context: San Sebastián International Film Festival_

@@ -1,0 +1,24 @@
+### [2016-03-28](/news/2016/03/28/index.md)
+
+# Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. 
+
+Supporters of Mumtaz Qadri, who was executed for killing a reformist Pakistani politician, stage a sit-in at parliament a day after a violent rally.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-asia-35909716)
+2. [Al Jazeera](http://www.aljazeera.com/news/2016/03/pro-blasphemy-protesters-clash-police-pakistan-160327142503305.html)
+
+### Related:
+
+1. [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md) _Context: Islamabad, Mumtaz Qadri, Pakistan, Punjab, Salmaan Taseer_
+2. [Pakistani authorities hang Mumtaz Qadri for his role in the murder of reformist Punjab governor Salmaan Taseer in 2011. ](/news/2016/02/29/pakistani-authorities-hang-mumtaz-qadri-for-his-role-in-the-murder-of-reformist-punjab-governor-salmaan-taseer-in-2011.md) _Context: Mumtaz Qadri, Pakistan, Punjab, Salmaan Taseer_
+3. [Salmaan Taseer, the Governor of the Pakistani province of Punjab, is assassinated by Malik Mumtaz Hussain Qadri, one of his security guards at Koshar Market, Islamabad. ](/news/2011/01/4/salmaan-taseer-the-governor-of-the-pakistani-province-of-punjab-is-assassinated-by-malik-mumtaz-hussain-qadri-one-of-his-security-guards.md) _Context: Islamabad, Pakistan, Punjab, Salmaan Taseer_
+4. [The funeral for murdered Punjab Governor Salmaan Taseer takes place in Lahore, Pakistan. ](/news/2011/01/5/the-funeral-for-murdered-punjab-governor-salmaan-taseer-takes-place-in-lahore-pakistan.md) _Context: Pakistan, Punjab, Salmaan Taseer_
+5. [War in North-West Pakistan:Tens of thousands of people rally in Karachi, Pakistan to demand the release of Mumtaz Qadri, charged with killing Salman Taseer, the provincial governor of Punjab who had campaigned to amend the country's blasphemy laws. ](/news/2011/01/10/war-in-north-west-pakistan-ptens-of-thousands-of-people-rally-in-karachi-pakistan-to-demand-the-release-of-mumtaz-qadri-charged-with-killi.md) _Context: Mumtaz Qadri, Pakistan, Punjab_
+6. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Pakistan, Parliament's_
+7. [Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the  Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-founder-of-the-active-ter.md) _Context: Pakistan, Punjab_
+8. [Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tensions-in-the-disputed-territory-of-kashmir-under-the-threat-of-a-ful.md) _Context: Islamabad, Pakistan_
+9. [Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-been-killed-by-indian-cross-border-shelling-in.md) _Context: Pakistan, Pakistan Army_
+10. [Afghan and Pakistani soldiers clash at the Torkham border crossing between the two countries, leaving one Afghan soldier and a Pakistani major killed. At least 22 other people were also injured. Tensions between Afghanistan and Pakistan have grown since the latter's attempts to build a gate at the crossing. ](/news/2016/06/14/afghan-and-pakistani-soldiers-clash-at-the-torkham-border-crossing-between-the-two-countries-leaving-one-afghan-soldier-and-a-pakistani-maj.md) _Context: Pakistan, Pakistan Army_

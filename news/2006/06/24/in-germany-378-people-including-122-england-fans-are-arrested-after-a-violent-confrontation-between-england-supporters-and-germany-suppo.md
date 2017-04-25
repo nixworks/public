@@ -1,0 +1,23 @@
+### [2006-06-24](/news/2006/06/24/index.md)
+
+#  In Germany, 378 people (including 122 England fans) are arrested after a violent confrontation between England supporters and Germany supporters in Stuttgart. Approximately 60,000 England supporters are present in Stuttgart for Sunday's World Cup second round game with Ecuador. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/5114024.stm)
+
+### Related:
+
+1. [ 2006 FIFA World Cup qualifiers in Germany are: Italy, England, the Netherlands, Portugal, Poland, Croatia, Paraguay, Ecuador, Angola, Togo, Ghana, Tunisia, Ivory Coast and Costa Rica.](/news/2005/10/8/2006-fifa-world-cup-qualifiers-in-germany-are-italy-england-the-netherlands-portugal-poland-croatia-paraguay-ecuador-angola-togo.md) _Context: Ecuador, England national football team, Germany, defending champion_
+2. [Police in Stuttgart, Germany, arrest at least 400 left-wing demonstrators after they attempted to stop a conference by the Alternative for Germany from being held. The protest grew violent when they began to throw stones and use fireworks against the police. ](/news/2016/04/30/police-in-stuttgart-germany-arrest-at-least-400-left-wing-demonstrators-after-they-attempted-to-stop-a-conference-by-the-alternative-for-g.md) _Context: Germany, Stuttgart_
+3. [UEFA Euro 2012:England lose by a penalty shoot-out, with former West Ham player Alessandro Diamanti converting from the spot at the Olimpiyskiy National Sports Complex in Kiev to take Italy through to the semi-final against Germany.  ](/news/2012/06/24/uefa-euro-2012-pengland-lose-by-a-penalty-shoot-out-with-former-west-ham-player-alessandro-diamanti-converting-from-the-spot-at-the-olimpiy.md) _Context: England national football team, Germany_
+4. [The trial of two Rwandan rebel leaders charged in connection with their part in crimes against humanity and war crimes carried out by their militias in the Democratic Republic of Congo in 2008 and 2009, begins in the Stuttgart high court, Germany. ](/news/2011/05/4/the-trial-of-two-rwandan-rebel-leaders-charged-in-connection-with-their-part-in-crimes-against-humanity-and-war-crimes-carried-out-by-their.md) _Context: Germany, Stuttgart_
+5. [ A man wielding a sword attacks a Tamil church congregation in Stuttgart, Germany, kills a woman and seriously injures three other people. ](/news/2005/04/3/a-man-wielding-a-sword-attacks-a-tamil-church-congregation-in-stuttgart-germany-kills-a-woman-and-seriously-injures-three-other-people.md) _Context: Germany, Stuttgart_
+6. [ The German national football team lose a World Cup qualifier for only the second time at home in their history (including as West Germany) by a heavy 1-5 margin to an England team managed by Sven-Gran Eriksson in the Olympic Stadium in Munchen (Munich), ending a significant run of England losses to Germany.](/news/2001/09/1/the-german-national-football-team-lose-a-world-cup-qualifier-for-only-the-second-time-at-home-in-their-history-including-as-west-germany.md) _Context: England national football team, Germany_
+7. [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md) _Context: Germany_
+8. [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md) _Context: Germany_
+9. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Germany_
+10. [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police  do not believe  terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md) _Context: Germany_

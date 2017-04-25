@@ -1,0 +1,23 @@
+### [2011-05-30](/news/2011/05/30/index.md)
+
+# Germany's ruling coalition led by Chancellor Angela Merkel pledges to end all nuclear power by 2022. 
+
+Germany says all of its nuclear power plants will be shut by 2022 in the wake of the Fukushima crisis in Japan, reversing an earlier policy.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-13592208)
+
+### Related:
+
+1. [On the eve of the Christian Democratic Union (CDU) party's convention in Karlsruhe, Chancellor of Germany Angela Merkel says, "We want to noticeably reduce the number of people who come to us, but not through unilateral national measures alone."   She acknowledges the crisis could overwhelm Germany if it went on much longer. Merkel  warded off pressure from immigration skeptics within the CDU to include a quota in the refugee policy motion the convention will  vote on.  ](/news/2015/12/13/on-the-eve-of-the-christian-democratic-union-cdu-party-s-convention-in-karlsruhe-chancellor-of-germany-angela-merkel-says-we-want-to-no.md) _Context: Angela Merkel, German Chancellor, Germany_
+2. [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md) _Context: Angela Merkel, German Chancellor, Germany_
+3. [Germany summons the United States Ambassador over claims that the US monitored Chancellor of Germany Angela Merkel's mobile phone. ](/news/2013/10/24/germany-summons-the-united-states-ambassador-over-claims-that-the-us-monitored-chancellor-of-germany-angela-merkel-s-mobile-phone.md) _Context: Angela Merkel, German Chancellor, Germany_
+4. [Voters in Germany go to the polls for a federal election, with Chancellor Angela Merkel's Christian Democratic Union achieving its highest vote since 1990. ](/news/2013/09/22/voters-in-germany-go-to-the-polls-for-a-federal-election-with-chancellor-angela-merkel-s-christian-democratic-union-achieving-its-highest-v.md) _Context: Angela Merkel, German Chancellor, Germany_
+5. [British Prime Minister David Cameron travels to Berlin to discuss his demands for sweeping reform of the European Union with German Chancellor Angela Merkel. ](/news/2013/04/12/british-prime-minister-david-cameron-travels-to-berlin-to-discuss-his-demands-for-sweeping-reform-of-the-european-union-with-german-chancell.md) _Context: Angela Merkel, German Chancellor, Germany_
+6. [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md) _Context: Angela Merkel, German Chancellor, Germany_
+7. [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md) _Context: Angela Merkel, German Chancellor, Germany_
+8. [ Presidency of the European Council: Tony Blair's former chief-of-staff, Jonathan Powell, has been touring European capital cities, including Brussels, Paris and Prague, in an undercover move to make him the first President of the European Council. Blair is supported by French President Nicolas Sarkozy and German Chancellor Angela Merkel. ](/news/2009/10/3/presidency-of-the-european-council-p-tony-blair-s-former-chief-of-staff-jonathan-powell-has-been-touring-european-capital-cities-includi.md) _Context: Angela Merkel, German Chancellor, Germany_
+9. [ In Germany the Christian Democrats and the Liberals win the federal election and announce their intention to form a new government with Angela Merkel as Chancellor. The Social Democrats concede defeat. ](/news/2009/09/27/in-germany-the-christian-democrats-and-the-liberals-win-the-federal-election-and-announce-their-intention-to-form-a-new-government-with-ang.md) _Context: Angela Merkel, German Chancellor, Germany_
+10. [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md) _Context: Angela Merkel, German Chancellor, Germany_

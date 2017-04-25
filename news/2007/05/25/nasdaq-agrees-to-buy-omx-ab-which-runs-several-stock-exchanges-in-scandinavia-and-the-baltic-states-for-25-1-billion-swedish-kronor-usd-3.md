@@ -1,0 +1,23 @@
+### [2007-05-25](/news/2007/05/25/index.md)
+
+#  NASDAQ agrees to buy OMX AB which runs several stock exchanges in Scandinavia and the Baltic States for 25.1 billion Swedish kronor (USD$3.7 billion). 
+
+
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aTvhckT8owRI&refer=home)
+
+### Related:
+
+1. [United States Chief of Naval Operations Admiral John M. Richardson says Russian jets in the Baltics buzzing a U.S. military ship and planes are escalating tension between the two nations. Richardson added he doesn't think the Russians are trying to provoke an incident but these actions increase the chance of a "tactical miscalculation." ](/news/2016/05/2/united-states-chief-of-naval-operations-admiral-john-m-richardson-says-russian-jets-in-the-baltics-buzzing-a-u-s-military-ship-and-planes.md) _Context: Baltics_
+2. [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md) _Context: Baltics_
+3. [Isis Pharmaceuticals Inc. announces it will change its name to  Ionis Pharmaceuticals Inc. on December 22. Its  stock exchange ticker symbol will be IONS. ](/news/2015/12/18/isis-pharmaceuticals-inc-announces-it-will-change-its-name-to-ionis-pharmaceuticals-inc-on-december-22-its-stock-exchange-ticker-symbol.md) _Context: stock exchange_
+4. [Nasdaq is engaged in negotiations to buy the Canada unit of Chi-X Global Holdings. Chi-X is an important provider of alternative equity trading venues. ](/news/2015/11/13/nasdaq-is-engaged-in-negotiations-to-buy-the-canada-unit-of-chi-x-global-holdings-chi-x-is-an-important-provider-of-alternative-equity-trad.md) _Context: Nasdaq_
+5. [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md) _Context: Baltics_
+6. [In the United States, the NASDAQ and S&P 500 end at record highs spurred by strong results by tech giants Google, Amazon and Microsoft. ](/news/2015/04/24/in-the-united-states-the-nasdaq-and-s-p-500-end-at-record-highs-spurred-by-strong-results-by-tech-giants-google-amazon-and-microsoft.md) _Context: Nasdaq_
+7. [The NASDAQ Stock Market sets a new record high for the first time since the dot com bubble collapsed in 2000. ](/news/2015/04/23/the-nasdaq-stock-market-sets-a-new-record-high-for-the-first-time-since-the-dot-com-bubble-collapsed-in-2000.md) _Context: Nasdaq_
+8. [ Islamic State of Iraq and the Levant:Syria's President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-psyriaas-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _Context: Scandinavians_
+9. [The President of the United States visits Estonia in a move to reassure the Baltic states ahead of a NATO summit in Wales. ](/news/2014/09/3/the-president-of-the-united-states-visits-estonia-in-a-move-to-reassure-the-baltic-states-ahead-of-a-nato-summit-in-wales.md) _Context: Baltics_
+10. [The Dow Jones Industrial Average loses around 326 points while the NASDAQ and S&P 500 drops around 2.3%. ](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-326-points-while-the-nasdaq-and-s-p-500-drops-around-2-3.md) _Context: Nasdaq_

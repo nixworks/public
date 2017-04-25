@@ -1,0 +1,23 @@
+### [2014-06-6](/news/2014/06/6/index.md)
+
+# Japan's parliament moves to ban the possession of child pornography.  
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2014/06/06/world/asia/japan-child-pornography/index.html?hpt=wo_c2)
+
+### Related:
+
+1. [The Norwegian newspaper ''Aftenposten'' accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-wara.md) _Context: child pornography_
+2. [Thousands protest outside the Japanese parliament in Tokyo against the  relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md) _Context: parliament_
+3. [Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july-that-expands-the-role-of-the.md) _Context: parliament_
+4. [Fist-fights erupt between legislators in the National Diet of Japan over a security bill that would allow Japan Self-Defense Forces to fight abroad. Japan had previously sent only a small amount of troops to Iraq. ](/news/2015/09/17/fist-fights-erupt-between-legislators-in-the-national-diet-of-japan-over-a-security-bill-that-would-allow-japan-self-defense-forces-to-fight.md) _Context: parliament_
+5. [Former Subway pitchman Jared Fogle reaches a plea deal with U.S. federal prosecutors in Indianapolis. Fogle will plead guilty to possessing and distributing child pornography and traveling across state lines to have sex with at least two teenage girls. Under the deal, he will serve from 5 to 121/2 years in prison, and will also pay $1.4 million in restitution to 14 victims. ](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.md) _Context: child pornography_
+6. [The FBI, U.S. Postal Service, and Indiana State Police seize electronics and other items from the Zionsville, Indiana home of Subway commercial spokesman Jared Fogle. The seizure comes two months after the former head of Fogle's foundation was arrested on child pornography charges. ](/news/2015/07/7/the-fbi-u-s-postal-service-and-indiana-state-police-seize-electronics-and-other-items-from-the-zionsville-indiana-home-of-subway-commerc.md) _Context: child pornography_
+7. [The National Diet of Japan votes to lower the voting age from 20 to 18. ](/news/2015/06/17/the-national-diet-of-japan-votes-to-lower-the-voting-age-from-20-to-18.md) _Context: parliament_
+8. [In a five-day national dragnet last week, Operation Cross Check, the U.S. Immigration and Customs Enforcement (ICE) rounds up 2,059 people who had been convicted of crimes and had been living in the country illegally. Most were not violent criminals (none were implicated in terrorism; almost all the 912 misdemeanors were for driving under the influence, DWI; 476 of the felons were charged with an immigration violation, though some were convicted of manslaughter, robbery, rape, and child pornography). ](/news/2015/03/9/in-a-five-day-national-dragnet-last-week-operation-cross-check-the-u-s-immigration-and-customs-enforcement-ice-rounds-up-2-059-people-w.md) _Context: child pornography_
+9. [Four people living at the same address in Savannah, Tennessee (3 men and 1 woman), believed to be involved in an area child pornography investigation and who had earlier fled a September 2013  FBI investigation (where computers and cameras were seized) are found dead of gunshot wounds (they may have been drugged) in a murder-suicide on a road in Double Springs, Winston County, Alabama. ](/news/2013/10/8/four-people-living-at-the-same-address-in-savannah-tennessee-3-men-and-1-woman-believed-to-be-involved-in-an-area-child-pornography-inve.md) _Context: child pornography_
+10. [Google announces a new system aimed at removing child pornography from the internet. ](/news/2013/06/16/google-announces-a-new-system-aimed-at-removing-child-pornography-from-the-internet.md) _Context: child pornography_

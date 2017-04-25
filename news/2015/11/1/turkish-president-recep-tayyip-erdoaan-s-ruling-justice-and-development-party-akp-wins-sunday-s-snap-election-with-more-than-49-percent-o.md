@@ -1,0 +1,30 @@
+### [2015-11-1](/news/2015/11/1/index.md)
+
+# Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AKP) wins Sunday's snap election with more than 49 percent of the vote. AKP, projected to get 316 seats in the 550-seat parliament, regains single-party rule just five months after losing it. 
+
+His gamble paid off, and now Erdogan is in a position to cement his presidential hold on power in Turkey.
+
+
+### Source:
+
+1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/2/8/162420/World/Region/Clashes-in-Turkeys-main-Kurdish-city-after-vote.aspx)
+2. [ODATV](http://odatv.com/n.php?n=177-maddeden-113u-degisti-hangi-82-anayasasi-1110111200)
+3. [Reuters](http://www.reuters.com/article/2015/11/01/us-turkey-election-davutoglu-speech-idUSKCN0SQ2GH20151101)
+4. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2469026&language=en)
+5. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkey-votes-in-election-viewed-as-referendum-on-erdogan/2015/11/01/81cc0ab8-8005-11e5-b575-d8dcfedb4ea1_story.html)
+6. [Wall Street Journal](http://www.wsj.com/articles/angry-kurds-police-clash-as-vote-bolsters-turkish-president-1446427280)
+7. [BBC](http://www.bbc.com/news/world-europe-34694420)
+8. [Al Jazeera](http://america.aljazeera.com/articles/2015/11/1/turkey-votes-in-election-in-the-midst-of-surging-violence.html)
+
+### Related:
+
+1. [Turkish Prime Minister Ahmet Davutoglu announces his resignation effective 22 May amid conflict with President Recep Tayyip Erdogan  over Turkey's increasingly authoritarian rule. Davutoglu said he would step down following an extraordinary meeting of AKP party leaders scheduled for May 22. ](/news/2016/05/5/turkish-prime-minister-ahmet-davutoalu-announces-his-resignation-effective-22-may-amid-conflict-with-president-recep-tayyip-erdoaan-over.md) _Context: President, Recep Tayyip Erdoğan, ruling party_
+2. [The President of Turkey Recep Tayyip Erdogan calls for new elections after a deadline to form a new government following an inconclusive election in June. ](/news/2015/08/24/the-president-of-turkey-recep-tayyip-erdoaan-calls-for-new-elections-after-a-deadline-to-form-a-new-government-following-an-inconclusive-el.md) _Context: President, Recep Tayyip Erdoğan, Turkish general election, November 2015_
+3. [Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. ](/news/2015/08/21/turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previous-election-resulted-in-a-hung-parliament.md) _Context: President, Recep Tayyip Erdoğan, Turkish general election, November 2015_
+4. [ At least 300,000 secularist Turks march in Ankara to warn the Islamist Prime Minister of Turkey Recep Tayyip Erdogan and his party against seeking the presidency. ](/news/2007/04/14/at-least-300-000-secularist-turks-march-in-ankara-to-warn-the-islamist-prime-minister-of-turkey-recep-tayyip-erdoaan-and-his-party-against.md) _Context: President, Recep Tayyip Erdoğan, ruling party_
+5. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: President, Recep Tayyip Erdoğan_
+6. [UK Prime Minister Theresa May and Turkish President Recep Tayyip Erdogan sign a PS100 million defense deal to build new fighter jets. Under the deal, BAE Systems will collaborate with Turkish companies to build the TAI TFX. ](/news/2017/01/28/uk-prime-minister-theresa-may-and-turkish-president-recep-tayyip-erdoaan-sign-a-aps100-million-defense-deal-to-build-new-fighter-jets-under.md) _Context: President, Recep Tayyip Erdoğan_
+7. [Turkish President Recep Tayyip Erdogan vows that the Turkish Armed Forces will stay on Cyprus "in perpetuity" and that the proposal of a rotating presidency for a unified island is unacceptable, casting doubts on an eventual solution to the dispute. The remarks come as the latest round of unity talks end, with them to restart on January 18. ](/news/2017/01/13/turkish-president-recep-tayyip-erdoaan-vows-that-the-turkish-armed-forces-will-stay-on-cyprus-in-perpetuity-and-that-the-proposal-of-a-ro.md) _Context: President, Recep Tayyip Erdoğan_
+8. [Turkish President Recep Tayyip Erdogan threatens to open Turkey's borders to allow refugees and migrants to reach Europe after the European Parliament votes to temporarily freeze talks of Turkey's accession to the EU. ](/news/2016/11/25/turkish-president-recep-tayyip-erdoaan-threatens-to-open-turkey-s-borders-to-allow-refugees-and-migrants-to-reach-europe-after-the-european.md) _Context: President, Recep Tayyip Erdoğan_
+9. [President Recep Tayyip Erdogan's  order under the state of emergency declared Wednesday after the failed military coup calls for closure of thousands of private schools, charities, and other institutions suspected of having links to Fethullah Gulen. ](/news/2016/07/23/president-recep-tayyip-erdoaan-s-order-under-the-state-of-emergency-declared-wednesday-after-the-failed-military-coup-calls-for-closure-of.md) _Context: President, Recep Tayyip Erdoğan_
+10. [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md) _Context: President, Recep Tayyip Erdoğan_

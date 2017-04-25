@@ -1,0 +1,23 @@
+### [2012-09-4](/news/2012/09/4/index.md)
+
+# Reuters calls Xi Jinping China's "next leader". Hu Chunhua reportedly misses a promotion to the Politburo Standing Committee in an expected power transition at or around the 18th Congress of the Communist Party of China. 
+
+
+
+
+### Source:
+
+1. [Reuters via Yahoo! News](http://news.yahoo.com/chinas-next-leader-buoyed-fresh-setback-hu-sources-140007377--business.html?_esi=1)
+
+### Related:
+
+1. [The 18th National Congress of the Communist Party of China is opened in Beijing, during which current Paramount Leader Hu Jintao is expected to step down to make way for presumptive leader Xi Jinping. ](/news/2012/11/8/the-18th-national-congress-of-the-communist-party-of-china-is-opened-in-beijing-during-which-current-paramount-leader-hu-jintao-is-expected.md) _Context: 18th National Congress, Communist Party of China, Xi Jinping_
+2. [General Secretary of the Central Committee of the Communist Party of China Xi Jinping will make his first state visit to the United States next September. ](/news/2015/02/11/general-secretary-of-the-central-committee-of-the-communist-party-of-china-xi-jinping-will-make-his-first-state-visit-to-the-united-states-n.md) _Context: Communist Party of China, Xi Jinping_
+3. [China's Supreme People's Procuratorate arrests former Politburo Standing Committee member Zhou Yongkang on corruption charges and expels him from the Communist Party of China.  ](/news/2014/12/5/china-s-supreme-people-s-procuratorate-arrests-former-politburo-standing-committee-member-zhou-yongkang-on-corruption-charges-and-expels-him.md) _Context: Communist Party of China, Politburo Standing Committee_
+4. [China:The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-pthe-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _Context: 18th National Congress, Politburo of the Communist Party of China_
+5. [The Chinese Communist Party suspends the Politburo membership of former senior official Bo Xilai, while his wife Gu Kailai is named as a suspect in the murder of a British businessman. ](/news/2012/04/10/the-chinese-communist-party-suspends-the-politburo-membership-of-former-senior-official-bo-xilai-while-his-wife-gu-kailai-is-named-as-a-sus.md) _Context: Communist Party of China, Politburo of the Communist Party of China_
+6. [ Four new members join the Politburo Standing Committee of the Communist Party of China, China's ''de facto'' top power organ. They are Xi Jinping, Li Keqiang, He Guoqiang and Zhou Yongkang. President Hu Jintao and Premier Wen Jiabao retain their seats. ](/news/2007/10/22/four-new-members-join-the-politburo-standing-committee-of-the-communist-party-of-china-china-s-de-facto-top-power-organ-they-are-xi-j.md) _Context: Communist Party of China, Xi Jinping_
+7. [ As part of celebrations for the 40th Anniversary for the founding of the Tibet Autonomous Region in the People's Republic of China, 20,000 people gather at the Potala Palace Square for a cultural performance. CPC Politburo's Jia Qinglin attended. ](/news/2005/09/1/as-part-of-celebrations-for-the-40th-anniversary-for-the-founding-of-the-tibet-autonomous-region-in-the-people-s-republic-of-china-20-000.md) _Context: Communist Party of China, Politburo Standing Committee_
+8. [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: Xi Jinping_
+9. [Donald Trump, the President of the United States, agrees to continue the One China Policy after a discussion with Chinese President Xi Jinping. ](/news/2017/02/9/donald-trump-the-president-of-the-united-states-agrees-to-continue-the-one-china-policy-after-a-discussion-with-chinese-president-xi-jinpi.md) _Context: Xi Jinping_
+10. [Reuters reports, on the basis of anonymous Chinese bankers, that the State Administration of Foreign Exchange is instructing them to keep quiet about any negative analysis of prospects for the yuan. ](/news/2017/01/11/reuters-reports-on-the-basis-of-anonymous-chinese-bankers-that-the-state-administration-of-foreign-exchange-is-instructing-them-to-keep-qu.md) _Context: Reuters_

@@ -1,0 +1,27 @@
+### [2014-10-22](/news/2014/10/22/index.md)
+
+# A gunman shoots a Canadian Forces soldier outside the Canadian National War Memorial, with the gunman later reported dead inside the Canadian Parliament buildings. The incident came hours after Canada raised its terror threat level from low to medium following Monday's fatal hit-and-run attack on two soldiers in Quebec. 
+
+Martin Couture Rouleau shot dead by Quebec police after driving his car into two soldiers in act ‘linked to terrorist ideology’
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-us-canada-29724907?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Guardian](http://www.theguardian.com/world/2014/oct/21/canada-soldier-convert-islam-hit-and-run-quebec)
+3. [AFP via Yahoo News](http://news.yahoo.com/canadian-soldier-run-over-suspected-islamic-radical-dies-132343525.html)
+4. [CNN](http://edition.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html)
+5. [CBC](http://www.cbc.ca/news/politics/parliament-hill-attacked-soldier-shot-at-national-war-memorial-in-ottawa-1.2808710)
+
+### Related:
+
+1. [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md) _Context: Quebec_
+2. [A road collapse at a major intersection near the  Canadian Parliament   in Ottawa, Ontario, forces evacuation of a mall, a hotel, the Shaw Convention Centre, and a book store because  of the smell of gas. Power and water are now shut off. ](/news/2016/06/8/a-road-collapse-at-a-major-intersection-near-the-canadian-parliament-in-ottawa-ontario-forces-evacuation-of-a-mall-a-hotel-the-shaw-c.md) _Context: Parliament of Canada_
+3. [North American Leaders' Summit aka the ''Three Amigos Summit''Takes place in Ottawa, Canada as US President Barack Obama and Mexican President Enrique Pena Nieto meet with Canadian Prime Minister Justin Trudeau. President Obama later gives a special address to the Parliament of Canada. ](/news/2016/06/29/north-american-leaders-summit-aka-the-three-amigos-summit-ptakes-place-in-ottawa-canada-as-us-president-barack-obama-and-mexican-presid.md) _Context: Parliament of Canada_
+4. [Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-jean-lapierre-was-one-of-the-p.md) _Context: Quebec_
+5. [South Korean opposition lawmakers'  anti-terrorism bill filibuster, which stops all other legislative business, extends its world record to  115 hours Sunday afternoon,  easily besting Canada's 58-hour session in 2011. The major issue is giving South Korea's intelligence agency powers to monitor private communications. This parliamentary session is set to end March 11, with elections on April 13. ](/news/2016/02/28/south-korean-opposition-lawmakers-anti-terrorism-bill-filibuster-which-stops-all-other-legislative-business-extends-its-world-record-to.md) _Context: Parliament of Canada_
+6. [Quebec-based Valeant Pharmaceuticals International cut all ties with Philidor Rx Services. This comes in the wake of recent revelations that Valeant was looking to acquire Philidor, a relationship that raised questions from various quarters. Valeant is the subject of U.S. federal investigations. ](/news/2015/10/30/quebec-based-valeant-pharmaceuticals-international-cut-all-ties-with-philidor-rx-services-this-comes-in-the-wake-of-recent-revelations-that.md) _Context: Quebec_
+7. [A sightseeing seaplane crashes on Quebec's North Shore killing all six people aboard. ](/news/2015/08/24/a-sightseeing-seaplane-crashes-on-quebec-s-north-shore-killing-all-six-people-aboard.md) _Context: Quebec_
+8. [Canadian Prime Minister Stephen Harper confirms that he has asked Governor General David Johnston to dissolve the Canadian Parliament and set a general election for October 19. This will be the longest election campaign for Canada in recent history, since voting was once staggered over months to accommodate people travelling from remote regions of the country using archaic means of transportation. ](/news/2015/08/2/canadian-prime-minister-stephen-harper-confirms-that-he-has-asked-governor-general-david-johnston-to-dissolve-the-canadian-parliament-and-se.md) _Context: Parliament of Canada_
+9. [Quebec general election, 2014:Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-pvoters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _Context: Quebec_
+10. [The death toll from the Lac-Mgantic derailment in the Canadian province of Quebec rises to 20, with 30 people missing presumed dead. ](/news/2013/07/10/the-death-toll-from-the-lac-megantic-derailment-in-the-canadian-province-of-quebec-rises-to-20-with-30-people-missing-presumed-dead.md) _Context: Quebec_

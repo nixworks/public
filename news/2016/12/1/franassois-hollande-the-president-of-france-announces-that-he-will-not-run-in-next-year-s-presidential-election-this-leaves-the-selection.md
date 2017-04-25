@@ -1,0 +1,23 @@
+### [2016-12-1](/news/2016/12/1/index.md)
+
+# Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. 
+
+Surprise move not to stand for a second term in upcoming presidential election throws selection of a Socialist candidate wide open
+
+
+### Source:
+
+1. [The Guardian](https://www.theguardian.com/world/2016/dec/01/francois-hollande-not-seek-second-term-president-france)
+
+### Related:
+
+1. [Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third. ](/news/2015/03/22/voters-in-france-go-to-the-polls-for-the-first-round-of-voting-in-local-government-elections-exit-polls-show-the-conservative-ump-in-first.md) _Context: François Hollande, French Socialist Party, president_
+2. [Voters in France go to the polls for the first round of the French presidential election with Francois Hollande of the French Socialist Party and incumbent President Nicolas Sarkozy through to the second round. ](/news/2012/04/22/voters-in-france-go-to-the-polls-for-the-first-round-of-the-french-presidential-election-with-franassois-hollande-of-the-french-socialist-par.md) _Context: François Hollande, French Socialist Party, president_
+3. [A police sniper accidentally fires his weapon while changing position and injures two people during a speech by French President Francois Hollande in Villognon. ](/news/2017/02/28/a-police-sniper-accidentally-fires-his-weapon-while-changing-position-and-injures-two-people-during-a-speech-by-french-president-franassois-h.md) _Context: François Hollande, president_
+4. [French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that  allies should have more respect and support for each other. ](/news/2017/02/25/french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-about-paris-at-friday-s-conservative.md) _Context: François Hollande, president_
+5. [Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. ](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-officially-declares-his-candidacy-for-president-in-2017.md) _Context: French presidential election, 2017, president_
+6. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _Context: French presidential election, 2017, president_
+7. [At least three French Armed Forces soldiers are killed after their helicopter is shot down near the city of Benghazi, Libya. The soldiers were killed while carrying out "dangerous intelligence operations", according to French President Francois Hollande. ](/news/2016/07/20/at-least-three-french-armed-forces-soldiers-are-killed-after-their-helicopter-is-shot-down-near-the-city-of-benghazi-libya-the-soldiers-we.md) _Context: François Hollande, president_
+8. [The President of France Francois Hollande extends a state of emergency against terrorism for three months following the attack which has now claimed over 80 lives. He had previously announced that it would be lifted on 26 July. ](/news/2016/07/15/the-president-of-france-franassois-hollande-extends-a-state-of-emergency-against-terrorism-for-three-months-following-the-attack-which-has-no.md) _Context: François Hollande, president_
+9. [European Union leaders advise  the United Kingdom that, after their EU exit, to retain access to the bloc's lucrative single market, the UK must allow free movement for EU workers. German Chancellor Angela Merkel and French President Francois Hollande reiterated that freedom of movement of EU citizens is non-negotiable. ](/news/2016/06/29/european-union-leaders-advise-the-united-kingdom-that-after-their-eu-exit-to-retain-access-to-the-bloc-s-lucrative-single-market-the-uk.md) _Context: François Hollande, president_
+10. [Christiane Taubira, differing with President Francois Hollande concerning  pending terrorist/citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-minist.md) _Context: François Hollande, president_

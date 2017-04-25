@@ -1,0 +1,24 @@
+### [2013-02-7](/news/2013/02/7/index.md)
+
+# 2013 Solomon Islands earthquake: The death toll from a magnitude 8.0 earthquake and subsequent tsunami in the Solomon Islands rises to nine, while government officials express fear regarding remote areas where emergency personnel are arriving. 
+
+A 6.2 aftershock has struck near the Solomon Islands, the US Geological Survey says.
+
+
+### Source:
+
+1. [Stuff.co.nz](http://www.stuff.co.nz/world/south-pacific/8271293/Tsunami-surge-hits-Solomon-Islands)
+2. [ABC News Australia](http://www.abc.net.au/news/2013-02-07/emergency-crews-arrive-in-tsunami-hit-solomons/4506228)
+
+### Related:
+
+1. [2013 Solomon Islands earthquake:A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-pa-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqua.md) _Context: 2013 Solomon Islands earthquake, Solomon Islands, Tsunami, earthquake, magnitude_
+2. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: Tsunami, earthquake, magnitude_
+3. [A strong earthquake of magnitude 7.3 occurs off the coast of Japan near the city of Kamaishi, prompting the Japan Meteorological Agency to issue a tsunami warning. 10 people are taken to hospital with injuries, no fatalities reported. ](/news/2012/12/7/a-strong-earthquake-of-magnitude-7-3-occurs-off-the-coast-of-japan-near-the-city-of-kamaishi-prompting-the-japan-meteorological-agency-to-i.md) _Context: Tsunami, earthquake, magnitude_
+4. [ An earthquake with a magnitude of 6.9 strikes in the Pacific Ocean south of Lata, Santa Cruz Islands in the Solomon Islands with a tsunami warning being issued. ](/news/2007/09/2/an-earthquake-with-a-magnitude-of-6-9-strikes-in-the-pacific-ocean-south-of-lata-santa-cruz-islands-in-the-solomon-islands-with-a-tsunami.md) _Context: Solomon Islands, Tsunami, earthquake_
+5. [ A series of earthquakes, the strongest being 6.1 magnitude, strikes the Okinawa island chain of Japan. A tsunami warning is issued but later cancelled. ](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1-magnitude-strikes-the-okinawa-island-chain-of-japan-a-tsunami-warning-is-issued-but-late.md) _Context: Tsunami, earthquake, magnitude_
+6. [ Japan Meteorological Agency issues tsunami warnings near the Izu island chain south of Tokyo after a strong undersea earthquake (6.8 on the Richter scale). ](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.md) _Context: Tsunami, earthquake, magnitude_
+7. [A 7.9 magnitude earthquake hits west of Panguna, Papua New Guinea, beneath Bougainville Island.  No immediate reports of casualties or major damage. Tsunami alert for Papua New Guinea and the Solomon Islands is rescinded. ](/news/2017/01/22/a-7-9-magnitude-earthquake-hits-west-of-panguna-papua-new-guinea-beneath-bougainville-island-no-immediate-reports-of-casualties-or-major.md) _Context: Solomon Islands, Tsunami_
+8. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: Tsunami, earthquake_
+9. [A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. ](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.md) _Context: Tsunami, earthquake_
+10. [The United States Geological Survey also reports that a magnitude 6.2 earthquake struck off the coast of Malaita island, Solomon Islands. However, no tsunami warning has been issued. ](/news/2016/06/10/the-united-states-geological-survey-also-reports-that-a-magnitude-6-2-earthquake-struck-off-the-coast-of-malaita-island-solomon-islands-ho.md) _Context: Solomon Islands, Tsunami_

@@ -1,0 +1,24 @@
+### [2015-12-10](/news/2015/12/10/index.md)
+
+# Kim Jong-un, the supreme leader of North Korea, announces that the country is now in possession of a hydrogen bomb, according to North Korean state media. Experts from South Korea however are skeptical about this claim. 
+
+North Korea has now developed a hydrogen bomb and can use it along with nuclear warheads to defend its sovereignty, the country&#039;s central news agency has reported.
+
+
+### Source:
+
+1. [RT](https://www.rt.com/news/325300-north-korea-hydrogen-bomb/)
+2. [BBC](http://www.bbc.com/news/world-asia-35060035)
+
+### Related:
+
+1. [North Korea's state media reports Supreme Leader Kim Jong-un, in comments released today, states  the country has miniaturized nuclear warheads to be mounted on ballistic missiles, and has ordered improvements in the power and precision of its arsenal. ](/news/2016/03/9/north-korea-s-state-media-reports-supreme-leader-kim-jong-un-in-comments-released-today-states-the-country-has-miniaturized-nuclear-warhe.md) _Context: Kim Jong-un, North Korea, North Korea and weapons of mass destruction, state media_
+2. [North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-test-and-test-launch-ballistic-missiles-capabl.md) _Context: Kim Jong-un, North Korea, North Korea and weapons of mass destruction, state media_
+3. [North Korea may be preparing for an imminent thermonuclear weapon test at its Punggye-ri Nuclear Test Site, located in the country's North Hamgyong Province where previous tests took place in 2006, 2009 and 2013, according to a South Korean military report. ](/news/2016/01/3/north-korea-may-be-preparing-for-an-imminent-thermonuclear-weapon-test-at-its-punggye-ri-nuclear-test-site-located-in-the-country-s-north-h.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea, hydrogen bomb_
+4. [North Korea's state media says Kim Yang-gon, a top aide to supreme leader Kim Jong-un and secretary of the ruling Workers' Party of Korea (WPK), who was also in charge of ties with South Korea, dies in a car crash. ](/news/2015/12/29/north-korea-s-state-media-says-kim-yang-gon-a-top-aide-to-supreme-leader-kim-jong-un-and-secretary-of-the-ruling-workers-party-of-korea-w.md) _Context: Kim Jong-un, North Korea, South Korea, state media_
+5. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea_
+6. [South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launching-station-into-the-sea-of-japan.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea_
+7. [According to South Korean and United States officials, a missile test in North Korea ends in failure, with the missile exploding seconds after launch. ](/news/2017/03/22/according-to-south-korean-and-united-states-officials-a-missile-test-in-north-korea-ends-in-failure-with-the-missile-exploding-seconds-aft.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea_
+8. [Kim Jong Un, the leader of North Korea, claims that the country is close to developing an intercontinental ballistic missile. ](/news/2017/01/1/kim-jong-un-the-leader-of-north-korea-claims-that-the-country-is-close-to-developing-an-intercontinental-ballistic-missile.md) _Context: Kim Jong-un, North Korea, North Korea and weapons of mass destruction_
+9. [South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea_
+10. [American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-th.md) _Context: North Korea, North Korea and weapons of mass destruction, South Korea_

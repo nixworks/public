@@ -1,0 +1,23 @@
+### [2014-06-1](/news/2014/06/1/index.md)
+
+# The Royal Thai Armed Forces deploy against major protests planned for today but a small protest goes ahead outside a shopping mall in central Bangkok. 
+
+
+
+
+### Source:
+
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-06-01-Thailand-Politics/id-6de162571eb646debac0cd497b437e38)
+
+### Related:
+
+1. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _Context: Bangkok_
+2. [Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution.  The constitution is approved by 61.45 percent. ](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.md) _Context: military_
+3. [A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-popular-shrine-in-bangkok.md) _Context: Bangkok_
+4. [Thai police raid the Dhammakaya Buddhist temple, north of Bangkok, to arrest Abbot Phra Dhammachayo, who is accused of conspiring to launder money by accepting stolen cash from a credit union. His followers deny the allegations and claim the charges are politically motivated. ](/news/2016/06/16/thai-police-raid-the-dhammakaya-buddhist-temple-north-of-bangkok-to-arrest-abbot-phra-dhammachayo-who-is-accused-of-conspiring-to-launder.md) _Context: Bangkok_
+5. [At least one person is dead as a shopping mall being built in the Nigerian city of Abeokuta collapses. Unconfirmed reports indicate that ten people may have died. ](/news/2016/05/13/at-least-one-person-is-dead-as-a-shopping-mall-being-built-in-the-nigerian-city-of-abeokuta-collapses-unconfirmed-reports-indicate-that-ten.md) _Context: shopping mall_
+6. [The Military junta of Thailand gives the Royal Thai Armed Forces broad police-like powers. The military is now allowed to prevent or suppress over 27 types of offenses. The move created an outcry from human rights organizations and prompted the United States to express its concern over the growing influence of the military in the country. ](/news/2016/04/5/the-military-junta-of-thailand-gives-the-royal-thai-armed-forces-broad-police-like-powers-the-military-is-now-allowed-to-prevent-or-suppres.md) _Context: military_
+7. [More than 60 people are hospitalized after an engine  explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-nat.md) _Context: Bangkok_
+8. [Siam Commercial Bank reports eight people were killed and seven others injured in the basement of its Bangkok, Thailand, headquarters during an upgrade of the building's fire safety system Sunday evening. It appears that workers mistakenly activated a system that released pyrogen, a chemical that deprives a  fire of oxygen. ](/news/2016/03/14/siam-commercial-bank-reports-eight-people-were-killed-and-seven-others-injured-in-the-basement-of-its-bangkok-thailand-headquarters-during.md) _Context: Bangkok_
+9. [ In the Louisville community of St. Matthews, Kentucky, US, disruptive behavior by a crowd of up to 2,000 teenagers and young adults, including numerous fights and unconfirmed reports of gunshots fired, causes Mall St. Matthews, one of the largest shopping malls in the state, to close early. Despite the unrest, no arrests were made and only minor injuries were reported. ](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.md) _Context: shopping mall_
+10. [A military court in Bangkok charges two men, Adem Karadag and Yusufu Miefaili, with offences related to the 2015 Bangkok bombing. ](/news/2015/11/24/a-military-court-in-bangkok-charges-two-men-adem-karadag-and-yusufu-miefaili-with-offences-related-to-the-2015-bangkok-bombing.md) _Context: Bangkok_

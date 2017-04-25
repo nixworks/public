@@ -1,0 +1,25 @@
+### [2010-08-18](/news/2010/08/18/index.md)
+
+# David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. 
+
+
+
+
+### Source:
+
+1. [Al Arabiya](http://www.alarabiya.net/articles/2010/08/17/116922.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/18/ground-zero-mosque-republican-attacks)
+3. [New York Post](http://www.nypost.com/p/news/local/gov_to_meet_on_mosque_move_ZiSFdJrD5kqi7p4XFT4TBO)
+
+### Related:
+
+1. [Protesters against the Park51 project for an Islamic community center two blocks away from Ground Zero of the World Trade Center site gather in New York City. ](/news/2010/08/22/protesters-against-the-park51-project-for-an-islamic-community-center-two-blocks-away-from-ground-zero-of-the-world-trade-center-site-gather.md) _Context: "Ground zero" mosque and cultural centre, Ground Zero, New York's_
+2. [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity".  ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md) _Context: Ground Zero, New York's, mosque_
+3. [ The Governor of New York David Paterson directs New York state agencies to recognise gay marriages performed in other jurisdictions such as Canada, California and Massachusetts. ](/news/2008/05/28/the-governor-of-new-york-david-paterson-directs-new-york-state-agencies-to-recognise-gay-marriages-performed-in-other-jurisdictions-such-as.md) _Context: David Paterson, New York, New York Governor_
+4. [The far-right mayor of the Hungarian border village of Asotthalom, Laszlo Toroczkai, bans the open expression of Islam, including the construction of mosques and wearing of veils and headscarves, and the promotion of same-sex marriages. ](/news/2016/11/25/the-far-right-mayor-of-the-hungarian-border-village-of-asotthalom-la-szla3-toroczkai-bans-the-open-expression-of-islam-including-the-con.md) _Context: Islam, mosque_
+5. [The Police Department of Everett, Washington, identifies and returns the American flag from the September 11 attacks to Ground Zero, the World Trade Center site in New York City. ](/news/2016/09/8/the-police-department-of-everett-washington-identifies-and-returns-the-american-flag-from-the-september-11-attacks-to-ground-zero-the-wor.md) _Context: Ground Zero, New York's_
+6. [Strong winds cause a construction crane collapse at the Masjid al-Haram mosque killing 107 people and injuring 283 others. Most of the people killed were on the annual Islamic hajj (pilgrimage) to Mecca. ](/news/2015/09/11/strong-winds-cause-a-construction-crane-collapse-at-the-masjid-al-haram-mosque-killing-107-people-and-injuring-283-others-most-of-the-peopl.md) _Context: Islam, mosque_
+7. [A 37-year-old woman and four children are stabbed to death in Brooklyn, New York City, New York. A man is arrested in connection with the murders. ](/news/2013/10/27/a-37-year-old-woman-and-four-children-are-stabbed-to-death-in-brooklyn-new-york-city-new-york-a-man-is-arrested-in-connection-with-the-mu.md) _Context: New York, New York's_
+8. [A New York state judge invalidates a New York City ban on the sale of soft drinks larger than 16 ounces that was set to take effect on March 12. The office of Mayor Michael Bloomberg indicates it will appeal. ](/news/2013/03/11/a-new-york-state-judge-invalidates-a-new-york-city-ban-on-the-sale-of-soft-drinks-larger-than-16-ounces-that-was-set-to-take-effect-on-march.md) _Context: New York, New York's_
+9. [An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. ](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.md) _Context: Ground Zero, New York's_
+10. [A lawsuit of $25 million is brought by the mother of a U.S. teen, who was kidnapped, bound and forced to consume alcoholic substances before his death at a fraternity house, against the group responsible for his ordeal in the U.S. state of New York. ](/news/2011/06/29/a-lawsuit-of-25-million-is-brought-by-the-mother-of-a-u-s-teen-who-was-kidnapped-bound-and-forced-to-consume-alcoholic-substances-before.md) _Context: New York, state_

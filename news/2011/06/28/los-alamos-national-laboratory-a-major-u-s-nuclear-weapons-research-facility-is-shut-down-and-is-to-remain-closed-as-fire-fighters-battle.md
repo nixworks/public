@@ -1,0 +1,21 @@
+### [2011-06-28](/news/2011/06/28/index.md)
+
+# Los Alamos National Laboratory, a major U.S. nuclear weapons research facility, is shut down and is to remain closed as fire fighters battle a raging wildfire nearby. 
+
+One of the top nuclear weapons research facilities in the US is to remain closed until Thursday as fire fighters battle a raging wildfire.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13937781)
+
+### Related:
+
+1. [A wildfire worsens near major U.S. nuclear weapons research lab Los Alamos National Laboratory in the U.S. state of New Mexico; residents express concern about contamination. ](/news/2011/06/29/a-wildfire-worsens-near-major-u-s-nuclear-weapons-research-lab-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-residents-ex.md) _Context: Los Alamos National Laboratory, wildfire worsens_
+2. [A research team at Los Alamos National Laboratory quantifies the molecular damage inflicted on DNA and discloses that every 50 cigarettes smoked generates an average of one DNA mutation in each lung cell. ](/news/2016/11/4/a-research-team-at-los-alamos-national-laboratory-quantifies-the-molecular-damage-inflicted-on-dna-and-discloses-that-every-50-cigarettes-sm.md) _Context: Los Alamos National Laboratory_
+3. [A federal judge in Albuquerque, New Mexico sentences an ex-Los Alamos physicist Pedro Leonardo Mascheroni, who pleaded guilty in 2013 to offering to spy on the US to help Venezuela develop a nuclear weapon, to five years imprisionment. ](/news/2015/01/28/a-federal-judge-in-albuquerque-new-mexico-sentences-an-ex-los-alamos-physicist-pedro-leonardo-mascheroni-who-pleaded-guilty-in-2013-to-off.md) _Context: Los Alamos National Laboratory_
+4. [Las Conchas WildfireThe Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfirepthe-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-near.md) _Context: Los Alamos National Laboratory_
+5. [A former scientist at the Los Alamos National Laboratory and his wife are indicted on charges of trying to provide information about the United States nuclear program to Venezuela. ](/news/2010/09/17/a-former-scientist-at-the-los-alamos-national-laboratory-and-his-wife-are-indicted-on-charges-of-trying-to-provide-information-about-the-uni.md) _Context: Los Alamos National Laboratory_
+6. [ IBM and Los Alamos National Laboratory break processing speed barrier with the world's first petaflop computer, Roadrunner. ](/news/2008/06/9/ibm-and-los-alamos-national-laboratory-break-processing-speed-barrier-with-the-world-s-first-petaflop-computer-roadrunner.md) _Context: Los Alamos National Laboratory_
+7. [ George Peter Nanos announces that he will step down as the director of the Los Alamos National Laboratory, making his term the shortest of any previous director. ](/news/2005/05/7/george-peter-nanos-announces-that-he-will-step-down-as-the-director-of-the-los-alamos-national-laboratory-making-his-term-the-shortest-of.md) _Context: Los Alamos National Laboratory_
+8. [As part of a spending bill passed by the United States Congress this week, the University of California will have to compete for the management contract of all three of its national laboratories: Lawrence Berkeley, Lawrence Livermore, and Los Alamos. Previously, it was expected that only Los Alamos would be up for bidding. [http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2003/12/04/MNG0Q3FSQ51.DTL]](/news/2003/12/5/as-part-of-a-spending-bill-passed-by-the-united-states-congress-this-week-the-university-of-california-will-have-to-compete-for-the-managem.md) _Context: Los Alamos National Laboratory_

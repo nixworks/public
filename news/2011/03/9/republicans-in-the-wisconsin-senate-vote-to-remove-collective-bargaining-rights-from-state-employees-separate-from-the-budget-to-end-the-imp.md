@@ -1,0 +1,26 @@
+### [2011-03-9](/news/2011/03/9/index.md)
+
+# Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. 
+
+Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers of most collective bargaining rights.
+
+
+### Source:
+
+1. [WIFR](http://www.wifr.com/home/headlines/Wis_GOP_Bypasses_Dems_on_Collective_Bargaining_117700838.html)
+2. [MSNBC](http://www.msnbc.msn.com/id/41996994/ns/politics-more_politics/)
+3. [Milwaukee Journal Sentinel](http://www.jsonline.com/news/statepolitics/117703358.html)
+4. [New York Times](http://www.nytimes.com/aponline/2011/03/09/us/AP-US-Wisconsin-Budget-Unions.html?_r=1&emc=na)
+
+### Related:
+
+1. [The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md) _Context: 2011 Wisconsin budget protests, Democratic, Senate_
+2. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Democratic, Republican_
+3. [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md) _Context: Democratic, Republican_
+4. [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md) _Context: Democratic, Republican_
+5. [United States presidential election and general elections, 2016Although he narrowly lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/united-states-presidential-election-and-general-elections-2016palthough-he-narrowly-lost-the-popular-vote-donald-trump-the-republican-nom.md) _Context: Democratic, Republican_
+6. [Four state Democratic Parties sue  the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal"  group founder Roger Stone  for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder.md) _Context: Democratic, Republican_
+7. [Democratic Party nominee Hillary Clinton and Republican Party nominee Donald Trump hold the first presidential debate of the 2016 presidential election at Hofstra University in Hempstead, New York. ](/news/2016/09/26/democratic-party-nominee-hillary-clinton-and-republican-party-nominee-donald-trump-hold-the-first-presidential-debate-of-the-2016-presidenti.md) _Context: Democratic, Republican_
+8. [The Commission on Presidential Debates officially announces the invitation of Democratic Party nominee Hillary Clinton, and GOP nominee Donald Trump, to the first presidential debate at Hofstra University in Hempstead, New York, on September 26. However, third party candidates, Gary Johnson and Jill Stein, have not met the criteria, and will not be participants in the debate. ](/news/2016/09/16/the-commission-on-presidential-debates-officially-announces-the-invitation-of-democratic-party-nominee-hillary-clinton-and-gop-nominee-dona.md) _Context: Democratic, Republican_
+9. [Democratic presidential election nominee Hillary Clinton accuses Russian intelligence services of being behind recent hacks into Democratic National Committee computers, while also accusing Republican presidential nominee Donald Trump of supporting Russian President Vladimir Putin. ](/news/2016/07/31/democratic-presidential-election-nominee-hillary-clinton-accuses-russian-intelligence-services-of-being-behind-recent-hacks-into-democratic.md) _Context: Democratic, Republican_
+10. [Voters in the American state of Oregon have their mail-in ballots counted for a Democratic Party and Republican Party primary. Donald Trump is the projected winner on the Republican winner while Bernie Sanders is projected to win the Democratic Party race. ](/news/2016/05/17/voters-in-the-american-state-of-oregon-have-their-mail-in-ballots-counted-for-a-democratic-party-and-republican-party-primary-donald-trump.md) _Context: Democratic, Republican_

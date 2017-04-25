@@ -1,0 +1,24 @@
+### [2005-08-15](/news/2005/08/15/index.md)
+
+#  Many countries celebrate the 60th Anniversary of the Victory in the Pacific and the end of World War II. Beijing holds an arts performance gala. In Japan, in a large-scale ceremony led by the Emperor Akihito, Prime Minister Junichiro Koizumi apologizes for people's suffering Japan caused during World War II. The ceremony was met with scattered protests. 
+
+
+
+
+### Source:
+
+1. [Xinhua](http://www.gx.xinhuanet.com/dtzx/2005-08/15/content_4885879.htm)
+2. [BBC China](http://news.bbc.co.uk/chinese/simp/hi/newsid_4150000/newsid_4152100/4152122.stm)
+
+### Related:
+
+1. [Countries around the world commemorate the end of World War II. ](/news/2015/08/15/countries-around-the-world-commemorate-the-end-of-world-war-ii.md) _Context: Victory over Japan Day, World War II_
+2. [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md) _Context: Junichiro Koizumi, World War II_
+3. [ Japanese Prime Minister Junichiro Koizumi announces plans to withdraw his country's troops from Iraq.  The 600 soldiers had been deployed to Iraq in 2004 to aid in reconstruction and sparked controversy in Japan, as it was the most ambitious overseas deployment by Japan since World War II. ](/news/2006/06/20/japanese-prime-minister-junichiro-koizumi-announces-plans-to-withdraw-his-country-s-troops-from-iraq-the-600-soldiers-had-been-deployed-t.md) _Context: Junichiro Koizumi, World War II_
+4. [ Japanese prime minister Junichiro Koizumi visits the Yasukuni shrine which honors Japan's war dead including 14 Class A war criminals of World War II. This is Koizumi's fifth visit to Yasukuni since taking office in 2001. (CNN)](/news/2005/10/16/japanese-prime-minister-junichiro-koizumi-visits-the-yasukuni-shrine-which-honors-japan-s-war-dead-including-14-class-a-war-criminals-of-wo.md) _Context: Junichiro Koizumi, World War II_
+5. [ In an attempt to ease recent tensions between the two Asian economic powerhouses in the Japanese history textbooks controversy, Japanese prime minister Junichiro Koizumi publicly expressed his "deep remorse" for actions of Japanese troops in China during World War II for the first time in a decade. He intends to meet PRC president Hu Jintao at the Asia-Africa Conference in Jakarta. However, 81 Diet members visit Yasukuni Shrine the same day, causing more controversy inside and outside Japan about the true attitude of Tokyo on this subject. ](/news/2005/04/22/in-an-attempt-to-ease-recent-tensions-between-the-two-asian-economic-powerhouses-in-the-japanese-history-textbooks-controversy-japanese-pr.md) _Context: Junichiro Koizumi, World War II_
+6. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: Beijing_
+7. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: World War II_
+8. [Over 70,000 people are evacuated from Thessaloniki, Greece, as authorities attempt to defuse a World War II-era unexploded ordnance, which was discovered last week. ](/news/2017/02/11/over-70-000-people-are-evacuated-from-thessaloniki-greece-as-authorities-attempt-to-defuse-a-world-war-ii-era-unexploded-ordnance-which-w.md) _Context: World War II_
+9. [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md) _Context: World War II_
+10. [Pro-Beijing Hong Kong leader CY Leung says he will quit after his term ends. ](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.md) _Context: Beijing_

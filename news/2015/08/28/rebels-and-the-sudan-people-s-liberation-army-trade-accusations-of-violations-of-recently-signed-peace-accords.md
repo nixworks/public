@@ -1,0 +1,23 @@
+### [2015-08-28](/news/2015/08/28/index.md)
+
+# Rebels and the Sudan People's Liberation Army trade accusations of violations of recently-signed peace accords. 
+
+South Sudanese rebels and the army have accused each other for the second time this week of attacks, this time barely a day after President Salva Kiir signed a peace deal that looks increasingly fragile.
+
+
+### Source:
+
+1. [Reuters](http://in.reuters.com/article/2015/08/28/southsudan-unrest-idINKCN0QX0LP20150828)
+
+### Related:
+
+1. [According to a military spokesman of the rebel SPLM-IO, at least 115 soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital, Juba. ](/news/2016/07/9/according-to-a-military-spokesman-of-the-rebel-splm-io-at-least-115-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions.md) _Context: South Sudanese Civil War, Sudan People's Liberation Army_
+2. [Five soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital Juba, with reports of heavy gunfire continuing, despite President Salva Kiir Mayardit and rebel leader Riek Machar having reached a peace deal back in April. ](/news/2016/07/8/five-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions-are-killed-in-clashes-in-the-capital-juba-with-reports-of-heavy.md) _Context: South Sudanese Civil War, Sudan People's Liberation Army_
+3. [An estimated 272 people have been killed between rival Sudan People's Liberation Army factions as clashes in the capital, Juba, continue. According to a spokesman for rebel leader and Vice President Riek Machar, South Sudan is "back to war" despite a peace deal being reached last April. ](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.md) _Context: South Sudanese Civil War, Sudan People's Liberation Army_
+4. [At least 16 people are killed amid fresh fighting in Raga, according to a SPLM-IO spokesperson. The United Nations Office for the Coordination of Humanitarian Affairs said that over 60 humanitarian aid workers were forced to flee. ](/news/2017/04/15/at-least-16-people-are-killed-amid-fresh-fighting-in-raga-according-to-a-splm-io-spokesperson-the-united-nations-office-for-the-coordinati.md) _Context: South Sudanese Civil War_
+5. [Government-aligned militias kill 16 people during a raid in Wau, South Sudan. ](/news/2017/04/10/government-aligned-militias-kill-16-people-during-a-raid-in-wau-south-sudan.md) _Context: South Sudanese Civil War_
+6. [Two top level officials overseeing South Sudan's military courts resign from their posts, accusing the government of interfering in the court's moves to discipline soldiers accused of rape and murder. The resignations come less than a week after a military general and the Minister of Labour resigned in protest of President Salva Kiir Mayardit's alleged approval of atrocities against civilians not belonging to the Dinka group. ](/news/2017/02/19/two-top-level-officials-overseeing-south-sudan-s-military-courts-resign-from-their-posts-accusing-the-government-of-interfering-in-the-cour.md) _Context: South Sudanese Civil War_
+7. [Clashes between government troops and rebels in South Sudan, leave at least 56 people killed. ](/news/2016/10/17/clashes-between-government-troops-and-rebels-in-south-sudan-leave-at-least-56-people-killed.md) _Context: South Sudanese Civil War_
+8. [The United States deploys more than three dozen soldiers to Juba, South Sudan, to protect the U.S. embassy and help evacuate non-essential embassy staff due to local clashes.  ](/news/2016/07/13/the-united-states-deploys-more-than-three-dozen-soldiers-to-juba-south-sudan-to-protect-the-u-s-embassy-and-help-evacuate-non-essential-e.md) _Context: South Sudanese Civil War_
+9. [After five days of fighting that left 272 people dead and thousands more displaced in the capital, Juba, President Salva Kiir Mayardit and rebel leader and Vice-President Riek Machar declare a ceasefire. ](/news/2016/07/12/after-five-days-of-fighting-that-left-272-people-dead-and-thousands-more-displaced-in-the-capital-juba-president-salva-kiir-mayardit-and-r.md) _Context: South Sudanese Civil War_
+10. [The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.md) _Context: South Sudanese Civil War_

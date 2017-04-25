@@ -1,0 +1,23 @@
+### [2015-10-29](/news/2015/10/29/index.md)
+
+# The Parliament of Moldova passes a no-confidence vote against pro-EU incumbent prime-minister Valeriu Strelet's cabinet amidst growing political turmoil in the country. 
+
+
+
+
+### Source:
+
+1. [Seenews](https://wire.seenews.com/news/update-1-moldovas-pro-eu-coalition-govt-falls-in-no-confidence-vote-499443)
+
+### Related:
+
+1. [Former Moldovan Prime Minister Vlad Filat is sentenced to prison for nine years after being found guilty of corruption and abuse of power. ](/news/2016/06/27/former-moldovan-prime-minister-vlad-filat-is-sentenced-to-prison-for-nine-years-after-being-found-guilty-of-corruption-and-abuse-of-power.md) _Context: Moldovan Prime Minister_
+2. [The Parliament of Moldova announces that the country will hold a Presidential election on October 30. A court in early March ruled in favor of having a direct national election to choose a president rather than a vote in parliament, a concession to protesters who have been demonstrating for months against the political elite. This will be the first time since 2001 that the public will choose their country's president directly. ](/news/2016/04/1/the-parliament-of-moldova-announces-that-the-country-will-hold-a-presidential-election-on-october-30-a-court-in-early-march-ruled-in-favor.md) _Context: Parliament_
+3. [Romania offers neighboring Moldova a $65 million (60 million euros) loan to help stave off economic collapse  and keep the former Soviet Republic on a pro-European course, provided the Moldovan government implements major reforms. Government funds were needed to cover more than $1 billion that "disappeared" from  three Moldovan banks in November 2014. In the frigid capital Chisinau, 15,000 people from both the pro-European and pro-Russian sides of the political divide, protested  on Sunday against the current government  and demanded new elections. Prime Minister Pavel Filip, who took office last week, is the country's sixth PM in a year. ](/news/2016/01/26/romania-offers-neighboring-moldova-a-65-million-60-million-euros-loan-to-help-stave-off-economic-collapse-and-keep-the-former-soviet-rep.md) _Context: Moldovan Prime Minister_
+4. [Moldova's parliament approves a new government despite ongoing protests calling for snap elections. ](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-despite-ongoing-protests-calling-for-snap-elections.md) _Context: Parliament_
+5. [Thousands of people in Moldova march against proposed candidate for Prime Minister Vlad Plahotniuc. ](/news/2016/01/14/thousands-of-people-in-moldova-march-against-proposed-candidate-for-prime-minister-vlad-plahotniuc.md) _Context: Moldovan Prime Minister_
+6. [Chiril Gaburici resigns as the Prime Minister of Moldova after questions arise over his education qualifications. ](/news/2015/06/12/chiril-gaburici-resigns-as-the-prime-minister-of-moldova-after-questions-arise-over-his-education-qualifications.md) _Context: Moldovan Prime Minister_
+7. [The Moldovan Parliament appoints a new government with Chiril Gaburici as Prime Minister and a legislative support formed by the PLDM, PDM and PCRM. ](/news/2015/02/18/the-moldovan-parliament-appoints-a-new-government-with-chiril-gaburici-as-prime-minister-and-a-legislative-support-formed-by-the-pldm-pdm-a.md) _Context: Moldovan Prime Minister_
+8. [Sweden's center-left government reaches a deal with the center-right opposition, The Alliance, giving a minority government room to govern so that the country's first snap election since 1958, originally planned for 22 March 2015, can be cancelled; the Sweden Democrats react by announcing that they will put down a motion of no confidence against Prime Minister Stefan Lofven. ](/news/2014/12/27/sweden-s-center-left-government-reaches-a-deal-with-the-center-right-opposition-the-alliance-giving-a-minority-government-room-to-govern-s.md) _Context: no-confidence_
+9. [Kuwaiti Prime Minister Nasser Mohammed Al-Ahmed Al-Sabah narrowly survives a no confidence vote, following a crackdown at an opposition demonstration in December. ](/news/2011/01/5/kuwaiti-prime-minister-nasser-mohammed-al-ahmed-al-sabah-narrowly-survives-a-no-confidence-vote-following-a-crackdown-at-an-opposition-demo.md) _Context: no-confidence_
+10. [Situation in Ireland:Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/situation-in-ireland-pireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-follow.md) _Context: no-confidence_

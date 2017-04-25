@@ -1,0 +1,24 @@
+### [2005-03-15](/news/2005/03/15/index.md)
+
+#  The International Criminal Court will hear its first case, the allegations of war crimes during a civil war in the Democratic Republic of Congo. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4349567.stm)
+2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_14-3-2005_pg4_10)
+
+### Related:
+
+1. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: International Criminal Court, war crime_
+2. [The International Criminal Court finds ex-Vice President of the Democratic Republic of the Congo Jean-Pierre Bemba guilty of war crimes. Bemba is accused of not taking steps to stop his militia from committing mass murder, rape and pillage in neighbouring Central African Republic. ](/news/2016/03/21/the-international-criminal-court-finds-ex-vice-president-of-the-democratic-republic-of-the-congo-jean-pierre-bemba-guilty-of-war-crimes-bem.md) _Context: International Criminal Court, war crime_
+3. [Ahmad al-Faqi is transferred to the International Criminal Court to face trial for the war crime of directing the destruction of cultural sites in Timbuktu, Mali when the city was under the control of Islamist groups in 2012. ](/news/2015/09/26/ahmad-al-faqi-is-transferred-to-the-international-criminal-court-to-face-trial-for-the-war-crime-of-directing-the-destruction-of-cultural-si.md) _Context: International Criminal Court, war crime_
+4. [The International Criminal Court issues an arrest warrant for war crimes against Sylvestre Mudacumura, the commander of the Congolese rebel group, the Democratic Forces for the Liberation of Rwanda. ](/news/2012/07/13/the-international-criminal-court-issues-an-arrest-warrant-for-war-crimes-against-sylvestre-mudacumura-the-commander-of-the-congolese-rebel.md) _Context: International Criminal Court, war crime_
+5. [Sudanese president Omar al-Bashir, the subject of an International Criminal Court arrest warrant for genocide, war crimes and crimes against humanity in the region of Darfur, unexpectedly delays his visit to China without official explanation, after he had already departed for an anti-terrorism conference hosted by Iran. ](/news/2011/06/27/sudanese-president-omar-al-bashir-the-subject-of-an-international-criminal-court-arrest-warrant-for-genocide-war-crimes-and-crimes-against.md) _Context: International Criminal Court, war crime_
+6. [The International Criminal Court asks the United Nations Security Council to take action over Djibouti's failure to arrest Sudanese President Omar al-Bashir, who was indicted by the court on charges of war crimes. ](/news/2011/05/12/the-international-criminal-court-asks-the-united-nations-security-council-to-take-action-over-djibouti-s-failure-to-arrest-sudanese-presiden.md) _Context: International Criminal Court, war crime_
+7. [The International Criminal Court is to begin a preliminary investigation into war crimes by North Korea. ](/news/2010/12/8/the-international-criminal-court-is-to-begin-a-preliminary-investigation-into-war-crimes-by-north-korea.md) _Context: International Criminal Court, war crime_
+8. [Former Vice President of the Democratic Republic of the Congo, Jean-Pierre Bemba, goes on trial for crimes against humanity and war crimes at the International Criminal Court in The Hague. ](/news/2010/11/22/former-vice-president-of-the-democratic-republic-of-the-congo-jean-pierre-bemba-goes-on-trial-for-crimes-against-humanity-and-war-crimes-a.md) _Context: International Criminal Court, war crime_
+9. [The United Nations warns that the trial of Guantanamo Bay inmate Omar Khadr violates an International Criminal Court statute banning the trial for war crimes of those under the age of 18, saying this has not happened since World War II. ](/news/2010/08/10/the-united-nations-warns-that-the-trial-of-guanta-namo-bay-inmate-omar-khadr-violates-an-international-criminal-court-statute-banning-the-tr.md) _Context: International Criminal Court, war crime_
+10. [ The African Union stops cooperation with the International Criminal Court because it charged Sudanese President Omar al-Bashir with war crimes. ](/news/2009/07/3/the-african-union-stops-cooperation-with-the-international-criminal-court-because-it-charged-sudanese-president-omar-al-bashir-with-war-cri.md) _Context: International Criminal Court, war crime_

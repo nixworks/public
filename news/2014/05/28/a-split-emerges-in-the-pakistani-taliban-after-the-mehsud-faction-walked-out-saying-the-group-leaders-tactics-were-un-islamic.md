@@ -1,0 +1,23 @@
+### [2014-05-28](/news/2014/05/28/index.md)
+
+# A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic".  
+
+A major faction of the Pakistani Taliban announce their split from the organisation, saying its tactics are &quot;un-Islamic&quot;.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-asia-27605651)
+
+### Related:
+
+1. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Tehrik-i-Taliban Pakistan_
+2. [Jakarta Governor Basuki Tjahaja Purnama (Ahok)  pleads not guilty  to charges of blaspheming Islam  during a September 27 campaign speech. Ahok is an  ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-a.md) _Context: Islam_
+3. [The far-right mayor of the Hungarian border village of Asotthalom, Laszlo Toroczkai, bans the open expression of Islam, including the construction of mosques and wearing of veils and headscarves, and the promotion of same-sex marriages. ](/news/2016/11/25/the-far-right-mayor-of-the-hungarian-border-village-of-asotthalom-la-szla3-toroczkai-bans-the-open-expression-of-islam-including-the-con.md) _Context: Islam_
+4. [UNESCO declares the Western Wall an "Islamic site" and refrains from mentioning its connection to Jewish culture. Over half the voting countries chose to abstain. ](/news/2016/10/13/unesco-declares-the-western-wall-an-islamic-site-and-refrains-from-mentioning-its-connection-to-jewish-culture-over-half-the-voting-count.md) _Context: Islam_
+5. [Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-administering-polio-vaccinations-i.md) _Context: Tehrik-i-Taliban Pakistan_
+6. [A Taliban suicide bomber hits a court complex in the town of Shabqadar killing at least 13 people and injuring 36.  Jamaat-ul-Ahrar, a  Pakistani Taliban faction, says the attack is retaliation for Mumtaz Qadri's execution last week. ](/news/2016/03/7/a-taliban-suicide-bomber-hits-a-court-complex-in-the-town-of-shabqadar-killing-at-least-13-people-and-injuring-36-jamaat-ul-ahrar-a-paki.md) _Context: Tehrik-i-Taliban Pakistan_
+7. [Protesters rally against Islam and immigration in several European cities amid growing tensions over the massive influx of asylum-seekers to the continent. ](/news/2016/02/6/protesters-rally-against-islam-and-immigration-in-several-european-cities-amid-growing-tensions-over-the-massive-influx-of-asylum-seekers-to.md) _Context: Islam_
+8. [Satellite images released by the Associated Press reveal the historic Saint Elijah's Monastery near the Iraqi city of Mosul, the oldest Christian monastery in Iraq that predates Islam, has been completely razed by Islamic State of Iraq and the Levant militants. ](/news/2016/01/20/satellite-images-released-by-the-associated-press-reveal-the-historic-saint-elijah-s-monastery-near-the-iraqi-city-of-mosul-the-oldest-chri.md) _Context: Islam_
+9. [The Republican Speaker of the House Paul Ryan and Senate Majority Leader Mitch McConnell distance the party from presidential candidate Donald Trump's recent comments calling for a ban on Muslims entering the United States.  While not entering into a political fray - in view of U.S. partnerships with Muslim nations and Muslim personnel serving in the United States Armed Forces - the Pentagon press secretary calls anti-Muslim rhetoric a national security threat. ](/news/2015/12/9/the-republican-speaker-of-the-house-paul-ryan-and-senate-majority-leader-mitch-mcconnell-distance-the-party-from-presidential-candidate-dona.md) _Context: Islam_
+10. [A suicide-bomb attack outside the regional office of the National Database and Registration Authority (NADRA) in the northwestern Pakistani city of Mardan, Khyber Pakhtunkhwa, leaves at least 26 people dead and 45 wounded. The militant Islamist group Jamaat-ul-Ahrar, a Tehrik-i-Taliban Pakistan splinter group, claims responsibility for the attack. ](/news/2015/12/29/a-suicide-bomb-attack-outside-the-regional-office-of-the-national-database-and-registration-authority-nadra-in-the-northwestern-pakistani.md) _Context: Tehrik-i-Taliban Pakistan_

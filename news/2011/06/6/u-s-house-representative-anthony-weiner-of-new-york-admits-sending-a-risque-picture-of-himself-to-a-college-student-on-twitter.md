@@ -1,0 +1,23 @@
+### [2011-06-6](/news/2011/06/6/index.md)
+
+# U.S. House Representative Anthony Weiner of New York admits sending a risqu picture of himself to a college student on Twitter. 
+
+
+
+
+### Source:
+
+1. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_CONGRESSMAN_TWITTER_PHOTO?SITE=ORBEN&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-06-06-21-01-24)
+
+### Related:
+
+1. [U.S. Representative Anthony Weiner of New York resigns his office amidst pressure from Democratic leadership and President Barack Obama after admitting to sending lewd photos via Twitter. ](/news/2011/06/16/u-s-representative-anthony-weiner-of-new-york-resigns-his-office-amidst-pressure-from-democratic-leadership-and-president-barack-obama-afte.md) _Context: Anthony Weiner, New York, Twitter, U.S. House_
+2. [Voters in New York's 9th congressional district go to the polls for a special election to replace former member of the United States House of Representatives Anthony Weiner with Republican Bob Turner winning a tight race with Democrat David Weprin  ](/news/2011/09/13/voters-in-new-york-s-9th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-o.md) _Context: Anthony Weiner, U.S. House_
+3. [Kathy Hochul, the Democratic Party candidate, wins a special election to represent New York's 26th congressional district in the United States House of Representatives. ](/news/2011/05/24/kathy-hochul-the-democratic-party-candidate-wins-a-special-election-to-represent-new-york-s-26th-congressional-district-in-the-united-stat.md) _Context: New York, U.S. House_
+4. [The United States House of Representatives votes to censure New York Democratic Party member Charlie Rangel. ](/news/2010/12/2/the-united-states-house-of-representatives-votes-to-censure-new-york-democratic-party-member-charlie-rangel.md) _Context: New York, U.S. House_
+5. [The United States House of Representatives Ethics Committee begins a public hearing into New York Democratic Congressman Charles B. Rangel. ](/news/2010/07/29/the-united-states-house-of-representatives-ethics-committee-begins-a-public-hearing-into-new-york-democratic-congressman-charles-b-rangel.md) _Context: New York, U.S. House_
+6. [The U.S. Department of Homeland Security withdraws its order that Twitter  unmask a user whose tweets are critical of President Donald Trump following the company's court filing to block the order on constitutional grounds. ](/news/2017/04/7/the-u-s-department-of-homeland-security-withdraws-its-order-that-twitter-unmask-a-user-whose-tweets-are-critical-of-president-donald-trump.md) _Context: Twitter_
+7. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: U.S. House_
+8. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: New York_
+9. [Starting this spring, the state of New York will offer free four-year public college tuition for residents whose families make less than $100,000, the first state in the country to do so. ](/news/2017/04/10/starting-this-spring-the-state-of-new-york-will-offer-free-four-year-public-college-tuition-for-residents-whose-families-make-less-than-10.md) _Context: New York_
+10. [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md) _Context: U.S. House_

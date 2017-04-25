@@ -1,0 +1,82 @@
+## [2011-05-7](/news/2011/05/7/index.md)
+
+### [2011 Syrian uprising Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/2011-syrian-uprising-psources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-preside.md)
+Residents form a human chain in a bid to halt troops from sweeping into the coastal town of Baniyas.
+
+### [The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-large-fire.md)
+_Context: Libyan Civil War, Misrata, its armed forces_
+
+### [Sectarian violence in northern Nigeria kills at least 16 people. ](/news/2011/05/7/sectarian-violence-in-northern-nigeria-kills-at-least-16-people.md)
+_Context: Nigeria_
+
+### [Gunmen attack the compound of the Governor of Afghanistan's Kandahar Province and other facilities in the city of Kandahar with two dead and 29 injured. ](/news/2011/05/7/gunmen-attack-the-compound-of-the-governor-of-afghanistan-s-kandahar-province-and-other-facilities-in-the-city-of-kandahar-with-two-dead-and.md)
+The&#x20;Taliban&#x20;claimed&#x20;responsibility&#x20;for&#x20;a&#x20;wave&#x20;of&#x20;coordinated&#x20;attacks&#x20;targeting&#x20;government&#x20;buildings&#x20;in&#x20;the&#x20;key&#x20;Afghan&#x20;city&#x20;of&#x20;Kandahar&#x20;on&#x20;Saturday,&#x20;which&#x20;has&#x20;left&#x20;at&#x20;least&#x20;two&#x20;people&#x20;dead&#x20;and&#x20;29&#x20;wounded.
+
+### [Al Qaeda in the Islamic Maghreb denies responsibility for a bomb attack on a Marrakesh cafe that killed 16 people on April 28. ](/news/2011/05/7/al-qaeda-in-the-islamic-maghreb-denies-responsibility-for-a-bomb-attack-on-a-marrakesh-cafe-that-killed-16-people-on-april-28.md)
+Al Qaeda in the Islamic Maghreb (AQIM) denied Saturday it was involved in a bomb attack on a cafe in Marrakesh last week that killed 17 people including eight French nationals.
+
+### [The United States releases videos of Osama bin Laden captured in last Sunday's raid. ](/news/2011/05/7/the-united-states-releases-videos-of-osama-bin-laden-captured-in-last-sunday-s-raid.md)
+Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan, shows the al-Qaida founder watching himself on TV, The Associated Press reported. 
+
+### [At least five people are killed and 54 injured in sectarian clashes in the Imbaba area of Cairo. ](/news/2011/05/7/at-least-five-people-are-killed-and-54-injured-in-sectarian-clashes-in-the-imbaba-area-of-cairo.md)
+_Context: Cairo, Imbaba_
+
+### [The government of Tunisia declares an overnight curfew in the capital Tunis following three days of unrest. ](/news/2011/05/7/the-government-of-tunisia-declares-an-overnight-curfew-in-the-capital-tunis-following-three-days-of-unrest.md)
+Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&#x20;in&#x20;the&#x20;capital&#x20;city&#x20;Tunis&#x20;and&#x20;its&#x20;surrounding&#x20;areas&#x20;Saturday&#x20;following&#x20;three&#x20;days&#x20;of&#x20;unrest&#x20;amid&#x20;fears&#x20;the&#x20;country&#x27;s&#x20;interim&#x20;leaders&#x20;will&#x20;not&#x20;honour&#x20;their&#x20;commitment&#x20;to&#x20;forming&#x20;a&#x20;democracy.
+
+### [Sony states that it will delay the restart of its PlayStation Network following the PlayStation Network outage, and that it has managed to remove user data that had been posted online by a third party. ](/news/2011/05/7/sony-states-that-it-will-delay-the-restart-of-its-playstation-network-following-the-playstation-network-outage-and-that-it-has-managed-to-r.md)
+_Context: PlayStation Network, PlayStation Network outage, Sony_
+
+### [A Merpati Nusantara Airlines Xian MA60 passenger plane with 25 passengers crashes into the sea near the Indonesian province of West Papua with no survivors. ](/news/2011/05/7/a-merpati-nusantara-airlines-xian-ma60-passenger-plane-with-25-passengers-crashes-into-the-sea-near-the-indonesian-province-of-west-papua-wi.md)
+There were no survivors from the crash of an Indonesian passenger aircraft into the sea with up to 27 people on board, a navy officer says.
+
+### [The Spring 2011 Mississippi River Floods continue, with thousands of homes now ordered evacuated. [http://www.voanews.com/english/news/Thousands-Evacuating-Mississippi-River-Flooding-in-US-121438494.html ''(Voice of America)''] The 1927 Mississippi flooding record expected to be broken. [http://slatest.slate.com/posts/2011/05/07/mississippi_river_flooding_eminent_residents_brace_for_worst.html ''(Slate)'']The floods have disrupted major food and energy distribution in affected states. [http://www.bloomberg.com/news/2011-05-07/mississippi-river-swells-close-to-record-in-tennessee-prompts-evacuations.html ''(Bloomberg)''].](/news/2011/05/7/the-spring-2011-mississippi-river-floods-continue-with-thousands-of-homes-now-ordered-evacuated-http-www-voanews-com-english-news-thous.md)
+_Context: Spring 2011 Mississippi River Floods_
+
+### [The wreckage of a plane that crashed in Bolivia on Thursday has been found with four United Nations staff and two pilots dead. ](/news/2011/05/7/the-wreckage-of-a-plane-that-crashed-in-bolivia-on-thursday-has-been-found-with-four-united-nations-staff-and-two-pilots-dead.md)
+_Context: Bolivia, United Nations_
+
+### [China, Kyrgyzstan and Tajikistan conduct an anti-terror drill in the restive Xinjiang region of western China. ](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.md)
+_Context: China's, Kyrgyzstan, Tajikistan, Xinjiang_
+
+### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
+_Context: Belarus, Russia_
+
+### [The ''Yomiuri'' reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by.md)
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
+
+### [Voters in Singapore go to the polls for a general election.The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/voters-in-singapore-go-to-the-polls-for-a-general-election-pthe-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87.md)
+Singapore’s long-governing People’s Action Party (PAP) won an absolute parliamentary majority in the early hours of Sunday following Saturday’s general election. Prime Minister Lee Hsien Loong and for
+
+### [The Scottish National Party urges British Prime Minister David Cameron to amend the Scotland Bill to give the Scottish Parliament greater legislative powers. ](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.md)
+_Context: David Cameron, Scotland Bill, Scottish National Party, Scottish Parliament_
+
+### [Scottish Liberal Democrat leader Tavish Scott resigns after a collapse of his party's support at the Scottish Parliament election. ](/news/2011/05/7/scottish-liberal-democrat-leader-tavish-scott-resigns-after-a-collapse-of-his-party-s-support-at-the-scottish-parliament-election.md)
+_Context: Scottish Liberal Democrat, Tavish Scott, recently victorious_
+
+### [British Secretary of State for Business Vince Cable launches a fierce attack on the tactics of his party's  Conservative coalition partners as "ruthless, calculating and very tribal" for the way they conducted themselves in the Alternative Vote referendum. ](/news/2011/05/7/british-secretary-of-state-for-business-vince-cable-launches-a-fierce-attack-on-the-tactics-of-his-party-s-conservative-coalition-partners.md)
+Lib Dem Business Secretary Vince Cable attacks the Conservatives as &quot;ruthless, calculating and very tribal&quot; but insists the coalition will continue.
+
+### [Deputy Prime Minister Nick Clegg describes the result of the referendum as a "bitter blow". ](/news/2011/05/7/deputy-prime-minister-nick-clegg-describes-the-result-of-the-referendum-as-a-bitter-blow.md)
+_Context: Deputy Prime Minister, Nick Clegg_
+
+### [Counting for the Northern Ireland Assembly election finally ends with the DUP and Sinn Fin winning the most seats, 38 and 29 respectively. ](/news/2011/05/7/counting-for-the-northern-ireland-assembly-election-finally-ends-with-the-dup-and-sinn-fein-winning-the-most-seats-38-and-29-respectively.md)
+_Context: Democratic Unionist Party, Northern Ireland Assembly election, Sinn F�in_
+
+### [The Welsh Labour Party says it expects to be in government by the end of next week, and may govern alone after winning 30 of the 60 Welsh Assembly seats in Thursday's election. ](/news/2011/05/7/the-welsh-labour-party-says-it-expects-to-be-in-government-by-the-end-of-next-week-and-may-govern-alone-after-winning-30-of-the-60-welsh-as.md)
+Labour say they expect to be in government in Cardiff Bay by the end of next week, following their strong performance in the assembly election.
+
+### [Voters in Ecuador go to the polls for the Ecuadorian constitutional referendum with the government declaring victory based on exit polls. ](/news/2011/05/7/voters-in-ecuador-go-to-the-polls-for-the-ecuadorian-constitutional-referendum-with-the-government-declaring-victory-based-on-exit-polls.md)
+_Context: Ecuador, Ecuadorian constitutional referendum, exit poll_
+
+### [Golf champion Seve Ballesteros dies after surgery to remove a brain tumour in Spain. ](/news/2011/05/7/golf-champion-seve-ballesteros-dies-after-surgery-to-remove-a-brain-tumour-in-spain.md)
+_Context: Seve Ballesteros, Spain, brain tumour, golf_
+
+### [Jockey John R. Velazquez wins the 2011 Kentucky Derby riding Animal Kingdom. ](/news/2011/05/7/jockey-john-r-velazquez-wins-the-2011-kentucky-derby-riding-animal-kingdom.md)
+_Context: 2011 Kentucky Derby, Animal Kingdom, Jockey, John R. Velazquez_
+
+### [American baseball pitcher Justin Verlander of the Detroit Tigers throws a no-hitter against the Toronto Blue Jays. ](/news/2011/05/7/american-baseball-pitcher-justin-verlander-of-the-detroit-tigers-throws-a-no-hitter-against-the-toronto-blue-jays.md)
+_Context: Detroit Tigers, Justin Verlander, Toronto Blue Jays, baseball, no-hitter_
+
+## [Previous Day...](/news/2011/05/6/index.md)
+

@@ -1,0 +1,25 @@
+### [2009-08-2](/news/2009/08/2/index.md)
+
+#  Chinese police detain a further 319 people over unrest in the Xinjiang region last month. 
+
+Chinese police detained 319people suspected of involvement in deadly ethnic rioting innorthwestern Xinjiang region last month, after a &quot;wanted&quot; listof suspects spurred tip-offs, the official Xinhua agency said onSunday.
+
+
+### Source:
+
+1. [Reuters India](http://in.reuters.com/article/oilRpt/idINPEK14834420090802)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=102304&sectionid=351020404)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-08/02/content_11814102.htm)
+
+### Related:
+
+1. [ A further three people are sentenced to death for their involvement in the July riots in rmqi, Xinjiang, in northwestern China. ](/news/2009/12/4/a-further-three-people-are-sentenced-to-death-for-their-involvement-in-the-july-riots-in-urumqi-xinjiang-in-northwestern-china.md) _Context: China's, Xinjiang, riots_
+2. [ A further five people are sentenced to death over their involvement in the July riots in rmqi, Xinjiang, in northwestern China. ](/news/2009/12/3/a-further-five-people-are-sentenced-to-death-over-their-involvement-in-the-july-riots-in-urumqi-xinjiang-in-northwestern-china.md) _Context: China's, Xinjiang, riots_
+3. [ China sentences a further five people to death over riots in rmqi, Xinjiang in July, bringing the total number of people sentenced to death to 22. ](/news/2009/12/24/china-sentences-a-further-five-people-to-death-over-riots-in-urumqi-xinjiang-in-july-bringing-the-total-number-of-people-sentenced-to-dea.md) _Context: China's, Xinjiang, riots_
+4. [ Six Uyghurs are sentenced to death over riots in the western region of Xinjiang, China in July. ](/news/2009/10/12/six-uyghurs-are-sentenced-to-death-over-riots-in-the-western-region-of-xinjiang-china-in-july.md) _Context: China's, Xinjiang, riots_
+5. [ Hundreds of people protest in Hong Kong over alleged beatings of its journalists in mainland China covering unrest in Xinjiang. ](/news/2009/09/13/hundreds-of-people-protest-in-hong-kong-over-alleged-beatings-of-its-journalists-in-mainland-china-covering-unrest-in-xinjiang.md) _Context: China's, Xinjiang, riots_
+6. [  Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md) _Context: China's, Xinjiang, riots_
+7. [ Riots in China's Xinjiang region leave 156 dead and more than 800 injured. ](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.md) _Context: China's, Xinjiang, riots_
+8. [ Three people are killed and twenty injured following clashes in rmqi, capital of Xinjiang, western China. ](/news/2009/07/5/three-people-are-killed-and-twenty-injured-following-clashes-in-urumqi-capital-of-xinjiang-western-china.md) _Context: China's, Xinjiang, riots_
+9. [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md) _Context: China's, Xinjiang_
+10. [Three people are sentenced to death and one person given a life sentence for the 2014 Kunming attack in China's Xinjiang region. ](/news/2014/09/12/three-people-are-sentenced-to-death-and-one-person-given-a-life-sentence-for-the-2014-kunming-attack-in-china-s-xinjiang-region.md) _Context: China's, Xinjiang_

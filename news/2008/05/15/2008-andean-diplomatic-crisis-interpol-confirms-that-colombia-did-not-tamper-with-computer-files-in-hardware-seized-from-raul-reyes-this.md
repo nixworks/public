@@ -1,0 +1,24 @@
+### [2008-05-15](/news/2008/05/15/index.md)
+
+#  2008 Andean diplomatic crisis: Interpol confirms that Colombia did not tamper with computer files in hardware seized from Raul Reyes. This alleged that Venezuela and Ecuador provided funding, assistance and drug routes to the terrorist group Revolutionary Armed Forces of Colombia. However, Interpol stated that they had not looked at the content of the files, only their authenticity. 
+
+
+
+
+### Source:
+
+1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7403685.stm)
+2. [CNN](http://edition.cnn.com/2008/WORLD/americas/05/15/colombia.computers/index.html)
+
+### Related:
+
+1. [ South American diplomatic crisis: President Hugo Chvez orders the closure of the Venezuelan embassy in Colombia and moves ten battalions to the Colombian-Venezuelan border in response to the killing of FARC leader Ral Reyes in Ecuador by Colombian armed forces the previous day. Rafael Correa, the President of Ecuador, orders troops to the Colombian border. The Colombian government accuses Correa of having "a relationship and commitments" with FARC. ](/news/2008/03/2/south-american-diplomatic-crisis-president-hugo-chavez-orders-the-closure-of-the-venezuelan-embassy-in-colombia-and-moves-ten-battalions-t.md) _Context: Colombia, Ecuador, Raul Reyes, Revolutionary Armed Forces of Colombia, Venezuela_
+2. [ The President of Venezuela Hugo Chvez calls for a cooling of tensions with Colombia at a summit of the Rio Group presidents in the Dominican Republic. The Rio Group later approves a declaration aimed at reducing tensions between, Ecuador, Venezuela and Colombia. ](/news/2008/03/7/the-president-of-venezuela-hugo-chavez-calls-for-a-cooling-of-tensions-with-colombia-at-a-summit-of-the-rio-group-presidents-in-the-dominic.md) _Context: Andean diplomatic crisis, Colombia, Ecuador, Venezuela_
+3. [ Ral Reyes, the second in command of the FARC guerilla organization, is killed in a Colombian military operation in northern Ecuador. ](/news/2008/03/1/raul-reyes-the-second-in-command-of-the-farc-guerilla-organization-is-killed-in-a-colombian-military-operation-in-northern-ecuador.md) _Context: Colombia, Ecuador, Raul Reyes, Revolutionary Armed Forces of Colombia_
+4. [ On an official visit to Colombia, Mexican President Felipe Calderon offers his country's mediation in the conflict between that country, Ecuador and Venezuela. ](/news/2009/08/13/on-an-official-visit-to-colombia-mexican-president-felipe-caldera3n-offers-his-countryas-mediation-in-the-conflict-between-that-country.md) _Context: Colombia, Ecuador, Venezuela_
+5. [ Venezuela "freezes" diplomatic relations with Colombia, after a dispute over Swedish weapons bought by Venezuela were allegedly found on FARC rebels. ](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_
+6. [ Colombia and Ecuador restore relations following the Andean diplomatic crisis in March. ](/news/2008/06/6/colombia-and-ecuador-restore-relations-following-the-andean-diplomatic-crisis-in-march.md) _Context: Andean diplomatic crisis, Colombia, Ecuador_
+7. [ Venezuela announces that it will reopen its embassy in Colombia and welcome back Colombian diplomats expelled during the regional diplomatic crisis. ](/news/2008/03/9/venezuela-announces-that-it-will-reopen-its-embassy-in-colombia-and-welcome-back-colombian-diplomats-expelled-during-the-regional-diplomati.md) _Context: Andean diplomatic crisis, Colombia, Venezuela_
+8. [ Venezuela promises to investigate claims that Rodrigo Granda, a prominent member of the Colombian rebel group FARC, was captured from Caracas instead of from inside Colombia. Granda was arrested December 13, 2004. ](/news/2005/01/5/venezuela-promises-to-investigate-claims-that-rodrigo-granda-a-prominent-member-of-the-colombian-rebel-group-farc-was-captured-from-carac.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_
+9. [ Venezuela has rejected the suggestion of Colombia to hold a regional summit to resolve the dispute over the capture of FARC leader Rodrigo Granda. Hugo Chvez states that he is willing to discuss the matter personally with lvaro Uribe. ](/news/2005/01/17/venezuela-has-rejected-the-suggestion-of-colombia-to-hold-a-regional-summit-to-resolve-the-dispute-over-the-capture-of-farc-leader-rodrigo.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_
+10. [ Venezuelan President Hugo Chvez says he is convinced that Colombian police captured FARC leader Rodrigo Granda in Venezuela, contrary to their claims that he was arrested in the Colombian border town of Ccuta. ](/news/2005/01/10/venezuelan-president-hugo-chavez-says-he-is-convinced-that-colombian-police-captured-farc-leader-rodrigo-granda-in-venezuela-contrary-to-t.md) _Context: Colombia, Revolutionary Armed Forces of Colombia, Venezuela_

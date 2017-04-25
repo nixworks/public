@@ -1,0 +1,23 @@
+### [2009-02-12](/news/2009/02/12/index.md)
+
+#  Microsoft places a US$250,000 bounty on the Conficker computer worm's creator. 
+
+Microsoft is offering a $250,000 reward for information leading to the conviction of the Conficker worm&#039;s author.
+
+
+### Source:
+
+1. [PC World](http://www.pcworld.com/businesscenter/article/159460/microsoft_puts_250000_bounty_on_conficker_worm.html)
+
+### Related:
+
+1. [In basketball, the NBA announces that it has approved the US$2 billion bid of former Microsoft CEO Steve Ballmer for the Los Angeles Clippers. The sale must still be approved by the league's owners, and banned Clippers owner Donald Sterling has filed a $1 billion lawsuit against the NBA. The sale price far exceeds the previous NBA record of $550 million paid for the Milwaukee Bucks earlier this year. ](/news/2014/05/30/in-basketball-the-nba-announces-that-it-has-approved-the-us-2-billion-bid-of-former-microsoft-ceo-steve-ballmer-for-the-los-angeles-clipper.md) _Context: Microsoft, U.S. dollar_
+2. [Microsoft announces that it is purchasing Internet phone service Skype for US$8.5 billion. ](/news/2011/05/10/microsoft-announces-that-it-is-purchasing-internet-phone-service-skype-for-us-8-5-billion.md) _Context: Microsoft, U.S. dollar_
+3. [ Computer worm Conficker infects more than eight million Microsoft Windows-based personal computers. ](/news/2009/01/16/computer-worm-conficker-infects-more-than-eight-million-microsoft-windows-based-personal-computers.md) _Context: Conficker, computer worm_
+4. [ Microsoft loses a South Korean antitrust case, and is fined Wn32 billion (USD 32m). ](/news/2005/12/7/microsoft-loses-a-south-korean-antitrust-case-and-is-fined-a-c-n32-billion-usd-32m.md) _Context: Microsoft, U.S. dollar_
+5. [In an interview, U.S. President Donald Trump says the U.S. dollar is "getting too strong" and wants to keep interest rates low, causing the U.S. Dollar Index to fall. ](/news/2017/04/12/in-an-interview-u-s-president-donald-trump-says-the-u-s-dollar-is-getting-too-strong-and-wants-to-keep-interest-rates-low-causing-the.md) _Context: U.S. dollar_
+6. [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md) _Context: U.S. dollar_
+7. [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md) _Context: U.S. dollar_
+8. [Kraft Heinz drops its bid to buy Unilever for US$143 billion. Unilever rejected the idea last Friday but Kraft Heinz still expressed interest in finding an agreement. ](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.md) _Context: U.S. dollar_
+9. [British-Dutch consumer goods company Unilever rejects a US$143 billion takeover from Kraft Heinz, saying the deal had no financial or strategic merit. Nevertheless, Kraft is still interested in finding agreement; it has until March 17 to make a final bid under UK takeover rules. ](/news/2017/02/17/british-dutch-consumer-goods-company-unilever-rejects-a-us-143-billion-takeover-from-kraft-heinz-saying-the-deal-had-no-financial-or-strate.md) _Context: U.S. dollar_
+10. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: U.S. dollar_

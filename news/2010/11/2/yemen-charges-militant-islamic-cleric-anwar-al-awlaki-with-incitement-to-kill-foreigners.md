@@ -1,0 +1,23 @@
+### [2010-11-2](/news/2010/11/2/index.md)
+
+# Yemen charges militant Islamic cleric Anwar al-Awlaki with incitement to kill foreigners. 
+
+
+
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2010/WORLD/meast/11/02/yemen.security.concern/index.html?eref=edition)
+
+### Related:
+
+1. [A judge in Yemen orders the capture of militant Islamic cleric Anwar al-Awlaki to face charges of "forming an armed gang". ](/news/2010/11/6/a-judge-in-yemen-orders-the-capture-of-militant-islamic-cleric-anwar-al-awlaki-to-face-charges-of-forming-an-armed-gang.md) _Context: Anwar al-Awlaki, Islam, Yemen_
+2. [Al Qaeda in the Arabian Peninsula leader and U.S. citizen Anwar al-Awlaki is reported killed in Yemen. ](/news/2011/09/30/al-qaeda-in-the-arabian-peninsula-leader-and-u-s-citizen-anwar-al-awlaki-is-reported-killed-in-yemen.md) _Context: Anwar al-Awlaki, Yemen_
+3. [Anwar al-Awlaki, a Yemeni cleric affiliated with al-Queda, tells Muslims in a new video posting that they are free to kill American at will, in retaliation for the killing of civilians in Iraq, Afghanistan and elsewhere. ](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.md) _Context: Anwar al-Awlaki, Yemen_
+4. [A US-born Yemenite cleric linked to Al-Qaeda, Anwar Al-Awlaki, advocates the killing of US civilians in a new Al Qaeda video. ](/news/2010/05/27/a-us-born-yemenite-cleric-linked-to-al-qaeda-anwar-al-awlaki-advocates-the-killing-of-us-civilians-in-a-new-al-qaeda-video.md) _Context: Anwar al-Awlaki, Yemen_
+5. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: Yemen_
+6. [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md) _Context: Yemen_
+7. [Yemen reassesses its permission to the United States to run special operations ground missions against suspected terrorist groups because of the civilian deaths in the January 29 raid. Earlier reports indicated permission had been suspended. ](/news/2017/02/8/yemen-reassesses-its-permission-to-the-united-states-to-run-special-operations-ground-missions-against-suspected-terrorist-groups-because-of.md) _Context: Yemen_
+8. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Yemen_
+9. [A Houthi missile attack on a Yemeni military camp near the port city of Mocha  kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md) _Context: Yemen_
+10. [A suspected U.S. drone strike kills two al-Qaida militants in  central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen_

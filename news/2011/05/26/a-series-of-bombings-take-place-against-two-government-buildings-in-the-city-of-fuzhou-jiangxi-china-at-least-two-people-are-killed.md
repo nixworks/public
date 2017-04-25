@@ -1,0 +1,23 @@
+### [2011-05-26](/news/2011/05/26/index.md)
+
+# A series of bombings take place against two government buildings in the city of Fuzhou, Jiangxi, China; at least two people are killed. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13556366)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i57WYFqEn4bLlTbY-Lfu9gn4SEoQ?docId=CNG.925fb1bc06c719f0ccd4c0a6da4f9506.251)
+
+### Related:
+
+1. [A train traveling from Shanghai to Guilin derails in a mountainous area near Fuzhou, Jiangxi, China, and is destroyed, killing at least 19 and injuring 71 others. ](/news/2010/05/23/a-train-traveling-from-shanghai-to-guilin-derails-in-a-mountainous-area-near-fuzhou-jiangxi-china-and-is-destroyed-killing-at-least-19-a.md) _Context: Fuzhou, Jiangxi_
+2. [At least 74 people are dead and many others injured and trapped after a construction platform at a power plant in the Chinese city of Fengcheng in Jiangxi province collapses. ](/news/2016/11/24/at-least-74-people-are-dead-and-many-others-injured-and-trapped-after-a-construction-platform-at-a-power-plant-in-the-chinese-city-of-fengch.md) _Context: Jiangxi_
+3. [Chinese Premier Wen Jiabao visits rural Jinzhai County in Jiangxi province to celebrate Chinese New Year with local farmers. ](/news/2011/02/2/chinese-premier-wen-jiabao-visits-rural-jinzhai-county-in-jiangxi-province-to-celebrate-chinese-new-year-with-local-farmers.md) _Context: Jiangxi_
+4. [12 people are dead after a 41-vehicle traffic accident on an expressway in East China's Jiangxi province. ](/news/2010/11/5/12-people-are-dead-after-a-41-vehicle-traffic-accident-on-an-expressway-in-east-china-s-jiangxi-province.md) _Context: Jiangxi_
+5. [Severe rainstorms have killed at least 70 people since a powerful tornado hit Chongqing municipality in south-western China in Dianjiang and Liangping counties. Inclement weather in the next two days will affect Guangdong, Fujian, Hunan, Jiangxi, Zhejiang, Guizhou and Yunnan provinces. ](/news/2010/05/10/severe-rainstorms-have-killed-at-least-70-people-since-a-powerful-tornado-hit-chongqing-municipality-in-south-western-china-in-dianjiang-and.md) _Context: Jiangxi_
+6. [ At least 10 people die and 19 others are injured when more than 100 vehicles smash into each other near Poyang Lake in Jiangxi, China. ](/news/2009/12/28/at-least-10-people-die-and-19-others-are-injured-when-more-than-100-vehicles-smash-into-each-other-near-poyang-lake-in-jiangxi-china.md) _Context: Jiangxi_
+7. [ Heavy rainstorm and major flooding continues in the South China region.  Millions of people are affected in Anhui, Hunan, Jiangxi, Fujian and Guangdong.  Tens of thousands of victims of the 2008 Sichuan earthquake are evacuated due to heavy rains as 65 people are dead or missing with flood warnings on the Yangtze River and Pearl River amongst other rivers. ](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in-the-south-china-region-millions-of-people-are-affected-in-anhui-hunan-jiangxi-fujian-a.md) _Context: Jiangxi_
+8. [ Flooding in the southern Chinese provinces of Guangdong, Guangxi, Guizhou, Hunan, Fujian, and Jiangxi damage agricultural land and crops, kill 66 people, and force 600,000 people from their homes. ](/news/2007/06/11/flooding-in-the-southern-chinese-provinces-of-guangdong-guangxi-guizhou-hunan-fujian-and-jiangxi-damage-agricultural-land-and-crops-k.md) _Context: Jiangxi_
+9. [ In China, a bus explosion kills about 30 people in Jiangxi province. ](/news/2005/03/17/in-china-a-bus-explosion-kills-about-30-people-in-jiangxi-province.md) _Context: Jiangxi_

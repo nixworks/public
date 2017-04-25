@@ -1,0 +1,27 @@
+### [2012-05-19](/news/2012/05/19/index.md)
+
+# Association football:The final of the 2011-12 UEFA Champions League occurs in Munich, with Chelsea defeating Bayern Munich in a penalty shoot out after extra time, winning the competition for the first time in the club's history. 
+
+Live text commentary as Chelsea beat Bayern Munich on penalties in the Champions League final at the Allianz Arena.
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/football/2012/may/19/champions-league-final-chelsea-bayern-live)
+2. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/05/201251921404127487.html)
+3. [The Sydney Morning Herald](http://www.smh.com.au/sport/football/chelseas-old-guard-go-from-hasbeens-to-european-champions-20120520-1yyhf.html)
+4. [BBC](http://www.bbc.co.uk/sport/0/football/18044378)
+5. [BBC](http://www.bbc.co.uk/sport/0/football/18131939)
+
+### Related:
+
+1. [Roberto Di Matteo is sacked by Chelsea F.C. after a 2012-13 UEFA Champions League defeat 0-3 to Juventus F.C. left them in danger of becoming the first title holders to exit the competition in the group stage. Di Matteo managed Chelsea to their first ever Champions League title in Munich last May. Rafael Benitez appointed Chelsea interim manager until end of season. ](/news/2012/11/21/roberto-di-matteo-is-sacked-by-chelsea-f-c-after-a-2012a13-uefa-champions-league-defeat-0-3-to-juventus-f-c-left-them-in-danger-of-becom.md) _Context: Chelsea F.C., Munich, last May_
+2. [Thousands of people gather in London for an open-top bus parade to celebrate Chelsea's UEFA Champions League victory over Munich in last night's final. ](/news/2012/05/20/thousands-of-people-gather-in-london-for-an-open-top-bus-parade-to-celebrate-chelsea-s-uefa-champions-league-victory-over-munich-in-last-nig.md) _Context: Chelsea F.C., UEFA Champions League, last May_
+3. [Papiss Cisse fires two goals past UEFA Champions League finalists Chelsea to keep Newcastle United firmly in contention for a place in the Premier League's top four which would require Chelsea to defeat Bayern Munich in the final to qualify for next season. ](/news/2012/05/2/papiss-cissa-c-fires-two-goals-past-uefa-champions-league-finalists-chelsea-to-keep-newcastle-united-firmly-in-contention-for-a-place-in-the.md) _Context: Chelsea F.C., FC Bayern Munich, last May_
+4. [In the UEFA Champions League semi-final, Chelsea pull off a remarkable comeback against FC Barcelona at the Camp Nou, coming back from two goals down despite having captain John Terry sent off, central defender Gary Cahill injured in the opening minutes and Didier Drogba's concession of a penalty to Lionel Messi which hits the crossbar. Chelsea are left without the suspended quartet of Terry, Ramires, Branislav Ivanovic and Raul Meireles for the final at the Allianz Arena. ](/news/2012/04/24/in-the-uefa-champions-league-semi-final-chelsea-pull-off-a-remarkable-comeback-against-fc-barcelona-at-the-camp-nou-coming-back-from-two-g.md) _Context: Chelsea F.C., UEFA Champions League, last May_
+5. [In football, FC Bayern Munich wins the 2014-15 Bundesliga for a 25th time. ](/news/2015/04/26/in-football-fc-bayern-munich-wins-the-2014a15-bundesliga-for-a-25th-time.md) _Context: FC Bayern Munich, association football_
+6. [The second legs of the 2012-13 UEFA Europa League round of 32 are held across Europe. Among the football teams eliminated are titleholders Atletico Madrid, Ajax (in the first ever penalty shootout in the knockout phase of the competition) and European giants Liverpool, while both London sides left, Tottenham and Chelsea, advance into the last 16. ](/news/2013/02/21/the-second-legs-of-the-2012a13-uefa-europa-league-round-of-32-are-held-across-europe-among-the-football-teams-eliminated-are-titleholders.md) _Context: Chelsea F.C., association football_
+7. [Brazil football club Corinthians wins the 2012 FIFA Club World Cup, after a 1-0 win over Chelsea in the final. Paolo Guerrero scored the only goal of the game in Yokohama, Japan. Brazilian player Cassio Ramos is named as MVP of the tournament. ](/news/2012/12/16/brazil-football-club-corinthians-wins-the-2012-fifa-club-world-cup-after-a-1a0-win-over-chelsea-in-the-final-paolo-guerrero-scored-the-o.md) _Context: Chelsea F.C., association football_
+8. [English football club Chelsea to face Brazil's Corinthians in the 2012 FIFA Club World Cup final on 16 December, after 3-1 win over Mexican club Monterrey in the semifinal. ](/news/2012/12/13/english-football-club-chelsea-to-face-brazil-s-corinthians-in-the-2012-fifa-club-world-cup-final-on-16-december-after-3a1-win-over-mexica.md) _Context: Chelsea F.C., association football_
+9. [In football, UEFA suspends Czech defender David Bystron of Viktoria Plzen for two years for testing positive for a banned substance after a Champions League match against Belarus side BATE Borisov. ](/news/2012/02/9/in-football-uefa-suspends-czech-defender-david-bystroa-of-viktoria-plzea-for-two-years-for-testing-positive-for-a-banned-substance-after.md) _Context: UEFA Champions League, association football_
+10. [ English Premier League football club Chelsea F.C. are barred from purchasing players on transfer until January 2011 by FIFA for inducing Gal Kakuta to illegally break his contract with French Ligue 1 club RC Lens in 2007. ](/news/2009/09/3/english-premier-league-football-club-chelsea-f-c-are-barred-from-purchasing-players-on-transfer-until-january-2011-by-fifa-for-inducing-ga.md) _Context: Chelsea F.C., association football_

@@ -1,0 +1,23 @@
+### [2006-03-13](/news/2006/03/13/index.md)
+
+#  A major oil slick, which could contain some 40 tonnes of fuel, has been detected off the coast of Estonia, one week after the Runner-4 cargo vessel sank in the Baltic Sea. Heavy sea ice prevents an accurate estimate of the content of the oil slick that may have killed 35,000 sea birds. 
+
+
+
+
+### Source:
+
+1. [Yahoo News](http://news.yahoo.com/s/afp/estoniashippingenvironmentpollution;_ylt=Atvl4F0uyWvG5y1KEgXz42qs0NUE;_ylu=X3oDMTA3ODdxdHBhBHNlYwM5NjQ-)
+
+### Related:
+
+1. [Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. ](/news/2017/03/18/eight-hundred-british-army-troops-arrive-in-estonia-as-part-of-nato-s-enhanced-forward-presence-to-deter-russian-aggression-in-eastern-europ.md) _Context: Estonia_
+2. [The Secretary General of NATO Jens Stoltenberg says that the military alliance plans on sending four multinational battalions to Estonia, Latvia, Lithuania and Poland in order to boost their defense. However, Stoltenberg said that the battalions will only be deployed on a rotational basis instead of being based permanently. ](/news/2016/06/13/the-secretary-general-of-nato-jens-stoltenberg-says-that-the-military-alliance-plans-on-sending-four-multinational-battalions-to-estonia-la.md) _Context: Estonia_
+3. [Russia says it intercepted a U.S. Air Force plane approaching its border over the Baltic Sea on Friday because the aircraft had turned off its transponder which is needed for identification.  The Pentagon says the U.S. RC-135  was flying a routine route in international airspace when the Russian SU-27 fighter intercepted it in an "unsafe and unprofessional" way. ](/news/2016/04/30/russia-says-it-intercepted-a-u-s-air-force-plane-approaching-its-border-over-the-baltic-sea-on-friday-because-the-aircraft-had-turned-off-i.md) _Context: Baltic Sea_
+4. [A Russian Su-27 jet intercepts a United States Air Force RC-135 reconnaissance plane while in international airspace over the Baltic Sea. U.S. Secretary of State John Kerry says, "We condemn this kind of behavior. It is reckless. It is provocative. It is dangerous." ](/news/2016/04/17/a-russian-su-27-jet-intercepts-a-united-states-air-force-rc-135-reconnaissance-plane-while-in-international-airspace-over-the-baltic-sea-u.md) _Context: Baltic Sea_
+5. [A United States Air Force Boeing RC-135 reconnaissance aircraft was intercepted and threatened by a Russian Sukhoi Su-27 fighter jet in international airspace over the Baltic Sea on Thursday (April 14), according to the United States European Command (EUCOM). ](/news/2016/04/16/a-united-states-air-force-boeing-rc-135-reconnaissance-aircraft-was-intercepted-and-threatened-by-a-russian-sukhoi-su-27-fighter-jet-in-inte.md) _Context: Baltic Sea_
+6. [Two unarmed Russian Air Force Sukhoi Su-24 jets flew simulated attacks on United States Navy destroyer ''USS Donald Cook'' in the Baltic Sea on Tuesday, according to a U.S. official, who described it as one of the most aggressive interactions in recent memory. A Russian Kamov Ka-27 naval helicopter also made seven passes around the ''USS Donald Cook'', taking pictures of the warship. ](/news/2016/04/13/two-unarmed-russian-air-force-sukhoi-su-24-jets-flew-simulated-attacks-on-united-states-navy-destroyer-uss-donald-cook-in-the-baltic-sea.md) _Context: Baltic Sea_
+7. [Russia and Estonia exchange two convicted spies. ](/news/2015/09/26/russia-and-estonia-exchange-two-convicted-spies.md) _Context: Estonia_
+8. [A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for espionage. ](/news/2015/08/19/a-court-in-russia-sentences-estonian-security-official-eston-kohver-to-15-years-in-prison-for-espionage.md) _Context: Estonia_
+9. [Estonia becomes the first former Soviet republic to legalize gay partnerships and grant equal rights to same-sex couples.](/news/2014/10/9/estonia-becomes-the-first-former-soviet-republic-to-legalize-gay-partnerships-and-grant-equal-rights-to-same-sex-couples.md) _Context: Estonia_
+10. [The first school shooting in Estonia takes place in Viljandi. ](/news/2014/10/27/the-first-school-shooting-in-estonia-takes-place-in-viljandi.md) _Context: Estonia_

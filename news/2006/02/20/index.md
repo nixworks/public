@@ -1,0 +1,25 @@
+## [2006-02-20](/news/2006/02/20/index.md)
+
+### [ Retired scientist Don Kennedy suggests the entire population of Tuvalu should move to the Fijian island of Kioa, to preserve Tuvaluan culture as their homeland becomes uninhabitable due to rising sea levels. ](/news/2006/02/20/retired-scientist-don-kennedy-suggests-the-entire-population-of-tuvalu-should-move-to-the-fijian-island-of-kioa-to-preserve-tuvaluan-cultu.md)
+_Context: Kioa, Tuvalu, rising sea levels_
+
+### [ Iranian Foreign Minister Manouchehr Mottaki denies that Iranian President Mahmoud Ahmadinejad said that he wanted Israel to be "wiped off the map", saying Ahmadinejad was misunderstood. ](/news/2006/02/20/iranian-foreign-minister-manouchehr-mottaki-denies-that-iranian-president-mahmoud-ahmadinejad-said-that-he-wanted-israel-to-be-wiped-off-t.md)
+_Context: Foreign Minister, Iran, Iranian President, Israel, Mahmoud Ahmadinejad, Manouchehr Mottaki, wiped off the map_
+
+### [ Attacks by the Movement for the Emancipation of the Niger Delta destroy an oil pipeline and a military houseboat in southern Nigeria, cutting crude production by about twenty percent. The recent violence has caused a rise in international oil prices due to supply concerns. ](/news/2006/02/20/attacks-by-the-movement-for-the-emancipation-of-the-niger-delta-destroy-an-oil-pipeline-and-a-military-houseboat-in-southern-nigeria-cutti.md)
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+### [ British Holocaust denier David Irving is jailed for three years by an Austrian court after pleading guilty to denying the existence of the Holocaust during a visit to Austria in 1989. Arrested last November, a suspended sentence had been expected and Irving is expected to appeal the sentence. ](/news/2006/02/20/british-holocaust-denier-david-irving-is-jailed-for-three-years-by-an-austrian-court-after-pleading-guilty-to-denying-the-existence-of-the.md)
+_Context: David Irving, Holocaust denial_
+
+### [ Russian and Iranian negotiators begin talks today on a plan that may have the former enrich uranium for the latter, as part of the international community's efforts to dissuade Iran from doing its own enrichment. ](/news/2006/02/20/russian-and-iranian-negotiators-begin-talks-today-on-a-plan-that-may-have-the-former-enrich-uranium-for-the-latter-as-part-of-the-internat.md)
+_Context: Iran_
+
+### [ Western romance ''Brokeback Mountain'' wins awards for best film and best director for Ang Lee at the BAFTA awards. ](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.md)
+_Context: Ang Lee, British Academy of Film and Television Arts, Brokeback Mountain_
+
+### [ Osama bin Laden vows never to be captured alive, according to an audiotape that was posted Monday on a militant Web site. ](/news/2006/02/20/osama-bin-laden-vows-never-to-be-captured-alive-according-to-an-audiotape-that-was-posted-monday-on-a-militant-web-site.md)
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+## [Previous Day...](/news/2006/02/19/index.md)
+

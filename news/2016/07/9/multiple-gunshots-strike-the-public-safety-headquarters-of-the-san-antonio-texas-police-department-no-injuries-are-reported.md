@@ -1,0 +1,23 @@
+### [2016-07-9](/news/2016/07/9/index.md)
+
+# Multiple gunshots strike the public safety headquarters of the San Antonio, Texas, Police Department. No injuries are reported. 
+
+Police are seeking a suspect who was seen running from the area, Chief William McManus said late Saturday night.
+
+
+### Source:
+
+1. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/07/10/gunfire-hits-san-antonio-police-headquarters/86915612/)
+
+### Related:
+
+1. [Severe  storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several  people and damaging at least 100 homes with  one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at.md) _Context: San Antonio, Texas_
+2. [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md) _Context: Texas, the shooting of Dallas police officers_
+3. [With the death of an 18-year-old killer whale at its San Antonio, Texas facility and the recent malfunction of the Sky Tower ride at its park in Orlando, Florida, SeaWorld's problems in the wake of recent earning shortfalls, decline in attendance, and drop the values of its shares.  In response, the company plans new pricing and attractions. ](/news/2015/12/25/with-the-death-of-an-18-year-old-killer-whale-at-its-san-antonio-texas-facility-and-the-recent-malfunction-of-the-sky-tower-ride-at-its-par.md) _Context: San Antonio, Texas_
+4. [Storms hit the American state of Texas causing at least two deaths with one person reported missing. Rivers overflowed as more than a foot of rain fell in some areas while tornadoes ripped through buildings outside San Antonio. ](/news/2015/10/30/storms-hit-the-american-state-of-texas-causing-at-least-two-deaths-with-one-person-reported-missing-rivers-overflowed-as-more-than-a-foot-o.md) _Context: San Antonio, Texas_
+5. [UNESCO adds more sites to the World Heritage List including the San Antonio Missions National Historical Park in the US city of San Antonio, Texas and Scotland's Forth Bridge. ](/news/2015/07/5/unesco-adds-more-sites-to-the-world-heritage-list-including-the-san-antonio-missions-national-historical-park-in-the-us-city-of-san-antonio.md) _Context: San Antonio, Texas_
+6. [An apartment building fire near San Antonio, Texas, USA, kills five people. ](/news/2014/12/28/an-apartment-building-fire-near-san-antonio-texas-usa-kills-five-people.md) _Context: San Antonio, Texas_
+7. [Two people are killed when the US city of San Antonio, Texas, experiences heavy flooding. ](/news/2013/05/25/two-people-are-killed-when-the-us-city-of-san-antonio-texas-experiences-heavy-flooding.md) _Context: San Antonio, Texas_
+8. [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md) _Context: Texas_
+9. [A head on crash between a pickup truck and a church bus outside Garner State Park in the American state of Texas kills at least 12 people and injures 3 others. ](/news/2017/03/29/a-head-on-crash-between-a-pickup-truck-and-a-church-bus-outside-garner-state-park-in-the-american-state-of-texas-kills-at-least-12-people-an.md) _Context: Texas_
+10. [In Texas, four children die with an additional six others injured after they are poisoned by phosgene gas sprayed in an inappropriate attempt as a pesticide. ](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.md) _Context: Texas_

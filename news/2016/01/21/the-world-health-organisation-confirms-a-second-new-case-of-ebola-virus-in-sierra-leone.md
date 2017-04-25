@@ -1,0 +1,23 @@
+### [2016-01-21](/news/2016/01/21/index.md)
+
+# The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. 
+
+A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday, the second since west Africa celebrated the end of the epidemic last week. The World Health Organization said the new case involved the aunt of 22-year-old Marie Jalloh, who died of Ebola on January 12. The 38-year-old
+
+
+### Source:
+
+1. [AFP via Yahoo! News](http://news.yahoo.com/confirms-second-ebola-case-sierra-leone-093944697.html;_ylt=AwrC1CoWXKFWmkIAwYfQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+
+### Related:
+
+1. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _Context: Ebola virus epidemic in West Africa, Sierra Leone, ebola virus_
+2. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: Ebola virus epidemic in West Africa, World Health Organisation, ebola virus_
+3. [Australia issues a blanket ban on issuing visas for residents of Liberia, Guinea and Sierra Leone, the countries worst affected by the Ebola epidemic. ](/news/2014/10/28/australia-issues-a-blanket-ban-on-issuing-visas-for-residents-of-liberia-guinea-and-sierra-leone-the-countries-worst-affected-by-the-ebola.md) _Context: Ebola virus epidemic in West Africa, Sierra Leone, ebola virus_
+4. [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _Context: Ebola virus epidemic in West Africa, World Health Organisation, ebola virus_
+5. [Ebola virus epidemic in West Africa:The official death toll from the Ebola virus outbreak reaches 3,000 with the World Health Organisation warning that the official figures "vastly underestimate the true scale of the epidemic". ](/news/2014/09/27/ebola-virus-epidemic-in-west-africa-pthe-official-death-toll-from-the-ebola-virus-outbreak-reaches-3-000-with-the-world-health-organisation.md) _Context: Ebola virus epidemic in West Africa, World Health Organisation, ebola virus_
+6. [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _Context: Ebola virus epidemic in West Africa, World Health Organisation, ebola virus_
+7. [The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a-man-reportedly-dying-of-the-dise.md) _Context: Sierra Leone, World Health Organisation, ebola virus_
+8. [United States authorities announce mandatory Ebola screening will end for travelers from Liberia to five U.S. airports, effective September 21, 2015. Screening of travelers from Sierra Leone and Guinea will continue. ](/news/2015/09/18/united-states-authorities-announce-mandatory-ebola-screening-will-end-for-travelers-from-liberia-to-five-u-s-airports-effective-september.md) _Context: Ebola virus epidemic in West Africa, Sierra Leone_
+9. [Two new cases of ebola virus disease are reported from Sierra Leone's capital city of Freetown about three weeks after the most recent new cases were found.](/news/2015/06/22/two-new-cases-of-ebola-virus-disease-are-reported-from-sierra-leoneas-capital-city-of-freetown-about-three-weeks-after-the-most-recent-new.md) _Context: Ebola virus epidemic in West Africa, Sierra Leone_
+10. [The World Health Organization declares that the outbreak of the Ebola virus has ceased in Liberia after weeks of no cases there. ](/news/2015/05/9/the-world-health-organization-declares-that-the-outbreak-of-the-ebola-virus-has-ceased-in-liberia-after-weeks-of-no-cases-there.md) _Context: Ebola virus epidemic in West Africa, ebola virus_

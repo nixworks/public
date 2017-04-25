@@ -1,0 +1,28 @@
+### [2010-07-19](/news/2010/07/19/index.md)
+
+# 196 people are indicted in Istanbul for plotting to overthrow the government. 
+
+A court in Istanbul indicts 196 people, including senior military figures, for plotting to overthrow the government, reports say.
+
+
+### Source:
+
+1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/19/turkey-coup-plot-196-indicted)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-10690431)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE66I4J020100719?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/court-indictes-196-in-turkish-coup-plot-20100720-10i3o.html)
+5. [People's Daily](http://english.people.com.cn/90001/90777/90853/7072750.html)
+6. [The News international](http://www.thenews.com.pk/daily_detail.asp?id=251771)
+
+### Related:
+
+1. [A helicopter crashes in Istanbul's Buyukcekmece district, killing at least seven people. ](/news/2017/03/10/a-helicopter-crashes-in-istanbul-s-ba1-4ya1-4kassekmece-district-killing-at-least-seven-people.md) _Context: Istanbul_
+2. [Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-people-and-is-remanded-in-custody-isla.md) _Context: Istanbul_
+3. [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub attack, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-attack-is-arrested-in-istanbul-s-esenyurt-district.md) _Context: Istanbul_
+4. [A Gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39-people-with-an-additional-69-wou.md) _Context: Istanbul_
+5. [Turkish journalist Ahmet Sik is arrested in Istanbul, allegedly over a social media posting. ](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.md) _Context: Istanbul_
+6. [The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.md) _Context: Istanbul_
+7. [Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. ](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.md) _Context: Istanbul_
+8. [A motorcycle bomb in the Yenibosna neighborhood of Istanbul, Turkey, injures 10 civilians. ](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.md) _Context: Istanbul_
+9. [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md) _Context: Istanbul_
+10. [Turkey opens the Yavuz Sultan Selim Bridge in Istanbul, one of the world's biggest suspension bridges. ](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.md) _Context: Istanbul_

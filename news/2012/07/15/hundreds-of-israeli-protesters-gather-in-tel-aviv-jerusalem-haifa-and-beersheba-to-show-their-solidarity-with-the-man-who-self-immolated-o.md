@@ -1,0 +1,23 @@
+### [2012-07-15](/news/2012/07/15/index.md)
+
+# Hundreds of Israeli protesters gather in Tel Aviv, Jerusalem, Haifa and Beersheba to show their solidarity with the man who self immolated on 14 July 2012. 
+
+
+
+
+### Source:
+
+1. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=277567)
+
+### Related:
+
+1. [ Five people are killed, and about 80 injured, when an Israeli train travelling between Tel Aviv and Haifa collides with a truck on a level crossing near Netanya. The first anniversary of a similar accident on Israel Railways near Revadim on the Beersheba line is in nine days' time. ](/news/2006/06/12/five-people-are-killed-and-about-80-injured-when-an-israeli-train-travelling-between-tel-aviv-and-haifa-collides-with-a-truck-on-a-level.md) _Context: Beersheba, Haifa, Tel Aviv_
+2. [A Palestinian man from the West Bank, Hamza Muhammad Hassan Matrouk, illegally crosses into Israel for the express purpose to stab people attacking over a dozen Israelis on a bus in central Tel Aviv. Security forces capture the assailant as he continued to indiscriminately stab people in the street. ](/news/2015/01/21/a-palestinian-man-from-the-west-bank-hamza-muhammad-hassan-matrouk-illegally-crosses-into-israel-for-the-express-purpose-to-stab-people-at.md) _Context: Israelis, Tel Aviv_
+3. [3 police officers are injured in Jerusalem as Israeli riot police and Palestinian protesters clash before a Jewish festival. ](/news/2014/10/15/3-police-officers-are-injured-in-jerusalem-as-israeli-riot-police-and-palestinian-protesters-clash-before-a-jewish-festival.md) _Context: Israelis, Jerusalem_
+4. [Hours before the expiration of the latest cease-fire Hamas claims responsibility for firing over 29 rockets into Israel reaching Jerusalem and Tel Aviv, Israel responds with airstrikes as the peace talks break down. ](/news/2014/08/19/hours-before-the-expiration-of-the-latest-cease-fire-hamas-claims-responsibility-for-firing-over-29-rockets-into-israel-reaching-jerusalem-a.md) _Context: Jerusalem, Tel Aviv_
+5. [Operation Pillar of Defense:Two unguided rockets from Gaza land outside Jerusalem and two more land outside Tel-Aviv. Out of the 350 rockets fired since the start of Operation Pillar of Defense, the Iron Dome missile system has shot down over 200 rockets. ](/news/2012/11/17/operation-pillar-of-defense-ptwo-unguided-rockets-from-gaza-land-outside-jerusalem-and-two-more-land-outside-tel-aviv-out-of-the-350-rocket.md) _Context: Jerusalem, Tel Aviv_
+6. [ Tens of thousands of Israelis have converged on Tel Aviv to protest the proposed removal of Israeli settlements from the Gaza Strip. ](/news/2005/08/11/tens-of-thousands-of-israelis-have-converged-on-tel-aviv-to-protest-the-proposed-removal-of-israeli-settlements-from-the-gaza-strip.md) _Context: Israelis, Tel Aviv_
+7. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: Jerusalem_
+8. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Haifa_
+9. [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md) _Context: Jerusalem_
+10. [The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertisements-on-their-buses-following-c.md) _Context: Beersheba_

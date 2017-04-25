@@ -1,0 +1,57 @@
+### [2011-01-28](/news/2011/01/28/index.md)
+
+# 2011 Egyptian protests:After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. 
+
+Egypt goes off the digital map as authorities unplug the country entirely from the internet ahead of protests.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011128796164380.html)
+2. [AP](http://video.ap.org/?f=None&pid=oT7qj_wiVHTbYae3scwok4_irYjJ2R8Z)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j_HtoUpZESmxi29XQuPSArRleeAg?docId=16db91b173054d869328330f9803a85b)
+4. [DAWN](http://www.dawn.com/2011/01/29/at-least-five-dead-in-cairo-protests-sources.html)
+5. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/01/watch-aljazeera-live-coverage-of-egyptian-protests-in-english/1)
+6. [The Guardian'' (about censoring](http://www.guardian.co.uk/world/2011/jan/26/egypt-blocks-social-media-websites)
+7. [Irish Examiner](http://www.examiner.ie/breakingnews/world/protestors-set-fire-to-ruling-party-headquarters-in-egypt-491226.html)
+8. [Al-Masry Al-Youm](http://www.almasryalyoum.com/en/news/egypt-hospitals-report-860-injured-egyptair-cancels-flights)
+9. [The Guardian](http://www.guardian.co.uk/news/blog/2011/jan/28/egypt-protests-live-updates)
+10. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/25/AR2011012500866.html?hpid=topnews)
+11. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/8288167/Egypt-protests-live.html)
+12. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70R0OZ20110128)
+13. [CNN](http://news.blogs.cnn.com/2011/01/28/clashes-erupt-in-cairo-elbaradei-told-to-stay-put-cnn-camera-confiscated/?hpt=T1&iref=BN1)
+14. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/8289616/Egypt-protests-President-Mubarak-sends-in-the-army-to-Egypts-burning-streets.html)
+15. [iloubnan.info](http://www.iloubnan.info/politics/actualite/id/55191/titre/Egypt:-NDP-ruling-party-headquarters-set-on-fire-in-Cairo)
+16. [The Guardian](http://www.guardian.co.uk/world/2011/jan/28/wikileaks-cairo-cables-egypt-president)
+17. [The Guardian'' (about cutting off internet](http://www.guardian.co.uk/technology/2011/jan/28/egypt-cuts-off-internet-access)
+18. [RIA Novosti](http://en.rian.ru/world/20110128/162357405.html)
+19. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112810059478272.html)
+20. [BBC](http://www.bbc.co.uk/news/world-middle-east-12303564)
+21. [BBC](http://www.bbc.co.uk/news/uk-12310266)
+22. [Sky News](http://news.sky.com/skynews/Home/World-News/Egypt-Thousands-Protest-As-Communication-Lines-Disrupted/Article/201101415914646?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15914646_Egypt%3A_Thousands_Protest_As_Communication_Lines_Disrupted)
+23. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Egypt-ruling-party-HQ-ablaze-after-protests/articleshow/7380969.cms)
+24. [Reuters](http://www.forexpros.com/news/general-news/total-wounded-in-cairo-protests-during-day-870---medical-sources-190644)
+25. [Reuters](http://uk.reuters.com/article/2011/01/28/uk-egypt-airlines-idUKTRE70R75X20110128)
+26. [The New York Times](http://opinionator.blogs.nytimes.com/2011/01/28/how-do-you-solve-a-problem-like-mubarak/)
+27. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112815843772129.html)
+28. [The Wall Street Journal](http://blogs.wsj.com/dispatch/2011/01/28/clinton-says-egypt-must-listen-to-people/)
+29. [Bikya Masr](http://bikyamasr.com/wordpress/?p=24874)
+30. [The Washington Post](http://voices.washingtonpost.com/right-turn/2011/01/obama_blowing_it_again_in_the.html)
+31. [Milwaukee Journal Sentinel](http://www.jsonline.com/blogs/entertainment/114812174.html)
+32. [The Guardian](http://www.guardian.co.uk/world/2011/jan/28/egypt-police-brutality-torture-wikileaks)
+33. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011128151048463975.html)
+34. [BBC](http://www.bbc.co.uk/news/world-middle-east-11777943)
+35. [The Guardian](http://www.guardian.co.uk/news/blog/2011/jan/28/egypt-protests-live-updates#block-22)
+
+### Related:
+
+1. [The father of  Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While  generally free of liability under U.S. law  which  provides a legal ''safe harbor'' for content posted, this case targets  the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-i.md) _Context: Facebook, Google, Twitter_
+2. [The United States Federal Communications Commission rejects  privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore  "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inte.md) _Context: Facebook, Google_
+3. [The European Court of Justice decides an international agreement,  generally known as a Safe Harbor rule, used by thousands of companies for moving people's digital data between the European Union and the United States is invalid, effective immediately. The decision throws into doubt how global technology giants like Facebook, Amazon and Google can collect, manage, and analyze online information from their millions of users in the 28-member bloc. Decisions by this court, the highest legal authority in the EU, cannot be appealed. ](/news/2015/10/6/the-european-court-of-justice-decides-an-international-agreement-generally-known-as-a-safe-harbor-rule-used-by-thousands-of-companies-for.md) _Context: Facebook, Google_
+4. [The U.S. Justice Department and the Director of National Intelligence reach a preliminary joint agreement, likely resolving a lawsuit with the major American Internet provider companies (Google, Yahoo, Facebook, Microsoft, and LinkedIn), about the information the companies can release to customers regarding requests by the intelligence agencies for information. ](/news/2014/01/27/the-u-s-justice-department-and-the-director-of-national-intelligence-reach-a-preliminary-joint-agreement-likely-resolving-a-lawsuit-with-t.md) _Context: Facebook, Google_
+5. [PRISM (U.S. government surveillance program):The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/prism-u-s-government-surveillance-program-pthe-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data.md) _Context: Facebook, Google_
+6. [Mark Zuckerberg of Facebook, Sergey Brin of Google and venture capitalist Yuri Milner jointly establish the Breakthrough Prize in Life Sciences to reward excellence in life sciences with 11 individual prizes of $3 million. ](/news/2013/02/20/mark-zuckerberg-of-facebook-sergey-brin-of-google-and-venture-capitalist-yuri-milner-jointly-establish-the-breakthrough-prize-in-life-scien.md) _Context: Facebook, Google_
+7. [Major websites, such as Google, Facebook, and others, participate in World IPv6 Day. ](/news/2011/06/8/major-websites-such-as-google-facebook-and-others-participate-in-world-ipv6-day.md) _Context: Facebook, Google_
+8. [The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-crowds-the-biggest-yet.md) _Context: Google, Protesters_
+9. [Paul Allen's company, Interval Licensing LLC, files a patent infringement lawsuit against Google, Apple Computer, AOL, eBay, Facebook, Netflix, Office Depot, OfficeMax, Staples Inc., Yahoo and YouTube.  ](/news/2010/08/27/paul-allen-s-company-interval-licensing-llc-files-a-patent-infringement-lawsuit-against-google-apple-computer-aol-ebay-facebook-netfl.md) _Context: Facebook, Google_
+10. [The U.S. Department of Homeland Security withdraws its order that Twitter  unmask a user whose tweets are critical of President Donald Trump following the company's court filing to block the order on constitutional grounds. ](/news/2017/04/7/the-u-s-department-of-homeland-security-withdraws-its-order-that-twitter-unmask-a-user-whose-tweets-are-critical-of-president-donald-trump.md) _Context: Twitter_

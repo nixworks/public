@@ -1,0 +1,24 @@
+### [2012-07-15](/news/2012/07/15/index.md)
+
+# Syrian uprising (2011-present):The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. 
+
+Syria is in effect in civil war, the Red Cross says, meaning combatants will now be subject to the Geneva Conventions.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2012/07/15/us-syria-crisis-idUSBRE8610SH20120715)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18849362)
+
+### Related:
+
+1. [The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-operations-in-afghanistan-after-gunmen-kil.md) _Context: International Committee of the Red Cross_
+2. [Six Afghan Red Cross workers are shot dead by suspected ISIL militants in the northern Jowzjan Province. Two other Red Cross workers are reportedly abducted. ](/news/2017/02/8/six-afghan-red-cross-workers-are-shot-dead-by-suspected-isil-militants-in-the-northern-jowzjan-province-two-other-red-cross-workers-are-rep.md) _Context: International Committee of the Red Cross_
+3. [The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-territories-have-been-evacuated-from-aleppo-as-h.md) _Context: International Committee of the Red Cross_
+4. [Ansar Dine, an Islamic extremist group claims responsibility for kidnapping three International Committee of the Red Cross staffers this weekend in Abeibara in northeastern Mali. ](/news/2016/04/21/ansar-dine-an-islamic-extremist-group-claims-responsibility-for-kidnapping-three-international-committee-of-the-red-cross-staffers-this-wee.md) _Context: International Committee of the Red Cross_
+5. [Fighting continues to rage between the Turkish Army and PKK militants across southeastern Turkey, with the Kurdish-majority cities of Cizre and Silopi both becoming war zones as street-to-street fighting takes place. Turkish tanks shelled civilian houses in Silopi, while a Turkish military helicopter was damaged by PKK fire as it attempted to land in Cizre. Also, two Turkish soldiers were killed and six others wounded in a roadside bombing near the town of Bitlis. Many within Turkey are saying a civil war is now underway. ](/news/2015/12/21/fighting-continues-to-rage-between-the-turkish-army-and-pkk-militants-across-southeastern-turkey-with-the-kurdish-majority-cities-of-cizre.md) _Context: civil war_
+6. [Medecins Sans Frontieres (Doctors without Borders) calls for activating the International Humanitarian Fact-Finding Commission - for the first time since its 1991 creation under the Geneva Conventions - to investigate the deadly U.S. bombing of MSF's hospital in Kunduz, Afghanistan. MSF says it does not trust internal military inquiries into the bombing that killed at least 22 people, which it considers a war crime. ](/news/2015/10/7/ma-c-decins-sans-frontia-res-doctors-without-borders-calls-for-activating-the-international-humanitarian-fact-finding-commission-a-for-the.md) _Context: Geneva Conventions_
+7. [Syrian civil war:Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/syrian-civil-war-pgunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md) _Context: International Committee of the Red Cross_
+8. [Syrian Civil War:The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-pthe-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governme.md) _Context: International Committee of the Red Cross_
+9. [Syrian uprising (2011-present): French Foreign Minister Laurent Fabius states that a Syrian commander in the National Guard, Manaf Tlass who fled to Turkey some days ago, is on his way to Paris. ](/news/2012/07/6/syrian-uprising-2011-present-french-foreign-minister-laurent-fabius-states-that-a-syrian-commander-in-the-national-guard-manaf-tlass-who.md) _Context: Syrian uprising (2011-present)_
+10. [Syrian uprising (2011-present):A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/syrian-uprising-2011-present-pa-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across-s.md) _Context: Syrian uprising (2011-present)_

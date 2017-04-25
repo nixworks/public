@@ -1,0 +1,24 @@
+### [2007-03-22](/news/2007/03/22/index.md)
+
+#  Fighting erupts in Kinshasa, Democratic Republic of Congo, between Government troops and the personal militia of Jean-Pierre Bemba, defeated presidential candidate in 2006 and recently elected Senator. The Spanish embassy is caught in the crossfire, leading to its evacuation under United Nations guard. 
+
+
+
+
+### Source:
+
+1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/africa/03/22/Congo.reut/index.html?eref=rss_world)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/6482997.stm)
+
+### Related:
+
+1. [ At least 150 people die in Kinshasa, Democratic Republic of Congo in fighting between the military and forces loyal to Senator Jean-Pierre Bemba. ](/news/2007/03/24/at-least-150-people-die-in-kinshasa-democratic-republic-of-congo-in-fighting-between-the-military-and-forces-loyal-to-senator-jean-pierre.md) _Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator_
+2. [ Democratic Republic of Congo's chief prosecutor issues an arrest warrant for Senator Jean-Pierre Bemba who has sought refuge in the South African embassy as fighting continues in Kinshasa. ](/news/2007/03/23/democratic-republic-of-congo-s-chief-prosecutor-issues-an-arrest-warrant-for-senator-jean-pierre-bemba-who-has-sought-refuge-in-the-south-a.md) _Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator_
+3. [A United Nations Bombardier CRJ200 crashes at Bombardier CRJ200 in Kinshasa in the Democratic Republic of Congo killing 32 of 33 people on board. ](/news/2011/04/4/a-united-nations-bombardier-crj200-crashes-at-bombardier-crj200-in-kinshasa-in-the-democratic-republic-of-congo-killing-32-of-33-people-on-b.md) _Context: Democratic Republic of Congo, Kinshasa, United Nations_
+4. [ Democratic Republic of the Congo general election: As a meeting between Bemba and foreign ambassadors representing the International Committee Accompanying the Transition to Democracy (CIAT) is taking place in Kinshasa, clashes break between Kabila and Bemba forces; Bemba's residence, hosting the meeting, comes under attack, reportedly by heavy machine guns and artillery. Several hours later, the UN spokesperson in the DRC, Jean-Tobias Okala, announced the foreign diplomats, including MONUC chief William Swing, were successfully evacuated to UN headquarters. ](/news/2006/08/21/democratic-republic-of-the-congo-general-election-as-a-meeting-between-bemba-and-foreign-ambassadors-representing-the-international-commit.md) _Context: Jean-Pierre Bemba, Kinshasa, presidential candidate in 2006_
+5. [Police in the Democratic Republic of Congo's capital Kinshasa fire on protesters opposing efforts by President Joseph Kabila to delay presidential and parliamentary elections due in 2016 leaving at least four people dead and ten injured. ](/news/2015/01/19/police-in-the-democratic-republic-of-congo-s-capital-kinshasa-fire-on-protesters-opposing-efforts-by-president-joseph-kabila-to-delay-presid.md) _Context: Democratic Republic of Congo, Kinshasa_
+6. [A United Nations peacekeeper dies in Mbandaka, Equateur, Democratic Republic of Congo. ](/news/2010/04/5/a-united-nations-peacekeeper-dies-in-mbandaka-aquateur-democratic-republic-of-congo.md) _Context: Democratic Republic of Congo, United Nations_
+7. [ African countries boycott the United Nations climate talks in Barcelona, Spain, after saying goals set by industrialised countries are too low. ](/news/2009/11/3/african-countries-boycott-the-united-nations-climate-talks-in-barcelona-spain-after-saying-goals-set-by-industrialised-countries-are-too.md) _Context: Spain, United Nations_
+8. [ Part of the Supreme Court of the Democratic Republic of Congo burns down during a gunfight, thereby suspending the Court's review of electoral fraud and irregularities alleged to have taken place during the contested second round of the 2006 presidential election. ](/news/2006/11/21/part-of-the-supreme-court-of-the-democratic-republic-of-congo-burns-down-during-a-gunfight-thereby-suspending-the-court-s-review-of-electo.md) _Context: Democratic Republic of Congo, presidential candidate in 2006_
+9. [ Democratic Republic of Congo presidential candidate Jean-Pierre Bemba has rejected election results that gave victory to Joseph Kabila. ](/news/2006/11/16/democratic-republic-of-congo-presidential-candidate-jean-pierre-bemba-has-rejected-election-results-that-gave-victory-to-joseph-kabila.md) _Context: Democratic Republic of Congo, Jean-Pierre Bemba_
+10. [ Joseph Kabila and Jean-Pierre Bemba face-off in the presidential run-off election in Democratic Republic of the Congo. ](/news/2006/10/28/joseph-kabila-and-jean-pierre-bemba-face-off-in-the-presidential-run-off-election-in-democratic-republic-of-the-congo.md) _Context: Jean-Pierre Bemba, presidential candidate in 2006_

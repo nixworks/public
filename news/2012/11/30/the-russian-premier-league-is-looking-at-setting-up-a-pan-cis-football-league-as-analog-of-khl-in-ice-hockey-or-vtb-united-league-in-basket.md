@@ -1,0 +1,23 @@
+### [2012-11-30](/news/2012/11/30/index.md)
+
+# The Russian Premier League is looking at setting up a pan-CIS football league, as analog of KHL in ice hockey or VTB United League in basketball, after several clubs expressed an interest. 
+
+
+
+
+### Source:
+
+1. [RIA Novosti](http://en.ria.ru/sports/20121130/177840755.html)
+
+### Related:
+
+1. [In association football, Toronto FC play Seattle Sounders FC in the MLS Cup final held at Toronto's BMO Field. The Sounders win 5-4 in a penalty shootout after the game ended scoreless after extra time. It is the Sounders' first MLS title. ](/news/2016/12/10/in-association-football-toronto-fc-play-seattle-sounders-fc-in-the-mls-cup-final-held-at-toronto-s-bmo-field-the-sounders-win-5a4-in-a-p.md) _Context: association football_
+2. [At least 11 people are killed and 16 others are injured after a gunman opens fire on football fans watching an English Premier League game near Juba, South Sudan. ](/news/2016/11/6/at-least-11-people-are-killed-and-16-others-are-injured-after-a-gunman-opens-fire-on-football-fans-watching-an-english-premier-league-game-n.md) _Context: association football_
+3. [Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. ](/news/2016/11/25/four-police-forces-in-england-say-they-are-actively-investigating-allegations-of-child-sexual-abuse-in-association-football-several-ex-play.md) _Context: association football_
+4. [Manchester United complete the signing of Paul Pogba on five-year deal from Juventus for a world record transfer fee of PS89m (EUR105m), making Pogba the most expensive football player ever. ](/news/2016/08/8/manchester-united-complete-the-signing-of-paul-pogba-on-five-year-deal-from-juventus-for-a-world-record-transfer-fee-of-aps89m-a-105m-mak.md) _Context: association football_
+5. [ In basketball, Tim Duncan, who played his entire 19-season NBA career with the San Antonio Spurs, where he won five NBA titles and two MVP awards, made 15 All-Star appearances and made the All-NBA first team 10 times, announces his retirement. ](/news/2016/07/11/in-basketball-tim-duncan-who-played-his-entire-19-season-nba-career-with-the-san-antonio-spurs-where-he-won-five-nba-titles-and-two-mvp.md) _Context: basketball_
+6. [In football, host nation France plays against Portugal for the 2016 UEFA European Championship at the Stade de France in Saint-Denis.  Portugal wins 1-0 with an Eder goal in extra time. ](/news/2016/07/10/in-football-host-nation-france-plays-against-portugal-for-the-2016-uefa-european-championship-at-the-stade-de-france-in-saint-denis-portu.md) _Context: association football_
+7. [In football, Chile wins the Copa America, defeating Argentina in a penalty shootout after regular time and extra time end scoreless. ](/news/2016/06/26/in-football-chile-wins-the-copa-ama-c-rica-defeating-argentina-in-a-penalty-shootout-after-regular-time-and-extra-time-end-scoreless.md) _Context: association football_
+8. [In basketball, the NBA draft is held with the Philadelphia 76ers choosing Australian Ben Simmons as the number one pick. ](/news/2016/06/23/in-basketball-the-nba-draft-is-held-with-the-philadelphia-76ers-choosing-australian-ben-simmons-as-the-number-one-pick.md) _Context: basketball_
+9. [In ice hockey, the NHL awards Las Vegas an expansion team to begin play in the 2017-18 season. The Board of Governors defers Quebec City's bid with the league, citing factors such as conference imbalance, difficulty of bringing two teams at the same time, and the weakening Canadian dollar. ](/news/2016/06/22/in-ice-hockey-the-nhl-awards-las-vegas-an-expansion-team-to-begin-play-in-the-2017a18-season-the-board-of-governors-defers-quebec-city-s.md) _Context: ice hockey_
+10. [In basketball, the Cleveland Cavaliers beat the Golden State Warriors in seven games to win the 2016 NBA Championship. Cleveland, winning its first NBA title in the franchise's 45-year history, also became the first NBA team to rally from a 3-1 deficit and win the crown. Tonight's victory also ends the 52-year title drought of Cleveland's major sports teams; in 1964, the Cleveland Browns shut out the Baltimore Colts for the NFL title. Cleveland's LeBron James is unanimously voted the Most Valuable Player of the NBA Finals, his third such award. ](/news/2016/06/19/in-basketball-the-cleveland-cavaliers-beat-the-golden-state-warriors-in-seven-games-to-win-the-2016-nba-championship-cleveland-winning-it.md) _Context: basketball_

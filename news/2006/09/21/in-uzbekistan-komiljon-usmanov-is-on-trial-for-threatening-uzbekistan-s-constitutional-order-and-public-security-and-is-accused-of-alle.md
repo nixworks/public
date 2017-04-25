@@ -1,0 +1,23 @@
+### [2006-09-21](/news/2006/09/21/index.md)
+
+#  In Uzbekistan, Komiljon Usmanov is on trial for "threatening Uzbekistan's constitutional order and public security," and is accused of allegedly leading the banned Hizb ut-Tahrir organization. Usmanov was sentenced in 2001 to 10 years in jail on similar charges, but was freed under an amnesty. He maintains his innocence. 
+
+
+
+
+### Source:
+
+1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/9/4c5012ae-5970-4c4f-b1f5-d556bf618af6.html)
+
+### Related:
+
+1. [Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-islam-karimov-who-governed-the-country-for-25.md) _Context: Uzbekistan_
+2. [Uzbekistan's parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. ](/news/2016/09/8/uzbekistanas-parliament-appoints-shavkat-mirziyoyev-as-interim-president-after-the-death-of-president-islam-karimov.md) _Context: Uzbekistan_
+3. [President Islam Karimov of Uzbekistan dies after 27 years in office. ](/news/2016/09/2/president-islam-karimov-of-uzbekistan-dies-after-27-years-in-office.md) _Context: Uzbekistan_
+4. [Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. ](/news/2016/08/5/republican-presidential-candidate-donald-trump-says-he-plans-to-ban-immigration-from-afghanistan-iraq-morocco-pakistan-the-philippines.md) _Context: Uzbekistan_
+5. [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md) _Context: Uzbekistan_
+6. [A Catalan official says the 13 exchange students killed in Sunday's accident were 19-to-25-year-old women,  seven from Italy, two Germans, an Austrian, a woman from France, a Romanian and an Uzbek. Twenty-four people are  being treated in hospital with one student in critical condition, and six people, including the driver, in serious condition. Reports from officials indicate the driver lost control of the coach and crashed to the other side before running into an oncoming car. The bus driver, who passed alcohol and drug tests, is being investigated for possible negligent homicide as police seek to determine the cause of the crash. ](/news/2016/03/21/a-catalan-official-says-the-13-exchange-students-killed-in-sunday-s-accident-were-19-to-25-year-old-women-seven-from-italy-two-germans-a.md) _Context: Uzbekistan_
+7. [The United States is reportedly blocking a $400 million plan by South Korea to sell KAI T-50 Golden Eagle trainer jets, co-developed in 2006 with Lockheed Martin, to Uzbekistan, according to ''The Korea Times''. The aircraft uses Lockheed Martin technologies -- including avionics -- and as such requires permission under the U.S. Arms Export Control Act for its sale to other countries. ](/news/2015/10/26/the-united-states-is-reportedly-blocking-a-400-million-plan-by-south-korea-to-sell-kai-t-50-golden-eagle-trainer-jets-co-developed-in-2006.md) _Context: Uzbekistan_
+8. [North Korea announces a criminal amnesty in honor of the 70th anniversary of independence from Japanese rule. ](/news/2015/07/14/north-korea-announces-a-criminal-amnesty-in-honor-of-the-70th-anniversary-of-independence-from-japanese-rule.md) _Context: amnesty_
+9. [Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.md) _Context: Uzbekistan_
+10. [War in North-West Pakistan:A U.S. drone strike kills eight Uzbek people claimed to be linked with al-Qaeda in Pakistan. ](/news/2015/01/4/war-in-north-west-pakistan-pa-u-s-drone-strike-kills-eight-uzbek-people-claimed-to-be-linked-with-al-qaeda-in-pakistan.md) _Context: Uzbekistan_

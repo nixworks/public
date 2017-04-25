@@ -1,0 +1,24 @@
+### [2009-02-27](/news/2009/02/27/index.md)
+
+#  Bangladesh's military arrests 300 Rifles for mutiny and discovers a mass grave containing 58 officers killed during the revolt.  
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7914541.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Bangladesh-Mutiny-Forces-Detain-Nearly-300-Border-Guards-After-Two-Days-Of-Violence-In-Dhaka/Article/200902415230962?lpos=World_News_First_World_News_Article_Teaser_Region_2&lid=ARTICLE_15230962_Bangladesh_Mutiny%3A_Forces_Detain_Nearly_300_Border_Guards_After_Two_Days_Of_Violence_In_Dhaka)
+
+### Related:
+
+1. [ Bangladesh's Army finds more mass graves where Bangladesh Rifles mutinied in Dhaka. ](/news/2009/02/28/bangladesh-s-army-finds-more-mass-graves-where-bangladesh-rifles-mutinied-in-dhaka.md) _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, mass grave_
+2. [ The Bangladesh Rifles surrender after the government promises amnesty. ](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.md) _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles_
+3. [ The Bangladesh Rifles mutiny in Dhaka, killing one person and injuring eight.  ](/news/2009/02/25/the-bangladesh-rifles-mutiny-in-dhaka-killing-one-person-and-injuring-eight.md) _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles_
+4. [152 people are sentenced to death in Bangladesh in connection to the 2009 Bangladesh Rifles revolt. ](/news/2013/11/5/152-people-are-sentenced-to-death-in-bangladesh-in-connection-to-the-2009-bangladesh-rifles-revolt.md) _Context: 2009 Bangladesh Rifles revolt, Bangladesh_
+5. [A further 35 officers in Bangladesh are sentenced over their involvement in a mutiny in February 2009. ](/news/2011/01/3/a-further-35-officers-in-bangladesh-are-sentenced-over-their-involvement-in-a-mutiny-in-february-2009.md) _Context: 2009 Bangladesh Rifles revolt, Bangladesh_
+6. [Bangladesh sentences a further 23 soldiers from the Bangladesh Rifles to imprisonment over a mutiny in February 2009. ](/news/2010/11/23/bangladesh-sentences-a-further-23-soldiers-from-the-bangladesh-rifles-to-imprisonment-over-a-mutiny-in-february-2009.md) _Context: 2009 Bangladesh Rifles revolt, Bangladesh_
+7. [ In one of the worst confrontations on the Indo-Bangla frontier in recent months, Bangladesh Rifles opens unprovoked fire at the India side at some outposts in West Bengal. About 500 rounds were fired in the skirmishes, but there was no casualty. ](/news/2005/08/19/in-one-of-the-worst-confrontations-on-the-indo-bangla-frontier-in-recent-months-bangladesh-rifles-opens-unprovoked-fire-at-the-india-side.md) _Context: Bangladesh, Bangladesh Rifles_
+8. [A mass grave is discovered at a former Catholic orphanage in Tuam, Ireland, containing "significant quantities of human remains", all of them children. It is alleged over 800 children died at this orphanage and most were buried in the 1950s. ](/news/2017/03/3/a-mass-grave-is-discovered-at-a-former-catholic-orphanage-in-tuam-ireland-containing-asignificant-quantities-of-human-remainsa-all-of.md) _Context: mass grave_
+9. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_
+10. [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md) _Context: Bangladesh_

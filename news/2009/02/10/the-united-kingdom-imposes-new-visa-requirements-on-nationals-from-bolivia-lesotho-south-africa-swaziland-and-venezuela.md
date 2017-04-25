@@ -1,0 +1,23 @@
+### [2009-02-10](/news/2009/02/10/index.md)
+
+#  The United Kingdom imposes new visa requirements on nationals from Bolivia, Lesotho, South Africa, Swaziland, and Venezuela. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/7879850.stm)
+
+### Related:
+
+1. [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md) _Context: Bolivia, Venezuela_
+2. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Bolivia, Venezuela_
+3. [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md) _Context: Bolivia, Venezuela_
+4. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Venezuela_
+5. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Venezuela_
+6. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: Venezuela_
+7. [Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-against-president-nicola-s-maduro-in.md) _Context: Venezuela_
+8. [Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. ](/news/2017/04/13/thousands-of-people-take-to-the-streets-in-caracas-as-venezuelan-authorities-acknowledge-a-fifth-death-in-the-protests.md) _Context: Venezuela_
+9. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Venezuela_
+10. [Peru-Venezuela relationsPeruvian  President Pedro Pablo Kuczynski's government creates a temporary visa for thousands of Venezuelans whose country  is mired in a deep economic crisis. Visa holders will be able to study, work, and receive health services in Peru for a year. "This is part of our migratory policy that aims to build bridges not walls", says Interior Minister Carlos Basombrio. ](/news/2017/02/3/peruavenezuela-relationspperuvian-president-pedro-pablo-kuczynski-s-government-creates-a-temporary-visa-for-thousands-of-venezuelans-whos.md) _Context: Venezuela_

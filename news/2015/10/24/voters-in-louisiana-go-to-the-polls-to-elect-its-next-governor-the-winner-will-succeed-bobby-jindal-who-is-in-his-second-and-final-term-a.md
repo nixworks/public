@@ -1,0 +1,24 @@
+### [2015-10-24](/news/2015/10/24/index.md)
+
+# Voters in Louisiana go to the polls to elect its next governor. The winner will succeed Bobby Jindal, who is in his second and final term, and is a candidate for the Republican nomination in the 2016 presidential election. 
+
+Louisiana voters headed to the polls on Saturday to choose a successor to Governor Bobby Jindal, but experts and surveys suggest the race may go to a runoff after a faltering campaign by early favorite Republican U.S. Senator David Vitter.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/10/24/us-louisiana-election-idUSKCN0SI0O320151024)
+2. [Houma Courier](http://www.houmatoday.com/article/20151023/ARTICLES/151029875)
+
+### Related:
+
+1. [Elections in the United States; Democratic state Representative John Bel Edwards, the surprise winner of the October 24 open primary, is elected governor of Louisiana over  Republican U.S. Senator David Vitter. Edwards' margin is 140,931 votes (56.11 percent), all 3,945 precincts  reporting. Edwards will replace former Republican presidential candidate Bobby Jindal, who was not eligible to seek another term. ](/news/2015/11/21/elections-in-the-united-states-democratic-state-representative-john-bel-edwards-the-surprise-winner-of-the-october-24-open-primary-is-ele.md) _Context: Bobby Jindal, Louisiana, Louisiana gubernatorial election, 2015_
+2. [Louisiana Governor John Bel Edwards signs an anti-discrimination order protecting the rights of gay and transgender people that  rescinds one his immediate predecessor, Bobby Jindal, signed that sought to limit same-sex marriage rights and the ability of transgender people to choose which public restrooms they may use. ](/news/2016/04/13/louisiana-governor-john-bel-edwards-signs-an-anti-discrimination-order-protecting-the-rights-of-gay-and-transgender-people-that-rescinds-on.md) _Context: Bobby Jindal, Louisiana Governor_
+3. [Voters in the US state of Louisiana go to the polls for a gubernatorial election with incumbent Governor Bobby Jindal expected to be elected in the first round. ](/news/2011/10/22/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-a-gubernatorial-election-with-incumbent-governor-bobby-jindal-expected-to-be-elected.md) _Context: Bobby Jindal, Louisiana_
+4. [ Bobby Jindal is sworn in as the 56th Governor of Louisiana. He is the first Indian American governor in U.S. history. ](/news/2008/01/14/bobby-jindal-is-sworn-in-as-the-56th-governor-of-louisiana-he-is-the-first-indian-american-governor-in-u-s-history.md) _Context: Bobby Jindal, Louisiana_
+5. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: Louisiana_
+6. [Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of  southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama.  ](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.md) _Context: Louisiana_
+7. [Severe  storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several  people and damaging at least 100 homes with  one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at.md) _Context: Louisiana_
+8. [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md) _Context: Louisiana_
+9. [At least seven people have died and thousands have been rescued in the American state of Louisiana. President of the United States Barack Obama has declared a federal emergency in the state. ](/news/2016/08/15/at-least-seven-people-have-died-and-thousands-have-been-rescued-in-the-american-state-of-louisiana-president-of-the-united-states-barack-ob.md) _Context: Louisiana_
+10. [Louisiana Governor John Bel Edwards declares a state of emergency as over 17 inches of rain (43 cm) causes unprecedented flooding across the region and takes at least three lives in his state, with more rain expected through Sunday.  ](/news/2016/08/13/louisiana-governor-john-bel-edwards-declares-a-state-of-emergency-as-over-17-inches-of-rain-43-cm-causes-unprecedented-flooding-across-the.md) _Context: Louisiana Governor_

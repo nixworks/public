@@ -1,0 +1,24 @@
+### [2012-12-30](/news/2012/12/30/index.md)
+
+# Mexican marines kill 4 gunmen who tried to steal the body of Angel Enrique Uscanga, a drug boss, in Gulf coast state of Veracruz. 
+
+Mexican marines have slain four gunmen who apparently were trying to steal the body of a Zetas cartel chieftain killed by the military a day before in the Gulf coast state of Veracruz.
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/world/2012/12/29/mexican-marines-kill-4-who-tried-to-steal-body-drug-boss-in-gulf-coast-region/)
+2. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10590497)
+
+### Related:
+
+1. [  Police report 14 suspected criminals, who attacked a police patrol, are killed in a  gunbattle with police and Mexican Marines in Veracruz, Mexico. An unknown number fled. ](/news/2016/12/5/police-report-14-suspected-criminals-who-attacked-a-police-patrol-are-killed-in-a-gunbattle-with-police-and-mexican-marines-in-veracruz.md) _Context: Mexico, Veracruz_
+2. [Mexican authorities find the bodies of two priests who were kidnapped yesterday in Poza Rica, Veracruz. Authorities find the third abducted person, the driver, alive. ](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-priests-who-were-kidnapped-yesterday-in-poza-rica-veracruz-authorities-find-the-third-abducted.md) _Context: Mexico, Veracruz_
+3. [At least 40 people are killed  by landslides from  floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. ](/news/2016/08/8/at-least-40-people-are-killed-by-landslides-from-floods-created-from-earl-s-heavy-rainfall-in-the-eastern-mexican-states-of-puebla-and-ver.md) _Context: Mexico, Veracruz_
+4. [State oil company Petroleos Mexicanos reports the death toll has risen to  28 from Wednesday's explosion at Petroquimica Mexicana de Vinilo's Clorados 3 petrochemical plant in the Gulf port city of Coatzacoalcos, Veracruz. Some workers are still missing while 18 others remain hospitalized. Officials say the explosion came from an unspecified leak. The plant produces the hazardous industrial chemical vinyl chloride. ](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo.md) _Context: Gulf of Mexico, Veracruz_
+5. [At least 24 people are killed, 136 others injured, and eight workers still missing from yesterday's blast at the major Clorados 3 petrochemical plant of Petroquimica Mexicana de Vinilo. Nineteen people remain hospitalized, with 13 in serious condition. The plant is run by Mexichem under agreement with Petroleos Mexicanos (Pemex), the national petrochemical company, in Coatzacoalcos, Veracruz, Mexico, on the country's southern Gulf of Mexico coast. Pemex had an earlier fire at the same facility in February 2016 that killed one worker; also that month, an offshore Pemex Gulf platform fire killed two and injured eight. ](/news/2016/04/21/at-least-24-people-are-killed-136-others-injured-and-eight-workers-still-missing-from-yesterday-s-blast-at-the-major-clorados-3-petrochemi.md) _Context: Gulf of Mexico, Mexico_
+6. [Twenty people are killed after a bus carrying amateur football players and fans plunges into a river in Veracruz, eastern Mexico. ](/news/2016/01/10/twenty-people-are-killed-after-a-bus-carrying-amateur-football-players-and-fans-plunges-into-a-river-in-veracruz-eastern-mexico.md) _Context: Mexico, Veracruz_
+7. [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md) _Context: Gulf of Mexico, Mexico_
+8. [Authorities in Mexico's Veracruz state evacuate residents in low-lying areas ahead of the arrival of Hurricane Ingrid. ](/news/2013/09/14/authorities-in-mexico-s-veracruz-state-evacuate-residents-in-low-lying-areas-ahead-of-the-arrival-of-hurricane-ingrid.md) _Context: Mexico, Veracruz_
+9. [2013 Atlantic hurricane season: Tropical Storm Barry is due to make landfall in the Mexican state of Veracruz bringing heavy rain and the risk of flooding. ](/news/2013/06/20/2013-atlantic-hurricane-season-tropical-storm-barry-is-due-to-make-landfall-in-the-mexican-state-of-veracruz-bringing-heavy-rain-and-the-ri.md) _Context: Mexico, Veracruz_
+10. [Hurricane Ernesto makes landfall in the Mexican state of Veracruz causing at least three deaths. ](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.md) _Context: Mexico, Veracruz_

@@ -1,0 +1,47 @@
+## [2013-01-17](/news/2013/01/17/index.md)
+
+### [In Amenas hostage crisis:An Algerian official reports that a group of hostages has escaped from the natural gas complex that was taken over by Islamist militants. It is reported as many as 20 escaped, including Americans. ](/news/2013/01/17/in-ama-c-nas-hostage-crisis-pan-algerian-official-reports-that-a-group-of-hostages-has-escaped-from-the-natural-gas-complex-that-was-taken-ove.md)
+Security forces in eastern Algeria surround a gas facility occupied by militants holding foreign and Algerian workers, amid reports 30 Algerians have escaped.
+
+### [Syrian civil war:106 people are massacred in the Basatin al-Hasawiya district of Homs, Syria, including children. People were shot, stabbed, and burned to death by forces loyal to Bashar al-Assad known as the Shabiha. ](/news/2013/01/17/syrian-civil-war-p106-people-are-massacred-in-the-basatin-al-hasawiya-district-of-homs-syria-including-children-people-were-shot-stabbed.md)
+More than 100 people were shot, stabbed or possibly burned to death by government forces in the Syrian city of Homs, a monitoring group said on Thursday, and fierce fighting raged across the country.
+
+### [Northern Mali conflict (2012-present):The number of French forces in the country rises to 1,400, more than half of the planned 2,500 strong force, as its troops continue to fight insurgents in Konna and Diabaly. Chad prepares to send the first 200 troops of a 2000-strong force to assist in the military operations as part of a regional mission. The European Union votes to send 450 to 500 "non-combat" troops to Mali, half of them are trainers. ](/news/2013/01/17/northern-mali-conflict-2012apresent-pthe-number-of-french-forces-in-the-country-rises-to-1-400-more-than-half-of-the-planned-2-500-stro.md)
+President Hollande says Algeria crisis justifies Mali intervention as French contingent in former colony reaches 1,400
+
+### [Iraqi insurgency (post-U.S. withdrawal):Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/iraqi-insurgency-post-u-s-withdrawal-ptwo-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md)
+The latest explosions struck Thursday morning near Dujail.
+
+### [War in Somalia (2009-present):Militants belonging to Somali group al-Shabaab announce they have executed the French intelligence agent who was the target of the unsuccessful French rescue attempt on January 11. French officials believe the hostage was killed during the mission itself, and the group is using the incident to manipulate the media. ](/news/2013/01/17/war-in-somalia-2009apresent-pmilitants-belonging-to-somali-group-al-shabaab-announce-they-have-executed-the-french-intelligence-agent-wh.md)
+_Context: France, Somalia, War in Somalia (2009–present), al-Shabaab, intelligence agent, rescue attempt_
+
+### [2013 Jakarta flood: A massive flood hits Jakarta, Indonesia, with the Indonesian Army deploying rubber boats in the financial district to rescue people trapped in this flood. Four people were killed and over 2,000 evacuated. ](/news/2013/01/17/2013-jakarta-flood-a-massive-flood-hits-jakarta-indonesia-with-the-indonesian-army-deploying-rubber-boats-in-the-financial-district-to-re.md)
+At least four people die and thousands are evacuated as flooding hits parts of the Indonesian capital, Jakarta, shutting down offices and traffic.
+
+### [A fire in the undercarriage of a Gatwick Express train prompts the evacuation of London Victoria station in England. ](/news/2013/01/17/a-fire-in-the-undercarriage-of-a-gatwick-express-train-prompts-the-evacuation-of-london-victoria-station-in-england.md)
+A fire on a Gatwick Express train prompts the evacuation of London Victoria station at the start of the rush hour.
+
+### [Eight people, three of them children, are killed when a small plane crashed in the state of Chiapas, Mexico. ](/news/2013/01/17/eight-people-three-of-them-children-are-killed-when-a-small-plane-crashed-in-the-state-of-chiapas-mexico.md)
+_Context: Chiapas, Mexico_
+
+### [Russian dissident Alexandre Dolmatov commits suicide in Rotterdam.](/news/2013/01/17/russian-dissident-alexandre-dolmatov-commits-suicide-in-rotterdam.md)
+### [Tens of thousands of Kurds pour into the streets of Diyarbakir, Turkey, for the funeral of Sakine Cansiz, the co-founder of the outlawed Kurdistan Workers' Party, who was killed in Paris, France, on January 9. ](/news/2013/01/17/tens-of-thousands-of-kurds-pour-into-the-streets-of-diyarbakir-turkey-for-the-funeral-of-sakine-cansa-z-the-co-founder-of-the-outlawed-ku.md)
+Tens of thousands of Kurds poured onto the streets of the Turkish city of Diyarbakir on Thursday for the funeral of three Kurdish activists killed in Paris, chanting slogans as coffins passed through the crowds.
+
+### [Japan decides to build the world's largest offshore wind farm near the site of Fukushima Daiichi Nuclear Power Plant in Fukushima Prefecture. ](/news/2013/01/17/japan-decides-to-build-the-worldas-largest-offshore-wind-farm-near-the-site-of-fukushima-daiichi-nuclear-power-plant-in-fukushima-prefectu.md)
+_Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Prefecture, Japan, wind farm_
+
+### [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA's Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasaas-orion.md)
+NASA signed an agreement for the European Space Agency to provide a service module for the Orion spacecraft&#039;s Exploration Mission-1 in 2017.
+
+### [U.S. cyclist Lance Armstrong is stripped of his bronze medal from the 2000 Summer Olympics by the IOC because of his involvement in doping. ](/news/2013/01/17/u-s-cyclist-lance-armstrong-is-stripped-of-his-bronze-medal-from-the-2000-summer-olympics-by-the-ioc-because-of-his-involvement-in-doping.md)
+Lance Armstrong is stripped of the Olympic bronze medal he won at the Sydney Olympics in 2000, the IOC confirms.
+
+### [In association football, the Uruguay and Liverpool player Luis Suarez faces sanctions as a result of his latest diving controversy. ](/news/2013/01/17/in-association-football-the-uruguay-and-liverpool-player-luis-sua-rez-faces-sanctions-as-a-result-of-his-latest-diving-controversy.md)
+_Context: Liverpool F.C., Luis Suárez, Uruguay, association football, diving_
+
+### [In Serie A, two-point penalty for S.S.C. Napoli is annulled on appeal in the match-fixing scandal with Paolo Cannavaro and Gianluca Grava also cleared. ](/news/2013/01/17/in-serie-a-two-point-penalty-for-s-s-c-napoli-is-annulled-on-appeal-in-the-match-fixing-scandal-with-paolo-cannavaro-and-gianluca-grava-al.md)
+Napoli have seen their two-point deduction erased, while Paolo Cannavaro and Gianluca Grava had their six-month ban overturned
+
+## [Previous Day...](/news/2013/01/16/index.md)
+

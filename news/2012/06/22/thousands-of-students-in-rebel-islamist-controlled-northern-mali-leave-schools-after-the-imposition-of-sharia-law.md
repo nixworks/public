@@ -1,0 +1,23 @@
+### [2012-06-22](/news/2012/06/22/index.md)
+
+# Thousands of students in rebel Islamist-controlled northern Mali leave schools after the imposition of Sharia law. 
+
+
+
+
+### Source:
+
+1. [IRIN](http://www.irinnews.org/Report/95713/MALI-Students-flee-Sharia-in-northern-schools)
+
+### Related:
+
+1. [ Fourteen Sufi mausoleums in the city of Timbuktu in northern Mali have been rebuilt, three years after they were destroyed by Islamist militants from Ansar Dine group. ](/news/2015/07/19/fourteen-sufi-mausoleums-in-the-city-of-timbuktu-in-northern-mali-have-been-rebuilt-three-years-after-they-were-destroyed-by-islamist-mili.md) _Context: Islamist, Mali_
+2. [Northern Mali conflict:10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/northern-mali-conflict-p10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-no.md) _Context: Islamist, Mali_
+3. [Northern Mali conflict:13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/northern-mali-conflict-p13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md) _Context: Islamist, Mali_
+4. [Northern Mali conflict:The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/northern-mali-conflict-pthe-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islami.md) _Context: Islamist, Mali_
+5. [Northern Mali conflict:French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-pfrench-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _Context: Islamist, Mali_
+6. [2012 Northern Mali conflict:The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/2012-northern-mali-conflict-pthe-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-islam.md) _Context: Islamist, Mali_
+7. [2012 Northern Mali conflict: The United Nations Security Council unanimously passes a resolution approving an African-led force to assist the army of Mali in ousting Islamist militants who have seized the north of the country. ](/news/2012/10/12/2012-northern-mali-conflict-the-united-nations-security-council-unanimously-passes-a-resolution-approving-an-african-led-force-to-assist-th.md) _Context: Islamist, Mali_
+8. [2012 northern Mali conflict:Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-pislamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md) _Context: Islamist, Mali_
+9. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali_
+10. [Aftermath of the President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/aftermath-of-the-president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-at.md) _Context: Mali_

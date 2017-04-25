@@ -1,0 +1,23 @@
+### [2012-05-8](/news/2012/05/8/index.md)
+
+# Thaer Halahla, a Palestinian national on hunger strike for 71 days after being jailed by Israeli authorities, is transferred to a civilian hospital. 
+
+A Palestinian who has been on hunger strike for 71 days in protest at his detention by the Israeli authorities is transferred to a civilian hospital.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17993499)
+
+### Related:
+
+1. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: Israel, hunger strike_
+2. [Two Palestinian prisoners held in Israel enter the 71st day of their hunger strikes. United Nations Secretary General Ban Ki-Moon expressed his concern about the condition of the hunger strikers. ](/news/2012/05/9/two-palestinian-prisoners-held-in-israel-enter-the-71st-day-of-their-hunger-strikes-united-nations-secretary-general-ban-ki-moon-expressed.md) _Context: Israel, hunger strike_
+3. [Over 1,500 Palestinian prisoners in Israeli prisons end their mass hunger strike after reaching an agreement with Israeli authorities in an Egyptian-mediated deal. ](/news/2012/05/14/over-1-500-palestinian-prisoners-in-israeli-prisons-end-their-mass-hunger-strike-after-reaching-an-agreement-with-israeli-authorities-in-an.md) _Context: Israel, hunger strike_
+4. [Two Palestinians held in Israeli prisons are reportedly close to death, having refused to eat for 74 days. A further 1,600 prisoners have been on hunger strike since 17 April. Leaders of the strikers wait for a response from the Israeli Prison Service to calls for negotiation on issues such as the allowing of family visits for prisoners from Gaza and the ending of the use of extended solitary confinement. ](/news/2012/05/12/two-palestinians-held-in-israeli-prisons-are-reportedly-close-to-death-having-refused-to-eat-for-74-days-a-further-1-600-prisoners-have-be.md) _Context: Israel, hunger strike_
+5. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel_
+6. [  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-p.md) _Context: Israel_
+7. [Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marijuana-in-public-place.md) _Context: Israel_
+8. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Israel_
+9. [Near the town of Ramle, Israeli archeologists uncover hundreds of gin and whiskey bottles dating back to the First World War at the site of a former British Army barracks. ](/news/2017/03/22/near-the-town-of-ramle-israeli-archeologists-uncover-hundreds-of-gin-and-whiskey-bottles-dating-back-to-the-first-world-war-at-the-site-of.md) _Context: Israel_
+10. [A blaze at a fireworks warehouse near Netanya, central Israel, kills two people and injures five others. ](/news/2017/03/14/a-blaze-at-a-fireworks-warehouse-near-netanya-central-israel-kills-two-people-and-injures-five-others.md) _Context: Israel_

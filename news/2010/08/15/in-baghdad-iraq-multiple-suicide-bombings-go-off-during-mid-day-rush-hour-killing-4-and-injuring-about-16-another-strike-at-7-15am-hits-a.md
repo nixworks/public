@@ -1,0 +1,23 @@
+### [2010-08-15](/news/2010/08/15/index.md)
+
+# In Baghdad, Iraq multiple suicide bombings go off during mid-day rush hour, killing 4 and injuring about 16, another strike at 7:15am hits a mini-bus heading from Sadr City into downtown Baghdad, killing 3 including a police officer, and 9 others are wounded. Also, three other bombs go off simultaneously in a business district killing 1 and injuring 7. 
+
+
+
+
+### Source:
+
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jifCFf4YLJckjmVWkoohpv7f59Mg)
+
+### Related:
+
+1. [At least 16 people are killed by twin bomb blasts in the Sadr City neighbourhood of Baghdad, the capital of Iraq. ](/news/2011/10/13/at-least-16-people-are-killed-by-twin-bomb-blasts-in-the-sadr-city-neighbourhood-of-baghdad-the-capital-of-iraq.md) _Context: Baghdad, Iraq, Sadr City_
+2. [ Ten thousand Iraqi troops enter Sadr City in Baghdad to seize control from Shiite militants. ](/news/2008/05/20/ten-thousand-iraqi-troops-enter-sadr-city-in-baghdad-to-seize-control-from-shiite-militants.md) _Context: Baghdad, Iraq, Sadr City_
+3. [ Eleven people are killed and 20 wounded in clashes between Iraqi militias and the United States Army in the Sadr City district of Baghdad. ](/news/2008/05/13/eleven-people-are-killed-and-20-wounded-in-clashes-between-iraqi-militias-and-the-united-states-army-in-the-sadr-city-district-of-baghdad.md) _Context: Baghdad, Iraq, Sadr City_
+4. [ Iraq insurgency:  A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/iraq-insurgency-p-a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-ar.md) _Context: Baghdad, Iraq, Sadr City_
+5. [Violence erupts at a protest rally in Baghdad, Iraq, killing at least four protesters and one police officer. Thousands of supporters of Shia cleric Muqtada al-Sadr gathered in the capital to demand an overhaul of the country's electoral system. ](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.md) _Context: Baghdad, Iraq_
+6. [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md) _Context: Baghdad, Iraq_
+7. [  Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
+8. [   At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq_
+9. [   At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state.md) _Context: Baghdad, Iraq_
+10. [A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-been-killed-and-165-injured-in-the-d.md) _Context: Baghdad, Iraq_

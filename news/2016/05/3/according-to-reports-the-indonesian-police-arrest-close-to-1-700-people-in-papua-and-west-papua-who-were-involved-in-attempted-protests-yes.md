@@ -1,0 +1,23 @@
+### [2016-05-3](/news/2016/05/3/index.md)
+
+# According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. 
+
+Indonesian police arrested almost 1700 West Papuans yesterday for taking part in a series of demonstrations across Papua region.
+
+
+### Source:
+
+1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/302973/almost-1700-arrests-in-west-papua-demos)
+
+### Related:
+
+1. [Police in the Indonesian provinces of Papua and West Papua arrest scores of protesters as planned demonstrations to mark the anniversary of the incorporation of the region with Indonesia were to take place today. ](/news/2016/05/2/police-in-the-indonesian-provinces-of-papua-and-west-papua-arrest-scores-of-protesters-as-planned-demonstrations-to-mark-the-anniversary-of.md) _Context: Indonesian police, Papua, Papua conflict, West Papua_
+2. [Thousands of people take to the streets of Jayapura and other towns in Papua, Indonesia, in support of the Free Papua Movement and its effort to join the Melanesian Spearhead Group. Indonesia responded with a large police and military presence, with reports of police firing on demonstrators in Wamena and arresting dozens across the province. ](/news/2016/05/31/thousands-of-people-take-to-the-streets-of-jayapura-and-other-towns-in-papua-indonesia-in-support-of-the-free-papua-movement-and-its-effor.md) _Context: Indonesian police, Papua, Papua conflict_
+3. [Massive demonstrations in support of the Free Papua Movement take place in various cities in the Indonesian provinces of Papua and West Papua. The demonstrations voice support for the Liberation Movement to become a full member of the Melanesian Spearhead Group. ](/news/2016/04/13/massive-demonstrations-in-support-of-the-free-papua-movement-take-place-in-various-cities-in-the-indonesian-provinces-of-papua-and-west-papu.md) _Context: Papua, Papua conflict, West Papua_
+4. [Three construction workers are shot dead in Jayapura, Papua, by a supposed armed group, according to Indonesian police. ](/news/2016/03/17/three-construction-workers-are-shot-dead-in-jayapura-papua-by-a-supposed-armed-group-according-to-indonesian-police.md) _Context: Indonesian police, Papua, Papua conflict_
+5. [An Indonesian military Lockheed C-130 Hercules transport plane crashes in Papua province killing all 13 people on board. ](/news/2016/12/18/an-indonesian-military-lockheed-c-130-hercules-transport-plane-crashes-in-papua-province-killing-all-13-people-on-board.md) _Context: Papua_
+6. [Indonesian police kill two militants in a clash in a remote jungle area on Sulawesi island. One may be  Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, and the country's "most wanted man."  Forensic tests will be carried out. Three others, including two women, escaped. ](/news/2016/07/18/indonesian-police-kill-two-militants-in-a-clash-in-a-remote-jungle-area-on-sulawesi-island-one-may-be-abu-wardah-santoso-leader-of-isil-c.md) _Context: Indonesian police_
+7. [A Cessna 208 Caravan plane crashes in the small town of Yahukimo in Papua, Indonesia, injuring at least seven people. ](/news/2016/06/14/a-cessna-208-caravan-plane-crashes-in-the-small-town-of-yahukimo-in-papua-indonesia-injuring-at-least-seven-people.md) _Context: Papua_
+8. [A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. ](/news/2016/05/3/a-meeting-is-held-in-london-on-the-issue-of-west-papuan-independence-independence-leader-benny-wenda-joined-various-humanitarians-parliame.md) _Context: Papua conflict_
+9. [Thirty-nine people are injured after an earthquake in the waters off the coast of the Indonesian province of West Papua. ](/news/2015/09/25/thirty-nine-people-are-injured-after-an-earthquake-in-the-waters-off-the-coast-of-the-indonesian-province-of-west-papua.md) _Context: West Papua_
+10. [Indonesian crews locate the bodies of all 54 people aboard the wreckage of Trigana Air Service Flight 257 in a remote area of Papua. ](/news/2015/08/18/indonesian-crews-locate-the-bodies-of-all-54-people-aboard-the-wreckage-of-trigana-air-service-flight-257-in-a-remote-area-of-papua.md) _Context: Papua_

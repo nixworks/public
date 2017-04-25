@@ -1,0 +1,23 @@
+### [2015-10-10](/news/2015/10/10/index.md)
+
+# During a state visit to Cairo by French prime minister Manuel Valls, Egypt officially signs a deal with France to purchase the two ''Mistral''-class helicopter carriers that were originally destined for Russia but France refused to deliver due to the Ukrainian crisis. Russia will sell Egypt the helicopters originally intended for the ships. 
+
+Egypt signed a contract Saturday to buy two Mistral warships, whose sale to Russia Paris cancelled because of the Ukraine crisis, a delegation member with the visiting French prime minister said.
+
+
+### Source:
+
+1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Egypt-signs-deal-for-two-French-warships/articleshow/49302673.cms)
+
+### Related:
+
+1. [An Egyptian excavation team discovers the remains of a pyramid dating back 3,700 years to the thirteenth Dynasty of Egypt at the Dahshur necropolis 40km south of Cairo. ](/news/2017/04/3/an-egyptian-excavation-team-discovers-the-remains-of-a-pyramid-dating-back-3-700-years-to-the-thirteenth-dynasty-of-egypt-at-the-dahshur-nec.md) _Context: Cairo_
+2. [German and Egyptian archaeologists uncover a humanoid statue with an approximate height of eight metres, believed to be of Ramesses II, at the former site of Heliopolis in northeast Cairo. ](/news/2017/03/9/german-and-egyptian-archaeologists-uncover-a-humanoid-statue-with-an-approximate-height-of-eight-metres-believed-to-be-of-ramesses-ii-at-t.md) _Context: Cairo_
+3. [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md) _Context: Manuel Valls_
+4. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo_
+5. [In the second round run-off to select the Socialist Party's candidate in this year's spring presidential election, the leftist candidate, former Minister of National Education Benoit Hamon, topped former Prime Minister Manuel Valls, a centrist, with 58.65 percent of the vote. ](/news/2017/01/29/in-the-second-round-run-off-to-select-the-socialist-party-s-candidate-in-this-year-s-spring-presidential-election-the-leftist-candidate-fo.md) _Context: Manuel Valls_
+6. [ Six policemen are killed in a bomb explosion at a checkpoint in Cairo, Egypt. The Hasm Movement claims responsibility for the attack. ](/news/2016/12/9/six-policemen-are-killed-in-a-bomb-explosion-at-a-checkpoint-in-cairo-egypt-the-hasm-movement-claims-responsibility-for-the-attack.md) _Context: Cairo_
+7. [ Bernard Cazeneuve is announced as the new Prime Minister of France replacing Manuel Valls who is contesting the 2017 French Presidential Election. ](/news/2016/12/6/bernard-cazeneuve-is-announced-as-the-new-prime-minister-of-france-replacing-manuel-valls-who-is-contesting-the-2017-french-presidential-el.md) _Context: Manuel Valls_
+8. [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md) _Context: Manuel Valls_
+9. [The Islamic State of Iraq and the Levant claims responsibility for the Egyptian Coptic Church bombing in Cairo that claimed 25 lives on 11 December. ](/news/2016/12/13/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-the-egyptian-coptic-church-bombing-in-cairo-that-claimed-25-lives-on-11-d.md) _Context: Cairo_
+10. [A bombing in Saint Mark's Coptic Orthodox Cathedral in Cairo kills at least 25 people and injures at least 49 others. ](/news/2016/12/11/a-bombing-in-saint-mark-s-coptic-orthodox-cathedral-in-cairo-kills-at-least-25-people-and-injures-at-least-49-others.md) _Context: Cairo_

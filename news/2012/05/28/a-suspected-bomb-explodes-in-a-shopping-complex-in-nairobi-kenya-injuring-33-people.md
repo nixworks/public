@@ -1,0 +1,23 @@
+### [2012-05-28](/news/2012/05/28/index.md)
+
+# A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-18232621)
+
+### Related:
+
+1. [ A sudden noise immediately before  the "black box" flight data recorder went dark indicates the plane was brought down by a bomb, according to unnamed sources. Officially, Ayman el-Muqadem says the Egyptian investigative team is "considering all possible scenarios for the cause of the accident" and has not yet reached any conclusions. ](/news/2015/11/7/a-sudden-noise-immediately-before-the-black-box-flight-data-recorder-went-dark-indicates-the-plane-was-brought-down-by-a-bomb-according.md) _Context: bomb_
+2. [U.S. intelligence analysts conclude the Russian plane  was not brought down by surface-to-air missile. An American infrared satellite detected a heat flash at the same time and same place over the Sinai as the plane, but no evidence a missile was involved. Analysts believe it could have been some kind of explosion on the aircraft itself, either a fuel tank or a bomb. U.S. officials do not rule out that ISIL could have been responsible for bringing down the flight. ](/news/2015/11/2/u-s-intelligence-analysts-conclude-the-russian-plane-was-not-brought-down-by-surface-to-air-missile-an-american-infrared-satellite-detect.md) _Context: bomb_
+3. [Thai police report a man with a fake passport has been arrested in a Bangkok suburb in connection with the Erawan Shrine bombing. The man was allegedly in possession of bomb making material and dozens of passports. ](/news/2015/08/29/thai-police-report-a-man-with-a-fake-passport-has-been-arrested-in-a-bangkok-suburb-in-connection-with-the-erawan-shrine-bombing-the-man-wa.md) _Context: bomb_
+4. [Surrounding areas of Wembley Stadium, London, UK have been evacuated following the discovery by construction crews of a still-live World War II-era 50-kg (110-llb) conventional-explosive bomb, a remnant of the Blitz. ](/news/2015/05/22/surrounding-areas-of-wembley-stadium-london-uk-have-been-evacuated-following-the-discovery-by-construction-crews-of-a-still-live-world-war.md) _Context: bomb_
+5. [South Thailand insurgency:Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/south-thailand-insurgency-ptwo-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing.md) _Context: bomb_
+6. [February 2013 Quetta bombing:At least 84 people are killed and more than 190 injured after a bomb explodes at a market in Hazara Town on the outskirts of Quetta, in Pakistan. Most of the victims are members of the predominantly Twelver Shia Hazara minority that was targeted by Lashkar-e-Jhangvi only a month earlier. The organization later claims responsibility for the blasts. ](/news/2013/02/16/february-2013-quetta-bombing-pat-least-84-people-are-killed-and-more-than-190-injured-after-a-bomb-explodes-at-a-market-in-hazara-town-on-th.md) _Context: bomb_
+7. [A roadside bomb explodes under a passenger van in Deh Rahwod District of Uruzgan Province, Afghanistan, killing 10 people, and wounding at least eight. ](/news/2012/11/29/a-roadside-bomb-explodes-under-a-passenger-van-in-deh-rahwod-district-of-uruzgan-province-afghanistan-killing-10-people-and-wounding-at-l.md) _Context: bomb_
+8. [Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. ](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.md) _Context: bomb_
+9. [A series of bomb attacks around the Iraqi capital of Baghdad kills at least 18 people, including 7 policemen. ](/news/2011/05/22/a-series-of-bomb-attacks-around-the-iraqi-capital-of-baghdad-kills-at-least-18-people-including-7-policemen.md) _Context: bomb_
+10. [A bomb explodes outside a mosque in Peshawar in the Pakistani province of Khyber-Pakhtunkhwa with casualties feared. ](/news/2011/03/4/a-bomb-explodes-outside-a-mosque-in-peshawar-in-the-pakistani-province-of-khyber-pakhtunkhwa-with-casualties-feared.md) _Context: bomb_

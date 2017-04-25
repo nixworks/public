@@ -1,0 +1,25 @@
+### [2016-02-1](/news/2016/02/1/index.md)
+
+# A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. 
+
+Ambulances rushed to the scene but there was no immediate comment from Afghan security officials.
+
+
+### Source:
+
+1. [Sky News](http://news.sky.com/story/1633685/deadly-suicide-blast-at-kabul-police-office)
+2. [AFP via ''Straits Times](http://www.straitstimes.com/asia/south-asia/taleban-suicide-bomber-kills-at-least-9-outside-police-base-in-afghanistans-capital)
+3. [AFP via ''Times of India](http://timesofindia.indiatimes.com/world/south-asia/Powerful-blast-rocks-police-base-in-Kabul-casualties-reported/articleshow/50805851.cms)
+
+### Related:
+
+1. [At least 16 people were killed and 40 more  wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-att.md) _Context: Kabul, Taliban, War in Afghanistan_
+2. [Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-security-and-police-officials-after-s.md) _Context: Kabul, Taliban, War in Afghanistan_
+3. [The Taliban claims responsibility for a truck bombing in a military complex in Kabul. ](/news/2016/08/1/the-taliban-claims-responsibility-for-a-truck-bombing-in-a-military-complex-in-kabul.md) _Context: Kabul, Taliban, War in Afghanistan_
+4. [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md) _Context: Kabul, Taliban, War in Afghanistan_
+5. [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government.  Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md) _Context: Kabul, Taliban, War in Afghanistan_
+6. [A car bomb near Kabul's Hamid Karzai International Airport, that was targeting  a NATO convoy passing  through the area, kills one civilian and injures 33 others.  The Taliban claim responsibility. ](/news/2015/12/28/a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-through-the-area-kills-one-civilian.md) _Context: Kabul, Taliban, War in Afghanistan_
+7. [The Taliban claims responsibility for a car bomb attack near the Spanish embassy in Kabul. At least one Spanish security officer is killed. ](/news/2015/12/11/the-taliban-claims-responsibility-for-a-car-bomb-attack-near-the-spanish-embassy-in-kabul-at-least-one-spanish-security-officer-is-killed.md) _Context: Kabul, Taliban, War in Afghanistan_
+8. [Carrying coffins holding the beheaded bodies of seven ethnic Hazara, thousands of demonstrators from  Afghanistan's different ethnic groups - Pashtun, Tajik, Uzbek, and Hazara -  march on the  Presidential Palace in Kabul,  urging the government to take action against the rising violence against Afghan civilians. The murders, which the United Nations denounced as a potential war crime, have fueled a growing sense of insecurity since the Taliban briefly seized control of  Kunduz in late September. ](/news/2015/11/11/carrying-coffins-holding-the-beheaded-bodies-of-seven-ethnic-hazara-thousands-of-demonstrators-from-afghanistan-s-different-ethnic-groups.md) _Context: Kabul, Taliban, War in Afghanistan_
+9. [A suicide bomber targets a foreign forces convoy in the Joy Shir area of Kabul. Taliban insurgents claim responsibility. A statement from Afghanistan's Interior Ministry reported at least three civilians were wounded.  There are no report of casualties among the foreign forces. ](/news/2015/10/11/a-suicide-bomber-targets-a-foreign-forces-convoy-in-the-joy-shir-area-of-kabul-taliban-insurgents-claim-responsibility-a-statement-from-af.md) _Context: Kabul, Taliban, War in Afghanistan_
+10. [An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight-support-staff-and-two-taliban-insurge.md) _Context: Kabul, Taliban, War in Afghanistan_

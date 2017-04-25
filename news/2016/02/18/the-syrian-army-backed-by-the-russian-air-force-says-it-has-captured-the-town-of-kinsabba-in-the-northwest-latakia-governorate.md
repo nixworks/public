@@ -1,0 +1,23 @@
+### [2016-02-18](/news/2016/02/18/index.md)
+
+# The Syrian Army, backed by the Russian Air Force, says it has captured the town of Kinsabba in the northwest Latakia Governorate. 
+
+The Syrian army backed by heavy Russian aerial bombing said on Thursday it had captured the town of Kansaba in the northern countryside of the coastal province of Latakia.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-latakia-idUSKCN0VR10Y)
+
+### Related:
+
+1. [According to Russian ambassador to the United Nations Aleksi Borodavkin, the Syrian Army is preparing to launch an offensive against the ISIL strongholds of Al-Raqqah and the countryside around Deir ez-Zor and that the Russian Air Force will be providing the ground campaign with air support. ](/news/2016/04/29/according-to-russian-ambassador-to-the-united-nations-aleksi-borodavkin-the-syrian-army-is-preparing-to-launch-an-offensive-against-the-isi.md) _Context: Russian, Syrian Army, Syrian Civil War_
+2. [Airstrikes by Syrian or Russian warplanes on ISIL's de facto capital Al-Raqqah in northern Syria, leaves at least 39 people dead, according to the Syrian Observatory for Human Rights. Airstrikes on the city of Palmyra and nearby villages are said to have killed at least 18 ISIL militants, as the Syrian Army advance on the city. ](/news/2016/03/19/airstrikes-by-syrian-or-russian-warplanes-on-isil-s-de-facto-capital-al-raqqah-in-northern-syria-leaves-at-least-39-people-dead-according.md) _Context: Russian, Syrian Army, Syrian Civil War_
+3. [The Syrian Army, backed by the Russian Air Force, takes control of the town of Ratyan in the Aleppo Governorate, after defeating Al-Nusra Front and Ahrar ash-Sham fighters. ](/news/2016/02/6/the-syrian-army-backed-by-the-russian-air-force-takes-control-of-the-town-of-ratyan-in-the-aleppo-governorate-after-defeating-al-nusra-fr.md) _Context: Russian, Syrian Army, Syrian Civil War_
+4. [The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. ](/news/2016/02/25/the-syrian-army-backed-by-russian-airstrikes-recaptures-the-town-of-khanasir-from-isil-militants-in-the-aleppo-governorate.md) _Context: Russian, Syrian Army, Syrian Civil War_
+5. [The Syrian Army takes control of the strategic Turkmen town of Rabia in Syria's Latakia Governorate. The town had been under rebel control since 2012. ](/news/2016/01/24/the-syrian-army-takes-control-of-the-strategic-turkmen-town-of-rabia-in-syria-s-latakia-governorate-the-town-had-been-under-rebel-control-s.md) _Context: Latakia Governorate, Syrian Army, Syrian Civil War_
+6. [The Syrian Army, backed by Russian airstrikes, retakes control of the strategic town of Salma in the northern Latakia Governorate. The town had been mostly under rebel (FSA) and jihadist (Al-Nusra Front) control since 2012. ](/news/2016/01/12/the-syrian-army-backed-by-russian-airstrikes-retakes-control-of-the-strategic-town-of-salma-in-the-northern-latakia-governorate-the-town.md) _Context: Latakia Governorate, Syrian Army, Syrian Civil War_
+7. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Syrian Army, Syrian Civil War_
+8. [CJTFOIR deploys U.S. forces near Manbij to "reassure Coalition" members and to "deter aggression." This comes days after the U.S.-backed Syrian Democratic Forces' Manbij Military Council agreed to hand over territory west of Manbij to the Syrian Army to create a buffer zone between the SDF and Turkish-backed rebels. ](/news/2017/03/4/cjtfoir-deploys-u-s-forces-near-manbij-to-reassure-coalition-members-and-to-deter-aggression-this-comes-days-after-the-u-s-backed-syr.md) _Context: Syrian Army, Syrian Civil War_
+9. [The Syrian Army and its allies recapture the ancient city of Palmyra from the Islamic State of Iraq and the Levant. ](/news/2017/03/2/the-syrian-army-and-its-allies-recapture-the-ancient-city-of-palmyra-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Army, Syrian Civil War_
+10. [The Syrian Army recaptures the strategic town of Tadef from ISIL, south of al-Bab, securing key transportation routes in eastern Aleppo Governorate. ](/news/2017/02/26/the-syrian-army-recaptures-the-strategic-town-of-tadef-from-isil-south-of-al-bab-securing-key-transportation-routes-in-eastern-aleppo-gove.md) _Context: Syrian Army, Syrian Civil War_

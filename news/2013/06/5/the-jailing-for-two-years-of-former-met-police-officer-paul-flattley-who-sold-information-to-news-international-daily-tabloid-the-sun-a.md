@@ -1,0 +1,24 @@
+### [2013-06-5](/news/2013/06/5/index.md)
+
+# The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid ''The Sun'' about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. 
+
+A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot; during his training, but who went on to sell the Sun newspaper front-page secrets including the imminent proposal of Prince William to Kate Middleton, can be named today after legal restrictions were lifted in Southwark Crown Court.
+
+
+### Source:
+
+1. [The Independent](http://www.independent.co.uk/news/uk/crime/former-met-police-officer-paul-flattley-jailed-for-selling-information-about-kate-middleton-and-john-terry-to-the-sun-8646046.html)
+2. [The Guardian](http://www.guardian.co.uk/uk/2013/jun/05/met-police-officer-sun)
+
+### Related:
+
+1. [Five journalists from ''The Sun'' are among eight people arrested in connection with allegations of corrupt payments to police. News International boss Rupert Murdoch says he is committed to the newspaper. ](/news/2012/02/11/five-journalists-from-the-sun-are-among-eight-people-arrested-in-connection-with-allegations-of-corrupt-payments-to-police-news-interna.md) _Context: News International, The Sun_
+2. [The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-by-news-international-journalists.md) _Context: News International, Scotland Yard_
+3. [Rupert Murdoch-controlled tabloid ''The Sun'', Britain's second biggest selling newspaper, endorses Brexit, saying that the people of UK should "Take back control and BeLeave in Britain". ](/news/2016/06/14/rupert-murdoch-controlled-tabloid-the-sun-britain-s-second-biggest-selling-newspaper-endorses-brexit-saying-that-the-people-of-uk-sho.md) _Context: The Sun_
+4. [Scotland Yard confirms that they are investigating a triple murder in relation to the death of British actress Sian Blake and her two sons after the discovery of their dead bodies on Tuesday. ](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.md) _Context: Scotland Yard_
+5. [Scotland Yard advises that it will be treating three non-fatal stabbings at the Leytonstone tube station in London as a terrorist incident. ](/news/2015/12/5/scotland-yard-advises-that-it-will-be-treating-three-non-fatal-stabbings-at-the-leytonstone-tube-station-in-london-as-a-terrorist-incident.md) _Context: Scotland Yard_
+6. [Shaker Aamer, the last British resident held at the Guantanamo Bay detention camp, is released. Aamer faces no charges in Britain; Scotland Yard detectives questioned him for three days during his detention. ](/news/2015/10/30/shaker-aamer-the-last-british-resident-held-at-the-guantanamo-bay-detention-camp-is-released-aamer-faces-no-charges-in-britain-scotland.md) _Context: Scotland Yard_
+7. [It is announced that the daughter of the Duke of Cambridge and Catherine, Duchess of Cambridge, has been named Charlotte Elizabeth Diana, named after her grandfather, grandmother, and great grandmother. ](/news/2015/05/4/it-is-announced-that-the-daughter-of-the-duke-of-cambridge-and-catherine-duchess-of-cambridge-has-been-named-charlotte-elizabeth-diana-na.md) _Context: Catherine, Duchess of Cambridge_
+8. [Catherine, Duchess of Cambridge, returns home to cheering crowds after giving birth to her and the Duke's second child, Princess Charlotte of Cambridge, fourth in line to the throne behind her older brother, Prince George of Cambridge, at St Mary's Hospital, London. Many countries send congratulations. ](/news/2015/05/2/catherine-duchess-of-cambridge-returns-home-to-cheering-crowds-after-giving-birth-to-her-and-the-duke-s-second-child-princess-charlotte-o.md) _Context: Catherine, Duchess of Cambridge_
+9. [Clarence House confirms that the Duke and Duchess of Cambridge are expecting their second child. ](/news/2014/09/8/clarence-house-confirms-that-the-duke-and-duchess-of-cambridge-are-expecting-their-second-child.md) _Context: Catherine, Duchess of Cambridge_
+10. [In cricket, former New Zealand player Chris Cairns is to be charged with perjury by London's Metropolitan Police Service in relation to a 2012 libel trial regarding allegations of match fixing made by former Indian Premier League boss Lalit Modi. ](/news/2014/09/12/in-cricket-former-new-zealand-player-chris-cairns-is-to-be-charged-with-perjury-by-london-s-metropolitan-police-service-in-relation-to-a-20.md) _Context: Scotland Yard_

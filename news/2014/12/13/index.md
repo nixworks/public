@@ -1,0 +1,31 @@
+## [2014-12-13](/news/2014/12/13/index.md)
+
+### [Gunmen assassinate Atiqullah Rawoofi, the head of the Secretariat of the Supreme Court of Afghanistan, in the outskirts of Kabul. ](/news/2014/12/13/gunmen-assassinate-atiqullah-rawoofi-the-head-of-the-secretariat-of-the-supreme-court-of-afghanistan-in-the-outskirts-of-kabul.md)
+A senior officer of the Afghan Supreme Court is among those killed in the spate of violence.
+
+### [Iraqi officials claim that ISIL have shot down a military helicopter near Samarra, killing both pilots. ](/news/2014/12/13/iraqi-officials-claim-that-isil-have-shot-down-a-military-helicopter-near-samarra-killing-both-pilots.md)
+_Context: Iraq, Islamic State in Iraq and the Levant, Samarra_
+
+### [Germany's most successful television show, ''Wetten, dass..?'', ends after a 33-year-run. ](/news/2014/12/13/germany-s-most-successful-television-show-wetten-dass-ends-after-a-33-year-run.md)
+_Context: Germany, Wetten, dass..?_
+
+### [Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. ](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.md)
+_Context: Indonesia, Java, landslide, landslide_
+
+### [''Philippines v. China'' Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-pvietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-cla.md)
+_Context: China, Philippines v. China, South China Sea, Vietnam_
+
+### [India and Russia sign deals on infrastructure, nuclear energy, and defence. ](/news/2014/12/13/india-and-russia-sign-deals-on-infrastructure-nuclear-energy-and-defence.md)
+_Context: India and Russia_
+
+### [The wife of Thailand's crown prince Maha Vajiralongkorn, Princess Srirasmi, resigns her royal status following a corruption probe of her relatives. The King of Thailand Bhumibol Adulyadej grants her a divorce. ](/news/2014/12/13/the-wife-of-thailand-s-crown-prince-maha-vajiralongkorn-princess-srirasmi-resigns-her-royal-status-following-a-corruption-probe-of-her-rel.md)
+The wife of Thailand&#039;s crown prince has relinquished her royal title, the palace has confirmed in a statement.
+
+### [The Geminids meteor shower reaches its peak this weekend. ](/news/2014/12/13/the-geminids-meteor-shower-reaches-its-peak-this-weekend.md)
+The 2014 Geminids peak over the next few days, and it&#8217;s likely to be a particularly beautiful display. Can&#8217;t get to a city-light-free spot? Watch &#8217;em online!
+
+### [In American football, Marcus Mariota of the University of Oregon football team wins the 2014 Heisman trophy for the best player in college football. ](/news/2014/12/13/in-american-football-marcus-mariota-of-the-university-of-oregon-football-team-wins-the-2014-heisman-trophy-for-the-best-player-in-college-f.md)
+_Context: American football, Heisman Trophy, Marcus Mariota, University of Oregon, college football, football team_
+
+## [Previous Day...](/news/2014/12/12/index.md)
+

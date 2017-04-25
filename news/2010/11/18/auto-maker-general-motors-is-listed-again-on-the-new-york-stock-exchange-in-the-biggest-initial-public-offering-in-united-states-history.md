@@ -1,0 +1,23 @@
+### [2010-11-18](/news/2010/11/18/index.md)
+
+# Auto maker General Motors is listed again on the New York Stock Exchange in the biggest Initial public offering in United States history. 
+
+General Motors Co made a triumphant return to Wall Street less than a year and a half after the government rescued the automaker and forced a massive overhaul but its shares lost momentum after an early bounce.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/idUSTRE6AB43H20101118?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+
+### Related:
+
+1. [United States car maker General Motors files for an Initial Public Offering. ](/news/2010/08/18/united-states-car-maker-general-motors-files-for-an-initial-public-offering.md) _Context: General Motors, IPO, United States_
+2. [Fiat Chrysler Automobiles (FCA) and the United Auto Workers (UAW) reach a new tentative four-year labor agreement, averting a threatened strike of the automaker's U.S. operations. The agreement must be ratified by a vote of FCA's 40,000 U.S. union workers, who rejected the previous proposal earlier this month. If ratified, the UAW intends to use the pact as a template for negotiations with General Motors Co. and Ford Motor Company. ](/news/2015/10/8/fiat-chrysler-automobiles-fca-and-the-united-auto-workers-uaw-reach-a-new-tentative-four-year-labor-agreement-averting-a-threatened-str.md) _Context: General Motors, United States_
+3. [The New York Stock Exchange, the largest stock exchange in the United States and the world, is sold to Atlanta-based IntercontinentalExchange. ](/news/2012/12/20/the-new-york-stock-exchange-the-largest-stock-exchange-in-the-united-states-and-the-world-is-sold-to-atlanta-based-intercontinentalexchang.md) _Context: New York Stock Exchange, United States_
+4. [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md) _Context: General Motors, United States_
+5. [ General Motors will terminate 1,100 dealerships in the United States by October 2010. ](/news/2009/05/15/general-motors-will-terminate-1-100-dealerships-in-the-united-states-by-october-2010.md) _Context: General Motors, United States_
+6. [ General Motors will temporarily close 13 factories in the United States and Mexico. ](/news/2009/04/23/general-motors-will-temporarily-close-13-factories-in-the-united-states-and-mexico.md) _Context: General Motors, United States_
+7. [ Members of the United Automobile Workers Union walk off their jobs at General Motors plants across the United States as union and company officials fail to reach agreement on a new contract.  ](/news/2007/09/24/members-of-the-united-automobile-workers-union-walk-off-their-jobs-at-general-motors-plants-across-the-united-states-as-union-and-company-o.md) _Context: General Motors, United States_
+8. [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md) _Context: Auto, United States_
+9. [ Three British men are indicted by a United States court in a 2004 alleged plot to destroy financial institutions in the USA, including such notable landmarks as the New York Stock Exchange in New York City, the Prudential building in New Jersey, and the World Bank and the International Monetary Fund in Washington, D.C..  The U.S. claims that one is a senior Al-Qaeda member. ](/news/2005/04/12/three-british-men-are-indicted-by-a-united-states-court-in-a-2004-alleged-plot-to-destroy-financial-institutions-in-the-usa-including-such.md) _Context: New York Stock Exchange, United States_
+10. [The United States launches 60  Tomahawk cruise missiles aimed at the Ash Sha'irat air base in Homs Governorate in response to the Syrian government's alleged use of chemical weapons in its attack on the town of Khan Shaykhun. The Government of Syria claims the attack killed six soldiers and nine civilians, including four children. ](/news/2017/04/7/the-united-states-launches-60-tomahawk-cruise-missiles-aimed-at-the-ash-sha-irat-air-base-in-homs-governorate-in-response-to-the-syrian-gov.md) _Context: United States_

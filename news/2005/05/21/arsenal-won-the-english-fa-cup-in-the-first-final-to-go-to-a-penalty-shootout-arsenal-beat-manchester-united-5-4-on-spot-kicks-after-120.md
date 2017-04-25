@@ -1,0 +1,19 @@
+### [2005-05-21](/news/2005/05/21/index.md)
+
+#  Arsenal won the English FA Cup, in the first final to go to a penalty shootout; Arsenal beat Manchester United 5-4 on spot-kicks after 120 minutes of a goalless draw at the Millennium Stadium in Cardiff.
+
+
+
+
+### Related:
+
+1. [Titleholders Chelsea comes from two goals down to draw 2-2 with Manchester United and earns a replay of their 2012-13 FA Cup quarter-final. ](/news/2013/03/10/titleholders-chelsea-comes-from-two-goals-down-to-draw-2a2-with-manchester-united-and-earns-a-replay-of-their-2012a13-fa-cup-quarter-fin.md) _Context: FA Cup, Manchester United_
+2. [In rugby union, titleholders Wales are defeated by Ireland on their own ground as the 2013 Six Nations Championship gets underway in Cardiff. ](/news/2013/02/2/in-rugby-union-titleholders-wales-are-defeated-by-ireland-on-their-own-ground-as-the-2013-six-nations-championship-gets-underway-in-cardiff.md) _Context: Cardiff, their own ground_
+3. [In rugby union, Leinster defeat Northampton Saints after a surprise comeback in the 2011 Heineken Cup Final at the Millennium Stadium in Cardiff, Wales. ](/news/2011/05/21/in-rugby-union-leinster-defeat-northampton-saints-after-a-surprise-comeback-in-the-2011-heineken-cup-final-at-the-millennium-stadium-in-car.md) _Context: Cardiff, their own ground_
+4. [ The Coca Cola League One Play Off Final is won by Sheffield Wednesday at the Millennium Stadium, Cardiff after they beat Hartlepool United 4-2 to gain promotion to the Coca Cola Championship.](/news/2005/05/29/the-coca-cola-league-one-play-off-final-is-won-by-sheffield-wednesday-at-the-millennium-stadium-cardiff-after-they-beat-hartlepool-united.md) _Context: Cardiff, their own ground_
+5. [ The Tsunami relief concert is held at the Millennium Stadium, Cardiff, in aid of the victims of the 2004 Indian Ocean earthquake, raising over PS1.25 million (EUR1.8 million or $2.4 million), making it the biggest charity concert in the United Kingdom since Live Aid in 1985. ](/news/2005/01/22/the-tsunami-relief-concert-is-held-at-the-millennium-stadium-cardiff-in-aid-of-the-victims-of-the-2004-indian-ocean-earthquake-raising-o.md) _Context: Cardiff, their own ground_
+6. [ Manchester United win the UEFA Champions League at the Nou Camp stadium, Barcelona, beating Bayern Munich to lift their third major trophy in their unprecedented Treble, after winning the English Premier League and FA Cup.](/news/1999/05/26/manchester-united-win-the-uefa-champions-league-at-the-nou-camp-stadium-barcelona-beating-bayern-munich-to-lift-their-third-major-trophy.md) _Context: FA Cup, Manchester United_
+7. [Manchester United beat Southampton 3-2 at Wembley Stadium to win the 2016-17 EFL Cup. ](/news/2017/02/26/manchester-united-beat-southampton-3a2-at-wembley-stadium-to-win-the-2016a17-efl-cup.md) _Context: Manchester United_
+8. [Manchester United complete the signing of Paul Pogba on five-year deal from Juventus for a world record transfer fee of PS89m (EUR105m), making Pogba the most expensive football player ever. ](/news/2016/08/8/manchester-united-complete-the-signing-of-paul-pogba-on-five-year-deal-from-juventus-for-a-world-record-transfer-fee-of-aps89m-a-105m-mak.md) _Context: Manchester United_
+9. [Manchester United F.C. beat Crystal Palace F.C. 2-1 at Wembley Stadium in London to win the 2015-16 FA Cup. ](/news/2016/05/21/manchester-united-f-c-beat-crystal-palace-f-c-2-1-at-wembley-stadium-in-london-to-win-the-2015a16-fa-cup.md) _Context: Manchester United_
+10. [Leicester City's Jamie Vardy scores in a record eleven consecutive Premier League matches after scoring against Manchester United in a 1-1 draw at the King Power Stadium, breaking former Manchester United player Ruud van Nistelrooy's record. ](/news/2015/11/28/leicester-city-s-jamie-vardy-scores-in-a-record-eleven-consecutive-premier-league-matches-after-scoring-against-manchester-united-in-a-1-1-d.md) _Context: Manchester United_

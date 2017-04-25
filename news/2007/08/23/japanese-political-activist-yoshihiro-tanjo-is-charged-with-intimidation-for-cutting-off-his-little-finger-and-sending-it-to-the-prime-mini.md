@@ -1,0 +1,24 @@
+### [2007-08-23](/news/2007/08/23/index.md)
+
+#  Japanese political activist Yoshihiro Tanjo is charged with intimidation for cutting off his little finger and sending it to the Prime Minister of Japan Shinzo Abe over Shinzo's refusal to visit the Yasukuni shrine to commemorate Japan's World War II dead. 
+
+Al Qaeda fighters kidnapped 15 Iraqi women and children after attacking two villages north of Baghdad on Thursday and killing a religious leader who had been trying to form an anti-al Qaeda tribal alliance, police said.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6959849.stm)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSYAT71336220070823?feedType=RSS&feedName=topNews)
+
+### Related:
+
+1. [Japanese Prime Minister Shinzo Abe visits the Yasukuni Shrine. The location is controversial because it enshrines many war criminals from World War II. The visit provokes condemnation from China and South Korea and criticism from the United States. ](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.md) _Context: Japan, Prime Minister, Shinzo Abe, World War II_
+2. [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md) _Context: Japan, Prime Minister, Shinzo Abe, World War II_
+3. [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md) _Context: Japan, Prime Minister, Shinzo Abe, World War II_
+4. [ Prime Minister of Japan Shinzo Abe apologizes for Japan's use of women as sex slaves in frontline brothels during World War II. ](/news/2007/03/26/prime-minister-of-japan-shinzo-abe-apologizes-for-japan-s-use-of-women-as-sex-slaves-in-frontline-brothels-during-world-war-ii.md) _Context: Japan, Prime Minister, Shinzo Abe, World War II_
+5. [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md) _Context: Japan, Prime Minister, World War II_
+6. [The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: Japan, Prime Minister, Shinzo Abe_
+7. [The cabinet of Prime Minister of Japan Shinzo Abe approves a record defence budget with a plan to buy surveillance aircraft and Lockheed Martin F-35 Lightning II fighter jets to improve security of uninhabited islands in the East China Sea claimed by both Japan and China. ](/news/2015/01/14/the-cabinet-of-prime-minister-of-japan-shinzo-abe-approves-a-record-defence-budget-with-a-plan-to-buy-surveillance-aircraft-and-lockheed-mar.md) _Context: Japan, Prime Minister, Shinzo Abe_
+8. [Shinzo Abe, the Prime Minister of Japan, meets with the President of the United States Barack Obama at the White House to discuss trade, economic, and security issues including North Korea and the Senkaku Islands dispute with China. ](/news/2013/02/22/shinzo-abe-the-prime-minister-of-japan-meets-with-the-president-of-the-united-states-barack-obama-at-the-white-house-to-discuss-trade-eco.md) _Context: Japan, Prime Minister, Shinzo Abe_
+9. [ Japan's House of Councillors passes a censure motion against the Prime Minister of Japan Yasuo Fukuda, the first such motion to be passed since World War II. ](/news/2008/06/11/japan-s-house-of-councillors-passes-a-censure-motion-against-the-prime-minister-of-japan-yasuo-fukuda-the-first-such-motion-to-be-passed-s.md) _Context: Japan, Prime Minister, World War II_
+10. [ Iccho Itoh, Mayor of Nagasaki, Japan, dies after being shot in a suspected gangland killing on Tuesday. Japanese Prime Minister Shinzo Abe denounces the murder as unforgivable. ](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.md) _Context: Japan, Prime Minister, Shinzo Abe_

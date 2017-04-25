@@ -1,0 +1,23 @@
+### [2011-04-17](/news/2011/04/17/index.md)
+
+# At least twelve people are killed in a severe storm in  China's Guangdong Province. 
+
+At least 12 people were killed and 27 injured as hailstones, lashing rain and gales pounded southern China&#039;s Guangdong province on Sunday, state media said.
+
+
+### Source:
+
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8457471/12-killed-in-China-hailstorm.html)
+
+### Related:
+
+1. [At least eleven people die in China's Guangdong Province when a bridge collapses while being built. ](/news/2014/05/4/at-least-eleven-people-die-in-china-s-guangdong-province-when-a-bridge-collapses-while-being-built.md) _Context: China's, Guangdong province_
+2. [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md) _Context: China's, Guangdong province_
+3. [Three people are arrested in China's Guangdong Province in relation to a $90 million gold heist, the biggest in Hong Kong history. ](/news/2010/12/4/three-people-are-arrested-in-china-s-guangdong-province-in-relation-to-a-90-million-gold-heist-the-biggest-in-hong-kong-history.md) _Context: China's, Guangdong province_
+4. [ UNESCO designates 22 new World Heritage Sites, including the Sydney Opera House; Canada's Rideau Canal; Japan's Iwami Ginzan Silver Mine; Turkmenistan's Parthian Fortresses of Nisa; India's Red Fort complexes; the Lope-Okanda Landscape of Gabon; the Richtersveld desert of South Africa; the rock carvings of Twyfelfontein in Namibia; the fortified tower houses of Guangdong Province in the People's Republic of China; Teide National Park in the Canary Islands, Spain; the ancient beech forests of Central Europe; Mehmed Pasa Sokolovic Bridge in Bosnia and Herzegovina; Bordeaux and the Port de la Lune in France; the Old Town of Corfu in Greece; and the Palace of Galerius in Gamzigrad-Romuliana in Serbia. ](/news/2007/06/28/unesco-designates-22-new-world-heritage-sites-including-the-sydney-opera-house-canada-s-rideau-canal-japan-s-iwami-ginzan-silver-mine-t.md) _Context: China's, Guangdong province_
+5. [Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. ](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.md) _Context: China's_
+6. [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md) _Context: China's_
+7. [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md) _Context: China's_
+8. [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md) _Context: China's_
+9. [United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-ing-wen-the-first-known-contact-bet.md) _Context: China's_
+10. [At least 74 people are dead and many others injured and trapped after a construction platform at a power plant in the Chinese city of Fengcheng in Jiangxi province collapses. ](/news/2016/11/24/at-least-74-people-are-dead-and-many-others-injured-and-trapped-after-a-construction-platform-at-a-power-plant-in-the-chinese-city-of-fengch.md) _Context: China's_

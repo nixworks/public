@@ -1,0 +1,23 @@
+### [2017-02-23](/news/2017/02/23/index.md)
+
+# Yannick Jadot drops out in an effort to boost Benoit Hamon. 
+
+French Green party candidate Yannick Jadot has said he will support Socialist presidential candidate Benoit Hamon. Shifting alliances ahead of April-May elections have cast uncertainty over the vote. 
+
+
+### Source:
+
+1. [Deutsche Welle](http://www.dw.com/en/french-green-candidate-jadot-drops-from-presidential-race/a-37696085)
+
+### Related:
+
+1. [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md) _Context: Benoît Hamon, French presidential election, 2017_
+2. [In the second round run-off to select the Socialist Party's candidate in this year's spring presidential election, the leftist candidate, former Minister of National Education Benoit Hamon, topped former Prime Minister Manuel Valls, a centrist, with 58.65 percent of the vote. ](/news/2017/01/29/in-the-second-round-run-off-to-select-the-socialist-party-s-candidate-in-this-year-s-spring-presidential-election-the-leftist-candidate-fo.md) _Context: Benoît Hamon, French presidential election, 2017_
+3. [Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md) _Context: French presidential election, 2017_
+4. [New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-macron-and-marine-le-pen-ahead-of-the.md) _Context: French presidential election, 2017_
+5. [The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-heading-into-the-first-stage-of-the-elect.md) _Context: French presidential election, 2017_
+6. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: French presidential election, 2017_
+7. [Francois Bayrou drops out in an effort to boost Emmanuel Macron. ](/news/2017/02/22/franassois-bayrou-drops-out-in-an-effort-to-boost-emmanuel-macron.md) _Context: French presidential election, 2017_
+8. [Voting takes place in the first round of the French Socialist Party presidential primary to select a candidate to run in this year's presidential election. ](/news/2017/01/22/voting-takes-place-in-the-first-round-of-the-french-socialist-party-presidential-primary-to-select-a-candidate-to-run-in-this-year-s-preside.md) _Context: French presidential election, 2017_
+9. [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md) _Context: French presidential election, 2017_
+10. [Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential-election-this-leaves-the-selection.md) _Context: French presidential election, 2017_

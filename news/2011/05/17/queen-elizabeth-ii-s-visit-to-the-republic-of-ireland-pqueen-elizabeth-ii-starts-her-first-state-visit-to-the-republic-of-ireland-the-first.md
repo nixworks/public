@@ -1,0 +1,27 @@
+### [2011-05-17](/news/2011/05/17/index.md)
+
+# Queen Elizabeth II's visit to the Republic of Ireland:Queen Elizabeth II starts her first state visit to the Republic of Ireland, the first visit of a British monarch since Ireland's independence from the United Kingdom in 1921. Elizabeth is also the first British monarch to visit Ireland since George V's state visit in 1911. 
+
+The Queen is due to begin the first visit to the Republic of Ireland by a British monarch, amid a huge security operation for the four-day trip.
+
+
+### Source:
+
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/queen-elizabeth-II/8517911/The-Queen-in-Ireland-bombs-found-hours-before-historic-state-visit.html)
+2. [RTÉ](http://www.rte.ie/news/2011/0517/queen_tracker.html)
+3. [The Guardian](http://www.guardian.co.uk/uk/blog/2011/may/17/queen-visit-ireland-live)
+4. [Sky News](http://news.sky.com/skynews/Home/World-News/Video-Queen-In-Ireland-Irish-Police-Say-Bomb-Threat-Will-Not-Make-Them-Alter-Security-Measures/Article/201105315993434?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15993434_Video%2C_Queen_In_Ireland%3A_Irish_Police_Say_Bomb_Threat_Will_Not_Make_Them_Alter_Security_Measures)
+5. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13420053?utm_source=twitterfeed&utm_medium=twitter)
+
+### Related:
+
+1. [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md) _Context: Queen Elizabeth II, UK royal state visit to Ireland, United Kingdom_
+2. [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md) _Context: Ireland, United Kingdom_
+3. [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md) _Context: Ireland, United Kingdom_
+4. [AMC Theatres is purchasing  London-based Odeon & UCI Cinemas Group in a deal valued at about PS921 million  ($1.21 billion). AMC   has 385 theaters with 5,380 screens, most in the United States.  Odeon & UCI  has  242 theaters and 2,236 screens in the U.K. and Ireland.  AMC noted its $1.1 billion (PS835 million) acquisition of  Columbus, Georgia's Carmike Cinemas (276 thrs/2,954 scrs) is still in the works. ](/news/2016/07/12/amc-theatres-is-purchasing-london-based-odeon-uci-cinemas-group-in-a-deal-valued-at-about-aps921-million-1-21-billion-amc-has-385-t.md) _Context: Ireland, United Kingdom_
+5. [Storm Frank hits the United Kingdom and Ireland, contributing to the 2015 Great Britain and Ireland floods following previous heavy rainfall. ](/news/2015/12/30/storm-frank-hits-the-united-kingdom-and-ireland-contributing-to-the-2015-great-britain-and-ireland-floods-following-previous-heavy-rainfall.md) _Context: Ireland, United Kingdom_
+6. [The Italian Coast Guard states that at least 17 people have died and 4,200 have been rescued in the Mediterranean Sea attempting to travel to Europe in the past 24 hours. Ships from nations including Italy, Republic of Ireland, Germany, Belgium and the United Kingdom have been involved in rescue efforts. ](/news/2015/05/30/the-italian-coast-guard-states-that-at-least-17-people-have-died-and-4-200-have-been-rescued-in-the-mediterranean-sea-attempting-to-travel-t.md) _Context: Ireland, United Kingdom_
+7. [The United Kingdom's Queen Elizabeth II announces she will miss a Commonwealth meeting for the first time in 40 years. Prince Charles will attend on her behalf. ](/news/2013/05/7/the-united-kingdom-s-queen-elizabeth-ii-announces-she-will-miss-a-commonwealth-meeting-for-the-first-time-in-40-years-prince-charles-will-a.md) _Context: Queen Elizabeth II, United Kingdom_
+8. [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md) _Context: Ireland, United Kingdom_
+9. [Queen Elizabeth II accepts an invitation from President of Ireland Mary McAleese to visit Ireland in May. ](/news/2011/03/4/queen-elizabeth-ii-accepts-an-invitation-from-president-of-ireland-mary-mcaleese-to-visit-ireland-in-may.md) _Context: Ireland, Queen Elizabeth II_
+10. [An international operation against a major drug trafficking gang deals "a major blow" as 26 people are arrested in Ireland, Spain and the United Kingdom, including a capo di tutti capi. ](/news/2010/05/25/an-international-operation-against-a-major-drug-trafficking-gang-deals-a-major-blow-as-26-people-are-arrested-in-ireland-spain-and-the-un.md) _Context: Ireland, United Kingdom_

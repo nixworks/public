@@ -1,0 +1,27 @@
+### [2005-07-2](/news/2005/07/2/index.md)
+
+#  The Live 8 concerts begin their globe-spanning tour in Tokyo. Several famous artists and musical groups are joining in this effort to raise awareness about poverty and AIDS in the leadup to the G8 summit and on the anniversary of the 1985 Live Aid concerts. (Wikinews), 
+
+Paul McCartney and the Irish rock band U2 will have history on their minds today in London, where they plan to kick off a globe-spanning chain of concerts to combat Third World poverty by singing...
+
+
+### Source:
+
+1. [LA Times](http://www.latimes.com/news/politics/la-et-live2jul02,1,7633303.story?coll=la-headlines-politics)
+2. [AOL Music (live webcast](http://music.aol.com/)
+3. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050702.weight0702/BNStory/Entertainment/)
+4. [Wired](http://www.wired.com/news/digiwood/0,1412,68069,00.html?tw=rss.TOP)
+5. [Live 8 home page](http://www.live8live.com/)
+
+### Related:
+
+1. [ Bob Geldof announces plans for a concert similar to Live Aid, which took place in 1985, to coincide with the G8 Summit in Edinburgh this July. The concert, named 'Live 8', will take place in Hyde Park, London on 2 July, with other concerts in Paris, Rome, Berlin and Philadelphia, and is intended to raise awareness of the Make Poverty History campaign. It is expected to include acts such as Sir Paul McCartney, Robbie Williams, Madonna, the Rolling Stones, Coldplay and U2, as well as a rumoured reunion of the Spice Girls. ](/news/2005/05/31/bob-geldof-announces-plans-for-a-concert-similar-to-live-aid-which-took-place-in-1985-to-coincide-with-the-g8-summit-in-edinburgh-this-ju.md) _Context: 1985, Group of Eight, Live 8_
+2. [Tokyo breaks ground for the National Olympic Stadium on the site of the stadium used for the 1964 Olympic Games. ](/news/2016/12/11/tokyo-breaks-ground-for-the-national-olympic-stadium-on-the-site-of-the-stadium-used-for-the-1964-olympic-games.md) _Context: Tokyo_
+3. [ A research team led by an evolutionary biologist at the University of Arizona publishes a paper in ''Nature'' on the genetic history of HIV proving that Gaetan Dugas, the Canadian flight attendant who had been identified for years as "Patient Zero" of the AIDS epidemic in the U.S., did not spread the virus to the country. The study indicates that HIV first spread to the U.S. from the Caribbean around 1970. ](/news/2016/10/26/a-research-team-led-by-an-evolutionary-biologist-at-the-university-of-arizona-publishes-a-paper-in-nature-on-the-genetic-history-of-hiv.md) _Context: AIDS_
+4. [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md) _Context: Tokyo_
+5. [Yuriko Koike, of the Liberal Democratic Party (LDP) but not their preferred candidate, is  elected the Tokyo prefecture's first female governor, replacing Yoichi Masuzoe who resigned last month. The former  Minister of Defense defeated the LDP-Komeito ruling coalition's  Hiroya Masuda and the opposition bloc's Shuntaro Torigoe. Turnout is over 40 percent. ](/news/2016/07/31/yuriko-koike-of-the-liberal-democratic-party-ldp-but-not-their-preferred-candidate-is-elected-the-tokyo-prefecture-s-first-female-gover.md) _Context: Tokyo_
+6. [Yoichi Masuzoe resigns as the Governor of the Japanese capital Tokyo over a political funding scandal. He was due to face a no-confidence motion in the Tokyo Metropolitan Assembly later today. ](/news/2016/06/15/yaichi-masuzoe-resigns-as-the-governor-of-the-japanese-capital-tokyo-over-a-political-funding-scandal-he-was-due-to-face-a-no-confidence-m.md) _Context: Tokyo_
+7. [The International Olympic Committee (IOC) executive board backs host Tokyo's  proposal to include baseball-softball, surfing, karate, sport climbing, and skateboarding in the 2020 Summer Olympics. The full IOC will vote on this in Rio de Janeiro, Brazil, in August. ](/news/2016/06/1/the-international-olympic-committee-ioc-executive-board-backs-host-tokyo-s-proposal-to-include-baseball-softball-surfing-karate-sport.md) _Context: Tokyo_
+8. [Rupert Wingfield-Hayes, the BBC's Tokyo correspondent, was detained in North Korea before being expelled by the government for "speaking very ill of the system". ](/news/2016/05/9/rupert-wingfield-hayes-the-bbc-s-tokyo-correspondent-was-detained-in-north-korea-before-being-expelled-by-the-government-for-speaking-ver.md) _Context: Tokyo_
+9. [Thousands protest outside the Japanese parliament in Tokyo against the  relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md) _Context: Tokyo_
+10. [Japan deploys two MIM-104 Patriot surface-to-air missile interceptor systems in Tokyo in preparation for any North Korean ballistic missiles potentially heading for the city. The deployment comes amid concerns of an imminent North Korean missile launch following the detection of "increased activity" at a North Korean missile facility. ](/news/2016/01/31/japan-deploys-two-mim-104-patriot-surface-to-air-missile-interceptor-systems-in-tokyo-in-preparation-for-any-north-korean-ballistic-missiles.md) _Context: Tokyo_

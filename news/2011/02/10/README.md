@@ -1,0 +1,61 @@
+## [2011-02-10](/news/2011/02/10/index.md)
+
+### [2011 Egyptian protests:Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-pprotests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md)
+_Context: Hosni Mubarak, Protesters_
+
+### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
+_Context: Jonglei, Southern Sudan, state_
+
+### [A suicide bomber attacks a Pakistan Army recruitment centre in northwestern Pakistan causing at least 27 deaths and 40 injuries. ](/news/2011/02/10/a-suicide-bomber-attacks-a-pakistan-army-recruitment-centre-in-northwestern-pakistan-causing-at-least-27-deaths-and-40-injuries.md)
+A boy in a school uniform blew himself up at a Pakistani army recruitment center on Thursday, killing 31 cadets, officials said, in an attack that challenges government assertions it has weakened militants.
+
+### [The FARC organisation releases the first of five hostages promised this week as a gesture of peace to the government in Colombia. ](/news/2011/02/10/the-farc-organisation-releases-the-first-of-five-hostages-promised-this-week-as-a-gesture-of-peace-to-the-government-in-colombia.md)
+_Context: Colombia, Revolutionary Armed Forces of Colombia_
+
+### [Israeli forces remove Palestinian tents near Nablus of which 8 were reportedly used as homes.](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.md)
+_Context: Israel, Nablus_
+
+### [Vietnam is to host the debut International Choir Festival. ](/news/2011/02/10/vietnam-is-to-host-the-debut-international-choir-festival.md)
+_Context: International Choir Festival, Vietnam_
+
+### [Eight people are killed in a warehouse fire in Perm, Russia. ](/news/2011/02/10/eight-people-are-killed-in-a-warehouse-fire-in-perm-russia.md)
+_Context: Perm, Russia_
+
+### [A Manx2 flight from Belfast  to Cork crashes on landing, killing six and injuring at least another six. It is the deadliest in Irish aviation since 1968. ](/news/2011/02/10/a-manx2-flight-from-belfast-to-cork-crashes-on-landing-killing-six-and-injuring-at-least-another-six-it-is-the-deadliest-in-irish-aviatio.md)
+Two Irish citizens, three British passport holders and a Spaniard have been killed and six others are injured after a commuter flight from Belfast crashed at Cork Airport this morning.
+
+### [Three people are dead, and two others are missing after a natural gas line rupture and explosion in the city of Allentown, Pennsylvania. ](/news/2011/02/10/three-people-are-dead-and-two-others-are-missing-after-a-natural-gas-line-rupture-and-explosion-in-the-city-of-allentown-pennsylvania.md)
+_Context: Allentown, Pennsylvania_
+
+### [A snowstorm hits the Southeastern United States and Tennessee Valley with warnings in place across ten states. ](/news/2011/02/10/a-snowstorm-hits-the-southeastern-united-states-and-tennessee-valley-with-warnings-in-place-across-ten-states.md)
+_Context: Southeastern United States, Tennessee Valley, snowstorm_
+
+### [Cuban Information and Communications Minister Medardo Diaz welcomes the arrival of an undersea fibre-optic cable linking it to Venezuela, which offered to help the island speed up its internet connection after the United States refused. ](/news/2011/02/10/cuban-information-and-communications-minister-medardo-diaz-welcomes-the-arrival-of-an-undersea-fibre-optic-cable-linking-it-to-venezuela-wh.md)
+Cuba hails the arrival of a fibre-optic communications cable linking it to Venezuela as a breach in the US trade embargo.
+
+### [North Korea reports that it will not conduct further talks with South Korea, citing a perceived lack of seriousness on South Korea's part. ](/news/2011/02/10/north-korea-reports-that-it-will-not-conduct-further-talks-with-south-korea-citing-a-perceived-lack-of-seriousness-on-south-korea-s-part.md)
+_Context: North Korea, South Korea_
+
+### [Reuters reports that India and Pakistan have agreed to resume peace talks that were broken off after the 2008 Mumbai attacks. ](/news/2011/02/10/reuters-reports-that-india-and-pakistan-have-agreed-to-resume-peace-talks-that-were-broken-off-after-the-2008-mumbai-attacks.md)
+India and Pakistan haveagreed to formally resume peace talks that were broken off byNew Delhi after the 2008 Mumbai attacks, Indian sources said onThursday, a crucial step forward in improving ties that impactregional security.
+
+### [The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. ](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.md)
+_Context: Abu Bakar Bashir, Indonesia, Jakarta, Muslim, terrorism_
+
+### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)
+_Context: Chen Guangcheng, China's, house arrest_
+
+### [The British House of Commons votes 234-22 against prisoners receiving the right to vote. ](/news/2011/02/10/the-british-house-of-commons-votes-234-22-against-prisoners-receiving-the-right-to-vote.md)
+The Commons overwhelmingly votes to keep the ban on prisoners voting, in defiance of a ruling by the European Court of Human Rights.
+
+### [Former British Labour MP Eric Illsley is jailed for 12 months for dishonestly claiming parliamentary expenses. The sentence comes on the same day that Jim Devine, another former Labour MP, is convicted of dishonestly claiming PS8,385 of expenses by using false invoices for cleaning and printing work. ](/news/2011/02/10/former-british-labour-mp-eric-illsley-is-jailed-for-12-months-for-dishonestly-claiming-parliamentary-expenses-the-sentence-comes-on-the-sam.md)
+Former Labour MP Eric Illsley is sentenced to a year in jail for dishonestly claiming parliamentary expenses.
+
+### [Utah Jazz head coach Jerry Sloan, the longest-tenured coach in any of North America's four major leagues, announces his resignation effective immediately. Sloan, inducted in the Basketball Hall of Fame in 2009, had been with the Jazz since 1988. ](/news/2011/02/10/utah-jazz-head-coach-jerry-sloan-the-longest-tenured-coach-in-any-of-north-america-s-four-major-leagues-announces-his-resignation-effectiv.md)
+Jerry Sloan resigned as head coach of the Utah Jazz at a news conference Thursday.
+
+### [Ray Allen scores his 2,561st 3-point shot, passing Reggie Miller for the all-time NBA record for 3-point field goals made.](/news/2011/02/10/ray-allen-scores-his-2-561st-3-point-shot-passing-reggie-miller-for-the-all-time-nba-record-for-3-point-field-goals-made.md)
+_Context: Ray Allen, Reggie Miller_
+
+## [Previous Day...](/news/2011/02/9/index.md)
+

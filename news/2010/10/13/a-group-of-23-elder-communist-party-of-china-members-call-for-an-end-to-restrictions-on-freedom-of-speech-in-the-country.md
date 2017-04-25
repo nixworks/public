@@ -1,0 +1,24 @@
+### [2010-10-13](/news/2010/10/13/index.md)
+
+# A group of 23 elder Communist Party of China members call for an end to restrictions on freedom of speech in the country. 
+
+Twenty-three veterans of the Communist Party write open letter, calling for scrapping of censorship rules.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101013125048141291.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11529920)
+
+### Related:
+
+1. [Political reshuffle in the Zhejiang governor Li Qiang is transferred to neighbouring Jiangsu province to serve as party chief. He is succeeded as Zhejiang governor by Xinjiang deputy party chief Che Jun. ](/news/2016/07/4/political-reshuffle-in-the-zhejiang-governor-li-qiang-is-transferred-to-neighbouring-jiangsu-province-to-serve-as-party-chief-he-is-succeed.md) _Context: Communist Party of China_
+2. [Political reshuffle in the Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/political-reshuffle-in-the-luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-shanxi-province-replacing-w.md) _Context: Communist Party of China_
+3. [Authorities in China sentence Huang Yu, a computer technician from Sichuan who worked for a government department which handled state secrets, to death for leaking more than 150,000 classified documents to an unidentified foreign power. The documents in question covered secrets ranging from the ruling Communist Party to military and financial issues. ](/news/2016/04/19/authorities-in-china-sentence-huang-yu-a-computer-technician-from-sichuan-who-worked-for-a-government-department-which-handled-state-secret.md) _Context: Communist Party of China_
+4. [Wei Hong is removed as the Governor of China's Sichuan province due to perceived disloyalty to the Communist Party. ](/news/2016/02/5/wei-hong-is-removed-as-the-governor-of-china-s-sichuan-province-due-to-perceived-disloyalty-to-the-communist-party.md) _Context: Communist Party of China_
+5. [Human rights activists claim that three pro-democracy advocates have been sentenced to up to five years imprisonment on charges of attempting to overthrow the Communist Party government in Guangzhou. ](/news/2016/01/29/human-rights-activists-claim-that-three-pro-democracy-advocates-have-been-sentenced-to-up-to-five-years-imprisonment-on-charges-of-attemptin.md) _Context: Communist Party of China_
+6. [The two-child policy takes effect in China, allowing couples in the country to have at most two children, replacing the controversial one-child policy. The change in law was announced by the ruling Communist Party on October 29 and passed the Standing Committee of the National People's Congress on December 27, five days prior to its effect. ](/news/2016/01/1/the-two-child-policy-takes-effect-in-china-allowing-couples-in-the-country-to-have-at-most-two-children-replacing-the-controversial-one-ch.md) _Context: Communist Party of China_
+7. [Chinese human rights lawyer Pu Zhiqiang goes on trial in Beijing for online social commentary critical of the ruling Communist Party. ](/news/2015/12/14/chinese-human-rights-lawyer-pu-zhiqiang-goes-on-trial-in-beijing-for-online-social-commentary-critical-of-the-ruling-communist-party.md) _Context: Communist Party of China_
+8. [A French public prosecutor said charges against far-right leader Marine Le Pen should be dropped. Le Pen is being tried for comments she made five years ago comparing Muslim street prayers to Nazi occupation. Prosecutor Bernard Reynaud said, "Madame Le Pen in denouncing prayers in public space addressed not the entire Muslim community but a minority and was only exercising her freedom of expression." ](/news/2015/10/20/a-french-public-prosecutor-said-charges-against-far-right-leader-marine-le-pen-should-be-dropped-le-pen-is-being-tried-for-comments-she-mad.md) _Context: freedom of expression_
+9. [Anti-corruption campaign in China: Ling Jihua is expelled from the Communist Party of China after an investigation and arrested to faced criminal charges. ](/news/2015/07/20/anti-corruption-campaign-in-china-p-ling-jihua-is-expelled-from-the-communist-party-of-china-after-an-investigation-and-arrested-to-faced-cr.md) _Context: Communist Party of China_
+10. [The regional branch of the Communist Party of China in Tibet demands that Buddhist monasteries display the Chinese flag in an effort to shore up Chinese rule. ](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.md) _Context: Communist Party of China_

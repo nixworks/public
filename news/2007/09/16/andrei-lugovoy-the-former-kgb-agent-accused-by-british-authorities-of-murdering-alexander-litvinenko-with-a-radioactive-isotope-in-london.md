@@ -1,0 +1,23 @@
+### [2007-09-16](/news/2007/09/16/index.md)
+
+#  Andrei Lugovoy, the former KGB agent accused by British authorities of murdering Alexander Litvinenko with a radioactive isotope in London last November, says he will run for parliament on the party list of the Liberal Democratic Party of Russia. 
+
+
+
+
+### Source:
+
+1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/09/16/AR2007091600382.html?hpid=topnews)
+
+### Related:
+
+1. [ The Foreign Office of the British Government submits a formal request to the Russian Government for the extradition of ex-KGB agent Andrei Lugovoi to face charges over the murder of his former colleague Alexander Litvinenko in London. ](/news/2007/05/28/the-foreign-office-of-the-british-government-submits-a-formal-request-to-the-russian-government-for-the-extradition-of-ex-kgb-agent-andrei.md) _Context: Alexander Litvinenko, KGB, London_
+2. [ Britain expels four Russian diplomats and suspends visa negotiations over Russia's failure to extradite Andrei Lugovoy in connection with the murder of Alexander Litvinenko. ](/news/2007/07/16/britain-expels-four-russian-diplomats-and-suspends-visa-negotiations-over-russia-s-failure-to-extradite-andrei-lugovoy-in-connection-with-t.md) _Context: Alexander Litvinenko, Andrei Lugovoy_
+3. [ The UK Crown Prosecution Service announces that Andrei Lugovoi, an ex-KGB agent, will be  charged in connection with the poisoning of Alexander Litvinenko, also a former KGB agent. ](/news/2007/05/22/the-uk-crown-prosecution-service-announces-that-andrei-lugovoi-an-ex-kgb-agent-will-be-charged-in-connection-with-the-poisoning-of-alexa.md) _Context: Alexander Litvinenko, KGB_
+4. [ Alexander Litvinenko poisoning: Traces of polonium-210 have been found in a second restaurant in London. The Health Protection Agency had been monitoring the establishment in connection with the Alexander Litvinenko assassination. ](/news/2007/01/5/alexander-litvinenko-poisoning-traces-of-polonium-210-have-been-found-in-a-second-restaurant-in-london-the-health-protection-agency-had-b.md) _Context: Alexander Litvinenko, London_
+5. [ London police are examining whether the killers of Alexander Litvinenko also tried to poison Mario Scaramella, an Italian security expert who met the Russian exile on the day that he fell ill. ](/news/2006/12/2/london-police-are-examining-whether-the-killers-of-alexander-litvinenko-also-tried-to-poison-mario-scaramella-an-italian-security-expert-w.md) _Context: Alexander Litvinenko, London_
+6. [ Three British Airways planes are grounded in London and Moscow due to positive traces of radiation as the investigation into the death of Alexander Litvinenko widens. British Airways will attempt to contact the thousands of passengers who have travelled on the planes recently. ](/news/2006/11/29/three-british-airways-planes-are-grounded-in-london-and-moscow-due-to-positive-traces-of-radiation-as-the-investigation-into-the-death-of-a.md) _Context: Alexander Litvinenko, London_
+7. [ Alexander Litvinenko, the Russian ex-spy poisoned in London last weekend, dies. He had previously been put on a ventilator after suffering a heart failure, while objects discovered in his body when he was x-rayed are not a "major concern", doctors say. ](/news/2006/11/23/alexander-litvinenko-the-russian-ex-spy-poisoned-in-london-last-weekend-dies-he-had-previously-been-put-on-a-ventilator-after-suffering.md) _Context: Alexander Litvinenko, London_
+8. [ Kremlin dismisses claims of Russian involvement in the poisoning of former KGB spy Alexander Litvinenko as "sheer nonsense". ](/news/2006/11/20/kremlin-dismisses-claims-of-russian-involvement-in-the-poisoning-of-former-kgb-spy-alexander-litvinenko-as-sheer-nonsense.md) _Context: Alexander Litvinenko, KGB_
+9. [ Suspected assassination plot: Alexander Litvinenko, a former Russian spy who defected to Britain six years ago, is fighting for his life in a London hospital after being poisoned with polonium-210 in a sushi bar. ](/news/2006/11/19/suspected-assassination-plot-alexander-litvinenko-a-former-russian-spy-who-defected-to-britain-six-years-ago-is-fighting-for-his-life-in.md) _Context: Alexander Litvinenko, London_
+10. [A vehicle mounts the pavement and runs into pedestrians in Islington, London, injuring 4. The teenage perpetrators are found carrying offensive weapons, but are not assumed to be terrorists. ](/news/2017/03/25/a-vehicle-mounts-the-pavement-and-runs-into-pedestrians-in-islington-london-injuring-4-the-teenage-perpetrators-are-found-carrying-offens.md) _Context: London_

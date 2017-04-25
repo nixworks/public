@@ -1,0 +1,23 @@
+### [2013-04-12](/news/2013/04/12/index.md)
+
+# Iran's former nuclear negotiator Hassan Rouhani enters the race to succeed President Mahmoud Ahmadinejad, accusing the incumbent of needlessly incurring crippling economic sanctions. 
+
+Hassan Rowhani, who resigned as nuclear negotiator in 2005, joins dozens looking to replace Mahmoud Ahmadinejad in June.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134126523423753.html)
+
+### Related:
+
+1. [The Iranian ministry of interior sets 14 June 2013 as the date of the next presidential election, for a successor of current president, Mahmoud Ahmadinejad. For the first time, this election is to be held on the same date as the next municipal elections. ](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.md) _Context: Iran, Iranian President, Mahmoud Ahmadinejad, presidential_
+2. [Response to IAEA report on Iran's nuclear program:Iranian President Mahmoud Ahmadinejad says the International Atomic Energy Agency report is based on "empty claims" and that Iran would not budge from its nuclear program despite allegations it may be trying to develop nuclear weapons;  European countries and the US say they will consider fresh sanctions against Iran. ](/news/2011/11/9/response-to-iaea-report-on-iran-s-nuclear-program-piranian-president-mahmoud-ahmadinejad-says-the-international-atomic-energy-agency-report.md) _Context: Iran, Iranian President, Mahmoud Ahmadinejad, nuclear scientist_
+3. [ Iranian President Mahmoud Ahmadinejad says the government is ready for a deal on its nuclear program. ](/news/2009/10/29/iranian-president-mahmoud-ahmadinejad-says-the-government-is-ready-for-a-deal-on-its-nuclear-program.md) _Context: Iran, Iranian President, Mahmoud Ahmadinejad, nuclear scientist_
+4. [ Nuclear program of Iran: The President of Iran Mahmoud Ahmadinejad claims that Iran now has 3,000 centrifuges. The International Atomic Energy Agency estimates the number at 2,000. ](/news/2007/09/2/nuclear-program-of-iran-the-president-of-iran-mahmoud-ahmadinejad-claims-that-iran-now-has-3-000-centrifuges-the-international-atomic-ene.md) _Context: Iran, Iranian President, Mahmoud Ahmadinejad, nuclear scientist_
+5. [ Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. ](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.md) _Context: Iran, Iranian President, Mahmoud Ahmadinejad, nuclear scientist_
+6. [Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. ](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.md) _Context: Hassan Rouhani, Iran, Iranian President_
+7. [Iranian legislative election, 2016 Iran starts registering candidates for the 290-seat parliamentary elections scheduled for 26 February 2016. Potential candidates must be approved by the Guardian Council. The elections will, effectively, be  a vote on President Hassan Rouhani's moderate policies that received a boost from the July 14  landmark nuclear deal. ](/news/2015/12/20/iranian-legislative-election-2016-piran-starts-registering-candidates-for-the-290-seat-parliamentary-elections-scheduled-for-26-february-20.md) _Context: Hassan Rouhani, Iran, Iranian President_
+8. [Iranian President Hassan Rouhani releases 11 political prisoners. He will visit the United States tomorrow. ](/news/2013/09/18/iranian-president-hassan-rouhani-releases-11-political-prisoners-he-will-visit-the-united-states-tomorrow.md) _Context: Hassan Rouhani, Iran, Iranian President_
+9. [Iranian President Hassan Rouhani confirmed he had contacted U.S. President Barack Obama via letters. Both countries cut all diplomatic relations after the Iranian Hostage Crisis in 1980. ](/news/2013/09/17/iranian-president-hassan-rouhani-confirmed-he-had-contacted-u-s-president-barack-obama-via-letters-both-countries-cut-all-diplomatic-relat.md) _Context: Hassan Rouhani, Iran, Iranian President_
+10. [Iranian presidential election:Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-pcandidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-a.md) _Context: Mahmoud Ahmadinejad, nuclear scientist, presidential_

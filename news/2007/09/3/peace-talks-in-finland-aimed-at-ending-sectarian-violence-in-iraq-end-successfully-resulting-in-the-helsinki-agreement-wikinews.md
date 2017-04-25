@@ -1,0 +1,19 @@
+### [2007-09-3](/news/2007/09/3/index.md)
+
+#  Peace talks in Finland aimed at ending sectarian violence in Iraq end successfully, resulting in the "Helsinki Agreement". (Wikinews) 
+
+
+
+
+### Related:
+
+1. [More than a dozen alleged ISIS-linked, terrorist members of Rawti Shax, a European offshoot of the Iraqi Kurdish jihadist network Ansar al-Islam,  are arrested in a coordinated, multi-nation sweep by police across Europe. The operation  dismantled an integrated cell in Italy, the United Kingdom, Norway, Finland, Switzerland, and Germany.  The group is accused of radicalizing fighters, planning attacks  targeting Norwegian and British diplomats in the Middle East, and planning to establish a caliphate in Iraq's Kurdistan region. ](/news/2015/11/12/more-than-a-dozen-alleged-isis-linked-terrorist-members-of-rawti-shax-a-european-offshoot-of-the-iraqi-kurdish-jihadist-network-ansar-al-i.md) _Context: Finland, Iraq_
+2. [ Talks aimed at negotiating peace in Iraq begin in Finland. (Wikinews)](/news/2007/08/31/talks-aimed-at-negotiating-peace-in-iraq-begin-in-finland-wikinews.md) _Context: Finland, Iraq_
+3. [Finnish municipal elections, 2017 Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-pvoters-go-to-the-polls-for-municipal-elections-in-finland.md) _Context: Finland_
+4. [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: Finland_
+5. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq_
+6. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq_
+7. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq_
+8. [Presidency of Donald Trump U.S. President Donald Trump signs a revised version of Executive Order 13769 eliminating Iraq from the order and reducing the indefinite suspension of Syrian refugees to 120 days. The order will be in effect on March 16, 2017. ](/news/2017/03/6/presidency-of-donald-trump-pu-s-president-donald-trump-signs-a-revised-version-of-executive-order-13769-eliminating-iraq-from-the-order-and.md) _Context: Iraq_
+9. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Finland_
+10. [Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. ](/news/2017/03/18/thousands-of-iraqis-flee-western-mosul-as-the-battle-between-iraqi-and-allied-forces-and-isil-militants-escalates-in-the-densely-populated-o.md) _Context: Iraq_

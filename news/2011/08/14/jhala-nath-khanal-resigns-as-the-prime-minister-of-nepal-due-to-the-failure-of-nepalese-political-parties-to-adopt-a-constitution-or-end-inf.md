@@ -1,0 +1,23 @@
+### [2011-08-14](/news/2011/08/14/index.md)
+
+# Jhala Nath Khanal resigns as the Prime Minister of Nepal due to the failure of Nepalese political parties to adopt a constitution or end infighting. 
+
+
+
+
+### Source:
+
+1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7697661.html)
+
+### Related:
+
+1. [Nepal elects Baburam Bhattarai as its new Prime Minister. ](/news/2011/08/28/nepal-elects-baburam-bhattarai-as-its-new-prime-minister.md) _Context: Nepal, Prime Minister_
+2. [Nepal's prime minister Jhala Nath Khanal takes his oath of office. ](/news/2011/02/6/nepal-s-prime-minister-jhala-nath-khanal-takes-his-oath-of-office.md) _Context: Jhala Nath Khanal, Nepal_
+3. [Nepalese Prime Minister Jhala Nath Khanal begins forming a new national government. ](/news/2011/02/4/nepalese-prime-minister-jhala-nath-khanal-begins-forming-a-new-national-government.md) _Context: Jhala Nath Khanal, Nepal_
+4. [Lawmakers in Nepal vote to elect a new Prime Minister. ](/news/2011/02/3/lawmakers-in-nepal-vote-to-elect-a-new-prime-minister.md) _Context: Nepal, Prime Minister_
+5. [Politicians in Nepal fail to elect a new Prime Minister for the third time after no candidate secured a majority. ](/news/2010/08/2/politicians-in-nepal-fail-to-elect-a-new-prime-minister-for-the-third-time-after-no-candidate-secured-a-majority.md) _Context: Nepal, Prime Minister_
+6. [ April 2006 Nepalese general strike: King Gyanendra of Nepal asks for Prime Minister nominations to be made to assist in ending unrest in the country. ](/news/2006/04/21/april-2006-nepalese-general-strike-king-gyanendra-of-nepal-asks-for-prime-minister-nominations-to-be-made-to-assist-in-ending-unrest-in-th.md) _Context: Nepal, Prime Minister_
+7. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
+8. [The government of Nepal proposes to amend the constitution to make it more inclusive. ](/news/2016/11/30/the-government-of-nepal-proposes-to-amend-the-constitution-to-make-it-more-inclusive.md) _Context: Nepal_
+9. [Three UNHCR workers - one from Sudan and two from Nepal - are kidnapped by unidentified gunmen in Geneina, the capital of the West Darfur state. ](/news/2016/11/28/three-unhcr-workers-one-from-sudan-and-two-from-nepal-are-kidnapped-by-unidentified-gunmen-in-geneina-the-capital-of-the-west-darfur-st.md) _Context: Nepal_
+10. [A bus skids off a mountain road in central Nepal, killing at least 19 people and injuring more than a dozen others. ](/news/2016/09/27/a-bus-skids-off-a-mountain-road-in-central-nepal-killing-at-least-19-people-and-injuring-more-than-a-dozen-others.md) _Context: Nepal_

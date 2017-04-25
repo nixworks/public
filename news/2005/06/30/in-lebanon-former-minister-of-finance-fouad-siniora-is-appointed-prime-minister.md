@@ -1,0 +1,19 @@
+### [2005-06-30](/news/2005/06/30/index.md)
+
+#  In Lebanon, former Minister of Finance, Fouad Siniora is appointed prime minister.
+
+
+
+
+### Related:
+
+1. [ Bernard Kouchner, the French Foreign Minister, arrives in Lebanon to reduce tensions between the Prime Minister of Lebanon Fouad Siniora and the pro-Syrian opposition. ](/news/2007/07/28/bernard-kouchner-the-french-foreign-minister-arrives-in-lebanon-to-reduce-tensions-between-the-prime-minister-of-lebanon-fouad-siniora-an.md) _Context: Fouad Siniora, Lebanon, Prime Minister_
+2. [A new government is formed in Lebanon after 10-months of gridlock, Tammam Salam is elected to be Prime Minister. ](/news/2014/02/15/a-new-government-is-formed-in-lebanon-after-10-months-of-gridlock-tammam-salam-is-elected-to-be-prime-minister.md) _Context: Lebanon, Prime Minister_
+3. [Najib Mikati announces his resignation as Prime Minister of Lebanon. ](/news/2013/03/22/najib-mikati-announces-his-resignation-as-prime-minister-of-lebanon.md) _Context: Lebanon, Prime Minister_
+4. [Political crisis in Lebanon:Supporters of Lebanese caretaker Prime Minister Saad Hariri call for a day of protests  following Hezbollah's support for Najib Mikati as Prime Minister a new coalition government to replace that of Hariri, and igniting the possibility of  clashes in the latest development in the crisis over a United Nations-backed tribunal  investigating the 2005 assassination of former Prime Minister Rafic Hariri, Saad Hariri's father. ](/news/2011/01/25/political-crisis-in-lebanon-psupporters-of-lebanese-caretaker-prime-minister-saad-hariri-call-for-a-day-of-protests-following-hezbollah-s-s.md) _Context: Lebanon, Prime Minister_
+5. [ Lebanese Prime Minister Saad Hariri announces the formation of a unity government with Hezbollah. ](/news/2009/11/9/lebanese-prime-minister-saad-hariri-announces-the-formation-of-a-unity-government-with-hezbollah.md) _Context: Lebanon, Prime Minister_
+6. [ 2008 unrest in Lebanon:  The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/2008-unrest-in-lebanon-p-the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md) _Context: Lebanon, Prime Minister_
+7. [ The United Nations Security Council establishes an international tribunal to try suspects in the killings of Lebanese political figures including the former Prime Minister Rafik Hariri. ](/news/2007/05/30/the-united-nations-security-council-establishes-an-international-tribunal-to-try-suspects-in-the-killings-of-lebanese-political-figures-inc.md) _Context: Lebanon, Prime Minister_
+8. [ Hezbollah members demonstrate their opposition to the Siniora administration in Beirut, Lebanon. ](/news/2006/12/1/hezbollah-members-demonstrate-their-opposition-to-the-siniora-administration-in-beirut-lebanon.md) _Context: Fouad Siniora, Lebanon_
+9. [ Five Shiite ministers resign from the cabinet of Lebanon, complicating the situation for Prime Minister Fouad Siniora. ](/news/2006/11/11/five-shiite-ministers-resign-from-the-cabinet-of-lebanon-complicating-the-situation-for-prime-minister-fouad-siniora.md) _Context: Fouad Siniora, Lebanon_
+10. [ White House Press Secretary Tony Snow said in a statement that "We are therefore increasingly concerned by mounting evidence that the Syrian and Iranian governments, Hezbollah, and their Lebanese allies are preparing plans to topple Lebanon's democratically elected government," and that "We're making it clear to everybody in the region that we think that there ought to be hands off the [Prime Minister Fouad] Siniora government; let them go about and do their business."](/news/2006/11/1/white-house-press-secretary-tony-snow-said-in-a-statement-that-we-are-therefore-increasingly-concerned-by-mounting-evidence-that-the-syria.md) _Context: Fouad Siniora, Lebanon_

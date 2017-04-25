@@ -1,0 +1,23 @@
+### [2013-12-11](/news/2013/12/11/index.md)
+
+# The U.S. National Security Agency is secretly piggybacking on the tools that enable internet advertisers to track consumers, such tools are known as cookies; specifically, Google cookies are being tracked in order to determine targets for hacking. 
+
+
+
+
+### Source:
+
+1. [The Washington Post](http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/10/nsa-uses-google-cookies-to-pinpoint-targets-for-hacking/)
+
+### Related:
+
+1. [PRISM (U.S. government surveillance program):The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/prism-u-s-government-surveillance-program-pthe-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data.md) _Context: Google, National Security Agency_
+2. [The Shadow Brokers group releases files allegedly from the National Security Agency which indicate efforts to monitor financial transactions made through the Society for Worldwide Interbank Financial Telecommunication. ](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.md) _Context: National Security Agency_
+3. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Google_
+4. [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md) _Context: National Security Agency_
+5. [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md) _Context: National Security Agency_
+6. [Following his October 5 arrest, U.S. federal prosecutors in Baltimore charge Harold T. Martin III, a former National Security Agency contractor, for violating the Espionage Act, specifically, with felony theft of government property. Prosecutors state that, over a 20-year time period, Martin stole at least 50 terabytes of data and "six full bankers boxes" of classified and other documents. The prosecutors state that Martin had an "arsenal" of weapons in his home. ](/news/2016/10/20/following-his-october-5-arrest-u-s-federal-prosecutors-in-baltimore-charge-harold-t-martin-iii-a-former-national-security-agency-contrac.md) _Context: National Security Agency_
+7. [Google introduces a so-called "fact checking" feature on its news aggregate service to combat alleged political bias. ](/news/2016/10/15/google-introduces-a-so-called-fact-checking-feature-on-its-news-aggregate-service-to-combat-alleged-political-bias.md) _Context: Google_
+8. [Warner Brothers is accused of self-censorship after it tagged its own websites for copyright infringement through the search engine Google. ](/news/2016/09/6/warner-brothers-is-accused-of-self-censorship-after-it-tagged-its-own-websites-for-copyright-infringement-through-the-search-engine-google.md) _Context: Google_
+9. [The U.S. House Intelligence Committee releases a summary of its two-year investigation into former NSA contractor Edward Snowden which downplays his alleged status as a whistleblower while acknowledging "tremendous damage to national security" as a result of the classified documents he stole. ](/news/2016/09/15/the-u-s-house-intelligence-committee-releases-a-summary-of-its-two-year-investigation-into-former-nsa-contractor-edward-snowden-which-downp.md) _Context: National Security Agency_
+10. [The U.S. National Security Agency's website goes down amid hacking fears. ](/news/2016/08/17/the-u-s-national-security-agency-s-website-goes-down-amid-hacking-fears.md) _Context: National Security Agency_

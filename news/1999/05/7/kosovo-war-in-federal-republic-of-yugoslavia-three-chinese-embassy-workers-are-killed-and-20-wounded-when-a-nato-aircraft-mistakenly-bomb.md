@@ -1,0 +1,19 @@
+### [1999-05-7](/news/1999/05/7/index.md)
+
+#  Kosovo War: In Federal Republic of Yugoslavia, three Chinese embassy workers are killed and 20 wounded when a NATO aircraft mistakenly bombs the Chinese embassy in Belgrade.
+
+
+
+
+### Related:
+
+1. [NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-years-after-the-countr.md) _Context: Federal Republic of Yugoslavia, Kosovo War, NATO_
+2. [ Kosovo War: Federal Republic of Yugoslavia and NATO sign a peace treaty.](/news/1999/06/9/kosovo-war-federal-republic-of-yugoslavia-and-nato-sign-a-peace-treaty.md) _Context: Federal Republic of Yugoslavia, Kosovo War, NATO_
+3. [ In Belgrade, tens of thousands of Serbians rally to demand the resignation of Yugoslav President Slobodan Milosevic](/news/1999/08/19/in-belgrade-tens-of-thousands-of-serbians-rally-to-demand-the-resignation-of-yugoslav-president-slobodan-miloa-evia.md) _Context: Belgrade, Federal Republic of Yugoslavia_
+4. [ Kosovo War: Operation Joint Guardian begins - NATO-led United Nations peacekeeping force KFOR enter the province of Kosovo in Federal Republic of Yugoslavia.](/news/1999/06/12/kosovo-war-operation-joint-guardian-begins-nato-led-united-nations-peacekeeping-force-kfor-enter-the-province-of-kosovo-in-federal-repub.md) _Context: Federal Republic of Yugoslavia, NATO_
+5. [ NATO launches air strikes in Federal Republic of Yugoslavia which was force to sign a peace treaty. This marks the first time NATO attacked a sovereign country](/news/1999/03/24/nato-launches-air-strikes-in-federal-republic-of-yugoslavia-which-was-force-to-sign-a-peace-treaty-this-marks-the-first-time-nato-attacked.md) _Context: Federal Republic of Yugoslavia, NATO_
+6. [Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. ](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.md) _Context: China's_
+7. [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md) _Context: China's_
+8. [At a NATO meeting, German foreign minister Sigmar Gabriel rejects as "quite unrealistic" the belief that Germany would spend 2% of GDP on the military. He says other spending such as development aid should be taken into account. ](/news/2017/03/31/at-a-nato-meeting-german-foreign-minister-sigmar-gabriel-rejects-as-quite-unrealistic-the-belief-that-germany-would-spend-2-of-gdp-on-th.md) _Context: NATO_
+9. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: NATO_
+10. [Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. ](/news/2017/03/18/eight-hundred-british-army-troops-arrive-in-estonia-as-part-of-nato-s-enhanced-forward-presence-to-deter-russian-aggression-in-eastern-europ.md) _Context: NATO_

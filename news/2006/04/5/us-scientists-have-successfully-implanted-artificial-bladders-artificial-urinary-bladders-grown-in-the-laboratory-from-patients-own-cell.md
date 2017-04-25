@@ -1,0 +1,16 @@
+### [2006-04-5](/news/2006/04/5/index.md)
+
+#  US scientists have successfully implanted artificial bladders (artificial urinary bladders) grown in the laboratory from patients' own cells into patients. 
+
+
+
+
+### Source:
+
+1. [ (VoA](http://www.voanews.com/english/2006-04-05-voa35.cfm)
+
+### Related:
+
+1. [ The first successful trachea transplant using a tissue-engineered organ is performed in Spain. ](/news/2008/11/19/the-first-successful-trachea-transplant-using-a-tissue-engineered-organ-is-performed-in-spain.md) _Context: transplant_
+2. [ An Australian girl spontaneously switches blood types and adopts her donor's immune system following a liver transplant in the first known case of its type.  ](/news/2008/01/24/an-australian-girl-spontaneously-switches-blood-types-and-adopts-her-donor-s-immune-system-following-a-liver-transplant-in-the-first-known.md) _Context: transplant_
+3. [ Japanese researchers have reversed diabetes of a female patient with transplantation of pancreatic cells from her mother. ](/news/2005/04/19/japanese-researchers-have-reversed-diabetes-of-a-female-patient-with-transplantation-of-pancreatic-cells-from-her-mother.md) _Context: transplant_

@@ -1,0 +1,25 @@
+### [2013-08-14](/news/2013/08/14/index.md)
+
+# Rockets are fired from Gaza at civilians in the Sha'ar HaNegev regional council, in response an Israeli Air Force airstrike targeted concealed rocket launchers in the Northern Gaza Strip.
+
+Air force hits concealed rocket launchers hours after projectiles from the Strip fired into Israel 
+
+
+### Source:
+
+1. [The Australian](http://www.theaustralian.com.au/news/breaking-news/iraq-bombings-kill-14-police/story-fn3dxix6-1226697502604)
+2. [The Times of Israel](http://www.timesofisrael.com/idf-launches-airstrike-after-gaza-rockets-target-israel/)
+3. [International Business Times](http://www.ibtimes.co.uk/articles/498902/20130814/israel-airstrike-gaza-palestine-peace-talks-idf.htm)
+
+### Related:
+
+1. [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md) _Context: Israeli Air Force_
+2. [The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. ](/news/2017/03/17/the-israeli-air-force-launches-several-airstrikes-on-targets-inside-syria-and-for-the-first-time-publicly-claims-responsibility-syrian-ai.md) _Context: Israeli Air Force_
+3. [An Israeli Air Force F-16 crashes while attempting to land at Ramon Airbase in southern Israel, killing the pilot. A navigator who was also in the aircraft successfully ejects and escapes the incident unharmed. ](/news/2016/10/5/an-israeli-air-force-f-16-crashes-while-attempting-to-land-at-ramon-airbase-in-southern-israel-killing-the-pilot-a-navigator-who-was-also.md) _Context: Israeli Air Force_
+4. [Israeli Air Force planes hit two Hamas targets in Gaza in retaliation for rocket fire from the Palestinian territory. ](/news/2015/12/13/israeli-air-force-planes-hit-two-hamas-targets-in-gaza-in-retaliation-for-rocket-fire-from-the-palestinian-territory.md) _Context: Israeli Air Force_
+5. [The Israeli Air Force reportedly conducts an airstrike near Damascus International Airport, in Syria's capital, the target apparently a weapons shipment reportedly intended for Lebanese terrorist organization Hezbollah, according to Syrian opposition groups. ](/news/2015/11/11/the-israeli-air-force-reportedly-conducts-an-airstrike-near-damascus-international-airport-in-syria-s-capital-the-target-apparently-a-weap.md) _Context: Israeli Air Force_
+6. [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md) _Context: Israeli Air Force_
+7. [The Israeli Air Force bombs two Syrian Armed Forces bases near Damascus and the town of Dimas, according to Russian and Syrian sources. ](/news/2014/12/7/the-israeli-air-force-bombs-two-syrian-armed-forces-bases-near-damascus-and-the-town-of-dimas-according-to-russian-and-syrian-sources.md) _Context: Israeli Air Force_
+8. [Izz ad-Din al-Qassam Brigades, the military wing of Hamas claims responsibility for the over 80 rockets fired into southern Israel Monday evening; the Israeli Air Force carries out overnight airstrikes killing nine Palestinian militants. In response to escalating rocket fire, the Israel Defense Forces calls up 1,500 reservists as southern towns declare a state of emergency.  ](/news/2014/07/7/izz-ad-din-al-qassam-brigades-the-military-wing-of-hamas-claims-responsibility-for-the-over-80-rockets-fired-into-southern-israel-monday-ev.md) _Context: Israeli Air Force_
+9. [Operation Protective Edge:The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/operation-protective-edge-pthe-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-ov.md) _Context: Israeli Air Force_
+10. [Arab-Israeli conflict:Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arabaisraeli-conflict-pisraeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-d.md) _Context: Israeli Air Force_

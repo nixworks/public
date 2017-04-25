@@ -1,0 +1,15 @@
+### [2015-03-4](/news/2015/03/4/index.md)
+
+# At least 33 miners die in a suspected gas explosion at the Zasyadko coal mine in rebel-held Donetsk region of Ukraine. 
+
+At least 30 miners are feared dead in a suspected methane gas blast at a coal mine in a rebel-held region of eastern Ukraine.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-31725243)
+2. [Reuters via News24](http://www.news24.com/news24/World/News/Thirty-three-miners-killed-in-Ukraine-20150304)
+
+### Related:
+
+1. [ Four people are killed at the Zasyadko coal mine in eastern Ukraine where 101 people were killed twelve days earlier in the country's worst mining accident. ](/news/2007/12/2/four-people-are-killed-at-the-zasyadko-coal-mine-in-eastern-ukraine-where-101-people-were-killed-twelve-days-earlier-in-the-country-s-worst.md) _Context: Zasyadko coal mine_

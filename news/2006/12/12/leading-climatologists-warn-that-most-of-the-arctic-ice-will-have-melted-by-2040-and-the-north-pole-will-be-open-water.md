@@ -1,0 +1,23 @@
+### [2006-12-12](/news/2006/12/12/index.md)
+
+#  Leading climatologists warn that most of the Arctic ice will have melted by 2040 and the North Pole will be open water. 
+
+News and opinion from The Times &amp; The Sunday Times
+
+
+### Source:
+
+1. [The Times](http://www.timesonline.co.uk/article/0,,3-2499663,00.html)
+
+### Related:
+
+1. [The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around {{convert|-20|F|C}}. Temperatures around the North Pole have surpassed the {{convert|32|F|C}} threshold for a brief moment, according to the  U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is {{convert|50|F-change|1}} higher than usual for December. ](/news/2015/12/30/the-freak-weather-system-responsible-for-heavy-rain-and-tornadoes-in-the-u-s-and-high-winds-and-rainfall-in-the-british-isles-also-has-im.md) _Context: Arctic, North Pole_
+2. [A Russian Airborne Troops spokesman says the VDV is planning to expand their military exercises into the North Pole area of the Arctic in 2016. ](/news/2015/11/30/a-russian-airborne-troops-spokesman-says-the-vdv-is-planning-to-expand-their-military-exercises-into-the-north-pole-area-of-the-arctic-in-20.md) _Context: Arctic, North Pole_
+3. [ Stephen Harper, the Prime Minister of Canada tours the Arctic regions of Canada to assert wider claims of sovereignty over the region following a recent claim by Russia to the North Pole. ](/news/2007/08/9/stephen-harper-the-prime-minister-of-canada-tours-the-arctic-regions-of-canada-to-assert-wider-claims-of-sovereignty-over-the-region-follo.md) _Context: Arctic, North Pole_
+4. [ 2007 Russian North Pole expedition: A Russian expedition with the aim of claiming petroleum beneath the Arctic reaches the North Pole. ](/news/2007/08/1/2007-russian-north-pole-expedition-a-russian-expedition-with-the-aim-of-claiming-petroleum-beneath-the-arctic-reaches-the-north-pole.md) _Context: Arctic, North Pole_
+5. [A report from  the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to  accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures,  while efforts trying to attribute droughts and extreme rainfall has medium confidence. ](/news/2016/03/11/a-report-from-the-national-academies-of-sciences-engineering-and-medicine-states-climate-science-progress-makes-it-possible-to-accuratel.md) _Context: climate science_
+6. [An avalanche in Svalbard,  a Norwegian Arctic archipelago, kills one and injures nine others as the snow smashes into 10 houses in Longyearbyen. The deluge from Sukkertoppen mountain follows Friday's  60 mph storm that ripped off a school roof and temporarily closed the airport. Dozens of homes at the foot of the mountain were evacuated and all of the area's residents have been located, according to Tone Hertzberg, a spokeswoman for Svalbard's governor. Experts from Norges Geotekniske Institutt are examining nearby slopes. ](/news/2015/12/20/an-avalanche-in-svalbard-a-norwegian-arctic-archipelago-kills-one-and-injures-nine-others-as-the-snow-smashes-into-10-houses-in-longyearb.md) _Context: Arctic_
+7. [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of  "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md) _Context: Arctic_
+8. [Authorized by the United Nations Convention on the Law of the Sea, Denmark becomes the first country to officially submit a claim on the North Pole. ](/news/2014/12/15/authorized-by-the-united-nations-convention-on-the-law-of-the-sea-denmark-becomes-the-first-country-to-officially-submit-a-claim-on-the-nor.md) _Context: North Pole_
+9. [President of Russia Vladimir Putin announces a policy mandate that increases military focus in the Arctic. ](/news/2013/12/11/president-of-russia-vladimir-putin-announces-a-policy-mandate-that-increases-military-focus-in-the-arctic.md) _Context: Arctic_
+10. [A researcher at the University of Cambridge predicts that in about four years, the Arctic polar ice cap will melt completely during the summer months. ](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.md) _Context: North Pole_

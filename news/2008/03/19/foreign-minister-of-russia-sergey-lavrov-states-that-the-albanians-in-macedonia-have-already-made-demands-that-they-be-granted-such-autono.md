@@ -1,0 +1,24 @@
+### [2008-03-19](/news/2008/03/19/index.md)
+
+#  Foreign Minister of Russia Sergey Lavrov states that "the Albanians in Macedonia have already made demands that they be granted such autonomy...which could be seen as a move towards independence." The Foreign Ministry also linked the events in Tibet with the declaration of independence by Kosovo, showing a growing movement of groups seeking independence. 
+
+
+
+
+### Source:
+
+1. [Ria Novosti](http://en.rian.ru/russia/20080318/101564953.html)
+2. [Makfax](http://makfax.com.mk/look/novina/article.tpl?IdLanguage=1&IdPublication=2&NrArticle=105436&NrIssue=611&NrSection=10&search_x=10&search_y=2)
+
+### Related:
+
+1. [Sergey Lavrov, the Foreign Minister of Russia, says that Russia's bombing campaign will continue until terrorist organisations like ISIL and Jabhat al-Nusra are defeated; the Syrian opposition's High Negotiations Committee has voiced outrage at an ongoing government offensive backed by Russian air power and called for a halt to air strikes against civilians, among other demands. ](/news/2016/02/3/sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-s-bombing-campaign-will-continue-until-terrorist-organisations-like-isil-and.md) _Context: Foreign Minister of Russia, Sergey Lavrov_
+2. [2014 Crimean crisis:Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-psergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _Context: Foreign Minister of Russia, Sergey Lavrov_
+3. [Sergey Lavrov, the Foreign Minister of Russia, visits Damascus to hold discussions with the President of Syria Bashar al-Assad about the current violence. ](/news/2012/02/7/sergey-lavrov-the-foreign-minister-of-russia-visits-damascus-to-hold-discussions-with-the-president-of-syria-bashar-al-assad-about-the-cur.md) _Context: Foreign Minister of Russia, Sergey Lavrov_
+4. [ Russia and the United States will continue talks on Aleppo after talks between the U.S. Secretary of State John Kerry and Foreign Minister Sergey Lavrov. ](/news/2016/12/9/russia-and-the-united-states-will-continue-talks-on-aleppo-after-talks-between-the-u-s-secretary-of-state-john-kerry-and-foreign-minister.md) _Context: Sergey Lavrov_
+5. [After 35 Russian diplomats are expelled from the United States, Russia's foreign minister Sergey Lavrov recommends expelling 35 American diplomats. Russian President Vladimir Putin rejects Lavrov's recommendation and expresses a desire to restore relations between the two countries. ](/news/2016/12/30/after-35-russian-diplomats-are-expelled-from-the-united-states-russia-s-foreign-minister-sergey-lavrov-recommends-expelling-35-american-dip.md) _Context: Sergey Lavrov_
+6. [Russia-United States relations,  U.S. Secretary of State John Kerry leaves for Moscow for talks on Syria and Ukraine with Russian President Vladimir Putin and Foreign Minister Sergey Lavrov on  Wednesday. Kerry is also  expected to discuss the case of Ukrainian pilot Nadiya Savchenko,  who today was sentenced to 22 years in prison in the city of Donetsk. ](/news/2016/03/22/russiaaunited-states-relations-u-s-secretary-of-state-john-kerry-leaves-for-moscow-for-talks-on-syria-and-ukraine-with-russian-presiden.md) _Context: Sergey Lavrov_
+7. [U.S. Secretary of State John Kerry says  a tentative  ceasefire agreement  reached with Russian Foreign Minister Sergey Lavrov  is now being presented  to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being.md) _Context: Sergey Lavrov_
+8. [Two shells hit the Russian embassy in Syria's capital Damascus, as hundreds of pro-government supporters rallied outside in support of Russian airstrikes. Russian Foreign Minister Sergey Lavrov described the shelling as "a terrorist act." ](/news/2015/10/13/two-shells-hit-the-russian-embassy-in-syria-s-capital-damascus-as-hundreds-of-pro-government-supporters-rallied-outside-in-support-of-russi.md) _Context: Sergey Lavrov_
+9. [Russian Foreign Minister Sergey Lavrov says that Russia now formally recognizes Petro Poroshenko as the legitimate President of Ukraine in the hope that Poroshenko will "live up to Russia's trust." ](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.md) _Context: Sergey Lavrov_
+10. [Russian foreign minister Sergey Lavrov rules out any fresh talks in Geneva to defuse the crisis unless pro-Russian groups are also involved. ](/news/2014/05/6/russian-foreign-minister-sergey-lavrov-rules-out-any-fresh-talks-in-geneva-to-defuse-the-crisis-unless-pro-russian-groups-are-also-involved.md) _Context: Sergey Lavrov_

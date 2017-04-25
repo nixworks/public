@@ -1,0 +1,23 @@
+### [2017-04-19](/news/2017/04/19/index.md)
+
+# The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-france-election-idUSKBN17L0MY?il=0)
+
+### Related:
+
+1. [New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-macron-and-marine-le-pen-ahead-of-the.md) _Context: Emmanuel Macron, French presidential election, 2017, Marine Le Pen_
+2. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: Emmanuel Macron, French presidential election, 2017, Marine Le Pen_
+3. [Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for-the-second-round.md) _Context: Emmanuel Macron, Marine Le Pen_
+4. [The campaign period officially ends. French citizens living overseas begin voting a day ahead of when the polls open in France. Final opinion polling gives Emmanuel Macron a slight lead over Marine Le Pen. Francois Fillon and Jean-Luc Melenchon are close behind. ](/news/2017/04/22/the-campaign-period-officially-ends-french-citizens-living-overseas-begin-voting-a-day-ahead-of-when-the-polls-open-in-france-final-opinio.md) _Context: Emmanuel Macron, Marine Le Pen_
+5. [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md) _Context: Emmanuel Macron, French presidential election, 2017_
+6. [Francois Bayrou drops out in an effort to boost Emmanuel Macron. ](/news/2017/02/22/franassois-bayrou-drops-out-in-an-effort-to-boost-emmanuel-macron.md) _Context: Emmanuel Macron, French presidential election, 2017_
+7. [Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md) _Context: Marine Le Pen_
+8. [Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md) _Context: French presidential election, 2017_
+9. [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md) _Context: European Commission_
+10. [The European Commission blocks the third attempt of the London Stock Exchange and Deutsche Borse at a merger, citing the danger of a "de facto monopoly in the crucial area of fixed income instruments". ](/news/2017/03/29/the-european-commission-blocks-the-third-attempt-of-the-london-stock-exchange-and-deutsche-baprse-at-a-merger-citing-the-danger-of-a-de-fa.md) _Context: European Commission_

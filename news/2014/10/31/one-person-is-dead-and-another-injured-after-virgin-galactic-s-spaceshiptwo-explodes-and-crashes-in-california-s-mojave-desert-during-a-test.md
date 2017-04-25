@@ -1,0 +1,25 @@
+### [2014-10-31](/news/2014/10/31/index.md)
+
+# One person is dead and another injured after Virgin Galactic's SpaceShipTwo explodes and crashes in California's Mojave Desert during a test flight of the spaceplane. 
+
+
+
+
+### Source:
+
+1. [ABC News](http://abcnews.go.com/Technology/dead-injured-virgin-galactic-spacecraft-crash/story?id=26608625)
+2. [The Bakersfield Californian](http://www.bakersfieldcalifornian.com/local/x1143260271/SpaceShipTwo-experiences-in-flight-anomaly)
+3. [BBC](http://www.bbc.co.uk/news/world-us-canada-29857182)
+
+### Related:
+
+1. [Virgin Group chairman Richard Branson opens the world's first commercial spaceport, Spaceport America, in the U.S. state of New Mexico. The SpaceShipTwo spaceplane is expected to begin commercial flights from the spaceport by 2013. ](/news/2011/10/17/virgin-group-chairman-richard-branson-opens-the-world-s-first-commercial-spaceport-spaceport-america-in-the-u-s-state-of-new-mexico-the.md) _Context: SpaceShipTwo, spaceplane_
+2. [The Boeing X-37B, a United States Air Force unmanned spaceplane, lands autonomously at Vandenberg Air Force Base, California, at 1:16am PST (0916 UTC) after 7 1/2 months in space. ](/news/2010/12/3/the-boeing-x-37b-a-united-states-air-force-unmanned-spaceplane-lands-autonomously-at-vandenberg-air-force-base-california-at-1-16am-pst.md) _Context: California, spaceplane_
+3. [Virgin Galactic's SpaceShipTwo is shown on its maiden flight from the Mojave Air and Spaceport in Mojave, California, United States. ](/news/2010/03/23/virgin-galactic-s-spaceshiptwo-is-shown-on-its-maiden-flight-from-the-mojave-air-and-spaceport-in-mojave-california-united-states.md) _Context: SpaceShipTwo, Virgin Galactic's_
+4. [ Scaled Composites SpaceShipTwo, the world's first commercial spacecraft, is officially unveiled in the Mojave Desert, California. ](/news/2009/12/8/scaled-composites-spaceshiptwo-the-world-s-first-commercial-spacecraft-is-officially-unveiled-in-the-mojave-desert-california.md) _Context: California, Mojave Desert_
+5. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
+6. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: California_
+7. [A California storm in the Calaveras Big Trees State Park fells the 1,000-year-old American tree, the Pioneer Cabin Tree. ](/news/2017/01/9/a-california-storm-in-the-calaveras-big-trees-state-park-fells-the-1-000-year-old-american-tree-the-pioneer-cabin-tree.md) _Context: California_
+8. [Yes California, the campaign to reinstate the independence of California launches its signature campaign. ](/news/2017/01/27/yes-california-the-campaign-to-reinstate-the-independence-of-california-launches-its-signature-campaign.md) _Context: California_
+9. [California Governor Jerry Brown declares a state of emergency in 50 counties, as winter storms kill four and cause millions of dollars in damage. ](/news/2017/01/24/california-governor-jerry-brown-declares-a-state-of-emergency-in-50-counties-as-winter-storms-kill-four-and-cause-millions-of-dollars-in-da.md) _Context: California_
+10. [Uber suspends tests of its self-driving cars in San Francisco, California, after the California Department of Motor Vehicles revoked the registration of the vehicles in the state in response to two red-light violations. ](/news/2016/12/21/uber-suspends-tests-of-its-self-driving-cars-in-san-francisco-california-after-the-california-department-of-motor-vehicles-revoked-the-reg.md) _Context: California_

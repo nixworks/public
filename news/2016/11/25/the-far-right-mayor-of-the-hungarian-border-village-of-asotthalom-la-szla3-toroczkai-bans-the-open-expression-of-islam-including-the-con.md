@@ -1,0 +1,23 @@
+### [2016-11-25](/news/2016/11/25/index.md)
+
+# The far-right mayor of the Hungarian border village of Asotthalom, Laszlo Toroczkai, bans the open expression of Islam, including the construction of mosques and wearing of veils and headscarves, and the promotion of same-sex marriages. 
+
+The far-right mayor of a southern Hungarian village has banned the open expression of Islam, including the building of mosques and wearing of veils and headscarves, as well as the promotion of same-sex marriages.
+
+
+### Source:
+
+1. [RT](https://www.rt.com/news/368202-burqas-mosques-gay-banned-hungarian)
+
+### Related:
+
+1. [Strong winds cause a construction crane collapse at the Masjid al-Haram mosque killing 107 people and injuring 283 others. Most of the people killed were on the annual Islamic hajj (pilgrimage) to Mecca. ](/news/2015/09/11/strong-winds-cause-a-construction-crane-collapse-at-the-masjid-al-haram-mosque-killing-107-people-and-injuring-283-others-most-of-the-peopl.md) _Context: Islam, mosque_
+2. [David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. ](/news/2010/08/18/david-paterson-governor-of-the-u-s-state-of-new-york-is-to-discuss-relocating-the-controversial-park51-islamic-community-centre-and-mosqu.md) _Context: Islam, mosque_
+3. [The National Assembly of Hungary passes a bill that undermines the functioning of the Central European University (CEU). Academics and academic institutions worldwide have expressed support for CEU. ](/news/2017/04/4/the-national-assembly-of-hungary-passes-a-bill-that-undermines-the-functioning-of-the-central-european-university-ceu-academics-and-acade.md) _Context: Hungary_
+4. [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _Context: Hungary_
+5. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: mosque_
+6. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Hungary_
+7. [  A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _Context: mosque_
+8. [Jakarta Governor Basuki Tjahaja Purnama (Ahok)  pleads not guilty  to charges of blaspheming Islam  during a September 27 campaign speech. Ahok is an  ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-a.md) _Context: Islam_
+9. [The National Assembly rejects Hungarian Prime Minister Viktor Orban's bill to block the settlement of refugees in Hungary. The far-right Jobbik party abstained from the vote, arguing the immigration ban should apply to all foreigners, and not just refugees. ](/news/2016/11/8/the-national-assembly-rejects-hungarian-prime-minister-viktor-orba-n-s-bill-to-block-the-settlement-of-refugees-in-hungary-the-far-right-jo.md) _Context: Hungary_
+10. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: mosque_

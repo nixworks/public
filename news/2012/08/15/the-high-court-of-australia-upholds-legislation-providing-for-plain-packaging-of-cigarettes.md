@@ -1,0 +1,23 @@
+### [2012-08-15](/news/2012/08/15/index.md)
+
+# The High Court of Australia upholds legislation providing for plain packaging of cigarettes. 
+
+Australia&amp;#39;s High Court has upheld the world&amp;#39;s toughest laws on cigarette marketing, dismissing a legal challenge from tobacco companies in a major test case. Tobacco giants British American Tobacco, Britain&amp;#39;s Imperial Tobacco, Philip Morris and Japan Tobacco challenged the laws passed by parliament to ban logos and branding appearing on cigarette packages in Australia&amp;#39;s High Court. They said the new rules were unconstitutional because they infringed on their intellectual property rights. The seven judges did not agree and so from December 1 this year all cigarettes and tobacco products must be sold in plain olive green packets without branding. The packets will carry graphic health warnings. 
+
+
+### Source:
+
+1. [ITV News](http://www.itv.com/news/2012-08-15/australia-calls-on-rest-of-world-to-stand-up-to-big-tobacco/)
+
+### Related:
+
+1. [The High Court of Australia rules that Rod Culleton was ineligible for election as a candidate for Pauline Hanson's One Nation Party in Western Australia in the Federal election and is ineligible to serve in the Senate of Australia. ](/news/2017/02/3/the-high-court-of-australia-rules-that-rod-culleton-was-ineligible-for-election-as-a-candidate-for-pauline-hanson-s-one-nation-party-in-west.md) _Context: High Court of Australia_
+2. [British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. ](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-cigarette-maker-reynolds-american-inc-in-a-47-billion-takeover-that-would-create-the-world.md) _Context: cigarette_
+3. [The High Court of Australia rules that the breast cancer gene BRCA-1 cannot be patented and the patent claimed by Myriad Genetics is invalid. ](/news/2015/10/7/the-high-court-of-australia-rules-that-the-breast-cancer-gene-brca-1-cannot-be-patented-and-the-patent-claimed-by-myriad-genetics-is-invalid.md) _Context: High Court of Australia_
+4. [The U.S. Food and Drug Administration orders R. J. Reynolds Tobacco Company to stop further U.S. sale and distribution of four cigarette products because they may be more dangerous than similar older cigarettes. ](/news/2015/09/15/the-u-s-food-and-drug-administration-orders-r-j-reynolds-tobacco-company-to-stop-further-u-s-sale-and-distribution-of-four-cigarette-pro.md) _Context: cigarette_
+5. [The High Court of Australia finds that a group of 157 Sri Lankan asylum seekers were legally detained by Australian authorities at sea. The government acted lawfully and the group is not entitled to damages. ](/news/2015/01/28/the-high-court-of-australia-finds-that-a-group-of-157-sri-lankan-asylum-seekers-were-legally-detained-by-australian-authorities-at-sea-the.md) _Context: High Court of Australia_
+6. [The High Court of Australia recognises a neutral third gender that is neither male nor female. ](/news/2014/04/2/the-high-court-of-australia-recognises-a-neutral-third-gender-that-is-neither-male-nor-female.md) _Context: High Court of Australia_
+7. [Australian federal election, 2013:The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/australian-federal-election-2013-pthe-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-me.md) _Context: High Court of Australia_
+8. [Justice Kenneth Hayne of the High Court of Australia voids the Senate election in the state of Western Australia due to the loss of ballot papers in a very close election. ](/news/2014/02/18/justice-kenneth-hayne-of-the-high-court-of-australia-voids-the-senate-election-in-the-state-of-western-australia-due-to-the-loss-of-ballot-p.md) _Context: High Court of Australia_
+9. [Australia's High Court rules same-sex marriages held in the country are invalid. ](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.md) _Context: High Court of Australia_
+10. [The Australian Electoral Commission petitions the High Court of Australia for a new Senate election in the state of Western Australia due to the loss of 1,370 ballot papers and the closeness of the result. ](/news/2013/11/15/the-australian-electoral-commission-petitions-the-high-court-of-australia-for-a-new-senate-election-in-the-state-of-western-australia-due-to.md) _Context: High Court of Australia_

@@ -1,0 +1,23 @@
+### [2016-08-23](/news/2016/08/23/index.md)
+
+# A U.S. service member becomes the first U.S. military combat casualty in Afghanistan since January 2016 when he is killed by an improvised explosive device (IED) while on patrol near the city of Lashkar Gah in Afghanistan's southern Helmand Province. Another American service member and six Afghan soldiers were also injured in the blast. 
+
+A U.S. service member was killed after their patrol triggered an improvised explosive device in Afghanistan on Tuesday, officials said.
+
+
+### Source:
+
+1. [NBC News](http://www.nbcnews.com/news/world/ied-kills-u-s-service-member-patrol-helmand-afghanistan-n636416)
+
+### Related:
+
+1. [The United States sends more troops to Afghanistan's southern Helmand province to shore up security forces who are facing sustained attacks from the Taliban. ](/news/2016/02/9/the-united-states-sends-more-troops-to-afghanistan-s-southern-helmand-province-to-shore-up-security-forces-who-are-facing-sustained-attacks.md) _Context: Afghan, Helmand Province, United States, War in Afghanistan_
+2. [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md) _Context: Afghan, Helmand Province, War in Afghanistan_
+3. [A suicide bombing kills at least 14 people, mostly police officers, in Lashkargah, Helmand Province, as Taliban insurgents advance upon the Afghan city. ](/news/2016/10/10/a-suicide-bombing-kills-at-least-14-people-mostly-police-officers-in-lashkargah-helmand-province-as-taliban-insurgents-advance-upon-the.md) _Context: Afghan, Helmand Province, War in Afghanistan_
+4. [Afghan officials say yesterday's U.S. airstrikes killed up to eight Afghan policemen in Lashkar Gah, Uruzgan. ](/news/2016/09/19/afghan-officials-say-yesterday-s-u-s-airstrikes-killed-up-to-eight-afghan-policemen-in-lashkar-gah-uruzgan.md) _Context: Afghan, Lashkar Gah, War in Afghanistan_
+5. [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md) _Context: Afghan, Helmand Province, War in Afghanistan_
+6. [A United States Army soldier is killed and two others wounded in a joint operation with Afghan National Security Forces in Afghanistan's southern Helmand Province. ](/news/2016/01/5/a-united-states-army-soldier-is-killed-and-two-others-wounded-in-a-joint-operation-with-afghan-national-security-forces-in-afghanistan-s-sou.md) _Context: Afghan, Helmand Province, War in Afghanistan_
+7. [A suicide-bomb attack on a joint Afghan-U.S. patrol near Bagram Air Base in Afghanistan's Parwan Province, kills at least six U.S. soldiers and wounds another six. The Taliban's spokesman, Zabiullah Mujahid, claims responsibility for the attack in a message on Twitter. ](/news/2015/12/21/a-suicide-bomb-attack-on-a-joint-afghan-u-s-patrol-near-bagram-air-base-in-afghanistan-s-parwan-province-kills-at-least-six-u-s-soldiers.md) _Context: Afghan, United States, War in Afghanistan_
+8. [Medecins Sans Frontieres (Doctors without Borders) calls for activating the International Humanitarian Fact-Finding Commission - for the first time since its 1991 creation under the Geneva Conventions - to investigate the deadly U.S. bombing of MSF's hospital in Kunduz, Afghanistan. MSF says it does not trust internal military inquiries into the bombing that killed at least 22 people, which it considers a war crime. ](/news/2015/10/7/ma-c-decins-sans-frontia-res-doctors-without-borders-calls-for-activating-the-international-humanitarian-fact-finding-commission-a-for-the.md) _Context: Afghan, United States, War in Afghanistan_
+9. [A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md) _Context: Afghan, United States, War in Afghanistan_
+10. [At least ten Afghan police officers are killed in a Taliban attack on checkpoints in Helmand Province. ](/news/2015/05/24/at-least-ten-afghan-police-officers-are-killed-in-a-taliban-attack-on-checkpoints-in-helmand-province.md) _Context: Afghan, Helmand Province, War in Afghanistan_

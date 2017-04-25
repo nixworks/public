@@ -1,0 +1,25 @@
+### [2006-05-23](/news/2006/05/23/index.md)
+
+#  Greek and Turkish military F-16 jets collide above Karpathos whilst intercepting each other in the disputed airspace above the southern Aegean Sea. 
+
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/low/world/europe/5008178.stm)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-23T134238Z_01_L23774801_RTRUKOC_0_US-GREECE-TURKEY.xml&archived=False)
+3. [CNN](http://edition.cnn.com/2006/WORLD/europe/05/23/greece.crash.reut/)
+
+### Related:
+
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+2. [ General Akin Ozturk,  Turkish Air Force chief until August 2015, confesses  to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-attempted-coup-d-a-c-tat-according-to.md) _Context: Turkish_
+3. [Turkish Air Force bombs Kurdistan Workers' Party targets in northern Iraq and southeastern Turkey killing at least 27 militants. ](/news/2016/06/5/turkish-air-force-bombs-kurdistan-workers-party-targets-in-northern-iraq-and-southeastern-turkey-killing-at-least-27-militants.md) _Context: Turkish_
+4. [  EgyptAir Flight 804 between Paris and Cairo disappears with 56 passengers and 10 crew onboard. The plane was at 37,000 feet when it disappeared ten minutes before entering Egyptian airspace over the Mediterranean Sea. It is later reported to have crashed off the Greek island of Karpathos. Locals reported seeing a fireball. ](/news/2016/05/19/egyptair-flight-804-between-paris-and-cairo-disappears-with-56-passengers-and-10-crew-onboard-the-plane-was-at-37-000-feet-when-it-disapp.md) _Context: Karpathos_
+5. [Russia says it intercepted a U.S. Air Force plane approaching its border over the Baltic Sea on Friday because the aircraft had turned off its transponder which is needed for identification.  The Pentagon says the U.S. RC-135  was flying a routine route in international airspace when the Russian SU-27 fighter intercepted it in an "unsafe and unprofessional" way. ](/news/2016/04/30/russia-says-it-intercepted-a-u-s-air-force-plane-approaching-its-border-over-the-baltic-sea-on-friday-because-the-aircraft-had-turned-off-i.md) _Context: international airspace_
+6. [At least 25 migrants, including 10 children, drown  after their wooden boat capsizes in the Aegean Sea near the seaside town of Didim, Turkey. The Turkish Coast Guard was able to rescue 15 people. ](/news/2016/03/6/at-least-25-migrants-including-10-children-drown-after-their-wooden-boat-capsizes-in-the-aegean-sea-near-the-seaside-town-of-didim-turke.md) _Context: Aegean Sea_
+7. [ European Union leaders offer Turkey a detailed package of cash and incentives to agree that all migrants attempting to cross the Aegean Sea by raft or boat would be sent back to Turkey which, in effect, becomes the region's migrant holding center. A number of stumbling blocks remain, such as raising the amount of aid from 3 billion euros to at least 6 billion euros; reducing the "72 arduous conditions" the Turks must meet to implement visa-free travel for Turkish citizens;  Europe agrees to  accelerate talks with Ankara on its EU bid; etc.  Human Rights Watch protests the proposed  fast-track collective expulsions that fail to take individual circumstances into account and breach peoples' right to seek asylum. ](/news/2016/03/18/european-union-leaders-offer-turkey-a-detailed-package-of-cash-and-incentives-to-agree-that-all-migrants-attempting-to-cross-the-aegean-sea.md) _Context: Aegean Sea_
+8. [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md) _Context: Turkish_
+9. [At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes  in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near-the-greek-island-of-lesb.md) _Context: Aegean Sea_
+10. [Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-killing-nine-militants-accordi.md) _Context: Turkish_

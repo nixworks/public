@@ -1,0 +1,27 @@
+### [2014-07-23](/news/2014/07/23/index.md)
+
+# 2014 pro-Russian unrest in Ukraine:Pro-Russian separatist commander Alexander Khodakovsky of the Vostok Battalion confirms that the rebels did possess the BUK missile system - believed to have shot down Malaysia Airlines Flight 17 - originating from Russia, and it could have been sent back to Russia subsequently to remove proof of its presence. 
+
+A powerful Ukrainian rebel leader has confirmed that pro-Russian separatists had an anti-aircraft missile of the type Washington says was used to shoot down Malaysia Airlines flight MH17 and it could have originated in Russia.
+
+
+### Source:
+
+1. [Business World Online](http://www.bworldonline.com/content.php?section=World&title=Netherlands-mourns-as-bodies-of-MH17-crash-victims-return&id=91363)
+2. [Reuters](http://www.reuters.com/article/2014/07/23/us-ukraine-crisis-commander-exclusive-idUSKBN0FS1V920140723)
+3. [AP via Chron News](http://www.chron.com/news/world/article/2-Ukrainian-military-fighter-jets-shot-down-5640344.php)
+4. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-troops-free-three-villages-in-donetsk-region-fighting-for-lysychansk-357583.html)
+5. [The Local](http://www.thelocal.ch/20140723/red-cross-declares-civil-war-in-ukraine)
+
+### Related:
+
+1. [Malaysia Airlines Flight 17; Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/malaysia-airlines-flight-17-dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-miss.md) _Context: 2014 pro-Russian unrest in Ukraine, Malaysia Airlines Flight 17_
+2. [2014 pro-Russian unrest in Ukraine: War in Donbass:The Ukrainian government declares a unilateral one-day cease-fire in order to facilitate for a team of forensics experts and crash investigators to reach the site where Malaysia Airlines Flight 17 went down two weeks ago, after days of delay caused by heavy fighting in the area. ](/news/2014/07/31/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pthe-ukrainian-government-declares-a-unilateral-one-day-cease-fire-in-order-to-facilitate.md) _Context: 2014 pro-Russian unrest in Ukraine, Malaysia Airlines Flight 17_
+3. [Fighting restarts near Donetsk as international investigators arrive to examine the crash of Malaysia Airlines Flight 17. ](/news/2014/07/21/fighting-restarts-near-donetsk-as-international-investigators-arrive-to-examine-the-crash-of-malaysia-airlines-flight-17.md) _Context: 2014 pro-Russian unrest in Ukraine, Malaysia Airlines Flight 17_
+4. [Malaysia Airlines Flight 17 and Separatist rebels take all the 196 bodies from Malaysia Airlines Flight 17 to an undisclosed location. ](/news/2014/07/20/malaysia-airlines-flight-17-and-separatist-rebels-take-all-the-196-bodies-from-malaysia-airlines-flight-17-to-an-undisclosed-location.md) _Context: 2014 pro-Russian unrest in Ukraine, Malaysia Airlines Flight 17_
+5. [The Dutch Safety Board releases their final report into the Malaysia Airlines Flight 17 (MH17) disaster that concludes that the flight from Amsterdam to Kuala Lumpur was shot-down by a Russian-made Buk missile system on 17 July 2014 killing 298 people. ](/news/2015/10/13/the-dutch-safety-board-releases-their-final-report-into-the-malaysia-airlines-flight-17-mh17-disaster-that-concludes-that-the-flight-from.md) _Context: Malaysia Airlines Flight 17_
+6. [Debris from a Buk surface-to-air missile is found at an unspecified location in eastern Ukraine. According to the Dutch Safety Board and the Dutch prosecutor overseeing the criminal investigation, it may have come from a Buk (possibly of Russian origin) fired by rebel fighters, accidentally or purposefully, in the downing of Malaysia Airlines Flight 17. The investigation remains classified. ](/news/2015/08/11/debris-from-a-buk-surface-to-air-missile-is-found-at-an-unspecified-location-in-eastern-ukraine-according-to-the-dutch-safety-board-and-the.md) _Context: Malaysia Airlines Flight 17_
+7. [Russia vetoes  a U.N. Security Council resolution that would have established an international criminal tribunal to investigate the downing of Malaysia Airlines Flight 17. ](/news/2015/07/30/russia-vetoes-a-u-n-security-council-resolution-that-would-have-established-an-international-criminal-tribunal-to-investigate-the-downing.md) _Context: Malaysia Airlines Flight 17_
+8. [A preliminary report from the Dutch Safety Board of the investigation of the Malaysia Airlines Flight 17 (MH17) disaster points to pro-Russian rebels as being responsible for the shooting down of the passenger flight on 17 July 2014. ](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.md) _Context: Malaysia Airlines Flight 17_
+9. [Malaysia announces that they will host a memorial for the victims of MH17 on July 11 at Kuala Lumpur International Airport. ](/news/2015/06/27/malaysia-announces-that-they-will-host-a-memorial-for-the-victims-of-mh17-on-july-11-at-kuala-lumpur-international-airport.md) _Context: Malaysia Airlines Flight 17_
+10. [Foreign ministers from members of NATO attend a summit in Belgium to discuss the 2014 pro-Russian unrest in Ukraine and the Islamic State in Iraq and the Levant insurgency. ](/news/2014/12/3/foreign-ministers-from-members-of-nato-attend-a-summit-in-belgium-to-discuss-the-2014-pro-russian-unrest-in-ukraine-and-the-islamic-state-in.md) _Context: 2014 pro-Russian unrest in Ukraine_

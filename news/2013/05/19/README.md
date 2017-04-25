@@ -1,0 +1,50 @@
+## [2013-05-19](/news/2013/05/19/index.md)
+
+### [Syrian civil war:Heavy fighting is reported in Qusair, Syria, as the Syrian army launches a major counter-offensive against rebel forces. ](/news/2013/05/19/syrian-civil-war-pheavy-fighting-is-reported-in-qusair-syria-as-the-syrian-army-launches-a-major-counter-offensive-against-rebel-forces.md)
+Fierce fighting is reported in the strategic Syrian town of Qusair, as rebels and government forces backed by Hezbollah militants fight for control.
+
+### [Taylor Swift wins eight awards, including top album and top artist, at the Billboard Music Awards. ](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.md)
+_Context: Billboard Music Awards, Taylor Swift_
+
+### [''Star Trek Into Darkness'' earns an estimated US$70.6 million during its opening weekend in the US and Canada. ](/news/2013/05/19/star-trek-into-darkness-earns-an-estimated-us-70-6-million-during-its-opening-weekend-in-the-us-and-canada.md)
+_Context: Star Trek Into Darkness, US$_
+
+### [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md)
+A massive tornado rips through neighbourhoods near Oklahoma City, on the second day in a row the state has been pummelled by giant twisters.
+
+### [North Korea fires three short-range guided missiles into its eastern waters. ](/news/2013/05/19/north-korea-fires-three-short-range-guided-missiles-into-its-eastern-waters.md)
+The tests broke the recent relative silence from the North, but the move was much less provocative than what had been feared earlier this year.
+
+### [North Korea captures a Chinese fishing boat and demands a ransom for its return. ](/news/2013/05/19/north-korea-captures-a-chinese-fishing-boat-and-demands-a-ransom-for-its-return.md)
+### [Authorities in hazardous-materials suits search a downtown Spokane, Washington apartment, investigating the recent discovery of two letters containing the deadly poison ricin. ](/news/2013/05/19/authorities-in-hazardous-materials-suits-search-a-downtown-spokane-washington-apartment-investigating-the-recent-discovery-of-two-letters.md)
+FBI agents have searched an apartment in Spokane following the recent discovery of a pair of letters containing the deadly poison ricin.
+
+### [Clashes break out between police and supporters of the Ansar al-Sharia Islamic organization in Tunisia. ](/news/2013/05/19/clashes-break-out-between-police-and-supporters-of-the-ansar-al-sharia-islamic-organization-in-tunisia.md)
+Ansar al-Sharia supporters vent anger at police after they are prevented from defying ban on holding annual congress.
+
+### [Nigel S. Wright resigns as the Chief of Staff to the Prime Minister of Canada as a result of his role in an expenses scandal involving Senator Mike Duffy. ](/news/2013/05/19/nigel-s-wright-resigns-as-the-chief-of-staff-to-the-prime-minister-of-canada-as-a-result-of-his-role-in-an-expenses-scandal-involving-senat.md)
+Nigel Wright, chief of staff of Canadian Prime Minister Stephen Harper, resigns over his role in a growing expenses scandal.
+
+### [US Navy dolphins find a rare nineteenth-century torpedo off the coast of California. ](/news/2013/05/19/us-navy-dolphins-find-a-rare-nineteenth-century-torpedo-off-the-coast-of-california.md)
+The discovery itself is notable enough: Navy specialists found a rare torpedo off the San Diego coast, an 11-foot brass gem that dates back 130 years or so and was one of the first torpedoes to propel itself.
+
+### [In cricket, the Board of Control for Cricket in India holds an emergency meeting to tackle the 2013 Indian Premier League spot-fixing case which has resulted in the arrest of three cricketers and eleven bookmakers. ](/news/2013/05/19/in-cricket-the-board-of-control-for-cricket-in-india-holds-an-emergency-meeting-to-tackle-the-2013-indian-premier-league-spot-fixing-case-w.md)
+_Context: 2013 Indian Premier League spot-fixing case, Board of Control for Cricket in India, Cricket_
+
+### [In golf, Bae Sang-moon wins his first PGA tour event at the Byron Nelson Championship. ](/news/2013/05/19/in-golf-bae-sang-moon-wins-his-first-pga-tour-event-at-the-byron-nelson-championship.md)
+_Context: Bae Sang-moon, Byron Nelson Championship, golf_
+
+### [Sweden defeats Switzerland 5-1 to win the Ice Hockey World Championships. ](/news/2013/05/19/sweden-defeats-switzerland-5-1-to-win-the-ice-hockey-world-championships.md)
+Sweden became the first home team to win the ice hockey world championships in 27 years, coming from behind to beat Switzerland 5-1 in the final on Sunday after Henrik Sedin scored twice.
+
+### [Salisbury University defeats Trinity College 12-5 to win the Division III NCAA women's Lacrosse championship. ](/news/2013/05/19/salisbury-university-defeats-trinity-college-12-5-to-win-the-division-iii-ncaa-women-s-lacrosse-championship.md)
+Salisbury ends undefeated season with Division III women&apos;s lacrosse title
+
+### [Raha Moharrak becomes the first Saudi woman to summit Mount Everest. ](/news/2013/05/19/raha-moharrak-becomes-the-first-saudi-woman-to-summit-mount-everest.md)
+_Context: Mount Everest, Raha Moharrak, Saudi Arabia_
+
+### [Samina Baig becomes the first Pakistani woman to summit Mount Everest. ](/news/2013/05/19/samina-baig-becomes-the-first-pakistani-woman-to-summit-mount-everest.md)
+Samina Baig on 19 May 2013 became the first Pakistani woman to scale Mount Everest. Samina Baig is 22 years of age.
+
+## [Previous Day...](/news/2013/05/18/index.md)
+

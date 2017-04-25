@@ -1,0 +1,23 @@
+### [2013-06-20](/news/2013/06/20/index.md)
+
+# In football, Abby Wambach of the USA breaks the international record for career goals by scoring four goals against South Korea in a friendly match played in Harrison, New Jersey. Wambach's career total stands at 160, passing the 158 of fellow American Mia Hamm. 
+
+
+
+
+### Source:
+
+1. [AP via Yahoo News Canada](http://ca.news.yahoo.com/abby-wambach-breaks-mia-hamms-career-record-goals-012431787.html)
+
+### Related:
+
+1. [In association football, Lionel Messi of Argentina wins the 2012 FIFA Ballon d'Or as the best player for a third consecutive time. Abby Wambach of the United States wins the FIFA Women's World Player of the Year award, the first time in ten years that an American has won the award. ](/news/2013/01/7/in-association-football-lionel-messi-of-argentina-wins-the-2012-fifa-ballon-d-or-as-the-best-player-for-a-third-consecutive-time-abby-wamb.md) _Context: Abby Wambach, U.S. women’s national soccer team players, association football_
+2. [In association football, Lionel Messi of FC Barcelona and Argentina wins the 2015 FIFA Ballon d'Or, for his fifth time. Barca manager Luis Enrique is named FIFA World Coach of the Year for Men's Football. Carli Lloyd of the Houston Dash and the USA is named FIFA Women's World Player of the Year, and USA coach Jill Ellis is named FIFA World Coach of the Year for Women's Football. ](/news/2016/01/11/in-association-football-lionel-messi-of-fc-barcelona-and-argentina-wins-the-2015-fifa-ballon-d-or-for-his-fifth-time-barassa-manager-luis.md) _Context: U.S. women’s national soccer team players, association football_
+3. [In a friendly soccer match in Washington, D.C. organized to celebrate the centennial of the United States Soccer Federation, the USA defeats Germany 4-3. ](/news/2013/06/2/in-a-friendly-soccer-match-in-washington-d-c-organized-to-celebrate-the-centennial-of-the-united-states-soccer-federation-the-usa-defeats.md) _Context: association football, friendly match_
+4. [In association football, Toronto FC play Seattle Sounders FC in the MLS Cup final held at Toronto's BMO Field. The Sounders win 5-4 in a penalty shootout after the game ended scoreless after extra time. It is the Sounders' first MLS title. ](/news/2016/12/10/in-association-football-toronto-fc-play-seattle-sounders-fc-in-the-mls-cup-final-held-at-toronto-s-bmo-field-the-sounders-win-5a4-in-a-p.md) _Context: association football_
+5. [At least 11 people are killed and 16 others are injured after a gunman opens fire on football fans watching an English Premier League game near Juba, South Sudan. ](/news/2016/11/6/at-least-11-people-are-killed-and-16-others-are-injured-after-a-gunman-opens-fire-on-football-fans-watching-an-english-premier-league-game-n.md) _Context: association football_
+6. [Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. ](/news/2016/11/25/four-police-forces-in-england-say-they-are-actively-investigating-allegations-of-child-sexual-abuse-in-association-football-several-ex-play.md) _Context: association football_
+7. [Manchester United complete the signing of Paul Pogba on five-year deal from Juventus for a world record transfer fee of PS89m (EUR105m), making Pogba the most expensive football player ever. ](/news/2016/08/8/manchester-united-complete-the-signing-of-paul-pogba-on-five-year-deal-from-juventus-for-a-world-record-transfer-fee-of-aps89m-a-105m-mak.md) _Context: association football_
+8. [In football, host nation France plays against Portugal for the 2016 UEFA European Championship at the Stade de France in Saint-Denis.  Portugal wins 1-0 with an Eder goal in extra time. ](/news/2016/07/10/in-football-host-nation-france-plays-against-portugal-for-the-2016-uefa-european-championship-at-the-stade-de-france-in-saint-denis-portu.md) _Context: association football_
+9. [In football, Chile wins the Copa America, defeating Argentina in a penalty shootout after regular time and extra time end scoreless. ](/news/2016/06/26/in-football-chile-wins-the-copa-ama-c-rica-defeating-argentina-in-a-penalty-shootout-after-regular-time-and-extra-time-end-scoreless.md) _Context: association football_
+10. [ More details emerge on the rescue of Olympiacos and Mexico international footballer Alan Pulido, kidnapped in Ciudad Victoria on May 28. He escaped by overpowering a captor left alone with him. ](/news/2016/05/30/more-details-emerge-on-the-rescue-of-olympiacos-and-mexico-international-footballer-alan-pulido-kidnapped-in-ciudad-victoria-on-may-28-he.md) _Context: association football_

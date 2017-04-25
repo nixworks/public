@@ -1,0 +1,25 @@
+### [2012-09-3](/news/2012/09/3/index.md)
+
+# South Korea and Japan temporarily halt some military cooperation programs in a long-running dispute over control of the Liancourt Rocks. South Korea's first fleet plans a "biannual" drill around the area from September 7 to 11. 
+
+
+
+
+### Source:
+
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2012/09/02/20/0301000000AEN20120902004051315F.HTML)
+2. [CNTV via Xinhua](http://news.xinhuanet.com/english/video/2012-09/03/c_131824000.htm)
+3. [The Mainichi](http://mainichi.jp/english/english/newsselect/news/20120903p2g00m0dm065000c.html)
+
+### Related:
+
+1. [The South Korean Yonhap news agency reports that the President of South Korea Lee Myung-bak is considering visiting the disputed Liancourt Rocks, which are also claimed by Japan. ](/news/2012/08/10/the-south-korean-yonhap-news-agency-reports-that-the-president-of-south-korea-lee-myung-bak-is-considering-visiting-the-disputed-liancourt-r.md) _Context: Japan, Liancourt Rocks, South Korea_
+2. [Japan renews a territorial claim over Liancourt Rocks (Takeshima/Dokdo), which South Korea also claims to be part of its territory. ](/news/2012/04/6/japan-renews-a-territorial-claim-over-liancourt-rocks-takeshima-dokdo-which-south-korea-also-claims-to-be-part-of-its-territory.md) _Context: Japan, Liancourt Rocks, South Korea_
+3. [ The government of South Korea complains to the Japanese government about a revised set of official Japanese history schoolbooks. The complaint alleges the textbooks whitewash Japan's "imperialist" past, and question Korean sovereignty of the disputed Liancourt Rocks. ](/news/2005/04/5/the-government-of-south-korea-complains-to-the-japanese-government-about-a-revised-set-of-official-japanese-history-schoolbooks-the-compla.md) _Context: Japan, Liancourt Rocks, South Korea_
+4. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan, South Korea_
+5. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: Japan, South Korea_
+6. [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md) _Context: Japan, South Korea_
+7. [Amid growing concern about North Korea's ballistic missile capability, South Korea, Japan and the U.S. are to hold their first ever joint anti-missile exercise next month, according to South Korea's Ministry of National Defense. The three countries will practice "detecting and tracing a hypothetical North Korean missile," said a ministry official. ](/news/2016/05/17/amid-growing-concern-about-north-korea-s-ballistic-missile-capability-south-korea-japan-and-the-u-s-are-to-hold-their-first-ever-joint-an.md) _Context: Japan, South Korea_
+8. [South Korea has determined North Korea is capable of mounting a nuclear warhead on its medium-range Rodong-1 ballistic missile, which could reach all of South Korea and most of Japan, according to a senior government official. ](/news/2016/04/5/south-korea-has-determined-north-korea-is-capable-of-mounting-a-nuclear-warhead-on-its-medium-range-rodong-1-ballistic-missile-which-could.md) _Context: Japan, South Korea_
+9. [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md) _Context: Japan, South Korea_
+10. [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md) _Context: Japan, South Korea_

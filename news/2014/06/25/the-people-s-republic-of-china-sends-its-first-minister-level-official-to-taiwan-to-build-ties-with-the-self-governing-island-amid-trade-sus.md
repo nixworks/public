@@ -1,0 +1,24 @@
+### [2014-06-25](/news/2014/06/25/index.md)
+
+# The People's Republic of China sends its first minister-level official to Taiwan to build ties with the self-governing island amid trade suspicions. 
+
+China sends its first ever ministerial-level official on a charm offensive to Taiwan following mass protests over a proposed trade agreement.
+
+
+### Source:
+
+1. [BBC News](http://www.bbc.co.uk/news/world-asia-28012066)
+2. [AP via Wichita Eagle](http://newsinkansas.com/ap-news-alert-23/)
+
+### Related:
+
+1. [The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowledge-the-one-china-policy.md) _Context: China's, Cross-Strait relations, Taiwan_
+2. [ The People's Republic of China and Taiwan begin their first formal talks in a decade on improving cross-strait relations. ](/news/2008/06/12/the-people-s-republic-of-china-and-taiwan-begin-their-first-formal-talks-in-a-decade-on-improving-cross-strait-relations.md) _Context: China's, Cross-Strait relations, Taiwan_
+3. [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md) _Context: China's, Cross-Strait relations_
+4. [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md) _Context: China's, Taiwan_
+5. [China is blocking Taiwan's efforts to join the International Civil Aviation Organization despite 58 million air passengers passing over Taiwan's flight information region annually, citing the One-China principle. ](/news/2016/08/4/china-is-blocking-taiwan-s-efforts-to-join-the-international-civil-aviation-organization-despite-58-million-air-passengers-passing-over-taiw.md) _Context: Cross-Strait relations, Taiwan_
+6. [China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast-just-days-before-the-i.md) _Context: Cross-Strait relations, Taiwan_
+7. [Under pressure from the Chinese delegation, Belgian Deputy Prime Minister Kris Peeters ejects the Taiwanese delegation from a symposium of the OECD Steel Committee; it was the first such incident since Taiwan joined the OECD Steel Committee in 2005. ](/news/2016/04/19/under-pressure-from-the-chinese-delegation-belgian-deputy-prime-minister-kris-peeters-ejects-the-taiwanese-delegation-from-a-symposium-of-t.md) _Context: Cross-Strait relations, Taiwan_
+8. [  Taiwan accuses China of "extrajudicial abduction" after 45 Taiwanese acquitted of fraud in Kenya were forcibly deported to China. ](/news/2016/04/12/taiwan-accuses-china-of-extrajudicial-abduction-after-45-taiwanese-acquitted-of-fraud-in-kenya-were-forcibly-deported-to-china.md) _Context: Cross-Strait relations, Taiwan_
+9. [The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-south-china-sea-despite-the-united-states-warnin.md) _Context: China's, Taiwan_
+10. [The presidents of China and Taiwan are scheduled to meet in Singapore on November 7th, the first such meeting since the Chinese Communist Revolution. ](/news/2015/11/4/the-presidents-of-china-and-taiwan-are-scheduled-to-meet-in-singapore-on-november-7th-the-first-such-meeting-since-the-chinese-communist-re.md) _Context: Cross-Strait relations, Taiwan_

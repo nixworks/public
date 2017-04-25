@@ -1,0 +1,26 @@
+### [2010-03-29](/news/2010/03/29/index.md)
+
+# Suicide bombers detonate two bombs at Moscow Metro stations Lubyanka and Park Kultury, killing at least 36 with the death toll expected to rise. 
+
+
+
+
+### Source:
+
+1. [RIAN](http://en.rian.ru/russia/20100329/158343715.html)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g_9mcBnSXwPM4sqgAwywqSgfV9rAD9EO3JLG1)
+3. [RIA](http://en.rian.ru/russia/20100329/158342465.html)
+4. [Russia Today](http://www.rt.com/Top_News/2010-03-29/moscow-metro-blast-victims.html)
+
+### Related:
+
+1. [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md) _Context: suicide bomb attack_
+2. [Shahbaz Taseer, the son of  Pakistani Punjab governor Salmaan Taseer who was murdered in 2011 for criticizing the country's blasphemy laws, is reunited with his family  four-and-a-half years after his kidnapping. Tuesday, Shahbaz was rescued by Pakistani secret service and counter-terrorism operatives    in Kuchlak, Balochistan Province. He had been abducted in Lahore in August 2011, seven months after  his father's murder  by bodyguard Mumtaz Qadri.  Qadri was executed on  February 29, 2016. His death was claimed as the reason for the deadly Taliban suicide bombing in Shabqadar  two days ago. ](/news/2016/03/9/shahbaz-taseer-the-son-of-pakistani-punjab-governor-salmaan-taseer-who-was-murdered-in-2011-for-criticizing-the-country-s-blasphemy-laws.md) _Context: suicide bomb attack_
+3. [A suicide bomber kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the Iraqi city of Hillah, south of Baghdad. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/03/6/a-suicide-bomber-kills-at-least-60-people-and-wounds-70-others-after-ramming-his-explosives-laden-truck-into-a-security-checkpoint-at-one-of.md) _Context: suicide bomb attack_
+4. [Several Sangin security force members are killed by Taliban suicide attacks, using captured military Humvee vehicles, in the southern Afghan province of Helmand. ](/news/2016/02/13/several-sangin-security-force-members-are-killed-by-taliban-suicide-attacks-using-captured-military-humvee-vehicles-in-the-southern-afghan.md) _Context: suicide bomb attack_
+5. [At least 60 people are killed and 110 wounded in a twin-suicide bomb attack in the town of Sayyidah Zaynab, Rif Dimashq Governorate, near Syria's holiest Shi'ite shrine, the Sayyidah Zaynab Mosque. The Islamic State of Iraq and the Levant claim responsibility for the attack. ](/news/2016/01/31/at-least-60-people-are-killed-and-110-wounded-in-a-twin-suicide-bomb-attack-in-the-town-of-sayyidah-zaynab-rif-dimashq-governorate-near-sy.md) _Context: suicide bomb attack_
+6. [A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/01/26/a-suicide-bomb-attack-on-a-syrian-army-saa-checkpoint-in-the-city-of-homs-kills-at-least-22-people-including-around-a-dozen-soldiers-the.md) _Context: suicide bomb attack_
+7. [A suicide-bomb attack outside the police chief's house in Aden, southern Yemen, leaves at least 7 people dead. ](/news/2016/01/17/a-suicide-bomb-attack-outside-the-police-chief-s-house-in-aden-southern-yemen-leaves-at-least-7-people-dead.md) _Context: suicide bomb attack_
+8. [Several suicide-bomb attacks targeting Assyrian Christians celebrating New Year's Eve at restaurants in the Kurdish-controlled Syrian city of Al-Qamishli, Al-Hasakah Governorate, leave at least 16 people dead and 35 wounded. The Islamic State of Iraq and the Levant are suspected to be behind the bombings. ](/news/2015/12/30/several-suicide-bomb-attacks-targeting-assyrian-christians-celebrating-new-year-s-eve-at-restaurants-in-the-kurdish-controlled-syrian-city-o.md) _Context: suicide bomb attack_
+9. [A suicide-bomb attack outside the regional office of the National Database and Registration Authority (NADRA) in the northwestern Pakistani city of Mardan, Khyber Pakhtunkhwa, leaves at least 26 people dead and 45 wounded. The militant Islamist group Jamaat-ul-Ahrar, a Tehrik-i-Taliban Pakistan splinter group, claims responsibility for the attack. ](/news/2015/12/29/a-suicide-bomb-attack-outside-the-regional-office-of-the-national-database-and-registration-authority-nadra-in-the-northwestern-pakistani.md) _Context: suicide bomb attack_
+10. [Boko Haram militants attack the northeast Nigerian city of Maiduguri with rocket-propelled grenades and multiple suicide bombers. At least 30 people are reportedly killed. ](/news/2015/12/27/boko-haram-militants-attack-the-northeast-nigerian-city-of-maiduguri-with-rocket-propelled-grenades-and-multiple-suicide-bombers-at-least-3.md) _Context: suicide bomb attack_

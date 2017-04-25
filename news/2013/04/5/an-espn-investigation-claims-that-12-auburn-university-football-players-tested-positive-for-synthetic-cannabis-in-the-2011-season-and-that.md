@@ -1,0 +1,23 @@
+### [2013-04-5](/news/2013/04/5/index.md)
+
+# An ESPN investigation claims that 12 Auburn University football players tested positive for synthetic cannabis in the 2011 season, and that the school's athletic department kept the test results confidential. The investigation also reveals widespread use of the drug among members of Auburn's 2010 national championship team. 
+
+The 2010 national champion Auburn Tigers were gripped by an epidemic of synthetic marijuana use that led to a rash of failed drug tests and a decision at the highest levels of the university to keep the results confidential, ESPN has learned.
+
+
+### Source:
+
+1. [ESPN](http://espn.go.com/college-football/story/_/id/9135194/twelve-auburn-tigers-football-players-failed-synthetic-pot-tests)
+
+### Related:
+
+1. [ In ice hockey, ESPN reports that the NHL will place an expansion team in Las Vegas, provided the team's backers can pay a US$500 million expansion fee. The team, which would enter the league no earlier than the 2017-18 season, would be the first major professional sports team in Las Vegas. The league's board of governors is scheduled to hold a formal vote on the expansion on June 22. ](/news/2016/06/14/in-ice-hockey-espn-reports-that-the-nhl-will-place-an-expansion-team-in-las-vegas-provided-the-team-s-backers-can-pay-a-us-500-million-ex.md) _Context: ESPN_
+2. [New York City Police and US federal agents arrest members of an international crime syndicate that have been selling cheap, but toxic, synthetic marijuana. In New York alone, 2,300 people have ended up in emergency rooms in the last two months. The seizure includes two warehouses full of synthetic drugs in the Bronx, one of the largest raids ever. ](/news/2015/09/16/new-york-city-police-and-us-federal-agents-arrest-members-of-an-international-crime-syndicate-that-have-been-selling-cheap-but-toxic-synth.md) _Context: synthetic marijuana_
+3. [Bill Simmons will leave American broadcaster ESPN in fall 2015 when his contract expires. ](/news/2015/05/8/bill-simmons-will-leave-american-broadcaster-espn-in-fall-2015-when-his-contract-expires.md) _Context: ESPN_
+4. [ESPN reports that the seven Catholic schools that have announced plans to leave the Big East Conference will do so in July 2013, and will keep the "Big East" name. Butler University and Xavier University will reportedly leave the Atlantic 10 Conference to join the new Big East, and Creighton University may leave the Missouri Valley Conference to join as well. ](/news/2013/02/28/espn-reports-that-the-seven-catholic-schools-that-have-announced-plans-to-leave-the-big-east-conference-will-do-so-in-july-2013-and-will-ke.md) _Context: ESPN_
+5. [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md) _Context: ESPN_
+6. [In a widening doping scandal, an ESPN report links five additional Major League Baseball players to the purchase of performance-enhancing drugs from the Biogenesis anti-aging clinic in Miami. The report indicates that Gio Gonzalez, previously linked to PED purchases from Biogenesis, did not receive any banned substances from the clinic. ](/news/2013/02/19/in-a-widening-doping-scandal-an-espn-report-links-five-additional-major-league-baseball-players-to-the-purchase-of-performance-enhancing-dr.md) _Context: ESPN_
+7. [ESPN admits two other instances in which it referred to the American basketball player Jeremy Lin by the racial slur "chink". It comes after yesterday's controversial "Chink in the Armor" headline which ESPN defended as only having appeared to mobile browsers for 35 minutes. ](/news/2012/02/19/espn-admits-two-other-instances-in-which-it-referred-to-the-american-basketball-player-jeremy-lin-by-the-racial-slur-chink-it-comes-after.md) _Context: ESPN_
+8. [Australia bans eight types of synthetic cannabis from tomorrow. ](/news/2011/07/7/australia-bans-eight-types-of-synthetic-cannabis-from-tomorrow.md) _Context: synthetic marijuana_
+9. [ESPN reports that the US National Football League and the National Football League Players Association have agreed to extend talks on a collective bargaining agreement. ](/news/2011/03/4/espn-reports-that-the-us-national-football-league-and-the-national-football-league-players-association-have-agreed-to-extend-talks-on-a-coll.md) _Context: ESPN_
+10. [The Auburn Tigers defeat the Oregon Ducks to win the 2011 BCS National Championship Game. ](/news/2011/01/10/the-auburn-tigers-defeat-the-oregon-ducks-to-win-the-2011-bcs-national-championship-game.md) _Context: Auburn University football_

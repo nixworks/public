@@ -1,0 +1,26 @@
+### [2011-12-8](/news/2011/12/8/index.md)
+
+# An investigation by the Associated Press and German media uncovers a secret prison suspected of having been operated by the Central Intelligence Agency in Bucharest, Romania. 
+
+The CIA operated a secret prison in the Romanian capital Bucharest where terrorism suspects were interrogated, a German media investigation claims.
+
+
+### Source:
+
+1. [AP](http://worldnews.msnbc.msn.com/_news/2011/12/08/9293815-hidden-in-plain-sight-inside-a-secret-cia-prison)
+2. [Indian Express](http://www.indianexpress.com/news/inside-romanias-secret-cia-prison/885436/)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-16093106)
+4. [AFP](http://www.expatica.com/de/news/local_news/romania-hosted-secret-cia-detention-centre-reports_194167.html)
+
+### Related:
+
+1. [At least 27 people are killed and more than 180 hospitalized with injuries after a fire in a nightclub in the Romanian capital Bucharest. Officials say a heavy metal band's pyrotechnical show sparked a fire inside the Colectiv nightclub. ](/news/2015/10/30/at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-romanian-capital-bucharest-of.md) _Context: Bucharest, Romania_
+2. [An incident at a shooting range complex in Bucharest, Romania leaves two people dead. ](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.md) _Context: Bucharest, Romania_
+3. [Chinese Premier Li Keqiang, arrives in Bucharest, Romania, to attend the China-Central and Eastern Europe (CEE) leaders' meeting as a guest of Romanian Prime Minister Victor Ponta. ](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest-romania-to-attend-the-china-central-and-eastern-europe-cee-leadersa-meeting-as-a-gues.md) _Context: Bucharest, Romania_
+4. [A diplomatic dispute between Romania and Hungary erupts as a Hungarian government official and the ambassador in Bucharest make commentaries that trigger large criticism from the Romanian side. ](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.md) _Context: Bucharest, Romania_
+5. [At least 2 people are killed and 6 injured  after a shooting in a hair salon in Bucharest, Romania. ](/news/2012/03/5/at-least-2-people-are-killed-and-6-injured-after-a-shooting-in-a-hair-salon-in-bucharest-romania.md) _Context: Bucharest, Romania_
+6. [Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Basescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers. ](/news/2012/01/14/violent-protests-occur-in-bucharest-romania-as-two-day-old-demonstrations-continue-against-president-traian-basescu-s-economic-austerity.md) _Context: Bucharest, Romania_
+7. [2011 Yemeni uprising:The Associated Press claims that the U.S. Central Intelligence Agency is building an airbase in the Persian Gulf to target terrorists in the event of a terrorist element taking control of Yemen. ](/news/2011/06/15/2011-yemeni-uprising-pthe-associated-press-claims-that-the-u-s-central-intelligence-agency-is-building-an-airbase-in-the-persian-gulf-to-ta.md) _Context: Associated Press, Central Intelligence Agency_
+8. [An explosion at a maternity hospital in Romania's  capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants.md) _Context: Bucharest, Romania_
+9. [ The U.S. Central Intelligence Agency allegedly decommissions its black sites worldwide. ](/news/2009/04/9/the-u-s-central-intelligence-agency-allegedly-decommissions-its-black-sites-worldwide.md) _Context: Central Intelligence Agency, black site_
+10. [ The United States government announces that fourteen suspected terrorists are to be transferred to the Guantanamo Bay detainment camp and admits that these suspects have been held in CIA black sites. These people include Khalid Sheik Mohammed, believed to be the No. 3 al-Qaida leader before he was captured in Pakistan in 2003; Ramzi Binalshibh, an alleged would-be 9/11 hijacker; and Abu Zubaydah, who was believed to be a link between Osama bin Laden and many al-Qaida cells before he was also captured in Pakistan in March 2002. ](/news/2006/09/6/the-united-states-government-announces-that-fourteen-suspected-terrorists-are-to-be-transferred-to-the-guantanamo-bay-detainment-camp-and-a.md) _Context: Central Intelligence Agency, black site_

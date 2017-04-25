@@ -1,0 +1,58 @@
+## [2015-01-5](/news/2015/01/5/index.md)
+
+### [A Libyan warplane bombs a Greek-operated oil tanker anchored offshore the city of Derna, killing two sailors, one Greek and one Romanian. The Greek government condemned what it called an "unprovoked and cowardly" attack and demanded an investigation and punishment for those responsible. ](/news/2015/01/5/a-libyan-warplane-bombs-a-greek-operated-oil-tanker-anchored-offshore-the-city-of-derna-killing-two-sailors-one-greek-and-one-romanian-th.md)
+A Libyan warplane from forces loyal to the internationally recognized government bombed a Greek-operated oil tanker anchored off the coast, killing two crewmen in an escalation of hostilities between factions vying to rule the country.
+
+### [News emerges that two days prior hundreds of Boko Haram militants had overrun several towns in northeast Nigeria and captured the military base in Baga. ](/news/2015/01/5/news-emerges-that-two-days-prior-hundreds-of-boko-haram-militants-had-overrun-several-towns-in-northeast-nigeria-and-captured-the-military-b.md)
+Boko Haram’s weekend seizure of a Nigerian army outpost that was to serve as a command center for combating the Islamist insurgency offers another measure of how fast the country’s military is losing ground and how multinational efforts have stalled.
+
+### [Two militants, one wearing a suicide vest, kill two Saudi Arabian border guards and a general near the border with Iraq. ](/news/2015/01/5/two-militants-one-wearing-a-suicide-vest-kill-two-saudi-arabian-border-guards-and-a-general-near-the-border-with-iraq.md)
+_Context: Iraq, Saudi Arabia_
+
+### [Bangladeshi police report that two opposition Bangladesh Nationalist Party activists are shot dead in clashes with members of the ruling Awami League in the town of Natore on the first anniversary of disputed general election. ](/news/2015/01/5/bangladeshi-police-report-that-two-opposition-bangladesh-nationalist-party-activists-are-shot-dead-in-clashes-with-members-of-the-ruling-awa.md)
+Bangladeshi opposition leader Khaleda Zia calls for a transport blockade after four protesters are killed in clashes with police and government supporters.
+
+### [A suicide car bomber hits the headquarters of EUPOL Afghanistan in Kabul, Afghanistan, killing one person and injuring five others. The Taliban have claimed responsibility. ](/news/2015/01/5/a-suicide-car-bomber-hits-the-headquarters-of-eupol-afghanistan-in-kabul-afghanistan-killing-one-person-and-injuring-five-others-the-tali.md)
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+### [A Czech archaelogical team discovers the tomb of formerly unknown Ancient Egyptian queen Khentakawess III who lived during the Fifth Dynasty. ](/news/2015/01/5/a-czech-archaelogical-team-discovers-the-tomb-of-formerly-unknown-ancient-egyptian-queen-khentakawess-iii-who-lived-during-the-fifth-dynasty.md)
+_Context: Ancient Egypt, Czech, Fifth Dynasty, Khentakawess III_
+
+### [The site where Jesus may have been tried, prior to his crucifixion, opens to the public for the first time located under an abandoned prison building, called Kishle, that is part of the Tower of David Museum ground in the Old City of Jerusalem, Israel. ](/news/2015/01/5/the-site-where-jesus-may-have-been-tried-prior-to-his-crucifixion-opens-to-the-public-for-the-first-time-located-under-an-abandoned-prison.md)
+_Context: Israel, Jesus, Old City of Jerusalem, Tower of David Museum_
+
+### [China relaxes controls over the export of rare earth elements after losing a case brought by the United States at the World Trade Organization. ](/news/2015/01/5/china-relaxes-controls-over-the-export-of-rare-earth-elements-after-losing-a-case-brought-by-the-united-states-at-the-world-trade-organizati.md)
+_Context: China, United States, World Trade Organization, rare earth element_
+
+### [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md)
+_Context: Europe, Ireland, United States, mad cow disease_
+
+### [For the second day in a row a multi-story residential building in Nairobi, Kenya, collapses, this time an 8-story building, killing one person with eight people still missing. ](/news/2015/01/5/for-the-second-day-in-a-row-a-multi-story-residential-building-in-nairobi-kenya-collapses-this-time-an-8-story-building-killing-one-pers.md)
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
+
+### [An avalanche near the Rettenbach glacier in the Austrian Alps, kills two prospects for the United States ski team, Ronnie Berlack and Bryce Astle. ](/news/2015/01/5/an-avalanche-near-the-rettenbach-glacier-in-the-austrian-alps-kills-two-prospects-for-the-united-states-ski-team-ronnie-berlack-and-bryce.md)
+_Context: Austrian Alps, Rettenbach glacier, United States, avalanche, ski_
+
+### [After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. [http://kron4.com/2015/01/05/nightmare-28-hour-flight-finally-arrives-in-san-francisco/ (KRON)].](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-onboard-etihad-airways-flight-183-completes-its-flight-to-san-franc.md)
+_Context: Abu Dhabi, Etihad Airways, San Francisco International Airport_
+
+### [South Korea announces that it will repatriate the remains of Chinese Peoples Liberation Army soldiers killed in the Korean War. ](/news/2015/01/5/south-korea-announces-that-it-will-repatriate-the-remains-of-chinese-peoples-liberation-army-soldiers-killed-in-the-korean-war.md)
+ South Korea plans to return some 60 sets of remains of Chinese soldiers killed during the 1950-53 Korean War to their homeland, a defense ministry official here said Monday.
+
+### [Lebanon implements stricter immigration rules on its Syrian border in response to the refugee crisis caused by the Syrian Civil War. ](/news/2015/01/5/lebanon-implements-stricter-immigration-rules-on-its-syrian-border-in-response-to-the-refugee-crisis-caused-by-the-syrian-civil-war.md)
+Lebanon enforced new immigration controls at the Syrian border on Monday in a move to gain control of the steady stream of refugees from its much larger neighbor.
+
+### [Taiwan's justice ministry releases former President Chen Shui-bian from jail on a one-month medical parole. ](/news/2015/01/5/taiwan-s-justice-ministry-releases-former-president-chen-shui-bian-from-jail-on-a-one-month-medical-parole.md)
+Former Taiwanese president Chen Shui-bian is to be released from prison after being granted one month of medical parole, the justice ministry says.
+
+### [The anti-graft body of the Communist Party of China detains Yang Weize, incumbent Party Secretary of Nanjing, the provincial capital of Jiangsu province, for investigation. ](/news/2015/01/5/the-anti-graft-body-of-the-communist-party-of-china-detains-yang-weize-incumbent-party-secretary-of-nanjing-the-provincial-capital-of-jian.md)
+_Context: Jiangsu, Nanjing, Yang Weize, anti-graft agency_
+
+### [The Justice Department charges two American citizens of Gambian descent with violating the Neutrality Act by helping to finance and lead the 2014 Gambian coup d'etat attempt. ](/news/2015/01/5/the-justice-department-charges-two-american-citizens-of-gambian-descent-with-violating-the-neutrality-act-by-helping-to-finance-and-lead-the.md)
+_Context: 2014 Gambian coup d'état attempt, American, Gambia, Neutrality Act, U.S. Justice Department_
+
+### [In ice hockey, the 2015 World Junior Ice Hockey Championship closes with Canada beating Russia in the gold medal game, while Slovakia captures bronze. ](/news/2015/01/5/in-ice-hockey-the-2015-world-junior-ice-hockey-championship-closes-with-canada-beating-russia-in-the-gold-medal-game-while-slovakia-captur.md)
+_Context: 2015 World Junior Ice Hockey Championship, Canada, Russia, Slovakia_
+
+## [Previous Day...](/news/2015/01/4/index.md)
+

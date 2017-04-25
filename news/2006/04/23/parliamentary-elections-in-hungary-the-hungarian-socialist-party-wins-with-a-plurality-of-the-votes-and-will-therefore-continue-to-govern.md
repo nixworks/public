@@ -1,0 +1,25 @@
+### [2006-04-23](/news/2006/04/23/index.md)
+
+#  Parliamentary elections in Hungary: The Hungarian Socialist Party wins with a plurality of the votes and will therefore continue to govern in coalition with the Alliance of Free Democrats; it also becomes the first re-elected government of Hungary since the end of the Cold War. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4935474.stm)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300581.html)
+3. [Washington Post/Reuters](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300158.html)
+
+### Related:
+
+1. [ Hungarian parliamentary election, 2006: The ruling Hungarian Socialist Party wins the first round. Voter turnout was 67.7 percent.](/news/2006/04/9/hungarian-parliamentary-election-2006-the-ruling-hungarian-socialist-party-wins-the-first-round-voter-turnout-was-67-7-percent.md) _Context: Hungarian Socialist Party, Parliamentary elections_
+2. [According to the Stockholm International Peace Research Institute, the global transfer of weapons between 2012 and 2016 has been higher than any other five-year period since the end of the Cold War, with the Middle East increasing its weapon imports by 212%, second only to India, who accounted for 13% of the world's imports. ](/news/2017/02/20/according-to-the-stockholm-international-peace-research-institute-the-global-transfer-of-weapons-between-2012-and-2016-has-been-higher-than.md) _Context: Cold War_
+3. [At the 52nd Munich Security Conference in Germany, NATO Secretary-General Jens Stoltenberg says that NATO and Russia are "not in a cold-war situation but also not in the partnership that we established at the end of the Cold War" while the Russian Prime Minister Dmitry Medvedev says tensions between Russia and NATO have sent the world spiralling into a "new Cold War", blaming U.S. and European leaders for the souring of relations with Russia. He also rejected accusations that Russian warplanes have bombed civilians in Syria, saying it is "just not true". ](/news/2016/02/13/at-the-52nd-munich-security-conference-in-germany-nato-secretary-general-jens-stoltenberg-says-that-nato-and-russia-are-not-in-a-cold-war.md) _Context: Cold War_
+4. [Turkey's president Recep Tayyip Erdogan warns Russia not to "play with fire" and says Russia is supporting the "state terrorism" of the Bashar al-Assad regime in Syria that has "killed 380,000 people". Relations between the former Cold War antagonists have been severely damaged after Turkey shot down a Russian Sukhoi Su-24 near the Syria-Turkey border on November 24, 2015. ](/news/2015/11/27/turkey-s-president-recep-tayyip-erdoaan-warns-russia-not-to-play-with-fire-and-says-russia-is-supporting-the-state-terrorism-of-the-bas.md) _Context: Cold War_
+5. [The carrier USS ''Ronald Reagan'', during a military exercise with South Korea  in the Sea of Japan's international waters, scrambled four fighter jets to intercept approaching Russian warplanes,  according to the U.S. Navy. IHS Jane's Defence Weekly said encounters such as these were common during the Cold War, subsided with its end but picked up again under current Russian President Vladimir Putin.  ](/news/2015/10/29/the-carrier-uss-ronald-reagan-during-a-military-exercise-with-south-korea-in-the-sea-of-japan-s-international-waters-scrambled-four-f.md) _Context: Cold War_
+6. [Voters in Greece go to the polls for the third time this year with Syriza (Coalition of the Radical Left) again winning a plurality in the Hellenic Parliament. ](/news/2015/09/20/voters-in-greece-go-to-the-polls-for-the-third-time-this-year-with-syriza-coalition-of-the-radical-left-again-winning-a-plurality-in-the-h.md) _Context: plurality_
+7. [Russian Defence Minister Sergey Shoigu says that the country will resume long-distance military flights for the first time since the Cold War to the western Atlantic Ocean and Caribbean Sea. ](/news/2014/11/12/russian-defence-minister-sergey-shoigu-says-that-the-country-will-resume-long-distance-military-flights-for-the-first-time-since-the-cold-wa.md) _Context: Cold War_
+8. [Parliamentary elections were held in Indonesia, with early count indicating Megawati's PDIP won a narrow plurality. ](/news/2014/04/9/parliamentary-elections-were-held-in-indonesia-with-early-count-indicating-megawati-s-pdip-won-a-narrow-plurality.md) _Context: plurality_
+9. [The Elections for the 19th Knesset are held in Israel. The incumbent Prime Minister Benjamin Netanyahu's electoral alliance, Likud Yisrael Beiteinu, wins a plurality with 31 seats. ](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.md) _Context: plurality_
+10. [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md) _Context: Cold War_

@@ -1,0 +1,23 @@
+### [2013-02-19](/news/2013/02/19/index.md)
+
+# The People's Republic of China rejects an attempt by the Philippines to seek international arbitration over conflicting claims to the South China Sea. 
+
+ China said Tuesday it has rejected the Philippines’ attempt to seek international arbitration over conflicting claims to territory in the South China Sea.
+
+
+### Source:
+
+1. [AP via ''The Sydney Morning Herald](http://www.smh.com.au/world/china-rejects-philippine-un-mediation-effort-20130220-2eq94.html)
+
+### Related:
+
+1. [Admiral John Richardson says the United States has seen Chinese activity around Scarborough Shoal, which China seized from the Philippines nearly four years ago, in the northern part of the Spratly archipelago of the South China Sea. An  international court ruling  on a case brought by the Philippines against China over its South China Sea claims is expected within a month. ](/news/2016/03/17/admiral-john-richardson-says-the-united-states-has-seen-chinese-activity-around-scarborough-shoal-which-china-seized-from-the-philippines-n.md) _Context: Philippines, Scarborough Shoal, South China Sea, disputed_
+2. [''Philippines v. China''The Permanent Court of Arbitration rules in favor of the Philippines against China over territorial disputes in the South China Sea. ](/news/2016/07/12/philippines-v-china-pthe-permanent-court-of-arbitration-rules-in-favor-of-the-philippines-against-china-over-territorial-disputes-in-the.md) _Context: Philippines, South China Sea, disputed_
+3. [The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-south-china-sea-despite-the-united-states-warnin.md) _Context: China's, South China Sea, disputed_
+4. [The Permanent Court of Arbitration in The Hague rules it has jurisdiction to hear the Philippines' case against China over maritime disputes in the South China Sea. ](/news/2015/10/30/the-permanent-court-of-arbitration-in-the-hague-rules-it-has-jurisdiction-to-hear-the-philippines-case-against-china-over-maritime-disputes.md) _Context: Philippines, South China Sea, disputed_
+5. [China completes the construction of two lighthouses on the disputed Spratly Islands in the South China Sea according to Chinese state media. The U.S. and the Philippines have opposed the construction efforts. ](/news/2015/10/10/china-completes-the-construction-of-two-lighthouses-on-the-disputed-spratly-islands-in-the-south-china-sea-according-to-chinese-state-media.md) _Context: Philippines, South China Sea, disputed_
+6. [The United States Secretary of Defense Ashton Carter warns that the People's Republic of China's island building in the South China Sea is undermining security in the Asia-Pacific region and has called for a diplomatic solution. ](/news/2015/05/30/the-united-states-secretary-of-defense-ashton-carter-warns-that-the-people-s-republic-of-china-s-island-building-in-the-south-china-sea-is-u.md) _Context: China's, South China Sea, disputed_
+7. [The government of the Philippines announces that it will file a complaint against China before the International Tribunal for the Law of the Sea seeking arbitration for the territorial disputes in the South China Sea. ](/news/2013/01/22/the-government-of-the-philippines-announces-that-it-will-file-a-complaint-against-china-before-the-international-tribunal-for-the-law-of-the.md) _Context: China–Philippines relations, Philippines, disputed_
+8. [Chinese tour companies suspend tourist flights to the Philippines amid rising tensions between the two countries over territorial disputes in the South China Sea. ](/news/2012/05/10/chinese-tour-companies-suspend-tourist-flights-to-the-philippines-amid-rising-tensions-between-the-two-countries-over-territorial-disputes-i.md) _Context: China's, Philippines, South China Sea_
+9. [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md) _Context: China's, South China Sea_
+10. [Former Philippine president Fidel Ramos quits as the Philippines' special envoy to China amid a falling out with his mentee current Filipino president Rodrigo Duterte. ](/news/2016/11/1/former-philippine-president-fidel-ramos-quits-as-the-philippines-special-envoy-to-china-amid-a-falling-out-with-his-mentee-current-filipino.md) _Context: China–Philippines relations, Philippines_

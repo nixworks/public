@@ -1,0 +1,28 @@
+### [2011-04-8](/news/2011/04/8/index.md)
+
+# Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. 
+
+At least 27 deaths reported in the city of Daraa as fresh pro-reform demonstrations rock the country.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011481464790235.html)
+2. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/live-blog-friday-protests-across-middle-east)
+3. [BBC](http://www.bbc.co.uk/news/world-13016843)
+4. [The Guardian](http://www.guardian.co.uk/world/2011/apr/08/yemen-told-saudis-bomb-mohsen)
+5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201148131548860250.html)
+6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114875513229751.html)
+
+### Related:
+
+1. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _Context: Iraq, Syria, Yemen_
+2. [President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries-including-iran-iraq-libya.md) _Context: Iraq, Syria, Yemen_
+3. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq, Syria_
+4. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: Iraq, Syria_
+5. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _Context: Egypt, Yemen_
+6. [Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operations-against-isil-in-iraq-and-syria-fr.md) _Context: Iraq, Syria_
+7. [The United States military states that it has inadvertently killed 64 civilians in air strikes on targets in Syria and Iraq over the past year. ](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.md) _Context: Iraq, Syria_
+8. [Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria.  ](/news/2016/06/4/syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-three-simultaneous-at.md) _Context: Iraq, Syria_
+9. [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md) _Context: Iraq, Syria_
+10. [Police in northern Greece move  more than 400 Syrians and Iraqis by bus from a makeshift camp near the Macedonian border to a shelter near the northern city of Thessaloniki. More than 50,000 migrants remain stranded in Greece following European border closures, and the European Union's agreement with Turkey. ](/news/2016/06/13/police-in-northern-greece-move-more-than-400-syrians-and-iraqis-by-bus-from-a-makeshift-camp-near-the-macedonian-border-to-a-shelter-near-t.md) _Context: Iraq, Syria_

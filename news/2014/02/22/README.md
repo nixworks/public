@@ -1,0 +1,25 @@
+## [2014-02-22](/news/2014/02/22/index.md)
+
+### [Euromaidan:The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/euromaidan-pthe-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-suppo.md)
+ President Yanukovych signs agreement as parliament passes law that could free Yulia Tymoshenko
+
+### [Pope Francis creates 19 new cardinals in a ceremony at St Peter's Basilica in Rome. In addition, the Pope emeritus Benedict XVI makes his first public appearance at the Vatican since his resignation in 2013. ](/news/2014/02/22/pope-francis-creates-19-new-cardinals-in-a-ceremony-at-st-peter-s-basilica-in-rome-in-addition-the-pope-emeritus-benedict-xvi-makes-his-fi.md)
+The leader of the Roman Catholic Church in England and Wales is created a cardinal at a ceremony in Rome.
+
+### [One person is dead and 28 are ill from a carbon monoxide leak at the Walt Whitman Shops in Huntington, New York. ](/news/2014/02/22/one-person-is-dead-and-28-are-ill-from-a-carbon-monoxide-leak-at-the-walt-whitman-shops-in-huntington-new-york.md)
+_Context: Huntington, New York, Walt Whitman Shops, carbon monoxide_
+
+### [The Sinaloa cartel drug lord Joaquin Guzman Loera, also known as "El Chapo", is arrested in Mexico. ](/news/2014/02/22/the-sinaloa-cartel-drug-lord-joaquan-guzma-n-loera-also-known-as-el-chapo-is-arrested-in-mexico.md)
+_Context: Joaquín Guzmán Loera_
+
+### [Matteo Renzi is sworn in as the Prime Minister of Italy. ](/news/2014/02/22/matteo-renzi-is-sworn-in-as-the-prime-minister-of-italy.md)
+A new Italian government led by centre-left politician Matteo Renzi is sworn in after promising quick action to tackle a stagnant economy.
+
+### [Tens of thousands of people gather in the Venezuelan capital of Caracas to protest against the government of Nicolas Maduro. ](/news/2014/02/22/tens-of-thousands-of-people-gather-in-the-venezuelan-capital-of-caracas-to-protest-against-the-government-of-nicola-s-maduro.md)
+CARACAS, Venezuela -- Massive demonstrations by opponents and supporters of President Nicolas Maduro were underway Saturday in central Caracas as the official death toll rose to eight on the 10th day of civil unrest roiling Venezuela.
+
+### [2014 Winter Olympics:Marit Bjorgen of Norway becomes the most successful female Winter Olympian of all time when she wins a sixth gold medal in the Women's 30 kilometre freestyle cross-country skiing event. She has won ten Olympic medals in total. ](/news/2014/02/22/2014-winter-olympics-pmarit-bja-rgen-of-norway-becomes-the-most-successful-female-winter-olympian-of-all-time-when-she-wins-a-sixth-gold-med.md)
+If this was Marit Bjoergen&#x27;s last Olympic race, she couldn&#x27;t have scripted a better finish. Bjoergen became the most decorated female Winter Olympian in history Saturday by leading a Norwegian sweep in the women&#x27;s 30-kilometer cross-country ski race at the Sochi Games. Being surrounded
+
+## [Previous Day...](/news/2014/02/21/index.md)
+

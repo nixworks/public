@@ -1,0 +1,24 @@
+### [2015-12-18](/news/2015/12/18/index.md)
+
+# In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September,  is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-japan-australia-idUSKBN0U107T20151218)
+2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/australia-leader-disappointed-with-japans-return-to-whaling/2015/12/18/dfe2b820-a546-11e5-8318-bd8caed8c588_story.html)
+
+### Related:
+
+1. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan, Prime Minister, Shinzō Abe_
+2. [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md) _Context: Japan, Prime Minister, Shinzō Abe_
+3. [Malcolm Turnbull launches a challenge for the leadership of the Liberal Party of Australia against incumbent Prime Minister Tony Abbott and wins 54&ndash;44. ](/news/2015/09/14/malcolm-turnbull-launches-a-challenge-for-the-leadership-of-the-liberal-party-of-australia-against-incumbent-prime-minister-tony-abbott-and.md) _Context: Malcolm Turnbull, Prime Minister of Australia, Tony Abbott_
+4. [The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. ](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.md) _Context: Prime Minister, Prime Minister of Australia, Tony Abbott_
+5. [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md) _Context: Japan, Prime Minister, Shinzō Abe_
+6. [Senkaku Islands dispute:Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/senkaku-islands-dispute-pprime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japa.md) _Context: Japan, Prime Minister, Shinzō Abe_
+7. [Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. ](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.md) _Context: Japan, Prime Minister, Shinzō Abe_
+8. [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8.  ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md) _Context: Prime Minister, Shinzō Abe_
+9. [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md) _Context: Japan, Tokyo_
+10. [Australian Prime Minister Malcolm Turnbull's Liberal/National coalition, behind Bill Shorten's Labor Party in the first 48 hours following Saturday's election, is now ahead of Labor in the Lower House, 74-71 seats; 76 seats are needed to form a government. Minor parties and independents have won five seats;  mail-in and absentee votes are still being counted. Turnbull is on the road today seeking support from a small handful of independent and small party lawmakers. ](/news/2016/07/7/australian-prime-minister-malcolm-turnbull-s-liberal-national-coalition-behind-bill-shorten-s-labor-party-in-the-first-48-hours-following-s.md) _Context: Malcolm Turnbull, Prime Minister of Australia_

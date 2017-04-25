@@ -1,0 +1,23 @@
+### [2013-04-11](/news/2013/04/11/index.md)
+
+# Father Emil Kapaun is awarded a Medal of Honor posthumously by U.S. President Barack Obama. 
+
+Father Emil Kapaun performed battlefield miracles, saving lives and souls of fellow Korean War POWs
+
+
+### Source:
+
+1. [CBS News](http://www.cbsnews.com/8301-18563_162-57579227/medal-of-honor-recipient-gave-pows-desire-to-live/)
+
+### Related:
+
+1. [President of the United States Barack Obama presents the Medal of Honor to 24 veterans, all of whom served in the Vietnam War, World War II and the Korean War. ](/news/2014/03/18/president-of-the-united-states-barack-obama-presents-the-medal-of-honor-to-24-veterans-all-of-whom-served-in-the-vietnam-war-world-war-ii.md) _Context: Barack Obama, Medal of Honor, U.S. President_
+2. [Boston Marathon bombings:U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/boston-marathon-bombings-pu-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md) _Context: Barack Obama, U.S., U.S. President_
+3. [U.S. news magazine ''Time'' selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those.md) _Context: Barack Obama, U.S., U.S. President_
+4. [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to  Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salva.md) _Context: Barack Obama, Medal of Honor, U.S. President_
+5. [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md) _Context: Barack Obama, Medal of Honor, U.S. President_
+6. [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md) _Context: Barack Obama, U.S. President_
+7. [President of the United States Barack Obama signs an order to ease sanctions against Sudan, citing the country's efforts to "reduce internal conflict, improve humanitarian access to people requiring aid and curtail terrorism". ](/news/2017/01/13/president-of-the-united-states-barack-obama-signs-an-order-to-ease-sanctions-against-sudan-citing-the-country-s-efforts-to-reduce-internal.md) _Context: Barack Obama, U.S. President_
+8. [The President of the United States Barack Obama awards his Vice President Joe Biden the Presidential Medal of Freedom with Distinction, the only time the president  has awarded this particular honor during his tenure. ](/news/2017/01/12/the-president-of-the-united-states-barack-obama-awards-his-vice-president-joe-biden-the-presidential-medal-of-freedom-with-distinction-the.md) _Context: Barack Obama, U.S. President_
+9. [United States President Barack Obama blocks China's Fujian Grand Chip Investment Fund's acquisition of the U.S. semiconductor business of German-based Aixtron because of national security concerns. The German Economy Ministry withdrew its approval in October. ](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.md) _Context: Barack Obama, U.S. President_
+10. [President-elect of the United States Donald Trump meets with President Barack Obama for the first time at the White House. ](/news/2016/11/10/president-elect-of-the-united-states-donald-trump-meets-with-president-barack-obama-for-the-first-time-at-the-white-house.md) _Context: Barack Obama, U.S. President_

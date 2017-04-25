@@ -1,0 +1,23 @@
+### [2016-06-8](/news/2016/06/8/index.md)
+
+# The International Tennis Federation suspends Russian star Maria Sharapova for two years for failing a drug test for meldonium at the Australian Open. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/sport/tennis/36482288)
+
+### Related:
+
+1. [The World Anti-Doping Agency advises that WADA-accredited laboratories are currently conducting studies on meldonium excretion rates since existing data is lacking. Meldonium became a banned substance on January 1, 2016. A large number of athletes, including grand-slam tennis champion Maria Sharapova, had taken the medication in the past, and  have tested positive this year. The new data will address how long meldonium stays in the body and determine if athletes were provided a reasonable amount of time to adhere to the new restrictions prior to testing. The drug was used by many Soviet-bloc athletes since the 80s. ](/news/2016/04/13/the-world-anti-doping-agency-advises-that-wada-accredited-laboratories-are-currently-conducting-studies-on-meldonium-excretion-rates-since-e.md) _Context: Maria Sharapova, meldonium_
+2. [Russian tennis star Maria Sharapova tests positive for meldonium at the 2016 Australian Open tennis championship. She has taken the drug since 2006 on prescription for health issues. World Anti-Doping Agency President Craig Reedie says an athlete found guilty of using meldonium would normally face a one-year suspension. ](/news/2016/03/7/russian-tennis-star-maria-sharapova-tests-positive-for-meldonium-at-the-2016-australian-open-tennis-championship-she-has-taken-the-drug-sin.md) _Context: Maria Sharapova, meldonium_
+3. [ Maria Sharapova wins the Australian Open women's title defeating Ana Ivanovic 7-5, 6-3. Andy Ram & Yoni Erlich win the men's doubles title. ](/news/2008/01/26/maria-sharapova-wins-the-australian-open-women-s-title-defeating-ana-ivanovic-7-5-6-3-andy-ram-yoni-erlich-win-the-men-s-doubles-title.md) _Context: Australian Open, Maria Sharapova_
+4. [2014 Australian heat wave:Melbourne reaches 43.9 degrees Celsius (110 degrees Fahrenheit) with Australian Open matches postponed. ](/news/2014/01/16/2014-australian-heat-wave-pmelbourne-reaches-43-9-degrees-celsius-110-degrees-fahrenheit-with-australian-open-matches-postponed.md) _Context: Australian Open_
+5. [In tennis, Maria Sharapova beats Jelena Jankovic to advance to the semi-finals of the French Open; Serena Williams wins her match, setting up a showdown between her and Sharapova. ](/news/2013/06/5/in-tennis-maria-sharapova-beats-jelena-jankovic-to-advance-to-the-semi-finals-of-the-french-open-serena-williams-wins-her-match-setting-u.md) _Context: Maria Sharapova_
+6. [In tennis, Rafael Nadal wins men's singles and Maria Sharapova wins women's singles at the 2013 BNP Paribas Open in Indian Wells, California, United States. ](/news/2013/03/17/in-tennis-rafael-nadal-wins-men-s-singles-and-maria-sharapova-wins-women-s-singles-at-the-2013-bnp-paribas-open-in-indian-wells-california.md) _Context: Maria Sharapova_
+7. [In tennis, Novak Djokovic wins the men's singles at the 2013 Australian Open after his four-set victory over Andy Murray in the final. The Serbian player becomes the first male player in the Open Era to win three consecutive Australian Open singles titles. ](/news/2013/01/27/in-tennis-novak-djokovic-wins-the-men-s-singles-at-the-2013-australian-open-after-his-four-set-victory-over-andy-murray-in-the-final-the-s.md) _Context: Australian Open_
+8. [In tennis, Li Na will face Victoria Azarenka in the women's final at the 2013 Australian Open after her straight-set victory over Maria Sharapova in the semifinal. ](/news/2013/01/24/in-tennis-li-na-will-face-victoria-azarenka-in-the-women-s-final-at-the-2013-australian-open-after-her-straight-set-victory-over-maria-shar.md) _Context: Maria Sharapova_
+9. [Maria Sharapova defeats Sara Errani in the 2012 French Open Women's Singles final, returning to the World No. 1 ranking, ending a four-year major title drought and completing a career Grand Slam. Sharapova had been as low as World No. 126 during the drought, having suffered a serious shoulder injury in 2008. ](/news/2012/06/9/maria-sharapova-defeats-sara-errani-in-the-2012-french-open-women-s-singles-final-returning-to-the-world-no-1-ranking-ending-a-four-year.md) _Context: Maria Sharapova_
+10. [Maria Sharapova crashes out of the 2010 Australian Open, losing in the first round against compatriot Maria Kirilenko, 6&ndash;7 (4&ndash;7), 6&ndash;3, 4&ndash;6. ](/news/2010/01/18/maria-sharapova-crashes-out-of-the-2010-australian-open-losing-in-the-first-round-against-compatriot-maria-kirilenko-6-ndash-7-4-ndash-7.md) _Context: Maria Sharapova_

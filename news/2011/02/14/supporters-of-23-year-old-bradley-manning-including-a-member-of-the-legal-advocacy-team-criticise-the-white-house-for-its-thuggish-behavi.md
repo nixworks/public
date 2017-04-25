@@ -1,0 +1,23 @@
+### [2011-02-14](/news/2011/02/14/index.md)
+
+# Supporters of 23-year-old Bradley Manning, including a member of the legal advocacy team, criticise the White House for its "thuggish behaviour" and "torture" in trying to break the soldier by pressuring him to implicate Julian Assange in the alleged theft of 250,000 documents the U.S. government wished to keep secret. 
+
+Supporters of the man charged with stealing 250,000 classified US documents published by WikiLeaks say the White House is trying to break the young soldier.
+
+
+### Source:
+
+1. [ABC News and Current Affairs](http://www.abc.net.au/news/stories/2011/02/14/3137816.htm?section=world)
+
+### Related:
+
+1. [United States govt. attempts to access private information:It is revealed that the United States has subpoenaed Twitter for personal information regarding people connected to Wikileaks, including founder Julian Assange, suspected source of leaks Bradley Manning, and supporter Birgitta Jonsdottir, a member of Iceland's Althing. ](/news/2011/01/8/united-states-govt-attempts-to-access-private-information-pit-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-inform.md) _Context: Bradley Manning, Julian Assange_
+2. [Ahead of his court case Julian Assange is interviewed at the Norfolk country house where he is staying, having been up all night preparing U.S. State Department cables relevant to ongoing events in Egypt for inclusion on the WikiLeaks website. ](/news/2011/01/30/ahead-of-his-court-case-julian-assange-is-interviewed-at-the-norfolk-country-house-where-he-is-staying-having-been-up-all-night-preparing-u.md) _Context: 250,000 documents, Julian Assange_
+3. [NBC News reports that United States investigators have been unable to link Bradley Manning to Julian Assange, founder of the whistleblowing website WikiLeaks. ](/news/2011/01/24/nbc-news-reports-that-united-states-investigators-have-been-unable-to-link-bradley-manning-to-julian-assange-founder-of-the-whistleblowing.md) _Context: Bradley Manning, Julian Assange_
+4. [The WikiLeaks website honours a pledge made in July by offering financial aid to the legal team of Bradley Manning, a soldier accused by the United States of providing secret U.S. embassy cables for international public consumption. ](/news/2011/01/13/the-wikileaks-website-honours-a-pledge-made-in-july-by-offering-financial-aid-to-the-legal-team-of-bradley-manning-a-soldier-accused-by-the.md) _Context: 250,000 documents, Bradley Manning_
+5. [Lawyers for Wikileaks's founder Julian Assange express anger that incriminating police files regarding Assange's alleged sexual assault of two Swedish women were published in The Guardian newspaper, which has used him as its source for hundreds of leaked US embassy cables. ](/news/2010/12/19/lawyers-for-wikileaksas-founder-julian-assange-express-anger-that-incriminating-police-files-regarding-assangeas-alleged-sexual-assault.md) _Context: 250,000 documents, Julian Assange_
+6. [United States diplomatic cables leak and attack on WikiLeaks:The WikiLeaks website is attacked by a computer-hacking operation and undergoes "a mass distributed denial of service attack" as it prepares to release more secret U.S. documents. Julian Assange says U.S. authorities are afraid of being held accountable for their actions. ](/news/2010/11/28/united-states-diplomatic-cables-leak-and-attack-on-wikileaks-pthe-wikileaks-website-is-attacked-by-a-computer-hacking-operation-and-undergoe.md) _Context: 250,000 documents, Julian Assange_
+7. [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md) _Context: White House_
+8. [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md) _Context: White House_
+9. [President-elect of the United States Donald Trump meets with President Barack Obama for the first time at the White House. ](/news/2016/11/10/president-elect-of-the-united-states-donald-trump-meets-with-president-barack-obama-for-the-first-time-at-the-white-house.md) _Context: White House_
+10. [Wikileaks reveals that Ariana Grande was prevented from perfoming in the White House because of the July 2015 donut-licking incident. ](/news/2016/07/23/wikileaks-reveals-that-ariana-grande-was-prevented-from-perfoming-in-the-white-house-because-of-the-july-2015-donut-licking-incident.md) _Context: White House_

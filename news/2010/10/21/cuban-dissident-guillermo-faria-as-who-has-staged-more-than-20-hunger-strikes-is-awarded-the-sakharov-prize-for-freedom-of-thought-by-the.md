@@ -1,0 +1,25 @@
+### [2010-10-21](/news/2010/10/21/index.md)
+
+# Cuban dissident Guillermo Farinas, who has staged more than 20 hunger strikes, is awarded the Sakharov Prize for Freedom of Thought by the European Parliament. 
+
+Guillermo Farinas, the Cuban dissident who held a 135-day hunger strike earlier this year, has been awarded the European Parliament&#039;s Sakharov human rights prize.
+
+
+### Source:
+
+1. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE69K2VP20101021)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/cuba/8077903/Cuban-dissident-Guillermo-Farinas-wins-Sakharov-human-rights-prize.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-11594804)
+
+### Related:
+
+1. [Cuban dissident Guillermo Farinas ends a 134 day hunger strike after the Cuban government is to release 52 political prisoners. ](/news/2010/07/8/cuban-dissident-guillermo-faria-as-ends-a-134-day-hunger-strike-after-the-cuban-government-is-to-release-52-political-prisoners.md) _Context: Guillermo Fariñas, hunger strike_
+2. [ The Russian civil rights society ''Memorial'' is awarded the 2009 Sakharov Prize for freedom of thought. ](/news/2009/10/22/the-russian-civil-rights-society-memorial-is-awarded-the-2009-sakharov-prize-for-freedom-of-thought.md) _Context: Freedom of Thought, Sakharov Prize for Freedom of Thought_
+3. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: hunger strike_
+4. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: European Parliament_
+5. [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _Context: European Parliament_
+6. [Antonio Tajani has been elected as new President of the European Parliament. ](/news/2017/01/17/antonio-tajani-has-been-elected-as-new-president-of-the-european-parliament.md) _Context: European Parliament_
+7. [Turkish President Recep Tayyip Erdogan threatens to open Turkey's borders to allow refugees and migrants to reach Europe after the European Parliament votes to temporarily freeze talks of Turkey's accession to the EU. ](/news/2016/11/25/turkish-president-recep-tayyip-erdoaan-threatens-to-open-turkey-s-borders-to-allow-refugees-and-migrants-to-reach-europe-after-the-european.md) _Context: European Parliament_
+8. [An altercation with a fellow UKIP MEP inside the European Parliament leaves UK Independence Party, Member of the European Parliament, and current UKIP party leadership favorite Steven Woolfe hospitalized. ](/news/2016/10/6/an-altercation-with-a-fellow-ukip-mep-inside-the-european-parliament-leaves-uk-independence-party-member-of-the-european-parliament-and-cu.md) _Context: European Parliament_
+9. [Nigel Farage resigns as leader of the UK Independence Party (UKIP) but says he and other MEPs/MPs of the party would continue to carry out their term in the European Parliament. ](/news/2016/07/4/nigel-farage-resigns-as-leader-of-the-uk-independence-party-ukip-but-says-he-and-other-meps-mps-of-the-party-would-continue-to-carry-out-t.md) _Context: European Parliament_
+10. [Prime Minister David Cameron tells the House of Commons that legal experts advise that the UK-wide Brexit result binds the entire nation, even though  Northern Ireland and Scotland voted to stay in the EU. Yesterday, both Scottish and Northern Irish representatives told the European Parliament's plenary session they will leave the UK if that is the required price to keep their homelands fully connected to Europe. ](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.md) _Context: European Parliament_

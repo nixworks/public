@@ -1,0 +1,24 @@
+### [2016-11-14](/news/2016/11/14/index.md)
+
+# President-elect Donald Trump is seeking top secret security clearances for his children, according to CBS News. 
+
+His children would need to fill out a security questionnaire and go through background checks, and could be designated as outside national security advisers
+
+
+### Source:
+
+1. [CBS News](http://www.cbsnews.com/news/trump-team-seeks-top-secret-security-clearances-for-trump-children/)
+2. [Reuters](http://www.reuters.com/article/us-usa-trump-children-idUSKBN1392OQ?il=0)
+
+### Related:
+
+1. [The Trump White House bars ''The New York Times'', CNN, the ''Los Angeles Times'', the ''New York Daily News'', ''The Hill'',  the ''Daily Mail'',  BBC,  Politico, and BuzzFeed from a Friday press "gaggle." Generally conservative, mostly new, outlets were permitted entry, such as  Breitbart News, One America News Network, and ''The Washington Times''. Also allowed in were ABC News, CBS News, NBC News,  ''The Wall Street Journal'', Bloomberg News, and Fox News. ''Time'' magazine and the Associated Press could have attended but chose not to  in protest. The White House Correspondents' Association, which represents the press corps, quickly rebuked the White House's actions. ](/news/2017/02/24/the-trump-white-house-bars-the-new-york-times-cnn-the-los-angeles-times-the-new-york-daily-news-the-hill-the-daily-m.md) _Context: CBS News_
+2. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _Context: Presidential transition of Donald Trump_
+3. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _Context: Presidential transition of Donald Trump_
+4. [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md) _Context: Presidential transition of Donald Trump_
+5. [Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. ](/news/2017/01/19/former-georgia-governor-sonny-perdue-is-named-secretary-of-agriculture-the-last-open-seat-in-trump-s-cabinet.md) _Context: Presidential transition of Donald Trump_
+6. [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md) _Context: Presidential transition of Donald Trump_
+7. [  Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-whit.md) _Context: Presidential transition of Donald Trump_
+8. [Carl's Jr./Hardee's executive and minimum wage reform critic Andrew Puzder is selected as  United States Secretary of Labor. ](/news/2016/12/8/carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-states-secretary-of-labor.md) _Context: Presidential transition of Donald Trump_
+9. [John  F. Kelly is selected as Secretary of Homeland Security. ](/news/2016/12/7/john-f-kelly-is-selected-as-secretary-of-homeland-security.md) _Context: Presidential transition of Donald Trump_
+10. [President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban-development.md) _Context: Presidential transition of Donald Trump_

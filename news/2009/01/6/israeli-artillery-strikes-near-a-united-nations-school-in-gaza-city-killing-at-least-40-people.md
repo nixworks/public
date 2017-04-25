@@ -1,0 +1,23 @@
+### [2009-01-6](/news/2009/01/6/index.md)
+
+#  Israeli artillery strikes near a United Nations school in Gaza City,  killing at least 40 people. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2009/WORLD/meast/01/06/israel.gaza/index.html)
+
+### Related:
+
+1. [ Israel and Hamas ignore the United Nations Security Council's call for a ceasefire in the conflict in the Gaza Strip. ](/news/2009/01/9/israel-and-hamas-ignore-the-united-nations-security-council-s-call-for-a-ceasefire-in-the-conflict-in-the-gaza-strip.md) _Context: Israel, United Nations, fire_
+2. [ An Israeli Defense Forces airstrike kills 13 people in Gaza City. ](/news/2009/01/17/an-israeli-defense-forces-airstrike-kills-13-people-in-gaza-city.md) _Context: Gaza, Israel, fire_
+3. [ Israeli Defense Forces advance on Gaza City and engage in urban warfare with Hamas militants. ](/news/2009/01/13/israeli-defense-forces-advance-on-gaza-city-and-engage-in-urban-warfare-with-hamas-militants.md) _Context: Gaza, Israel, fire_
+4. [ Urban warfare begins between Israeli Defense Forces and Hamas militants as the former push further into Gaza City.  ](/news/2009/01/12/urban-warfare-begins-between-israeli-defense-forces-and-hamas-militants-as-the-former-push-further-into-gaza-city.md) _Context: Gaza, Israel, fire_
+5. [ Israeli Defense Forces and Hamas and Islamic Jihad militants battle in Sheikh Ajleen, a suburb of Gaza City.  ](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.md) _Context: Gaza, Israel, fire_
+6. [ A few hours after the spiritual leader of Hamas, Ahmed Yassin, offered to halt all suicide attacks in exchange for full Israeli withdrawal from the West Bank and Gaza Strip, an Israeli F-16 jet dropped a bomb into a densely populated residential area of Gaza City. Fifteen people were killed, including Salah Shehade (the leader of Hamas's military wing, the Izz ad-Din el-Qasam Brigades), and more than 100 others were wounded.  Nine of the dead were children, including Mohammed al-Huwaiti (aged 4), his brother Subhi (aged 3), Ayman Mattar (aged 1) and Dunya Rami Mattar (aged three months). The United Nations swiftly condemned the action as a flagrant violation of international law. Ariel Sharon, Israel's Prime Minister, said it was "one of our biggest successes", though the Prime Minister's office later added, "it is well known he regrets the killing of civilians."](/news/2002/07/22/a-few-hours-after-the-spiritual-leader-of-hamas-ahmed-yassin-offered-to-halt-all-suicide-attacks-in-exchange-for-full-israeli-withdrawal.md) _Context: Gaza, Israel, United Nations_
+7. [Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-the-december-23-2016-security-council-settl.md) _Context: Israel, United Nations_
+8. [U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. ](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.md) _Context: Israel, United Nations_
+9. [The  report of the diplomatic Quartet to the Security Council -- the United Nations, Russia, the United States, and the European Union -- calls on Israel to end  settlement construction and expansion policy, and calls on  Palestinians to act decisively to stop incitement to violence and to clearly condemn terrorist acts. Special Coordinator for the Middle East Peace Process Nickolay Mladenov tells the UNSC, "The main objective of this report is not about assigning blame ... (rather) it focuses on the major threats to achieving a negotiated peace." ](/news/2016/07/1/the-report-of-the-diplomatic-quartet-to-the-security-council-a-the-united-nations-russia-the-united-states-and-the-european-union-a.md) _Context: Israel, United Nations_
+10. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _Context: Israel, United Nations_

@@ -1,0 +1,43 @@
+## [2013-01-29](/news/2013/01/29/index.md)
+
+### [War in Somalia (2009-present):A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009apresent-pa-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-moga.md)
+_Context: Mogadishu, Somali government, War in Somalia (2009–present)_
+
+### [Northern Mali conflict (2012-present): The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/northern-mali-conflict-2012apresent-pthe-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in.md)
+The UK is to deploy about 330 military personnel to Mali and West Africa to support French forces there, Downing Street says.
+
+### [Syrian civil war:At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-pat-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md)
+The bodies of at least 71 young men, all apparently summarily executed, have been found in the northern Syrian city of Aleppo, rebels and activists say.
+
+### [Vittorio Grilli, Italy's Economy Minister, contends before a committee of parliament that the central bank's handling of the supervision of Monte dei Paschi has been "attentive and appropriate". ](/news/2013/01/29/vittorio-grilli-italy-s-economy-minister-contends-before-a-committee-of-parliament-that-the-central-bank-s-handling-of-the-supervision-of.md)
+_Context: Bank of Italy, Economy Minister, Italian, Monte dei Paschi, Vittorio Grilli, parliament_
+
+### [A Bombardier CRJ200 airliner operated by SCAT Air crashes near the Kazakh city of Almaty, killing all 15 passengers and 5 crew people on board. ](/news/2013/01/29/a-bombardier-crj200-airliner-operated-by-scat-air-crashes-near-the-kazakh-city-of-almaty-killing-all-15-passengers-and-5-crew-people-on-boa.md)
+_Context: Almaty, Bombardier CRJ200, Kazakhstan, SCAT Air, crashes_
+
+### [A Ukrainian court sentences a former police chief Olexiy Pukach to life imprisonment for murdering journalist Georgiy Gongadze in 2000. ](/news/2013/01/29/a-ukrainian-court-sentences-a-former-police-chief-olexiy-pukach-to-life-imprisonment-for-murdering-journalist-georgiy-gongadze-in-2000.md)
+A Ukrainian court convicts a former police surveillance chief of killing journalist Georgy Gongadze in 2000, a crime which rocked the country.
+
+### [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94a3-kerry-succeeds-outgoing-secreta.md)
+_Context: Hillary Clinton, John Kerry, United States, United States Secretary of State, United States Senate_
+
+### [UK government plans to redraw constituency boundaries before the next general election are defeated in the House of Commons by 334 to 292. ](/news/2013/01/29/uk-government-plans-to-redraw-constituency-boundaries-before-the-next-general-election-are-defeated-in-the-house-of-commons-by-334-to-292.md)
+Government plans to redraw constituency boundaries before 2015, which split Tories and Lib Dems, are defeated in the House of Commons.
+
+### [Google expands its Google Maps map data coverage of North Korea for what has been blank on most of that country satellite images on its search engine. ](/news/2013/01/29/google-expands-its-google-maps-map-data-coverage-of-north-korea-for-what-has-been-blank-on-most-of-that-country-satellite-images-on-its-sear.md)
+_Context: Google, Google Maps, North Korea, satellite images, search engine_
+
+### [The 15-page article published by French football magazine ''France Football'' and titled ''The Qatargate'' reveals evidence pointing towards Qatar buying the right to host the 2022 FIFA World Cup. ](/news/2013/01/29/the-15-page-article-published-by-french-football-magazine-france-football-and-titled-the-qatargate-reveals-evidence-pointing-towards.md)
+_Context: 2022 FIFA World Cup, France, France Football, Qatar, association football_
+
+### [A.C. Milan says it has reached an agreement with Manchester City F.C. to sign Italian striker Mario Balotelli. ](/news/2013/01/29/a-c-milan-says-it-has-reached-an-agreement-with-manchester-city-f-c-to-sign-italian-striker-mario-balotelli.md)
+Manchester City have agreed to sell Italian striker Mario Balotelli to AC Milan for a fee of £20 million to be paid over five years
+
+### [The ''Miami New Times'' reports that Biogenesis, a Miami anti-aging clinic that closed in December 2012, sold a wide array of performance-enhancing drugs to several prominent Major League Baseball players, among them Alex Rodriguez, Melky Cabrera, Nelson Cruz, and Gio Gonzalez. ](/news/2013/01/29/the-miami-new-times-reports-that-biogenesis-a-miami-anti-aging-clinic-that-closed-in-december-2012-sold-a-wide-array-of-performance-en.md)
+Records from an anti-aging clinic in Miami list the names of baseball players -- including Alex Rodriguez, Melky Cabrera and Gio Gonzalez -- and detail PEDs administered to them and others, according to a report by Miami New Times.
+
+### [According to a report in ''Sports Illustrated'', Baltimore Ravens linebacker Ray Lewis used the supplement deer-antler spray (containing a dilute solution of IGF-1 which has been banned by the NFL) to aid his recovery from a torn triceps. Lewis has denied using the substance. The report also alleges that members of the Alabama Crimson Tide used the substance before the 2012 BCS National Championship Game against the LSU Tigers. ](/news/2013/01/29/according-to-a-report-in-sports-illustrated-baltimore-ravens-linebacker-ray-lewis-used-the-supplement-deer-antler-spray-containing-a-d.md)
+_Context: 2012 BCS National Championship Game, Alabama Crimson Tide, Baltimore Ravens, IGF-1, LSU Tigers, National Football League, Ray Lewis, Sports Illustrated, deer-antler spray, linebacker, triceps_
+
+## [Previous Day...](/news/2013/01/28/index.md)
+

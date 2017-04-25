@@ -1,0 +1,23 @@
+### [2013-06-19](/news/2013/06/19/index.md)
+
+# The Indian Army is deployed to help rescue people in the flood-hit northern states of Uttarakhand and Himachal Pradesh, where the number of confirmed deaths has reached 130. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22963870)
+
+### Related:
+
+1. [2013 North India floods:The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-pthe-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himacha.md) _Context: Himachal Pradesh, Uttarakhand_
+2. [At least three Pakistan Army soldiers are killed by the Indian Army, while separate clashes kill three Indian Army soldiers and one suspected militant, at the Line of Control. ](/news/2017/02/14/at-least-three-pakistan-army-soldiers-are-killed-by-the-indian-army-while-separate-clashes-kill-three-indian-army-soldiers-and-one-suspecte.md) _Context: Indian Army_
+3. [Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.md) _Context: Indian Army_
+4. [At least 14 Indian Army soldiers and four civilians are killed in a series of avalanches near the Line of Control in Jammu and Kashmir. ](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.md) _Context: Indian Army_
+5. [Militants launch an attack on an Indian Army base in the town of Nagrota. At least 7 soldiers and 3 insurgents die in the attack. ](/news/2016/11/29/militants-launch-an-attack-on-an-indian-army-base-in-the-town-of-nagrota-at-least-7-soldiers-and-3-insurgents-die-in-the-attack.md) _Context: Indian Army_
+6. [The Indian Army claims it conducted surgical strikes on militant camps in Pakistan across the Line of Control, allegedly-killing several suspected militants. However, Pakistan rejects this claim and terms it cross-border firing that killed two of its soldiers. ](/news/2016/09/29/the-indian-army-claims-it-conducted-surgical-strikes-on-militant-camps-in-pakistan-across-the-line-of-control-allegedly-killing-several-sus.md) _Context: Indian Army_
+7. [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md) _Context: Indian Army_
+8. [At least three people are killed and dozens more are wounded when protesters clash with Indian Army soldiers. The protesters defied an army curfew and took part in the funeral of a top rebel commander of Hizbul Mujahideen. ](/news/2016/07/9/at-least-three-people-are-killed-and-dozens-more-are-wounded-when-protesters-clash-with-indian-army-soldiers-the-protesters-defied-an-army.md) _Context: Indian Army_
+9. [At least 30 civilians have been killed by Indian Army soldiers as anti-government protests and violence spread across the state. ](/news/2016/07/11/at-least-30-civilians-have-been-killed-by-indian-army-soldiers-as-anti-government-protests-and-violence-spread-across-the-state.md) _Context: Indian Army_
+10. [Authorities in Jammu and Kashmir impose a curfew around the capital of Srinagar, Handwara, and neighbouring villages as protests turn violent. People began to protest last Tuesday when allegations were circulated by residents in Handwara that an Indian Army soldier tried to sexually assault a teenage schoolgirl. ](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfew-around-the-capital-of-srinagar-handwara-and-neighbouring-villages-as-protests-turn-violen.md) _Context: Indian Army_

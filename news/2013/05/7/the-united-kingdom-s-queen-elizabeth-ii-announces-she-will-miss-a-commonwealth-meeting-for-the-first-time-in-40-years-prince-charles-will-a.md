@@ -1,0 +1,23 @@
+### [2013-05-7](/news/2013/05/7/index.md)
+
+# The United Kingdom's Queen Elizabeth II announces she will miss a Commonwealth meeting for the first time in 40 years. Prince Charles will attend on her behalf. 
+
+LONDON &ndash; Ending four decades of perfect attendance, Queen Elizabeth II will skip the biennial meeting of Commonwealth leaders later this year as part of a rethink by palace officials of...
+
+
+### Source:
+
+1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-queen-elizabeth-commonwealth-meeting-20130507,0,3284523.story)
+
+### Related:
+
+1. [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md) _Context: Queen Elizabeth II, United Kingdom_
+2. [Queen Elizabeth II's visit to the Republic of Ireland:Queen Elizabeth II starts her first state visit to the Republic of Ireland, the first visit of a British monarch since Ireland's independence from the United Kingdom in 1921. Elizabeth is also the first British monarch to visit Ireland since George V's state visit in 1911. ](/news/2011/05/17/queen-elizabeth-ii-s-visit-to-the-republic-of-ireland-pqueen-elizabeth-ii-starts-her-first-state-visit-to-the-republic-of-ireland-the-first.md) _Context: Queen Elizabeth II, United Kingdom_
+3. [The United Kingdom, on Friday, did not derive energy from any coal-fired source, the first continuous 24-hour, coal-free period for the UK since use of the fossil fuel began. Coal accounted for just 9 percent of the electricity generated last year. ](/news/2017/04/22/the-united-kingdom-on-friday-did-not-derive-energy-from-any-coal-fired-source-the-first-continuous-24-hour-coal-free-period-for-the-uk-s.md) _Context: United Kingdom_
+4. [British sports retailer Sports Direct agreed to acquire the American retail chains Bob's Stores and Eastern Mountain Sports for $101 million out of bankruptcy. ](/news/2017/04/21/british-sports-retailer-sports-direct-agreed-to-acquire-the-american-retail-chains-bob-s-stores-and-eastern-mountain-sports-for-101-million.md) _Context: United Kingdom_
+5. [A second parchment manuscript of the United States Declaration of Independence is discovered by Harvard University researchers, in a record office in Chichester, United Kingdom. ](/news/2017/04/21/a-second-parchment-manuscript-of-the-united-states-declaration-of-independence-is-discovered-by-harvard-university-researchers-in-a-record.md) _Context: United Kingdom_
+6. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: United Kingdom_
+7. [The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. ](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by-522-votes-to-13-a-snap-general-election-to-be-held-on-june-8.md) _Context: United Kingdom_
+8. [British Prime Minster Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minster-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-major.md) _Context: United Kingdom_
+9. [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md) _Context: United Kingdom_
+10. [The United Kingdom-based Jaeger fashion chain collapses into administration after failing to find a buyer. ](/news/2017/04/10/the-united-kingdom-based-jaeger-fashion-chain-collapses-into-administration-after-failing-to-find-a-buyer.md) _Context: United Kingdom_

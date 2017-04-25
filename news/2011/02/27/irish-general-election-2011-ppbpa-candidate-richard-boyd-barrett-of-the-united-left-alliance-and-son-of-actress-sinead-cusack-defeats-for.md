@@ -1,0 +1,25 @@
+### [2011-02-27](/news/2011/02/27/index.md)
+
+# Irish general election, 2011:PBPA candidate Richard Boyd Barrett of the United Left Alliance, and son of actress Sinad Cusack, defeats former minister and deputy Fianna Fil leader Mary Hanafin in the Dn Laoghaire constituency. This leaves Fianna Fil with one representative in the capital city (Brian Lenihan, Jnr) and no Fianna Fil women at all in the 31st Dil. 
+
+People Before Profit candidate Richard Boyd-Barrett, running under the United Left Alliance ticket, has taken the fourth and &hellip;
+
+
+### Source:
+
+1. [Evening Echo](http://www.eveningecho.ie/news/ireland/hanafin-loses-out-to-boyd-barrett-in-dun-laoghaire-495322.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0227/breaking16.html)
+3. [RTÉ](http://www.rte.ie/news/2011/0228/election.html)
+
+### Related:
+
+1. [The sole representative of the leading Irish opposition party Fianna Fail in the European Parliament leaves the liberal ALDE group and joins the moderately Eurosceptic ECR group without his party's consent. ](/news/2014/06/23/the-sole-representative-of-the-leading-irish-opposition-party-fianna-fail-in-the-european-parliament-leaves-the-liberal-alde-group-and-joins.md) _Context: Fianna Fail_
+2. [In Ireland, thousands of people attend an anti-austerity rally at Dublin Castle, where EU finance ministers are meeting. Opposition TDs Richard Boyd Barrett, Joan Collins and Joe Higgins address the demonstration. ](/news/2013/04/13/in-ireland-thousands-of-people-attend-an-anti-austerity-rally-at-dublin-castle-where-eu-finance-ministers-are-meeting-opposition-tds-rich.md) _Context: Richard Boyd Barrett_
+3. [Phil Hogan says Fine Gael and the Labour Party have agreed a draft of a proposed Programme for Government as talks between the political parties resume at Government Buildings in Dublin following the recent general election. ](/news/2011/03/5/phil-hogan-says-fine-gael-and-the-labour-party-have-agreed-a-draft-of-a-proposed-programme-for-government-as-talks-between-the-political-par.md) _Context: recently claimed back_
+4. [Moriarty Tribunal in Ireland:Former government minister Michael Lowry refuses to resign the seat he recently claimed back in Dail Eireann in the aftermath of the Moriarty Tribunal's findings that he assisted billionaire businessman Denis O'Brien "beyond doubt" in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal. Taoiseach Enda Kenny admits Fine Gael accepted a donation worth thousands of dollars from Esat at the time. ](/news/2011/03/24/moriarty-tribunal-in-ireland-pformer-government-minister-michael-lowry-refuses-to-resign-the-seat-he-recently-claimed-back-in-da-il-aireann.md) _Context: recently claimed back_
+5. [Irish general election, 2011:The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/irish-general-election-2011-pthe-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling-f.md) _Context: recently claimed back_
+6. [Voters in the Republic of Ireland go to the polls for the Irish general election. ](/news/2011/02/25/voters-in-the-republic-of-ireland-go-to-the-polls-for-the-irish-general-election.md) _Context: recently claimed back_
+7. [Irish general election, 2011:Brian Cowen resigns by requesting the dissolution of the 30th Dail, allowing a general election to take place, the first such election of the eurozone debt crisis. ](/news/2011/02/1/irish-general-election-2011-pbrian-cowen-resigns-by-requesting-the-dissolution-of-the-30th-da-il-allowing-a-general-election-to-take-place.md) _Context: recently claimed back_
+8. [Seanad Eireann, Ireland's upper house, passes the significant Finance Bill, effectively imposing harsh austerity measures on the Irish public. It is the last act carried out by the government before a general election is called. ](/news/2011/01/29/seanad-aireann-ireland-s-upper-house-passes-the-significant-finance-bill-effectively-imposing-harsh-austerity-measures-on-the-irish-publ.md) _Context: recently claimed back_
+9. [Taoiseach Brian Cowen promises to dissolve Dail Eireann next Tuesday and to announce the date of the Irish general election, 2011. ](/news/2011/01/28/taoiseach-brian-cowen-promises-to-dissolve-da-il-aireann-next-tuesday-and-to-announce-the-date-of-the-irish-general-election-2011.md) _Context: recently claimed back_
+10. [Leadership challenge to Taoiseach Brian Cowen:Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/leadership-challenge-to-taoiseach-brian-cowen-ptaoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the.md) _Context: recently claimed back_

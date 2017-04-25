@@ -1,0 +1,25 @@
+### [2012-03-22](/news/2012/03/22/index.md)
+
+# After 15 years, the Mahon Tribunal into political corruption in Ireland concludes with findings against high-profile politicians, including two former Taoisigh. 
+
+Former Taoiseach Bertie Ahern has insisted that he told the truth to the Mahon Tribunal and that he would examine ways of vindicating his name.
+
+
+### Source:
+
+1. [RTÉ](http://www.rte.ie/news/2012/0322/mahon.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-17473762)
+3. [Financial Times](http://www.ft.com/intl/cms/s/0/2b466240-742b-11e1-9951-00144feab49a.html#axzz1prXi4PYI)
+
+### Related:
+
+1. [Irish politicians respond to High Court Judge Paul Carney's order that a man who plead guilty in court to repeatedly raping his daughter as a child be granted bail and provisional released. Taoiseach Enda Kenny comments on a nation "filled with revulsion" at the outcome of the case, while opposition politician Gerry Adams refers to abuse his father inflicted on others. ](/news/2013/01/22/irish-politicians-respond-to-high-court-judge-paul-carney-s-order-that-a-man-who-plead-guilty-in-court-to-repeatedly-raping-his-daughter-as.md) _Context: Ireland, Taoiseach_
+2. [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md) _Context: Ireland, Taoiseach_
+3. [Former Taoiseach (Prime Minister) of the Republic of Ireland Garret FitzGerald dies in Dublin aged 85. ](/news/2011/05/19/former-taoiseach-prime-minister-of-the-republic-of-ireland-garret-fitzgerald-dies-in-dublin-aged-85.md) _Context: Ireland, Taoiseach_
+4. [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md) _Context: Ireland, Taoiseach_
+5. [Enda Kenny is elected as the 13th Taoiseach of Ireland by a margin of 117-27 in the 31st Dail Eireann, replacing Brian Cowen. ](/news/2011/03/9/enda-kenny-is-elected-as-the-13th-taoiseach-of-ireland-by-a-margin-of-117-27-in-the-31st-da-il-aireann-replacing-brian-cowen.md) _Context: Ireland, Taoiseach_
+6. [Ireland's Fine Gael Deputy Leader and Finance Spokesperson Richard Bruton, brother of former Taoiseach John Bruton, is sacked after publicly declaring his lack of confidence in Fine Gael's leader Enda Kenny. ](/news/2010/06/14/ireland-s-fine-gael-deputy-leader-and-finance-spokesperson-richard-bruton-brother-of-former-taoiseach-john-bruton-is-sacked-after-publicly.md) _Context: Ireland, Taoiseach_
+7. [Taoiseach Brian Cowen begins his state visit to the United States in Chicago, announcing to the world his scheme that will allow senior citizen tourists aged 66 and above to travel free on Iarnrod Eireann in the Republic of Ireland. ](/news/2010/03/13/taoiseach-brian-cowen-begins-his-state-visit-to-the-united-states-in-chicago-announcing-to-the-world-his-scheme-that-will-allow-senior-citi.md) _Context: Ireland, Taoiseach_
+8. [Irish Minister for Defence Willie O'Dea resigns after a controversy surrounding his remarks on a rival politician's relationship with brothels but denies claims by opposition party Fine Gael that he has committed perjury. Taoiseach Brian Cowen assigns himself temporary responsibility for the Department of Defence. ](/news/2010/02/18/irish-minister-for-defence-willie-o-dea-resigns-after-a-controversy-surrounding-his-remarks-on-a-rival-politician-s-relationship-with-brothe.md) _Context: Ireland, Taoiseach_
+9. [ Irish Independent Member of Parliament Noel Grealish withdraws his support for the country's government over the issue of pay cuts in the public sector. The move reduces the administration of Taoiseach Brian Cowen to a minority government. ](/news/2009/12/5/irish-independent-member-of-parliament-noel-grealish-withdraws-his-support-for-the-country-s-government-over-the-issue-of-pay-cuts-in-the-p.md) _Context: Ireland, Taoiseach_
+10. [ Ireland's Taoiseach Brian Cowen is confronted by displeased residents in Athlone during his half-day tour of flood-hit areas in Galway, Offaly, Roscommon and Westmeath. ](/news/2009/11/26/ireland-s-taoiseach-brian-cowen-is-confronted-by-displeased-residents-in-athlone-during-his-half-day-tour-of-flood-hit-areas-in-galway-off.md) _Context: Ireland, Taoiseach_

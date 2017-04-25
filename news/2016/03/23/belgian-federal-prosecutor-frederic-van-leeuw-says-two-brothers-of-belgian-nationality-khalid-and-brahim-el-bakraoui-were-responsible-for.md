@@ -1,0 +1,26 @@
+### [2016-03-23](/news/2016/03/23/index.md)
+
+# Belgian federal prosecutor Frederic Van Leeuw  says two brothers of Belgian nationality, Khalid and Brahim el-Bakraoui, were responsible for yesterday's suicide bombings. Khalid bombed the subway station while Ibrahim bombed the airport, he added. A third suspect, who died at the airport, is identified as Najim Laachraoui, says ''De Standaard''. A fourth suspect seen in the airport photo, who left a massive bomb at the airport that did not detonate, is unidentified and still at large. 
+
+The brothers fit what European anti-terrorism investigators call a disturbing but now-familiar profile.
+
+
+### Source:
+
+1. [Los Angeles Times](http://www.latimes.com/world/europe/la-fg-suspect-in-brussels-attacks-is-sought-20160323-story.html)
+2. [UPI](http://www.upi.com/Top_News/World-News/2016/03/23/Belgian-prosecutor-confirms-Brussels-bombing-brothers-identities-describes-note-left-by-one/8501458722374/?spt=hts&or=1)
+3. [De Standaard](http://www.standaard.be/cnt/dmf20160322_02197048)
+4. [Reuters](http://www.reuters.com/article/us-belgium-blast-poland-idUSKCN0WP1D1)
+
+### Related:
+
+1. [Aftermath of the Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-conf.md) _Context: 2016 Brussels bombings, Belgium_
+2. [Aftermath of the At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was.md) _Context: 2016 Brussels bombings, Belgium_
+3. [Aftermath of the Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/aftermath-of-the-belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-ma.md) _Context: 2016 Brussels bombings, Belgium_
+4. [  Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-thre.md) _Context: 2016 Brussels bombings, Belgium_
+5. [Aftermath of the Police in Brussels, Belgium, forcibly break up an apparent far-right demonstration with water cannons after they joined a crowd of people paying tribute to the victims of the bombings. The demonstrators claim to have marched against terrorism but police intervened when the demonstrators confronted Muslim women and made Nazi salutes. ](/news/2016/03/27/aftermath-of-the-police-in-brussels-belgium-forcibly-break-up-an-apparent-far-right-demonstration-with-water-cannons-after-they-joined-a-c.md) _Context: 2016 Brussels bombings, Belgium_
+6. [Three explosions in the Brussels Airport and Maalbeek metro station kill at least 34 people and wound at least 170 more, according to Belgian media. Belgian federal Prosecutor Frederic Van Leeuw cautions it is too soon to know exactly how many people died in the bombings. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/03/22/three-explosions-in-the-brussels-airport-and-maalbeek-metro-station-kill-at-least-34-people-and-wound-at-least-170-more-according-to-belgia.md) _Context: 2016 Brussels bombings, Belgium_
+7. [In light of the Belgian attacks, Warner Bros. cancels the red carpet but will hold the European premiere of the highly-publicized film, ''Batman v Superman: Dawn of Justice'', at London's Leicester Square tonight. ](/news/2016/03/22/in-light-of-the-belgian-attacks-warner-bros-cancels-the-red-carpet-but-will-hold-the-european-premiere-of-the-highly-publicized-film-ba.md) _Context: 2016 Brussels bombings, Belgium_
+8. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
+9. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
+10. [One person is killed and 20 are injured when a passenger train derails near {{rws|Leuven}}, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-rws-leuven-belgium.md) _Context: Belgium_

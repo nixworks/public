@@ -1,0 +1,23 @@
+### [2013-08-14](/news/2013/08/14/index.md)
+
+# 2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/08/14/us-korea-north-idUSBRE97D0I520130814)
+
+### Related:
+
+1. [2013 Korean crisis:North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/2013-korean-crisis-pnorth-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-insi.md) _Context: 2013 Korean crisis, Kaesong area, North Korea, South Korea_
+2. [2013 Korean crisis:North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/2013-korean-crisis-pnorth-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confro.md) _Context: 2013 Korean crisis, Kaesong area, North Korea, South Korea_
+3. [South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.md) _Context: Kaesong area, North Korea, South Korea_
+4. [South Korea says it will resume cross-border propaganda broadcasts and limit entry to the Kaesong Industrial Region in response to yesterday's nuclear test at the North's Punggye-ri Nuclear Test Site. North Korea considers the propaganda broadcasts to be "an act of war". ](/news/2016/01/7/south-korea-says-it-will-resume-cross-border-propaganda-broadcasts-and-limit-entry-to-the-kaesong-industrial-region-in-response-to-yesterday.md) _Context: Kaesong area, North Korea, South Korea_
+5. [North Korea and South Korea agree to resume talks on reopening the Kaesong industrial zone. ](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.md) _Context: Kaesong area, North Korea, South Korea_
+6. [Aftermath of the 2013 Korean crisis:North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/aftermath-of-the-2013-korean-crisis-pnorth-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-statin.md) _Context: 2013 Korean crisis, North Korea, South Korea_
+7. [2013 Korean crisis:A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/2013-korean-crisis-pa-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increas.md) _Context: 2013 Korean crisis, North Korea, South Korea_
+8. [2013 Korean crisis:South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-psouth-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-n.md) _Context: 2013 Korean crisis, North Korea, South Korea_
+9. [2013 Korean crisis:South Korea's Ministry of Unification says that North Korea is denying workers entry to joint-Korean Kaesong complex amid tensions on the peninsula. The Ministry of Defence will consider a military action if the workers' security is threatened. The U.S. Navy sends USS ''John McCain'' and USS ''Decatur'' into the area. ](/news/2013/04/3/2013-korean-crisis-psouth-korea-s-ministry-of-unification-says-that-north-korea-is-denying-workers-entry-to-joint-korean-kaesong-complex-ami.md) _Context: 2013 Korean crisis, North Korea, South Korea_
+10. [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md) _Context: Kaesong area, North Korea, South Korea_

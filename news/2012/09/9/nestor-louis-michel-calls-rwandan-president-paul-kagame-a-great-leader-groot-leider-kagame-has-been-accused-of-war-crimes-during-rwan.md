@@ -1,0 +1,23 @@
+### [2012-09-9](/news/2012/09/9/index.md)
+
+# Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. 
+
+
+
+
+### Source:
+
+1. [De Zondag'', p. 12-13, in Dutch](http://makr.roularta.be/3DI/DZ/index.jsp?editie=14011)
+
+### Related:
+
+1. [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md) _Context: Democratic Republic of Congo, Paul Kagame, Rwanda_
+2. [ Rwandan President Paul Kagame denies previous reports that quoted him as saying Rwanda would invade the Democratic Republic of Congo to deal with Hutu rebel groups responsible for the Rwandan genocide. ](/news/2006/11/13/rwandan-president-paul-kagame-denies-previous-reports-that-quoted-him-as-saying-rwanda-would-invade-the-democratic-republic-of-congo-to-dea.md) _Context: Democratic Republic of Congo, Paul Kagame, Rwanda_
+3. [Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kagame-to-run-for-more-terms-in-office-the.md) _Context: Paul Kagame, Rwanda_
+4. [Voters in Rwanda go to the polls for a parliamentary election with the Rwandan Patriotic Front of President Paul Kagame achieving a landslide victory. ](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.md) _Context: Paul Kagame, Rwanda_
+5. [M23 rebellion:The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/m23-rebellion-pthe-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-k.md) _Context: Democratic Republic of Congo, M23_
+6. [A United Nations expert panel reports that although the two governments deny it, Rwanda and Uganda continue to support the March 23 Movement. ](/news/2012/10/16/a-united-nations-expert-panel-reports-that-although-the-two-governments-deny-it-rwanda-and-uganda-continue-to-support-the-march-23-movement.md) _Context: M23, Rwanda_
+7. [The Democratic Republic of the Congo wants United Nations sanctions on Rwandese top military officials named in a June U.N. report as supporting the M23 rebels in the current east Congo conflict. ](/news/2012/09/3/the-democratic-republic-of-the-congo-wants-united-nations-sanctions-on-rwandese-top-military-officials-named-in-a-june-u-n-report-as-suppor.md) _Context: M23, Rwanda_
+8. [The trial of two Rwandan rebel leaders charged in connection with their part in crimes against humanity and war crimes carried out by their militias in the Democratic Republic of Congo in 2008 and 2009, begins in the Stuttgart high court, Germany. ](/news/2011/05/4/the-trial-of-two-rwandan-rebel-leaders-charged-in-connection-with-their-part-in-crimes-against-humanity-and-war-crimes-carried-out-by-their.md) _Context: Democratic Republic of Congo, Rwanda_
+9. [A military court in Rwanda sentences four former top officials who were allies of President Paul Kagame to long prison sentences ''in absentia''. ](/news/2011/01/14/a-military-court-in-rwanda-sentences-four-former-top-officials-who-were-allies-of-president-paul-kagame-to-long-prison-sentences-in-absent.md) _Context: Paul Kagame, Rwanda_
+10. [Rwanda's incumbent President Paul Kagame wins the country's presidential election with 95% of the vote. ](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.md) _Context: Paul Kagame, Rwanda_

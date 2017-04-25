@@ -1,0 +1,23 @@
+### [2007-07-5](/news/2007/07/5/index.md)
+
+#  An armed man holds several people hostage at a bank in the Montreal suburb of Longueuil. The situation is resolved without injury. 
+
+
+
+
+### Source:
+
+1. [CTV](http://news.sympatico.msn.ctv.ca/TopStories/ContentPosting.aspx?feedname=CTV-TOPSTORIES_V2&showbyline=True&newsitemid=CTVNews%2f20070705%2fmtl_bank_070705)
+
+### Related:
+
+1. [The city of Montreal in Canada begins dumping 2 billion gallons of raw sewage into the Saint Lawrence River, an action the mayor, Denis Coderre, says is necessary to make repairs and improvements to the city's wastewater system. The move has caused outrage among residents and environmentalists, while the hashtag "''#flushgate''" is being used on social media sites to voice opposition to the dumping effort. ](/news/2015/11/12/the-city-of-montreal-in-canada-begins-dumping-2-billion-gallons-of-raw-sewage-into-the-saint-lawrence-river-an-action-the-mayor-denis-code.md) _Context: city of Montreal_
+2. [In motor sport, the Formula One Canadian Grand Prix is held at Circuit Gilles Villeneuve in Montreal with Lewis Hamilton of Mercedes-Benz winning the race ahead of teammate Nico Rosberg. ](/news/2015/06/7/in-motor-sport-the-formula-one-canadian-grand-prix-is-held-at-circuit-gilles-villeneuve-in-montreal-with-lewis-hamilton-of-mercedes-benz-wi.md) _Context: city of Montreal_
+3. [Three men who escaped from a jail near Quebec City via helicopter on 7 June are recaptured by the RCMP in Montreal. ](/news/2014/06/22/three-men-who-escaped-from-a-jail-near-quebec-city-via-helicopter-on-7-june-are-recaptured-by-the-rcmp-in-montreal.md) _Context: city of Montreal_
+4. [Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. ](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.md) _Context: city of Montreal_
+5. [Michael Applebaum, mayor of Montreal, Quebec is arrested on charges of fraud and abuse of public office. ](/news/2013/06/17/michael-applebaum-mayor-of-montreal-quebec-is-arrested-on-charges-of-fraud-and-abuse-of-public-office.md) _Context: city of Montreal_
+6. [Most of the population in Montreal, Canada, is advised to boil water before drinking after sediments are found in the reservoir of a major water treatment plant. ](/news/2013/05/23/most-of-the-population-in-montreal-canada-is-advised-to-boil-water-before-drinking-after-sediments-are-found-in-the-reservoir-of-a-major-w.md) _Context: city of Montreal_
+7. [The City Hall of the Canadian city of Montreal is shut down as the Quebec police conduct anti-corruption raids. ](/news/2013/02/19/the-city-hall-of-the-canadian-city-of-montreal-is-shut-down-as-the-quebec-police-conduct-anti-corruption-raids.md) _Context: city of Montreal_
+8. [Protesters and riot police clash for the third night in a row in Montreal near the Grand Prix events on the corner of Sainte-Catherine and Crescent. ](/news/2012/06/9/protesters-and-riot-police-clash-for-the-third-night-in-a-row-in-montreal-near-the-grand-prix-events-on-the-corner-of-sainte-catherine-and-c.md) _Context: city of Montreal_
+9. [A schoolteacher in Montreal is suspended after showing pupils a video said to depict a murder. ](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.md) _Context: city of Montreal_
+10. [In Montreal the biggest protest in Quebec's history sets out against the government's tuition hikes and for free access to post-secondary education, with more than 200 000 people marching in the streets ](/news/2012/03/22/in-montreal-the-biggest-protest-in-quebec-s-history-sets-out-against-the-government-s-tuition-hikes-and-for-free-access-to-post-secondary-ed.md) _Context: city of Montreal_

@@ -1,0 +1,23 @@
+### [2013-04-22](/news/2013/04/22/index.md)
+
+# The U.S. International Trade Commission sides with Apple against a claim by Google that Apple's popular iPhones violate a Google patent. 
+
+Apple Inc scored a win on Monday when the U.S. International Trade Commission ruled that it did not violate a Google patent to make the popular iPhones.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/04/22/us-apple-google-patent-idUSBRE93L17Y20130422)
+
+### Related:
+
+1. [U.S. patent authorities reject an important Apple Inc. patent concerning pinch-to-zoom gestures on a mobile device screen. ](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.md) _Context: Apple Inc., U.S., patent_
+2. [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md) _Context: Apple Inc., iPhone, patent_
+3. [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others.  ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md) _Context: Apple Inc., Google, patent_
+4. [Samsung Electronics lodges a claim with the US International Trade Commission to stop Apple Inc. importing six products including the iPhone, iPod and iPads for alleged patent infringements. ](/news/2011/06/30/samsung-electronics-lodges-a-claim-with-the-us-international-trade-commission-to-stop-apple-inc-importing-six-products-including-the-iphone.md) _Context: Apple Inc., International Trade Commission, patent_
+5. [The U.S. International Trade Commission has agreed to hear an appeal from Kodak to an initial unfavorable decision by an administrative judge on Kodak's claim that Research in Motion and Apple have infringed its patents, in connection with wireless devices equipped with digital cameras. ](/news/2011/03/25/the-u-s-international-trade-commission-has-agreed-to-hear-an-appeal-from-kodak-to-an-initial-unfavorable-decision-by-an-administrative-judg.md) _Context: Apple Inc., International Trade Commission, U.S._
+6. [ Google receives a United States patent for an adhesive for its self-driving cars, so-called ''human flypaper'', designed to  minimize injuries in a pedestrian accident by holding the person to the car rather than being thrown after impact. ](/news/2016/05/19/google-receives-a-united-states-patent-for-an-adhesive-for-its-self-driving-cars-so-called-human-flypaper-designed-to-minimize-injur.md) _Context: Google, patent_
+7. [Federal prosecutors announce the case against Apple Inc., concerning encrypted data on an iPhone belonging to one of the San Bernardino shooters, has been dropped since the FBI has found a means to access the data without compromising any information on the phone. ](/news/2016/03/28/federal-prosecutors-announce-the-case-against-apple-inc-concerning-encrypted-data-on-an-iphone-belonging-to-one-of-the-san-bernardino-shoo.md) _Context: Apple Inc., iPhone_
+8. [A federal appeals court rules in favor of Samsung on several issues arising out of that company's long-running patent dispute with Apple, overturning a $120 million jury verdict in Apple's favor in 2014. ](/news/2016/02/26/a-federal-appeals-court-rules-in-favor-of-samsung-on-several-issues-arising-out-of-that-company-s-long-running-patent-dispute-with-apple-ov.md) _Context: Apple Inc., patent_
+9. [John McAfee, creator of the anti-virus software McAfee, Inc. and former CEO, offers to unlock an iPhone that belonged to San Bernardino attacker Syed Farook for the FBI for free after Apple Inc. refused to comply with a court order asking it to unlock the device. McAfee said "It will take us three weeks," with access to a super-computer in an article published by the ''Business Insider''. ](/news/2016/02/19/john-mcafee-creator-of-the-anti-virus-software-mcafee-inc-and-former-ceo-offers-to-unlock-an-iphone-that-belonged-to-san-bernardino-atta.md) _Context: Apple Inc., iPhone_
+10. [Samsung concedes to surrender $548 million to Apple Inc. over previously court-held ruling in patent dispute over copying the look of the iPhone. ](/news/2015/12/3/samsung-concedes-to-surrender-548-million-to-apple-inc-over-previously-court-held-ruling-in-patent-dispute-over-copying-the-look-of-the-ip.md) _Context: Apple Inc., iPhone_

@@ -1,0 +1,21 @@
+### [2011-02-12](/news/2011/02/12/index.md)
+
+# Saeb Erekat, chief negotiator for the Palestine Liberation Organization, resigns after the Palestine Papers were found to have been leaked from his office. 
+
+
+
+
+### Source:
+
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011212135152355248.html)
+
+### Related:
+
+1. [Israeli Prime Minister Benjamin Netanyahu's speech yesterday that the Grand Mufti of Jerusalem persuaded the Nazis to adopt their Final Solution to exterminate 6 million Jews is reproached by Holocaust experts and survivors, historians, world leaders, etc. Palestine Liberation Organization's Saeb Erakat and Israel's Zionist Union party's Isaac Herzog both blasted Netanyahu's claim. German Chancellor Angela Merkel said, "All Germans know the history of the murderous race mania of the Nazis that led to ... the Holocaust."  Mehnaz Afridi, a Manhattan College professor who promotes Muslim-Jewish dialogue said, "this ... really is a terrible statement to make at this time." ](/news/2015/10/21/israeli-prime-minister-benjamin-netanyahu-s-speech-yesterday-that-the-grand-mufti-of-jerusalem-persuaded-the-nazis-to-adopt-their-final-solu.md) _Context: Palestine Liberation Organization's_
+2. [The Qatari-owned satellite channel, Al Jazeera, reports that traces of radioactive polonium-210 have been found in some personal effects of former PLO Chairman Yasser Arafat, who died in 2004; the PLO and Arafat's widow agree to his exhumation to investigate if he had been poisoned. ](/news/2012/07/4/the-qatari-owned-satellite-channel-al-jazeera-reports-that-traces-of-radioactive-polonium-210-have-been-found-in-some-personal-effects-of.md) _Context: Palestine Liberation Organization's_
+3. [The The largest ever release of confidential files in the history of the Israeli-Palestinian conflict, are released. ](/news/2011/01/23/the-the-largest-ever-release-of-confidential-files-in-the-history-of-the-israeliapalestinian-conflict-are-released.md) _Context: Palestine Papers_
+4. [The Palestine Liberation Organization's (PLO) executive committee announces that America's George J. Mitchell informed President of Palestine Mahmoud Abbas that the United States had given preliminary approval to the idea of the Quartet on the Middle East having peace talks with Israel. ](/news/2010/08/11/the-palestine-liberation-organization-s-plo-executive-committee-announces-that-america-s-george-j-mitchell-informed-president-of-palestin.md) _Context: Palestine Liberation Organization's_
+5. [ Chairman Mahmoud Abbas says he will not deliberate with any group that does not recognize the Palestine Liberation Organization. ](/news/2009/02/2/chairman-mahmoud-abbas-says-he-will-not-deliberate-with-any-group-that-does-not-recognize-the-palestine-liberation-organization.md) _Context: Palestine Liberation Organization's_
+6. [ Islamist party Hamas' landslide victory in Palestinian elections ends four decades of rule by the Fatah party. Hamas secures 76 seats in the 132-member legislature through parliamentary elections. Prime Minister Ahmed Qurei announces he will resign and Fatah declares it will not join a Hamas-led coalition, although Palestinian President Mahmoud Abbas plans to continue negotiations with Israel through the Palestine Liberation Organization.](/news/2006/01/26/islamist-party-hamas-landslide-victory-in-palestinian-elections-ends-four-decades-of-rule-by-the-fatah-party-hamas-secures-76-seats-in-th.md) _Context: Palestine Liberation Organization's_
+7. [ Hamas and Islamic Jihad have declared, in principle, their intention to join the Palestine Liberation Organization (PLO). ](/news/2005/04/1/hamas-and-islamic-jihad-have-declared-in-principle-their-intention-to-join-the-palestine-liberation-organization-plo.md) _Context: Palestine Liberation Organization's_
+8. [ Israel has announced plans to add 3,500 homes to the Ma'ale Adummim settlement in occupied territories east of Jerusalem. Chief Palestinian negotiator Saeb Erekat said this would "sabotage" peace efforts. ](/news/2005/03/21/israel-has-announced-plans-to-add-3-500-homes-to-the-ma-ale-adummim-settlement-in-occupied-territories-east-of-jerusalem-chief-palestinian.md) _Context: Saeb Erekat_

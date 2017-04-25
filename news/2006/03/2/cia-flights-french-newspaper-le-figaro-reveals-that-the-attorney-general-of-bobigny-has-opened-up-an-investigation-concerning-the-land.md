@@ -1,0 +1,23 @@
+### [2006-03-2](/news/2006/03/2/index.md)
+
+#  CIA flights: French newspaper ''Le Figaro'' reveals that the attorney general of Bobigny has opened up an investigation concerning the landing of a CIA flight in Le Bourget Airport following a complaint deposed at the end of December 2005 by NGOs International Federation of Human Rights Leagues and the French ''Ligue des droits de l'homme''. 
+
+
+
+
+### Source:
+
+1. [Le Figaro](http://www.lefigaro.fr/france/20060302.FIG000000200_la_france_enquete_sur_les_avions_de_la_cia.html)
+
+### Related:
+
+1. [Luisa Ortega Diaz, Venezuela's attorney general, denounces a rupture of the constitutional order. Some protesters hold banners reading: "No To Dictatorship". ](/news/2017/03/31/luisa-ortega-daaz-venezuela-s-attorney-general-denounces-a-rupture-of-the-constitutional-order-some-protesters-hold-banners-reading-no.md) _Context: attorney general_
+2. [The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-presidential-election.md) _Context: CIA_
+3. [ExxonMobil says that it is preparing a response to the subpoena from the Attorney General of New York pursuant to an investigation into whether Exxon has misled the public about climate change. ](/news/2015/11/5/exxonmobil-says-that-it-is-preparing-a-response-to-the-subpoena-from-the-attorney-general-of-new-york-pursuant-to-an-investigation-into-whet.md) _Context: attorney general_
+4. [Authorities search for Belgium-born French national Salah Abdeslam, one of three brothers suspected of involvement in the attacks. Raids are reported to have taken place in Grenoble, Toulouse, Jeumont and the Paris suburb of Bobigny. This contradicts previously published official information that all the perpetrators of the attacks were dead. ](/news/2015/11/16/authorities-search-for-belgium-born-french-national-salah-abdeslam-one-of-three-brothers-suspected-of-involvement-in-the-attacks-raids-are.md) _Context: Bobigny_
+5. [In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. ](/news/2015/03/17/in-peshawar-an-unknown-assailant-shoots-and-kills-pakistani-lawyer-samiullah-afridi-who-had-defended-dr-shakil-afridi-in-regards-to-assi.md) _Context: CIA_
+6. [The US Eastern District Court of Virginia convicts a disgruntled former CIA officer, Jeffrey Alexander Sterling, of leaking secrets to a reporter. All nine charges he faced stem from a secret CIA mission to derail Iran's nuclear weapons program. ](/news/2015/01/26/the-us-eastern-district-court-of-virginia-convicts-a-disgruntled-former-cia-officer-jeffrey-alexander-sterling-of-leaking-secrets-to-a-rep.md) _Context: CIA_
+7. [The Democrat-controlled United States Senate Select Committee on Intelligence releases a report critical of the post-September 11 Bush Administration-era CIA interrogation techniques used to extract intelligence from captured Al-Qaeda operatives. The Obama Administration places US embassies around the world on high alert. ](/news/2014/12/9/the-democrat-controlled-united-states-senate-select-committee-on-intelligence-releases-a-report-critical-of-the-post-september-11-bush-admin.md) _Context: CIA_
+8. [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield.  ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md) _Context: CIA_
+9. [United States Senate Majority Leader Harry Reid orders an investigation into the breach by the CIA into the United States Senate Select Committee on Intelligence's computer systems. ](/news/2014/03/20/united-states-senate-majority-leader-harry-reid-orders-an-investigation-into-the-breach-by-the-cia-into-the-united-states-senate-select-comm.md) _Context: CIA_
+10. [Newly declassified CIA documents show that top officials in the Reagan administration agreed to give Iraq information on the location of Iranian troops during the Iran-Iraq War despite awareness of Saddam Hussein's intention to use chemical weapons. ](/news/2013/08/26/newly-declassified-cia-documents-show-that-top-officials-in-the-reagan-administration-agreed-to-give-iraq-information-on-the-location-of-ira.md) _Context: CIA_

@@ -1,0 +1,24 @@
+### [2017-01-22](/news/2017/01/22/index.md)
+
+# Voting takes place in the first round of the French Socialist Party presidential primary to select a candidate to run in this year's presidential election. 
+
+Benoit Hamon, a former Socialist government rebel won the first round of a primary on Sunday and will meet ex-prime minister Manuel Valls in a runoff to decide who will be the candidate of the beleaguered left in a presidential election in spring.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-france-election-primary-idUSKBN1550W1)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-38710897)
+
+### Related:
+
+1. [In the second round run-off to select the Socialist Party's candidate in this year's spring presidential election, the leftist candidate, former Minister of National Education Benoit Hamon, topped former Prime Minister Manuel Valls, a centrist, with 58.65 percent of the vote. ](/news/2017/01/29/in-the-second-round-run-off-to-select-the-socialist-party-s-candidate-in-this-year-s-spring-presidential-election-the-leftist-candidate-fo.md) _Context: French Socialist Party presidential primary, 2017, French presidential election, 2017, PS_
+2. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: France, French presidential election, 2017_
+3. [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md) _Context: French presidential election, 2017, PS_
+4. [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md) _Context: French presidential election, 2017, PS_
+5. [A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. ](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-to-decide-who-will-be-the-republican-presidential-cand.md) _Context: France, French presidential election, 2017_
+6. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _Context: France, French presidential election, 2017_
+7. [France's National Assembly votes to adopt a non-binding resolution to lift European Union sanctions against Russia, applied after Russia's annexation of Crimea in 2014. Former President Nicolas Sarkozy's Republicans, as well as center-right and far-left groups voted in favor of lifting the sanctions, while the ruling Socialist Party and The Greens voted against the resolution. ](/news/2016/04/28/france-s-national-assembly-votes-to-adopt-a-non-binding-resolution-to-lift-european-union-sanctions-against-russia-applied-after-russia-s-a.md) _Context: France, PS_
+8. [With most of the votes counted, the opposition conservatives of former president Nicolas Sarkozy's party win in six of the country's 13  regions and lead in the Paris region. The ruling Socialists of President Francois Hollande's  party capture five regions. The winner in Corsica is not affiliated with a major party. France's far-right National Front (FN) fails to win a single region but did record its best showing in its history. Voter turnout was 58 percent. Definitive results are expected Monday. ](/news/2015/12/13/with-most-of-the-votes-counted-the-opposition-conservatives-of-former-president-nicolas-sarkozy-s-party-win-in-six-of-the-countryas-13-r.md) _Context: France, PS_
+9. [Voters in France go to the polls for legislative election with the Socialist Party winning a majority. ](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.md) _Context: France, PS_
+10. [Senate elections in France result in a left-wing majority, headed by the Socialist Party, for the first time in the history of the Fifth Republic. ](/news/2011/09/25/senate-elections-in-france-result-in-a-left-wing-majority-headed-by-the-socialist-party-for-the-first-time-in-the-history-of-the-fifth-rep.md) _Context: France, PS_
