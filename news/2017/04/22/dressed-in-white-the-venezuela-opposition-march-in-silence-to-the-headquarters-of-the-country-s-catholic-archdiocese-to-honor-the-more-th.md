@@ -7,8 +7,8 @@ CARACAS (AFP) - Venezuelans marched in silence on Saturday (April 22) against Pr
 
 ### Source:
 
-1. [AFP via ''The Straits Times](http://www.straitstimes.com/world/americas/venezuelans-stage-silent-protest-in-wave-of-unrest)
-2. [AP via ''U.S. News & World Report](https://www.usnews.com/news/world/articles/2017-04-22/venezuelans-march-in-memory-of-those-killed-in-unrest)
+1. [AP via ''U.S. News & World Report](https://www.usnews.com/news/world/articles/2017-04-22/venezuelans-march-in-memory-of-those-killed-in-unrest)
+2. [AFP via ''The Straits Times](http://www.straitstimes.com/world/americas/venezuelans-stage-silent-protest-in-wave-of-unrest)
 
 ### Related:
 

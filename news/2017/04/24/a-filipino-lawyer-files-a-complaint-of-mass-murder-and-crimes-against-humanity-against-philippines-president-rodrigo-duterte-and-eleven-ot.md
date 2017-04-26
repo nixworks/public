@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](https://globalnation.inquirer.net/155253/duterte-11-others-accused-crimes-humanity-intl-criminal-court)
-2. [The New York Times](https://www.nytimes.com/2017/04/24/world/asia/rodrigo-duterte-philippines-icc-complaint.html)
+1. [The New York Times](https://www.nytimes.com/2017/04/24/world/asia/rodrigo-duterte-philippines-icc-complaint.html)
+2. [Philippine Daily Inquirer](https://globalnation.inquirer.net/155253/duterte-11-others-accused-crimes-humanity-intl-criminal-court)
 
 ### Related:
 

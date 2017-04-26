@@ -7,8 +7,8 @@ King Salman restored bonuses and allowances for Saudi government employees, seve
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-saudi-economy-idUSKBN17O0NL)
-2. [Yahoo! Finance](http://finance.yahoo.com/news/saudi-king-restores-bonuses-allowances-212846475.html)
+1. [Yahoo! Finance](http://finance.yahoo.com/news/saudi-king-restores-bonuses-allowances-212846475.html)
+2. [Reuters](http://www.reuters.com/article/us-saudi-economy-idUSKBN17O0NL)
 
 ### Related:
 
