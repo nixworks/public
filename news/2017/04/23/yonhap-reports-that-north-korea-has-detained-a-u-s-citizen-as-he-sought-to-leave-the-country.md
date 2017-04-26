@@ -1,6 +1,6 @@
 ### [2017-04-23](/news/2017/04/23/index.md)
 
-# Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. 
+# Yonhap reports that North Korea has detained a U.S. Citizen as he sought to leave the country. 
 
 The detention of a third US man comes amid heightened tension on the peninsula.
 
