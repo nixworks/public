@@ -7,8 +7,8 @@ Venezuelan security forces fired tear gas as demonstrators staged what they bill
 
 ### Source:
 
-1. [Reuters²](http://www.reuters.com/article/us-venezuela-politics-idUSKBN17L178?il=0)
-2. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN17L178)
+1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN17L178)
+2. [Reuters²](http://www.reuters.com/article/us-venezuela-politics-idUSKBN17L178?il=0)
 
 ### Related:
 

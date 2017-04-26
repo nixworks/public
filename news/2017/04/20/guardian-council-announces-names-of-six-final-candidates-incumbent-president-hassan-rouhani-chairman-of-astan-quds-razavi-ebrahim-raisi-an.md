@@ -7,8 +7,8 @@ Six politicians given go-ahead to run in presidential election, which is likely 
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/apr/20/iran-disqualifies-ahmadinejad-from-bid-to-regain-presidency)
-2. [Reuters](http://www.reuters.com/article/us-iran-election-candidates-idUSKBN17M2GN)
+1. [Reuters](http://www.reuters.com/article/us-iran-election-candidates-idUSKBN17M2GN)
+2. [The Guardian](https://www.theguardian.com/world/2017/apr/20/iran-disqualifies-ahmadinejad-from-bid-to-regain-presidency)
 
 ### Related:
 
