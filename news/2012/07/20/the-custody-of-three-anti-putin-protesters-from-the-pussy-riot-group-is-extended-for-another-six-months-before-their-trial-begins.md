@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/society/20120720/174700687.html)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gqzAmwHZ6NEJcC2uAyLtPPtoD29Q?docId=e662bdb84beb4a9da28ed353c62615ee)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gqzAmwHZ6NEJcC2uAyLtPPtoD29Q?docId=e662bdb84beb4a9da28ed353c62615ee)
+2. [RIA Novosti](http://en.ria.ru/society/20120720/174700687.html)
 
 ### Related:
 

@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/daughter-devastated-after-rapist-father-released-on-bail-581973.html)
-2. [Irish Independent](http://www.independent.ie/national-news/courts/daughter-devastated-as-rapist-father-freed-pending-appeal-3361265.html)
+1. [Irish Independent](http://www.independent.ie/national-news/courts/daughter-devastated-as-rapist-father-freed-pending-appeal-3361265.html)
+2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/daughter-devastated-after-rapist-father-released-on-bail-581973.html)

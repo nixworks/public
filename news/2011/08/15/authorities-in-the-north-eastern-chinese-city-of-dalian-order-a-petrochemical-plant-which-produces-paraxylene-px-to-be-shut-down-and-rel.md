@@ -7,10 +7,10 @@ A protest in China shows the complications of the country&#39;s successes and fa
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/aug/14/china-petrochemical-plant-shutdown-protest)
-2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424053111904253204576508252300809390.html)
-3. [China Daily](http://www.chinadaily.com.cn/cndy/2011-08/15/content_13109686.htm)
-4. [The Atlantic](http://www.theatlantic.com/international/archive/2011/08/todays-news-out-of-china-the-dalian-px-protests/243572/)
+1. [The Atlantic](http://www.theatlantic.com/international/archive/2011/08/todays-news-out-of-china-the-dalian-px-protests/243572/)
+2. [China Daily](http://www.chinadaily.com.cn/cndy/2011-08/15/content_13109686.htm)
+3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424053111904253204576508252300809390.html)
+4. [The Guardian](http://www.guardian.co.uk/world/2011/aug/14/china-petrochemical-plant-shutdown-protest)
 
 ### Related:
 

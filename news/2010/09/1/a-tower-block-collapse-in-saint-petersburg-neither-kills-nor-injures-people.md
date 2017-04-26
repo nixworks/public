@@ -7,8 +7,8 @@ A collapsed eight-storey building in the Russian city of St Petersburg was empty
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11153220)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/01/russia.building.collapse/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/01/russia.building.collapse/)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11153220)
 3. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90853/7125807.html)
 
 ### Related:

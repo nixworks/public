@@ -7,8 +7,8 @@ Three Pakistan cricketers embroiled in a betting scandal are facing possible lif
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Accused-Pakistan-Cricketers-Salman-Butt-Mohammad-Amir-And-Mohammad-Asif-Set-Up-Claims-Diplomat/Article/201009115710882?lpos=UK_News_Top_Stories_Header_1&amp;lid=ARTICLE_15710882_Accused_Pakistan_Cricketers_Salman_B)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/cricket/england/8964408.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/cricket/england/8964408.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Accused-Pakistan-Cricketers-Salman-Butt-Mohammad-Amir-And-Mohammad-Asif-Set-Up-Claims-Diplomat/Article/201009115710882?lpos=UK_News_Top_Stories_Header_1&amp;lid=ARTICLE_15710882_Accused_Pakistan_Cricketers_Salman_B)
 3. [AFP via ABC Online](http://www.abc.net.au/news/stories/2010/09/03/3001252.htm)
 
 ### Related:

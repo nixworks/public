@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [White House](http://www.whitehouse.gov/news/releases/2005/09/20050913-8.html)
-2. [East News](http://china.eastday.com/eastday/node81741/node81762/node86400/userobject1ai1448160.html)
+1. [East News](http://china.eastday.com/eastday/node81741/node81762/node86400/userobject1ai1448160.html)
+2. [White House](http://www.whitehouse.gov/news/releases/2005/09/20050913-8.html)
 
 ### Related:
 

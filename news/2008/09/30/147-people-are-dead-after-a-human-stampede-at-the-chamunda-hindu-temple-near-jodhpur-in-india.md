@@ -7,9 +7,9 @@ At least 147 people died in a stampede at a temple in the Indian desert state of
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE48T0D720080930)
+1. [AFP via ''The Canberra Times](http://www.canberratimes.com.au/news/local/news/general/indian-temple-stampede-death-toll-climbs/1321449.aspx?src=rss)
 2. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/09/29/india.stampede/index.html?eref=rss_latest)
-3. [AFP via ''The Canberra Times](http://www.canberratimes.com.au/news/local/news/general/indian-temple-stampede-death-toll-climbs/1321449.aspx?src=rss)
+3. [Reuters](http://www.reuters.com/article/topNews/idUSTRE48T0D720080930)
 
 ### Related:
 

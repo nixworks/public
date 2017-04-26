@@ -7,9 +7,9 @@ British Prime Minister David Cameron has branded a rate fixing scandal which pro
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/business/2012/jul/04/libor-bob-diamond?newsfeed=true)
-2. [BBC](http://www.bbc.co.uk/news/business-18708226)
-3. [RTÉ](http://www.rte.ie/news/2012/0704/diamond-faces-grilling-in-uk-parliament.html)
+1. [RTÉ](http://www.rte.ie/news/2012/0704/diamond-faces-grilling-in-uk-parliament.html)
+2. [The Guardian](http://www.guardian.co.uk/business/2012/jul/04/libor-bob-diamond?newsfeed=true)
+3. [BBC](http://www.bbc.co.uk/news/business-18708226)
 
 ### Related:
 

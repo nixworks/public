@@ -7,8 +7,8 @@ Relentless emissions of heat-trapping gases are endangering the planet, the Worl
 
 ### Source:
 
-1. [Scientific American](http://www.scientificamerican.com/article/co2-levels-hit-record-high-for-30th-year-in-a-row/)
-2. [USA Today](http://www.usatoday.com/story/news/world/2015/11/09/greenhouse-gases-reach-record-high/75441504/)
+1. [USA Today](http://www.usatoday.com/story/news/world/2015/11/09/greenhouse-gases-reach-record-high/75441504/)
+2. [Scientific American](http://www.scientificamerican.com/article/co2-levels-hit-record-high-for-30th-year-in-a-row/)
 
 ### Related:
 

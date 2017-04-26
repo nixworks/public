@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4211157.stm)
-2. [Epoch Times](http://english.epochtimes.com/news/5-1-26/26033.html)
+1. [Epoch Times](http://english.epochtimes.com/news/5-1-26/26033.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4211157.stm)
 3. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=661542)
 
 ### Related:

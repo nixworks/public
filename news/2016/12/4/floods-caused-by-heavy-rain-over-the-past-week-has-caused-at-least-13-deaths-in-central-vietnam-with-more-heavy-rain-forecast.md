@@ -7,8 +7,8 @@ Floods brought by torrential rain since late November have killed at least 13 pe
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-vietnam-floods-idUSKBN13T08L)
-2. [Reuters via ''Jerusalem Post](http://www.jpost.com/Breaking-News/Floods-kill-at-least-13-people-in-central-Vietnam-474383?utm_source=dlvr.it&utm_medium=twitter)
+1. [Reuters via ''Jerusalem Post](http://www.jpost.com/Breaking-News/Floods-kill-at-least-13-people-in-central-Vietnam-474383?utm_source=dlvr.it&utm_medium=twitter)
+2. [Reuters](http://www.reuters.com/article/us-vietnam-floods-idUSKBN13T08L)
 
 ### Related:
 

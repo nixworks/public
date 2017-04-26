@@ -7,8 +7,8 @@ The New York Times said on Tuesday its Moscow bureau was targeted by a cyber att
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-cyber-media-idUSKCN10Y21I)
-2. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/08/23/us/politics/ap-us-new-york-times-hack.html?_r=0)
+1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/08/23/us/politics/ap-us-new-york-times-hack.html?_r=0)
+2. [Reuters](http://www.reuters.com/article/us-usa-cyber-media-idUSKCN10Y21I)
 
 ### Related:
 

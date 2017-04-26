@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-france-election-lepen-idUSKBN1600R6)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/02/marine-le-pen-stirs-headscarf-controversy-lebanon-170221150240682.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/marine-le-pen-stirs-headscarf-controversy-lebanon-170221150240682.html)
+2. [Reuters](http://www.reuters.com/article/us-france-election-lepen-idUSKBN1600R6)
 
 ### Related:
 

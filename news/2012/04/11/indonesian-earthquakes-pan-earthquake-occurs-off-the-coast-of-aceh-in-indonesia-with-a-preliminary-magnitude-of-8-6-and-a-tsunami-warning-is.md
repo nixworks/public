@@ -7,8 +7,8 @@ AS IT HAPPENED: A magnitude-8.2 aftershock has followed a massive 8.6 quake that
 
 ### Source:
 
-1. [NineMSN](http://news.ninemsn.com.au/article.aspx?id=8449932)
-2. [News Limited](http://www.news.com.au/world/tsunami-warning-after-earthquake-hits-off-indonesia/story-e6frfkyi-1226324189675)
+1. [News Limited](http://www.news.com.au/world/tsunami-warning-after-earthquake-hits-off-indonesia/story-e6frfkyi-1226324189675)
+2. [NineMSN](http://news.ninemsn.com.au/article.aspx?id=8449932)
 
 ### Related:
 

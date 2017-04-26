@@ -10,7 +10,7 @@ _Context: Black Sea, Ukrainian, lighthouses_
 _Context: Kim Jong-il, North Korea_
 
 ### [ Doctors perform a tracheotomy on Ariel Sharon, the Prime Minister of Israel, hoping this will help his recovery from a recent stroke. ](/news/2006/01/15/doctors-perform-a-tracheotomy-on-ariel-sharon-the-prime-minister-of-israel-hoping-this-will-help-his-recovery-from-a-recent-stroke.md)
-_Context: Ariel Sharon, his recovery, prime minister of Israel, stroke, tracheotomy_
+_Context: Ariel Sharon, Prime Minister of Israel, his recovery, stroke, tracheotomy_
 
 ### [ The first round of voting in the Presidential election in Finland was held with no conclusive victor. Tarja Halonen and Sauli Niinist will continue to the second round which is held 29 January. ](/news/2006/01/15/the-first-round-of-voting-in-the-presidential-election-in-finland-was-held-with-no-conclusive-victor-tarja-halonen-and-sauli-niinisto-will.md)
 _Context: Finnish presidential election, Sauli Niinisto, Tarja Halonen_

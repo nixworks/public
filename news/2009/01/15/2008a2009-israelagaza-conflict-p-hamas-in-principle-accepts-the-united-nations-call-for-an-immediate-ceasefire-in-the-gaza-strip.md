@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Gaza-Israel-Continues-Air-Strikes-But-Hamas-Agrees-To-Outlines-Of-Truce-Deal-In-Egypt/Article/200901315203713?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15203713_Gaza%3A_Israel_Continues_Air_Strikes_But_Hamas_Agrees_To_Outlines_Of_Truce_Deal_In_Egypt)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1231950847330&pagename=JPost%2FJPArticle%2FShowFull)
+1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1231950847330&pagename=JPost%2FJPArticle%2FShowFull)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Gaza-Israel-Continues-Air-Strikes-But-Hamas-Agrees-To-Outlines-Of-Truce-Deal-In-Egypt/Article/200901315203713?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15203713_Gaza%3A_Israel_Continues_Air_Strikes_But_Hamas_Agrees_To_Outlines_Of_Truce_Deal_In_Egypt)
 
 ### Related:
 

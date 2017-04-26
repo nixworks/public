@@ -7,8 +7,8 @@ Police in western Mexico try to identify the remains of 18 people found dismembe
 
 ### Source:
 
-1. [Houston Chronicle](http://blog.chron.com/narcoconfidential/2012/05/10-butchered-bodies-recovered-near-u-s-retiree-communities-on-lake-chapala/)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18014646)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18014646)
+2. [Houston Chronicle](http://blog.chron.com/narcoconfidential/2012/05/10-butchered-bodies-recovered-near-u-s-retiree-communities-on-lake-chapala/)
 
 ### Related:
 

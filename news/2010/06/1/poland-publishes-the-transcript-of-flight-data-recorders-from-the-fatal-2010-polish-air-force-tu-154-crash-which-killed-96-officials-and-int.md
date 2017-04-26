@@ -7,9 +7,9 @@ Poland publishes a transcript of flight data recorders from the plane crash that
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106115644389229.html)
-2. [China Daily](http://www.chinadaily.com.cn/world/2010-06/01/content_9919593.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/10206841.stm)
+1. [China Daily](http://www.chinadaily.com.cn/world/2010-06/01/content_9919593.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/10206841.stm)
+3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106115644389229.html)
 
 ### Related:
 

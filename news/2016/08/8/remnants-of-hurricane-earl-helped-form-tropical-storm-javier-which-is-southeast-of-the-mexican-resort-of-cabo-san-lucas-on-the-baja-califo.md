@@ -7,8 +7,8 @@ While remnants of Tropical Storm Earl were helping fuel the formation of Tropica
 
 ### Source:
 
-1. [The Weather Channel](https://weather.com/storms/hurricane/news/tropical-depression-eleven-e-javier-tropical-storm-hurricane-mexico)
-2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/080250.shtml?)
+1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/080250.shtml?)
+2. [The Weather Channel](https://weather.com/storms/hurricane/news/tropical-depression-eleven-e-javier-tropical-storm-hurricane-mexico)
 3. [The Yucatan Times](http://www.theyucatantimes.com/2016/08/earls-death-toll-at-40-as-javier-forms-off-mexicos-pacific-coast/)
 
 ### Related:

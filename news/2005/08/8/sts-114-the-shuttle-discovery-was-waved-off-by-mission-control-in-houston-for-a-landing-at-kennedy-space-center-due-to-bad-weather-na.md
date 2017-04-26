@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Space.com](http://www.space.com/missionlaunches/050808_sts114_landing.html)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-08-08T072745Z_01_N08302302_RTRIDST_0_NEWS-SPACE-SHUTTLE-DELAY-DC.XML)
+1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-08-08T072745Z_01_N08302302_RTRIDST_0_NEWS-SPACE-SHUTTLE-DELAY-DC.XML)
+2. [Space.com](http://www.space.com/missionlaunches/050808_sts114_landing.html)
 
 ### Related:
 

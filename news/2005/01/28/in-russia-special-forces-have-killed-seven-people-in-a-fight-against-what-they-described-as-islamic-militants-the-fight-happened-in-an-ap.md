@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7453817)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4211625.stm)
-3. [MosNews](http://www.mosnews.com/news/2005/01/27/nalchikoperation.shtml)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4211625.stm)
+2. [MosNews](http://www.mosnews.com/news/2005/01/27/nalchikoperation.shtml)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7453817)
 
 ### Related:
 

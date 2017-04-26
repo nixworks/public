@@ -7,8 +7,8 @@ Over 70 people were killed and 100 others wounded in Sadr City, a southern subur
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-idUSKCN0W10EL)
-2. [RT](https://www.rt.com/news/333879-baghdad-blast-sadr-killed/)
+1. [RT](https://www.rt.com/news/333879-baghdad-blast-sadr-killed/)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-idUSKCN0W10EL)
 
 ### Related:
 

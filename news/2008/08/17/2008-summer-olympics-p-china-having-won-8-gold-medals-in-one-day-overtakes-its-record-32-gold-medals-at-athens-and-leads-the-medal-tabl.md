@@ -7,11 +7,11 @@ Swedish greco-roman wrestler Ara Abrahamian has been stripped of his 84kg-catego
 
 ### Source:
 
-1. [AP via Yahoo! News](http://sports.yahoo.com/olympics/beijing/track_field/news?slug=ap-ath-womens100&prov=ap&type=lgns)
-2. [Reuters](http://www.reuters.com/article/GCA-Olympics/idUSSP5681420080816)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aZkqk09.Al4A&refer=home)
+2. [AP via Yahoo! News](http://sports.yahoo.com/olympics/beijing/track_field/news?slug=ap-ath-womens100&prov=ap&type=lgns)
 3. [Reuters](http://www.reuters.com/article/GCA-Olympics/idUSPEK25534420080817)
-4. [BBC News](http://news.bbc.co.uk/sport2/hi/olympics/table_tennis/7566778.stm)
-5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aZkqk09.Al4A&refer=home)
+4. [Reuters](http://www.reuters.com/article/GCA-Olympics/idUSSP5681420080816)
+5. [BBC News](http://news.bbc.co.uk/sport2/hi/olympics/table_tennis/7566778.stm)
 
 ### Related:
 

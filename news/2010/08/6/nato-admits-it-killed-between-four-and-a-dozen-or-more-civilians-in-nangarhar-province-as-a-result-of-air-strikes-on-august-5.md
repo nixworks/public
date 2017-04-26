@@ -7,8 +7,8 @@ NATO has admitted killing a number of civilians during military operations in ea
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/08/06/world/asia/06afghan.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/nato-admits-civilian-afghan-deaths-20100806-11l04.html)
+1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/nato-admits-civilian-afghan-deaths-20100806-11l04.html)
+2. [The New York Times](http://www.nytimes.com/2010/08/06/world/asia/06afghan.html)
 
 ### Related:
 

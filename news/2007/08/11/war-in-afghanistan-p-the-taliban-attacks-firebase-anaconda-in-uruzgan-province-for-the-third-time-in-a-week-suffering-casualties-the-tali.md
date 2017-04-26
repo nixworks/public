@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/11/afghanistan.attack/index.html?eref=rss_topstories)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSISL29642420070812?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/topNews/idUSISL29642420070812?feedType=RSS&feedName=topNews)
+2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/11/afghanistan.attack/index.html?eref=rss_topstories)
 
 ### Related:
 

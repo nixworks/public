@@ -7,9 +7,9 @@ Seven Afghan boys were shot dead on Saturday by police who mistook them for insu
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100206-afghan-border-patrol-kills-seven-civilians-police)
+1. [Reuters](http://www.reuters.com/article/idUSTRE6150HC20100206)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=117948&sectionid=351020403)
-3. [Reuters](http://www.reuters.com/article/idUSTRE6150HC20100206)
+3. [France24](http://www.france24.com/en/20100206-afghan-border-patrol-kills-seven-civilians-police)
 
 ### Related:
 

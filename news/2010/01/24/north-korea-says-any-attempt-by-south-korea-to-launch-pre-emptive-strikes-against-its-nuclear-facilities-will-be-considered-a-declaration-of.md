@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8477348.stm)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/01/24/78/0301000000AEN20100124000600315F.HTML)
-3. [The New York Times](http://www.nytimes.com/aponline/2010/01/24/world/AP-AS-Koreas-Tension.html)
+2. [The New York Times](http://www.nytimes.com/aponline/2010/01/24/world/AP-AS-Koreas-Tension.html)
+3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/01/24/78/0301000000AEN20100124000600315F.HTML)
 
 ### Related:
 

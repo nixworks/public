@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-31617308)
-2. [AP](http://hosted.ap.org/dynamic/stories/U/US_AMERICAN_SNIPER_TRIAL?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_AMERICAN_SNIPER_TRIAL?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [BBC](http://www.bbc.com/news/world-us-canada-31617308)
 
 ### Related:
 

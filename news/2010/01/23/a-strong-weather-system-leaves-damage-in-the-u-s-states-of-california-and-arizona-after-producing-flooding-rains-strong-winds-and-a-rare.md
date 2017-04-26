@@ -8,8 +8,8 @@ With forecasters saying tornadoes are a possibility Thursday, some are wondering
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory?id=9638945)
-2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/blogs/scavenger/detail?entry_id=55635)
-3. [Los Angeles Times](http://www.latimes.com/news/local/la-me-tornado-box21-2010jan21,0,2530648.story)
+2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-tornado-box21-2010jan21,0,2530648.story)
+3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/blogs/scavenger/detail?entry_id=55635)
 
 ### Related:
 
@@ -19,7 +19,7 @@ With forecasters saying tornadoes are a possibility Thursday, some are wondering
 4. [Seven US Marines die in a helicopter crash on the border of the states of California and Arizona. ](/news/2012/02/22/seven-us-marines-die-in-a-helicopter-crash-on-the-border-of-the-states-of-california-and-arizona.md) _Context: Arizona, California_
 5. [The Federal Bureau of Investigation arrests suspected members of the computer hacking groups LulzSec and Anonymous in the US cities of Phoenix, Arizona and San Francisco, California. ](/news/2011/09/22/the-federal-bureau-of-investigation-arrests-suspected-members-of-the-computer-hacking-groups-lulzsec-and-anonymous-in-the-us-cities-of-phoen.md) _Context: Arizona, California_
 6. [ In the US, large fires break out in Arizona and California. In Arizona, 250 people are evacuated and 10 houses destroyed northeast of Phoenix. Two fires break out in California in Morongo Valley and San Bernardino Valley ](/news/2005/06/23/in-the-us-large-fires-break-out-in-arizona-and-california-in-arizona-250-people-are-evacuated-and-10-houses-destroyed-northeast-of-phoen.md) _Context: Arizona, California_
-7. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
-8. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: California_
-9. [A California storm in the Calaveras Big Trees State Park fells the 1,000-year-old American tree, the Pioneer Cabin Tree. ](/news/2017/01/9/a-california-storm-in-the-calaveras-big-trees-state-park-fells-the-1-000-year-old-american-tree-the-pioneer-cabin-tree.md) _Context: California_
-10. [Yes California, the campaign to reinstate the independence of California launches its signature campaign. ](/news/2017/01/27/yes-california-the-campaign-to-reinstate-the-independence-of-california-launches-its-signature-campaign.md) _Context: California_
+7. [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md) _Context: California_
+8. [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md) _Context: California_
+9. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
+10. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: California_

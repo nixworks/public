@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/aug/26/explosion-nigeria-un-building-bomb)
-2. [Sky News](http://news.sky.com/home/world-news/article/16057323)
+1. [Sky News](http://news.sky.com/home/world-news/article/16057323)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/aug/26/explosion-nigeria-un-building-bomb)
 
 ### Related:
 

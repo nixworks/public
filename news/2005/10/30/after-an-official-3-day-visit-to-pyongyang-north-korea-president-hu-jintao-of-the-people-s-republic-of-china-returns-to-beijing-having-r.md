@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xiaoxiang Morning News](http://www.xxcb.com.cn/Articles/05/10/31/732973.HTM)
-2. [QQ News](http://news.qq.com/a/20051031/001247.htm)
+1. [QQ News](http://news.qq.com/a/20051031/001247.htm)
+2. [Xiaoxiang Morning News](http://www.xxcb.com.cn/Articles/05/10/31/732973.HTM)
 
 ### Related:
 

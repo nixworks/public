@@ -7,8 +7,8 @@ JEDDAH: A joint investigation team on Saturday found that the Saudi-led Coalitio
 
 ### Source:
 
-1. [Arab News](http://www.arabnews.com/node/998181/middle-east)
-2. [Samaa TV](http://www.samaa.tv/international/2016/10/saudi-led-coalition-says-it-wrongly-targeted-yemen-funeral/)
+1. [Samaa TV](http://www.samaa.tv/international/2016/10/saudi-led-coalition-says-it-wrongly-targeted-yemen-funeral/)
+2. [Arab News](http://www.arabnews.com/node/998181/middle-east)
 
 ### Related:
 

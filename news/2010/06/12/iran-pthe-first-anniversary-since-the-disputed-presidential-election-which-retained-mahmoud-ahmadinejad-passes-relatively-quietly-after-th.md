@@ -7,14 +7,14 @@ Opposition cancels rallies after preemptive arrests, threats.
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ixeFBxfLzaSjs8Mb8cuFmtPOT6-wD9G9S7200)
-2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=221115)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iZpb6-h8xD7mHnRKGUBW_WWE9WYg)
-4. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178206)
-5. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/middleeast/la-fg-iran-protests-2010-0613-20100612,0,6359771.story)
-6. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/20106127532996131.html)
-7. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3903993,00.html)
-8. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178228)
+1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/middleeast/la-fg-iran-protests-2010-0613-20100612,0,6359771.story)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3903993,00.html)
+3. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/20106127532996131.html)
+4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ixeFBxfLzaSjs8Mb8cuFmtPOT6-wD9G9S7200)
+5. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178228)
+6. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178206)
+7. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=221115)
+8. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iZpb6-h8xD7mHnRKGUBW_WWE9WYg)
 
 ### Related:
 

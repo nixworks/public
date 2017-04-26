@@ -7,8 +7,8 @@ The Syrian authorities blocked an officially sanctioned convoy laden with food a
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2012/03/03/world/middleeast/syria-rebels-are-forced-from-homs-stronghold.html?_r=1)
-2. [Sky News](http://news.sky.com/home/world-news/article/16180778)
+1. [Sky News](http://news.sky.com/home/world-news/article/16180778)
+2. [The New York Times](http://www.nytimes.com/2012/03/03/world/middleeast/syria-rebels-are-forced-from-homs-stronghold.html?_r=1)
 
 ### Related:
 

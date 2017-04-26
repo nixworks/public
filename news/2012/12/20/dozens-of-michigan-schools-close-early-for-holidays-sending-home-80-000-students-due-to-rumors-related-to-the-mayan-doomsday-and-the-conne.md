@@ -7,8 +7,8 @@ The Mayan prediction that the world will end on Friday has caused rumors of viol
 
 ### Source:
 
-1. [Detroit News](http://www.detroitnews.com/article/20121220/SCHOOLS/212200406)
-2. [NY Times](http://www.nytimes.com/2012/12/21/education/doomsday-prophecy-prompts-rumors-of-violence-in-schools.html)
+1. [NY Times](http://www.nytimes.com/2012/12/21/education/doomsday-prophecy-prompts-rumors-of-violence-in-schools.html)
+2. [Detroit News](http://www.detroitnews.com/article/20121220/SCHOOLS/212200406)
 
 ### Related:
 

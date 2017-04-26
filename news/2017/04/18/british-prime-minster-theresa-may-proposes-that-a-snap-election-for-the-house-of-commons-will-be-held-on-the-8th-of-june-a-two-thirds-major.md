@@ -7,8 +7,8 @@ UK PM Theresa May announces plan to call snap general election on 8 June
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/04/18/world/europe/uk-theresa-may-general-election.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-39629603)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-39629603)
+2. [The New York Times](https://www.nytimes.com/2017/04/18/world/europe/uk-theresa-may-general-election.html)
 
 ### Related:
 

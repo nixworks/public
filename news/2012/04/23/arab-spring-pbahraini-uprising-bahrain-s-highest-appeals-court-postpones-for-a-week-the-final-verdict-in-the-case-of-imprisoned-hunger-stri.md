@@ -7,9 +7,9 @@ Shells and gunfire from Syrian security forces have killed 33 people in the city
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17812716)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17812919)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-17812717)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17812919)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17812717)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-17812716)
 
 ### Related:
 

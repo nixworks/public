@@ -7,10 +7,10 @@ Prime minister calls for end to violence in speech marking independence day.
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081543236212408.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j3dBtXHDxzzTPfySXJOwUzNaNMRg)
-3. [Indian Express](http://www.indianexpress.com/news/shoe-hurled-towards-omar-at-iday-function-15-cops-suspended/660551/)
-4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/15/c_13445929.htm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j3dBtXHDxzzTPfySXJOwUzNaNMRg)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/15/c_13445929.htm)
+3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081543236212408.html)
+4. [Indian Express](http://www.indianexpress.com/news/shoe-hurled-towards-omar-at-iday-function-15-cops-suspended/660551/)
 
 ### Related:
 

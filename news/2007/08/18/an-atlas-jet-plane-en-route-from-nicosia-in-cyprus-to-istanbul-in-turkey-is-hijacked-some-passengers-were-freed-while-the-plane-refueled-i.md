@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters via Sydney Morning Herald](http://www.smh.com.au/news/world/turkish-jet-hijacked/2007/08/18/1186857825487.html?s_cid=rss_news)
-2. [Xinhua](http://news.xinhuanet.com/english/2007-08/18/content_6557248.htm)
-3. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5065225.html)
+1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5065225.html)
+2. [Reuters via Sydney Morning Herald](http://www.smh.com.au/news/world/turkish-jet-hijacked/2007/08/18/1186857825487.html?s_cid=rss_news)
+3. [Xinhua](http://news.xinhuanet.com/english/2007-08/18/content_6557248.htm)
 
 ### Related:
 

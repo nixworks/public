@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Toronto Star](http://www.thestar.com/news/article/936281--15-years-later-court-overturns-child-murder-conviction)
-2. [CBC](http://www.cbc.ca/canada/toronto/story/2011/02/10/tammy-marquardt-court546.html)
+1. [CBC](http://www.cbc.ca/canada/toronto/story/2011/02/10/tammy-marquardt-court546.html)
+2. [Toronto Star](http://www.thestar.com/news/article/936281--15-years-later-court-overturns-child-murder-conviction)

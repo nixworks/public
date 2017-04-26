@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/10/honduras.oas/)
-2. [ (AFP](http://www.google.com/hostednews/afp/article/ALeqM5g4IDuPuUbAW5czFgCZWicQpMRDMA)
+1. [ (AFP](http://www.google.com/hostednews/afp/article/ALeqM5g4IDuPuUbAW5czFgCZWicQpMRDMA)
+2. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/10/honduras.oas/)
 
 ### Related:
 

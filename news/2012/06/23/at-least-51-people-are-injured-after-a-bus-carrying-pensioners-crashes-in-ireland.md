@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/donegal-hospital-implements-major-plan-after-bus-collides-with-car-556505.html)
-2. [RTE](http://www.rte.ie/news/2012/0623/49-injured-in-donegal-bus-crash.html)
+1. [RTE](http://www.rte.ie/news/2012/0623/49-injured-in-donegal-bus-crash.html)
+2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/donegal-hospital-implements-major-plan-after-bus-collides-with-car-556505.html)
 
 ### Related:
 

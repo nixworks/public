@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-28T175412Z_01_CHA449380_RTRUKOC_0_KYRGYZSTAN.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4389197.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4389197.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-28T175412Z_01_CHA449380_RTRUKOC_0_KYRGYZSTAN.xml)
 3. [ABC](http://abcnews.go.com/International/wireStory?id=623340)
 
 ### Related:

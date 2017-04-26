@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201002/20100228/article_429766.htm)
-2. [China Daily](http://www.chinadaily.com.cn/sports/winter/2010-02/27/content_9513614.htm)
+1. [China Daily](http://www.chinadaily.com.cn/sports/winter/2010-02/27/content_9513614.htm)
+2. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201002/20100228/article_429766.htm)
 
 ### Related:
 

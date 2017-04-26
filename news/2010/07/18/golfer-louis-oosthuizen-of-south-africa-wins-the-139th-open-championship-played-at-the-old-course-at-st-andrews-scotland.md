@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/golf/8832469.stm)
-2. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/18/the-open-2010-louis-oosthuizen)
+1. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/18/the-open-2010-louis-oosthuizen)
+2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/golf/8832469.stm)
 
 ### Related:
 

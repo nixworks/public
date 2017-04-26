@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2005/06/23/politics/23wire-scotus.html)
-2. [Market Watch](http://www.marketwatch.com/news/newsfinder/pulseone.asp?dateid=38526.4403289236-837180966&siteID=mktw&scid=0&doctype=806)
+1. [Market Watch](http://www.marketwatch.com/news/newsfinder/pulseone.asp?dateid=38526.4403289236-837180966&siteID=mktw&scid=0&doctype=806)
+2. [New York Times](http://www.nytimes.com/2005/06/23/politics/23wire-scotus.html)
 
 ### Related:
 

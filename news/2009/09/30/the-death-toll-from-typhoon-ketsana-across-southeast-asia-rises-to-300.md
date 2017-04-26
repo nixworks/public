@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/30/vietnam.typhoon.ketsana.toll/)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i6eatUwlDQQIHZiKqXjLHTmQSrogD9B1HABO2)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i6eatUwlDQQIHZiKqXjLHTmQSrogD9B1HABO2)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/30/vietnam.typhoon.ketsana.toll/)
 
 ### Related:
 

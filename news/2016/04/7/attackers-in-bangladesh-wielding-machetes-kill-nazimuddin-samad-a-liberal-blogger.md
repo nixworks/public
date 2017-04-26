@@ -7,8 +7,8 @@ Attackers in Bangladesh wielding machetes killed a liberal blogger, police said 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-bangladesh-blogger-idUSKCN0X40FZ)
-2. [BBC](http://www.bbc.com/news/world-asia-35987345)
+1. [BBC](http://www.bbc.com/news/world-asia-35987345)
+2. [Reuters](http://www.reuters.com/article/us-bangladesh-blogger-idUSKCN0X40FZ)
 
 ### Related:
 

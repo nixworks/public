@@ -7,9 +7,9 @@ Francis made the surprise comments at today&#8217;s general audience in St Peter
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/14/us-pope-scandals-forgiveness-idUSKCN0S814X20151014)
-2. [Voice of America](http://www.voanews.com/content/pope-francis-apologizes-for-recent-scandals/3005271.html)
-3. [Catholic Herald](http://www.catholicherald.co.uk/news/2015/10/14/pope-asks-for-forgiveness-for-scandals-in-rome-and-the-vatican/)
+1. [Voice of America](http://www.voanews.com/content/pope-francis-apologizes-for-recent-scandals/3005271.html)
+2. [Catholic Herald](http://www.catholicherald.co.uk/news/2015/10/14/pope-asks-for-forgiveness-for-scandals-in-rome-and-the-vatican/)
+3. [Reuters](http://www.reuters.com/article/2015/10/14/us-pope-scandals-forgiveness-idUSKCN0S814X20151014)
 
 ### Related:
 

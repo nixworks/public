@@ -7,8 +7,8 @@ The Fed approved a $30 billion loan for the takeover of Bear Stearns and announc
 
 ### Source:
 
-1. [AP via Charlotte.com](http://www.charlotte.com/news/ap_news/story/539812.html)
-2. [The New York Times](http://www.nytimes.com/2008/03/17/business/17fed.html)
+1. [The New York Times](http://www.nytimes.com/2008/03/17/business/17fed.html)
+2. [AP via Charlotte.com](http://www.charlotte.com/news/ap_news/story/539812.html)
 
 ### Related:
 

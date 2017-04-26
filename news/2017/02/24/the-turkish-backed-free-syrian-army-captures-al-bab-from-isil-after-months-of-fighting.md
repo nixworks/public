@@ -7,10 +7,10 @@ The victory follows a long and bloody operation to drive the militants from Turk
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [BBC](http://www.bbc.com/news/world-middle-east-39075851)
+1. [BBC](http://www.bbc.com/news/world-middle-east-39075851)
+2. [Time](http://time.com/4681609/syria-car-bomb-death-toll/)
 3. [The Washington Post](https://www.washingtonpost.com/world/middle_east/turkey-backed-rebels-enter-center-of-islamic-states-al-bab-strongholdin-syria/2017/02/23/e389a506-f9c3-11e6-9b3e-ed886f4f4825_story.html?utm_term=.75c63c75ef94)
-4. [Time](http://time.com/4681609/syria-car-bomb-death-toll/)
+4. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

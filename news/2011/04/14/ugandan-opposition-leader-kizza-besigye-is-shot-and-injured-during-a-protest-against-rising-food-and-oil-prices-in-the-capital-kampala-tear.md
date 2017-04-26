@@ -7,8 +7,8 @@ Ugandan opposition leader Kizza Besigye is injured as soldiers open fire to disp
 
 ### Source:
 
-1. [Capital FM Kenya](http://www.capitalfm.co.ke/news/Kenyanews/Besigye-besieged-in-Uganda-12419.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-13079335)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-13079335)
+2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/Kenyanews/Besigye-besieged-in-Uganda-12419.html)
 
 ### Related:
 

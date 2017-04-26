@@ -7,11 +7,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4329201.stm)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=561326)
-3. [CNN](http://edition.cnn.com/2005/WORLD/meast/03/08/lebanon.syria/)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7844288)
-5. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=13265)
+1. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=13265)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7844288)
+3. [ABC](http://abcnews.go.com/International/wireStory?id=561326)
+4. [CNN](http://edition.cnn.com/2005/WORLD/meast/03/08/lebanon.syria/)
+5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4329201.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A plane carrying more than 60 passengers, including many foreigners, crash-lands
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-20841380)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/20121225134855270660.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/20121225134855270660.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-20841380)
 
 ### Related:
 

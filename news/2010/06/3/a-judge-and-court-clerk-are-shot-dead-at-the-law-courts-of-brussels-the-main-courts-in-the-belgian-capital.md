@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j1ZYI324o9Wr3URZQ3u9s_qR9blg)
+1. [B92](http://www.b92.net/eng/news/world-article.php?yyyy=2010&mm=06&dd=03&nav_id=67572)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13332277.htm)
-3. [B92](http://www.b92.net/eng/news/world-article.php?yyyy=2010&mm=06&dd=03&nav_id=67572)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j1ZYI324o9Wr3URZQ3u9s_qR9blg)
 4. [BBC](http://news.bbc.co.uk/1/hi/world/europe/10226550.stm)
 
 ### Related:

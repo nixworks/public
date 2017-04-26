@@ -7,8 +7,8 @@ The two Swedish women who have brought sex charges against WikiLeaks founder Jul
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/us/Sex-accusers-boasted-about-their-conquest-of-WikiLeaks-founder-Julian-Assange/articleshow/7068149.cms#ixzz17ZBuq79C)
-2. [Daily Nation](http://www.nation.co.ke/News/Family%20fears%20founder%20wont%20get%20a%20fair%20trial/-/1056/1069522/-/l9vwxtz/-/)
+1. [Daily Nation](http://www.nation.co.ke/News/Family%20fears%20founder%20wont%20get%20a%20fair%20trial/-/1056/1069522/-/l9vwxtz/-/)
+2. [The Times of India](http://timesofindia.indiatimes.com/world/us/Sex-accusers-boasted-about-their-conquest-of-WikiLeaks-founder-Julian-Assange/articleshow/7068149.cms#ixzz17ZBuq79C)
 3. [Nine News](http://news.ninemsn.com.au/article.aspx?id=8180535)
 
 ### Related:

@@ -7,8 +7,8 @@ China has suspended traffic on the Yalu river, which forms a border with North K
 
 ### Source:
 
-1. [BusinessWeek](http://www.businessweek.com/news/2010-08-06/floods-from-pakistan-to-korea-may-strain-aid-as-food-costs-soar.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10892865)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10892865)
+2. [BusinessWeek](http://www.businessweek.com/news/2010-08-06/floods-from-pakistan-to-korea-may-strain-aid-as-food-costs-soar.html)
 
 ### Related:
 

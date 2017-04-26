@@ -7,9 +7,9 @@ The opposition mayor of Caracas was detained by Venezuelan intelligence police a
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/20/venezuela-opposition-idUSL1N0VT39T20150220)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-02-19/venezuela-opposition-mayor-antonio-ledezma-detained-by-police)
 2. [teleSUR](http://www.telesurtv.net/english/news/US-on-Venezuela-Coup-Charges-We-Dont-Support-Regime-Change-20150219-0035.html)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2015-02-19/venezuela-opposition-mayor-antonio-ledezma-detained-by-police)
+3. [Reuters](http://www.reuters.com/article/2015/02/20/venezuela-opposition-idUSL1N0VT39T20150220)
 
 ### Related:
 

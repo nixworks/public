@@ -7,12 +7,12 @@ White House Press Secretary Sean Spicerâ€™s contentious relationship with the me
 
 ### Source:
 
-1. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1015692&lang=eng_news)
-2. [RTÉ](http://www.rte.ie/sport/gaa/championship/2009/0728/crokepark.html)
-3. [NME](http://www.nme.com/news/u2/46356)
-4. [CBC](http://www.cbc.ca/arts/music/story/2009/07/28/u2-concert-protest-noise-delay.html)
-5. [The Guardian](http://www.guardian.co.uk/music/2009/jul/28/u2-dublin-protest)
-6. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a7emm7SMy7A4)
+1. [RTÉ](http://www.rte.ie/sport/gaa/championship/2009/0728/crokepark.html)
+2. [NME](http://www.nme.com/news/u2/46356)
+3. [CBC](http://www.cbc.ca/arts/music/story/2009/07/28/u2-concert-protest-noise-delay.html)
+4. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1015692&lang=eng_news)
+5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a7emm7SMy7A4)
+6. [The Guardian](http://www.guardian.co.uk/music/2009/jul/28/u2-dublin-protest)
 
 ### Related:
 

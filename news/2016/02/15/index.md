@@ -34,7 +34,7 @@ Bosnia-Herzegovina applies to join the EU - a milestone in its efforts to overco
 President Obama on Monday will kick off a two-day summit with 10 Southeast Asian leaders at Sunnylands in Rancho Mirage, the first-ever such meeting on U.S. soil.
 
 ### [Former Prime Minister of Israel Ehud Olmert starts a 19-month prison sentence for bribery and obstructing justice. In the last decade, he was found or admitted guilty in four different corruption investigations. ](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-starts-a-19-month-prison-sentence-for-bribery-and-obstructing-justice-in-the-last-decade-he-wa.md)
-_Context: Ehud Olmert, prime minister of Israel_
+_Context: Ehud Olmert, Prime Minister of Israel_
 
 ### [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md)
 _Context: Germany, al-Qaeda, intelligence_

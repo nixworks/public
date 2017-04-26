@@ -7,9 +7,9 @@ Four teenage students were injured after a 14-year-old classmate pulled a gun an
 
 ### Source:
 
-1. [AP via ''The Citizen](http://auburnpub.com/news/national/hurt-as-student-opens-fire-in-ohio-school-cafeteria/article_d5e4b5e9-126b-5a7f-878b-bce6ffd1655e.html)
+1. [School website](http://www.madisonmohawks.org/)
 2. [UPI](http://www.upi.com/Top_News/US/2016/02/29/Four-students-wounded-in-Ohio-school-shooting-14-year-old-suspect-arrested-charged/2971456793626/?spt=hs&or=tn_us)
-3. [School website](http://www.madisonmohawks.org/)
+3. [AP via ''The Citizen](http://auburnpub.com/news/national/hurt-as-student-opens-fire-in-ohio-school-cafeteria/article_d5e4b5e9-126b-5a7f-878b-bce6ffd1655e.html)
 
 ### Related:
 

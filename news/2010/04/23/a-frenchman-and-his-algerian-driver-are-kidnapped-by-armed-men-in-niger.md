@@ -7,10 +7,10 @@ A&#x20;Frenchman&#x20;and&#x20;an&#x20;Algerian&#x20;national&#x20;were&#x20;kid
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100422-niger-frenchman-algerian-national-kidnapped-armed-men)
-2. [Arab News](http://arabnews.com/world/article46462.ece)
-3. [News24](http://www.news24.com/Africa/News/French-tourist-kidnapped-in-Niger-20100423)
-4. [BBC](http://news.bbc.co.uk/2/hi/africa/8639205.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8639205.stm)
+2. [News24](http://www.news24.com/Africa/News/French-tourist-kidnapped-in-Niger-20100423)
+3. [Arab News](http://arabnews.com/world/article46462.ece)
+4. [France24](http://www.france24.com/en/20100422-niger-frenchman-algerian-national-kidnapped-armed-men)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The Senate on Friday confirmed a handful of ambassadors and State Department off
 
 ### Source:
 
-1. [St. Paul Pioneer Press](http://www.twincities.com/2016/02/12/minneapolis-lawyer-ambassador-norway/)
+1. [Iranian.com](http://iranian.com/posts/iranian-born-american-azita-raji-the-designated-us-ambassador-to-65781)
 2. [NBC News](http://www.nbcnews.com/news/us-news/ambassadors-sweden-norway-confirmed-sen-cruz-lifts-hold-n517671)
-3. [Iranian.com](http://iranian.com/posts/iranian-born-american-azita-raji-the-designated-us-ambassador-to-65781)
-4. [State](http://www.state.gov/secretary/remarks/2016/02/252468.htm)
+3. [State](http://www.state.gov/secretary/remarks/2016/02/252468.htm)
+4. [St. Paul Pioneer Press](http://www.twincities.com/2016/02/12/minneapolis-lawyer-ambassador-norway/)
 
 ### Related:
 

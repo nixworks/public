@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-08-03T143312Z_01_L032832_RTRIDST_0_INTERNATIONAL-SUDAN-DC.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4741149.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4741149.stm)
+2. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-08-03T143312Z_01_L032832_RTRIDST_0_INTERNATIONAL-SUDAN-DC.XML)
 
 ### Related:
 

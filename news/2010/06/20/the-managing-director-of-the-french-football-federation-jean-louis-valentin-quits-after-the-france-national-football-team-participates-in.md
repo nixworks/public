@@ -8,14 +8,14 @@ Nigeria midfielder Sani Kaita has revealed he received death threats via e-mail 
 ### Source:
 
 1. [The Budapest Report](http://www.budapestreport.com/2010/06/20/kaita-red-card-brings-mass-death-threats/)
-2. [The Guardian](http://www.guardian.co.uk/football/2010/jun/20/france-raymond-domenech-nicolas-anelka)
-3. [Xinhua](http://news.xinhuanet.com/english2010/sports/2010-06/21/c_13359747.htm)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/world-cup-2010/teams/nigeria/7840566/World-Cup-2010-Nigerias-Sani-Kaita-receives-death-threats-after-seeing-red-against-Greece.html)
-5. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8750418.stm)
-6. [Forbes](http://www.forbes.com/feeds/ap/2010/06/20/sports-soc-wcup-nigeria-death-threats_7704144.html?boxes=financechannelAP)
-7. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gRWd3DGr1adOy6TSzAEGYqTeQl9QD9GF7SP80)
-8. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8750302.stm)
-9. [TIME](http://specials.blogs.time.com/2010/06/20/for-france-theres-world-cup-hope-in-a-player-rebellion/?xid=rss-topstories)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gRWd3DGr1adOy6TSzAEGYqTeQl9QD9GF7SP80)
+3. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8750418.stm)
+4. [TIME](http://specials.blogs.time.com/2010/06/20/for-france-theres-world-cup-hope-in-a-player-rebellion/?xid=rss-topstories)
+5. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8750302.stm)
+6. [The Guardian](http://www.guardian.co.uk/football/2010/jun/20/france-raymond-domenech-nicolas-anelka)
+7. [Xinhua](http://news.xinhuanet.com/english2010/sports/2010-06/21/c_13359747.htm)
+8. [Forbes](http://www.forbes.com/feeds/ap/2010/06/20/sports-soc-wcup-nigeria-death-threats_7704144.html?boxes=financechannelAP)
+9. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/world-cup-2010/teams/nigeria/7840566/World-Cup-2010-Nigerias-Sani-Kaita-receives-death-threats-after-seeing-red-against-Greece.html)
 
 ### Related:
 

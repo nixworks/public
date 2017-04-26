@@ -7,9 +7,9 @@ Former Virginia Sen. Jim Webb plans to announce on Tuesday that he will drop out
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/b5d02ee2e7e0407c94748817f17d7c40/webb-considering-dropping-democratic-bid-president)
+1. [NBC News](http://www.nbcnews.com/politics/2016-election/jim-webb-quit-democratic-primary-n447736)
 2. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/10/20/webb-exits-democratic-presidential-primary/)
-3. [NBC News](http://www.nbcnews.com/politics/2016-election/jim-webb-quit-democratic-primary-n447736)
+3. [AP](http://bigstory.ap.org/article/b5d02ee2e7e0407c94748817f17d7c40/webb-considering-dropping-democratic-bid-president)
 
 ### Related:
 

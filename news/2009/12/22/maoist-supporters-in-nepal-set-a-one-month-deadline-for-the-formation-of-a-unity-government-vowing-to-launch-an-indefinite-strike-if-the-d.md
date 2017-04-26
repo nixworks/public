@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jEGPuVf0ytbxttc8KJrp_3jCsEHA)
-2. [Asian Tribune](http://www.asiantribune.com/news/2009/12/23/maoists-conclude-third-phase-protests-warn-indefinite-general-strikes-next-month)
+1. [Asian Tribune](http://www.asiantribune.com/news/2009/12/23/maoists-conclude-third-phase-protests-warn-indefinite-general-strikes-next-month)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jEGPuVf0ytbxttc8KJrp_3jCsEHA)
 
 ### Related:
 

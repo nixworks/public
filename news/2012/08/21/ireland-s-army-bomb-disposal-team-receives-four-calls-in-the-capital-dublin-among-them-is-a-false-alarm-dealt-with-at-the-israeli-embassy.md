@@ -7,8 +7,8 @@ The Army Bomb Disposal Team has been called out on four separate occasions in Du
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/21/us-ireland-israel-embassy-idUSBRE87K0F920120821)
-2. [RTÉ News](http://www.rte.ie/news/2012/0821/viable-explosive-made-safe-in-tallaght-dublin.html)
+1. [RTÉ News](http://www.rte.ie/news/2012/0821/viable-explosive-made-safe-in-tallaght-dublin.html)
+2. [Reuters](http://www.reuters.com/article/2012/08/21/us-ireland-israel-embassy-idUSBRE87K0F920120821)
 
 ### Related:
 

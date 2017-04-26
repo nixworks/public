@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/election_2010/scotland/8615118.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/election_2010/wales/8614409.stm)
 2. [Guardian](http://www.guardian.co.uk/politics/2010/apr/12/labour-manifesto-at-a-glance)
-3. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/election_2010/wales/8614409.stm)
+3. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/election_2010/scotland/8615118.stm)
 
 ### Related:
 

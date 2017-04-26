@@ -7,21 +7,21 @@ The Russian Prime Minister Vladimir Putin has said he suspects unnamed persons i
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/28/russia.georgia.cold.war/index.html)
-2. [RTE](http://www.rte.ie/news/2008/0828/georgia.html)
-3. [Sky News](http://news.sky.com/skynews/Home/World-News/Asian-Summit-Support-For-Russia-Falls-Short-While-EU-To-Consider-Sanctions-Over-Georgia-Issue/Article/200808415088409?lpos=World%2BNews_5&lid=ARTICLE_15088409_Asian%2BSummit%2BSupport%2BFor%2BRussia%2BFalls%2BShort%2BWhile%2BEU%2B%2527To%2BConsider%2527%2BSanctions%2BOver%2BGeorgia%2BIssue)
-4. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20080828104542646C970322)
-5. [BBC News](http://news.bbc.co.uk/2/hi/europe/7585580.stm)
-6. [Delfi](http://www.delfi.lt/news/daily/world/article.php?id=18341368)
-7. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27665&pg=1&im=main&ct=0&wth=)
-8. [Civil](http://www.civil.ge/eng/article.php?id=19328)
-9. [AP via ''USA Today](http://www.usatoday.com/news/world/2008-08-28-georgia-cleansing_N.htm?csp=34)
-10. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27676&pg=1&im=main&ct=0&wth=)
-11. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27664&pg=1&im=main&ct=0&wth=)
-12. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080828.wrussasia0828/BNStory/International/home)
-13. [The Independent](http://www.independent.ie/breaking-news/world-news/europe/eu-considers-sanctions-on-russia-over-georgia-crisis-1464935.html)
-14. [VOA](http://voanews.com/english/2008-08-28-voa20.cfm)
-15. [Civil.Ge](http://www.civil.ge/eng/article.php?id=19346)
+1. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27665&pg=1&im=main&ct=0&wth=)
+2. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/28/russia.georgia.cold.war/index.html)
+3. [BBC News](http://news.bbc.co.uk/2/hi/europe/7585580.stm)
+4. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27676&pg=1&im=main&ct=0&wth=)
+5. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20080828104542646C970322)
+6. [Civil](http://www.civil.ge/eng/article.php?id=19328)
+7. [RTE](http://www.rte.ie/news/2008/0828/georgia.html)
+8. [Sky News](http://news.sky.com/skynews/Home/World-News/Asian-Summit-Support-For-Russia-Falls-Short-While-EU-To-Consider-Sanctions-Over-Georgia-Issue/Article/200808415088409?lpos=World%2BNews_5&lid=ARTICLE_15088409_Asian%2BSummit%2BSupport%2BFor%2BRussia%2BFalls%2BShort%2BWhile%2BEU%2B%2527To%2BConsider%2527%2BSanctions%2BOver%2BGeorgia%2BIssue)
+9. [Delfi](http://www.delfi.lt/news/daily/world/article.php?id=18341368)
+10. [Civil.Ge](http://www.civil.ge/eng/article.php?id=19346)
+11. [The Independent](http://www.independent.ie/breaking-news/world-news/europe/eu-considers-sanctions-on-russia-over-georgia-crisis-1464935.html)
+12. [AP via ''USA Today](http://www.usatoday.com/news/world/2008-08-28-georgia-cleansing_N.htm?csp=34)
+13. [VOA](http://voanews.com/english/2008-08-28-voa20.cfm)
+14. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080828.wrussasia0828/BNStory/International/home)
+15. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27664&pg=1&im=main&ct=0&wth=)
 
 ### Related:
 

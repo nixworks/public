@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gDqbBy0vXLYe72zT5AMNzwJ_fgQQD9BCMF480)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091015225037424C783668)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091015225037424C783668)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gDqbBy0vXLYe72zT5AMNzwJ_fgQQD9BCMF480)
 
 ### Related:
 

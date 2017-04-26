@@ -7,9 +7,9 @@ In new guidelines published today, the World Health Organization recommended tha
 
 ### Source:
 
-1. [Time](http://time.com/4056153/hiv-treatment-aids-who-world-health-organization/)
-2. [The Verge](http://www.theverge.com/2015/9/30/9423119/who-hiv-antiretroviral-treatment)
-3. [WHO](http://www.who.int/mediacentre/news/releases/2015/hiv-treat-all-recommendation/en/)
+1. [The Verge](http://www.theverge.com/2015/9/30/9423119/who-hiv-antiretroviral-treatment)
+2. [WHO](http://www.who.int/mediacentre/news/releases/2015/hiv-treat-all-recommendation/en/)
+3. [Time](http://time.com/4056153/hiv-treatment-aids-who-world-health-organization/)
 
 ### Related:
 

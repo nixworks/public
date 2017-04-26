@@ -7,9 +7,9 @@ Defense Secretary Ash Carter today revealed that the U.S. will openly begin &quo
 
 ### Source:
 
-1. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/27/usa-to-step-up-airstrikes-ground-raids-against-isil.html)
+1. [AP via Boston Globe](https://www.bostonglobe.com/news/nation/2015/10/27/obama-weighs-moving-troops-closer-front-lines-syria-ira/COeqfPBwQZZnoYrZTL6L8H/story.html)
 2. [NBC News](http://www.nbcnews.com/news/us-news/sec-carter-direct-u-s-action-ground-iraq-syria-n452131)
-3. [AP via Boston Globe](https://www.bostonglobe.com/news/nation/2015/10/27/obama-weighs-moving-troops-closer-front-lines-syria-ira/COeqfPBwQZZnoYrZTL6L8H/story.html)
+3. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/27/usa-to-step-up-airstrikes-ground-raids-against-isil.html)
 
 ### Related:
 

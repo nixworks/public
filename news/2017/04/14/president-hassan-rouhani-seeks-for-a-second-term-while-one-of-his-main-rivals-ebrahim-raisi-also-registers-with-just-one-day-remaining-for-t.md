@@ -7,8 +7,8 @@ Upcoming vote will be seen, among other things, as a referendum on the landmark 
 
 ### Source:
 
-1. [Al-Jazeera](http://www.aljazeera.com/news/2017/04/rouhani-registers-run-presidential-term-170414173047189.html)
-2. [Reuters](https://www.reuters.com/article/us-iran-election-rouhani-idUSKBN17G0XU)
+1. [Reuters](https://www.reuters.com/article/us-iran-election-rouhani-idUSKBN17G0XU)
+2. [Al-Jazeera](http://www.aljazeera.com/news/2017/04/rouhani-registers-run-presidential-term-170414173047189.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The explosion on Saturday was unusual in that it involved a large mine operated 
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8372760.stm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gJkosYGNyNTJ5Ic_Ua1AKy9EoM5QD9C4B9I81)
-3. [New York Times](http://www.nytimes.com/2009/11/22/world/asia/22china.html)
-4. [Reuters](http://uk.reuters.com/article/idUKTRE5AK09720091122)
+1. [New York Times](http://www.nytimes.com/2009/11/22/world/asia/22china.html)
+2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8372760.stm)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE5AK09720091122)
+4. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gJkosYGNyNTJ5Ic_Ua1AKy9EoM5QD9C4B9I81)
 
 ### Related:
 

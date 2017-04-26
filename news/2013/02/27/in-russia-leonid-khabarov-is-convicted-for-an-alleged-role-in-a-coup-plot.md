@@ -8,8 +8,8 @@ Members of a loosely organized crime ring have been sentenced to prison in Sverd
 ### Source:
 
 1. [RT](http://rt.com/politics/three-sentenced-in-russia-over-coup-plot-452/)
-2. [RAPSI](http://rapsinews.com/legislation/20130226/266533001.html)
-3. [RIA Novosti](http://en.rian.ru/russia/20130226/179697240.html)
+2. [RIA Novosti](http://en.rian.ru/russia/20130226/179697240.html)
+3. [RAPSI](http://rapsinews.com/legislation/20130226/266533001.html)
 
 ### Related:
 

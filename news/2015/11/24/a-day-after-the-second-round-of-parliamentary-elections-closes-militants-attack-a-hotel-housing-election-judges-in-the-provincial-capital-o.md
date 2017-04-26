@@ -7,8 +7,8 @@ The blasts in the city of al-Arish came a day after the second round of parliame
 
 ### Source:
 
-1. [Eyewitness News](http://ewn.co.za/2015/11/24/Twin-bombs-explode-outside-Egyptian-hotel)
-2. [Reuters](http://www.reuters.com/article/2015/11/24/us-egypt-bomb-idUSKBN0TD0BC20151124#LdtqKjp34tSTQJDC.97)
+1. [Reuters](http://www.reuters.com/article/2015/11/24/us-egypt-bomb-idUSKBN0TD0BC20151124#LdtqKjp34tSTQJDC.97)
+2. [Eyewitness News](http://ewn.co.za/2015/11/24/Twin-bombs-explode-outside-Egyptian-hotel)
 
 ### Related:
 

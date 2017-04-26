@@ -7,12 +7,12 @@ Jyoti Basu, the patriarchof Indian communism whose pragmatic politics twice brou
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/CPM-leader-Jyoti-Basu-dies/H1-Article1-498397.aspx)
+1. [The Hindu](http://beta.thehindu.com/news/article81481.ece)
 2. [Indian Express](http://www.indianexpress.com/news/Paul-says-Basu-was-a-great-PM-India-never-had/568316)
-3. [The Hindu](http://beta.thehindu.com/news/article81481.ece)
-4. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5iHLbnejCqxFHR6gZbWCPp6I8gJDQ)
+3. [Hindustan Times](http://www.hindustantimes.com/CPM-leader-Jyoti-Basu-dies/H1-Article1-498397.aspx)
+4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8463957.stm)
 5. [Reuters](http://in.reuters.com/article/domesticNews/idINLDE60G06920100117)
-6. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8463957.stm)
+6. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5iHLbnejCqxFHR6gZbWCPp6I8gJDQ)
 
 ### Related:
 

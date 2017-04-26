@@ -7,10 +7,10 @@ After holding Mass in Havana and meeting with Fidel Castro Sunday, Pope Francis 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2015/09/21/world/americas/pope-francis-cuba.html?_r=0)
+1. [USA Today](http://www.usatoday.com/videos/news/world/2015/09/20/72535168/)
 2. [WSJ](http://www.wsj.com/articles/pope-celebrates-mass-in-havana-1442768643)
-3. [ABC](http://abcnews.go.com/International/pope-francis-havana-cuba-trip/story?id=33912256)
-4. [USA Today](http://www.usatoday.com/videos/news/world/2015/09/20/72535168/)
+3. [The New York Times](http://www.nytimes.com/2015/09/21/world/americas/pope-francis-cuba.html?_r=0)
+4. [ABC](http://abcnews.go.com/International/pope-francis-havana-cuba-trip/story?id=33912256)
 
 ### Related:
 

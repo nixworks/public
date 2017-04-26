@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=122369&sectionid=351020404)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/04/03/china.mine/?hpt=T2)
-3. [China Daily](http://www.chinadaily.com.cn/china/2010-04/03/content_9684794.htm)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/04/03/china.mine/?hpt=T2)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-04/03/content_9684794.htm)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=122369&sectionid=351020404)
 
 ### Related:
 

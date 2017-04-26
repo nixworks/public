@@ -7,8 +7,8 @@ Syrian rebels capture a key oilfield in eastern Deir Ezzor province, activists s
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20196107)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20199240)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20199240)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20196107)
 
 ### Related:
 

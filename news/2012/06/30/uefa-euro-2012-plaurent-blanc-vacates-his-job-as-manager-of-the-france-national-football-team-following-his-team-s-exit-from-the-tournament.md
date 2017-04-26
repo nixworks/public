@@ -7,10 +7,10 @@ Laurent Blanc leaves his job as manager of the French national team after his co
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18659024)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/18657633)
 2. [ESPN](http://www.espn.co.uk/football/sport/story/158220.html)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/18657633)
-4. [ESPN](http://www.espn.co.uk/football/sport/story/158223.html?CMP=OTC-RSS)
+3. [ESPN](http://www.espn.co.uk/football/sport/story/158223.html?CMP=OTC-RSS)
+4. [BBC](http://www.bbc.co.uk/sport/0/football/18659024)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A court in Malaysia rules there is enough credible evidence against opposition l
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13408052)
-2. [Malaysiakini](http://www.malaysiakini.com/news/164214)
+1. [Malaysiakini](http://www.malaysiakini.com/news/164214)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13408052)
 
 ### Related:
 

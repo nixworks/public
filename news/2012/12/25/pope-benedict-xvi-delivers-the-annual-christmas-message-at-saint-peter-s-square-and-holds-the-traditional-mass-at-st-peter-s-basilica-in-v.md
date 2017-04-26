@@ -7,9 +7,9 @@ Millions of Christians around the world are celebrating Christmas, as Pope Bened
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1029950/pope-benedict-celebrates-christmas-mass)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20838547)
 2. [Herald Net](http://www.heraldnet.com/article/20121225/NEWS02/712259953)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20838547)
+3. [Sky News](http://news.sky.com/story/1029950/pope-benedict-celebrates-christmas-mass)
 
 ### Related:
 

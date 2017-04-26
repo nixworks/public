@@ -7,8 +7,8 @@ A fast-moving line of dangerous storms knocked out power to more than 1.5 millio
 
 ### Source:
 
-1. [AP via WVEC](http://hosted.ap.org/dynamic/stories/U/US_SUMMER_STORMS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [NBC Washington](http://www.nbcwashington.com/weather/stories/Records-Could-Be-Broken-as-DC-Heats-Up-160732845.html?update)
+1. [NBC Washington](http://www.nbcwashington.com/weather/stories/Records-Could-Be-Broken-as-DC-Heats-Up-160732845.html?update)
+2. [AP via WVEC](http://hosted.ap.org/dynamic/stories/U/US_SUMMER_STORMS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

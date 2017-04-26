@@ -7,8 +7,8 @@ EU names 13 Syrian officials on sanctions list, including a brother and influent
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/10/syria-banias-idUSLDE7492KC20110510)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201151083236550487.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201151083236550487.html)
+2. [Reuters](http://www.reuters.com/article/2011/05/10/syria-banias-idUSLDE7492KC20110510)
 
 ### Related:
 

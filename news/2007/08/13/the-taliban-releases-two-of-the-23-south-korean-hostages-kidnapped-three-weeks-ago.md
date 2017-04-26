@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6944333.stm)
-2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/13/taliban.hostages/index.html?eref=rss_world)
+1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/13/taliban.hostages/index.html?eref=rss_world)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6944333.stm)
 
 ### Related:
 

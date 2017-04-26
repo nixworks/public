@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Polit Info](http://www.politinfo.com/articles/article_2005_08_18_1506.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2005-08/18/content_3372646.htm)
-3. [Reuters](http://www.alertnet.org/thenews/newsdesk/GEO861510.htm)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/GEO861510.htm)
+3. [Xinhua](http://news.xinhuanet.com/english/2005-08/18/content_3372646.htm)
 
 ### Related:
 

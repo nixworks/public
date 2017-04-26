@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3400742/Russia-says-aid-allowed-areas-Syria-blockaded-militants.html#ixzz3xIlzliI3)
-2. [Reuters via Trust](http://news.trust.org/item/20160115084313-l8tj1)
+1. [Reuters via Trust](http://news.trust.org/item/20160115084313-l8tj1)
+2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3400742/Russia-says-aid-allowed-areas-Syria-blockaded-militants.html#ixzz3xIlzliI3)
 
 ### Related:
 

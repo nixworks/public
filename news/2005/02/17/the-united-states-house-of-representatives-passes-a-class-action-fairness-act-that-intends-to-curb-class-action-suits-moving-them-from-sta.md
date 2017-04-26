@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/money/2005-02-17-lawsuits-usat_x.htm)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aTXBXoYE7gwY&refer=top_world_news)
 2. [US Newswire](http://releases.usnewswire.com/GetRelease.asp?id=43298)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aTXBXoYE7gwY&refer=top_world_news)
+3. [USA Today](http://www.usatoday.com/money/2005-02-17-lawsuits-usat_x.htm)
 
 ### Related:
 

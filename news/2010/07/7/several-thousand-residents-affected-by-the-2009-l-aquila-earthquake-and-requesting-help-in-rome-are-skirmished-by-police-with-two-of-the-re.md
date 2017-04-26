@@ -7,8 +7,8 @@ Residents from the Italian region struck by a major earthquake in 2009 clash wit
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10541725.stm)
-2. [The Star](http://thestar.com.my/news/story.asp?file=/2010/7/8/worldupdates/2010-07-08T000607Z_01_NOOTR_RTRMDNC_0_-499428-4&sec=Worldupdates)
+1. [The Star](http://thestar.com.my/news/story.asp?file=/2010/7/8/worldupdates/2010-07-08T000607Z_01_NOOTR_RTRMDNC_0_-499428-4&sec=Worldupdates)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10541725.stm)
 3. [Reuters](http://www.reuters.com/article/idUSTRE6664MG20100707)
 
 ### Related:

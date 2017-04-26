@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-08-17T184351Z_01_MCC752278_RTRUKOC_0_UK-MIDEAST-SHOOTING.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4160768.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4160768.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-08-17T184351Z_01_MCC752278_RTRUKOC_0_UK-MIDEAST-SHOOTING.xml)
 
 ### Related:
 

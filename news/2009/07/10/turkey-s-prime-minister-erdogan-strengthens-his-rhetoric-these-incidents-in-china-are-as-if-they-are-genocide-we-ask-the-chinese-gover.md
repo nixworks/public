@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Associated Press](http://hosted.ap.org/dynamic/stories/E/EU_TURKEY_CHINA?SITE=CTDAN&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56957D20090710)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8144146.stm)
-4. [Xinhua](http://news.xinhuanet.com/english/2009-07/10/content_11686429.htm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8144146.stm)
+2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_401377.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-07/10/content_11686429.htm)
+4. [Associated Press](http://hosted.ap.org/dynamic/stories/E/EU_TURKEY_CHINA?SITE=CTDAN&SECTION=HOME&TEMPLATE=DEFAULT)
 5. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8145451.stm)
-6. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_401377.html)
+6. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56957D20090710)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061109/ap_on_el_ho/florida_recount)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061109/ap_on_el_se/virginia_senate)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061109/ap_on_el_se/virginia_senate)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061109/ap_on_el_ho/florida_recount)
 3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061109/ap_on_el_se/montana_senate_12)
 
 ### Related:

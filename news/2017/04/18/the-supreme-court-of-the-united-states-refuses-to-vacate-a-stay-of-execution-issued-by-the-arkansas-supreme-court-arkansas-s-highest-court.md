@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2017/04/17/us/arkansas-executions/index.html)
-2. [The New York Times](https://www.nytimes.com/2017/04/17/us/mondays-arkansas-execution-halted-by-state-justices.html)
+1. [The New York Times](https://www.nytimes.com/2017/04/17/us/mondays-arkansas-execution-halted-by-state-justices.html)
+2. [CNN](http://www.cnn.com/2017/04/17/us/arkansas-executions/index.html)
 
 ### Related:
 

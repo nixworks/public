@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP, AP via Sydney Morning Herald](http://www.smh.com.au/news/world/600-homes-destroyed-by-us-fires/2007/10/23/1192941022934.html?sssdmh=dm16.285264)
-2. [LA Times](http://www.latimes.com/)
-3. [Agence France Press via News Limited](http://www.news.com.au/story/0,23599,22633572-2,00.html)
+2. [Agence France Press via News Limited](http://www.news.com.au/story/0,23599,22633572-2,00.html)
+3. [LA Times](http://www.latimes.com/)
 
 ### Related:
 

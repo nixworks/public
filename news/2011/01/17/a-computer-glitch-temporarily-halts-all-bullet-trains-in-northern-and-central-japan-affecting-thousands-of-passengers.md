@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110117-314963/Computer-glitch-halts-bullet-trains-in-Japan)
-2. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110117x2.html)
+1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110117x2.html)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110117-314963/Computer-glitch-halts-bullet-trains-in-Japan)
 
 ### Related:
 

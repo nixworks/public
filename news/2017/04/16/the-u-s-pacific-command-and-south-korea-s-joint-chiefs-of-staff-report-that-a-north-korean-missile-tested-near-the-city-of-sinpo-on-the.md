@@ -7,8 +7,8 @@ min Park and Sue-Lin Wong
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/2017-04-16/north-korea-attempts-but-fails-to-launch-missile-south-korea-say/8446418)
-2. [Reuters](http://www.reuters.com/article/us-northkorea-usa-missile-idUSKBN17H0NL)
+1. [Reuters](http://www.reuters.com/article/us-northkorea-usa-missile-idUSKBN17H0NL)
+2. [ABC News](http://www.abc.net.au/news/2017-04-16/north-korea-attempts-but-fails-to-launch-missile-south-korea-say/8446418)
 
 ### Related:
 

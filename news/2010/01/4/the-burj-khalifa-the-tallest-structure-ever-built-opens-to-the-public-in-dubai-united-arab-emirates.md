@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WAM Emirates News Agency](http://www.wam.ae/servlet/Satellite?c=WamLocEnews&cid=1261832743596&pagename=WAM%2FWAM_E_Layout&parent=Query&parentid=1135099399852)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/20101416252573608.htm)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/20101416252573608.htm)
+2. [WAM Emirates News Agency](http://www.wam.ae/servlet/Satellite?c=WamLocEnews&cid=1261832743596&pagename=WAM%2FWAM_E_Layout&parent=Query&parentid=1135099399852)
 
 ### Related:
 

@@ -7,11 +7,11 @@ A powerful Ukrainian rebel leader has confirmed that pro-Russian separatists had
 
 ### Source:
 
-1. [Business World Online](http://www.bworldonline.com/content.php?section=World&title=Netherlands-mourns-as-bodies-of-MH17-crash-victims-return&id=91363)
-2. [Reuters](http://www.reuters.com/article/2014/07/23/us-ukraine-crisis-commander-exclusive-idUSKBN0FS1V920140723)
-3. [AP via Chron News](http://www.chron.com/news/world/article/2-Ukrainian-military-fighter-jets-shot-down-5640344.php)
-4. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-troops-free-three-villages-in-donetsk-region-fighting-for-lysychansk-357583.html)
-5. [The Local](http://www.thelocal.ch/20140723/red-cross-declares-civil-war-in-ukraine)
+1. [Reuters](http://www.reuters.com/article/2014/07/23/us-ukraine-crisis-commander-exclusive-idUSKBN0FS1V920140723)
+2. [Business World Online](http://www.bworldonline.com/content.php?section=World&title=Netherlands-mourns-as-bodies-of-MH17-crash-victims-return&id=91363)
+3. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-troops-free-three-villages-in-donetsk-region-fighting-for-lysychansk-357583.html)
+4. [The Local](http://www.thelocal.ch/20140723/red-cross-declares-civil-war-in-ukraine)
+5. [AP via Chron News](http://www.chron.com/news/world/article/2-Ukrainian-military-fighter-jets-shot-down-5640344.php)
 
 ### Related:
 

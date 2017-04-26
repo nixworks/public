@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Construction.RU](http://russianconstruction.com/news-1/24224-belarus-carries-out-denomination-of-its-national-currency.html)
-2. [Belarus segodnya](http://www.sb.by/obshchestvo/article/dva-rublya-za-dollar.html)
+1. [Belarus segodnya](http://www.sb.by/obshchestvo/article/dva-rublya-za-dollar.html)
+2. [Construction.RU](http://russianconstruction.com/news-1/24224-belarus-carries-out-denomination-of-its-national-currency.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aTbDXjlE1qqw&refer=home)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/6318357.stm)
-3. [US Airways Press Release](http://phx.corporate-ir.net/phoenix.zhtml?c=196799&p=irol-newsArticle&ID=956418&highlight=)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/6318357.stm)
+2. [US Airways Press Release](http://phx.corporate-ir.net/phoenix.zhtml?c=196799&p=irol-newsArticle&ID=956418&highlight=)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aTbDXjlE1qqw&refer=home)
 
 ### Related:
 

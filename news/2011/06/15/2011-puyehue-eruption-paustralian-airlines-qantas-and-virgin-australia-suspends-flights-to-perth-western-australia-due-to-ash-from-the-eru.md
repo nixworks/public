@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g9DcQLpFCGPKBirlX5owAAoSdXBg?docId=CNG.b80e20ba7a8a0ad5c8dedc098860570c.01)
-2. [BBC News](http://www.bbc.co.uk/news/business-13772979)
-3. [NineMSN](http://news.ninemsn.com.au/national/8261320/virgin-qantas-suspend-flights-to-perth)
+2. [NineMSN](http://news.ninemsn.com.au/national/8261320/virgin-qantas-suspend-flights-to-perth)
+3. [BBC News](http://www.bbc.co.uk/news/business-13772979)
 
 ### Related:
 

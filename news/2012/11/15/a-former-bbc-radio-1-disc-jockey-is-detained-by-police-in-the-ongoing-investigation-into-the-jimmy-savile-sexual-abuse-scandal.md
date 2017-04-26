@@ -7,8 +7,8 @@ Dave Lee Travis, the former Radio 1 DJ and Top of the Pops presenter, has been a
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9680420/Dave-Lee-Travis-arrested-as-part-of-Jimmy-Savile-sex-abuse-probe.html)
-2. [BBC](http://www.bbc.co.uk/news/world-20336798)
+1. [BBC](http://www.bbc.co.uk/news/world-20336798)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9680420/Dave-Lee-Travis-arrested-as-part-of-Jimmy-Savile-sex-abuse-probe.html)
 
 ### Related:
 

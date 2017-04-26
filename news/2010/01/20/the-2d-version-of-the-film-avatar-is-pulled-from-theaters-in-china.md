@@ -7,10 +7,10 @@ A controversy over the withdrawal of Avatar from 2D cinema halls has forced the 
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/Withdrawal-of-Avatar-causes-controversy-in-China/articleshow/5481890.cms)
-2. [BBC](http://news.bbc.co.uk/1/hi/entertainment/8469672.stm)
-3. [Malaysia Star](http://www.star-ecentral.com/movies/buzz/buzz.asp?file=archives/buzz/2010/1/20AvatarPull&date=1/20/2010&title=Avatar%20Pulled%20From%20China%27s%20Cinemas)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/1143894.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/8469672.stm)
+2. [Malaysia Star](http://www.star-ecentral.com/movies/buzz/buzz.asp?file=archives/buzz/2010/1/20AvatarPull&date=1/20/2010&title=Avatar%20Pulled%20From%20China%27s%20Cinemas)
+3. [Haaretz](http://www.haaretz.com/hasen/spages/1143894.html)
+4. [Times of India](http://timesofindia.indiatimes.com/world/china/Withdrawal-of-Avatar-causes-controversy-in-China/articleshow/5481890.cms)
 
 ### Related:
 

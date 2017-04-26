@@ -7,8 +7,8 @@ A strong earthquake shook Japan on Saturday near the southwestern city of Kobe, 
 
 ### Source:
 
-1. [CBC News](http://www.cbc.ca/news/world/story/2013/04/13/japan-earthquake.html)
-2. [AP via ''The Hindu](http://www.thehindu.com/news/international/world/strong-quake-hits-japan/article4613546.ece)
+1. [AP via ''The Hindu](http://www.thehindu.com/news/international/world/strong-quake-hits-japan/article4613546.ece)
+2. [CBC News](http://www.cbc.ca/news/world/story/2013/04/13/japan-earthquake.html)
 
 ### Related:
 

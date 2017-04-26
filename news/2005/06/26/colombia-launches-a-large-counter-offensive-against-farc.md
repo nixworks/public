@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/WORLD/americas/06/26/colombian.soldiers.ap/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4625433.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4625433.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/americas/06/26/colombian.soldiers.ap/index.html)
 
 ### Related:
 

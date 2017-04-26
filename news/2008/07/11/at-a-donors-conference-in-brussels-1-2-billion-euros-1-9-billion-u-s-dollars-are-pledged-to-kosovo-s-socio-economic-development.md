@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2008-07/12/content_8532138.htm)
-2. [MarketWatch](http://www.marketwatch.com/news/story/international-community-pledges-12-billion/story.aspx?guid=%7B1B88405A-300F-43C6-9A56-B57B65E48A7C%7D&dist=hppr)
+1. [MarketWatch](http://www.marketwatch.com/news/story/international-community-pledges-12-billion/story.aspx?guid=%7B1B88405A-300F-43C6-9A56-B57B65E48A7C%7D&dist=hppr)
+2. [Xinhua](http://news.xinhuanet.com/english/2008-07/12/content_8532138.htm)
 
 ### Related:
 

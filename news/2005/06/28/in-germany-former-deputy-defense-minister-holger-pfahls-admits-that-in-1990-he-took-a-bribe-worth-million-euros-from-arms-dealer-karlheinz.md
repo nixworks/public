@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1631325,00.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aOcQmLuEW_8o&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aOcQmLuEW_8o&refer=europe)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1631325,00.html)
 
 ### Related:
 

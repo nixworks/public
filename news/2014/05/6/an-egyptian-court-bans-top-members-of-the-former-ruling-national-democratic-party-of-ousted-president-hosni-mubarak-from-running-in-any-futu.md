@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/middle_east/egypts-el-sissi-brotherhood-will-not-return/2014/05/06/3077d6d6-d4eb-11e3-8f7d-7786660fff7c_story.html)
-2. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/100600/Egypt/Politics-/Cairo-court-bans-former-NDP-members-from-running-i.aspx)
+1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/100600/Egypt/Politics-/Cairo-court-bans-former-NDP-members-from-running-i.aspx)
+2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/egypts-el-sissi-brotherhood-will-not-return/2014/05/06/3077d6d6-d4eb-11e3-8f7d-7786660fff7c_story.html)
 
 ### Related:
 

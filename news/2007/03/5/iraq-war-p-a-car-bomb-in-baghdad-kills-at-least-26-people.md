@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via IHT](http://www.iht.com/articles/ap/2007/03/06/africa/ME-GEN-Iraq-US-Casualties.php)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6421903.stm)
-3. [CNN](http://edition.cnn.com/2007/WORLD/meast/03/05/iraq.main/index.html?section=cnn_latest)
+1. [CNN](http://edition.cnn.com/2007/WORLD/meast/03/05/iraq.main/index.html?section=cnn_latest)
+2. [AP via IHT](http://www.iht.com/articles/ap/2007/03/06/africa/ME-GEN-Iraq-US-Casualties.php)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6421903.stm)
 
 ### Related:
 

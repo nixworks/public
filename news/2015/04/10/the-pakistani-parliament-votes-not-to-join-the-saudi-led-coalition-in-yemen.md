@@ -7,8 +7,8 @@ Vote indicates country will not join Saudi-led military coalition but will &quot
 
 ### Source:
 
-1. [al-Jazeera](http://www.aljazeera.com/news/2015/04/pakistan-rules-military-operations-yemen-150410074921586.html)
-2. [Voice of America](http://www.voanews.com/content/united-nations-warns-the-situation-in-yemen-continues-to-deteriorate/2714374.html)
+1. [Voice of America](http://www.voanews.com/content/united-nations-warns-the-situation-in-yemen-continues-to-deteriorate/2714374.html)
+2. [al-Jazeera](http://www.aljazeera.com/news/2015/04/pakistan-rules-military-operations-yemen-150410074921586.html)
 
 ### Related:
 

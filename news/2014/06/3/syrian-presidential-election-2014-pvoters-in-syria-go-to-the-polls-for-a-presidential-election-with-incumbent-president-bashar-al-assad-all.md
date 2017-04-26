@@ -7,8 +7,8 @@ President Bashar al-Assad has secured a landslide victory in a wartime election 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/04/us-syria-crisis-idUSKBN0EF25520140604?feedType=RSS&feedName=topNews)
-2. [AFP via GlobalPost](http://www.globalpost.com/dispatch/news/afp/140602/assad-eyes-crushing-win-controversial-syria-vote)
+1. [AFP via GlobalPost](http://www.globalpost.com/dispatch/news/afp/140602/assad-eyes-crushing-win-controversial-syria-vote)
+2. [Reuters](http://www.reuters.com/article/2014/06/04/us-syria-crisis-idUSKBN0EF25520140604?feedType=RSS&feedName=topNews)
 
 ### Related:
 

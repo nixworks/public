@@ -8,8 +8,8 @@ The UN says a helicopter from its peacekeeping mission has been shot down by the
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/12/20121221173421145463.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-20819468)
-3. [RT](http://rt.com/news/russian-helicopter-shot-sudan-600/)
+2. [RT](http://rt.com/news/russian-helicopter-shot-sudan-600/)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-20819468)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008qza6.php)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080418/ap_on_re_us/midwest_earthquake)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080418/ap_on_re_us/midwest_earthquake)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008qza6.php)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLO53141)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-09/24/content_12107634.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8273615.stm)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-09/24/content_12107634.htm)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLO53141)
 
 ### Related:
 

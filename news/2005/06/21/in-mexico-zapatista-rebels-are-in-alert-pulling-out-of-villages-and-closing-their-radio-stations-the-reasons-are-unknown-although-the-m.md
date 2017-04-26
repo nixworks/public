@@ -9,8 +9,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Indymedia Chiapas, English translation] [http://chiapas.mediosindependientes.org/display.php3?article_id=113840 (Indymedia Chiapas, English translation](http://chiapas.mediosindependientes.org/display.php3?article_id=113833)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N21639624.htm)
-3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-22T012543Z_01_N21646401_RTRIDST_0_INTERNATIONAL-MEXICO-REBELS-DC.XML)
-4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N20557404.htm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N20557404.htm)
+4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-22T012543Z_01_N21646401_RTRIDST_0_INTERNATIONAL-MEXICO-REBELS-DC.XML)
 
 ### Related:
 

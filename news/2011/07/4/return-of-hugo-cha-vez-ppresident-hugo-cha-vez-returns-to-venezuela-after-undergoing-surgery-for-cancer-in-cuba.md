@@ -7,8 +7,8 @@ Venezuelan President Hugo Chavez returns home after a prolonged stay in Cuba for
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14023775)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-14017135)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14017135)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-14023775)
 
 ### Related:
 

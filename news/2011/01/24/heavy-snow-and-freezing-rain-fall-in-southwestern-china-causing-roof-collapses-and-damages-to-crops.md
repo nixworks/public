@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_626271.html)
-2. [The Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=3&art_id=107378&sid=31029430&con_type=1&d_str=20110125&fc=1)
+1. [The Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=3&art_id=107378&sid=31029430&con_type=1&d_str=20110125&fc=1)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_626271.html)
 
 ### Related:
 

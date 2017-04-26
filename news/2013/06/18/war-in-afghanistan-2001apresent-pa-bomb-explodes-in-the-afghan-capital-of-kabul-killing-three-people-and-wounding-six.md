@@ -7,8 +7,8 @@ A bomb explodes in western Kabul on the day Nato formally handed over command of
 
 ### Source:
 
-1. [AP via News 9](http://www.news9.com/story/22626514/ap-sources-4-us-troops-killed-in-afghanistan)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-22947483)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-22947483)
+2. [AP via News 9](http://www.news9.com/story/22626514/ap-sources-4-us-troops-killed-in-afghanistan)
 
 ### Related:
 

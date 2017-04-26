@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Middle East Online](http://www.middle-east-online.com/english/?id=54507)
-2. [Belga via ''HLN](http://www.hln.be/hln/nl/960/Buitenland/article/detail/1505236/2012/09/22/8-doden-bij-nieuwe-gevechten-tussen-salafisten-en-rebellen-in-Jemen.dhtml)
+1. [Belga via ''HLN](http://www.hln.be/hln/nl/960/Buitenland/article/detail/1505236/2012/09/22/8-doden-bij-nieuwe-gevechten-tussen-salafisten-en-rebellen-in-Jemen.dhtml)
+2. [Middle East Online](http://www.middle-east-online.com/english/?id=54507)
 
 ### Related:
 

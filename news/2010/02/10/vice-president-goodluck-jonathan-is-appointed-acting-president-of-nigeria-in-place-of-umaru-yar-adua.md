@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5524744-146/jonathan_is_acting_president__.csp)
-2. [AllAfrica.com](http://allafrica.com/stories/201002100194.html)
+1. [AllAfrica.com](http://allafrica.com/stories/201002100194.html)
+2. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5524744-146/jonathan_is_acting_president__.csp)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8507289.stm)
 
 ### Related:

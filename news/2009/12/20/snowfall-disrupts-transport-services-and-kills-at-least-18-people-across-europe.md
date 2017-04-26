@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5038757,00.html)
-2. [Ireland Online](http://breakingnews.iol.ie/news/world/15-die-in-poland-freeze-439004.html)
-3. [Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_468802.html)
-4. [BBC](http://news.bbc.co.uk/1/hi/in_pictures/8423251.stm)
+1. [Ireland Online](http://breakingnews.iol.ie/news/world/15-die-in-poland-freeze-439004.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5038757,00.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/in_pictures/8423251.stm)
+4. [Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_468802.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/world/20121210/178038720.html)
-2. [China Daily](http://www.chinadaily.com.cn/china/2012-12/10/content_16002798.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2012-12/10/content_16002798.htm)
+2. [RIA Novosti](http://en.ria.ru/world/20121210/178038720.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/145701.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/21/thailand.emergency/?hpt=T2)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/21/thailand.emergency/?hpt=T2)
+2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/145701.html)
 
 ### Related:
 

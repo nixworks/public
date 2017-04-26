@@ -7,9 +7,9 @@ The president-elect took to Twitter to criticize the move against an independent
 
 ### Source:
 
-1. [AP via KYTV](http://www.ky3.com/content/news/Paul-Ryan-re-elected-as-speaker-409563525.html)
-2. [Politico](http://www.politico.com/story/2017/01/paul-ryan-easily-wins-reelection-as-speaker-of-the-house-233139)
-3. [Washington Post](http://www.washingtonpost.com/powerpost/gop-to-start-on-ambitious-conservative-agenda-as-congress-convenes-today/2017/01/03/6117cbe2-d1a1-11e6-945a-76f69a399dd5_story.html)
+1. [Politico](http://www.politico.com/story/2017/01/paul-ryan-easily-wins-reelection-as-speaker-of-the-house-233139)
+2. [Washington Post](http://www.washingtonpost.com/powerpost/gop-to-start-on-ambitious-conservative-agenda-as-congress-convenes-today/2017/01/03/6117cbe2-d1a1-11e6-945a-76f69a399dd5_story.html)
+3. [AP via KYTV](http://www.ky3.com/content/news/Paul-Ryan-re-elected-as-speaker-409563525.html)
 4. [CNN](http://www.cnn.com/2017/01/02/politics/office-of-congressional-ethics-oversight-of-ethics-committee-amendment/)
 
 ### Related:

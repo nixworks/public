@@ -7,8 +7,8 @@ An explosion apparently caused by a suicide bomber in the lobby of the World Foo
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2009/10/06/world/asia/06pstan.html)
-2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2009\10\06\story_6-10-2009_pg1_6)
+1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2009\10\06\story_6-10-2009_pg1_6)
+2. [The New York Times](http://www.nytimes.com/2009/10/06/world/asia/06pstan.html)
 
 ### Related:
 

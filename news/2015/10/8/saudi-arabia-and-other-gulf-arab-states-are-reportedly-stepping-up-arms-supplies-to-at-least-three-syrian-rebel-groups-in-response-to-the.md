@@ -7,13 +7,13 @@ Saudi Arabia is responding to Russian airstrikes on Syria by stepping up arms su
 
 ### Source:
 
-1. [Reuters](http://www.albawaba.com/news/russian-missiles-aimed-syria-crash-iran-752700)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34479929)
 2. [Reuters](http://www.reuters.com/article/2015/10/09/us-mideast-crisis-syria-idUSKCN0S20J920151009)
-3. [The Moscow Times](http://www.themoscowtimes.com/opinion/news/article/syrian-general-says-russian-strikes-aid-ground-offensive/537926.html)
-4. [CNN](http://www.cnn.com/2015/10/08/politics/russian-missiles-syria-landed-iran/index.html)
-5. [BBC](http://www.bbc.co.uk/news/world-middle-east-34479929)
-6. [Hindustan Times](http://www.hindustantimes.com/world/nato-prepared-to-send-troops-to-turkey-after-airspace-violations/story-mneT0ruNMmJn3dVfbMSzwM.html)
-7. [Irish Times](http://www.irishtimes.com/news/world/europe/nato-to-double-force-after-russian-activity-in-syria-1.2384539)
+3. [Hindustan Times](http://www.hindustantimes.com/world/nato-prepared-to-send-troops-to-turkey-after-airspace-violations/story-mneT0ruNMmJn3dVfbMSzwM.html)
+4. [Reuters](http://www.albawaba.com/news/russian-missiles-aimed-syria-crash-iran-752700)
+5. [Irish Times](http://www.irishtimes.com/news/world/europe/nato-to-double-force-after-russian-activity-in-syria-1.2384539)
+6. [CNN](http://www.cnn.com/2015/10/08/politics/russian-missiles-syria-landed-iran/index.html)
+7. [The Moscow Times](http://www.themoscowtimes.com/opinion/news/article/syrian-general-says-russian-strikes-aid-ground-offensive/537926.html)
 
 ### Related:
 

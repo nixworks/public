@@ -7,8 +7,8 @@ AFGHANISTAN-ATTACK/ (UPDATE 1):UPDATE 1-Gunmen storm building in upmarket area o
 
 ### Source:
 
-1. [Thomson Reuters Foundation](http://www.trust.org/item/20150513171905-yzk4o/)
-2. [NBC News](http://www.nbcnews.com/news/world/american-killed-attack-kabul-guesthouse-n358521)
+1. [NBC News](http://www.nbcnews.com/news/world/american-killed-attack-kabul-guesthouse-n358521)
+2. [Thomson Reuters Foundation](http://www.trust.org/item/20150513171905-yzk4o/)
 
 ### Related:
 

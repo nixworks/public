@@ -7,8 +7,8 @@ An unknown assailant threw two fire bombs at the Russian embassy in Minsk late o
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/europe/Russian-mission-in-Minsk-attacked/articleshow/6468560.cms)
-2. [RIA Novosti](http://en.rian.ru/russia/20100831/160407269.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20100831/160407269.html)
+2. [Times of India](http://timesofindia.indiatimes.com/world/europe/Russian-mission-in-Minsk-attacked/articleshow/6468560.cms)
 3. [Reuters](http://www.reuters.com/article/idUSLDE67U07F)
 
 ### Related:

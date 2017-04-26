@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Scotsman](http://news.scotsman.com/uk.cfm?id=173102005)
+1. [CNN](http://edition.cnn.com/2005/WORLD/europe/02/15/mclibel/)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4266209.stm)
-3. [CNN](http://edition.cnn.com/2005/WORLD/europe/02/15/mclibel/)
+3. [Scotsman](http://news.scotsman.com/uk.cfm?id=173102005)
 
 ### Related:
 

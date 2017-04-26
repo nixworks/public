@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/11/c_13551804.htm)
-2. [24.kg](http://eng.24.kg/politic/2010/10/11/14117.html)
+1. [24.kg](http://eng.24.kg/politic/2010/10/11/14117.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/11/c_13551804.htm)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Six bombers said to have stormed the Intercontinental, popular with foreigners a
 
 ### Source:
 
-1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/nato-helicopters-end-kabul-990223.html)
+1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/06/28/afghanistan.kabul.attack/index.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/201162819116708330.html)
-3. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/06/28/afghanistan.kabul.attack/index.html)
-4. [BBC](http://www.bbc.co.uk/news/world-south-asia-13947169)
+3. [BBC](http://www.bbc.co.uk/news/world-south-asia-13947169)
+4. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/nato-helicopters-end-kabul-990223.html)
 
 ### Related:
 

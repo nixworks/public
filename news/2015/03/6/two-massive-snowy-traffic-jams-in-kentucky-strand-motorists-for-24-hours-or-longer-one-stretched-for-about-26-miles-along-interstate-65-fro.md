@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP, I-65](http://bigstory.ap.org/article/c054af59ade54693aba158a36d35a4be/thousands-stranded-ky-interstates-nearly-24-hours)
-2. [WSMV-TV, I-24](http://www.wsmv.com/story/28272092/hundreds-of-drivers-stranded-in-ky-governor-declares-state-of-emergency)
+1. [WSMV-TV, I-24](http://www.wsmv.com/story/28272092/hundreds-of-drivers-stranded-in-ky-governor-declares-state-of-emergency)
+2. [AP, I-65](http://bigstory.ap.org/article/c054af59ade54693aba158a36d35a4be/thousands-stranded-ky-interstates-nearly-24-hours)
 
 ### Related:
 

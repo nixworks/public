@@ -7,8 +7,8 @@ Limerick publicans have been granted a special exemption to open for business on
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0325/limerick.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking36.html)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking36.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0325/limerick.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/8587056.stm)
 
 ### Related:

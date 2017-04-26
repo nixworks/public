@@ -7,10 +7,10 @@ Zacarias Moussaoui had no link to the Sept. 11, 2001, attacks, a voice purportin
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/24/AR2006052400603.html)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-05-23T205410Z_01_L23145974_RTRUKOC_0_US-ATTACK-MOUSSAOUI.xml)
-3. [FOX](http://www.foxnews.com/story/0,2933,196682,00.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5010764.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5010764.stm)
+2. [FOX](http://www.foxnews.com/story/0,2933,196682,00.html)
+3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/24/AR2006052400603.html)
+4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-05-23T205410Z_01_L23145974_RTRUKOC_0_US-ATTACK-MOUSSAOUI.xml)
 
 ### Related:
 

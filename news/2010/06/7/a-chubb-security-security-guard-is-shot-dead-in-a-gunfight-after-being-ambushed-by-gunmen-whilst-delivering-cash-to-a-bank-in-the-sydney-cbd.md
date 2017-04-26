@@ -7,8 +7,8 @@ A Chubb security guard has died after being shot in the chest during a routine c
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/nsw/security-guard-shot-in-cbd-raid-dies-20100607-xnge.html)
-2. [Daily Telegraph](http://www.dailytelegraph.com.au/news/security-guard-shot-in-bungled-hold-up/story-e6freuy9-1225876269579)
+1. [Daily Telegraph](http://www.dailytelegraph.com.au/news/security-guard-shot-in-bungled-hold-up/story-e6freuy9-1225876269579)
+2. [Sydney Morning Herald](http://www.smh.com.au/nsw/security-guard-shot-in-cbd-raid-dies-20100607-xnge.html)
 
 ### Related:
 

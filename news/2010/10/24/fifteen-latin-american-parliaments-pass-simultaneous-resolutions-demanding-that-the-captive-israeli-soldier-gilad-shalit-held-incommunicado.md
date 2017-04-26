@@ -7,8 +7,8 @@ Fifteen Latin American parliaments pass resolutions demanding Hamas-held soldier
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3973896,00.html)
-2. [The Jerusalem Post](http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=192521)
+1. [The Jerusalem Post](http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=192521)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3973896,00.html)
 
 ### Related:
 

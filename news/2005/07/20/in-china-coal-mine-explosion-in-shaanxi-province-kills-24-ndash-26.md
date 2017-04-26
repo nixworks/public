@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-21T020950Z_01_MOR107764_RTRUKOC_0_CHINA-MINE.xml)
-2. [China Daily](http://www2.chinadaily.com.cn:80/english/doc/2005-07/21/content_461931.htm)
-3. [Xinhua](http://news.xinhuanet.com/english/2005-07/20/content_3244362.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2005-07/20/content_3244362.htm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-21T020950Z_01_MOR107764_RTRUKOC_0_CHINA-MINE.xml)
+3. [China Daily](http://www2.chinadaily.com.cn:80/english/doc/2005-07/21/content_461931.htm)
 
 ### Related:
 

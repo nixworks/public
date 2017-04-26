@@ -7,8 +7,8 @@ US Defence Secretary Leon Panetta lifts a ban on women in combat, potentially op
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/01/23/panetta-women-combat-pentagon/1859221/)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-21172033)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21172033)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2013/01/23/panetta-women-combat-pentagon/1859221/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6916774.stm)
-2. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/07/26/nflood1226.xml)
+1. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/07/26/nflood1226.xml)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6916774.stm)
 
 ### Related:
 

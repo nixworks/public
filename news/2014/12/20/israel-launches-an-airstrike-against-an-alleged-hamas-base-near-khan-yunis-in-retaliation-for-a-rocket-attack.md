@@ -7,8 +7,8 @@ Tensions expected to rise in Israeli-Palestinian conflict as Israel carries out 
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/2014/12/20/israel-launches-airstrike-on-gaza-in-apparent-retaliation-for-rocket-attack/)
-2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Gaza-rocket-lands-in-open-area-in-southern-Israel-no-injuries-385190)
+1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Gaza-rocket-lands-in-open-area-in-southern-Israel-no-injuries-385190)
+2. [Euronews](http://www.euronews.com/2014/12/20/israel-launches-airstrike-on-gaza-in-apparent-retaliation-for-rocket-attack/)
 
 ### Related:
 

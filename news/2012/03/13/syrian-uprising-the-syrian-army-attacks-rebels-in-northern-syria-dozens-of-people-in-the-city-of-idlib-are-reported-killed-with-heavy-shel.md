@@ -7,8 +7,8 @@ The government is eager to regain control of the city of Idlib after forcing reb
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=261688)
-2. [CBS](http://www.cbsnews.com/8301-202_162-57396067/syria-forces-push-assault-on-rebels-in-north/)
+1. [CBS](http://www.cbsnews.com/8301-202_162-57396067/syria-forces-push-assault-on-rebels-in-north/)
+2. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=261688)
 3. [New York Times](http://www.nytimes.com/2012/03/14/world/middleeast/syrian-forces-press-assault-on-northern-city.html)
 
 ### Related:

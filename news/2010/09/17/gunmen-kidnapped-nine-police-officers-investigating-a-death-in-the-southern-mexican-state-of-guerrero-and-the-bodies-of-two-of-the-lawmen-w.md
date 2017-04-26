@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sina](http://english.sina.com/world/p/2010/0918/340195.html)
-2. [AP via npr](http://www.npr.org/templates/story/story.php?storyId=103181125)
+1. [AP via npr](http://www.npr.org/templates/story/story.php?storyId=103181125)
+2. [Sina](http://english.sina.com/world/p/2010/0918/340195.html)
 
 ### Related:
 

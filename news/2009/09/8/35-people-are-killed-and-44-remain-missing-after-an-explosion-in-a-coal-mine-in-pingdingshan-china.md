@@ -7,9 +7,9 @@ At least 42 people killed and dozens more trapped in explosion at Henan coal min
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099824332357821.html)
+1. [China Daily](http://www.chinadaily.com.cn/china/2009-09/08/content_8666610.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8243175.stm)
-3. [China Daily](http://www.chinadaily.com.cn/china/2009-09/08/content_8666610.htm)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099824332357821.html)
 
 ### Related:
 

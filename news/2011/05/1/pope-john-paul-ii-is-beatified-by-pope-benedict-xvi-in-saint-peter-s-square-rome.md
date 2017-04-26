@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/05/20115151240781723.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/may/01/john-paul-ii-beatification-rome)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/may/01/john-paul-ii-beatification-rome)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/05/20115151240781723.html)
 
 ### Related:
 

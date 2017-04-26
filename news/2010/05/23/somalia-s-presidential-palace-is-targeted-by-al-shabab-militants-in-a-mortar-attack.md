@@ -8,9 +8,9 @@ Fighting between Islamist al Shabaab rebels and Somali troops in the capital Mog
 ### Source:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_SOMALIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/14-civilians-dead-in-somali-attack-20100523-w3oh.html)
-3. [Reuters](http://www.reuters.com/article/idUSTRE64M0NZ20100523)
-4. [Press TV](http://www.presstv.ir/detail.aspx?id=127417&sectionid=351020501)
+2. [Reuters](http://www.reuters.com/article/idUSTRE64M0NZ20100523)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=127417&sectionid=351020501)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/14-civilians-dead-in-somali-attack-20100523-w3oh.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ChinaPost](http://www.chinapost.com.tw/news/2008/01/12/138798/KMT%2Dwins.htm)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7184448.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7184448.stm)
+2. [ChinaPost](http://www.chinapost.com.tw/news/2008/01/12/138798/KMT%2Dwins.htm)
 
 ### Related:
 

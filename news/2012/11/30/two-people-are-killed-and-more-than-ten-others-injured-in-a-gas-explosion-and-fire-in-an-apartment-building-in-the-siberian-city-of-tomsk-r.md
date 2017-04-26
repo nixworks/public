@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/russia/20121130/177839313.html)
-2. [ITAR-TASS](http://www.itar-tass.com/c154/586354.html)
+1. [ITAR-TASS](http://www.itar-tass.com/c154/586354.html)
+2. [RIA Novosti](http://en.ria.ru/russia/20121130/177839313.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Times Online](http://www.timesonline.co.uk/tol/news/science/biology_evolution/article6952502.ece)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hzCOuhG8aYUOBx-fQ1wqGfRCg0ZwD9CGLTO80)
-3. [Scientific American](http://www.scientificamerican.com/article.cfm?id=t-rex-relative-tawa)
+1. [Scientific American](http://www.scientificamerican.com/article.cfm?id=t-rex-relative-tawa)
+2. [Times Online](http://www.timesonline.co.uk/tol/news/science/biology_evolution/article6952502.ece)
+3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hzCOuhG8aYUOBx-fQ1wqGfRCg0ZwD9CGLTO80)
 
 ### Related:
 

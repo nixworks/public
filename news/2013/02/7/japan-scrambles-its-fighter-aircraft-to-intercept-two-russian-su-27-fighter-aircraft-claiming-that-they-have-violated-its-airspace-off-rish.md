@@ -7,8 +7,8 @@ Two Russian fighter jets have violated Japanese airspace, prompting Tokyo to scr
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/02/07/world/asia/japan-russia-jets)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-21364559)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-21364559)
+2. [CNN](http://www.cnn.com/2013/02/07/world/asia/japan-russia-jets)
 
 ### Related:
 

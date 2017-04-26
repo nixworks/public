@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WCNC](http://hosted.ap.org/dynamic/stories/A/AS_THAILAND_POLITICS?SITE=WCNC&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7126802.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7126802.ece)
+2. [WCNC](http://hosted.ap.org/dynamic/stories/A/AS_THAILAND_POLITICS?SITE=WCNC&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

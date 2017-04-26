@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2005-02-27-voa6.cfm)
-2. [DNC](http://health.dailynewscentral.net/content/view/000431/31/)
+1. [DNC](http://health.dailynewscentral.net/content/view/000431/31/)
+2. [VOA](http://www.voanews.com/english/2005-02-27-voa6.cfm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/society/2012/dec/25/catholic-archbishop-gay-marriage-shambles)
-2. [BBC](http://www.bbc.co.uk/news/uk-20840531)
+1. [BBC](http://www.bbc.co.uk/news/uk-20840531)
+2. [The Guardian](http://www.guardian.co.uk/society/2012/dec/25/catholic-archbishop-gay-marriage-shambles)
 
 ### Related:
 

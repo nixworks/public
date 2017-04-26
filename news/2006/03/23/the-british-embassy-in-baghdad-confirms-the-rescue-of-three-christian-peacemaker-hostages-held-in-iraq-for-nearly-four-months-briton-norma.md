@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4836218.stm)
-2. [Channel 4 News](http://www.channel4.com/news/special-reports/special-reports-storypage.jsp?id=2012)
-3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060323/hostages_freed_060323/20060323?hub=TopStories)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060323/hostages_freed_060323/20060323?hub=TopStories)
+3. [Channel 4 News](http://www.channel4.com/news/special-reports/special-reports-storypage.jsp?id=2012)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Gold Coast Bulletin](http://www.goldcoastbulletin.com.au/sport/nrl/bird-and-taylor-latest-titans-named-in-cocaine-investigation/story-fnj9yd9w-1227233169617)
-2. [AAP via Sportsfan](http://www.sportsfan.com.au/titans-stand-down-stars-in-drugs-crisis/tabid/91/newsid/154543/default.aspx)
+1. [AAP via Sportsfan](http://www.sportsfan.com.au/titans-stand-down-stars-in-drugs-crisis/tabid/91/newsid/154543/default.aspx)
+2. [Gold Coast Bulletin](http://www.goldcoastbulletin.com.au/sport/nrl/bird-and-taylor-latest-titans-named-in-cocaine-investigation/story-fnj9yd9w-1227233169617)
 
 ### Related:
 

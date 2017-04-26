@@ -7,8 +7,8 @@ The fifth eurozone nation to seek help says it wants to limit exposure of its fi
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201262517189248721.html)
-2. [Reuters](http://ca.reuters.com/article/topNews/idCABRE85O0CS20120625)
+1. [Reuters](http://ca.reuters.com/article/topNews/idCABRE85O0CS20120625)
+2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201262517189248721.html)
 
 ### Related:
 

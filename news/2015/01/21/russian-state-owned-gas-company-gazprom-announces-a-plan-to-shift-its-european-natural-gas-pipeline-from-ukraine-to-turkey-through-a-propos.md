@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2015/01/22/business/international/russia-presses-ahead-with-plan-for-gas-pipeline-to-turkey.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2015-01-14/russia-to-shift-ukraine-gas-transit-to-turkey-as-eu-cries-foul.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2015-01-14/russia-to-shift-ukraine-gas-transit-to-turkey-as-eu-cries-foul.html)
+2. [The New York Times](http://www.nytimes.com/2015/01/22/business/international/russia-presses-ahead-with-plan-for-gas-pipeline-to-turkey.html)
 
 ### Related:
 

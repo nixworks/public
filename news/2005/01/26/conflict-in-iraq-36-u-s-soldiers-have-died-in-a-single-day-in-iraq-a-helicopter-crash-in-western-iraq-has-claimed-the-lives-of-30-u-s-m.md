@@ -7,8 +7,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4209269.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7437344)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7437344)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4209269.stm)
 
 ### Related:
 

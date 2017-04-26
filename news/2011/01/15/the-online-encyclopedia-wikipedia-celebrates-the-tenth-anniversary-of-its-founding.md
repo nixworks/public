@@ -7,8 +7,8 @@ The online encyclopedia Wikipedia, which gets nearly 400 million unique visitors
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/technology/story/2011/01/14/technology-wikipedia-anniversary.html)
-2. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/01/2011115193020404217.html)
+1. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/01/2011115193020404217.html)
+2. [CBC](http://www.cbc.ca/technology/story/2011/01/14/technology-wikipedia-anniversary.html)
 
 ### Related:
 

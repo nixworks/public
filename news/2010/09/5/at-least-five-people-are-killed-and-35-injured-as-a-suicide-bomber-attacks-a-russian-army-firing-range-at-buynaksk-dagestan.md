@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/crime/20100905/160470803.html)
-2. [Reuters](http://www.reuters.com/article/idUSLDE68400Q20100905)
+1. [Reuters](http://www.reuters.com/article/idUSLDE68400Q20100905)
+2. [RIA Novosti](http://en.rian.ru/crime/20100905/160470803.html)
 
 ### Related:
 

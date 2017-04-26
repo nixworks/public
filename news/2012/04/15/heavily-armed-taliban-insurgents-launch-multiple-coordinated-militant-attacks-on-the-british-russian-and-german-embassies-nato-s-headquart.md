@@ -7,8 +7,8 @@ At least 17 insurgents and two Afghan security force members are killed as the T
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9205318/Afghanistan-Taliban-insurgents-attack-embassies-and-Nato-headquarters-in-Kabul.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-17719956)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-17719956)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9205318/Afghanistan-Taliban-insurgents-attack-embassies-and-Nato-headquarters-in-Kabul.html)
 
 ### Related:
 

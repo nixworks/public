@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/International/wireStory/colombia-high-courts-paves-gay-marriage-rights-38230213)
-2. [The Advocate](http://www.advocate.com/world/2016/4/07/marriage-equality-comes-colombia)
+1. [The Advocate](http://www.advocate.com/world/2016/4/07/marriage-equality-comes-colombia)
+2. [ABC News](http://abcnews.go.com/International/wireStory/colombia-high-courts-paves-gay-marriage-rights-38230213)
 
 ### Related:
 

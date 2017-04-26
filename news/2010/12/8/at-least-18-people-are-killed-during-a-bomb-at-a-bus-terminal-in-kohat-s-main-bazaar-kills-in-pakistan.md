@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/08/pakistan.blast/)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/20101289284365470.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/20101289284365470.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/08/pakistan.blast/)
 
 ### Related:
 

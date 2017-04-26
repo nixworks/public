@@ -7,11 +7,11 @@ The 17-year-old daughter of Republican vice presidential candidate Sarah Palin i
 
 ### Source:
 
-1. [Telegraph.co.uk](http://www.telegraph.co.uk/news/newstopics/uselection2008/johnmccain/2662794/John-McCains-running-mate-Sarah-Palins-teenage-daughter-is-pregnant.html)
-2. [Wall Street Journal](http://blogs.wsj.com/washwire/2008/09/01/mccain-camp-offers-talking-points-on-palin-pregnancy/)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/7592636.stm)
-4. [AP](http://ap.google.com/article/ALeqM5jIMJWupyWNmvU3UX2aGhICmZrQ_wD92U1M600)
-5. [Al Jazeera](http://english.aljazeera.net/news/americas/2008/09/200891172722676472.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/7592636.stm)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2008/09/200891172722676472.html)
+3. [AP](http://ap.google.com/article/ALeqM5jIMJWupyWNmvU3UX2aGhICmZrQ_wD92U1M600)
+4. [Telegraph.co.uk](http://www.telegraph.co.uk/news/newstopics/uselection2008/johnmccain/2662794/John-McCains-running-mate-Sarah-Palins-teenage-daughter-is-pregnant.html)
+5. [Wall Street Journal](http://blogs.wsj.com/washwire/2008/09/01/mccain-camp-offers-talking-points-on-palin-pregnancy/)
 
 ### Related:
 

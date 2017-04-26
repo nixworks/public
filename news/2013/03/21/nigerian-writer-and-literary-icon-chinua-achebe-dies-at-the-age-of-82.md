@@ -7,9 +7,9 @@ Chinua Achebe dies at 82
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/books/2013/mar/22/novelist-chinua-achebe-dies)
+1. [Premium Times Nigeria](http://premiumtimesng.com/news/126311-breaking-prof-chinua-achebe-is-dead.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21898664)
-3. [Premium Times Nigeria](http://premiumtimesng.com/news/126311-breaking-prof-chinua-achebe-is-dead.html)
+3. [The Guardian](http://www.guardian.co.uk/books/2013/mar/22/novelist-chinua-achebe-dies)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Democratic Underground](http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=102x4789296)
+1. [DW](http://www.dw-world.de/dw/article/0,,14943224,00.html)
 2. [National Public Radio](http://www.npr.org/templates/story/story.php?storyId=134821026)
-3. [DW](http://www.dw-world.de/dw/article/0,,14943224,00.html)
-4. [DW world](http://mediacenter.dw-world.de/english/video/#!/105440/Kretschmann_set_to_become_Germany_s_first_Green_state_premier)
+3. [DW world](http://mediacenter.dw-world.de/english/video/#!/105440/Kretschmann_set_to_become_Germany_s_first_Green_state_premier)
+4. [Democratic Underground](http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=102x4789296)
 
 ### Related:
 

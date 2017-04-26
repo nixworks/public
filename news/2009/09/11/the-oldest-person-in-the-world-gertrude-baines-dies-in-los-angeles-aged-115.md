@@ -7,8 +7,8 @@ The world&#39;s oldest person has died at the age of 115 in Los Angeles.
 
 ### Source:
 
-1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iuPqRuHpLY2dDl1KLZB6irSiYAogD9AL6OG03)
-2. [RTÉ](http://www.rte.ie/news/2009/0911/bainesg.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0911/bainesg.html)
+2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iuPqRuHpLY2dDl1KLZB6irSiYAogD9AL6OG03)
 
 ### Related:
 

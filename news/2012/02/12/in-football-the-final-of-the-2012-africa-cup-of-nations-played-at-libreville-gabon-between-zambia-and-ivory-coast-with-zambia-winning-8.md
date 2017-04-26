@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bleacher Report](http://bleacherreport.com/articles/1062740-africa-cup-of-nations-2012-ivory-coast-on-verge-of-a-perfect-tournament)
-2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/zambia-win-epic-shootout-to-seal-shock-african-nations-cup-glory-539603.html)
+1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/zambia-win-epic-shootout-to-seal-shock-african-nations-cup-glory-539603.html)
+2. [Bleacher Report](http://bleacherreport.com/articles/1062740-africa-cup-of-nations-2012-ivory-coast-on-verge-of-a-perfect-tournament)
 
 ### Related:
 

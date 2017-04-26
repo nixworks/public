@@ -7,9 +7,9 @@ Twin attacks in central Nairobi come two days after the US issued a terrorism al
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-15435663)
-2. [Daily Nation](http://www.nation.co.ke/News/Jets+pound+Kismayu+as+forces+gear+up+for+clash+/-/1056/1260346/-/dkv0u7z/-/index.html)
-3. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/10/2011102405349143812.html)
+1. [Daily Nation](http://www.nation.co.ke/News/Jets+pound+Kismayu+as+forces+gear+up+for+clash+/-/1056/1260346/-/dkv0u7z/-/index.html)
+2. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/10/2011102405349143812.html)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-15435663)
 
 ### Related:
 

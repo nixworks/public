@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/4370607.stm)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N21146619.htm)
-3. [Prensa Latina](http://www.plenglish.com/article.asp?ID=%7BBE959FFE-B0E8-4A11-B6E0-C54BC95D2E80%7D&language=EN)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N21146619.htm)
+2. [Prensa Latina](http://www.plenglish.com/article.asp?ID=%7BBE959FFE-B0E8-4A11-B6E0-C54BC95D2E80%7D&language=EN)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4370607.stm)
 
 ### Related:
 

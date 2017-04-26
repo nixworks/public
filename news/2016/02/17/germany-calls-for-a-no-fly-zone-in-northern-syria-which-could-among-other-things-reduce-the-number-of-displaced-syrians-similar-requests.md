@@ -7,8 +7,8 @@ German Chancellor Angela Merkel yesterday reiterated her proposal for a no-fly z
 
 ### Source:
 
-1. [Macau Daily Times](http://macaudailytimes.com.mo/german-leader-renews-call-for-syria-no-fly-zone.html)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/middle_east/syria-aid-convoys-prepare-to-head-to-besieged-areas/2016/02/17/c111830c-d559-11e5-a65b-587e721fb231_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/middle_east/syria-aid-convoys-prepare-to-head-to-besieged-areas/2016/02/17/c111830c-d559-11e5-a65b-587e721fb231_story.html)
+2. [Macau Daily Times](http://macaudailytimes.com.mo/german-leader-renews-call-for-syria-no-fly-zone.html)
 
 ### Related:
 

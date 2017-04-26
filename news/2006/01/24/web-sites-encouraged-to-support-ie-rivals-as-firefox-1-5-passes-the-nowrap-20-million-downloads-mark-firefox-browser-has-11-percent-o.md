@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [iT News](http://www.itnews.com.au/newsstory.aspx?CIaNID=27888)
-2. [VNUNet](http://www.vnunet.com/itweek/news/2149068/web-sites-support-ie-rivals)
+1. [VNUNet](http://www.vnunet.com/itweek/news/2149068/web-sites-support-ie-rivals)
+2. [iT News](http://www.itnews.com.au/newsstory.aspx?CIaNID=27888)
 
 ### Related:
 

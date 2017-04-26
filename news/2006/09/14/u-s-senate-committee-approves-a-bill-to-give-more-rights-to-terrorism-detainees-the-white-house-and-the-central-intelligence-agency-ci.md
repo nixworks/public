@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wash. Times](http://www.washtimes.com/national/20060915-121112-3656r.htm)
-2. [Chicago Sun-Times](http://www.suntimes.com/output/terror/cst-nws-bush15.html)
+1. [Chicago Sun-Times](http://www.suntimes.com/output/terror/cst-nws-bush15.html)
+2. [Wash. Times](http://www.washtimes.com/national/20060915-121112-3656r.htm)
 
 ### Related:
 

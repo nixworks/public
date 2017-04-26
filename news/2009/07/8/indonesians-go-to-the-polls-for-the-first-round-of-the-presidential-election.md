@@ -7,8 +7,8 @@ Voting begins with more than 170 million registered voters and 500,000 polling s
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/20097805931684145.html)
-2. [KOMPAS](http://indonesiamemilih.kompas.com/read/2009/07/08/15040262/Unggul.di.Quick.Count..SBY.Berterima.Kasih.kepada.Rakyat.Indonesia)
+1. [KOMPAS](http://indonesiamemilih.kompas.com/read/2009/07/08/15040262/Unggul.di.Quick.Count..SBY.Berterima.Kasih.kepada.Rakyat.Indonesia)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/20097805931684145.html)
 3. [Jakarta Post](http://www.thejakartapost.com/news/2009/07/08/sbyboediono-take-huge-lead-election-kpu.html)
 
 ### Related:

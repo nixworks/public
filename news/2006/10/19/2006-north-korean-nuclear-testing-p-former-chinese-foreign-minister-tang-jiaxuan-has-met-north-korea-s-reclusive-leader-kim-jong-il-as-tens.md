@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/10/19/nkorea.sanctions/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6065168.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6065168.stm)
+2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/10/19/nkorea.sanctions/index.html)
 
 ### Related:
 

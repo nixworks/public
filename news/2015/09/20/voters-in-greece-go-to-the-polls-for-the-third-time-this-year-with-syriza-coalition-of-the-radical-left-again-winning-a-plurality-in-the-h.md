@@ -8,9 +8,9 @@ Polls suggest the embattled Syriza leader might just squeak home in Sunday’s s
 ### Source:
 
 1. [The Globe and Mail'' via Worldwide Herald](http://w.worldwideherald.com/yourls-go.php?id=qsjt0)
-2. [Sputnik Media](http://sputniknews.com/politics/20150920/1027276033.html)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/greece/11877658/Greece-elections-results-live.html)
-4. [The Guardian](http://www.theguardian.com/world/2015/sep/20/greece-alexis-tsipras-syriza-election)
+2. [The Guardian](http://www.theguardian.com/world/2015/sep/20/greece-alexis-tsipras-syriza-election)
+3. [Sputnik Media](http://sputniknews.com/politics/20150920/1027276033.html)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/greece/11877658/Greece-elections-results-live.html)
 
 ### Related:
 

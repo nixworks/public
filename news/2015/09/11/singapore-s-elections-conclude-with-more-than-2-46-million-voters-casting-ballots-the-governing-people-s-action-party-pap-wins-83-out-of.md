@@ -8,9 +8,9 @@ Singapore&#039;s ruling party has romped to a substantial election victory and i
 ### Source:
 
 1. [CNBC](http://www.cnbc.com/2015/09/11/singapore-elections-voting-underway.htm)
-2. [IANS via Daijiworld](http://www.daijiworld.com/news/news_disp.asp?n_id=352918)
-3. [Sydney Morning Herald](http://www.smh.com.au/world/singapore-ruling-party-in-decisive-election-win-20150911-gjkysi.html)
-4. [AP via ''US News and World Report](http://www.usnews.com/news/world/articles/2015/09/10/singapore-ruling-party-popularity-tested-in-general-election)
+2. [AP via ''US News and World Report](http://www.usnews.com/news/world/articles/2015/09/10/singapore-ruling-party-popularity-tested-in-general-election)
+3. [IANS via Daijiworld](http://www.daijiworld.com/news/news_disp.asp?n_id=352918)
+4. [Sydney Morning Herald](http://www.smh.com.au/world/singapore-ruling-party-in-decisive-election-win-20150911-gjkysi.html)
 
 ### Related:
 

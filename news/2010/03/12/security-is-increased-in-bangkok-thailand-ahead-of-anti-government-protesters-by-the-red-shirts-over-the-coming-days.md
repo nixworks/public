@@ -8,8 +8,8 @@ Thai capital braces for violence as anti-government red shirts prepare for major
 ### Source:
 
 1. [Thai News Agency](http://www.mcot.net/content/31334)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8563538.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201031232531295301.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201031232531295301.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8563538.stm)
 
 ### Related:
 

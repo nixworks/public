@@ -7,8 +7,8 @@ Government officials deny earlier reports that the motorcade of King Abdullah II
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/jun/13/jordan-king-abdullah-attack-denied)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13751299)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13751299)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/jun/13/jordan-king-abdullah-attack-denied)
 
 ### Related:
 

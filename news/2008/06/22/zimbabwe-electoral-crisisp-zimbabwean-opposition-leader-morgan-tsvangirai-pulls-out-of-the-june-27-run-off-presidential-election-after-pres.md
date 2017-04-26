@@ -7,8 +7,8 @@ Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election 
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aez5d63T2B.c&refer=home)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSL2026827820080622)
+1. [Reuters](http://www.reuters.com/article/newsOne/idUSL2026827820080622)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aez5d63T2B.c&refer=home)
 
 ### Related:
 

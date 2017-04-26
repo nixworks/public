@@ -7,8 +7,8 @@ Pop star George Michael says he &quot;just wants to start again&quot; as he is r
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/George-Michael-Released-From-Prison-Singer-Handed-Freedom-After-Stretch-For-Drug-Driving-Offence/Article/201010215755831)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11513218)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11513218)
+2. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/George-Michael-Released-From-Prison-Singer-Handed-Freedom-After-Stretch-For-Drug-Driving-Offence/Article/201010215755831)
 
 ### Related:
 

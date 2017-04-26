@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/4550361.stm)
+1. [IPPMedia, Tanzania](http://www.ippmedia.com/ipp/guardian/2005/05/16/39577.html)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=qw1116219421958B216)
 3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CF3AJ?OpenDocument)
-4. [IPPMedia, Tanzania](http://www.ippmedia.com/ipp/guardian/2005/05/16/39577.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/africa/4550361.stm)
 
 ### Related:
 

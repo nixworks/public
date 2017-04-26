@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Petra News Agency](http://www.petra.gov.jo/Public_News/Nws_NewsDetails.aspx?Site_Id=1&lang=2&NewsID=79460&CatID=13&Type=Home&GType=1)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/201272945852122942.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/201272945852122942.html)
+2. [Petra News Agency](http://www.petra.gov.jo/Public_News/Nws_NewsDetails.aspx?Site_Id=1&lang=2&NewsID=79460&CatID=13&Type=Home&GType=1)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/10552771.stm)
-2. [Afrol News](http://www.afrol.com/articles/36471)
+1. [Afrol News](http://www.afrol.com/articles/36471)
+2. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/10552771.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/184277#.U_Y_0PldWoo)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-21-ML-Israel-Palestinians/id-9955efbf3da948b2a545cf3b698c6dfa)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-21-ML-Israel-Palestinians/id-9955efbf3da948b2a545cf3b698c6dfa)
+2. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/184277#.U_Y_0PldWoo)
 
 ### Related:
 

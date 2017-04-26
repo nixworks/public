@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gQ0eBpaec7IAHRZdgUXYmg2QqreQ)
-2. [ (VOA](http://www.voanews.com/english/Africa/2009-03-19-voa4.cfm)
+1. [ (VOA](http://www.voanews.com/english/Africa/2009-03-19-voa4.cfm)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gQ0eBpaec7IAHRZdgUXYmg2QqreQ)
 
 ### Related:
 

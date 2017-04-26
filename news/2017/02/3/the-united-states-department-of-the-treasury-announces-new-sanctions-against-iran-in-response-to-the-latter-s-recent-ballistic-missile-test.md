@@ -7,8 +7,8 @@ Rio gold medalist Kyle Snyder among Americans prohibited from competing.
 
 ### Source:
 
-1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/iran-us-new-sanctions-treasury-missile-test/28277671.html)
-2. [The Washington Post](https://www.washingtonpost.com/sports/iran-bars-us-wrestlers-from-tournament-in-response-to-trumps-travel-ban/2017/02/03/234c4e88-ea28-11e6-80c2-30e57e57e05d_story.html?utm_term=.865d6a06cf67)
+1. [The Washington Post](https://www.washingtonpost.com/sports/iran-bars-us-wrestlers-from-tournament-in-response-to-trumps-travel-ban/2017/02/03/234c4e88-ea28-11e6-80c2-30e57e57e05d_story.html?utm_term=.865d6a06cf67)
+2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/iran-us-new-sanctions-treasury-missile-test/28277671.html)
 
 ### Related:
 

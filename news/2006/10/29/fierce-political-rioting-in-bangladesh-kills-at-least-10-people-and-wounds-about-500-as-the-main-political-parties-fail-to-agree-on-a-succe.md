@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Telegraph](http://www.telegraphindia.com/1061029/asp/foreign/story_6930615.asp)
-2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/10/29/bangladesh.president.ap/)
-3. [Reuters](http://www.alertnet.org/thenews/newsdesk/L29889973.htm)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L29889973.htm)
+2. [Telegraph](http://www.telegraphindia.com/1061029/asp/foreign/story_6930615.asp)
+3. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/10/29/bangladesh.president.ap/)
 
 ### Related:
 

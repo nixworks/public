@@ -7,10 +7,10 @@ Search crews have spotted more bodies and found a large amount of debris from th
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/8087573.stm)
-2. [RTÉ](http://www.rte.ie/news/2009/0607/airfrance.html)
-3. [Reuters](http://uk.reuters.com/article/topNews/idUKL238171920090607)
-4. [BBC](http://news.bbc.co.uk/2/hi/americas/8087991.stm)
+1. [RTÉ](http://www.rte.ie/news/2009/0607/airfrance.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8087991.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/8087573.stm)
+4. [Reuters](http://uk.reuters.com/article/topNews/idUKL238171920090607)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The former prime minister could face charges over his role in allowing the city 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/middle_east/maliki-on-hot-seat-in-iraq-over-fall-of-mosul/2015/08/16/77508fb8-4442-11e5-9f53-d1e3ddfd0cda_story.html)
-2. [Al-Manar](http://www.almanar.com.lb/english/adetails.php?eid=226336&frid=23&seccatid=24&cid=23&fromval=1)
+1. [Al-Manar](http://www.almanar.com.lb/english/adetails.php?eid=226336&frid=23&seccatid=24&cid=23&fromval=1)
+2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/maliki-on-hot-seat-in-iraq-over-fall-of-mosul/2015/08/16/77508fb8-4442-11e5-9f53-d1e3ddfd0cda_story.html)
 
 ### Related:
 

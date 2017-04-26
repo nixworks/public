@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Interfax](http://www.interfax-religion.com/?act=dujour&div=231)
-2. [CNN](http://edition.cnn.com/2013/09/08/world/meast/syria-civil-war/)
+1. [CNN](http://edition.cnn.com/2013/09/08/world/meast/syria-civil-war/)
+2. [Interfax](http://www.interfax-religion.com/?act=dujour&div=231)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The murder of a lesbian activist who was stoned and stabbed to death is part of 
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gcxchVno5lup3lpI3_cTYGe1PazA?docId=CNG.38ca4655f63b9e496ef37d6a16caeeee.d31)
-2. [Mail & Guardian](http://mg.co.za/article/2011-05-03-brutal-murder-of-lesbian-activist-condemned/)
+1. [Mail & Guardian](http://mg.co.za/article/2011-05-03-brutal-murder-of-lesbian-activist-condemned/)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gcxchVno5lup3lpI3_cTYGe1PazA?docId=CNG.38ca4655f63b9e496ef37d6a16caeeee.d31)
 3. [Times Live](http://www.timeslive.co.za/local/article1048502.ece/Lesbian-murder-hate-crime--Human-Rights-Watch)
 
 ### Related:

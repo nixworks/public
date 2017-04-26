@@ -7,8 +7,8 @@ Tiger Woods was given a prolonged high-five by Steve Williams on Sunday night as
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/golf/tigerwoods/7583461/Masters-2010-Tiger-Woods-takes-more-time-out-to-become-the-man-he-was.html)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/golf/8614701.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/golf/8614701.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/golf/tigerwoods/7583461/Masters-2010-Tiger-Woods-takes-more-time-out-to-become-the-man-he-was.html)
 
 ### Related:
 

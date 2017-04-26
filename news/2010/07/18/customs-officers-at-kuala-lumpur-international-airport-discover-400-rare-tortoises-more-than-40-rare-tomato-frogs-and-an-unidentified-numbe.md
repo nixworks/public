@@ -7,8 +7,8 @@ Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises an
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/stories/2010/07/18/2956939.htm?section=world)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10674741)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10674741)
+2. [ABC News](http://www.abc.net.au/news/stories/2010/07/18/2956939.htm?section=world)
 
 ### Related:
 

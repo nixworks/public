@@ -7,9 +7,9 @@ Donald Trump released an apology statement for and justifying a lewd audio and v
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html)
-2. [Fox News](http://www.foxnews.com/politics/2016/10/07/wikileaks-releases-emails-allegedly-from-clinton-campaign-chair.html)
-3. [The Business Insider](http://www.businessinsider.com/trump-statement-audio-bill-clinton-women-2016-10)
+1. [Fox News](http://www.foxnews.com/politics/2016/10/07/wikileaks-releases-emails-allegedly-from-clinton-campaign-chair.html)
+2. [The Business Insider](http://www.businessinsider.com/trump-statement-audio-bill-clinton-women-2016-10)
+3. [The Washington Post](https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html)
 
 ### Related:
 

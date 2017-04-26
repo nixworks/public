@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/12/20/AR2009122000190.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/quake-hits-malawi-killing-three-20091221-l7qa.html)
-3. [The New York Times](http://www.nytimes.com/reuters/2009/12/07/world/international-uk-quake-malawi.html)
+1. [The New York Times](http://www.nytimes.com/reuters/2009/12/07/world/international-uk-quake-malawi.html)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/12/20/AR2009122000190.html)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/quake-hits-malawi-killing-three-20091221-l7qa.html)
 
 ### Related:
 

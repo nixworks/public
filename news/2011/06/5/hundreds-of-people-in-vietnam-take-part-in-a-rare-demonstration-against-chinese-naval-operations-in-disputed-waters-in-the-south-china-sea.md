@@ -7,8 +7,8 @@ Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/12288/hundreds-of-vietnamese-protest-china)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13661779)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13661779)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/12288/hundreds-of-vietnamese-protest-china)
 
 ### Related:
 

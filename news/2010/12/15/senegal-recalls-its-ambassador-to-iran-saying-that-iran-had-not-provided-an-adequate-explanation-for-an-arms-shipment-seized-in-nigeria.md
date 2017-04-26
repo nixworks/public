@@ -7,8 +7,8 @@ Senegal recalls its ambassador to Iran after Tehran failed to provide a &quot;sa
 
 ### Source:
 
-1. [Africa News](http://www.africanews.com/site/Senegal_recalls_ambassador_to_Iran/list_messages/36638)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11998752)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11998752)
+2. [Africa News](http://www.africanews.com/site/Senegal_recalls_ambassador_to_Iran/list_messages/36638)
 
 ### Related:
 

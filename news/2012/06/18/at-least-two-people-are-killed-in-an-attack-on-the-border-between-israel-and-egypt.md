@@ -7,9 +7,9 @@ An Israeli citizen and at least one militant were killed in an attack on the Egy
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201261872739550706.html)
-2. [Reuters via MSNBC](http://www.msnbc.msn.com/id/47854961/ns/world_news-mideast_n_africa/)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18483018)
+1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/47854961/ns/world_news-mideast_n_africa/)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18483018)
+3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201261872739550706.html)
 
 ### Related:
 

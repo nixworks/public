@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Pakistan Times](http://pakistantimes.net/2005/04/18/top6.htm)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/079b61a3fd48051eb15fa0d01d3332ea.htm)
-3. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_18-4-2005_pg1_3)
-4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4456695.stm)
+1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_18-4-2005_pg1_3)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4456695.stm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/079b61a3fd48051eb15fa0d01d3332ea.htm)
+4. [Pakistan Times](http://pakistantimes.net/2005/04/18/top6.htm)
 
 ### Related:
 

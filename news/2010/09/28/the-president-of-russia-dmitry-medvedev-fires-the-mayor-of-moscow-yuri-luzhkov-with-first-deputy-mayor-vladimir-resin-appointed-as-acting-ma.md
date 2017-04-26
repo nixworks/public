@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [RT](http://rt.com/Top_News/2010-09-28/president-sacks-moscow-mayor.html)
-2. [DW](http://www.dw-world.de/dw/article/0,,6051168,00.html)
-3. [Reuters via ''Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_584013.html)
+1. [DW](http://www.dw-world.de/dw/article/0,,6051168,00.html)
+2. [Euronews](http://www.euronews.net/2010/09/28/iouri-luzhkov-a-profile-of-moscow-s-fallen-mayor/)
+3. [RIA Novosti](http://en.rian.ru/russia/20100928/160744465.html)
 4. [Daily Mail](http://www.dailymail.co.uk/news/article-1315823/Moscow-mayor-Yury-Luzhkov-sacked-Russian-government-18-years.html?ito=feeds-newsxml)
-5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/28/c_13533559.htm)
-6. [Euronews](http://www.euronews.net/2010/09/28/iouri-luzhkov-a-profile-of-moscow-s-fallen-mayor/)
-7. [RIA Novosti](http://en.rian.ru/russia/20100928/160744465.html)
+5. [Reuters via ''Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_584013.html)
+6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/28/c_13533559.htm)
+7. [RT](http://rt.com/Top_News/2010-09-28/president-sacks-moscow-mayor.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7952391)
-2. [B92](http://www.b92.net/english/news/index.php?&nav_category=2&nav_id=31613&order=priority&style=headlines)
+1. [B92](http://www.b92.net/english/news/index.php?&nav_category=2&nav_id=31613&order=priority&style=headlines)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7952391)
 3. [FENA](http://www.fena.ba/uk/vijest.html?fena_id=FSA239522&rubrika=ES)
 
 ### Related:

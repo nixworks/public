@@ -7,8 +7,8 @@ First world &quot;census&quot; of marine life to take place in Jerusalem, with 3
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Sci-Tech/Article.aspx?id=200048)
-2. [Israel 21C](http://www.israel21c.org/201012208648/briefs/1200-new-sea-creatures-revealed)
+1. [Israel 21C](http://www.israel21c.org/201012208648/briefs/1200-new-sea-creatures-revealed)
+2. [The Jerusalem Post](http://www.jpost.com/Sci-Tech/Article.aspx?id=200048)
 
 ### Related:
 

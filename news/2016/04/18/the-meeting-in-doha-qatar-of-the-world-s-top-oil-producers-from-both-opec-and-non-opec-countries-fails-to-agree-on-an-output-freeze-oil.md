@@ -8,8 +8,8 @@ As the Doha meeting looms it appears that the chances of a meaningful outcome ar
 ### Source:
 
 1. [Oilprice.com](http://oilprice.com/Energy/Energy-General/The-Complete-Overview-Of-The-Doha-Meeting.html)
-2. [AFP via ''Bangkok Post](http://www.bangkokpost.com/news/world/937685/oil-prices-plunge-after-doha-output-talks-fail)
-3. [CNBC](http://www.cnbc.com/2016/04/17/doha-oil-producers-meeting-ends-without-an-agreement.html)
+2. [CNBC](http://www.cnbc.com/2016/04/17/doha-oil-producers-meeting-ends-without-an-agreement.html)
+3. [AFP via ''Bangkok Post](http://www.bangkokpost.com/news/world/937685/oil-prices-plunge-after-doha-output-talks-fail)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CSM](http://news.yahoo.com/news?tmpl=story&u=/csm/20050302/ts_csm/ajuvydeath_1)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4308881.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4308881.stm)
+2. [CSM](http://news.yahoo.com/news?tmpl=story&u=/csm/20050302/ts_csm/ajuvydeath_1)
 
 ### Related:
 

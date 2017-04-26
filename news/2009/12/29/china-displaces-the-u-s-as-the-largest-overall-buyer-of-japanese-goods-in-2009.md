@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Marketwatch](http://www.menafn.com/qn_news_story.asp?StoryId={F580E6F1-940E-4C3E-B4C1-941F47BD74D3})
-2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703278604574624243416217438.html?mod=rss_Heard_on_the_Street)
+1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703278604574624243416217438.html?mod=rss_Heard_on_the_Street)
+2. [Marketwatch](http://www.menafn.com/qn_news_story.asp?StoryId={F580E6F1-940E-4C3E-B4C1-941F47BD74D3})
 
 ### Related:
 

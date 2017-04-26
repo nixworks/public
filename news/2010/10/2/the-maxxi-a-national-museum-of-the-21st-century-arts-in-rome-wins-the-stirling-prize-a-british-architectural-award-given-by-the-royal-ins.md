@@ -8,8 +8,8 @@ The British architect Zaha Hadid has finally won the RIBA Stirling Prize on her 
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/art/architecture/8038965/Zaha-Hadid-scoops-Stirling-Prize-for-architecture-on-fourth-attempt.html)
-2. [The Observer](http://www.guardian.co.uk/artanddesign/2010/oct/03/stirling-prize-zaha-hadid-maxxi)
-3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11456875)
+2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11456875)
+3. [The Observer](http://www.guardian.co.uk/artanddesign/2010/oct/03/stirling-prize-zaha-hadid-maxxi)
 
 ### Related:
 

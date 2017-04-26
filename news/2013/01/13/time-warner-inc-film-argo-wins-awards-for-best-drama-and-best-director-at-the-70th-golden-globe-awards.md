@@ -7,9 +7,9 @@ The list of winners at the 70th annual Golden Globe Awards.
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-21003435)
+1. [Fox News](http://www.foxnews.com/entertainment/2013/01/13/golden-globe-awards-list-winners/)
 2. [Bloomberg](http://www.bloomberg.com/news/2013-01-14/-argo-wins-golden-globe-for-best-drama-outpolling-lincoln-.html)
-3. [Fox News](http://www.foxnews.com/entertainment/2013/01/13/golden-globe-awards-list-winners/)
+3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-21003435)
 
 ### Related:
 

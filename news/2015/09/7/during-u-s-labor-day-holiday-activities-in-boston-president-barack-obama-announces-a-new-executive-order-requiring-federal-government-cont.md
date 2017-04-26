@@ -7,8 +7,8 @@ The president sought to rally workers by announcing new policy ahead of a budget
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/news/post-politics/wp/2015/09/07/in-boston-speech-obama-to-unveil-executive-order-for-more-paid-sick-leave/)
-2. [Huffington Post](http://www.huffingtonpost.com/2014/11/04/massachusetts-sick-leave_n_6096580.html)
+1. [Huffington Post](http://www.huffingtonpost.com/2014/11/04/massachusetts-sick-leave_n_6096580.html)
+2. [Washington Post](http://www.washingtonpost.com/news/post-politics/wp/2015/09/07/in-boston-speech-obama-to-unveil-executive-order-for-more-paid-sick-leave/)
 
 ### Related:
 

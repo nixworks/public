@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Herald Sun](http://www.heraldsun.com.au/news/world/eight-dead-20-missing-after-west-virginia-mine-blast/story-e6frf7lf-1225850358972)
-2. [BBC News](http://news.bbc.co.uk/2/hi/americas/8604170.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/americas/8604170.stm)
+2. [Herald Sun](http://www.heraldsun.com.au/news/world/eight-dead-20-missing-after-west-virginia-mine-blast/story-e6frf7lf-1225850358972)
 
 ### Related:
 

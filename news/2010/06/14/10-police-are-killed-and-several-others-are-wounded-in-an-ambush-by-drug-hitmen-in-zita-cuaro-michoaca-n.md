@@ -8,8 +8,8 @@ Armed attacks on Mexican federal police Monday in violent Michoacan state sparke
 ### Source:
 
 1. [The Star](http://thestar.com.my/news/story.asp?file=/2010/6/15/worldupdates/2010-06-14T234033Z_01_NOOTR_RTRMDNC_0_-492953-1&sec=Worldupdates)
-2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/ten-police-killed-in-mexico-ambush/story-fn3dxity-1225879696126)
-3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-mexico-shooting-20100615,0,2088105.story)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-mexico-shooting-20100615,0,2088105.story)
+3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/ten-police-killed-in-mexico-ambush/story-fn3dxity-1225879696126)
 4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gMi5B2USfJStXxfqgWWr2xjRYpOgD9GBCBDO1)
 
 ### Related:

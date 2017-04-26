@@ -8,8 +8,8 @@ Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/front_page/4655555.stm)
-2. [ABC](http://abcnews.go.com/Sports/wireStory?id=909526)
-3. [CNN](http://edition.cnn.com/2005/SPORT/07/05/singapore.olympics/index.html)
+2. [CNN](http://edition.cnn.com/2005/SPORT/07/05/singapore.olympics/index.html)
+3. [ABC](http://abcnews.go.com/Sports/wireStory?id=909526)
 
 ### Related:
 

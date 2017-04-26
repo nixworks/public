@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WEATHER/09/16/mexico.hurricane.ap/index.html)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20060917/ap_on_re_la_am_ca/hurricane_lane)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20060917/ap_on_re_la_am_ca/hurricane_lane)
+2. [CNN](http://www.cnn.com/2006/WEATHER/09/16/mexico.hurricane.ap/index.html)
 
 ### Related:
 

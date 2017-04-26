@@ -8,8 +8,8 @@ The GAA is in shock after Kerry legend Paidi O Se is found dead at his home on S
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/sport/0/northern-ireland/20741199)
-2. [RTÉ Sport](http://www.rte.ie/sport/gaa/football/2012/1215/359083-president-leads-tributes-to-o-se/)
-3. [JOE](http://www.joe.ie/gaa/gaa-news/giant-of-gaa-paidi-o-se-dead-aged-just-57-0031716-1)
+2. [JOE](http://www.joe.ie/gaa/gaa-news/giant-of-gaa-paidi-o-se-dead-aged-just-57-0031716-1)
+3. [RTÉ Sport](http://www.rte.ie/sport/gaa/football/2012/1215/359083-president-leads-tributes-to-o-se/)
 
 ### Related:
 

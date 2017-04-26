@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6501695.stm)
-2. [AFP via Sydney Morning Herald](http://www.smh.com.au/news/world/hostage-taker-agrees-to-surrender/2007/03/28/1174761532412.html?s_cid=rss_smh)
+1. [AFP via Sydney Morning Herald](http://www.smh.com.au/news/world/hostage-taker-agrees-to-surrender/2007/03/28/1174761532412.html?s_cid=rss_smh)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6501695.stm)
 
 ### Related:
 

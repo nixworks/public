@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-11T235324Z_01_N10459214_RTRUKOC_0_US-MIDEAST-UN.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
-2. [Boston Herald](http://news.bostonherald.com/international/view.bg?articleid=152443)
+1. [Boston Herald](http://news.bostonherald.com/international/view.bg?articleid=152443)
+2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-11T235324Z_01_N10459214_RTRUKOC_0_US-MIDEAST-UN.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
 
 ### Related:
 

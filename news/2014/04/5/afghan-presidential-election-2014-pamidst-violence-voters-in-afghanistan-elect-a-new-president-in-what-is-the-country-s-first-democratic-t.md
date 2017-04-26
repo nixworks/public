@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/2014/04/04/landmark-afghan-election-_n_5095143.html)
-2. [BBC](http://www.bbc.com/news/world-asia-26880022)
+1. [BBC](http://www.bbc.com/news/world-asia-26880022)
+2. [Huffington Post](http://www.huffingtonpost.com/2014/04/04/landmark-afghan-election-_n_5095143.html)
 
 ### Related:
 

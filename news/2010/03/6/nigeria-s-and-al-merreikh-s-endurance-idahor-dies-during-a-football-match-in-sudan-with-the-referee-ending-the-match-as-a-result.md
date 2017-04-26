@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/reuters/2010/03/06/sports/sports-uk-sudan-soccer-death.html)
-2. [The Times of India](http://timesofindia.indiatimes.com/sports/football/top-stories/Mystery-over-sudden-death-of-Nigerian-striker/articleshow/5654568.cms)
-3. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8554296.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8554296.stm)
+2. [The New York Times](http://www.nytimes.com/reuters/2010/03/06/sports/sports-uk-sudan-soccer-death.html)
+3. [The Times of India](http://timesofindia.indiatimes.com/sports/football/top-stories/Mystery-over-sudden-death-of-Nigerian-striker/articleshow/5654568.cms)
 
 ### Related:
 

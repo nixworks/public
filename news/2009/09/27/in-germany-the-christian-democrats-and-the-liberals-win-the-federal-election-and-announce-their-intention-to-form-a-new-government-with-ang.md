@@ -7,8 +7,8 @@ Angela Merkel appears to have swept to victory in the German elections, with exi
 
 ### Source:
 
-1. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,651610,00.html)
-2. [Al Jazeera](http://english.aljazeera.net//news/europe/2009/09/200992716816398639.html)
+1. [Al Jazeera](http://english.aljazeera.net//news/europe/2009/09/200992716816398639.html)
+2. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,651610,00.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/germany/6237210/Merkels-rival-concedes-defeat-in-German-election.html)
 
 ### Related:

@@ -7,9 +7,9 @@ Seismic unrest continues at Bogoslof volcano. Scientists are watching the erupti
 
 ### Source:
 
-1. [Tech Times](http://www.techtimes.com/articles/189718/20161223/alaskas-bogoslof-volcano-unexpectedly-erupts-sparks-aviation-alert.htm)
+1. [Alaska Public Radio Network](http://www.alaskapublic.org/2016/12/29/continued-unrest-at-bogoslof-volcano/)
 2. [CDA News](http://cdanews.com/2016/12/alaskas-bogoslof-island-volcano-erupts-for-the-third-time-in-a-week/)
-3. [Alaska Public Radio Network](http://www.alaskapublic.org/2016/12/29/continued-unrest-at-bogoslof-volcano/)
+3. [Tech Times](http://www.techtimes.com/articles/189718/20161223/alaskas-bogoslof-volcano-unexpectedly-erupts-sparks-aviation-alert.htm)
 
 ### Related:
 

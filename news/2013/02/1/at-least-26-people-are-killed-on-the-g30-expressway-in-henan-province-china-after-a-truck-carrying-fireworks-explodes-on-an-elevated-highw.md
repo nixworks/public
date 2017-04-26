@@ -7,10 +7,10 @@ A truck carrying fireworks explodes on a highway in central China, causing part 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-china-21289321)
-2. [The Guardian](http://www.guardian.co.uk/world/video/2013/feb/01/firework-truck-explosion-chinese-bridge-video)
-3. [The New York Times](http://www.nytimes.com/2013/02/02/world/asia/fireworks-truck-explodes-on-bridge-in-china.html)
-4. [CNN](http://www.cnn.com/2013/02/01/world/asia/china-bridge-collapse/)
+1. [CNN](http://www.cnn.com/2013/02/01/world/asia/china-bridge-collapse/)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-china-21289321)
+3. [The Guardian](http://www.guardian.co.uk/world/video/2013/feb/01/firework-truck-explosion-chinese-bridge-video)
+4. [The New York Times](http://www.nytimes.com/2013/02/02/world/asia/fireworks-truck-explodes-on-bridge-in-china.html)
 
 ### Related:
 

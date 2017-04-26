@@ -7,8 +7,8 @@ The leader of the Burkina Faso coup and the chief of the army were conducting la
 
 ### Source:
 
-1. [DW Akademie](http://www.dw.com/en/tension-in-burkina-faso-as-negotiations-continue/a-18729537)
-2. [BBC](http://www.bbc.com/news/world-africa-34321961)
+1. [BBC](http://www.bbc.com/news/world-africa-34321961)
+2. [DW Akademie](http://www.dw.com/en/tension-in-burkina-faso-as-negotiations-continue/a-18729537)
 
 ### Related:
 

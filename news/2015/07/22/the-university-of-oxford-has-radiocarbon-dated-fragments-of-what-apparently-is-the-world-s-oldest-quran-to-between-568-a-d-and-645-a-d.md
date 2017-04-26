@@ -7,8 +7,8 @@ Scientists in the UK say they have found fragments of one of the world&#39;s old
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3170742/World-s-oldest-Koran-library-Pages-ancient-manuscript-written-shortly-Prophet-Mohammad-died.html#ixzz3ggI8IDcj)
-2. [Deutsche Welle](http://www.dw.com/en/quran-parchment-at-british-university-among-worlds-oldest/a-18599393)
+1. [Deutsche Welle](http://www.dw.com/en/quran-parchment-at-british-university-among-worlds-oldest/a-18599393)
+2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3170742/World-s-oldest-Koran-library-Pages-ancient-manuscript-written-shortly-Prophet-Mohammad-died.html#ixzz3ggI8IDcj)
 
 ### Related:
 

@@ -7,9 +7,9 @@ China&#039;s parliament has named Xi Jinping as the country&#039;s new president
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-03-13-AS-China-Politics/id-82b776c450b34d16962fb804a80dc764)
+1. [The New York Times](http://www.nytimes.com/2013/03/15/world/asia/chinas-new-leader-xi-jinping-takes-full-power.html)
 2. [AFP via SBS News](http://www.sbs.com.au/news/article/1746572/China-set-to-name-Xi-Jinping-as-new-president)
-3. [The New York Times](http://www.nytimes.com/2013/03/15/world/asia/chinas-new-leader-xi-jinping-takes-full-power.html)
+3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-03-13-AS-China-Politics/id-82b776c450b34d16962fb804a80dc764)
 
 ### Related:
 

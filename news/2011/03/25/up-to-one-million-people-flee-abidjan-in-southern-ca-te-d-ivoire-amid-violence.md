@@ -8,8 +8,8 @@
 ### Source:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=37899&Cr=Ivoire&Cr1=)
-2. [IOL](http://www.iol.co.za/news/africa/almost-1million-ivorians-flee-abidjan-1.1047504)
-3. [BBC World Service](http://www.bbc.co.uk/worldservice/africa/2011/03/110325_ivory_coast_ecowas.shtml)
+2. [BBC World Service](http://www.bbc.co.uk/worldservice/africa/2011/03/110325_ivory_coast_ecowas.shtml)
+3. [IOL](http://www.iol.co.za/news/africa/almost-1million-ivorians-flee-abidjan-1.1047504)
 
 ### Related:
 

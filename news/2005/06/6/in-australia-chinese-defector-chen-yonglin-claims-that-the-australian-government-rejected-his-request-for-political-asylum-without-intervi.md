@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4612497.stm)
-2. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2005/06/06/2003258174)
-3. [ABC](http://www.abc.net.au/news/newsitems/200506/s1385007.htm)
+1. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2005/06/06/2003258174)
+2. [ABC](http://www.abc.net.au/news/newsitems/200506/s1385007.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4612497.stm)
 
 ### Related:
 

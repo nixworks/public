@@ -7,8 +7,8 @@ Activists report tanks on the streets and clashes between Syrian soldiers and de
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012129131321937927.html)
-2. [Reuters](http://www.reuters.com/article/2012/01/30/us-syria-idUSTRE80S08620120130)
+1. [Reuters](http://www.reuters.com/article/2012/01/30/us-syria-idUSTRE80S08620120130)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012129131321937927.html)
 
 ### Related:
 

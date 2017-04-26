@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [UTV](http://www.utvlive.com/newsroom/indepth.asp?id=69854&pt=n)
-2. [Live 95FM](http://www.live95fm.ie/95fm.asx)
-3. [The Limerick Blogger](http://thelimerick.blogspot.com/2006/01/us-shipping-depleted-uranium-through.html)
+1. [Live 95FM](http://www.live95fm.ie/95fm.asx)
+2. [The Limerick Blogger](http://thelimerick.blogspot.com/2006/01/us-shipping-depleted-uranium-through.html)
+3. [UTV](http://www.utvlive.com/newsroom/indepth.asp?id=69854&pt=n)
 4. [IOL.ie](http://breakingnews.iol.ie/news/story.asp?j=139965600&p=y39966y8x)
 
 ### Related:

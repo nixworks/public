@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Mercury News](http://www.mercurynews.com/breaking-news/ci_16327284?nclick_check=1)
-2. [Democracy Now!](http://www.democracynow.org/2010/10/14/green_party_candidate_excluded_from_california)
+1. [Democracy Now!](http://www.democracynow.org/2010/10/14/green_party_candidate_excluded_from_california)
+2. [Mercury News](http://www.mercurynews.com/breaking-news/ci_16327284?nclick_check=1)
 
 ### Related:
 

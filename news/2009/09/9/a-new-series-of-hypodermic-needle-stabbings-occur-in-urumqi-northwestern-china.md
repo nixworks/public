@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_427501.html)
-2. [China Daily](http://www.chinadaily.com.cn/china/2009-09/09/content_8669084.htm)
-3. [Press Trust of India](http://www.ptinews.com/news/272336_More-needle-attacks-in-tense-China-city--media)
+1. [Press Trust of India](http://www.ptinews.com/news/272336_More-needle-attacks-in-tense-China-city--media)
+2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_427501.html)
+3. [China Daily](http://www.chinadaily.com.cn/china/2009-09/09/content_8669084.htm)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=105738&sectionid=351020404)
 
 ### Related:

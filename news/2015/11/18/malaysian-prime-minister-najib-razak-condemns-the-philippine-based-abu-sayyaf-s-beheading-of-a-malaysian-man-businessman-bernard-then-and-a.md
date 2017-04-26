@@ -8,9 +8,9 @@ A Malaysian man who was being held by Islamist militants in the southern Philipp
 ### Source:
 
 1. [The International Business Times](http://www.ibtimes.com/abu-sayyaf-beheading-who-bernard-then-malaysia-shocked-sickened-citizens-killing-2189453)
-2. [BBC](http://www.bbc.com/news/world-asia-34853883)
-3. [ABC](http://abcnews.go.com/International/wireStory/malaysia-sickened-citizens-beheading-philippines-35271451)
-4. [AFP via Yahoo](http://news.yahoo.com/malaysia-pm-says-hostage-held-philippines-murdered-063550229.html)
+2. [AFP via Yahoo](http://news.yahoo.com/malaysia-pm-says-hostage-held-philippines-murdered-063550229.html)
+3. [BBC](http://www.bbc.com/news/world-asia-34853883)
+4. [ABC](http://abcnews.go.com/International/wireStory/malaysia-sickened-citizens-beheading-philippines-35271451)
 
 ### Related:
 

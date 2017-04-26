@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Stockcharts.com](http://stockcharts.com/h-sc/ui?s=$gold)
-2. [BBC News](http://news.bbc.co.uk/2/hi/business/7300185.stm)
-3. [LBMA](http://www.lbma.org.uk/2008dailygold.htm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/business/7300185.stm)
+2. [BBC News](http://news.bbc.co.uk/2/hi/business/7300231.stm)
+3. [Stockcharts.com](http://stockcharts.com/h-sc/ui?s=$gold)
 4. [BBC News](http://news.bbc.co.uk/2/hi/business/7300017.stm)
-5. [BBC News](http://news.bbc.co.uk/2/hi/business/7300231.stm)
+5. [LBMA](http://www.lbma.org.uk/2008dailygold.htm)
 
 ### Related:
 

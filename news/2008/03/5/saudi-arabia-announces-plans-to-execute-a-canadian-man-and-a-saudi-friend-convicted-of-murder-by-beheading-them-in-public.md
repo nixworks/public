@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 2. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 3. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: Canadian_
 4. [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md) _Context: Canadian_

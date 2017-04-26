@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Thai News Agency](http://www.mcot.net/content/40446)
-2. [The Hindu](http://beta.thehindu.com/news/international/article387256.ece)
-3. [CBC](http://www.cbc.ca/world/story/2010/04/03/thailand-protest.html)
+2. [CBC](http://www.cbc.ca/world/story/2010/04/03/thailand-protest.html)
+3. [The Hindu](http://beta.thehindu.com/news/international/article387256.ece)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ### Source:
 
-1. [New Straits Times](http://www.nst.com.my/Current_News/NST/Tuesday/National/20050802081842/Article/indexb_html)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/161143/1/.html)
-3. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050803.D07&irec=6)
-4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/KLR50570.htm)
-5. [Channel News Asia](http://www.channelnewsasia.com/stories/southeastasia/view/161162/1/.html)
+1. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050803.D07&irec=6)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/southeastasia/view/161162/1/.html)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/KLR50570.htm)
+4. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/161143/1/.html)
+5. [New Straits Times](http://www.nst.com.my/Current_News/NST/Tuesday/National/20050802081842/Article/indexb_html)
 
 ### Related:
 

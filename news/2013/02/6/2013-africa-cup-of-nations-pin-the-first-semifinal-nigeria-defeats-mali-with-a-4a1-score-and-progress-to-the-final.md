@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en-gb/match/102631/burkina-faso-vs-ghana/play-by-play)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/21354433)
+1. [Reuters via ''The Guardian](http://www.guardian.co.uk/football/2013/feb/06/africa-cup-nations-nigeria-mali)
+2. [Al Jazeera](http://www.aljazeera.com/sport/football/2013/02/201326174140877790.html)
 3. [Al Jazeera](http://blogs.aljazeera.com/liveblog/topic/africa-cup-nations-16186)
-4. [Reuters via ''The Guardian](http://www.guardian.co.uk/football/2013/feb/06/africa-cup-nations-nigeria-mali)
-5. [Al Jazeera](http://www.aljazeera.com/sport/football/2013/02/201326174140877790.html)
+4. [Goal.com](http://www.goal.com/en-gb/match/102631/burkina-faso-vs-ghana/play-by-play)
+5. [BBC](http://www.bbc.co.uk/sport/0/football/21354433)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Chicago Tribune](http://www.chicagotribune.com/sports/sns-ap-soc-wcup-netherlands-celebrates,0,7638339.story)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8816050.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8816050.stm)
+2. [Chicago Tribune](http://www.chicagotribune.com/sports/sns-ap-soc-wcup-netherlands-celebrates,0,7638339.story)
 
 ### Related:
 

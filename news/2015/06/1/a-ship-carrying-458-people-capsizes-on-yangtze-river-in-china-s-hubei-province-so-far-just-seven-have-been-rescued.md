@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua via Twitter](https://twitter.com/XHNews/status/605477102117216256)
-2. [News Limited](http://www.news.com.au/world/breaking-news/people-on-ship-disaster-in-china/story-e6frfkui-1227379115507?from=public_rss)
+1. [News Limited](http://www.news.com.au/world/breaking-news/people-on-ship-disaster-in-china/story-e6frfkui-1227379115507?from=public_rss)
+2. [Xinhua via Twitter](https://twitter.com/XHNews/status/605477102117216256)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/story/2006/08/13/aids-conference.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/health/4783521.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/health/4783521.stm)
+2. [CBC](http://www.cbc.ca/canada/story/2006/08/13/aids-conference.html)
 
 ### Related:
 

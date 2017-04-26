@@ -7,8 +7,8 @@ Military court finds Sarath Fonseka guilty of meddling in politics while in unif
 
 ### Source:
 
-1. [Sunday Leader](http://www.thesundayleader.lk/2010/08/13/sarath-fonseka-found-guilty-in-first-court-martial/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g8xCD44vm9Zyk7ZH41sKJOPo0KLw)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g8xCD44vm9Zyk7ZH41sKJOPo0KLw)
+2. [Sunday Leader](http://www.thesundayleader.lk/2010/08/13/sarath-fonseka-found-guilty-in-first-court-martial/)
 3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081395730973935.html)
 
 ### Related:

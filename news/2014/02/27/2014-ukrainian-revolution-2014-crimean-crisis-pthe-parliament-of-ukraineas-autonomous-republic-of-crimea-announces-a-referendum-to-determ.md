@@ -7,11 +7,11 @@ Ousted Ukrainian President Viktor Yanukovych is being sheltered in Russia and ha
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/ukraines-parliament-approves-yatsenyuk-as-new-pm/1860978.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ihQvbcVF53o5wsOBRijt2v029BGw?docId=356794d6-c977-4dc9-9347-990b764886dc)
-3. [The Guardian](http://www.theguardian.com/world/2014/feb/27/armed-men-seize-crimea-parliament-reports)
-4. [Kyiv Post](http://www.kyivpost.com/content/ukraine/crimean-parliament-presidium-offers-may-25-as-referendum-date-337790.html)
-5. [USA Today](http://www.usatoday.com/story/news/world/2014/02/27/ukraine-yanukovych-whereabouts/5857331/)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ihQvbcVF53o5wsOBRijt2v029BGw?docId=356794d6-c977-4dc9-9347-990b764886dc)
+2. [Voice of America](http://www.voanews.com/content/ukraines-parliament-approves-yatsenyuk-as-new-pm/1860978.html)
+3. [USA Today](http://www.usatoday.com/story/news/world/2014/02/27/ukraine-yanukovych-whereabouts/5857331/)
+4. [The Guardian](http://www.theguardian.com/world/2014/feb/27/armed-men-seize-crimea-parliament-reports)
+5. [Kyiv Post](http://www.kyivpost.com/content/ukraine/crimean-parliament-presidium-offers-may-25-as-referendum-date-337790.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ A suicide bomber attacks an entrance of the US embassy in the Turkish capital, A
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/01/us-turkey-usa-explosion-idUSBRE9100I620130201)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-21293598)
 2. [CNN](http://edition.cnn.com/2013/02/01/world/europe/turkey-embassy-explosion)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-21293598)
+3. [Reuters](http://www.reuters.com/article/2013/02/01/us-turkey-usa-explosion-idUSBRE9100I620130201)
 
 ### Related:
 

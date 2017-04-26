@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/international/article226974.ece)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8560671.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8560671.stm)
+2. [The Hindu](http://beta.thehindu.com/news/international/article226974.ece)
 
 ### Related:
 

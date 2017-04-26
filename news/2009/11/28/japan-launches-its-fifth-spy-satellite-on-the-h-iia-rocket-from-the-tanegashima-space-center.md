@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20091128p2a00m0na014000c.html)
-2. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=472932)
-3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Japan-launches-fifth-spy-satellite/articleshow/5278219.cms)
+1. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=472932)
+2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Japan-launches-fifth-spy-satellite/articleshow/5278219.cms)
+3. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20091128p2a00m0na014000c.html)
 
 ### Related:
 

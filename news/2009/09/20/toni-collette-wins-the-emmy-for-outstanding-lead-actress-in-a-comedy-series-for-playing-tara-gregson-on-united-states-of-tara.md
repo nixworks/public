@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdZYquCkhax758t3m92KQpgt3LKQD9ARCVVO0)
-2. [AP via San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2009/09/20/entertainment/e180853D72.DTL)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gI11Yfjmko2nALepNs-3drv3PccQD9ARETQ00)
-4. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdZYquCkhax758t3m92KQpgt3LKQD9ARCN2O1)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gI11Yfjmko2nALepNs-3drv3PccQD9ARETQ00)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdZYquCkhax758t3m92KQpgt3LKQD9ARCN2O1)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdZYquCkhax758t3m92KQpgt3LKQD9ARCVVO0)
+4. [AP via San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2009/09/20/entertainment/e180853D72.DTL)

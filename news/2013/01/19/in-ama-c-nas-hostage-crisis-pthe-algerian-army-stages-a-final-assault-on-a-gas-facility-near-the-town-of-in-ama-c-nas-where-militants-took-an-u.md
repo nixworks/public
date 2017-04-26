@@ -8,8 +8,8 @@ Algerian troops end a siege at a gas facility in the Sahara desert which left 23
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/20/us-sahara-crisis-idUSBRE90F1JJ20130120)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-21101092)
-3. [CNN](http://edition.cnn.com/2013/01/19/world/africa/algeria-hostage-crisis)
+2. [CNN](http://edition.cnn.com/2013/01/19/world/africa/algeria-hostage-crisis)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-21101092)
 
 ### Related:
 

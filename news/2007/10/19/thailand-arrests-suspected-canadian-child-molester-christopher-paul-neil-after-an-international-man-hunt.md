@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSBKK21344820071019?feedType=RSS&feedName=topNews)
-2. [CNN](http://us.cnn.com/2007/WORLD/asiapcf/10/19/childsex.suspect/index.html)
+1. [CNN](http://us.cnn.com/2007/WORLD/asiapcf/10/19/childsex.suspect/index.html)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSBKK21344820071019?feedType=RSS&feedName=topNews)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The Indian government unveils the prototype of an iPad-like touch-screen laptop,
 
 ### Source:
 
-1. [The Jakarta Post](http://www.thejakartapost.com/news/2010/07/23/india-unveils-prototype-35-tablet-computer.html)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/23/india-unveils-cheapest-laptop)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10740817)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/23/india-unveils-cheapest-laptop)
+3. [The Jakarta Post](http://www.thejakartapost.com/news/2010/07/23/india-unveils-prototype-35-tablet-computer.html)
 4. [The Independent](http://www.independent.co.uk/news/world/asia/india-takes-on-the-ipad-with-16323-touchscreen-tablet-for-students-2034075.html)
 
 ### Related:

@@ -7,11 +7,11 @@ A series of blasts at a military ammunition depot kills at least 20 people in Ta
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121785211944812.html)
-2. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/16/tanzania.explosions/)
+1. [DAWN](http://www.dawn.com/2011/02/17/blasts-hit-tanzania-military-depot-casualties-unclear.html)
+2. [France24](http://www.france24.com/en/20110217-tanzania-arms-depot-blasts-kill-least-17-pm)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12490089)
-4. [France24](http://www.france24.com/en/20110217-tanzania-arms-depot-blasts-kill-least-17-pm)
-5. [DAWN](http://www.dawn.com/2011/02/17/blasts-hit-tanzania-military-depot-casualties-unclear.html)
+4. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/16/tanzania.explosions/)
+5. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121785211944812.html)
 
 ### Related:
 

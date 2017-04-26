@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldnews&storyID=2006-09-23T223316Z_01_L23793153_RTRUKOC_0_US-SECURITY-BINLADEN.xml)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/5374160.stm)
-3. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060923/binladen_report_060923/20060923?hub=TopStories)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/5374160.stm)
+2. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060923/binladen_report_060923/20060923?hub=TopStories)
+3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldnews&storyID=2006-09-23T223316Z_01_L23793153_RTRUKOC_0_US-SECURITY-BINLADEN.xml)
 
 ### Related:
 
@@ -21,5 +21,5 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 6. [Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. ](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-and-children-are-deported-from-pakistan-to-saudi-arabia.md) _Context: Osama bin Laden, Saudi Arabia_
 7. [2010-2011 Tunisian protests:Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/2010a2011-tunisian-protests-pformer-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-reject.md) _Context: France, Saudi Arabia_
 8. [French Interior Minister Brice Hortefeux states that Saudi Arabia has warned that Al-Qaeda is targeting Europe particularly France. ](/news/2010/10/17/french-interior-minister-brice-hortefeux-states-that-saudi-arabia-has-warned-that-al-qaeda-is-targeting-europe-particularly-france.md) _Context: France, Saudi Arabia_
-9. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+9. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 10. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: France_

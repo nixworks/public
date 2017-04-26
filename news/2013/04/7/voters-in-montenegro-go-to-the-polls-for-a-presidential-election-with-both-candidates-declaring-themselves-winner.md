@@ -7,8 +7,8 @@ Incumbent Vujanovic holds lead in opinion polls going into election day, as stat
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/08/c_124548773.htm)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/04/201347172646632425.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/04/201347172646632425.html)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/08/c_124548773.htm)
 
 ### Related:
 

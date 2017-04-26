@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AllAfrica](http://allafrica.com/stories/200504140707.html)
-2. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=topNews&storyID=2005-04-14T204900Z_01_DEN474712_RTRUKOC_0_ZIMBABWE-JOURNALISTS.xml)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4444915.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4444915.stm)
+2. [AllAfrica](http://allafrica.com/stories/200504140707.html)
+3. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=topNews&storyID=2005-04-14T204900Z_01_DEN474712_RTRUKOC_0_ZIMBABWE-JOURNALISTS.xml)
 
 ### Related:
 

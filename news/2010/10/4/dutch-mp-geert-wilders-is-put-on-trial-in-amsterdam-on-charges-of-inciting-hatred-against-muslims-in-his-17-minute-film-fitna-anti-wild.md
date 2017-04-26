@@ -7,9 +7,9 @@ Dutch anti-Islam MP Geert Wilders tells a court he will not be silenced, as he g
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/201010454645572293.html)
-2. [AFP via iAfrica](http://news.iafrica.com/worldnews/677575.html)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11464025)
+1. [AFP via iAfrica](http://news.iafrica.com/worldnews/677575.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11464025)
+3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/201010454645572293.html)
 
 ### Related:
 

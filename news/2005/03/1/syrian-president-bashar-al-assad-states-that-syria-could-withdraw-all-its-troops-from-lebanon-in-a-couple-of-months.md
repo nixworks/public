@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1109733528648)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7777312)
 2. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=13029)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7777312)
+3. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1109733528648)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Military train derails in Giza, outside of Cairo, killing 19 people and injuring
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/20131150266149627.html)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/19-killed-egypt-train-crash-18215850)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/19-killed-egypt-train-crash-18215850)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/20131150266149627.html)
 3. [Reuters](http://www.reuters.com/article/2013/01/15/us-egypt-train-crash-idUSBRE90E00O20130115)
 
 ### Related:

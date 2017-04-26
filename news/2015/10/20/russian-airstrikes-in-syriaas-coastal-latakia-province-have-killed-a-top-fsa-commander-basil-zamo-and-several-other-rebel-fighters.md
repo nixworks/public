@@ -7,8 +7,8 @@ At least three Russians fighting alongside Syrian government forces were killed 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-russia-idUSKCN0SE1YO20151020)
-2. [Reuters](http://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-latakia-idUSKCN0SE0M420151020)
+1. [Reuters](http://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-latakia-idUSKCN0SE0M420151020)
+2. [Reuters](http://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-russia-idUSKCN0SE1YO20151020)
 
 ### Related:
 

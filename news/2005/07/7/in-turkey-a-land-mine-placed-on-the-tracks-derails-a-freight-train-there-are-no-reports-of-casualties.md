@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NTV-MSNBC](http://www.ntvmsnbc.com/news/332265.asp)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L07713234.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L07713234.htm)
+2. [NTV-MSNBC](http://www.ntvmsnbc.com/news/332265.asp)
 
 ### Related:
 

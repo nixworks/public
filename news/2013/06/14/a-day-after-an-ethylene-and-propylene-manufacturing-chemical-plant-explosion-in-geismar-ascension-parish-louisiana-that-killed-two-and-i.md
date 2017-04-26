@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/06/14/us/louisiana-explosion/index.html)
-2. [NBC](http://usnews.nbcnews.com/_news/2013/06/14/18963584-one-person-killed-in-second-plant-explosion-in-two-days-in-louisiana-parish?lite)
+1. [NBC](http://usnews.nbcnews.com/_news/2013/06/14/18963584-one-person-killed-in-second-plant-explosion-in-two-days-in-louisiana-parish?lite)
+2. [CNN](http://www.cnn.com/2013/06/14/us/louisiana-explosion/index.html)
 
 ### Related:
 

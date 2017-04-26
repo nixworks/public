@@ -7,8 +7,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6973206)
-2. [CNN](http://www.cnn.com/2004/WORLD/meast/12/01/iraq.main/index.html)
+1. [CNN](http://www.cnn.com/2004/WORLD/meast/12/01/iraq.main/index.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6973206)
 
 ### Related:
 

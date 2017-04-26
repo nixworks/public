@@ -8,8 +8,8 @@ Check out this video of a volcanic eruption in Tonga that caused big travel prob
 ### Source:
 
 1. [Discovery News](http://news.discovery.com/earth/weather-extreme-events/tongan-volcano-creates-new-island-150117.htm)
-2. [The Weather Channel](http://www.weather.com/news/news/tonga-volcano-eruption)
-3. [Radio Australia](http://www.radioaustralia.net.au/international/radio/program/pacific-beat/tongan-volcano-forms-new-island/1407213)
+2. [Radio Australia](http://www.radioaustralia.net.au/international/radio/program/pacific-beat/tongan-volcano-forms-new-island/1407213)
+3. [The Weather Channel](http://www.weather.com/news/news/tonga-volcano-eruption)
 
 ### Related:
 

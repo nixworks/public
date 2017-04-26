@@ -7,8 +7,8 @@ A roadside bombing killed four Egyptian security personnel in the Sinai Peninsul
 
 ### Source:
 
-1. [Anadolu Agency](http://aa.com.tr/en/world/blast-kills-four-army-soldiers-in-egypt-s-sinai/487635)
-2. [UPI](http://www.upi.com/Top_News/World-News/2015/12/08/Bomb-attack-kills-four-Egyptian-security-personnel-in-North-Sinai/4021449622446/?spt=hs&or=tn_int)
+1. [UPI](http://www.upi.com/Top_News/World-News/2015/12/08/Bomb-attack-kills-four-Egyptian-security-personnel-in-North-Sinai/4021449622446/?spt=hs&or=tn_int)
+2. [Anadolu Agency](http://aa.com.tr/en/world/blast-kills-four-army-soldiers-in-egypt-s-sinai/487635)
 3. [Ahram Online](http://english.ahram.org.eg/NewsContent/1/64/172938/Egypt/Politics-/Bomb-attack-kills-four-security-personnel-in-Egypt.aspx)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Australia](http://www.radioaustralianews.net.au/stories/200812/2451007.htm?desktop)
-2. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/397612/1/.html)
+1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/397612/1/.html)
+2. [Radio Australia](http://www.radioaustralianews.net.au/stories/200812/2451007.htm?desktop)
 
 ### Related:
 

@@ -8,10 +8,10 @@ Terrorist shot by police when trying to knife officer at Lions&#8217; Gate, wher
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Initial-report-Stabbing-attack-in-Pisgat-Zev-third-of-day-in-Jerusalem-423719)
-2. [AP via Houston Chronicle](http://www.chron.com/news/crime/article/Police-Palestinian-attacks-officer-with-knife-6565622.php)
-3. [Israel National News](http://www.israelnationalnews.com/News/Flash.aspx/338761#.VhwB2uxVhBc)
-4. [Times of Israel](http://www.timesofisrael.com/attacker-killed-after-stabbing-attempt-in-jerusalem-old-city/)
-5. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/201763#.VhuecexVikp)
+2. [Times of Israel](http://www.timesofisrael.com/attacker-killed-after-stabbing-attempt-in-jerusalem-old-city/)
+3. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/201763#.VhuecexVikp)
+4. [AP via Houston Chronicle](http://www.chron.com/news/crime/article/Police-Palestinian-attacks-officer-with-knife-6565622.php)
+5. [Israel National News](http://www.israelnationalnews.com/News/Flash.aspx/338761#.VhwB2uxVhBc)
 
 ### Related:
 

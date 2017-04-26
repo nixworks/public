@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NOAA](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/121447.shtml?)
+1. [CNN](http://edition.cnn.com/2007/US/weather/09/12/ts.humberto/index.html?eref=rss_us)
 2. [NOAA](http://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/121440.shtml?)
-3. [CNN](http://edition.cnn.com/2007/US/weather/09/12/ts.humberto/index.html?eref=rss_us)
+3. [NOAA](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/121447.shtml?)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Several homes, standing crops and orchards also destroyed across the province.
 
 ### Source:
 
-1. [Dawn](http://www.dawn.com/news/1249711)
-2. [AP](http://bigstory.ap.org/article/cd1814646f7346a5828e2b8c135ad49a/official-rain-floods-kill-36-northwest-pakistan)
+1. [AP](http://bigstory.ap.org/article/cd1814646f7346a5828e2b8c135ad49a/official-rain-floods-kill-36-northwest-pakistan)
+2. [Dawn](http://www.dawn.com/news/1249711)
 
 ### Related:
 

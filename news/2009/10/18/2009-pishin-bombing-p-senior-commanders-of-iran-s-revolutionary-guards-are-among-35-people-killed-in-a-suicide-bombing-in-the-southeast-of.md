@@ -10,8 +10,8 @@
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59H0JT20091018)
 2. [Zee News](http://www.zeenews.com/news571692.html)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=108964&sectionid=351020101)
-4. [Press TV](http://www.presstv.ir/detail.aspx?id=109008)
-5. [RIA Novosti](http://en.rian.ru/world/20091018/156512540.html)
+4. [RIA Novosti](http://en.rian.ru/world/20091018/156512540.html)
+5. [Press TV](http://www.presstv.ir/detail.aspx?id=109008)
 
 ### Related:
 

@@ -1,7 +1,7 @@
 ## [2006-11-9](/news/2006/11/9/index.md)
 
 ### [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md)
-_Context: Ken Mehlman, Republican, Republican National Committee, United States_
+_Context: Ken Mehlman, Republican, Republican National Committee, U.S._
 
 ### [ Eight synchronized bombs hit car showrooms in Southern Thailand, nine injured. ](/news/2006/11/9/eight-synchronized-bombs-hit-car-showrooms-in-southern-thailand-nine-injured.md)
 _Context: Thailand_

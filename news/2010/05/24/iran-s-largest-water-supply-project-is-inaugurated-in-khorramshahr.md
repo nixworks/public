@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=127544&sectionid=351020102)
-2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=220062)
-3. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=500696)
+1. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=500696)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=127544&sectionid=351020102)
+3. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=220062)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/03/23/ap3547143.html)
-2. [AFP via ABC Australia Online](http://www.abc.net.au/news/newsitems/200703/s1880439.htm)
+1. [AFP via ABC Australia Online](http://www.abc.net.au/news/newsitems/200703/s1880439.htm)
+2. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/03/23/ap3547143.html)
 
 ### Related:
 

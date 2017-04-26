@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AAP](http://www.news.com.au/breaking-news/world/victims-in-syria-alawite-bombing/story-e6frfkui-1226534960442)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20691206)
+2. [Reuters](http://www.reuters.com/article/2012/12/11/syria-crisis-alawites-idINDEE8BA0EC20121211)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20690148)
-4. [Reuters](http://www.reuters.com/article/2012/12/11/syria-crisis-alawites-idINDEE8BA0EC20121211)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-20691206)
 
 ### Related:
 

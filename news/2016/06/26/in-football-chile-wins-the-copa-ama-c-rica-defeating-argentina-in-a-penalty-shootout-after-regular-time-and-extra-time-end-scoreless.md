@@ -7,8 +7,8 @@ The Albiceleste went in search of a first major tournament success since 1993 bu
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/2016-06-27/lionel-messi-done-with-international-football-copa-america/7547432)
-2. [Daily Mirror](http://www.mirror.co.uk/sport/football/news/copa-america-final-live-score-8290131)
+1. [Daily Mirror](http://www.mirror.co.uk/sport/football/news/copa-america-final-live-score-8290131)
+2. [ABC News](http://www.abc.net.au/news/2016-06-27/lionel-messi-done-with-international-football-copa-america/7547432)
 
 ### Related:
 

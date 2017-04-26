@@ -7,8 +7,8 @@ Rights group says head of another rights group in Moscow kidnapped and taken to 
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i_V4S4eQUEftxv0rEiI__cx8-XJQD9BPJNM00)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009116111843738748.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009116111843738748.html)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i_V4S4eQUEftxv0rEiI__cx8-XJQD9BPJNM00)
 
 ### Related:
 

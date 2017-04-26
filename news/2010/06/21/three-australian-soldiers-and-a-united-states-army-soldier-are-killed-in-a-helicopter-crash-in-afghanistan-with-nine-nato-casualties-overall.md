@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/digger-casualties-in-afghanistan/story-e6frg8yo-1225882390374)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFlUx5u-AZEJSneJDnn2MFZ9QQjg)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFlUx5u-AZEJSneJDnn2MFZ9QQjg)
+2. [The Australian](http://www.theaustralian.com.au/news/digger-casualties-in-afghanistan/story-e6frg8yo-1225882390374)
 
 ### Related:
 

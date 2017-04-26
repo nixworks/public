@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4459371.stm)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1113877270826)
-3. [Ha'arets](http://www.haaretz.com/hasen/spages/567068.html)
+2. [Ha'arets](http://www.haaretz.com/hasen/spages/567068.html)
+3. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1113877270826)
 
 ### Related:
 

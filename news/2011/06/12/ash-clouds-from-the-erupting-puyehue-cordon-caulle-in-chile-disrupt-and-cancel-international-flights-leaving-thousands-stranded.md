@@ -7,8 +7,8 @@ Ash clouds from a Chilean volcano prompted numerous flight cancellations in Aust
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/1110fbee-94f0-11e0-a648-00144feab49a.html)
-2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/06/12/australia.flights.canceled/)
+1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/06/12/australia.flights.canceled/)
+2. [Financial Times](http://www.ft.com/cms/s/0/1110fbee-94f0-11e0-a648-00144feab49a.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Africa News](http://www.africanews.com/site/Kenya_12_Somali_MPs_arrested_in_Nairobi/list_messages/29461)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8465043.stm)
 2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/africa/2010/0/3/Somali-MPs-among-300-arrested-Kenya-riot-swoop,17fcf521-e9c8-42bd-9657-c5e1318f9fd9.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8465043.stm)
+3. [Africa News](http://www.africanews.com/site/Kenya_12_Somali_MPs_arrested_in_Nairobi/list_messages/29461)
 
 ### Related:
 

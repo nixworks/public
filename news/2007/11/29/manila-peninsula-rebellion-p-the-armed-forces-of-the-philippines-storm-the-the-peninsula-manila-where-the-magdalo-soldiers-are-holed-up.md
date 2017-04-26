@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Inquirer.net](http://newsinfo.inquirer.net/breakingnews/nation/view_article.php?article_id=103771)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=auikzhoM3b.o&refer=home)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=auikzhoM3b.o&refer=home)
+2. [Inquirer.net](http://newsinfo.inquirer.net/breakingnews/nation/view_article.php?article_id=103771)
 
 ### Related:
 

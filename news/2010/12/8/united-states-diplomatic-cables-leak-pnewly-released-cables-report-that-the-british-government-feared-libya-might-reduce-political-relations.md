@@ -7,13 +7,13 @@ Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in respons
 
 ### Source:
 
-1. [AP via ''Herald Sun](http://www.heraldsun.com.au/news/world/wikileaks-cables-show-libya-threatened-uk-over-lockerbie-bomber/story-e6frf7lf-1225967538763)
-2. [The Guardian](http://www.guardian.co.uk/media/2010/dec/08/mastercard-hackers-wikileaks-revenge)
-3. [Herald Sun](http://www.heraldsun.com.au/news/world/julia-gillard-should-support-julian-assange-say-wikileaks-supporters/story-e6frf7lf-1225967621833)
-4. [The Guardian](http://www.guardian.co.uk/world/2010/dec/08/wikileaks-us-russia-visa-mastercard)
-5. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010128133639866230.html)
-6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8188800/Wikileaks-Kevin-Rudd-blames-US-for-release-of-diplomatic-cables.html)
-7. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/08/AR2010120804038.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8188800/Wikileaks-Kevin-Rudd-blames-US-for-release-of-diplomatic-cables.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010128133639866230.html)
+3. [The Guardian](http://www.guardian.co.uk/media/2010/dec/08/mastercard-hackers-wikileaks-revenge)
+4. [Herald Sun](http://www.heraldsun.com.au/news/world/julia-gillard-should-support-julian-assange-say-wikileaks-supporters/story-e6frf7lf-1225967621833)
+5. [AP via ''Herald Sun](http://www.heraldsun.com.au/news/world/wikileaks-cables-show-libya-threatened-uk-over-lockerbie-bomber/story-e6frf7lf-1225967538763)
+6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/08/AR2010120804038.html)
+7. [The Guardian](http://www.guardian.co.uk/world/2010/dec/08/wikileaks-us-russia-visa-mastercard)
 
 ### Related:
 

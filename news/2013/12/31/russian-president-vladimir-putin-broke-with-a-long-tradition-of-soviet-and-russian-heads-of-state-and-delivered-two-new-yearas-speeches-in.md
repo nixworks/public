@@ -7,8 +7,8 @@ Russia&rsquo;s president travels seven time zones away to change the subject fro
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/putin-travels-east-comments-on-terror-attacks/2013/12/31/1f6dace0-7243-11e3-8def-a33011492df2_story.html)
-2. [RIA](http://en.ria.ru/russia/20131231/186123925/Putin-Makes-2-New-Years-Speeches-for-2014.html)
+1. [RIA](http://en.ria.ru/russia/20131231/186123925/Putin-Makes-2-New-Years-Speeches-for-2014.html)
+2. [The Washington Post](http://www.washingtonpost.com/world/putin-travels-east-comments-on-terror-attacks/2013/12/31/1f6dace0-7243-11e3-8def-a33011492df2_story.html)
 
 ### Related:
 

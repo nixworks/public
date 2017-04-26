@@ -7,8 +7,8 @@ Swaziland has received a R2.4-billion ($350-million) loan from neighbouring Sout
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jmqNigmiMDRxKHyRX6_eog1KtuoA?docId=CNG.36d823b9bf2d04b0f273f684bcc5f17c.401)
-2. [Mail & Guardian](http://mg.co.za/article/2011-08-03-thanks-neighbour-sa-lends-swaziland-r24bn)
+1. [Mail & Guardian](http://mg.co.za/article/2011-08-03-thanks-neighbour-sa-lends-swaziland-r24bn)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jmqNigmiMDRxKHyRX6_eog1KtuoA?docId=CNG.36d823b9bf2d04b0f273f684bcc5f17c.401)
 
 ### Related:
 

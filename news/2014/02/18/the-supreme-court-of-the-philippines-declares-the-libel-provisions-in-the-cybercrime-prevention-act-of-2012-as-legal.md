@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Inquirer](http://newsinfo.inquirer.net/578801/online-libel-legal-sc-rules)
-2. [GMA News](http://www.gmanetwork.com/news/story/348945/scitech/technology/internet-libel-in-cybercrime-law-constitutional-sc)
+1. [GMA News](http://www.gmanetwork.com/news/story/348945/scitech/technology/internet-libel-in-cybercrime-law-constitutional-sc)
+2. [Inquirer](http://newsinfo.inquirer.net/578801/online-libel-legal-sc-rules)
 
 ### Related:
 

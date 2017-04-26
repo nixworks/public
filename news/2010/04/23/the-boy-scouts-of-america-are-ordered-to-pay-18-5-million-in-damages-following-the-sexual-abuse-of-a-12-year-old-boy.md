@@ -7,10 +7,10 @@ A lawsuit has focused new attention on the secret files the Boy Scouts of Americ
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/US/04/23/oregon.boy.scout.abuse/)
-2. [Miami Herald](http://www.miamiherald.com/2010/04/21/1591691/scouts-defend-training-program.html)
-3. [The New York Times](http://www.nytimes.com/2010/04/24/us/24scouts.html)
-4. [ABC News](http://abcnews.go.com/WN/boy-scouts-pay-man-185m-punitive-damages/story?id=10463429)
+1. [ABC News](http://abcnews.go.com/WN/boy-scouts-pay-man-185m-punitive-damages/story?id=10463429)
+2. [The New York Times](http://www.nytimes.com/2010/04/24/us/24scouts.html)
+3. [CNN](http://edition.cnn.com/2010/US/04/23/oregon.boy.scout.abuse/)
+4. [Miami Herald](http://www.miamiherald.com/2010/04/21/1591691/scouts-defend-training-program.html)
 
 ### Related:
 

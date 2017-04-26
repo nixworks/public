@@ -7,9 +7,9 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 
 ### Source:
 
-1. [WebMD](http://www.webmd.com/children/news/20151216/antibiotics-often-enough-for-kids-appendicitis)
-2. [Reuters](http://www.reuters.com/article/us-health-surgery-appendicitis-idUSKBN0TZ33N20151216)
-3. [JAMA](http://archsurg.jamanetwork.com/article.aspx?articleid=2475977#Abstract)
+1. [JAMA](http://archsurg.jamanetwork.com/article.aspx?articleid=2475977#Abstract)
+2. [WebMD](http://www.webmd.com/children/news/20151216/antibiotics-often-enough-for-kids-appendicitis)
+3. [Reuters](http://www.reuters.com/article/us-health-surgery-appendicitis-idUSKBN0TZ33N20151216)
 
 ### Related:
 

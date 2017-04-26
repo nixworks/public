@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3261796,00.html)
+1. [CNN](http://edition.cnn.com/2006/WORLD/meast/06/12/israel.train/)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-06-12T100031Z_01_L12341304_RTRUKOC_0_UK-ISRAEL-TRAIN.xml)
-3. [CNN](http://edition.cnn.com/2006/WORLD/meast/06/12/israel.train/)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3261796,00.html)
 
 ### Related:
 

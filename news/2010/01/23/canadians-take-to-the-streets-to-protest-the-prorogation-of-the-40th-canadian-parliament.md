@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/news/politics/prorogation/protesters-denounce-prorogued-parliament/article1441809/)
-2. [CBC](http://www.cbc.ca/politics/story/2010/01/23/prorogue-protests.html)
+1. [CBC](http://www.cbc.ca/politics/story/2010/01/23/prorogue-protests.html)
+2. [Globe and Mail](http://www.theglobeandmail.com/news/politics/prorogation/protesters-denounce-prorogued-parliament/article1441809/)
 
 ### Related:
 

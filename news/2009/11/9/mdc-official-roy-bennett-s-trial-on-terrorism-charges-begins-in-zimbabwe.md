@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009119101729158559.html)
-2. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE5A80FS20091109)
+1. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE5A80FS20091109)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009119101729158559.html)
 
 ### Related:
 

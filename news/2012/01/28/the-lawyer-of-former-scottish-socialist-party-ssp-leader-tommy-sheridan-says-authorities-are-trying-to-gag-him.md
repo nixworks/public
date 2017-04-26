@@ -7,8 +7,8 @@ Tommy Sheridan&#039;s lawyer, Aamer Anwar, has accused prison authorities of try
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-16773620)
-2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/scotland/9046647/Tommy-Sheridan-in-gagging-order-row.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/scotland/9046647/Tommy-Sheridan-in-gagging-order-row.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-16773620)
 
 ### Related:
 

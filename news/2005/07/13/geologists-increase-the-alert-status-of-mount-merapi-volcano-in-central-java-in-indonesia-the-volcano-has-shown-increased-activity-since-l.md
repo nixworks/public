@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050713.D16&irec=12)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157666/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157666/1/.html)
+2. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050713.D16&irec=12)
 
 ### Related:
 

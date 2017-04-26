@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4224917.stm)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T247733.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T247733.htm)
+2. [Xinhua](http://news.xinhuanet.com/english/2005-01/31/content_2532392.htm)
 3. [ChinaDaily](http://www.chinadaily.com.cn/english/doc/2005-02/01/content_413871.htm)
-4. [Xinhua](http://news.xinhuanet.com/english/2005-01/31/content_2532392.htm)
+4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4224917.stm)
 
 ### Related:
 

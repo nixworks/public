@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/40-indian-workers-kidnapped-by-sunni-militants-in-mosul-iraq/)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-06-18-ML-Iraq/id-d6d28f9e3d334e8aab94fe9508d07d84)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-06-18-ML-Iraq/id-d6d28f9e3d334e8aab94fe9508d07d84)
+2. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/40-indian-workers-kidnapped-by-sunni-militants-in-mosul-iraq/)
 
 ### Related:
 

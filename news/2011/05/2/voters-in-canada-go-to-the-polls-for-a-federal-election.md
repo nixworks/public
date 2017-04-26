@@ -7,13 +7,13 @@ Stephen Harper has been re-elected and will head a majority Conservative governm
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/elizabeth-may-wins-first-seat-for-greens/article2007621/)
-2. [Reuters](http://www.reuters.com/article/2011/05/03/us-politics-idUSTRE73Q44720110503)
-3. [Reuters via ABS CBN](http://www.abs-cbnnews.com/global-filipino/world/05/01/11/canada-set-election-result-too-tight-call)
-4. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/harper-on-cusp-of-majority-as-ndp-becomes-opposition/article2006635/)
-5. [CBC](http://www.cbc.ca/news/politics/canadavotes2011/story/2011/05/02/cv-twitter-ban.html#?sms_ss=twitter&at_xt=4dbf5aa46a4fac32,0)
-6. [BBC](http://www.bbc.co.uk/news/world-us-canada-13259484?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=News&utm_term=Private&utm_content=World+News)
-7. [Global News](http://liveblogs.globalnews.ca/Event/Decision_Canada_Liveblog?utm_source=facebook-twitter&utm_medium=link&utm_campaign=community)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13259484?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=News&utm_term=Private&utm_content=World+News)
+2. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/elizabeth-may-wins-first-seat-for-greens/article2007621/)
+3. [Global News](http://liveblogs.globalnews.ca/Event/Decision_Canada_Liveblog?utm_source=facebook-twitter&utm_medium=link&utm_campaign=community)
+4. [Reuters](http://www.reuters.com/article/2011/05/03/us-politics-idUSTRE73Q44720110503)
+5. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/harper-on-cusp-of-majority-as-ndp-becomes-opposition/article2006635/)
+6. [CBC](http://www.cbc.ca/news/politics/canadavotes2011/story/2011/05/02/cv-twitter-ban.html#?sms_ss=twitter&at_xt=4dbf5aa46a4fac32,0)
+7. [Reuters via ABS CBN](http://www.abs-cbnnews.com/global-filipino/world/05/01/11/canada-set-election-result-too-tight-call)
 
 ### Related:
 

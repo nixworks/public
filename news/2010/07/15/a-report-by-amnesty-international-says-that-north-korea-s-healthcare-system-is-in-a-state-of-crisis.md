@@ -7,9 +7,9 @@ Right group paints bleak picture of health system lacking even basic necessities
 
 ### Source:
 
-1. [Amnesty International](http://www.amnesty.org.uk/news_details.asp?NewsID=18889)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j55hvSQNmA1XDPmTI8-cYyZ2thOA)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/201071532540533976.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j55hvSQNmA1XDPmTI8-cYyZ2thOA)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/201071532540533976.html)
+3. [Amnesty International](http://www.amnesty.org.uk/news_details.asp?NewsID=18889)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Interpol via Twitter](https://twitter.com/INTERPOL_HQ/status/606004728795959296)
+1. [CNN](http://edition.cnn.com/2015/06/03/us/fifa-chuck-blazer-transcript/index.html?eref=edition)
 2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-06-03-SOC-FIFA-Investigation-Interpol-/id-ee6ca3c3a7984a11b9de1fce6068a586)
-3. [CNN](http://edition.cnn.com/2015/06/03/us/fifa-chuck-blazer-transcript/index.html?eref=edition)
-4. [ITV](http://www.itv.com/news/2015-06-03/revealed-shamed-fifa-executives-corruption-confession-to-secret-us-court/)
+3. [ITV](http://www.itv.com/news/2015-06-03/revealed-shamed-fifa-executives-corruption-confession-to-secret-us-court/)
+4. [Interpol via Twitter](https://twitter.com/INTERPOL_HQ/status/606004728795959296)
 
 ### Related:
 

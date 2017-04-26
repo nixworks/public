@@ -7,8 +7,8 @@ News - Your daily dose of information: European and International latest breakin
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/newswires/1681628-south-african-union-leader-shot-dead-near-lonmin-mine-num/)
-2. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE8940CQ20121005?pageNumber=4&virtualBrandChannel=0)
+1. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE8940CQ20121005?pageNumber=4&virtualBrandChannel=0)
+2. [Euronews](http://www.euronews.com/newswires/1681628-south-african-union-leader-shot-dead-near-lonmin-mine-num/)
 
 ### Related:
 

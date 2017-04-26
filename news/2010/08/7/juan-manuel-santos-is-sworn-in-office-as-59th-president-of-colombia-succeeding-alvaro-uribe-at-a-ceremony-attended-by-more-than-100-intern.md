@@ -7,10 +7,10 @@ Jaun Manuel Santos takes office amid soaring unemployment and a spat with Venezu
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10904788)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0807/1224276378531.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/07/colombia.presidential.inauguration/index.html?hpt=T2#fbid=rnBo9BLP_yn&wom=false)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10904788)
 3. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201087183617858709.html)
-4. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/07/colombia.presidential.inauguration/index.html?hpt=T2#fbid=rnBo9BLP_yn&wom=false)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0807/1224276378531.html)
 5. [France24](http://www.france24.com/en/20100807-santos-sworn-colombia-new-president)
 
 ### Related:

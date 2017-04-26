@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Santa Cruz Sentinel](http://www.santacruzsentinel.com/world/ci_16278543)
-2. [Chron](http://www.chron.com/disp/story.mpl/ap/world/7236207.html)
+1. [Chron](http://www.chron.com/disp/story.mpl/ap/world/7236207.html)
+2. [Santa Cruz Sentinel](http://www.santacruzsentinel.com/world/ci_16278543)
 
 ### Related:
 

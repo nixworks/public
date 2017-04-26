@@ -7,8 +7,8 @@ German lawmakers voted Friday to send troops and six aging reconnaissance planes
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/mideast-crisis-germany-idINL8N13S41D20151203)
-2. [The Los Angeles Times](http://www.latimes.com/world/europe/la-fg-germany-islamic-state-20151204-story.html)
+1. [The Los Angeles Times](http://www.latimes.com/world/europe/la-fg-germany-islamic-state-20151204-story.html)
+2. [Reuters](http://in.reuters.com/article/mideast-crisis-germany-idINL8N13S41D20151203)
 3. [CNN](http://edition.cnn.com/2015/12/04/europe/isis-germany-syria/index.html)
 
 ### Related:

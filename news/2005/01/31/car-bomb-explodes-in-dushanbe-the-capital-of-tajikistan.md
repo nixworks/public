@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4221603.stm)
-2. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=10744401)
+1. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=10744401)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4221603.stm)
 3. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=1693936&PageNum=0)
 
 ### Related:

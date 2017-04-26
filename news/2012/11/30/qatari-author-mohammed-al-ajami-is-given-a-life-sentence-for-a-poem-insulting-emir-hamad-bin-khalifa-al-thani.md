@@ -8,9 +8,9 @@ A Qatari court has sentenced a poet to life in prison for his verse ‘insulting
 ### Source:
 
 1. [RT](http://rt.com/news/qatar-poet-life-sentence-922/)
-2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/qatari-poet-jailed-for-insulting-emir/2012/11/29/eb5e095c-3a41-11e2-a263-f0ebffed2f15_story.html)
-3. [AP via ''The New York Times](http://www.nytimes.com/2012/11/30/world/middleeast/qatari-poet-sentenced-to-life-in-prison-for-a-verse.html)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-20550160)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20550160)
+3. [The Washington Post](http://www.washingtonpost.com/world/middle_east/qatari-poet-jailed-for-insulting-emir/2012/11/29/eb5e095c-3a41-11e2-a263-f0ebffed2f15_story.html)
+4. [AP via ''The New York Times](http://www.nytimes.com/2012/11/30/world/middleeast/qatari-poet-sentenced-to-life-in-prison-for-a-verse.html)
 
 ### Related:
 

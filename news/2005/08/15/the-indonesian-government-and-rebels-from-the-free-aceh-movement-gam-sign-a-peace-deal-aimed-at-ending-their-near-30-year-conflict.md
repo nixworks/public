@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [XinHua](http://news.xinhuanet.com/english/2005-08/16/content_3358907.htm)
-2. [chosun.com](http://english.chosun.com/w21data/html/news/200508/200508160004.html)
+1. [chosun.com](http://english.chosun.com/w21data/html/news/200508/200508160004.html)
+2. [XinHua](http://news.xinhuanet.com/english/2005-08/16/content_3358907.htm)
 3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4151980.stm)
 
 ### Related:

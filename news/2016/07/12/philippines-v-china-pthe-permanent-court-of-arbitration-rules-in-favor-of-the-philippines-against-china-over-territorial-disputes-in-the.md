@@ -7,10 +7,10 @@ Xi Jinping says China’s ‘territorial sovereignty and marine rights’ in the
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2016/jul/12/philippines-wins-south-china-sea-case-against-china)
-2. [BBC](http://www.bbc.com/news/world-asia-china-36771749)
+1. [BBC](http://www.bbc.com/news/world-asia-china-36771749)
+2. [AP](http://bigstory.ap.org/article/d6d1fe0ff98341aba8440b32b1c35ef6/china-rejects-ruling-south-china-sea-null-and-void)
 3. [CNN](http://www.cnn.com/2016/07/12/asia/china-philippines-south-china-sea/index.html?adkey=bn)
-4. [AP](http://bigstory.ap.org/article/d6d1fe0ff98341aba8440b32b1c35ef6/china-rejects-ruling-south-china-sea-null-and-void)
+4. [The Guardian](https://www.theguardian.com/world/2016/jul/12/philippines-wins-south-china-sea-case-against-china)
 5. [The New York Times](http://www.nytimes.com/2016/07/13/world/asia/south-china-sea-hague-ruling-philippines.html)
 
 ### Related:

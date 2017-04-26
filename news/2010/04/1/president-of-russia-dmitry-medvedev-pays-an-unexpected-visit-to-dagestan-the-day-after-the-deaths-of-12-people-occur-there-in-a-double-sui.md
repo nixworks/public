@@ -7,9 +7,9 @@ President Dmitry Medvedev on Thursday urged tough anti-terror measures as he mad
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100401-dagestan-medvedev-anti-terror-measures-russia-moscow-suicide-bombing)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8598164.stm)
-3. [The Sydney Moning Herald](http://news.smh.com.au/breaking-news-world/medvedev-in-caucasus-as-russia-buries-bomb-victims-20100401-rhvm.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8598164.stm)
+2. [The Sydney Moning Herald](http://news.smh.com.au/breaking-news-world/medvedev-in-caucasus-as-russia-buries-bomb-victims-20100401-rhvm.html)
+3. [France24](http://www.france24.com/en/20100401-dagestan-medvedev-anti-terror-measures-russia-moscow-suicide-bombing)
 
 ### Related:
 

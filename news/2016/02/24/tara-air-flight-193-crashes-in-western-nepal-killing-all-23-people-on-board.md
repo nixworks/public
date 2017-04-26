@@ -7,8 +7,8 @@ A small passenger plane crashes in mountainous western Nepal, killing all 23 peo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-35647929)
-2. [AP via Yahoo! News](http://news.yahoo.com/official-says-small-plane-21-people-board-missing-034545750.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/official-says-small-plane-21-people-board-missing-034545750.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-35647929)
 
 ### Related:
 

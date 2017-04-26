@@ -7,14 +7,14 @@ Afghan officials hail a parliamentary vote as a success despite low turnout, att
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-11361450)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gdhoo7UgiIsq2XRgOKzNrhKnPASg)
-3. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/19/3015706.htm?WT.mc_id=newsmail)
-4. [Al Jazeera](http://blogs.aljazeera.net/asia/2010/09/18/live-coverage-afghan-election)
-5. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/rebels-strike-as-afghanistan-goes-to-the-polls-20100918-15h20.html)
-6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/18/c_13518578.htm)
-7. [AP via ''Business Week](http://www.businessweek.com/ap/financialnews/D9I9ULKO0.htm)
-8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/18/c_13518580.htm)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/rebels-strike-as-afghanistan-goes-to-the-polls-20100918-15h20.html)
+2. [Al Jazeera](http://blogs.aljazeera.net/asia/2010/09/18/live-coverage-afghan-election)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/18/c_13518578.htm)
+4. [AP via ''Business Week](http://www.businessweek.com/ap/financialnews/D9I9ULKO0.htm)
+5. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gdhoo7UgiIsq2XRgOKzNrhKnPASg)
+6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/18/c_13518580.htm)
+7. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/19/3015706.htm?WT.mc_id=newsmail)
+8. [BBC](http://www.bbc.co.uk/news/uk-11361450)
 
 ### Related:
 

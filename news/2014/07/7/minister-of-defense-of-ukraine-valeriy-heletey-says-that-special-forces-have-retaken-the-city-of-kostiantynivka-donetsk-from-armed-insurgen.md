@@ -7,8 +7,8 @@ Three bridges on roads leading into Donetsk are destroyed ahead of an expected b
 
 ### Source:
 
-1. [Presidential administration](http://www.president.gov.ua/en/news/30686.html)
-2. [BBC](http://www.bbc.com/news/world-europe-28191833)
+1. [BBC](http://www.bbc.com/news/world-europe-28191833)
+2. [Presidential administration](http://www.president.gov.ua/en/news/30686.html)
 
 ### Related:
 

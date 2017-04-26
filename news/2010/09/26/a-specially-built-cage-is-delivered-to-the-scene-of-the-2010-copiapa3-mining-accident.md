@@ -8,8 +8,8 @@ Families of 33 trapped miners get a glimpse of the rescue capsule meant to bring
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11412845)
-2. [AP via ''The Guardian](http://www.guardian.co.uk/world/2010/sep/26/rescue-capsule-chilean-miners-delivered)
-3. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/20109264164052454.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/20109264164052454.html)
+3. [AP via ''The Guardian](http://www.guardian.co.uk/world/2010/sep/26/rescue-capsule-chilean-miners-delivered)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304450604576418570501579448.html?mod=googlenews_wsj)
-2. [Financial Times](http://www.ft.com/home/asia)
+1. [Financial Times](http://www.ft.com/home/asia)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304450604576418570501579448.html?mod=googlenews_wsj)
 
 ### Related:
 

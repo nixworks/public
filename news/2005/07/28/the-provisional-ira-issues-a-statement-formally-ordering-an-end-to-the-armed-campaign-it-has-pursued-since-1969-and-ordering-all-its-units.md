@@ -8,9 +8,9 @@ The IRA has ended its armed campaign and has ordered all its units to dump arms.
 ### Source:
 
 1. [RTE](http://www.rte.ie/news/2005/0728/northpolitics2.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4720863.stm)
-3. [Transcript of Statement](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4724599.stm)
-4. [Guardian](http://www.guardian.co.uk/Northern_Ireland/Story/0,2763,1537901,00.html)
+2. [Guardian](http://www.guardian.co.uk/Northern_Ireland/Story/0,2763,1537901,00.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4720863.stm)
+4. [Transcript of Statement](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4724599.stm)
 
 ### Related:
 

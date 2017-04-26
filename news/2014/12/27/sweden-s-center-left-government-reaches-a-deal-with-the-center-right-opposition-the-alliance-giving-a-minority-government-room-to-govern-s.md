@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Local](http://www.thelocal.se/20141227/sweden-to-scrap-new-election-report)
-2. [BBC](http://www.bbc.com/news/world-europe-30610500)
+1. [BBC](http://www.bbc.com/news/world-europe-30610500)
+2. [The Local](http://www.thelocal.se/20141227/sweden-to-scrap-new-election-report)
 
 ### Related:
 

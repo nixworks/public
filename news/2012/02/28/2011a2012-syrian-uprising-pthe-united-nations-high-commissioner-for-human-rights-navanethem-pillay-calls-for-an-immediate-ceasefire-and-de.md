@@ -7,8 +7,8 @@ UN rights chief condemns attacks on civilians and demands humanitarian access, p
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/2012228133045264452.html)
-2. [VOA](http://www.voanews.com/english/news/middle-east/UN-Assads-Crackdown-Has-Killed-Well-Over-7500-People-140807773.html)
+1. [VOA](http://www.voanews.com/english/news/middle-east/UN-Assads-Crackdown-Has-Killed-Well-Over-7500-People-140807773.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/2012228133045264452.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-17192278)
 
 ### Related:

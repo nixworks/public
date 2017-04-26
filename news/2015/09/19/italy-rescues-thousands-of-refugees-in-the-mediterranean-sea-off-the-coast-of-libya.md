@@ -7,9 +7,9 @@ Italian coastguard, navy, as well as humanitarian agency Doctors Without Borders
 
 ### Source:
 
-1. [Al-Jazeera](http://www.aljazeera.com/news/2015/09/italy-rescues-thousands-refugees-libyan-coast-150919183041430.html)
-2. [Reuters](http://www.reuters.com/article/2015/09/19/europe-migrants-greece-idUSL5N11P07D20150919)
-3. [AFP via Asian Age](http://www.asianage.com/international/syrian-girl-5-dies-boat-sinks-668)
+1. [AFP via Asian Age](http://www.asianage.com/international/syrian-girl-5-dies-boat-sinks-668)
+2. [Al-Jazeera](http://www.aljazeera.com/news/2015/09/italy-rescues-thousands-refugees-libyan-coast-150919183041430.html)
+3. [Reuters](http://www.reuters.com/article/2015/09/19/europe-migrants-greece-idUSL5N11P07D20150919)
 
 ### Related:
 

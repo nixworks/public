@@ -8,9 +8,9 @@ An Israeli gunner has posted details of an impending West Bank raid on his Faceb
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0303/israel.html)
-2. [RIA Novosti](http://en.rian.ru/world/20100303/158085561.html)
-3. [Reuters](http://www.reuters.com/article/idUSTRE6223S220100303)
-4. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/03/israel-cancels-raid-after-soldier-posts-details-on-facebook/1)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6223S220100303)
+3. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/03/israel-cancels-raid-after-soldier-posts-details-on-facebook/1)
+4. [RIA Novosti](http://en.rian.ru/world/20100303/158085561.html)
 5. [Ha'aretz](http://www.haaretz.com/hasen/spages/1153619.html)
 
 ### Related:

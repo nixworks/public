@@ -8,8 +8,8 @@ Turkey reportedly refuses flyover rights to Israeli military planes.
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10432903.stm)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=179747)
-3. [Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2010/0628/Turkey-closes-airspace-to-Israeli-flights-says-Erdogan)
+2. [Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2010/0628/Turkey-closes-airspace-to-Israeli-flights-says-Erdogan)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=179747)
 
 ### Related:
 

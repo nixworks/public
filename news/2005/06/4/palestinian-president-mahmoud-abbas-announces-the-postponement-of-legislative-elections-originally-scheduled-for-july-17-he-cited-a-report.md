@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/584259.html)
-2. [New York Times](http://www.nytimes.com/2005/06/05/international/middleeast/05mideast.html)
+1. [New York Times](http://www.nytimes.com/2005/06/05/international/middleeast/05mideast.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/584259.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Gay activists were attacked and then arrested outside Russia’s parliament as l
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013611155323341978.html)
-2. [The Independent](http://www.independent.co.uk/news/world/europe/russias-duma-waves-through-antigay-law--by-436-votes-to-0-8654582.html)
+1. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/russia-law-banning-gay-propaganda)
+2. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013611155323341978.html)
 3. [USA Today](http://www.usatoday.com/story/news/world/2013/06/11/russian-gay/2411939/)
-4. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/russia-law-banning-gay-propaganda)
+4. [The Independent](http://www.independent.co.uk/news/world/europe/russias-duma-waves-through-antigay-law--by-436-votes-to-0-8654582.html)
 
 ### Related:
 

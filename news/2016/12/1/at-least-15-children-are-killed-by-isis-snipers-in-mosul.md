@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Iraqi News](http://www.iraqinews.com/iraq-war/3-civilians-dead-isis-mortar-shells-mosul-district/)
-2. [Iraqi News](http://www.iraqinews.com/iraq-war/blasts-near-baghdad-leaves-nine-casualties/)
-3. [Iraqi News](http://www.iraqinews.com/iraq-war/isis-snipers-killed-15-children-migrants-mosul/)
+1. [Iraqi News](http://www.iraqinews.com/iraq-war/blasts-near-baghdad-leaves-nine-casualties/)
+2. [Iraqi News](http://www.iraqinews.com/iraq-war/isis-snipers-killed-15-children-migrants-mosul/)
+3. [Iraqi News](http://www.iraqinews.com/iraq-war/3-civilians-dead-isis-mortar-shells-mosul-district/)
 
 ### Related:
 

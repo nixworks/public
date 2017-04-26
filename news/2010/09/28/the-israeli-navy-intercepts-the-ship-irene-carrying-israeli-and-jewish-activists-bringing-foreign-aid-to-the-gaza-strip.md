@@ -7,9 +7,9 @@ Ship is 20 miles from Gaza coast; activist aboard the boat: 2 Israeli Navy ships
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11425408)
-2. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=189494)
-3. [Haaretz.com](http://www.haaretz.com/news/diplomacy-defense/jewish-gaza-bound-activists-idf-used-excessive-force-in-naval-raid-1.316247)
+1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=189494)
+2. [Haaretz.com](http://www.haaretz.com/news/diplomacy-defense/jewish-gaza-bound-activists-idf-used-excessive-force-in-naval-raid-1.316247)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-11425408)
 
 ### Related:
 

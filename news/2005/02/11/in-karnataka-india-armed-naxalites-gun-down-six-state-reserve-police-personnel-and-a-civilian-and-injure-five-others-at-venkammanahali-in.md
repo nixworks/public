@@ -7,8 +7,8 @@ PAVAGADA (Tumkur): In what appears to be the first retaliation against the polic
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/articleshow/1018914.cms)
-2. [Indian Express](http://www.indianexpress.com/full_story.php?content_id=64545)
+1. [Indian Express](http://www.indianexpress.com/full_story.php?content_id=64545)
+2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1018914.cms)
 
 ### Related:
 

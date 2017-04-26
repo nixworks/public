@@ -7,9 +7,9 @@ At least one Briton is thought to have been on board a bus which crashed in Spai
 
 ### Source:
 
-1. [AP via Bloomberg](http://www.bloomberg.com/news/articles/2016-03-20/urgent-spain-some-killed-injured-in-bus-crash-on-coastal-highway)
+1. [The Independent](http://www.independent.co.uk/news/world/europe/spain-bus-crash-coach-carrying-university-students-crashes-near-barcelona-a6942316.html)
 2. [Euronews](http://www.euronews.com/2016/03/20/at-least-14-dead-after-bus-carrying-students-crashes-in-spain/)
-3. [The Independent](http://www.independent.co.uk/news/world/europe/spain-bus-crash-coach-carrying-university-students-crashes-near-barcelona-a6942316.html)
+3. [AP via Bloomberg](http://www.bloomberg.com/news/articles/2016-03-20/urgent-spain-some-killed-injured-in-bus-crash-on-coastal-highway)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20090922-france-riot-police-evacuate-calais-migrant-camp-jungle-illegal-channel-britain)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8268028.stm)
 2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_432920.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8268028.stm)
+3. [France 24](http://www.france24.com/en/20090922-france-riot-police-evacuate-calais-migrant-camp-jungle-illegal-channel-britain)
 
 ### Related:
 

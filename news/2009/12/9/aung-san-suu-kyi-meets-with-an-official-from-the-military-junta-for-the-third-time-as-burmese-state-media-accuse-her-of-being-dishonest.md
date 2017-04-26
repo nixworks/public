@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8403291.stm)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/162177/burma-suu-kyi-meets-gov-t-liaison-official)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gs16E0Y8T8w9Edy1yiDa2nXqxwkwD9CFNG180)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/162177/burma-suu-kyi-meets-gov-t-liaison-official)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gs16E0Y8T8w9Edy1yiDa2nXqxwkwD9CFNG180)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8403291.stm)
 
 ### Related:
 

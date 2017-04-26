@@ -7,12 +7,12 @@ The Chunghwa Post Co. yesterday was renamed the Taiwan Post Co. although about 1
 
 ### Source:
 
-1. [Radio Taiwan](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=31092)
-2. [Radio Taiwan](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=31130)
+1. [The China Post](http://www.chinapost.com.tw/news/archives/front/2007210/102190.htm)
+2. [China Daily](http://www.chinadaily.com.cn/china/2007-02/10/content_806473.htm)
 3. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2007/02/10/2003348385)
-4. [China Daily](http://www.chinadaily.com.cn/china/2007-02/10/content_806473.htm)
-5. [The China Post](http://www.chinapost.com.tw/news/archives/front/2007210/102190.htm)
-6. [U.S. State Department](http://www.state.gov/r/pa/prs/dpb/2007/80360.htm)
+4. [Radio Taiwan](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=31092)
+5. [U.S. State Department](http://www.state.gov/r/pa/prs/dpb/2007/80360.htm)
+6. [Radio Taiwan](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=31130)
 
 ### Related:
 

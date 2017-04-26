@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''U.S. News & World Report](http://www.usnews.com/news/us/articles/2015/08/26/the-latest-somber-final-sentencing-for-theater-shooter)
-2. [CNN](http://www.cnn.com/2015/08/26/us/james-holmes-aurora-massacre-sentencing/)
+1. [CNN](http://www.cnn.com/2015/08/26/us/james-holmes-aurora-massacre-sentencing/)
+2. [AP via ''U.S. News & World Report](http://www.usnews.com/news/us/articles/2015/08/26/the-latest-somber-final-sentencing-for-theater-shooter)
 
 ### Related:
 

@@ -7,9 +7,9 @@ An aboriginal man has won a narrow victory in Australia&#039;s election to becom
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/australasia/voters-elect-first-aboriginal-mp-2065495.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11125497)
-3. [The Age](http://www.theage.com.au/federal-election/aboriginal-mp-disappointed-by-slurs-20100829-13xn0.html)
+1. [The Age](http://www.theage.com.au/federal-election/aboriginal-mp-disappointed-by-slurs-20100829-13xn0.html)
+2. [The Independent](http://www.independent.co.uk/news/world/australasia/voters-elect-first-aboriginal-mp-2065495.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11125497)
 
 ### Related:
 

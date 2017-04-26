@@ -7,8 +7,8 @@ Republican and Democratic leaders in the US Senate have struck an agreement to e
 
 ### Source:
 
-1. [CNBC](http://www.cnbc.com/id/100968089)
-2. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/us-senate-leaders-strike-deal-on-us-debt-20131017-2vne7.html)
+1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/us-senate-leaders-strike-deal-on-us-debt-20131017-2vne7.html)
+2. [CNBC](http://www.cnbc.com/id/100968089)
 
 ### Related:
 

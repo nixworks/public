@@ -7,8 +7,8 @@ TEHRAN: Iran’s Supreme Leader Ayatollah Ali Khamenei yesterday called on all I
 
 ### Source:
 
-1. [Arab News](http://www.arabnews.com/news/454033)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/20136482957285163.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/20136482957285163.html)
+2. [Arab News](http://www.arabnews.com/news/454033)
 
 ### Related:
 

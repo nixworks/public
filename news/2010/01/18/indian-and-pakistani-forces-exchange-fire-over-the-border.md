@@ -7,8 +7,8 @@ Pakistani security forces said Indian troops fired on their positions near Lahor
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/Special/2010/01/18/Pakistan-accuses-India-of-border-fire/UPI-84061263839776/)
-2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE60H15L20100118)
+1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE60H15L20100118)
+2. [UPI](http://www.upi.com/Top_News/Special/2010/01/18/Pakistan-accuses-India-of-border-fire/UPI-84061263839776/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jamaica Gleaner](http://www.jamaica-gleaner.com/gleaner/20090910/lead/lead6.html)
-2. [Times Online](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article6829343.ece)
+1. [Times Online](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article6829343.ece)
+2. [Jamaica Gleaner](http://www.jamaica-gleaner.com/gleaner/20090910/lead/lead6.html)
 
 ### Related:
 

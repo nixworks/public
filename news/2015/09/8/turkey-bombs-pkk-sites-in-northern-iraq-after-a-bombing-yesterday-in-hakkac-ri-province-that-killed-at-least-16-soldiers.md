@@ -7,8 +7,8 @@ Kurdish militants killed 15 police officers in two bomb attacks in eastern Turki
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2015/09/08/uk-mideast-crisis-turkey-pkk-idUKKCN0R80GE20150908)
-2. [BBC](http://www.bbc.com/news/world-europe-34183797)
+1. [BBC](http://www.bbc.com/news/world-europe-34183797)
+2. [Reuters](http://uk.reuters.com/article/2015/09/08/uk-mideast-crisis-turkey-pkk-idUKKCN0R80GE20150908)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/world/20110619/164706887.html)
-2. [CNN](http://edition.cnn.com/2011/WORLD/europe/06/19/massachusetts.elena.bonner.obit/)
+1. [CNN](http://edition.cnn.com/2011/WORLD/europe/06/19/massachusetts.elena.bonner.obit/)
+2. [RIA Novosti](http://en.rian.ru/world/20110619/164706887.html)
 
 ### Related:
 

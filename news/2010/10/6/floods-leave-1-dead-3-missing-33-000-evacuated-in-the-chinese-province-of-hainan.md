@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Global Times](http://china.globaltimes.cn/society/2010-10/579542.html)
-2. [China Dialy](http://www.chinadaily.com.cn/china/2010-10/07/content_11382116.htm)
+1. [China Dialy](http://www.chinadaily.com.cn/china/2010-10/07/content_11382116.htm)
+2. [Global Times](http://china.globaltimes.cn/society/2010-10/579542.html)
 
 ### Related:
 

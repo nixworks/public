@@ -7,8 +7,8 @@ Indonesian anti-terrorism police killed three suspects in a gunfight on the outs
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-indonesia-security-idUSKBN14A09Q?il=0)
-2. [Reuters² via ''Free Malaysia Today](http://www.freemalaysiatoday.com/category/world/2016/12/21/indonesia-police-arrest-three-over-suspected-suicide-bomb-plot/)
+1. [Reuters² via ''Free Malaysia Today](http://www.freemalaysiatoday.com/category/world/2016/12/21/indonesia-police-arrest-three-over-suspected-suicide-bomb-plot/)
+2. [Reuters](http://www.reuters.com/article/us-indonesia-security-idUSKBN14A09Q?il=0)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The last survivors of a Taliban suicide squad have been killed ending a 20 hour 
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8761456/Deadly-Kabul-siege-finally-ends.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ii2hPUpbeyq306Jv6sgdwpsDCNWw?docId=CNG.e16db70adb3c742a3386ea10319a7112.4f1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ii2hPUpbeyq306Jv6sgdwpsDCNWw?docId=CNG.e16db70adb3c742a3386ea10319a7112.4f1)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8761456/Deadly-Kabul-siege-finally-ends.html)
 
 ### Related:
 

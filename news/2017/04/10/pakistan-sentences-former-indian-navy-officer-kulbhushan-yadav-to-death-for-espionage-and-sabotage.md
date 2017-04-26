@@ -7,8 +7,8 @@ Jadhav, a former Indian naval officer, was sentenced for spying, sabotage in Kar
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/india-news/former-indian-naval-officer-kulbhushan-jadhav-arrested-in-pakistan-on-spying-charge-sentenced-to-dea-1679524)
-2. [Dawn](https://www.dawn.com/news/1326109/pakistan-sentences-indian-spy-kulbhushan-jadhav-to-death)
+1. [Dawn](https://www.dawn.com/news/1326109/pakistan-sentences-indian-spy-kulbhushan-jadhav-to-death)
+2. [NDTV](http://www.ndtv.com/india-news/former-indian-naval-officer-kulbhushan-jadhav-arrested-in-pakistan-on-spying-charge-sentenced-to-dea-1679524)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=nw20100411114247615C272197)
-2. [The New York Times](http://www.nytimes.com/reuters/2010/04/11/world/international-uk-safrica-terreblanche.html)
-3. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article7094625.ece)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article7094625.ece)
+3. [The New York Times](http://www.nytimes.com/reuters/2010/04/11/world/international-uk-safrica-terreblanche.html)
 
 ### Related:
 

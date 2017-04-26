@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_446454.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hYTesV9e3EbcBnE0OuFYyfEX0UcQD9BIA1N00)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8324539.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8324539.stm)
+2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_446454.html)
+3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hYTesV9e3EbcBnE0OuFYyfEX0UcQD9BIA1N00)
 
 ### Related:
 

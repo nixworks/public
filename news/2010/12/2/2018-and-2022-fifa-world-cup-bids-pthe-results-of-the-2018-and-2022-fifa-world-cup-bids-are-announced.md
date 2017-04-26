@@ -7,11 +7,11 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 
 ### Source:
 
-1. [The Sofia Echo](http://www.sofiaecho.com/2010/12/02/1004283_qatar-to-host-2022-world-cup-fifa-decides)
-2. [Al Jazeera](http://english.aljazeera.net/sport/2010/12/2010122155851578893.html)
-3. [Al Jazeera](http://english.aljazeera.net/sport/2010/12/201012112178753254.html)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/england/8176324/World-Cup-2018-a-Russian-bid-victory-compared-to-the-fall-of-the-Berlin-Wall-and-described-as-a-game-changer.html)
-5. [RIA Novosti](http://en.rian.ru/sports/20101202/161596560.html)
+1. [Al Jazeera](http://english.aljazeera.net/sport/2010/12/201012112178753254.html)
+2. [RIA Novosti](http://en.rian.ru/sports/20101202/161596560.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/england/8176324/World-Cup-2018-a-Russian-bid-victory-compared-to-the-fall-of-the-Berlin-Wall-and-described-as-a-game-changer.html)
+4. [Al Jazeera](http://english.aljazeera.net/sport/2010/12/2010122155851578893.html)
+5. [The Sofia Echo](http://www.sofiaecho.com/2010/12/02/1004283_qatar-to-host-2022-world-cup-fifa-decides)
 6. [The Sofia Echo](http://www.sofiaecho.com/2010/12/02/1004262_fifa-awards-2018-world-cup-to-russia)
 
 ### Related:

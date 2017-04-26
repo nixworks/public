@@ -7,8 +7,8 @@ Army death toll rises to 56; 17 Palestinians die in market attack; British PM sa
 
 ### Source:
 
-1. [Times of Israel](http://www.timesofisrael.com/day-23-us-and-israel-deny-report-of-harsh-obama-netanyahu-call-rockets-fired-on-ta-confusion-over-truce/)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/07/gaza-un-school-hit-201473041918975321.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/07/gaza-un-school-hit-201473041918975321.html)
+2. [Times of Israel](http://www.timesofisrael.com/day-23-us-and-israel-deny-report-of-harsh-obama-netanyahu-call-rockets-fired-on-ta-confusion-over-truce/)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4551529,00.html)
 
 ### Related:

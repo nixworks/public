@@ -7,9 +7,9 @@ Among the losers in the retaliatory sparring between the rival Koreas are reside
 
 ### Source:
 
-1. [AP via Fox News](http://www.foxnews.com/world/2016/02/12/n-koreans-outside-closed-factories-lose-steady-water-supply.html)
+1. [Reuters](http://www.reuters.com/article/us-china-wangyi-korea-usa-idUSKCN0VL15S)
 2. [The Japan Times](http://www.japantimes.co.jp/news/2016/02/13/asia-pacific/u-s-deploys-patriot-missiles-south-korea/#.Vr6gweaoNFQ)
-3. [Reuters](http://www.reuters.com/article/us-china-wangyi-korea-usa-idUSKCN0VL15S)
+3. [AP via Fox News](http://www.foxnews.com/world/2016/02/12/n-koreans-outside-closed-factories-lose-steady-water-supply.html)
 
 ### Related:
 

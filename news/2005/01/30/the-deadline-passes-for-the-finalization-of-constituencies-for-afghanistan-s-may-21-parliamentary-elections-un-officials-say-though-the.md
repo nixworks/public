@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Pakistan Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_28-1-2005_pg4_16)
-2. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=662727)
+1. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=662727)
+2. [Pakistan Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_28-1-2005_pg4_16)
 
 ### Related:
 

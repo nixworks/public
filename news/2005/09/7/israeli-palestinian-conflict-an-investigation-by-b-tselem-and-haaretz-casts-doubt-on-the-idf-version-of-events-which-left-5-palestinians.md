@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/pages/ShArtVty.jhtml?sw=B%92Tselem&itemNo=622316)
-2. [Haaretz](http://www.haaretz.com/hasen/pages/ShArtVty.jhtml?sw=B%92Tselem&itemNo=621916)
+1. [Haaretz](http://www.haaretz.com/hasen/pages/ShArtVty.jhtml?sw=B%92Tselem&itemNo=621916)
+2. [Haaretz](http://www.haaretz.com/hasen/pages/ShArtVty.jhtml?sw=B%92Tselem&itemNo=622316)
 
 ### Related:
 

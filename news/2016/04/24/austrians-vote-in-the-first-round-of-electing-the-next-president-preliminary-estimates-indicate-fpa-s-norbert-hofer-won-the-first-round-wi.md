@@ -7,10 +7,10 @@ Austria’s governing coalition was thrown into turmoil after its candidates wer
 
 ### Source:
 
-1. [Election website](http://www.bundespraesidentschaftswahl.at)
-2. [Euro News](http://www.euronews.com/2016/04/24/far-right-fpo-candidate-norbert-hofer-leads-in-austrian-presidential-election/)
-3. [Deutsche Welle](http://www.dw.com/en/presidential-election-exposes-austrian-angst/a-19207311)
-4. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-24/austria-s-right-wing-freedom-party-tops-presidential-first-round)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-24/austria-s-right-wing-freedom-party-tops-presidential-first-round)
+2. [Deutsche Welle](http://www.dw.com/en/presidential-election-exposes-austrian-angst/a-19207311)
+3. [Euro News](http://www.euronews.com/2016/04/24/far-right-fpo-candidate-norbert-hofer-leads-in-austrian-presidential-election/)
+4. [Election website](http://www.bundespraesidentschaftswahl.at)
 
 ### Related:
 

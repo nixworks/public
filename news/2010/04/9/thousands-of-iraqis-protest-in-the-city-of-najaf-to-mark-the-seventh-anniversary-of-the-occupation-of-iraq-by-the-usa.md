@@ -7,8 +7,8 @@ Thousands protest presence of foreign forces, seven years after the US-led invas
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/20104983512528239.html)
-2. [People's Daily Online](http://english.people.com.cn/90001/90777/90854/6946031.html)
+1. [People's Daily Online](http://english.people.com.cn/90001/90777/90854/6946031.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/20104983512528239.html)
 
 ### Related:
 

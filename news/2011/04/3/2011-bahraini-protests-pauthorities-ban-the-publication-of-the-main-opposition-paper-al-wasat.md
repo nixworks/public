@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/4/3/apworld/20110403172432&sec=apworld)
+1. [Times Live South Africa](http://www.timeslive.co.za/world/article1001068.ece/Bahrain-bans-main-opposition-newspaper)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011438401186997.html)
-3. [Times Live South Africa](http://www.timeslive.co.za/world/article1001068.ece/Bahrain-bans-main-opposition-newspaper)
+3. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/4/3/apworld/20110403172432&sec=apworld)
 
 ### Related:
 

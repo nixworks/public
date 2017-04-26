@@ -7,8 +7,8 @@ The Pentagon has failed to disclose up to thousands of air strikes the U.S. mili
 
 ### Source:
 
-1. [Military Times](http://www.militarytimes.com/articles/airstrikes-unreported-syria-iraq-afghanistan-islamic-state-al-qaeda-taliban)
-2. [Reuters](http://www.reuters.com/article/us-usa-military-strikes-idUSKBN15K0S9)
+1. [Reuters](http://www.reuters.com/article/us-usa-military-strikes-idUSKBN15K0S9)
+2. [Military Times](http://www.militarytimes.com/articles/airstrikes-unreported-syria-iraq-afghanistan-islamic-state-al-qaeda-taliban)
 
 ### Related:
 

@@ -7,9 +7,9 @@ At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/03/03/us/severe-weather/index.html)
-2. [Reuters](http://www.reuters.com/article/2012/03/03/us-usa-tornadoes-idUSTRE81S2AD20120303?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-17236495)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17236495)
+2. [CNN](http://edition.cnn.com/2012/03/03/us/severe-weather/index.html)
+3. [Reuters](http://www.reuters.com/article/2012/03/03/us-usa-tornadoes-idUSTRE81S2AD20120303?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
 
 ### Related:
 

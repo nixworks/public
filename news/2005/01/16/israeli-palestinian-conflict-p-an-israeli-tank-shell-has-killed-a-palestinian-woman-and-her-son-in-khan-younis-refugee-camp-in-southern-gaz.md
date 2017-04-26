@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4179327.stm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4179489.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4179489.stm)
+2. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050117/ap_on_re_mi_ea/israel_palestinians_12)
 3. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1391972,00.html)
-4. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050117/ap_on_re_mi_ea/israel_palestinians_12)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4179327.stm)
 
 ### Related:
 

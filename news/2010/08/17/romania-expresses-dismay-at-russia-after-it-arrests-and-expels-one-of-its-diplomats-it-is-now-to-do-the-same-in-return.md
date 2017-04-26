@@ -7,8 +7,8 @@ Romania condemns Russia for arresting and expelling one of its diplomats, accuse
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/18/c_13449518.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11005431)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11005431)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/18/c_13449518.htm)
 
 ### Related:
 

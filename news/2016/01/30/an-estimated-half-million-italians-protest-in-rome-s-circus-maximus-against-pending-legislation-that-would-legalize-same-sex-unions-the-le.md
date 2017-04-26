@@ -7,8 +7,8 @@ Hundreds of thousands of Italians descended on Rome on Saturday to protest a bil
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/italy-gaymarriage-idINKCN0V80JT)
-2. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/01/30/world/europe/ap-eu-italy-gay-rights.html?_r=0)
+1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/01/30/world/europe/ap-eu-italy-gay-rights.html?_r=0)
+2. [Reuters](http://in.reuters.com/article/italy-gaymarriage-idINKCN0V80JT)
 3. [The Local](http://www.thelocal.it/20160130/mass-rally-against-civil-unions-in-rome)
 4. [NBC News](http://www.nbcnews.com/news/world/italy-same-sex-union-opponents-plan-family-day-protest-rome-n506636)
 

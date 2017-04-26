@@ -7,8 +7,8 @@ Kala Brown told a prosecutor that she and her boyfriend were responding to an ad
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/kala-brown-freed-south-carolina-captive-boyfriend-had-answered-cleaning-job-ad-to-property/)
-2. [CNN](http://www.cnn.com/2016/11/03/us/missing-south-carolina-woman-found/index.html)
+1. [CNN](http://www.cnn.com/2016/11/03/us/missing-south-carolina-woman-found/index.html)
+2. [CBS News](http://www.cbsnews.com/news/kala-brown-freed-south-carolina-captive-boyfriend-had-answered-cleaning-job-ad-to-property/)
 
 ### Related:
 

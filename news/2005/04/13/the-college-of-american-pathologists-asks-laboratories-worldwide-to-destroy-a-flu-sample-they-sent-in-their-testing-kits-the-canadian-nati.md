@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yahoo](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=7&u=/ap/20050412/ap_on_he_me/pandemic_flu_labs)
-2. [CBC](http://www.cbc.ca/health/story/2005/04/12/flu-vials050412.html)
-3. [CNN](http://www.cnn.com/2005/HEALTH/04/12/flu.recall/)
+1. [CBC](http://www.cbc.ca/health/story/2005/04/12/flu-vials050412.html)
+2. [CNN](http://www.cnn.com/2005/HEALTH/04/12/flu.recall/)
+3. [Yahoo](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=7&u=/ap/20050412/ap_on_he_me/pandemic_flu_labs)
 
 ### Related:
 

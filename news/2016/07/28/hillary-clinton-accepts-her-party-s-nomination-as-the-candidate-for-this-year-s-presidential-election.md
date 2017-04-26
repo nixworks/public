@@ -7,8 +7,8 @@ PHILADELPHIA-- The schedule for the final night of the Democratic National Conve
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/07/29/us/politics/dnc-hillary-clinton-speech.html)
-2. [Fox](http://fox8.com/2016/07/28/schedule-of-speakers-for-final-night-of-democratic-national-convention-released/)
+1. [Fox](http://fox8.com/2016/07/28/schedule-of-speakers-for-final-night-of-democratic-national-convention-released/)
+2. [The New York Times](http://www.nytimes.com/2016/07/29/us/politics/dnc-hillary-clinton-speech.html)
 
 ### Related:
 

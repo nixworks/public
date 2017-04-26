@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10699755)
-2. [France24](http://www.france24.com/en/20100720-cuba-ready-free-more-political-prisoners)
+1. [France24](http://www.france24.com/en/20100720-cuba-ready-free-more-political-prisoners)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10699755)
 
 ### Related:
 

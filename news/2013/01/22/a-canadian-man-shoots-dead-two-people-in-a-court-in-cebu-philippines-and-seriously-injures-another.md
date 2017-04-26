@@ -8,8 +8,8 @@ A Canadian man opens fire in a Philippine court, killing two people and wounding
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21137138)
-2. [Philippine Star](http://www.philstar.com/nation/2013/01/22/899841/canadian-shoots-dead-2-inside-cebu-city-court)
-3. [CNN](http://www.cnn.com/2013/01/22/world/asia/philippines-court-shooting/)
+2. [CNN](http://www.cnn.com/2013/01/22/world/asia/philippines-court-shooting/)
+3. [Philippine Star](http://www.philstar.com/nation/2013/01/22/899841/canadian-shoots-dead-2-inside-cebu-city-court)
 
 ### Related:
 

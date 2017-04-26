@@ -7,11 +7,11 @@ Two more people died and one was missing Monday following flooding in the southe
 
 ### Source:
 
-1. [New Straits Times](http://www.nst.com.my/latest/storm-kills-7-52-towns-declared-state-of-emergency-1.27620)
-2. [Monsters and Critics](http://www.monstersandcritics.com/news/americas/news/article_1683779.php/Rain-wreaks-havoc-in-south-eastern-Brazil)
-3. [Daily Star](http://www.dailystar.com.lb/News/International/2012/Jan-02/158594-death-toll-mounts-in-brazil-floods.ashx#axzz1iUIssqMU)
-4. [Xinhua via ''People's Daily](http://english.peopledaily.com.cn/90777/7695244.html)
-5. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=458640&CategoryId=14090)
+1. [Xinhua via ''People's Daily](http://english.peopledaily.com.cn/90777/7695244.html)
+2. [Daily Star](http://www.dailystar.com.lb/News/International/2012/Jan-02/158594-death-toll-mounts-in-brazil-floods.ashx#axzz1iUIssqMU)
+3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=458640&CategoryId=14090)
+4. [New Straits Times](http://www.nst.com.my/latest/storm-kills-7-52-towns-declared-state-of-emergency-1.27620)
+5. [Monsters and Critics](http://www.monstersandcritics.com/news/americas/news/article_1683779.php/Rain-wreaks-havoc-in-south-eastern-Brazil)
 
 ### Related:
 

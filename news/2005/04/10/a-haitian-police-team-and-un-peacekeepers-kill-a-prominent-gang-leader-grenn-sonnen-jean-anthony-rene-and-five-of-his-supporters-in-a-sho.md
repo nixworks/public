@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8135786)
-2. [Haiti Action Committee](http://www.haitiaction.net/News/AHP/2005/04/10/01.html)
+1. [Haiti Action Committee](http://www.haitiaction.net/News/AHP/2005/04/10/01.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8135786)
 
 ### Related:
 

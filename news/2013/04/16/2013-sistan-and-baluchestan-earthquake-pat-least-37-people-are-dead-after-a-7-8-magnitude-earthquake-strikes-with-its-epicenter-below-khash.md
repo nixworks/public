@@ -7,8 +7,8 @@ A 7.8-magnitude earthquake struck near Iran’s border with Pakistan, and it was
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2013/04/17/world/asia/strong-earthquake-is-felt-across-wide-area-of-asia.html)
-2. [Reuters](http://www.reuters.com/article/2013/04/16/us-iran-quake-idUSBRE93F0E120130416)
+1. [Reuters](http://www.reuters.com/article/2013/04/16/us-iran-quake-idUSBRE93F0E120130416)
+2. [The New York Times](http://www.nytimes.com/2013/04/17/world/asia/strong-earthquake-is-felt-across-wide-area-of-asia.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-22168202)
 
 ### Related:

@@ -10,9 +10,9 @@ A bomb exploded outside a church in the southern Philippines during Sunday morni
 1. [RTÉ](http://www.rte.ie/news/2009/0705/philippines.html)
 2. [Reuters](http://af.reuters.com/article/energyOilNews/idAFMAN10891320090705)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0705/breaking5.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8134820.stm)
-5. [Boston Globe](http://www.boston.com/news/world/asia/articles/2009/07/05/blast_outside_church_in_philippine_south_kills_5/)
-6. [GMA News](http://www.gmanews.tv/story/166620/Bomb-attack-on-Cotabato-City-cathedral-kills-five-hurts-29)
+4. [Boston Globe](http://www.boston.com/news/world/asia/articles/2009/07/05/blast_outside_church_in_philippine_south_kills_5/)
+5. [GMA News](http://www.gmanews.tv/story/166620/Bomb-attack-on-Cotabato-City-cathedral-kills-five-hurts-29)
+6. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8134820.stm)
 
 ### Related:
 

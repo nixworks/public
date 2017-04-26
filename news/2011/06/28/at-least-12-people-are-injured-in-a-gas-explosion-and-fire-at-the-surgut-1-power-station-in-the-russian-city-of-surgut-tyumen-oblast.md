@@ -7,8 +7,8 @@ At least 12 people were injuredon Tuesday at the GRES-1 power station in the Sib
 
 ### Source:
 
-1. [ITAR TASS](http://www.itar-tass.com/en/c154/174520.html)
-2. [Reuters](http://uk.reuters.com/article/2011/06/28/russia-fire-idAFLDE75R02720110628)
+1. [Reuters](http://uk.reuters.com/article/2011/06/28/russia-fire-idAFLDE75R02720110628)
+2. [ITAR TASS](http://www.itar-tass.com/en/c154/174520.html)
 3. [RIA Novosti](http://en.rian.ru/russia/20110628/164882313.html)
 
 ### Related:

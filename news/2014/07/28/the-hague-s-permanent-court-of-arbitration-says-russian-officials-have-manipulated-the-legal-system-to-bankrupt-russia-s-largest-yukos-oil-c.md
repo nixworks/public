@@ -8,9 +8,9 @@ An international arbitration court ruled on Monday that Russia must pay $50 bill
 ### Source:
 
 1. [The Moscow Times](http://www.themoscowtimes.com/business/article/hague-court-to-rule-on-50-billion-russian-payout-to-yukos-shareholders/504129.html)
-2. [The New York Times](http://www.nytimes.com/2014/07/29/business/international/yukos-shareholders-awarded-about-50-billion-in-court-ruling.html?_r=0)
+2. [Reuters](http://www.reuters.com/article/2014/07/29/us-russia-yukos-idUSKBN0FW0TP20140729)
 3. [BBC](http://www.bbc.com/news/business-28520892)
-4. [Reuters](http://www.reuters.com/article/2014/07/29/us-russia-yukos-idUSKBN0FW0TP20140729)
+4. [The New York Times](http://www.nytimes.com/2014/07/29/business/international/yukos-shareholders-awarded-about-50-billion-in-court-ruling.html?_r=0)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Two Nato officers are shot dead inside the interior ministry in Kabul, prompting
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-17163322)
-2. [CNN](http://edition.cnn.com/2012/02/25/world/asia/afghanistan-burned-qurans/index.html?hpt=hp_t3)
+1. [CNN](http://edition.cnn.com/2012/02/25/world/asia/afghanistan-burned-qurans/index.html?hpt=hp_t3)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-17163322)
 
 ### Related:
 

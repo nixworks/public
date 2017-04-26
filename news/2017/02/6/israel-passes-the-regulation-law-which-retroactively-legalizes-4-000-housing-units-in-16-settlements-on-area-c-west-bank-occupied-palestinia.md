@@ -7,8 +7,8 @@ The legislation marks the first time that the Knesset has sought to impose Israe
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/02/06/world/middleeast/israel-settlement-law-palestinians-west-bank.html?_r=0)
-2. [The Jerusalem Post](http://www.jpost.com/Israel-News/Politics-And-Diplomacy/Knesset-passes-historic-Settlements-Bill-480768)
+1. [The Jerusalem Post](http://www.jpost.com/Israel-News/Politics-And-Diplomacy/Knesset-passes-historic-Settlements-Bill-480768)
+2. [The New York Times](https://www.nytimes.com/2017/02/06/world/middleeast/israel-settlement-law-palestinians-west-bank.html?_r=0)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Forbes](http://www.forbes.com/home/markets/2007/02/27/china-shanghai-update-markets-emerge-cx_jc_vk_0227markets15.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2007-02/27/content_5780066.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/business/6399941.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/business/6399941.stm)
+3. [Xinhua](http://news.xinhuanet.com/english/2007-02/27/content_5780066.htm)
 
 ### Related:
 

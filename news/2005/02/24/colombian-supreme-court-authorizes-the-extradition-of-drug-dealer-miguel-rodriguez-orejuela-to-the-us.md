@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2005-02-23-voa68.cfm)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4292849.stm)
-3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N23630343.htm)
+1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N23630343.htm)
+2. [VOA](http://www.voanews.com/english/2005-02-23-voa68.cfm)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4292849.stm)
 
 ### Related:
 

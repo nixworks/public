@@ -7,8 +7,8 @@ Sony will decide on a possible release in the country in the new year, but the m
 
 ### Source:
 
-1. [The New York Times](http://sinosphere.blogs.nytimes.com/2014/12/26/chinese-viewers-mostly-give-thumbs-up-for-the-interview/?_r=0)
-2. [TASS](http://itar-tass.com/en/russia/769186)
+1. [TASS](http://itar-tass.com/en/russia/769186)
+2. [The New York Times](http://sinosphere.blogs.nytimes.com/2014/12/26/chinese-viewers-mostly-give-thumbs-up-for-the-interview/?_r=0)
 3. [Hollywood Reporter](http://www.hollywoodreporter.com/news/russian-official-speaks-interview-release-760370)
 4. [CNN](http://money.cnn.com/2014/12/26/media/the-interview-box-office-results/index.html)
 

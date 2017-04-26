@@ -13,7 +13,7 @@ _Context: Hezbollah, Israel, Lebanon, drone, reconnaissance, sonic boom_
 _Context: Organization of American States, election of a new secretary general, stalemate_
 
 ### [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his "''courageous initiative''" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settl.md)
-_Context: Ariel Sharon, Gaza Strip, George W. Bush, Israel, Israeli settlement, Texas, U.S. President, USA, United States, prime minister of Israel_
+_Context: Ariel Sharon, Gaza Strip, George W. Bush, Israel, Israeli settlement, Prime Minister of Israel, Texas, U.S., U.S. President, USA_
 
 ### [ Tulip Revolution: The Parliament of Kyrgyzstan finally approves the resignation of deposed President Askar Akayev. ](/news/2005/04/11/tulip-revolution-the-parliament-of-kyrgyzstan-finally-approves-the-resignation-of-deposed-president-askar-akayev.md)
 _Context: Askar Akayev, Kyrgyzstan, President, Tulip Revolution, resignation_

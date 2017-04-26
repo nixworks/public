@@ -7,8 +7,8 @@ The likely successor is House Majority Leader Kevin McCarthy (R-Calif.)
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/news/powerpost/wp/2015/09/25/boehner-resigns/)
-2. [The New York Times](http://www.nytimes.com/2015/09/26/us/boehner-will-resign-from-congress.html?smid=tw-bna&_r=0&mtrref=undefined&gwh=DA920E461683D5D236C2B06605665453&gwt=pay&assetType=nyt_now)
+1. [The New York Times](http://www.nytimes.com/2015/09/26/us/boehner-will-resign-from-congress.html?smid=tw-bna&_r=0&mtrref=undefined&gwh=DA920E461683D5D236C2B06605665453&gwt=pay&assetType=nyt_now)
+2. [Washington Post](http://www.washingtonpost.com/news/powerpost/wp/2015/09/25/boehner-resigns/)
 
 ### Related:
 

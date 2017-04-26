@@ -7,10 +7,10 @@ India&rsquo;s health minister has outraged activists by calling homosexuality a 
 
 ### Source:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia-pacific/indian-health-minister-calls-homosexuality-disease-during-hiv-conference-angers-activists/2011/07/05/gHQAGYjfyH_story.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-14024774)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0705/breaking19.html)
+2. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia-pacific/indian-health-minister-calls-homosexuality-disease-during-hiv-conference-angers-activists/2011/07/05/gHQAGYjfyH_story.html)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10736494&ref=rss)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0705/breaking19.html)
+4. [BBC](http://www.bbc.co.uk/news/world-south-asia-14024774)
 
 ### Related:
 

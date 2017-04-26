@@ -7,11 +7,11 @@ Prince, second in line to throne, marries fiancee in ceremony watched by estimat
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Article/201009115981730)
-2. [The New York Times](http://artsbeat.blogs.nytimes.com/2011/04/28/get-your-royal-wedding-fix-on-tv/?smid=tw-artsbeat&seid=auto)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/20114297035414865.html)
-4. [Daily Mirror](http://www.mirror.co.uk/news/top-stories/2011/04/28/royal-wedding-schedule-minute-by-minute-timetable-115875-23090994/)
-5. [BBC](http://www.bbc.co.uk/news/uk-13132410)
+1. [BBC](http://www.bbc.co.uk/news/uk-13132410)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/20114297035414865.html)
+3. [The New York Times](http://artsbeat.blogs.nytimes.com/2011/04/28/get-your-royal-wedding-fix-on-tv/?smid=tw-artsbeat&seid=auto)
+4. [Sky News](http://news.sky.com/skynews/Article/201009115981730)
+5. [Daily Mirror](http://www.mirror.co.uk/news/top-stories/2011/04/28/royal-wedding-schedule-minute-by-minute-timetable-115875-23090994/)
 
 ### Related:
 

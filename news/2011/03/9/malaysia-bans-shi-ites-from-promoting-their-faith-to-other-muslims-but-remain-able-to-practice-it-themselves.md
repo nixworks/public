@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/225808/malaysia-bans-shiites-from-promoting-their-faith)
-2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=569704)
+1. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=569704)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/225808/malaysia-bans-shiites-from-promoting-their-faith)
 
 ### Related:
 

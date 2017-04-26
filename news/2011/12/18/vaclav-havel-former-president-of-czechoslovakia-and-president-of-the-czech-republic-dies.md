@@ -7,8 +7,8 @@ Vaclav Havel, who died on December 18 aged 75 , was President of Czechoslovakia 
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/obituaries/politics-obituaries/8964095/Vaclav-Havel.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-16236393)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-16236393)
+2. [The Telegraph](http://www.telegraph.co.uk/news/obituaries/politics-obituaries/8964095/Vaclav-Havel.html)
 
 ### Related:
 

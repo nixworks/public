@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Fairfield County Weekly](http://westchesterweekly.com/gbase/Guides/content?oid=oid:136330)
-2. [North County Times](http://www.nctimes.com/articles/2005/12/21/news/coastal/21_25_1012_20_05.txt)
-3. [Ireland Online](http://breakingnews.iol.ie/news/story.asp?j=166730372&p=y6673yx78)
+2. [Ireland Online](http://breakingnews.iol.ie/news/story.asp?j=166730372&p=y6673yx78)
+3. [North County Times](http://www.nctimes.com/articles/2005/12/21/news/coastal/21_25_1012_20_05.txt)
 
 ### Related:
 

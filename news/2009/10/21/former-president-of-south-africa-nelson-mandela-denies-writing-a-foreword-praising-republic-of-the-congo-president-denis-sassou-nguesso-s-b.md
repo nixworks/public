@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/oct/21/nelson-mandela-book-foreword-row)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=vn20091021040225801C515304)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=vn20091021040225801C515304)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/21/nelson-mandela-book-foreword-row)
 
 ### Related:
 

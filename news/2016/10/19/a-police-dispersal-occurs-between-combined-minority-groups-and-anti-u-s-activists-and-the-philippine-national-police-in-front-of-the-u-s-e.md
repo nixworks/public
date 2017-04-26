@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Manila Bulletin](http://www.mb.com.ph/investigation-on-us-embassy-incident-underway-bato/)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/10/police-van-rams-protesters-embassy-manila-161019131238539.html)
-3. [Rappler](http://www.rappler.com/nation/149646-dispersal-protest-us-embassy-manila)
+1. [Rappler](http://www.rappler.com/nation/149646-dispersal-protest-us-embassy-manila)
+2. [The Manila Bulletin](http://www.mb.com.ph/investigation-on-us-embassy-incident-underway-bato/)
+3. [Al Jazeera](http://www.aljazeera.com/news/2016/10/police-van-rams-protesters-embassy-manila-161019131238539.html)
 
 ### Related:
 

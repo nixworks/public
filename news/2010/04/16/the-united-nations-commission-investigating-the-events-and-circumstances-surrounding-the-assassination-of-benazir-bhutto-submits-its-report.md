@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/un-blames-musharraf-govt-for-bb-murder-640|)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8623175.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8623175.stm)
+2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/un-blames-musharraf-govt-for-bb-murder-640|)
 
 ### Related:
 

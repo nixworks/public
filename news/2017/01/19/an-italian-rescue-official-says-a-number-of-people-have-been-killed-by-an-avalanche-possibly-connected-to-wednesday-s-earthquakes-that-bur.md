@@ -7,9 +7,9 @@ AN avalanche in Italy has buried a hotel killing up to 35, after a series of ear
 
 ### Source:
 
-1. [Daily Express](http://www.express.co.uk/news/world/756018/italy-avalanche-pescara-hotel-staff-guests-missing-rome-earthquake)
+1. [BBC](http://www.bbc.com/news/world-europe-38674788)
 2. [Reuters](http://www.reuters.com/article/us-italy-quake-avalanche-idUSKBN1530TR)
-3. [BBC](http://www.bbc.com/news/world-europe-38674788)
+3. [Daily Express](http://www.express.co.uk/news/world/756018/italy-avalanche-pescara-hotel-staff-guests-missing-rome-earthquake)
 
 ### Related:
 

@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2008-08/20/content_9529459.htm)
-2. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27516&pg=1&im=main&ct=0&wth=)
-3. [BBC News](http://news.bbc.co.uk/2/hi/europe/7571506.stm)
-4. [Amnesty International](http://www.amnesty.org/en/news-and-updates/news/civilians-vulnerable-after-hostilities-georgia-20080814)
-5. [Xinhua](http://news.xinhuanet.com/english/2008-08/20/content_9529577.htm)
-6. [Human Rights Watch](http://www.hrw.org/english/docs/2008/08/17/georgi19633.htm)
-7. [AFP via Google News](http://afp.google.com/article/ALeqM5jddrNqiC6N-IbCSldcU9Bbq5rUbw)
-8. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=12989697&PageNum=0)
+1. [Amnesty International](http://www.amnesty.org/en/news-and-updates/news/civilians-vulnerable-after-hostilities-georgia-20080814)
+2. [AFP via Google News](http://afp.google.com/article/ALeqM5jddrNqiC6N-IbCSldcU9Bbq5rUbw)
+3. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=12989697&PageNum=0)
+4. [Xinhua](http://news.xinhuanet.com/english/2008-08/20/content_9529459.htm)
+5. [BBC News](http://news.bbc.co.uk/2/hi/europe/7571506.stm)
+6. [Xinhua](http://news.xinhuanet.com/english/2008-08/20/content_9529577.htm)
+7. [Human Rights Watch](http://www.hrw.org/english/docs/2008/08/17/georgi19633.htm)
+8. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27516&pg=1&im=main&ct=0&wth=)
 
 ### Related:
 

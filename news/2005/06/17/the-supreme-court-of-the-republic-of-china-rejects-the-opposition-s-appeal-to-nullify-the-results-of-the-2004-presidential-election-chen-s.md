@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/153230/1/.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aNd0uRCXXMO8&refer=asia)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aNd0uRCXXMO8&refer=asia)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/153230/1/.html)
 
 ### Related:
 

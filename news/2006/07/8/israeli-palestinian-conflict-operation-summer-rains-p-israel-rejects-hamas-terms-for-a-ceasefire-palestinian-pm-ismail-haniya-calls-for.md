@@ -7,14 +7,14 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/735948.html)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272708,00.html)
-3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-07-08T231815Z_01_L04812837_RTRUKOC_0_US-MIDEAST.xml)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/735911.html)
-5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272507,00.html)
-6. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5160244.stm)
-7. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5161034.stm)
-8. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5159050.stm)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/735911.html)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-07-08T231815Z_01_L04812837_RTRUKOC_0_US-MIDEAST.xml)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5160244.stm)
+4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272507,00.html)
+5. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5159050.stm)
+6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272708,00.html)
+7. [Haaretz](http://www.haaretz.com/hasen/spages/735948.html)
+8. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5161034.stm)
 
 ### Related:
 

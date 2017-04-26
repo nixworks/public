@@ -7,8 +7,8 @@ Fuel supply for the main airport is enough only for few more days as growing pro
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010101693038837272.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11557240)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11557240)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010101693038837272.html)
 
 ### Related:
 

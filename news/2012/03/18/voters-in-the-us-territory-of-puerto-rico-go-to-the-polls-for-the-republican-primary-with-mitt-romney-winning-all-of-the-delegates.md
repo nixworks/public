@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Boston Globe](http://www.boston.com/news/politics/articles/2012/03/18/romney_wins_puerto_rico_gop_campaign_continues/)
-2. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/romney-ahead-in-puerto-rico-primary/story-e6frg6so-1226303591001)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/romney-ahead-in-puerto-rico-primary/story-e6frg6so-1226303591001)
+2. [AP via ''Boston Globe](http://www.boston.com/news/politics/articles/2012/03/18/romney_wins_puerto_rico_gop_campaign_continues/)
 3. [Fox News](http://www.foxnews.com/politics/2012/03/18/candidates-focus-on-illinois-while-puerto-rican-republicans-vote/)
 
 ### Related:

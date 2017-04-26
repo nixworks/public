@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/science-environment-36228327)
-2. [New York Times](http://www.nytimes.com/2016/05/09/nyregion/new-york-today-mercury-on-the-move.html)
+1. [New York Times](http://www.nytimes.com/2016/05/09/nyregion/new-york-today-mercury-on-the-move.html)
+2. [BBC](http://www.bbc.com/news/science-environment-36228327)
 3. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3580167/Will-spot-Mercury-crossing-sun.html)

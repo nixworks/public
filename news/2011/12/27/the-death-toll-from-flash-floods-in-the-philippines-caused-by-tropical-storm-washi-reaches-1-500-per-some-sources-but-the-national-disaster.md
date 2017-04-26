@@ -7,8 +7,8 @@ The death toll from flash floods that swept away entire villages in the southern
 
 ### Source:
 
-1. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/358/NDRRMC%20UPDATE%20Sitrep%20No.21%20re%20Effects%20of%20SENDONG%20as%20of%2028Dec2011,%200600AM.pdf)
-2. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/philippines-death-toll-hits-1500-20111227-1pb3e.html)
+1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/philippines-death-toll-hits-1500-20111227-1pb3e.html)
+2. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/358/NDRRMC%20UPDATE%20Sitrep%20No.21%20re%20Effects%20of%20SENDONG%20as%20of%2028Dec2011,%200600AM.pdf)
 
 ### Related:
 

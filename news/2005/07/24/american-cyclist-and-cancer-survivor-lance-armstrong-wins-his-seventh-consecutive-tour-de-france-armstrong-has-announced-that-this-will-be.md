@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/sport1/hi/other_sports/cycling/4712583.stm)
-2. [Letour.fr](http://www.letour.fr/2005/TDF/LIVE/us/2000/classement/ITE.html)
+1. [Letour.fr](http://www.letour.fr/2005/TDF/LIVE/us/2000/classement/ITE.html)
+2. [BBC](http://news.bbc.co.uk/sport1/hi/other_sports/cycling/4712583.stm)
 
 ### Related:
 

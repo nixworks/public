@@ -7,8 +7,8 @@ There were no reports of injuries or damage to local structures. Several cars we
 
 ### Source:
 
-1. [Wasco County Planning Commission](http://co.wasco.or.us/planning/landuse_actions/UPRR_PLASAR-15-01-0004/june/20160426_APO_Agency_PreNotice.pdf)
-2. [The Oregonian](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2016/06/oil_train_derails_near_hood_ri.html)
+1. [The Oregonian](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2016/06/oil_train_derails_near_hood_ri.html)
+2. [Wasco County Planning Commission](http://co.wasco.or.us/planning/landuse_actions/UPRR_PLASAR-15-01-0004/june/20160426_APO_Agency_PreNotice.pdf)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Get the latest on the results of the state election with our live blog Poll Call
 
 ### Source:
 
-1. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/state-election-2012/poll-call-live-coverage-of-the-2012-queensland-election-20120323-1vp15.html)
-2. [Brisbane Courier-Mail](http://www.couriermail.com.au/news/queensland/queensland-election-2012-campbell-newman-anna-bligh-poll-march-24/story-fnbt5t29-1226308814170)
+1. [Brisbane Courier-Mail](http://www.couriermail.com.au/news/queensland/queensland-election-2012-campbell-newman-anna-bligh-poll-march-24/story-fnbt5t29-1226308814170)
+2. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/state-election-2012/poll-call-live-coverage-of-the-2012-queensland-election-20120323-1vp15.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Zim Online](http://www.zimonline.co.za/Article.aspx?ArticleId=5025)
-2. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/645538/-/137iwe4z/-/)
+1. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/645538/-/137iwe4z/-/)
+2. [Zim Online](http://www.zimonline.co.za/Article.aspx?ArticleId=5025)
 3. [The Guardian](http://www.guardian.co.uk/world/2009/aug/26/robert-mugabe-reported-health-scare)
 
 ### Related:

@@ -7,9 +7,9 @@ ST. LOUIS, MO ( KTVI) -U.S. Rep. Todd Akin says he misspoke when making a commen
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/opinion/opinion-la/la-ol-akin-abortion-rape-20120820,0,1076162.story)
-2. [NPR](http://www.npr.org/blogs/thetwo-way/2012/08/19/159273876/missouri-gop-senate-candidates-remarks-on-rape-stir-controversy)
-3. [Fox News](http://fox2now.com/2012/08/19/the-jaco-report-august-19-2012)
+1. [Fox News](http://fox2now.com/2012/08/19/the-jaco-report-august-19-2012)
+2. [Los Angeles Times](http://www.latimes.com/news/opinion/opinion-la/la-ol-akin-abortion-rape-20120820,0,1076162.story)
+3. [NPR](http://www.npr.org/blogs/thetwo-way/2012/08/19/159273876/missouri-gop-senate-candidates-remarks-on-rape-stir-controversy)
 
 ### Related:
 

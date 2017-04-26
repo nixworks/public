@@ -7,10 +7,10 @@ Rebel fighters are driven out of the Libyan port of Ras Lanuf after fierce fight
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011312192359523376.html)
+1. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-12)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12721908)
 3. [NPR](http://www.npr.org/templates/story/story.php?storyId=134423178)
-4. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-12)
+4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011312192359523376.html)
 
 ### Related:
 

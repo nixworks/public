@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [ABC Australia](http://www.abc.net.au/news/newsitems/200509/s1454572.htm)
-2. [SFGate.com](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/09/06/international/i101657D48.DTL)
-3. [ABS-CBN News](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=15527)
+1. [ABS-CBN News](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=15527)
+2. [ABC Australia](http://www.abc.net.au/news/newsitems/200509/s1454572.htm)
+3. [SFGate.com](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/09/06/international/i101657D48.DTL)
 
 ### Related:
 

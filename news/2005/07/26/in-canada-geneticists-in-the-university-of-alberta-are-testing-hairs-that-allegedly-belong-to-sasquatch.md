@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-26T140236Z_01_N26536422_RTRIDST_0_ODD-CANADA-SASQUATCH-DC.XML)
-2. [CBC](http://www.cbc.ca/canada/story/2005/07/25/sasquatchtesting0725.html)
+1. [CBC](http://www.cbc.ca/canada/story/2005/07/25/sasquatchtesting0725.html)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-26T140236Z_01_N26536422_RTRIDST_0_ODD-CANADA-SASQUATCH-DC.XML)
 
 ### Related:
 

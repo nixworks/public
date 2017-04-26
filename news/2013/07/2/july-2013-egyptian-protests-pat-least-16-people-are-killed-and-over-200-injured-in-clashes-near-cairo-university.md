@@ -7,8 +7,8 @@ An embattled Mohammed Morsi made a last-ditch bid to stay in power last night, t
 
 ### Source:
 
-1. [Reuters via MSN](http://money.msn.com/business-news/article.aspx?feed=OBR&date=20130701&id=16658873)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10156164/Egypt-Mohammed-Morsi-vows-to-stay-in-office-and-defend-his-legitimacy.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10156164/Egypt-Mohammed-Morsi-vows-to-stay-in-office-and-defend-his-legitimacy.html)
+2. [Reuters via MSN](http://money.msn.com/business-news/article.aspx?feed=OBR&date=20130701&id=16658873)
 3. [Ahram Online](http://english.ahram.org.eg/NewsContent/1/64/75544/Egypt/Politics-/UPDATED-Cairo-University-clashes-intensify-leaving.aspx)
 
 ### Related:

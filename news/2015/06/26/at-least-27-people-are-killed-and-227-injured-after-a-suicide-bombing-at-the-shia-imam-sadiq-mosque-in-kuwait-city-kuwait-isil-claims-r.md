@@ -7,8 +7,8 @@ At least eight people killed in explosion at Shia Imam Sadiq mosque in Kuwait Ci
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/26/us-kuwait-blast-idUSKBN0P618L20150626)
-2. [Al Jazeera](http://www.aljazeera.com/news/2015/06/deadly-blast-hits-kuwait-mosque-friday-prayers-150626103633735.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2015/06/deadly-blast-hits-kuwait-mosque-friday-prayers-150626103633735.html)
+2. [Reuters](http://www.reuters.com/article/2015/06/26/us-kuwait-blast-idUSKBN0P618L20150626)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Congressional leaders of both parties and President Obama had a framework for a 
 
 ### Source:
 
-1. [Economic Times](http://economictimes.indiatimes.com/news/international-business/barack-obama-and-congressional-leaders-strike-a-deal-for-raising-us-debt-limit/articleshow/9437937.cms)
-2. [New York Times](http://www.nytimes.com/2011/08/01/us/politics/01FISCAL.html?_r=1&hp)
+1. [New York Times](http://www.nytimes.com/2011/08/01/us/politics/01FISCAL.html?_r=1&hp)
+2. [Washington Post](http://www.washingtonpost.com/business/economy/reid-signs-off-on-debt-deal-hopes-for-vote/2011/07/31/gIQALCW4lI_story.html)
 3. [CNN](http://edition.cnn.com/2011/POLITICS/07/30/debt.talks/index.html?eref=edition)
-4. [Washington Post](http://www.washingtonpost.com/business/economy/reid-signs-off-on-debt-deal-hopes-for-vote/2011/07/31/gIQALCW4lI_story.html)
+4. [Economic Times](http://economictimes.indiatimes.com/news/international-business/barack-obama-and-congressional-leaders-strike-a-deal-for-raising-us-debt-limit/articleshow/9437937.cms)
 
 ### Related:
 

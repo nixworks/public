@@ -7,8 +7,8 @@ Snow has fallen across much of the UK, with up to 10cm expected in places, causi
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-16883674)
-2. [Al-Jazeera](http://www.aljazeera.com/news/europe/2012/02/20122555424535181.html)
+1. [Al-Jazeera](http://www.aljazeera.com/news/europe/2012/02/20122555424535181.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-16883674)
 
 ### Related:
 

@@ -7,8 +7,8 @@ At least seven people have been killed after a suicide bomber struck a bus stati
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/04/20114474938737482.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12955091)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12955091)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/04/20114474938737482.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/04/saber-kushour-rape-deception-release)
-2. [Haaretz](http://www.haaretz.com/print-edition/news/high-court-frees-arab-in-case-of-rape-by-impersonating-jew-1.305845)
+1. [Haaretz](http://www.haaretz.com/print-edition/news/high-court-frees-arab-in-case-of-rape-by-impersonating-jew-1.305845)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/04/saber-kushour-rape-deception-release)
 
 ### Related:
 

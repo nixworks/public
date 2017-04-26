@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/dec/08/chile-fire-kills-scores)
-2. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611772.html)
+1. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611772.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/dec/08/chile-fire-kills-scores)
 
 ### Related:
 

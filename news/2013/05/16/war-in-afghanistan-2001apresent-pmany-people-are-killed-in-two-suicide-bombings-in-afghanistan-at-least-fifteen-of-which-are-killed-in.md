@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2013-05/16/c_132386951.htm)
-2. [NBC](http://worldnews.nbcnews.com/_news/2013/05/16/18294114-six-americans-afghan-children-among-dead-in-kabul-suicide-attack?lite)
+1. [NBC](http://worldnews.nbcnews.com/_news/2013/05/16/18294114-six-americans-afghan-children-among-dead-in-kabul-suicide-attack?lite)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2013-05/16/c_132386951.htm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Six people were killed and 15 were injured from an explosion at a bus stand the 
 
 ### Source:
 
-1. [AP via ''Houston Chronicle](http://www.chron.com/default/article/Bombings-kill-24-people-in-northwest-Pakistan-1410326.php)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13662773)
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/05/pakistan.blast/index.html)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-13662773)
+3. [AP via ''Houston Chronicle](http://www.chron.com/default/article/Bombings-kill-24-people-in-northwest-Pakistan-1410326.php)
 
 ### Related:
 

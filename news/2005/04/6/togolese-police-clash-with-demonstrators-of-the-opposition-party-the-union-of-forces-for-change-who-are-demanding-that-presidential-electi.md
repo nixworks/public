@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Republic of Togo](http://www.republicoftogo.com/fr/news/news.asp?newsID=9533)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L06701314.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L06701314.htm)
+2. [Republic of Togo](http://www.republicoftogo.com/fr/news/news.asp?newsID=9533)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Leaving Certificate English Paper Two has been postponed after it emerged th
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0603/exams.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0603/breaking71.htm)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0603/breaking71.htm)
+2. [RTÉ](http://www.rte.ie/news/2009/0603/exams.html)
 
 ### Related:
 

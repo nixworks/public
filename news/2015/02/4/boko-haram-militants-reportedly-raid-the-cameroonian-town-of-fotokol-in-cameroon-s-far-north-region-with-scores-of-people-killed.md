@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/chad-says-forces-kill-200-boko-haram-in-nigeria/2628311.html)
-2. [BBC](http://www.bbc.com/news/world-africa-31132068)
+1. [BBC](http://www.bbc.com/news/world-africa-31132068)
+2. [Voice of America](http://www.voanews.com/content/chad-says-forces-kill-200-boko-haram-in-nigeria/2628311.html)
 3. [CNN](http://edition.cnn.com/2015/02/04/world/boko-haram-attack/index.html)
 
 ### Related:

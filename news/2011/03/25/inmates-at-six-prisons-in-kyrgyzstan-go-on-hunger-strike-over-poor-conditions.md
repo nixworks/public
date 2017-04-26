@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=16088039&PageNum=0)
-2. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5gpdywymOvwAqv8dOLRlVeysrbhng?docId=6360540)
+1. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5gpdywymOvwAqv8dOLRlVeysrbhng?docId=6360540)
+2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=16088039&PageNum=0)
 
 ### Related:
 

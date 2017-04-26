@@ -8,8 +8,8 @@ Demonstrations&#x20;are&#x20;planned&#x20;for&#x20;Saturday&#x20;across&#x20;Fra
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/09/201094133818605625.html)
-2. [France 24](http://www.france24.com/en/20100904-activists-unions-politicians-paris-france-roma-sarkozy-ump-immigration-crime)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11186592)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11186592)
+3. [France 24](http://www.france24.com/en/20100904-activists-unions-politicians-paris-france-roma-sarkozy-ump-immigration-crime)
 
 ### Related:
 

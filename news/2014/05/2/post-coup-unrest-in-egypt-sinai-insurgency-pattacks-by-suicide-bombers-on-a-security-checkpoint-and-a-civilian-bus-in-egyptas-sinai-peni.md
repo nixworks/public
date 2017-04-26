@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/middle_east/egypt-suicide-bombers-hit-in-sinai-kill-soldier/2014/05/02/af05d932-d1ba-11e3-a714-be7e7f142085_story.html)
-2. [Reuters](http://uk.reuters.com/article/2014/05/02/uk-egypt-violence-idUKKBN0DI07A20140502)
+1. [Reuters](http://uk.reuters.com/article/2014/05/02/uk-egypt-violence-idUKKBN0DI07A20140502)
+2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/egypt-suicide-bombers-hit-in-sinai-kill-soldier/2014/05/02/af05d932-d1ba-11e3-a714-be7e7f142085_story.html)
 
 ### Related:
 

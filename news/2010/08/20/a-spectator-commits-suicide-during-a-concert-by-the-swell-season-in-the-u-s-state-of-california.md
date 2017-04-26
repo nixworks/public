@@ -7,10 +7,10 @@ Swell Season, the Oscar-winning Irish act fronted by Glen Hansard, have said the
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0820/breaking57.html)
-2. [NME](http://www.nme.com/news/various-artists/52573)
-3. [Billboard](http://www.billboard.com/news/swell-season-fans-witness-man-leap-to-death-1004110453.story)
-4. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/concert-goer-commits-suicide-as-the-swell-season-plays-in-california/story-e6frf7jx-1225908111539)
+1. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/concert-goer-commits-suicide-as-the-swell-season-plays-in-california/story-e6frf7jx-1225908111539)
+2. [Billboard](http://www.billboard.com/news/swell-season-fans-witness-man-leap-to-death-1004110453.story)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0820/breaking57.html)
+4. [NME](http://www.nme.com/news/various-artists/52573)
 5. [Hot Press](http://www.hotpress.com/The%20Swell%20Season/news/The-Swell-Season-issue-suicide-tragedy-statement-to-Hot-Press/6824929.html)
 
 ### Related:

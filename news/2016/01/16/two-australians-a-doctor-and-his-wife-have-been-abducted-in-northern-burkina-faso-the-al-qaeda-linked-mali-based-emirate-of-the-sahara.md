@@ -7,8 +7,8 @@ Two Australians have been kidnapped in Burkina Faso, officials said Saturday, as
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/austrian-couple-abducted-northern-burkina-faso-131927455.html;_ylt=AwrBT8OXeppW_vcA6u1XNyoA;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--)
-2. [AP](http://bigstory.ap.org/article/6f2392e559474050b457baaf2ee68433/latest-american-soldier-scene-burkina-faso-attack)
+1. [AP](http://bigstory.ap.org/article/6f2392e559474050b457baaf2ee68433/latest-american-soldier-scene-burkina-faso-attack)
+2. [AFP via Yahoo! News](http://news.yahoo.com/austrian-couple-abducted-northern-burkina-faso-131927455.html;_ylt=AwrBT8OXeppW_vcA6u1XNyoA;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--)
 
 ### Related:
 

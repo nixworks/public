@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?newsID=97268&cat=1)
-2. [Pacific Daily News](http://www.guampdn.com/article/20100216/NEWS01/2160308/1002/Camacho-Name-change-will-affirm-identity)
-3. [Pacific Daily News](http://www.pacificnewscenter.com/index.php?option=com_content&view=article&id=3315:governor-issues-executive-order-changing-island-name-to-guahan&catid=50:homepage-slideshow-rokstories)
+1. [Pacific Daily News](http://www.guampdn.com/article/20100216/NEWS01/2160308/1002/Camacho-Name-change-will-affirm-identity)
+2. [Pacific Daily News](http://www.pacificnewscenter.com/index.php?option=com_content&view=article&id=3315:governor-issues-executive-order-changing-island-name-to-guahan&catid=50:homepage-slideshow-rokstories)
+3. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?newsID=97268&cat=1)
 
 ### Related:
 

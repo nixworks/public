@@ -7,15 +7,15 @@ Conjoined twins Hassan and Hussein Benhaffaf from Cork are undergoing surgery to
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/health/healthnews/7561911/Conjoined-twins-to-be-separated-fact-file.html)
+1. [RTÉ](http://www.rte.ie/news/2010/0407/benhaffaf.html)
 2. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/07/conjoined-twins-separation)
-3. [RTÉ](http://www.rte.ie/news/2010/0407/benhaffaf.html)
-4. [Arab News](http://arabnews.com/saudiarabia/article40394.ece)
+3. [Arab News](http://arabnews.com/saudiarabia/article40394.ece)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/health/healthnews/7561911/Conjoined-twins-to-be-separated-fact-file.html)
 5. [Irish Independent](http://www.independent.ie/national-news/mother-prays-for-her-little-fighters-ahead-of-last-battle-2126279.html)
 
 ### Related:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 2. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 3. [The Gaza Strip's sole power plant is shut down due to running out of fuel, amid unpaid bills and a dispute over tax bills on fuel imports to the blockaded Palestinian territory. ](/news/2017/04/16/the-gaza-strip-s-sole-power-plant-is-shut-down-due-to-running-out-of-fuel-amid-unpaid-bills-and-a-dispute-over-tax-bills-on-fuel-imports-to.md) _Context: Gaza Strip_
 4. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Gaza Strip_

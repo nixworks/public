@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Article/201009116032255)
-2. [The Guardian](http://www.guardian.co.uk/politics/2011/jul/18/liam-fox-army-cuts)
+1. [The Guardian](http://www.guardian.co.uk/politics/2011/jul/18/liam-fox-army-cuts)
+2. [Sky News](http://news.sky.com/skynews/Article/201009116032255)
 
 ### Related:
 

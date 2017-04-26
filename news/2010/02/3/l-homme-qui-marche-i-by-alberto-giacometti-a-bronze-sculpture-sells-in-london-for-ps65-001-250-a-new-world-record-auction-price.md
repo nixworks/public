@@ -7,8 +7,8 @@ An Alberto Giacometti bronze sculpture has become the most expensive piece of ar
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8497287.stm)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/art/art-news/7150256/Record-65m-paid-for-Alberto-Giacometti-bronze-sculpture-at-Sothebys-auction.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/art/art-news/7150256/Record-65m-paid-for-Alberto-Giacometti-bronze-sculpture-at-Sothebys-auction.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8497287.stm)
 
 ### Related:
 

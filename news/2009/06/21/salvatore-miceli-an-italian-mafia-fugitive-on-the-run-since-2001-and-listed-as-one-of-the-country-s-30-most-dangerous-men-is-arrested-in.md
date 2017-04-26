@@ -8,8 +8,8 @@
 ### Source:
 
 1. [IOL](http://www.int.iol.co.za/index.php?from=rss_Europe&set_id=1&click_id=24&art_id=nw20090621172738571C405590)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8111885.stm)
-3. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE55K1HN20090621?feedType=RSS&feedName=worldNews)
+2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE55K1HN20090621?feedType=RSS&feedName=worldNews)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8111885.stm)
 
 ### Related:
 

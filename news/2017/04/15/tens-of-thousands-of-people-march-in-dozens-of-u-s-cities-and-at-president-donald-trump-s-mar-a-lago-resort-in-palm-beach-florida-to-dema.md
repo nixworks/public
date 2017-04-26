@@ -7,9 +7,9 @@ Tens of thousands of people marched through midtown Manhattan and dozens of U.S.
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/usa-trump-taxes-idINKBN17I032)
-2. [The New York Times](https://www.nytimes.com/2017/04/15/us/politics/tax-day-protests-trump-returns.html?_r=0)
-3. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-berkeley-trump-rally-20170415-story.html)
+1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-berkeley-trump-rally-20170415-story.html)
+2. [Reuters](http://in.reuters.com/article/usa-trump-taxes-idINKBN17I032)
+3. [The New York Times](https://www.nytimes.com/2017/04/15/us/politics/tax-day-protests-trump-returns.html?_r=0)
 
 ### Related:
 

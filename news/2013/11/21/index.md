@@ -19,7 +19,7 @@ _Context: Joaquín "El Chapo" Guzmán, Sinaloa Cartel_
 Three women are &quot;rescued&quot; from a house in south London as police investigate claims they were held as slaves for 30 years, with one thought to have been in captivity her whole life.
 
 ### [The parole board in the U.S. state of Alabama grants posthumous pardons to three members of the Scottsboro boys falsely accused of raping a white teenager. ](/news/2013/11/21/the-parole-board-in-the-u-s-state-of-alabama-grants-posthumous-pardons-to-three-members-of-the-scottsboro-boys-falsely-accused-of-raping-a.md)
-_Context: Alabama, Scottsboro boys, United States, parole board_
+_Context: Alabama, Scottsboro boys, U.S., parole board_
 
 ### [The Japanese Coast Guard claims that a volcanic eruption has created a new islet in the Bonin Islands south of Japan. ](/news/2013/11/21/the-japanese-coast-guard-claims-that-a-volcanic-eruption-has-created-a-new-islet-in-the-bonin-islands-south-of-japan.md)
 _Context: Bonin Islands, Japan, Japanese Coast Guard, volcanic activity_

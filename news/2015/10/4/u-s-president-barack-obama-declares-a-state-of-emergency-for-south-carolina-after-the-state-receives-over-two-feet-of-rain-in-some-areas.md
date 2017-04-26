@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/weather/stay-your-house-officials-warn-residents-during-unprecedented-1000-year-n438306)
-2. [CNN](http://www.cnn.com/2015/10/04/us/east-coast-rain-flood/)
+1. [CNN](http://www.cnn.com/2015/10/04/us/east-coast-rain-flood/)
+2. [NBC News](http://www.nbcnews.com/news/weather/stay-your-house-officials-warn-residents-during-unprecedented-1000-year-n438306)
 3. [Sydney Tenplay](http://tenplay.com.au/news/national/october/seven-people-have-died-in-us-storm)
 
 ### Related:

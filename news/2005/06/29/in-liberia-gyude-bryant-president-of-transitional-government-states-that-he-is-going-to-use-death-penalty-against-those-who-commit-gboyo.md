@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Liberian Observer](http://www.liberianobserver.com/about_liberia/bryant_killings.html)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/e2296bcff107410f31d481a9f9ac9945.htm)
-3. [AllAfrica](http://allafrica.com/stories/200506290701.html)
+1. [AllAfrica](http://allafrica.com/stories/200506290701.html)
+2. [Liberian Observer](http://www.liberianobserver.com/about_liberia/bryant_killings.html)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/e2296bcff107410f31d481a9f9ac9945.htm)
 
 ### Related:
 

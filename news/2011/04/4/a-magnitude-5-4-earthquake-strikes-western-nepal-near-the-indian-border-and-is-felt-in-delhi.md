@@ -7,8 +7,8 @@ Panic gripped people in Uttar Pradesh, particularly in districts bordering Nepal
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/article/india/earthquake-of-magnitude-5-7-at-india-nepal-border-tremors-felt-in-delhi-96383)
-2. [Times of India](http://timesofindia.indiatimes.com/city/lucknow/Tremors-halt-Lucknow-for-30-seconds/articleshow/7870174.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/city/lucknow/Tremors-halt-Lucknow-for-30-seconds/articleshow/7870174.cms)
+2. [NDTV](http://www.ndtv.com/article/india/earthquake-of-magnitude-5-7-at-india-nepal-border-tremors-felt-in-delhi-96383)
 
 ### Related:
 

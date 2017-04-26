@@ -7,14 +7,14 @@ gyun and Jo Yong-hak
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_KOREAS_CLASH?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/28/china.koreas.relations/)
 2. [Bloomberg via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/world/7313807.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed:+houstonchronicle/topheadlines+(chron.com+-+Top+Stories)&utm_content=Google+Feedfetcher)
 3. [Reuters](http://www.reuters.com/article/idUSL3E6MN0SQ20101128)
-4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/28/china.koreas.relations/)
-5. [Reuters](http://www.reuters.com/article/idUSTRE6AR19920101128)
-6. [The New York Times](http://www.nytimes.com/2010/11/29/world/29cables.html?_r=1&hp)
-7. [Press TV](http://www.presstv.ir/detail/152931.html)
-8. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=109608&code=Ne2&category=2)
+4. [Press TV](http://www.presstv.ir/detail/152931.html)
+5. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=109608&code=Ne2&category=2)
+6. [Reuters](http://www.reuters.com/article/idUSTRE6AR19920101128)
+7. [The New York Times](http://www.nytimes.com/2010/11/29/world/29cables.html?_r=1&hp)
+8. [AP](http://hosted.ap.org/dynamic/stories/A/AS_KOREAS_CLASH?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

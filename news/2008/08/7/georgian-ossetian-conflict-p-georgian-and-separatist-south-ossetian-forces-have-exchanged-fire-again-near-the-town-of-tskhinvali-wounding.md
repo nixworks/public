@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Civil Georgia](http://www.civil.ge/eng/article.php?id=18916)
-2. [BBC News](http://news.bbc.co.uk/2/hi/europe/7546639.stm)
-3. [Civil Georgia](http://www.civil.ge/eng/article.php?id=18917)
+1. [Civil Georgia](http://www.civil.ge/eng/article.php?id=18917)
+2. [Civil Georgia](http://www.civil.ge/eng/article.php?id=18916)
+3. [BBC News](http://news.bbc.co.uk/2/hi/europe/7546639.stm)
 
 ### Related:
 

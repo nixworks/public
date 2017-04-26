@@ -7,9 +7,9 @@ A 5.0 magnitude quake has rocked Ottawa and the surrounding area, sending thousa
 
 ### Source:
 
-1. [Ottawa Sun](http://www.ottawasun.com/news/ottawa/2010/06/23/14488346.html)
+1. [CBC](http://www.cbc.ca/canada/ottawa/story/2010/06/23/tor-earthquake.html)
 2. [Ottawa Citizen](http://www.ottawacitizen.com/news/Rare+earthquake+shakes+central+Canada/3191755/story.html)
-3. [CBC](http://www.cbc.ca/canada/ottawa/story/2010/06/23/tor-earthquake.html)
+3. [Ottawa Sun](http://www.ottawasun.com/news/ottawa/2010/06/23/14488346.html)
 
 ### Related:
 

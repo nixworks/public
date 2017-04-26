@@ -8,8 +8,8 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 ### Source:
 
 1. [Cincinnati Enquirer](http://news.enquirer.com/apps/pbcs.dll/article?AID=/20051221/NEWS01/512210356/1056)
-2. [AP](http://www.kentucky.com/mld/kentucky/news/local/13453457.htm)
-3. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=41403)
+2. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=41403)
+3. [AP](http://www.kentucky.com/mld/kentucky/news/local/13453457.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20091029/munyaneza_sentence_091029/20091029?hub=Canada)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8333046.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8333046.stm)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20091029/munyaneza_sentence_091029/20091029?hub=Canada)
 
 ### Related:
 

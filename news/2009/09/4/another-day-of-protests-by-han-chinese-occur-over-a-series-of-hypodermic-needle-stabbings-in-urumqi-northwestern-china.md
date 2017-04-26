@@ -7,14 +7,14 @@ Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/2009944194123764.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8237259.stm)
-3. [RTÉ](http://www.rte.ie/news/2009/0904/china.html)
-4. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/04/china.urumqi.unrest/index.html)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8238768.stm)
-6. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20090904&56&609779)
-7. [Bangkok Post](http://www.bangkokpost.com/news/world/153461/police-use-tear-gas-at-urumqi-protest-state-media)
-8. [Xinhua](http://news.xinhuanet.com/english/2009-09/04/content_11998382.htm)
+1. [Bangkok Post](http://www.bangkokpost.com/news/world/153461/police-use-tear-gas-at-urumqi-protest-state-media)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/04/china.urumqi.unrest/index.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/04/content_11998382.htm)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8238768.stm)
+5. [RTÉ](http://www.rte.ie/news/2009/0904/china.html)
+6. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8237259.stm)
+7. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/2009944194123764.html)
+8. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20090904&56&609779)
 
 ### Related:
 

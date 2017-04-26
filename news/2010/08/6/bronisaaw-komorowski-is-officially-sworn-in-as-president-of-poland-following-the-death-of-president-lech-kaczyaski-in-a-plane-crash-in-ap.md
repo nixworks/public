@@ -7,8 +7,8 @@ Bronislaw Komorowski pledges to strenghten ties with the European Union.
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-10891555)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108612287752806.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108612287752806.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-10891555)
 
 ### Related:
 

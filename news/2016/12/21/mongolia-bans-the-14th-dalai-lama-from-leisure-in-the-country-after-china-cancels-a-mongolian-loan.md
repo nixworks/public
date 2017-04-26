@@ -7,8 +7,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/12/21/world/asia/ap-as-mongolia-china-dalai-lama.html)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/mongolia-dalai-lama-allowed-future-visits-44319702)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/mongolia-dalai-lama-allowed-future-visits-44319702)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/12/21/world/asia/ap-as-mongolia-china-dalai-lama.html)
 
 ### Related:
 

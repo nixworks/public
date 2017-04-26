@@ -7,11 +7,11 @@ A tornado and strong winds in southwestern China killed 25 people and injured mo
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/25-dead-after-tornado-in-china-1964936.html)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-05/06/content_9816899.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2010-05/06/content_9816899.htm)
+2. [news.com.au](http://www.news.com.au/breaking-news/twenty-three-dead-in-china-tornado/story-e6frfku0-1225863072543)
 3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8663969.stm)
 4. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-05/06/c_13280824.htm)
-5. [news.com.au](http://www.news.com.au/breaking-news/twenty-three-dead-in-china-tornado/story-e6frfku0-1225863072543)
+5. [The Independent](http://www.independent.co.uk/news/world/asia/25-dead-after-tornado-in-china-1964936.html)
 
 ### Related:
 

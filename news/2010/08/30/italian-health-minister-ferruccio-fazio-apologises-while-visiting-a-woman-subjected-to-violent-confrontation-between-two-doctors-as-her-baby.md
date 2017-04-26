@@ -7,9 +7,9 @@ Italy&#039;s health minister traveled to Sicily today to apologise to a new moth
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11129608)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/travel/destinations/europe/italy/southernitalyandsicily/7971666/Italy-health-minister-apologises-to-new-mother-after-doctor-brawl.html)
-3. [AP via CBC News](http://www.cbc.ca/health/story/2010/08/30/italy-doctors-baby.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/travel/destinations/europe/italy/southernitalyandsicily/7971666/Italy-health-minister-apologises-to-new-mother-after-doctor-brawl.html)
+2. [AP via CBC News](http://www.cbc.ca/health/story/2010/08/30/italy-doctors-baby.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-11129608)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/30/AR2010083001447.html)
 
 ### Related:

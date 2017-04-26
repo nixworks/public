@@ -7,8 +7,8 @@ At least 12 people died and 15 were seriously injured on Wednesday after an expl
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/world/20100728/159977556.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE66R0YO20100728)
+1. [Reuters](http://www.reuters.com/article/idUSTRE66R0YO20100728)
+2. [RIA Novosti](http://en.rian.ru/world/20100728/159977556.html)
 
 ### Related:
 

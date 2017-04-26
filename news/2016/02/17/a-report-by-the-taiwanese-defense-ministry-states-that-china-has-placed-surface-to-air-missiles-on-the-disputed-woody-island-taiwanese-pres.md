@@ -7,8 +7,8 @@ Taiwan says China has deployed surface-to-air missiles on a disputed island in t
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/02/16/asia/china-missiles-south-china-sea/)
-2. [BBC](http://www.bbc.com/news/world-asia-china-35592988)
+1. [BBC](http://www.bbc.com/news/world-asia-china-35592988)
+2. [CNN](http://www.cnn.com/2016/02/16/asia/china-missiles-south-china-sea/)
 
 ### Related:
 

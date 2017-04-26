@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gCnXPZWKODeyrLYFWd-GZ_Hxu-mQ)
-2. [ECJ](http://curia.europa.eu/jcms/upload/docs/application/pdf/2009-11/cp090104en.pdf)
-3. [ECJ](http://curia.europa.eu/jcms/jcms/Jo2_7024/)
+2. [ECJ](http://curia.europa.eu/jcms/jcms/Jo2_7024/)
+3. [ECJ](http://curia.europa.eu/jcms/upload/docs/application/pdf/2009-11/cp090104en.pdf)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A British coroner says a girl who died after receiving a vaccine against cervica
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/health/8279656.stm)
-2. [The Times](http://www.timesonline.co.uk/tol/life_and_style/health/article6852858.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/life_and_style/health/article6852858.ece)
+2. [BBC](http://news.bbc.co.uk/2/hi/health/8279656.stm)
 3. [MSNBC](http://www.msnbc.msn.com/id/33117752/ns/health-cancer/)
 
 ### Related:

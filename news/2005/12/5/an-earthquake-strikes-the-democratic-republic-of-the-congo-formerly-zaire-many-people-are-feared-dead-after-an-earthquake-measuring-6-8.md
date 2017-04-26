@@ -7,10 +7,10 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [The Independent](http://news.independent.co.uk/world/africa/article331302.ece)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4499938.stm)
-3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1845792,00.html)
-4. [TimesOnLine](http://www.timesonline.co.uk/article/0,,3-1905578,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4499938.stm)
+2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1845792,00.html)
+3. [TimesOnLine](http://www.timesonline.co.uk/article/0,,3-1905578,00.html)
+4. [The Independent](http://news.independent.co.uk/world/africa/article331302.ece)
 
 ### Related:
 

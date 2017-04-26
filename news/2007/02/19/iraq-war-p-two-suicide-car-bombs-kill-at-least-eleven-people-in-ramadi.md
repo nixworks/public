@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/news/national/70-more-aussie-troops-for-iraq/2007/02/19/1171733678266.html?s_cid=rss_smh)
-2. [Reuters via Malaysia Star](http://thestar.com.my/news/story.asp?file=/2007/2/19/worldupdates/2007-02-19T140712Z_01_NOOTR_RTRJONC_0_-288319-1&sec=Worldupdates)
+1. [Reuters via Malaysia Star](http://thestar.com.my/news/story.asp?file=/2007/2/19/worldupdates/2007-02-19T140712Z_01_NOOTR_RTRJONC_0_-288319-1&sec=Worldupdates)
+2. [Sydney Morning Herald](http://www.smh.com.au/news/national/70-more-aussie-troops-for-iraq/2007/02/19/1171733678266.html?s_cid=rss_smh)
 
 ### Related:
 

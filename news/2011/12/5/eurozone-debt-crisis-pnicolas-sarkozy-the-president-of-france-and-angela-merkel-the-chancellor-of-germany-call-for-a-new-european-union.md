@@ -7,9 +7,9 @@ France and Germany call for a tougher EU treaty to cope with the eurozone crisis
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-16037425)
-2. [Sky News](http://news.sky.com/home/business/article/16124368)
-3. [Bloomberg](http://www.bloomberg.com/news/2011-12-05/s-p-said-to-place-all-17-euro-nations-on-downgrade-watch-over-debt-crisis.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-12-05/s-p-said-to-place-all-17-euro-nations-on-downgrade-watch-over-debt-crisis.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-16037425)
+3. [Sky News](http://news.sky.com/home/business/article/16124368)
 
 ### Related:
 

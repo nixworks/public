@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/201095201748804676.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-09-06/bahrain-charges-23-activists-with-terrorism-tied-to-anti-monarchy-group.html)
-3. [Bahrain News Agency](http://english.bna.bh/?ID=89484)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-09-06/bahrain-charges-23-activists-with-terrorism-tied-to-anti-monarchy-group.html)
+2. [Bahrain News Agency](http://english.bna.bh/?ID=89484)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/201095201748804676.html)
 
 ### Related:
 

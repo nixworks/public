@@ -7,9 +7,9 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [[[Financial Times]]](http://news.ft.com/cms/s/764f2716-fe3c-11d9-a289-00000e2511c8.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk/4720979.stm)
-3. [[[The Times]]](http://www.timesonline.co.uk/article/0,,22989-1710202,00.html)
+1. [[[The Times]]](http://www.timesonline.co.uk/article/0,,22989-1710202,00.html)
+2. [[[Financial Times]]](http://news.ft.com/cms/s/764f2716-fe3c-11d9-a289-00000e2511c8.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/uk/4720979.stm)
 
 ### Related:
 

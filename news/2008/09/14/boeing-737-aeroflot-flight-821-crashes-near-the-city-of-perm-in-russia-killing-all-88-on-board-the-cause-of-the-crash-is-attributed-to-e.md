@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/nationworld/sns-ap-russia-plane-crash,0,3299178.story)
-2. [BBC News](http://news.bbc.co.uk/2/hi/europe/7614951.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7614951.stm)
+2. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/nationworld/sns-ap-russia-plane-crash,0,3299178.story)
 
 ### Related:
 

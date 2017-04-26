@@ -7,9 +7,9 @@ Four suspected terrorists were killed and another two were detained in a firefig
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/03/police-kill-four-suspects-north-sumatra-gunfight.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/03/c_13540846.htm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ia131Eh_8W6axWuhYJubYBrZw6lw?docId=CNG.7d5e8b96a2901608eeaea3e20bdd6446.461)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ia131Eh_8W6axWuhYJubYBrZw6lw?docId=CNG.7d5e8b96a2901608eeaea3e20bdd6446.461)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/03/police-kill-four-suspects-north-sumatra-gunfight.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/03/c_13540846.htm)
 
 ### Related:
 

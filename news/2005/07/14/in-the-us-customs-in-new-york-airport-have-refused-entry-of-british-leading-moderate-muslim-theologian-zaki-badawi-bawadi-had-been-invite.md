@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1438166.htm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4684489.stm)
-3. [USA Today](http://www.usatoday.com/news/nation/2005-07-14-badawi-denied_x.htm)
-4. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/CB0D8168-D11F-4657-8734-D3C2920342CF.htm)
+1. [USA Today](http://www.usatoday.com/news/nation/2005-07-14-badawi-denied_x.htm)
+2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/CB0D8168-D11F-4657-8734-D3C2920342CF.htm)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4684489.stm)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1438166.htm)
 
 ### Related:
 

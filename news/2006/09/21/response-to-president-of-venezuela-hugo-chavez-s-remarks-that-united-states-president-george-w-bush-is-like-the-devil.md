@@ -9,9 +9,9 @@
 
 1. [Radio Iowa](http://www.radioiowa.com/gestalt/go.cfm?objectid=020BFC5A-FA7D-42CC-9BA6A4ED9DA063B8)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/09/20/AR2006092000798.html?nav=rss_email/components)
-3. [News Limited/AAP](http://www.news.com.au/story/0,23599,20463220-1702,00.html)
-4. [Rangel Press Release](http://www.house.gov/apps/list/press/ny15_rangel/CBRStatementChavezUNspeech09212006.html)
-5. [Reuters](http://reuters.myway.com/article/20060921/2006-09-21T164325Z_01_N21334844_RTRIDST_0_NEWS-VENEZUELA-USA-SPAT-DC.html)
+3. [Rangel Press Release](http://www.house.gov/apps/list/press/ny15_rangel/CBRStatementChavezUNspeech09212006.html)
+4. [Reuters](http://reuters.myway.com/article/20060921/2006-09-21T164325Z_01_N21334844_RTRIDST_0_NEWS-VENEZUELA-USA-SPAT-DC.html)
+5. [News Limited/AAP](http://www.news.com.au/story/0,23599,20463220-1702,00.html)
 
 ### Related:
 

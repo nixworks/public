@@ -7,9 +7,9 @@ A top energy executive with strong ties to Russia is lined up as US secretary of
 
 ### Source:
 
-1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-rick-perry-energy-department-donald-trump-20161213-story.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-38301686)
-3. [Fox News](http://www.foxnews.com/politics/2016/12/13/trump-to-pick-rep-zinke-ex-seal-as-interior-secretary.amp.html)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-38301686)
+2. [Fox News](http://www.foxnews.com/politics/2016/12/13/trump-to-pick-rep-zinke-ex-seal-as-interior-secretary.amp.html)
+3. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-rick-perry-energy-department-donald-trump-20161213-story.html)
 
 ### Related:
 

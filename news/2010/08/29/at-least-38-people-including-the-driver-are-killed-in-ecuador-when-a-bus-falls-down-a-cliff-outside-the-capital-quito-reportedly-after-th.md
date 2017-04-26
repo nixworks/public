@@ -7,8 +7,8 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Source:
 
-1. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=506830&articleID=)
-2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67S29I20100829)
+1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67S29I20100829)
+2. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=506830&articleID=)
 
 ### Related:
 

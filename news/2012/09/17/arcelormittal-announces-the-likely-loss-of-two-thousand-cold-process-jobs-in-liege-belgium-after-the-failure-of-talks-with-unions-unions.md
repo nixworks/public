@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/17/arcelormittal-belgium-idUSL5E8KHM0920120917)
-2. [Le Vif](http://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=fr&tl=en&twu=1&u=http://trends.levif.be/economie/actualite/entreprises/arcelormittal-le-froid-menace/article-4000178697546.htm&usg=ALkJrhjRxIQorb6eOpX3pkDi6lEebRqFdQ)
+1. [Le Vif](http://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=fr&tl=en&twu=1&u=http://trends.levif.be/economie/actualite/entreprises/arcelormittal-le-froid-menace/article-4000178697546.htm&usg=ALkJrhjRxIQorb6eOpX3pkDi6lEebRqFdQ)
+2. [Reuters](http://www.reuters.com/article/2012/09/17/arcelormittal-belgium-idUSL5E8KHM0920120917)
 
 ### Related:
 

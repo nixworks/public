@@ -7,10 +7,10 @@ Syrian activists say rebels have seized key security buildings in the northern c
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/06/us-syria-crisis-golan-idUSBRE9250ZA20130306)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-21684105)
-3. [AP via Fox News](http://www.foxnews.com/world/2013/03/06/syrian-activists-say-rebels-seize-security-buildings-in-raqqa-declare-it-1st/)
-4. [AP via Fox News](http://www.foxnews.com/world/2013/03/06/arab-foreign-ministers-offer-syrian-opposition-coalition-country-arab-league/)
+1. [AP via Fox News](http://www.foxnews.com/world/2013/03/06/arab-foreign-ministers-offer-syrian-opposition-coalition-country-arab-league/)
+2. [AP via Fox News](http://www.foxnews.com/world/2013/03/06/syrian-activists-say-rebels-seize-security-buildings-in-raqqa-declare-it-1st/)
+3. [BBC](http://www.bbc.co.uk/news/uk-politics-21684105)
+4. [Reuters](http://www.reuters.com/article/2013/03/06/us-syria-crisis-golan-idUSBRE9250ZA20130306)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [VB2013](http://vb2013.bmi.gv.at/)
+1. [Business Ghana](http://www.businessghana.com/portal/news/index.php?op=getNews&id=177780)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21110431)
-3. [Business Ghana](http://www.businessghana.com/portal/news/index.php?op=getNews&id=177780)
+3. [VB2013](http://vb2013.bmi.gv.at/)
 4. [Channel New Asia](http://www.channelnewsasia.com/stories/afp_world/view/1248706/1/.html)
 
 ### Related:

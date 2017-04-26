@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/01/uk-mali-rebels-qaeda-idUKBRE9200QB20130301)
+1. [Voice of  America](http://www.voanews.com/content/chad-says-forces-killed-top-alqaida-commander/1613626.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21637829)
-3. [Voice of  America](http://www.voanews.com/content/chad-says-forces-killed-top-alqaida-commander/1613626.html)
+3. [Reuters](http://www.reuters.com/article/2013/03/01/uk-mali-rebels-qaeda-idUKBRE9200QB20130301)
 
 ### Related:
 

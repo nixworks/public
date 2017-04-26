@@ -7,10 +7,10 @@ With fast-moving flames continuing to burn tens of thousands of acres in and aro
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/9c7ebe0095694b5ba0fddccb05f938f0/hot-hard-days-ahead-firefighters-california-blaze)
-2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sand-fire-santa-clarita-20160725-snap-story.html?track=lat-pick)
-3. [Los Angeles Daily News](http://www.dailynews.com/general-news/20160726/la-county-board-declares-local-state-of-emergency-in-fight-against-sand-fire)
-4. [San Francisco Chronicle](http://www.sfgate.com/news/article/Soberanes-Fire-near-Big-Sur-grows-to-nearly-8423225.php)
+1. [San Francisco Chronicle](http://www.sfgate.com/news/article/Soberanes-Fire-near-Big-Sur-grows-to-nearly-8423225.php)
+2. [Los Angeles Daily News](http://www.dailynews.com/general-news/20160726/la-county-board-declares-local-state-of-emergency-in-fight-against-sand-fire)
+3. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sand-fire-santa-clarita-20160725-snap-story.html?track=lat-pick)
+4. [AP](http://bigstory.ap.org/article/9c7ebe0095694b5ba0fddccb05f938f0/hot-hard-days-ahead-firefighters-california-blaze)
 
 ### Related:
 

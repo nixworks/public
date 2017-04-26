@@ -7,11 +7,11 @@ Rebel forces in the eastern Libyan town of Brega fight off an attack by soldiers
 
 ### Source:
 
-1. [AP via''Gold Coast Telegram](http://www.gctelegram.com/news/AP-Libya-3-2-11)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12626496)
 2. [New York Times](http://thelede.blogs.nytimes.com/2011/03/02/latest-updates-on-libyas-revolt-and-mideast-protests-5/?src=twt&twt=thelede#rebel-council-in-benghazi-calls-for-airstrikes)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-12626496)
+3. [Yonhap](http://english.yonhapnews.co.kr/news/2011/03/02/0200000000AEN20110302005300315.HTML)
 4. [Associated Press](http://hosted.ap.org/dynamic/stories/A/AF_LIBYA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-03-02-07-34-03)
-5. [Yonhap](http://english.yonhapnews.co.kr/news/2011/03/02/0200000000AEN20110302005300315.HTML)
+5. [AP via''Gold Coast Telegram](http://www.gctelegram.com/news/AP-Libya-3-2-11)
 
 ### Related:
 

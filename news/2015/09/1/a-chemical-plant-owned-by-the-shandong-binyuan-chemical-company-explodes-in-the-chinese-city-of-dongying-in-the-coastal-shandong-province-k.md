@@ -7,9 +7,9 @@ At least one person has been reported dead in yet another
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/another-china-chemical-plant-explosion/2940382.html)
-2. [AP via Asian Correspondent](http://asiancorrespondent.com/135238/explosion-rocks-another-chemical-plant-in-china-1-dead/)
-3. [Shanghaiist](http://shanghaiist.com/2015/09/01/1-dead-explosion-hits-another-chemical-plant-shandong.php)
+1. [Shanghaiist](http://shanghaiist.com/2015/09/01/1-dead-explosion-hits-another-chemical-plant-shandong.php)
+2. [Voice of America](http://www.voanews.com/content/another-china-chemical-plant-explosion/2940382.html)
+3. [AP via Asian Correspondent](http://asiancorrespondent.com/135238/explosion-rocks-another-chemical-plant-in-china-1-dead/)
 
 ### Related:
 

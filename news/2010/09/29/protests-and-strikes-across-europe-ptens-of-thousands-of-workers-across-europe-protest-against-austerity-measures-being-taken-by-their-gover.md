@@ -7,18 +7,18 @@ Tens of thousands take to the streets of Brussels and other European cities in a
 
 ### Source:
 
-1. [AFP](http://news.ph.msn.com/business/article.aspx?cp-documentid=4366433)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010929114043842969.html)
-3. [The News Tribune](http://www.thenewstribune.com/2010/09/29/1360855/general-strike-starts-in-spain.html)
-4. [BBC](http://www.bbc.co.uk/news/world-europe-11432579)
-5. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/29/europe.strikes/?hpt=Sbin)
-6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/30/c_13536202.htm)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/29/europe.strikes/?hpt=Sbin)
+2. [The Guardian](http://www.guardian.co.uk/business/2010/sep/29/anglo-irish-bank-bailout-cost)
+3. [The Hindu](http://www.thehindu.com/news/international/article803003.ece)
+4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010929114043842969.html)
+5. [The Guardian](http://www.guardian.co.uk/business/2010/sep/29/europe-austerity-protests)
+6. [BBC](http://www.bbc.co.uk/news/world-europe-11432579)
 7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0929/breaking10.html?via=rel)
-8. [The Guardian](http://www.guardian.co.uk/business/2010/sep/29/europe-austerity-protests)
-9. [Gulf News](http://gulfnews.com/business/aviation/etihad-delays-flight-to-brussels-1.689198)
-10. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/workers-swarm-europes-streets-in-anticuts-protests-20100930-15xnn.html)
-11. [The Guardian](http://www.guardian.co.uk/business/2010/sep/29/anglo-irish-bank-bailout-cost)
-12. [The Hindu](http://www.thehindu.com/news/international/article803003.ece)
+8. [Gulf News](http://gulfnews.com/business/aviation/etihad-delays-flight-to-brussels-1.689198)
+9. [AFP](http://news.ph.msn.com/business/article.aspx?cp-documentid=4366433)
+10. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/30/c_13536202.htm)
+11. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/workers-swarm-europes-streets-in-anticuts-protests-20100930-15xnn.html)
+12. [The News Tribune](http://www.thenewstribune.com/2010/09/29/1360855/general-strike-starts-in-spain.html)
 
 ### Related:
 

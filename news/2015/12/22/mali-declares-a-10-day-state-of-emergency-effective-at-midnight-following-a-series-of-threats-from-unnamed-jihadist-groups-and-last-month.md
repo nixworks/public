@@ -7,9 +7,9 @@ After a year of terror attacks, both governments have stopped public gatherings 
 
 ### Source:
 
-1. [TV360Nigeria](http://www.tv360nigeria.com/mali-declares-10-day-state-of-emergency/)
-2. [NDTV](http://www.ndtv.com/world-news/mali-reimposes-state-of-emergency-for-years-end-1257877)
-3. [DW](http://www.dw.com/en/mali-declares-tunisia-extends-state-of-emergency-over-terror-fears/a-18935040)
+1. [NDTV](http://www.ndtv.com/world-news/mali-reimposes-state-of-emergency-for-years-end-1257877)
+2. [DW](http://www.dw.com/en/mali-declares-tunisia-extends-state-of-emergency-over-terror-fears/a-18935040)
+3. [TV360Nigeria](http://www.tv360nigeria.com/mali-declares-10-day-state-of-emergency/)
 
 ### Related:
 

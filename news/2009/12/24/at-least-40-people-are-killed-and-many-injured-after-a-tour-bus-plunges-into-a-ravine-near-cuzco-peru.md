@@ -7,8 +7,8 @@ A bus careened into a ravine in Peru Thursday, leaving at least 40 people dead a
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/americas/12/24/peru.bus.crash/)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-12/25/content_12701356.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-12/25/content_12701356.htm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/americas/12/24/peru.bus.crash/)
 3. [UPI](http://www.upi.com/Top_News/International/2009/12/24/40-dead-in-Peru-bus-crash/UPI-82771261695199/)
 
 ### Related:

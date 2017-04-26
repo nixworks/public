@@ -7,8 +7,8 @@ The International Olympic Committee was offered a choice between a 2020 Games in
 
 ### Source:
 
-1. [Olympic.org](http://www.olympic.org/news/2020-candidate-cities-deliver-candidature-files/187656)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/olympics/9786054/Tokyo-Madrid-and-Istanbul-submit-their-bids-to-host-2020-Olympics-Games.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/olympics/9786054/Tokyo-Madrid-and-Istanbul-submit-their-bids-to-host-2020-Olympics-Games.html)
+2. [Olympic.org](http://www.olympic.org/news/2020-candidate-cities-deliver-candidature-files/187656)
 
 ### Related:
 

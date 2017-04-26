@@ -7,8 +7,8 @@ A powerful US military sea-based radar is now in place to detect any possible mi
 
 ### Source:
 
-1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/world/us-radar-in-place-to/635142.html)
-2. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/n-korea-blames-south-s/635042.html)
+1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/n-korea-blames-south-s/635042.html)
+2. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/world/us-radar-in-place-to/635142.html)
 3. [CNN](http://www.cnn.com/2013/04/11/world/asia/koreas-tensions)
 
 ### Related:

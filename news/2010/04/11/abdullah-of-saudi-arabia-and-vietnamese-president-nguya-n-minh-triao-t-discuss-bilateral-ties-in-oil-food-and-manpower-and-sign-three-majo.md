@@ -7,11 +7,11 @@ Vietnam will sign an agreement with the kingdom of Saudi Arabia to encourage Sau
 
 ### Source:
 
-1. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2010041068956)
+1. [Arab News](http://arabnews.com/saudiarabia/article41695.ece)
 2. [Daily Star'' Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=10&categ_id=3&article_id=113662)
-3. [Reuters](http://uk.reuters.com/article/idUKLDE6390C320100411)
-4. [Radio Australia](http://www.radioaustralianews.net.au/stories/201004/2869645.htm?desktop)
-5. [Arab News](http://arabnews.com/saudiarabia/article41695.ece)
+3. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2010041068956)
+4. [Reuters](http://uk.reuters.com/article/idUKLDE6390C320100411)
+5. [Radio Australia](http://www.radioaustralianews.net.au/stories/201004/2869645.htm?desktop)
 
 ### Related:
 

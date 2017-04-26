@@ -7,8 +7,8 @@ The French authorities say they are preparing to extradite the former Panamanian
 
 ### Source:
 
-1. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0620/breaking103.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-13849520)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-13849520)
+2. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0620/breaking103.html)
 
 ### Related:
 

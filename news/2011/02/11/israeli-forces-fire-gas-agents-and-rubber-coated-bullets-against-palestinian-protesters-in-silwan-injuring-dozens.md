@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Muslim News](http://www.muslimnews.co.uk/news/news.php?article=19638)
-2. [The Palestine Telegraph](http://www.paltelegraph.com/palestine/west-bank/8455-clashes-erupted-after-friday-prayer-in-silwan.html)
+1. [The Palestine Telegraph](http://www.paltelegraph.com/palestine/west-bank/8455-clashes-erupted-after-friday-prayer-in-silwan.html)
+2. [Muslim News](http://www.muslimnews.co.uk/news/news.php?article=19638)
 
 ### Related:
 

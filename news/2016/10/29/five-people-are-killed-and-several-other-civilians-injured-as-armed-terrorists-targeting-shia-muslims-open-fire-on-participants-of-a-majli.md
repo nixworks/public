@@ -7,8 +7,8 @@ KARACHI: At least five people were killed and many others were wounded in what a
 
 ### Source:
 
-1. [The Express Tribune](http://tribune.com.pk/story/1214380/five-killed-firing-nazimabad-majlis/)
-2. [Samaa TV](http://www.samaa.tv/pakistan/2016/10/five-killed-in-gun-attack-on-karachi-majlis/)
+1. [Samaa TV](http://www.samaa.tv/pakistan/2016/10/five-killed-in-gun-attack-on-karachi-majlis/)
+2. [The Express Tribune](http://tribune.com.pk/story/1214380/five-killed-firing-nazimabad-majlis/)
 
 ### Related:
 

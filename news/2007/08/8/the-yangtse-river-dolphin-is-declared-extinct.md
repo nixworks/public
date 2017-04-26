@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1241492007)
-2. [Guardian](http://www.guardian.co.uk/environment/2007/aug/08/endangeredspecies.conservation)
+1. [Guardian](http://www.guardian.co.uk/environment/2007/aug/08/endangeredspecies.conservation)
+2. [The Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1241492007)
 
 ### Related:
 

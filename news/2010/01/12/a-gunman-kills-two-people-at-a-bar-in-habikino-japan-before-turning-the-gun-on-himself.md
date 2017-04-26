@@ -8,9 +8,9 @@
 ### Source:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Japan-gunman-kills-himself-after-shooting-two-people-police-/articleshow/5438654.cms)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hhtvnQInEjJd_EOHzbkl2Qph7ATg)
+2. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=480045)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8454625.stm)
-4. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=480045)
+4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hhtvnQInEjJd_EOHzbkl2Qph7ATg)
 
 ### Related:
 

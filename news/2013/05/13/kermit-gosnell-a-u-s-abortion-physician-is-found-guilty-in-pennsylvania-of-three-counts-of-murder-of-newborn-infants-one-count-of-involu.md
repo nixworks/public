@@ -7,8 +7,8 @@ A Philadelphia doctor is convicted of the first-degree murders of three babies b
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/national/health-science/jury-in-kermit-gosnell-trial-hung-on-two-charges/2013/05/13/b4444bdc-bbda-11e2-97d4-a479289a31f9_story.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-22518979)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-22518979)
+2. [The Washington Post](http://www.washingtonpost.com/national/health-science/jury-in-kermit-gosnell-trial-hung-on-two-charges/2013/05/13/b4444bdc-bbda-11e2-97d4-a479289a31f9_story.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2007-01-20T195527Z_01_N20369612_RTRUKOC_0_US-USA-POLITICS-CLINTON.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6282389.stm)
-3. [Clinton Website](http://www.hillaryclinton.com/)
+2. [Clinton Website](http://www.hillaryclinton.com/)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6282389.stm)
 4. [CNN](http://edition.cnn.com/2007/POLITICS/01/20/clinton.announcement/index.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters UK](http://go.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=1275797&section=news&src=rss/uk/worldNews)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/730994.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/730994.html)
+2. [Reuters UK](http://go.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=1275797&section=news&src=rss/uk/worldNews)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5119402.stm)
 
 ### Related:

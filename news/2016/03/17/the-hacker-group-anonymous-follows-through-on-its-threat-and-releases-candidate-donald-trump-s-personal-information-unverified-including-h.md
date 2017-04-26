@@ -7,9 +7,9 @@ The hacker group Anonymous made headlines the other day by saying it was declari
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/politics/rabbis-call-for-boycott-of-trumps-speech-to-pro-israel-group/2016/03/17/8e2f2ea6-ea14-11e5-a6f3-21ccdbc5f74e_story.html?wpmm=1&wpisrc=nl_evening)
-2. [AOL](http://www.aol.com/article/2016/03/17/trumps-social-security-phone-numbers-released-by-anonymous-h/21329514/)
-3. [USA Today](http://www.usatoday.com/story/news/politics/onpolitics/2016/03/17/total-war-anonymous-posts-trumps-social-security-number-phone-number/81933246/)
+1. [USA Today](http://www.usatoday.com/story/news/politics/onpolitics/2016/03/17/total-war-anonymous-posts-trumps-social-security-number-phone-number/81933246/)
+2. [The Washington Post](https://www.washingtonpost.com/politics/rabbis-call-for-boycott-of-trumps-speech-to-pro-israel-group/2016/03/17/8e2f2ea6-ea14-11e5-a6f3-21ccdbc5f74e_story.html?wpmm=1&wpisrc=nl_evening)
+3. [AOL](http://www.aol.com/article/2016/03/17/trumps-social-security-phone-numbers-released-by-anonymous-h/21329514/)
 4. [Daily Mirror](http://www.mirror.co.uk/tech/anonymous-declares-total-war-donald-7558647)
 
 ### Related:

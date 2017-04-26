@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/20091028203710994131.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jY17oU2cxol4YafwqoI2O5ETqJmQD9BKBIOG1)
-3. [The Herald](http://www.herald.co.zw/inside.aspx?sectid=11867&cat=1)
+2. [The Herald](http://www.herald.co.zw/inside.aspx?sectid=11867&cat=1)
+3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jY17oU2cxol4YafwqoI2O5ETqJmQD9BKBIOG1)
 
 ### Related:
 

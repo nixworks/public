@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2012/0219/espn.html)
-2. [Newsday](http://www.newsday.com/sports/basketball/knicks/espn-apologizes-for-three-jeremy-lin-slurs-1.3540156)
+1. [Newsday](http://www.newsday.com/sports/basketball/knicks/espn-apologizes-for-three-jeremy-lin-slurs-1.3540156)
+2. [RTE](http://www.rte.ie/news/2012/0219/espn.html)
 
 ### Related:
 

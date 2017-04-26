@@ -7,9 +7,9 @@ U.S. prosecutors charge the man accused of trying to explode a car bomb in New Y
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/36892505/ns/us_news-security/)
+1. [USA Today](http://www.usatoday.com/news/nation/2010-05-03-new-york-bombing_N.htm)
 2. [CNN](http://www.cnn.com/2010/CRIME/05/04/new.york.car.bomb/index.html?hpt=T1&iref=BN1)
-3. [USA Today](http://www.usatoday.com/news/nation/2010-05-03-new-york-bombing_N.htm)
+3. [MSNBC](http://www.msnbc.msn.com/id/36892505/ns/us_news-security/)
 
 ### Related:
 

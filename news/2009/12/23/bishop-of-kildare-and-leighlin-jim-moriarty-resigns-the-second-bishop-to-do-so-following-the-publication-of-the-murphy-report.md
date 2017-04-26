@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1223/abuse.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8428289.stm)
-3. [Bangkok Post](http://www.bangkokpost.com/news/world/163474/second-irish-bishop-resigns-over-child-abuse-scandal)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8428289.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/world/163474/second-irish-bishop-resigns-over-child-abuse-scandal)
+3. [RTÉ](http://www.rte.ie/news/2009/1223/abuse.html)
 
 ### Related:
 

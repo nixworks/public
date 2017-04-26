@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! Sports](http://sports.yahoo.com/news/fourcade-soukalova-win-world-cup-155302197--spt.html)
-2. [CBC](http://www.cbc.ca/sports/skiing/story/2013/03/17/sp-france-martin-fourcade-skiing-biathlon-world-cup.html)
+1. [CBC](http://www.cbc.ca/sports/skiing/story/2013/03/17/sp-france-martin-fourcade-skiing-biathlon-world-cup.html)
+2. [AP via Yahoo! Sports](http://sports.yahoo.com/news/fourcade-soukalova-win-world-cup-155302197--spt.html)
 
 ### Related:
 

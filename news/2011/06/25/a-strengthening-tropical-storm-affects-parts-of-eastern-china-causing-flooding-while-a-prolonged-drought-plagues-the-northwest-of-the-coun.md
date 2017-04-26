@@ -7,8 +7,8 @@ A strengthening tropical storm dumped rain on eastern China while a prolonged dr
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/25/c_13949912.htm)
-2. [UPI](http://www.upi.com/Top_News/World-News/2011/06/25/China-deals-with-tropical-storm-drought/UPI-80421309013665/)
+1. [UPI](http://www.upi.com/Top_News/World-News/2011/06/25/China-deals-with-tropical-storm-drought/UPI-80421309013665/)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/25/c_13949912.htm)
 
 ### Related:
 

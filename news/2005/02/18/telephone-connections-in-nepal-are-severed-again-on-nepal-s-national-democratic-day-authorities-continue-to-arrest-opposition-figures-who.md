@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4275843.stm)
+1. [Times of India](http://timesofindia.indiatimes.com/articleshow/1024654.cms)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/DEL301571.htm)
-3. [Times of India](http://timesofindia.indiatimes.com/articleshow/1024654.cms)
+3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4275843.stm)
 4. [Scotsman](http://news.scotsman.com/latest.cfm?id=4147861)
 
 ### Related:

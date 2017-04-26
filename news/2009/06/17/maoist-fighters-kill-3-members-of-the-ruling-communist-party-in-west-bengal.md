@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/India/Three-CPM-workers-shot-dead-in-West-Midnapore/articleshow/4665778.cms)
-2. [Reuters](http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSDEL50461320090617)
+1. [Reuters](http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSDEL50461320090617)
+2. [The Times of India](http://timesofindia.indiatimes.com/India/Three-CPM-workers-shot-dead-in-West-Midnapore/articleshow/4665778.cms)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-somalia-attacks-idUSKCN0UT0BT)
-2. [BBC](http://www.bbc.com/news/world-africa-35321522?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [BBC](http://www.bbc.com/news/world-africa-35321522?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Reuters](http://www.reuters.com/article/us-somalia-attacks-idUSKCN0UT0BT)
 
 ### Related:
 

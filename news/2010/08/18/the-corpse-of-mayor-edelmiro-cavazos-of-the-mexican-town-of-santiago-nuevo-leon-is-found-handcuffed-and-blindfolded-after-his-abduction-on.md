@@ -7,11 +7,11 @@ Police in Mexico find the body of the kidnapped mayor of the northern city of Sa
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11016902)
-2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-mexico-mayor-20100819,0,3681639.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fafrica+%28L.A.+Times+-+Africa%29)
+1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-mexico-mayor-20100819,0,3681639.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fafrica+%28L.A.+Times+-+Africa%29)
+2. [AP via ''Miamai Herald](http://www.miamiherald.com/2010/08/18/1781941/mexican-mayor-found-dead-3-days.html)
 3. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/20108181813527666.html)
-4. [AP via ''Miamai Herald](http://www.miamiherald.com/2010/08/18/1781941/mexican-mayor-found-dead-3-days.html)
-5. [Reuters](http://uk.reuters.com/article/idUKTRE67H2ZX20100818?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+4. [Reuters](http://uk.reuters.com/article/idUKTRE67H2ZX20100818?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+5. [BBC](http://www.bbc.co.uk/news/world-latin-america-11016902)
 
 ### Related:
 

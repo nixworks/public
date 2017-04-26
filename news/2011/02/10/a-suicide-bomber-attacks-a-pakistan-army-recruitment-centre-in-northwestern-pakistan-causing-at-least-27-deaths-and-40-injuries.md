@@ -9,8 +9,8 @@ A boy in a school uniform blew himself up at a Pakistani army recruitment center
 
 1. [AP via ''Courier Mail](http://www.couriermail.com.au/news/breaking-news/bomb-kills-at-least-14-troops-in-pakistan/story-e6freonf-1226003784759)
 2. [Sify](http://www.sify.com/news/27-cadets-killed-as-schoolboy-attacks-pakistan-army-centre-news-international-lckoOfagaec.html)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-12413469)
-4. [Reuters](http://www.reuters.com/article/2011/02/10/us-pakistan-violence-idUSTRE7190QW20110210)
+3. [Reuters](http://www.reuters.com/article/2011/02/10/us-pakistan-violence-idUSTRE7190QW20110210)
+4. [BBC](http://www.bbc.co.uk/news/world-south-asia-12413469)
 
 ### Related:
 

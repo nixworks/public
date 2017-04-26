@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2005/1/28/nation/10019675&sec=nation)
-2. [Bangkok Post](http://www.bangkokpost.com/News/28Jan2005_news02.php)
-3. [Reuter AlertNet](http://www.alertnet.org/thenews/newsdesk/KLR62115.htm)
+1. [Bangkok Post](http://www.bangkokpost.com/News/28Jan2005_news02.php)
+2. [Reuter AlertNet](http://www.alertnet.org/thenews/newsdesk/KLR62115.htm)
+3. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2005/1/28/nation/10019675&sec=nation)
 4. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/129405/1/.html)
 
 ### Related:

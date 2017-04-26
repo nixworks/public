@@ -7,9 +7,9 @@ A tropical storm formed in the Caribbean Friday and is expected to move across t
 
 ### Source:
 
-1. [Hurricane Terrapin](http://hurricane.terrapin.com/text/1313895795-HAFT24US.TXT.html.en)
-2. [Alertnet](http://www.trust.org/alertnet/news/tropical-storm-harvey-is-forecast-to-strike-belize-as-a-hurricane-at-about-0000-gmt-on-21-august)
-3. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/19/tropical.storm.harvey/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/19/tropical.storm.harvey/index.html?eref=edition)
+2. [Hurricane Terrapin](http://hurricane.terrapin.com/text/1313895795-HAFT24US.TXT.html.en)
+3. [Alertnet](http://www.trust.org/alertnet/news/tropical-storm-harvey-is-forecast-to-strike-belize-as-a-hurricane-at-about-0000-gmt-on-21-august)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Guineans cast their ballots in a vote that has been delayed multiple times follo
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6A51U920101106)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101176543138159.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101176543138159.html)
+2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6A51U920101106)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP/NewsAsia](http://www.channelnewsasia.com/news/world/russian-anti-war/1017688.html)
-2. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20140302-700553.html)
+1. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20140302-700553.html)
+2. [AFP/NewsAsia](http://www.channelnewsasia.com/news/world/russian-anti-war/1017688.html)
 
 ### Related:
 

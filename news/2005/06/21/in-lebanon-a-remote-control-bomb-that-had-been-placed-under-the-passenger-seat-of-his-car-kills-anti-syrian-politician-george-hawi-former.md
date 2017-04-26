@@ -7,11 +7,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-21T174538Z_01_N21476335_RTRIDST_0_INTERNATIONAL-LEBANON-DC.XML)
-2. [Ya Libnan](http://yalibnan.com/site/archives/2005/06/lebanese_leader_2.php)
-3. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=16140)
-4. [Al-JAzeera](http://english.aljazeera.net/NR/exeres/4237B3EA-3060-4C02-B9C4-154A1CE002A2.htm)
-5. [IHT](http://www.iht.com/articles/2005/06/22/news/lebanon.php)
+1. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=16140)
+2. [Al-JAzeera](http://english.aljazeera.net/NR/exeres/4237B3EA-3060-4C02-B9C4-154A1CE002A2.htm)
+3. [IHT](http://www.iht.com/articles/2005/06/22/news/lebanon.php)
+4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-21T174538Z_01_N21476335_RTRIDST_0_INTERNATIONAL-LEBANON-DC.XML)
+5. [Ya Libnan](http://yalibnan.com/site/archives/2005/06/lebanese_leader_2.php)
 
 ### Related:
 

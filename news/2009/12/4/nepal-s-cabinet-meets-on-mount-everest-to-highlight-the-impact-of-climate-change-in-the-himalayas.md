@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/04/everest.cabinet.meeting/)
-2. [Hindustan Times](http://www.hindustantimes.com/Nepali-cabinet-meets-at-Everest-base-camp/H1-Article3-482808.aspx)
+1. [Hindustan Times](http://www.hindustantimes.com/Nepali-cabinet-meets-at-Everest-base-camp/H1-Article3-482808.aspx)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/04/everest.cabinet.meeting/)
 
 ### Related:
 

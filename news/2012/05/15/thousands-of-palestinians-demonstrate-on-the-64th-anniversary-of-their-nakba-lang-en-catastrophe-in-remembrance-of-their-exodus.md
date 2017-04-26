@@ -7,9 +7,9 @@ Rallies and demonstrations in West Bank, Gaza and Israel as Palestinians commemo
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/police-idf-on-high-alert-ahead-of-nakba-day/)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012515773236523.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18073381)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012515773236523.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18073381)
+3. [The Times of Israel](http://www.timesofisrael.com/police-idf-on-high-alert-ahead-of-nakba-day/)
 
 ### Related:
 

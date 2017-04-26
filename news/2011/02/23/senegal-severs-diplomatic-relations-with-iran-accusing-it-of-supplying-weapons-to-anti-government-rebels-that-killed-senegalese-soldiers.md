@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/senegalNews/idAFLDE71M00620110223)
-2. [China Radio International](http://english.cri.cn/6966/2011/02/23/1461s622240.htm)
+1. [China Radio International](http://english.cri.cn/6966/2011/02/23/1461s622240.htm)
+2. [Reuters](http://af.reuters.com/article/senegalNews/idAFLDE71M00620110223)
 
 ### Related:
 

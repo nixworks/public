@@ -7,9 +7,9 @@ Exclusive: Secret interrogation facility reveals creeping aspects of war on terr
 
 ### Source:
 
-1. [Chicago Sun-Times](http://chicago.suntimes.com/news-chicago/7/71/393084/homan-square-site-chicago-police-deny-report-secret-interrogation-compound)
-2. [The Guardian](http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site)
-3. [The Guardian](http://www.theguardian.com/us-news/2015/feb/25/chicago-homan-square-former-justice-officials-call-for-investigation)
+1. [The Guardian](http://www.theguardian.com/us-news/2015/feb/25/chicago-homan-square-former-justice-officials-call-for-investigation)
+2. [Chicago Sun-Times](http://chicago.suntimes.com/news-chicago/7/71/393084/homan-square-site-chicago-police-deny-report-secret-interrogation-compound)
+3. [The Guardian](http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site)
 
 ### Related:
 

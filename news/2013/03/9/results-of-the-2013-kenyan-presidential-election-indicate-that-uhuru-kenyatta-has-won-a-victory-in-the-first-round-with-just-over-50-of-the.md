@@ -8,8 +8,8 @@ Uhuru Kenyatta has been announced as the winner of the presidential election in 
 ### Source:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/mar/09/kenyatta-declared-victor-in-kenyan-elections)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-21723488)
-3. [Euronews](http://www.euronews.com/2013/03/09/kenyan-election-result-disputed/)
+2. [Euronews](http://www.euronews.com/2013/03/09/kenyan-election-result-disputed/)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-21723488)
 
 ### Related:
 

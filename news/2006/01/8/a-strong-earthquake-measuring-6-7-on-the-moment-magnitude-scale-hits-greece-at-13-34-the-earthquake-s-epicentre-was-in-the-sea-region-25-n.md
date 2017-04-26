@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN.com](http://www.cnn.com/2006/WORLD/europe/01/08/greece.quake/index.html)
-2. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/ushrak.htm)
+1. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/ushrak.htm)
+2. [CNN.com](http://www.cnn.com/2006/WORLD/europe/01/08/greece.quake/index.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The United Nations has adopted a resolution supporting efforts by Russia and Tur
 
 ### Source:
 
-1. [ITV](http://www.itv.com/news/story/2016-12-29/putin-syria-ceasefire-agreed-between-government-and-rebel-forces/)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN14I17I)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN14I17I)
+2. [ITV](http://www.itv.com/news/story/2016-12-29/putin-syria-ceasefire-agreed-between-government-and-rebel-forces/)
 
 ### Related:
 

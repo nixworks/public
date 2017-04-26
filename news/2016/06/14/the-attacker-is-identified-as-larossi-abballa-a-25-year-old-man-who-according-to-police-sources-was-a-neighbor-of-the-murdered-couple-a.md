@@ -8,8 +8,8 @@ A policeman and his wife were killed in a frenzied knife attack at their home in
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2016/06/15/world/europe/france-stabbing-police-magnanville-isis.html?_r=0)
-2. [CBSNews](http://www.cbsnews.com/news/isis-france-police-commander-partner-death-paris-posts-facebook-live/)
-3. [The Telegraph](http://www.telegraph.co.uk/news/2016/06/13/paris-hostage-situation-after-man-kills-policeman/)
+2. [The Telegraph](http://www.telegraph.co.uk/news/2016/06/13/paris-hostage-situation-after-man-kills-policeman/)
+3. [CBSNews](http://www.cbsnews.com/news/isis-france-police-commander-partner-death-paris-posts-facebook-live/)
 
 ### Related:
 

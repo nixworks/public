@@ -8,8 +8,8 @@ Lome, Feb. 8 (Graphic) -- ECOWAS Heads of State and Government will...
 ### Source:
 
 1. [GhanaWeb](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=74979)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4248887.stm)
-3. [AllAfrica](http://allafrica.com/stories/200502080545.html)
+2. [AllAfrica](http://allafrica.com/stories/200502080545.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/4248887.stm)
 
 ### Related:
 

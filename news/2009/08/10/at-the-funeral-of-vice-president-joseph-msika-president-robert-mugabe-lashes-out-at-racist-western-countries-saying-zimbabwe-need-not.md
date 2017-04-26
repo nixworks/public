@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.thetimes.co.za/News/Article.aspx?id=1047710)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090810154035697C805191)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090810154035697C805191)
+2. [The Times](http://www.thetimes.co.za/News/Article.aspx?id=1047710)
 
 ### Related:
 

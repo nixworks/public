@@ -7,8 +7,8 @@ The German, French and Spanish leaders visit the site in the French Alps where a
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html?_r=0)
-2. [BBC](http://www.bbc.com/news/world-europe-32046250)
+1. [BBC](http://www.bbc.com/news/world-europe-32046250)
+2. [The New York Times](http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html?_r=0)
 
 ### Related:
 

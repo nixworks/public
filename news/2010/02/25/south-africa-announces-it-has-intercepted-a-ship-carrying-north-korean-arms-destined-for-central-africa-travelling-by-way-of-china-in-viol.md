@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/169703/china-probes-path-of-seized-north-korea-arms)
-2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704479404575087411640791960.html?mod=WSJ_latestheadlines)
+1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704479404575087411640791960.html?mod=WSJ_latestheadlines)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/169703/china-probes-path-of-seized-north-korea-arms)
 
 ### Related:
 

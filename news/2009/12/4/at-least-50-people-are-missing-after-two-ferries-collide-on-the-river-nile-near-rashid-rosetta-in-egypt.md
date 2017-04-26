@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gNw68f6C8wni5REbpZDKbHN9oDuw)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3815237,00.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8396483.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8396483.stm)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3815237,00.html)
 
 ### Related:
 

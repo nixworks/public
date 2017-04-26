@@ -8,8 +8,8 @@ Public sector workers are taking part in a 24-hour UK-wide strike over pensions,
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18010526)
-2. [The Guardian](http://www.guardian.co.uk/uk/2012/may/10/police-officers-march-cuts)
-3. [The Scotsman](http://www.scotsman.com/news/workers-strike-over-pension-reform-1-2285112)
+2. [The Scotsman](http://www.scotsman.com/news/workers-strike-over-pension-reform-1-2285112)
+3. [The Guardian](http://www.guardian.co.uk/uk/2012/may/10/police-officers-march-cuts)
 
 ### Related:
 

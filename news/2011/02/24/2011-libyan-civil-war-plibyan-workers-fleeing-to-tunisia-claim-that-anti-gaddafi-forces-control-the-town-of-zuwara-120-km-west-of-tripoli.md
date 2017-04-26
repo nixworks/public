@@ -7,11 +7,11 @@ Libyan leader Moammar Gadhafi,speaking on Libyan state TV, says the protesters h
 
 ### Source:
 
-1. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/fighting-breaks-out-30-miles-west-of-libyan-capital/1)
-2. [Reuters via Channel 4 UK](http://www.channel4.com/news/libya-crisis-gaddafi-clings-to-power-uk-evacuations)
-3. [AFP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/pro-government-forces-kill-10-in-libya/story-e6frf7jx-1226011718493)
-4. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/23/live-blog-libya-feb-24)
-5. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/24/138986.html)
+1. [Reuters via Channel 4 UK](http://www.channel4.com/news/libya-crisis-gaddafi-clings-to-power-uk-evacuations)
+2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/fighting-breaks-out-30-miles-west-of-libyan-capital/1)
+3. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/24/138986.html)
+4. [AFP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/pro-government-forces-kill-10-in-libya/story-e6frf7jx-1226011718493)
+5. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/23/live-blog-libya-feb-24)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The U.S. and Russia declared a rapprochement in part by agreeing to disagree on 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8137637.stm)
-2. [The New York Times](http://www.nytimes.com/2009/07/08/world/europe/08prexy.html?hp)
-3. [RIA Novosti](http://en.rian.ru/russia/20090707/155457959.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20090707/155457959.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8137637.stm)
+3. [The New York Times](http://www.nytimes.com/2009/07/08/world/europe/08prexy.html?hp)
 
 ### Related:
 

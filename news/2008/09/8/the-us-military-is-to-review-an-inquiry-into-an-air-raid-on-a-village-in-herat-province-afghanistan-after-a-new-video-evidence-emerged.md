@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7603969.stm)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AFGHAN_CIVILIAN_DEATHS?SITE=VASTR&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AFGHAN_CIVILIAN_DEATHS?SITE=VASTR&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7603969.stm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Qantas has grounded its Airbus A380s after a mid-air explosion forced an emergen
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101104/wl_afp/singaporeaustraliaairlineincidentland)
+1. [MSN](http://news.ph.msn.com/business/article.aspx?cp-documentid=4437791)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11691197)
-3. [MSN](http://news.ph.msn.com/business/article.aspx?cp-documentid=4437791)
+3. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101104/wl_afp/singaporeaustraliaairlineincidentland)
 4. [AAP via ''Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/qantas-grounds-a380s-after-explosion-20101104-17f4k.html)
 
 ### Related:

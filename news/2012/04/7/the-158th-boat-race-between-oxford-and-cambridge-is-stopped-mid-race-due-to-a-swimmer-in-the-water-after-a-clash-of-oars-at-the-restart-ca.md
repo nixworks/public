@@ -7,8 +7,8 @@ A man is charged over an incident which led to the 158th University Boat Race be
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/rowing/17645929)
-2. [Yahoo](http://uk.news.yahoo.com/boat-race-halted-thames-swimmer-134105010.html)
+1. [Yahoo](http://uk.news.yahoo.com/boat-race-halted-thames-swimmer-134105010.html)
+2. [BBC](http://www.bbc.co.uk/sport/0/rowing/17645929)
 
 ### Related:
 

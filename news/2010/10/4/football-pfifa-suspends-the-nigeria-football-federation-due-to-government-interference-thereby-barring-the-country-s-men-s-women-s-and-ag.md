@@ -7,9 +7,9 @@ Network calls on Jordan for a full investigation into disruptions of its signal 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010104134951296843.html)
+1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Croydon-Athletic-Chairman-David-Le-Cluse-Found-Dead-Club-Emroiled-In-Cricket-Match-Fixing-Scandal/Article/201010115751011?lpos=UK_News_News_Your_Way_Region_5&lid=NewsYourWay_ARTICLE_15751011_Croydon_Athletic_Chairman_David_Le_Cluse_Found_Dead%3A_Club_Emroiled_In_Cricket_Match-Fixing_Scandal)
 2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/africa/9060018.stm)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Croydon-Athletic-Chairman-David-Le-Cluse-Found-Dead-Club-Emroiled-In-Cricket-Match-Fixing-Scandal/Article/201010115751011?lpos=UK_News_News_Your_Way_Region_5&lid=NewsYourWay_ARTICLE_15751011_Croydon_Athletic_Chairman_David_Le_Cluse_Found_Dead%3A_Club_Emroiled_In_Cricket_Match-Fixing_Scandal)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010104134951296843.html)
 4. [BBC News](http://www.bbc.co.uk/news/uk-england-london-11464234)
 
 ### Related:

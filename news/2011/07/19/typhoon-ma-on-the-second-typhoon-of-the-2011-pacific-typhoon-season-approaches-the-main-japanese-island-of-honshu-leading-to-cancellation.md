@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110719a3.html)
-2. [APA](http://en.apa.az/news.php?id=151778)
+1. [APA](http://en.apa.az/news.php?id=151778)
+2. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110719a3.html)
 
 ### Related:
 

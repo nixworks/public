@@ -7,8 +7,8 @@ A 5.9 magnitude earthquake struck central Australia early on Saturday, the U.S. 
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/national/magnitude-62-earthquake-recorded-in-central-australia-20160520-gp0ev6.html)
-2. [RT](https://www.rt.com/news/343821-australia-quake-alice-springs/)
+1. [RT](https://www.rt.com/news/343821-australia-quake-alice-springs/)
+2. [The Sydney Morning Herald](http://www.smh.com.au/national/magnitude-62-earthquake-recorded-in-central-australia-20160520-gp0ev6.html)
 
 ### Related:
 

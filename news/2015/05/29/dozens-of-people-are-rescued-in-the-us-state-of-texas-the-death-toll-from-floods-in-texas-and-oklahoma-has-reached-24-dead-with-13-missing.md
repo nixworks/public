@@ -7,8 +7,8 @@ Scores of people were rescued from flash flooding in Texas early Friday, as emer
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-29-US--Severe%20Weather-The%20Latest/id-0364e46083874d098a9abc618eeb84f3)
-2. [NBC News](http://www.nbcnews.com/news/weather/texas-floods-dozens-rescued-state-struggles-record-rain-n366436?cid=eml_nbn_20150529)
+1. [NBC News](http://www.nbcnews.com/news/weather/texas-floods-dozens-rescued-state-struggles-record-rain-n366436?cid=eml_nbn_20150529)
+2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-29-US--Severe%20Weather-The%20Latest/id-0364e46083874d098a9abc618eeb84f3)
 
 ### Related:
 

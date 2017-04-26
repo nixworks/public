@@ -7,8 +7,8 @@ Coordinated bomb attacks killed more than 32 people across Iraq on Sunday, the l
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/30/us-iraq-securityviolence-idUSBRE88T03420120930)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19776555)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19776555)
+2. [Reuters](http://www.reuters.com/article/2012/09/30/us-iraq-securityviolence-idUSBRE88T03420120930)
 
 ### Related:
 

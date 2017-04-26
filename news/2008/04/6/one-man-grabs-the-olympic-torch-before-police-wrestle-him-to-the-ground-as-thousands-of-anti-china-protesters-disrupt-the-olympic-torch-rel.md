@@ -7,8 +7,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/04/06/nolympic206.xml)
-2. [BBC News](http://news.bbc.co.uk/1/hi/uk_politics/7333300.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/uk_politics/7333300.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/04/06/nolympic206.xml)
 
 ### Related:
 

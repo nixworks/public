@@ -7,8 +7,8 @@ North Korea showed an American scientist last week a vast new facility it secret
 
 ### Source:
 
-1. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=109306&code=Ne2&category=2)
-2. [The New York Times](http://www.nytimes.com/2010/11/21/world/asia/21intel.html?_r=1&emc=na)
+1. [The New York Times](http://www.nytimes.com/2010/11/21/world/asia/21intel.html?_r=1&emc=na)
+2. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=109306&code=Ne2&category=2)
 
 ### Related:
 

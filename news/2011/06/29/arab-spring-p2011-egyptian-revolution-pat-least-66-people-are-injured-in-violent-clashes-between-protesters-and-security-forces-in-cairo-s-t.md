@@ -7,14 +7,14 @@ Military spokesman says June air drops in Nafusa Mountains, south of Tripoli, co
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116297580725806.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162916103730548.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/201162913557645830.html)
-4. [BBC](http://www.bbc.co.uk/news/world-africa-13955751)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011629152020114612.html)
-6. [McClatchy via ''Sacramento Bee](http://www.sacbee.com/2011/06/28/3734775/violent-clashes-in-carios-tahrir.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162916103730548.html)
+2. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Oman-court-jails-13-people-after-protests-for-jobs/articleshow/9040139.cms)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116297580725806.html)
+4. [McClatchy via ''Sacramento Bee](http://www.sacbee.com/2011/06/28/3734775/violent-clashes-in-carios-tahrir.html)
+5. [BBC](http://www.bbc.co.uk/news/world-africa-13955751)
+6. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/201162913557645830.html)
 7. [BBC](http://www.bbc.co.uk/news/world-middle-east-13959155)
-8. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Oman-court-jails-13-people-after-protests-for-jobs/articleshow/9040139.cms)
+8. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011629152020114612.html)
 
 ### Related:
 

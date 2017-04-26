@@ -7,8 +7,8 @@ Dolly Parton is &quot;heartbroken&quot; over wildfires that have claimed three l
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-38142907)
-2. [WBIR](http://www.wbir.com/news/local/gatlinburg-officials-a-fire-for-the-history-books/357912872)
+1. [WBIR](http://www.wbir.com/news/local/gatlinburg-officials-a-fire-for-the-history-books/357912872)
+2. [BBC](http://www.bbc.com/news/world-us-canada-38142907)
 
 ### Related:
 

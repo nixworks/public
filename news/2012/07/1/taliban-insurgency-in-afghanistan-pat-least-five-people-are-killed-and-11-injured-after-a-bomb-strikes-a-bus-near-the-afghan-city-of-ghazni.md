@@ -7,8 +7,8 @@ A man in an Afghan police uniform has killed three NATO personnel in the war-tor
 
 ### Source:
 
-1. [AP via ''Winnipeg Free Press](http://www.winnipegfreepress.com/world/bus-strikes-roadside-bomb-in-afghanistan-5-civilians-killed-160985355.html)
-2. [RTE](http://www.rte.ie/news/2012/0701/three-nato-personnel-killed-in-afghanistan.html)
+1. [RTE](http://www.rte.ie/news/2012/0701/three-nato-personnel-killed-in-afghanistan.html)
+2. [AP via ''Winnipeg Free Press](http://www.winnipegfreepress.com/world/bus-strikes-roadside-bomb-in-afghanistan-5-civilians-killed-160985355.html)
 
 ### Related:
 

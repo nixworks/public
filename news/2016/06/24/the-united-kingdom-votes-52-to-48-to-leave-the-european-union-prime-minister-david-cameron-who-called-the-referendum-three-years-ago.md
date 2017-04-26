@@ -7,10 +7,10 @@ Up to the minute results for the 2016 EU Referendum from BBC News
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-britain-eu-idUSKCN0Z902K)
-2. [Newsweek](http://www.newsweek.com/brexit-live-coverage-britain-votes-leave-eu-473980)
-3. [BBC](http://www.bbc.com/news/politics/eu_referendum/results)
-4. [BBC²](http://www.bbc.com/news/uk-politics-36615028#)
+1. [BBC](http://www.bbc.com/news/politics/eu_referendum/results)
+2. [BBC²](http://www.bbc.com/news/uk-politics-36615028#)
+3. [Newsweek](http://www.newsweek.com/brexit-live-coverage-britain-votes-leave-eu-473980)
+4. [Reuters](http://www.reuters.com/article/us-britain-eu-idUSKCN0Z902K)
 
 ### Related:
 

@@ -7,10 +7,10 @@ A MAN who is HIV-positive injected his wife with his blood while she slept, infe
 
 ### Source:
 
-1. [Sunday Star Times](http://www.stuff.co.nz/sunday-star-times/news/3130245/Man-injects-sleeping-wife-with-HIV)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8397683.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20091205220234865C594189)
-3. [The Sydney Morning Herald](http://www.smh.com.au/world/sleeping-woman-injected-with-hiv-20091205-kc01.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8397683.stm)
+3. [Sunday Star Times](http://www.stuff.co.nz/sunday-star-times/news/3130245/Man-injects-sleeping-wife-with-HIV)
+4. [The Sydney Morning Herald](http://www.smh.com.au/world/sleeping-woman-injected-with-hiv-20091205-kc01.html)
 
 ### Related:
 

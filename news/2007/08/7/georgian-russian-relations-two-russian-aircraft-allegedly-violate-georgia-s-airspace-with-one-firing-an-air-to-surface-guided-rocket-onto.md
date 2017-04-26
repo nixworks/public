@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [civil.ge](http://www.civil.ge/eng/article.php?id=15552)
-2. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/europe/08/06/russia.georgia.reut/)
+1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/europe/08/06/russia.georgia.reut/)
+2. [civil.ge](http://www.civil.ge/eng/article.php?id=15552)
 
 ### Related:
 

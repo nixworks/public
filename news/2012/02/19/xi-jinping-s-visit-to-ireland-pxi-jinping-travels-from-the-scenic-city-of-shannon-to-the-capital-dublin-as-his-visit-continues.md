@@ -7,10 +7,10 @@ On the second day of an Irish visit that focused on trade, Chinese Vice Presiden
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2012/0219/china.html)
-2. [China Daily](http://www.chinadaily.com.cn/usa/china/2012-02/20/content_14641883.htm)
+1. [China Daily](http://www.chinadaily.com.cn/usa/china/2012-02/20/content_14641883.htm)
+2. [Financial Times](http://www.ft.com/cms/s/0/f3fd6ae4-5af9-11e1-ab75-00144feabdc0.html#axzz1mrxVZu7K)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-17090330)
-4. [Financial Times](http://www.ft.com/cms/s/0/f3fd6ae4-5af9-11e1-ab75-00144feabdc0.html#axzz1mrxVZu7K)
+4. [RTÉ](http://www.rte.ie/news/2012/0219/china.html)
 
 ### Related:
 

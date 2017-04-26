@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [tibet.cn](http://eng.tibet.cn/news/today/201006/t20100605_588519.htm)
-2. [People Daily](http://english.peopledaily.com.cn/90001/90782/90873/7013655.html)
-3. [Xinhua](http://news.xinhuanet.com/english2010/culture/2010-06/05/c_13334677.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/culture/2010-06/05/c_13334677.htm)
+2. [tibet.cn](http://eng.tibet.cn/news/today/201006/t20100605_588519.htm)
+3. [People Daily](http://english.peopledaily.com.cn/90001/90782/90873/7013655.html)
 
 ### Related:
 

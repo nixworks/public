@@ -7,12 +7,12 @@ Europe’s finance ministers approved an 85 billion euro bailout and agreed on a
 
 ### Source:
 
-1. [CNN Money](http://money.cnn.com/2010/11/28/news/international/ireland_bailout/)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11855990)
-3. [The New York Times](http://www.nytimes.com/2010/11/29/business/global/29euro.html?_r=1&src=busln)
-4. [RTÉ](http://www.rte.ie/news/2010/1128/economy.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-11-28/eu-ministers-race-to-complete-aid-package-for-ireland-before-markets-open.html)
+2. [The New York Times](http://www.nytimes.com/2010/11/29/business/global/29euro.html?_r=1&src=busln)
+3. [RTÉ](http://www.rte.ie/news/2010/1128/economy.html)
+4. [CNN Money](http://money.cnn.com/2010/11/28/news/international/ireland_bailout/)
 5. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iboMaf_9p8tDcw-SRbOiNkEtxwXA?docId=d887f77328d5408389f5a34e30e7a8bb)
-6. [Bloomberg](http://www.bloomberg.com/news/2010-11-28/eu-ministers-race-to-complete-aid-package-for-ireland-before-markets-open.html)
+6. [BBC](http://www.bbc.co.uk/news/world-europe-11855990)
 
 ### Related:
 

@@ -7,12 +7,12 @@ The Syrian army&#39;s bombardment of the city of Hama kills at least 41 people.
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iLgspYutj2qJMYFTEHoEqElCWTzg?docId=CNG.46e25fa518eb6f1c1a1c63a9a74c366e.3c1)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012528121125104117.html)
 2. [Reuters via ''The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2012/May-28/174844-syrian-bombardment-of-hama-kills-41-opposition.ashx#axzz1w92tpTcb)
-3. [BBC](http://www.bbc.co.uk/news/world-18239695)
+3. [Al Arabiya](http://english.alarabiya.net/articles/2012/05/28/217083.html)
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-18231502)
-5. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012528121125104117.html)
-6. [Al Arabiya](http://english.alarabiya.net/articles/2012/05/28/217083.html)
+5. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iLgspYutj2qJMYFTEHoEqElCWTzg?docId=CNG.46e25fa518eb6f1c1a1c63a9a74c366e.3c1)
+6. [BBC](http://www.bbc.co.uk/news/world-18239695)
 
 ### Related:
 

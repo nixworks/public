@@ -7,15 +7,15 @@ Several dozen women drove in major cities of Saudi Arabia on Friday as part of a
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Video-Women-In-Saudi-Arabia-Are-Challenging-The-Male-Only-Driving-Rules-In-The-Kingdom/Article/201106316014003?lpos=Home_Third_Home_Page_Article_Teaser_Region__4&lid=ARTICLE_16014003_Video%3A_Women_In_Saudi_Arabia_Are_Challenging_The_Male-Only_Driving_Rules_In_The_Kingdom)
+1. [Gulf NEWS](http://gulfnews.com/opinions/columnists/saudi-women-do-want-to-drive-1.823252)
 2. [Reuters](http://www.reuters.com/article/2011/06/17/us-saudi-women-driving-idUSTRE75G65920110617)
-3. [The Guardian](http://www.guardian.co.uk/commentisfree/2011/jun/18/saudi-arabia-women-drivers-protest)
-4. [The New York Times](http://www.nytimes.com/2011/06/18/world/middleeast/18saudi.html)
-5. [Gulf NEWS](http://gulfnews.com/opinions/columnists/saudi-women-do-want-to-drive-1.823252)
+3. [Sky News](http://news.sky.com/skynews/Home/Video-Women-In-Saudi-Arabia-Are-Challenging-The-Male-Only-Driving-Rules-In-The-Kingdom/Article/201106316014003?lpos=Home_Third_Home_Page_Article_Teaser_Region__4&lid=ARTICLE_16014003_Video%3A_Women_In_Saudi_Arabia_Are_Challenging_The_Male-Only_Driving_Rules_In_The_Kingdom)
+4. [The Guardian](http://www.guardian.co.uk/commentisfree/2011/jun/18/saudi-arabia-women-drivers-protest)
+5. [The New York Times](http://www.nytimes.com/2011/06/18/world/middleeast/18saudi.html)
 
 ### Related:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 2. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 3. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 4. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBS](http://www.cbsnews.com/stories/2005/08/18/terror/main784447.shtml)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4162084.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4162084.stm)
+2. [CBS](http://www.cbsnews.com/stories/2005/08/18/terror/main784447.shtml)
 
 ### Related:
 
@@ -21,4 +21,4 @@
 7. [ Al Qaeda claims responsibility for the attempted assassination on Saudi Prince Muhammad bin Nayef. ](/news/2009/08/30/al-qaeda-claims-responsibility-for-the-attempted-assassination-on-saudi-prince-muhammad-bin-nayef.md) _Context: Saudi Arabia, al-Qaeda_
 8. [ War on Terrorism in Afghanistan: In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/war-on-terrorism-in-afghanistan-p-in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afg.md) _Context: Saudi Arabia, al-Qaeda_
 9. [ Saudi Arabia announces that it is holding 520 al-Qaeda-linked militants in the insurgency in Saudi Arabia arrested in 2008. ](/news/2008/06/25/saudi-arabia-announces-that-it-is-holding-520-al-qaeda-linked-militants-in-the-insurgency-in-saudi-arabia-arrested-in-2008.md) _Context: Saudi Arabia, al-Qaeda_
-10. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+10. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_

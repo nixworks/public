@@ -7,8 +7,8 @@ Russian news reports are saying a unit of the nation’s military has arrived in
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2012/03/19/russian-troops-reportedly-enter-syria/)
-2. [CNN](http://www.cnn.com/2012/03/19/world/meast/syria-unrest/?hpt=hp_c1)
+1. [CNN](http://www.cnn.com/2012/03/19/world/meast/syria-unrest/?hpt=hp_c1)
+2. [Fox News](http://www.foxnews.com/world/2012/03/19/russian-troops-reportedly-enter-syria/)
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/2012319182523316314.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2012/mar/19/syria-leaked-document-assads-role?newsfeed=true)
 

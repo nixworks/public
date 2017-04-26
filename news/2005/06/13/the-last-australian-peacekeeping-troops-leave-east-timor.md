@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=113685&region=2)
-2. [ABC](http://www.abc.net.au/news/newsitems/200506/s1390873.htm)
-3. [Reuters](http://www.alertnet.org/thenews/newsdesk/SYD210975.htm)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/SYD210975.htm)
+2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=113685&region=2)
+3. [ABC](http://www.abc.net.au/news/newsitems/200506/s1390873.htm)
 
 ### Related:
 

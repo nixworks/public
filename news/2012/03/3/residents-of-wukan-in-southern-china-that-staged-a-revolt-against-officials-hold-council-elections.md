@@ -7,8 +7,8 @@ Thousands turn out to elect a new leader for a Chinese village that staged a hig
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/usa/china/2012-03/03/content_14747649.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-china-17243103)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-china-17243103)
+2. [China Daily](http://www.chinadaily.com.cn/usa/china/2012-03/03/content_14747649.htm)
 
 ### Related:
 

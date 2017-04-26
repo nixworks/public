@@ -7,8 +7,8 @@ A strong earthquake with a preliminary magnitude of 6.8 jolted northeastern Japa
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/19/us-japan-quake-idUSTRE77I0S620110819)
-2. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/strong-offshore-quake-hits-japan-20110819-1j1tz.html)
+1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/strong-offshore-quake-hits-japan-20110819-1j1tz.html)
+2. [Reuters](http://www.reuters.com/article/2011/08/19/us-japan-quake-idUSTRE77I0S620110819)
 
 ### Related:
 

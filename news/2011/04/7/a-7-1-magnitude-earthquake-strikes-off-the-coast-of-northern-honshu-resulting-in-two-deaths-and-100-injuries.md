@@ -7,8 +7,8 @@ An aftershock in Japan has killed two people, including a 63-year-old woman whos
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002ksa.php)
-2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/two-killed-100-hurt-in-japan-aftershock-20110408-1d6yj.html)
+1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/two-killed-100-hurt-in-japan-aftershock-20110408-1d6yj.html)
+2. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002ksa.php)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/africa/08/02/nigeria.violence/index.html)
-2. [This Day](http://www.thisdayonline.com/nview.php?id=150423)
+1. [This Day](http://www.thisdayonline.com/nview.php?id=150423)
+2. [CNN](http://edition.cnn.com/2009/WORLD/africa/08/02/nigeria.violence/index.html)
 
 ### Related:
 

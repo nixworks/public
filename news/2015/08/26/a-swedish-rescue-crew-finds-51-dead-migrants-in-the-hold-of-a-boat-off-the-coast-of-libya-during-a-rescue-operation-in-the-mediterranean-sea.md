@@ -7,8 +7,8 @@ Some 50 migrants were found dead inthe hold of a boat off the coast of Libya on 
 
 ### Source:
 
-1. [AP via ''The Columbus Republic](http://www.therepublic.com/view/story/e5a7d09f76d1441bb8d687190f966ac2/EU--Italy-Migrants)
-2. [Reuters](http://in.reuters.com/article/2015/08/26/europe-migrants-italy-casualties-idINL5N1112ZZ20150826)
+1. [Reuters](http://in.reuters.com/article/2015/08/26/europe-migrants-italy-casualties-idINL5N1112ZZ20150826)
+2. [AP via ''The Columbus Republic](http://www.therepublic.com/view/story/e5a7d09f76d1441bb8d687190f966ac2/EU--Italy-Migrants)
 
 ### Related:
 

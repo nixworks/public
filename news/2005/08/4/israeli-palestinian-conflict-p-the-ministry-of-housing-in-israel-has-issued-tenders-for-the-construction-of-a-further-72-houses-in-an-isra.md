@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/WORLD/meast/08/04/bus.shooting/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4744989.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4744989.stm)
+2. [CNN](http://www.cnn.com/2005/WORLD/meast/08/04/bus.shooting/index.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4746591.stm)
 4. [the Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1543039,00.html)
 5. [Haaretz](http://www.haaretz.com/hasen/spages/608864.html)

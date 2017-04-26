@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE5A30P220091104)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8342830.stm)
-3. [Standard Times](http://standardtimespress.net/cgi-bin/artman/publish/article_4290.shtml)
+1. [Standard Times](http://standardtimespress.net/cgi-bin/artman/publish/article_4290.shtml)
+2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE5A30P220091104)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8342830.stm)
 
 ### Related:
 

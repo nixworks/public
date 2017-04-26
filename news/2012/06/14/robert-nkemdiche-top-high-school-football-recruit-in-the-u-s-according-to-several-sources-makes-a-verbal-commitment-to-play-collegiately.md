@@ -7,5 +7,5 @@ Robert Nkemdiche (Loganville, Ga./Grayson), the No. 1 prospect in the ESPN 150, 
 
 ### Source:
 
-1. [Rivals.com](http://clemson.rivals.com/content.asp?CID=1375622)
-2. [ESPN](http://espn.go.com/college-sports/recruiting/football/story/_/id/8054055/top-prospect-robert-nkemdiche-commits-clemson-tigers)
+1. [ESPN](http://espn.go.com/college-sports/recruiting/football/story/_/id/8054055/top-prospect-robert-nkemdiche-commits-clemson-tigers)
+2. [Rivals.com](http://clemson.rivals.com/content.asp?CID=1375622)

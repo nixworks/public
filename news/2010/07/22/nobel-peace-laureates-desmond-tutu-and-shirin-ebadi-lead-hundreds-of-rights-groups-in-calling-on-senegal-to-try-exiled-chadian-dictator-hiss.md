@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.ug/index.php/component/content/article/106-myblog/3240-african-activists-seek-progress-in-trail-of-former-chadian-leader-habre-)
+1. [Ekklesia](http://www.ekklesia.co.uk/node/12686)
 2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jyZUL_2b7-DvyQawp5hA9JmlNv-w)
-3. [Ekklesia](http://www.ekklesia.co.uk/node/12686)
+3. [The Independent](http://www.independent.co.ug/index.php/component/content/article/106-myblog/3240-african-activists-seek-progress-in-trail-of-former-chadian-leader-habre-)
 
 ### Related:
 

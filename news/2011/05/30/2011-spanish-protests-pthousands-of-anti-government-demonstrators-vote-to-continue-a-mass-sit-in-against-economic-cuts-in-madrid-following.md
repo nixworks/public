@@ -7,8 +7,8 @@ Thousands of Spaniards vow to remain camping in central Madrid, two weeks after 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13593016)
-2. [iAfrica](http://news.iafrica.com/worldnews/730972.html)
+1. [iAfrica](http://news.iafrica.com/worldnews/730972.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-13593016)
 
 ### Related:
 

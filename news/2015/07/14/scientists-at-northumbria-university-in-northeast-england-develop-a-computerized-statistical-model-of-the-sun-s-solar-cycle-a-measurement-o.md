@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/07/13/world/sun-irregular-heartbeat-ice/index.html)
-2. [Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/14/no-earth-is-not-heading-toward-a-mini-ice-age/)
+1. [Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/14/no-earth-is-not-heading-toward-a-mini-ice-age/)
+2. [CNN](http://www.cnn.com/2015/07/13/world/sun-irregular-heartbeat-ice/index.html)
 
 ### Related:
 

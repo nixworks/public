@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Tyden.cz](http://www.tyden.cz/rubriky/sport/fotbal/fotbalista-drobny-zemrel-narazil-na-bobu-do-stromu_256632.html)
-2. [Eurosport](http://uk.eurosport.yahoo.com/news/premier-league-ex-villa-defender-drobny-dies-accident-184025691.html)
+1. [Eurosport](http://uk.eurosport.yahoo.com/news/premier-league-ex-villa-defender-drobny-dies-accident-184025691.html)
+2. [Tyden.cz](http://www.tyden.cz/rubriky/sport/fotbal/fotbalista-drobny-zemrel-narazil-na-bobu-do-stromu_256632.html)
 
 ### Related:
 

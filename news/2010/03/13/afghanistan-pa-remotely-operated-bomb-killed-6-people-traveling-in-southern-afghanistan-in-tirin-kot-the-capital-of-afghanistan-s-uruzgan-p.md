@@ -7,10 +7,10 @@ Canadian Soldiers And Afghan Interpreter Die In Roadside Bombing In Kandahar
 
 ### Source:
 
-1. [CNN](http://news.blogs.cnn.com/2010/03/13/blast-kills-6-in-afghanistan/?hpt=T2)
-2. [CBS](http://www.cbsnews.com/stories/2007/07/04/terror/main3015715.shtml)
-3. [AP](http://www.boston.com/news/world/asia/articles/2010/03/02/attacks_in_afghanistan_kill_6_nato_troops/)
-4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8566109.stm)
+1. [CBS](http://www.cbsnews.com/stories/2007/07/04/terror/main3015715.shtml)
+2. [AP](http://www.boston.com/news/world/asia/articles/2010/03/02/attacks_in_afghanistan_kill_6_nato_troops/)
+3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8566109.stm)
+4. [CNN](http://news.blogs.cnn.com/2010/03/13/blast-kills-6-in-afghanistan/?hpt=T2)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/mcclean-in-euros-squad-mccarthy-withdraws-due-to-family-illness-550539.html)
-2. [Deutsche Welle](http://www.dw.de/dw/article/0,,15933796,00.html)
+1. [Deutsche Welle](http://www.dw.de/dw/article/0,,15933796,00.html)
+2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/mcclean-in-euros-squad-mccarthy-withdraws-due-to-family-illness-550539.html)
 
 ### Related:
 

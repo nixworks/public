@@ -7,10 +7,10 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Detroit Free Press](http://www.freep.com/apps/pbcs.dll/article?AID=/20070108/ENT04/70108012/0/NEWS06)
-2. [Billboard](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003528752)
-3. [CBC](http://www.cbc.ca/arts/story/2007/01/08/rock-hall.html)
-4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=musicNews&storyID=2007-01-08T230841Z_01_N08363125_RTRIDST_0_MUSIC-ROCKHALL-DC.XML&WTmodLoc=EntNewsMusic_C1_%5BFeed%5D-3)
+1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=musicNews&storyID=2007-01-08T230841Z_01_N08363125_RTRIDST_0_MUSIC-ROCKHALL-DC.XML&WTmodLoc=EntNewsMusic_C1_%5BFeed%5D-3)
+2. [CBC](http://www.cbc.ca/arts/story/2007/01/08/rock-hall.html)
+3. [Detroit Free Press](http://www.freep.com/apps/pbcs.dll/article?AID=/20070108/ENT04/70108012/0/NEWS06)
+4. [Billboard](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003528752)
 
 ### Related:
 

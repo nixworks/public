@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1120450507229R131)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4645673.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4645673.stm)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1120450507229R131)
 
 ### Related:
 

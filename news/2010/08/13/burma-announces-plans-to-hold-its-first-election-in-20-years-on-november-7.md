@@ -7,9 +7,9 @@ Critics say elections to be held on November 7 aimed at tightening military rule
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081341211607843.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10961366)
-3. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/grave-reservations-on-burma-poll-20100813-122xg.html)
+1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/grave-reservations-on-burma-poll-20100813-122xg.html)
+2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081341211607843.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10961366)
 
 ### Related:
 

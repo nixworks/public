@@ -7,8 +7,8 @@ Minister for Foreign Affairs Micheál Martin has described the Israeli blockade 
 
 ### Source:
 
-1. [Ha'aretz](http://www.haaretz.com/hasen/spages/1154408.html)
-2. [RTÉ](http://www.rte.ie/news/2010/0305/gaza.html)
+1. [RTÉ](http://www.rte.ie/news/2010/0305/gaza.html)
+2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1154408.html)
 
 ### Related:
 

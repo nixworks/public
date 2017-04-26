@@ -7,8 +7,8 @@ Adama Barrow is sworn in as Gambian president in Senegal as strongman Yahya Jamm
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-38675741)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-38682184)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-38682184)
+2. [BBC](http://www.bbc.com/news/world-africa-38675741)
 
 ### Related:
 

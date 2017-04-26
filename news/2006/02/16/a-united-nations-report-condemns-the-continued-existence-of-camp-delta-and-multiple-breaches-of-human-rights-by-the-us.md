@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [as a large 54 page PDF](http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/16_02_06_un_guantanamo.pdf)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4721068.stm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4718724.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4718724.stm)
+2. [as a large 54 page PDF](http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/16_02_06_un_guantanamo.pdf)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4721068.stm)
 
 ### Related:
 

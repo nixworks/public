@@ -8,8 +8,8 @@
 ### Source:
 
 1. [MSN](http://www.msn.com/en-us/news/crime/two-shot-outside-portland-oregon-high-school-police/ar-BBgI6Vo)
-2. [AP](http://bigstory.ap.org/article/6ffe77f0d02f4c618e9608c0788fb822/police-say-oregon-shooting-appears-gang-related)
-3. [CNN](http://www.cnn.com/2014/12/12/us/portland-school-shooting/index.html?hpt=hp_t1)
+2. [CNN](http://www.cnn.com/2014/12/12/us/portland-school-shooting/index.html?hpt=hp_t1)
+3. [AP](http://bigstory.ap.org/article/6ffe77f0d02f4c618e9608c0788fb822/police-say-oregon-shooting-appears-gang-related)
 
 ### Related:
 

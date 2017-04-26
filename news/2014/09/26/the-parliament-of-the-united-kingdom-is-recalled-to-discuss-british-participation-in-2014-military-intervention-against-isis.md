@@ -7,9 +7,9 @@ David Cameron insists that there is no legal barrier to extending air-strikes in
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/article-2770534/Parliament-debates-British-military-action-Iraq.html)
-2. [Telegraph.uk](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11123679/David-Cameron-says-there-is-strong-case-for-air-strikes-in-Syria.html)
-3. [BBC](http://www.bbc.com/news/uk-politics-29385123)
+1. [BBC](http://www.bbc.com/news/uk-politics-29385123)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-2770534/Parliament-debates-British-military-action-Iraq.html)
+3. [Telegraph.uk](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11123679/David-Cameron-says-there-is-strong-case-for-air-strikes-in-Syria.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ CHARLOTTE, N.C.—Facing unhappy pro-Israel groups amid a Republican-led outcry,
 
 ### Source:
 
-1. [The Ticket via Yahoo! News](http://news.yahoo.com/blogs/ticket/democrats-reinstate-god-jerusalem-israel-capital-party-platform-223437220--election.html?_esi=1)
-2. [Tick 2](http://news.yahoo.com/blogs/ticket/albright-obama-wanted-jerusalem-change-platform-005936752--election.html?_esi=1)
-3. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-convention-analysis-20120905,0,3480393.story)
-4. [Washington Post](http://www.washingtonpost.com/politics/bill-clinton-will-highlight-convention-tonight/2012/09/05/f6d5dcf2-f797-11e1-8398-0327ab83ab91_story.html)
+1. [Tick 2](http://news.yahoo.com/blogs/ticket/albright-obama-wanted-jerusalem-change-platform-005936752--election.html?_esi=1)
+2. [Washington Post](http://www.washingtonpost.com/politics/bill-clinton-will-highlight-convention-tonight/2012/09/05/f6d5dcf2-f797-11e1-8398-0327ab83ab91_story.html)
+3. [The Ticket via Yahoo! News](http://news.yahoo.com/blogs/ticket/democrats-reinstate-god-jerusalem-israel-capital-party-platform-223437220--election.html?_esi=1)
+4. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-convention-analysis-20120905,0,3480393.story)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The Age 404 Page
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-11-15T035037Z_01_MCC478919_RTRUKOC_0_US-JAPAN-PRINCESS.xml&archived=False)
+1. [The Age](http://www.theage.com.au/news/World/Japans-Princess-Sayako-marries-commoner/2005/11/15/1131951134179.html?oneclick=true)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4437386.stm)
-3. [The Age](http://www.theage.com.au/news/World/Japans-Princess-Sayako-marries-commoner/2005/11/15/1131951134179.html?oneclick=true)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-11-15T035037Z_01_MCC478919_RTRUKOC_0_US-JAPAN-PRINCESS.xml&archived=False)
 
 ### Related:
 

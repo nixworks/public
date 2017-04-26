@@ -7,8 +7,8 @@ Islamic State militants fighting in Iraq and Syria released a video on Thursday 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/09/18/us-syria-crisis-hostage-idUSKBN0HD1RE20140918?feedType=RSS&feedName=topNews)
-2. [Washington Examiner](http://washingtonexaminer.com/senate-passes-syria-resolution-clearing-it-for-obamas-signature/article/2553652)
+1. [Washington Examiner](http://washingtonexaminer.com/senate-passes-syria-resolution-clearing-it-for-obamas-signature/article/2553652)
+2. [Reuters](http://www.reuters.com/article/2014/09/18/us-syria-crisis-hostage-idUSKBN0HD1RE20140918?feedType=RSS&feedName=topNews)
 
 ### Related:
 

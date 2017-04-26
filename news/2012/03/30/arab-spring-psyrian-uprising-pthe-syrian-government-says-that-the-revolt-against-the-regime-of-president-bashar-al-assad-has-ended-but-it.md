@@ -7,9 +7,9 @@ Syria says the year-old revolt to topple President Bashar al-Assad is over, but 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/31/us-syria-idUSBRE82U07V20120331)
+1. [Fox News](http://www.foxnews.com/world/2012/03/31/revolt-to-ouster-president-assad-is-over-says-syrian-official/)
 2. [Naharnet](http://www.naharnet.com/stories/en/35132-37-dead-as-protesters-rally-across-syria-and-annan-urges-instant-ceasefire)
-3. [Fox News](http://www.foxnews.com/world/2012/03/31/revolt-to-ouster-president-assad-is-over-says-syrian-official/)
+3. [Reuters](http://www.reuters.com/article/2012/03/31/us-syria-idUSBRE82U07V20120331)
 
 ### Related:
 

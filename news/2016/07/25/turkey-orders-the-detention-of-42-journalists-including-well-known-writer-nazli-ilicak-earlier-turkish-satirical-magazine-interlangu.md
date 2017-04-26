@@ -7,9 +7,9 @@ Turkey ordered the detention of 42 journalists on Monday, broadcaster NTV report
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/07/25/world/turkey-coup-attempt-aftermath/)
+1. [AI](https://www.amnesty.org/en/latest/news/2016/07/turkey-independent-monitors-must-be-allowed-to-access-detainees-amid-torture-allegations/)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/07/25/487254277/amnesty-international-after-turkeys-failed-coup-some-detainees-are-tortured-rape)
-3. [AI](https://www.amnesty.org/en/latest/news/2016/07/turkey-independent-monitors-must-be-allowed-to-access-detainees-amid-torture-allegations/)
+3. [CNN](http://www.cnn.com/2016/07/25/world/turkey-coup-attempt-aftermath/)
 4. [Reuters](http://www.reuters.com/article/us-turkey-security-idUSKCN1051B0)
 
 ### Related:

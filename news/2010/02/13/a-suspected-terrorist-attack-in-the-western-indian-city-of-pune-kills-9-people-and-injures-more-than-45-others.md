@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC news] [http://timesofindia.indiatimes.com/city/pune/8-confirmed-dead-33-injured-in-blast-at-Pune-bakery/articleshow/5569873.cms (''The Times of India](http://news.bbc.co.uk/2/hi/south_asia/8514232.stm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7026186.ece)
-3. [The Hindu](http://beta.thehindu.com/incoming/article106274.ece)
+1. [The Hindu](http://beta.thehindu.com/incoming/article106274.ece)
+2. [BBC news] [http://timesofindia.indiatimes.com/city/pune/8-confirmed-dead-33-injured-in-blast-at-Pune-bakery/articleshow/5569873.cms (''The Times of India](http://news.bbc.co.uk/2/hi/south_asia/8514232.stm)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7026186.ece)
 
 ### Related:
 

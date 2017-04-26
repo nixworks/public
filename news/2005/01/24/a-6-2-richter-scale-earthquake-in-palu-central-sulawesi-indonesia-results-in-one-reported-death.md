@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2005/1/24/latest/20950Indonesia&sec=latest)
-2. [ChannelNewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/128838/1/.html)
+1. [ChannelNewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/128838/1/.html)
+2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2005/1/24/latest/20950Indonesia&sec=latest)
 
 ### Related:
 

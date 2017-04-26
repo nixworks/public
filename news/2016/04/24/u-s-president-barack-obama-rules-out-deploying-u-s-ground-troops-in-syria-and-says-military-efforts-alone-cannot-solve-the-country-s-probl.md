@@ -7,8 +7,8 @@ The Pentagon has already admitted there are 50 special forces inside Syria fight
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/obama-approves-250-additional-us-troops-in-syria/)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-usa-syria-idUSKCN0XL0ZE?il=0)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-usa-syria-idUSKCN0XL0ZE?il=0)
+2. [CBS News](http://www.cbsnews.com/news/obama-approves-250-additional-us-troops-in-syria/)
 3. [BBC](http://www.bbc.com/news/world-middle-east-36121135)
 
 ### Related:

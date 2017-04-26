@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-31/harper-pressured-to-scrap-tax-cuts-as-canadian-lawmakers-return.html)
-2. [CTV Edmonton](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110131/parliament-resumes-110131/20110131/?hub=EdmontonHome)
+1. [CTV Edmonton](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110131/parliament-resumes-110131/20110131/?hub=EdmontonHome)
+2. [Bloomberg](http://www.bloomberg.com/news/2011-01-31/harper-pressured-to-scrap-tax-cuts-as-canadian-lawmakers-return.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Justice Department said it reached a settlement with Comcast and NBC Univers
 
 ### Source:
 
-1. [Common Dreams](http://www.commondreams.org/newswire/2011/01/18-20)
-2. [NPR](http://www.npr.org/2011/01/18/133029202/Comcast-Wins-FCC-Approval-For-NBC-Merger)
+1. [NPR](http://www.npr.org/2011/01/18/133029202/Comcast-Wins-FCC-Approval-For-NBC-Merger)
+2. [Common Dreams](http://www.commondreams.org/newswire/2011/01/18-20)
 
 ### Related:
 

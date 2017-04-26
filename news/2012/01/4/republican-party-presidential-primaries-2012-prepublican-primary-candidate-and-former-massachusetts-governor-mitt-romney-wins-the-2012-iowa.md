@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSNBC](http://nbcpolitics.msnbc.msn.com/_news/2012/01/04/9946872-after-dismal-iowa-showing-bachmann-suspends-campaign)
-2. [CBS News](http://www.cbsnews.com/8301-503544_162-57351741-503544/iowa-caucus-results-mitt-romney-beats-rick-santorum-by-8-votes/)
+1. [CBS News](http://www.cbsnews.com/8301-503544_162-57351741-503544/iowa-caucus-results-mitt-romney-beats-rick-santorum-by-8-votes/)
+2. [MSNBC](http://nbcpolitics.msnbc.msn.com/_news/2012/01/04/9946872-after-dismal-iowa-showing-bachmann-suspends-campaign)
 
 ### Related:
 

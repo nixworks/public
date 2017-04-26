@@ -7,8 +7,8 @@ Arsenal bow out of the Champions League on away goals, despite an impressive 2-0
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000348/match=2009593/index.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/21681052)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21681052)
+2. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000348/match=2009593/index.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/07/c_13862804.htm)
-2. [Reuters](http://www.reuters.com/article/2011/05/06/us-pakistan-attack-idUSTRE7450DF20110506)
+1. [Reuters](http://www.reuters.com/article/2011/05/06/us-pakistan-attack-idUSTRE7450DF20110506)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/07/c_13862804.htm)
 
 ### Related:
 

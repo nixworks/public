@@ -7,8 +7,8 @@ A earthquake measuring magnitude-6.6 strikes in central Italy on Sunday, the Uni
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2016/oct/30/san-benedetto-basilica-norcia-destroyed-italy-earthquake)
-2. [Reuters via ABC Online](http://www.abc.net.au/news/2016-10-30/central-italy-rattled-by-magnitude-6.6-earthquake/7978684)
+1. [Reuters via ABC Online](http://www.abc.net.au/news/2016-10-30/central-italy-rattled-by-magnitude-6.6-earthquake/7978684)
+2. [The Guardian](https://www.theguardian.com/world/2016/oct/30/san-benedetto-basilica-norcia-destroyed-italy-earthquake)
 3. [BBC](http://www.bbc.com/news/world-europe-37814975)
 
 ### Related:

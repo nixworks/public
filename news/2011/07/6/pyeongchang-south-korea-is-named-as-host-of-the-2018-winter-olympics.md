@@ -8,8 +8,8 @@ Pyeongchang, South Korea has been named the host city of the 2018 Winter Olympic
 ### Source:
 
 1. [AP via ESPN](http://sports.espn.go.com/oly/news/story?id=6742361)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/other_sports/winter_sports/8753631.stm)
-3. [Al Jazeera](http://english.aljazeera.net/sport/olympics/2011/07/201176154557397364.html)
+2. [Al Jazeera](http://english.aljazeera.net/sport/olympics/2011/07/201176154557397364.html)
+3. [BBC Sport](http://news.bbc.co.uk/sport2/hi/other_sports/winter_sports/8753631.stm)
 
 ### Related:
 

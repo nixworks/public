@@ -7,8 +7,8 @@ A Latvian referendum on whether to give people the right to dismiss parliament o
 
 ### Source:
 
-1. [AFP](http://afp.google.com/article/ALeqM5glLYfLwkvbzbPJScdfqZPHN0851g)
-2. [Reuters](http://uk.reuters.com/article/worldNews/idUKL265890220080802?sp=true)
+1. [Reuters](http://uk.reuters.com/article/worldNews/idUKL265890220080802?sp=true)
+2. [AFP](http://afp.google.com/article/ALeqM5glLYfLwkvbzbPJScdfqZPHN0851g)
 
 ### Related:
 

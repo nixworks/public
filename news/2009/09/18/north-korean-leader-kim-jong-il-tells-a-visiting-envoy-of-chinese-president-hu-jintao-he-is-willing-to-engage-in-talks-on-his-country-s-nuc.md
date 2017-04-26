@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/09/18/89/0401000000AEN20090918005300315F.HTML)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8262223.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8262223.stm)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/09/18/89/0401000000AEN20090918005300315F.HTML)
 
 ### Related:
 

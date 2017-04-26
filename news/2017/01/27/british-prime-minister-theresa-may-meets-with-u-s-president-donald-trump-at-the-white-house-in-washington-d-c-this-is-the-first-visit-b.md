@@ -7,8 +7,8 @@ The UK prime minister is the first world leader to meet US President Donald Trum
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/uk-politics-38766781)
-2. [Politico](http://www.politico.com/story/2017/01/trump-theresa-may-britain-white-house-234251)
+1. [Politico](http://www.politico.com/story/2017/01/trump-theresa-may-britain-white-house-234251)
+2. [BBC](http://www.bbc.com/news/uk-politics-38766781)
 
 ### Related:
 

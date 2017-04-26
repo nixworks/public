@@ -7,8 +7,8 @@ Two military aircraft collided in the air in Venezuela during a demonstration fl
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v6/newsworld.php?id=710977)
-2. [Pravda](http://english.pravda.ru/news/hotspots/23-11-2012/122909-planes_collide_venezuela-0/)
+1. [Pravda](http://english.pravda.ru/news/hotspots/23-11-2012/122909-planes_collide_venezuela-0/)
+2. [Bernama](http://www.bernama.com/bernama/v6/newsworld.php?id=710977)
 
 ### Related:
 

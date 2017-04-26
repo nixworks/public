@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aL9ifJExdNO4&refer=top_world_news)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8279703)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4480577.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4480577.stm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8279703)
 
 ### Related:
 

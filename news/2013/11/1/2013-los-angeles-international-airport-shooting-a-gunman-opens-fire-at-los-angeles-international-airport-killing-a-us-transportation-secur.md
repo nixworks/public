@@ -7,8 +7,8 @@ A gunman with an assault rifle opened fire in a crowded terminal at Los Angeles 
 
 ### Source:
 
-1. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Los-Angeles-Airport-LAX-Shooting-230220201.html)
-2. [Fox News](http://www.foxnews.com/us/2013/11/01/passengers-evacuated-from-terminal-at-los-angeles-international-airport-after/?cmpid=NL_fntop)
+1. [Fox News](http://www.foxnews.com/us/2013/11/01/passengers-evacuated-from-terminal-at-los-angeles-international-airport-after/?cmpid=NL_fntop)
+2. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Los-Angeles-Airport-LAX-Shooting-230220201.html)
 
 ### Related:
 

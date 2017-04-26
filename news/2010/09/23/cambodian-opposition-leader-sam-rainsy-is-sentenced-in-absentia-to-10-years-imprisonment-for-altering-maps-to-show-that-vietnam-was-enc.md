@@ -7,8 +7,8 @@ Cambodian opposition leader Sam Rainsy is sentenced to 10 years in jail in his a
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11395570)
-2. [The Phnom Penh Post](http://www.phnompenhpost.com/index.php/2010092342218/National-news/rainsy-gets-10-years.html)
+1. [The Phnom Penh Post](http://www.phnompenhpost.com/index.php/2010092342218/National-news/rainsy-gets-10-years.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11395570)
 
 ### Related:
 

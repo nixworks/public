@@ -7,11 +7,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC](http://abcnews.go.com/International/wireStory?id=10267186)
+1. [China Daily](http://www.chinadaily.com.cn/world/2010-04/03/content_9684840.htm)
 2. [Breitbart](http://www.breitbart.com/article.php?id=D9ER190O0&show_article=1)
-3. [Wten](http://www.wten.com/Global/story.asp?S=12246220)
-4. [China Daily](http://www.chinadaily.com.cn/world/2010-04/03/content_9684840.htm)
-5. [Newsday](http://www.newsday.com/news/nato-soldier-dies-in-afghanistan-bombing-1.1843100?qr=1)
+3. [Newsday](http://www.newsday.com/news/nato-soldier-dies-in-afghanistan-bombing-1.1843100?qr=1)
+4. [Wten](http://www.wten.com/Global/story.asp?S=12246220)
+5. [ABC](http://abcnews.go.com/International/wireStory?id=10267186)
 
 ### Related:
 

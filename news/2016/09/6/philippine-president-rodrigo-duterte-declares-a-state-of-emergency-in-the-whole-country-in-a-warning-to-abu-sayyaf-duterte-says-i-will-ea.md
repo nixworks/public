@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Time](http://time.com/4481495/philippines-duterte-abu-sayyaf-terrorist-eat-alive/)
-2. [Rappler](http://www.rappler.com/nation/145346-proclamation-state-national-emergency-lawless-violence-released)
+1. [Rappler](http://www.rappler.com/nation/145346-proclamation-state-national-emergency-lawless-violence-released)
+2. [Time](http://time.com/4481495/philippines-duterte-abu-sayyaf-terrorist-eat-alive/)
 
 ### Related:
 

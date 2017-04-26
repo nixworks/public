@@ -8,9 +8,9 @@ Figures show Liberal and Labour parties taking 31 seats with far-right Freedom P
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/09/netherlands.elections/index.html)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201069192132240783.html)
+2. [NOS](http://nos.nl/artikel/163227-nekaannekrace-vvd-en-pvda.html)
 3. [Dutchnews](http://www.dutchnews.nl/news/archives/2010/06/rutte.php)
-4. [NOS](http://nos.nl/artikel/163227-nekaannekrace-vvd-en-pvda.html)
+4. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201069192132240783.html)
 
 ### Related:
 

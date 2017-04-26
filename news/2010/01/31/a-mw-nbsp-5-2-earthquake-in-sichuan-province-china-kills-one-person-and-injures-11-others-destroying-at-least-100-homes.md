@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/8489759.stm)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/167015/moderate-china-quake-kills-one-state-media)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/167015/moderate-china-quake-kills-one-state-media)
+2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/8489759.stm)
 3. [Times of India](http://timesofindia.indiatimes.com/world/china/Moderate-quake-hits-Chinas-Sichuan-province-USGS/articleshow/5519153.cms)
 
 ### Related:

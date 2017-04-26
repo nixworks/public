@@ -7,8 +7,8 @@ Two Palestinians rammed vehicles into Israeli soldiers in separate attacks in th
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/27/us-israel-palestinians-idUSKBN0TG0EN20151127)
-2. [Haaretz](http://www.haaretz.com/israel-news/.premium-1.688778)
+1. [Haaretz](http://www.haaretz.com/israel-news/.premium-1.688778)
+2. [Reuters](http://www.reuters.com/article/2015/11/27/us-israel-palestinians-idUSKBN0TG0EN20151127)
 
 ### Related:
 

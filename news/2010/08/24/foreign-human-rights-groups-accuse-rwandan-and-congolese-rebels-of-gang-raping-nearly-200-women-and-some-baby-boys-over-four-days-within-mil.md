@@ -7,9 +7,9 @@ Aid groups say up to 200 women were raped in four days near a UN peacekeeping ba
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/201082402724259229.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/24/drc.rebels.rape/#fbid=Ft3h0qQS09d&wom=false)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE67M0G920100823)
-3. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/24/drc.rebels.rape/#fbid=Ft3h0qQS09d&wom=false)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/201082402724259229.html)
 4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jPEADE6LA6PT95DxLVS1noE80bwQD9HPEAS02)
 
 ### Related:

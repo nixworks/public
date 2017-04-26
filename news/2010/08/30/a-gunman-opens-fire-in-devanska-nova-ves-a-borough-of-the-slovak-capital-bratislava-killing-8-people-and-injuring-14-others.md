@@ -7,10 +7,10 @@ A gunman has killed six people and wounded 14 others in Bratislava, the Slovak n
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/31/c_13470032.htm)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010830103838162971.html)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5956939,00.html)
-4. [AP via ''The Hindu](http://www.thehindu.com/news/international/article604068.ece)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5956939,00.html)
+2. [AP via ''The Hindu](http://www.thehindu.com/news/international/article604068.ece)
+3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010830103838162971.html)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/31/c_13470032.htm)
 5. [BBC](http://www.bbc.co.uk/news/world-europe-11129844?utm_source=twitterfeed&utm_medium=twitter)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/aug/31/bratislava-shooting-spree-slovakia)
 

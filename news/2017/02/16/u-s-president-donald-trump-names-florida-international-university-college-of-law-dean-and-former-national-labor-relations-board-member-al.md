@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2017/02/16/politics/donald-trump-white-house-announcement/)
-2. [Politico](http://www.politico.com/story/2017/02/trump-to-announce-alexander-acosta-as-labor-secretary-nominee-235089)
-3. [NPR](http://www.npr.org/2017/02/16/515585143/watch-trump-to-announce-new-labor-nominee)
+1. [NPR](http://www.npr.org/2017/02/16/515585143/watch-trump-to-announce-new-labor-nominee)
+2. [CNN](http://www.cnn.com/2017/02/16/politics/donald-trump-white-house-announcement/)
+3. [Politico](http://www.politico.com/story/2017/02/trump-to-announce-alexander-acosta-as-labor-secretary-nominee-235089)
 
 ### Related:
 

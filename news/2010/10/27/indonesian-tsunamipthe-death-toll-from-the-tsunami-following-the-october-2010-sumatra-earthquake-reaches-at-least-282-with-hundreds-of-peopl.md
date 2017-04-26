@@ -8,8 +8,8 @@ The death toll from a tsunami in western Indonesia rises to 282, officials say, 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11632982)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101027/wl_afp/indonesiaquaketsunami)
-3. [Fox News](http://www.foxnews.com/world/2010/10/27/indonesia-tsunami-kills-help-way/)
+2. [Fox News](http://www.foxnews.com/world/2010/10/27/indonesia-tsunami-kills-help-way/)
+3. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101027/wl_afp/indonesiaquaketsunami)
 
 ### Related:
 

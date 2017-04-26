@@ -8,8 +8,8 @@ FLORENCE - The oldest death row inmate in the US has died of natural causes at a
 ### Source:
 
 1. [Taipei News](http://www.taipeinews.net/story/601494)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8515573.stm)
-3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10626283&ref=rss)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10626283&ref=rss)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/8515573.stm)
 
 ### Related:
 

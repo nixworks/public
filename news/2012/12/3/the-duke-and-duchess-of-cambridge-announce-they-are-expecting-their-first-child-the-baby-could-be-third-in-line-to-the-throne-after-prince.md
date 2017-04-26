@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC News](http://todaynews.today.com/_news/2012/12/03/15576447-duchess-kate-is-pregnant-with-first-child)
-2. [BBC](http://www.bbc.co.uk/news/uk-20586343)
+1. [BBC](http://www.bbc.co.uk/news/uk-20586343)
+2. [NBC News](http://todaynews.today.com/_news/2012/12/03/15576447-duchess-kate-is-pregnant-with-first-child)
 
 ### Related:
 

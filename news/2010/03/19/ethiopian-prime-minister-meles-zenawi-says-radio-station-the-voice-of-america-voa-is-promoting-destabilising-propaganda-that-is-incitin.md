@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8575749.stm)
-2. [TheStar.com.my](http://thestar.com.my/news/story.asp?file=/2010/3/19/worldupdates/2010-03-19T142356Z_01_NOOTR_RTRMDNC_0_-470524-1&sec=Worldupdates)
-3. [News24.com](http://www.news24.com/Content/Africa/News/965/c38fc1fc8a054fd68d6104f6a183bb3a/19-03-2010-10-52/Ethiopia_may_censor_VOA_propaganda)
+1. [TheStar.com.my](http://thestar.com.my/news/story.asp?file=/2010/3/19/worldupdates/2010-03-19T142356Z_01_NOOTR_RTRMDNC_0_-470524-1&sec=Worldupdates)
+2. [News24.com](http://www.news24.com/Content/Africa/News/965/c38fc1fc8a054fd68d6104f6a183bb3a/19-03-2010-10-52/Ethiopia_may_censor_VOA_propaganda)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/8575749.stm)
 
 ### Related:
 

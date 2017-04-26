@@ -7,8 +7,8 @@ The board of Independent News and Media has this evening elected Cork businessma
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/finance/2012/0828/1224323095577.html)
-2. [RTE](http://www.rte.ie/news/2012/0827/leslie-buckley-inm.html)
+1. [RTE](http://www.rte.ie/news/2012/0827/leslie-buckley-inm.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/finance/2012/0828/1224323095577.html)
 
 ### Related:
 

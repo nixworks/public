@@ -7,7 +7,7 @@ _Context: Mexico, San Salvador Atenco, Violence continues during the police raid
 _Context: Manasseh Sogavare, Prime Minister of the Solomon Islands, Snyder Rini_
 
 ### [ In Israel, a new Cabinet under Prime Minister Ehud Olmert is sworn in. ](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.md)
-_Context: Ehud Olmert, Israel, Israeli cabinet, oath of office, prime minister of Israel_
+_Context: Ehud Olmert, Israel, Israeli cabinet, Prime Minister of Israel, oath of office_
 
 ### [ A tsunami warning was issued for Fiji and New Zealand following a magnitude 7.9 earthquake in Tonga which occurred at 15:26 UTC (04:26 May 4, local time).  The warning was canceled when it was found that the earthquake did not produce a tsunami.  ](/news/2006/05/4/a-tsunami-warning-was-issued-for-fiji-and-new-zealand-following-a-magnitude-7-9-earthquake-in-tonga-which-occurred-at-15-26-utc-04-26-may.md)
 _Context: 7.9 earthquake in Tonga, Fiji, New Zealand, Tsunami, magnitude, warnings_

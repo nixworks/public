@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://www.google.com/search?client=opera&rls=en-GB&q=25+militants+killed+in+S.+Afghanistan:+official&sourceid=opera&ie=utf-8&oe=utf-8)
-2. [People](http://english.people.com.cn/90001/90777/90851/7157093.html)
+1. [People](http://english.people.com.cn/90001/90777/90851/7157093.html)
+2. [Xinhua](http://www.google.com/search?client=opera&rls=en-GB&q=25+militants+killed+in+S.+Afghanistan:+official&sourceid=opera&ie=utf-8&oe=utf-8)
 
 ### Related:
 

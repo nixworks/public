@@ -7,8 +7,8 @@ The Heisman Trophy winner was decided before the leaves began to fall — and Sa
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/12/10/sport/heisman-trophy/index.html)
-2. [AP via ESPN](http://www.espn.com/college-football/recap?gameId=400868921)
+1. [AP via ESPN](http://www.espn.com/college-football/recap?gameId=400868921)
+2. [CNN](http://edition.cnn.com/2016/12/10/sport/heisman-trophy/index.html)
 3. [New York Post](http://nypost.com/2016/12/10/louisville-qb-lamar-jackson-wins-heisman-as-expected/?utm_source=maropost&utm_medium=email&utm_campaign=news_alert&utm_content=20161210)
 
 ### Related:

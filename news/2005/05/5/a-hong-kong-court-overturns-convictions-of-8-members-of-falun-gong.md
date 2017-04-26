@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Law & Order, HK](http://www.news.gov.hk/en/category/lawandorder/050505/html/050505en08003.htm)
-2. [Standard](http://www.thestandard.com.hk/stdn/std/Front_Page.html)
-3. [IHT](http://www.iht.com/articles/2005/05/05/news/hong.php)
+2. [IHT](http://www.iht.com/articles/2005/05/05/news/hong.php)
+3. [Standard](http://www.thestandard.com.hk/stdn/std/Front_Page.html)
 4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4515503.stm)
 
 ### Related:

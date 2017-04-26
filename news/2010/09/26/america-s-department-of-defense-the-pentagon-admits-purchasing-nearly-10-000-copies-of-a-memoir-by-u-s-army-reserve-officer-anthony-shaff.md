@@ -7,9 +7,9 @@ The Pentagon has admitted buying up and destroying 10,000 copies of an insider&#
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/US/09/25/books.destroyed/index.html?iref=NS1)
-2. [Toronto Sun](http://www.torontosun.com/news/world/2010/09/26/15481836.html)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8026220/Pentagon-destroyed-10000-copies-of-army-officers-book.html)
+1. [Toronto Sun](http://www.torontosun.com/news/world/2010/09/26/15481836.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8026220/Pentagon-destroyed-10000-copies-of-army-officers-book.html)
+3. [CNN](http://edition.cnn.com/2010/US/09/25/books.destroyed/index.html?iref=NS1)
 
 ### Related:
 

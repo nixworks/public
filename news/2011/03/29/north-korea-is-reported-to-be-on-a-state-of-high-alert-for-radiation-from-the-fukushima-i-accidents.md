@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sydney Telegraph](http://www.dailytelegraph.com.au/sport/cricket-world-cup/ricky-ponting-to-stand-down/story-fn67wv6z-1226029987090?referrer=email&source=DT_email_nl&emcmp=DT&emchn=Newsletter&emlist=Member)
-2. [Yonhap](http://english.yonhapnews.co.kr/news/2011/03/29/0200000000AEN20110329004500315.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/03/29/0200000000AEN20110329004500315.HTML)
+2. [Sydney Telegraph](http://www.dailytelegraph.com.au/sport/cricket-world-cup/ricky-ponting-to-stand-down/story-fn67wv6z-1226029987090?referrer=email&source=DT_email_nl&emcmp=DT&emchn=Newsletter&emlist=Member)
 
 ### Related:
 

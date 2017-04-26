@@ -7,8 +7,8 @@ Leaders warned they may be held to account over deaths as fears of ethnic killin
 
 ### Source:
 
-1. [Irish Times](http://www.irishtimes.com/news/world/africa/un-says-mass-graves-discovered-in-south-sudan-1.1637346)
-2. [Channel 4 News](http://www.channel4.com/news/un-poised-to-send-more-peacekeepers-to-south-sudan)
+1. [Channel 4 News](http://www.channel4.com/news/un-poised-to-send-more-peacekeepers-to-south-sudan)
+2. [Irish Times](http://www.irishtimes.com/news/world/africa/un-says-mass-graves-discovered-in-south-sudan-1.1637346)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The United States Air Force&#039;s mysterious X-37B robot space plan returned to
 
 ### Source:
 
-1. [AP via MyWay](http://apnews.myway.com/article/20101203/D9JSDCF00.html)
-2. [Space.com](http://www.space.com/missionlaunches/photos-x-37b-robot-space-plane-landing-101203.html)
+1. [Space.com](http://www.space.com/missionlaunches/photos-x-37b-robot-space-plane-landing-101203.html)
+2. [AP via MyWay](http://apnews.myway.com/article/20101203/D9JSDCF00.html)
 
 ### Related:
 
@@ -18,7 +18,7 @@ The United States Air Force&#039;s mysterious X-37B robot space plan returned to
 4. [ The United States Air Force test fires an unarmed Minuteman III intercontinental ballistic missile from the coast of California to a point in the Pacific Ocean about 4,200 miles (6,750 km) away. ](/news/2009/06/29/the-united-states-air-force-test-fires-an-unarmed-minuteman-iii-intercontinental-ballistic-missile-from-the-coast-of-california-to-a-point.md) _Context: California, United States Air Force_
 5. [ A United States Air Force F-22 Raptor crashes near Edwards AF Base in California, killing its pilot. ](/news/2009/03/25/a-united-states-air-force-f-22-raptor-crashes-near-edwards-af-base-in-california-killing-its-pilot.md) _Context: California, United States Air Force_
 6. [A USAF F-16 crashes shortly after takeoff from Joint Base Andrews in Prince George's County, Maryland. The pilot inside ejected safely and was taken to a local hospital with non-life threatening injuries. ](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.md) _Context: United States Air Force_
-7. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
-8. [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield.  ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md) _Context: United States Air Force_
-9. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: California_
-10. [An American Atlas V successfully launched an  NRO payload from Vandenberg Air Force Base. The launch is the 70th successful Atlas V launch and the 14th successful mission for the NRO. ](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro-payload-from-vandenberg-air-force-base-the-launch-is-the-70th-successful-atlas-v-launch-a.md) _Context: Vandenberg Air Force Base_
+7. [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md) _Context: California_
+8. [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md) _Context: California_
+9. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
+10. [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield.  ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md) _Context: United States Air Force_

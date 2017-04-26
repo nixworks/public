@@ -8,8 +8,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2007-01-21T131820Z_01_JAK278456_RTRUKOC_0_US-INDONESIA-QUAKE.xml&WTmodLoc=Home-C2-TopNews-newsOne-5)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6284339.stm)
-3. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2007/us2007xvam/#details)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2007/us2007xvam/#details)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6284339.stm)
 
 ### Related:
 

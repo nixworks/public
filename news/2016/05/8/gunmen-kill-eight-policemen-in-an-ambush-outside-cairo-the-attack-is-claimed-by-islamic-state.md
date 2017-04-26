@@ -7,9 +7,9 @@ Gunmen killed eight plainclothes police on the southern outskirts of Cairo overn
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/egypt-police-attack-idINKCN0XZ019)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36240981)
 2. [CNN](http://www.edition.cnn.com/2016/05/08/middleeast/egypt-police-officers-killed/)
-3. [BBC](http://www.bbc.com/news/world-middle-east-36240981)
+3. [Reuters](http://in.reuters.com/article/egypt-police-attack-idINKCN0XZ019)
 
 ### Related:
 

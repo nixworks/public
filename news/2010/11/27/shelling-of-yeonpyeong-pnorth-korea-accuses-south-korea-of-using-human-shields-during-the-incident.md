@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11853905)
-2. [Voice of Russia](http://english.ruvr.ru/2010/11/27/35765359.html)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/27/koreas.crisis/?hpt=T1)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/27/koreas.crisis/?hpt=T1)
+3. [Voice of Russia](http://english.ruvr.ru/2010/11/27/35765359.html)
 
 ### Related:
 

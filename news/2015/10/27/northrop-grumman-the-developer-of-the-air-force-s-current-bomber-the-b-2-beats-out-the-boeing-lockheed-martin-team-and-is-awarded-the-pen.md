@@ -7,8 +7,8 @@ In a battle of defense giants, Northrop Grumman edges out Boeing-Lockheed team.
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/business/economy/pentagon-to-award-long-range-strike-bomber-contract-tuesday/2015/10/27/7f299748-7cc3-11e5-beba-927fd8634498_story.html)
-2. [CNN](http://www.cnn.com/2015/10/27/politics/long-range-strike-bomber-northrop-grumman/)
+1. [CNN](http://www.cnn.com/2015/10/27/politics/long-range-strike-bomber-northrop-grumman/)
+2. [Washington Post](http://www.washingtonpost.com/business/economy/pentagon-to-award-long-range-strike-bomber-contract-tuesday/2015/10/27/7f299748-7cc3-11e5-beba-927fd8634498_story.html)
 
 ### Related:
 

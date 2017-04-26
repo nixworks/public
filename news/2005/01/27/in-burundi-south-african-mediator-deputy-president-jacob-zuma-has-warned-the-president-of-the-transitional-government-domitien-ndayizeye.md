@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26416027.htm)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=vn20050126063857101C454061)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4209819.stm)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=vn20050126063857101C454061)
+3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26416027.htm)
 
 ### Related:
 

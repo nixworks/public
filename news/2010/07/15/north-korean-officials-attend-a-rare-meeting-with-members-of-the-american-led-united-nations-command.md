@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia+pacific-10643500)
-2. [Samaylive](http://english.samaylive.com/world/676468431.html)
+1. [Samaylive](http://english.samaylive.com/world/676468431.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia+pacific-10643500)
 
 ### Related:
 

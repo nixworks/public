@@ -22,7 +22,7 @@ _Context: 2007 presidential election, Nicolas Sarkozy, Ségolène Royal, televised
 _Context: Bali, Bali Nine, Jakarta, death row_
 
 ### [ Avigdor Yitzhaki, the chairman and co-founder of Ehud Olmert's Kadima party, calls on Olmert to resign as the Prime Minister of Israel over his handling of the 2006 Lebanon War. Foreign Minister Tzipi Livni later joined calls for Olmert's resignation. ](/news/2007/05/2/avigdor-yitzhaki-the-chairman-and-co-founder-of-ehud-olmert-s-kadima-party-calls-on-olmert-to-resign-as-the-prime-minister-of-israel-over.md)
-_Context: Avigdor Yitzhaki, Ehud Olmert, Foreign Minister of Israel, Israeli-Lebanese war of 2006, Kadima, Tzipi Livni, prime minister of Israel_
+_Context: Avigdor Yitzhaki, Ehud Olmert, Foreign Minister of Israel, Israeli-Lebanese war of 2006, Kadima, Prime Minister of Israel, Tzipi Livni_
 
 ### [ Four people are killed in a helicopter crash in Cambridgeshire, United Kingdom. ](/news/2007/05/2/four-people-are-killed-in-a-helicopter-crash-in-cambridgeshire-united-kingdom.md)
 _Context: Cambridgeshire, United Kingdom, helicopter, incidents_

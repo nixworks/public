@@ -7,11 +7,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/story/2006/06/03/terror-suspects.html)
-2. [VOA](http://voanews.com/english/2006-06-03-voa15.cfm)
-3. [CNN](http://www.cnn.com/2006/WORLD/americas/06/03/canada.terror/index.html)
-4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-06-03T181033Z_01_N02209271_RTRUKOC_0_US-CRIME-ARRESTS.xml)
-5. [BBC](http://news.bbc.co.uk/2/hi/americas/5044560.stm)
+1. [VOA](http://voanews.com/english/2006-06-03-voa15.cfm)
+2. [CNN](http://www.cnn.com/2006/WORLD/americas/06/03/canada.terror/index.html)
+3. [CBC](http://www.cbc.ca/canada/story/2006/06/03/terror-suspects.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/americas/5044560.stm)
+5. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-06-03T181033Z_01_N02209271_RTRUKOC_0_US-CRIME-ARRESTS.xml)
 
 ### Related:
 

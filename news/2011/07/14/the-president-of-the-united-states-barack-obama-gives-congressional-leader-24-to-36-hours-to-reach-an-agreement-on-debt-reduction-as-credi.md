@@ -7,10 +7,10 @@ Shortly after President Obama and congressional leaders ended their meeting on t
 
 ### Source:
 
-1. [Marketwatch](http://www.marketwatch.com/story/sp-warns-on-us-debt-50-chance-of-downgrade-2011-07-14)
-2. [NPR](http://www.npr.org/blogs/thetwo-way/2011/07/14/137852207/reports-s-p-says-u-s-rating-could-be-downgraded-if-it-misses-any-payments)
+1. [Washington Post](http://www.washingtonpost.com/blogs/2chambers/post/obama-gives-leaders-24-to-36-hours-to-come-to-debt-agreement/2011/07/14/gIQALtXtEI_blog.html)
+2. [Marketwatch](http://www.marketwatch.com/story/sp-warns-on-us-debt-50-chance-of-downgrade-2011-07-14)
 3. [Reuters](http://www.reuters.com/article/2011/07/15/us-sp-us-idUSTRE76E01S20110715?feedType=RSS&virtualBrandChannel=10102)
-4. [Washington Post](http://www.washingtonpost.com/blogs/2chambers/post/obama-gives-leaders-24-to-36-hours-to-come-to-debt-agreement/2011/07/14/gIQALtXtEI_blog.html)
+4. [NPR](http://www.npr.org/blogs/thetwo-way/2011/07/14/137852207/reports-s-p-says-u-s-rating-could-be-downgraded-if-it-misses-any-payments)
 
 ### Related:
 

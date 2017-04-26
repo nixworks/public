@@ -7,10 +7,10 @@ ONE OF Uganda&rsquo;s most prominent gay rights activists has been murdered, wee
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/jan/27/uganda-paper-david-kato-death)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jtWRJ29m6GwDbZeTjxUWui0iaSUQ?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.5f1)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0128/1224288457254.html)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jtWRJ29m6GwDbZeTjxUWui0iaSUQ?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.5f1)
-4. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/27/uganda.gay.activist.killed/)
+3. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/27/uganda.gay.activist.killed/)
+4. [The Guardian](http://www.guardian.co.uk/world/2011/jan/27/uganda-paper-david-kato-death)
 
 ### Related:
 

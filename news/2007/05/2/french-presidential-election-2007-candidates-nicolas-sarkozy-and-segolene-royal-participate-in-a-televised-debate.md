@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/WORLD/europe/05/02/france.campaign/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/6614709.stm)
-3. [Reuters via CNN](http://edition.cnn.com/2007/POLITICS/05/02/france.election.debate.reut/index.html)
+1. [Reuters via CNN](http://edition.cnn.com/2007/POLITICS/05/02/france.election.debate.reut/index.html)
+2. [CNN](http://edition.cnn.com/2007/WORLD/europe/05/02/france.campaign/index.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/6614709.stm)
 
 ### Related:
 

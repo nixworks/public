@@ -7,8 +7,8 @@ The Foreign Office updates its travel advice for Europe, warning of a &quot;high
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-11462595)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Europe-Terror-Warning-US-State-Department-Warns-Of-Attack-And-Britons-Urged-To-Be-Vigilant/Article/201010115750223?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15750223_Europe_Terror_Warning%3A_US_State_Department_Warns_Of_Attack_And_Britons_Urged_To_Be_Vigilant)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Europe-Terror-Warning-US-State-Department-Warns-Of-Attack-And-Britons-Urged-To-Be-Vigilant/Article/201010115750223?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15750223_Europe_Terror_Warning%3A_US_State_Department_Warns_Of_Attack_And_Britons_Urged_To_Be_Vigilant)
+2. [BBC](http://www.bbc.co.uk/news/uk-11462595)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/oct/03/european-travel-advice-terror-threat)
 
 ### Related:

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/life_and_style/health/article6736993.ece)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-08/03/content_11816700.htm)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/2009837311848754.html)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-08/03/content_11816700.htm)
+3. [The Times](http://www.timesonline.co.uk/tol/life_and_style/health/article6736993.ece)
 
 ### Related:
 

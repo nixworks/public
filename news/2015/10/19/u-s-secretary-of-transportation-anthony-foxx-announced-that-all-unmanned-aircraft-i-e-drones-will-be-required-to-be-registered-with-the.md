@@ -7,10 +7,10 @@ The Obama administration said on Monday that it would require drone owners to re
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/19/us-usa-drones-registry-idUSKCN0SD1YV20151019)
+1. [Forbes](http://www.forbes.com/sites/johngoglia/2015/10/19/dotfaa-announce-mandatory-registration-of-all-drones-task-force-formed/)
 2. [DOT](https://www.transportation.gov/briefing-room/us-transportation-secretary-anthony-foxx-announces-unmanned-aircraft-registration)
-3. [NBC News](http://www.nbcnews.com/tech/innovation/faa-require-recreational-drone-operators-register-n447156)
-4. [Forbes](http://www.forbes.com/sites/johngoglia/2015/10/19/dotfaa-announce-mandatory-registration-of-all-drones-task-force-formed/)
+3. [Reuters](http://www.reuters.com/article/2015/10/19/us-usa-drones-registry-idUSKCN0SD1YV20151019)
+4. [NBC News](http://www.nbcnews.com/tech/innovation/faa-require-recreational-drone-operators-register-n447156)
 
 ### Related:
 

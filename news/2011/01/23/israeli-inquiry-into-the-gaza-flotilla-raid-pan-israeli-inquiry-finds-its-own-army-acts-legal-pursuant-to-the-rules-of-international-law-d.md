@@ -7,14 +7,14 @@ Contradicting a UN report, panel exonerates military of wrongdoing in the raid o
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=204876)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ggJP6H7igMkfEEjpW97JXHjN6ykA?docId=CNG.0974f2ca1c91adea909b6017dc4d554e.7d1)
-3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4017772,00.html)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12260983)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111238232857676.html)
-6. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=204858)
-7. [BBC](http://www.bbc.co.uk/news/world-middle-east-12262617)
-8. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking10.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111238232857676.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking10.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12262617)
+4. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=204876)
+5. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=204858)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-12260983)
+7. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ggJP6H7igMkfEEjpW97JXHjN6ykA?docId=CNG.0974f2ca1c91adea909b6017dc4d554e.7d1)
+8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4017772,00.html)
 
 ### Related:
 

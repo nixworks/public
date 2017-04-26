@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-20880301)
-2. [Reuters](http://www.reuters.com/article/2013/01/01/us-korea-north-idUSBRE90001S20130101)
+1. [Reuters](http://www.reuters.com/article/2013/01/01/us-korea-north-idUSBRE90001S20130101)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-20880301)
 
 ### Related:
 

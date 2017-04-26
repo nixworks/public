@@ -7,20 +7,20 @@ Counting of votes has begun around the country as an exit poll indicated Fine Ga
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking2.html?via=rel)
-2. [Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5gNtoL9tI2sx7dhdM4i3PqvKSUGwg?docId=N0177511298733454211A)
-3. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110226/ts_afp/irelandvote)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking6.html)
-5. [Reuters](http://www.reuters.com/article/2011/02/26/us-ireland-vote-lenihan-idUSTRE71P2P520110226)
-6. [Irish Examiner](http://www.breakingnews.ie/election/news/coughlan-loses-seat-as-fine-gael-move-closer-to-government-495175.html)
-7. [RTÉ](http://www.rte.ie/news/2011/0226/politics.html)
-8. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking66.html)
-9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking12.html)
-10. [Irish Examiner](http://www.breakingnews.ie/election/news/burton-rabbitte-and-varadkar-first-to-be-re-elected-495013.html)
-11. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking29.html?via=rel)
-12. [Business & Leadership](http://www.businessandleadership.com/leadership/item/28632-green-party-td-paul-gogarty)
-13. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12585048)
-14. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking20.html?via=rel)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking29.html?via=rel)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking2.html?via=rel)
+3. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12585048)
+4. [Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5gNtoL9tI2sx7dhdM4i3PqvKSUGwg?docId=N0177511298733454211A)
+5. [Irish Examiner](http://www.breakingnews.ie/election/news/coughlan-loses-seat-as-fine-gael-move-closer-to-government-495175.html)
+6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking66.html)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking12.html)
+8. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110226/ts_afp/irelandvote)
+9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking20.html?via=rel)
+10. [Reuters](http://www.reuters.com/article/2011/02/26/us-ireland-vote-lenihan-idUSTRE71P2P520110226)
+11. [Business & Leadership](http://www.businessandleadership.com/leadership/item/28632-green-party-td-paul-gogarty)
+12. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0226/breaking6.html)
+13. [Irish Examiner](http://www.breakingnews.ie/election/news/burton-rabbitte-and-varadkar-first-to-be-re-elected-495013.html)
+14. [RTÉ](http://www.rte.ie/news/2011/0226/politics.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8672489.stm)
+1. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=499884)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/10/c_13285608.htm)
-3. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=499884)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8672489.stm)
 
 ### Related:
 

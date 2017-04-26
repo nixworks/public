@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_432888.html)
-2. [Australia Network News](http://australianetworknews.com/stories/200909/2693514.htm?desktop)
+1. [Australia Network News](http://australianetworknews.com/stories/200909/2693514.htm?desktop)
+2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_432888.html)
 
 ### Related:
 

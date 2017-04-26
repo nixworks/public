@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0XV1UB)
-2. [Globo](http://g1.globo.com/politica/operacao-lava-jato/noticia/2016/05/maioria-do-stf-confirma-afastamento-de-eduardo-cunha-da-camara.html)
+1. [Globo](http://g1.globo.com/politica/operacao-lava-jato/noticia/2016/05/maioria-do-stf-confirma-afastamento-de-eduardo-cunha-da-camara.html)
+2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0XV1UB)
 
 ### Related:
 

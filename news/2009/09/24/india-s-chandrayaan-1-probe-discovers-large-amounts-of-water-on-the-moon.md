@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/607e2b60-a911-11de-b8bd-00144feabdc0.html)
-2. [The Guardian](http://www.guardian.co.uk/science/2009/sep/24/discovery-water-moon-lunar-base)
-3. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26121830-30417,00.html)
-4. [Press Trust of India](http://www.ptinews.com/news/298416_Water-detected-on-moon-by-Chandrayaan--ISRO-says-path-breaking)
-5. [Xinhua](http://news.xinhuanet.com/english/2009-09/24/content_12107884.htm)
+1. [The Guardian](http://www.guardian.co.uk/science/2009/sep/24/discovery-water-moon-lunar-base)
+2. [Press Trust of India](http://www.ptinews.com/news/298416_Water-detected-on-moon-by-Chandrayaan--ISRO-says-path-breaking)
+3. [Financial Times](http://www.ft.com/cms/s/0/607e2b60-a911-11de-b8bd-00144feabdc0.html)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-09/24/content_12107884.htm)
+5. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26121830-30417,00.html)
 
 ### Related:
 

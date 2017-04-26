@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L23249655.htm)
-2. [EITB](http://www.eitb24.com/noticia_en.php?id=70928)
-3. [Berria](http://www.berria.info/english/ikusi.php?id=1553)
+2. [Berria](http://www.berria.info/english/ikusi.php?id=1553)
+3. [EITB](http://www.eitb24.com/noticia_en.php?id=70928)
 
 ### Related:
 

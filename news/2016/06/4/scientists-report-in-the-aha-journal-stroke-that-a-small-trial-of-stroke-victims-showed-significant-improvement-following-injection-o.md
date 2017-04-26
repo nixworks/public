@@ -7,8 +7,8 @@ The results could be a fluke, but the research is encouraging.
 
 ### Source:
 
-1. [Tech Insider](http://www.techinsider.io/using-stem-cells-to-treat-stroke-symptoms-2016-6)
-2. [Stroke](http://stroke.ahajournals.org/content/early/2016/06/02/STROKEAHA.116.012995.abstract)
+1. [Stroke](http://stroke.ahajournals.org/content/early/2016/06/02/STROKEAHA.116.012995.abstract)
+2. [Tech Insider](http://www.techinsider.io/using-stem-cells-to-treat-stroke-symptoms-2016-6)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=231277)
-2. [RIA Novosti](http://en.rian.ru/world/20101202/161591144.html)
+1. [RIA Novosti](http://en.rian.ru/world/20101202/161591144.html)
+2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=231277)
 
 ### Related:
 

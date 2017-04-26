@@ -7,8 +7,8 @@ A 6.4-magnitude earthquake shook buildings in the southern Mexican state of Chia
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us100047zq#general_summary)
-2. [Reuters](http://www.reuters.com/article/us-mexico-quake-idUSKBN0U02T620151217)
+1. [Reuters](http://www.reuters.com/article/us-mexico-quake-idUSKBN0U02T620151217)
+2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us100047zq#general_summary)
 
 ### Related:
 

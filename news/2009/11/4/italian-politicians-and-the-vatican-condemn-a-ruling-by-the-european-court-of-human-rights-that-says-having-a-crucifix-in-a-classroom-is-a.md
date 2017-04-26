@@ -7,8 +7,8 @@ Italian political leaders have united to condemn a European court ruling that cr
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1104/crucifix.html)
-2. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/11/04/1008940/italy-protests-ruling-banning-crucifix-display)
+1. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/11/04/1008940/italy-protests-ruling-banning-crucifix-display)
+2. [RTÉ](http://www.rte.ie/news/2009/1104/crucifix.html)
 
 ### Related:
 

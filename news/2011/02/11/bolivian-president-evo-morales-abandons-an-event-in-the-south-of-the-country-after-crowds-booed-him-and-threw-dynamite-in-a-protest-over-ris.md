@@ -7,9 +7,9 @@ Bolivian President Evo Morales abandons a public event in the face of a food pro
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hKQxQLMRfW7GXBWbjCny9tN73FXQ?docId=b5764ed4c5df40f9a335b37f54808d01)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12427057)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/02/11/Dynamite-causes-Morales-to-cancel-speech/UPI-91971297432460/)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-12427057)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hKQxQLMRfW7GXBWbjCny9tN73FXQ?docId=b5764ed4c5df40f9a335b37f54808d01)
 
 ### Related:
 

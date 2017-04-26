@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-10-06-US--Hurricane%20Matthew-US/id-4ebff22a78094a2899867b6f62443cef)
-2. [ITV](http://www.itv.com/news/story/2016-10-07/hurricane-matthew-hundreds-dead-in-haiti-as-state-of-emergency-declared-in-us-states/)
-3. [Reuters](http://www.reuters.com/article/storm-matthew-haiti-idINKCN1271OB)
+1. [ITV](http://www.itv.com/news/story/2016-10-07/hurricane-matthew-hundreds-dead-in-haiti-as-state-of-emergency-declared-in-us-states/)
+2. [Reuters](http://www.reuters.com/article/storm-matthew-haiti-idINKCN1271OB)
+3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-10-06-US--Hurricane%20Matthew-US/id-4ebff22a78094a2899867b6f62443cef)
 4. [Sky News](http://news.sky.com/story/haiti-cholera-fears-after-hurricane-matthew-kills-136-people-10607911)
 
 ### Related:

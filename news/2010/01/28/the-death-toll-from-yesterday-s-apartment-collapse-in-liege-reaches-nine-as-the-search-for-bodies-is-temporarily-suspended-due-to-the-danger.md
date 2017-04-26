@@ -8,8 +8,8 @@ The death toll from a collapsed apartment block in eastern Belgium has risen to 
 ### Source:
 
 1. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-45763820100128)
-2. [RTÉ](http://www.rte.ie/news/2010/0128/belgium.html)
-3. [TVNZ](http://tvnz.co.nz/world-news/belgian-building-collapse-deaths-rise-3344911)
+2. [TVNZ](http://tvnz.co.nz/world-news/belgian-building-collapse-deaths-rise-3344911)
+3. [RTÉ](http://www.rte.ie/news/2010/0128/belgium.html)
 
 ### Related:
 

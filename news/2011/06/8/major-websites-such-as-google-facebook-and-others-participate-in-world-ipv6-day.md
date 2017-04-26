@@ -7,8 +7,8 @@ The Internet has been rolling along for decades on the strength of IPv4 and its 
 
 ### Source:
 
-1. [PC World](http://www.pcworld.com/businesscenter/article/229686/10_things_to_know_about_the_move_to_ipv6.html)
-2. [World IPv6 Day](http://www.worldipv6day.org/faq/)
+1. [World IPv6 Day](http://www.worldipv6day.org/faq/)
+2. [PC World](http://www.pcworld.com/businesscenter/article/229686/10_things_to_know_about_the_move_to_ipv6.html)
 
 ### Related:
 

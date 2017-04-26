@@ -7,10 +7,10 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-18T161414Z_01_SCH846099_RTRIDST_0_INTERNATIONAL-MOROCCO-POLISARIO-DC.XML)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-18T111538Z_01_DIT840560_RTRIDST_0_INTERNATIONAL-ALGERIA-MOROCCO-ICRC-DC.XML)
-3. [Guardian](http://www.guardian.co.uk/international/story/0,3604,1552128,00.html)
-4. [MSNBC](http://msnbc.msn.com/id/8995966/)
+1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-18T111538Z_01_DIT840560_RTRIDST_0_INTERNATIONAL-ALGERIA-MOROCCO-ICRC-DC.XML)
+2. [MSNBC](http://msnbc.msn.com/id/8995966/)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-18T161414Z_01_SCH846099_RTRIDST_0_INTERNATIONAL-MOROCCO-POLISARIO-DC.XML)
+4. [Guardian](http://www.guardian.co.uk/international/story/0,3604,1552128,00.html)
 5. [BBC](http://news.bbc.co.uk/2/hi/africa/4162790.stm)
 
 ### Related:

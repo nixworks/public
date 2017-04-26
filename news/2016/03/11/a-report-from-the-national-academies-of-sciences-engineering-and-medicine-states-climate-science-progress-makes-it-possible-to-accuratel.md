@@ -8,8 +8,8 @@ Man-made climate change is worsening some extreme weather events, according to a
 ### Source:
 
 1. [AP via ''Business Insider](http://www.businessinsider.com/ap-panel-finding-climate-fingerprints-in-wild-weather-is-valid-2016-3)
-2. [National Academies](http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=21852)
-3. [USA Today'' via WLTX](http://www.wltx.com/weather/forecast/climate/national-academy-of-sciences-report-links-extreme-weather-to-climate-change/78152696)
+2. [USA Today'' via WLTX](http://www.wltx.com/weather/forecast/climate/national-academy-of-sciences-report-links-extreme-weather-to-climate-change/78152696)
+3. [National Academies](http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=21852)
 
 ### Related:
 

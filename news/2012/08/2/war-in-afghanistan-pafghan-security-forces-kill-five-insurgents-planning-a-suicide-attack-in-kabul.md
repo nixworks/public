@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/02/c_131756440.htm)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hbPzDwAPnG9HeQB1H_ZeL3a-T2Xw?docId=CNG.b409f9338dffb929e7cd08a5c97a7ca3.1a1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hbPzDwAPnG9HeQB1H_ZeL3a-T2Xw?docId=CNG.b409f9338dffb929e7cd08a5c97a7ca3.1a1)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/02/c_131756440.htm)
 
 ### Related:
 

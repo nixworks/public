@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Boston Globe](http://www.boston.com/news/world/africa/articles/2005/12/17/no_plan_seen_for_more_darfur_funds/)
+1. [LA Times via Chron.com](http://www.chron.com/disp/story.mpl/world/3525801.html)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/IRIN/337139abef2a8430161025b63bc0e953.htm)
-3. [LA Times via Chron.com](http://www.chron.com/disp/story.mpl/world/3525801.html)
+3. [Boston Globe](http://www.boston.com/news/world/africa/articles/2005/12/17/no_plan_seen_for_more_darfur_funds/)
 
 ### Related:
 

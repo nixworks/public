@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/home/feeds/ap/2005/08/07/ap2174986.html)
+1. [ (Reuters SA](http://za.today.reuters.com/news/NewsArticle.aspx?type=businessNews&storyID=2005-08-07T161057Z_01_ALL758149_RTRIDST_0_OZABS-MINERALS-STRIKE-START-20050807.XML)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/4129142.stm)
-3. [ (Reuters SA](http://za.today.reuters.com/news/NewsArticle.aspx?type=businessNews&storyID=2005-08-07T161057Z_01_ALL758149_RTRIDST_0_OZABS-MINERALS-STRIKE-START-20050807.XML)
+3. [Forbes](http://www.forbes.com/home/feeds/ap/2005/08/07/ap2174986.html)
 
 ### Related:
 

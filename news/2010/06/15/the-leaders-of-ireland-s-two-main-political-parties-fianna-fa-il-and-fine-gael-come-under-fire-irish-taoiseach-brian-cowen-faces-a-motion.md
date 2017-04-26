@@ -7,8 +7,8 @@ Nine members of the Fine Gael frontbench have said they do not have confidence i
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0615/finegael.html)
-2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65E0YR20100615)
+1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65E0YR20100615)
+2. [RTÉ](http://www.rte.ie/news/2010/0615/finegael.html)
 
 ### Related:
 

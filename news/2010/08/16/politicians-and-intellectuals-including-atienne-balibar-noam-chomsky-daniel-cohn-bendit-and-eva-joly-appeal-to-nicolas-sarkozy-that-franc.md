@@ -7,11 +7,11 @@ A group of intellectuals and politicians calls on France to repay 17bn euros (£
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/france-urged-to-repay-haiti-a24-billion-20100816-126w0.html)
-2. [France24](http://www.france24.com/en/20100816-france-urged-pay-back-haiti-illegal-independence-debt-open-letter-sarkozy)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/15/france-haiti-independence-debt)
-4. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201081614920360923.html)
-5. [BBC](http://www.bbc.co.uk/news/world-europe-10988938)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-10988938)
+2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/france-urged-to-repay-haiti-a24-billion-20100816-126w0.html)
+3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201081614920360923.html)
+4. [France24](http://www.france24.com/en/20100816-france-urged-pay-back-haiti-illegal-independence-debt-open-letter-sarkozy)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/aug/15/france-haiti-independence-debt)
 
 ### Related:
 

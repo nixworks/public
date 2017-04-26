@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8622068.stm)
-2. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201004/2874179.htm?desktop)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/16/c_13254087.htm)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/16/c_13254087.htm)
+3. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201004/2874179.htm?desktop)
 
 ### Related:
 

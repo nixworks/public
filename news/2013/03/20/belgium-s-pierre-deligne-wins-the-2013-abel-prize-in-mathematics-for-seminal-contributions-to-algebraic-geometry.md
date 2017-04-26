@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Abel Prize](http://www.abelprize.no/c57681/binfil/download.php?tid=57777)
-2. [AP via ''The Washington Post](http://www.washingtonpost.com/world/europe/belgian-wins-norwegian-1million-abel-prize-in-mathematics/2013/03/20/7ff95f38-916f-11e2-9173-7f87cda73b49_story.html)
-3. [The Hindu](http://www.thehindu.com/sci-tech/science/belgian-wins-2013-abel-prize/article4530179.ece)
+2. [The Hindu](http://www.thehindu.com/sci-tech/science/belgian-wins-2013-abel-prize/article4530179.ece)
+3. [AP via ''The Washington Post](http://www.washingtonpost.com/world/europe/belgian-wins-norwegian-1million-abel-prize-in-mathematics/2013/03/20/7ff95f38-916f-11e2-9173-7f87cda73b49_story.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/26/india-italy-marines-idINDEE92P0BY20130326)
+1. [CNN](http://www.cnn.com/2013/03/26/world/europe/italy-foreign-minister-resigns)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21938084)
-3. [CNN](http://www.cnn.com/2013/03/26/world/europe/italy-foreign-minister-resigns)
+3. [Reuters](http://www.reuters.com/article/2013/03/26/india-italy-marines-idINDEE92P0BY20130326)
 
 ### Related:
 

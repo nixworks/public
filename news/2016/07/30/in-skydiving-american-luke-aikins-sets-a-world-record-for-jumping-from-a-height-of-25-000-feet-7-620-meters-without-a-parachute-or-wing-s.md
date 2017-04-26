@@ -7,9 +7,9 @@ The 42-year-old daredevil made a perfect landing into a net 25,000 feet below in
 
 ### Source:
 
-1. [NPR](http://www.npr.org/sections/thetwo-way/2016/07/30/488083554/luke-aikins-becomes-first-person-to-jump-from-a-plane-without-a-parachute)
+1. [AP via CBS News](http://www.cbsnews.com/news/skydiver-luke-aikins-makes-parachute-free-jump/)
 2. [BBC](http://www.bbc.com/news/world-us-canada-36935087)
-3. [AP via CBS News](http://www.cbsnews.com/news/skydiver-luke-aikins-makes-parachute-free-jump/)
+3. [NPR](http://www.npr.org/sections/thetwo-way/2016/07/30/488083554/luke-aikins-becomes-first-person-to-jump-from-a-plane-without-a-parachute)
 
 ### Related:
 

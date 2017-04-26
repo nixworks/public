@@ -7,12 +7,12 @@ Heavy fighting between government forces and Islamist militants in Mogadishu kil
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13331907.htm)
-2. [AfricaNews](http://www.africanews.com/site/Somali_forces_free_ship_pirates_kill_captain/list_messages/32434)
-3. [Sify](http://sify.com/news/23-killed-dozens-injured-in-somalia-fighting-news-international-kgduEdgadbj.html)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10224293.stm)
-5. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/03/somalia.fighting.toll/)
-6. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10233602.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10224293.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10233602.stm)
+3. [AfricaNews](http://www.africanews.com/site/Somali_forces_free_ship_pirates_kill_captain/list_messages/32434)
+4. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/03/somalia.fighting.toll/)
+5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13331907.htm)
+6. [Sify](http://sify.com/news/23-killed-dozens-injured-in-somalia-fighting-news-international-kgduEdgadbj.html)
 
 ### Related:
 

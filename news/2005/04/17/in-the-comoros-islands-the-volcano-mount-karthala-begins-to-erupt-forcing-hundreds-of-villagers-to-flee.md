@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/WORLD/africa/04/17/comoros.volcano.reut/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8203301&type=worldNews)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8203301&type=worldNews)
+2. [CNN](http://edition.cnn.com/2005/WORLD/africa/04/17/comoros.volcano.reut/)
 
 ### Related:
 

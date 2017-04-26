@@ -7,15 +7,15 @@
 
 ### Source:
 
-1. [afrol News](http://www.afrol.com/articles/16889)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4741243.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4741243.stm)
+2. [afrol News](http://www.afrol.com/articles/16889)
 3. [Middle East Online](http://www.middle-east-online.com/english/?id=14184)
 
 ### Related:
 
 1. [ King Fahd of Saudi Arabia has died in a hospital at the age of 83.  It was believed that he was in poor health and entered the hospital on May 27 with acute pneumonia.  Crown Prince Abdullah, who had been effective regent for years, accedes to the throne.  Defence Minister Prince Sultan will be the new Crown Prince. (Wikinews) ](/news/2005/08/1/king-fahd-of-saudi-arabia-has-died-in-a-hospital-at-the-age-of-83-it-was-believed-that-he-was-in-poor-health-and-entered-the-hospital-on.md) _Context: King Fahd, Saudi Arabia_
 2. [ In Mauritania, four army officers who plotted coups against President Maaouya Ould Sid'Ahmed Taya each receive a life sentence instead of the expected death penalty after a four-month trial. The sentenced include former army major Saleh Ould Hanenna. ](/news/2005/02/4/in-mauritania-four-army-officers-who-plotted-coups-against-president-maaouya-ould-sid-ahmed-taya-each-receive-a-life-sentence-instead-of-t.md) _Context: Mauritania, Ould Taya_
-3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 4. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 5. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 6. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

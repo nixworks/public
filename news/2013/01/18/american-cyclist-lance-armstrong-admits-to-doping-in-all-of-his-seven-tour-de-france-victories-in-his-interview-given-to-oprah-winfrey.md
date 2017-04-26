@@ -7,9 +7,9 @@ operate with doping authorities (Adds reaction)
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/18/cycling-armstrong-idUSL4N0AN1A420130118)
-2. [AP](http://hosted.ap.org/dynamic/stories/C/CYC_ARMSTRONG_OPRAH)
-3. [BBC](http://www.bbc.co.uk/sport/0/cycling/21033130)
+1. [AP](http://hosted.ap.org/dynamic/stories/C/CYC_ARMSTRONG_OPRAH)
+2. [BBC](http://www.bbc.co.uk/sport/0/cycling/21033130)
+3. [Reuters](http://www.reuters.com/article/2013/01/18/cycling-armstrong-idUSL4N0AN1A420130118)
 
 ### Related:
 

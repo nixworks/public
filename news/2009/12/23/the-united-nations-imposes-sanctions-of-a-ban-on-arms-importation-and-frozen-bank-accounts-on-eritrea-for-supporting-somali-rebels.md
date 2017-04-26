@@ -8,8 +8,8 @@ The U.N. Security Council imposed sanctions on the Horn of Africa state of Eritr
 ### Source:
 
 1. [RIA Novosti](http://en.rian.ru/world/20091223/157336451.html)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6966873.ece)
-3. [Reuters](http://www.reuters.com/article/idUSTRE5BM2K420091223)
+2. [Reuters](http://www.reuters.com/article/idUSTRE5BM2K420091223)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6966873.ece)
 
 ### Related:
 

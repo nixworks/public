@@ -7,8 +7,8 @@ Get the latest digital weather news by visiting our website online. Our live Iri
 
 ### Source:
 
-1. [Irish Weather Online](http://www.irishweatheronline.com/news/earth-science/geology/volcanic-alert-in-effect-on-el-hierro-as-4-3-magnitude-earthquake-hits/41200.html)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-2042873/Earthquake-swarm-Canary-Island-El-Hierro-sparks-fears-volcanic-eruption.html?ito=feeds-newsxml)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-2042873/Earthquake-swarm-Canary-Island-El-Hierro-sparks-fears-volcanic-eruption.html?ito=feeds-newsxml)
+2. [Irish Weather Online](http://www.irishweatheronline.com/news/earth-science/geology/volcanic-alert-in-effect-on-el-hierro-as-4-3-magnitude-earthquake-hits/41200.html)
 3. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=731865&publicationSubCategoryId=200)
 
 ### Related:

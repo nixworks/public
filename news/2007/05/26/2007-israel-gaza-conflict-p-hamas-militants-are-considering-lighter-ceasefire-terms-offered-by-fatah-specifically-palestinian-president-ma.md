@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSL1731780720070526?)
+1. [Reuters via ABC News Online](http://www.abc.net.au/news/newsitems/200705/s1934132.htm)
 2. [Reuters](http://www.reuters.com/article/newsOne/idUSL1731780720070526)
-3. [Reuters via ABC News Online](http://www.abc.net.au/news/newsitems/200705/s1934132.htm)
+3. [Reuters](http://www.reuters.com/article/newsOne/idUSL1731780720070526?)
 
 ### Related:
 

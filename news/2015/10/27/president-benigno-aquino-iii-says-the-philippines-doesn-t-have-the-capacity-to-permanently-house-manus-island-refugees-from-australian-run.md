@@ -7,8 +7,8 @@ Philippines President Benigno Aquino said his country has &#034;no capacity&#034
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/world/philippines-says-has-no-capacity-to-resettle-asylum-seekers-held-by-australia-on-nauru-or-manus-island-20151027-gkk5vy.html)
-2. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/philippines-studying-australian-plan-to-send-refugees/2015/10/27/42d7af80-7c89-11e5-bfb6-65300a5ff562_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/philippines-studying-australian-plan-to-send-refugees/2015/10/27/42d7af80-7c89-11e5-bfb6-65300a5ff562_story.html)
+2. [Sydney Morning Herald](http://www.smh.com.au/world/philippines-says-has-no-capacity-to-resettle-asylum-seekers-held-by-australia-on-nauru-or-manus-island-20151027-gkk5vy.html)
 
 ### Related:
 

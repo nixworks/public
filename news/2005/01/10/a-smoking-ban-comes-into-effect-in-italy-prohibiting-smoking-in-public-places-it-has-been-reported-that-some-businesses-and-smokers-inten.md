@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Boston Globe](http://www.boston.com/news/world/europe/articles/2005/01/10/italy_snuffs_out_smoking_in_most_bars_restaurants/)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4159587.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4159587.stm)
+2. [Boston Globe](http://www.boston.com/news/world/europe/articles/2005/01/10/italy_snuffs_out_smoking_in_most_bars_restaurants/)
 
 ### Related:
 

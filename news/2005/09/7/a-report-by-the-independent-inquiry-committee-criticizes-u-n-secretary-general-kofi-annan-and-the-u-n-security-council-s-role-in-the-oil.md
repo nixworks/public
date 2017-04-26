@@ -7,8 +7,8 @@ According to an independent investigatory committee, U.N. officials allowed corr
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/07/AR2005090701646.html)
-2. [FOX](http://www.foxnews.com/story/0,2933,168648,00.html)
+1. [FOX](http://www.foxnews.com/story/0,2933,168648,00.html)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/07/AR2005090701646.html)
 
 ### Related:
 

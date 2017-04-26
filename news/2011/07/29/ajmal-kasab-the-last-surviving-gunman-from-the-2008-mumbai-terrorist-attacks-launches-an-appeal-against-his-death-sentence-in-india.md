@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/india/Kasab-appeals-death-sentence/articleshow/9406042.cms)
-2. [Sky News](http://news.sky.com/home/world-news/article/16039587)
+1. [Sky News](http://news.sky.com/home/world-news/article/16039587)
+2. [Times of India](http://timesofindia.indiatimes.com/india/Kasab-appeals-death-sentence/articleshow/9406042.cms)
 
 ### Related:
 

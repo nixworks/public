@@ -7,6 +7,6 @@ The ultimate news source for music, celebrity, entertainment, movies, and curren
 
 ### Source:
 
-1. [MTV](http://www.mtv.com/movies/news/articles/1496197/01252005/story.jhtml)
-2. [BBC](http://news.bbc.co.uk/1/hi/entertainment/film/4203219.stm)
-3. [MSNBC](http://msnbc.msn.com/id/6865817/)
+1. [MSNBC](http://msnbc.msn.com/id/6865817/)
+2. [MTV](http://www.mtv.com/movies/news/articles/1496197/01252005/story.jhtml)
+3. [BBC](http://news.bbc.co.uk/1/hi/entertainment/film/4203219.stm)

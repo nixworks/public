@@ -7,8 +7,8 @@ Girlfriend of Almog Shiloni, who was stabbed to death in Tel Aviv attack, says t
 
 ### Source:
 
-1. [Times of Israel](http://blogs.timesofisrael.com/what-they-didnt-tell-you-about-dahlia)
-2. [Reuters](http://www.reuters.com/article/2014/11/10/us-mideast-israel-violence-idUSKCN0IU0Z920141110)
+1. [Reuters](http://www.reuters.com/article/2014/11/10/us-mideast-israel-violence-idUSKCN0IU0Z920141110)
+2. [Times of Israel](http://blogs.timesofisrael.com/what-they-didnt-tell-you-about-dahlia)
 3. [Times of Israel](http://www.timesofisrael.com/i-have-half-a-broken-heart-says-twin-brother-of-slain-soldier-at-funeral)
 
 ### Related:

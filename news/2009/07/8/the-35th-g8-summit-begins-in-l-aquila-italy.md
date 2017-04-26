@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/08/g8.meeting.advancer/)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8139364.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8139364.stm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/08/g8.meeting.advancer/)
 
 ### Related:
 

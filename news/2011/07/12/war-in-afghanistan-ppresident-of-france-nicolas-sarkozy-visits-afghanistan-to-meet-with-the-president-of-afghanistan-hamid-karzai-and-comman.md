@@ -7,10 +7,10 @@ Controversial Afghan politician Ahmad Wali Karzai, half-brother of President Ham
 
 ### Source:
 
-1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/frances-sarkozy-visits-afghanistan)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14118884)
-3. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE76B0OR20110712)
-4. [Dawn](http://www.dawn.com/2011/07/12/brother-of-hamid-karzai-killed.html)
+1. [Dawn](http://www.dawn.com/2011/07/12/brother-of-hamid-karzai-killed.html)
+2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE76B0OR20110712)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-14118884)
+4. [Reuters via Alertnet](http://www.trust.org/alertnet/news/frances-sarkozy-visits-afghanistan)
 
 ### Related:
 

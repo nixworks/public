@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-35165169)
-2. [VICE News](https://news.vice.com/article/colombias-president-signs-a-decree-legalizing-medical-weed)
+1. [VICE News](https://news.vice.com/article/colombias-president-signs-a-decree-legalizing-medical-weed)
+2. [BBC](http://www.bbc.com/news/world-latin-america-35165169)
 
 ### Related:
 

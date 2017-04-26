@@ -8,8 +8,8 @@ BP will plead guilty to a dozen felony charges stemming from the 2010 Deepwater 
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/2012-11-15/bp-resolution-with-doj-includes-4-billion-paid-in-installments.html)
-2. [Wall Street Journal](http://online.wsj.com/article/SB10001424127887324556304578120140555122104.html?mod=WSJ_hpp_LEFTTopStories)
-3. [CNN](http://money.cnn.com/2012/11/15/news/bp-oil-spill-settlement/index.html?hpt=hp_t1)
+2. [CNN](http://money.cnn.com/2012/11/15/news/bp-oil-spill-settlement/index.html?hpt=hp_t1)
+3. [Wall Street Journal](http://online.wsj.com/article/SB10001424127887324556304578120140555122104.html?mod=WSJ_hpp_LEFTTopStories)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Security forces in eastern Algeria surround a gas facility occupied by militants
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/201311713160194432.html)
-2. [USA Today](http://www.usatoday.com/story/news/world/2013/01/17/algeria-hostages/1841343/)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-21054521)
-4. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-20-foreign-hostages-escape-islamist-captors-in-algeria-20130117,0,7004240.story)
-5. [Fox News](http://www.foxnews.com/world/2013/01/17/us-france-reportedly-in-talks-with-algeria-over-hostage-standoff/)
+1. [Fox News](http://www.foxnews.com/world/2013/01/17/us-france-reportedly-in-talks-with-algeria-over-hostage-standoff/)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-20-foreign-hostages-escape-islamist-captors-in-algeria-20130117,0,7004240.story)
+3. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/201311713160194432.html)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-21054521)
+5. [USA Today](http://www.usatoday.com/story/news/world/2013/01/17/algeria-hostages/1841343/)
 
 ### Related:
 

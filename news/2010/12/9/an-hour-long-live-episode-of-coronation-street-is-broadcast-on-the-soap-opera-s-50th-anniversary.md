@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11961384)
+1. [The Guardian](http://www.guardian.co.uk/tv-and-radio/tvandradioblog/2010/dec/09/coronation-street-manchester-north-west)
 2. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1337239/Coronation-Street-cast-deliver-flawless-performance-live-celebrate-soaps-50th-anniversary.html?ito=feeds-newsxml)
-3. [The Guardian](http://www.guardian.co.uk/tv-and-radio/tvandradioblog/2010/dec/09/coronation-street-manchester-north-west)
+3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11961384)
 
 ### Related:
 

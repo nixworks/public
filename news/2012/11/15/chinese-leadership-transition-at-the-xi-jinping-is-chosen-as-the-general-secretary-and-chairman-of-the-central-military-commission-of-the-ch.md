@@ -7,9 +7,9 @@ Xi Jinping is confirmed as the man to lead China for the next decade, as reformi
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20322288)
-2. [BBC Transcript](http://www.bbc.co.uk/news/world-asia-china-20338586)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-china-20322288#)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20322288#)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-china-20322288)
+3. [BBC Transcript](http://www.bbc.co.uk/news/world-asia-china-20338586)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-china-20338556)
 
 ### Related:

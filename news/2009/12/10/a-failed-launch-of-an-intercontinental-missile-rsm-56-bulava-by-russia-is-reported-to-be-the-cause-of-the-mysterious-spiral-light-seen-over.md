@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [South Africa Mercury](http://www.themercury.co.za/?fSectionId=&fArticleId=nw20091210111854685C543524)
-2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14626373&PageNum=0)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8405481.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8405481.stm)
+2. [South Africa Mercury](http://www.themercury.co.za/?fSectionId=&fArticleId=nw20091210111854685C543524)
+3. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14626373&PageNum=0)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WNN](https://news.wtyw7.ca/news/2012/10/30/sandy-hit-force/)
-2. [CNN](http://news.blogs.cnn.com/2012/10/30/superstorm-sandys-wrath/?hpt=hp_t1)
+1. [CNN](http://news.blogs.cnn.com/2012/10/30/superstorm-sandys-wrath/?hpt=hp_t1)
+2. [WNN](https://news.wtyw7.ca/news/2012/10/30/sandy-hit-force/)
 
 ### Related:
 

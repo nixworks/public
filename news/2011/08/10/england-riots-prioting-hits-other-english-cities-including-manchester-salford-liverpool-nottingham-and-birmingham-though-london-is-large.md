@@ -7,10 +7,10 @@ Rioting spreads to a number of cities with unrest in Manchester and Liverpool, w
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2011/aug/10/david-cameron-water-cannon-police-riots)
-2. [BBC](http://www.bbc.co.uk/news/uk-england-london-14460554)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-london-14460554)
+2. [BBC](http://www.bbc.co.uk/news/uk-scotland-14473068)
 3. [CNN](http://edition.cnn.com/2011/WORLD/europe/08/10/uk.riots/)
-4. [BBC](http://www.bbc.co.uk/news/uk-scotland-14473068)
+4. [The Guardian](http://www.guardian.co.uk/uk/2011/aug/10/david-cameron-water-cannon-police-riots)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/CTVNews/Canada/20110129/hamilton-labour-rally-110229/)
-2. [Niagara Falls Review](http://www.niagarafallsreview.ca/ArticleDisplay.aspx?e=2953771)
+1. [Niagara Falls Review](http://www.niagarafallsreview.ca/ArticleDisplay.aspx?e=2953771)
+2. [CTV](http://www.ctv.ca/CTVNews/Canada/20110129/hamilton-labour-rally-110229/)
 
 ### Related:
 

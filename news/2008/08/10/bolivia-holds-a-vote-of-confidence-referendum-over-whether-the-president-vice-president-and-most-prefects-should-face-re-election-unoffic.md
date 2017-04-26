@@ -7,8 +7,8 @@ President Evo Morales appeared to have won a sweeping victory Sunday in a nation
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-bolivia11-2008aug11,0,2039796.story)
-2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7547043.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7547043.stm)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-bolivia11-2008aug11,0,2039796.story)
 
 ### Related:
 

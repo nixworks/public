@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/international/article39632.ece)
+1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/9/44/Tibetans-executed-China-over-riots-last-year,6aa5aafc-6d6a-4d7b-b6d0-364cfd9faefc.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/27/china-executes-two-tibetans)
-3. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/9/44/Tibetans-executed-China-over-riots-last-year,6aa5aafc-6d6a-4d7b-b6d0-364cfd9faefc.html)
+3. [The Hindu](http://beta.thehindu.com/news/international/article39632.ece)
 
 ### Related:
 

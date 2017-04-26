@@ -7,8 +7,8 @@ Today, as the last Syrian troops depart from the country they have occupied for 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=HTYVLYYAWLYDSCRBAEKSFEY?type=topNews&storyID=8301502)
-2. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=10&article_id=14579&categ_id=17)
+1. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=10&article_id=14579&categ_id=17)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=HTYVLYYAWLYDSCRBAEKSFEY?type=topNews&storyID=8301502)
 
 ### Related:
 

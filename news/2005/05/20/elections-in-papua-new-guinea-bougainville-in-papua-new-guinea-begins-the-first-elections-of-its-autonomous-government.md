@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1372884.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4560265.stm)
 2. [National, Papua New Guinea](http://www.thenational.com.pg/0520/editorial1.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4560265.stm)
+3. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1372884.htm)
 
 ### Related:
 

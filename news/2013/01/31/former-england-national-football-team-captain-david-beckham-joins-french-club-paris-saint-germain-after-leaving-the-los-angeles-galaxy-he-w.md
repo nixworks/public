@@ -7,9 +7,9 @@ Former England captain David Beckham arrives in Paris to complete the formalitie
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1320998/)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21276595)
 2. [AP via US News](http://www.usnews.com/news/sports/articles/2013/01/31/ap-source-beckham-will-join-french-club-psg)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/21276595)
+3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1320998/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/2011628131923580846.html)
-2. [Refugees International](http://refugeesinternational.org/policy/field-report/afghanistan-responsible-us-transition-must-address-displacement-crisis)
+1. [Refugees International](http://refugeesinternational.org/policy/field-report/afghanistan-responsible-us-transition-must-address-displacement-crisis)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/2011628131923580846.html)
 
 ### Related:
 

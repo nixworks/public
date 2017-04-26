@@ -7,9 +7,9 @@ A man died and another was hospitalized in serious condition Saturday afternoon 
 
 ### Source:
 
-1. [KSAZ](http://www.myfoxphoenix.com/story/22726613/2013/06/30/yarnell-hill-wildfire-grows-to-almost-1000-acres)
-2. [AP via Fox News](http://www.foxnews.com/weather/2013/06/30/at-least-1-dead-in-west-heat-wave/)
-3. [Associated Press via ABC](http://abclocal.go.com/wabc/story?section=news/national_world&id=9157741)
+1. [AP via Fox News](http://www.foxnews.com/weather/2013/06/30/at-least-1-dead-in-west-heat-wave/)
+2. [Associated Press via ABC](http://abclocal.go.com/wabc/story?section=news/national_world&id=9157741)
+3. [KSAZ](http://www.myfoxphoenix.com/story/22726613/2013/06/30/yarnell-hill-wildfire-grows-to-almost-1000-acres)
 
 ### Related:
 

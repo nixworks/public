@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20100103-volcano-erupts-threatening-national-park-congo-drc-Nyamulagira-virunga-goma-chimpanzees?autoplay=)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8438203.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8438203.stm)
+2. [France 24](http://www.france24.com/en/20100103-volcano-erupts-threatening-national-park-congo-drc-Nyamulagira-virunga-goma-chimpanzees?autoplay=)
 
 ### Related:
 

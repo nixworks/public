@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Vanguard](http://www.vanguardngr.com/2009/10/04/amnesty-deadline-militants-in-last-minute-rush-to-surrender/)
-2. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/668060/-/1368uhtz/-/)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8289171.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8289171.stm)
+3. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/668060/-/1368uhtz/-/)
 
 ### Related:
 

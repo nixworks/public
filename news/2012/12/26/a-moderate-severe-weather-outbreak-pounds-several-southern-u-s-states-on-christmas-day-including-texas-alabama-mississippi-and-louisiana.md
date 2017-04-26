@@ -7,10 +7,10 @@ Severe Christmas day weather tore across the deep south of the U.S., spinning of
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/12/25/us/winter-weather/index.html)
+1. [AP](http://hosted2.ap.org/APDefault/Article_2012-12-25-Christmas%20Weather/id-11814bb0644b4596b96657de43e929d9)
 2. [ABC News](http://abcnews.go.com/US/severe-weather-spawns-34-tornado-reports-texas-alabama/story?id=18064857)
-3. [Reuters](http://www.reuters.com/article/2012/12/25/us-usa-weather-idUSBRE8BO05K20121225)
-4. [AP](http://hosted2.ap.org/APDefault/Article_2012-12-25-Christmas%20Weather/id-11814bb0644b4596b96657de43e929d9)
+3. [CNN](http://www.cnn.com/2012/12/25/us/winter-weather/index.html)
+4. [Reuters](http://www.reuters.com/article/2012/12/25/us-usa-weather-idUSBRE8BO05K20121225)
 
 ### Related:
 

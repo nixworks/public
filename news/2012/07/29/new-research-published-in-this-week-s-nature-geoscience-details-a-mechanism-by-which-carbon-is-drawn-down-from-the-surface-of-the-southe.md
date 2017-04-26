@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20120729-scientists-find-co2-sucking-funnels-southern-ocean)
-2. [Phys.org](http://phys.org/news/2012-07-discovery-carbon-southern-ocean.html)
+1. [Phys.org](http://phys.org/news/2012-07-discovery-carbon-southern-ocean.html)
+2. [France 24](http://www.france24.com/en/20120729-scientists-find-co2-sucking-funnels-southern-ocean)
 
 ### Related:
 

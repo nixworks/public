@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/visual_arts/article6877116.ece)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4796877,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4796877,00.html)
+2. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/visual_arts/article6877116.ece)
 
 ### Related:
 

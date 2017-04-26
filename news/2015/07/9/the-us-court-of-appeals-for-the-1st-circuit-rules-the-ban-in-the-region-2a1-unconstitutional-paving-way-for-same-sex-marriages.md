@@ -7,5 +7,5 @@ A federal appeals court on Wednesday ruled Puerto Rico&#039;s same-sex marriage 
 
 ### Source:
 
-1. [Washington Blade](http://www.washingtonblade.com/2015/07/08/1st-circuit-rules-puerto-rico-marriage-ban-unconstitutional/)
-2. [AP](http://bigstory.ap.org/article/e12d0086eac04acfbfb0f30c3deb60de/puerto-rico-amends-laws-after-us-ruling-gay-marriage)
+1. [AP](http://bigstory.ap.org/article/e12d0086eac04acfbfb0f30c3deb60de/puerto-rico-amends-laws-after-us-ruling-gay-marriage)
+2. [Washington Blade](http://www.washingtonblade.com/2015/07/08/1st-circuit-rules-puerto-rico-marriage-ban-unconstitutional/)

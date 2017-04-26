@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [actmedia](http://actmedia.eu/daily/president-of-the-senate-notifyed-the-constitutional-court-on-a-judicial-conflict-between-the-government-and-dna/67999)
-2. [Reuters](http://www.reuters.com/article/us-romania-corruption-idUSKBN15O2HN?il=0)
+1. [Reuters](http://www.reuters.com/article/us-romania-corruption-idUSKBN15O2HN?il=0)
+2. [actmedia](http://actmedia.eu/daily/president-of-the-senate-notifyed-the-constitutional-court-on-a-judicial-conflict-between-the-government-and-dna/67999)
 
 ### Related:
 

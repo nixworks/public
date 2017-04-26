@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/POLITICS/05/26/house.shots/index.html?section=cnn_topstories)
-2. [Department of the Interior news release](http://www.doi.gov/news/06_News_Releases/060526.htm)
-3. [U.S. Senate news release](http://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_109_2.htm)
+1. [Department of the Interior news release](http://www.doi.gov/news/06_News_Releases/060526.htm)
+2. [U.S. Senate news release](http://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_109_2.htm)
+3. [CNN](http://www.cnn.com/2006/POLITICS/05/26/house.shots/index.html?section=cnn_topstories)
 
 ### Related:
 

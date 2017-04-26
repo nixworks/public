@@ -7,11 +7,11 @@ News organization withdraws photograph of Israeli fighter jet, admits image was 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-08-07T163822Z_01_L07821262_RTRUKOC_0_US-MIDEAST-ISRAEL-DRONE.xml&src=rss&rpc=22)
+1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-07T171031Z_01_L07818860_RTRUKOC_0_US-MIDEAST-LEBANON-DEPLOYMENT.xml)
 2. [Reuters](http://reuters.myway.com/article/20060807/2006-08-07T162044Z_01_L06301298_RTRIDST_0_NEWS-MIDEAST-REUTERS-DC.html)
-3. [YNet](http://www.ynetnews.com/articles/0,7340,L-3287774,00.html)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5252842.stm)
-5. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-07T171031Z_01_L07818860_RTRUKOC_0_US-MIDEAST-LEBANON-DEPLOYMENT.xml)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5252842.stm)
+4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-08-07T163822Z_01_L07821262_RTRUKOC_0_US-MIDEAST-ISRAEL-DRONE.xml&src=rss&rpc=22)
+5. [YNet](http://www.ynetnews.com/articles/0,7340,L-3287774,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Colossal storage reaches new milestone with a drive that holds 1000 gigabytes.
 
 ### Source:
 
-1. [PC World](http://www.pcworld.com/article/id,128400-page,1/article.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=aWQWy6X6YOMQ)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=aWQWy6X6YOMQ)
+2. [PC World](http://www.pcworld.com/article/id,128400-page,1/article.html)
 
 ### Related:
 

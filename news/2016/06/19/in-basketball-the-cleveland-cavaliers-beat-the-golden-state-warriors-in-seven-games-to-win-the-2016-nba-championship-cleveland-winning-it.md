@@ -7,8 +7,8 @@ Minute-by-minute report: The Cavaliers ended their long wait for a title with vi
 
 ### Source:
 
-1. [ESPN](http://espn.go.com/nba/playoffs/2016/story/_/id/16351029/lebron-james-cleveland-cavaliers-named-unanimous-nba-finals-mvp)
-2. [The Guardian](https://www.theguardian.com/sport/live/2016/jun/19/golden-state-warriors-cleveland-cavaliers-nba-finals-game-7-live-score)
+1. [The Guardian](https://www.theguardian.com/sport/live/2016/jun/19/golden-state-warriors-cleveland-cavaliers-nba-finals-game-7-live-score)
+2. [ESPN](http://espn.go.com/nba/playoffs/2016/story/_/id/16351029/lebron-james-cleveland-cavaliers-named-unanimous-nba-finals-mvp)
 3. [Ohio.com](http://www.ohio.com/blogs/cleveland-cavaliers/cleveland-cavaliers-1.275356/cavs-win-first-nba-championship-lebron-james-named-mvp-in-93-89-win-over-warriors-1.691628)
 
 ### Related:

@@ -7,11 +7,11 @@ Taliban ally-turned-enemy among victims of suicide attack near Peshawar in the n
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1108/pakistan.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8348956.stm)
 2. [Reuters India](http://in.reuters.com/article/southAsiaNews/idINIndia-43780320091108?feedType=RSS&feedName=southAsiaNews)
 3. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/20091185332446621.html)
-4. [Hindustan Times](http://www.hindustantimes.com/Suicide-attack-in-Pakistan-s-Peshawar-city-8-killed/H1-Article1-474071.aspx)
-5. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8348956.stm)
+4. [RTÉ](http://www.rte.ie/news/2009/1108/pakistan.html)
+5. [Hindustan Times](http://www.hindustantimes.com/Suicide-attack-in-Pakistan-s-Peshawar-city-8-killed/H1-Article1-474071.aspx)
 
 ### Related:
 

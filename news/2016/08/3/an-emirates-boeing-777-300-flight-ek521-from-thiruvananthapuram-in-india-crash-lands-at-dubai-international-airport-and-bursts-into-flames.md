@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/08/03/middleeast/dubai-airport-emirates-flight-emergency-landing/index.html)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36963112)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/08/emirates-airline-flight-crash-lands-dubai-airport-160803094230449.html)
-3. [BBC](http://www.bbc.com/news/world-middle-east-36963112)
+3. [CNN](http://edition.cnn.com/2016/08/03/middleeast/dubai-airport-emirates-flight-emergency-landing/index.html)
 
 ### Related:
 

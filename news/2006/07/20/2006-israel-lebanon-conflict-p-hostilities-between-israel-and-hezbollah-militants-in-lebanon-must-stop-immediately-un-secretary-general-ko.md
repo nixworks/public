@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5195798.stm)
-2. [National Nine News](http://news.ninemsn.com.au/article.aspx?id=115905)
-3. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5193662.stm)
-4. [Associated Press](http://www.dailycomet.com/apps/pbcs.dll/article?AID=/20060719/API/607190931)
-5. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5199088.stm)
-6. [International Herald Tribune](http://www.iht.com/articles/2006/07/19/africa/web.0718mideastfront.php)
-7. [CNN](http://edition.cnn.com/2006/WORLD/meast/07/18/mideast/index.html)
-8. [Associated Press](http://www.phillyburbs.com/pb-dyn/news/93-07192006-685845.html)
+1. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5193662.stm)
+2. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5199088.stm)
+3. [International Herald Tribune](http://www.iht.com/articles/2006/07/19/africa/web.0718mideastfront.php)
+4. [CNN](http://edition.cnn.com/2006/WORLD/meast/07/18/mideast/index.html)
+5. [Associated Press](http://www.phillyburbs.com/pb-dyn/news/93-07192006-685845.html)
+6. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5195798.stm)
+7. [Associated Press](http://www.dailycomet.com/apps/pbcs.dll/article?AID=/20060719/API/607190931)
+8. [National Nine News](http://news.ninemsn.com.au/article.aspx?id=115905)
 
 ### Related:
 

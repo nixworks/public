@@ -7,5 +7,5 @@ On May 25 Belgium will hold its regional, federal and European elections. Like i
 
 ### Source:
 
-1. [The Conversation](http://theconversation.com/belgium-wont-split-after-sundays-elections-but-it-could-take-a-step-in-that-direction-26938)
-2. [AP via the Republic](http://www.therepublic.com/view/story/5c88ac2be0b94fa18546f9507d4368da/EU--Belgium-Elections)
+1. [AP via the Republic](http://www.therepublic.com/view/story/5c88ac2be0b94fa18546f9507d4368da/EU--Belgium-Elections)
+2. [The Conversation](http://theconversation.com/belgium-wont-split-after-sundays-elections-but-it-could-take-a-step-in-that-direction-26938)

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WorldEscape](http://www.worldescape.com)
-2. [Rediff](http://in.rediff.com/news/2005/jul/24dawood.htm)
+1. [Rediff](http://in.rediff.com/news/2005/jul/24dawood.htm)
+2. [WorldEscape](http://www.worldescape.com)
 
 ### Related:
 

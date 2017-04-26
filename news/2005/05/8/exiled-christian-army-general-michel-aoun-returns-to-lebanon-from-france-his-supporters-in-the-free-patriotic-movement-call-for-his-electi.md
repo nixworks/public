@@ -7,8 +7,8 @@ Women ululated, men wept and youths hugged when Lebanon&#39;s anti-Syria politic
 
 ### Source:
 
-1. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=14914)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4525419.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4525419.stm)
+2. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=14914)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L08540671.htm)
 4. [Al-Jazeerah](http://www.aljazeerah.info/News%20archives/2005%20News%20Archives/May/8%20n/Michel%20Aoun%20Returns%20From%20Exile.htm)
 

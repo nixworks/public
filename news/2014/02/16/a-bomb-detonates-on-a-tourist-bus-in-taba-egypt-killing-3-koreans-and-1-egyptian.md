@@ -7,8 +7,8 @@ Explosion rocks tourist bus en route to Eilat, leaving 3 Koreans, 1 Egyptian dea
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/explosion-reported-at-taba-border-crossing-in-egypt)
-2. [New York Times](http://www.nytimes.com/2014/02/17/world/middleeast/bus-bombing-kills-tourists-in-sinai-egypt.html?partner=rss&emc=rss)
+1. [New York Times](http://www.nytimes.com/2014/02/17/world/middleeast/bus-bombing-kills-tourists-in-sinai-egypt.html?partner=rss&emc=rss)
+2. [The Times of Israel](http://www.timesofisrael.com/explosion-reported-at-taba-border-crossing-in-egypt)
 
 ### Related:
 

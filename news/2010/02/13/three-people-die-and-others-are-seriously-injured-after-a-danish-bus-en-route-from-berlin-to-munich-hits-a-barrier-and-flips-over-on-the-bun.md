@@ -8,8 +8,8 @@ Three people were killed and several injured when their coach crashed on a Germa
 ### Source:
 
 1. [The Local](http://www.thelocal.de/national/20100213-25231.html)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20100213120148497C284227)
-3. [RTÉ](http://www.rte.ie/news/2010/0213/germany.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0213/germany.html)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20100213120148497C284227)
 
 ### Related:
 

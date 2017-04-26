@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4263577.stm)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/540138.html)
-3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/133CA257-CE27-40A9-AE43-426519E1302B.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4264197.stm)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/540138.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4264197.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4263577.stm)
+4. [Al Jazeera](http://english.aljazeera.net/NR/exeres/133CA257-CE27-40A9-AE43-426519E1302B.htm)
 
 ### Related:
 

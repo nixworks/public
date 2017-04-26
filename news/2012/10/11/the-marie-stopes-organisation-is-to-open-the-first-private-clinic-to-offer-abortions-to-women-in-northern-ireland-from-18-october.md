@@ -7,8 +7,8 @@ The first private clinic to offer abortions to women in Northern Ireland is due 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-19902778)
-2. [RTÉ](http://www.rte.ie/news/2012/1011/marie-stopes-abortion-belfast.html)
+1. [RTÉ](http://www.rte.ie/news/2012/1011/marie-stopes-abortion-belfast.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-19902778)
 
 ### Related:
 

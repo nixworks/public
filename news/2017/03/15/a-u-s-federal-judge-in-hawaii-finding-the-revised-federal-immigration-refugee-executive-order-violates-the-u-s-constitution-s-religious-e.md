@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-immigration-court-idUSKBN16M17N)
-2. [Hoinolulu Star-Advertiser](http://www.staradvertiser.com/2017/03/15/breaking-news/hawaii-in-federal-court-to-challenge-trumps-travel-ban/)
+1. [Hoinolulu Star-Advertiser](http://www.staradvertiser.com/2017/03/15/breaking-news/hawaii-in-federal-court-to-challenge-trumps-travel-ban/)
+2. [Reuters](http://www.reuters.com/article/us-usa-immigration-court-idUSKBN16M17N)
 
 ### Related:
 

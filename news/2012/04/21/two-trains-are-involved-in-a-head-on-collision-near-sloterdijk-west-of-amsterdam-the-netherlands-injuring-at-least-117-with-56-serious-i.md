@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Channel Asia News](http://www.channelnewsasia.com/stories/afp_world_business/view/1196717/1/.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-17799940)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-17799940)
+2. [Channel Asia News](http://www.channelnewsasia.com/stories/afp_world_business/view/1196717/1/.html)
 
 ### Related:
 

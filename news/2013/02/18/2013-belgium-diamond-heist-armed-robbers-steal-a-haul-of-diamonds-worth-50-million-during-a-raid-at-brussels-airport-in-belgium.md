@@ -7,9 +7,9 @@ Armed robbers disguised as police escape with a massive haul of diamonds after a
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-21504112)
+1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/19/diamond-robbery-brussels-airport-plane)
 2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5hi97U2CJC7JV4wEqoMf_BYBRyA9w)
-3. [The Guardian](http://www.guardian.co.uk/world/2013/feb/19/diamond-robbery-brussels-airport-plane)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-21504112)
 
 ### Related:
 

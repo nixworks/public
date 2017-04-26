@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_MOLDOVA_UKRAINE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2014-05-05-16-48-17)
-2. [CNN](http://www.cnn.com/2014/05/05/world/europe/ukraine-crisis/index.html)
+1. [CNN](http://www.cnn.com/2014/05/05/world/europe/ukraine-crisis/index.html)
+2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_MOLDOVA_UKRAINE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2014-05-05-16-48-17)
 
 ### Related:
 

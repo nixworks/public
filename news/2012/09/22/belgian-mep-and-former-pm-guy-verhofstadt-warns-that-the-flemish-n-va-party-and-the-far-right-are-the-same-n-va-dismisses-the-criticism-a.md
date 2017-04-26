@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Belga via RTL](http://www.rtl.be/info/belgique/politique/908846/sa-critique-tient-de-l-accusation-gratuite-dit-le-vice-president-de-la-n-va-ben-weyts)
-2. [VRT](http://www.deredactie.be/cm/vrtnieuws/politiek/120922_NVA_Verhofstadt)
-3. [Le Soir](http://www.lesoir.be/actualite/belgique/2012-09-22/guy-verhofstadt-n-va-et-extreme-droite-c-est-la-meme-chose-939177.php)
+2. [Le Soir](http://www.lesoir.be/actualite/belgique/2012-09-22/guy-verhofstadt-n-va-et-extreme-droite-c-est-la-meme-chose-939177.php)
+3. [VRT](http://www.deredactie.be/cm/vrtnieuws/politiek/120922_NVA_Verhofstadt)
 
 ### Related:
 

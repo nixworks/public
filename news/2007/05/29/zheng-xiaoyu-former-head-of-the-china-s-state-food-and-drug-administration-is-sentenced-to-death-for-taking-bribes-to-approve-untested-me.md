@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6699441.stm)
-2. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4842797.html)
+1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4842797.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6699441.stm)
 
 ### Related:
 

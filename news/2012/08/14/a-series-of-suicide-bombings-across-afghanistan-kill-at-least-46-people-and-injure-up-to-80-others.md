@@ -7,8 +7,8 @@ A series of bombings on markets crowded with shoppers preparing for the end of R
 
 ### Source:
 
-1. [CBS](http://www.cbsnews.com/8301-202_162-57492716/bazaar-bombing-adds-to-deadly-day-in-afghanistan/)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-19257090)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-19257090)
+2. [CBS](http://www.cbsnews.com/8301-202_162-57492716/bazaar-bombing-adds-to-deadly-day-in-afghanistan/)
 
 ### Related:
 

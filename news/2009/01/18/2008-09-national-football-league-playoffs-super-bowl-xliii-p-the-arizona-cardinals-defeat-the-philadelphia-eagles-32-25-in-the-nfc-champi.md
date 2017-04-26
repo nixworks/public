@@ -7,8 +7,8 @@ Get box score updates on the Baltimore Ravens vs. Pittsburgh Steelers football g
 
 ### Source:
 
-1. [USA Today](http://blogs.usatoday.com/gameon/2009/01/were-blogging-t.html)
-2. [ESPN](http://scores.espn.go.com/nfl/boxscore?gameId=290118023)
+1. [ESPN](http://scores.espn.go.com/nfl/boxscore?gameId=290118023)
+2. [USA Today](http://blogs.usatoday.com/gameon/2009/01/were-blogging-t.html)
 
 ### Related:
 

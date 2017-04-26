@@ -7,8 +7,8 @@ A suicide bomber struck members of a militia opposed to Al Qaeda north of Baghda
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/04/us-iraq-violence-idUSBRE91308T20130204)
-2. [The New York Times](http://www.nytimes.com/2013/02/05/world/middleeast/suicide-bomber-kills-members-of-a-militia-in-iraq.html)
+1. [The New York Times](http://www.nytimes.com/2013/02/05/world/middleeast/suicide-bomber-kills-members-of-a-militia-in-iraq.html)
+2. [Reuters](http://www.reuters.com/article/2013/02/04/us-iraq-violence-idUSBRE91308T20130204)
 
 ### Related:
 

@@ -7,10 +7,10 @@ An intensified campaign with foreign leaders and diplomats this week will press 
 
 ### Source:
 
-1. [ (New York Times](http://www.nytimes.com/2013/08/19/world/middleeast/israel-puts-more-urgency-on-shaping-allies-actions.html?ref=middleeast)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013818175824286257.html)
-3. [ (Haaretz](http://www.haaretz.com/news/middle-east/.premium-1.542279)
-4. [Reuters](http://www.reuters.com/article/2013/08/18/us-egypt-protests-prison-idUSBRE97H0A420130818)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013818175824286257.html)
+2. [Reuters](http://www.reuters.com/article/2013/08/18/us-egypt-protests-prison-idUSBRE97H0A420130818)
+3. [ (New York Times](http://www.nytimes.com/2013/08/19/world/middleeast/israel-puts-more-urgency-on-shaping-allies-actions.html?ref=middleeast)
+4. [ (Haaretz](http://www.haaretz.com/news/middle-east/.premium-1.542279)
 
 ### Related:
 

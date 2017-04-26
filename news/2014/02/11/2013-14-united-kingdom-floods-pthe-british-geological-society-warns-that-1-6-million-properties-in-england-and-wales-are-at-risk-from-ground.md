@@ -7,8 +7,8 @@ Some 1.6 million properties across Britain are now at risk of groundwater floodi
 
 ### Source:
 
-1. [Sky](http://news.sky.com/story/1209623/uk-floods-could-last-months-scientist-warns)
-2. [Sky News](http://news.sky.com/story/1209672/thames-floods-warning-for-thousands-of-homes)
+1. [Sky News](http://news.sky.com/story/1209672/thames-floods-warning-for-thousands-of-homes)
+2. [Sky](http://news.sky.com/story/1209623/uk-floods-could-last-months-scientist-warns)
 
 ### Related:
 

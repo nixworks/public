@@ -7,8 +7,8 @@ Seven passengers were on board, six of them Pakistanis and one a Russian technic
 
 ### Source:
 
-1. [Pakistan Today](http://www.pakistantoday.com.pk/2016/08/05/national/helicopter-crash-govt-to-send-delegation-to-afghanistan/)
-2. [The Express Tribune](http://tribune.com.pk/story/1155825/pakistan-army-denies-helicopter-crash-landed-afghanistan/)
+1. [The Express Tribune](http://tribune.com.pk/story/1155825/pakistan-army-denies-helicopter-crash-landed-afghanistan/)
+2. [Pakistan Today](http://www.pakistantoday.com.pk/2016/08/05/national/helicopter-crash-govt-to-send-delegation-to-afghanistan/)
 3. [Dunya News](http://dunyanews.tv/en/Pakistan/347831-Pakistani-chopper-crashlands-in-Afghanistan-crew/)
 
 ### Related:

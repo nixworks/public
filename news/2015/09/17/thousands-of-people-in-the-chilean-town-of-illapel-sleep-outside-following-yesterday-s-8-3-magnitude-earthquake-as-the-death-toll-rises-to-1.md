@@ -7,9 +7,9 @@ At least 10 dead from powerful temblor that cuts off power to a quarter-million 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/sep/17/western-pacific-braces-for-possible-tsunami-after-chile-earthquake)
-2. [Westside Today](http://westsidetoday.com/2015/09/17/tsunami-advisories-still-in-effect-in-southern-california/)
-3. [CBS News](http://www.cbsnews.com/news/chile-earthquake-8-3-mag-1-million-evacuate/)
+1. [CBS News](http://www.cbsnews.com/news/chile-earthquake-8-3-mag-1-million-evacuate/)
+2. [The Guardian](http://www.theguardian.com/world/2015/sep/17/western-pacific-braces-for-possible-tsunami-after-chile-earthquake)
+3. [Westside Today](http://westsidetoday.com/2015/09/17/tsunami-advisories-still-in-effect-in-southern-california/)
 4. [Reuters](http://www.reuters.com/article/2015/09/17/us-chile-quake-idUSKCN0RG33E20150917)
 
 ### Related:

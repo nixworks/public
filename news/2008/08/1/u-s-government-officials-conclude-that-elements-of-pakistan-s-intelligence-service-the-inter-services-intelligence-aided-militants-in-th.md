@@ -8,8 +8,8 @@ U.S. intelligence agencies have concluded that Pakistan’s spy service helped p
 ### Source:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB121755998577303583.html)
-2. [AP via ''The New York Times](http://www.nytimes.com/aponline/world/AP-Pakistan-Spy-Service.html)
-3. [The New York Times](http://www.nytimes.com/2008/08/01/world/asia/01pstan.html)
+2. [The New York Times](http://www.nytimes.com/2008/08/01/world/asia/01pstan.html)
+3. [AP via ''The New York Times](http://www.nytimes.com/aponline/world/AP-Pakistan-Spy-Service.html)
 
 ### Related:
 

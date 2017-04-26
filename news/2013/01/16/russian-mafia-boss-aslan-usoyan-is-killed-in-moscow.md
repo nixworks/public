@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/europe/russian-crime-boss-gunned-down/2013/01/16/5b8663ac-600b-11e2-9940-6fc488f3fecd_story.html)
-2. [RIA Novosti](http://en.ria.ru/crime/20130116/178820434/Mafia_Boss_Gunned_Down_in_Moscow.html)
+1. [RIA Novosti](http://en.ria.ru/crime/20130116/178820434/Mafia_Boss_Gunned_Down_in_Moscow.html)
+2. [The Washington Post](http://www.washingtonpost.com/world/europe/russian-crime-boss-gunned-down/2013/01/16/5b8663ac-600b-11e2-9940-6fc488f3fecd_story.html)
 
 ### Related:
 

@@ -7,11 +7,11 @@ The Turkish army shelled positions held by Kurdish-backed militia in northern Sy
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-35576153)
-2. [Voice of America](http://www.voanews.com/content/turkey-to-extend-strikes-on-kurdish-fighters-in-syria/3190715.html)
-3. [DW](http://www.dw.com/en/france-urges-turkey-to-stop-syria-shelling/a-19048625)
-4. [Syrian Arab News Agency](http://sana.sy/en/?p=69390)
-5. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-shelling-idUSKCN0VN09S?feedType=RSS&feedName=topNews)
+1. [Voice of America](http://www.voanews.com/content/turkey-to-extend-strikes-on-kurdish-fighters-in-syria/3190715.html)
+2. [Syrian Arab News Agency](http://sana.sy/en/?p=69390)
+3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-shelling-idUSKCN0VN09S?feedType=RSS&feedName=topNews)
+4. [DW](http://www.dw.com/en/france-urges-turkey-to-stop-syria-shelling/a-19048625)
+5. [BBC](http://www.bbc.com/news/world-middle-east-35576153)
 
 ### Related:
 

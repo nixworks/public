@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE60B5RV20100113)
-2. [BBC](http://news.bbc.co.uk/1/hi/business/8455712.stm)
-3. [Google blog](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/business/8455712.stm)
+2. [Google blog](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html)
+3. [Reuters](http://www.reuters.com/article/idUSTRE60B5RV20100113)
 4. [The Guardian](http://www.guardian.co.uk/technology/2010/jan/12/google-china-ends-censorship)
 
 ### Related:

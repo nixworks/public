@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/04/24/spain-judeg-garzon-rallies-indictment.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8642272.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8642272.stm)
+2. [CBC](http://www.cbc.ca/world/story/2010/04/24/spain-judeg-garzon-rallies-indictment.html)
 
 ### Related:
 

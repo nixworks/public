@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7363507)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4186609.stm)
-3. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050119160320&irec=0)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4186609.stm)
+2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050119160320&irec=0)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7363507)
 
 ### Related:
 

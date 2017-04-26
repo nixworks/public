@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Montreal Gazette](http://www.montrealgazette.com/Ontario+snowstorm+maroons+hundreds/3979827/story.html)
-2. [CTV](http://www.ctv.ca/CTVNews/TopStories/20101216/ontario-highway-402-reopens-101216/)
+1. [CTV](http://www.ctv.ca/CTVNews/TopStories/20101216/ontario-highway-402-reopens-101216/)
+2. [Montreal Gazette](http://www.montrealgazette.com/Ontario+snowstorm+maroons+hundreds/3979827/story.html)
 
 ### Related:
 

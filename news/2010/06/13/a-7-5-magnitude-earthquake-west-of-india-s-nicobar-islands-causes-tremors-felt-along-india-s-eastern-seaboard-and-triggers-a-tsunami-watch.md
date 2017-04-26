@@ -7,8 +7,8 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gIAokUzzRrZDi7xM-zbeaypf6_ew)
-2. [NDTV](http://www.ndtv.com/news/india/earthquake-hits-nicobar-islands-no-damage-reported-31338.php)
+1. [NDTV](http://www.ndtv.com/news/india/earthquake-hits-nicobar-islands-no-damage-reported-31338.php)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gIAokUzzRrZDi7xM-zbeaypf6_ew)
 
 ### Related:
 

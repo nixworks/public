@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Libya TV](http://english.libya.tv/2011/05/02/people-of-yafran-besieged-by-gaddafi-forces-facing-starvation/)
-2. [Alertnet](http://www.trust.org/alertnet/news/gaddafi-forces-bombard-rebel-held-zintan-rebels)
+1. [Alertnet](http://www.trust.org/alertnet/news/gaddafi-forces-bombard-rebel-held-zintan-rebels)
+2. [Libya TV](http://english.libya.tv/2011/05/02/people-of-yafran-besieged-by-gaddafi-forces-facing-starvation/)
 
 ### Related:
 

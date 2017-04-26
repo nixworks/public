@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/6992692.stm)
-2. [AFP](http://afp.google.com/article/ALeqM5gVuF90MntClPYAPva0SEiyT5SqQg)
-3. [CBS via Topix](http://www.topix.net/content/cbs/2007/09/humberto-weakens-after-blasting-texas-2)
+1. [AFP](http://afp.google.com/article/ALeqM5gVuF90MntClPYAPva0SEiyT5SqQg)
+2. [CBS via Topix](http://www.topix.net/content/cbs/2007/09/humberto-weakens-after-blasting-texas-2)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/6992692.stm)
 
 ### Related:
 

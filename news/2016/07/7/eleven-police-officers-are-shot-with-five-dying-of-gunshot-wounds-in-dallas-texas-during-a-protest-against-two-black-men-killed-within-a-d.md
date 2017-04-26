@@ -8,8 +8,8 @@ Snipers gunned down five police officers and injured seven others during protest
 ### Source:
 
 1. [KTLA](http://ktla.com/2016/07/07/shot-fired-during-large-protest-in-dallas-two-officers-wounded-report/)
-2. [New York Post](http://nypost.com/2016/07/07/two-cops-shot-during-protests-in-dallas/)
-3. [NBC DFW](http://www.nbcdfw.com/news/local/Protests-in-Dallas-Over-Alton-Sterling-Death-385784431.html)
+2. [NBC DFW](http://www.nbcdfw.com/news/local/Protests-in-Dallas-Over-Alton-Sterling-Death-385784431.html)
+3. [New York Post](http://nypost.com/2016/07/07/two-cops-shot-during-protests-in-dallas/)
 4. [ABC News Australia](http://www.abc.net.au/news/2016-07-08/dallas-police-shot-dead-by-snipers/7581276)
 
 ### Related:

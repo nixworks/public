@@ -8,10 +8,10 @@ Water and power have been cut in Daraa, epicentre of pro-democracy protests, wit
 ### Source:
 
 1. [News24](http://www.news24.com/World/News/No-water-power-in-Syrian-protest-town-20110428)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201142993412242172.html)
-3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=218484)
+2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=218484)
+3. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/syria-live-blog-april-29)
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-13234557)
-5. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/syria-live-blog-april-29)
+5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201142993412242172.html)
 
 ### Related:
 

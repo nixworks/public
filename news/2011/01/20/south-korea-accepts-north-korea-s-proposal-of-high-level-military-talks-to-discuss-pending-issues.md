@@ -7,9 +7,9 @@ South and North Korea agreed to hold high-level military talks weeks after tensi
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/national/2011/01/20/95/0301000000AEN20110120011500315F.HTML)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/2011120113420982590.html)
-3. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE70J1U820110120?sp=true)
+1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE70J1U820110120?sp=true)
+2. [Yonhap](http://english.yonhapnews.co.kr/national/2011/01/20/95/0301000000AEN20110120011500315F.HTML)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/2011120113420982590.html)
 
 ### Related:
 

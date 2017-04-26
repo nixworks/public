@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en-gb/news/2896/premier-league/2013/04/22/3922540/manchester-united-win-premier-league-title)
-2. [The Guardian](http://www.guardian.co.uk/football/2013/apr/22/luis-suarez-charged-biting-ivanovic)
-3. [The Guardian](http://www.guardian.co.uk/football/2013/apr/22/luis-suarez-bite-pfa-anger-management)
+1. [The Guardian](http://www.guardian.co.uk/football/2013/apr/22/luis-suarez-bite-pfa-anger-management)
+2. [Goal.com](http://www.goal.com/en-gb/news/2896/premier-league/2013/04/22/3922540/manchester-united-win-premier-league-title)
+3. [The Guardian](http://www.guardian.co.uk/football/2013/apr/22/luis-suarez-charged-biting-ivanovic)
 
 ### Related:
 

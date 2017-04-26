@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters India](http://www.reuters.com/newsArticle.jhtml?storyID=7808210&type=worldNews)
-2. [New Straits Times](http://www.nst.com.my/Current_News/NST/Monday/NewsBreak/20050307154221/Article/indexb_html)
-3. [Malaysian Star](http://thestar.com.my/news/story.asp?file=/2005/3/5/nation/10331586&sec=nation)
+1. [New Straits Times](http://www.nst.com.my/Current_News/NST/Monday/NewsBreak/20050307154221/Article/indexb_html)
+2. [Malaysian Star](http://thestar.com.my/news/story.asp?file=/2005/3/5/nation/10331586&sec=nation)
+3. [Reuters India](http://www.reuters.com/newsArticle.jhtml?storyID=7808210&type=worldNews)
 
 ### Related:
 

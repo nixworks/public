@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Somali-pirates-release-German-ship-with-19-Indians/Article1-643931.aspx)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jDETJ9HemGkgrmb41m1mZS2K9UKw?docId=CNG.553091db146e8c1ff69569af8e19e515.aa1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jDETJ9HemGkgrmb41m1mZS2K9UKw?docId=CNG.553091db146e8c1ff69569af8e19e515.aa1)
+2. [Hindustan Times](http://www.hindustantimes.com/Somali-pirates-release-German-ship-with-19-Indians/Article1-643931.aspx)
 
 ### Related:
 

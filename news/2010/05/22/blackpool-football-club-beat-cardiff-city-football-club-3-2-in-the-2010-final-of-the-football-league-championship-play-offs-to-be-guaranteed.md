@@ -8,8 +8,8 @@ They will be nursing a few sore heads along Blackpool&#039;s Golden Mile this mo
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/eng_div_1/8692465.stm)
-2. [The Sunday Times](http://www.timesonline.co.uk/tol/sport/football/football_league/article7134027.ece)
-3. [The Independent](http://www.independent.co.uk/sport/football/football-league/reality-dawns-in-golden-glow-of-16390m-windfall-1980572.html)
+2. [The Independent](http://www.independent.co.uk/sport/football/football-league/reality-dawns-in-golden-glow-of-16390m-windfall-1980572.html)
+3. [The Sunday Times](http://www.timesonline.co.uk/tol/sport/football/football_league/article7134027.ece)
 
 ### Related:
 

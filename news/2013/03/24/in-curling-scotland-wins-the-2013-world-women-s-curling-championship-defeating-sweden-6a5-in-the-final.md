@@ -7,8 +7,8 @@ Scotland beat Sweden by 6-5 in an exciting gold medal final on Sunday afternoon 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/winter-sports/21820728)
-2. [WWCC2013](http://wwcc2013.curlingevents.com/wwcc-2013-scotland-win-gold)
+1. [WWCC2013](http://wwcc2013.curlingevents.com/wwcc-2013-scotland-win-gold)
+2. [BBC](http://www.bbc.co.uk/sport/0/winter-sports/21820728)
 
 ### Related:
 

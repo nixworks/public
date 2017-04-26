@@ -7,9 +7,9 @@ Attack comes shortly after Palestinians report 65-year-old farmer shot to death 
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4011773,00.html)
+1. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=202987)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/three-rockets-fired-from-gaza-strike-ashkelon-region-1.336250?localLinksEnabled=false)
-3. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=202987)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4011773,00.html)
 
 ### Related:
 

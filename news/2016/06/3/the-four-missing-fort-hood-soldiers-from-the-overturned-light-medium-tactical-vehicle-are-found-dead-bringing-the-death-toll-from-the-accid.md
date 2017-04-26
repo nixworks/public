@@ -7,8 +7,8 @@ The Army continued Friday to search for four missing soldiers from Fort Hood a d
 
 ### Source:
 
-1. [AP via ''Los Angeles Times](http://www.latimes.com/nation/la-na-texas-fort-hood-20160603-snap-story.html)
-2. [UPI](http://www.upi.com/Top_News/US/2016/06/03/Missing-soldiers-at-Fort-Hood-found-dead-officials-say-death-toll-climbs-to-9/5101464974408/?spt=hts&or=3)
+1. [UPI](http://www.upi.com/Top_News/US/2016/06/03/Missing-soldiers-at-Fort-Hood-found-dead-officials-say-death-toll-climbs-to-9/5101464974408/?spt=hts&or=3)
+2. [AP via ''Los Angeles Times](http://www.latimes.com/nation/la-na-texas-fort-hood-20160603-snap-story.html)
 
 ### Related:
 

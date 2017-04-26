@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/02/27/cheney.afghanistan.ap/index.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aFw57zOk2emc&refer=home)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aFw57zOk2emc&refer=home)
+2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/02/27/cheney.afghanistan.ap/index.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1283012/bottom-of-the-table-deportivo-fire-oltra)
+1. [Fox News](http://www.foxnews.com/sports/2012/12/30/oltra-sacked-as-deportivo-boss/)
 2. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1978325.html)
-3. [Fox News](http://www.foxnews.com/sports/2012/12/30/oltra-sacked-as-deportivo-boss/)
+3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1283012/bottom-of-the-table-deportivo-fire-oltra)
 
 ### Related:
 

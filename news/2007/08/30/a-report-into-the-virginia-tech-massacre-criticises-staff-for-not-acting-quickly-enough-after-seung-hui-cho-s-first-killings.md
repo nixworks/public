@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Report](http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/30_08_07_virgtech_report.pdf)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6969842.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6969842.stm)
+2. [Report](http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/30_08_07_virgtech_report.pdf)
 
 ### Related:
 

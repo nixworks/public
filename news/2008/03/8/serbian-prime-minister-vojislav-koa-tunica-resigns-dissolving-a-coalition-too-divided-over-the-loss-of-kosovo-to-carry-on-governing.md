@@ -7,8 +7,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5gfr72vt3X8HCz0cLInrmZBZgxkZAD8V9CGKO0)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/03/08/wserbia108.xml)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/03/08/wserbia108.xml)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5gfr72vt3X8HCz0cLInrmZBZgxkZAD8V9CGKO0)
 
 ### Related:
 

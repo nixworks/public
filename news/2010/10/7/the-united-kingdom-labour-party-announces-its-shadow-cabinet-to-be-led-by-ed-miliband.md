@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5jDlWLXTuk9rWrz9IQ8J2CTw10rMw?docId=N0132471286417858956A)
-2. [Sky News](http://news.sky.com/skynews/Home/Politics/Labour-Party-Names-Shadow-Cabinet-Names-Include-Ed-Balls-Andy-Burnham-Yvette-Cooper/Article/201010115754140?lpos=Politics_Top_Stories_Header_0&lid=ARTICLE_15754140_Labour_Party_Names_Shadow_Cabinet%3A_Names_Include_Ed_Balls%2C_Andy_Burnham%2C_Yvette_Cooper)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/08/c_13546220.htm)
+1. [Sky News](http://news.sky.com/skynews/Home/Politics/Labour-Party-Names-Shadow-Cabinet-Names-Include-Ed-Balls-Andy-Burnham-Yvette-Cooper/Article/201010115754140?lpos=Politics_Top_Stories_Header_0&lid=ARTICLE_15754140_Labour_Party_Names_Shadow_Cabinet%3A_Names_Include_Ed_Balls%2C_Andy_Burnham%2C_Yvette_Cooper)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/08/c_13546220.htm)
+3. [Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5jDlWLXTuk9rWrz9IQ8J2CTw10rMw?docId=N0132471286417858956A)
 
 ### Related:
 

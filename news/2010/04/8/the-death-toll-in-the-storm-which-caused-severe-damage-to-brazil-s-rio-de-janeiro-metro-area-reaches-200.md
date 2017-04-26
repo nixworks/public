@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/08/c_13241818.htm)
-2. [The Huffington Post](http://www.huffingtonpost.com/2010/04/08/rio-mudslide-death-toll-o_n_530069.html)
+1. [The Huffington Post](http://www.huffingtonpost.com/2010/04/08/rio-mudslide-death-toll-o_n_530069.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/08/c_13241818.htm)
 
 ### Related:
 

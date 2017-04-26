@@ -7,9 +7,9 @@ Eighteen Haitians died on Wednesday morning off the Turks and Caicos islands aft
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/12/25/world/americas/turks-caicos-migrant-deaths/)
+1. [Reuters](http://www.reuters.com/article/2013/12/25/us-usa-haiti-capsize-idUSBRE9BO0AF20131225)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-25516175)
-3. [Reuters](http://www.reuters.com/article/2013/12/25/us-usa-haiti-capsize-idUSBRE9BO0AF20131225)
+3. [CNN](http://www.cnn.com/2013/12/25/world/americas/turks-caicos-migrant-deaths/)
 
 ### Related:
 

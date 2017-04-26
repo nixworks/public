@@ -7,10 +7,10 @@ Based on the latest U.S. Department of Energy calculations of carbon dioxide bei
 
 ### Source:
 
-1. [The Atlantic](http://www.theatlanticwire.com/global/2011/11/greenhouse-gases-have-surpassed-worst-case-scenario/44536/)
-2. [AP via ''CBS News](http://www.cbsnews.com/8301-205_162-57317968/monster-greenhouse-gas-levels-seen/)
-3. [AP via ''USA Today](http://www.usatoday.com/tech/science/story/2011-11-03/huge-increase-in-global-warming-gasses/51065082/1)
-4. [AccuWeather](http://www.accuweather.com/blogs/climatechange/story/57360/business-as-usual-and-then-som.asp)
+1. [AP via ''CBS News](http://www.cbsnews.com/8301-205_162-57317968/monster-greenhouse-gas-levels-seen/)
+2. [AP via ''USA Today](http://www.usatoday.com/tech/science/story/2011-11-03/huge-increase-in-global-warming-gasses/51065082/1)
+3. [AccuWeather](http://www.accuweather.com/blogs/climatechange/story/57360/business-as-usual-and-then-som.asp)
+4. [The Atlantic](http://www.theatlanticwire.com/global/2011/11/greenhouse-gases-have-surpassed-worst-case-scenario/44536/)
 
 ### Related:
 

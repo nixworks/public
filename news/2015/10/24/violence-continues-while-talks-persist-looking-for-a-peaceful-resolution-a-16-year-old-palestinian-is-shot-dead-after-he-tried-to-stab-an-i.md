@@ -7,8 +7,8 @@ The United States on Saturday proposed steps, including 24-hour video surveillan
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/24/us-israel-palestinians-idUSKCN0SI0E720151024)
-2. [AP](http://bigstory.ap.org/article/7c3d4c881c664d5c8de82be396b660ef/kerry-renews-push-ease-israeli-palestinian-tensions)
+1. [AP](http://bigstory.ap.org/article/7c3d4c881c664d5c8de82be396b660ef/kerry-renews-push-ease-israeli-palestinian-tensions)
+2. [Reuters](http://www.reuters.com/article/2015/10/24/us-israel-palestinians-idUSKCN0SI0E720151024)
 
 ### Related:
 

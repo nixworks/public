@@ -7,10 +7,10 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/International/wireStory?id=10857719)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100608223039258C104400)
-3. [news24.com](http://www.news24.com/Africa/News/Somalia-warlord-resigns-from-govt-20100608)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10273255.stm)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100608223039258C104400)
+2. [ABC News](http://abcnews.go.com/International/wireStory?id=10857719)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10273255.stm)
+4. [news24.com](http://www.news24.com/Africa/News/Somalia-warlord-resigns-from-govt-20100608)
 
 ### Related:
 

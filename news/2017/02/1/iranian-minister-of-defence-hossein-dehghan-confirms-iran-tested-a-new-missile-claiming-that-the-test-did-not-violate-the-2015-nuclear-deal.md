@@ -7,8 +7,8 @@ Iran said on Wednesday it had test-fired a new ballistic missile, prompting a to
 
 ### Source:
 
-1. [PressTV](http://presstv.ir/Detail/2017/02/01/508673/Iran-Dehqan-Resolution-2231-JCPOA)
-2. [Reuters](http://www.reuters.com/article/us-usa-iran-missiles-idUSKBN15G3ZO)
+1. [Reuters](http://www.reuters.com/article/us-usa-iran-missiles-idUSKBN15G3ZO)
+2. [PressTV](http://presstv.ir/Detail/2017/02/01/508673/Iran-Dehqan-Resolution-2231-JCPOA)
 
 ### Related:
 

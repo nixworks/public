@@ -7,9 +7,9 @@ Kinshasa (AFP) - Fierce fighting between UN peacekeepers and Ugandan rebels rage
 
 ### Source:
 
-1. [AFP via Yahoo](http://news.yahoo.com/fierce-clashes-between-un-peacekeepers-uganda-rebels-dr-003026631.html)
-2. [Press TV](http://www.presstv.ir/Detail/2015/12/01/439874/Congo-ADFNALU-MONUSCO-Uganda---)
-3. [Reuters](http://www.reuters.com/article/2015/12/01/us-congodemocratic-uganda-idUSKBN0TK5BT20151201)
+1. [Reuters](http://www.reuters.com/article/2015/12/01/us-congodemocratic-uganda-idUSKBN0TK5BT20151201)
+2. [AFP via Yahoo](http://news.yahoo.com/fierce-clashes-between-un-peacekeepers-uganda-rebels-dr-003026631.html)
+3. [Press TV](http://www.presstv.ir/Detail/2015/12/01/439874/Congo-ADFNALU-MONUSCO-Uganda---)
 
 ### Related:
 

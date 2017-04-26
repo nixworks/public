@@ -7,8 +7,8 @@ Galatasaray says it has reached a deal to sign former Chelsea forward Didier Dro
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/sports/2013/01/28/drogba-set-to-join-galatasaray/)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1317016/drogba-signs-galatasaray)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1317016/drogba-signs-galatasaray)
+2. [Fox News](http://www.foxnews.com/sports/2013/01/28/drogba-set-to-join-galatasaray/)
 3. [AP via USA Today](http://www.usatoday.com/story/sports/mls/2013/01/28/didier-drogba-galatasaray-turkey-wesley-sneijder/1871145/)
 
 ### Related:

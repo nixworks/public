@@ -7,9 +7,9 @@ Twenty hostages were killed by militants who stormed an upscale restaurant in th
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/2016/07/01/86604614/)
+1. [CNN](http://www.cnn.com/2016/07/01/asia/bangladesh-dhaka-shooting/index.html)
 2. [ABC News](http://abcnews.go.com/International/shooting-hostage-situation-underway-bangladesh/story?id=40283510)
-3. [CNN](http://www.cnn.com/2016/07/01/asia/bangladesh-dhaka-shooting/index.html)
+3. [USA Today](http://www.usatoday.com/story/news/2016/07/01/86604614/)
 
 ### Related:
 

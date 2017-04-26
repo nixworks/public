@@ -7,8 +7,8 @@ Queensland has already copped a serious soaking and NSW will get its own this we
 
 ### Source:
 
-1. [Weatherzone](http://www.weatherzone.com.au/news/fifteen-people-rescued-from-floodwaters-in-northern-nsw-bellingen-soon-to-be-cut-off-as-heavy-rain-moves-down-the-coast/286524)
-2. [9 News](http://www.9news.com.au/national/2015/05/01/06/54/queensland-and-northern-nsw-set-to-cop-a-soaking-this-weekend)
+1. [9 News](http://www.9news.com.au/national/2015/05/01/06/54/queensland-and-northern-nsw-set-to-cop-a-soaking-this-weekend)
+2. [Weatherzone](http://www.weatherzone.com.au/news/fifteen-people-rescued-from-floodwaters-in-northern-nsw-bellingen-soon-to-be-cut-off-as-heavy-rain-moves-down-the-coast/286524)
 
 ### Related:
 

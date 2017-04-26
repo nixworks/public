@@ -7,8 +7,8 @@ The gunfire came as Minneapolis grapples with protests over one police shooting 
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/24/five-people-shot-near-minneapolis-protest-cops-searching-for-3-white-male-suspects/?uid=0ef76ca8-45d6-11e0-a478-1231380f446b&wpmm=1&wpisrc=nl_mix)
-2. [Washington Post update](https://www.washingtonpost.com/news/post-nation/wp/2015/11/24/minneapolis-police-arrest-two-people-after-shooting-injures-five-near-protests/?wpmm=1&wpisrc=nl_evening)
+1. [Washington Post update](https://www.washingtonpost.com/news/post-nation/wp/2015/11/24/minneapolis-police-arrest-two-people-after-shooting-injures-five-near-protests/?wpmm=1&wpisrc=nl_evening)
+2. [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/24/five-people-shot-near-minneapolis-protest-cops-searching-for-3-white-male-suspects/?uid=0ef76ca8-45d6-11e0-a478-1231380f446b&wpmm=1&wpisrc=nl_mix)
 
 ### Related:
 

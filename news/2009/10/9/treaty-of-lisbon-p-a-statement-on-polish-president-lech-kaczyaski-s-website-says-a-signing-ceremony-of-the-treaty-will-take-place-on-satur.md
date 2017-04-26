@@ -8,8 +8,8 @@ Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Righ
 ### Source:
 
 1. [EuActive](http://www.euractiv.com/en/future-eu/polish-president-sign-lisbon-treaty-saturday/article-186219)
-2. [BBC News](http://www.irishtimes.com/newspaper/world/2009/1010/1224256345693.html)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aldhF9W6mYus)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aldhF9W6mYus)
+3. [BBC News](http://www.irishtimes.com/newspaper/world/2009/1010/1224256345693.html)
 4. [RTÉ](http://www.rte.ie/news/2009/1009/eulisbon.html)
 
 ### Related:

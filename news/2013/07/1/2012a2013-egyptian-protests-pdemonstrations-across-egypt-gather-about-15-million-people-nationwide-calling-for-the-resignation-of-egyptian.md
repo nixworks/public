@@ -7,10 +7,10 @@ The Arab Spring, take two.
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23133174)
-2. [ (''CNN](http://www.cnn.com/2013/07/01/world/meast/egypt-protests/index.html?hpt=hp_t1)
+1. [ (''CNN](http://www.cnn.com/2013/07/01/world/meast/egypt-protests/index.html?hpt=hp_t1)
+2. [The Jerusalem Post](http://www.jpost.com/Middle-East/Egypt-braces-for-storm-of-protest-318205)
 3. [The New York Times](http://www.nytimes.com/2013/07/02/world/middleeast/egypt-protests.html?pagewanted=all&_r=0)
-4. [The Jerusalem Post](http://www.jpost.com/Middle-East/Egypt-braces-for-storm-of-protest-318205)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-23133174)
 5. [The Atlantic](http://www.theatlantic.com/international/archive/2013/06/seeking-new-leadership-millions-of-egyptians-take-to-the-streets/277419/)
 
 ### Related:

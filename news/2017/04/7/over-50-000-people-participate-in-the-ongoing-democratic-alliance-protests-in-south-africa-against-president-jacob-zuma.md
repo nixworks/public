@@ -7,8 +7,8 @@ Desmond Tutu made an appearance at protests in Cape Town
 
 ### Source:
 
-1. [Sowetan Live](http://www.sowetanlive.co.za/news/2017/04/08/zumamustfall-campaign-to-hold-national-day-of-action)
-2. [NewsTalk](http://www.newstalk.com/Thousands-protest-in-South-Africa-against-President-Zouma)
+1. [NewsTalk](http://www.newstalk.com/Thousands-protest-in-South-Africa-against-President-Zouma)
+2. [Sowetan Live](http://www.sowetanlive.co.za/news/2017/04/08/zumamustfall-campaign-to-hold-national-day-of-action)
 
 ### Related:
 

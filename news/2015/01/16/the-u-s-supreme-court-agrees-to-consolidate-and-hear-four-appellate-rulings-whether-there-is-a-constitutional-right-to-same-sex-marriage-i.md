@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2015/01/17/us/supreme-court-to-decide-whether-gays-nationwide-can-marry.html?hp&action=click&pgtype=Homepage&module=span-ab-top-region&region=top-news&WT.nav=top-news&_r=0)
-2. [CNN](http://www.cnn.com/2015/01/16/politics/court-gay-marriage/index.html)
+1. [CNN](http://www.cnn.com/2015/01/16/politics/court-gay-marriage/index.html)
+2. [The New York Times](http://www.nytimes.com/2015/01/17/us/supreme-court-to-decide-whether-gays-nationwide-can-marry.html?hp&action=click&pgtype=Homepage&module=span-ab-top-region&region=top-news&WT.nav=top-news&_r=0)
 
 ### Related:
 

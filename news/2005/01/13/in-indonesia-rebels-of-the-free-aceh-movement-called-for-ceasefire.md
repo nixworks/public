@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4170309.stm)
-2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050113150431&irec=0)
+1. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050113150431&irec=0)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4170309.stm)
 
 ### Related:
 

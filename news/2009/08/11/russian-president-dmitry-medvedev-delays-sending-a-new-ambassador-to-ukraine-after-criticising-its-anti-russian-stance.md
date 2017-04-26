@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hq_Xf9hMQ-NY-kydjSlZAmXIK8JA)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-08/11/content_11863732.htm)
-3. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14222525&PageNum=0)
+1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14222525&PageNum=0)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hq_Xf9hMQ-NY-kydjSlZAmXIK8JA)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-08/11/content_11863732.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Catch up on all the action from this year’s Brit awards, at the O2 Arena in Lo
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/music/live/2016/feb/24/brit-awards-2016-with-adele-coldplay-justin-bieber-and-more-live)
-2. [BBC](http://www.bbc.com/news/entertainment-arts-35656227)
+1. [BBC](http://www.bbc.com/news/entertainment-arts-35656227)
+2. [The Guardian](http://www.theguardian.com/music/live/2016/feb/24/brit-awards-2016-with-adele-coldplay-justin-bieber-and-more-live)
 
 ### Related:
 

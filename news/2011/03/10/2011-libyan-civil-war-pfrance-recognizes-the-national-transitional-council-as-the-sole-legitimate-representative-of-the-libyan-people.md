@@ -7,13 +7,13 @@ In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
-2. [Buenos Aires Herald](http://www.buenosairesherald.com/article/61114/brazilian-reporter-goes-missing-believed-arrested-by-gaddafi)
+1. [AP via ''Las Vegas Review-Journal](http://hosted.ap.org/dynamic/stories/U/US_US_MIDEAST_CLINTON?SITE=NVLAS&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/mar/10/guardian-correspondent-missing-libya)
 3. [France 24](http://www.france24.com/en/20110310-France-NTC-national-transitional-council-embassy-Libya)
-4. [The Guardian](http://www.guardian.co.uk/world/2011/mar/10/guardian-correspondent-missing-libya)
-5. [AP via ''Las Vegas Review-Journal](http://hosted.ap.org/dynamic/stories/U/US_US_MIDEAST_CLINTON?SITE=NVLAS&SECTION=HOME&TEMPLATE=DEFAULT)
-6. [Al-Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-10-0#update-9371)
-7. [The Guardian](http://www.guardian.co.uk/world/blog/2011/mar/10/libya-uprising-gaddafi-live)
+4. [Al-Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-10-0#update-9371)
+5. [The Guardian](http://www.guardian.co.uk/world/blog/2011/mar/10/libya-uprising-gaddafi-live)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
+7. [Buenos Aires Herald](http://www.buenosairesherald.com/article/61114/brazilian-reporter-goes-missing-believed-arrested-by-gaddafi)
 
 ### Related:
 

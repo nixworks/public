@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/money/markets/2010-05-10-stocks-euro_N.htm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7122352.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7122352.ece)
+2. [USA Today](http://www.usatoday.com/money/markets/2010-05-10-stocks-euro_N.htm)
 
 ### Related:
 

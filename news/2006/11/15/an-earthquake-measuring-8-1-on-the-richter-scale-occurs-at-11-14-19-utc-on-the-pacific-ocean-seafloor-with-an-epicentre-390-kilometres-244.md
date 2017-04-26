@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/6150538.stm)
-2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/11/15/japan.tsunami.ap/index.html)
+1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/11/15/japan.tsunami.ap/index.html)
+2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/6150538.stm)
 
 ### Related:
 

@@ -55,7 +55,7 @@ _Context: Arab Spring, Saudi Arabia, Sheikh Nimr, Shiite cleric, Supreme Court, 
 Prince among five Saudis detained over seizure of two tonnes of amphetamines and cocaine at Lebanese capital&#39;s airport.
 
 ### [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem.  Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-s.md)
-_Context: Arab citizen, Benjamin Netanyahu, East Jerusalem, Israel, Israel's Channel 2, Palestinian, prime minister of Israel_
+_Context: Arab citizen, Benjamin Netanyahu, East Jerusalem, Israel, Israel's Channel 2, Palestinian, Prime Minister of Israel_
 
 ### [Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.md)
 The push comes as President Obama is reportedly weighing taking executive action on gun laws.

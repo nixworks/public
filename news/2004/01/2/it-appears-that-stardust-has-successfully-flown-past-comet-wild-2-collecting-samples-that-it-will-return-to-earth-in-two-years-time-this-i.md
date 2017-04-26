@@ -8,8 +8,8 @@ After a seven-year wait, scientists have finally been able to analyze the cometa
 ### Source:
 
 1. [Space Flight Now](http://spaceflightnow.com/stardust/040102image.html)
-2. [Space.com](http://www.space.com/scienceastronomy/stardust_update_040102.html)
-3. [Stardust](http://stardust.jpl.nasa.gov/news/status/031230.html)
+2. [Stardust](http://stardust.jpl.nasa.gov/news/status/031230.html)
+3. [Space.com](http://www.space.com/scienceastronomy/stardust_update_040102.html)
 
 ### Related:
 

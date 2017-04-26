@@ -8,9 +8,9 @@ Prime minister could face a confidence vote next week as he falls short of 120 v
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/business/live/2015/aug/14/greek-bailout-vote-and-eurozone-gdp-growth-figures-live-updates#block-55cd9744e4b082621a494209)
-2. [The International New York Times](http://www.ekathimerini.com/200567/article/ekathimerini/news/tsipras-wins-bailout-vote-faces-widening-rebellion)
-3. [The Guardian](http://www.theguardian.com/business/2015/aug/14/greek-parliament-still-thrashing-out-rescue-deal-vote)
-4. [Forex](http://www.fxstreet.com/news/forex-news/article.aspx?storyid=866670e1-5232-48f5-bb1d-5ae250b45f82)
+2. [The Guardian](http://www.theguardian.com/business/2015/aug/14/greek-parliament-still-thrashing-out-rescue-deal-vote)
+3. [Forex](http://www.fxstreet.com/news/forex-news/article.aspx?storyid=866670e1-5232-48f5-bb1d-5ae250b45f82)
+4. [The International New York Times](http://www.ekathimerini.com/200567/article/ekathimerini/news/tsipras-wins-bailout-vote-faces-widening-rebellion)
 
 ### Related:
 

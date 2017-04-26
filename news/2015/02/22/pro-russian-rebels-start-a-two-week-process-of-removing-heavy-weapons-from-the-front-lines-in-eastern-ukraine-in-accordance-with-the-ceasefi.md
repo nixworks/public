@@ -7,8 +7,8 @@ Ukrainian government forces and pro-Russian separatists exchange dozens of priso
 
 ### Source:
 
-1. [Reuters via ''Haaretz](http://www.haaretz.com/news/world/1.643585)
-2. [AFP via Yahoo News UK](https://uk.news.yahoo.com/blast-kills-three-during-pro-govt-march-eastern-121725507.html#COk6a2)
+1. [AFP via Yahoo News UK](https://uk.news.yahoo.com/blast-kills-three-during-pro-govt-march-eastern-121725507.html#COk6a2)
+2. [Reuters via ''Haaretz](http://www.haaretz.com/news/world/1.643585)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Lionel Messi became the all-time leading scorer in the Champions League after sc
 
 ### Source:
 
-1. [Mail](http://www.dailymail.co.uk/sport/football/article-2849361/Lionel-Messi-breaks-time-Champions-League-scoring-record-goal-against-APOEL-Nicosia.html)
-2. [Guardian](http://www.theguardian.com/football/2014/nov/25/barcelona-lionel-messi-champions-league-top-scorer)
+1. [Guardian](http://www.theguardian.com/football/2014/nov/25/barcelona-lionel-messi-champions-league-top-scorer)
+2. [Mail](http://www.dailymail.co.uk/sport/football/article-2849361/Lionel-Messi-breaks-time-Champions-League-scoring-record-goal-against-APOEL-Nicosia.html)
 
 ### Related:
 

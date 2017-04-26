@@ -7,8 +7,8 @@ Pakistan President Pervez Musharraf imposed a state of emergency in a bid to end
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/7076670.stm)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSCOL19928320071103)
+1. [Reuters](http://www.reuters.com/article/newsOne/idUSCOL19928320071103)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/7076670.stm)
 
 ### Related:
 

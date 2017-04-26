@@ -7,10 +7,10 @@ Refugees in northern Yemen say that their villages were bombed in an escalating 
 
 ### Source:
 
-1. [The Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2009/1222/Fresh-fighting-in-Yemen-ignites-refugee-crisis)
-2. [Press TV](http://www.presstv.com/detail.aspx?id=114056&sectionid=351020206)
-3. [The New York Times](http://www.nytimes.com/reuters/2009/12/22/world/international-uk-saudi-yemen-rebels.html)
-4. [The Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2009/1221/Saudi-air-strike-kills-Yemen-rebels-as-US-drawn-into-fight)
+1. [The Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2009/1221/Saudi-air-strike-kills-Yemen-rebels-as-US-drawn-into-fight)
+2. [The New York Times](http://www.nytimes.com/reuters/2009/12/22/world/international-uk-saudi-yemen-rebels.html)
+3. [The Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2009/1222/Fresh-fighting-in-Yemen-ignites-refugee-crisis)
+4. [Press TV](http://www.presstv.com/detail.aspx?id=114056&sectionid=351020206)
 5. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h7by4V1Kj-nErwy6zz7s4mwYaEog)
 
 ### Related:

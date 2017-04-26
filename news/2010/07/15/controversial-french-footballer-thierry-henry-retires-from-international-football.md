@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Thierry-Henry-retires-from-international-football/Article1-573066.aspx)
+1. [Vancouver Sun](http://www.vancouversun.com/sports/Soccer+French+star+Thierry+Henry+announces+international+retirement/3282663/story.html)
 2. [CNN](http://edition.cnn.com/2010/SPORT/football/07/15/football.henry.france.retirement/)
-3. [Vancouver Sun](http://www.vancouversun.com/sports/Soccer+French+star+Thierry+Henry+announces+international+retirement/3282663/story.html)
+3. [Hindustan Times](http://www.hindustantimes.com/Thierry-Henry-retires-from-international-football/Article1-573066.aspx)
 4. [Arab News](http://arabnews.com/sports/article84936.ece)
 
 ### Related:

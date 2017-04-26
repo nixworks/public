@@ -7,9 +7,9 @@ Pubs in the Limerick area have broken the tradition of staying closed on Good Fr
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0402/breaking22.html)
-2. [RTÉ](http://www.rte.ie/news/2010/0402/limerick.html)
-3. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/limerick-to-enjoy-good-friday-cheer-452358.html)
+1. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/limerick-to-enjoy-good-friday-cheer-452358.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0402/breaking22.html)
+3. [RTÉ](http://www.rte.ie/news/2010/0402/limerick.html)
 
 ### Related:
 

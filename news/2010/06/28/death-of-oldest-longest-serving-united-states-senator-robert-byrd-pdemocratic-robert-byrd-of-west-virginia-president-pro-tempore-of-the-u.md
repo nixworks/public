@@ -8,8 +8,8 @@ A look at the life and career of US Senator Robert Byrd, who has died aged 92.
 ### Source:
 
 1. [Politico](http://www.politico.com/news/stories/0610/39100.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10431856.stm)
-3. [CNN](http://www.cnn.com/2010/POLITICS/06/28/obit.byrd/index.html?hpt=T1)
+2. [CNN](http://www.cnn.com/2010/POLITICS/06/28/obit.byrd/index.html?hpt=T1)
+3. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10431856.stm)
 
 ### Related:
 

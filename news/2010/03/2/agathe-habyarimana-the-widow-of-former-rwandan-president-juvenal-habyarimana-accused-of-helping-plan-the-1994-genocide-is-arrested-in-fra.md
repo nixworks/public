@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8545120.stm)
-2. [France 24](http://www.france24.com/en/20100302-widow-slain-rwandan-leader-arrested-france)
+1. [France 24](http://www.france24.com/en/20100302-widow-slain-rwandan-leader-arrested-france)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8545120.stm)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/news/world/2010-05-31-pakistan-hospital-shooting_N.htm)
-2. [The Hindu](http://beta.thehindu.com/news/article443198.ece)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/31/pakistan.er.shooting/?hpt=T3)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/31/pakistan.er.shooting/?hpt=T3)
+3. [The Hindu](http://beta.thehindu.com/news/article443198.ece)
 4. [Geotv](http://www.geo.tv/6-1-2010/65946.htm)
 
 ### Related:

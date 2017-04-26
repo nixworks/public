@@ -7,8 +7,8 @@ Russian police detained hundreds of people in Moscow on Saturday, including youn
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6BH1FX20101218)
-2. [RIA Novosti](http://en.rian.ru/russia/20101218/161834478.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20101218/161834478.html)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6BH1FX20101218)
 
 ### Related:
 

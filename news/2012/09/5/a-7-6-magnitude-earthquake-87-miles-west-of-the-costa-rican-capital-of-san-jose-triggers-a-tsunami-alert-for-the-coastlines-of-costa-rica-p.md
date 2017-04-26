@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000cfsd#summary)
-2. [CNN](http://edition.cnn.com/2012/09/05/world/americas/costa-rica-earthquake/index.html?hpt=hp_t1)
+1. [CNN](http://edition.cnn.com/2012/09/05/world/americas/costa-rica-earthquake/index.html?hpt=hp_t1)
+2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000cfsd#summary)
 
 ### Related:
 

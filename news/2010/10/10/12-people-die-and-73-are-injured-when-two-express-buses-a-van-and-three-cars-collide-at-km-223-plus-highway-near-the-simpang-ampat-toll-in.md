@@ -8,8 +8,8 @@ A collision involving two buses, a van and three cars left at least 11 people de
 ### Source:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-10/11/c_13551767.htm)
-2. [NST](http://www.nst.com.my/nst/articles/Majorhighwaycollision_11killed/Article/)
-3. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/11-killed-in-malaysian-bus-accident-20101011-16e96.html)
+2. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/11-killed-in-malaysian-bus-accident-20101011-16e96.html)
+3. [NST](http://www.nst.com.my/nst/articles/Majorhighwaycollision_11killed/Article/)
 
 ### Related:
 

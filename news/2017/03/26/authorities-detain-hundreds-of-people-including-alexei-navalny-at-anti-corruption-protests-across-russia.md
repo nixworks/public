@@ -7,8 +7,8 @@ Russian police detained opposition leader Alexei Navalny in central Moscow on Su
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-protests-navalny-idUSKBN16X0HR)
-2. [Reuters](http://www.reuters.com/article/us-russia-protests-idUSKBN16X0G8)
+1. [Reuters](http://www.reuters.com/article/us-russia-protests-idUSKBN16X0G8)
+2. [Reuters](http://www.reuters.com/article/us-russia-protests-navalny-idUSKBN16X0HR)
 
 ### Related:
 

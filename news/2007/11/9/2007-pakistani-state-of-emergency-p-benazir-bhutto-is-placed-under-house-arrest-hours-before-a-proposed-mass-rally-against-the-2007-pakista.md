@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/310564/1/.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/7086272.stm)
 2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/11/09/bhutto.housearrest/index.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/7086272.stm)
+3. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/310564/1/.html)
 
 ### Related:
 

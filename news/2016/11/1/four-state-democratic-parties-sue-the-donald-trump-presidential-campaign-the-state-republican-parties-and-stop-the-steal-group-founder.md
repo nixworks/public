@@ -7,8 +7,8 @@ This comes after the Democratic National Committee said their GOP counterparts v
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-election-intimidation-idUSKBN12V28G)
-2. [AP via CBS News](http://www.cbsnews.com/news/democrats-accuse-gop-donald-trump-of-voter-intimidation-in-four-states/)
+1. [AP via CBS News](http://www.cbsnews.com/news/democrats-accuse-gop-donald-trump-of-voter-intimidation-in-four-states/)
+2. [Reuters](http://www.reuters.com/article/us-usa-election-intimidation-idUSKBN12V28G)
 
 ### Related:
 

@@ -7,9 +7,9 @@ In a rare move, the Chinese government sacked its railway minister Liu Zhijun an
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/china/Chinese-railway-minister-sacked-awaits-possible-arrest/articleshow/7483748.cms)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12440198)
-3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-02/12/c_13729242.htm)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12440198)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-02/12/c_13729242.htm)
+3. [The Times of India](http://timesofindia.indiatimes.com/world/china/Chinese-railway-minister-sacked-awaits-possible-arrest/articleshow/7483748.cms)
 
 ### Related:
 

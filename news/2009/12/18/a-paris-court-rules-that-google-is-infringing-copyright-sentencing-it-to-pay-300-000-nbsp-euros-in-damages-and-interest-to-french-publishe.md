@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PC World](http://www.pcworld.com/businesscenter/article/185092/paris_court_rules_against_google_in_book_copyright_case.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/technology/8420876.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/technology/8420876.stm)
+2. [PC World](http://www.pcworld.com/businesscenter/article/185092/paris_court_rules_against_google_in_book_copyright_case.html)
 
 ### Related:
 

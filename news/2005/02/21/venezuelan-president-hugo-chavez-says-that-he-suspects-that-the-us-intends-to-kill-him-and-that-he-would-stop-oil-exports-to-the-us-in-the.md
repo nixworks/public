@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC](http://abcnews.go.com/International/wireStory?id=517469)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4282603.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4282603.stm)
+2. [ABC](http://abcnews.go.com/International/wireStory?id=517469)
 3. [Seattle Post-Intelligencer](http://seattlepi.com/national/aplatin_story.asp?category=1102&slug=Venezuela%20US)
 
 ### Related:

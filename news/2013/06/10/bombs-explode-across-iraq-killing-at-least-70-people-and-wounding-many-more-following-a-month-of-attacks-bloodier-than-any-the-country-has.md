@@ -7,8 +7,8 @@ At least 70 people have been killed and many more wounded in a series of bombing
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22838865)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/201361074148887919.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/201361074148887919.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22838865)
 
 ### Related:
 

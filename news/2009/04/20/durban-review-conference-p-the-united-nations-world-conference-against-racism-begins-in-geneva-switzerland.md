@@ -7,10 +7,10 @@ A UN conference on racism is due to open in Geneva today amid controversy over a
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/burningIssues/idUKTRE53J3PI20090420?pageNumber=1&virtualBrandChannel=0)
-2. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/eu/5188473/Britain-and-EU-diplomats-walk-out-as-Mahmoud-Ahmadinejad-calls-Israel-racist.html)
-3. [Telegraph](http://www.telegraph.co.uk/news/5185440/UN-racism-summit-to-open-in-Geneva.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8008572.stm)
+1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/eu/5188473/Britain-and-EU-diplomats-walk-out-as-Mahmoud-Ahmadinejad-calls-Israel-racist.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8008572.stm)
+3. [Reuters](http://uk.reuters.com/article/burningIssues/idUKTRE53J3PI20090420?pageNumber=1&virtualBrandChannel=0)
+4. [Telegraph](http://www.telegraph.co.uk/news/5185440/UN-racism-summit-to-open-in-Geneva.html)
 
 ### Related:
 

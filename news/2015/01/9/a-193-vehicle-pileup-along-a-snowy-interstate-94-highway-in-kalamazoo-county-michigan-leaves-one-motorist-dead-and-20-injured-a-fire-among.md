@@ -7,8 +7,8 @@ Several vehicles were burning in the pileup west of exit 92, including a truck t
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/01/10/us/michigan-traffic-pileup/)
-2. [ABC News](http://www.wzzm13.com/story/news/local/kalamazoo/2015/01/09/closed-serious-crash/21493615/)
+1. [ABC News](http://www.wzzm13.com/story/news/local/kalamazoo/2015/01/09/closed-serious-crash/21493615/)
+2. [CNN](http://edition.cnn.com/2015/01/10/us/michigan-traffic-pileup/)
 
 ### Related:
 

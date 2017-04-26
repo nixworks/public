@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/CRIME/07/29/mexico.cartel.leader.killed/?hpt=T2#fbid=YIYm6U-LlVS)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jX2Dw8B3272HtVQLLdqO-56ET7dg)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jX2Dw8B3272HtVQLLdqO-56ET7dg)
+2. [CNN](http://edition.cnn.com/2010/CRIME/07/29/mexico.cartel.leader.killed/?hpt=T2#fbid=YIYm6U-LlVS)
 
 ### Related:
 

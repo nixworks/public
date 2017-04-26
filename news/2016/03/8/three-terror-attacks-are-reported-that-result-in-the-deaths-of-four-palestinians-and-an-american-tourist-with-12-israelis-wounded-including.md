@@ -7,10 +7,10 @@ A West Point graduate from Lubbock died after he was stabbed while on a trip to 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/03/08/middleeast/israel-violence/)
-2. [Houston Chronicle](http://www.chron.com/news/houston-texas/article/Texas-man-killed-in-Tel-Aviv-mass-stabbing-6878717.php)
-3. [AP via ABC News](http://abcnews.go.com/International/wireStory/israel-palestinian-woman-stab-officers-killed-37483085)
-4. [AP via WWTV](http://www.9and10news.com/story/31413844/biden-arrives-in-israel-amid-rash-in-palestinian-attacks)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/israel-palestinian-woman-stab-officers-killed-37483085)
+2. [AP via WWTV](http://www.9and10news.com/story/31413844/biden-arrives-in-israel-amid-rash-in-palestinian-attacks)
+3. [CNN](http://www.cnn.com/2016/03/08/middleeast/israel-violence/)
+4. [Houston Chronicle](http://www.chron.com/news/houston-texas/article/Texas-man-killed-in-Tel-Aviv-mass-stabbing-6878717.php)
 
 ### Related:
 

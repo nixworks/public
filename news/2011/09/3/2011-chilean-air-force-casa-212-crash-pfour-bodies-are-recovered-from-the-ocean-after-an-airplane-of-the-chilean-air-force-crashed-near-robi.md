@@ -7,5 +7,5 @@ Chilean officials have begun recovering bodies from the crash of a military airp
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/world/story/2011/09/03/chile-plane-crash.html)
-2. [La Tercera](http://tercera.com/noticia/nacional/2011/09/680-390475-9-minuto-a-minuto-accidente-de-avion-fach-en-juan-fernandez.shtml)
+1. [La Tercera](http://tercera.com/noticia/nacional/2011/09/680-390475-9-minuto-a-minuto-accidente-de-avion-fach-en-juan-fernandez.shtml)
+2. [CBC](http://www.cbc.ca/news/world/story/2011/09/03/chile-plane-crash.html)

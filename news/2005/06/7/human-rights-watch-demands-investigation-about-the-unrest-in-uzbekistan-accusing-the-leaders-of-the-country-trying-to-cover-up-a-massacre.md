@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L07355817.htm)
-2. [RIA Novosti](http://en.rian.ru/world/20050607/40486090.html)
-3. [Human Rights Watch](http://www.hrw.org/english/docs/2005/06/07/uzbeki11077.htm)
+1. [Human Rights Watch](http://www.hrw.org/english/docs/2005/06/07/uzbeki11077.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L07355817.htm)
+3. [RIA Novosti](http://en.rian.ru/world/20050607/40486090.html)
 
 ### Related:
 

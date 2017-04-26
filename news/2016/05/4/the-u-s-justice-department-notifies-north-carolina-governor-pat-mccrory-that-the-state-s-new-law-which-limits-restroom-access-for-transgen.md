@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/05/04/us/north-carolina-transgender-law-challenge/)
-2. [Reuters](http://www.reuters.com/article/us-north-carolina-lgbt-idUSKCN0XV2N8)
+1. [Reuters](http://www.reuters.com/article/us-north-carolina-lgbt-idUSKCN0XV2N8)
+2. [CNN](http://www.cnn.com/2016/05/04/us/north-carolina-transgender-law-challenge/)
 
 ### Related:
 

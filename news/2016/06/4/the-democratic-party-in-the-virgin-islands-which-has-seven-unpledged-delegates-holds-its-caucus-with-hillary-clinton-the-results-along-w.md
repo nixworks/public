@@ -7,8 +7,8 @@ The U.S. Virgin Islands and Puerto Rico offer just the number of delegates she n
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/politics/hillary-clintons-improbable-path-to-clinching-the-nomination-this-weekend/2016/06/04/c93ae7f6-2a56-11e6-ae4a-3cdd5fe74204_story.html)
-2. [AP via ABC News](http://abcnews.go.com/Politics/hillary-clinton-wins-virgin-islands-democratic-caucuses/story?id=39613905)
+1. [AP via ABC News](http://abcnews.go.com/Politics/hillary-clinton-wins-virgin-islands-democratic-caucuses/story?id=39613905)
+2. [The Washington Post](https://www.washingtonpost.com/politics/hillary-clintons-improbable-path-to-clinching-the-nomination-this-weekend/2016/06/04/c93ae7f6-2a56-11e6-ae4a-3cdd5fe74204_story.html)
 
 ### Related:
 

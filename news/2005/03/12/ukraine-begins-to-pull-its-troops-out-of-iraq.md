@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4859040,00.html)
-2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/20BE7417-42C7-4AB5-8377-80CEAB570567.htm)
+1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/20BE7417-42C7-4AB5-8377-80CEAB570567.htm)
+2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4859040,00.html)
 3. [VOA](http://www.voanews.com/english/2005-03-12-voa29.cfm)
 
 ### Related:

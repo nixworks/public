@@ -7,8 +7,8 @@ Southern African leaders have called on Madagascar&#39;s rulers to allow exiled 
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75C0A320110613)
-2. [AllAfrica.com](http://allafrica.com/stories/201106130985.html)
+1. [AllAfrica.com](http://allafrica.com/stories/201106130985.html)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75C0A320110613)
 
 ### Related:
 

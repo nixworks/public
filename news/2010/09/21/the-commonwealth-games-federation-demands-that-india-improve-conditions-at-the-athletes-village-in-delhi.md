@@ -8,9 +8,9 @@ At least 19 people wereinjured when a foot bridge near the main Commonwealth Gam
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/sports/events-tournaments/commonwealth-games/top-stories/Bridge-collapses-near-CWG-main-venue-23-injured/articleshow/6600164.cms)
-2. [OneIndia](http://news.oneindia.in/2010/09/21/foot-overbridge-of-cwg-nehru-stadium-collapses.html)
-3. [Reuters](http://www.reuters.com/article/idUSSGE68K0HE20100921)
-4. [BBC](http://www.bbc.co.uk/news/world-south-asia-11379020)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11379020)
+3. [OneIndia](http://news.oneindia.in/2010/09/21/foot-overbridge-of-cwg-nehru-stadium-collapses.html)
+4. [Reuters](http://www.reuters.com/article/idUSSGE68K0HE20100921)
 
 ### Related:
 

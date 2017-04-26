@@ -7,15 +7,15 @@ Five suspected al Qaeda members were killed in a clash with Yemeni forces when t
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12869658)
-2. [al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201132616546326475.html)
+1. [Reuters](http://www.reuters.com/article/2011/03/26/libya-brega-rebels-idUSLDE72P0FX20110326)
+2. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/syria-live-blog-march-26)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12870584)
-4. [Reuters](http://in.reuters.com/article/2011/03/26/idINIndia-55899620110326?feedType=RSS&feedName=worldNews&utm_source=Reuters+India&utm_medium=twitter&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
-5. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hduedcrUBz4h0cWjB_ixFB4EDJoA?docId=dd3121da9c4640509745c4c689a29c30)
-6. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/syria-live-blog-march-26)
-7. [Reuters](http://www.reuters.com/article/2011/03/26/libya-brega-rebels-idUSLDE72P0FX20110326)
+4. [Al Jazeera](http://blogs.aljazeera.net/live/africa/live-blog-libya-march-26)
+5. [BBC](http://www.bbc.co.uk/news/world-africa-12869658)
+6. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hduedcrUBz4h0cWjB_ixFB4EDJoA?docId=dd3121da9c4640509745c4c689a29c30)
+7. [Reuters](http://in.reuters.com/article/2011/03/26/idINIndia-55899620110326?feedType=RSS&feedName=worldNews&utm_source=Reuters+India&utm_medium=twitter&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
 8. [BBC](http://www.bbc.co.uk/news/world-middle-east-12871146)
-9. [Al Jazeera](http://blogs.aljazeera.net/live/africa/live-blog-libya-march-26)
+9. [al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201132616546326475.html)
 
 ### Related:
 

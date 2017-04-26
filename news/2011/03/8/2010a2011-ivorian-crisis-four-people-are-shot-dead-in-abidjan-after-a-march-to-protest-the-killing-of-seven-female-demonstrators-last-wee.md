@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/mar/08/ivory-coast-troops-open-fire-civilians?CMP=twt_fd)
-2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/4-killed-in-Ivory-Coast-after-hundreds-protest/articleshow/7659146.cms)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-12682492?utm_source=twitterfeed&utm_medium=twitter)
+1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/4-killed-in-Ivory-Coast-after-hundreds-protest/articleshow/7659146.cms)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12682492?utm_source=twitterfeed&utm_medium=twitter)
+3. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/mar/08/ivory-coast-troops-open-fire-civilians?CMP=twt_fd)
 
 ### Related:
 

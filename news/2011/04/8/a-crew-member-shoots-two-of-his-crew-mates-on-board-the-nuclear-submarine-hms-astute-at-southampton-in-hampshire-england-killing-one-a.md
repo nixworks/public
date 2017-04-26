@@ -7,8 +7,8 @@ A Royal Navy crewman is killed and another is in a life-threatening condition af
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-hampshire-13014640)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/2011481446226123.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/2011481446226123.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-hampshire-13014640)
 
 ### Related:
 

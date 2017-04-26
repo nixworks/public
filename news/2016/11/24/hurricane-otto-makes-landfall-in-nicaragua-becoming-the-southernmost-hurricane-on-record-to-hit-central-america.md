@@ -7,8 +7,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2016/nov/24/hurricane-otto-costa-rica-nicaragua-emergency-storm-caribbean)
-2. [ABC News](http://abcnews.go.com/International/wireStory/hurricane-otto-nears-coasts-nicaragua-costa-rica-43753080)
+1. [ABC News](http://abcnews.go.com/International/wireStory/hurricane-otto-nears-coasts-nicaragua-costa-rica-43753080)
+2. [The Guardian](https://www.theguardian.com/world/2016/nov/24/hurricane-otto-costa-rica-nicaragua-emergency-storm-caribbean)
 
 ### Related:
 

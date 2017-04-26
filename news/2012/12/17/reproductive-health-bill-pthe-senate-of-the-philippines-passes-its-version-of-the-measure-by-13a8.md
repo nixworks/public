@@ -7,8 +7,8 @@ The next step is the bicameral conference committee, where both chambers of Cong
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/325875/congress-oks-rh-bill)
-2. [Rappler](http://www.rappler.com/nation/18116-senate,-house-ok-rh-bill-make-history)
+1. [Rappler](http://www.rappler.com/nation/18116-senate,-house-ok-rh-bill-make-history)
+2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/325875/congress-oks-rh-bill)
 
 ### Related:
 

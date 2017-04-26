@@ -8,10 +8,10 @@ Police moved WikiLeaks chief Julian Assange to the segregation unit of a London 
 ### Source:
 
 1. [AFP via ''The Age](http://www.theage.com.au/world/assange-indictment-unconstitutional-lawyer-20101211-18t7q.html)
-2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10693788&ref=rss)
+2. [The Sydney Morning Herald](http://www.smh.com.au/national/legal-fury-at-war-on-free-speech-20101210-18sv3.html)
 3. [AFP via ''The Age](http://www.theage.com.au/world/assange-moved-to-isolation-20101211-18t8z.html)
 4. [BBC](http://www.bbc.co.uk/news/world-europe-11977406)
-5. [The Sydney Morning Herald](http://www.smh.com.au/national/legal-fury-at-war-on-free-speech-20101210-18sv3.html)
+5. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10693788&ref=rss)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Suspected Russian warplanes bombed the outskirts of Islamic State-held Palmyra o
 
 ### Source:
 
-1. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Nov-03/321458-russia-says-has-hit-2084-militant-targets-so-far-in-syria-agencies.ashx)
-2. [Air Force Times](http://www.airforcetimes.com/story/military/2015/11/02/activists-suspected-russian-jets-hit-syrias-palmyra/75056436/)
+1. [Air Force Times](http://www.airforcetimes.com/story/military/2015/11/02/activists-suspected-russian-jets-hit-syrias-palmyra/75056436/)
+2. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Nov-03/321458-russia-says-has-hit-2084-militant-targets-so-far-in-syria-agencies.ashx)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/23/AR2010072303017.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10747919)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10747919)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/23/AR2010072303017.html)
 
 ### Related:
 

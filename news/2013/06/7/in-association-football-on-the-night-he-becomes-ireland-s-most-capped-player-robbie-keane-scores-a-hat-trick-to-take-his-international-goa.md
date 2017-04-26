@@ -8,8 +8,8 @@ Robbie Keane scored a hat-trick on his record-breaking 126th international appea
 ### Source:
 
 1. [The Guardian](http://www.guardian.co.uk/football/2013/jun/07/republic-ireland-faroe-islands-world-cup)
-2. [Sky Sports](http://www1.skysports.com/football/news/12020/8764298/Robbie-Keane-plays-down-his-special-night-after-Republic-of-Ireland-win)
-3. [RTÉ](http://www.rte.ie/sport/soccer/international/2013/0607/455293-keane-hits-hat-trick-to-down-faroes/)
+2. [RTÉ](http://www.rte.ie/sport/soccer/international/2013/0607/455293-keane-hits-hat-trick-to-down-faroes/)
+3. [Sky Sports](http://www1.skysports.com/football/news/12020/8764298/Robbie-Keane-plays-down-his-special-night-after-Republic-of-Ireland-win)
 
 ### Related:
 

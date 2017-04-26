@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/breaking/20160127-french-justice-minister-christiane-taubira-resigns/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20160127_0919&ns_linkname=20160127_breaking_news&ns_fee=0&f24_member_id=1080960490882)
-2. [CNN](http://www.cnn.com/2016/01/27/europe/france-justice-minister-christiane-taubira-resignation/)
+1. [CNN](http://www.cnn.com/2016/01/27/europe/france-justice-minister-christiane-taubira-resignation/)
+2. [France 24](http://www.france24.com/en/breaking/20160127-french-justice-minister-christiane-taubira-resigns/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20160127_0919&ns_linkname=20160127_breaking_news&ns_fee=0&f24_member_id=1080960490882)
 
 ### Related:
 

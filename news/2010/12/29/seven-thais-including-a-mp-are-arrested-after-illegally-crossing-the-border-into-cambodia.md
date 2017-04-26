@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1472124&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
-2. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_618642.html)
+1. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_618642.html)
+2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1472124&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A massive blizzard bringing more than 2ft (60cm) of snow and punishing winds is 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/01/21/us/winter-snowstorm-washington-blizzard/)
-2. [BBC](http://www.bbc.com/news/world-us-canada-35374741)
+1. [BBC](http://www.bbc.com/news/world-us-canada-35374741)
+2. [CNN](http://www.cnn.com/2016/01/21/us/winter-snowstorm-washington-blizzard/)
 
 ### Related:
 

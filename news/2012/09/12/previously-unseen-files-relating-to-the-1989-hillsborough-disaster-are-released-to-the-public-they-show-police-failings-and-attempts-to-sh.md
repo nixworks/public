@@ -7,8 +7,8 @@ Live coverage of the release of official documents relating to the 1989 Hillsbor
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-19570810)
-2. [The Guardian](http://www.guardian.co.uk/football/2012/sep/12/hillsborough-disaster-david-cameron-apologises)
+1. [The Guardian](http://www.guardian.co.uk/football/2012/sep/12/hillsborough-disaster-david-cameron-apologises)
+2. [BBC](http://www.bbc.co.uk/news/uk-19570810)
 
 ### Related:
 

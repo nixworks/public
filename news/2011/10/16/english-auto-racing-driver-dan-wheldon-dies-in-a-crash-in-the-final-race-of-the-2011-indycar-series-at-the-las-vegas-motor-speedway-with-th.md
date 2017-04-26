@@ -7,8 +7,8 @@ IndyCar champion Dan Wheldon has died after a dramatic 15-car pile-up in Las Veg
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/sport/motorsport/indycar-champion-dead-after-flaming-15car-race-pileup-20111017-1ls2o.html)
-2. [AP via NBC Sports](http://nbcsports.msnbc.com/id/44923199/ns/sports-motor_sports/)
+1. [AP via NBC Sports](http://nbcsports.msnbc.com/id/44923199/ns/sports-motor_sports/)
+2. [Sydney Morning Herald](http://www.smh.com.au/sport/motorsport/indycar-champion-dead-after-flaming-15car-race-pileup-20111017-1ls2o.html)
 
 ### Related:
 

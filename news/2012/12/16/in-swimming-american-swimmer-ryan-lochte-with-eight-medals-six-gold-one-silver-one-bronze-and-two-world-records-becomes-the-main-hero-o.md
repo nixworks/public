@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Swimming World](http://www.swimmingworldmagazine.com/lane9/news/World/32929.asp)
-2. [Eurosport](http://uk.eurosport.yahoo.com/news/swimming-swimming-lochte-ends-golden-worlds-eight-medal-204541509.html)
+1. [Eurosport](http://uk.eurosport.yahoo.com/news/swimming-swimming-lochte-ends-golden-worlds-eight-medal-204541509.html)
+2. [Swimming World](http://www.swimmingworldmagazine.com/lane9/news/World/32929.asp)
 
 ### Related:
 

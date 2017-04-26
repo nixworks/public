@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/society/20091008/156398630.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/08/muslim-population-islam-survey)
-3. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/10/08/1008388/report-1-in-4-people-are-muslim)
+1. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/10/08/1008388/report-1-in-4-people-are-muslim)
+2. [RIA Novosti](http://en.rian.ru/society/20091008/156398630.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/oct/08/muslim-population-islam-survey)
 
 ### Related:
 

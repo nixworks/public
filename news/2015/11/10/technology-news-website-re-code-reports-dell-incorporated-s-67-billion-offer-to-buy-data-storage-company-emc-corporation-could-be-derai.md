@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Economic Times](http://economictimes.indiatimes.com/news/international/business/dell-emc-deal-could-fall-apart-on-tax-concerns/articleshow/49740856.cms)
-2. [Reuters](http://www.reuters.com/article/2015/11/10/us-emc-us-m-a-dell-idUSKCN0SZ25420151110#WM0YkmOOjPEv7b85.97)
-3. [Re/code](http://recode.net/2015/11/10/dells-emc-deal-could-unhinge-on-tax-rule/)
+1. [Re/code](http://recode.net/2015/11/10/dells-emc-deal-could-unhinge-on-tax-rule/)
+2. [Economic Times](http://economictimes.indiatimes.com/news/international/business/dell-emc-deal-could-fall-apart-on-tax-concerns/articleshow/49740856.cms)
+3. [Reuters](http://www.reuters.com/article/2015/11/10/us-emc-us-m-a-dell-idUSKCN0SZ25420151110#WM0YkmOOjPEv7b85.97)
 
 ### Related:
 

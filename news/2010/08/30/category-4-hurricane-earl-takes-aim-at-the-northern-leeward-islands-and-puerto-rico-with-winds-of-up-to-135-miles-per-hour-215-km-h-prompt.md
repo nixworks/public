@@ -9,8 +9,8 @@ Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in 
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11128738)
 2. [Huffington Post](http://www.huffingtonpost.com/2010/08/30/tropical-storm-fiona-form_n_699656.html)
-3. [msnbc.com](http://www.msnbc.msn.com/id/38877306/ns/weather/?gt1=43001)
-4. [CNN](http://www.cnn.com/2010/US/08/30/tropical.weather/index.html)
+3. [CNN](http://www.cnn.com/2010/US/08/30/tropical.weather/index.html)
+4. [msnbc.com](http://www.msnbc.msn.com/id/38877306/ns/weather/?gt1=43001)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Pacific Tsunami Warning Center](http://www.prh.noaa.gov/ptwc/wmsg)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2006/usmgas/)
+1. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2006/usmgas/)
+2. [Pacific Tsunami Warning Center](http://www.prh.noaa.gov/ptwc/wmsg)
 
 ### Related:
 

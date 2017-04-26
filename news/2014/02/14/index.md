@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [France announces it will increase the number of its soldiers deployed in the Central African Republic as sectarian violence worsens. ](/news/2014/02/14/france-announces-it-will-increase-the-number-of-its-soldiers-deployed-in-the-central-african-republic-as-sectarian-violence-worsens.md)
-_Context: Central African Republic conflict (2012–present), Central-African, France_
+_Context: Central African Republic, Central African Republic conflict (2012–present), France_
 
 ### [India and Penguin books ban the book ''The Hindus: An Alternative History'' by Wendy Doniger for "blasphemy". ](/news/2014/02/14/india-and-penguin-books-ban-the-book-the-hindus-an-alternative-history-by-wendy-doniger-for-blasphemy.md)
 Major writers including Arundhati Roy and Neil Gaiman condemn &#x27;egregious&#x27; suppression of Wendy Doniger&#x27;s book

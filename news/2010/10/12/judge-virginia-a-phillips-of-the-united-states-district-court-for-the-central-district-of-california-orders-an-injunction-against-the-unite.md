@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/10/federal-judge-orders-military-to-stop-enforcing-dont-ask-dont-tell/1)
-2. [AP via ''New York Times](http://www.nytimes.com/aponline/2010/10/12/us/AP-US-Gays-in-Military.html?_r=1&emc=na)
+1. [AP via ''New York Times](http://www.nytimes.com/aponline/2010/10/12/us/AP-US-Gays-in-Military.html?_r=1&emc=na)
+2. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/10/federal-judge-orders-military-to-stop-enforcing-dont-ask-dont-tell/1)
 
 ### Related:
 

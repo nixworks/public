@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/nation/2010-05-29-gulf-oil-spill_N.htm?csp=34news&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+usatoday-NewsTopStories+(News+-+Top+Stories))
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gIXWYBTpLtSayJtg41LKXpxSxVPAD9G0SRFO0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gIXWYBTpLtSayJtg41LKXpxSxVPAD9G0SRFO0)
+2. [USA Today](http://www.usatoday.com/news/nation/2010-05-29-gulf-oil-spill_N.htm?csp=34news&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+usatoday-NewsTopStories+(News+-+Top+Stories))
 
 ### Related:
 

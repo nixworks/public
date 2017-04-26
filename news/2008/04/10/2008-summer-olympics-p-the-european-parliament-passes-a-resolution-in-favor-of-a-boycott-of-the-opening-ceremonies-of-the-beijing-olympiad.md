@@ -7,9 +7,9 @@ The Olympic torch arrives in Argentina with organisers desperate to avoid repeat
 
 ### Source:
 
-1. [The Herald](http://www.news.com.au/heraldsun/story/0,21985,23517176-23109,00.html)
-2. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/04/11/2213825.htm?section=justin)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,3257602,00.html)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/04/11/2213825.htm?section=justin)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,3257602,00.html)
+3. [The Herald](http://www.news.com.au/heraldsun/story/0,21985,23517176-23109,00.html)
 
 ### Related:
 

@@ -8,9 +8,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8540771)
-2. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8154)
-3. [Jakarta Post](http://www.thejakartapost.com/detailheadlines.asp?fileid=20050520.B11&irec=10)
-4. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CJ8ZX?OpenDocument)
+2. [Jakarta Post](http://www.thejakartapost.com/detailheadlines.asp?fileid=20050520.B11&irec=10)
+3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CJ8ZX?OpenDocument)
+4. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8154)
 
 ### Related:
 

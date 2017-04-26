@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-22T032600Z_01_HO212336_RTRUKOC_0_JAPAN-SHIPS.xml)
-2. [Xinhua](http://news.xinhuanet.com/english/2005-07/22/content_3252835.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2005-07/22/content_3252835.htm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-22T032600Z_01_HO212336_RTRUKOC_0_JAPAN-SHIPS.xml)
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=9&id=344034)
 
 ### Related:

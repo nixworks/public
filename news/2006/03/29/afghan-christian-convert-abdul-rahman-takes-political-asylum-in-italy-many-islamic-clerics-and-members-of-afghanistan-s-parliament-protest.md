@@ -7,8 +7,8 @@ An Afghan Christian convert who had faced the death penalty for abandoning Islam
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4856748.stm)
-2. [MSNBC](http://msnbc.msn.com/id/12063255/)
+1. [MSNBC](http://msnbc.msn.com/id/12063255/)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4856748.stm)
 
 ### Related:
 

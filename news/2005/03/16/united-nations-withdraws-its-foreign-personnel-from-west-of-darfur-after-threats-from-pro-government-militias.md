@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [AllAfrica](http://allafrica.com/stories/200503160826.html)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7924401)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4354933.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7924401)
+3. [AllAfrica](http://allafrica.com/stories/200503160826.html)
 
 ### Related:
 

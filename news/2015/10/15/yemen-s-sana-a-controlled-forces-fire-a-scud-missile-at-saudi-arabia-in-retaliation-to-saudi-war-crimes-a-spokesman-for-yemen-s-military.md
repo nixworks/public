@@ -7,8 +7,8 @@ Yemenis fly the flags and posters of the leaders of Saudi Arabia and the UAE
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/15/us-yemen-security-missile-idUSKCN0S90BD20151015)
-2. [Gulf News](http://gulfnews.com/news/gulf/yemen/thousands-celebrate-al-houthi-defeat-in-aden-1.1601267)
+1. [Gulf News](http://gulfnews.com/news/gulf/yemen/thousands-celebrate-al-houthi-defeat-in-aden-1.1601267)
+2. [Reuters](http://www.reuters.com/article/2015/10/15/us-yemen-security-missile-idUSKCN0S90BD20151015)
 
 ### Related:
 

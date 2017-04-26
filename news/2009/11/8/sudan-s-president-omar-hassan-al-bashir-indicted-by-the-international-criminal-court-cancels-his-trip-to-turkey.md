@@ -7,8 +7,8 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091108223742660C694039)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8349678.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8349678.stm)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091108223742660C694039)
 3. [Hurriyet](http://www.hurriyetdailynews.com/n.php?n=a-muslim-can-never-commit-genocide-erdogan-defends-bashir-2009-11-08)
 4. [Sudan News Agency](http://www.sunanews.net/english-latest-news/6188-president-al-bashir-postpones-his-visit-to-turkey.html)
 

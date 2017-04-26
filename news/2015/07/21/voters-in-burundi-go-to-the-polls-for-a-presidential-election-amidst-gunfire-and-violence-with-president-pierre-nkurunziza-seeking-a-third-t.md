@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via SABC](http://www.sabc.co.za/news/a/c9778a00492ea3e98bbaab423b398f00/At-least-two-killed-in-violence-before-Burundi-election-20150721)
-2. [BBC](http://www.bbc.com/news/world-africa-33590991)
+1. [BBC](http://www.bbc.com/news/world-africa-33590991)
+2. [Reuters via SABC](http://www.sabc.co.za/news/a/c9778a00492ea3e98bbaab423b398f00/At-least-two-killed-in-violence-before-Burundi-election-20150721)
 
 ### Related:
 

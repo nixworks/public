@@ -8,13 +8,13 @@ His gamble paid off, and now Erdogan is in a position to cement his presidential
 ### Source:
 
 1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/2/8/162420/World/Region/Clashes-in-Turkeys-main-Kurdish-city-after-vote.aspx)
-2. [ODATV](http://odatv.com/n.php?n=177-maddeden-113u-degisti-hangi-82-anayasasi-1110111200)
-3. [Reuters](http://www.reuters.com/article/2015/11/01/us-turkey-election-davutoglu-speech-idUSKCN0SQ2GH20151101)
-4. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2469026&language=en)
-5. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkey-votes-in-election-viewed-as-referendum-on-erdogan/2015/11/01/81cc0ab8-8005-11e5-b575-d8dcfedb4ea1_story.html)
-6. [Wall Street Journal](http://www.wsj.com/articles/angry-kurds-police-clash-as-vote-bolsters-turkish-president-1446427280)
-7. [BBC](http://www.bbc.com/news/world-europe-34694420)
-8. [Al Jazeera](http://america.aljazeera.com/articles/2015/11/1/turkey-votes-in-election-in-the-midst-of-surging-violence.html)
+2. [Wall Street Journal](http://www.wsj.com/articles/angry-kurds-police-clash-as-vote-bolsters-turkish-president-1446427280)
+3. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2469026&language=en)
+4. [BBC](http://www.bbc.com/news/world-europe-34694420)
+5. [Al Jazeera](http://america.aljazeera.com/articles/2015/11/1/turkey-votes-in-election-in-the-midst-of-surging-violence.html)
+6. [ODATV](http://odatv.com/n.php?n=177-maddeden-113u-degisti-hangi-82-anayasasi-1110111200)
+7. [Reuters](http://www.reuters.com/article/2015/11/01/us-turkey-election-davutoglu-speech-idUSKCN0SQ2GH20151101)
+8. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkey-votes-in-election-viewed-as-referendum-on-erdogan/2015/11/01/81cc0ab8-8005-11e5-b575-d8dcfedb4ea1_story.html)
 
 ### Related:
 

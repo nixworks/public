@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7849762)
-2. [OneWorld](http://see.oneworld.net/article/view/104400/1/)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4331457.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4331457.stm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7849762)
+3. [OneWorld](http://see.oneworld.net/article/view/104400/1/)
 
 ### Related:
 

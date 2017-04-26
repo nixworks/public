@@ -7,18 +7,18 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/96C44B00-1FC7-4EB6-A4E6-055062F5FC5C.htm)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/84B207D4-8012-41CC-89A2-B0A8CE8C01FD.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5182730.stm)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/738315.html)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5182564.stm)
-6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276249,00.html)
-7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276136,00.html)
-8. [Haaretz](http://www.haaretz.com/hasen/spages/738611.html)
-9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276176,00.html)
-10. [Haaretz](http://www.haaretz.com/hasen/spages/738671.html)
-11. [SF Gate](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2006/07/14/national/w130201D34.DTL)
-12. [CNN](http://www.cnn.com/2006/WORLD/meast/07/15/mideast/index.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/738611.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/738315.html)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276136,00.html)
+4. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/96C44B00-1FC7-4EB6-A4E6-055062F5FC5C.htm)
+5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276249,00.html)
+6. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5182730.stm)
+7. [CNN](http://www.cnn.com/2006/WORLD/meast/07/15/mideast/index.html)
+8. [Haaretz](http://www.haaretz.com/hasen/spages/738671.html)
+9. [SF Gate](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2006/07/14/national/w130201D34.DTL)
+10. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/84B207D4-8012-41CC-89A2-B0A8CE8C01FD.htm)
+11. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5182564.stm)
+12. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276176,00.html)
 13. [Haaretz](http://www.haaretz.com/hasen/spages/738632.html)
 
 ### Related:

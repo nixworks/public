@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=01&dd=04&nav_id=64226)
-2. [BusinessWeek](http://www.businessweek.com/news/2010-01-04/serbia-to-file-genocide-lawsuit-against-croatia-in-hague-court.html)
+1. [BusinessWeek](http://www.businessweek.com/news/2010-01-04/serbia-to-file-genocide-lawsuit-against-croatia-in-hague-court.html)
+2. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=01&dd=04&nav_id=64226)
 
 ### Related:
 

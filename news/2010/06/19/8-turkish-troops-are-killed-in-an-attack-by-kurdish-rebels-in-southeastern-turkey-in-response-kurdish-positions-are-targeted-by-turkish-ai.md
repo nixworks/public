@@ -7,8 +7,8 @@ Ten Turkish soldiers have been killed in an attack by Kurdish rebels near the Ir
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20100619115118722C343596)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/10356679.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/10356679.stm)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20100619115118722C343596)
 
 ### Related:
 

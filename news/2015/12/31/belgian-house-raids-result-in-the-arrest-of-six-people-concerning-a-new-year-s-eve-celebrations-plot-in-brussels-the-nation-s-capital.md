@@ -7,9 +7,9 @@ Jan Bartunek and Philip Blenkinsop
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-belgium-security-idUSKBN0UE0P720151231)
-2. [CNN](http://www.cnn.com/2015/12/31/europe/munich-germany-train-stations/)
-3. [NBC News](http://www.nbcnews.com/storyline/isis-terror/two-munich-germany-train-stations-evacuated-over-terrorism-threat-n488721)
+1. [CNN](http://www.cnn.com/2015/12/31/europe/munich-germany-train-stations/)
+2. [NBC News](http://www.nbcnews.com/storyline/isis-terror/two-munich-germany-train-stations-evacuated-over-terrorism-threat-n488721)
+3. [Reuters](http://www.reuters.com/article/us-belgium-security-idUSKBN0UE0P720151231)
 
 ### Related:
 

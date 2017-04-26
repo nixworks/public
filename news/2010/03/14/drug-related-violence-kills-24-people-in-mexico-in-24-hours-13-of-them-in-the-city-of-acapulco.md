@@ -7,12 +7,12 @@ Thirteen people are killed in and around Acapulco, with four victims found behea
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/news/2010/03/14/24-killed-western-mexico-11-one-shootout.html)
-2. [Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7061418.ece)
-3. [MSNBC](http://www.msnbc.msn.com/id/35855758/ns/world_news-americas/)
-4. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2010/03/13/13220471-ap.html)
+1. [Reuters](http://uk.reuters.com/article/idUKTRE62C1SO20100313?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+2. [MSNBC](http://www.msnbc.msn.com/id/35855758/ns/world_news-americas/)
+3. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2010/03/13/13220471-ap.html)
+4. [Jakarta Post](http://www.thejakartapost.com/news/2010/03/14/24-killed-western-mexico-11-one-shootout.html)
 5. [BBC](http://news.bbc.co.uk/2/hi/americas/8566557.stm)
-6. [Reuters](http://uk.reuters.com/article/idUKTRE62C1SO20100313?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+6. [Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7061418.ece)
 
 ### Related:
 

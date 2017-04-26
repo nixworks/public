@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via USA Today](http://www.usatoday.com/weather/wildfires/2008-10-13-southern-california-wildfire_N.htm?csp=34)
-2. [CNN](http://edition.cnn.com/2008/US/10/13/wildfires/?iref=mpstoryview)
+1. [CNN](http://edition.cnn.com/2008/US/10/13/wildfires/?iref=mpstoryview)
+2. [AP via USA Today](http://www.usatoday.com/weather/wildfires/2008-10-13-southern-california-wildfire_N.htm?csp=34)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Common Dreams](http://www.commondreams.org/news2006/1222-01.htm)
-2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/663FB205-27CD-4C72-84DF-5362C36570F0.htm)
+1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/663FB205-27CD-4C72-84DF-5362C36570F0.htm)
+2. [Common Dreams](http://www.commondreams.org/news2006/1222-01.htm)
 
 ### Related:
 

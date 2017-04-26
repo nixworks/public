@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Jewish Telegraphic Agency](http://www.jta.org/news/article/2010/07/02/2739891/german-parliament-demands-israel-end-gaza-blockade)
-2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6605O520100701)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=510356)
 3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5754562,00.html)
-4. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=510356)
+4. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6605O520100701)
 
 ### Related:
 

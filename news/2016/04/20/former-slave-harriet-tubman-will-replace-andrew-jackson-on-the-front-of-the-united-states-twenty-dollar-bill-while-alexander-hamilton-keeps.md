@@ -7,8 +7,8 @@ Anti-slavery crusader Harriet Tubman will become the first African-American on t
 
 ### Source:
 
-1. [The New York Times](http://mobile.nytimes.com/2016/04/21/us/women-currency-treasury-harriet-tubman.html?referer=https://news.google.com/)
-2. [Reuters](http://www.reuters.com/article/us-usa-currency-idUSKCN0XH21W)
+1. [Reuters](http://www.reuters.com/article/us-usa-currency-idUSKCN0XH21W)
+2. [The New York Times](http://mobile.nytimes.com/2016/04/21/us/women-currency-treasury-harriet-tubman.html?referer=https://news.google.com/)
 
 ### Related:
 

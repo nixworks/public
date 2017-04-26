@@ -7,9 +7,9 @@ North Korea on Monday announced it is replacing its practically worthless curren
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/15e319e8-dea0-11de-adff-00144feab49a.html)
-2. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/12/01/2009120100316.html)
-3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/01/39/0401000000AEN20091201000300315F.HTML)
+1. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/12/01/2009120100316.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/01/39/0401000000AEN20091201000300315F.HTML)
+3. [Financial Times](http://www.ft.com/cms/s/0/15e319e8-dea0-11de-adff-00144feab49a.html)
 
 ### Related:
 

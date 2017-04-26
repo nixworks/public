@@ -8,8 +8,8 @@ Police in Malaysia fire tear gas and water cannons and arrest hundreds of protes
 ### Source:
 
 1. [Bloomberg via Business Week](http://www.businessweek.com/news/2011-07-09/malaysian-police-fire-tear-gas-at-kuala-lumpur-protesters.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14076424)
-3. [AP via ''Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Malaysia-arrests-236-ahead-of-banned-rally-1458822.php)
+2. [AP via ''Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Malaysia-arrests-236-ahead-of-banned-rally-1458822.php)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14076424)
 
 ### Related:
 

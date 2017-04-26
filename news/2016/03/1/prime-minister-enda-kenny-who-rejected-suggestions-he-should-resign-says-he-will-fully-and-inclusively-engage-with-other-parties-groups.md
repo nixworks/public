@@ -7,8 +7,8 @@ Taoiseach Enda Kenny has performed a dramatic U-turn on his pre-election promise
 
 ### Source:
 
-1. [Irish Independent](http://www.independent.ie/irish-news/election-2016/kenny-performs-massive-uturn-as-he-opens-door-to-fianna-fil-34503717.html)
-2. [Irish Examiner](http://www.irishexaminer.com/election2016/election2016-news-and-analysis/fine-gael-mull-rotating-taoiseach-to-get-fianna-fail-support-385074.html)
+1. [Irish Examiner](http://www.irishexaminer.com/election2016/election2016-news-and-analysis/fine-gael-mull-rotating-taoiseach-to-get-fianna-fail-support-385074.html)
+2. [Irish Independent](http://www.independent.ie/irish-news/election-2016/kenny-performs-massive-uturn-as-he-opens-door-to-fianna-fil-34503717.html)
 
 ### Related:
 

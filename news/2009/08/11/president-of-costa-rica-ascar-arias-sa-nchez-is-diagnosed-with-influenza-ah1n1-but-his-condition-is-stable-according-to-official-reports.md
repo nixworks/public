@@ -7,8 +7,8 @@ Costa Rican President Oscar Arias is said to have the H1N1 virus. He was placed 
 
 ### Source:
 
-1. [ANSA](http://www.ansa.it/ansalatina/notizie/notiziari/amcentr/20090812014434929149.html)
-2. [AP](http://www.milenio.com/node/265660)
+1. [AP](http://www.milenio.com/node/265660)
+2. [ANSA](http://www.ansa.it/ansalatina/notizie/notiziari/amcentr/20090812014434929149.html)
 3. [MercoPress](http://en.mercopress.com/2009/08/12/president-oscar-arias-sick-with)
 
 ### Related:

@@ -7,8 +7,8 @@ As many as 40 Afghan civilians were feared to be among the 90 people killed in a
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/6137938/Nato-air-strike-in-Afghanistan-kills-scores-of-Taliban-militants-and-civilians.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8237287.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8237287.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/6137938/Nato-air-strike-in-Afghanistan-kills-scores-of-Taliban-militants-and-civilians.html)
 
 ### Related:
 

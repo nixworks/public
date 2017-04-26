@@ -7,8 +7,8 @@ Christchurch,&#x20;New&#x20;Zealand,&#x20;29&#x20;June&#x20;-&#x20;The&#x20;Worl
 
 ### Source:
 
-1. [UNESCO press-release](http://whc.unesco.org/en/news/365)
-2. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20070628.wunesco0628/BNStory/Front)
+1. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20070628.wunesco0628/BNStory/Front)
+2. [UNESCO press-release](http://whc.unesco.org/en/news/365)
 
 ### Related:
 

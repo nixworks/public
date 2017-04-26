@@ -7,10 +7,10 @@ Honduras President Porfirio Lobo suspends prison officials and vows a full inqui
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17038259)
-2. [AP via MSNBC](http://www.msnbc.msn.com/id/46394192#.TzxPHbRnARA)
-3. [AP via ''Washington Post](http://www.washingtonpost.com/world/americas/authorities-in-honduras-say-a-fire-at-a-prison-kills-dozens-of-inmates-40-injured/2012/02/15/gIQAzYnHFR_story.html)
-4. [BBC](http://www.bbc.co.uk/news/world-latin-america-17050795)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/46394192#.TzxPHbRnARA)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-17038259)
+3. [BBC](http://www.bbc.co.uk/news/world-latin-america-17050795)
+4. [AP via ''Washington Post](http://www.washingtonpost.com/world/americas/authorities-in-honduras-say-a-fire-at-a-prison-kills-dozens-of-inmates-40-injured/2012/02/15/gIQAzYnHFR_story.html)
 
 ### Related:
 

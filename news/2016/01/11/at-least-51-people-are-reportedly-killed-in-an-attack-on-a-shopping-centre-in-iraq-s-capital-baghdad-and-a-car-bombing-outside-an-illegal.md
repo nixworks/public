@@ -7,9 +7,9 @@ The Islamic State (IS) group says it targeted Shia Muslims at a Baghdad shopping
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-35285605)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-violence-idUSKCN0UP1R420160111)
-3. [AAP via SBS](http://www.sbs.com.au/news/article/2016/01/12/least-48-killed-iraq-attacks-claimed)
+1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/01/12/least-48-killed-iraq-attacks-claimed)
+2. [BBC](http://www.bbc.com/news/world-middle-east-35285605)
+3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-violence-idUSKCN0UP1R420160111)
 
 ### Related:
 

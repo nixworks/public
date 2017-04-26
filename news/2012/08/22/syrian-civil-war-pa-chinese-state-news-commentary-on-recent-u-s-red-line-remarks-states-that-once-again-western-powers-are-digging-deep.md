@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/22/c_131800638.htm)
-2. [Reuters](http://www.reuters.com/article/2012/08/22/us-syria-crisis-idUSBRE8610SH20120822)
+1. [Reuters](http://www.reuters.com/article/2012/08/22/us-syria-crisis-idUSBRE8610SH20120822)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/22/c_131800638.htm)
 
 ### Related:
 

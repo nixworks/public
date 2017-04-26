@@ -7,8 +7,8 @@ Iraqi special forces drove back Islamic State militants in the Mosul University 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKBN14Y08N?il=0)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/01/iraqi-forces-retake-parts-mosul-university-170114104200017.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/iraqi-forces-retake-parts-mosul-university-170114104200017.html)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKBN14Y08N?il=0)
 
 ### Related:
 

@@ -7,8 +7,8 @@ It was a historic Melbourne Cup in numerous respects, not least the price of the
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com.au/2015/11/02/prince-of-penzance-melbourne-cup_n_8457998.html?ncid=edlinkauhpmg00000001)
-2. [Melbourne Age](http://www.theage.com.au/sport/horseracing/melbourne-cup-2015-prince-of-penzance-the-first-1001-winner-since-world-war-ii-20151103-gkprwa.html)
+1. [Melbourne Age](http://www.theage.com.au/sport/horseracing/melbourne-cup-2015-prince-of-penzance-the-first-1001-winner-since-world-war-ii-20151103-gkprwa.html)
+2. [Huffington Post](http://www.huffingtonpost.com.au/2015/11/02/prince-of-penzance-melbourne-cup_n_8457998.html?ncid=edlinkauhpmg00000001)
 
 ### Related:
 

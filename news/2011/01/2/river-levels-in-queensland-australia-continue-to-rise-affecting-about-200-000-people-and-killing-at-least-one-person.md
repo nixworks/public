@@ -7,8 +7,8 @@ Queensland still on edge as rivers surge to new heights and flow into low-lying 
 
 ### Source:
 
-1. [CTV](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110102/australia-drowning-110102/20110102/?hub=EdmontonHome)
-2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/20111213240887480.html)
+1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/20111213240887480.html)
+2. [CTV](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110102/australia-drowning-110102/20110102/?hub=EdmontonHome)
 
 ### Related:
 

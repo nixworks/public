@@ -7,10 +7,10 @@ Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/jul/15/israel-accepts-egypt-ceasefire-gaza-hamas)
-2. [Jerusalem Post](http://www.jpost.com/Operation-Protective-Edge/Iron-Dome-intercepts-several-rockets-over-greater-Tel-Aviv-362723)
-3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.605161)
-4. [Reuters](http://af.reuters.com/article/worldNews/idAFKBN0FI04D20140715)
+1. [Jerusalem Post](http://www.jpost.com/Operation-Protective-Edge/Iron-Dome-intercepts-several-rockets-over-greater-Tel-Aviv-362723)
+2. [The Guardian](http://www.theguardian.com/world/2014/jul/15/israel-accepts-egypt-ceasefire-gaza-hamas)
+3. [Reuters](http://af.reuters.com/article/worldNews/idAFKBN0FI04D20140715)
+4. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.605161)
 
 ### Related:
 

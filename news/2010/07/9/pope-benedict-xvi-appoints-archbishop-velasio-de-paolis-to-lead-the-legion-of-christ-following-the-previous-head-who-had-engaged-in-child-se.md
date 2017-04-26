@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Asia One](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20100709-226189.html)
-2. [IPS](http://www.ipsnews.net/news.asp?idnews=51302)
+1. [IPS](http://www.ipsnews.net/news.asp?idnews=51302)
+2. [AP via Asia One](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20100709-226189.html)
 
 ### Related:
 

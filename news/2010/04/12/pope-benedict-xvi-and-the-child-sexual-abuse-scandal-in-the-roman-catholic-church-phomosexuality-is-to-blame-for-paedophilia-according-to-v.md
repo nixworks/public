@@ -7,20 +7,20 @@ Security around the Pope is to be stepped up for his visit to Malta after sex ab
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE63B4TR20100412)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/12/AR2010041202959.html)
-3. [Reuters via ''The New York Times](http://www.nytimes.com/reuters/2010/04/12/world/international-uk-vatican-abuse.html)
+1. [New York Daily News](http://www.nydailynews.com/news/world/2010/04/11/2010-04-11_atheist_writer_richard_dawkins_wants_criminal_case_vs_pope_benedict_xvi_for_sex_.html)
+2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-47636020100412)
+3. [National Post](http://network.nationalpost.com/NP/blogs/holy-post/archive/2010/04/12/vatican-praised-for-exemplary-handling-of-sex-abuse-scandal.aspx)
 4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5461075,00.html)
-5. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-47636020100412)
-6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/7578439/Security-increased-for-Popes-Malta-visit.html)
-7. [Reuters](http://www.reuters.com/article/idUSTRE63B4X620100412?feedType=RSS&feedName=topNews)
+5. [Reuters](http://www.reuters.com/article/idUSTRE63B4X620100412?feedType=RSS&feedName=topNews)
+6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/12/AR2010041202959.html)
+7. [The Sydney Morning Herald](http://www.smh.com.au/world/leading-atheists-richard-dawkins-and-christopher-hitchens-seek-popes-arrest-20100412-s1av.html)
 8. [Boston Herald](http://www.bostonherald.com/news/international/europe/view/20100412maltese_victims_want_to_meet_pope_on_island/srvc=home&position=recent)
-9. [The Guardian](http://www.guardian.co.uk/world/2010/apr/11/critics-trial-pope-benedict-xvi)
-10. [New York Daily News](http://www.nydailynews.com/news/world/2010/04/11/2010-04-11_atheist_writer_richard_dawkins_wants_criminal_case_vs_pope_benedict_xvi_for_sex_.html)
+9. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/7578439/Security-increased-for-Popes-Malta-visit.html)
+10. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/12/vatican.abuse/)
 11. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3874439,00.html)
-12. [The Sydney Morning Herald](http://www.smh.com.au/world/leading-atheists-richard-dawkins-and-christopher-hitchens-seek-popes-arrest-20100412-s1av.html)
-13. [National Post](http://network.nationalpost.com/NP/blogs/holy-post/archive/2010/04/12/vatican-praised-for-exemplary-handling-of-sex-abuse-scandal.aspx)
-14. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/12/vatican.abuse/)
+12. [The Guardian](http://www.guardian.co.uk/world/2010/apr/11/critics-trial-pope-benedict-xvi)
+13. [Reuters via ''The New York Times](http://www.nytimes.com/reuters/2010/04/12/world/international-uk-vatican-abuse.html)
+14. [Reuters](http://www.reuters.com/article/idUSTRE63B4TR20100412)
 
 ### Related:
 

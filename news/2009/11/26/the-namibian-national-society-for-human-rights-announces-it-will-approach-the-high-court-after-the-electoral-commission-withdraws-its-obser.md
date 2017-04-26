@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Namibian](http://www.namibian.com.na/news/full-story/archive/2009/november/article/poll-ban-heads-to-court/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8380802.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8380802.stm)
+2. [The Namibian](http://www.namibian.com.na/news/full-story/archive/2009/november/article/poll-ban-heads-to-court/)
 
 ### Related:
 

@@ -8,12 +8,12 @@ Maine has joined California, Nevada and Massachusetts in backing recreational ma
 ### Source:
 
 1. [ABC](http://abcnews.go.com/Politics/thousands-us-protest-president-elect-donald-trump/story?id=43427653)
-2. [BBC](http://www.bbc.com/news/technology-37932219)
-3. [The New York Times](http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?action=click&pgtype=Homepage&clickSource=story-heading&module=span-abc-region&region=span-abc-region&WT.nav=span-abc-region)
+2. [CNN](http://www.cnn.com/2016/11/09/politics/election-results-reaction-streets/index.html)
+3. [BBC](http://www.bbc.com/news/world-us-canada-37917472)
 4. [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-ballot-measures-marijuana-gun-control-minimum-wage-20161108-story.html)
-5. [Time](http://time.com/4564119/california-calexit-donald-trump-victory/)
-6. [CNN](http://www.cnn.com/2016/11/09/politics/election-results-reaction-streets/index.html)
-7. [BBC](http://www.bbc.com/news/world-us-canada-37917472)
+5. [BBC](http://www.bbc.com/news/technology-37932219)
+6. [The New York Times](http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?action=click&pgtype=Homepage&clickSource=story-heading&module=span-abc-region&region=span-abc-region&WT.nav=span-abc-region)
+7. [Time](http://time.com/4564119/california-calexit-donald-trump-victory/)
 
 ### Related:
 

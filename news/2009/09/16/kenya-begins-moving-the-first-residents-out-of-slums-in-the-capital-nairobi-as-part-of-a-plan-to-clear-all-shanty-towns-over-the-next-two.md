@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8258417.stm)
+1. [Capital FM](http://www.capitalfm.co.ke/news/Kenyanews/Kibera-residents-reach-Canaan-5816.html)
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i2mIs1YGVZOqru3LLXpzLNtLJDnQD9AOF4C00)
-3. [Capital FM](http://www.capitalfm.co.ke/news/Kenyanews/Kibera-residents-reach-Canaan-5816.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8258417.stm)
 
 ### Related:
 

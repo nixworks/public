@@ -7,8 +7,8 @@ A stampede at an Ivory Coast peace concert by reggae star Alpha Blondy reportedl
 
 ### Source:
 
-1. [Philippine Inquirer](http://showbizandstyle.inquirer.net/breakingnews/breakingnews/view/20100613-275378/2-die-in-Ivory-Coast-concert-crushmedics)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10303927.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10303927.stm)
+2. [Philippine Inquirer](http://showbizandstyle.inquirer.net/breakingnews/breakingnews/view/20100613-275378/2-die-in-Ivory-Coast-concert-crushmedics)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Tens of thousands of Albanian opposition supporters marched peacefully through t
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/19/c_13739103.htm)
-2. [AP via ''The New York Times](http://www.nytimes.com/2011/02/19/world/europe/19briefs-Albania.html)
+1. [AP via ''The New York Times](http://www.nytimes.com/2011/02/19/world/europe/19briefs-Albania.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/19/c_13739103.htm)
 3. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5i_q8cjVNtmKGLZ4VTJJA6BNENaUg?docId=5993057)
 
 ### Related:

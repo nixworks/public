@@ -7,8 +7,8 @@ A search is under way for a three-man crew missing after a US refuelling plane c
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-22397266)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/us-military-plane-crashes-near-border-between-kazakhstan-and-kyrgyzstan/article11695569/)
+1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/us-military-plane-crashes-near-border-between-kazakhstan-and-kyrgyzstan/article11695569/)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-22397266)
 
 ### Related:
 

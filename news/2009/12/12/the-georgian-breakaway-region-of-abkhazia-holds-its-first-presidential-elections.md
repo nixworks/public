@@ -9,8 +9,8 @@ Five candidates including incumbent in race for top post in rebel Georgian regio
 
 1. [UPI](http://www.upi.com/Top_News/International/2009/12/12/Abkhazia-holds-presidential-elections/UPI-71861260644614/)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/20091212172713731635.html)
-3. [euronews](http://www.euronews.net/2009/12/12/abkhazia-chooses-president/)
-4. [The Georgian Times](http://www.geotimes.ge/index.php?m=home&newsid=19564)
+3. [The Georgian Times](http://www.geotimes.ge/index.php?m=home&newsid=19564)
+4. [euronews](http://www.euronews.net/2009/12/12/abkhazia-chooses-president/)
 
 ### Related:
 

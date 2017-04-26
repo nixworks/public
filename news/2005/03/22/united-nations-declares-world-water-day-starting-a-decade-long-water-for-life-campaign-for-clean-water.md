@@ -8,9 +8,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### Source:
 
 1. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=13724&Cr=water&Cr1=)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/fromthefield/219124/111142023935.htm)
+2. [ABC](http://abcnews.go.com/International/wireStory?id=602733)
 3. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4370847.stm)
-4. [ABC](http://abcnews.go.com/International/wireStory?id=602733)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/fromthefield/219124/111142023935.htm)
 
 ### Related:
 

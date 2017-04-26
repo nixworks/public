@@ -8,8 +8,8 @@ Lima government does not recognize 1967 borders; Israel fears European countries
 ### Source:
 
 1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=205101)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/jan/25/peru-recognises-palestinian-state)
-3. [Reuters](http://www.reuters.com/article/idUSTRE70N5ZW20110124)
+2. [Reuters](http://www.reuters.com/article/idUSTRE70N5ZW20110124)
+3. [The Guardian](http://www.guardian.co.uk/world/2011/jan/25/peru-recognises-palestinian-state)
 
 ### Related:
 

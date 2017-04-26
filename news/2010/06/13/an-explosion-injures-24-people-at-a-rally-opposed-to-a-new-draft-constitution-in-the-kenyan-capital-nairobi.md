@@ -7,8 +7,8 @@ Five die in a stampede following an explosion at a rally in Nairobi organised by
 
 ### Source:
 
-1. [Capital FM](http://www.capitalfm.co.ke/news/Kenyanews/Blasts-rock-rally-in-Kenyan-capital-8780.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10305750.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10305750.stm)
+2. [Capital FM](http://www.capitalfm.co.ke/news/Kenyanews/Blasts-rock-rally-in-Kenyan-capital-8780.html)
 
 ### Related:
 

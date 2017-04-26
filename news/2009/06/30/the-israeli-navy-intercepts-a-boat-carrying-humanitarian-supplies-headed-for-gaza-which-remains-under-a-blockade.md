@@ -7,8 +7,8 @@ Vessel carrying aid to Gaza intercepted by Israeli navy.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/06/2009630134729211311.html)
-2. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1246296538815&pagename=JPost%2FJPArticle%2FShowFull)
+1. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1246296538815&pagename=JPost%2FJPArticle%2FShowFull)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/06/2009630134729211311.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The 2010 World Cup draw will take place in Cape Town, South Africa at 2 a.m. Sat
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2009/dec/04/bomb-scare-world-cup-draw)
-2. [The Korea Times](http://www.koreatimes.co.kr/www/news/sports/2009/12/136_56642.html)
-3. [AP via Yahoo sports](http://sports.yahoo.com/soccer/news?slug=ap-wcup-draw&prov=ap&type=lgns)
+1. [AP via Yahoo sports](http://sports.yahoo.com/soccer/news?slug=ap-wcup-draw&prov=ap&type=lgns)
+2. [The Guardian](http://www.guardian.co.uk/football/2009/dec/04/bomb-scare-world-cup-draw)
+3. [The Korea Times](http://www.koreatimes.co.kr/www/news/sports/2009/12/136_56642.html)
 4. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article6944249.ece)
 
 ### Related:

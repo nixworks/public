@@ -7,8 +7,8 @@ State of emergency declared in several regions as heavy flooding kills eight and
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-22752544)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/201363133138536910.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/201363133138536910.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-22752544)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/03/europe-inundated-floods-czech-austria)
 
 ### Related:

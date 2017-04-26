@@ -7,9 +7,9 @@ TV exit polls show Prime Minister Shinzo Abe has won the two-thirds &quot;super 
 
 ### Source:
 
-1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/07/10/voting-starts-japan)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-07-10/abe-set-to-win-majority-in-upper-house-election-nhk)
 2. [AP via Crossroads Today](http://www.crossroadstoday.com/story/32409632/japan-coalition-scores-bigger-than-expected-election-win)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-07-10/abe-set-to-win-majority-in-upper-house-election-nhk)
+3. [AAP via SBS](http://www.sbs.com.au/news/article/2016/07/10/voting-starts-japan)
 
 ### Related:
 

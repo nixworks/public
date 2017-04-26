@@ -7,8 +7,8 @@ BEIRUT: Two suicide bombers blew themselves up on a crowded street in a southern
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/12/us-syria-crisis-hezbollah-blast-idUSKCN0T121P20151112#bEyVysSfB7EraMuE.97)
-2. [Daily Star](https://www.dailystar.com.lb/News/Lebanon-News/2015/Nov-12/322792-two-blasts-heard-in-south-beirut-suburb-of-burj-al-barajneh-witnesses.ashx)
+1. [Daily Star](https://www.dailystar.com.lb/News/Lebanon-News/2015/Nov-12/322792-two-blasts-heard-in-south-beirut-suburb-of-burj-al-barajneh-witnesses.ashx)
+2. [Reuters](http://www.reuters.com/article/2015/11/12/us-syria-crisis-hezbollah-blast-idUSKCN0T121P20151112#bEyVysSfB7EraMuE.97)
 3. [Sky News](http://news.sky.com/story/1586551/at-least-20-killed-in-beirut-bomb-attacks)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [HRES 333], calling for the impeachment of [[U.S. Vice President|Vice President]] [[Dick Cheney]]. [http://www.atimes.com/atimes/Middle_East/ID27Ak04.html (Asia Times](http://thomas.loc.gov/cgi-bin/query/z?c110:H.RES.333.IH:)
-2. [AP via CBS News](http://www.cbsnews.com/stories/2007/04/25/politics/main2726626.shtml)
+1. [AP via CBS News](http://www.cbsnews.com/stories/2007/04/25/politics/main2726626.shtml)
+2. [HRES 333], calling for the impeachment of [[U.S. Vice President|Vice President]] [[Dick Cheney]]. [http://www.atimes.com/atimes/Middle_East/ID27Ak04.html (Asia Times](http://thomas.loc.gov/cgi-bin/query/z?c110:H.RES.333.IH:)
 
 ### Related:
 

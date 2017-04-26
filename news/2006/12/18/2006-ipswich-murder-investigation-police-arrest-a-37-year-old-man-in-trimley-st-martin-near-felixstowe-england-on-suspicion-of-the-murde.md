@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/suffolkmurders/story/0,,1974640,00.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/england/suffolk/6189409.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/england/suffolk/6189409.stm)
+2. [Guardian](http://www.guardian.co.uk/suffolkmurders/story/0,,1974640,00.html)
 
 ### Related:
 

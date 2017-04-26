@@ -7,8 +7,8 @@ A 12-year-old boy armed with a shotgun opened fire at a middle school in New Mex
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/01/14/us-usa-shooting-newmexico-idUSBREA0D11Q20140114)
-2. [CNN](http://www.cnn.com/2014/01/14/justice/new-mexico-school-shooting/index.html?hpt=hp_t2)
+1. [CNN](http://www.cnn.com/2014/01/14/justice/new-mexico-school-shooting/index.html?hpt=hp_t2)
+2. [Reuters](http://www.reuters.com/article/2014/01/14/us-usa-shooting-newmexico-idUSBREA0D11Q20140114)
 
 ### Related:
 

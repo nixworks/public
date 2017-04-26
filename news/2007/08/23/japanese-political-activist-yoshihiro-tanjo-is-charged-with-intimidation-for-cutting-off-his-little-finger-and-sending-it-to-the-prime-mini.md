@@ -7,8 +7,8 @@ Al Qaeda fighters kidnapped 15 Iraqi women and children after attacking two vill
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6959849.stm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSYAT71336220070823?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/topNews/idUSYAT71336220070823?feedType=RSS&feedName=topNews)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6959849.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/cricket/13+pakistani+pair+sets+world+record+partnership-za-06)
-2. [Cricinfo](http://www.cricinfo.com/pakistan/content/story/438396.html)
+1. [Cricinfo](http://www.cricinfo.com/pakistan/content/story/438396.html)
+2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/cricket/13+pakistani+pair+sets+world+record+partnership-za-06)
 
 ### Related:
 

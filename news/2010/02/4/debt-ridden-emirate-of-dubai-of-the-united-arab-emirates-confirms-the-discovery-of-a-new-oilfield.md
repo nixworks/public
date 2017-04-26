@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Gulf News](http://gulfnews.com/business/oil-gas/new-oil-field-discovered-in-dubai-reports-1.578236)
-2. [Kyiv Post](http://www.kyivpost.com/news/world/detail/58617/)
+1. [Kyiv Post](http://www.kyivpost.com/news/world/detail/58617/)
+2. [Gulf News](http://gulfnews.com/business/oil-gas/new-oil-field-discovered-in-dubai-reports-1.578236)
 
 ### Related:
 

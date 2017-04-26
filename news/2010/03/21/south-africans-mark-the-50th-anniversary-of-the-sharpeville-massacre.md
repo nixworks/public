@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8578549.stm)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/20/AR2010032003178.html)
+1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/20/AR2010032003178.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8578549.stm)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/mar/19/south-africa-sharpeville-massacre-anniversary)
 
 ### Related:

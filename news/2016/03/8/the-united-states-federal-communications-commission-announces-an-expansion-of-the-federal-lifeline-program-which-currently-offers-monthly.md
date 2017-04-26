@@ -7,9 +7,9 @@ The Obama administration is expanding the number of households that will receive
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-fcc-internet-subsidy-idUSKCN0WA219)
-2. [The Hill](http://thehill.com/regulation/overnights/272267-overnight-regulation-fcc-to-offer-internet-subsidies-to-40m-households)
-3. [Multichannel News](http://www.multichannel.com/news/fcc/reaction-fcc-broadband-lifeline-piles/403172)
+1. [The Hill](http://thehill.com/regulation/overnights/272267-overnight-regulation-fcc-to-offer-internet-subsidies-to-40m-households)
+2. [Multichannel News](http://www.multichannel.com/news/fcc/reaction-fcc-broadband-lifeline-piles/403172)
+3. [Reuters](http://www.reuters.com/article/us-fcc-internet-subsidy-idUSKCN0WA219)
 
 ### Related:
 

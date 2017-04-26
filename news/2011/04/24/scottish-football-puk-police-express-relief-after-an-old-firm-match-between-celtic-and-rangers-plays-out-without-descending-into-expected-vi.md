@@ -7,10 +7,10 @@ Rangers and Celtic, the top two teams in the Scottish Premier League standings, 
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0425/1224295409961.html)
-2. [The Guardian](http://www.guardian.co.uk/football/2011/apr/21/celtic-rangers-old-firm-attack-police)
-3. [The New York Times](http://www.nytimes.com/2011/04/25/sports/soccer/25soccer.html)
-4. [The Guardian](http://www.guardian.co.uk/football/2011/apr/24/strathclyde-police-neil-lennon-celtic-rangers?INTCMP=ILCNETTXT3487)
+1. [The New York Times](http://www.nytimes.com/2011/04/25/sports/soccer/25soccer.html)
+2. [The Guardian](http://www.guardian.co.uk/football/2011/apr/24/strathclyde-police-neil-lennon-celtic-rangers?INTCMP=ILCNETTXT3487)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0425/1224295409961.html)
+4. [The Guardian](http://www.guardian.co.uk/football/2011/apr/21/celtic-rangers-old-firm-attack-police)
 
 ### Related:
 

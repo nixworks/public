@@ -8,8 +8,8 @@ At least 40 people killed and 140 others injured in attacks on Shia pilgrims.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/02/20102595844693762.html)
-2. [The New York Times](http://www.nytimes.com/2010/02/06/world/middleeast/06iraq.html?partner=MOREOVERNEWS&ei=5040)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/feb/05/iraq-suicide-bomber-karbala)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/feb/05/iraq-suicide-bomber-karbala)
+3. [The New York Times](http://www.nytimes.com/2010/02/06/world/middleeast/06iraq.html?partner=MOREOVERNEWS&ei=5040)
 
 ### Related:
 

@@ -7,8 +7,8 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [Times](http://www.timesonline.co.uk/article/0,,25149-1972496,00.html)
-2. [Reuters](http://www.abc.net.au/news/newsitems/200601/s1543129.htm)
+1. [Reuters](http://www.abc.net.au/news/newsitems/200601/s1543129.htm)
+2. [Times](http://www.timesonline.co.uk/article/0,,25149-1972496,00.html)
 
 ### Related:
 

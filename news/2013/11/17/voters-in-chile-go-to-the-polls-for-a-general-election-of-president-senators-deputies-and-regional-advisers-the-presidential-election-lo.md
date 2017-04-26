@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/17/us-chile-election-idUSBRE9AG07S20131117)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-24938253)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-24938253)
+2. [Reuters](http://www.reuters.com/article/2013/11/17/us-chile-election-idUSBRE9AG07S20131117)
 
 ### Related:
 

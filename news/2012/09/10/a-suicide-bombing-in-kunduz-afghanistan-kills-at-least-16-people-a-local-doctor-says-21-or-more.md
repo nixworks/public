@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via ''The Financial Express](http://www.thefinancialexpress-bd.com/more.php?news_id=142996&date=2012-09-11)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-19543786)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-19543786)
+2. [AFP via ''The Financial Express](http://www.thefinancialexpress-bd.com/more.php?news_id=142996&date=2012-09-11)
 
 ### Related:
 

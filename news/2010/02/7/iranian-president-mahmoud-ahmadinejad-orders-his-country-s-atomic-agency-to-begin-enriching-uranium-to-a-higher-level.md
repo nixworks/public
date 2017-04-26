@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2010/02/07/world/AP-Iran-Nuclear.html?_r=1&ref=global-home)
-2. [Press TV](http://www.presstv.ir/detail.aspx?id=118131&sectionid=3510303)
+1. [Press TV](http://www.presstv.ir/detail.aspx?id=118131&sectionid=3510303)
+2. [The New York Times](http://www.nytimes.com/aponline/2010/02/07/world/AP-Iran-Nuclear.html?_r=1&ref=global-home)
 
 ### Related:
 

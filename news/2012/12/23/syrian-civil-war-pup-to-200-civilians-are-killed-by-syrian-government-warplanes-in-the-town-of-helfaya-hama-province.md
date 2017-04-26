@@ -8,8 +8,8 @@ Dozens of people are killed in a government air strike on a bakery in central Sy
 ### Source:
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2012/12/23/256715.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20832740)
-3. [Reuters](http://www.reuters.com/article/2012/12/23/us-syria-crisis-airstrike-idUSBRE8BM07C20121223)
+2. [Reuters](http://www.reuters.com/article/2012/12/23/us-syria-crisis-airstrike-idUSBRE8BM07C20121223)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20832740)
 
 ### Related:
 

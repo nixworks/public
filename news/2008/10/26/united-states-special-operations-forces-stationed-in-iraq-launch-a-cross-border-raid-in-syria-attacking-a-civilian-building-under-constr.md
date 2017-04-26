@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/US-helicopters-attack-a-Syrian-border-point-with-Iraq-causing-eight-deaths/Article/200810415129094)
-2. [SANA](http://sana.sy/eng/21/2008/10/26/198617.htm)
-3. [IHT](http://www.iht.com/articles/2008/10/26/africa/26syria-fw.php)
+2. [IHT](http://www.iht.com/articles/2008/10/26/africa/26syria-fw.php)
+3. [SANA](http://sana.sy/eng/21/2008/10/26/198617.htm)
 
 ### Related:
 

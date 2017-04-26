@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo](http://news.yahoo.com/s/nm/20051202/us_nm/weather_epsilon_dc_3)
-2. [CNN](http://www.cnn.com/2005/WEATHER/12/02/epsilon.ap/index.html?section=cnn_latest)
+1. [CNN](http://www.cnn.com/2005/WEATHER/12/02/epsilon.ap/index.html?section=cnn_latest)
+2. [Reuters via Yahoo](http://news.yahoo.com/s/nm/20051202/us_nm/weather_epsilon_dc_3)
 
 ### Related:
 

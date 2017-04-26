@@ -7,8 +7,8 @@ Mohammad Asif may be dropped from an Indian film in which he was supposed to pla
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/idINIndia-51211420100901)
-2. [BBC News](http://www.bbc.co.uk/news/world-south-asia-11148170)
+1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-11148170)
+2. [Reuters](http://in.reuters.com/article/idINIndia-51211420100901)
 
 ### Related:
 

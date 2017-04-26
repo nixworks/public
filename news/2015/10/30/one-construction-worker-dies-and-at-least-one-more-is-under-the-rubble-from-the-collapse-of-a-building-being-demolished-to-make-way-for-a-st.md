@@ -7,8 +7,8 @@ A building undergoing demolition in New York partially collapsed on Friday, kill
 
 ### Source:
 
-1. [AP via ABC News](http://abcnews.go.com/US/wireStory/building-demolished-partially-collapses-nyc-dead-34853556)
-2. [Reuters](http://www.reuters.com/article/2015/10/30/us-new-york-collapse-idUSKCN0SO20520151030)
+1. [Reuters](http://www.reuters.com/article/2015/10/30/us-new-york-collapse-idUSKCN0SO20520151030)
+2. [AP via ABC News](http://abcnews.go.com/US/wireStory/building-demolished-partially-collapses-nyc-dead-34853556)
 
 ### Related:
 

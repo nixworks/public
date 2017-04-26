@@ -7,9 +7,9 @@ A man stabbed two security guards to death with a knife and wounded 12 other peo
 
 ### Source:
 
-1. [China Post](http://www.chinapost.com.tw/china/local-news/beijing/2009/09/18/225242/Man-stabs.htm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hvHDpk9Y7f1LmT0RfNYMg3CxKzCAD9APIP9G0)
-3. [China Daily](http://www.chinadaily.com.cn/china/2009-09/18/content_8709175.htm)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hvHDpk9Y7f1LmT0RfNYMg3CxKzCAD9APIP9G0)
+2. [China Daily](http://www.chinadaily.com.cn/china/2009-09/18/content_8709175.htm)
+3. [China Post](http://www.chinapost.com.tw/china/local-news/beijing/2009/09/18/225242/Man-stabs.htm)
 
 ### Related:
 

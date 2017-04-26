@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/oct/18/pakistan-offensive-taliban)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-10/18/content_12262653.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-10/18/content_12262653.htm)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/18/pakistan-offensive-taliban)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Aid groups say the deal, to come into effect on Sunday, is &#039;ugly and illega
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-turkey-davutoglu-idUSKCN0WK0QQ)
-2. [CNN](http://www.cnn.com/2016/03/18/europe/eu-turkey-refugees/index.html)
-3. [Middle East Eye](http://www.middleeasteye.net/news/eu-agrees-migration-deal-position-put-turkey-545791271)
-4. [The Washington Post](https://www.washingtonpost.com/world/europe/europe-offers-deal-to-turkey-to-take-back-migrants/2016/03/18/809d80ba-ebab-11e5-bc08-3e03a5b41910_story.html)
-5. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/03/18/news/eu-will-reach-deal-with-turkey-says-eu-s-schulz/)
+1. [CNN](http://www.cnn.com/2016/03/18/europe/eu-turkey-refugees/index.html)
+2. [Middle East Eye](http://www.middleeasteye.net/news/eu-agrees-migration-deal-position-put-turkey-545791271)
+3. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/03/18/news/eu-will-reach-deal-with-turkey-says-eu-s-schulz/)
+4. [Reuters](http://www.reuters.com/article/us-europe-migrants-turkey-davutoglu-idUSKCN0WK0QQ)
+5. [The Washington Post](https://www.washingtonpost.com/world/europe/europe-offers-deal-to-turkey-to-take-back-migrants/2016/03/18/809d80ba-ebab-11e5-bc08-3e03a5b41910_story.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Brilliant Barcelona forward takes World Player prize for third time! Find out ho
 
 ### Source:
 
-1. [World Soccer](http://www.worldsoccer.com/features/lionel-messi-wins-world-soccer-player-of-the-year-award)
-2. [Marca](http://www.marca.com/2012/12/14/en/football/barcelona/1355508685.html)
+1. [Marca](http://www.marca.com/2012/12/14/en/football/barcelona/1355508685.html)
+2. [World Soccer](http://www.worldsoccer.com/features/lionel-messi-wins-world-soccer-player-of-the-year-award)
 
 ### Related:
 

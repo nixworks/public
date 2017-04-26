@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/US/10/11/plane.crash.ap/index.html)
-2. [CBS 2 New York](http://wcbstv.com/topstories/local_story_284145842.html)
+1. [CBS 2 New York](http://wcbstv.com/topstories/local_story_284145842.html)
+2. [CNN](http://www.cnn.com/2006/US/10/11/plane.crash.ap/index.html)
 3. [ESPN](http://sports.espn.go.com/mlb/news/story?id=2621860)
 4. [The New York Times](http://www.nytimes.com/aponline/nyregion/11wire-plane.html?hp&ex=1160625600&en=12537f67b1ec2ff5&ei=5094&partner=homepage)
 

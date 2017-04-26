@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://theenvelope.latimes.com/news/env-grammy-awards-2012-news-story,0,2521674.story)
+1. [Los Angeles Times](http://latimesblogs.latimes.com/music_blog/2012/02/grammy-awards-2012-song-of-the-year.html)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/showtracker/2012/02/grammy-awards-2012-what-time-on-tv.html)
-3. [Los Angeles Times](http://latimesblogs.latimes.com/music_blog/2012/02/grammy-awards-2012-song-of-the-year.html)
+3. [Los Angeles Times](http://theenvelope.latimes.com/news/env-grammy-awards-2012-news-story,0,2521674.story)
 
 ### Related:
 

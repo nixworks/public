@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Atlanta Journal-Constitution](http://politics.blog.ajc.com/2016/03/28/breaking-nathan-deal-will-veto-georgias-religious-liberty-bill/)
-2. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/03/28/georgia-governor-to-veto-religious-freedom-bill-criticized-as-anti-gay/?hpid=hp_rhp-top-table-main_georgia-1045am%3Ahomepage%2Fstory)
-3. [ESPN](http://espn.go.com/nfl/story/_/id/15082904/georgia-gov-nathan-deal-veto-house-bill-757-aiding-atlanta-falcons-super-bowl-hopes)
+1. [ESPN](http://espn.go.com/nfl/story/_/id/15082904/georgia-gov-nathan-deal-veto-house-bill-757-aiding-atlanta-falcons-super-bowl-hopes)
+2. [The Atlanta Journal-Constitution](http://politics.blog.ajc.com/2016/03/28/breaking-nathan-deal-will-veto-georgias-religious-liberty-bill/)
+3. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/03/28/georgia-governor-to-veto-religious-freedom-bill-criticized-as-anti-gay/?hpid=hp_rhp-top-table-main_georgia-1045am%3Ahomepage%2Fstory)
 
 ### Related:
 

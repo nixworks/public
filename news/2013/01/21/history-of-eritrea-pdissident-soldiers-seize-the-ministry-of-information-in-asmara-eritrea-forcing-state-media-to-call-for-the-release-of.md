@@ -8,8 +8,8 @@ Eritrean soldiers surround the ministry of information as state TV is taken off 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21127529)
-2. [New York Times](http://www.nytimes.com/2013/01/22/world/africa/coup-attempt-fails-in-eritrea.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/201312115058356377.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/201312115058356377.html)
+3. [New York Times](http://www.nytimes.com/2013/01/22/world/africa/coup-attempt-fails-in-eritrea.html)
 
 ### Related:
 

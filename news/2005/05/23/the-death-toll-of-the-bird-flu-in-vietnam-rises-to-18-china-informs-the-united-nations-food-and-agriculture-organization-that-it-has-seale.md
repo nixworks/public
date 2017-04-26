@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HAN290447.htm)
-2. [People's Daily](http://english.people.com.cn/200505/24/eng20050524_186495.html)
+1. [People's Daily](http://english.people.com.cn/200505/24/eng20050524_186495.html)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HAN290447.htm)
 
 ### Related:
 

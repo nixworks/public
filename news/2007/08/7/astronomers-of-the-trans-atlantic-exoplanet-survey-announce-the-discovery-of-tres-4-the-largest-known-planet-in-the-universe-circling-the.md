@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6934603.stm)
-2. [AP via IHT](http://www.iht.com/articles/ap/2007/08/07/healthscience/NA-SCI-US-Planet-Discovery.php)
+1. [AP via IHT](http://www.iht.com/articles/ap/2007/08/07/healthscience/NA-SCI-US-Planet-Discovery.php)
+2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6934603.stm)
 
 ### Related:
 

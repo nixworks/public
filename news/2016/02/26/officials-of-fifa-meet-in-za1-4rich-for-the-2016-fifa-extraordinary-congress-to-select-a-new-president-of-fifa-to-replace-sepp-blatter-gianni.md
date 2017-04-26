@@ -7,8 +7,8 @@ Gianni Infantino polls the most votes in round one of the Fifa presidential elec
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/sport/football/35654894)
-2. [Los Angeles Times](http://www.latimes.com/sports/sportsnow/la-sp-sn-fifa-election-20160226-story.html)
+1. [Los Angeles Times](http://www.latimes.com/sports/sportsnow/la-sp-sn-fifa-election-20160226-story.html)
+2. [BBC](http://www.bbc.com/sport/football/35654894)
 
 ### Related:
 

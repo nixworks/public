@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Hani](http://english.hani.co.kr/arti/english_edition/e_international/298843.html)
-2. [Phoenix TV Hong Kong](http://news.ifeng.com/world/1/200807/0716_1393_656882.shtml)
+1. [Phoenix TV Hong Kong](http://news.ifeng.com/world/1/200807/0716_1393_656882.shtml)
+2. [Hindu](http://www.hindu.com/2008/07/16/stories/2008071655771600.htm)
 3. [Chosun](http://english.chosun.com/w21data/html/news/200807/200807160018.html)
-4. [Hindu](http://www.hindu.com/2008/07/16/stories/2008071655771600.htm)
+4. [Hani](http://english.hani.co.kr/arti/english_edition/e_international/298843.html)
 
 ### Related:
 

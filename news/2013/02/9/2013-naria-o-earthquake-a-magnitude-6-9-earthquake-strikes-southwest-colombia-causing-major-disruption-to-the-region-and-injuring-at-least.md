@@ -8,8 +8,8 @@ A deep-magnitude 7.0 earthquake rocked parts of Colombia Saturday, the U.S. Geol
 ### Source:
 
 1. [El Tiempo](http://www.eltiempo.com/colombia/otraszonas/sismo-en-colombia-nario_12586641-4)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc000f4ij.php)
-3. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/02/09/earthquake-colombia/1904581/)
+2. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/02/09/earthquake-colombia/1904581/)
+3. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc000f4ij.php)
 
 ### Related:
 

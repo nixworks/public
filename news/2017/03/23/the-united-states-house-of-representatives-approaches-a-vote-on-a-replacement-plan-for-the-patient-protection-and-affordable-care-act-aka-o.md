@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2017/03/23/politics/house-health-care-vote/)
-2. [CNN](http://www.cnn.com/2017/03/22/politics/house-health-care-bill/)
+1. [CNN](http://www.cnn.com/2017/03/22/politics/house-health-care-bill/)
+2. [CNN](http://www.cnn.com/2017/03/23/politics/house-health-care-vote/)
 
 ### Related:
 

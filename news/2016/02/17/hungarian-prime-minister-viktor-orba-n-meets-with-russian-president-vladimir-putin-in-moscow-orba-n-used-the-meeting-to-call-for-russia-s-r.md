@@ -7,8 +7,8 @@ Hungarian Prime Minister Viktor Orban, on a visit to Moscow, called for better r
 
 ### Source:
 
-1. [RT](https://www.rt.com/news/332749-putin-orban-meeting-moscow/)
-2. [Reuters](http://www.reuters.com/article/us-russia-hungary-eu-idUSKCN0VQ1AF)
+1. [Reuters](http://www.reuters.com/article/us-russia-hungary-eu-idUSKCN0VQ1AF)
+2. [RT](https://www.rt.com/news/332749-putin-orban-meeting-moscow/)
 
 ### Related:
 

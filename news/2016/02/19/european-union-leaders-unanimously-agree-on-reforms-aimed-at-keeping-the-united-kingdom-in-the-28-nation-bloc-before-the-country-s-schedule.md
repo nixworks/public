@@ -7,8 +7,8 @@ David Cameron hailed a landmark deal on Friday he said gave Britain &quot;specia
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/02/19/eu-summit-brexit-migrants/80597830/)
-2. [Reuters](http://www.reuters.com/article/us-britain-eu-idUSKCN0VS153)
+1. [Reuters](http://www.reuters.com/article/us-britain-eu-idUSKCN0VS153)
+2. [USA Today](http://www.usatoday.com/story/news/world/2016/02/19/eu-summit-brexit-migrants/80597830/)
 
 ### Related:
 

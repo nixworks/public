@@ -7,8 +7,8 @@ Cypriot Finance Minister Michalis Sarris resigns after completing talks on a con
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-22005240)
-2. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10728219)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10728219)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-22005240)
 
 ### Related:
 

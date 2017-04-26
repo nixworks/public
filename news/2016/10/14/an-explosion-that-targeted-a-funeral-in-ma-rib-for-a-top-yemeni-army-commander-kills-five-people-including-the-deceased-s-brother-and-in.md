@@ -7,8 +7,8 @@ Yemeni officials say an explosion has ripped through a funeral held for a top ar
 
 ### Source:
 
-1. [The Indian Express](http://indianexpress.com/article/world/world-news/explosion-kills-at-least-four-at-funeral-in-yemen-marib-sources-3082998/)
-2. [AP via Fox News](http://www.foxnews.com/world/2016/10/14/blast-hits-funeral-army-officer-in-yemen-5-killed.html)
+1. [AP via Fox News](http://www.foxnews.com/world/2016/10/14/blast-hits-funeral-army-officer-in-yemen-5-killed.html)
+2. [The Indian Express](http://indianexpress.com/article/world/world-news/explosion-kills-at-least-four-at-funeral-in-yemen-marib-sources-3082998/)
 
 ### Related:
 

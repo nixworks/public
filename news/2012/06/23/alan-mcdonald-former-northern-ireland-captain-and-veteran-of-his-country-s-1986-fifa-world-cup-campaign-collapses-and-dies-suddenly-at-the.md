@@ -7,9 +7,9 @@ Former Northern Ireland and Queens Park Rangers captain Alan McDonald dies sudde
 
 ### Source:
 
-1. [Sky Sports](http://www1.skysports.com/football/news/11661/7837794/)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/18562229)
 2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1113127/former-qpr-captain-alan-mcdonald-dies-aged-48?campaign=rss&source=soccernet&cc=5739)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/18562229)
+3. [Sky Sports](http://www1.skysports.com/football/news/11661/7837794/)
 
 ### Related:
 

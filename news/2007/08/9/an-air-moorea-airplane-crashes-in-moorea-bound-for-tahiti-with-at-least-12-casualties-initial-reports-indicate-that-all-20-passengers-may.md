@@ -7,8 +7,8 @@ Rescue authorities in French Polynesia are at the scene of a commuter plane cras
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/story/0,23599,22220837-2,00.html)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/10/2001494.htm)
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/10/2001494.htm)
+2. [News Limited](http://www.news.com.au/story/0,23599,22220837-2,00.html)
 
 ### Related:
 

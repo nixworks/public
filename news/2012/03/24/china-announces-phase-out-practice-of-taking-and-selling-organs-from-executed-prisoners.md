@@ -7,9 +7,9 @@ A top Chinese health official says China will phase out the practice of taking o
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2012/03/24/world/asia/china-moves-to-stop-transplants-of-organs-after-executions.html?_r=1)
+1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304724404577298661625345898.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/46849651/ns/world_news-asia_pacific/)
-3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304724404577298661625345898.html)
+3. [New York Times](http://www.nytimes.com/2012/03/24/world/asia/china-moves-to-stop-transplants-of-organs-after-executions.html?_r=1)
 
 ### Related:
 

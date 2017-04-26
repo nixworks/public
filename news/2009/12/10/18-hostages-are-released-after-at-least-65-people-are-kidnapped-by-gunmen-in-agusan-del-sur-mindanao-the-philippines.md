@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20091210-241200/18-hostages-freed-2-escape-in-Agusan-kidnapping)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/10/philippines.kidnapping/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/10/philippines.kidnapping/)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20091210-241200/18-hostages-freed-2-escape-in-Agusan-kidnapping)
 
 ### Related:
 

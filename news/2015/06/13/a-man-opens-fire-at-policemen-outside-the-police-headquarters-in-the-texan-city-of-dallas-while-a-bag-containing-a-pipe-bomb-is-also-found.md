@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/06/13/us/dallas-police-headquarters-shooting/)
-2. [AP](http://hosted.ap.org/dynamic/stories/U/US_DALLAS_POLICE_HEADQUARTERS_SHOOTING?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_DALLAS_POLICE_HEADQUARTERS_SHOOTING?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [CNN](http://edition.cnn.com/2015/06/13/us/dallas-police-headquarters-shooting/)
 
 ### Related:
 

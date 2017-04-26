@@ -7,10 +7,10 @@ People in Southern Sudan vote in a historic referendum that will decide whether 
 
 ### Source:
 
-1. [The Observer](http://www.guardian.co.uk/world/2011/jan/09/south-sudan-independence-vote)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12144675)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111944521287154.html)
-4. [The Global Herald](http://theglobalherald.com/southern-sudan-to-vote-on-secession-on-9th-january-2011/6035/)
+1. [The Global Herald](http://theglobalherald.com/southern-sudan-to-vote-on-secession-on-9th-january-2011/6035/)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111944521287154.html)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-12144675)
+4. [The Observer](http://www.guardian.co.uk/world/2011/jan/09/south-sudan-independence-vote)
 
 ### Related:
 

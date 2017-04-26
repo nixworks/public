@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5j01RUT0XxpP3jWqmATqsS9LBHfOgD9BNFVM80)
-2. [CNN](http://edition.cnn.com/2009/WORLD/africa/11/02/un.aid.congo/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/africa/11/02/un.aid.congo/)
+2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5j01RUT0XxpP3jWqmATqsS9LBHfOgD9BNFVM80)
 
 ### Related:
 

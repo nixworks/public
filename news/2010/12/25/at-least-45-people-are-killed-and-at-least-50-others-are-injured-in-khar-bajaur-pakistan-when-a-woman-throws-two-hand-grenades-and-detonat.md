@@ -7,9 +7,9 @@ At least 43 people are killed by a female suicide bomber who targeted a crowd re
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Suspected-Suicide-Bomber-Kills-40-in-Pakistan-112448854.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12078248)
-3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=200936)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12078248)
+2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=200936)
+3. [Voice of America](http://www.voanews.com/english/news/Suspected-Suicide-Bomber-Kills-40-in-Pakistan-112448854.html)
 
 ### Related:
 

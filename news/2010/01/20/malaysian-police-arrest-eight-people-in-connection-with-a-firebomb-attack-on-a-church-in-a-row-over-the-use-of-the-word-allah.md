@@ -7,9 +7,9 @@ Police say eight men arrested over recent spate of attacks on Christian churches
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012081555598103.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g-47nhFI6eLfZT3MJQhdf2pDNBfg)
-3. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=469695)
+1. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=469695)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012081555598103.html)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g-47nhFI6eLfZT3MJQhdf2pDNBfg)
 
 ### Related:
 

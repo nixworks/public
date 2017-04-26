@@ -8,8 +8,8 @@ Two helicopters collide in mid-air over northern Argentina, killing 10 people in
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-31809231)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/argentina/11460541/French-Olympians-filming-reality-TV-survival-show-killed-in-helicopter-crash-in-Argentina.html)
-3. [AP](http://bigstory.ap.org/article/cecd6a53c4ad45a7bff911bf608ac3a5/2-helicopters-crash-northwest-argentina-10-dead)
+2. [AP](http://bigstory.ap.org/article/cecd6a53c4ad45a7bff911bf608ac3a5/2-helicopters-crash-northwest-argentina-10-dead)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/argentina/11460541/French-Olympians-filming-reality-TV-survival-show-killed-in-helicopter-crash-in-Argentina.html)
 
 ### Related:
 

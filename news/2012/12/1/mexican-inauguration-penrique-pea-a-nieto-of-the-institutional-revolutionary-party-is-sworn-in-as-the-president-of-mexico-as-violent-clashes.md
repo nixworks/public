@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Associated Press](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2012-12-01-Mexico-Inauguration/id-5c671c71839b412886c0277ea116c41b)
-2. [ElEconomista](http://eleconomista.com.mx/sociedad/2012/12/01/reportan-muerto-inmediaciones-san-lazaro)
+1. [ElEconomista](http://eleconomista.com.mx/sociedad/2012/12/01/reportan-muerto-inmediaciones-san-lazaro)
+2. [Associated Press](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2012-12-01-Mexico-Inauguration/id-5c671c71839b412886c0277ea116c41b)
 
 ### Related:
 

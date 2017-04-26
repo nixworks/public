@@ -7,8 +7,8 @@ Police have conducted mass counter terrorism raids across Melbourne.
 
 ### Source:
 
-1. [The Age](http://www.theage.com.au/national/counterterrorism-raids-across-melbourne-20090804-e7i5.html)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Australia-Police-Raid-Melbourne-Homes-In-Anti-Terrorism-Operation-On-Suspected-Suicide-Bombers/Article/200908115353288?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15353288_Australia%3A_Police_Raid_Melbourne_Homes_In_Anti_Terrorism_Operation_On_Suspected_Suicide_Bombers)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Australia-Police-Raid-Melbourne-Homes-In-Anti-Terrorism-Operation-On-Suspected-Suicide-Bombers/Article/200908115353288?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15353288_Australia%3A_Police_Raid_Melbourne_Homes_In_Anti_Terrorism_Operation_On_Suspected_Suicide_Bombers)
+2. [The Age](http://www.theage.com.au/national/counterterrorism-raids-across-melbourne-20090804-e7i5.html)
 3. [The Hindu](http://www.hindu.com/thehindu/holnus/000200908041321.htm)
 
 ### Related:

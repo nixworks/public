@@ -7,8 +7,8 @@ Spain is to get up to 100bn euros ($125bn; £80bn) in loans from eurozone funds 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/video/europe/2012/06/201268114113214876.html)
-2. [BBC](http://www.bbc.co.uk/news/business-18382659)
+1. [BBC](http://www.bbc.co.uk/news/business-18382659)
+2. [Al Jazeera](http://www.aljazeera.com/video/europe/2012/06/201268114113214876.html)
 
 ### Related:
 

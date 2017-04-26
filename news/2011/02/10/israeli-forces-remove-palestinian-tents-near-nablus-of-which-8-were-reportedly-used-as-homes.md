@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Arab News](http://arabnews.com/middleeast/article255266.ece)
-2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=207539)
+1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=207539)
+2. [Arab News](http://arabnews.com/middleeast/article255266.ece)
 
 ### Related:
 

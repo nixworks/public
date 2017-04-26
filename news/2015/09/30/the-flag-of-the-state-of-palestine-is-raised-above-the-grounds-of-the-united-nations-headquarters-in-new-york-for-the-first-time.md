@@ -7,8 +7,8 @@ U.N. members voted earlier this month to allow the Palestinian and Vatican flags
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/sep/30/palestinian-flag-raised-un-statehood)
-2. [Newsweek](http://www.newsweek.com/palestinian-flag-raised-united-nations-first-time-378466)
+1. [Newsweek](http://www.newsweek.com/palestinian-flag-raised-united-nations-first-time-378466)
+2. [The Guardian](http://www.theguardian.com/world/2015/sep/30/palestinian-flag-raised-un-statehood)
 
 ### Related:
 

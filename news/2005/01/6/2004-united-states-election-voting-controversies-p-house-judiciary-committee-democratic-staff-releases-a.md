@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [31-267] in the [[United States House of Representatives|House]]; the electoral vote for the [[President of the United States|presidency]] is officially certified as 286 for [[Republican Party (United States](http://clerk.house.gov/evs/2005/roll007.xml)
-2. [CNN](http://www.cnn.com/2005/ALLPOLITICS/01/06/electoral.vote/)
-3. [1-74] (Yea-Nay](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=1&vote=00001)
-4. [100 page report] on the Ohio election. ¶ For the first time since 1877, the [[Electoral College (United States](http://miamedia.com/news/2005-01-05.house.judiciary.democrats.report.pdf)
+1. [CNN](http://www.cnn.com/2005/ALLPOLITICS/01/06/electoral.vote/)
+2. [31-267] in the [[United States House of Representatives|House]]; the electoral vote for the [[President of the United States|presidency]] is officially certified as 286 for [[Republican Party (United States](http://clerk.house.gov/evs/2005/roll007.xml)
+3. [100 page report] on the Ohio election. ¶ For the first time since 1877, the [[Electoral College (United States](http://miamedia.com/news/2005-01-05.house.judiciary.democrats.report.pdf)
+4. [1-74] (Yea-Nay](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=1&vote=00001)
 
 ### Related:
 

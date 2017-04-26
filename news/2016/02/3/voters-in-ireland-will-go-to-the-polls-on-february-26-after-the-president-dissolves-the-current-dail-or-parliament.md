@@ -7,8 +7,8 @@ IRELAND will hold a general election on February 26, Prime Minister Enda Kenny h
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-35480566)
-2. [AAP via News Limited](http://www.news.com.au/world/breaking-news/irish-prepare-to-go-to-the-polls/news-story/8c2815cae1106888ea70ba8252e15e54?from=public_rss)
+1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/irish-prepare-to-go-to-the-polls/news-story/8c2815cae1106888ea70ba8252e15e54?from=public_rss)
+2. [BBC](http://www.bbc.com/news/world-europe-35480566)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFN1210475220100612)
-2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010612801916789.html)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010612801916789.html)
+2. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFN1210475220100612)
 
 ### Related:
 

@@ -8,9 +8,9 @@ A court in Romania rules out a pension cut demanded by the government as part of
 ### Source:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5732913,00.html)
-2. [France24](http://www.france24.com/en/20100625-romania-prepares-options-cut-deficit-pm)
-3. [Reuters](http://www.reuters.com/article/idUSBUC00372420100625)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10421118.stm)
+2. [Reuters](http://www.reuters.com/article/idUSBUC00372420100625)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10421118.stm)
+4. [France24](http://www.france24.com/en/20100625-romania-prepares-options-cut-deficit-pm)
 
 ### Related:
 

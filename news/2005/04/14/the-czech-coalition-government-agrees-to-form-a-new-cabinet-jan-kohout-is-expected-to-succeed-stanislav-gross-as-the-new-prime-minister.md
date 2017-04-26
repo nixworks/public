@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a6.qpWR7XwL8&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aH1PLVExi3Hc&refer=europe)
 2. [CNN](http://edition.cnn.com/2005/WORLD/europe/04/13/czech.politics.reut/)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aH1PLVExi3Hc&refer=europe)
-4. [Prague Post](http://www.praguepost.com/P03/2005/Art/0407/news1.php)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/4442987.stm)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a6.qpWR7XwL8&refer=europe)
+4. [BBC](http://news.bbc.co.uk/2/hi/europe/4442987.stm)
+5. [Prague Post](http://www.praguepost.com/P03/2005/Art/0407/news1.php)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Former Ambassador Robinson told Foreign Office &#39;if Israelis are to be destro
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/stories/2010/12/30/3103960.htm?section=justin)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j_8Hd9bETEgyGU262HdVZ-6P7Mmw?docId=CNG.9205da04450c60fdfee82a0a332188cf.51)
-3. [Morning Star](http://www.morningstaronline.co.uk/index.php/news/content/view/full/99316)
-4. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=201251)
-5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4007061,00.html)
+1. [Morning Star](http://www.morningstaronline.co.uk/index.php/news/content/view/full/99316)
+2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=201251)
+3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j_8Hd9bETEgyGU262HdVZ-6P7Mmw?docId=CNG.9205da04450c60fdfee82a0a332188cf.51)
+4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4007061,00.html)
+5. [ABC News](http://www.abc.net.au/news/stories/2010/12/30/3103960.htm?section=justin)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A senior Indian army officer dies in a gun battle with militants in Indian-admin
 
 ### Source:
 
-1. [People's Daily](http://english.people.com.cn/90001/90777/90851/7066268.html)
-2. [The Times of India](http://timesofindia.indiatimes.com/India/Major-killed-Colonel-injured-in-gunbattle/articleshow/6169556.cms)
+1. [The Times of India](http://timesofindia.indiatimes.com/India/Major-killed-Colonel-injured-in-gunbattle/articleshow/6169556.cms)
+2. [People's Daily](http://english.people.com.cn/90001/90777/90851/7066268.html)
 3. [BBC](http://www.bbc.co.uk/news/10625633)
 4. [Indian Express](http://www.indianexpress.com/news/army-major-killed-in-encounter-with-let/646423/)
 

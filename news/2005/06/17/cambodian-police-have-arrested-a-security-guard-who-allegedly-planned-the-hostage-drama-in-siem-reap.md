@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-17T054732Z_01_N17392039_RTRIDST_0_INTERNATIONAL-CAMBODIA-HOSTAGES-DC.XML)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/153220/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/153220/1/.html)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-17T054732Z_01_N17392039_RTRIDST_0_INTERNATIONAL-CAMBODIA-HOSTAGES-DC.XML)
 
 ### Related:
 

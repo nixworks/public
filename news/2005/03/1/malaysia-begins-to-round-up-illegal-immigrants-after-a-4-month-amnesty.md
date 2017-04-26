@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4306863.stm)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/135021/1/.html)
-3. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7766453)
-4. [ABC Asia](http://abcasiapacific.com/news/stories/asiapacific_stories_1312999.htm)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/135021/1/.html)
+2. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7766453)
+3. [ABC Asia](http://abcasiapacific.com/news/stories/asiapacific_stories_1312999.htm)
+4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4306863.stm)
 
 ### Related:
 

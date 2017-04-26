@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/politics/view/dpj-to-ok-leadership-lineup-ahead-of-cabinet-reshuffle)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11339074)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11339074)
+2. [Japan Today](http://www.japantoday.com/category/politics/view/dpj-to-ok-leadership-lineup-ahead-of-cabinet-reshuffle)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_651403.html)
-2. [Vietnam Net](http://english.vietnamnet.vn/en/society/6586/nine-die-in-car-train-crash.html)
+1. [Vietnam Net](http://english.vietnamnet.vn/en/society/6586/nine-die-in-car-train-crash.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_651403.html)
 
 ### Related:
 

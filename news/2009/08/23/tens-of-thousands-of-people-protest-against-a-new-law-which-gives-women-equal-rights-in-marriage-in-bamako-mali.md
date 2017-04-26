@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8216568.stm)
-2. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/mali:-malian-muslims-reject-new-family-code-2009082433848.html)
+1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/mali:-malian-muslims-reject-new-family-code-2009082433848.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8216568.stm)
 
 ### Related:
 

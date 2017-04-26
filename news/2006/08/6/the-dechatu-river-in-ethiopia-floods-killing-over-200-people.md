@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/5250386.stm)
-2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldnews&storyID=2006-08-06T170408Z_01_L06737291_RTRUKOC_0_US-ETHIOPIA-FLOODS.xml)
+1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldnews&storyID=2006-08-06T170408Z_01_L06737291_RTRUKOC_0_US-ETHIOPIA-FLOODS.xml)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/5250386.stm)
 
 ### Related:
 

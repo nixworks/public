@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-06/15/c_13350414.htm)
-2. [Strait Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_540539.html)
+1. [Strait Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_540539.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-06/15/c_13350414.htm)
 
 ### Related:
 

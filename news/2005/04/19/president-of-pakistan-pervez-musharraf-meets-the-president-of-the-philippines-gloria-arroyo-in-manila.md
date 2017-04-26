@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Pakistan Times](http://pakistantimes.net/2005/04/19/top.htm)
-2. [Sun Star](http://www.sunstar.com.ph/static/net/2005/04/19/musharraf.arrives.in.manila.to.expand.cooperation.vs.terror.(11.00.a.m.).html)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4461021.stm)
-4. [Manila Bulletin](http://www.mb.com.ph/OPED2005041832866.html)
+1. [Sun Star](http://www.sunstar.com.ph/static/net/2005/04/19/musharraf.arrives.in.manila.to.expand.cooperation.vs.terror.(11.00.a.m.).html)
+2. [Manila Bulletin](http://www.mb.com.ph/OPED2005041832866.html)
+3. [Pakistan Times](http://pakistantimes.net/2005/04/19/top.htm)
+4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4461021.stm)
 
 ### Related:
 

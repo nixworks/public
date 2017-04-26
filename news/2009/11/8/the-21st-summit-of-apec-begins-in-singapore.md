@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_452003.html)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1016743/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1016743/1/.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_452003.html)
 
 ### Related:
 

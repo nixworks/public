@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC Sports](http://scores.nbcsports.com/cbk/boxscore.asp?gamecode=201604040413&utm_network=twitter&utm_post=5521957&utm_source=TW%20%40NBCSports&utm_tags=srm%5Bcollege%20basketball%5D)
-2. [Hall of Fame press release](http://www.hoophall.com/news/2016/4/4/naismith-memorial-basketball-hall-of-fame-class-of-2016-anno.html)
+1. [Hall of Fame press release](http://www.hoophall.com/news/2016/4/4/naismith-memorial-basketball-hall-of-fame-class-of-2016-anno.html)
+2. [NBC Sports](http://scores.nbcsports.com/cbk/boxscore.asp?gamecode=201604040413&utm_network=twitter&utm_post=5521957&utm_source=TW%20%40NBCSports&utm_tags=srm%5Bcollege%20basketball%5D)
 
 ### Related:
 

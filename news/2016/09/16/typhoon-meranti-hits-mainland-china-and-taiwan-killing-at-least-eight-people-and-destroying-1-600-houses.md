@@ -7,8 +7,8 @@ At least eight people have been reported dead after a powerful typhoon lashed pa
 
 ### Source:
 
-1. [Rappler](http://www.rappler.com/nation/146451-batanes-state-calamity-typhoon-ferdie)
-2. [The Wall Street Journal](http://www.wsj.com/articles/two-dead-dozens-hurt-after-typhoon-strikes-taiwan-china-1473953037)
+1. [The Wall Street Journal](http://www.wsj.com/articles/two-dead-dozens-hurt-after-typhoon-strikes-taiwan-china-1473953037)
+2. [Rappler](http://www.rappler.com/nation/146451-batanes-state-calamity-typhoon-ferdie)
 3. [AP via ABC News](http://abcnews.go.com/International/wireStory/people-dead-typhoon-hit-china-taiwan-42130993)
 
 ### Related:

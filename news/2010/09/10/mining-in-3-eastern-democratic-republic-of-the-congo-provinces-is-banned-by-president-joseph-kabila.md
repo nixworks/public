@@ -7,8 +7,8 @@ President Kabila bans mining in three provinces of DR Congo to allow the governm
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h1UxO5K65IZ8poO_1jJa6FKtVIPQ)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11269360)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11269360)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h1UxO5K65IZ8poO_1jJa6FKtVIPQ)
 
 ### Related:
 

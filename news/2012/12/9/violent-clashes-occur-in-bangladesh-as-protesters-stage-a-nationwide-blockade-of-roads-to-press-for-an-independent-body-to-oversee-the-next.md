@@ -7,8 +7,8 @@ Violent clashes erupt in Bangladesh as protesters stage a nationwide blockade of
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/09/us-bangladesh-politics-idUSBRE8B801U20121209)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-20657107)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-20657107)
+2. [Reuters](http://www.reuters.com/article/2012/12/09/us-bangladesh-politics-idUSBRE8B801U20121209)
 
 ### Related:
 

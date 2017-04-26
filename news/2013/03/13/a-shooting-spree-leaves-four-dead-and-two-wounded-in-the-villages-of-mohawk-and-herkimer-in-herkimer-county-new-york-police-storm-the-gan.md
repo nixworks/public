@@ -7,12 +7,12 @@ Local law enforcement and state police were still on scene Wednesday night.
 
 ### Source:
 
-1. [Syracuse.com](http://www.syracuse.com/news/index.ssf/2013/03/north_main_street_at_a_standst.html)
-2. [MSN News](http://todaynews.today.com/_news/2013/03/15/17327085-heroic-fbi-dog-to-be-memorialized-after-being-killed-by-gunman)
-3. [AP via ABC News](http://abclocal.go.com/wabc/story?section=news/national_world&id=9025734)
+1. [MSN News](http://todaynews.today.com/_news/2013/03/15/17327085-heroic-fbi-dog-to-be-memorialized-after-being-killed-by-gunman)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/13/4-killed-shooting-herkimer-county-new-york-mohawk-herkimer/1984367/)
+3. [Observer-Dispatch](http://www.uticaod.com/police_fire/x930813837/2-people-reportedly-shot-at-Herkimer-car-wash)
 4. [WKTV](http://www.wktv.com/news/valley-shooting/Multiple-injuries-reported-after-shootings-in-Herkimer-and-Mohawk-197777521.html)
-5. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/13/4-killed-shooting-herkimer-county-new-york-mohawk-herkimer/1984367/)
-6. [Observer-Dispatch](http://www.uticaod.com/police_fire/x930813837/2-people-reportedly-shot-at-Herkimer-car-wash)
+5. [AP via ABC News](http://abclocal.go.com/wabc/story?section=news/national_world&id=9025734)
+6. [Syracuse.com](http://www.syracuse.com/news/index.ssf/2013/03/north_main_street_at_a_standst.html)
 
 ### Related:
 

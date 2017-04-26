@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5673M820090708)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-07/08/content_11674664.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8139065.stm)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-07/08/content_11674664.htm)
+3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5673M820090708)
 
 ### Related:
 

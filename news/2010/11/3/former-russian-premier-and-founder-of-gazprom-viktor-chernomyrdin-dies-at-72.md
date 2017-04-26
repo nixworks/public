@@ -7,12 +7,12 @@ Viktor Chernomyrdin, who served under Boris Yeltsin as Russian prime minister du
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/11/04/world/europe/04chernomyrdin.html)
-2. [RT](http://rt.com/Politics/2010-11-03/former-pm-chernomyrdin-dies.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ghh1Ok2_WibBnohMpbmvI51clJkw?docId=CNG.6fb684b4ae91d9e1fbe4ebe8eae0b22a.1d1)
-4. [The Guardian](http://www.guardian.co.uk/world/2010/nov/03/former-russian-prime-minister-dies)
-5. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704462704575591602315511546.html)
-6. [BBC](http://www.bbc.co.uk/news/world-europe-11682573)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ghh1Ok2_WibBnohMpbmvI51clJkw?docId=CNG.6fb684b4ae91d9e1fbe4ebe8eae0b22a.1d1)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11682573)
+3. [RT](http://rt.com/Politics/2010-11-03/former-pm-chernomyrdin-dies.html)
+4. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704462704575591602315511546.html)
+5. [The New York Times](http://www.nytimes.com/2010/11/04/world/europe/04chernomyrdin.html)
+6. [The Guardian](http://www.guardian.co.uk/world/2010/nov/03/former-russian-prime-minister-dies)
 
 ### Related:
 

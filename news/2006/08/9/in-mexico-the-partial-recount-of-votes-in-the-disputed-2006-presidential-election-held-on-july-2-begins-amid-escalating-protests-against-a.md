@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2006-08-09-voa20.cfm)
-2. [CBC](http://www.cbc.ca/world/story/2006/08/09/mexico-recount.html)
+1. [CBC](http://www.cbc.ca/world/story/2006/08/09/mexico-recount.html)
+2. [VOA](http://www.voanews.com/english/2006-08-09-voa20.cfm)
 
 ### Related:
 

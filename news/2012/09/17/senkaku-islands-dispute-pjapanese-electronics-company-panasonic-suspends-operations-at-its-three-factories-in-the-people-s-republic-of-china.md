@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AP via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120917p2g00m0dm074000c.html)
-2. [Bloomberg via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120917x3.html)
-3. [CNN](http://edition.cnn.com/2012/09/17/world/asia/china-japan-islands-dispute/index.html?eref=edition)
-4. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120917p2g00m0fp079000c.html)
+2. [CNN](http://edition.cnn.com/2012/09/17/world/asia/china-japan-islands-dispute/index.html?eref=edition)
+3. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120917p2g00m0fp079000c.html)
+4. [Bloomberg via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120917x3.html)
 
 ### Related:
 

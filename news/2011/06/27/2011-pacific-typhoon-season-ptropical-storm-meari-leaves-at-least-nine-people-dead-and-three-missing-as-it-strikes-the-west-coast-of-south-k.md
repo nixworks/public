@@ -7,8 +7,8 @@ Tropical Storm Meari raked the west coast of South Korea over the weekend, leavi
 
 ### Source:
 
-1. [AP via ''Boston Globe](http://www.boston.com/news/world/asia/articles/2011/06/26/storms_kills_17_people_in_northern_vietnam/)
-2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/south.korea.tropical.storm/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/south.korea.tropical.storm/index.html)
+2. [AP via ''Boston Globe](http://www.boston.com/news/world/asia/articles/2011/06/26/storms_kills_17_people_in_northern_vietnam/)
 
 ### Related:
 

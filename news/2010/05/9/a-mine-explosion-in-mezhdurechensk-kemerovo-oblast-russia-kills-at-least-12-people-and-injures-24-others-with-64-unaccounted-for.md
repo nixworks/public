@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TVNZ](http://tvnz.co.nz/world-news/least-12-dead-in-russian-coal-mine-blast-3533652)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8670470.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8670470.stm)
+2. [TVNZ](http://tvnz.co.nz/world-news/least-12-dead-in-russian-coal-mine-blast-3533652)
 
 ### Related:
 

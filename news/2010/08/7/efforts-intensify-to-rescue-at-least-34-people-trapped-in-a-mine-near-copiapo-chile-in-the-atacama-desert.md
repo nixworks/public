@@ -7,10 +7,10 @@ At least 34 people trapped in collapsed mine near Copiapo city in the Atacama de
 
 ### Source:
 
-1. [news.com.au](http://www.news.com.au/world/no-contact-yet-with-34-trapped-in-chilean-gold-mine-but-hope-remains/story-e6frfkyi-1225902569673)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201086235533819605.html)
 2. [People's Daily](http://english.people.com.cn/90001/90777/90852/7096689.html)
-3. [Bangkok Post](http://www.bangkokpost.com/news/world/189985/in-chile-desperate-search-continues-for-trapped-miners)
-4. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201086235533819605.html)
+3. [news.com.au](http://www.news.com.au/world/no-contact-yet-with-34-trapped-in-chilean-gold-mine-but-hope-remains/story-e6frfkyi-1225902569673)
+4. [Bangkok Post](http://www.bangkokpost.com/news/world/189985/in-chile-desperate-search-continues-for-trapped-miners)
 
 ### Related:
 

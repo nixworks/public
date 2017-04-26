@@ -7,10 +7,10 @@ The number of people known to have been killed by floods in north-west Pakistan 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10832166)
-2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108113833370619.html)
-3. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-sends-aid-to-floodhit-pakistan-20100802-111oc.html)
-4. [The Nation](http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/Politics/01-Aug-2010/Flood-toll-nears-900-as-cholera-emerges-in-KP)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-sends-aid-to-floodhit-pakistan-20100802-111oc.html)
+2. [The Nation](http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/Politics/01-Aug-2010/Flood-toll-nears-900-as-cholera-emerges-in-KP)
+3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108113833370619.html)
+4. [BBC](http://www.bbc.co.uk/news/world-south-asia-10832166)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Photos of protests in Gabon emerge after election results were released Wednesda
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-gabon-election-idUSKCN1160DT?il=0)
-2. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/08/31/protesters-in-gabon-burn-parliament-building-amid-allegations-of-stolen-election/)
+1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/08/31/protesters-in-gabon-burn-parliament-building-amid-allegations-of-stolen-election/)
+2. [Reuters](http://www.reuters.com/article/us-gabon-election-idUSKCN1160DT?il=0)
 
 ### Related:
 

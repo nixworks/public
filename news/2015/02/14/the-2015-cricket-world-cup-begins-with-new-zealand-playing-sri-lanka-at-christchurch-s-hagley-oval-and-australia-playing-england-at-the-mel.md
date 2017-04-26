@@ -7,8 +7,8 @@ Hosts get their campaign off to flying start thanks to Corey Anderson’s 75 off
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/sport/live/2015/feb/13/new-zealand-v-sri-lanka-cricket-world-cup-live)
-2. [ABC News Australia](http://www.abc.net.au/news/2015-02-14/bailey-wants-aggressive-australia-againts-england/6097788)
+1. [ABC News Australia](http://www.abc.net.au/news/2015-02-14/bailey-wants-aggressive-australia-againts-england/6097788)
+2. [The Guardian](http://www.theguardian.com/sport/live/2015/feb/13/new-zealand-v-sri-lanka-cricket-world-cup-live)
 
 ### Related:
 

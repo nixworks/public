@@ -7,8 +7,8 @@ A number of government websites replaced with messages on how to circumvent inte
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/04/20124564229864622.html)
-2. [AP via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0405/breaking39.html)
+1. [AP via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0405/breaking39.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/04/20124564229864622.html)
 
 ### Related:
 

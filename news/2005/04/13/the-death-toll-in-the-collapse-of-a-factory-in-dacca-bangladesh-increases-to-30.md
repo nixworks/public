@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Hindu](http://www.hindu.com/thehindu/holnus/003200504122066.htm)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DHA174160.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DHA174160.htm)
+2. [The Hindu](http://www.hindu.com/thehindu/holnus/003200504122066.htm)
 
 ### Related:
 

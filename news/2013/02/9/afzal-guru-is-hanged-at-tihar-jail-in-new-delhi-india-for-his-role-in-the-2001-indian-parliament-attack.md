@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2013/02/08/india-hangs-kashmiri-man-convicted-deadly-2001-attack-on-parliament/)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-21392156)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-21392156)
+2. [Fox News](http://www.foxnews.com/world/2013/02/08/india-hangs-kashmiri-man-convicted-deadly-2001-attack-on-parliament/)
 3. [CNN](http://edition.cnn.com/2013/02/09/world/asia/india-execution)
 
 ### Related:

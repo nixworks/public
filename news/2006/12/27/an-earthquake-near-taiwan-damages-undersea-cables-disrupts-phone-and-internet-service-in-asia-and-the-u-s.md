@@ -8,8 +8,8 @@ Internet connections at some banks, companies and government offices in South Ko
 ### Source:
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?view=CN&storyID=2006-12-27T070534Z_01_BNG138257_RTRIDST_0_PRESS-DIGEST-WSJ.XML&rpc=66&type=qcna)
-2. [MSNBC](http://www.msnbc.msn.com/id/16367332/)
-3. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6305433,00.html)
+2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6305433,00.html)
+3. [MSNBC](http://www.msnbc.msn.com/id/16367332/)
 4. [International Herald Tribune](http://www.iht.com/articles/2006/12/27/news/quake.php)
 
 ### Related:

@@ -7,10 +7,10 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/20/c_13454823.htm)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/20/israel-palestinians-direct-talks-poles-apart)
-3. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010820231351211295.html)
-4. [The New York Times](http://www.nytimes.com/2010/08/21/world/middleeast/21diplo.html)
+1. [The New York Times](http://www.nytimes.com/2010/08/21/world/middleeast/21diplo.html)
+2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010820231351211295.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/20/c_13454823.htm)
+4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/20/israel-palestinians-direct-talks-poles-apart)
 
 ### Related:
 

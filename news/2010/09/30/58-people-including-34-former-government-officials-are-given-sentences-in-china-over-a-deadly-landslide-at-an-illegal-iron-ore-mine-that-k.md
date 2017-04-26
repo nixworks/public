@@ -7,8 +7,8 @@ Beijing, Sep 30 (IANS) Fifteen courts in China Thursday handed down sentences to
 
 ### Source:
 
-1. [China Radio International](http://english.cri.cn/6909/2010/09/30/53s597187.htm)
-2. [Sify India](http://sify.com/news/china-sentences-58-in-mine-landslide-case-news-international-kj4v4medgai.html)
+1. [Sify India](http://sify.com/news/china-sentences-58-in-mine-landslide-case-news-international-kj4v4medgai.html)
+2. [China Radio International](http://english.cri.cn/6909/2010/09/30/53s597187.htm)
 
 ### Related:
 

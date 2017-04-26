@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/348415/rh-advocate-carlos-celdran-guilty-of-offending-church)
-2. [Manila Bulletin](http://www.mb.com.ph/articles/391537/tour-guide-and-activist-carlos-celdran-sentenced-jail)
-3. [Rappler](http://www.rappler.com/nation/20596-carlos-celdran-found-guilty-of-%E2%80%9Coffending-religious-feelings%E2%80%9D)
+1. [Rappler](http://www.rappler.com/nation/20596-carlos-celdran-found-guilty-of-%E2%80%9Coffending-religious-feelings%E2%80%9D)
+2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/348415/rh-advocate-carlos-celdran-guilty-of-offending-church)
+3. [Manila Bulletin](http://www.mb.com.ph/articles/391537/tour-guide-and-activist-carlos-celdran-sentenced-jail)
 
 ### Related:
 

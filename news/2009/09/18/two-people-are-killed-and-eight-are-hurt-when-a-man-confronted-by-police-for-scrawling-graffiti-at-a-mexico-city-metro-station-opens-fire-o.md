@@ -7,8 +7,8 @@ A gunman opened fire inside a Mexico City subway car during rush hour on Friday,
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/8264340.stm)
-2. [CNN](http://us.cnn.com/2009/WORLD/americas/09/19/mexico.subway.shooting/index.html)
+1. [CNN](http://us.cnn.com/2009/WORLD/americas/09/19/mexico.subway.shooting/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8264340.stm)
 3. [The Sydney Morning Herald](http://www.smh.com.au/world/gunman-opens-fire-in-mexico-subway-20090919-fvy5.html)
 
 ### Related:

@@ -7,8 +7,8 @@ Residents tell of the horror of the major bushfire burning in South Australia, w
 
 ### Source:
 
-1. [ABC News Australia](http://www.abc.net.au/news/2015-11-25/residents-describe-terror-of-mallala-bushfire/6974200)
-2. [ABC News](http://www.abc.net.au/news/2015-11-26/interstate-fire-crews-to-join-fight-against-deadly-sa-blaze/6974372)
+1. [ABC News](http://www.abc.net.au/news/2015-11-26/interstate-fire-crews-to-join-fight-against-deadly-sa-blaze/6974372)
+2. [ABC News Australia](http://www.abc.net.au/news/2015-11-25/residents-describe-terror-of-mallala-bushfire/6974200)
 
 ### Related:
 

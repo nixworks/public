@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Australia Network News](http://australianetworknews.com/stories/201106/3241802.htm?desktop)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/241749/burma-eases-strict-censorship-for-some)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/241749/burma-eases-strict-censorship-for-some)
+2. [Australia Network News](http://australianetworknews.com/stories/201106/3241802.htm?desktop)
 
 ### Related:
 

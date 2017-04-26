@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/breaking/20130625-qatar-emir-sheikh-hamad-bin-khalifa-al-thani-abdicates-favour-son?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130625_0732&ns_linkname=20130625_breaking_news&ns_fee=0&f24_member_id=1080960490882)
-2. [Reuters](http://www.reuters.com/article/2013/06/25/us-qatar-emir-idUSBRE95N19M20130625)
+1. [Reuters](http://www.reuters.com/article/2013/06/25/us-qatar-emir-idUSBRE95N19M20130625)
+2. [France24](http://www.france24.com/en/breaking/20130625-qatar-emir-sheikh-hamad-bin-khalifa-al-thani-abdicates-favour-son?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130625_0732&ns_linkname=20130625_breaking_news&ns_fee=0&f24_member_id=1080960490882)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Live updates as heavy gunfire is heard at a shopping centre in the Kenyan capita
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/2013/09/23/end-appears-near-in-kenyan-hostage-crisis/)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-24200990)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-24200990)
+2. [Euronews](http://www.euronews.com/2013/09/23/end-appears-near-in-kenyan-hostage-crisis/)
 
 ### Related:
 

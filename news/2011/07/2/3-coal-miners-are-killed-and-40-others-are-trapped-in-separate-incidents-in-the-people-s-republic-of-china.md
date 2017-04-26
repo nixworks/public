@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Newsday - ''sub. req.](http://www.newsday.com/news/nation/40-miners-trapped-3-dead-in-china-s-disasters-1.3000085)
-2. [China Daily](http://www.chinadaily.com.cn/china/2011-07/03/content_12823951.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2011-07/03/content_12823951.htm)
+2. [AP via Newsday - ''sub. req.](http://www.newsday.com/news/nation/40-miners-trapped-3-dead-in-china-s-disasters-1.3000085)
 
 ### Related:
 

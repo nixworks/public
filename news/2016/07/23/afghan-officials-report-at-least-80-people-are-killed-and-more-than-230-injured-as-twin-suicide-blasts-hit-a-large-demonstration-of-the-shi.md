@@ -7,11 +7,11 @@ The Islamic State claimed responsibility for the recent twin explosions that roc
 
 ### Source:
 
-1. [Pakistan Today](http://www.pakistantoday.com.pk/2016/07/23/national/twin-blasts-in-kabul-kill-50/)
-2. [India Today](http://indiatoday.intoday.in/story/10-dead-several-wounded-in-kabul-explosion-near-large-mass-demonstration/1/722154.html/)
-3. [News World India](http://newsworldindia.in/world/is-claims-responsibility-for-kabul-attack/209589/)
-4. [BBC](http://www.bbc.com/news/world-asia-36874570/)
-5. [Reuters](http://in.reuters.com/article/afghanistan-protests-idINKCN10308D)
+1. [News World India](http://newsworldindia.in/world/is-claims-responsibility-for-kabul-attack/209589/)
+2. [Pakistan Today](http://www.pakistantoday.com.pk/2016/07/23/national/twin-blasts-in-kabul-kill-50/)
+3. [India Today](http://indiatoday.intoday.in/story/10-dead-several-wounded-in-kabul-explosion-near-large-mass-demonstration/1/722154.html/)
+4. [Reuters](http://in.reuters.com/article/afghanistan-protests-idINKCN10308D)
+5. [BBC](http://www.bbc.com/news/world-asia-36874570/)
 
 ### Related:
 

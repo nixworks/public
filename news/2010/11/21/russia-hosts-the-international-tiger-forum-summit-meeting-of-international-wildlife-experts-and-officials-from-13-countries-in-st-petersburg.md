@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/World-Leaders-Hold-Summit-to-Save-Tiger-109661334.html)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jzKWRNifFmP0qjv9lbY-uyrBb2vA?docId=007fd7c5fb1549a59361cd475e58de91)
 2. [RIA Novosti](http://en.rian.ru/russia/20101121/161430332.html)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jzKWRNifFmP0qjv9lbY-uyrBb2vA?docId=007fd7c5fb1549a59361cd475e58de91)
+3. [Voice of America](http://www.voanews.com/english/news/World-Leaders-Hold-Summit-to-Save-Tiger-109661334.html)
 
 ### Related:
 

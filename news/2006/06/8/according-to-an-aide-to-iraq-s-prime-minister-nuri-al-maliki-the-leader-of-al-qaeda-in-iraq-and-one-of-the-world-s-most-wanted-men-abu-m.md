@@ -7,13 +7,13 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [FOX](http://www.foxnews.com/story/0,2933,198566,00.html)
-2. [CNN](http://www.cnn.com/2006/WORLD/meast/06/08/iraq.al.zarqawi/index.html)
-3. [Aljazeera](http://english.aljazeera.net/NR/exeres/9599C40D-EA35-44CC-BC97-E1BD6518865C.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5058304.stm)
-5. [ABC](http://abcnews.go.com/US/story?id=2049982&page=1)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5058304.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5060686.stm)
+3. [ABC](http://abcnews.go.com/US/story?id=2049982&page=1)
+4. [FOX](http://www.foxnews.com/story/0,2933,198566,00.html)
+5. [Aljazeera](http://english.aljazeera.net/NR/exeres/9599C40D-EA35-44CC-BC97-E1BD6518865C.htm)
 6. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=domesticNews&storyID=2006-06-07T233127Z_01_N07236850_RTRUKOC_0_US-IRAQ-USA-OFFICER.xml)
-7. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5060686.stm)
+7. [CNN](http://www.cnn.com/2006/WORLD/meast/06/08/iraq.al.zarqawi/index.html)
 
 ### Related:
 

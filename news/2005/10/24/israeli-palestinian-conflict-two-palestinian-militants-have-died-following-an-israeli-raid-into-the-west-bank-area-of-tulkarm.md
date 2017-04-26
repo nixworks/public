@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://breakingnews.iol.ie/news/story.asp?j=68509908&p=685yxzyx&n=68510288)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4370658.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4370658.stm)
+2. [IOL](http://breakingnews.iol.ie/news/story.asp?j=68509908&p=685yxzyx&n=68510288)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/00B06BC2-8405-47A0-A53E-F554FA7AAE07.htm)
-2. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=1&story_id=22238&name=B+receives+life+sentence)
-3. [IHT](http://www.iht.com/articles/2005/07/26/news/dutch.php)
+2. [IHT](http://www.iht.com/articles/2005/07/26/news/dutch.php)
+3. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=1&story_id=22238&name=B+receives+life+sentence)
 
 ### Related:
 

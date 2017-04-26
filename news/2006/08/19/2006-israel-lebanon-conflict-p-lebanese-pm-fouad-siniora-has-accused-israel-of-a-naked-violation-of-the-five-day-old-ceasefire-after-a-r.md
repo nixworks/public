@@ -7,12 +7,12 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060819/israeli_soldier_060819/20060819?hub=TopStories)
-2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-19T014756Z_01_L194905_RTRUKOC_0_US-MIDEAST-LEBANON-ATTACK.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
-3. [Reuters](http://ca.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2006-08-19T135712Z_01_L13492527_RTRIDST_0_NEWS-MIDEAST-COL.XML)
-4. [Aljazeera](http://www.aljazeera.com/me.asp?service_ID=12196)
-5. [ABC America](http://abcnews.go.com/International/wireStory?id=2332363&CMP=OTC-RSSFeeds0312)
-6. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5266688.stm)
+1. [ABC America](http://abcnews.go.com/International/wireStory?id=2332363&CMP=OTC-RSSFeeds0312)
+2. [Aljazeera](http://www.aljazeera.com/me.asp?service_ID=12196)
+3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060819/israeli_soldier_060819/20060819?hub=TopStories)
+4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-19T014756Z_01_L194905_RTRUKOC_0_US-MIDEAST-LEBANON-ATTACK.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
+5. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5266688.stm)
+6. [Reuters](http://ca.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2006-08-19T135712Z_01_L13492527_RTRIDST_0_NEWS-MIDEAST-COL.XML)
 
 ### Related:
 

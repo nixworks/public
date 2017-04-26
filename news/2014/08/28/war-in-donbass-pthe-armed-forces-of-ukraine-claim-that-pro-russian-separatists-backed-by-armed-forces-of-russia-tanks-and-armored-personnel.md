@@ -8,8 +8,8 @@ The UN Security Council is preparing to meet in emergency session on the growing
 ### Source:
 
 1. [Washington Post](http://www.washingtonpost.com/world/russian-and-ukraine-troops-battle-in-south-prompting-fears-of-widescale-invasion/2014/08/28/04b614f4-9a6e-40f4-aa21-4f49104cf0e4_story.html)
-2. [Financial Times](http://www.ft.com/cms/s/0/8275bec4-2ea2-11e4-afe4-00144feabdc0.html#slide0)
-3. [CNN](http://edition.cnn.com/2014/08/28/world/europe/ukraine-crisis/index.html)
+2. [CNN](http://edition.cnn.com/2014/08/28/world/europe/ukraine-crisis/index.html)
+3. [Financial Times](http://www.ft.com/cms/s/0/8275bec4-2ea2-11e4-afe4-00144feabdc0.html#slide0)
 4. [CTV News](http://www.ctvnews.ca/world/un-security-council-holds-emergency-session-on-ukraine-1.1980768)
 
 ### Related:

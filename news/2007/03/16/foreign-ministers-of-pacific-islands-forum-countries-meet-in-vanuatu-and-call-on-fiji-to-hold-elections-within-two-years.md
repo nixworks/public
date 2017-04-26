@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=30813)
-2. [ABC](http://www.abc.net.au/am/content/2007/s1874258.htm)
+1. [ABC](http://www.abc.net.au/am/content/2007/s1874258.htm)
+2. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=30813)
 
 ### Related:
 

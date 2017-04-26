@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSN](http://www.msn.com/en-us/news/us/suspect-in-custody-in-shootings-at-mall-grocery-store-high-school/ar-BBsIEyP?ocid=spartanntp)
-2. [CNN](http://www.cnn.com/2016/05/06/us/maryland-shootings/index.html)
+1. [CNN](http://www.cnn.com/2016/05/06/us/maryland-shootings/index.html)
+2. [MSN](http://www.msn.com/en-us/news/us/suspect-in-custody-in-shootings-at-mall-grocery-store-high-school/ar-BBsIEyP?ocid=spartanntp)
 
 ### Related:
 

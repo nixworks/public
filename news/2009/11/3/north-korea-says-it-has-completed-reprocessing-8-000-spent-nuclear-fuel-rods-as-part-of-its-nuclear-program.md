@@ -7,9 +7,9 @@ Pyongyang says it has produced more weapons-grade plutonium from spent fuel rods
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/03/nkorea.nuclear/)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/200911375733866533.html)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2009/11/03/75/0301000000AEN20091103007500315F.HTML)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/200911375733866533.html)
+3. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/03/nkorea.nuclear/)
 
 ### Related:
 

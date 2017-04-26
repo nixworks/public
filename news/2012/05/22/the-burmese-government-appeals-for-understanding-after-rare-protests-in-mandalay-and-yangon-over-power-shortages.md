@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://blogs.voanews.com/breaking-news/2012/05/22/burmese-electricity-protests-end-without-arrests/)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-18162333)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-18162333)
+2. [VOA](http://blogs.voanews.com/breaking-news/2012/05/22/burmese-electricity-protests-end-without-arrests/)
 
 ### Related:
 

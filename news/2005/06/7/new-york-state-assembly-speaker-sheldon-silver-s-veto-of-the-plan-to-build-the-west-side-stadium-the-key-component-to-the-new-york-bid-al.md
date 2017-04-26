@@ -7,8 +7,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8711163)
-2. [NYtimes](http://www.nytimes.com/2005/06/07/nyregion/07stadium.html?hp&ex=1118116800&en=01c8475ba0171e9d&ei=5094&partner=homepage)
+1. [NYtimes](http://www.nytimes.com/2005/06/07/nyregion/07stadium.html?hp&ex=1118116800&en=01c8475ba0171e9d&ei=5094&partner=homepage)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8711163)
 
 ### Related:
 

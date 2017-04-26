@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Dallas Morning News](http://www.dallasnews.com/sharedcontent/APStories/stories/D93CLMO82.html)
-2. [Nolan Report](http://www.nolanchart.com/article4987.html)
-3. [TX Supreme Court](http://www.supreme.courts.state.tx.us/Historical/2008/sep/092308.htm)
+1. [Nolan Report](http://www.nolanchart.com/article4987.html)
+2. [TX Supreme Court](http://www.supreme.courts.state.tx.us/Historical/2008/sep/092308.htm)
+3. [Dallas Morning News](http://www.dallasnews.com/sharedcontent/APStories/stories/D93CLMO82.html)
 
 ### Related:
 

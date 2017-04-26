@@ -7,12 +7,12 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4175099.stm)
-2. [ESA](http://www.esa.int/SPECIALS/Cassini-Huygens/index.html)
-3. [ABC News](http://abcnews.go.com/Technology/wireStory?id=412945)
-4. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7323241)
-5. [New Scientist](http://www.newscientist.com/article.ns?id=dn6878)
-6. [Wired](http://www.wired.com/news/space/0,2697,66272,00.html?tw=wn_tophead_2)
+1. [ESA](http://www.esa.int/SPECIALS/Cassini-Huygens/index.html)
+2. [New Scientist](http://www.newscientist.com/article.ns?id=dn6878)
+3. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4175099.stm)
+4. [ABC News](http://abcnews.go.com/Technology/wireStory?id=412945)
+5. [Wired](http://www.wired.com/news/space/0,2697,66272,00.html?tw=wn_tophead_2)
+6. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7323241)
 
 ### Related:
 

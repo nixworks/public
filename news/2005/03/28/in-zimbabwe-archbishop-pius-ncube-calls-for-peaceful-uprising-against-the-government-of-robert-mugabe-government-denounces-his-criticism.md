@@ -8,8 +8,8 @@
 ### Source:
 
 1. [ITV](http://www.itv.com/news/world_1287571.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4387601.stm)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=vn20050329062441449C329527)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=vn20050329062441449C329527)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/4387601.stm)
 
 ### Related:
 

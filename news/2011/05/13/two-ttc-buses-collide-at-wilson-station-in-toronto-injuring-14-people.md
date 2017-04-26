@@ -7,8 +7,8 @@ A toddler in a stroller and a bus driver were among 14 people who were injured a
 
 ### Source:
 
-1. [Toronto Star](http://www.thestar.com/news/transportation/article/990962--14-injured-after-ttc-buses-collide?bn=1)
-2. [CBC](http://www.cbc.ca/news/canada/toronto/story/2011/05/13/ttc-buses-crash312.html)
+1. [CBC](http://www.cbc.ca/news/canada/toronto/story/2011/05/13/ttc-buses-crash312.html)
+2. [Toronto Star](http://www.thestar.com/news/transportation/article/990962--14-injured-after-ttc-buses-collide?bn=1)
 3. [Inside Toronto](http://www.insidetoronto.com/news/local/article/1007910--two-ttc-buses-collide-at-station-13-people-sent-to-hospital)
 
 ### Related:

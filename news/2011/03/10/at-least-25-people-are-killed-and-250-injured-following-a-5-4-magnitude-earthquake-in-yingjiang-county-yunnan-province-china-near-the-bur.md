@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-03/11/c_13771564.htm)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110310/wl_asia_afp/chinamyanmarquake)
-3. [China Daily](http://www.chinadaily.com.cn/china/2011-03/10/content_12149904.htm)
+2. [China Daily](http://www.chinadaily.com.cn/china/2011-03/10/content_12149904.htm)
+3. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110310/wl_asia_afp/chinamyanmarquake)
 
 ### Related:
 

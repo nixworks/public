@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/five-men-convicted-in-terror-trial-20091016-h049.html)
-2. [news.com.au](http://www.news.com.au/story/0,23599,26217736-2,00.html)
+1. [news.com.au](http://www.news.com.au/story/0,23599,26217736-2,00.html)
+2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/five-men-convicted-in-terror-trial-20091016-h049.html)
 
 ### Related:
 

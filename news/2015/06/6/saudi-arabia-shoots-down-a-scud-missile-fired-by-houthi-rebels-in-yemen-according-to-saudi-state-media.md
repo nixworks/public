@@ -7,8 +7,8 @@ Four&#x20;Saudi&#x20;soldiers&#x20;and&#x20;dozens&#x20;of&#x20;Yemeni&#x20;rebe
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/06/us-yemen-security-saudi-idUSKBN0OM05T20150606)
-2. [AFP via France 24](http://www.france24.com/en/20150606-loyalist-saleh-troops-clash-houthi-rebels-saudi-border?dlvrit=65413)
+1. [AFP via France 24](http://www.france24.com/en/20150606-loyalist-saleh-troops-clash-houthi-rebels-saudi-border?dlvrit=65413)
+2. [Reuters](http://www.reuters.com/article/2015/06/06/us-yemen-security-saudi-idUSKBN0OM05T20150606)
 
 ### Related:
 

@@ -7,18 +7,18 @@ The man was shot by fellow soldiers along the Gaza border in an operation aimed 
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/europe/Israel-Disappointed-at-Britains-Expulsion-of-Diplomat-88953067.html)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/1158343.html)
-3. [euronews](http://www.euronews.net/2010/03/23/tensions-rise-on-the-israel-gaza-border/)
-4. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/03/20103232318373307.html)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/201032304929107703.html)
-6. [The New York Times](http://www.nytimes.com/2010/03/23/world/middleeast/23briefs-Israelbf.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8582518.stm)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/1158345.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/201032304929107703.html)
+4. [euronews](http://www.euronews.net/2010/03/23/tensions-rise-on-the-israel-gaza-border/)
+5. [The New York Times](http://www.nytimes.com/2010/03/23/world/middleeast/23briefs-Israelbf.html)
+6. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=171594)
 7. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8580971.stm)
-8. [Haaretz](http://www.haaretz.com/hasen/spages/1158345.html)
-9. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010323154830857501.html)
-10. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=1&article_id=113089)
-11. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=171594)
-12. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8582518.stm)
+8. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=1&article_id=113089)
+9. [Haaretz](http://www.haaretz.com/hasen/spages/1158343.html)
+10. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/03/20103232318373307.html)
+11. [Voice of America](http://www1.voanews.com/english/news/europe/Israel-Disappointed-at-Britains-Expulsion-of-Diplomat-88953067.html)
+12. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010323154830857501.html)
 
 ### Related:
 

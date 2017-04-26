@@ -7,8 +7,8 @@ Sinn Féin leader Gerry Adams has insisted he was not involved in the murder of 
 
 ### Source:
 
-1. [RTE News](http://www.rte.ie/news/2014/0504/615151-gerry-adams-psni/)
-2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-27278039)
+1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-27278039)
+2. [RTE News](http://www.rte.ie/news/2014/0504/615151-gerry-adams-psni/)
 
 ### Related:
 

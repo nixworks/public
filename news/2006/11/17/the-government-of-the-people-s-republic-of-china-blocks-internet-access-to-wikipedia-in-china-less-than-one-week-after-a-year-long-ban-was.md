@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/TECH/internet/11/17/china.internet.ap/index.html)
-2. [RSF](http://www.rsf.org/article.php3?id_article=15374)
+1. [RSF](http://www.rsf.org/article.php3?id_article=15374)
+2. [CNN](http://www.cnn.com/2006/TECH/internet/11/17/china.internet.ap/index.html)
 
 ### Related:
 

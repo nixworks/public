@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TIME](http://time.com/4188161/tajikistan-shave-islam-radicalization-muslim/)
-2. [Al Jazeera via MSN](http://www.msn.com/en-us/news/world/tajikistan-shaves-13000-mens-beards-to-end-radicalism/ar-BBovl3F?li=BBnb7Kz&ocid=iehp)
+1. [Al Jazeera via MSN](http://www.msn.com/en-us/news/world/tajikistan-shaves-13000-mens-beards-to-end-radicalism/ar-BBovl3F?li=BBnb7Kz&ocid=iehp)
+2. [TIME](http://time.com/4188161/tajikistan-shave-islam-radicalization-muslim/)
 
 ### Related:
 

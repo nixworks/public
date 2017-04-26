@@ -7,11 +7,11 @@ Ireland&#039;s ruling Fianna Fail party on Wednesday elected former foreign mini
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/8284324/Micheal-Martin-to-replace-Brian-Cowen-as-Fianna-Fail-leader.html)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12285988)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2011/0127/1224288404023.html)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-12285988)
+3. [The Wall Stret Journal](http://online.wsj.com/article/BT-CO-20110126-709946.html)
 4. [RTÉ](http://www.rte.ie/news/2011/0126/fiannafail.html)
-5. [The Wall Stret Journal](http://online.wsj.com/article/BT-CO-20110126-709946.html)
+5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/8284324/Micheal-Martin-to-replace-Brian-Cowen-as-Fianna-Fail-leader.html)
 
 ### Related:
 

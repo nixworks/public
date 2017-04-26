@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_646165.html)
-2. [Lao News Agency](http://www.kpl.net.la/english/news/edn1.htm)
+1. [Lao News Agency](http://www.kpl.net.la/english/news/edn1.htm)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_646165.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ At least 25 people have been killed in a suicide bombing claimed by a Taliban sp
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/pakistan-mosque-bombing-latest-mohmand-agency-killed-suicide-blast-friday-prayers-claim-a7310986.html)
-2. [The Express Tribune](http://tribune.com.pk/story/1182675/huge-explosion-mosque-mohmand-agency/)
+1. [The Express Tribune](http://tribune.com.pk/story/1182675/huge-explosion-mosque-mohmand-agency/)
+2. [The Independent](http://www.independent.co.uk/news/world/asia/pakistan-mosque-bombing-latest-mohmand-agency-killed-suicide-blast-friday-prayers-claim-a7310986.html)
 
 ### Related:
 

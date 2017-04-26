@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [85-13] to become the first [[African American|African-American]] woman to serve as [[United States Secretary of State|U.S. Secretary of State]]. [http://www.cnn.com/2005/ALLPOLITICS/01/26/rice.confirmation.ap/index.html (CNN](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=1&vote=00002)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4209517.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4209517.stm)
+2. [85-13] to become the first [[African American|African-American]] woman to serve as [[United States Secretary of State|U.S. Secretary of State]]. [http://www.cnn.com/2005/ALLPOLITICS/01/26/rice.confirmation.ap/index.html (CNN](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=1&vote=00002)
 
 ### Related:
 

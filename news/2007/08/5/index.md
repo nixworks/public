@@ -10,7 +10,7 @@ The Sydney Morning Herald 404 Page
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Holocaust survivors protest outside the Prime Minister of Israel Ehud Olmert's office over the level of support from Israel. ](/news/2007/08/5/holocaust-survivors-protest-outside-the-prime-minister-of-israel-ehud-olmert-s-office-over-the-level-of-support-from-israel.md)
-_Context: Ehud Olmert, Holocaust, Israel, prime minister of Israel_
+_Context: Ehud Olmert, Holocaust, Israel, Prime Minister of Israel_
 
 ### [ Republican Party candidates in the 2008 United States Presidential election hold a debate. ](/news/2007/08/5/republican-party-candidates-in-the-2008-united-states-presidential-election-hold-a-debate.md)
 _Context: 2008, Republican_

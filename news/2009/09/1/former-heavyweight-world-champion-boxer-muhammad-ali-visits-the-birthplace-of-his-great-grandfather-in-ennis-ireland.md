@@ -8,9 +8,9 @@ Ennis came to a standstill this afternoon with the arrival of Muhammad Ali for a
 ### Source:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/sep/01/muhammad-ali-freedom-ennis-ireland)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8232367.stm)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/boxingandmma/6123430/Muhammad-Ali-touches-a-corner-of-Ireland-with-his-visit-to-Ennis.html)
-4. [RTÉ](http://www.rte.ie/news/2009/0901/alim.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/boxingandmma/6123430/Muhammad-Ali-touches-a-corner-of-Ireland-with-his-visit-to-Ennis.html)
+3. [RTÉ](http://www.rte.ie/news/2009/0901/alim.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/europe/8232367.stm)
 
 ### Related:
 

@@ -9,14 +9,14 @@ The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Ven
 
 1. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20090925-712414.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12114739.htm)
-3. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=107668)
+3. [MercoPress](http://en.mercopress.com/2009/09/27/south-american-leaders-sign-agreement-creating-south-bank)
 4. [CCTV](http://english.cctv.com/program/newshour/20090927/103103.shtml)
-5. [MercoPress](http://en.mercopress.com/2009/09/27/south-american-leaders-sign-agreement-creating-south-bank)
+5. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=107668)
 6. [Wales Online](http://www.walesonline.co.uk/news/latest-world-news/2009/09/27/seven-nations-to-fund-regional-bank-claims-chavez-91466-24791294/)
-7. [RTTNews](http://www.rttnews.com/Content/GeneralNews.aspx?Node=B1&Id=1077523)
+7. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=as7b1b_qZApE)
 8. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12114951.htm)
-9. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090927102243343C656909)
-10. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=as7b1b_qZApE)
+9. [RTTNews](http://www.rttnews.com/Content/GeneralNews.aspx?Node=B1&Id=1077523)
+10. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090927102243343C656909)
 
 ### Related:
 

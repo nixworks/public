@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/09/43/0401000000AEN20091209001100315F.HTML)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1023543/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1023543/1/.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/09/43/0401000000AEN20091209001100315F.HTML)
 
 ### Related:
 

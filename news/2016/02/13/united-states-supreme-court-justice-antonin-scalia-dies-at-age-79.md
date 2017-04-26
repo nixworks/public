@@ -7,8 +7,8 @@ Texas governor confirms justice found dead at ranch as Obama plans to nominate r
 
 ### Source:
 
-1. [My San Antonio](http://www.mysanantonio.com/news/us-world/article/Senior-Associate-Justice-Antonin-Scalia-found-6828930.php)
-2. [The Guardian](http://www.theguardian.com/law/2016/feb/13/supreme-court-justice-antonin-scalia-dead-at-79)
+1. [The Guardian](http://www.theguardian.com/law/2016/feb/13/supreme-court-justice-antonin-scalia-dead-at-79)
+2. [My San Antonio](http://www.mysanantonio.com/news/us-world/article/Senior-Associate-Justice-Antonin-Scalia-found-6828930.php)
 
 ### Related:
 

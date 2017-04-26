@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Strange-News/Stephen-Hawking-Alien-Warning-Dont-Talk-To-Space-Life-Professor-Says-In-Discovery-Documentary/Article/201004415619548?lpos=Strange_News_News_Your_Way_Region_9&lid=NewsYourWay_ARTICLE_15619548_Stephen_Hawking_)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8642558.stm)
-3. [The Sunday Times](http://www.timesonline.co.uk/tol/news/science/space/article7107207.ece)
-4. [Fox News](http://www.foxnews.com/scitech/2010/04/25/dont-talk-aliens-warns-stephen-hawking/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+foxnews%252Flatest+%2528Text+-+Latest+Headlines%2529)
+1. [Fox News](http://www.foxnews.com/scitech/2010/04/25/dont-talk-aliens-warns-stephen-hawking/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+foxnews%252Flatest+%2528Text+-+Latest+Headlines%2529)
+2. [Sky News](http://news.sky.com/skynews/Home/Strange-News/Stephen-Hawking-Alien-Warning-Dont-Talk-To-Space-Life-Professor-Says-In-Discovery-Documentary/Article/201004415619548?lpos=Strange_News_News_Your_Way_Region_9&lid=NewsYourWay_ARTICLE_15619548_Stephen_Hawking_)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8642558.stm)
+4. [The Sunday Times](http://www.timesonline.co.uk/tol/news/science/space/article7107207.ece)
 5. [The Hindu](http://www.thehindu.com/2010/04/26/stories/2010042661472000.htm)
 
 ### Related:

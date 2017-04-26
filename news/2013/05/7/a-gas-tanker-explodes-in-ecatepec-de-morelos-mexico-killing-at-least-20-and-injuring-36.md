@@ -7,8 +7,8 @@ A gas tanker explodes on a highway in the Mexico City suburb of Ecatepec, killin
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/05/07/us-mexico-explosion-idUSBRE9460K520130507)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-22438925)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22438925)
+2. [Reuters](http://www.reuters.com/article/2013/05/07/us-mexico-explosion-idUSBRE9460K520130507)
 
 ### Related:
 

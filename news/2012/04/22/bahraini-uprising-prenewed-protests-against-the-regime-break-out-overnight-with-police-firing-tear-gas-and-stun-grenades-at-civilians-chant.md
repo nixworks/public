@@ -7,16 +7,16 @@ Renewed clashes broke out in Bahrain overnight between hundreds of anti-governme
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2012/0422/new-clashes-in-bahrain-ahead-of-grand-prix.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/2012422141637277957.html)
+1. [The Guardian](http://www.guardian.co.uk/world/2012/apr/22/bahrain-grand-prix-protests-live)
+2. [NPR](http://www.npr.org/2012/04/22/151153644/protests-press-bahrains-formula-one-race)
 3. [Reuters](http://uk.reuters.com/article/2012/04/22/uk-bahrain-grandprix-idUKBRE83I0S720120422)
-4. [NPR](http://www.npr.org/2012/04/22/151153644/protests-press-bahrains-formula-one-race)
-5. [ITV News](http://www.itv.com/news/wales/2012-04-22/peter-hain-angered-at-bahrain-gp/)
-6. [The Guardian](http://www.guardian.co.uk/world/2012/apr/22/bahrain-grand-prix-protests-live)
+4. [Sky News](http://news.sky.com/home/world-news/article/16213553)
+5. [RTE](http://www.rte.ie/news/2012/0422/new-clashes-in-bahrain-ahead-of-grand-prix.html)
+6. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/2012422141637277957.html)
 7. [Channel 4](http://www.channel4.com/news/channel-4-news-team-arrested-in-bahrain)
-8. [Sky News](http://news.sky.com/home/world-news/article/16213553)
-9. [Daily Mirror](http://www.mirror.co.uk/sport/formula-1/bahrain-grand-prix-force-india-802136)
-10. [BBC](http://www.bbc.co.uk/news/world-middle-east-17803310)
+8. [ITV News](http://www.itv.com/news/wales/2012-04-22/peter-hain-angered-at-bahrain-gp/)
+9. [BBC](http://www.bbc.co.uk/news/world-middle-east-17803310)
+10. [Daily Mirror](http://www.mirror.co.uk/sport/formula-1/bahrain-grand-prix-force-india-802136)
 
 ### Related:
 

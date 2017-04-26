@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [CBS](http://www.cbsnews.com/stories/2005/05/31/world/main698817.shtml)
-2. [Boston Globe](http://www.boston.com/ae/tv/articles/2005/05/31/israeli_settlers_demand_firing_of_anchor/)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4598965.stm)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/583347.html)
-5. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1496298,00.html)
-6. [IDF official announcement](http://www1.idf.il/DOVER/site/mainpage.asp?sl=EN&id=7&docid=40684.EN)
-7. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4597401.stm)
+1. [IDF official announcement](http://www1.idf.il/DOVER/site/mainpage.asp?sl=EN&id=7&docid=40684.EN)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/583347.html)
+3. [Boston Globe](http://www.boston.com/ae/tv/articles/2005/05/31/israeli_settlers_demand_firing_of_anchor/)
+4. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1496298,00.html)
+5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4597401.stm)
+6. [CBS](http://www.cbsnews.com/stories/2005/05/31/world/main698817.shtml)
+7. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4598965.stm)
 
 ### Related:
 

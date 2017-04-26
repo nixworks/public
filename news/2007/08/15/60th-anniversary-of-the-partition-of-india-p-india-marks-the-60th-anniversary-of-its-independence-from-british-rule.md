@@ -7,8 +7,8 @@ Queen Elizabeth II and British Prime Minister Gordon Brown have congratulated In
 
 ### Source:
 
-1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/15/2005420.htm)
-2. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/15/2006020.htm)
+1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/15/2006020.htm)
+2. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/15/2005420.htm)
 
 ### Related:
 

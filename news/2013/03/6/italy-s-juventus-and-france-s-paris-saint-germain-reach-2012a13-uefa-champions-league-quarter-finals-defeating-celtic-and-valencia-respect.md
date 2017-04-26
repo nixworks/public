@@ -7,9 +7,9 @@ Juventus avoided any slip-ups against Celtic, cruising to an easy 2-0 win Wednes
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/06/uk-soccer-champions-idUKBRE9251JX20130306)
-2. [CNN](http://edition.cnn.com/2013/03/06/sport/football/football-juventus-psg-celtic-valencia)
-3. [CBC](http://www.cbc.ca/sports/soccer/story/2013/03/06/sp-soccer-champions-league-juventus-celtic-psg-valencia.html)
+1. [CBC](http://www.cbc.ca/sports/soccer/story/2013/03/06/sp-soccer-champions-league-juventus-celtic-psg-valencia.html)
+2. [Reuters](http://www.reuters.com/article/2013/03/06/uk-soccer-champions-idUKBRE9251JX20130306)
+3. [CNN](http://edition.cnn.com/2013/03/06/sport/football/football-juventus-psg-celtic-valencia)
 
 ### Related:
 

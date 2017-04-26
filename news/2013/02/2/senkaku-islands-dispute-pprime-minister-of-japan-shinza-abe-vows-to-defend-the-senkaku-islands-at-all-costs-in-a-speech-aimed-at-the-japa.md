@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/politics/view/abe-vows-to-defend-disputed-islands-from-china)
-2. [AP via Fox News](http://www.foxnews.com/world/2013/02/02/japan-pm-vows-to-defend-disputed-islands-from-china-calls-on-troops-to-guard/)
+1. [AP via Fox News](http://www.foxnews.com/world/2013/02/02/japan-pm-vows-to-defend-disputed-islands-from-china-calls-on-troops-to-guard/)
+2. [Japan Today](http://www.japantoday.com/category/politics/view/abe-vows-to-defend-disputed-islands-from-china)
 
 ### Related:
 

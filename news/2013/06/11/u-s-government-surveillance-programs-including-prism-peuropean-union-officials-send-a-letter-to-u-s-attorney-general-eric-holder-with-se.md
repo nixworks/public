@@ -7,10 +7,10 @@ The European Commission says it will ask the US for assurances about the legalit
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/europe-us-privacy)
-2. [The Journal](http://www.thejournal.ie/eu-concerns-us-prism-programme-946610-Jun2013/)
-3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/nsa-surveillance-challenged-court-data)
-4. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/06/20136114235256734.html)
+1. [The Journal](http://www.thejournal.ie/eu-concerns-us-prism-programme-946610-Jun2013/)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/nsa-surveillance-challenged-court-data)
+3. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/06/20136114235256734.html)
+4. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/europe-us-privacy)
 
 ### Related:
 

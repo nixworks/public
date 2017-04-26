@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFlEwAfrotTk&refer=top_world_news)
-2. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/middleeast/2005/February/middleeast_February705.xml&section=middleeast)
+1. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/middleeast/2005/February/middleeast_February705.xml&section=middleeast)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFlEwAfrotTk&refer=top_world_news)
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=8&id=329092)
 
 ### Related:

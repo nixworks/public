@@ -7,13 +7,13 @@ More than 90,000 secret US military records are leaked to the media by Wikileaks
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201072612817513609.html)
-2. [ABC](http://www.abc.net.au/news/stories/2010/07/26/2964720.htm)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/25/afghanistan-war-logs-military-leaks)
-4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-condemns-massive-leak-of-afghan-war-files-20100726-10r8h.html)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/25/afghanistan-war-logs-military-leaks)
+2. [The New York Times](http://www.nytimes.com/2010/07/26/world/asia/26warlogs.html?_r=1&pagewanted=all)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-condemns-massive-leak-of-afghan-war-files-20100726-10r8h.html)
+4. [ABC](http://www.abc.net.au/news/stories/2010/07/26/2964720.htm)
 5. [BBC](http://www.bbc.co.uk/news/world-us-canada-10757344)
-6. [Der Spiegel](http://www.spiegel.de/international/world/0,1518,708314,00.html)
-7. [The New York Times](http://www.nytimes.com/2010/07/26/world/asia/26warlogs.html?_r=1&pagewanted=all)
+6. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201072612817513609.html)
+7. [Der Spiegel](http://www.spiegel.de/international/world/0,1518,708314,00.html)
 
 ### Related:
 

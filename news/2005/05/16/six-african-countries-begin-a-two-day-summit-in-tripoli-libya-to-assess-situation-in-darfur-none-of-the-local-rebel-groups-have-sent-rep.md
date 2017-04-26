@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [LJBC, Libya](http://en.ljbc.net/online/news_details.php?id=858)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4551465.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L16405647.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4551465.stm)
+3. [LJBC, Libya](http://en.ljbc.net/online/news_details.php?id=858)
 
 ### Related:
 

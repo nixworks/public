@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/International/wireStory?id=8619023)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8264514.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8264514.stm)
+2. [ABC News](http://abcnews.go.com/International/wireStory?id=8619023)
 3. [The Times of India](http://timesofindia.indiatimes.com/news/world/europe/Serbias-gay-parade-cancelled-after-threats/articleshow/5031052.cms)
 
 ### Related:

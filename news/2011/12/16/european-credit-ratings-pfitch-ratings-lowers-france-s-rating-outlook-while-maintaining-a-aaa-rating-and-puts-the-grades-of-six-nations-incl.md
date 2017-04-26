@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204553904577102563391712758.html)
-2. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-12-16/france-s-aaa-outlook-cut-as-fitch-reviews-italy-spain.html)
+1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-12-16/france-s-aaa-outlook-cut-as-fitch-reviews-italy-spain.html)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204553904577102563391712758.html)
 
 ### Related:
 

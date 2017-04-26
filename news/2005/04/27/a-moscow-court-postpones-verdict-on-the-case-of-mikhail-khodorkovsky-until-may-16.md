@@ -9,8 +9,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8306948)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aibowh5OjC.w&refer=top_world_news)
-3. [RIA Novosti](http://en.rian.ru/russia/20050427/39747159.html)
-4. [Mosnews](http://www.mosnews.com/news/2005/04/27/khodordelayed.shtml)
+3. [Mosnews](http://www.mosnews.com/news/2005/04/27/khodordelayed.shtml)
+4. [RIA Novosti](http://en.rian.ru/russia/20050427/39747159.html)
 
 ### Related:
 

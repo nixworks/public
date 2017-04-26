@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jx7oUThJqq-m_xV9hmKY3OUw8hsgD9HHRROG1)
-2. [Voice of America](http://www1.voanews.com/english/news/Afghans-Protest-Civilian-Deaths-100533784.html)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gKu1DQoewmBy2do5ctRqUX5efGBAD9HI4E2G0)
-4. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081214759771683.html)
+1. [Voice of America](http://www1.voanews.com/english/news/Afghans-Protest-Civilian-Deaths-100533784.html)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jx7oUThJqq-m_xV9hmKY3OUw8hsgD9HHRROG1)
+3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081214759771683.html)
+4. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gKu1DQoewmBy2do5ctRqUX5efGBAD9HI4E2G0)
 
 ### Related:
 

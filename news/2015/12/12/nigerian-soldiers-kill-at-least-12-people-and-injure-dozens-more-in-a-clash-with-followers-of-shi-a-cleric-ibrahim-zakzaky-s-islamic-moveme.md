@@ -7,8 +7,8 @@ The army accuses Shiites of attempting to assassinate its chief, Tukur Buratai.
 
 ### Source:
 
-1. [Premium Times](http://www.premiumtimesng.com/news/headlines/195051-nigerian-army-shiites-in-war-of-words-after-deadly-zaria-attack-that-killed-many.html)
-2. [EagleOnline](http://theeagleonline.com.ng/zakzakys-followers-attack-chief-of-army-staff-convoy/)
+1. [EagleOnline](http://theeagleonline.com.ng/zakzakys-followers-attack-chief-of-army-staff-convoy/)
+2. [Premium Times](http://www.premiumtimesng.com/news/headlines/195051-nigerian-army-shiites-in-war-of-words-after-deadly-zaria-attack-that-killed-many.html)
 3. [AP](http://bigstory.ap.org/article/25216ef3caae490f9cec0279e3deba14/shiites-nigerian-soldiers-kill-12-besiege-islamic-movement)
 
 ### Related:

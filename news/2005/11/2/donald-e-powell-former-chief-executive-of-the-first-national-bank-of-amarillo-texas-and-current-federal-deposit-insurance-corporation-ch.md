@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [White House](http://www.whitehouse.gov/news/releases/2005/11/20051101-6.html)
-2. [Washington Times](http://washingtontimes.com/national/20051101-115633-5569r.htm)
+1. [Washington Times](http://washingtontimes.com/national/20051101-115633-5569r.htm)
+2. [White House](http://www.whitehouse.gov/news/releases/2005/11/20051101-6.html)
 
 ### Related:
 

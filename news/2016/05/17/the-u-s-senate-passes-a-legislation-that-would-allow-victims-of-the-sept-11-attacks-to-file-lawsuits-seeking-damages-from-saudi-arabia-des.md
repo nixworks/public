@@ -7,13 +7,13 @@ The Senate passed legislation Tuesday that would allow families of Sept. 11 vict
 
 ### Source:
 
-1. [NY Times](http://www.nytimes.com/2016/05/18/us/politics/senate-passes-bill-that-would-expose-saudi-arabia-to-legal-jeopardy-over-9-11.html)
-2. [Reuters](http://www.reuters.com/article/us-saudi-usa-congress-idUSKCN0Y8239)
+1. [Reuters](http://www.reuters.com/article/us-saudi-usa-congress-idUSKCN0Y8239)
+2. [NY Times](http://www.nytimes.com/2016/05/18/us/politics/senate-passes-bill-that-would-expose-saudi-arabia-to-legal-jeopardy-over-9-11.html)
 3. [LA Times](http://www.latimes.com/nation/nationnow/la-na-saudi-arabia-legislation-20160517-snap-story.html)
 
 ### Related:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 2. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 3. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 4. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

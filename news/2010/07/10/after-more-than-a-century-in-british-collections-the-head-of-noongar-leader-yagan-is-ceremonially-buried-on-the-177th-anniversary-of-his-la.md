@@ -7,9 +7,9 @@ The remains of a Western Australian Aboriginal warrior have been laid to rest ne
 
 ### Source:
 
-1. [Perth Now](http://www.perthnow.com.au/news/western-australia/aboriginal-warrior-yagan-finally-laid-to-rest/story-e6frg14u-1225890187733)
-2. [ABC](http://www.abc.net.au/news/stories/2010/07/10/2950035.htm)
-3. [The West-Yahoo!-7](http://news.yahoo.com.au/thewest/a/-/newshome/7563246/yagans-head-reburied-in-swan-valley/)
+1. [The West-Yahoo!-7](http://news.yahoo.com.au/thewest/a/-/newshome/7563246/yagans-head-reburied-in-swan-valley/)
+2. [Perth Now](http://www.perthnow.com.au/news/western-australia/aboriginal-warrior-yagan-finally-laid-to-rest/story-e6frg14u-1225890187733)
+3. [ABC](http://www.abc.net.au/news/stories/2010/07/10/2950035.htm)
 
 ### Related:
 

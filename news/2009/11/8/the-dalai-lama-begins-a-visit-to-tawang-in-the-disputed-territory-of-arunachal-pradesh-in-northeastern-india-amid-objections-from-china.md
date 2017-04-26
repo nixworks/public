@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8349010.stm)
-2. [Indian Express](http://www.indianexpress.com/news/dalai-lama-arrives-to-rousing-reception-by-tibetans/538791/0)
-3. [Hindustan Times](http://www.hindustantimes.com/india/Dalai-Lama-gets-rousing-reception-in-Tawang/474149/H1-Article1-474070.aspx)
+1. [Indian Express](http://www.indianexpress.com/news/dalai-lama-arrives-to-rousing-reception-by-tibetans/538791/0)
+2. [Hindustan Times](http://www.hindustantimes.com/india/Dalai-Lama-gets-rousing-reception-in-Tawang/474149/H1-Article1-474070.aspx)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8349010.stm)
 
 ### Related:
 

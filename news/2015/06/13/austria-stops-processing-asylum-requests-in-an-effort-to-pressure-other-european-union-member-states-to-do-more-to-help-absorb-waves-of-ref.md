@@ -7,8 +7,8 @@ Minister says other countries need to adopt fixed quota for asylum seekers
 
 ### Source:
 
-1. [Irish Times](http://www.irishtimes.com/news/world/europe/austria-stops-processing-asylum-requests-to-pressure-eu-1.2248821)
-2. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/austria/11673062/Austria-stops-processing-asylum-requests-in-EU-quota-row.html)
+1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/austria/11673062/Austria-stops-processing-asylum-requests-in-EU-quota-row.html)
+2. [Irish Times](http://www.irishtimes.com/news/world/europe/austria-stops-processing-asylum-requests-to-pressure-eu-1.2248821)
 
 ### Related:
 

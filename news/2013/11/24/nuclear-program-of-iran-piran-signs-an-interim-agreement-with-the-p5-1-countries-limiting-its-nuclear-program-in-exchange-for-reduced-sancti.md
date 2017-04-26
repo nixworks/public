@@ -7,8 +7,8 @@ Iran agrees to halt some of its work on uranium enrichment for six months, as pa
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2013/11/23/world/meast/iran-nuclear-talks-geneva/index.html)
-2. [AFP via ''Ahram](http://english.ahram.org.eg/NewsContent/2/8/87331/World/Region/Nuclear-deal-accepts-Iran-enrichment,-cracks-sanct.aspx)
+1. [AFP via ''Ahram](http://english.ahram.org.eg/NewsContent/2/8/87331/World/Region/Nuclear-deal-accepts-Iran-enrichment,-cracks-sanct.aspx)
+2. [CNN](http://edition.cnn.com/2013/11/23/world/meast/iran-nuclear-talks-geneva/index.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-25074729)
 
 ### Related:

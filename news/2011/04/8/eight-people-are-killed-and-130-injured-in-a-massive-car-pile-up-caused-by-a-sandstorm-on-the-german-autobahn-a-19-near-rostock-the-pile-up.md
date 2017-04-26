@@ -7,8 +7,8 @@ A freak sandstorm sweeps across a motorway in northern Germany causing a multipl
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13023407)
-2. [TheLocal](http://www.thelocal.de/national/20110409-34293.html)
+1. [TheLocal](http://www.thelocal.de/national/20110409-34293.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-13023407)
 
 ### Related:
 

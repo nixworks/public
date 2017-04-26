@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/08/200984102653313997.html)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090804112524975C204590)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090804112524975C204590)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/08/200984102653313997.html)
 
 ### Related:
 

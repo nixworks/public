@@ -9,8 +9,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [SABC](http://www.sabcnews.com/africa/west_africa/0,2172,98957,00.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4304745.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7757372)
-4. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42234aee:7b715a75793c68a?type=topNews&localeKey=en_ZA&storyID=7760507)
+3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42234aee:7b715a75793c68a?type=topNews&localeKey=en_ZA&storyID=7760507)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7757372)
 
 ### Related:
 

@@ -9,8 +9,8 @@ The Ohio governor will participate if Trump changes his mind.
 
 1. [The Hill](http://thehill.com/blogs/ballot-box/presidential-races/273226-kasich-skipping-debate-after-trump-bails)
 2. [The Salt Lake Tribune](http://www.sltrib.com/news/3669839-155/debate-scrapped-after-donald-trump-says)
-3. [Deseret News](http://www.deseretnews.com/article/865650178/Trump-wont-participate-in-SLC-debate-giving-speech-instead.html)
-4. [Newsmax](http://www.newsmax.com/Headline/Donald-Trump-Fox-News-debate/2016/03/16/id/719324/)
+3. [Newsmax](http://www.newsmax.com/Headline/Donald-Trump-Fox-News-debate/2016/03/16/id/719324/)
+4. [Deseret News](http://www.deseretnews.com/article/865650178/Trump-wont-participate-in-SLC-debate-giving-speech-instead.html)
 
 ### Related:
 

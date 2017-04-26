@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/12/25/pacific.earthquake/?hpt=Sbin)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/25/c_13664598.htm)
-3. [Agence France-Presse via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jf58vFcZ-zbTkdJR9TH6DK2Ugw9A)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/25/c_13664598.htm)
+2. [Agence France-Presse via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jf58vFcZ-zbTkdJR9TH6DK2Ugw9A)
+3. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/12/25/pacific.earthquake/?hpt=Sbin)
 
 ### Related:
 

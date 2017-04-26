@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2012-11-14/noda-to-dissolve-diet-nov-16-paving-way-for-japan-election-1-.html)
-2. [NHK](http://www3.nhk.or.jp/daily/english/20121114_35.html)
+1. [NHK](http://www3.nhk.or.jp/daily/english/20121114_35.html)
+2. [Bloomberg](http://www.bloomberg.com/news/2012-11-14/noda-to-dissolve-diet-nov-16-paving-way-for-japan-election-1-.html)
 
 ### Related:
 

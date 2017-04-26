@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Forbes](http://www.forbes.com/business/feeds/afx/2005/06/03/afx2073252.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4605487.stm)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N02226655.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N02226655.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4605487.stm)
 
 ### Related:
 

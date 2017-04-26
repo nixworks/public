@@ -8,8 +8,8 @@ Bad weather is again obstructing efforts to get aid to the survivors of the Indo
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/29/indonesia.quake/index.html?eref=edition)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/29/3052563.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11649292)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11649292)
+3. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/29/3052563.htm)
 
 ### Related:
 

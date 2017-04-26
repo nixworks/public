@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [VoA](http://www.voanews.com/english/2006-06-13-voa16.cfm)
-2. [AP](http://abcnews.go.com/International/wireStory?id=2069416)
+1. [AP](http://abcnews.go.com/International/wireStory?id=2069416)
+2. [VoA](http://www.voanews.com/english/2006-06-13-voa16.cfm)
 
 ### Related:
 

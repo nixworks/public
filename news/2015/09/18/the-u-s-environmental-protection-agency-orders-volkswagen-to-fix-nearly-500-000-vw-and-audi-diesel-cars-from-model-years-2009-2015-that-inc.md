@@ -7,8 +7,8 @@ The Environmental Protection Agency says nearly 500,000 Volkswagen and Audi dies
 
 ### Source:
 
-1. [EPA](http://yosemite.epa.gov/opa/admpress.nsf/d0cf6618525a9efb85257359003fb69d/dfc8e33b5ab162b985257ec40057813b!opendocument)
-2. [AP via Fox News](http://www.foxnews.com/politics/2015/09/18/epa-says-vw-intentionally-violates-clean-air-standards/)
+1. [AP via Fox News](http://www.foxnews.com/politics/2015/09/18/epa-says-vw-intentionally-violates-clean-air-standards/)
+2. [EPA](http://yosemite.epa.gov/opa/admpress.nsf/d0cf6618525a9efb85257359003fb69d/dfc8e33b5ab162b985257ec40057813b!opendocument)
 
 ### Related:
 

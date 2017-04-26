@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Zaman](http://www.zaman.com/?bl=hotnews&alt=&trh=20050307&hn=17207)
+1. [Business World](http://www.businessworld.ie/livenews.htm?a=1123496;s=rollingnews.htm)
 2. [Guardian](http://www.guardian.co.uk/arts/news/story/0,11711,1431946,00.html)
-3. [Business World](http://www.businessworld.ie/livenews.htm?a=1123496;s=rollingnews.htm)
+3. [Zaman](http://www.zaman.com/?bl=hotnews&alt=&trh=20050307&hn=17207)
 
 ### Related:
 

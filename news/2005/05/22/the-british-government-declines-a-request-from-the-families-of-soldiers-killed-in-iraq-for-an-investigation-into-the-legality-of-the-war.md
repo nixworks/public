@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4567655.stm)
-2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/chi-0505220051may22,1,2838689.story?coll=chi-newsnationworld-hed)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/chi-0505220051may22,1,2838689.story?coll=chi-newsnationworld-hed)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4567655.stm)
 
 ### Related:
 

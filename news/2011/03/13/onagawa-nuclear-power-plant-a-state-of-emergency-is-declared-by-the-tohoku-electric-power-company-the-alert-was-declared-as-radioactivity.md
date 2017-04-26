@@ -7,18 +7,18 @@ Japanese officials said Sunday they presumed partial meltdowns had occurred at t
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
-2. [AP via WKBT](http://www.wkbt.com/Global/story.asp?S=14241524)
-3. [NHK](http://www3.nhk.or.jp/daily/english/14_09.html)
-4. [Kyodo](http://english.kyodonews.jp/news/2011/03/77410.html)
-5. [Reuters](http://www.reuters.com/article/2011/03/12/us-japan-quake-idUSTRE72A0SS20110312)
-6. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/12/AR2011031205493.html?hpid=topnews)
-7. [Sky News](http://news.sky.com/skynews/Article/201103115950844)
-8. [IAEA Alert Log](http://www.iaea.org/press/?p=1173)
-9. [AP via Star Advertiser](http://www.staradvertiser.com/news/breaking/117854594.html)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110313/wl_asia_afp/japanquakemeltdown)
+2. [Sky News](http://news.sky.com/skynews/Article/201103115950844)
+3. [AP via Star Advertiser](http://www.staradvertiser.com/news/breaking/117854594.html)
+4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/12/AR2011031205493.html?hpid=topnews)
+5. [Kyodo](http://english.kyodonews.jp/news/2011/03/77410.html)
+6. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/3/13/worldupdates/2011-03-13T125402Z_01_NOOTR_RTRMDNC_0_-555227-12&sec=Worldupdates)
+7. [Reuters](http://www.reuters.com/article/2011/03/12/us-japan-quake-idUSTRE72A0SS20110312)
+8. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
+9. [NHK](http://www3.nhk.or.jp/daily/english/14_09.html)
 10. [CNN](http://www.cnn.com/2011/US/03/12/quake.response/index.html)
-11. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110313/wl_asia_afp/japanquakemeltdown)
-12. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/3/13/worldupdates/2011-03-13T125402Z_01_NOOTR_RTRMDNC_0_-555227-12&sec=Worldupdates)
+11. [AP via WKBT](http://www.wkbt.com/Global/story.asp?S=14241524)
+12. [IAEA Alert Log](http://www.iaea.org/press/?p=1173)
 13. [New York Times](http://www.nytimes.com/2011/03/13/world/asia/13nuclear.html)
 
 ### Related:

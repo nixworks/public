@@ -7,8 +7,8 @@ Amnesty says Nigerian security forces have killed more than 150 protesters since
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-38087836)
-2. [Amnesty](https://www.amnesty.org/en/latest/news/2016/11/peaceful-pro-biafra-activists-killed-in-chilling-crackdown/)
+1. [Amnesty](https://www.amnesty.org/en/latest/news/2016/11/peaceful-pro-biafra-activists-killed-in-chilling-crackdown/)
+2. [BBC](http://www.bbc.com/news/world-africa-38087836)
 
 ### Related:
 

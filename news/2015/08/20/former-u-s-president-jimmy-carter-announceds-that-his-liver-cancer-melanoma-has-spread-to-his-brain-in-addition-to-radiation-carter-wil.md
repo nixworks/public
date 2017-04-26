@@ -7,9 +7,9 @@ The 90-year-old former president says he is &ldquo;perfectly at ease with whatev
 
 ### Source:
 
-1. [OncLive](http://www.onclive.com/web-exclusives/frontline-pembrolizumab-receives-priority-review-in-melanoma)
-2. [The Washington Post](http://www.washingtonpost.com/national/health-science/jimmy-carter-to-undergo-latest-immune-treatment-for-brain-cancer/2015/08/20/5b962c02-4775-11e5-846d-02792f854297_story.html)
-3. [WRDW-TV GA](http://www.wrdw.com/home/headlines/Jimmy-Carter-to-discuss-cancer-diagnosis-in-Atlanta-on-Thursday-322206642.html)
+1. [The Washington Post](http://www.washingtonpost.com/national/health-science/jimmy-carter-to-undergo-latest-immune-treatment-for-brain-cancer/2015/08/20/5b962c02-4775-11e5-846d-02792f854297_story.html)
+2. [WRDW-TV GA](http://www.wrdw.com/home/headlines/Jimmy-Carter-to-discuss-cancer-diagnosis-in-Atlanta-on-Thursday-322206642.html)
+3. [OncLive](http://www.onclive.com/web-exclusives/frontline-pembrolizumab-receives-priority-review-in-melanoma)
 
 ### Related:
 

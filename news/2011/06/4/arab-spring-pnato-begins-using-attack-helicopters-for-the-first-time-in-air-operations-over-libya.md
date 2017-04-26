@@ -7,12 +7,12 @@ Thousands celebrate in Yemen as President Saleh leaves for treatment in Saudi Ar
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2011/06/04/Ban-urges-dialogue-on-Bahrains-rulers/UPI-11511307205354/)
-2. [UPI](http://www.upi.com/Top_News/World-News/2011/06/04/Russia-pulling-diplomats-out-of-Yemen/UPI-70461307212315/)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13658445)
+2. [UPI](http://www.upi.com/Top_News/World-News/2011/06/04/Ban-urges-dialogue-on-Bahrains-rulers/UPI-11511307205354/)
 3. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE75301420110604)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-13658445)
-5. [Reuters via Haaretz](http://www.haaretz.com/news/mideast-in-turmoil/more-than-60-killed-in-deadliest-day-of-syria-protests-1.365841)
-6. [NATO](http://www.nato.int/cps/en/SID-734357B5-7DDA1F6A/natolive/news_75021.htm)
+4. [NATO](http://www.nato.int/cps/en/SID-734357B5-7DDA1F6A/natolive/news_75021.htm)
+5. [UPI](http://www.upi.com/Top_News/World-News/2011/06/04/Russia-pulling-diplomats-out-of-Yemen/UPI-70461307212315/)
+6. [Reuters via Haaretz](http://www.haaretz.com/news/mideast-in-turmoil/more-than-60-killed-in-deadliest-day-of-syria-protests-1.365841)
 
 ### Related:
 

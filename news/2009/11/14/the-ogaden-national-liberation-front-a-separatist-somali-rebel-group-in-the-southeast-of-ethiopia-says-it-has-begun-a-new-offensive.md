@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ethiopian Review](http://www.ethiopianreview.com/news/6919)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8360199.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8360199.stm)
+2. [Ethiopian Review](http://www.ethiopianreview.com/news/6919)
 
 ### Related:
 

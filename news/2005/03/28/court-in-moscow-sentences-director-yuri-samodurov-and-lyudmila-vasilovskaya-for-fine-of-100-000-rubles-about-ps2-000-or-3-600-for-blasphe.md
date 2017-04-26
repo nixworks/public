@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4387833.stm)
+1. [Mosnews](http://www.mosnews.com/news/2005/03/28/museumfined.shtml)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/261a26a6e5f3c58b0bd0b13421cde391.htm)
-3. [Mosnews](http://www.mosnews.com/news/2005/03/28/museumfined.shtml)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/4387833.stm)
 
 ### Related:
 

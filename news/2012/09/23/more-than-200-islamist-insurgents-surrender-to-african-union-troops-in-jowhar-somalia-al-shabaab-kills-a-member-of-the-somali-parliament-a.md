@@ -7,8 +7,8 @@ Islamist rebels said they shot dead a Somali lawmaker in Mogadishu on Saturday a
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/23/us-somalia-conflict-idUSBRE88M03G20120923)
-2. [Pana via Afrique en Ligne](http://www.afriquejet.com/somalia-al-shabaab-fighters-in-mass-surrender-in-jowhar-2012092345714.html)
+1. [Pana via Afrique en Ligne](http://www.afriquejet.com/somalia-al-shabaab-fighters-in-mass-surrender-in-jowhar-2012092345714.html)
+2. [Reuters](http://www.reuters.com/article/2012/09/23/us-somalia-conflict-idUSBRE88M03G20120923)
 
 ### Related:
 

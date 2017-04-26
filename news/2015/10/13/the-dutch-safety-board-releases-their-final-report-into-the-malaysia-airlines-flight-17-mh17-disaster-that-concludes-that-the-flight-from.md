@@ -8,8 +8,8 @@ Dutch safety team&#39;s final report into the downed Malaysian airliner will not
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34511973)
-2. [Sky News](http://www.skynews.com.au/news/top-stories/2015/10/13/flight-mh17--investigators-to-publish-report.html)
-3. [Al Jazeera](http://www.aljazeera.com/indepth/features/2015/10/mh17-report-answer-questions-151012064226695.html)
+2. [Al Jazeera](http://www.aljazeera.com/indepth/features/2015/10/mh17-report-answer-questions-151012064226695.html)
+3. [Sky News](http://www.skynews.com.au/news/top-stories/2015/10/13/flight-mh17--investigators-to-publish-report.html)
 4. [9News](http://www.9news.com.au/world/2015/10/13/20/01/mh17-was-shot-down-by-russian-made-missile-investigation-reveals)
 
 ### Related:

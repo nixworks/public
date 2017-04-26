@@ -7,8 +7,8 @@ Small-scale possession is decriminalised as part of attempt to focus on traffick
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/08/200982118315790550.html)
-2. [The Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/Mexico-allows-drugs-for-personal-use/articleshow/4920880.cms)
+1. [The Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/Mexico-allows-drugs-for-personal-use/articleshow/4920880.cms)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/08/200982118315790550.html)
 
 ### Related:
 

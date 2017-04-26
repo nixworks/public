@@ -7,10 +7,10 @@ The Labour Party has become the biggest party in the State for the first time in
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0610/breaking70.html)
-2. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100610-714498.html?mod=WSJ_latestheadlines)
-3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65963F20100610)
-4. [RTÉ](http://www.rte.ie/news/2010/0610/politics.html)
+1. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100610-714498.html?mod=WSJ_latestheadlines)
+2. [RTÉ](http://www.rte.ie/news/2010/0610/politics.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0610/breaking70.html)
+4. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65963F20100610)
 
 ### Related:
 

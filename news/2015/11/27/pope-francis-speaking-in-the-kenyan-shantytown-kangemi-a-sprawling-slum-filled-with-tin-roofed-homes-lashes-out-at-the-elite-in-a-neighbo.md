@@ -7,8 +7,8 @@ Pope Francis on Friday denounced the conditions that many are forced to live in 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/11/27/africa/africa-pope-francis-trip/)
-2. [USA Today](http://www.usatoday.com/story/news/world/2015/11/27/pope-francis-kenya-visit/76440712/)
+1. [USA Today](http://www.usatoday.com/story/news/world/2015/11/27/pope-francis-kenya-visit/76440712/)
+2. [CNN](http://www.cnn.com/2015/11/27/africa/africa-pope-francis-trip/)
 
 ### Related:
 

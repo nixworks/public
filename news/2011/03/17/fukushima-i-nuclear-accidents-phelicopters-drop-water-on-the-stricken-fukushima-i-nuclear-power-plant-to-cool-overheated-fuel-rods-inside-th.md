@@ -7,15 +7,15 @@ CBS News Chicago station reports trace amounts of radiation clinging to flights 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
-2. [Voice of America](http://www.voanews.com/english/news/asia/UN-Nuclear-Agency-Says-Situation-in-Japan-Serious-but-Stable-118186704.html)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-12768148)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12779512)
-5. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5imhX4y2I4jBlHm9SfeSSChmDXPgg?docId=82fbdc9e4023455fa0a4fabe590a1d1f)
-6. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12769392)
-7. [MSNBC](http://www.msnbc.msn.com/id/42119298/ns/world_news-asiapacific/)
-8. [CBS News](http://www.cbsnews.com/stories/2011/03/17/national/main20044341.shtml?tag=strip)
-9. [BBC](http://www.bbc.co.uk/news/world-europe-12769810)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12769392)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-12769810)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12779512)
+4. [CBS News](http://www.cbsnews.com/stories/2011/03/17/national/main20044341.shtml?tag=strip)
+5. [Voice of America](http://www.voanews.com/english/news/asia/UN-Nuclear-Agency-Says-Situation-in-Japan-Serious-but-Stable-118186704.html)
+6. [BBC](http://www.bbc.co.uk/news/world-latin-america-12768148)
+7. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
+8. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5imhX4y2I4jBlHm9SfeSSChmDXPgg?docId=82fbdc9e4023455fa0a4fabe590a1d1f)
+9. [MSNBC](http://www.msnbc.msn.com/id/42119298/ns/world_news-asiapacific/)
 
 ### Related:
 

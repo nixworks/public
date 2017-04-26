@@ -7,8 +7,8 @@ Tribune Publishing Co is reviewing an unsolicited and possibly unwelcome $815 mi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-tribune-publshng-m-a-gannett-idUSKCN0XM17S)
-2. [Orange County Register](http://www.ocregister.com/articles/tribune-708746-court-temporary.html)
+1. [Orange County Register](http://www.ocregister.com/articles/tribune-708746-court-temporary.html)
+2. [Reuters](http://www.reuters.com/article/us-tribune-publshng-m-a-gannett-idUSKCN0XM17S)
 3. [Chicago Tribune](http://www.chicagotribune.com/business/ct-tribune-gannett-offer-0426-biz-20160425-story.html)
 
 ### Related:

@@ -7,9 +7,9 @@ The France versus Ireland Six Nations match was cancelled just minutes before ki
 
 ### Source:
 
-1. [RTÉ News](http://www.rte.ie/news/2012/0211/rugby.html)
-2. [The Guardian](http://www.guardian.co.uk/sport/2012/feb/11/six-nations-france-ireland-live)
-3. [BBC Sport](http://www.bbc.co.uk/sport/0/rugby-union/16969821)
+1. [The Guardian](http://www.guardian.co.uk/sport/2012/feb/11/six-nations-france-ireland-live)
+2. [BBC Sport](http://www.bbc.co.uk/sport/0/rugby-union/16969821)
+3. [RTÉ News](http://www.rte.ie/news/2012/0211/rugby.html)
 
 ### Related:
 

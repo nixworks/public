@@ -7,8 +7,8 @@ Human rights campaigners condemn the Libyan execution of 18 people, mostly forei
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i_DWD6W8NFYH9MRyS6LZ5tburNog)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10214416.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10214416.stm)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i_DWD6W8NFYH9MRyS6LZ5tburNog)
 
 ### Related:
 

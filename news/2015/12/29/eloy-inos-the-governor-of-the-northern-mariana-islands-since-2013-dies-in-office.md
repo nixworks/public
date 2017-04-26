@@ -7,8 +7,8 @@ Gov. Eloy S. Inos has passed away in the U.S. mainland, sources told Saipan Trib
 
 ### Source:
 
-1. [Marianas Variety](http://www.mvariety.com/cnmi/cnmi-news/local/82659-update-ralph-torres-victor-hocog-will-be-sworn-in-at-3-p-m-tuesday-at-the-multi-purpose-center)
-2. [Saipan Tribune](http://www.saipantribune.com/index.php/breaking-news-gov-eloy-inos-passes-away/)
+1. [Saipan Tribune](http://www.saipantribune.com/index.php/breaking-news-gov-eloy-inos-passes-away/)
+2. [Marianas Variety](http://www.mvariety.com/cnmi/cnmi-news/local/82659-update-ralph-torres-victor-hocog-will-be-sworn-in-at-3-p-m-tuesday-at-the-multi-purpose-center)
 
 ### Related:
 

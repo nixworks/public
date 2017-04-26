@@ -7,8 +7,8 @@ In stripping Armstrong of his titles, USADA said he used EPO, blood transfusions
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/sports/cycling/story/2012-08-23/Armstrong-doping-charges/57258616/1)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/national/usada-says-it-will-strip-armstrong-of-7-tour-de-france-titles-ban-him-from-cycling-for-life/2012/08/23/d694f218-ed95-11e1-866f-60a00f604425_story.html?wpisrc=al_sports)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/national/usada-says-it-will-strip-armstrong-of-7-tour-de-france-titles-ban-him-from-cycling-for-life/2012/08/23/d694f218-ed95-11e1-866f-60a00f604425_story.html?wpisrc=al_sports)
+2. [USA Today](http://www.usatoday.com/sports/cycling/story/2012-08-23/Armstrong-doping-charges/57258616/1)
 
 ### Related:
 

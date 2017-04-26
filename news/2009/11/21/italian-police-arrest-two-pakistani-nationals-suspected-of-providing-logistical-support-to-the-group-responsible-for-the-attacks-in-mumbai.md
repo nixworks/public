@@ -8,8 +8,8 @@ Italian anti-terrorist police have arrested two Pakistanis suspected of helping 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5AK0K220091121)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8372080.stm)
-3. [The Hindu](http://www.hindu.com/2009/11/22/stories/2009112255760100.htm)
+2. [The Hindu](http://www.hindu.com/2009/11/22/stories/2009112255760100.htm)
+3. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8372080.stm)
 
 ### Related:
 

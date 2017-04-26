@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [United Nations](http://www.un.org/apps/news/story.asp?NewsID=37343&Cr=democratic&Cr1=congo)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12254178)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12254178)
+2. [United Nations](http://www.un.org/apps/news/story.asp?NewsID=37343&Cr=democratic&Cr1=congo)
 
 ### Related:
 

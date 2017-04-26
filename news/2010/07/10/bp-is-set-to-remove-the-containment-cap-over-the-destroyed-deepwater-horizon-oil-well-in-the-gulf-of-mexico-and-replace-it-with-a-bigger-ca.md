@@ -7,8 +7,8 @@ Underwater robots successfully remove a leaking cap as BP tries again to halt th
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/07/201071094411206953.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10583902.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10583902.stm)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/07/201071094411206953.html)
 
 ### Related:
 

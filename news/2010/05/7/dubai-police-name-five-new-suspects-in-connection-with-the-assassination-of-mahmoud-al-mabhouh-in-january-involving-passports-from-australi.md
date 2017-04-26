@@ -7,8 +7,8 @@ Police link five more people to the murder of senior Hamas commander at a hotel.
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/may/07/dubai-identifies-suspects-hamas-assassination)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/07/c_13282214.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/07/c_13282214.htm)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/may/07/dubai-identifies-suspects-hamas-assassination)
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/201057121720281597.html)
 
 ### Related:

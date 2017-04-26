@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNBC](http://www.cnbc.com/id/37078497)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8674241.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8674241.stm)
+2. [CNBC](http://www.cnbc.com/id/37078497)
 
 ### Related:
 

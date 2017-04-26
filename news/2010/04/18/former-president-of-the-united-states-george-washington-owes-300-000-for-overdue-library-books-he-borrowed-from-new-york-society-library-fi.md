@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Daily News](http://www.nydailynews.com/ny_local/2010/04/17/2010-04-17_read_it__weep_by_george_prez_racks_up_300g_late_fee_for_two_books.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/apr/18/george-washington-library-new-york)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/apr/18/george-washington-library-new-york)
+2. [New York Daily News](http://www.nydailynews.com/ny_local/2010/04/17/2010-04-17_read_it__weep_by_george_prez_racks_up_300g_late_fee_for_two_books.html)
 
 ### Related:
 

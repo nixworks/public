@@ -7,8 +7,8 @@ SEOUL, Sept. 25 (Yonhap) -- South Korea is seeking to verify media reports that 
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/national/2012/09/25/92/0301000000AEN20120925008400315F.HTML)
-2. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120925p2g00m0in069000c.html)
+1. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120925p2g00m0in069000c.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/national/2012/09/25/92/0301000000AEN20120925008400315F.HTML)
 
 ### Related:
 

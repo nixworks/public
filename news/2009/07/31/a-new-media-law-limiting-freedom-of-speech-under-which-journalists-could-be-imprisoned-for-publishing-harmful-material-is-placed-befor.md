@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [El Universal](http://english.eluniversal.com/2009/07/30/en_pol_esp_all-media-crimes-t_30A2563003.shtml)
+1. [El Universal](http://english.eluniversal.com/2009/07/31/en_pol_esp_iapa:-law-on-media-o_31A2570363.shtml)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/30/AR2009073002446.html)
 3. [Miami Herald](http://www.miamiherald.com/news/americas/venezuela/story/1165130.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/americas/8177862.stm)
-5. [El Universal](http://english.eluniversal.com/2009/07/31/en_pol_esp_iapa:-law-on-media-o_31A2570363.shtml)
+4. [El Universal](http://english.eluniversal.com/2009/07/30/en_pol_esp_all-media-crimes-t_30A2563003.shtml)
+5. [BBC](http://news.bbc.co.uk/2/hi/americas/8177862.stm)
 
 ### Related:
 

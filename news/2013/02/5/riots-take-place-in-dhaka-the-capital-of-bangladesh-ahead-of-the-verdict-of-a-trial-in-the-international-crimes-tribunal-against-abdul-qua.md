@@ -7,8 +7,8 @@ Jamaat-e-Islami Abdul Quader Molla was sentenced following charges of rape, geno
 
 ### Source:
 
-1. [AFP via Dawn.com](http://dawn.com/2013/02/05/deadly-riots-ahead-of-bangladesh-war-crimes-verdict/)
-2. [AFP via ''The Express Tribune](http://tribune.com.pk/story/502922/deadly-riots-ahead-of-bangladesh-war-crimes-verdict/)
+1. [AFP via ''The Express Tribune](http://tribune.com.pk/story/502922/deadly-riots-ahead-of-bangladesh-war-crimes-verdict/)
+2. [AFP via Dawn.com](http://dawn.com/2013/02/05/deadly-riots-ahead-of-bangladesh-war-crimes-verdict/)
 
 ### Related:
 

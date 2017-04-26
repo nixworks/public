@@ -7,8 +7,8 @@ Two major aid agencies launch appeals for seven million people facing food short
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/world/aid-agencies-appeal-for-west-africa-food-crisis-20100621-yqbi.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10362459.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10362459.stm)
+2. [The Sydney Morning Herald](http://www.smh.com.au/world/aid-agencies-appeal-for-west-africa-food-crisis-20100621-yqbi.html)
 
 ### Related:
 

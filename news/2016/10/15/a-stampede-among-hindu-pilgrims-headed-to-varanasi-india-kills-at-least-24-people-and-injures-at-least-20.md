@@ -7,8 +7,8 @@ At least 24 people died and dozens more were hurt in a stampede in the ancient n
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-india-stampede-idUSKBN12F0CU?il=0)
-2. [AP via ''The New York Times](http://www.nytimes.com/2016/10/16/world/asia/india-hindu-stampede.html)
+1. [AP via ''The New York Times](http://www.nytimes.com/2016/10/16/world/asia/india-hindu-stampede.html)
+2. [Reuters](http://www.reuters.com/article/us-india-stampede-idUSKBN12F0CU?il=0)
 
 ### Related:
 

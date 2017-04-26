@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Arabic News](http://www.arabicnews.com/ansub/Daily/Day/050602/2005060222.html)
-2. [Al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=8708)
+1. [Al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=8708)
+2. [Arabic News](http://www.arabicnews.com/ansub/Daily/Day/050602/2005060222.html)
 
 ### Related:
 

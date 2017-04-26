@@ -7,9 +7,9 @@ President Mary McAleese has found herself at the centre of a row with unionists,
 
 ### Source:
 
-1. [Ireland Online](http://212.2.162.45/news/story.asp?j=131791138&p=y3y79y844&n=131791898)
-2. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4214263.stm)
-3. [RTE](http://www.rte.ie/news/2005/0127/mcaleese.html)
+1. [RTE](http://www.rte.ie/news/2005/0127/mcaleese.html)
+2. [Ireland Online](http://212.2.162.45/news/story.asp?j=131791138&p=y3y79y844&n=131791898)
+3. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4214263.stm)
 
 ### Related:
 

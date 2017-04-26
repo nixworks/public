@@ -7,8 +7,8 @@ Myanmar opposition leader arrives in Thailand, leaving country where she was lon
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252923137329850.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ikakx1myDewtt8-2yFCk9K2w1kMA?docId=CNG.5b2286733410766dff5377a676c68019.431)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ikakx1myDewtt8-2yFCk9K2w1kMA?docId=CNG.5b2286733410766dff5377a676c68019.431)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252923137329850.html)
 
 ### Related:
 

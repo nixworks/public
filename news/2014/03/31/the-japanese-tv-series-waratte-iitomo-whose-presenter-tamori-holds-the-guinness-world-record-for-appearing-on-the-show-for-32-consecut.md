@@ -7,8 +7,8 @@ TV personality Kazuyoshi Morita, better known as Tamori, signed off from his noo
 
 ### Source:
 
-1. [The Japan Times](http://www.japantimes.co.jp/news/2014/03/31/national/waratte-iitomo-wraps-up-after-32-years-on-air/)
-2. [The Japan News](http://the-japan-news.com/news/article/0001174068)
+1. [The Japan News](http://the-japan-news.com/news/article/0001174068)
+2. [The Japan Times](http://www.japantimes.co.jp/news/2014/03/31/national/waratte-iitomo-wraps-up-after-32-years-on-air/)
 
 ### Related:
 

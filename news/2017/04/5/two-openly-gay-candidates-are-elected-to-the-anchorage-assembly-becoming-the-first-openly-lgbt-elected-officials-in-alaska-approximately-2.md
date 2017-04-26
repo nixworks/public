@@ -7,5 +7,5 @@ Felix Rivera and Christopher Constant WASHINGTON, D.C. – Two Victory Fund endo
 
 ### Source:
 
-1. [LGBT Weekly](http://lgbtweekly.com/2017/04/05/lgbtq-candidates-win-historic-election-in-alaska/)
-2. [Alaska Commons](http://www.alaskacommons.com/2017/04/05/anchorage-makes-history-2017-local-elections-despite-ridiculously-low-voter-turnout/)
+1. [Alaska Commons](http://www.alaskacommons.com/2017/04/05/anchorage-makes-history-2017-local-elections-despite-ridiculously-low-voter-turnout/)
+2. [LGBT Weekly](http://lgbtweekly.com/2017/04/05/lgbtq-candidates-win-historic-election-in-alaska/)

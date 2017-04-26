@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Deccan Chronicle](http://www.deccanchronicle.com/international/two-indians-die-afghanistan-terror-attack-700)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/11/c_13550741.htm)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gsCqBqqpd5I4KsfsdyGr5VU0J2pw?docId=CNG.32619d57c24fb02349e32c5f5887f630.1381)
-4. [Xinhua'' via PLA](http://english.pladaily.com.cn/)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/11/c_13550741.htm)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gsCqBqqpd5I4KsfsdyGr5VU0J2pw?docId=CNG.32619d57c24fb02349e32c5f5887f630.1381)
+3. [Xinhua'' via PLA](http://english.pladaily.com.cn/)
+4. [Deccan Chronicle](http://www.deccanchronicle.com/international/two-indians-die-afghanistan-terror-attack-700)
 
 ### Related:
 

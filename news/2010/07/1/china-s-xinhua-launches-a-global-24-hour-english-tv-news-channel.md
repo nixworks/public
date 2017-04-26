@@ -9,8 +9,8 @@
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1066948/1/.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/01/c_13378273.htm)
-3. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201007/20100701/article_441695.htm)
-4. [AP via Yahoo!](http://news.yahoo.com/s/ap/20100701/ap_on_en_tv/as_china_global_media_3)
+3. [AP via Yahoo!](http://news.yahoo.com/s/ap/20100701/ap_on_en_tv/as_china_global_media_3)
+4. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201007/20100701/article_441695.htm)
 
 ### Related:
 

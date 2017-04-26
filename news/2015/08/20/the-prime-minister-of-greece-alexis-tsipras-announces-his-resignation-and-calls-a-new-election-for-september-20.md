@@ -7,9 +7,9 @@ Embattled prime minister faces Left wing split after standing down and calling n
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-34007859)
-2. [The Telegraph](http://www.telegraph.co.uk/finance/economics/11814487/Greece-live-Alexis-Tsipras-to-resign-and-call-September-snap-election.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/2015/08/greek-pm-resign-calls-early-elections-150820134253968.html)
+1. [The Telegraph](http://www.telegraph.co.uk/finance/economics/11814487/Greece-live-Alexis-Tsipras-to-resign-and-call-September-snap-election.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/2015/08/greek-pm-resign-calls-early-elections-150820134253968.html)
+3. [BBC](http://www.bbc.com/news/world-europe-34007859)
 
 ### Related:
 

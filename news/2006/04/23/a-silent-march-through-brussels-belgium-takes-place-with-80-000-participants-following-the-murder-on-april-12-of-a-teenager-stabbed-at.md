@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VRT](http://www.vrtnieuws.net/nieuwsnet_master/versie2/english/details/060423_prepmarch/index.shtml)
-2. [Le Soir](http://www.lesoir.be/rubriques/belgique/page_5718_427968.shtml)
+1. [Le Soir](http://www.lesoir.be/rubriques/belgique/page_5718_427968.shtml)
+2. [VRT](http://www.vrtnieuws.net/nieuwsnet_master/versie2/english/details/060423_prepmarch/index.shtml)
 
 ### Related:
 

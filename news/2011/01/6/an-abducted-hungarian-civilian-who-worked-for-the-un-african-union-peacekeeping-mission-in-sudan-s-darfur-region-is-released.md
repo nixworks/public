@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i3ozM8Z68BPckoisWhTGyhqIVNhQ?docId=CNG.05a6e85bfb37cddd7fe037aaf5164bc0.691)
-2. [ (All Africa](http://allafrica.com/stories/201101060074.html)
+1. [ (All Africa](http://allafrica.com/stories/201101060074.html)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i3ozM8Z68BPckoisWhTGyhqIVNhQ?docId=CNG.05a6e85bfb37cddd7fe037aaf5164bc0.691)
 3. [Radio Dabanga](http://195.190.28.213/node/8029)
 
 ### Related:

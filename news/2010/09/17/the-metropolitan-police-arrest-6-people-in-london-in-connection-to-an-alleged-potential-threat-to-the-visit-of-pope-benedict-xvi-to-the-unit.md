@@ -7,8 +7,8 @@ Six men are now being questioned by police in London following reports of a thre
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0917/pope.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-11346001)
+1. [BBC](http://www.bbc.co.uk/news/uk-11346001)
+2. [RTÉ](http://www.rte.ie/news/2010/0917/pope.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/sep/17/pope-visit-terror-police-arrests-street-cleaners)
 
 ### Related:

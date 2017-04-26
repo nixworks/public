@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [KVOA Tucson](http://kvoa.com/Global/story.asp?S=6850889)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/6920156.stm)
-3. [KPHO Phoenix](http://www.kpho.com/news/13770683/detail.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/6920156.stm)
+2. [KPHO Phoenix](http://www.kpho.com/news/13770683/detail.html)
+3. [KVOA Tucson](http://kvoa.com/Global/story.asp?S=6850889)
 
 ### Related:
 

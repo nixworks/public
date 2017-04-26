@@ -7,5 +7,5 @@ A 5.8 earthquake sent tremors from the nation’s capital to New York City and N
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2011/08/24/us/24quake.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/aug/23/earthquake-strikes-america-east-coast)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/aug/23/earthquake-strikes-america-east-coast)
+2. [New York Times](http://www.nytimes.com/2011/08/24/us/24quake.html)

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-H1w9pJcgpT98redkES8uKS-Z6A)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2009/10/15/37/0301000000AEN20091015004900315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2009/10/15/37/0301000000AEN20091015004900315F.HTML)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-H1w9pJcgpT98redkES8uKS-Z6A)
 3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSP418379)
 
 ### Related:

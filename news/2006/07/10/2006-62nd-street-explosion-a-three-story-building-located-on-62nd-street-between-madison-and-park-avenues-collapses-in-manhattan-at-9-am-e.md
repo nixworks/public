@@ -7,13 +7,13 @@ Authorities were investigating whether a doctor who survived the explosion of a 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-07-10T141909Z_01_N10334591_RTRUKOC_0_US-USA-EXPLOSION.xml)
-2. [MSNBC/AP](http://www.msnbc.msn.com/id/13801112/)
+1. [MSNBC/AP](http://www.msnbc.msn.com/id/13801112/)
+2. [WNBC](http://www.wnbc.com/news/9490570/detail.html)
 3. [Associated Press](http://www.myfoxny.com/myfox/pages/Home/Detail?contentId=182596&version=9&locale=EN-US&layoutCode=TSTY&pageId=1.1.1)
 4. [CNN](http://www.cnn.com/2006/US/07/10/building.collapse/index.html)
-5. [WNBC](http://www.wnbc.com/news/9490570/detail.html)
-6. [WABC](http://abclocal.go.com/wabc/story?section=traffic&id=4350943)
-7. [Associated Press](http://www.nytimes.com/2006/07/10/nyregion/10cnd-blast.html?hp&ex=1152590400&en=2756d46347201da8&ei=5094&partner=homepage)
+5. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-07-10T141909Z_01_N10334591_RTRUKOC_0_US-USA-EXPLOSION.xml)
+6. [Associated Press](http://www.nytimes.com/2006/07/10/nyregion/10cnd-blast.html?hp&ex=1152590400&en=2756d46347201da8&ei=5094&partner=homepage)
+7. [WABC](http://abclocal.go.com/wabc/story?section=traffic&id=4350943)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1945579.htm)
-2. [ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1946010.htm)
-3. [ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1946103.htm)
+2. [ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1946103.htm)
+3. [ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1946010.htm)
 
 ### Related:
 

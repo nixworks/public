@@ -8,8 +8,8 @@ The students refused to allow Anthony Lawlor into his own constituency office in
 ### Source:
 
 1. [The Journal](http://www.thejournal.ie/watch-student-leader-confronts-fg-td-outside-his-occupied-constituency-office-295637-Dec2011/)
-2. [Irish Central](http://www.irishcentral.com/story/news/danny_boy/students-occupy-politicians-office-as-budget-day-nears-134968003.html)
-3. [RTE](http://www.rte.ie/news/2011/1203/education.html)
+2. [RTE](http://www.rte.ie/news/2011/1203/education.html)
+3. [Irish Central](http://www.irishcentral.com/story/news/danny_boy/students-occupy-politicians-office-as-budget-day-nears-134968003.html)
 
 ### Related:
 

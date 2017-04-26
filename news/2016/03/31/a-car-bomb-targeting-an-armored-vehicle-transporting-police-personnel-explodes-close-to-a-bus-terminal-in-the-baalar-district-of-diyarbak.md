@@ -7,10 +7,10 @@ WASHINGTON: Turkish President Tayyip Erdogan said an attack in the southeastern 
 
 ### Source:
 
-1. [Arab News](http://www.arabnews.com/news/903911)
+1. [AP](http://bigstory.ap.org/article/e0fcaea56a3843b3ae9708d7c9083052)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/03/loud-explosion-rocks-turkey-diyarbakir-160331142831391.html)
-3. [AP](http://bigstory.ap.org/article/e0fcaea56a3843b3ae9708d7c9083052)
-4. [CNN](http://www.cnn.com/2016/03/31/europe/turkey-violence/index.html)
+3. [CNN](http://www.cnn.com/2016/03/31/europe/turkey-violence/index.html)
+4. [Arab News](http://www.arabnews.com/news/903911)
 
 ### Related:
 

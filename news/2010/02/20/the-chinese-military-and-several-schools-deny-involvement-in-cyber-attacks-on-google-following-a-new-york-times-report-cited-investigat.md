@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-02/20/content_9475325.htm)
-2. [Press Trust of India](http://www.ptinews.com/news/527078_No-hand-in-cyber-attacks-on-Google--says-China)
+1. [Press Trust of India](http://www.ptinews.com/news/527078_No-hand-in-cyber-attacks-on-Google--says-China)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-02/20/content_9475325.htm)
 
 ### Related:
 

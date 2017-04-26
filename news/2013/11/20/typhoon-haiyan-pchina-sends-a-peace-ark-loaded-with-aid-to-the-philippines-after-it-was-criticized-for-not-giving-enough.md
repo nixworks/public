@@ -7,8 +7,8 @@ China says it will send medical teams and a naval hospital ship to the typhoon-h
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24997186)
-2. [Voice of America](http://www.voanews.com/content/china-to-send-peace-ark-to-help-typhoonhit-philippines/1793742.html)
+1. [Voice of America](http://www.voanews.com/content/china-to-send-peace-ark-to-help-typhoonhit-philippines/1793742.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-china-24997186)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/local/29156/huge-n-korea-arms-cache-seized)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8410042.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8410042.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/local/29156/huge-n-korea-arms-cache-seized)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Observers will be removed within days, with plans to set up a smaller political 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/2012816162810268283.html)
-2. [Reuters via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9480363/Syria-Bashar-al-Assads-brother-Maher-loses-leg.html)
-3. [Evening Standard](http://www.standard.co.uk/news/world/25-million-people-need-urgent-aid-in-syria-says-un-chief-amos-8053058.html)
+1. [Reuters via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9480363/Syria-Bashar-al-Assads-brother-Maher-loses-leg.html)
+2. [Evening Standard](http://www.standard.co.uk/news/world/25-million-people-need-urgent-aid-in-syria-says-un-chief-amos-8053058.html)
+3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/2012816162810268283.html)
 4. [The Jakarta Post](http://www.thejakartapost.com/news/2012/08/16/oic-decides-suspend-syria-s-membership-says-marty.html)
 
 ### Related:

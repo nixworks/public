@@ -7,9 +7,9 @@ Fearing exposure to the Zika virus, Miami Marlins and Pittsburgh Pirates players
 
 ### Source:
 
-1. [AP via ESPN](http://espn.go.com/mlb/story/_/id/15288667/players-voice-zika-fears-puerto-rico-games)
-2. [Yahoo! Sports](http://sports.yahoo.com/news/sources--zika-has-pirates--marlins-players-worried-about-series-in-puerto-rico-001018572.html#)
-3. [The Sporting News](http://www.sportingnews.com/sport-news/4702761-marlins-pirates-zika-virus-mosquitoes-puerto-rico-series)
+1. [Yahoo! Sports](http://sports.yahoo.com/news/sources--zika-has-pirates--marlins-players-worried-about-series-in-puerto-rico-001018572.html#)
+2. [The Sporting News](http://www.sportingnews.com/sport-news/4702761-marlins-pirates-zika-virus-mosquitoes-puerto-rico-series)
+3. [AP via ESPN](http://espn.go.com/mlb/story/_/id/15288667/players-voice-zika-fears-puerto-rico-games)
 
 ### Related:
 

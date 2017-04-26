@@ -7,9 +7,9 @@ Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and 
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/oly_ath_men_s_marathon)
-2. [Xinhua](http://news.xinhuanet.com/english/2008-08/25/content_9702076.htm)
-3. [ESPN](http://sports.espn.go.com/oly/summer08/basketball/men/recap?gameId=834)
+1. [Xinhua](http://news.xinhuanet.com/english/2008-08/25/content_9702076.htm)
+2. [ESPN](http://sports.espn.go.com/oly/summer08/basketball/men/recap?gameId=834)
+3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/oly_ath_men_s_marathon)
 
 ### Related:
 

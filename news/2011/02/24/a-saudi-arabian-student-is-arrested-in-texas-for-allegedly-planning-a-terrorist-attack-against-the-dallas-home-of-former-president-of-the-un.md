@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/21134540/vp/41758905#41758905)
+1. [AP via KIII-TV](http://www.kiiitv.com/Global/story.asp?S=14134222&utm_source=twitterfeed&utm_medium=twitter)
 2. [NBC](http://www.nbcnewyork.com/news/local-beat/Suspected-Terrorist-had-116832343.html)
-3. [AP via KIII-TV](http://www.kiiitv.com/Global/story.asp?S=14134222&utm_source=twitterfeed&utm_medium=twitter)
+3. [MSNBC](http://www.msnbc.msn.com/id/21134540/vp/41758905#41758905)
 
 ### Related:
 

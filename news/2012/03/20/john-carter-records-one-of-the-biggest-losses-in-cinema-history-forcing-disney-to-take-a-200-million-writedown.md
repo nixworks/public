@@ -7,8 +7,8 @@ Walt Disney expects to lose $200m (£126m) on its movie John Carter, making it o
 
 ### Source:
 
-1. [New York Times](http://mediadecoder.blogs.nytimes.com/2012/03/19/200-million-write-down-for-john-carter-disney-says/)
-2. [BBC](http://www.bbc.co.uk/news/business-17442200)
+1. [BBC](http://www.bbc.co.uk/news/business-17442200)
+2. [New York Times](http://mediadecoder.blogs.nytimes.com/2012/03/19/200-million-write-down-for-john-carter-disney-says/)
 
 ### Related:
 

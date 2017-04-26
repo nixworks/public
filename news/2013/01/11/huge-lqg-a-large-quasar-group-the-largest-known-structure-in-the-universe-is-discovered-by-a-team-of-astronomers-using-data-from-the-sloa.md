@@ -7,8 +7,8 @@ Astronomers have discovered the largest known structure in the universe, a clump
 
 ### Source:
 
-1. [FoxNews](http://www.foxnews.com/science/2013/01/11/largest-structure-in-universe-discovered/)
-2. [New Scientist](http://www.newscientist.com/article/dn23074-largest-structure-challenges-einsteins-smooth-cosmos.html)
+1. [New Scientist](http://www.newscientist.com/article/dn23074-largest-structure-challenges-einsteins-smooth-cosmos.html)
+2. [FoxNews](http://www.foxnews.com/science/2013/01/11/largest-structure-in-universe-discovered/)
 3. [Space.com](http://www.space.com/19220-universe-largest-structure-discovered.html)
 4. [CNET](http://news.cnet.com/8301-17938_105-57563937-1/the-biggest-thing-in-the-universe-is-really-really-big/)
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8421875.stm)
+1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Eurostar-Trains-Trapped-In-Chunnel-As-Snow-And-Ice-Brings-Services-To-A-Halt/Article/200912315504284?lpos=UK_News_First_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15504284_Eurostar_Trains_Trapped_In_Chunnel_As_Sn)
 2. [The Financial Times](http://www.ft.com/cms/s/0/ef97e4aa-ec12-11de-8070-00144feab49a.html)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Eurostar-Trains-Trapped-In-Chunnel-As-Snow-And-Ice-Brings-Services-To-A-Halt/Article/200912315504284?lpos=UK_News_First_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15504284_Eurostar_Trains_Trapped_In_Chunnel_As_Sn)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8421875.stm)
 
 ### Related:
 

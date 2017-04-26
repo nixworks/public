@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8429634.stm)
-2. [TechWeb](http://www.techweb.com/article/showArticle?articleID=222002986&section=ebiz)
-3. [Christian Science Monitor](http://www.csmonitor.com/Innovation/Horizons/2009/1222/HP-s-racist-webcam-harbinger-of-motion-tracking-troubles)
+2. [Christian Science Monitor](http://www.csmonitor.com/Innovation/Horizons/2009/1222/HP-s-racist-webcam-harbinger-of-motion-tracking-troubles)
+3. [TechWeb](http://www.techweb.com/article/showArticle?articleID=222002986&section=ebiz)
 
 ### Related:
 

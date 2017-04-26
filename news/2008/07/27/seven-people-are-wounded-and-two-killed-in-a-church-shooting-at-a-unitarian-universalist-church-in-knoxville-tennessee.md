@@ -7,8 +7,8 @@ The man accused of killing two people and wounding seven at a church apparently 
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/25872864)
-2. [WBIR-TV](http://www.wbir.com/news/breaking/story.aspx?storyid=61322&catid=29)
+1. [WBIR-TV](http://www.wbir.com/news/breaking/story.aspx?storyid=61322&catid=29)
+2. [MSNBC](http://www.msnbc.msn.com/id/25872864)
 
 ### Related:
 

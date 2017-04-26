@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5gMdGpxPJU5yvpF4CXewMrVTpuwSw)
-2. [CNN](http://edition.cnn.com/2008/US/02/14/university.shooting/index.html)
+1. [CNN](http://edition.cnn.com/2008/US/02/14/university.shooting/index.html)
+2. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5gMdGpxPJU5yvpF4CXewMrVTpuwSw)

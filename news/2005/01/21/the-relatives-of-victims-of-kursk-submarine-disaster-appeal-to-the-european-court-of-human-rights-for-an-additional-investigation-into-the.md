@@ -7,8 +7,8 @@ The Moscow Times offers everything you need to know about Russia: breaking news,
 
 ### Source:
 
-1. [St.Petersburg Times](http://www.sptimes.ru/archive/times/1037/news/n_14642.htm)
-2. [Mosnews](http://www.mosnews.com/news/2005/01/20/kurskclaim.shtml)
+1. [Mosnews](http://www.mosnews.com/news/2005/01/20/kurskclaim.shtml)
+2. [St.Petersburg Times](http://www.sptimes.ru/archive/times/1037/news/n_14642.htm)
 
 ### Related:
 

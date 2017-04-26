@@ -8,8 +8,8 @@ Hundreds of mourners have attended the funeral of RTÃ‰ broadcaster Gerry Ryan in
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0506/ryang.html)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Gerry-Ryan-Funeral-Takes-Place-In-Dublin-U2-Louis-Walsh-Keith-Duffy-Join-Mourners/Article/201005115626067?lpos=World_News_Second_World_News_Article_Teaser_Region_2&lid=ARTICLE_15626067_Gerry_Ryan_Funeral_Takes_Place_In_Dublin%3A_U2%2C_Louis_Walsh%2C_Keith_Duffy_Join_Mourners)
-3. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/i-will-miss-my-dad-greatly-says-gerry-ryans-son-456604.html)
+2. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/i-will-miss-my-dad-greatly-says-gerry-ryans-son-456604.html)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Gerry-Ryan-Funeral-Takes-Place-In-Dublin-U2-Louis-Walsh-Keith-Duffy-Join-Mourners/Article/201005115626067?lpos=World_News_Second_World_News_Article_Teaser_Region_2&lid=ARTICLE_15626067_Gerry_Ryan_Funeral_Takes_Place_In_Dublin%3A_U2%2C_Louis_Walsh%2C_Keith_Duffy_Join_Mourners)
 
 ### Related:
 

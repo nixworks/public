@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PNN](http://english.pnn.ps/index.php?option=com_content&task=view&id=9943&Itemid=56)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gMSTJGbWGD38uf0sdOsbBk2W8wfw?docId=CNG.5f43976215a4ebfacd060086f8b2176e.311)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gMSTJGbWGD38uf0sdOsbBk2W8wfw?docId=CNG.5f43976215a4ebfacd060086f8b2176e.311)
+2. [PNN](http://english.pnn.ps/index.php?option=com_content&task=view&id=9943&Itemid=56)
 
 ### Related:
 

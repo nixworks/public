@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/02/canada.stage.collapse/)
-2. [CBC](http://www.cbc.ca/canada/story/2009/08/01/stage-collapse-injured-camrose.html)
+1. [CBC](http://www.cbc.ca/canada/story/2009/08/01/stage-collapse-injured-camrose.html)
+2. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/02/canada.stage.collapse/)
 
 ### Related:
 

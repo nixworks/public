@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2015-05/02/c_134203640.htm)
-2. [BBC](http://www.bbc.com/news/world-asia-32561985)
-3. [CNN](http://edition.cnn.com/2015/05/02/asia/nepal-earthquake/index.html)
+1. [BBC](http://www.bbc.com/news/world-asia-32561985)
+2. [CNN](http://edition.cnn.com/2015/05/02/asia/nepal-earthquake/index.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2015-05/02/c_134203640.htm)
 
 ### Related:
 

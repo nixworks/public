@@ -7,8 +7,8 @@ The man died from internal bleeding resulting from a rare immune reaction to his
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2016/04/30/health/zika-virus-first-death-in-us-puerto-rico.html)
-2. [Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2016/04/29/first-zika-virus-related-death-reported-in-u-s-in-puerto-rico/)
+1. [Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2016/04/29/first-zika-virus-related-death-reported-in-u-s-in-puerto-rico/)
+2. [New York Times](http://www.nytimes.com/2016/04/30/health/zika-virus-first-death-in-us-puerto-rico.html)
 
 ### Related:
 

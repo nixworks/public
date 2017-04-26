@@ -7,8 +7,8 @@ Three of the most senior surviving leaders of the Khmer Rouge appear in court in
 
 ### Source:
 
-1. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2011013146489/National-news/kr-suspects-face-court.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12320935)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12320935)
+2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2011013146489/National-news/kr-suspects-face-court.html)
 
 ### Related:
 

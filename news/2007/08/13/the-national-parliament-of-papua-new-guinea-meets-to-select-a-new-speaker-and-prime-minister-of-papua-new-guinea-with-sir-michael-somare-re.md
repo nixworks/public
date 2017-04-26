@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/worldNews/idUKSYD7802620070813)
-2. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=34347)
+1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=34347)
+2. [Reuters](http://uk.reuters.com/article/worldNews/idUKSYD7802620070813)
 
 ### Related:
 

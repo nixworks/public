@@ -7,8 +7,8 @@ Belarusian security forces confirmed that 12 people were killed when a blast rip
 
 ### Source:
 
-1. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110412/ts_nm/us_belarus_minsk_blast)
-2. [RT](http://rt.com/news/blast-minsk-least-injured/)
+1. [RT](http://rt.com/news/blast-minsk-least-injured/)
+2. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110412/ts_nm/us_belarus_minsk_blast)
 
 ### Related:
 

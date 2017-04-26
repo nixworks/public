@@ -7,8 +7,8 @@ Essam Sharaf apologises for violence against demonstrators in Tahrir Square and 
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE73A0OO20110411?sp=true)
-2. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201141119507678671.html)
+1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201141119507678671.html)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE73A0OO20110411?sp=true)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iO7jCDNS0eecKYsoZKTzDMTcbaDw)
+1. [Oneindia.in](http://news.oneindia.in/2010/05/17/plane-crashed-afghanistan.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/17/c_13299359.htm)
-3. [Oneindia.in](http://news.oneindia.in/2010/05/17/plane-crashed-afghanistan.html)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iO7jCDNS0eecKYsoZKTzDMTcbaDw)
 
 ### Related:
 

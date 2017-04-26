@@ -7,9 +7,9 @@ Team visits Seoul to pay respects to former president, but will not attend funer
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/world/2009-08/21/content_8601376.htm)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2009/08/21/44/0301000000AEN20090821008800315F.HTML)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200982175326101794.html)
-3. [Yonhap](http://english.yonhapnews.co.kr/national/2009/08/21/44/0301000000AEN20090821008800315F.HTML)
+3. [China Daily](http://www.chinadaily.com.cn/world/2009-08/21/content_8601376.htm)
 
 ### Related:
 

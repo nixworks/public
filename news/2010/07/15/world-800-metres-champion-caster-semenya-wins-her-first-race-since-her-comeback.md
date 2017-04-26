@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8822744.stm)
-2. [Arab News](http://arabnews.com/sports/article85007.ece)
+1. [Arab News](http://arabnews.com/sports/article85007.ece)
+2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8822744.stm)
 
 ### Related:
 

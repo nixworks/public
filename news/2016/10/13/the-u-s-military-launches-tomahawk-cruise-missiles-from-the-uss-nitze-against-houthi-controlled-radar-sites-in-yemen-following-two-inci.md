@@ -7,8 +7,8 @@ The U.S. military launched cruise missile strikes on Thursday to knock out three
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-yemen-security-missiles-idUSKCN12C294)
-2. [NBC News](http://www.nbcnews.com/news/world/u-s-launches-strikes-yemen-after-missiles-aimed-american-ships-n665506?cid=eml_nbn_20161012)
+1. [NBC News](http://www.nbcnews.com/news/world/u-s-launches-strikes-yemen-after-missiles-aimed-american-ships-n665506?cid=eml_nbn_20161012)
+2. [Reuters](http://www.reuters.com/article/us-yemen-security-missiles-idUSKCN12C294)
 
 ### Related:
 

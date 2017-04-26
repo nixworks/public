@@ -7,9 +7,9 @@ A vehicle struck members of a high school marching band during the Mardi Gras pa
 
 ### Source:
 
-1. [RT](https://www.rt.com/usa/378928-alabama-mardi-gras-canceled/)
+1. [CNN](http://www.cnn.com/2017/02/28/us/alabama-mardi-gras-parade-crash/index.html)
 2. [WPMI-TV](http://local15tv.com/news/local/breaking-marching-band-injured-in-gulf-shores-mardi-gras-parade-cancelled)
-3. [CNN](http://www.cnn.com/2017/02/28/us/alabama-mardi-gras-parade-crash/index.html)
+3. [RT](https://www.rt.com/usa/378928-alabama-mardi-gras-canceled/)
 
 ### Related:
 

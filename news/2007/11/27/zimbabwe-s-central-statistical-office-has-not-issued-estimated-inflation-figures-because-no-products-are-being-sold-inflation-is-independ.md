@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [allAfrica](http://allafrica.com/stories/200711261960.html)
-2. [DPA via Earth Times](http://www.earthtimes.org/articles/show/148715.html)
+1. [DPA via Earth Times](http://www.earthtimes.org/articles/show/148715.html)
+2. [allAfrica](http://allafrica.com/stories/200711261960.html)
 
 ### Related:
 

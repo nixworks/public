@@ -7,8 +7,8 @@ YEREVAN, Armenia (AP) — Pope Francis heads to Armenia&#039;s genocide memorial
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/6279f5487d144d8d965c4030837a252a/pope-bringing-message-peace-armenia-and-beyond)
-2. [NPR](http://www.npr.org/sections/parallels/2016/06/24/483238766/in-armenia-visit-pope-aims-for-reconciliation-in-a-tense-region)
+1. [NPR](http://www.npr.org/sections/parallels/2016/06/24/483238766/in-armenia-visit-pope-aims-for-reconciliation-in-a-tense-region)
+2. [AP](http://bigstory.ap.org/article/6279f5487d144d8d965c4030837a252a/pope-bringing-message-peace-armenia-and-beyond)
 
 ### Related:
 

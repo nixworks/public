@@ -7,8 +7,8 @@ At least 12 people are killed by twin blasts in the southern Indian city of Hyde
 
 ### Source:
 
-1. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=848004)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-india-21537197)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-21537197)
+2. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=848004)
 
 ### Related:
 

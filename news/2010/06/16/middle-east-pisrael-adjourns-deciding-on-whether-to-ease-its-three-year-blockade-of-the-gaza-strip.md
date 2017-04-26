@@ -7,18 +7,18 @@ Security cabinet adjourns meeting on allowing entry of building materials and ot
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/national/riots-in-jaffa-as-ultra-orthodox-jews-protest-graves-desecration-1.296555)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=178617)
-3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178620)
-4. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/turkish-flotilla-organizers-planning-to-dispatch-more-gaza-aid-ships-1.296590)
-5. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178592)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0617/1224272698932.html)
-7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3906281,00.html)
-8. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=116032#axzz0r4AhoZYS)
-9. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010616133259580447.html)
-10. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178594)
+1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178594)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0617/1224272698932.html)
+3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/turkish-flotilla-organizers-planning-to-dispatch-more-gaza-aid-ships-1.296590)
+4. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061651947386938.html)
+5. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=178617)
+6. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178620)
+7. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178592)
+8. [Haaretz](http://www.haaretz.com/news/national/riots-in-jaffa-as-ultra-orthodox-jews-protest-graves-desecration-1.296555)
+9. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=116032#axzz0r4AhoZYS)
+10. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3906281,00.html)
 11. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/15/france.station.ordered.off.air/index.html)
-12. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061651947386938.html)
+12. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010616133259580447.html)
 
 ### Related:
 

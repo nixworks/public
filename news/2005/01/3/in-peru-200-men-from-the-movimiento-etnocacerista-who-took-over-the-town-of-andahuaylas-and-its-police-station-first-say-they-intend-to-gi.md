@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2005/01/03/international/americas/03peru.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4142169.stm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aBF2VoNwmEgE&refer=latin_america)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4142169.stm)
+3. [New York Times](http://www.nytimes.com/2005/01/03/international/americas/03peru.html)
 
 ### Related:
 

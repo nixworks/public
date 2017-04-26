@@ -7,8 +7,8 @@ The former Seoul bureau chief of the Japanese daily Sankei Shimbun was found inn
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/japanese-journalist-cleared-in-south-korea-defamation-case/3106725.html)
-2. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2015/12/18/2015121801092.html)
+1. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2015/12/18/2015121801092.html)
+2. [Voice of America](http://www.voanews.com/content/japanese-journalist-cleared-in-south-korea-defamation-case/3106725.html)
 
 ### Related:
 

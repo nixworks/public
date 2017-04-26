@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/three-diggers-killed-in-insider-attack-20120830-251og.html)
-2. [The Daily Telegraph](http://www.dailytelegraph.com.au/news/national/five-diggers-killed-in-afghanistan/story-fndo2j43-1226461361705)
+1. [The Daily Telegraph](http://www.dailytelegraph.com.au/news/national/five-diggers-killed-in-afghanistan/story-fndo2j43-1226461361705)
+2. [The Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/three-diggers-killed-in-insider-attack-20120830-251og.html)
 
 ### Related:
 

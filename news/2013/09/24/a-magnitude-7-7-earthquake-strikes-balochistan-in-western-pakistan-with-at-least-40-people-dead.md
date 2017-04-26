@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702303759604579094910032559126.html)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usb000jyiv#shakemap)
+1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usb000jyiv#shakemap)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702303759604579094910032559126.html)
 
 ### Related:
 

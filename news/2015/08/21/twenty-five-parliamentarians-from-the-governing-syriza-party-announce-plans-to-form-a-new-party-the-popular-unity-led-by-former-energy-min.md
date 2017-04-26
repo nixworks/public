@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [To Vima](http://www.tovima.gr/en/article/?aid=730903)
-2. [BBC](http://www.bbc.com/news/world-europe-34014083?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [BBC](http://www.bbc.com/news/world-europe-34014083?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [To Vima](http://www.tovima.gr/en/article/?aid=730903)
 
 ### Related:
 

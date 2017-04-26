@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RT](http://rt.com/prime-time/2010-05-13/poliomyelitis-russia-tajikistan-measures.html)
-2. [RIA](http://en.rian.ru/russia/20100513/159006633.html)
+1. [RIA](http://en.rian.ru/russia/20100513/159006633.html)
+2. [RT](http://rt.com/prime-time/2010-05-13/poliomyelitis-russia-tajikistan-measures.html)
 3. [The Moscow Times](http://www.themoscowtimes.com/news/article/baby-hospitalized-in-rare-polio-case/405936.html)
 
 ### Related:

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6AK03420101121)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/21/egypt.elections/)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gtkZcfkd0-BwGCLH2bI8Spbdq1RQ?docId=74dd26267e7f4f50b4facfb57f9264d5)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/21/egypt.elections/)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gtkZcfkd0-BwGCLH2bI8Spbdq1RQ?docId=74dd26267e7f4f50b4facfb57f9264d5)
+3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6AK03420101121)
 
 ### Related:
 

@@ -7,8 +7,8 @@ German automaker Volkswagen AG (VOWG_p.DE) will pay as much as $15.3 billion aft
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-volkswagen-emissions-settlement-idUSKCN0ZD2S5)
-2. [Nasdaq](http://www.nasdaq.com/article/vw-is-set-for-near15-billion-emissions-settlement-20160628-00272)
+1. [Nasdaq](http://www.nasdaq.com/article/vw-is-set-for-near15-billion-emissions-settlement-20160628-00272)
+2. [Reuters](http://www.reuters.com/article/us-volkswagen-emissions-settlement-idUSKCN0ZD2S5)
 
 ### Related:
 

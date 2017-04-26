@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/186cbc915138cf2cffa299eabde6dfbd.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4744991.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4744991.stm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/186cbc915138cf2cffa299eabde6dfbd.htm)
 3. [Reuters SA](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-08-04T061724Z_01_BAN422640_RTRIDST_0_OZATP-SENEGAL-TRIAL-20050804.XML)
 
 ### Related:

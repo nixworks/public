@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/01/25/asia/asia-cold-weather-travel-disruption/index.html?eref=edition)
-2. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201601240020.aspx)
+1. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201601240020.aspx)
+2. [CNN](http://edition.cnn.com/2016/01/25/asia/asia-cold-weather-travel-disruption/index.html?eref=edition)
 
 ### Related:
 

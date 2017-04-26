@@ -7,15 +7,15 @@ Gunmen took at least 170 people hostage at a hotel in the former French colony o
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/breaking/20151120-gunfire-breaks-out-luxury-hotel-malian-capital-bamaka-no-word-casualties-yet/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20151120_0947&ns_linkname=20151120_breaking_news&ns_fee=0&f24_member_id=1080960490882)
-2. [UPI](http://www.upi.com/Top_News/World-News/2015/11/20/Gunmen-storm-Mali-hotel-killing-three-80-hostages-released/1521448013051/?spt=hts&or=1)
-3. [Reuters](http://in.reuters.com/article/2015/11/21/mali-attacks-idINKCN0T90SI20151121)
-4. [Reuters via Yahoo! News](http://news.yahoo.com/least-27-dead-islamists-seize-luxury-hotel-malis-163200618--finance.html)
-5. [BBC](http://www.bbc.com/news/world-africa-34879955#)
-6. [CNN](http://www.cnn.com/2015/11/20/africa/mali-shooting/)
-7. [i24 News](http://www.i24news.tv/en/news/international/africa/93013-151120-hostages-taken-in-shooting-attack-at-radisson-hotel-in-mali)
-8. [NBC News](http://www.nbcnews.com/news/world/gunmen-take-170-hostage-radisson-hotel-bamako-mali-n466831?cid=eml_nbn_20151120)
-9. [The New York Daily News](http://www.nydailynews.com/news/world/shooting-reported-mali-hotel-article-1.2441291)
+1. [The New York Daily News](http://www.nydailynews.com/news/world/shooting-reported-mali-hotel-article-1.2441291)
+2. [NBC News](http://www.nbcnews.com/news/world/gunmen-take-170-hostage-radisson-hotel-bamako-mali-n466831?cid=eml_nbn_20151120)
+3. [UPI](http://www.upi.com/Top_News/World-News/2015/11/20/Gunmen-storm-Mali-hotel-killing-three-80-hostages-released/1521448013051/?spt=hts&or=1)
+4. [CNN](http://www.cnn.com/2015/11/20/africa/mali-shooting/)
+5. [Reuters](http://in.reuters.com/article/2015/11/21/mali-attacks-idINKCN0T90SI20151121)
+6. [i24 News](http://www.i24news.tv/en/news/international/africa/93013-151120-hostages-taken-in-shooting-attack-at-radisson-hotel-in-mali)
+7. [France 24](http://www.france24.com/en/breaking/20151120-gunfire-breaks-out-luxury-hotel-malian-capital-bamaka-no-word-casualties-yet/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20151120_0947&ns_linkname=20151120_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+8. [BBC](http://www.bbc.com/news/world-africa-34879955#)
+9. [Reuters via Yahoo! News](http://news.yahoo.com/least-27-dead-islamists-seize-luxury-hotel-malis-163200618--finance.html)
 
 ### Related:
 

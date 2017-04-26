@@ -7,9 +7,9 @@ Torrential monsoon rain in the Pakistani city of Karachi has killed 26 people an
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/NEWS-World-Pakistan-22-die-as-monsoon-batters-Karachi/articleshow/4795104.cms)
+1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSISL519634._CH_.2400)
 2. [RTÉ](http://www.rte.ie/news/2009/0719/pakistan.html)
-3. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSISL519634._CH_.2400)
+3. [The Times of India](http://timesofindia.indiatimes.com/NEWS-World-Pakistan-22-die-as-monsoon-batters-Karachi/articleshow/4795104.cms)
 
 ### Related:
 

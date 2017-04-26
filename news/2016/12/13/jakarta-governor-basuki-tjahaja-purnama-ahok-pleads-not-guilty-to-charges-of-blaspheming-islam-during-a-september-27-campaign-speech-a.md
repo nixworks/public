@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Time](http://time.com/4598716/ahok-trial-governor-jakarta-indonesia-blasphemy-islam/)
-2. [Reuters](http://www.reuters.com/article/us-indonesia-politics-court-idUSKBN1411Q2)
+1. [Reuters](http://www.reuters.com/article/us-indonesia-politics-court-idUSKBN1411Q2)
+2. [Time](http://time.com/4598716/ahok-trial-governor-jakarta-indonesia-blasphemy-islam/)
 
 ### Related:
 

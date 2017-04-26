@@ -7,8 +7,8 @@ A Palestinian man has been shot dead by Israeli troops after entering a Jewish s
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=182325)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10725444)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10725444)
+2. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=182325)
 
 ### Related:
 

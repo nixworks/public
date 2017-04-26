@@ -8,8 +8,8 @@ Prosecutors have arrested six police officers they say participated in the kidna
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11044141)
-2. [AP via ''Arab News](http://arabnews.com/world/article107933.ece)
-3. [Japan Today](http://www.japantoday.com/category/world/view/6-cops-arrested-over-mexico-mayors-killing)
+2. [Japan Today](http://www.japantoday.com/category/world/view/6-cops-arrested-over-mexico-mayors-killing)
+3. [AP via ''Arab News](http://arabnews.com/world/article107933.ece)
 
 ### Related:
 

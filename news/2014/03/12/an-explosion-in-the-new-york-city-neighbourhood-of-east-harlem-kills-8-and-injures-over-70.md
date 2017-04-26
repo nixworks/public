@@ -7,8 +7,8 @@ EAST HARLEM (PIX11) -- Four people were killed and at least 63 people were injur
 
 ### Source:
 
-1. [Pix 11](http://pix11.com/2014/03/12/explosion-reported-at-east-harlem-building/#axzz2vlFlRKuh)
-2. [WABC-TV](http://abclocal.go.com/wabc/story?section=news/local/new_york&id=9463294)
+1. [WABC-TV](http://abclocal.go.com/wabc/story?section=news/local/new_york&id=9463294)
+2. [Pix 11](http://pix11.com/2014/03/12/explosion-reported-at-east-harlem-building/#axzz2vlFlRKuh)
 
 ### Related:
 

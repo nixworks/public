@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://education.guardian.co.uk/higher/worldwide/story/0,9959,1493084,00.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/education/4582955.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/education/4582955.stm)
+2. [The Guardian](http://education.guardian.co.uk/higher/worldwide/story/0,9959,1493084,00.html)
 
 ### Related:
 

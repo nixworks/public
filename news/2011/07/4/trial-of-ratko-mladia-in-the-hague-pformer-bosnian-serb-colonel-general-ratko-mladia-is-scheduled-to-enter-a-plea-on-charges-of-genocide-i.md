@@ -7,8 +7,8 @@ Ex-Bosnian&#x20;Serb&#x20;army&#x20;chief&#x20;Ratko&#x20;Mladic&#x20;will&#x20;
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-14012057)
-2. [Reuters via France 24](http://www.france24.com/en/20110704-mladic-expected-boycott-war-crimes-court?ns_campaign=nl_obs_en&ns_mchannel=email_marketing&ns_source=BOWE_27_20110704&ns_linkname=20110704_mladic_expected_boycott_war_crimes_court&ns_fee=0&f24_member_id=1043505976770)
+1. [Reuters via France 24](http://www.france24.com/en/20110704-mladic-expected-boycott-war-crimes-court?ns_campaign=nl_obs_en&ns_mchannel=email_marketing&ns_source=BOWE_27_20110704&ns_linkname=20110704_mladic_expected_boycott_war_crimes_court&ns_fee=0&f24_member_id=1043505976770)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-14012057)
 
 ### Related:
 

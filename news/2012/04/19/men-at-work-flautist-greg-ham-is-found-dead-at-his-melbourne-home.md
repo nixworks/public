@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17767264)
-2. [The Sydney Morning Herald](http://www.smh.com.au/victoria/greg-ham-found-dead-in-house-20120419-1x93x.html)
+1. [The Sydney Morning Herald](http://www.smh.com.au/victoria/greg-ham-found-dead-in-house-20120419-1x93x.html)
+2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17767264)
 
 ### Related:
 

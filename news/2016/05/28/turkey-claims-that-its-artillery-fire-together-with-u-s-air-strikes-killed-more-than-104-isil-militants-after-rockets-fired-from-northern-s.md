@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/05/28/world/europe/ap-eu-turkey-islamic-state.html)
-2. [AP via ''The Olympian](http://www.theolympian.com/news/nation-world/article80531537.html)
+1. [AP via ''The Olympian](http://www.theolympian.com/news/nation-world/article80531537.html)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/05/28/world/europe/ap-eu-turkey-islamic-state.html)
 
 ### Related:
 

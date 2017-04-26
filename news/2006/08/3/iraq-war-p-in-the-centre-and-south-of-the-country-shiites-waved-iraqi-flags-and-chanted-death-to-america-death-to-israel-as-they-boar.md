@@ -7,10 +7,10 @@ Breaking News from Perth and Western Australia | Perth Now
 
 ### Source:
 
-1. [BBC NEWS](http://news.bbc.co.uk/1/hi/uk/5240808.stm)
+1. [Perth News (australia](http://www.news.com.au/perthnow/story/0,21598,20014630-5005361,00.html)
 2. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5243042.stm)
-3. [Perth News (australia](http://www.news.com.au/perthnow/story/0,21598,20014630-5005361,00.html)
-4. [International Herald Tribune]¶ Four [[US]] soldiers charged with murdering three detainees in [[Iraq]] smiled before shooting them, a [[military court]] has heard from a fellow soldier.[http://news.bbc.co.uk/1/hi/world/middle_east/5239676.stm (BBC NEWS](http://www.iht.com/articles/2006/08/03/news/iraq.php)
+3. [International Herald Tribune]¶ Four [[US]] soldiers charged with murdering three detainees in [[Iraq]] smiled before shooting them, a [[military court]] has heard from a fellow soldier.[http://news.bbc.co.uk/1/hi/world/middle_east/5239676.stm (BBC NEWS](http://www.iht.com/articles/2006/08/03/news/iraq.php)
+4. [BBC NEWS](http://news.bbc.co.uk/1/hi/uk/5240808.stm)
 
 ### Related:
 

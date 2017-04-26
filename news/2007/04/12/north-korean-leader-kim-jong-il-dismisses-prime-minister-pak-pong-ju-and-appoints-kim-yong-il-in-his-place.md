@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/story/0,10117,21544515-2,00.html)
-2. [KCNA](http://www.kcna.co.jp/item/2007/200704/news04/12.htm#1)
+1. [KCNA](http://www.kcna.co.jp/item/2007/200704/news04/12.htm#1)
+2. [News Limited](http://www.news.com.au/story/0,10117,21544515-2,00.html)
 
 ### Related:
 

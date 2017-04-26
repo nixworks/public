@@ -7,8 +7,8 @@ Ali Carter wins the third ranking title of his career by beating Marco Fu 9-6 in
 
 ### Source:
 
-1. [Sky Sports](http://www1.skysports.com/snooker/news/12243/8469233/Ali-Carter-won-the-German-Masters-after-beating-Marco-Fu-in-Berlin)
-2. [BBC](http://www.bbc.co.uk/sport/0/snooker/21323385)
+1. [BBC](http://www.bbc.co.uk/sport/0/snooker/21323385)
+2. [Sky Sports](http://www1.skysports.com/snooker/news/12243/8469233/Ali-Carter-won-the-German-Masters-after-beating-Marco-Fu-in-Berlin)
 3. [Daily Mail](http://www.dailymail.co.uk/sport/article-2273033/Snooker-Ali-Carter-comes-pip-Marco-Fu-German-Masters.html)
 
 ### Related:

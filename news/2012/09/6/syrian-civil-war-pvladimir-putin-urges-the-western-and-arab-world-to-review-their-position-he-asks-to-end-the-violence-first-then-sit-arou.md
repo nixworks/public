@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Trust.org](http://www.trust.org/alertnet/news/syrian-conflict-forces-research-institute-to-relocate)
-2. [Star Africa](http://www.starafrica.com/en/news/detail-news/view/putin-urges-west-rethink-on-syria-as-bat-251427.html)
+1. [Star Africa](http://www.starafrica.com/en/news/detail-news/view/putin-urges-west-rethink-on-syria-as-bat-251427.html)
+2. [Trust.org](http://www.trust.org/alertnet/news/syrian-conflict-forces-research-institute-to-relocate)
 
 ### Related:
 

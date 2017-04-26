@@ -8,8 +8,8 @@ One man identifying himself as a passenger reports there are injuries.
 ### Source:
 
 1. [USA Today](http://www.usatoday.com/story/news/2015/05/12/amtrak-derailment-philadelphia/27213157/)
-2. [CNN](http://edition.cnn.com/2015/05/12/us/philadelphia-train-derailment/index.html)
-3. [Huffington Post](http://www.huffingtonpost.com/2015/05/12/amtrak-train-crash-pennsylvania_n_7270804.html)
+2. [Huffington Post](http://www.huffingtonpost.com/2015/05/12/amtrak-train-crash-pennsylvania_n_7270804.html)
+3. [CNN](http://edition.cnn.com/2015/05/12/us/philadelphia-train-derailment/index.html)
 
 ### Related:
 

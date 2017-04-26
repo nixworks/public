@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [One India](http://news.oneindia.in/2010/04/17/ihave-written-a-letter-to-obamaahmadinejad.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/meast/04/16/iran.obama.letter/)
 2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/17/AR2010041701842.html)
-3. [CNN](http://edition.cnn.com/2010/WORLD/meast/04/16/iran.obama.letter/)
+3. [One India](http://news.oneindia.in/2010/04/17/ihave-written-a-letter-to-obamaahmadinejad.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Silicon Valley joins Global Work Party to combat climate change
 
 ### Source:
 
-1. [LoHud.com](http://www.lohud.com/article/20101011/NEWS02/10110329/-1/newsfront/Community-Gardeners-in-Ossining-have-own-Global-Work-Party)
+1. [San Jose Mercury News](http://www.mercurynews.com/science/ci_16305629?nclick_check=1)
 2. [Huffington Post](http://www.huffingtonpost.com/bill-mckibben/the-101010-global-work-pa_b_757336.html#s153546)
-3. [WLBT](http://www.wlbt.com/Global/story.asp?S=13300079)
-4. [San Jose Mercury News](http://www.mercurynews.com/science/ci_16305629?nclick_check=1)
+3. [LoHud.com](http://www.lohud.com/article/20101011/NEWS02/10110329/-1/newsfront/Community-Gardeners-in-Ossining-have-own-Global-Work-Party)
+4. [WLBT](http://www.wlbt.com/Global/story.asp?S=13300079)
 
 ### Related:
 

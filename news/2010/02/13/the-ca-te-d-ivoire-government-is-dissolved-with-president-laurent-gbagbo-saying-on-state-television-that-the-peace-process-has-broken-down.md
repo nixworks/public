@@ -7,9 +7,9 @@ President Gbagbo sacks the government and the electoral commission over vote fra
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE61B4SB20100212)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/ivorian-president-sacks-government-20100213-nxyl.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/2010212204824408749.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/2010212204824408749.html)
+2. [Reuters](http://www.reuters.com/article/idUSTRE61B4SB20100212)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/ivorian-president-sacks-government-20100213-nxyl.html)
 
 ### Related:
 

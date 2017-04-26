@@ -7,10 +7,10 @@ QUETTTA:&nbsp; At least 52 people died and more than 100 others were injured Sat
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/37962741)
-2. [The News](https://www.thenews.com.pk/latest/164374-30-killed-scores-injured-in-Shah-Noorani-blast-Rescue-official)
-3. [GEO tv](https://www.geo.tv/latest/120449-Blast-in-Shah-Noorani-shrine-in-Lasbella-10-killed)
-4. [Daily Pakistan](https://en.dailypakistan.com.pk/headline/over-10-dead-in-shah-noorani-shrine-blast/)
+1. [GEO tv](https://www.geo.tv/latest/120449-Blast-in-Shah-Noorani-shrine-in-Lasbella-10-killed)
+2. [Daily Pakistan](https://en.dailypakistan.com.pk/headline/over-10-dead-in-shah-noorani-shrine-blast/)
+3. [BBC](http://www.bbc.com/news/37962741)
+4. [The News](https://www.thenews.com.pk/latest/164374-30-killed-scores-injured-in-Shah-Noorani-blast-Rescue-official)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters South Africa](http://af.reuters.com/article/worldNews/idAFTRE5AI1DG20091119)
-2. [The Herald](http://www1.herald.co.zw/inside.aspx?sectid=12579&cat=1)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gcXYENzUmIsjy34E6ZnYDtDUew1Q)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gcXYENzUmIsjy34E6ZnYDtDUew1Q)
+2. [Reuters South Africa](http://af.reuters.com/article/worldNews/idAFTRE5AI1DG20091119)
+3. [The Herald](http://www1.herald.co.zw/inside.aspx?sectid=12579&cat=1)
 
 ### Related:
 

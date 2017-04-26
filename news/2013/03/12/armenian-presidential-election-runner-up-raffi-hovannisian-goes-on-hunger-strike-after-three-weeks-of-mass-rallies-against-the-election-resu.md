@@ -7,8 +7,8 @@ Former Armenian presidential candidate Raffi Hovannisian began a hunger strike o
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/10/us-armenia-election-idUSBRE9290EV20130310)
-2. [Radio Free Europe](http://www.rferl.org/content/armenia-hovannisian-hunger-strike/24924903.html)
+1. [Radio Free Europe](http://www.rferl.org/content/armenia-hovannisian-hunger-strike/24924903.html)
+2. [Reuters](http://www.reuters.com/article/2013/03/10/us-armenia-election-idUSBRE9290EV20130310)
 
 ### Related:
 

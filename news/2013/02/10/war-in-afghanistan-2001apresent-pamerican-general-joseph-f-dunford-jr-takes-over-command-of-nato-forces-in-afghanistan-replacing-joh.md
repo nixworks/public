@@ -7,9 +7,9 @@ NATO forces in Afghanistan get a new commander as the coalition prepares to pull
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2013/02/10/us-dunford-afghanistan-allen/1906209/)
-2. [AFP via ABC News](http://www.abc.net.au/news/2013-02-10/joseph-dunford-takes-over-nato-led-mission-in-afghanistan/4510938)
-3. [The Guardian](http://www.guardian.co.uk/world/2013/feb/10/joseph-dunford-nato-commander-afghanistan)
+1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/10/joseph-dunford-nato-commander-afghanistan)
+2. [USA Today](http://www.usatoday.com/story/news/world/2013/02/10/us-dunford-afghanistan-allen/1906209/)
+3. [AFP via ABC News](http://www.abc.net.au/news/2013-02-10/joseph-dunford-takes-over-nato-led-mission-in-afghanistan/4510938)
 
 ### Related:
 

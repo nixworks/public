@@ -7,9 +7,9 @@ A Paris medic was battling to save the life of a man outside a restaurant when h
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/21/us-france-shooting-idUSKCN0TA0T520151121#lGxohPJIcQbtAdF6.97)
-2. [Sky News](http://news.sky.com/story/1591688/suspected-paris-attacks-scout-held-in-turkey)
-3. [ (Channel News Asia](http://www.channelnewsasia.com/mobile/world/france-sees-surge-in-army/2280658.html)
+1. [Sky News](http://news.sky.com/story/1591688/suspected-paris-attacks-scout-held-in-turkey)
+2. [ (Channel News Asia](http://www.channelnewsasia.com/mobile/world/france-sees-surge-in-army/2280658.html)
+3. [Reuters](http://www.reuters.com/article/2015/11/21/us-france-shooting-idUSKCN0TA0T520151121#lGxohPJIcQbtAdF6.97)
 
 ### Related:
 

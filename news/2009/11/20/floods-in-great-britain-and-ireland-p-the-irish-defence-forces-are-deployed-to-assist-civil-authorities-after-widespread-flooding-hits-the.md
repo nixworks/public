@@ -8,9 +8,9 @@ The Defence Forces have further increased their deployment due to the recent flo
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1120/breaking3.htm)
-2. [RTÉ](http://www.rte.ie/news/2009/1120/weather.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8369934.stm)
-4. [Ireland Online](http://breakingnews.iol.ie/news/ireland/university-lectures-suspended-as-floods-hit-ucc-435103.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8369934.stm)
+3. [Ireland Online](http://breakingnews.iol.ie/news/ireland/university-lectures-suspended-as-floods-hit-ucc-435103.html)
+4. [RTÉ](http://www.rte.ie/news/2009/1120/weather.html)
 
 ### Related:
 

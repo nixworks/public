@@ -7,9 +7,9 @@ At least 337 people are dead as rescuers search for up to 1148 others still miss
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/china/China-landslides-death-toll-rises-to-127/articleshow/6275656.cms)
+1. [China Daily](http://www.chinadaily.com.cn/china/2010-08/08/content_11116883.htm)
 2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010881446366388.html)
-3. [China Daily](http://www.chinadaily.com.cn/china/2010-08/08/content_11116883.htm)
+3. [The Times of India](http://timesofindia.indiatimes.com/world/china/China-landslides-death-toll-rises-to-127/articleshow/6275656.cms)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10905399)
 
 ### Related:

@@ -7,8 +7,8 @@ Long-sought Edgar Valdez faces drug trafficking charges in the US and is known f
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/31/mexican-police-arrest-alleged-drugs-kingpin)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/08/201083124916335331.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/08/201083124916335331.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/31/mexican-police-arrest-alleged-drugs-kingpin)
 
 ### Related:
 

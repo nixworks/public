@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/Environment/20120825/175425886.html)
-2. [AFP via FOCUS](http://www.focus-fen.net/index.php?id=n285801)
+1. [AFP via FOCUS](http://www.focus-fen.net/index.php?id=n285801)
+2. [RIA Novosti](http://en.rian.ru/Environment/20120825/175425886.html)
 
 ### Related:
 

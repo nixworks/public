@@ -7,8 +7,8 @@ Central Bank has issued a notice to the UAE banks and branches of foreign banks 
 
 ### Source:
 
-1. [Gulf News](http://gulfnews.com/central-bank-to-support-banks-in-uae-1.541945)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8385164.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8385164.stm)
+2. [Gulf News](http://gulfnews.com/central-bank-to-support-banks-in-uae-1.541945)
 
 ### Related:
 

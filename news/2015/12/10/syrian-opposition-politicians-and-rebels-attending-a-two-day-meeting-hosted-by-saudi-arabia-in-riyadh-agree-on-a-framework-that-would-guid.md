@@ -7,9 +7,9 @@ Syrian opposition politicians and rebels back a statement of principles for peac
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-kerry-idUSKBN0TT1J420151210#l3rpRZ3tSUiDCC79.97)
-2. [BBC](http://www.bbc.com/news/world-middle-east-35060935)
-3. [AP](http://bigstory.ap.org/article/ad4e978fab86467e82ae32cde60f26f0/saudi-fm-syrias-assad-must-leave-or-be-forced-out)
+1. [BBC](http://www.bbc.com/news/world-middle-east-35060935)
+2. [AP](http://bigstory.ap.org/article/ad4e978fab86467e82ae32cde60f26f0/saudi-fm-syrias-assad-must-leave-or-be-forced-out)
+3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-kerry-idUSKBN0TT1J420151210#l3rpRZ3tSUiDCC79.97)
 
 ### Related:
 

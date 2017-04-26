@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/07/23/switzerland-tourist-train-derailment.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hkNBLviQTBmc803j2biRbntyjusgD9H4RIS80)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hkNBLviQTBmc803j2biRbntyjusgD9H4RIS80)
+2. [CBC](http://www.cbc.ca/world/story/2010/07/23/switzerland-tourist-train-derailment.html)
 
 ### Related:
 

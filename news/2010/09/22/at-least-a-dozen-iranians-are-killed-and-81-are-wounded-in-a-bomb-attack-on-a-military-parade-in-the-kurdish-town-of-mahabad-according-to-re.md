@@ -7,11 +7,11 @@ Twelve people were killed and more than 70 injured on Wednesday when a bomb expl
 
 ### Source:
 
-1. [RFERL](http://www.rferl.org/content/Report_Blast_In_Iranian_City_Kills_At_Least_9/2164890.html)
-2. [Reuters](http://in.reuters.com/article/idINIndia-51660520100922)
-3. [cnbc](http://classic.cnbc.com/id/39302077)
-4. [DNA India](http://www.dnaindia.com/world/report_blast-in-iranian-city-kills-9-report_1441527)
-5. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bomb-kills-12-at-iran-military-parade-20100922-15n3q.html)
+1. [cnbc](http://classic.cnbc.com/id/39302077)
+2. [RFERL](http://www.rferl.org/content/Report_Blast_In_Iranian_City_Kills_At_Least_9/2164890.html)
+3. [Reuters](http://in.reuters.com/article/idINIndia-51660520100922)
+4. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bomb-kills-12-at-iran-military-parade-20100922-15n3q.html)
+5. [DNA India](http://www.dnaindia.com/world/report_blast-in-iranian-city-kills-9-report_1441527)
 
 ### Related:
 

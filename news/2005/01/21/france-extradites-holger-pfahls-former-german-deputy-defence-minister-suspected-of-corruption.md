@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=afWUrSFQ2weQ&refer=germany)
+1. [PolitInfo](http://www.politinfo.com/articles/article_2005_01_20_2645.html)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1464092,00.html)
-3. [PolitInfo](http://www.politinfo.com/articles/article_2005_01_20_2645.html)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=afWUrSFQ2weQ&refer=germany)
 
 ### Related:
 

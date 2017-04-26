@@ -7,9 +7,9 @@ At least 16 Yemeni civilians including ten people from a single family were kill
 
 ### Source:
 
-1. [Press TV](http://www.presstv.com/Detail/2015/09/12/428898/Saudi-Yemen-Dhahran)
-2. [Reuters via Trust](http://www.trust.org/item/20150912091444-apvun/)
-3. [Reuters](http://www.reuters.com/article/2015/09/12/us-yemen-security-idUSKCN0RC07920150912?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/2015/09/12/us-yemen-security-idUSKCN0RC07920150912?feedType=RSS&feedName=topNews)
+2. [Press TV](http://www.presstv.com/Detail/2015/09/12/428898/Saudi-Yemen-Dhahran)
+3. [Reuters via Trust](http://www.trust.org/item/20150912091444-apvun/)
 
 ### Related:
 

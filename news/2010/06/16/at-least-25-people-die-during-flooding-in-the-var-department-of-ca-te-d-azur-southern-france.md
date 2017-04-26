@@ -7,11 +7,11 @@ Flash floods in south-eastern France leave at least 19 people dead and hundreds 
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7833492/Deadly-flash-floods-hit-southern-France.html)
-2. [France24](http://www.france24.com/en/20100616-deadly-floods-southern-cote-d%27azur-draguignan-rescue-french-riviera-var-arcs-electricity)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10327034.stm)
-4. [Sky News](http://news.sky.com/skynews/Home/World-News/Flash-Floods-In-Southern-France-Kill-19-As-Torrential-Rains-Batter-Draguignan-Near-Cannes/Article/201006315650174?f=rss)
-5. [Le Monde](http://www.lemonde.fr/planete/article/2010/06/16/une-dizaine-de-morts-dans-le-var-apres-de-violentes-intemperies_1373499_3244.html#ens_id=1373507)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Flash-Floods-In-Southern-France-Kill-19-As-Torrential-Rains-Batter-Draguignan-Near-Cannes/Article/201006315650174?f=rss)
+2. [Le Monde](http://www.lemonde.fr/planete/article/2010/06/16/une-dizaine-de-morts-dans-le-var-apres-de-violentes-intemperies_1373499_3244.html#ens_id=1373507)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7833492/Deadly-flash-floods-hit-southern-France.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10327034.stm)
+5. [France24](http://www.france24.com/en/20100616-deadly-floods-southern-cote-d%27azur-draguignan-rescue-french-riviera-var-arcs-electricity)
 
 ### Related:
 

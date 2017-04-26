@@ -7,11 +7,11 @@ European safety regulatorswill follow the United States in ordering the groundin
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/17/boeing-787-easa-idUSL6N0AM0E020130117)
-2. [NBC](http://www.nbcnews.com/business/faa-grounds-all-boeing-787s-over-safety-concerns-1B7991426)
-3. [Time](http://business.time.com/2013/01/17/lithium-batteries-central-to-boeings-787-woes/)
-4. [The New York Times](http://www.nytimes.com/2013/01/17/business/faa-orders-grounding-of-us-operated-boeing-787s.html)
-5. [BBC](http://www.bbc.co.uk/news/business-21054089)
+1. [NBC](http://www.nbcnews.com/business/faa-grounds-all-boeing-787s-over-safety-concerns-1B7991426)
+2. [Reuters](http://www.reuters.com/article/2013/01/17/boeing-787-easa-idUSL6N0AM0E020130117)
+3. [BBC](http://www.bbc.co.uk/news/business-21054089)
+4. [Time](http://business.time.com/2013/01/17/lithium-batteries-central-to-boeings-787-woes/)
+5. [The New York Times](http://www.nytimes.com/2013/01/17/business/faa-orders-grounding-of-us-operated-boeing-787s.html)
 
 ### Related:
 

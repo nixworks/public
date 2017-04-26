@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via the Daily Herald](http://www.dailyherald.com/story/?id=87227)
-2. [Fox News](http://www.foxnews.com/story/0,2933,314243,00.html)
+1. [Fox News](http://www.foxnews.com/story/0,2933,314243,00.html)
+2. [AP via the Daily Herald](http://www.dailyherald.com/story/?id=87227)
 
 ### Related:
 

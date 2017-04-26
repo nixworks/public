@@ -7,15 +7,15 @@ Tropical Storm Joaquin is expected to strengthen while moving north of the East 
 
 ### Source:
 
-1. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/300535.shtml)
-2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/302357.shtml)
-3. [Virginia](https://governor.virginia.gov/newsroom/newsarticle?articleId=12936)
-4. [ABC News](http://abcnews.go.com/US/hurricane-joaquin-sets-eyes-bahamas-eastern-seaboard/story?id=34151054)
-5. [Reuters](http://www.reuters.com/article/2015/09/29/storm-joaquin-idUSL1N11Z2S420150929)
-6. [Inside Northern Va.](http://www.insidenova.com/headlines/governor-declares-state-of-emergency-as-hurricane-joaquin-approaches/article_a54a59b8-67c3-11e5-acb6-1fd9c8d38e80.html)
-7. [UPI](http://www.upi.com/Top_News/US/2015/09/29/Tropical-Storm-Joaquin-could-threaten-East-Coast-early-next-week/2611443558262/?spt=hs&or=tn_us)
-8. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/010249.shtml)
-9. [NBC News](http://www.nbcnews.com/news/us-news/hurricane-joaquin-intensifies-way-bahamas-n436581)
+1. [NBC News](http://www.nbcnews.com/news/us-news/hurricane-joaquin-intensifies-way-bahamas-n436581)
+2. [UPI](http://www.upi.com/Top_News/US/2015/09/29/Tropical-Storm-Joaquin-could-threaten-East-Coast-early-next-week/2611443558262/?spt=hs&or=tn_us)
+3. [Inside Northern Va.](http://www.insidenova.com/headlines/governor-declares-state-of-emergency-as-hurricane-joaquin-approaches/article_a54a59b8-67c3-11e5-acb6-1fd9c8d38e80.html)
+4. [Virginia](https://governor.virginia.gov/newsroom/newsarticle?articleId=12936)
+5. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/010249.shtml)
+6. [ABC News](http://abcnews.go.com/US/hurricane-joaquin-sets-eyes-bahamas-eastern-seaboard/story?id=34151054)
+7. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/302357.shtml)
+8. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/300535.shtml)
+9. [Reuters](http://www.reuters.com/article/2015/09/29/storm-joaquin-idUSL1N11Z2S420150929)
 
 ### Related:
 

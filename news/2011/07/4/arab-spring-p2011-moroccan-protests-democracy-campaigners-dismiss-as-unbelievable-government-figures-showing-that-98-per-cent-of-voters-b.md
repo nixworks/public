@@ -7,15 +7,15 @@ At least 21 people have died in heavy fighting near the rebel-held southern Yeme
 
 ### Source:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/middle-east/riots-erupt-after-court-releases-egyptian-police-charged-with-killing-protesters-in-uprising/2011/07/04/gHQAp5ipxH_story.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14011188)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14023293)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-14010305)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-14014757)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-14017949)
-5. [BBC](http://www.bbc.co.uk/news/world-europe-14010305)
-6. [BBC](http://www.bbc.co.uk/news/world-middle-east-14023293)
+4. [AP via ''The Washington Post](http://www.washingtonpost.com/world/middle-east/riots-erupt-after-court-releases-egyptian-police-charged-with-killing-protesters-in-uprising/2011/07/04/gHQAp5ipxH_story.html)
+5. [BBC](http://www.bbc.co.uk/news/world-middle-east-14017949)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-14011188)
 7. [BBC](http://www.bbc.co.uk/news/world-africa-14011212)
-8. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Riots-erupt-in-Egypt-after-court-releases-police/articleshow/9106161.cms)
-9. [AP via ''New York Times](http://www.nytimes.com/2011/07/05/world/africa/05briefs-Tunisia.html)
+8. [AP via ''New York Times](http://www.nytimes.com/2011/07/05/world/africa/05briefs-Tunisia.html)
+9. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Riots-erupt-in-Egypt-after-court-releases-police/articleshow/9106161.cms)
 
 ### Related:
 

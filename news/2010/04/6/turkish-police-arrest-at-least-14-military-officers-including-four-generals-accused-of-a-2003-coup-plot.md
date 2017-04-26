@@ -7,8 +7,8 @@ Police detain at least 14 military officers over alleged plot to topple governme
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE63537V20100406?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/20104673854889952.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/20104673854889952.html)
+2. [Reuters](http://www.reuters.com/article/idUSTRE63537V20100406?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/8604760.stm)
 
 ### Related:

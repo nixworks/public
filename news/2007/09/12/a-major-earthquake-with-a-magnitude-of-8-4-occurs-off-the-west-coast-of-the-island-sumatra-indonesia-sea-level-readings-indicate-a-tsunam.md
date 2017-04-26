@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PTWC/NOAA/NWS](http://www.prh.noaa.gov/ptwc/messages/indian/2007/indian.2007.09.12.123044.txt)
-2. [AP](http://ap.google.com/article/ALeqM5hzfwhj9j9AitFP4tJVs2atvGjbbA)
+1. [AP](http://ap.google.com/article/ALeqM5hzfwhj9j9AitFP4tJVs2atvGjbbA)
+2. [PTWC/NOAA/NWS](http://www.prh.noaa.gov/ptwc/messages/indian/2007/indian.2007.09.12.123044.txt)
 3. [Reuters](http://www.alertnet.org/thenews/newsdesk/N12236422.htm)
 
 ### Related:

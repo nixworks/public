@@ -7,8 +7,8 @@ Kiev dismisses defense minister over Crimean indecisiveness but tries to keep cr
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/ukraine-fires-defense-minister-who-lost-crimea-to-russia/2014/03/25/81409484-31c6-41db-9e24-7b6193240aef_story.html?wprss=rss_world)
-2. [AP via CBC]](http://www.cbc.ca/news/world/ukraine-nationalist-oleksandr-muzychko-killed-in-police-operation-1.2585124)
+1. [AP via CBC]](http://www.cbc.ca/news/world/ukraine-nationalist-oleksandr-muzychko-killed-in-police-operation-1.2585124)
+2. [Washington Post](http://www.washingtonpost.com/world/ukraine-fires-defense-minister-who-lost-crimea-to-russia/2014/03/25/81409484-31c6-41db-9e24-7b6193240aef_story.html?wprss=rss_world)
 3. [Moscow Times'']](http://www.themoscowtimes.com/news/article/ultranationalist-leader-in-maidan-protests-is-shot-dead-in-ukraine-video/496788.html)
 
 ### Related:

@@ -7,9 +7,9 @@ Baltasar Garzon suspended from his post ahead of trial for overreaching his auth
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8682948.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/2010514134937320442.html)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE64D3R020100514)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/2010514134937320442.html)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE64D3R020100514)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8682948.stm)
 4. [The Times of India](http://timesofindia.indiatimes.com/World/Europe/Spanish-judge-who-indicted-Osama-Pinochet-suspended/articleshow/5931925.cms)
 
 ### Related:

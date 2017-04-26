@@ -7,8 +7,8 @@ Senior U.S. military leaders and defense officials are debating whether military
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/just-5-percent-of-russian-airstrikes-targeting-is/2989999.html)
-2. [Fox News](http://www.foxnews.com/politics/2015/10/02/pentagon-weighs-using-force-to-protect-us-backed-syria-rebels-targeted-by/)
+1. [Fox News](http://www.foxnews.com/politics/2015/10/02/pentagon-weighs-using-force-to-protect-us-backed-syria-rebels-targeted-by/)
+2. [Voice of America](http://www.voanews.com/content/just-5-percent-of-russian-airstrikes-targeting-is/2989999.html)
 3. [Reuters](http://uk.reuters.com/article/2015/10/03/uk-mideast-crisis-syria-britain-idUKKCN0RX07Q20151003)
 
 ### Related:

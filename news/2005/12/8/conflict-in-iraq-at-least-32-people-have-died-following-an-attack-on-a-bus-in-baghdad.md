@@ -7,8 +7,8 @@ A bomber jumped on a bus after security checks had been completed detonated an e
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4509376.stm)
-2. [Fox News](http://www.foxnews.com//story/0,2933,178061,00.html)
+1. [Fox News](http://www.foxnews.com//story/0,2933,178061,00.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4509376.stm)
 
 ### Related:
 

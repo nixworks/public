@@ -7,9 +7,9 @@ A Washington state bridge over a river collapsed last night, dumping two vehicle
 
 ### Source:
 
-1. [CBC News Canada](http://www.cbc.ca/news/canada/british-columbia/story/2013/05/23/bc-skagit-bridge-collapse.html)
-2. [KOMO News](http://www.komonews.com/news/local/Cars-bodies-in-Skagit-River-after-I-5-Bridge-collapse--208760201.html)
-3. [AP via ABC News America](http://abcnews.go.com/US/wireStory/ap-newsalert-19246689)
+1. [KOMO News](http://www.komonews.com/news/local/Cars-bodies-in-Skagit-River-after-I-5-Bridge-collapse--208760201.html)
+2. [AP via ABC News America](http://abcnews.go.com/US/wireStory/ap-newsalert-19246689)
+3. [CBC News Canada](http://www.cbc.ca/news/canada/british-columbia/story/2013/05/23/bc-skagit-bridge-collapse.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Ukraine&#039;s President Viktor Yushchenko has accused Yulia Tymoshenko, the Pri
 
 ### Source:
 
-1. [AFP via Rawstory](http://rawstory.com/news/afp/Ukraine_PM_refuses_to_resign_as_cri_09172008.html)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/2706210/Ukraine-president-Viktor-Yushchenko-accuses-PM-Yulia-Tymoshenko-of-treason.html)
-3. [AFP via Google News](http://afp.google.com/article/ALeqM5jtUOmlRyOSVtaxRetvox2V-OZ_fQ)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5jtUOmlRyOSVtaxRetvox2V-OZ_fQ)
+2. [AFP via Rawstory](http://rawstory.com/news/afp/Ukraine_PM_refuses_to_resign_as_cri_09172008.html)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/2706210/Ukraine-president-Viktor-Yushchenko-accuses-PM-Yulia-Tymoshenko-of-treason.html)
 
 ### Related:
 

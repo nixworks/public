@@ -7,10 +7,10 @@ Tottenham bow out of the Europa League after losing 4-1 on penalties after a pul
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/22023533)
+1. [The Guardian](http://www.guardian.co.uk/football/2013/apr/11/lazio-fenerbahce-europa-league)
 2. [The Star](http://football.thestar.com.my/2013/04/12/benfica-reach-europa-league-semis-with-newcastle-draw/)
 3. [BBC](http://www.bbc.co.uk/sport/0/football/22023547)
-4. [The Guardian](http://www.guardian.co.uk/football/2013/apr/11/lazio-fenerbahce-europa-league)
+4. [BBC](http://www.bbc.co.uk/sport/0/football/22023533)
 
 ### Related:
 

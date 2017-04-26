@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/reuters/2009/09/14/world/international-uk-somalia-conflict.html)
-2. [Mareeg](http://www.mareeg.com/fidsan.php?sid=13696&tirsan=3)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8254957.stm)
+1. [Mareeg](http://www.mareeg.com/fidsan.php?sid=13696&tirsan=3)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8254957.stm)
+3. [The New York Times](http://www.nytimes.com/reuters/2009/09/14/world/international-uk-somalia-conflict.html)
 
 ### Related:
 

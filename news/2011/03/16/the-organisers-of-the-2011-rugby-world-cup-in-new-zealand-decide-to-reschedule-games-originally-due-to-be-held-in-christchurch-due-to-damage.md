@@ -7,8 +7,8 @@ Earthquake-ravaged Christchurch has lost its rights to host seven Rugby World Cu
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/rugby-union/union-news/christchurch-loses-world-cup-hosting-rights-20110316-1bwqh.html)
-2. [Rugby World Cup](http://www.rugbyworldcup.com/destinationnewzealand/news/newsid=2042074.html#christchurch+hosting+rwc+2011+games+decision)
+1. [Rugby World Cup](http://www.rugbyworldcup.com/destinationnewzealand/news/newsid=2042074.html#christchurch+hosting+rwc+2011+games+decision)
+2. [Sydney Morning Herald](http://www.smh.com.au/rugby-union/union-news/christchurch-loses-world-cup-hosting-rights-20110316-1bwqh.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Four Russian Navy warships have fired a total of 26 missiles at the position of 
 
 ### Source:
 
-1. [RT](https://www.rt.com/news/317864-russian-warships-missiles-launch/)
-2. [Jerusalem Post](http://www.jpost.com/Breaking-News/Heavy-Russian-strikes-hit-western-Syria-421137)
-3. [Reuters](http://ca.reuters.com/article/topNews/idCAKCN0S10BI20151007)
-4. [Reuters](http://www.reuters.com/article/2015/10/07/us-mideast-crisis-syria-rebels-idUSKCN0S111020151007)
+1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Heavy-Russian-strikes-hit-western-Syria-421137)
+2. [Reuters](http://ca.reuters.com/article/topNews/idCAKCN0S10BI20151007)
+3. [Reuters](http://www.reuters.com/article/2015/10/07/us-mideast-crisis-syria-rebels-idUSKCN0S111020151007)
+4. [RT](https://www.rt.com/news/317864-russian-warships-missiles-launch/)
 
 ### Related:
 

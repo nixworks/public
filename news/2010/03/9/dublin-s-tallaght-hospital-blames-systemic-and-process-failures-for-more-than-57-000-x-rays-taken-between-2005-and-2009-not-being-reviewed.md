@@ -8,8 +8,8 @@ A patient died when their diagnosis was delayed at Tallaght Hospital because x-r
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0309/breaking73.html)
-2. [Ireland Online](http://breakingnews.iol.ie/news/ireland/hospital-confirms-radiologists-did-not-review-57000-xrays-449352.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0309/tallaght.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0309/tallaght.html)
+3. [Ireland Online](http://breakingnews.iol.ie/news/ireland/hospital-confirms-radiologists-did-not-review-57000-xrays-449352.html)
 
 ### Related:
 

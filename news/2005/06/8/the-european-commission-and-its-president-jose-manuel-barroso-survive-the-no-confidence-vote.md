@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/06/08/news/eu.php)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=acoRUBNim1Mo&refer=germany)
-3. [EUpolitix](http://www.eupolitix.com/EN/News/200506/4b67dc9f-b5a8-4eb1-898b-3dc47f59378a.htm)
+1. [EUpolitix](http://www.eupolitix.com/EN/News/200506/4b67dc9f-b5a8-4eb1-898b-3dc47f59378a.htm)
+2. [IHT](http://www.iht.com/articles/2005/06/08/news/eu.php)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=acoRUBNim1Mo&refer=germany)
 
 ### Related:
 

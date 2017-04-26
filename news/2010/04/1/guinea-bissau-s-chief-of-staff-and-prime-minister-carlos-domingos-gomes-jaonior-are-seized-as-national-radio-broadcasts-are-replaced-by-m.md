@@ -7,10 +7,10 @@ Guinea&#x20;Bissau&#x20;Prime&#x20;Minister&#x20;Carlos&#x20;Gomes&#x20;Junior&#
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8599070.stm)
-2. [France24](http://www.france24.com/en/20100401-soldiers-arrest-guinea-bissau-prime-minister-carlos-gomes-junior-africa-military)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104112510170361.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8599070.stm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/africa/04/01/Guinear.Bissau.arrests/index.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104112510170361.html)
+4. [France24](http://www.france24.com/en/20100401-soldiers-arrest-guinea-bissau-prime-minister-carlos-gomes-junior-africa-military)
 
 ### Related:
 

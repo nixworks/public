@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1293436/Google-licence-operate-China-renewed.html)
-2. [BBC News](http://news.bbc.co.uk/1/hi/business/10566318.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/business/10566318.stm)
+2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1293436/Google-licence-operate-China-renewed.html)
 3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100709/news_20100709_56_682217.htm)
 
 ### Related:

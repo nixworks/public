@@ -7,9 +7,9 @@ Barack Obama’s broad win in Wisconsin put new pressure on Hillary Rodham Clint
 
 ### Source:
 
-1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.496657ce6bf5b8b6c9423b1a55fba612.11.html)
-2. [Reuters via ''The Melbourne Age](http://www.theage.com.au/news/us-election/obamas-winning-streak-continues/2008/02/20/1203467155860.html?page=fullpage#contentSwap1)
-3. [The New York Times](http://politics.nytimes.com/election-guide/2008/results/states/WA.html)
+1. [The New York Times](http://politics.nytimes.com/election-guide/2008/results/states/WA.html)
+2. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.496657ce6bf5b8b6c9423b1a55fba612.11.html)
+3. [Reuters via ''The Melbourne Age](http://www.theage.com.au/news/us-election/obamas-winning-streak-continues/2008/02/20/1203467155860.html?page=fullpage#contentSwap1)
 4. [The New York Times](http://www.nytimes.com/2008/02/19/us/politics/19cnd-campaign.html)
 
 ### Related:

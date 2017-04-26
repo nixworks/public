@@ -8,8 +8,8 @@ Governor and lawmakers fail to reach deal.
 ### Source:
 
 1. [Star-Tribune](http://www.startribune.com/politics/statelocal/124824189.html)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i-wB7Drzy1MfhL8_VpcVTMC6g3-Q?docId=49f917e92379476e971a48626e8a3520)
-3. [Politico](http://www.politico.com/news/stories/0611/58107.html)
+2. [Politico](http://www.politico.com/news/stories/0611/58107.html)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i-wB7Drzy1MfhL8_VpcVTMC6g3-Q?docId=49f917e92379476e971a48626e8a3520)
 
 ### Related:
 

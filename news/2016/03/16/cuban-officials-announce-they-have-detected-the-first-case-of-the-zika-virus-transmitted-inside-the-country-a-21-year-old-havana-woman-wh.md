@@ -7,8 +7,8 @@ A 21-year-old woman from Havana with no travel history outside Cuba is the first
 
 ### Source:
 
-1. [Medical Xpress](http://medicalxpress.com/news/2016-03-cuba-case-zika-transmitted-island.html)
-2. [Outbreak News Today](http://outbreaknewstoday.com/cuba-local-transmission-of-zika-reported-in-havana-67102/)
+1. [Outbreak News Today](http://outbreaknewstoday.com/cuba-local-transmission-of-zika-reported-in-havana-67102/)
+2. [Medical Xpress](http://medicalxpress.com/news/2016-03-cuba-case-zika-transmitted-island.html)
 
 ### Related:
 

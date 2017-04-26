@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dawn](http://www.dawn.com/2010/11/30/explosion-in-bannu.html)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/29/AR2010112907132.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/29/AR2010112907132.html)
+2. [Dawn](http://www.dawn.com/2010/11/30/explosion-in-bannu.html)
 
 ### Related:
 

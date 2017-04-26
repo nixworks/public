@@ -7,10 +7,10 @@ Nelson Mandela enjoys a thunderous greeting from thousands of fans as he attends
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/sport/worldcup2010/2010/07/2010711173439712821.html)
-2. [Calcutta Telegraph](http://www.telegraphindia.com/1100712/jsp/sports/story_12673363.jsp)
+1. [Mail & Guardian](http://www.mg.co.za/article/2010-07-11-mandela-in-the-house-at-world-cup-signoff)
+2. [Aljazeera](http://english.aljazeera.net/sport/worldcup2010/2010/07/2010711173439712821.html)
 3. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10589713.stm)
-4. [Mail & Guardian](http://www.mg.co.za/article/2010-07-11-mandela-in-the-house-at-world-cup-signoff)
+4. [Calcutta Telegraph](http://www.telegraphindia.com/1100712/jsp/sports/story_12673363.jsp)
 
 ### Related:
 

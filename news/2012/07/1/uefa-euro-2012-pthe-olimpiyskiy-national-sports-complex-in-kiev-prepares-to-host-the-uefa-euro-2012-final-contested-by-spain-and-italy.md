@@ -8,9 +8,9 @@ Spain are the undisputed kings of European football after masterful display insp
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/07/20127119523244269.html)
-2. [Sky Sports](http://www.skysports.com/football/match_report/0,,11065_3525072,00.html)
+2. [National Post'' via ''Calgary Herald](http://www.calgaryherald.com/sports/Euro+2012+final/6866294/story.html)
 3. [RT](http://www.rt.com/sport/football/spain-euro-2012-champions-153/)
-4. [National Post'' via ''Calgary Herald](http://www.calgaryherald.com/sports/Euro+2012+final/6866294/story.html)
+4. [Sky Sports](http://www.skysports.com/football/match_report/0,,11065_3525072,00.html)
 
 ### Related:
 

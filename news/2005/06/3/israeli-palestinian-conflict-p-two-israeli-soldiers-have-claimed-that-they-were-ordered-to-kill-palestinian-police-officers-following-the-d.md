@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4605877.stm)
-2. [the Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1498373,00.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4605899.stm)
+1. [the Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1498373,00.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4605899.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4605877.stm)
 
 ### Related:
 

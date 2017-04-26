@@ -7,9 +7,9 @@ NASA will reveal new discoveries about Mars gleaned by Curiosity rover on March 
 
 ### Source:
 
-1. [Space.com](http://www.space.com/20154-mars-discoveries-curiosity-rover.html)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-03-12-Mars%20Curiosity/id-71a7a7db0a4245a4b90016dcf294574a)
 2. [NASA](http://www.nasa.gov/home/hqnews/2013/mar/HQ_M13-045_Curiosity_Mars_Rock.html)
-3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-03-12-Mars%20Curiosity/id-71a7a7db0a4245a4b90016dcf294574a)
+3. [Space.com](http://www.space.com/20154-mars-discoveries-curiosity-rover.html)
 
 ### Related:
 

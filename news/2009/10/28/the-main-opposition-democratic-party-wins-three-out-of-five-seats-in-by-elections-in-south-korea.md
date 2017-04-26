@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/158424/skorea-opposition-beats-ruling-party-in-by-elections)
-2. [The Seoul Times](http://theseoultimes.com/ST/?url=/ST/db/read.php?idx=8991)
+1. [The Seoul Times](http://theseoultimes.com/ST/?url=/ST/db/read.php?idx=8991)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/158424/skorea-opposition-beats-ruling-party-in-by-elections)
 
 ### Related:
 

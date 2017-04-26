@@ -7,9 +7,9 @@ A Boeing 707-330C cargo plane, registered ST-AKW, was destroyed in an accident 1
 
 ### Source:
 
-1. [Arabian Business](http://www.arabianbusiness.com/571237-cargo-plane-crashes-at-sharjah-airport)
-2. [Aviation Safety Network](http://aviation-safety.net/database/record.php?id=20091021-0)
-3. [Gulfnews](http://gulfnews.com/news/gulf/uae/emergencies/plane-involved-in-accident-at-sharjah-airport-1.517425)
+1. [Gulfnews](http://gulfnews.com/news/gulf/uae/emergencies/plane-involved-in-accident-at-sharjah-airport-1.517425)
+2. [Arabian Business](http://www.arabianbusiness.com/571237-cargo-plane-crashes-at-sharjah-airport)
+3. [Aviation Safety Network](http://aviation-safety.net/database/record.php?id=20091021-0)
 
 ### Related:
 

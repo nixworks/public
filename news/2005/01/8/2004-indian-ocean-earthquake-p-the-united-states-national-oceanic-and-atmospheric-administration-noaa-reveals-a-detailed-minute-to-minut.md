@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NOAA Press Release](http://www.noaanews.noaa.gov/stories2004/s2358.htm)
-2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/01/06/aceh.radicals.ap/index.html)
+1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/01/06/aceh.radicals.ap/index.html)
+2. [NOAA Press Release](http://www.noaanews.noaa.gov/stories2004/s2358.htm)
 3. [CNN](http://edition.cnn.com/interactive/world/0412/timeline.tsunami/content.1.html)
 
 ### Related:

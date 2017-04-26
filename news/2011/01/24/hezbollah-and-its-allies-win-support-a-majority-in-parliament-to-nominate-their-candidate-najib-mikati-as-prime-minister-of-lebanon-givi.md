@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Lebanons-Hariri-Rules-Out-Joining-Hezbollah-Government-114474084.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE70N33820110124?loomia_ow=t0:s0:a49:g43:r5:c0.062827:b41236792:z0)
+1. [Reuters](http://www.reuters.com/article/idUSTRE70N33820110124?loomia_ow=t0:s0:a49:g43:r5:c0.062827:b41236792:z0)
+2. [Voice of America](http://www.voanews.com/english/news/Lebanons-Hariri-Rules-Out-Joining-Hezbollah-Government-114474084.html)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=205043)
 
 ### Related:

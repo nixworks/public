@@ -7,8 +7,8 @@ Basque separatists Eta call a permanent ceasefire in its fight for independence 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-12151597)
-2. [Gara](http://www.gara.net/agiriak/110108_declaration.pdf)
+1. [Gara](http://www.gara.net/agiriak/110108_declaration.pdf)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-12151597)
 
 ### Related:
 

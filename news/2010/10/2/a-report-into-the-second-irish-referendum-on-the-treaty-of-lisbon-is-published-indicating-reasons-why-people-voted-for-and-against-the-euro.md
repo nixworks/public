@@ -8,8 +8,8 @@ A report on the second Lisbon Treaty has been published suggesting the reasons t
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/1002/1224280191735.html)
-2. [Socialist Worker](http://www.swp.ie/news/one-year-lisbon-treaty-no-jobs-more-war/3629)
-3. [RTÉ](http://www.rte.ie/news/2010/1002/lisbon.html)
+2. [RTÉ](http://www.rte.ie/news/2010/1002/lisbon.html)
+3. [Socialist Worker](http://www.swp.ie/news/one-year-lisbon-treaty-no-jobs-more-war/3629)
 
 ### Related:
 

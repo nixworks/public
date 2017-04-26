@@ -7,8 +7,8 @@ Investors warn that this kind of reaction to major news is often only temporary 
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Business/BusinessNews/Article.aspx?id=218820)
-2. [CNN](http://money.cnn.com/2011/05/02/markets/oil_prices/?section=money_latest)
+1. [CNN](http://money.cnn.com/2011/05/02/markets/oil_prices/?section=money_latest)
+2. [The Jerusalem Post](http://www.jpost.com/Business/BusinessNews/Article.aspx?id=218820)
 
 ### Related:
 

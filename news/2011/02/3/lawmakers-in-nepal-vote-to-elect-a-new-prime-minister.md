@@ -7,8 +7,8 @@ Lawmakers in Nepal are set to vote for the 17th time to elect a new prime minist
 
 ### Source:
 
-1. [Review Nepal](http://www.reviewnepal.com/detail_news.php?id=1734)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12352525)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12352525)
+2. [Review Nepal](http://www.reviewnepal.com/detail_news.php?id=1734)
 
 ### Related:
 

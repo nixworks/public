@@ -7,15 +7,15 @@ Stephen Gately&#39;s body has arrived at the Church of St Laurence O&#39;Toole, 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8310124.stm)
-2. [The Guardian](http://www.guardian.co.uk/media/2009/oct/16/stephen-gately-jan-moir-complaints)
-3. [RTÉ](http://www.rte.ie/news/2009/1016/gatelys.html)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1016/breaking3.htm)
-5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1016/breaking78.htm)
-6. [Daily Mail'' Primary Source](http://www.dailymail.co.uk/femail/article-1220756/A-strange-lonely-troubling-death--.html)
-7. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/bandmates-to-escort-gatelys-body-home-to-dublin-14534123.html)
-8. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8311499.stm)
-9. [The Huffington Post](http://www.huffingtonpost.com/2009/10/16/jan-moir-column-on-stephe_n_323964.html)
+1. [RTÉ](http://www.rte.ie/news/2009/1016/gatelys.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8310124.stm)
+3. [The Huffington Post](http://www.huffingtonpost.com/2009/10/16/jan-moir-column-on-stephe_n_323964.html)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1016/breaking78.htm)
+5. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8311499.stm)
+6. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/bandmates-to-escort-gatelys-body-home-to-dublin-14534123.html)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1016/breaking3.htm)
+8. [The Guardian](http://www.guardian.co.uk/media/2009/oct/16/stephen-gately-jan-moir-complaints)
+9. [Daily Mail'' Primary Source](http://www.dailymail.co.uk/femail/article-1220756/A-strange-lonely-troubling-death--.html)
 
 ### Related:
 

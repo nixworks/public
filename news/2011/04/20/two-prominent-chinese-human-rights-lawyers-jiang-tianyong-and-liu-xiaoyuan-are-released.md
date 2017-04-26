@@ -7,9 +7,9 @@ Prominent Chinese human rights lawyer Jiang Tianyong is released and allowed to 
 
 ### Source:
 
-1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/3/16/Chinese-human-rights-lawyer-Jiang-Tianyong-freed,03cb8dbb-a575-4a58-825e-2b1efd4e0fd3.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13139872)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/201142052845436935.html)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13139872)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/201142052845436935.html)
+3. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/3/16/Chinese-human-rights-lawyer-Jiang-Tianyong-freed,03cb8dbb-a575-4a58-825e-2b1efd4e0fd3.html)
 
 ### Related:
 

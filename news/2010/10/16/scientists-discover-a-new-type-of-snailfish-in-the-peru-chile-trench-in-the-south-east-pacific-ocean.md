@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/earth/hi/earth_news/newsid_9092000/9092638.stm)
+1. [Science Daily](http://www.sciencedaily.com/releases/2010/10/101015191723.htm)
 2. [CNN](http://news.blogs.cnn.com/2010/10/15/new-fish-species-found-deep-below-ocean-surface/?hpt=C1)
-3. [Science Daily](http://www.sciencedaily.com/releases/2010/10/101015191723.htm)
+3. [BBC](http://news.bbc.co.uk/earth/hi/earth_news/newsid_9092000/9092638.stm)
 
 ### Related:
 

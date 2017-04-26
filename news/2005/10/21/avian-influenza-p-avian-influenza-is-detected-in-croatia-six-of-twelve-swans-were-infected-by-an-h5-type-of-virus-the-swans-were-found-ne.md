@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [ABC](http://www.abc.net.au/news/newsitems/200510/s1487513.htm)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk/4365956.stm)
-3. [ABC](http://www.abc.net.au/news/newsitems/200510/s1487872.htm)
+1. [ABC](http://www.abc.net.au/news/newsitems/200510/s1487872.htm)
+2. [ABC](http://www.abc.net.au/news/newsitems/200510/s1487513.htm)
+3. [BBC](http://news.bbc.co.uk/1/hi/uk/4365956.stm)
 
 ### Related:
 

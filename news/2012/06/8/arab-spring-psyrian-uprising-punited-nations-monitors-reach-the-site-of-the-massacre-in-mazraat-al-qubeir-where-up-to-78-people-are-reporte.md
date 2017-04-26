@@ -7,12 +7,12 @@ U.N. monitors entered the Syrian hamlet of Mazraat al-Qubeir where up to 78 peop
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20120608-lebanon-one-killed-pro-syrian-regime-neighbourhood)
-2. [Press TV](http://www.presstv.ir/detail/2012/06/08/245232/cairo-echoes-with-antishafiq-slogans/)
-3. [Press TV](http://www.presstv.ir/detail/2012/06/08/245239/bahraini-forces-attack-rally-rights-activist-nabeel-rajab/)
-4. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2012/Jun-08/176155-syria-troops-attack-homs-rebel-bastion-activists.ashx#axzz1xFO6CaUy)
+1. [Press TV](http://www.presstv.ir/detail/2012/06/08/245229/jordanians-rally-against-fuel-price-hike/)
+2. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2012/Jun-08/176155-syria-troops-attack-homs-rebel-bastion-activists.ashx#axzz1xFO6CaUy)
+3. [Press TV](http://www.presstv.ir/detail/2012/06/08/245232/cairo-echoes-with-antishafiq-slogans/)
+4. [Press TV](http://www.presstv.ir/detail/2012/06/08/245239/bahraini-forces-attack-rally-rights-activist-nabeel-rajab/)
 5. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126817618322179.html)
-6. [Press TV](http://www.presstv.ir/detail/2012/06/08/245229/jordanians-rally-against-fuel-price-hike/)
+6. [France 24](http://www.france24.com/en/20120608-lebanon-one-killed-pro-syrian-regime-neighbourhood)
 
 ### Related:
 

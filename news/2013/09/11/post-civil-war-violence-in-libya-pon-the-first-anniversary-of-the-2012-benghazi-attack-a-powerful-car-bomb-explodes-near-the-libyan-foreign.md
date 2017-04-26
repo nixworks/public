@@ -7,8 +7,8 @@ On the anniversary of the 9/11 bombings on the US, a car bomb causes serious dam
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/africa/libya-car-bomb-hits-foreign-ministry-in-benghazi-8809437.html)
-2. [Sky News](http://news.sky.com/story/1140228/libya-car-bomb-blast-shakes-benghazi)
+1. [Sky News](http://news.sky.com/story/1140228/libya-car-bomb-blast-shakes-benghazi)
+2. [The Independent](http://www.independent.co.uk/news/world/africa/libya-car-bomb-hits-foreign-ministry-in-benghazi-8809437.html)
 
 ### Related:
 

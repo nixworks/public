@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AAP via ''Sydney Daily Telegraph](http://www.dailytelegraph.com.au/news/frenchman-swims-channel-with-no-limbs/story-e6freuy9-1225926541909)
-2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5jJQo3CXyvk98YSmGV_iYvdp5fUfA)
-3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100919/news_20100919_56_699433.htm)
+1. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5jJQo3CXyvk98YSmGV_iYvdp5fUfA)
+2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100919/news_20100919_56_699433.htm)
+3. [AAP via ''Sydney Daily Telegraph](http://www.dailytelegraph.com.au/news/frenchman-swims-channel-with-no-limbs/story-e6freuy9-1225926541909)
 
 ### Related:
 

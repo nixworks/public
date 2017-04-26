@@ -7,9 +7,9 @@ Ehud Olmert was cleared by a Jerusalem court on two counts in a high-profile cor
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18779442)
-2. [New York Times](http://www.nytimes.com/2012/07/11/world/middleeast/ehud-olmert-cleared-of-two-counts-of-corruption.html?_r=1)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012710551942513.html)
+1. [New York Times](http://www.nytimes.com/2012/07/11/world/middleeast/ehud-olmert-cleared-of-two-counts-of-corruption.html?_r=1)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012710551942513.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18779442)
 
 ### Related:
 

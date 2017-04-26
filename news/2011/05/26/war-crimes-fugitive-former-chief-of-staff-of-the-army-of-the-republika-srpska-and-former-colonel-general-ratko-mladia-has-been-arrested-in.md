@@ -7,8 +7,8 @@ Serbian President Boris Tadic has confirmed that Serbian authorities have arrest
 
 ### Source:
 
-1. [AP via ''Palm Beach Post](http://www.palmbeachpost.com/news/world/media-reports-man-suspected-to-be-war-crimes-1498833.html)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/serbia/8537878/Ratko-Mladic-war-crimes-fugitive-arrested-in-Serbia.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/serbia/8537878/Ratko-Mladic-war-crimes-fugitive-arrested-in-Serbia.html)
+2. [AP via ''Palm Beach Post](http://www.palmbeachpost.com/news/world/media-reports-man-suspected-to-be-war-crimes-1498833.html)
 3. [SBS News](http://www.sbs.com.au/news/article/1546476/Serbia-arrests-man-believed-to-be-Mladic)
 
 ### Related:

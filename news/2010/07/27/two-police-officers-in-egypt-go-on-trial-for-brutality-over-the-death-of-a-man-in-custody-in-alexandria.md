@@ -7,8 +7,8 @@ Two officers in court accused of beating a young man who later died in custody.
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLDE66P08120100727?pageNumber=2&virtualBrandChannel=0)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107274029894514.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107274029894514.html)
+2. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLDE66P08120100727?pageNumber=2&virtualBrandChannel=0)
 
 ### Related:
 

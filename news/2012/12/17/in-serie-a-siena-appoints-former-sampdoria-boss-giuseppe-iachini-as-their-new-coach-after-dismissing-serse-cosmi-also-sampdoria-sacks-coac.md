@@ -7,8 +7,8 @@ UC Sampdoria have replaced coach Ciro Ferrara with Delio Rossi following their 3
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1268229)
-2. [UEFA](http://www.uefa.com/news/newsid=1907892.html)
+1. [UEFA](http://www.uefa.com/news/newsid=1907892.html)
+2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1268229)
 
 ### Related:
 

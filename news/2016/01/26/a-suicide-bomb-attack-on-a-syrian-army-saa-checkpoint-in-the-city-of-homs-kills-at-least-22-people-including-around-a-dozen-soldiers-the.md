@@ -7,9 +7,9 @@ Syrian pro-government forces captured a strategic southern rebel town close to t
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/syria-regime-forces-capture-key-southern-rebel-town-070813735.html)
+1. [Reuters Canada](http://ca.reuters.com/article/topNews/idCAKCN0V40RB)
 2. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3416937/Bombs-kill-22-army-checkpoint-Syrias-Homs-state-TV.html)
-3. [Reuters Canada](http://ca.reuters.com/article/topNews/idCAKCN0V40RB)
+3. [AFP via Yahoo! News](http://news.yahoo.com/syria-regime-forces-capture-key-southern-rebel-town-070813735.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ With all of the results in, Ireland has voted a historic yes in its gay marriage
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/global/live/2015/may/23/counting-underway-for-irelands-referendum-on-marriage-equality)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-23-EU--Ireland-Gay%20Marriage/id-0b452c093c1b4fe898c5c22143db517)
-3. [Independent Ireland](http://www.independent.ie/irish-news/referendum/referendum-2015-live-early-tallies-indicate-strong-yes-for-samesex-marriage-31238126.html)
+2. [Independent Ireland](http://www.independent.ie/irish-news/referendum/referendum-2015-live-early-tallies-indicate-strong-yes-for-samesex-marriage-31238126.html)
+3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-23-EU--Ireland-Gay%20Marriage/id-0b452c093c1b4fe898c5c22143db517)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Social discontent in China has risen this year, according to a top Chinese think
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-12/16/content_11714478.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12002253)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12002253)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-12/16/content_11714478.htm)
 
 ### Related:
 

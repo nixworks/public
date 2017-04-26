@@ -7,9 +7,9 @@ A gunman opened fire inside his wife&#x27;s elementary school classroom in San B
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/san-bernardino-school-shooting-four-wounded-murder-suicide-classroom-n744761)
-2. [CNN](http://edition.cnn.com/2017/04/10/us/san-bernardino-school-shooting/index.html)
-3. [Fox News](http://www.foxnews.com/us/2017/04/10/at-least-3-reportedly-shot-at-san-bernardino-elementary-school.html)
+1. [Fox News](http://www.foxnews.com/us/2017/04/10/at-least-3-reportedly-shot-at-san-bernardino-elementary-school.html)
+2. [NBC News](http://www.nbcnews.com/news/us-news/san-bernardino-school-shooting-four-wounded-murder-suicide-classroom-n744761)
+3. [CNN](http://edition.cnn.com/2017/04/10/us/san-bernardino-school-shooting/index.html)
 
 ### Related:
 

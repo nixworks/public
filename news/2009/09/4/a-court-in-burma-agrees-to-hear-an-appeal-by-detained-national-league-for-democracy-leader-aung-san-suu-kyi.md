@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/news/world/articlelist/296589292.cms)
-2. [The Guardian](http://www.guardian.co.uk/world/2009/sep/04/aung-san-suu-kyi-appeal)
-3. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/04/myanmar-court-accepts-suu-kyi-appeal.html)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/04/myanmar-court-accepts-suu-kyi-appeal.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/sep/04/aung-san-suu-kyi-appeal)
 
 ### Related:
 

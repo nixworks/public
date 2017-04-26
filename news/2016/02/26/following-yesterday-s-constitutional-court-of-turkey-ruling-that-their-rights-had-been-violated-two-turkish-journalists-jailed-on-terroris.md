@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via GlobalPost](http://www.globalpost.com/article/6738253/2016/02/25/jailed-opposition-journalists-rights-violated-turkey)
-2. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/02/26/news/arrested-turkish-journalists-released-after-92-days-in-prison/)
+1. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/02/26/news/arrested-turkish-journalists-released-after-92-days-in-prison/)
+2. [AFP via GlobalPost](http://www.globalpost.com/article/6738253/2016/02/25/jailed-opposition-journalists-rights-violated-turkey)
 
 ### Related:
 

@@ -7,13 +7,13 @@ IDF soldiers clash with Hizbullah gunmen attempting to infiltrate area secured b
 
 ### Source:
 
-1. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3282867,00.html)
-2. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060727/Blair_bush_meeting_060728/20060728?hub=TopStories)
-3. [BBC NEWS](http://news.bbc.co.uk/1/hi/uk_politics/5221782.stm)
-4. [Washington-Times](http://www.washtimes.com/national/20060728-123022-5852r.htm)
-5. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060727/Israel_fighting_lebanon_060728/20060728?hub=TopStories)
-6. [EUobserver](http://euobserver.com/9/22177)
-7. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/5223940.stm)
+1. [Washington-Times](http://www.washtimes.com/national/20060728-123022-5852r.htm)
+2. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3282867,00.html)
+3. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060727/Israel_fighting_lebanon_060728/20060728?hub=TopStories)
+4. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/5223940.stm)
+5. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060727/Blair_bush_meeting_060728/20060728?hub=TopStories)
+6. [BBC NEWS](http://news.bbc.co.uk/1/hi/uk_politics/5221782.stm)
+7. [EUobserver](http://euobserver.com/9/22177)
 
 ### Related:
 

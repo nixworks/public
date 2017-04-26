@@ -7,10 +7,10 @@ Pope Benedict XVI has accepted the resignation of Bishop of Cloyne John Magee.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8585012.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010324112959794112.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0324/abuse.html)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/7513612/Irish-bishop-John-Magee-resigns-over-sex-abuse-scandal.html)
+1. [RTÉ](http://www.rte.ie/news/2010/0324/abuse.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/7513612/Irish-bishop-John-Magee-resigns-over-sex-abuse-scandal.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8585012.stm)
+4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010324112959794112.html)
 
 ### Related:
 

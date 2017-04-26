@@ -7,8 +7,8 @@ One person was killed and five were wounded during a shooting late Saturday nigh
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2015/10/18/one-killed-zombicon-shooting/74167508/)
-2. [Reuters](http://www.reuters.com/article/2015/10/18/us-usa-shooting-florida-zombicon-idUSKCN0SC0QU20151018)
+1. [Reuters](http://www.reuters.com/article/2015/10/18/us-usa-shooting-florida-zombicon-idUSKCN0SC0QU20151018)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2015/10/18/one-killed-zombicon-shooting/74167508/)
 
 ### Related:
 

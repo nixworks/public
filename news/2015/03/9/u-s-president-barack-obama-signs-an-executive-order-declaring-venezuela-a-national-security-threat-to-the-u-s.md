@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via MSN](http://www.msn.com/en-us/news/world/obama-declares-venezuela-a-threat-to-us-national-security/ar-AA9yzFS)
-2. [White House text of the order](http://www.whitehouse.gov/the-press-office/2015/03/09/executive-order-declaration-national-emergency-respect-venezuela)
+1. [White House text of the order](http://www.whitehouse.gov/the-press-office/2015/03/09/executive-order-declaration-national-emergency-respect-venezuela)
+2. [Reuters via MSN](http://www.msn.com/en-us/news/world/obama-declares-venezuela-a-threat-to-us-national-security/ar-AA9yzFS)
 
 ### Related:
 

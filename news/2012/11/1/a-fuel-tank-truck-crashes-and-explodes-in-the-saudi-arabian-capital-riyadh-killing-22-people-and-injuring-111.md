@@ -7,8 +7,8 @@ At least 22 people are reported killed and scores injured in a fuel truck crash 
 
 ### Source:
 
-1. [NBC News](http://worldnews.nbcnews.com/_news/2012/11/01/14846800-23-killed-135-hurt-by-explosion-in-saudi-arabias-capital)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20165363)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20165363)
+2. [NBC News](http://worldnews.nbcnews.com/_news/2012/11/01/14846800-23-killed-135-hurt-by-explosion-in-saudi-arabias-capital)
 
 ### Related:
 

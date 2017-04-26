@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/18/AR2006051802107.html)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,2025913,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,2025913,00.html)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/18/AR2006051802107.html)
 
 ### Related:
 

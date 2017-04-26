@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4716333.stm)
-2. [ANSA, Italy](http://ansa.it/main/notizie/awnplus/english/news/2005-07-25_852337.html)
-3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=politicsNews&storyID=2005-07-25T183254Z_01_N25732253_RTRIDST_0_POLITICS-SECURITY-ITALY-CIA-DC.XML)
+1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=politicsNews&storyID=2005-07-25T183254Z_01_N25732253_RTRIDST_0_POLITICS-SECURITY-ITALY-CIA-DC.XML)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4716333.stm)
+3. [ANSA, Italy](http://ansa.it/main/notizie/awnplus/english/news/2005-07-25_852337.html)
 
 ### Related:
 

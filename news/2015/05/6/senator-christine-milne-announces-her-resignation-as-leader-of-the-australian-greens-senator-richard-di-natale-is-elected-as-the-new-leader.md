@@ -7,8 +7,8 @@ The Australian Greens will have a new leader by lunchtime following the surprise
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/christine-milne-resigns-as-greens-leader-will-not-contest-2016-election-20150506-ggv4dj.html)
-2. [ABC](http://www.abc.net.au/news/2015-05-06/greens-leader-christine-milne-resigns/6448452)
+1. [ABC](http://www.abc.net.au/news/2015-05-06/greens-leader-christine-milne-resigns/6448452)
+2. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/christine-milne-resigns-as-greens-leader-will-not-contest-2016-election-20150506-ggv4dj.html)
 
 ### Related:
 

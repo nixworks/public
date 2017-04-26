@@ -7,8 +7,8 @@ Australian police holding an Indian doctor suspected of links with the plot to e
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSSYD26830320070706?feedType=RSS&pageNumber=2)
-2. [AP via the ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4947284.html)
+1. [AP via the ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4947284.html)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSSYD26830320070706?feedType=RSS&pageNumber=2)
 
 ### Related:
 

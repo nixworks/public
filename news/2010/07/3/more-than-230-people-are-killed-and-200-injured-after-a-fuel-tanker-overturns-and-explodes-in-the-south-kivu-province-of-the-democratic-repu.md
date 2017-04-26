@@ -7,9 +7,9 @@ Lorry carrying oil overturns and bursts into flames, engulfing the village of Sa
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/10500015.stm)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/03/c_13382107.htm)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/2010736375189472.html)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/03/c_13382107.htm)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/2010736375189472.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/10500015.stm)
 
 ### Related:
 

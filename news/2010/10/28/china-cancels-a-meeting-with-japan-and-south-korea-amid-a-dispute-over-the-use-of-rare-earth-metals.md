@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_596322.html)
-2. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/news/20101028p2g00m0in012000c.html)
+1. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/news/20101028p2g00m0in012000c.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_596322.html)

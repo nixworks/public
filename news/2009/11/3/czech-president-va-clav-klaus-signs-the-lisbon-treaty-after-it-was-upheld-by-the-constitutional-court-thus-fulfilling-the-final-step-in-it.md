@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8340664.stm)
-2. [euronews](http://www.euronews.net/2009/11/03/czech-court-clears-way-for-lisbon-ratification/)
+1. [euronews](http://www.euronews.net/2009/11/03/czech-court-clears-way-for-lisbon-ratification/)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8340664.stm)
 
 ### Related:
 

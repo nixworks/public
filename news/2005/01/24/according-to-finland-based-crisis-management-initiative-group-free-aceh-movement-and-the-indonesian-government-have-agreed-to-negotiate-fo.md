@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aJyYHwV7K4qM&refer=asia)
-2. [London Free Press](http://www.canoe.ca/NewsStand/LondonFreePress/News/2005/01/24/908255-sun.html)
-3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L23410981.htm)
+1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L23410981.htm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aJyYHwV7K4qM&refer=asia)
+3. [London Free Press](http://www.canoe.ca/NewsStand/LondonFreePress/News/2005/01/24/908255-sun.html)
 
 ### Related:
 

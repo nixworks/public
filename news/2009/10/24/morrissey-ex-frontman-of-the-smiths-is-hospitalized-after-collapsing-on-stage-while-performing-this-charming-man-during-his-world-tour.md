@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Singer-Morrissey-Admitted-To-Hospital-In-Swindon---Condition-Stable/Article/200910415416146?lpos=Showbiz_News_Top_Stories_Header_0&lid=ARTICLE_15416146_Singer_Morrissey_Admitted_To_Hospital_In_Swindon_-_Condition_Stable)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/8324492.stm)
 2. [The Guardian](http://www.guardian.co.uk/music/2009/oct/24/morrissey-the-smiths-collapse-swindon)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/8324492.stm)
+3. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Singer-Morrissey-Admitted-To-Hospital-In-Swindon---Condition-Stable/Article/200910415416146?lpos=Showbiz_News_Top_Stories_Header_0&lid=ARTICLE_15416146_Singer_Morrissey_Admitted_To_Hospital_In_Swindon_-_Condition_Stable)
 
 ### Related:
 

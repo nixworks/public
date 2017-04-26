@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Article/201009116001684)
-2. [AP via MSNBC](http://nbcsports.msnbc.com/id/43204662/ns/sports-soccer/)
+1. [AP via MSNBC](http://nbcsports.msnbc.com/id/43204662/ns/sports-soccer/)
+2. [Sky News](http://news.sky.com/skynews/Article/201009116001684)
 
 ### Related:
 

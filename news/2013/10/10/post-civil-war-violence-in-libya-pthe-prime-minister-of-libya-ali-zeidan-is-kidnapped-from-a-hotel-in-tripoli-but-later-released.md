@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/10368524/Libyan-prime-minister-kidnapped-by-gunmen.html)
-2. [AFP via France 24](http://www.france24.com/en/breaking/20131010-libyan-pm-ali-zeidan-has-been-released?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20131010_1244&ns_linkname=20131010_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+1. [AFP via France 24](http://www.france24.com/en/breaking/20131010-libyan-pm-ali-zeidan-has-been-released?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20131010_1244&ns_linkname=20131010_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/10368524/Libyan-prime-minister-kidnapped-by-gunmen.html)
 
 ### Related:
 

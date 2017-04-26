@@ -7,8 +7,8 @@ The county prosecutor charged the 50-year-old man who struck nine bicyclists Tue
 
 ### Source:
 
-1. [CTV News](http://www.ctvnews.ca/world/official-truck-slams-into-bicyclists-in-michigan-killing-5-1.2936016)
-2. [Atlantic](http://www.theatlantic.com/news/archive/2016/06/michigan-bicycle-accident/486140/)
+1. [Atlantic](http://www.theatlantic.com/news/archive/2016/06/michigan-bicycle-accident/486140/)
+2. [CTV News](http://www.ctvnews.ca/world/official-truck-slams-into-bicyclists-in-michigan-killing-5-1.2936016)
 
 ### Related:
 

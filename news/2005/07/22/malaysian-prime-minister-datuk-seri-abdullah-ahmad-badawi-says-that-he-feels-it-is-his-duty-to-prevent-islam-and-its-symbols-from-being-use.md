@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Islam Online](http://www.islamonline.org/English/News/2005-07/21/article03.shtml)
-2. [The Star](http://thestar.com.my/news/story.asp?file=/2005/7/22/nation/11555395&sec=nation)
-3. [Iranian Quran News Agency](http://iqna.ir/NewsBodyDesc_en.asp?lang=en&ProdID=23908)
+1. [Iranian Quran News Agency](http://iqna.ir/NewsBodyDesc_en.asp?lang=en&ProdID=23908)
+2. [Islam Online](http://www.islamonline.org/English/News/2005-07/21/article03.shtml)
+3. [The Star](http://thestar.com.my/news/story.asp?file=/2005/7/22/nation/11555395&sec=nation)
 
 ### Related:
 

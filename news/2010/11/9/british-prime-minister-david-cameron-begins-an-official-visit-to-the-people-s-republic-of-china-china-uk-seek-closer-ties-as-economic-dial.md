@@ -7,8 +7,8 @@ David Cameron raises the issue of human rights in talks with China, during what 
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/09/c_13597919.htm)
-2. [BBC](http://www.bbc.co.uk/news/business-11715216)
+1. [BBC](http://www.bbc.co.uk/news/business-11715216)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/09/c_13597919.htm)
 
 ### Related:
 

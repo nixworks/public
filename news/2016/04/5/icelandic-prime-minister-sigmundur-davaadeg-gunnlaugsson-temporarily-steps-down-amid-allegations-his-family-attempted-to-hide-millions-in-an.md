@@ -7,10 +7,10 @@ Sigmundur Davíð Gunnlaugsson steps aside amid widespread anger over allegation
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/05/iceland-prime-minister-resigns-over-panama-papers-revelations)
-2. [GMA News](http://www.gmanetwork.com/news/story/5161468/news/nation/imee-marcos-and-sons-jv-ejercito-among-panama-papers-personalities)
+1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/777754/imee-3-sons-on-panama-papers-list-jv-ejercito-too)
+2. [The Guardian](http://www.theguardian.com/world/2016/apr/05/iceland-prime-minister-resigns-over-panama-papers-revelations)
 3. [AP via ABC News America](http://abcnews.go.com/International/wireStory/sharif-sets-body-probe-graft-charge-family-38166056)
-4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/777754/imee-3-sons-on-panama-papers-list-jv-ejercito-too)
+4. [GMA News](http://www.gmanetwork.com/news/story/5161468/news/nation/imee-marcos-and-sons-jv-ejercito-among-panama-papers-personalities)
 
 ### Related:
 

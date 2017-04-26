@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/SPORT/football/02/12/football.togo.cas.appeal/)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8512230.stm)
-3. [The Guardian](http://www.guardian.co.uk/football/2010/feb/12/togo-appeal-court-ban-africa-nations)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8512230.stm)
+2. [The Guardian](http://www.guardian.co.uk/football/2010/feb/12/togo-appeal-court-ban-africa-nations)
+3. [CNN](http://edition.cnn.com/2010/SPORT/football/02/12/football.togo.cas.appeal/)
 
 ### Related:
 

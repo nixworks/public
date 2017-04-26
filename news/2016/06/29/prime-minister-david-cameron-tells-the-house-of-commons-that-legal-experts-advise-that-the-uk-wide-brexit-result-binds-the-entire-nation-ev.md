@@ -7,8 +7,8 @@ As Irish and Scottish nationalists continue to refuse to accept the outcome of l
 
 ### Source:
 
-1. [The News Letter](http://www.newsletter.co.uk/news/northern-ireland-news/pm-says-legal-advice-is-clear-scotland-and-ni-bound-by-brexit-vote-1-7455432)
-2. [New Europe](https://www.neweurope.eu/article/scottish-north-irish-meps-want-countries-stay-eu/)
+1. [New Europe](https://www.neweurope.eu/article/scottish-north-irish-meps-want-countries-stay-eu/)
+2. [The News Letter](http://www.newsletter.co.uk/news/northern-ireland-news/pm-says-legal-advice-is-clear-scotland-and-ni-bound-by-brexit-vote-1-7455432)
 
 ### Related:
 

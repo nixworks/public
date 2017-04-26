@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyodo](http://english.kyodonews.jp/news/2011/04/84446.html)
-2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/04/11/japan.nuclear.reactors/index.html?eref=rss_latest)
+1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/04/11/japan.nuclear.reactors/index.html?eref=rss_latest)
+2. [Kyodo](http://english.kyodonews.jp/news/2011/04/84446.html)
 
 ### Related:
 

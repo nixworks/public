@@ -7,10 +7,10 @@ John Everard, former UK Ambassador, explains that North Korea &quot;believe that
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/04/04/politics/koreas-u-s-/)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-22024260)
-3. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134304954907439.html)
-4. [CNN](http://www.cnn.com/2013/04/04/world/asia/koreas-tensions)
+1. [CNN](http://www.cnn.com/2013/04/04/world/asia/koreas-tensions)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134304954907439.html)
+3. [CNN](http://www.cnn.com/2013/04/04/politics/koreas-u-s-/)
+4. [BBC](http://www.bbc.co.uk/news/world-asia-22024260)
 
 ### Related:
 

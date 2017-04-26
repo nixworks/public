@@ -7,8 +7,8 @@ The wife of disgraced Chinese political leader Bo Xilai is charged with murderin
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/26/us-china-politics-bo-idUSBRE86P0KX20120726)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-china-18996032)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-china-18996032)
+2. [Reuters](http://www.reuters.com/article/2012/07/26/us-china-politics-bo-idUSBRE86P0KX20120726)
 
 ### Related:
 

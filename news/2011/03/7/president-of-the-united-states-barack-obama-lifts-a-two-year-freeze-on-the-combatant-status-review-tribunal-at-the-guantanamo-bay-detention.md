@@ -7,8 +7,8 @@ US President Barack Obama is lifting the two-year freeze on new military trials 
 
 ### Source:
 
-1. [CNN](http://politicalticker.blogs.cnn.com/2011/03/07/obama-says-military-commissions-for-guantanamo-detainees-will-resume/)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12671777?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12671777?utm_source=twitterfeed&utm_medium=twitter)
+2. [CNN](http://politicalticker.blogs.cnn.com/2011/03/07/obama-says-military-commissions-for-guantanamo-detainees-will-resume/)
 
 ### Related:
 

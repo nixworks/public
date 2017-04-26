@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7612590)
-2. [CNN](http://edition.cnn.com/2005/WORLD/americas/02/13/samerica.floods.ap/)
+1. [CNN](http://edition.cnn.com/2005/WORLD/americas/02/13/samerica.floods.ap/)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7612590)
 
 ### Related:
 

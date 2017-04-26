@@ -7,11 +7,11 @@ The United Nations and Washington on Monday condemned air strikes on medical fac
 
 ### Source:
 
-1. [Israel National News](http://www.israelnationalnews.com/News/Flash.aspx/351596#.VsHEfuaoNFQ)
-2. [AFP via Yahoo! News](http://news.yahoo.com/kurdish-led-forces-seize-syria-rebel-town-monitor-205534517.html)
+1. [AFP via Yahoo! News](http://news.yahoo.com/kurdish-led-forces-seize-syria-rebel-town-monitor-205534517.html)
+2. [Israel National News](http://www.israelnationalnews.com/News/Flash.aspx/351596#.VsHEfuaoNFQ)
 3. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-turkey-clash-idUKKCN0VO0J7)
-4. [AFP via Yahoo News](http://news.yahoo.com/air-strikes-hit-msf-backed-hospital-syria-9-093204786.html)
-5. [MSF](http://www.msf.org.au/article/statements-opinion/syria-least-seven-killed-and-eight-missing-another-m%C3%A9decins-sans)
+4. [MSF](http://www.msf.org.au/article/statements-opinion/syria-least-seven-killed-and-eight-missing-another-m%C3%A9decins-sans)
+5. [AFP via Yahoo News](http://news.yahoo.com/air-strikes-hit-msf-backed-hospital-syria-9-093204786.html)
 
 ### Related:
 

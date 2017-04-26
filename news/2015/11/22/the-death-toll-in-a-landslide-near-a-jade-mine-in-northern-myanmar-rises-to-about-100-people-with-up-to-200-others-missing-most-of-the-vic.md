@@ -7,8 +7,8 @@ A landslide near a jade mine in northern Myanmar killed about 100 people, most o
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/22/us-myanmar-mine-idUSKCN0TB04M20151122?feedType=RSS&feedName=topNews#Ur36mhveC7GXqirP.97)
-2. [AP via Boston Globe](https://www.bostonglobe.com/news/world/2015/11/22/toll-myanmar-landslide-hit-many-others-missing/GUqaQn5cuoU6UcHfVxQMmL/story.html)
+1. [AP via Boston Globe](https://www.bostonglobe.com/news/world/2015/11/22/toll-myanmar-landslide-hit-many-others-missing/GUqaQn5cuoU6UcHfVxQMmL/story.html)
+2. [Reuters](http://www.reuters.com/article/2015/11/22/us-myanmar-mine-idUSKCN0TB04M20151122?feedType=RSS&feedName=topNews#Ur36mhveC7GXqirP.97)
 
 ### Related:
 

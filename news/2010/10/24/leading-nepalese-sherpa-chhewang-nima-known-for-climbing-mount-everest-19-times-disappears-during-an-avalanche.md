@@ -7,8 +7,8 @@ Nepalese Sherpa Chhewang Nima, who has climbed Mount Everest 19 times, is missin
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/oct/24/sherpa-chhewang-nima-missing-avalanche)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11615856)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11615856)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/oct/24/sherpa-chhewang-nima-missing-avalanche)
 
 ### Related:
 

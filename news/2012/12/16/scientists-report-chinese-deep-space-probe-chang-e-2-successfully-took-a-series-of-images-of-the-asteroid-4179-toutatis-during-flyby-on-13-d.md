@@ -8,9 +8,9 @@ The closest fly-by was at 08:30:09 UTC on December 13 at an altitude of just 3.2
 ### Source:
 
 1. [The Planetary Society](http://www.planetary.org/multimedia/space-images/small-bodies/change-2-images-of-toutatis.html)
-2. [The Guardian Express](http://guardianlv.com/2012/12/china-space-probe-takes-close-up-images-of-the-asteroid-4179-toutatis/)
-3. [Xinhua](http://news.xinhuanet.com/english/china/2012-12/15/c_132041953.htm)
-4. [NBC News](http://cosmiclog.nbcnews.com/_news/2012/12/15/15919205-new-milestone-for-china-probe-snaps-close-ups-of-asteroid-toutatis)
+2. [NBC News](http://cosmiclog.nbcnews.com/_news/2012/12/15/15919205-new-milestone-for-china-probe-snaps-close-ups-of-asteroid-toutatis)
+3. [The Guardian Express](http://guardianlv.com/2012/12/china-space-probe-takes-close-up-images-of-the-asteroid-4179-toutatis/)
+4. [Xinhua](http://news.xinhuanet.com/english/china/2012-12/15/c_132041953.htm)
 
 ### Related:
 

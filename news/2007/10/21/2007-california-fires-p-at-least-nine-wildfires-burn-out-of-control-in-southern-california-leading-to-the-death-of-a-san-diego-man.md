@@ -7,9 +7,9 @@ Fast-moving wildfires roared across California on Monday and engulfed large swat
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/story/0,23599,22627608-2,00.html)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSN2132897520071022?feedType=RSS&feedName=topNews)
-3. [News Limited](http://www.news.com.au/heraldsun/story/0,21985,22626779-661,00.html)
+1. [News Limited](http://www.news.com.au/heraldsun/story/0,21985,22626779-661,00.html)
+2. [News Limited](http://www.news.com.au/story/0,23599,22627608-2,00.html)
+3. [Reuters](http://www.reuters.com/article/topNews/idUSN2132897520071022?feedType=RSS&feedName=topNews)
 
 ### Related:
 

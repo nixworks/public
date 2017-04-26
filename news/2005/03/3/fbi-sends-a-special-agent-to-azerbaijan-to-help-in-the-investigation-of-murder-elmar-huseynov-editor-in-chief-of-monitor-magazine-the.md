@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4315439.stm)
-2. [Baku Today](http://www.bakutoday.net/view.php?d=12699)
-3. [CASCFEN](http://www.cascfen.org/news.php?nid=935&cid=6)
-4. [IJNet](http://www.ijnet.org/FE_Article/newsarticle.asp?UILang=1&CId=294690&CIdLang=1)
+1. [CASCFEN](http://www.cascfen.org/news.php?nid=935&cid=6)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4315439.stm)
+3. [IJNet](http://www.ijnet.org/FE_Article/newsarticle.asp?UILang=1&CId=294690&CIdLang=1)
+4. [Baku Today](http://www.bakutoday.net/view.php?d=12699)
 
 ### Related:
 

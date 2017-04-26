@@ -7,12 +7,12 @@ Bahrain has recalled its ambassador from Syria for consultation Foreign Minister
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4105840,00.html)
-2. [Syrian Arab News Agency](http://www.sana.sy/eng/337/2011/08/08/362679.htm)
-3. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2011/Aug-08/Kuwait-recalls-ts-ambassador-to-Syria.ashx#axzz1UOEaIYc5)
+1. [Syrian Arab News Agency](http://www.sana.sy/eng/337/2011/08/08/362679.htm)
+2. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2011/Aug-08/Kuwait-recalls-ts-ambassador-to-Syria.ashx#axzz1UOEaIYc5)
+3. [Huffington Post](http://www.huffingtonpost.com/2011/08/08/syria-ministry-of-defense-hacked-anonymous_n_920733.html)
 4. [Gulf News](http://gulfnews.com/news/gulf/bahrain/bahrain-recalls-its-ambassador-from-syria-monday-1.848928)
-5. [Al Jazeera](http://blogs.aljazeera.net/liveblog/Syria)
-6. [Huffington Post](http://www.huffingtonpost.com/2011/08/08/syria-ministry-of-defense-hacked-anonymous_n_920733.html)
+5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4105840,00.html)
+6. [Al Jazeera](http://blogs.aljazeera.net/liveblog/Syria)
 
 ### Related:
 

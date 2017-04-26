@@ -7,10 +7,10 @@ Russian police have arrested three homeless people suspected of eating a 25-year
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8360569.stm)
+1. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Cannibals-sell-corpse-bits-to-kebab-house-in-Russia/articleshow/5231574.cms)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1114/breaking46.htm)
 3. [ABC Online](http://www.abc.net.au/news/stories/2009/11/15/2743107.htm)
-4. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Cannibals-sell-corpse-bits-to-kebab-house-in-Russia/articleshow/5231574.cms)
+4. [BBC](http://news.bbc.co.uk/2/hi/europe/8360569.stm)
 
 ### Related:
 

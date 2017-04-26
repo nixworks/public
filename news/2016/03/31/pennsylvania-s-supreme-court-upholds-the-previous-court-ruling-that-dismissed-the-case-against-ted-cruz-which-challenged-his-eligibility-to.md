@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Vox Media](http://www.vox.com/2016/3/31/11339040/trump-nukes-japan-south-korea)
+1. [CNN](http://www.cnn.com/2016/03/31/politics/trump-view-from-south-korea-japan/index.html)
 2. [ABC News](http://abcnews.go.com/Politics/wireStory/cruz-wins-citizenship-case-pennsylvania-supreme-court-38059265)
-3. [CNN](http://www.cnn.com/2016/03/31/politics/trump-view-from-south-korea-japan/index.html)
+3. [Vox Media](http://www.vox.com/2016/3/31/11339040/trump-nukes-japan-south-korea)
 
 ### Related:
 

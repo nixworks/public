@@ -8,9 +8,9 @@ Calls said to be made for anti-government rallies apparently inspired by events 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011212162526150718.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011213185556388117.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121395356723720.html)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gNJhV-MEAbPHUuZ_WzQXzeXOrwAQ?docId=CNG.e6210a294125e6051fab15d1b9c3fb5a.621)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gNJhV-MEAbPHUuZ_WzQXzeXOrwAQ?docId=CNG.e6210a294125e6051fab15d1b9c3fb5a.621)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011213185556388117.html)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121395356723720.html)
 5. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121314913447933.html)
 6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011213132610927713.html)
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-10-23/argentine-president-fernandez-won-re-election-polls-show.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/oct/20/argentina-cristina-kirchner-cruises-re-election)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/oct/20/argentina-cristina-kirchner-cruises-re-election)
+2. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-10-23/argentine-president-fernandez-won-re-election-polls-show.html)
 
 ### Related:
 

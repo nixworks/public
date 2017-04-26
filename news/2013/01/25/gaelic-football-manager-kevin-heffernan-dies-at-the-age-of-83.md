@@ -7,8 +7,8 @@ Tributes are paid to Kevin Heffernan after the death of the legendary former Dub
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/sports/gaa/2013/0125/1224329289193.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/northern-ireland/21204792)
+1. [BBC](http://www.bbc.co.uk/sport/0/northern-ireland/21204792)
+2. [The Irish Times](http://www.irishtimes.com/sports/gaa/2013/0125/1224329289193.html)
 
 ### Related:
 

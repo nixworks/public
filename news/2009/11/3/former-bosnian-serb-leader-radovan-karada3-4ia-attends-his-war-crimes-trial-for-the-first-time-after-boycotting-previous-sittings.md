@@ -7,9 +7,9 @@ Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administr
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009113132158847997.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8339833.stm)
-3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL3465329)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8339833.stm)
+2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL3465329)
+3. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009113132158847997.html)
 
 ### Related:
 

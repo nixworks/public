@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Free Europe](http://www.rferl.org/content/stakes-could-not-be-higher-in-georgian-parliamentary-elections/24723413.html)
-2. [RIA Novosti](http://en.rian.ru/world/20121001/176322968.html)
+1. [RIA Novosti](http://en.rian.ru/world/20121001/176322968.html)
+2. [Radio Free Europe](http://www.rferl.org/content/stakes-could-not-be-higher-in-georgian-parliamentary-elections/24723413.html)
 
 ### Related:
 

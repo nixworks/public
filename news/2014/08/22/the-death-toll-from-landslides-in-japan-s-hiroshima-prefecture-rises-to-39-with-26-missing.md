@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Boston.com](http://www.boston.com/news/world/asia/2014/08/21/landslide-death-toll-just-below/c1lERqsHk2osWeD2E2vDMN/video.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2014-08-21/japan-landslide-rescue-continues-with-39-dead-and-26-missing-1-.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2014-08-21/japan-landslide-rescue-continues-with-39-dead-and-26-missing-1-.html)
+2. [Boston.com](http://www.boston.com/news/world/asia/2014/08/21/landslide-death-toll-just-below/c1lERqsHk2osWeD2E2vDMN/video.html)
 
 ### Related:
 

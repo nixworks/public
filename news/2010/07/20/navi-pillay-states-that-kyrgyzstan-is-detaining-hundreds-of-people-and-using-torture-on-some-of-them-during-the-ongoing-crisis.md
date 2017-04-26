@@ -9,8 +9,8 @@
 
 1. [Arab News](http://arabnews.com/world/article87463.ece)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE66J0RF._CH_.2420)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10699893)
-4. [France24](http://www.france24.com/en/20100720-kyrgyzstan-forces-may-have-used-torture-un-rights)
+3. [France24](http://www.france24.com/en/20100720-kyrgyzstan-forces-may-have-used-torture-un-rights)
+4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10699893)
 
 ### Related:
 

@@ -8,12 +8,12 @@ The executions, carried out by a firing squad at dawn, were the first since the 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8630436.stm)
-2. [The News International](http://thenews.jang.com.pk/updates.asp?id=103173)
-3. [Ha'aretz](http://www.haaretz.com/hasen/spages/1164002.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8629158.stm)
-5. [The New York Times](http://www.nytimes.com/2010/04/16/world/middleeast/16gaza.html)
-6. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100419/FOREIGN/704189818/1002)
-7. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100419/israel_monday_100419/20100419?hub=World)
+2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1164002.html)
+3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100419/israel_monday_100419/20100419?hub=World)
+4. [The New York Times](http://www.nytimes.com/2010/04/16/world/middleeast/16gaza.html)
+5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8629158.stm)
+6. [The News International](http://thenews.jang.com.pk/updates.asp?id=103173)
+7. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100419/FOREIGN/704189818/1002)
 
 ### Related:
 

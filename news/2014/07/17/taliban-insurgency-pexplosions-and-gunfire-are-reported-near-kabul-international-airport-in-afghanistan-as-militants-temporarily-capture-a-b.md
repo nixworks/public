@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via UK Investing](http://uk.investing.com/news/world-news/explosion,-gunfire-heard-near-kabul-airport---reuters-witness-8029)
-2. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/07/17/kabul-airport-under-militant-attack.html)
+1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/07/17/kabul-airport-under-militant-attack.html)
+2. [Reuters via UK Investing](http://uk.investing.com/news/world-news/explosion,-gunfire-heard-near-kabul-airport---reuters-witness-8029)
 
 ### Related:
 

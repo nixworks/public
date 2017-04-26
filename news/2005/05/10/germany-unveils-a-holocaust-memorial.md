@@ -7,10 +7,10 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [Ha'aretz](http://www.haaretz.com/hasen/spages/574862.html)
-2. [ABC](http://abcnews.go.com/US/wireStory?id=744536)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1574235,00.html)
-4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L10447199.htm)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1574235,00.html)
+2. [Ha'aretz](http://www.haaretz.com/hasen/spages/574862.html)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L10447199.htm)
+4. [ABC](http://abcnews.go.com/US/wireStory?id=744536)
 
 ### Related:
 

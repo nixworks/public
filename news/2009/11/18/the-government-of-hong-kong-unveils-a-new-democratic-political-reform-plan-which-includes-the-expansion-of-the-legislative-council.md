@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_455977.html)
-2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/elocal/news.htm?elocal&20091119&56&627823)
-3. [Channel News Asia](http://www.channelnewsasia.com/stories/eastasia/view/1019014/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/eastasia/view/1019014/1/.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_455977.html)
+3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/elocal/news.htm?elocal&20091119&56&627823)
 
 ### Related:
 

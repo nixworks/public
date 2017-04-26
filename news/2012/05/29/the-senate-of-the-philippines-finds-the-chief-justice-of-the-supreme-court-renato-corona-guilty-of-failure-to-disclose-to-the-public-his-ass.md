@@ -7,9 +7,9 @@ Chief justice Renato Corona effectively removed from office after five-month tri
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/202929/senate-convicts-corona)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1204264/1/.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252992220148225.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1204264/1/.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252992220148225.html)
+3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/202929/senate-convicts-corona)
 
 ### Related:
 

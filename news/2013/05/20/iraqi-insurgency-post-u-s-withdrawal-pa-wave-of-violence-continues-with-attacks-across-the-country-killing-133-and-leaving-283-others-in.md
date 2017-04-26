@@ -7,8 +7,8 @@ More than 70 people are killed and many more wounded by car bombs and suicide at
 
 ### Source:
 
-1. [Antiwar.com via AP](http://original.antiwar.com/updates/2013/05/20/monday-mayhem-116-killed-240-wounded-in-iraq/)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22593345)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22593345)
+2. [Antiwar.com via AP](http://original.antiwar.com/updates/2013/05/20/monday-mayhem-116-killed-240-wounded-in-iraq/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Police set up an exclusion zone around the wreckage in the Australian outback an
 
 ### Source:
 
-1. [ABC Australia](http://www.abc.net.au/news/2015-12-28/freight-train-derailment-emergency-continues-near-julia-creek/7056322)
-2. [Sky News](http://news.sky.com/story/1613206/freight-train-carrying-sulphuric-acid-derails)
+1. [Sky News](http://news.sky.com/story/1613206/freight-train-carrying-sulphuric-acid-derails)
+2. [ABC Australia](http://www.abc.net.au/news/2015-12-28/freight-train-derailment-emergency-continues-near-julia-creek/7056322)
 
 ### Related:
 

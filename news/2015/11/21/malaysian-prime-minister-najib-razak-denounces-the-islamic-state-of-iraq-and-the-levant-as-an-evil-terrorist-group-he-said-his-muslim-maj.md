@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/21/Obama-vows-US-borders-open-to-refugees-as-long-as-Im-president/8801448110685/?spt=hs&or=tn_int)
-2. [AP via Fresno Bee](http://www.fresnobee.com/news/business/article45720378.html)
+1. [AP via Fresno Bee](http://www.fresnobee.com/news/business/article45720378.html)
+2. [UPI](http://www.upi.com/Top_News/World-News/2015/11/21/Obama-vows-US-borders-open-to-refugees-as-long-as-Im-president/8801448110685/?spt=hs&or=tn_int)
 
 ### Related:
 

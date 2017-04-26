@@ -7,10 +7,10 @@ The parents of a US hostage who Islamic State militants say was killed by a Jord
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ISLAMIC_STATE_AMERICAN_HOSTAGE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [CNN](http://www.cnn.com/2015/02/06/world/isis-jordan/index.html)
 2. [AP via Twitter](https://twitter.com/AP)
-3. [CNN](http://www.cnn.com/2015/02/06/world/isis-jordan/index.html)
-4. [BBC](http://www.bbc.com/news/world-middle-east-31176641)
+3. [BBC](http://www.bbc.com/news/world-middle-east-31176641)
+4. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ISLAMIC_STATE_AMERICAN_HOSTAGE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

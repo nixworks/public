@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090913133702125C523073)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8253148.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8253148.stm)
+2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090913133702125C523073)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/accidents/news/article.cfm?c_id=13&objectid=10597157)
 
 ### Related:

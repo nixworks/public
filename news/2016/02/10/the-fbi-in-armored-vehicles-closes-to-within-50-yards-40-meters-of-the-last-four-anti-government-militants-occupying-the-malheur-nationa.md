@@ -7,8 +7,8 @@ The four holdouts in the armed occupation of a federal wildlife refuge in Oregon
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-oregon-militia-idUSKCN0VK05F)
-2. [OregonLive](http://www.oregonlive.com/oregon-standoff/2016/02/oregon_standoff_fbi_moves_in_o.html)
+1. [OregonLive](http://www.oregonlive.com/oregon-standoff/2016/02/oregon_standoff_fbi_moves_in_o.html)
+2. [Reuters](http://www.reuters.com/article/us-oregon-militia-idUSKCN0VK05F)
 
 ### Related:
 

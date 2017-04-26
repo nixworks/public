@@ -7,8 +7,8 @@ ABIDJAN, Ivory Coast (AP) — Soldiers launched mutinies in three cities across 
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/0ccf7d26360a4fa8ac60f08cf7697b0d)
-2. [Reuters](http://www.reuters.com/article/uk-ivorycoast-military-daloa-idUKKBN14Q14U)
+1. [Reuters](http://www.reuters.com/article/uk-ivorycoast-military-daloa-idUKKBN14Q14U)
+2. [AP](http://bigstory.ap.org/article/0ccf7d26360a4fa8ac60f08cf7697b0d)
 
 ### Related:
 

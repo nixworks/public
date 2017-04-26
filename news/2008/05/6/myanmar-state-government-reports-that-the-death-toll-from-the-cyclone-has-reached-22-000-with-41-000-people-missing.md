@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Thomson Financial News via Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/05/06/afx4973005.html)
-2. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/05/06/myanmar.relief/)
-3. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7385662.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7385662.stm)
+2. [Thomson Financial News via Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/05/06/afx4973005.html)
+3. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/05/06/myanmar.relief/)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2012/02/17/world/meast/syria-unrest/index.html)
-2. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/syria-feb-18-2012-0246)
-3. [Hindustan Times](http://www.hindustantimes.com/world-news/Africa/Libya-marks-revolution-day-as-leader-issues-warning/Article1-812719.aspx)
+2. [Hindustan Times](http://www.hindustantimes.com/world-news/Africa/Libya-marks-revolution-day-as-leader-issues-warning/Article1-812719.aspx)
+3. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/syria-feb-18-2012-0246)
 
 ### Related:
 

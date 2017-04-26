@@ -8,8 +8,8 @@ Proceedings halted as lawyers for opposition leader seeks to remove presiding ju
 ### Source:
 
 1. [UPI](http://www.upi.com/Top_News/International/2010/02/08/Anwar-sodomy-trial-delayed/UPI-86361265631816/)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102882054509647.html)
-3. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=474210)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=474210)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102882054509647.html)
 
 ### Related:
 

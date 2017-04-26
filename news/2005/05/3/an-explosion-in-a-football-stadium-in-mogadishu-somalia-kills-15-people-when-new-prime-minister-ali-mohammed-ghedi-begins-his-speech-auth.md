@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/05/03/news/briefs.php)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=vn20050504075717659C538198)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=vn20050504075717659C538198)
+2. [IHT](http://www.iht.com/articles/2005/05/03/news/briefs.php)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Newsweek](http://www.newsweek.com/nigeria-suicide-bombers-kill-scores-boko-haram-birthplace-437343)
-2. [AP via ''New York Times](http://mobile.nytimes.com/aponline/2016/03/16/world/africa/ap-af-nigeria-boko-haram.html?_r=0&referer=https://news.google.com/)
+1. [AP via ''New York Times](http://mobile.nytimes.com/aponline/2016/03/16/world/africa/ap-af-nigeria-boko-haram.html?_r=0&referer=https://news.google.com/)
+2. [Newsweek](http://www.newsweek.com/nigeria-suicide-bombers-kill-scores-boko-haram-birthplace-437343)
 
 ### Related:
 

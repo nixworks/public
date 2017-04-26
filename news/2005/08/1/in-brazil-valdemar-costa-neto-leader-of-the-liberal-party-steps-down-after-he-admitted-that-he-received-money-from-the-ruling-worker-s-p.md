@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2005-08-01T212219Z_01_N01565164_RTRIDST_0_BRAZIL-POLITICS-UPDATE-1.XML)
-2. [MercoPress](http://www.falkland-malvinas.com/Detalle.asp?NUM=6157)
+1. [MercoPress](http://www.falkland-malvinas.com/Detalle.asp?NUM=6157)
+2. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2005-08-01T212219Z_01_N01565164_RTRIDST_0_BRAZIL-POLITICS-UPDATE-1.XML)
 3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=agdP_Hc35wbc&refer=latin_america)
 
 ### Related:

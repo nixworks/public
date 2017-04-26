@@ -7,10 +7,10 @@ Wellington, Oct 3 (DPA) Former Fiji prime minister Mahendra Chaudhry has been ar
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11460749)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010393351576386.html)
-3. [Fiji Times](http://www.fijitimes.com/story.aspx?id=157235)
-4. [Sify India](http://sify.com/news/former-fiji-leader-arrested-by-military-regime-news-international-kkdpadcfbba.html)
+1. [Sify India](http://sify.com/news/former-fiji-leader-arrested-by-military-regime-news-international-kkdpadcfbba.html)
+2. [Fiji Times](http://www.fijitimes.com/story.aspx?id=157235)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010393351576386.html)
+4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11460749)
 
 ### Related:
 

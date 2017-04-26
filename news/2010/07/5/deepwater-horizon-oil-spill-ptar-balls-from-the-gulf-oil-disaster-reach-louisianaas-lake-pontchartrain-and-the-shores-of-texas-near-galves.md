@@ -7,12 +7,12 @@ Laboratory tests showed that the tar balls came from the BP Macondo well that bl
 
 ### Source:
 
-1. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2010/07/bps-gulf-oil-spill-tab-exceeds-3-billion/1)
-2. [The Australian](http://www.theaustralian.com.au/news/world/texas-tar-balls-confirm-spread-of-oil-spill-to-all-gulf-states/story-e6frg6so-1225888441033)
-3. [The Houston Chronicle](http://www.chron.com/disp/story.mpl/metropolitan/7094982.html)
-4. [The New York Times](http://www.nytimes.com/2010/07/06/us/06wildlife.html?hp)
-5. [CNN](http://edition.cnn.com/2010/US/07/05/gulf.oil.disaster/index.html?hpt=T2&fbid=4I1tbJn2BPy)
-6. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10511167.stm)
+1. [The Australian](http://www.theaustralian.com.au/news/world/texas-tar-balls-confirm-spread-of-oil-spill-to-all-gulf-states/story-e6frg6so-1225888441033)
+2. [CNN](http://edition.cnn.com/2010/US/07/05/gulf.oil.disaster/index.html?hpt=T2&fbid=4I1tbJn2BPy)
+3. [The New York Times](http://www.nytimes.com/2010/07/06/us/06wildlife.html?hp)
+4. [The Houston Chronicle](http://www.chron.com/disp/story.mpl/metropolitan/7094982.html)
+5. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10511167.stm)
+6. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2010/07/bps-gulf-oil-spill-tab-exceeds-3-billion/1)
 
 ### Related:
 

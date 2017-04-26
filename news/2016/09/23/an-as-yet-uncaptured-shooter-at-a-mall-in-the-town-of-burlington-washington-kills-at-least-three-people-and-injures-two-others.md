@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/article-3805102/Four-people-dead-shot-Washington-state-mall.html)
-2. [CNN](http://edition.cnn.com/2016/09/23/us/washington-mall-shooting/index.html)
+1. [CNN](http://edition.cnn.com/2016/09/23/us/washington-mall-shooting/index.html)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-3805102/Four-people-dead-shot-Washington-state-mall.html)
 
 ### Related:
 

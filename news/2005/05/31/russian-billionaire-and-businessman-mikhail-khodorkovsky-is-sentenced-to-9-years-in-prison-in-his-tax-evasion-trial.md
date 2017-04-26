@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Spiegel online, German](http://www.spiegel.de/wirtschaft/0,1518,358406,00.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/business/4595289.stm)
-3. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000006&sid=aHVVTJuVZG0c&refer=home)
-4. [Mosnews](http://www.mosnews.com/commentary/2005/05/31/khodorkovsky.shtml)
-5. [Moscow Times](http://www.themoscowtimes.com/stories/2005/06/01/001.html)
+1. [Mosnews](http://www.mosnews.com/commentary/2005/05/31/khodorkovsky.shtml)
+2. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000006&sid=aHVVTJuVZG0c&refer=home)
+3. [Moscow Times](http://www.themoscowtimes.com/stories/2005/06/01/001.html)
+4. [BBC](http://news.bbc.co.uk/1/hi/business/4595289.stm)
+5. [Spiegel online, German](http://www.spiegel.de/wirtschaft/0,1518,358406,00.html)
 
 ### Related:
 

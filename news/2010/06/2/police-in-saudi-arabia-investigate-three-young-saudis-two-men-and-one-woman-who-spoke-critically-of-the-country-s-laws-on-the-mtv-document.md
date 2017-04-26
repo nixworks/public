@@ -7,14 +7,14 @@ Three Saudi youths who appeared in a recent broadcast of the MTV documentary ser
 
 ### Source:
 
-1. [The New Yotik Times](http://www.nytimes.com/2010/06/02/arts/television/02arts-002.html)
-2. [Reuters](http://uk.reuters.com/article/idUKTRE65027A20100601?feedType=RSS&feedName=entertainmentNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKEntertainment+%28News+%2F+UK+%2F+Entertainment+News%29)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10216116.stm)
-4. [National Post](http://arts.nationalpost.com/2010/06/01/i-want-my-%E2%80%98openly-declaring-sin%E2%80%99-mtv/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NP_Top_Stories+%28National+Post+-+Top+Stories%29)
+1. [Reuters](http://uk.reuters.com/article/idUKTRE65027A20100601?feedType=RSS&feedName=entertainmentNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKEntertainment+%28News+%2F+UK+%2F+Entertainment+News%29)
+2. [The New Yotik Times](http://www.nytimes.com/2010/06/02/arts/television/02arts-002.html)
+3. [National Post](http://arts.nationalpost.com/2010/06/01/i-want-my-%E2%80%98openly-declaring-sin%E2%80%99-mtv/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NP_Top_Stories+%28National+Post+-+Top+Stories%29)
+4. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10216116.stm)
 
 ### Related:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 2. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 3. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 4. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

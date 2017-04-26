@@ -8,8 +8,8 @@ The Department of Foreign Affairs has said two further fake Irish passports were
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8521246.stm)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0218/breaking55.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0218/dubai.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0218/dubai.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0218/breaking55.html)
 
 ### Related:
 

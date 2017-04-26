@@ -7,8 +7,8 @@ Israeli police clash with Palestinian youths after entering the al-Aqsa mosque c
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Jordan-scolds-Israel-for-storming-Muslim-holy-sites-on-Temple-Mount-416123)
-2. [BBC](http://www.bbc.com/news/world-middle-east-34237219)
+1. [BBC](http://www.bbc.com/news/world-middle-east-34237219)
+2. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Jordan-scolds-Israel-for-storming-Muslim-holy-sites-on-Temple-Mount-416123)
 3. [AP via ''Washington Post](https://www.washingtonpost.com/world/middle_east/israel-police-clash-with-palestinians-at-jerusalem-holy-site/2015/09/13/f867efc4-59f5-11e5-8475-781cc9851652_story.html)
 
 ### Related:

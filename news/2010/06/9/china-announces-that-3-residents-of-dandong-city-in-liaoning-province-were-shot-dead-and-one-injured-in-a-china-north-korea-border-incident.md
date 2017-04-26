@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90883/7018110.html)
+1. [Chinese Tools](http://www.chinesetools.eu/chinanews/presse_63404.html)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-06/09/content_9951967.htm)
-3. [Chinese Tools](http://www.chinesetools.eu/chinanews/presse_63404.html)
-4. [Seattle Post-Intelligencer](http://www.seattlepi.com/national/1104ap_as_china_nkorea_shooting.html)
+3. [Seattle Post-Intelligencer](http://www.seattlepi.com/national/1104ap_as_china_nkorea_shooting.html)
+4. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90883/7018110.html)
 
 ### Related:
 

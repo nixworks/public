@@ -7,8 +7,8 @@ Turkey vows a &quot;harsh response&quot; as a diplomatic row with the Netherland
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-39246392)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-39242707)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-39242707)
+2. [BBC](http://www.bbc.com/news/world-europe-39246392)
 
 ### Related:
 

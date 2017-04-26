@@ -7,8 +7,8 @@ Beijing issues sharp commentary after US and South Korea say regime carried out 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-northkorea-missile-idUSKCN0XC010)
-2. [The Guardian](http://www.theguardian.com/world/2016/apr/15/north-korea-missile-launch-fails-as-kim-il-sung-birthday-honoured)
+1. [The Guardian](http://www.theguardian.com/world/2016/apr/15/north-korea-missile-launch-fails-as-kim-il-sung-birthday-honoured)
+2. [Reuters](http://www.reuters.com/article/us-northkorea-missile-idUSKCN0XC010)
 
 ### Related:
 

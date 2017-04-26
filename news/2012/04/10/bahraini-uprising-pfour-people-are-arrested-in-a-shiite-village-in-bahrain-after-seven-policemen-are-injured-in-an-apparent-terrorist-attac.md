@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Arabiya](http://english.alarabiya.net/articles/2012/04/10/206773.html)
-2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1891172)
+1. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1891172)
+2. [Al Arabiya](http://english.alarabiya.net/articles/2012/04/10/206773.html)
 
 ### Related:
 

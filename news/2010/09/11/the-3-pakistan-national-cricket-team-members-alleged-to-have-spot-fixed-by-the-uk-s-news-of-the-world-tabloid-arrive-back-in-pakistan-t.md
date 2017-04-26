@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/cricket/other_international/pakistan/8987125.stm)
-2. [Reuters via ''Gulf News](http://gulfnews.com/sport/cricket/suspended-pakistan-trio-return-home-1.680721)
-3. [DAWN](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/cricket/three-cricketers-accused-in-fixing-scandal-arrive-home-jd-01)
+2. [DAWN](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/cricket/three-cricketers-accused-in-fixing-scandal-arrive-home-jd-01)
+3. [Reuters via ''Gulf News](http://gulfnews.com/sport/cricket/suspended-pakistan-trio-return-home-1.680721)
 
 ### Related:
 

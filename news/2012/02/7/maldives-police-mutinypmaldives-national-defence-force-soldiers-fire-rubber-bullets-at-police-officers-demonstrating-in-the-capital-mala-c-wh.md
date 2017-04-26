@@ -7,8 +7,8 @@ Maldives President Mohamed Nasheed resigns after weeks of demonstrations and a m
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jjWLddQg_WO7g0LVHjDcyuEBTQvA?docId=7f4df900971240dea1d4d01798257655)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-16922570)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-16922570)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jjWLddQg_WO7g0LVHjDcyuEBTQvA?docId=7f4df900971240dea1d4d01798257655)
 
 ### Related:
 

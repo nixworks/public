@@ -7,8 +7,8 @@ Syria&#39;s opposition coalition has elected Ghassan Hitto to serve as prime min
 
 ### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/18/syrian-opposition-elects-interim-prime-minister/1998061/)
-2. [Reuters](http://www.reuters.com/article/2013/03/19/us-syria-crisis-government-idUSBRE92H14920130319)
+1. [Reuters](http://www.reuters.com/article/2013/03/19/us-syria-crisis-government-idUSBRE92H14920130319)
+2. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/18/syrian-opposition-elects-interim-prime-minister/1998061/)
 
 ### Related:
 

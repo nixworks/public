@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/uk/8323163.stm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jx1Urc-wIMr5xi250Qyiei5fXc1Q)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jx1Urc-wIMr5xi250Qyiei5fXc1Q)
+2. [BBC](http://news.bbc.co.uk/1/hi/uk/8323163.stm)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/Afghanistan/article6888696.ece)
 
 ### Related:

@@ -7,8 +7,8 @@ A giant block of ice measuring 260 sq km (100 sq miles) breaks off a glacier in 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/environment/2010/aug/07/biggest-ice-island-greenland)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-10900235)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-10900235)
+2. [The Guardian](http://www.guardian.co.uk/environment/2010/aug/07/biggest-ice-island-greenland)
 
 ### Related:
 

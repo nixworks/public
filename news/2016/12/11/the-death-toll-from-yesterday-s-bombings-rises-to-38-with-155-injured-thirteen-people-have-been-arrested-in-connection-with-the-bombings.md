@@ -7,8 +7,8 @@ Responsibility for bombings in Istanbul has been claimed by the Kurdistan Freedo
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_TURKEY_ATTACKS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [Deutsche Welle](http://www.dw.com/en/kurdish-militant-group-tak-claims-responsibility-for-istanbul-bombings/a-36727964)
+1. [Deutsche Welle](http://www.dw.com/en/kurdish-militant-group-tak-claims-responsibility-for-istanbul-bombings/a-36727964)
+2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_TURKEY_ATTACKS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

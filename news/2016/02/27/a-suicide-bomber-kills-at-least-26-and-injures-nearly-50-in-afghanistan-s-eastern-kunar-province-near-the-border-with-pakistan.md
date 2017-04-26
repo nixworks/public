@@ -7,8 +7,8 @@ A SUICIDE bomber has killed an Afghan militia commander and at least 10 others i
 
 ### Source:
 
-1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/suicide-bomber-kills-11-at-afghan-compound/news-story/53af4814d4fe82818f0e0601e77379ba?from=public_rss)
-2. [NY Times](http://www.nytimes.com/2016/02/28/world/asia/suicide-bombing-in-eastern-afghanistan-kills-at-least-12.html?_r=0)
+1. [NY Times](http://www.nytimes.com/2016/02/28/world/asia/suicide-bombing-in-eastern-afghanistan-kills-at-least-12.html?_r=0)
+2. [AAP via News Limited](http://www.news.com.au/world/breaking-news/suicide-bomber-kills-11-at-afghan-compound/news-story/53af4814d4fe82818f0e0601e77379ba?from=public_rss)
 
 ### Related:
 

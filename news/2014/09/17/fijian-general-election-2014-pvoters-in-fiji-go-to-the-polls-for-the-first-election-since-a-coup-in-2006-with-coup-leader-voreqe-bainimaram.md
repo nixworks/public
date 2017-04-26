@@ -7,8 +7,8 @@ Long queues at poll stations in Fiji&#039;s first election since the 2006 milita
 
 ### Source:
 
-1. [SBS](http://www.sbs.com.au/news/article/2014/09/18/bainimarama-commands-fiji-ballot-box)
-2. [ABC News Australia](http://www.abc.net.au/news/2014-09-17/fiji-election-large-queues-gather-as-thousands-begin-casting/5748950)
+1. [ABC News Australia](http://www.abc.net.au/news/2014-09-17/fiji-election-large-queues-gather-as-thousands-begin-casting/5748950)
+2. [SBS](http://www.sbs.com.au/news/article/2014/09/18/bainimarama-commands-fiji-ballot-box)
 
 ### Related:
 

@@ -7,8 +7,8 @@ More than 100 medical experts, academia and scientists on Friday have called for
 
 ### Source:
 
-1. [Rio Olympics Later](http://rioolympicslater.org/)
-2. [CNN](http://www.cnn.com/2016/05/27/health/zika-virus-olympic-games-health-officials-postpone/)
+1. [CNN](http://www.cnn.com/2016/05/27/health/zika-virus-olympic-games-health-officials-postpone/)
+2. [Rio Olympics Later](http://rioolympicslater.org/)
 3. [Reuters](http://in.reuters.com/article/us-sport-olympics-zika-idINKCN0YI2CA)
 
 ### Related:

@@ -7,8 +7,8 @@ KARACHI: At least seven Pakistanis are reportedly killed in a rocket attack on a
 
 ### Source:
 
-1. [ARY News tv](http://arynews.tv/en/seven-pakistanis-killed-in-attack-on-cargo-ship-in-yemen-waters/)
-2. [The News](https://www.thenews.com.pk/latest/173725-Seven-Pakistanis-killed-in-rocket-attack-on-cargo-ship-off-Yemen-coast)
+1. [The News](https://www.thenews.com.pk/latest/173725-Seven-Pakistanis-killed-in-rocket-attack-on-cargo-ship-off-Yemen-coast)
+2. [ARY News tv](http://arynews.tv/en/seven-pakistanis-killed-in-attack-on-cargo-ship-in-yemen-waters/)
 
 ### Related:
 

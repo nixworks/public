@@ -7,9 +7,9 @@ Yorkshire will host the opening two stages of the 2014 Tour de France, bringing 
 
 ### Source:
 
-1. [Cycling News](http://www.cyclingnews.com/news/yorkshire-to-host-tour-de-france-2014-start)
-2. [ESPN](http://www.espn.co.uk/cycling/sport/story/183836.html)
-3. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hUBV_m68gHLyzTq_wW9cEt4c3cAQ)
+1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hUBV_m68gHLyzTq_wW9cEt4c3cAQ)
+2. [Cycling News](http://www.cyclingnews.com/news/yorkshire-to-host-tour-de-france-2014-start)
+3. [ESPN](http://www.espn.co.uk/cycling/sport/story/183836.html)
 
 ### Related:
 

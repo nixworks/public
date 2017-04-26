@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [U.S. News](http://health.usnews.com/articles/health/healthday/2009/11/20/hobbits-were-a-distinct-species-study-concludes.html)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/science/science-news/6605983/Indonesian-hobbits-are-a-separate-species.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/science/science-news/6605983/Indonesian-hobbits-are-a-separate-species.html)
+2. [U.S. News](http://health.usnews.com/articles/health/healthday/2009/11/20/hobbits-were-a-distinct-species-study-concludes.html)
 
 ### Related:
 

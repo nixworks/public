@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sacramento Bee](http://www.sacbee.com/749/story/941526.html)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080515/ap_on_re_us/gay_marriage)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080515/ap_on_re_us/gay_marriage)
+2. [Sacramento Bee](http://www.sacbee.com/749/story/941526.html)
 
 ### Related:
 

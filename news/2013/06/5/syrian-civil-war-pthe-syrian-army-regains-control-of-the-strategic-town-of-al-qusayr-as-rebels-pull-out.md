@@ -7,9 +7,9 @@ Syrian government forces and their Lebanese Hezbollah allies seized control of t
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/06/05/us-syria-crisis-idUSBRE9530VE20130605)
-2. [The Guardian](http://www.guardian.co.uk/world/2013/jun/05/syria-army-seizes-qusair)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-22778035)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22778035)
+2. [Reuters](http://www.reuters.com/article/2013/06/05/us-syria-crisis-idUSBRE9530VE20130605)
+3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/05/syria-army-seizes-qusair)
 
 ### Related:
 

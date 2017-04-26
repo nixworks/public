@@ -8,12 +8,12 @@ State leaders mourned former Nepal prime minister Girija Prasad Koirala, and rec
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/03/21/2851833.htm?section=justin)
-2. [Press TV](http://www.presstv.ir/detail.aspx?id=121312&sectionid=351020406)
-3. [Arab News](http://arabnews.com/world/article32621.ece)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/20/c_13218592.htm)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=121312&sectionid=351020406)
 4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8577669.stm)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/20/AR2010032000954.html)
-6. [The Times of India](http://timesofindia.indiatimes.com/city/patna/-Leaders-mourn-Koirala/articleshow/5707060.cms)
-7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/20/c_13218592.htm)
+6. [Arab News](http://arabnews.com/world/article32621.ece)
+7. [The Times of India](http://timesofindia.indiatimes.com/city/patna/-Leaders-mourn-Koirala/articleshow/5707060.cms)
 
 ### Related:
 

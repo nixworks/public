@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012727111921493143.html)
-2. [Reuters](http://www.reuters.com/article/2012/07/27/us-syria-crisis-idUSBRE8610SH20120727)
+1. [Reuters](http://www.reuters.com/article/2012/07/27/us-syria-crisis-idUSBRE8610SH20120727)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012727111921493143.html)
 3. [Albawaba](http://www.albawaba.com/news/clashes-continue-syrian-mp-defects-435755)
 
 ### Related:

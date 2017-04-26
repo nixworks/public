@@ -7,8 +7,8 @@ Outgoing Fifa president Sepp Blatter and suspended Uefa boss Michel Platini fail
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/sport/football/35655454)
-2. [Reuters](http://in.reuters.com/article/soccer-fifa-ali-idINKCN0VX2CJ)
+1. [Reuters](http://in.reuters.com/article/soccer-fifa-ali-idINKCN0VX2CJ)
+2. [BBC](http://www.bbc.com/sport/football/35655454)
 
 ### Related:
 

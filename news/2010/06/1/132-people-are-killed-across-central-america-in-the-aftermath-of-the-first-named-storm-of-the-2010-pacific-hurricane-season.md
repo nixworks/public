@@ -7,9 +7,9 @@ Collapsed roads and highway bridges complicated rescue efforts in Guatemala on T
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/weather/storms/2010-05-30-first-tropical-storm-agatha_N.htm?loc=interstitialskip)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10200440.stm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE64S1A620100601)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10200440.stm)
+3. [USA Today](http://www.usatoday.com/weather/storms/2010-05-30-first-tropical-storm-agatha_N.htm?loc=interstitialskip)
 
 ### Related:
 

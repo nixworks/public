@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5056725,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4615433.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4615433.stm)
+2. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5056725,00.html)
 
 ### Related:
 

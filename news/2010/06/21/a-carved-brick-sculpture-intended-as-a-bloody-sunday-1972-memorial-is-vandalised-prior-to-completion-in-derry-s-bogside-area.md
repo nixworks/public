@@ -8,8 +8,8 @@ A memorial sculpture commemorating the victims of Bloody Sunday has been vandali
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0621/saville.html)
-2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/bloody-sunday/bloody-sunday-memorial-damaged-14850386.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10363108.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10363108.stm)
+3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/bloody-sunday/bloody-sunday-memorial-damaged-14850386.html)
 
 ### Related:
 

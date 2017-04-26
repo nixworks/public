@@ -7,8 +7,8 @@ The Israeli military tells the UN it will limit the use of a controversial weapo
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100721-israel-restrict-use-white-phosphorus-munitions)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10711086)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10711086)
+2. [France24](http://www.france24.com/en/20100721-israel-restrict-use-white-phosphorus-munitions)
 
 ### Related:
 

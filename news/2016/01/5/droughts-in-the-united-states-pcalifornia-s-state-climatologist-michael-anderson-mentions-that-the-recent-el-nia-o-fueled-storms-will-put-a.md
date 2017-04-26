@@ -7,9 +7,9 @@ The heavy rain brings a double-edged sword: The likelihood of floods and landsli
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/weather/string-storms-hitting-california-due-strongest-el-nino-record-n490506)
+1. [UPI](http://www.upi.com/Top_News/US/2016/01/05/One-of-strongest-El-Nio-systems-on-record-threatens-to-soak-West-Coast-for-weeks/1931452032917/?spt=hs&or=tn_us)
 2. [USA Today](http://www.usatoday.com/story/weather/2016/01/05/california-drought-el-nino/78304844/)
-3. [UPI](http://www.upi.com/Top_News/US/2016/01/05/One-of-strongest-El-Nio-systems-on-record-threatens-to-soak-West-Coast-for-weeks/1931452032917/?spt=hs&or=tn_us)
+3. [NBC News](http://www.nbcnews.com/news/weather/string-storms-hitting-california-due-strongest-el-nino-record-n490506)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Aogán Ó Fearghaíl becomes the seventh Ulster man to be GAA president after be
 
 ### Source:
 
-1. [The Score](http://www.thescore.ie/aogan-o-fearghail-gaa-president-2-1327936-Feb2014/)
-2. [BBC](http://www.bbc.com/sport/0/northern-ireland/26279750)
+1. [BBC](http://www.bbc.com/sport/0/northern-ireland/26279750)
+2. [The Score](http://www.thescore.ie/aogan-o-fearghail-gaa-president-2-1327936-Feb2014/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N12289913.htm)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=752742)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=752742)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N12289913.htm)
 
 ### Related:
 

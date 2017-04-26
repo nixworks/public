@@ -7,8 +7,8 @@ Harmony Gold says rescue teams have been deployed to rescue some 486 workers aft
 
 ### Source:
 
-1. [News24](http://m.news24.com/fin24/Companies/Mining/Fire-breaks-out-at-Harmony-Gold-mine-20150222)
-2. [Globe and Mail](http://www.theglobeandmail.com/news/world/fire-at-south-africa-gold-mine-leaves-200-unaccounted-for/article23140549/)
+1. [Globe and Mail](http://www.theglobeandmail.com/news/world/fire-at-south-africa-gold-mine-leaves-200-unaccounted-for/article23140549/)
+2. [News24](http://m.news24.com/fin24/Companies/Mining/Fire-breaks-out-at-Harmony-Gold-mine-20150222)
 
 ### Related:
 

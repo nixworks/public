@@ -7,8 +7,8 @@ Wrestling is dropped from the 2020 Olympic Games after the IOC decides to make s
 
 ### Source:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/sports/olympics/ioc-board-meets-to-decide-on-dropping-1-summer-sport-modern-pentathlon-at-risk/2013/02/12/a7a437a8-74ee-11e2-9889-60bfcbb02149_story.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/olympics/21427455)
+1. [BBC](http://www.bbc.co.uk/sport/0/olympics/21427455)
+2. [AP via ''The Washington Post](http://www.washingtonpost.com/sports/olympics/ioc-board-meets-to-decide-on-dropping-1-summer-sport-modern-pentathlon-at-risk/2013/02/12/a7a437a8-74ee-11e2-9889-60bfcbb02149_story.html)
 
 ### Related:
 

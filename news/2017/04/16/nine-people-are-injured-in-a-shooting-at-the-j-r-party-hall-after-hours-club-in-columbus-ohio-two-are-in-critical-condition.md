@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/article-4416140/Nine-people-injured-Ohio-club-shooting.html)
-2. [CNN](http://edition.cnn.com/2017/04/16/us/ohio-columbus-club-shooting/index.html)
+1. [CNN](http://edition.cnn.com/2017/04/16/us/ohio-columbus-club-shooting/index.html)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-4416140/Nine-people-injured-Ohio-club-shooting.html)
 
 ### Related:
 

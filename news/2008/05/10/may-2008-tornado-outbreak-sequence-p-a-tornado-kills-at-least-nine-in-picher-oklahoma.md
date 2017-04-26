@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080511/ap_on_re_us/severe_weather)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN10545745)
-3. [NOAA](http://www.spc.noaa.gov/climo/reports/080510_rpts.html)
-4. [AP via Google News](http://ap.google.com/article/ALeqM5jW-BndswWuhgPAPXOK4Q6TCQsANQD90J83CG1)
-5. [KTUL.com](http://www.ktul.com/news/stories/0508/518665.html)
+1. [KTUL.com](http://www.ktul.com/news/stories/0508/518665.html)
+2. [NOAA](http://www.spc.noaa.gov/climo/reports/080510_rpts.html)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN10545745)
+4. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080511/ap_on_re_us/severe_weather)
+5. [AP via Google News](http://ap.google.com/article/ALeqM5jW-BndswWuhgPAPXOK4Q6TCQsANQD90J83CG1)
 
 ### Related:
 

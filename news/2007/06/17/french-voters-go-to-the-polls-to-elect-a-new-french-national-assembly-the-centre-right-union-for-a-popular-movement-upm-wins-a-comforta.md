@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/6760599.stm)
+1. [Canada East](http://canadaeast.com/ce2/docroot/article.php?articleID=13796)
 2. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/europe/06/17/france.votes.conservatives.reut/index.html)
-3. [Canada East](http://canadaeast.com/ce2/docroot/article.php?articleID=13796)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/6760599.stm)
 
 ### Related:
 

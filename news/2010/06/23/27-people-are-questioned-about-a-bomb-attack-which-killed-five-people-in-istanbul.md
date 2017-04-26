@@ -7,8 +7,8 @@ Turkish police detained 27 people on Wednesday in connection with a bomb attack 
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_544564.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE65M1RH20100623)
+1. [Reuters](http://www.reuters.com/article/idUSTRE65M1RH20100623)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_544564.html)
 
 ### Related:
 

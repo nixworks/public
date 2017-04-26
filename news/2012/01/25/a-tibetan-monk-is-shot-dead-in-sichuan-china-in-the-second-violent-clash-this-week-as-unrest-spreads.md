@@ -7,8 +7,8 @@ China confirms that a Tibetan was shot dead by security forces in Sichuan provin
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16713380)
-2. [Times of Oman](http://www.timesofoman.com/innercat.asp?detail=54021&rand=)
+1. [Times of Oman](http://www.timesofoman.com/innercat.asp?detail=54021&rand=)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-china-16713380)
 
 ### Related:
 

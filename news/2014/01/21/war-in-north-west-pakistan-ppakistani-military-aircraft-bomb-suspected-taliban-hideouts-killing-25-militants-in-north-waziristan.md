@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [India Today](http://indiatoday.intoday.in/story/25-taliban-militants-killed-in-pakistan-air-strikes/1/338932.html)
-2. [Reuters](http://www.reuters.com/article/2014/01/21/us-pakistan-bomb-idUSBREA0K11020140121)
+1. [Reuters](http://www.reuters.com/article/2014/01/21/us-pakistan-bomb-idUSBREA0K11020140121)
+2. [India Today](http://indiatoday.intoday.in/story/25-taliban-militants-killed-in-pakistan-air-strikes/1/338932.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=32555&order=priority&style=headlines)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-07-28T213301Z_01_YUE877552_RTRUKOC_0_BOSNIA-KARADZIC.xml)
 2. [IHT](http://www.iht.com/articles/2005/07/28/news/serbs.php)
-3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-07-28T213301Z_01_YUE877552_RTRUKOC_0_BOSNIA-KARADZIC.xml)
+3. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=32555&order=priority&style=headlines)
 4. [Fena](http://www.fena.ba/uk/vijest.html?fena_id=FSA286723&rubrika=ES)
 
 ### Related:

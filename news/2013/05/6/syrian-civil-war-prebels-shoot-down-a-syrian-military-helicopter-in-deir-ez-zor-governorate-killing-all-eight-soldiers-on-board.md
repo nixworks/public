@@ -7,9 +7,9 @@ United Nations human rights investigators have gathered testimony from casualtie
 
 ### Source:
 
-1. [AP via Anchorage Daily News](http://www.adn.com/2013/05/05/2891260/syrian-rebels-enter-northern-air.html)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22428496)
 2. [The New York Times](http://www.nytimes.com/2013/05/06/world/middleeast/syrian-rebels-may-have-used-sarin.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-22428496)
+3. [AP via Anchorage Daily News](http://www.adn.com/2013/05/05/2891260/syrian-rebels-enter-northern-air.html)
 
 ### Related:
 

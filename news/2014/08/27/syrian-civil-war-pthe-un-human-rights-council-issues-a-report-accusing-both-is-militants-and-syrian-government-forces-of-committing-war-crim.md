@@ -7,10 +7,10 @@ The UN accuses IS militants of war crimes, and the Syrian government of using ch
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-28948555)
+1. [BBC](http://www.bbc.com/news/world-us-canada-28945626)
 2. [Times of Israel](http://www.timesofisrael.com/mortars-from-syria-strike-golan-as-fighting-nears-border/)
 3. [UN Human Rights Council](http://www.ohchr.org/Documents/HRBodies/HRCouncil/CoISyria/A.HRC.27.60_Eng.pdf)
-4. [BBC](http://www.bbc.com/news/world-us-canada-28945626)
+4. [BBC](http://www.bbc.com/news/world-middle-east-28948555)
 
 ### Related:
 

@@ -7,8 +7,8 @@ BATON ROUGE, La. -- Republicans completed their conquest of the Senate on Saturd
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/politics/2014/12/06/cassidy-landrieu-senate-runoff/20000201/)
-2. [Newsweek](http://www.newsweek.com/southern-democrats-senate-nearly-extinct-landrieu-loses-289897)
+1. [Newsweek](http://www.newsweek.com/southern-democrats-senate-nearly-extinct-landrieu-loses-289897)
+2. [USA Today](http://www.usatoday.com/story/news/politics/2014/12/06/cassidy-landrieu-senate-runoff/20000201/)
 
 ### Related:
 

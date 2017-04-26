@@ -7,9 +7,9 @@ Italians are left shocked by two cases in as many days in which men set themselv
 
 ### Source:
 
-1. [Indian Express](http://www.indianexpress.com/news/italy-in-shock-after-italian-moroccan-set-themselves-alight/930133/)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-17556273)
-3. [IOL](http://www.iol.co.za/news/world/two-men-set-themselves-on-fire-1.1266759)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-17556273)
+2. [IOL](http://www.iol.co.za/news/world/two-men-set-themselves-on-fire-1.1266759)
+3. [Indian Express](http://www.indianexpress.com/news/italy-in-shock-after-italian-moroccan-set-themselves-alight/930133/)
 
 ### Related:
 

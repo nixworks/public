@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Pravda](http://english.pravda.ru/news/world/22-12-2006/86062-Turkmenistan-0)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6198983.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6198983.stm)
+2. [Pravda](http://english.pravda.ru/news/world/22-12-2006/86062-Turkmenistan-0)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Moscow, Sep 21 (DPA) At least ten gay activists protesting against the anti-homo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11385596)
-2. [Sify India](http://sify.com/news/gay-activists-arrested-in-moscow-news-international-kjvxudaegfc.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jLxRJ1Ee2pzNVW-SRYpfXHkidbSgD9ICDL0O0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jLxRJ1Ee2pzNVW-SRYpfXHkidbSgD9ICDL0O0)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11385596)
+3. [Sify India](http://sify.com/news/gay-activists-arrested-in-moscow-news-international-kjvxudaegfc.html)
 
 ### Related:
 

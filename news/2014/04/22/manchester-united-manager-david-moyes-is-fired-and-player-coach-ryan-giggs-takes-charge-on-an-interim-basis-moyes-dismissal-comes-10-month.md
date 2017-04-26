@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Independent](http://www.independent.ie/sport/soccer/premier-league/ryan-giggs-to-be-named-as-uniteds-caretaker-manager-after-moyes-sacking-30207295.html)
-2. [BBC](http://www.bbc.com/sport/0/football/27107795)
+1. [BBC](http://www.bbc.com/sport/0/football/27107795)
+2. [Independent](http://www.independent.ie/sport/soccer/premier-league/ryan-giggs-to-be-named-as-uniteds-caretaker-manager-after-moyes-sacking-30207295.html)
 
 ### Related:
 

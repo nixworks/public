@@ -7,11 +7,11 @@ The brutal suppression of a peaceful environmental sit-in in Istanbul ignited a 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/201363182732565597.html)
+1. [RFERL](http://www.rferl.org/content/turkey-commentary-protests-erdogan-gul/25005947.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-22762391)
 3. [RT](http://rt.com/news/turkey-police-brutality-reports-148/)
 4. [Xinhua](http://news.xinhuanet.com/english/world/2013-06/03/c_124805816.htm)
-5. [RFERL](http://www.rferl.org/content/turkey-commentary-protests-erdogan-gul/25005947.html)
+5. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/201363182732565597.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/WORLD/meast/01/20/Iraq.main/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6282839.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6282839.stm)
+2. [CNN](http://edition.cnn.com/2007/WORLD/meast/01/20/Iraq.main/index.html)
 
 ### Related:
 

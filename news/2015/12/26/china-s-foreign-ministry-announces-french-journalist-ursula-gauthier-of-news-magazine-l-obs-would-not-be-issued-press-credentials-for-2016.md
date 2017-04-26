@@ -7,8 +7,8 @@ China is &#039;expelling&#039; a French journalist for writing article critical 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2015/12/26/china-expels-french-journalist-for-terrorism-coverage/?wpmm=1&wpisrc=nl_headlines)
-2. [ABC Australia](http://www.abc.net.au/news/2015-12-27/french-journalist-at-l'obs-to-be-forced-to-leave-china/7055198)
+1. [ABC Australia](http://www.abc.net.au/news/2015-12-27/french-journalist-at-l'obs-to-be-forced-to-leave-china/7055198)
+2. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2015/12/26/china-expels-french-journalist-for-terrorism-coverage/?wpmm=1&wpisrc=nl_headlines)
 
 ### Related:
 

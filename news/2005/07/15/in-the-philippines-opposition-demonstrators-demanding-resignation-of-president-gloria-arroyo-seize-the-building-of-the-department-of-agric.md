@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [ABS-CBN](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=10498)
-2. [INQ7](http://news.inq7.net/breaking/index.php?index=1&story_id=43616)
-3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157922/1/.html)
-4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/MAN13326.htm)
-5. [ABS-CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=10524)
+1. [ABS-CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=10524)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/MAN13326.htm)
+3. [INQ7](http://news.inq7.net/breaking/index.php?index=1&story_id=43616)
+4. [ABS-CBN](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=10498)
+5. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157922/1/.html)
 
 ### Related:
 

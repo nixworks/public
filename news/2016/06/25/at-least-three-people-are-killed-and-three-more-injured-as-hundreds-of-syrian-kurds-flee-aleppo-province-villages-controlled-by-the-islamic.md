@@ -7,8 +7,8 @@ Islamic State (ISIS) militants abducted about 900 Kurdish civilians in the north
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/06/25/world/middleeast/ap-ml-syria.html?_r=0&module=ArrowsNav&contentCollection=Middle%20East&action=keypress&region=FixedLeft&pgtype=article)
-2. [Fox News](http://www.foxnews.com/world/2016/06/24/isis-captures-900-kurds-in-northern-syria-over-3-weeks.html)
+1. [Fox News](http://www.foxnews.com/world/2016/06/24/isis-captures-900-kurds-in-northern-syria-over-3-weeks.html)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/06/25/world/middleeast/ap-ml-syria.html?_r=0&module=ArrowsNav&contentCollection=Middle%20East&action=keypress&region=FixedLeft&pgtype=article)
 
 ### Related:
 

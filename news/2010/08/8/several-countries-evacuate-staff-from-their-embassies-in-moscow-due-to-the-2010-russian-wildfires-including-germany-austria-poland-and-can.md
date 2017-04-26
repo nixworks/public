@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/Smog-Smothers-Moscow-for-2nd-Day-100182964.html)
-2. [RIA Novosti](http://en.rian.ru/russia/20100808/160110777.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20100808/160110777.html)
+2. [Voice of America](http://www1.voanews.com/english/news/Smog-Smothers-Moscow-for-2nd-Day-100182964.html)
 
 ### Related:
 

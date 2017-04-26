@@ -7,8 +7,8 @@ Two gay men in Malawi, convicted earlier this week of unnatural acts and gross i
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/05/21/world/africa/21malawi.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10130240.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10130240.stm)
+2. [The New York Times](http://www.nytimes.com/2010/05/21/world/africa/21malawi.html)
 
 ### Related:
 

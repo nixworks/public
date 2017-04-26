@@ -7,12 +7,12 @@ African Union leaders meeting in Uganda agree to reinforce their peacekeeping fo
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/politics/2010/jul/24/gordon-brown-african-union-kampala)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-10750780)
-3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=182438)
-4. [BBC](http://www.bbc.co.uk/news/uk-10750077)
-5. [BBC](http://www.bbc.co.uk/news/world-africa-10753009)
-6. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100724/egypt-president-africa-summit-100724/20100724?hub=World)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-10750780)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100724/egypt-president-africa-summit-100724/20100724?hub=World)
+3. [BBC](http://www.bbc.co.uk/news/uk-10750077)
+4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=182438)
+5. [The Guardian](http://www.guardian.co.uk/politics/2010/jul/24/gordon-brown-african-union-kampala)
+6. [BBC](http://www.bbc.co.uk/news/world-africa-10753009)
 
 ### Related:
 

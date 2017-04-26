@@ -8,9 +8,9 @@ Resignations an attempt to regain credibility in the cabinet but it is unclear i
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12238728)
-2. [Africa Review](http://www.africareview.com/News/-/979180/1093020/-/i69y3dz/-/)
+2. [UPI](http://www.upi.com/Top_News/World-News/2011/01/20/8-Tunisian-leaders-quit-ruling-party/UPI-57211295546906/)
 3. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jan/20/tunisian-army-warning-shots-protesters)
-4. [UPI](http://www.upi.com/Top_News/World-News/2011/01/20/8-Tunisian-leaders-quit-ruling-party/UPI-57211295546906/)
+4. [Africa Review](http://www.africareview.com/News/-/979180/1093020/-/i69y3dz/-/)
 
 ### Related:
 

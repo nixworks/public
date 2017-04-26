@@ -7,8 +7,8 @@ YANGON, Myanmar (AP) — Thousands of Myanmar politicians, activists and others 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/mourners-gather-funeral-myanmar-lawyer-shot-dead-170130112227798.html)
-2. [AP](http://bigstory.ap.org/article/dd5865de5474411397939cb1d3b59ffc/myanmar-ruling-party-mourns-assassination-suu-kyi-adviser)
+1. [AP](http://bigstory.ap.org/article/dd5865de5474411397939cb1d3b59ffc/myanmar-ruling-party-mourns-assassination-suu-kyi-adviser)
+2. [Al Jazeera](http://www.aljazeera.com/news/2017/01/mourners-gather-funeral-myanmar-lawyer-shot-dead-170130112227798.html)
 
 ### Related:
 

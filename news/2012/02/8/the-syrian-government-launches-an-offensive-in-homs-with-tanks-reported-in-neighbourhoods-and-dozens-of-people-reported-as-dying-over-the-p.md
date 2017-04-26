@@ -7,8 +7,8 @@ Activists in the Syrian city of Homs say they feel like they are waiting to die 
 
 ### Source:
 
-1. [BBC/AFP via ABC Online](http://www.abc.net.au/news/2012-02-09/syrian-army-tightens-noose-on-homs/3819478)
-2. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/syria-feb-8-2012-0347)
+1. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/syria-feb-8-2012-0347)
+2. [BBC/AFP via ABC Online](http://www.abc.net.au/news/2012-02-09/syrian-army-tightens-noose-on-homs/3819478)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Rory McIlroy today equalled the lowest ever round in a major championship with a
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/15/rory-mcilroy-open-st-andrews)
-2. [RTÉ](http://www.rte.ie/sport/golf/2010/0715/britishopen.html)
-3. [Irish Independent](http://www.independent.ie/breaking-news/sport/mcilroy-goes-into-record-books-2260736.html)
+1. [RTÉ](http://www.rte.ie/sport/golf/2010/0715/britishopen.html)
+2. [Irish Independent](http://www.independent.ie/breaking-news/sport/mcilroy-goes-into-record-books-2260736.html)
+3. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/15/rory-mcilroy-open-st-andrews)
 4. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/sport/golf/the-open-rory-mcilroy-produces-stunning-round-14877392.html)
 
 ### Related:

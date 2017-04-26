@@ -8,8 +8,8 @@ President Barack Obama intervened in Britain’s increasingly bitter Brexit deba
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-britain-eu-obama-idUSKCN0XH2U6)
-2. [Bloomberg](http://www.bloomberg.com/politics/articles/2016-04-21/obama-praises-eu-in-london-op-ed-aimed-at-swaying-brexit-vote?cmpid=google)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/04/21/as-your-friend-let-me-tell-you-that-the-eu-makes-britain-even-gr/)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/04/21/as-your-friend-let-me-tell-you-that-the-eu-makes-britain-even-gr/)
+3. [Bloomberg](http://www.bloomberg.com/politics/articles/2016-04-21/obama-praises-eu-in-london-op-ed-aimed-at-swaying-brexit-vote?cmpid=google)
 
 ### Related:
 

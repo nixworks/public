@@ -7,12 +7,12 @@ An explosion has reportedly rocked a central square popular with tourists in Tur
 
 ### Source:
 
-1. [ITV](http://www.itv.com/news/story/2016-01-12/is-suicide-bomber-kills-at-least-10-in-istanbul/)
-2. [CNN](http://www.cnn.com/2016/01/12/europe/turkey-istanbul-explosion/)
+1. [Reuters via Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/01/12/explosion-rocks-central-istanbul-square.html)
+2. [ITV](http://www.itv.com/news/story/2016-01-12/is-suicide-bomber-kills-at-least-10-in-istanbul/)
 3. [BBC](http://www.bbc.com/news/world-europe-35290760)
 4. [Nine MSN](http://www.9news.com.au/world/2016/01/12/19/47/explosion-rocks-popular-tourist-square-in-istanbul)
-5. [The New York Times](http://www.nytimes.com/2016/01/13/world/europe/explosion-in-istanbul-tourist-district-kills-at-least-10.html)
-6. [Reuters via Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/01/12/explosion-rocks-central-istanbul-square.html)
+5. [CNN](http://www.cnn.com/2016/01/12/europe/turkey-istanbul-explosion/)
+6. [The New York Times](http://www.nytimes.com/2016/01/13/world/europe/explosion-in-istanbul-tourist-district-kills-at-least-10.html)
 
 ### Related:
 

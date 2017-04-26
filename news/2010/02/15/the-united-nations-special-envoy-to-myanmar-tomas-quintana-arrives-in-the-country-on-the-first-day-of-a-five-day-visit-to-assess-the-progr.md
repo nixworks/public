@@ -8,8 +8,8 @@ Tomas Quintana to meet opposition figures and requests talks with Aung San Suu K
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/201021533826985375.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8515654.stm)
-3. [Global Times](http://world.globaltimes.cn/asia-pacific/2010-02/505902.html)
+2. [Global Times](http://world.globaltimes.cn/asia-pacific/2010-02/505902.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8515654.stm)
 
 ### Related:
 

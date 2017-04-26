@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Press Trust of India](http://www.ptinews.com/news/490993_Fonseka-s-office-raided-by-Sri-Lankan-STF)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8487331.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012912553962880.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012912553962880.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8487331.stm)
 
 ### Related:
 

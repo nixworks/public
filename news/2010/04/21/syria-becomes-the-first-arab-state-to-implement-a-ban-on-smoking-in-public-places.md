@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Miami Herald](http://www.miamiherald.com/2010/04/21/1590344/smoking-ban-in-public-goes-into.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8634411.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8634411.stm)
+2. [The Miami Herald](http://www.miamiherald.com/2010/04/21/1590344/smoking-ban-in-public-goes-into.html)
 
 ### Related:
 

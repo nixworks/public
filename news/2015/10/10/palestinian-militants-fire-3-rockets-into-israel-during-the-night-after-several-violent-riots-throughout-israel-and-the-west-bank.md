@@ -7,8 +7,8 @@ Palestinian militants in the Gaza Strip have fired a rocket into southern Israel
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/10/us-israel-palestinians-idUSKCN0S319U20151010)
-2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4708980,00.html)
+1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4708980,00.html)
+2. [Reuters](http://www.reuters.com/article/2015/10/10/us-israel-palestinians-idUSKCN0S319U20151010)
 3. [BBC](http://www.bbc.com/news/world-middle-east-34493674)
 
 ### Related:

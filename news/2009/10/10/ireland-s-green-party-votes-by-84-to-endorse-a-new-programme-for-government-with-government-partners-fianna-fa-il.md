@@ -7,8 +7,8 @@ The Green Party has overwhelmingly endorsed the new Programme for Government, an
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/marketsNews/idUSLA23874620091010)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1010/breaking2.htm)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1010/breaking2.htm)
+2. [Reuters](http://www.reuters.com/article/marketsNews/idUSLA23874620091010)
 3. [RTÉ](http://www.rte.ie/news/2009/1010/greens.html)
 
 ### Related:

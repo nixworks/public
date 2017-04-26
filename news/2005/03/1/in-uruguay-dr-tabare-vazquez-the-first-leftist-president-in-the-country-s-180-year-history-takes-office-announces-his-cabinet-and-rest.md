@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=a8Rwnp6gaEjA&refer=latin_america)
-2. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050301.wurug0301/BNStory/International/)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4309253.stm)
-4. [Prensa Latina](http://www.plenglish.com/article.asp?ID=%7B8723925A-8808-4156-B2D7-E4FDE0227E3C%7D&language=EN)
-5. [XinHua](http://news.xinhuanet.com/english/2005-03/02/content_2637515.htm)
+1. [XinHua](http://news.xinhuanet.com/english/2005-03/02/content_2637515.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4309253.stm)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=a8Rwnp6gaEjA&refer=latin_america)
+4. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050301.wurug0301/BNStory/International/)
+5. [Prensa Latina](http://www.plenglish.com/article.asp?ID=%7B8723925A-8808-4156-B2D7-E4FDE0227E3C%7D&language=EN)
 
 ### Related:
 

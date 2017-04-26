@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hQF7VtCdR9EUjyWhPLTni1OqWQlg?docId=CNG.a18ed43041c849816c2cfb3ba8d306c9.621)
-2. [NPR](http://www.npr.org/templates/story/story.php?storyId=137027665)
+1. [NPR](http://www.npr.org/templates/story/story.php?storyId=137027665)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hQF7VtCdR9EUjyWhPLTni1OqWQlg?docId=CNG.a18ed43041c849816c2cfb3ba8d306c9.621)
 3. [Reuters](http://www.reuters.com/article/2011/06/07/us-russia-nato-exercise-idUSTRE7564T720110607)
 
 ### Related:

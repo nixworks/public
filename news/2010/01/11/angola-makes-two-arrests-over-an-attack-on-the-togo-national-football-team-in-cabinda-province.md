@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/SPORT/football/01/11/african.nations.cup.togo.arrest/)
-2. [Xinhua](http://news.xinhuanet.com/english/2010-01/11/content_12792139.htm)
-3. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/desporto/2010/0/2/Togo-sport-delegation-attackers-captured,8f43c394-97c2-4fe7-ba83-999d1a7db12c.html)
+1. [Xinhua](http://news.xinhuanet.com/english/2010-01/11/content_12792139.htm)
+2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/desporto/2010/0/2/Togo-sport-delegation-attackers-captured,8f43c394-97c2-4fe7-ba83-999d1a7db12c.html)
+3. [CNN](http://edition.cnn.com/2010/SPORT/football/01/11/african.nations.cup.togo.arrest/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/science/20121215/178170837.html)
-2. [The Voice of Russia](http://english.ruvr.ru/2012_12_15/Operation-to-rescue-Yamal-402-a-success/)
+1. [The Voice of Russia](http://english.ruvr.ru/2012_12_15/Operation-to-rescue-Yamal-402-a-success/)
+2. [RIA Novosti](http://en.ria.ru/science/20121215/178170837.html)
 
 ### Related:
 

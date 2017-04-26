@@ -7,8 +7,8 @@ Pineapple buns and dumplings have been pulled from the shelves in Hong Kong as a
 
 ### Source:
 
-1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2014/09/09/2003599324)
-2. [Bloomberg](http://www.businessweek.com/articles/2014-09-08/chinas-tainted-lard-scare-linked-to-taiwan-made-food-imports)
+1. [Bloomberg](http://www.businessweek.com/articles/2014-09-08/chinas-tainted-lard-scare-linked-to-taiwan-made-food-imports)
+2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2014/09/09/2003599324)
 
 ### Related:
 

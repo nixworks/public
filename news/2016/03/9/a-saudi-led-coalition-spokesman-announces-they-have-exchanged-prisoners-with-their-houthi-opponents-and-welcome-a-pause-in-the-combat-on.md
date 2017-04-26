@@ -7,8 +7,8 @@ A Saudi-led coalition fighting in Yemen said on Wednesday it had exchanged priso
 
 ### Source:
 
-1. [Asharq Al-Awsat](http://english.aawsat.com/2016/03/article55348327/saudi-arabia-houthis-swap-prisoners-raising-hopes-peace-talks)
-2. [Reuters](http://in.reuters.com/article/yemen-security-iran-idINKCN0WB1YS)
+1. [Reuters](http://in.reuters.com/article/yemen-security-iran-idINKCN0WB1YS)
+2. [Asharq Al-Awsat](http://english.aawsat.com/2016/03/article55348327/saudi-arabia-houthis-swap-prisoners-raising-hopes-peace-talks)
 
 ### Related:
 

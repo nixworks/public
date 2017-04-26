@@ -8,9 +8,9 @@ Syrian government forces recapture a large area south-east of Damascus from rebe
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36333199)
-2. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2016/05/19/Monitor-Syria-regime-retakes-key-town-outside-capital.html)
-3. [Swiss Info](http://www.swissinfo.ch/eng/fighting-among-syrian-rebels-kills-more-than-50---british-monitor/42160550)
-4. [Ara News](http://aranews.net/2016/05/dozens-killed-as-internal-clashes-escalate-between-syrian-islamist-groups-near-damascus/)
+2. [Swiss Info](http://www.swissinfo.ch/eng/fighting-among-syrian-rebels-kills-more-than-50---british-monitor/42160550)
+3. [Ara News](http://aranews.net/2016/05/dozens-killed-as-internal-clashes-escalate-between-syrian-islamist-groups-near-damascus/)
+4. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2016/05/19/Monitor-Syria-regime-retakes-key-town-outside-capital.html)
 
 ### Related:
 

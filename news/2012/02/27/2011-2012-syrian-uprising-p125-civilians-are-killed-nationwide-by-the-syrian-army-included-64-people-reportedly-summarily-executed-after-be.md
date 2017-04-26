@@ -7,8 +7,8 @@ The Syrian military launches a new offensive against opposition-held towns in th
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/02/27/world/meast/syria-unrest/index.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17176943)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17176943)
+2. [CNN](http://www.cnn.com/2012/02/27/world/meast/syria-unrest/index.html)
 
 ### Related:
 

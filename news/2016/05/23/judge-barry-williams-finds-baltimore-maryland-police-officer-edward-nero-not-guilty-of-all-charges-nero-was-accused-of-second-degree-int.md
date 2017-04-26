@@ -7,9 +7,9 @@ The Latest: Mayor: Baltimore ready in case of &#8216;disturbance&#8217;
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/05/23/us/freddie-gray-trial-officer-edward-nero/)
-2. [AP via ''Salon](http://www.salon.com/2016/05/23/the_latest_mayor_baltimore_ready_in_case_of_disturbance/?google_editors_picks=true)
-3. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3605091/The-Latest-Officer-acquitted-Freddie-Gray-case.html)
+1. [AP via ''Salon](http://www.salon.com/2016/05/23/the_latest_mayor_baltimore_ready_in_case_of_disturbance/?google_editors_picks=true)
+2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3605091/The-Latest-Officer-acquitted-Freddie-Gray-case.html)
+3. [CNN](http://www.cnn.com/2016/05/23/us/freddie-gray-trial-officer-edward-nero/)
 
 ### Related:
 

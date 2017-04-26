@@ -7,8 +7,8 @@ The natural gas leak that flowed for three months and sickened hundreds near Los
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/US/2016/02/11/Massive-natural-gas-leak-near-Los-Angeles-finally-capped/6381455241476/?spt=hs&or=tn_us)
-2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-porter-ranch-gas-leak-fix-20160211-story.html)
+1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-porter-ranch-gas-leak-fix-20160211-story.html)
+2. [UPI](http://www.upi.com/Top_News/US/2016/02/11/Massive-natural-gas-leak-near-Los-Angeles-finally-capped/6381455241476/?spt=hs&or=tn_us)
 
 ### Related:
 

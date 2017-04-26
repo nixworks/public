@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8136399)
-2. [Japan Times](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20050411x1.htm)
+1. [Japan Times](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20050411x1.htm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8136399)
 
 ### Related:
 

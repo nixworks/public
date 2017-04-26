@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/africa/09/18/somalia.suicide.attack/)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090918121524565C823719)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090918121524565C823719)
+2. [CNN](http://edition.cnn.com/2009/WORLD/africa/09/18/somalia.suicide.attack/)
 
 ### Related:
 

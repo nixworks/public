@@ -7,8 +7,8 @@ Get the latest technology news, including new product releases, sales figures an
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=7903371)
-2. [Slashdot](http://slashdot.org/articles/05/03/16/2314240.shtml?tid=126&tid=216)
+1. [Slashdot](http://slashdot.org/articles/05/03/16/2314240.shtml?tid=126&tid=216)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=7903371)
 
 ### Related:
 

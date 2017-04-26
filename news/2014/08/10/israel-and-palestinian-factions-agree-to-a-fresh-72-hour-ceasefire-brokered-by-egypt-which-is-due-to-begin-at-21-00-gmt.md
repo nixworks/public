@@ -7,8 +7,8 @@ A three-day truce comes into effect between Israel and the Palestinians in Gaza,
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-28732928)
-2. [Reuters](http://www.reuters.com/article/2014/08/10/us-mideast-gaza-truce-palestinians-idUSKBN0GA0PV20140810)
+1. [Reuters](http://www.reuters.com/article/2014/08/10/us-mideast-gaza-truce-palestinians-idUSKBN0GA0PV20140810)
+2. [BBC](http://www.bbc.com/news/world-middle-east-28732928)
 
 ### Related:
 

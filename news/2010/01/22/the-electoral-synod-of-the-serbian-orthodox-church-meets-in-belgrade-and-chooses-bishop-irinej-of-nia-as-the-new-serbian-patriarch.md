@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8475608.stm)
-2. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=01&dd=22&nav_id=64668)
+1. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=01&dd=22&nav_id=64668)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8475608.stm)
 
 ### Related:
 

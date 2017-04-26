@@ -7,10 +7,10 @@ Two Arab newspapers and alJazeera television said on Monday Libyan leader Muamma
 
 ### Source:
 
-1. [Asharq Alawsat](http://www.aawsat.com/english/news.asp?section=1&id=24415)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
-3. [MSNBC](http://www.msnbc.msn.com/id/41952904)
-4. [Reuters](http://uk.reuters.com/article/2011/03/07/libya-congress-idUKLDE72628J20110307)
+1. [MSNBC](http://www.msnbc.msn.com/id/41952904)
+2. [Reuters](http://uk.reuters.com/article/2011/03/07/libya-congress-idUKLDE72628J20110307)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
+4. [Asharq Alawsat](http://www.aawsat.com/english/news.asp?section=1&id=24415)
 
 ### Related:
 

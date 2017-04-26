@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/24/c_13185282.htm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8530033.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/23/sudan.peace.agreement/)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8530033.stm)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/24/c_13185282.htm)
 
 ### Related:
 

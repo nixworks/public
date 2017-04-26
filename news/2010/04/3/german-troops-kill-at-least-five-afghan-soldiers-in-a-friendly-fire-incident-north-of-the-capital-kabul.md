@@ -8,8 +8,8 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7549389/Germans-kill-Afghan-allies-in-accident.html)
-2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1218847&lang=eng_news)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5429577,00.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5429577,00.html)
+3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1218847&lang=eng_news)
 
 ### Related:
 

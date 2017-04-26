@@ -7,9 +7,9 @@ UN court back appeal against acquittal over offences allegedly committed during 
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5822064,00.html)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/20107218740214831.html)
-3. [The New York Times](http://www.nytimes.com/2010/07/22/world/europe/22hague.html)
+1. [The New York Times](http://www.nytimes.com/2010/07/22/world/europe/22hague.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5822064,00.html)
+3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/20107218740214831.html)
 4. [BBC](http://www.bbc.co.uk/news/world-europe-10709093)
 
 ### Related:

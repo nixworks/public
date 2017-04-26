@@ -8,8 +8,8 @@
 ### Source:
 
 1. [NineMSN](http://news.ninemsn.com.au/world/japanquake/8224937/over-12000-missing-or-dead-in-japan-quake)
-2. [AP via ''The Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7474165.html)
-3. [CNN](http://news.blogs.cnn.com/2011/03/15/japan-quake-live-blog-fire-erupts-in-fourth-reactor-radiation-warning-issued/)
+2. [CNN](http://news.blogs.cnn.com/2011/03/15/japan-quake-live-blog-fire-erupts-in-fourth-reactor-radiation-warning-issued/)
+3. [AP via ''The Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7474165.html)
 
 ### Related:
 

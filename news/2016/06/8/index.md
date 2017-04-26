@@ -22,7 +22,7 @@ Police in Port Moresby open fire on university students protesting against Papua
 An Eritrean man thought to be at the heart of the operation to smuggle migrants from Africa to Europe is extradited from Sudan to Italy, prosecutors say.
 
 ### [Governor John Kasich signs a bill legalizing medical marijuana, making Ohio the 25th state in America to approve its use. ](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.md)
-_Context: Governor, John Kasich, Ohio, United States, medical marijuana_
+_Context: Governor, John Kasich, Ohio, U.S., medical marijuana_
 
 ### [The International Union of Pure and Applied Chemistry proposes final names for four new chemical elements: nihonium (atomic number 113), moscovium (#115), tennessine (#117), and oganesson (#118). ](/news/2016/06/8/the-international-union-of-pure-and-applied-chemistry-proposes-final-names-for-four-new-chemical-elements-nihonium-atomic-number-113-mos.md)
 _Context: International Union of Pure and Applied Chemistry, Tennessine, atomic number, final names, moscovium, new chemical elements, nihonium, oganesson_

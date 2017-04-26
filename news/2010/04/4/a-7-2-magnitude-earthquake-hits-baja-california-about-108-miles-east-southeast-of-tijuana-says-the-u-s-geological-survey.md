@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS Earthquake Hazards Program](http://earthquake.usgs.gov/earthquakes/recenteqsus/Quakes/ci14607652.php)
-2. [News Channel 10](http://www.newschannel10.com/Global/story.asp?S=12254876)
+1. [News Channel 10](http://www.newschannel10.com/Global/story.asp?S=12254876)
+2. [USGS Earthquake Hazards Program](http://earthquake.usgs.gov/earthquakes/recenteqsus/Quakes/ci14607652.php)
 
 ### Related:
 

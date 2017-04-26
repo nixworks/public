@@ -7,11 +7,11 @@ At least 50 people are killed after a lorry plunges into Lake Tanganyika in the 
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE67B0K220100812)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5glfIx7b9U8bMjxfsEcbRuFSSmxTg)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10956108)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=138467&sectionid=351020506)
+3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE67B0K220100812)
 4. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010%5C08%5C13%5Cstory_13-8-2010_pg4_7)
-5. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5glfIx7b9U8bMjxfsEcbRuFSSmxTg)
+5. [Press TV](http://www.presstv.ir/detail.aspx?id=138467&sectionid=351020506)
 
 ### Related:
 

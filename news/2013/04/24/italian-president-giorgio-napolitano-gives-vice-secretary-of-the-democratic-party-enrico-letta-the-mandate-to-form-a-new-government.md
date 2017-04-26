@@ -7,8 +7,8 @@ Enrico&#x20;Letta,&#x20;deputy&#x20;leader&#x20;of&#x20;Italy&#x2019;s&#x20;Demo
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20130424-italy-president-enrico-letta-prime-minister)
-2. [The Guardian](http://www.guardian.co.uk/business/2013/apr/24/eurozone-crisis-italy-prime-minister-markets)
+1. [The Guardian](http://www.guardian.co.uk/business/2013/apr/24/eurozone-crisis-italy-prime-minister-markets)
+2. [France 24](http://www.france24.com/en/20130424-italy-president-enrico-letta-prime-minister)
 
 ### Related:
 

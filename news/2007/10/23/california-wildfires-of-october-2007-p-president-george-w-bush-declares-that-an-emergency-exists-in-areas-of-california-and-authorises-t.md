@@ -8,9 +8,9 @@ Towering wildfires burned out of control across Southern California for a third 
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/10/24/2069205.htm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSN2132897520071023?feedType=nl&feedName=usmorningdigest)
-3. [AP](http://apnews.myway.com/article/20071023/D8SF7PN00.html)
-4. [CNN](http://edition.cnn.com/2007/US/10/23/wildfire.ca/index.html)
+2. [AP](http://apnews.myway.com/article/20071023/D8SF7PN00.html)
+3. [CNN](http://edition.cnn.com/2007/US/10/23/wildfire.ca/index.html)
+4. [Reuters](http://www.reuters.com/article/topNews/idUSN2132897520071023?feedType=nl&feedName=usmorningdigest)
 
 ### Related:
 

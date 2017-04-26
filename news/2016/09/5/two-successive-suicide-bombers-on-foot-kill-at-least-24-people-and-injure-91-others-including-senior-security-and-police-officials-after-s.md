@@ -7,9 +7,9 @@ A car bomb hit the center of Kabul late on Monday, just hours after a Taliban su
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-37278556)
-2. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN11B18O)
-3. [Today (Singapore](http://www.todayonline.com/world/blast-afghan-capital-kabul-casualties-feared-army-official)
+1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN11B18O)
+2. [Today (Singapore](http://www.todayonline.com/world/blast-afghan-capital-kabul-casualties-feared-army-official)
+3. [BBC](http://www.bbc.com/news/world-asia-37278556)
 4. [Sina Corp](http://english.sina.com/news/2016-09-05/detail-ifxvpxua7949541.shtml)
 
 ### Related:

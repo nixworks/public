@@ -7,9 +7,9 @@ Atiku Abubakar, former vice president, will compete against Goodluck Jonathan, t
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101122162852799365.html)
-2. [Nigerian Guardian](http://ngrguardiannews.com/index.php?option=com_content&view=article&id=30070:forum-adopts-atiku-as-consensus-candidate&catid=1:national&Itemid=559)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h0s5KIIM4GmvSx_Z-0ha20rnFSWA?docId=CNG.a68c702f4d660fe03b24c702ca3a8f9e.5c1)
+1. [Nigerian Guardian](http://ngrguardiannews.com/index.php?option=com_content&view=article&id=30070:forum-adopts-atiku-as-consensus-candidate&catid=1:national&Itemid=559)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h0s5KIIM4GmvSx_Z-0ha20rnFSWA?docId=CNG.a68c702f4d660fe03b24c702ca3a8f9e.5c1)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101122162852799365.html)
 
 ### Related:
 

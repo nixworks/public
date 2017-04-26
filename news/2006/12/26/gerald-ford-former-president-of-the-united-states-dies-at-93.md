@@ -7,8 +7,8 @@ Gerald R. Ford, who picked up the pieces of Richard Nixon&#8217;s scandal-shatte
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/10949314/)
-2. [BBC News](http://news.bbc.co.uk/2/hi/americas/6211407.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/americas/6211407.stm)
+2. [MSNBC](http://www.msnbc.msn.com/id/10949314/)
 
 ### Related:
 

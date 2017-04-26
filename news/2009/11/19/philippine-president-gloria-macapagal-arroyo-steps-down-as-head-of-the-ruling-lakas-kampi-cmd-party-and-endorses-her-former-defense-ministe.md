@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8368139.stm)
-2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_456497.html)
-3. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=524811&publicationSubCategoryId=200)
+1. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=524811&publicationSubCategoryId=200)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8368139.stm)
+3. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_456497.html)
 
 ### Related:
 

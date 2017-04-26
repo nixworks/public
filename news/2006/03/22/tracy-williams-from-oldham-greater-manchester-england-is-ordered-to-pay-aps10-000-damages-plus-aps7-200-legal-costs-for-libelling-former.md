@@ -7,9 +7,9 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [Manchester Evening News](http://www.manchesteronline.co.uk/men/news/s/208/208621_net_blogger_must_pay_10000.html)
+1. [Times](http://www.timesonline.co.uk/article/0,,2-2097470,00.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/england/hampshire/4829932.stm)
-3. [Times](http://www.timesonline.co.uk/article/0,,2-2097470,00.html)
+3. [Manchester Evening News](http://www.manchesteronline.co.uk/men/news/s/208/208621_net_blogger_must_pay_10000.html)
 
 ### Related:
 

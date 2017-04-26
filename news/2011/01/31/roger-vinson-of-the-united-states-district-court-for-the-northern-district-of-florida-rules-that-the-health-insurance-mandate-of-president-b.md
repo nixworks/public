@@ -7,8 +7,8 @@ A judge said the insurance mandate in the health law made it unconstitutional, g
 
 ### Source:
 
-1. [Time](http://thepage.time.com/2011/01/31/fl-judge-strikes-down-health-care-law/)
-2. [New York Times](http://www.nytimes.com/2011/02/01/us/01ruling.html?_r=1&hp)
+1. [New York Times](http://www.nytimes.com/2011/02/01/us/01ruling.html?_r=1&hp)
+2. [Time](http://thepage.time.com/2011/01/31/fl-judge-strikes-down-health-care-law/)
 
 ### Related:
 

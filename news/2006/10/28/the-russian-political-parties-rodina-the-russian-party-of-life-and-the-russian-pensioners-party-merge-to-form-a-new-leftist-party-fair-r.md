@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/ap/2006/10/28/europe/EU_POL_Russia_Politics.php)
-2. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=10932904&PageNum=0)
+1. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=10932904&PageNum=0)
+2. [IHT](http://www.iht.com/articles/ap/2006/10/28/europe/EU_POL_Russia_Politics.php)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2009-09/22/content_8719448.htm)
+1. [Central News Agency](http://english.cna.com.tw/ReadNews/Detail.aspx?pSearchDate=&pNewsID=200909220037&pType1=PD&pType0=xPDCS&pTypeSel=0)
 2. [The Guardian](http://www.guardian.co.uk/film/2009/sep/22/chinese-protesters-hack-website)
-3. [Central News Agency](http://english.cna.com.tw/ReadNews/Detail.aspx?pSearchDate=&pNewsID=200909220037&pType1=PD&pType0=xPDCS&pTypeSel=0)
+3. [China Daily](http://www.chinadaily.com.cn/china/2009-09/22/content_8719448.htm)
 
 ### Related:
 

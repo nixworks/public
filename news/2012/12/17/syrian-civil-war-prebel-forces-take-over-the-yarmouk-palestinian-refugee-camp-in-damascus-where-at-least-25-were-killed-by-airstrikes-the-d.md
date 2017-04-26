@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.trust.org/alertnet/news/syrian-rebels-take-control-of-damascus-palestinian-camp/)
+1. [Reuters](http://www.trust.org/alertnet/news/italian-two-others-kidnapped-in-syria--italys-foreign-ministry/)
 2. [Reuters](http://www.trust.org/alertnet/news/syria-pm-makes-rare-visit-to-aleppo-and-promises-aid/)
-3. [Reuters](http://www.trust.org/alertnet/news/italian-two-others-kidnapped-in-syria--italys-foreign-ministry/)
+3. [Reuters](http://www.trust.org/alertnet/news/syrian-rebels-take-control-of-damascus-palestinian-camp/)
 
 ### Related:
 

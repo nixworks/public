@@ -7,8 +7,8 @@ Ding Junhui produced a sensational comeback to win the PTC Grand Finals with a 4
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/snooker/21825860)
-2. [Eurosport](http://asia.eurosport.com/snooker/ding-downs-robertson-to-win-100k-at-ptc-grand-finals_sto3671681/story.shtml)
+1. [Eurosport](http://asia.eurosport.com/snooker/ding-downs-robertson-to-win-100k-at-ptc-grand-finals_sto3671681/story.shtml)
+2. [BBC](http://www.bbc.co.uk/sport/0/snooker/21825860)
 
 ### Related:
 

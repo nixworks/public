@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-02-02T204752Z_01_L0132482_RTRUKOC_0_US-SERBIA-KOSOVO.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-10)
-2. [CNN](http://www.cnn.com/2007/WORLD/europe/02/02/un.kosovo.ap/index.html)
+1. [CNN](http://www.cnn.com/2007/WORLD/europe/02/02/un.kosovo.ap/index.html)
+2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-02-02T204752Z_01_L0132482_RTRUKOC_0_US-SERBIA-KOSOVO.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-10)
 
 ### Related:
 

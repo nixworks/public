@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/aug/04/venezuela-tv-station-armed-raid)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8184671.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8184671.stm)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/aug/04/venezuela-tv-station-armed-raid)
 
 ### Related:
 

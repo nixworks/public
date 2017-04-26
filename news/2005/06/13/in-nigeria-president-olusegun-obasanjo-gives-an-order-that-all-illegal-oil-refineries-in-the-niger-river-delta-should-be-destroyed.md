@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/06/13/news/briefs.php)
-2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42adb2e0:4ee9f41d30d3c?type=businessNews&localeKey=en_ZA&storyID=8775313)
+1. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42adb2e0:4ee9f41d30d3c?type=businessNews&localeKey=en_ZA&storyID=8775313)
+2. [IHT](http://www.iht.com/articles/2005/06/13/news/briefs.php)
 
 ### Related:
 

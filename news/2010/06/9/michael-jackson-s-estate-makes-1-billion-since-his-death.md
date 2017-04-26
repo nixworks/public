@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/entertainment/2010-06/08/c_13339165.htm)
-2. [china.org](http://www.china.org.cn/arts/2010-06/08/content_20209032.htm)
-3. [Sina](http://english.sina.com/entertainment/p/2010/0607/323551.html)
+1. [Sina](http://english.sina.com/entertainment/p/2010/0607/323551.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/entertainment/2010-06/08/c_13339165.htm)
+3. [china.org](http://www.china.org.cn/arts/2010-06/08/content_20209032.htm)
 
 ### Related:
 

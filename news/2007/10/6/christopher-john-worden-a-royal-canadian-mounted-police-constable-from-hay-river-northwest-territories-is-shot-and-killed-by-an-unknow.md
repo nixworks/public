@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV News](http://cfcn.ctv.ca/servlet/ArticleNews/scfcn/CTVNews/20071008/police_procedures_071009)
-2. [CBC News](http://www.cbc.ca/canada/story/2007/10/06/rcmp-injured.html)
+1. [CBC News](http://www.cbc.ca/canada/story/2007/10/06/rcmp-injured.html)
+2. [CTV News](http://cfcn.ctv.ca/servlet/ArticleNews/scfcn/CTVNews/20071008/police_procedures_071009)
 
 ### Related:
 

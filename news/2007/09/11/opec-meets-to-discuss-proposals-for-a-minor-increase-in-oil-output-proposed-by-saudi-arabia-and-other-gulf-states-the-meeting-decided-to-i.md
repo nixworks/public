@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [Reuters](http://africa.reuters.com/business/news/usnBAN123420.html)
-2. [CNN](http://edition.cnn.com/2007/BUSINESS/09/11/opec.meeting.ap/index.html)
+1. [CNN](http://edition.cnn.com/2007/BUSINESS/09/11/opec.meeting.ap/index.html)
+2. [Reuters](http://africa.reuters.com/business/news/usnBAN123420.html)
 
 ### Related:
 
 1. [The meeting in Doha, Qatar, of the world's top oil producers, from both OPEC and non-OPEC countries, fails to agree on an output freeze. Oil analysts say  the failure was due to Iran's non-participation, and Saudi Arabia linking its cooperation  to Iran's inclusion. Oil prices drop in early Asian trading and on the New York Mercantile Exchange. ](/news/2016/04/18/the-meeting-in-doha-qatar-of-the-world-s-top-oil-producers-from-both-opec-and-non-opec-countries-fails-to-agree-on-an-output-freeze-oil.md) _Context: OPEC, Saudi Arabia_
 2. [ Venezuelan President Hugo Chvez opens the 2007 OPEC meeting in Saudi Arabia, warning the United States against attacking Iran. ](/news/2007/11/18/venezuelan-president-hugo-chavez-opens-the-2007-opec-meeting-in-saudi-arabia-warning-the-united-states-against-attacking-iran.md) _Context: OPEC, Saudi Arabia_
-3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 4. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 5. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 6. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

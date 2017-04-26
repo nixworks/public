@@ -8,8 +8,8 @@ At least 12 miners were killed today in a methane explosion at a coal mine in so
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/8264624.stm)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0918/breaking51.htm)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/09/2009918145056895158.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/09/2009918145056895158.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0918/breaking51.htm)
 
 ### Related:
 

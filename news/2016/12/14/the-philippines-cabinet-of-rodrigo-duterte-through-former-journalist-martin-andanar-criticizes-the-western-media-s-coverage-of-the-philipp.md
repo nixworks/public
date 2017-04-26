@@ -7,10 +7,10 @@ Controversial leader – who has endorsed extrajudicial executions of drug offen
 
 ### Source:
 
-1. [INQUIRER.net](http://newsinfo.inquirer.net/853420/duterte-i-personally-killed-drug-suspects)
-2. [The New York Times](http://www.nytimes.com/2016/12/12/world/asia/philippines-president-criticizes-times-piece-on-deadly-antidrug-campaign.html)
-3. [The Guardian](https://www.theguardian.com/world/2016/dec/14/philippines-president-rodrigo-duterte-personally-killed-criminals)
-4. [NBC News](http://www.nbcnews.com/news/us-news/philippine-president-under-fire-claims-he-personally-killed-criminals-n695936)
+1. [NBC News](http://www.nbcnews.com/news/us-news/philippine-president-under-fire-claims-he-personally-killed-criminals-n695936)
+2. [The Guardian](https://www.theguardian.com/world/2016/dec/14/philippines-president-rodrigo-duterte-personally-killed-criminals)
+3. [The New York Times](http://www.nytimes.com/2016/12/12/world/asia/philippines-president-criticizes-times-piece-on-deadly-antidrug-campaign.html)
+4. [INQUIRER.net](http://newsinfo.inquirer.net/853420/duterte-i-personally-killed-drug-suspects)
 
 ### Related:
 

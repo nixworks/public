@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo!](http://news.yahoo.com/fc/world/osama_bin_laden_and_al_qaida)
-2. [Reuters](http://news.yahoo.com/s/ap/20060130/ap_on_re_mi_ea/iraq_kidnapped_journalist)
+1. [Reuters](http://news.yahoo.com/s/ap/20060130/ap_on_re_mi_ea/iraq_kidnapped_journalist)
+2. [Yahoo!](http://news.yahoo.com/fc/world/osama_bin_laden_and_al_qaida)
 
 ### Related:
 

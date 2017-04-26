@@ -7,11 +7,11 @@ The Vatican has confirmed that Pope Benedict XVI has accepted the resignation of
 
 ### Source:
 
-1. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1386210.html)
-2. [Limerick Leader](http://www.limerickleader.ie/news/Bishop-of-Limerick-resigns-Click.5920340.jp)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8419447.stm)
-4. [RTÉ](http://www.rte.ie/news/2009/1217/abuse.html)
-5. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1025455/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1025455/1/.html)
+2. [RTÉ](http://www.rte.ie/news/2009/1217/abuse.html)
+3. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1386210.html)
+4. [Limerick Leader](http://www.limerickleader.ie/news/Bishop-of-Limerick-resigns-Click.5920340.jp)
+5. [BBC](http://news.bbc.co.uk/2/hi/europe/8419447.stm)
 
 ### Related:
 

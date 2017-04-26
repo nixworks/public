@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/business/4193797.stm)
+1. [CBS2](http://cbs2chicago.com/marketwatch/local_story_020225802.html)
 2. [Vanguard](http://www.vanguardngr.com/articles/2002/business/b224012005.html)
-3. [CBS2](http://cbs2chicago.com/marketwatch/local_story_020225802.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/business/4193797.stm)
 
 ### Related:
 

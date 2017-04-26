@@ -7,13 +7,13 @@ Former MK Issam Mahoul rejects Nasrallah&#39;s call to Haifa&#39;s Arab populati
 
 ### Source:
 
-1. [CBS](http://wcbstv.com/topstories/topstories_story_220185419.html)
-2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-09T180624Z_01_L0967241_RTRUKOC_0_US-MIDEAST-NASRALLAH-GRAVEYARD.xml)
-3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3288753,00.html)
-4. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1154525841951&pagename=JPost%2FJPArticle%2FShowFull)
-5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3288617,00.html)
-6. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-09T175453Z_01_L0963469_RTRUKOC_0_US-MIDEAST-NASRALLAH.xml)
-7. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3289009,00.html)
+1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-09T180624Z_01_L0967241_RTRUKOC_0_US-MIDEAST-NASRALLAH-GRAVEYARD.xml)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3288753,00.html)
+3. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3289009,00.html)
+4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-09T175453Z_01_L0963469_RTRUKOC_0_US-MIDEAST-NASRALLAH.xml)
+5. [CBS](http://wcbstv.com/topstories/topstories_story_220185419.html)
+6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3288617,00.html)
+7. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1154525841951&pagename=JPost%2FJPArticle%2FShowFull)
 
 ### Related:
 

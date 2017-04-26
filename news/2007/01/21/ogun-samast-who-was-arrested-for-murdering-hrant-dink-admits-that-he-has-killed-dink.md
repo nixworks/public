@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/6283765.stm)
-2. [CNN](http://edition.cnn.com/2007/WORLD/europe/01/21/turkey.dink/index.html)
+1. [CNN](http://edition.cnn.com/2007/WORLD/europe/01/21/turkey.dink/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/6283765.stm)
 
 ### Related:
 

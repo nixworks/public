@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA News](http://www.voanews.com/content/turkish-air-strikes-kill-kurdish-militants-in-iraq/3233119.html)
-2. [World Bulletin](http://www.worldbulletin.net/world/170394/six-killed-in-italian-alps-avalanche)
+1. [World Bulletin](http://www.worldbulletin.net/world/170394/six-killed-in-italian-alps-avalanche)
+2. [VOA News](http://www.voanews.com/content/turkish-air-strikes-kill-kurdish-militants-in-iraq/3233119.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ At least 31 people killed and dozens wounded in car bombings in Shia-dominated a
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/world/view/29-killed-in-iraq-car-bombs-against-shiites)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/20132874715672813.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/20132874715672813.html)
+2. [Japan Today](http://www.japantoday.com/category/world/view/29-killed-in-iraq-car-bombs-against-shiites)
 
 ### Related:
 

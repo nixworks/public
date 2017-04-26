@@ -7,10 +7,10 @@ New Jersey and New York, struggling to recover from the wreckage of Sandy, were 
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jLBgsQU5vRriRhW0whWEJQupoaiA?docId=CNG.f30d83d3e58f9f2b8d7db5aef73a1dca.1d1)
+1. [US News](http://www.usnews.com/news/articles/2012/11/01/superstorm-sandy-creates-gas-shortage-headaches)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204712904578092550084100578.html)
-3. [US News](http://www.usnews.com/news/articles/2012/11/01/superstorm-sandy-creates-gas-shortage-headaches)
-4. [ABC News](http://abcnews.go.com/US/gas-shortage-overwhelmed-transit-systems-latest-sandy-woe/story?id=17614235#.UJLtIcUqaAg)
+3. [ABC News](http://abcnews.go.com/US/gas-shortage-overwhelmed-transit-systems-latest-sandy-woe/story?id=17614235#.UJLtIcUqaAg)
+4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jLBgsQU5vRriRhW0whWEJQupoaiA?docId=CNG.f30d83d3e58f9f2b8d7db5aef73a1dca.1d1)
 
 ### Related:
 

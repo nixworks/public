@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via the Guardian](http://www.guardian.co.uk/world/feedarticle/7522940)
-2. [CNN](http://edition.cnn.com/2008/US/05/17/louisiana.derail/)
+1. [CNN](http://edition.cnn.com/2008/US/05/17/louisiana.derail/)
+2. [AP via the Guardian](http://www.guardian.co.uk/world/feedarticle/7522940)
 
 ### Related:
 

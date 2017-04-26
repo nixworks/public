@@ -7,5 +7,5 @@ The online astronomy service Slooh will provide a live webcast of the annular so
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/the-perseid-meteor-shower-peaks-tonight-how-to-watch/)
-2. [Space.com](http://www.space.com/19195-night-sky-planets-asteroids-webcasts.html)
+1. [Space.com](http://www.space.com/19195-night-sky-planets-asteroids-webcasts.html)
+2. [CBS News](http://www.cbsnews.com/news/the-perseid-meteor-shower-peaks-tonight-how-to-watch/)

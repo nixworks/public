@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [boxofficemojo.com](http://www.boxofficemojo.com/news/?id=1824)
-2. [marketwatch](http://www.marketwatch.com/news/story.asp?guid=%7B91170A59-4D1D-4D38-BBC1-CCA49B9F85D7%7D&siteid=google)
-3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20050520/ap_en_mo/film_star_wars_box_office)
+1. [marketwatch](http://www.marketwatch.com/news/story.asp?guid=%7B91170A59-4D1D-4D38-BBC1-CCA49B9F85D7%7D&siteid=google)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20050520/ap_en_mo/film_star_wars_box_office)
+3. [boxofficemojo.com](http://www.boxofficemojo.com/news/?id=1824)
 
 ### Related:
 

@@ -8,8 +8,8 @@ President Bashar Assad issued a decree Sunday appointing Adel Safar, the agricul
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/04/us-syria-usa-warning-idUSTRE73307720110404?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29&utm_content=Google+International)
-2. [newser](http://www.newser.com/story/115505/syrian-president-bashar-assad-taps-adel-safar-as-prime-minister-will-form-new-government.html)
-3. [FoxNews](http://www.foxnews.com/world/2011/04/03/syria-tightens-security-quell-anti-government-protests/)
+2. [FoxNews](http://www.foxnews.com/world/2011/04/03/syria-tightens-security-quell-anti-government-protests/)
+3. [newser](http://www.newser.com/story/115505/syrian-president-bashar-assad-taps-adel-safar-as-prime-minister-will-form-new-government.html)
 
 ### Related:
 

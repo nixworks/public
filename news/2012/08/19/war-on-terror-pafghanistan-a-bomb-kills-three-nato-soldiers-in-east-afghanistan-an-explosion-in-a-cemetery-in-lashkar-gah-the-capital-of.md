@@ -7,11 +7,11 @@ The names of the New Zealand soldiers killed in Afghanistan overnight have been 
 
 ### Source:
 
-1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10828065)
-2. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0819/Another-NATO-soldier-killed-by-Afghan-comrade-in-arms)
+1. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0819/Another-NATO-soldier-killed-by-Afghan-comrade-in-arms)
+2. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-08-19/Pakistan-drones-militants/57133604/1?csp=34news)
 3. [AP via Chron](http://www.chron.com/news/article/Bomb-hidden-in-cemetery-kills-2-in-Afghanistan-3798826.php)
-4. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-08-19/Pakistan-drones-militants/57133604/1?csp=34news)
-5. [AFP via France 24](http://www.france24.com/en/20120819-qaeda-suicide-bomber-kills-yemen-militia-chief)
+4. [AFP via France 24](http://www.france24.com/en/20120819-qaeda-suicide-bomber-kills-yemen-militia-chief)
+5. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10828065)
 
 ### Related:
 

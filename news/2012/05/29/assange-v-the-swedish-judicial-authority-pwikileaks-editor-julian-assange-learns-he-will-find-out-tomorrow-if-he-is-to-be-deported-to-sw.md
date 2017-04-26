@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Digital Journal](http://www.digitaljournal.com/article/325620)
-2. [The Guardian](http://www.guardian.co.uk/media/2012/may/29/julian-assange-extradition-supreme-court)
+1. [The Guardian](http://www.guardian.co.uk/media/2012/may/29/julian-assange-extradition-supreme-court)
+2. [Digital Journal](http://www.digitaljournal.com/article/325620)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/assange-mum-in-london-ahead-of-verdict-20120529-1zh4y.html)
 
 ### Related:

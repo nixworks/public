@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iSWZjOk7wBIVSZtnMt87H1dzxTwQ)
-2. [Toronto Star](http://www.thestar.com/news/canada/article/668944)
+1. [Toronto Star](http://www.thestar.com/news/canada/article/668944)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iSWZjOk7wBIVSZtnMt87H1dzxTwQ)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The government has confirmed that a South African man was among the contractors 
 
 ### Source:
 
-1. [Times Media Group](http://www.timeslive.co.za/local/2016/06/23/Government-confirms-South-African-man-kidnapped-in-Nigeria)
-2. [Daily Post](http://dailypost.ng/2016/06/23/how-suspected-militants-kidnapped-5-foreigners-killed-nigerian-driver-in-calabar/)
+1. [Daily Post](http://dailypost.ng/2016/06/23/how-suspected-militants-kidnapped-5-foreigners-killed-nigerian-driver-in-calabar/)
+2. [Times Media Group](http://www.timeslive.co.za/local/2016/06/23/Government-confirms-South-African-man-kidnapped-in-Nigeria)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-35971744)
-2. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3530921/Djibouti-President-elected-PM.html)
+1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3530921/Djibouti-President-elected-PM.html)
+2. [BBC](http://www.bbc.com/news/world-africa-35971744)
 
 ### Related:
 

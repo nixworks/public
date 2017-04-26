@@ -8,8 +8,8 @@ France&#039;s rail operator SNCF caused panic when it wrongly announced on its w
 ### Source:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7064101.ece)
-2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/16/international/i045559D95.DTL)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8570685.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8570685.stm)
+3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/16/international/i045559D95.DTL)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7458278/French-rail-company-SNCF-wrongly-announces-that-102-die-in-train-explosion.html)
 
 ### Related:

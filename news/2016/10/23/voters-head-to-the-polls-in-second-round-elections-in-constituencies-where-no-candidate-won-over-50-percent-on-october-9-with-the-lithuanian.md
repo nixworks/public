@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-lithuania-election-idUSKCN12N0DM)
-2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_LITHUANIA_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_LITHUANIA_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Reuters](http://www.reuters.com/article/us-lithuania-election-idUSKCN12N0DM)
 
 ### Related:
 

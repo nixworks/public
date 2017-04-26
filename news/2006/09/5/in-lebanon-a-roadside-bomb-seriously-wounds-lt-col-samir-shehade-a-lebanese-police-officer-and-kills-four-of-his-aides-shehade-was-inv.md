@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/BA110A0C-F703-44EB-A19F-EA1FC6F75C59.htm)
-2. [AP](http://edition.cnn.com/2006/WORLD/meast/09/05/lebanon.bomb.ap/)
+1. [AP](http://edition.cnn.com/2006/WORLD/meast/09/05/lebanon.bomb.ap/)
+2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/BA110A0C-F703-44EB-A19F-EA1FC6F75C59.htm)
 
 ### Related:
 

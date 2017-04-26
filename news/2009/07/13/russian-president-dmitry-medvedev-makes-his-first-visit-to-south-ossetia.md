@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20090713/155514488.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/world/148828/russian-president-in-unexpected-visit-to-s-ossetia)
+1. [Bangkok Post](http://www.bangkokpost.com/news/world/148828/russian-president-in-unexpected-visit-to-s-ossetia)
+2. [RIA Novosti](http://en.rian.ru/russia/20090713/155514488.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/mexican-official-sean-penn-led-us-to-drug-lord-joaquin-el-chapo-guzman/)
+1. [Rolling Stone](http://www.rollingstone.com/culture/features/el-chapo-speaks-20160109)
 2. [CNN](http://edition.cnn.com/2016/01/10/americas/el-chapo-sean-penn-rolling-stone-interview/index.html)
-3. [Rolling Stone](http://www.rollingstone.com/culture/features/el-chapo-speaks-20160109)
+3. [CBS News](http://www.cbsnews.com/news/mexican-official-sean-penn-led-us-to-drug-lord-joaquin-el-chapo-guzman/)
 4. [USA Today](http://www.usatoday.com/story/news/world/2016/01/10/el-chapo-sean-penn-interview-joaquin-guzman-mexico/78587470/)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/08/musharraf.karzai/index.html?eref=rss_topstories)
-2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20070809/ts_nm/pakistan_emergency_dc;_ylt=AjKZtdO95dhGZMSoOXPCIxKs0NUE)
+1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20070809/ts_nm/pakistan_emergency_dc;_ylt=AjKZtdO95dhGZMSoOXPCIxKs0NUE)
+2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/08/musharraf.karzai/index.html?eref=rss_topstories)
 3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6938033.stm)
 
 ### Related:

@@ -8,9 +8,9 @@ German naturists will soon have their own 18-km (11-mile) long trail for hiking 
 ### Source:
 
 1. [Der Spiegel](http://www.spiegel.de/international/zeitgeist/0,1518,650329,00.html)
-2. [MSNBC](http://www.msnbc.msn.com/id/32966748/ns/world_news-europe/)
+2. [Reuters](http://in.reuters.com/article/oddlyEnoughNews/idINTRE58L3PR20090922?feedType=RSS&feedName=oddlyEnoughNews)
 3. [The Sydney Morning Herald](http://www.smh.com.au/travel/travel-news/nude-hikers-get-their-own-trail-in-germany-20090923-g27l.html)
-4. [Reuters](http://in.reuters.com/article/oddlyEnoughNews/idINTRE58L3PR20090922?feedType=RSS&feedName=oddlyEnoughNews)
+4. [MSNBC](http://www.msnbc.msn.com/id/32966748/ns/world_news-europe/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Hurricane Dean has intensified and developed into a category three hurricane, wi
 
 ### Source:
 
-1. [Governor's Office](http://www.2theadvocate.com/news/9227476.html)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070818?feedType=RSS&feedName=topNews)
-3. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/18/2008509.htm)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/18/2008509.htm)
+2. [Governor's Office](http://www.2theadvocate.com/news/9227476.html)
+3. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070818?feedType=RSS&feedName=topNews)
 4. [The Scotsman](http://business.scotsman.com/latest.cfm?id=1307602007)
 
 ### Related:

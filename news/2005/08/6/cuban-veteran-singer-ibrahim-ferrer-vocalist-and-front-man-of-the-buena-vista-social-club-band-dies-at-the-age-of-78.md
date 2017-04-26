@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Prensa Latina](http://www.plenglish.com/Article.asp?ID=%7B63CD5FEF-166A-46AC-8532-BB141B1B832A%7D&language=EN)
+1. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-08-07T033419Z_01_N06267699_RTRIDST_0_ENTERTAINMENT-PEOPLE-FERRER-DC.XML)
 2. [singer ferrer dies (Contactmusic](http://www.contactmusic.com/new/xmlfeed.nsf/mndwebpages/cuban)
-3. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-08-07T033419Z_01_N06267699_RTRIDST_0_ENTERTAINMENT-PEOPLE-FERRER-DC.XML)
+3. [Prensa Latina](http://www.plenglish.com/Article.asp?ID=%7B63CD5FEF-166A-46AC-8532-BB141B1B832A%7D&language=EN)
 
 ### Related:
 

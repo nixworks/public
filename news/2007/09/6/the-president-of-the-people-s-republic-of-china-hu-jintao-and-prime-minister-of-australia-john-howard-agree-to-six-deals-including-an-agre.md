@@ -7,10 +7,10 @@ Australia and China have signed a series of new agreements for closer ties betwe
 
 ### Source:
 
-1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/06/2025691.htm)
-2. [AP via IHT](http://www.iht.com/articles/2007/09/06/asia/bush.php)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6981007.stm)
-4. [Sydney Morning Herald](http://www.smh.com.au/news/national/cops-gave-us-permission-chaser/2007/09/07/1188783454020.html?s_cid=rss_news)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6981007.stm)
+2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/06/2025691.htm)
+3. [Sydney Morning Herald](http://www.smh.com.au/news/national/cops-gave-us-permission-chaser/2007/09/07/1188783454020.html?s_cid=rss_news)
+4. [AP via IHT](http://www.iht.com/articles/2007/09/06/asia/bush.php)
 
 ### Related:
 

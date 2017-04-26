@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/30/us-syria-israel-attack-idUSBRE90T0K120130130)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21269766)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21269766)
+2. [Reuters](http://www.reuters.com/article/2013/01/30/us-syria-israel-attack-idUSBRE90T0K120130130)
 
 ### Related:
 

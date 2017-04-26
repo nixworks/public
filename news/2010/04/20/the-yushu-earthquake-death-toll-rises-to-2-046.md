@@ -7,8 +7,8 @@ Nearly 200 people still missing in Qinghai as government declares day of mournin
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/20/c_13259444.htm)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104204220889442.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104204220889442.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/20/c_13259444.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Flash Appeal] to cover both immediate and transitional needs of the affected people.  The floods, a result of the torrential rains that occurred during the middle of [[January 2005|January]], continue to affect over 290,000 people, or roughly 39% of the population.  The torrential rains were the worst for the region in roughly a century. [http://www.jouvay.com/guyana/ (Jouvay](http://www.reliefweb.int/rw/RWB.NSF/db900SID/DDAD-69DR44?OpenDocument&rc=2&emid=FL-2005-000002-GUY)
-2. [Guyana Outpost](http://guyana.gwebworks.com/news/news.shtml)
+1. [Guyana Outpost](http://guyana.gwebworks.com/news/news.shtml)
+2. [Flash Appeal] to cover both immediate and transitional needs of the affected people.  The floods, a result of the torrential rains that occurred during the middle of [[January 2005|January]], continue to affect over 290,000 people, or roughly 39% of the population.  The torrential rains were the worst for the region in roughly a century. [http://www.jouvay.com/guyana/ (Jouvay](http://www.reliefweb.int/rw/RWB.NSF/db900SID/DDAD-69DR44?OpenDocument&rc=2&emid=FL-2005-000002-GUY)
 
 ### Related:
 

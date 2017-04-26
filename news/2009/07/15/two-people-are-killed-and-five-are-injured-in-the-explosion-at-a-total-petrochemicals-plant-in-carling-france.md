@@ -7,8 +7,8 @@ An explosion at a Total petrochemicals plant in France has killed two people, in
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0715/france.html)
-2. [France 24](http://www.france24.com/en/20090715-total-petrochemicals-plant-explosion-blast-carling-france-killed-wounded)
+1. [France 24](http://www.france24.com/en/20090715-total-petrochemicals-plant-explosion-blast-carling-france-killed-wounded)
+2. [RTÉ](http://www.rte.ie/news/2009/0715/france.html)
 
 ### Related:
 

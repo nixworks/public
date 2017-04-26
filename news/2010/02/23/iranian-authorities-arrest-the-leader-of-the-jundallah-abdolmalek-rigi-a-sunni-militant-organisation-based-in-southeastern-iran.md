@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=119269&sectionid=351020101)
-2. [CNN](http://edition.cnn.com/2010/WORLD/meast/02/23/iran.militant/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/meast/02/23/iran.militant/)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=119269&sectionid=351020101)
 
 ### Related:
 

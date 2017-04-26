@@ -7,9 +7,9 @@ Some flood watches and warnings in the state extend until Tuesday morning.
 
 ### Source:
 
-1. [Time](http://time.com/4298661/houston-flooding-weather-rain-flash-floods/?xid=homepage)
+1. [UPI](http://www.upi.com/Top_News/US/2016/04/18/Texas-governor-declares-disaster-in-9-counties-amid-punishing-rain-flooding-several-dead/7441460988705/?spt=rln&or=2)
 2. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/04/18/texas-rain-flooding/83176532/)
-3. [UPI](http://www.upi.com/Top_News/US/2016/04/18/Texas-governor-declares-disaster-in-9-counties-amid-punishing-rain-flooding-several-dead/7441460988705/?spt=rln&or=2)
+3. [Time](http://time.com/4298661/houston-flooding-weather-rain-flash-floods/?xid=homepage)
 4. [CNN](http://www.cnn.com/2016/04/18/us/houston-texas-flooding/index.html)
 
 ### Related:

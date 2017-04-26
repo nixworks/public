@@ -7,8 +7,8 @@ A planet orbiting two suns - the first confirmed alien world of its kind, and ev
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/science-environment-14940885)
-2. [NASA.gov](http://www.nasa.gov/mission_pages/kepler/news/kepler-16b.html)
+1. [NASA.gov](http://www.nasa.gov/mission_pages/kepler/news/kepler-16b.html)
+2. [BBC](http://www.bbc.co.uk/news/science-environment-14940885)
 
 ### Related:
 

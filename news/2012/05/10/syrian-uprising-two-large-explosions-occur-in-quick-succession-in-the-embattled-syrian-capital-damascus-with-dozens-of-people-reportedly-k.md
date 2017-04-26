@@ -7,9 +7,9 @@ Dozens of people were killed or wounded in two &quot;terrorist explosions&quot; 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201251052757617657.html)
-2. [Al-Arabiya](http://english.alarabiya.net/articles/2012/05/10/213211.html)
-3. [Reuters](http://in.reuters.com/article/2012/05/10/syria-blasts-casualties-idINDEE84905920120510)
+1. [Reuters](http://in.reuters.com/article/2012/05/10/syria-blasts-casualties-idINDEE84905920120510)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201251052757617657.html)
+3. [Al-Arabiya](http://english.alarabiya.net/articles/2012/05/10/213211.html)
 
 ### Related:
 

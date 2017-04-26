@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/52ab389e-e6b3-11df-99b3-00144feab49a.html)
-2. [Resignation letter](http://www.rte.ie/news/2010/1102/mcdaid.pdf)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1103/1224282561800.html)
+2. [Financial Times](http://www.ft.com/cms/s/0/52ab389e-e6b3-11df-99b3-00144feab49a.html)
 3. [Reuters](http://www.reuters.com/article/idUSWLA686420101102)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1103/1224282561800.html)
-5. [RTÉ](http://www.rte.ie/news/2010/1103/mcdaid.html)
+4. [RTÉ](http://www.rte.ie/news/2010/1103/mcdaid.html)
+5. [Resignation letter](http://www.rte.ie/news/2010/1102/mcdaid.pdf)
 
 ### Related:
 

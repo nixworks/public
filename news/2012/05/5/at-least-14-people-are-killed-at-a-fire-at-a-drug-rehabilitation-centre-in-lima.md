@@ -7,8 +7,8 @@ A fire at a drug rehabilitation centre in the Peruvian capital Lima has killed 1
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/201255213337799245.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-17967855)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17967855)
+2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/201255213337799245.html)
 
 ### Related:
 

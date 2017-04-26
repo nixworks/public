@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7558985)
-2. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5522077)
+1. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5522077)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7558985)
 
 ### Related:
 

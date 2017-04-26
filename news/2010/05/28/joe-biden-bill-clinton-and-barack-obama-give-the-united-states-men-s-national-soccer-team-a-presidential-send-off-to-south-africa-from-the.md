@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The News International](http://www.thenews.com.pk/updates.asp?id=105609)
-2. [China Daily](http://www.chinadaily.com.cn/sports/2010-05/28/content_9905846.htm)
-3. [IOL](http://www.iol.co.za/index.php?from=rss_Soccer&set_id=1&click_id=19&art_id=nw20100528080413689C547354)
+2. [IOL](http://www.iol.co.za/index.php?from=rss_Soccer&set_id=1&click_id=19&art_id=nw20100528080413689C547354)
+3. [China Daily](http://www.chinadaily.com.cn/sports/2010-05/28/content_9905846.htm)
 
 ### Related:
 

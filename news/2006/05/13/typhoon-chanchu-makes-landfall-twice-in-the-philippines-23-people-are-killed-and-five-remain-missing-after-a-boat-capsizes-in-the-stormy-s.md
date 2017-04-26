@@ -8,9 +8,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [SwissInfo](http://www.swissinfo.org/eng/international/ticker/detail/Typhoon_toll_rises_to_24_in_Philippines.html?siteSect=143&sid=6713773&cKey=1147524886000)
-2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/05/13/philippines.typhoon.reut/index.html)
-3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-05-13T075458Z_01_MAN269965_RTRUKOC_0_US-WEATHER-PHILIPPINES-TYPHOON.xml&archived=False)
-4. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2006/05/13/1578191-ap.html)
+2. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2006/05/13/1578191-ap.html)
+3. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/05/13/philippines.typhoon.reut/index.html)
+4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-05-13T075458Z_01_MAN269965_RTRUKOC_0_US-WEATHER-PHILIPPINES-TYPHOON.xml&archived=False)
 
 ### Related:
 

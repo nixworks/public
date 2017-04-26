@@ -1,7 +1,7 @@
 ## [2008-12-9](/news/2008/12/9/index.md)
 
 ### [ Democratic Illinois Governor Rod Blagojevich is arrested by Federal Bureau of Investigation agents at his Chicago home, amidst allegations of corruption and pay-to-play regarding the replacement for United States President-elect Barack Obama in the Senate. ](/news/2008/12/9/democratic-illinois-governor-rod-blagojevich-is-arrested-by-federal-bureau-of-investigation-agents-at-his-chicago-home-amidst-allegations.md)
-_Context: Barack Obama, Chicago, Democratic, FBI, Governor of Illinois, Illinois, President-elect, Rod Blagojevich, U.S. President, United States, United States Senate, anti-corruption, pay-to-play, seat_
+_Context: Barack Obama, Chicago, Democratic, FBI, Governor of Illinois, Illinois, President-elect, Rod Blagojevich, U.S., U.S. President, United States Senate, anti-corruption, pay-to-play, seat_
 
 ### [ Almost 1,400 workers are laid off in the Republic of Ireland as a result of the 2008 Irish pork crisis. ](/news/2008/12/9/almost-1-400-workers-are-laid-off-in-the-republic-of-ireland-as-a-result-of-the-2008-irish-pork-crisis.md)
 _Context: 2008 Irish pork crisis, Ireland_

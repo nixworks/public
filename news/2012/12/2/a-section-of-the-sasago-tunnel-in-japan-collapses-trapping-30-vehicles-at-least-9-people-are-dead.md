@@ -7,9 +7,9 @@ At least seven people are missing after a major road tunnel collapses west of To
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-20571218)
-2. [Sky News](http://news.sky.com/story/1019392/japan-tunnel-collapse-five-people-dead)
-3. [CBC News](http://www.cbc.ca/news/world/story/2012/12/02/tokyo-sasago-tunnel-collapse.html)
+1. [Sky News](http://news.sky.com/story/1019392/japan-tunnel-collapse-five-people-dead)
+2. [CBC News](http://www.cbc.ca/news/world/story/2012/12/02/tokyo-sasago-tunnel-collapse.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-20571218)
 
 ### Related:
 

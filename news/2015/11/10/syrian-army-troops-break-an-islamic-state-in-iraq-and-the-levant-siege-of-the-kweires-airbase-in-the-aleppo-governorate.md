@@ -7,8 +7,8 @@ At least 23 people were killed and 40 wounded in two explosions in the Syrian ci
 
 ### Source:
 
-1. [Reuters via ''Times of Oman](http://www.timesofoman.com/article/71503/World/Middle-East/Blasts-kill-23-in-Syrian-city-of-Latakia-as-state-TV-says-Syrian-army-has-not-reached-besieged-air-base)
-2. [UPI](http://www.upi.com/Top_News/US/2015/11/10/Militant-mortar-attack-on-Latakia-Syria-kills-dozens/5681447170445/)
+1. [UPI](http://www.upi.com/Top_News/US/2015/11/10/Militant-mortar-attack-on-Latakia-Syria-kills-dozens/5681447170445/)
+2. [Reuters via ''Times of Oman](http://www.timesofoman.com/article/71503/World/Middle-East/Blasts-kill-23-in-Syrian-city-of-Latakia-as-state-TV-says-Syrian-army-has-not-reached-besieged-air-base)
 
 ### Related:
 

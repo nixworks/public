@@ -7,8 +7,8 @@ At least seven people are killed and 630 others injured after violence breaks ou
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21220310)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/2013127195926600436.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/2013127195926600436.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21220310)
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/01/201312714020381782.html)
 4. [Ahram Online](http://english.ahram.org.eg/NewsContent/1/64/63428/Egypt/Politics-/UPDATE--Seven-die-Sunday-in-Port-Said-clashes.aspx)
 

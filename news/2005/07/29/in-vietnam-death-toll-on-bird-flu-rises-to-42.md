@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-29T024346Z_01_DIT908727_RTRUKOC_0_BIRDFLU-VIETNAM.xml)
-2. [Thahn Nien News](http://thanhniennews.com/healthy/?catid=8&newsid=8204)
+1. [Thahn Nien News](http://thanhniennews.com/healthy/?catid=8&newsid=8204)
+2. [Reuters AlertNet](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-29T024346Z_01_DIT908727_RTRUKOC_0_BIRDFLU-VIETNAM.xml)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [UNIAN](http://unian.net/eng/news/news-395761.html)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11297880)
 2. [Bloomberg](http://www.bloomberg.com/news/2010-09-14/ex-ukraine-minister-kravchenko-ordered-reporter-s-murder-prosecutor-says.html)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11297880)
+3. [UNIAN](http://unian.net/eng/news/news-395761.html)
 
 ### Related:
 

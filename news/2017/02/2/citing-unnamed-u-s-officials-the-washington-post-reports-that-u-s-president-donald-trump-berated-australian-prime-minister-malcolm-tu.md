@@ -7,8 +7,8 @@ U.S. President Donald Trump dispatched two top advisers to reassure Australia’
 
 ### Source:
 
-1. [Bloomberg Politics](https://www.bloomberg.com/politics/articles/2017-02-03/trump-sends-top-aides-to-placate-australia-after-testy-call)
-2. [The Washington Post](https://www.washingtonpost.com/world/national-security/no-gday-mate-on-call-with-australian-pm-trump-badgers-and-brags/2017/02/01/88a3bfb0-e8bf-11e6-80c2-30e57e57e05d_story.html?utm_term=.2bfefeeb046f)
+1. [The Washington Post](https://www.washingtonpost.com/world/national-security/no-gday-mate-on-call-with-australian-pm-trump-badgers-and-brags/2017/02/01/88a3bfb0-e8bf-11e6-80c2-30e57e57e05d_story.html?utm_term=.2bfefeeb046f)
+2. [Bloomberg Politics](https://www.bloomberg.com/politics/articles/2017-02-03/trump-sends-top-aides-to-placate-australia-after-testy-call)
 
 ### Related:
 

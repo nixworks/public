@@ -7,9 +7,9 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/2009915262522767.html)
-2. [New Straits Times](http://www.nst.com.my/Current_News/NST/articles/20090901161343/Article)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8231076.stm)
+1. [New Straits Times](http://www.nst.com.my/Current_News/NST/articles/20090901161343/Article)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8231076.stm)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/2009915262522767.html)
 
 ### Related:
 

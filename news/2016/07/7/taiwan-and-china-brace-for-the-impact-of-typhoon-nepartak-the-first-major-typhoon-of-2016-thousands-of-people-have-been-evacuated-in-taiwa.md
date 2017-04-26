@@ -7,9 +7,9 @@ Taiwan is experiencing extreme winds and lashing rains as the first typhoon of t
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/07/china-taiwan-brace-for-super-typhoon-after-dozens-killed-in-floo/)
+1. [CNN](http://www.cnn.com/2016/07/06/world/super-typhoon-nepartak-taiwan/index.html)
 2. [ABC News](http://www.abc.net.au/news/2016-07-07/thousands-flee-as-super-typhoon-nepartak-barrels-towards-taiwan/7577330)
-3. [CNN](http://www.cnn.com/2016/07/06/world/super-typhoon-nepartak-taiwan/index.html)
+3. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/07/china-taiwan-brace-for-super-typhoon-after-dozens-killed-in-floo/)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The President has signed the bill reconciling the Lisbon Treaty with the Constit
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKTRE59F16S20091016)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6877092.ece)
 2. [RTÉ](http://www.rte.ie/news/2009/1016/eulisbon.html)
-3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1083331&lang=eng_news)
-4. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6877092.ece)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE59F16S20091016)
+4. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1083331&lang=eng_news)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Fighting-between-Syrian-army-Islamic-State-kills-scores-442009)
-2. [BBC](http://www.bbc.com/news/uk-35358101)
+1. [BBC](http://www.bbc.com/news/uk-35358101)
+2. [Jerusalem Post](http://www.jpost.com/Breaking-News/Fighting-between-Syrian-army-Islamic-State-kills-scores-442009)
 
 ### Related:
 

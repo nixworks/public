@@ -7,11 +7,11 @@ The U.N. Security Council voted to extend the mandate for the mission to Darfur 
 
 ### Source:
 
-1. [Afrol](http://www.afrol.com/articles/36781)
-2. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/china-abstains-on-renewing-mandate-of-expert-panel-monitoring-sanctions-in-darfur-105003674.html)
+1. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFN1521121520101015)
+2. [Afrol](http://www.afrol.com/articles/36781)
 3. [UPI](http://www.upi.com/Top_News/Special/2010/10/15/UN-extends-mandate-for-Darfur/UPI-52701287163894/)
-4. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFN1521121520101015)
-5. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010101516941370819.html)
+4. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010101516941370819.html)
+5. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/china-abstains-on-renewing-mandate-of-expert-panel-monitoring-sanctions-in-darfur-105003674.html)
 
 ### Related:
 

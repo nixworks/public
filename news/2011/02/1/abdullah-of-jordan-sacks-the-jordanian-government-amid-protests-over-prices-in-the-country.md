@@ -7,9 +7,9 @@ Monarch asks ex-army general to form new government in the wake of streets prote
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112113957115258.html)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/01/c_13716520.htm)
 2. [M&C](http://www.monstersandcritics.com/news/middleeast/news/article_1616224.php/Jordanian-government-resigns-Urgent)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/01/c_13716520.htm)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112113957115258.html)
 
 ### Related:
 

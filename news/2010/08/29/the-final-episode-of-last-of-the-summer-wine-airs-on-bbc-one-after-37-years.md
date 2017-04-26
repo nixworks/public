@@ -8,8 +8,8 @@ Michael Deacon reviews the last ever episode of The Last of the Summer Wine (BBC
 ### Source:
 
 1. [Daily Mail](http://www.dailymail.co.uk/debate/article-1307257/Oh-WILL-I-grumpy-old-men--And-broom-wielding-battleaxes.html?ito=feeds-newsxml)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/tvandradio/7968500/Last-of-the-Summer-Wine-BBC-One-review.html)
-3. [The Guardian](http://www.guardian.co.uk/tv-and-radio/2010/aug/29/last-of-the-summer-wine-ends)
+2. [The Guardian](http://www.guardian.co.uk/tv-and-radio/2010/aug/29/last-of-the-summer-wine-ends)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/culture/tvandradio/7968500/Last-of-the-Summer-Wine-BBC-One-review.html)
 
 ### Related:
 

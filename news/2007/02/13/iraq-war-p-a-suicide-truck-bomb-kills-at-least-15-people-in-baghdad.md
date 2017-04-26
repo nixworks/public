@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/WORLD/meast/02/13/iraq.main/index.html?section=cnn_latest)
-2. [CBS](http://www.cbsnews.com/stories/2007/02/13/ap/world/mainD8N91F780.shtml)
-3. [RFE/RL](http://www.rferl.org/featuresarticle/2007/2/097675C3-1030-4CC1-92E9-2FB8ADB189FB.html)
-4. [AP via San Jose Mercury News](http://www.mercurynews.com/mld/mercurynews/news/world/16686818.htm)
+1. [AP via San Jose Mercury News](http://www.mercurynews.com/mld/mercurynews/news/world/16686818.htm)
+2. [RFE/RL](http://www.rferl.org/featuresarticle/2007/2/097675C3-1030-4CC1-92E9-2FB8ADB189FB.html)
+3. [CNN](http://edition.cnn.com/2007/WORLD/meast/02/13/iraq.main/index.html?section=cnn_latest)
+4. [CBS](http://www.cbsnews.com/stories/2007/02/13/ap/world/mainD8N91F780.shtml)
 
 ### Related:
 

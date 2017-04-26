@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/8edddda4-f616-11df-a313-00144feab49a.html)
-2. [China Daily](http://www.chinadaily.com.cn/world/2010-11/22/content_11591186.htm)
+1. [China Daily](http://www.chinadaily.com.cn/world/2010-11/22/content_11591186.htm)
+2. [Financial Times](http://www.ft.com/cms/s/0/8edddda4-f616-11df-a313-00144feab49a.html)
 3. [Korea Herald](http://www.koreaherald.com/national/Detail.jsp?newsMLId=20101122000853)
 
 ### Related:

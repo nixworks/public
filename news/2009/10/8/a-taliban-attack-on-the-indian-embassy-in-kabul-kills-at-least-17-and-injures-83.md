@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/news/world/kabul_attack_taliban_claims_responsibility.php)
+1. [The Hindu](http://www.hindu.com/2009/10/09/stories/2009100960480100.htm)
 2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26185731-2703,00.html)
-3. [The Hindu](http://www.hindu.com/2009/10/09/stories/2009100960480100.htm)
+3. [NDTV](http://www.ndtv.com/news/world/kabul_attack_taliban_claims_responsibility.php)
 
 ### Related:
 

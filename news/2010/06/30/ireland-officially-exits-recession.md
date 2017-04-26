@@ -7,11 +7,11 @@ Figures from the CSO show that the Irish economy technically emerged from recess
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/business/news/ireland-out-of-recession-as-exports-jump-2015128.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/financetopics/financialcrisis/7863288/Ireland-finally-emerges-from-recession.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/10460207.stm)
-3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748703426004575338433422665358.html?mod=googlenews_wsj)
-4. [RTÉ](http://www.rte.ie/news/2010/0630/economy.html)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/finance/financetopics/financialcrisis/7863288/Ireland-finally-emerges-from-recession.html)
+3. [RTÉ](http://www.rte.ie/news/2010/0630/economy.html)
+4. [The Independent](http://www.independent.co.uk/news/business/news/ireland-out-of-recession-as-exports-jump-2015128.html)
+5. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748703426004575338433422665358.html?mod=googlenews_wsj)
 
 ### Related:
 

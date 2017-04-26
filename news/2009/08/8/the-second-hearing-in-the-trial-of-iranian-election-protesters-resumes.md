@@ -8,8 +8,8 @@ French student and two staff from Western embassies among those in the dock.
 ### Source:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=102827&sectionid=351020101)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-08/08/content_11847420.htm)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098843439590151.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098843439590151.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-08/08/content_11847420.htm)
 
 ### Related:
 

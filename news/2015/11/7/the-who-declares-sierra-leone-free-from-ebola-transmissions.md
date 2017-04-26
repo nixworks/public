@@ -8,8 +8,8 @@ The&#x20;World&#x20;Health&#x20;Organization&#x20;declared&#x20;Sierra&#x20;Leon
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-africa-34755170)
-2. [New York Times](http://www.nytimes.com/2015/11/08/world/africa/sierra-leone-declared-free-of-ebola-transmissions.html)
-3. [France 24](http://www.france24.com/en/20151107-sierra-leone-be-declared-free-ebola-world-health-organisation)
+2. [France 24](http://www.france24.com/en/20151107-sierra-leone-be-declared-free-ebola-world-health-organisation)
+3. [New York Times](http://www.nytimes.com/2015/11/08/world/africa/sierra-leone-declared-free-of-ebola-transmissions.html)
 
 ### Related:
 

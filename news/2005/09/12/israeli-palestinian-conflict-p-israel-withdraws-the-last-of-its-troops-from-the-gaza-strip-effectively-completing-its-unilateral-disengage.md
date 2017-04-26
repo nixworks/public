@@ -7,15 +7,15 @@ Foreign minister says PA failed first test, as Palestinian mobs raid evacuated G
 
 ### Source:
 
-1. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3140767,00.html)
-2. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-09-12T140205Z_01_SCH033455_RTRIDST_0_NEWS-MIDEAST-DC.XML)
+1. [Ha’aretz](http://www.haaretz.com/hasen/spages/623842.html)
+2. [Ha’aretz](http://www.haaretz.com/hasen/spages/623605.html)
 3. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3141107,00.html)
-4. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1126405205939)
-5. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1126405205480&p=1078027574097)
-6. [Ha’aretz](http://www.haaretz.com/hasen/spages/623605.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4238000.stm)
+5. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-09-12T140205Z_01_SCH033455_RTRIDST_0_NEWS-MIDEAST-DC.XML)
+6. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1126405205480&p=1078027574097)
 7. [CNN](http://edition.cnn.com/2005/WORLD/meast/09/12/gaza/)
-8. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4238000.stm)
-9. [Ha’aretz](http://www.haaretz.com/hasen/spages/623842.html)
+8. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1126405205939)
+9. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3140767,00.html)
 
 ### Related:
 

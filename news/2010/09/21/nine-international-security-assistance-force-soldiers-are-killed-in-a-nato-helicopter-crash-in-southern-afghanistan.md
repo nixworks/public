@@ -7,9 +7,9 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/world/2010-09/21/content_11334561.htm)
+1. [AFP via ''National Post](http://www.nationalpost.com/news/Nine+NATO+troops+killed+Afghanistan+helicopter+crash/3553289/story.html)
 2. [New York Times](http://www.nytimes.com/2010/09/22/world/asia/22afghan.html?_r=1)
-3. [AFP via ''National Post](http://www.nationalpost.com/news/Nine+NATO+troops+killed+Afghanistan+helicopter+crash/3553289/story.html)
+3. [China Daily](http://www.chinadaily.com.cn/world/2010-09/21/content_11334561.htm)
 4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/09/21/afghanistan.chopper.crash/)
 
 ### Related:

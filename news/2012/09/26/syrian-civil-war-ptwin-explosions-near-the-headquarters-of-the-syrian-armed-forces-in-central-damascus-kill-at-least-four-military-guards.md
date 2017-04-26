@@ -7,10 +7,10 @@ Rebels say dozens dead while Syrian military claims guards only wounded and top 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/sep/26/syrian-tv-journalist-dead-damascus)
-2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/09/20129267210189122.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/09/20129267210189122.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/09/201292645421649378.html)
 3. [TIME](http://www.timeslive.co.za/world/2012/09/26/more-than-40-syrians-massacred-outside-capital--activists)
-4. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/09/201292645421649378.html)
+4. [The Guardian](http://www.guardian.co.uk/world/2012/sep/26/syrian-tv-journalist-dead-damascus)
 
 ### Related:
 

@@ -7,8 +7,8 @@ CHINA has started scanning text messages in the latest move to step up censorshi
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/technology/chinese-censors-take-aim-at-texts-20100117-mee2.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011883518837762.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011883518837762.html)
+2. [The Sydney Morning Herald](http://www.smh.com.au/technology/chinese-censors-take-aim-at-texts-20100117-mee2.html)
 
 ### Related:
 

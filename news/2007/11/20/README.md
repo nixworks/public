@@ -7,7 +7,7 @@ _Context: 2007 Pakistani state of emergency, Pakistan, Pakistan Army, Qazi Moham
 _Context: France, Nicolas Sarkozy, economic, president, public-sector strikes, reform_
 
 ### [ Israeli-Palestinian conflict: The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/israeli-palestinian-conflict-p-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-fo.md)
-_Context: 2007 Mideast peace conference, Ehud Olmert, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority, prime minister of Israel_
+_Context: 2007 Mideast peace conference, Ehud Olmert, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority, Prime Minister of Israel_
 
 ### [ The Cambodia Tribunal holds its first public hearing, evaluating a bail request by Khang Khek Ieu. ](/news/2007/11/20/the-cambodia-tribunal-holds-its-first-public-hearing-evaluating-a-bail-request-by-khang-khek-ieu.md)
 _Context: Cambodia Tribunal, Khang Khek Ieu, bail, public hearing_
@@ -34,7 +34,7 @@ _Context: Bangladesh, cyclone Sidr, international aid_
 _Context: twelve days earlier_
 
 ### [ Manouchehr Mottaki, the Iranian Minister of Foreign Affairs, announces Iran has agreed to a new round of talks about Iraq with the United States. ](/news/2007/11/20/manouchehr-mottaki-the-iranian-minister-of-foreign-affairs-announces-iran-has-agreed-to-a-new-round-of-talks-about-iraq-with-the-united-s.md)
-_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, United States_
+_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, U.S._
 
 ### [ The United Nations reduces its estimate of how many people are infected with HIV in 2007 from nearly 40 million to 33 million. ](/news/2007/11/20/the-united-nations-reduces-its-estimate-of-how-many-people-are-infected-with-hiv-in-2007-from-nearly-40-million-to-33-million.md)
 _Context: HIV, United Nations_

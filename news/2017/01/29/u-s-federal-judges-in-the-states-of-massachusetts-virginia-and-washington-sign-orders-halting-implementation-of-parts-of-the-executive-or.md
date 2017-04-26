@@ -7,9 +7,9 @@ Federal judges in three states have followed one in New York in barring authorit
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/01/29/us/politics/white-house-official-in-reversal-says-green-card-holders-wont-be-barred.html?&hp&action=click&pgtype=Homepage&clickSource=story-heading&module=span-ab-top-region&region=top-news&WT.nav=top-news&_r=0)
-2. [New York Daily News](http://www.nydailynews.com/news/politics/federal-judges-pile-orders-opposing-trump-travel-bans-article-1.2958793)
-3. [Reuters via News.com.au](http://www.news.com.au/world/breaking-news/trumps-ban-to-stay-homeland-security/news-story/cf3f80c08778592a6b90b66ac80c70a4)
+1. [Reuters via News.com.au](http://www.news.com.au/world/breaking-news/trumps-ban-to-stay-homeland-security/news-story/cf3f80c08778592a6b90b66ac80c70a4)
+2. [The New York Times](https://www.nytimes.com/2017/01/29/us/politics/white-house-official-in-reversal-says-green-card-holders-wont-be-barred.html?&hp&action=click&pgtype=Homepage&clickSource=story-heading&module=span-ab-top-region&region=top-news&WT.nav=top-news&_r=0)
+3. [New York Daily News](http://www.nydailynews.com/news/politics/federal-judges-pile-orders-opposing-trump-travel-bans-article-1.2958793)
 
 ### Related:
 

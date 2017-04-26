@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-03/28/content_9653097.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8591547.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8591547.stm)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-03/28/content_9653097.htm)
 
 ### Related:
 

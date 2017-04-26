@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/6297093.stm)
-2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2007-01-25T031401Z_01_N24164332_RTRUKOC_0_US-ECUADOR-MINISTER.xml&WTmodLoc=Home-C2-TopNews-newsOne-4)
+1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2007-01-25T031401Z_01_N24164332_RTRUKOC_0_US-ECUADOR-MINISTER.xml&WTmodLoc=Home-C2-TopNews-newsOne-4)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/6297093.stm)
 
 ### Related:
 

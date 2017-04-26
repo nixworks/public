@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4144695.stm)
-2. [BBC](http://news.bbc.co.uk/media/news_web/video/40687000/bb/40687531_bb_16x9.asx)
-3. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1383284,00.html)
+2. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1383284,00.html)
+3. [BBC](http://news.bbc.co.uk/media/news_web/video/40687000/bb/40687531_bb_16x9.asx)
 
 ### Related:
 

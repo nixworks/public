@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSCOL02152020070613?feedType=RSS)
-2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/YAT321290.htm)
+1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/YAT321290.htm)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSCOL02152020070613?feedType=RSS)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6747419.stm)
 
 ### Related:

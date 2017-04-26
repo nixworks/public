@@ -7,9 +7,9 @@ Pro-Gaddaffi forces have been seen roaming the streets of Misurata wearing gas m
 
 ### Source:
 
-1. [Times of Malta](http://www.timesofmalta.com/articles/view/20110501/world/gas-masks.363135)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218672)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-13253896)
+1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218672)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-13253896)
+3. [Times of Malta](http://www.timesofmalta.com/articles/view/20110501/world/gas-masks.363135)
 
 ### Related:
 

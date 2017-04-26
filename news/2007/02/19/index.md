@@ -28,7 +28,7 @@ _Context: Iraq War, Ramadi, car bomb, suicide bomb attack_
 _Context: India, New Delhi, Pakistan, Samjhauta Express, Samjhauta Express bombings_
 
 ### [ United States Secretary of State Condoleezza Rice meets with the Prime Minister of Israel Ehud Olmert and the President of the Palestinian National Authority Mahmoud Abbas. ](/news/2007/02/19/united-states-secretary-of-state-condoleezza-rice-meets-with-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian.md)
-_Context: Condoleezza Rice, Ehud Olmert, Mahmoud Abbas, Palestinian Authority President, United States Secretary of State, prime minister of Israel_
+_Context: Condoleezza Rice, Ehud Olmert, Mahmoud Abbas, Palestinian Authority President, Prime Minister of Israel, United States Secretary of State_
 
 ### [ New Jersey becomes the third U.S. state to offer civil unions to homosexual couples, including all the rights and responsibilities of heterosexual marriage. ](/news/2007/02/19/new-jersey-becomes-the-third-u-s-state-to-offer-civil-unions-to-homosexual-couples-including-all-the-rights-and-responsibilities-of-heter.md)
 The stroke of midnight ushered in a new era for same-sex couples in the Garden State.

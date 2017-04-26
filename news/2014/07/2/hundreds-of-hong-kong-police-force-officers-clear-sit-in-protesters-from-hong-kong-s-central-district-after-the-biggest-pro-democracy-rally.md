@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2014-07-01/thousands-to-protest-on-anniversary-of-hong-kong-return-to-china.html)
-2. [AP](http://bigstory.ap.org/article/big-hk-democracy-rally-fueled-fury-beijing)
+1. [AP](http://bigstory.ap.org/article/big-hk-democracy-rally-fueled-fury-beijing)
+2. [Bloomberg](http://www.bloomberg.com/news/2014-07-01/thousands-to-protest-on-anniversary-of-hong-kong-return-to-china.html)
 
 ### Related:
 

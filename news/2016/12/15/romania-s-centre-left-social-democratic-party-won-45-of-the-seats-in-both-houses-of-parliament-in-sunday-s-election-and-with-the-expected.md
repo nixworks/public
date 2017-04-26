@@ -7,8 +7,8 @@ Six political parties will be represented in Romania’s Parliament after the De
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/romania-election-parliament-idINR5N18K008)
-2. [Romania-Insider.com](http://www.romania-insider.com/social-democrats-get-221-465-seats-romanias-new-parliament/)
+1. [Romania-Insider.com](http://www.romania-insider.com/social-democrats-get-221-465-seats-romanias-new-parliament/)
+2. [Reuters](http://in.reuters.com/article/romania-election-parliament-idINR5N18K008)
 
 ### Related:
 

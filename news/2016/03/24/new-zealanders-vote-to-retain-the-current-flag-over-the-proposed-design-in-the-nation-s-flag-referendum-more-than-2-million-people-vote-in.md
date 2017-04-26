@@ -7,9 +7,9 @@ Prime Minister John Key says he is disappointed New Zealanders have voted to kee
 
 ### Source:
 
-1. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11611333)
-2. [The Guardian](http://www.theguardian.com/world/2016/mar/24/new-zealand-votes-to-keep-its-flag-in-referendum)
-3. [Radio New Zealand](http://www.radionz.co.nz/news/national/299860/nz-flag-results-current-flag-to-stay)
+1. [The Guardian](http://www.theguardian.com/world/2016/mar/24/new-zealand-votes-to-keep-its-flag-in-referendum)
+2. [Radio New Zealand](http://www.radionz.co.nz/news/national/299860/nz-flag-results-current-flag-to-stay)
+3. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11611333)
 
 ### Related:
 

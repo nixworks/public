@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-09/07/content_12010187.htm)
-2. [RIA Novosti](http://en.rian.ru/world/20090907/156047157.html)
-3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/09/07/15/0401000000AEN20090907005500315F.HTML)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/09/07/15/0401000000AEN20090907005500315F.HTML)
+3. [RIA Novosti](http://en.rian.ru/world/20090907/156047157.html)
 
 ### Related:
 

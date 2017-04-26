@@ -9,9 +9,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 1. [The Guardian](http://www.guardian.co.uk/sport/2009/jul/28/england-world-cup-rugby-union-2015)
 2. [RTÉ](http://www.rte.ie/sport/rugby/2009/0728/rugbyworldcup.html)
-3. [BBC](http://news.bbc.co.uk/sport2/hi/rugby_union/8170488.stm)
-4. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1016024&lang=eng_news)
-5. [The Times](http://www.timesonline.co.uk/tol/sport/rugby_union/article6730543.ece)
+3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1016024&lang=eng_news)
+4. [The Times](http://www.timesonline.co.uk/tol/sport/rugby_union/article6730543.ece)
+5. [BBC](http://news.bbc.co.uk/sport2/hi/rugby_union/8170488.stm)
 
 ### Related:
 

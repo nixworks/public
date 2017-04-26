@@ -7,8 +7,8 @@ The mayor of the northern Mexican city of Santiago has been abducted, police say
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/world/2010-08/17/content_11161274.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10994343)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10994343)
+2. [China Daily](http://www.chinadaily.com.cn/world/2010-08/17/content_11161274.htm)
 
 ### Related:
 

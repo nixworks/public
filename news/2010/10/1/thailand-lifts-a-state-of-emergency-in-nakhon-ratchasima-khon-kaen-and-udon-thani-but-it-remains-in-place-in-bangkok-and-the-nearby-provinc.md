@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/109510.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i-tUOxu2xIXNMPUYAJ_oZMmyuKrw?docId=CNG.27a028ad8f0542cd7177615afc42a4d3.601)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i-tUOxu2xIXNMPUYAJ_oZMmyuKrw?docId=CNG.27a028ad8f0542cd7177615afc42a4d3.601)
+2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/109510.html)
 
 ### Related:
 

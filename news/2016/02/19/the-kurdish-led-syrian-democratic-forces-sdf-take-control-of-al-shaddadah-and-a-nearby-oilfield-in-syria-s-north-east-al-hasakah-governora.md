@@ -7,8 +7,8 @@ A Kurdish-led force backed by US-led air strikes has seized an Isis stronghold i
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/middle-east/kurdish-led-force-seizes-isis-stronghold-in-northeast-syria-a6884661.html)
-2. [Der Spiegel](http://www.spiegel.de/politik/ausland/syrien-saudi-arabien-will-rebellen-mit-boden-luft-raketen-ausstatten-a-1078295.html)
+1. [Der Spiegel](http://www.spiegel.de/politik/ausland/syrien-saudi-arabien-will-rebellen-mit-boden-luft-raketen-ausstatten-a-1078295.html)
+2. [The Independent](http://www.independent.co.uk/news/world/middle-east/kurdish-led-force-seizes-isis-stronghold-in-northeast-syria-a6884661.html)
 
 ### Related:
 

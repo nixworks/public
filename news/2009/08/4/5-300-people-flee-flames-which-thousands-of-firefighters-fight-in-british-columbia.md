@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/stories/2009/08/03/ap/canada/main5210454.shtml)
-2. [Canada.com](http://www.canada.com/news/Thousands+flee+wildfires+ravage/1855847/story.html)
-3. [National Post](http://www.nationalpost.com/news/story.html?id=1858095)
-4. [BBC](http://news.bbc.co.uk/2/hi/americas/8183299.stm)
+1. [Canada.com](http://www.canada.com/news/Thousands+flee+wildfires+ravage/1855847/story.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8183299.stm)
+3. [CBS News](http://www.cbsnews.com/stories/2009/08/03/ap/canada/main5210454.shtml)
+4. [National Post](http://www.nationalpost.com/news/story.html?id=1858095)
 
 ### Related:
 

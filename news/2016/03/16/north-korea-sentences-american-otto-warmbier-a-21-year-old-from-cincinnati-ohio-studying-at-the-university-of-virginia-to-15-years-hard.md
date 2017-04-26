@@ -8,8 +8,8 @@ White House calls for leniency and release of Otto Warmbier, 21, convicted of â€
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/mar/16/north-korea-sentences-us-student-to-15-years-hard-labour)
-2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/03/16/north-korea-sentences-u-va-student-to-15-years-of-hard-labor-in-prison/?wpmm=1&wpisrc=nl_headlines)
-3. [AP](http://bigstory.ap.org/article/d090a54b2358491182c681bb86045d71/obama-orders-new-sanctions-against-north-korea-response)
+2. [AP](http://bigstory.ap.org/article/d090a54b2358491182c681bb86045d71/obama-orders-new-sanctions-against-north-korea-response)
+3. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/03/16/north-korea-sentences-u-va-student-to-15-years-of-hard-labor-in-prison/?wpmm=1&wpisrc=nl_headlines)
 
 ### Related:
 

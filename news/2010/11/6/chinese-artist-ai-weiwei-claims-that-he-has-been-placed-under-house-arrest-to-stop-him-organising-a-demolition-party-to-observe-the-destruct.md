@@ -7,8 +7,8 @@ Chinese artist Ai Weiwei says he has been placed under house arrest to prevent h
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11703775)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/06/china.artist.house.arrest/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/06/china.artist.house.arrest/index.html?eref=edition)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11703775)
 
 ### Related:
 

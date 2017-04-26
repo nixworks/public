@@ -7,9 +7,9 @@ Prince William spoke of his pride today in representing his grandmother, the Que
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/7009839/Prince-William-proud-to-represent-the-Queen.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8463840.stm)
 2. [The Independent](http://www.independent.co.uk/news/world/australasia/prince-william-begins-first-official-overseas-trip-1870590.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8463840.stm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/7009839/Prince-William-proud-to-represent-the-Queen.html)
 
 ### Related:
 

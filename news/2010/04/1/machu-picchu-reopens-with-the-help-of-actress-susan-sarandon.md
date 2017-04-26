@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/apr/01/machu-picchu-rail-link-reopens)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8598154.stm)
-3. [Channel 4 News](http://www.channel4.com/news/articles/world/floodhit+machu+picchu+reopens/3599162)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8598154.stm)
+2. [Channel 4 News](http://www.channel4.com/news/articles/world/floodhit+machu+picchu+reopens/3599162)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/apr/01/machu-picchu-rail-link-reopens)
 
 ### Related:
 

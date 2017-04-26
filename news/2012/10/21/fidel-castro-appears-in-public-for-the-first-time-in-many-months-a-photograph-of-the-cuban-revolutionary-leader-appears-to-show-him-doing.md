@@ -7,8 +7,8 @@ A Venezuelan politician confirms reports by Cuban hotel staff that Fidel Castro 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-20024018)
-2. [CNN](http://us.cnn.com/2012/10/21/world/americas/cuba-castro/index.html?hpt=hp_t2)
+1. [CNN](http://us.cnn.com/2012/10/21/world/americas/cuba-castro/index.html?hpt=hp_t2)
+2. [BBC](http://www.bbc.com/news/world-latin-america-20024018)
 
 ### Related:
 

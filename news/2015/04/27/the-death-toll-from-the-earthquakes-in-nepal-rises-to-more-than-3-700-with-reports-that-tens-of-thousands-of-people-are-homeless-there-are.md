@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3057224/Death-toll-Nepal-quake-reaches-3-726--official.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-26-AS-Nepal-Earthquake/id-165f58e591e846b883cb717320b08d51)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-26-AS-Nepal-Earthquake/id-165f58e591e846b883cb717320b08d51)
+2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3057224/Death-toll-Nepal-quake-reaches-3-726--official.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 
 ### Related:
 

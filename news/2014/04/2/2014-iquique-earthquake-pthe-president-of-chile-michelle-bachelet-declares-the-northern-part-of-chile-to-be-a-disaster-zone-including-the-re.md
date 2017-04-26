@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000p27i#summary)
-2. [ABC News Australia](http://www.abc.net.au/news/2014-04-02/chile-earthquake-five-dead-disaster-declared-in-north/5362644)
+1. [ABC News Australia](http://www.abc.net.au/news/2014-04-02/chile-earthquake-five-dead-disaster-declared-in-north/5362644)
+2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000p27i#summary)
 
 ### Related:
 

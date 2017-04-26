@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2930202)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gD9oGvc0WOUWtWTLwboTzQ_JgoPg?docId=CNG.3867fd364625dac2c8503804f0825e3c.4b1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gD9oGvc0WOUWtWTLwboTzQ_JgoPg?docId=CNG.3867fd364625dac2c8503804f0825e3c.4b1)
+2. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2930202)
 
 ### Related:
 

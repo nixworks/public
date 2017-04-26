@@ -8,8 +8,8 @@ It won&#039;t go down as the greatest grand final, and certainly won&#039;t be c
 ### Source:
 
 1. [Daily Telegraph](http://www.dailytelegraph.com.au/sport/nrl/storm-win-is-proof-the-players-had-not-been-dragged-down-by-the-baggage-of-the-2010-salary-cap-drama/story-e6frexnr-1226484940707)
-2. [Sydney Morning Herald](http://www.smh.com.au/rugby-league/league-match-report/redemption-tastes-sweet-for-bellamys-resilient-men-20120930-26tjk.html)
-3. [NRL](http://www.nrl.com/storm-get-an-nrl-title-to-keep/tabid/11149/newsid/70135/default.aspx)
+2. [NRL](http://www.nrl.com/storm-get-an-nrl-title-to-keep/tabid/11149/newsid/70135/default.aspx)
+3. [Sydney Morning Herald](http://www.smh.com.au/rugby-league/league-match-report/redemption-tastes-sweet-for-bellamys-resilient-men-20120930-26tjk.html)
 
 ### Related:
 

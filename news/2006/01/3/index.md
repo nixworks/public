@@ -2,7 +2,7 @@
 
 ### [ U.S. pilots targeting a house outside of Baghdad where they believed insurgents had taken shelter killed a family of 12. ](/news/2006/01/3/u-s-pilots-targeting-a-house-outside-of-baghdad-where-they-believed-insurgents-had-taken-shelter-killed-a-family-of-12.md)
 ### [ Israeli television claims that Police in Tel Aviv found evidence that proves Prime Minister of Israel Ariel Sharon's family took bribes while Sharon was running for the leadership of the Likud Party. An aide dismissed the allegations. ](/news/2006/01/3/israeli-television-claims-that-police-in-tel-aviv-found-evidence-that-proves-prime-minister-of-israel-ariel-sharon-s-family-took-bribes-whi.md)
-_Context: Ariel Sharon, Israel, Likud Party, Tel Aviv, prime minister of Israel_
+_Context: Ariel Sharon, Israel, Likud Party, Prime Minister of Israel, Tel Aviv_
 
 ### [ Sago Mine disaster: In West Virginia, US, family members now say only one trapped miner has been brought out alive from the collapsed coal mine. All 12 others are dead. Earlier news reports, at approximately {{Nowrap|10:30 p.m.}} EST, indicated that 12 miners were found alive. Rescue crews found one body late Tuesday after 13 miners were trapped following an explosion on Monday. ](/news/2006/01/3/sago-mine-disaster-in-west-virginia-us-family-members-now-say-only-one-trapped-miner-has-been-brought-out-alive-from-the-collapsed-coal.md)
 Get the latest breaking news across the U.S. on ABCNews.com

@@ -8,9 +8,9 @@ Moments before he was supposed to be taken off, Mario Gomez headed in the winnin
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/20126922139994632.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/18383678)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/18139099)
 3. [BBC](http://www.bbc.co.uk/sport/0/football/18138777)
-4. [BBC](http://www.bbc.co.uk/sport/0/football/18139099)
+4. [BBC](http://www.bbc.co.uk/sport/0/football/18383678)
 
 ### Related:
 

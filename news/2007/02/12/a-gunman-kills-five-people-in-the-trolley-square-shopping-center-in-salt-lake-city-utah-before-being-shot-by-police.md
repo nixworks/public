@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Salt Lake Tribune](http://www.sltrib.com/ci_5215006)
-2. [CNN](http://www.cnn.com/2007/US/02/12/salt.lake.shooting/index.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/6356071.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/6356071.stm)
+3. [CNN](http://www.cnn.com/2007/US/02/12/salt.lake.shooting/index.html)
 4. [KUTV-CBS](http://kutv.com/topstories/local_story_043212315.html)
 5. [KSL-NBC](http://www.ksl.com/?nid=148&sid=888784)
 

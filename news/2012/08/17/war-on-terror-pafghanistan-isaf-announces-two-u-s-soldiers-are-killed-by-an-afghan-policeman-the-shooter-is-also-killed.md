@@ -7,8 +7,8 @@ Two US soldiers are shot dead by a local policeman in Afghanistan, officials for
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/17/us-afghanistan-taliban-idUSBRE87G05C20120817)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-19292745)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-19292745)
+2. [Reuters](http://www.reuters.com/article/2012/08/17/us-afghanistan-taliban-idUSBRE87G05C20120817)
 
 ### Related:
 

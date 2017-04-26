@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4383556.stm)
-2. [IMEMC](http://www.imemc.org/index.php?option=com_content&task=view&id=14652&Itemid=1)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4381006.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4381006.stm)
+3. [IMEMC](http://www.imemc.org/index.php?option=com_content&task=view&id=14652&Itemid=1)
 
 ### Related:
 

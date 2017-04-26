@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158815/1/.html)
+1. [Index](http://www.indexonline.org/en/indexindex/articles/2005/3/thailand-proposed-executive-decree-would-thr.shtml)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/BKK118908.htm)
-3. [Index](http://www.indexonline.org/en/indexindex/articles/2005/3/thailand-proposed-executive-decree-would-thr.shtml)
+3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158815/1/.html)
 
 ### Related:
 

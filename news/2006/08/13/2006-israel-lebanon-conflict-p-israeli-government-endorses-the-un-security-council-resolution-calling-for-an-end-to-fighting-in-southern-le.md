@@ -7,10 +7,10 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2006/08/12/annan_mideast_cease_fire_starts_monday)
+1. [Haaretz](http://haaretz.com/hasen/spages/750015.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4788523.stm)
-3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-13T104201Z_01_BLA337385_RTRUKOC_0_US-MIDEAST-IRAN-LEBANON.xml&WTmodLoc=Home-C2-TopNews-newsOne-7)
-4. [Haaretz](http://haaretz.com/hasen/spages/750015.html)
+3. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2006/08/12/annan_mideast_cease_fire_starts_monday)
+4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-08-13T104201Z_01_BLA337385_RTRUKOC_0_US-MIDEAST-IRAN-LEBANON.xml&WTmodLoc=Home-C2-TopNews-newsOne-7)
 
 ### Related:
 

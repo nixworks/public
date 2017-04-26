@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE59A0YW20091011)
-2. [Times of India](http://timesofindia.indiatimes.com/world/europe/Pope-canonizes-5-new-saints/articleshow/5112362.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/world/europe/Pope-canonizes-5-new-saints/articleshow/5112362.cms)
+2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE59A0YW20091011)
 
 ### Related:
 

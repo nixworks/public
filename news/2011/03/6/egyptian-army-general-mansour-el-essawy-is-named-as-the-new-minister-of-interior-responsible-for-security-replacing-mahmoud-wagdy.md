@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo! Canada](http://ca.news.yahoo.com/egypt-appoints-post-mubarak-interior-minister-20110305-173612-282.html)
-2. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/06/140396.html)
+1. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/06/140396.html)
+2. [Reuters via Yahoo! Canada](http://ca.news.yahoo.com/egypt-appoints-post-mubarak-interior-minister-20110305-173612-282.html)
 
 ### Related:
 

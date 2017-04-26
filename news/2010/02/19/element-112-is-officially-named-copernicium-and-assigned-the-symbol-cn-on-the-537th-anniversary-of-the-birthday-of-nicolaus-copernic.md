@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC] and [http://www.iupac.org/web/nt/2010-02-20_112_Copernicium IUPAC](http://news.bbc.co.uk/2/hi/science/nature/8153596.stm)
-2. [RiaNovosti](http://en.rian.ru/science/20100219/157944944.html)
-3. [Der Spiegel](http://www.spiegel.de/wissenschaft/natur/0,1518,679078,00.html)
+2. [Der Spiegel](http://www.spiegel.de/wissenschaft/natur/0,1518,679078,00.html)
+3. [RiaNovosti](http://en.rian.ru/science/20100219/157944944.html)
 
 ### Related:
 

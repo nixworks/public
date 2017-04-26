@@ -7,8 +7,8 @@ Consumer versions of new operating system went on sale in stores -- and on Inter
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/story/0,2933,248228,00.html)
-2. [New Zealand Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=5&objectid=10421353)
+1. [New Zealand Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=5&objectid=10421353)
+2. [Fox News](http://www.foxnews.com/story/0,2933,248228,00.html)
 
 ### Related:
 

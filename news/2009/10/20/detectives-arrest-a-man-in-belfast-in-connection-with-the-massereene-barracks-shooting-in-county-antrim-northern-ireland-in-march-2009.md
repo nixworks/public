@@ -7,8 +7,8 @@ Detectives investigating the murders of two British soldiers in Co Antrim in Mar
 
 ### Source:
 
-1. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5j9obMgS2AwW4Tq2WmrXdLqkpmN2g)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8317094.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8317094.stm)
+2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5j9obMgS2AwW4Tq2WmrXdLqkpmN2g)
 3. [RTÉ](http://www.rte.ie/news/2009/1020/massereene.html)
 
 ### Related:

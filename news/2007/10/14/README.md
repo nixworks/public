@@ -7,7 +7,7 @@ _Context: India, Ludhiana, Punjab, bomb, movie theatre_
 _Context: Democratic Party, Italian, Mayor of Rome, Walter Veltroni_
 
 ### [ The Attorney-General of Israel launches a third criminal inquiry  into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he.md)
-_Context: Ehud Olmert, Israel, Prime Minister, prime minister of Israel_
+_Context: Ehud Olmert, Israel, Prime Minister, Prime Minister of Israel_
 
 ### [ Burma restores some Internet access but continues to deny access to foreign news services such as the BBC and CNN, blogs and dissident sites. ](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.md)
 _Context: BBC, Burma, CNN, Internet, blog_

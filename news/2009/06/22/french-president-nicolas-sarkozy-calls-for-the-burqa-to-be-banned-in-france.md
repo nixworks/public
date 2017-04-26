@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/World/Burqa-not-welcome-in-France-Sarkozy/articleshow/4688623.cms)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8112821.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8112821.stm)
+2. [The Times of India](http://timesofindia.indiatimes.com/World/Burqa-not-welcome-in-France-Sarkozy/articleshow/4688623.cms)
 
 ### Related:
 

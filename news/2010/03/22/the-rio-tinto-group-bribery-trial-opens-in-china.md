@@ -7,8 +7,8 @@ Australia says trial on charges of bribery and theft of secrets will be closely 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8579276.stm)
-2. [Al Jazeera](http://english.aljazeera.net/business/2010/03/2010322325645832.html)
+1. [Al Jazeera](http://english.aljazeera.net/business/2010/03/2010322325645832.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8579276.stm)
 
 ### Related:
 

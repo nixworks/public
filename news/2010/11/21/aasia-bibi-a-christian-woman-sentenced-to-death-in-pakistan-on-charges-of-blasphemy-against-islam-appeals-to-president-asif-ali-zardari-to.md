@@ -7,10 +7,10 @@ A Christian woman sentenced to death in Pakistan on charges of blasphemy has app
 
 ### Source:
 
-1. [Sify](http://sify.com/news/blasphemy-accused-pak-christian-woman-seeks-president-s-mercy-news-international-klvn4icgebh.html)
-2. [Dawn](http://www.dawn.com/2010/11/21/blasphemy-convict-gives-mercy-plea-to-taseer-2.html)
-3. [The Nation](http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/Politics/21-Nov-2010/Condemned-Christian-woman-seeks-mercy)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/20/AR2010112003606.html)
+1. [Dawn](http://www.dawn.com/2010/11/21/blasphemy-convict-gives-mercy-plea-to-taseer-2.html)
+2. [Sify](http://sify.com/news/blasphemy-accused-pak-christian-woman-seeks-president-s-mercy-news-international-klvn4icgebh.html)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/20/AR2010112003606.html)
+4. [The Nation](http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/Politics/21-Nov-2010/Condemned-Christian-woman-seeks-mercy)
 
 ### Related:
 

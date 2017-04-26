@@ -7,8 +7,8 @@ An armed Palestinian man has been shot dead at a Jenin army post in the latest o
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4016539,00.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12242969)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12242969)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4016539,00.html)
 
 ### Related:
 

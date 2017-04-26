@@ -7,8 +7,8 @@ China decides to end its decades-long policy of allowing couples to have only on
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/world-asia-34665539)
-2. [Al Jazeera English](http://www.aljazeera.com/news/2015/10/china-child-policy-151029110647826.html)
+1. [Al Jazeera English](http://www.aljazeera.com/news/2015/10/china-child-policy-151029110647826.html)
+2. [BBC News](http://www.bbc.co.uk/news/world-asia-34665539)
 
 ### Related:
 

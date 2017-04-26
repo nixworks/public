@@ -8,11 +8,11 @@ The Bush administration is rushing a delivery of precision-guided bombs to Israe
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk/5203450.stm)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/5205150.stm)
-3. [New York Times](http://www.nytimes.com/2006/07/22/world/middleeast/22military.html?hp&ex=1153627200&en=ccb5206208860925&ei=5094&partner=homepage)
-4. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5207066.stm)
-5. [Reuters](http://www.alertnet.org/thenews/newsdesk/L22851317.htm)
-6. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5206110.stm)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L22851317.htm)
+3. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/5205150.stm)
+4. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5206110.stm)
+5. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5207066.stm)
+6. [New York Times](http://www.nytimes.com/2006/07/22/world/middleeast/22military.html?hp&ex=1153627200&en=ccb5206208860925&ei=5094&partner=homepage)
 
 ### Related:
 

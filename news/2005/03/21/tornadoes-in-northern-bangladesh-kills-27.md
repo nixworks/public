@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Express Newsline](http://www.expressnewsline.com/phpnews2/news.php?action=fullnews&showcomments=1&id=2066)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4367193.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4367193.stm)
+2. [Express Newsline](http://www.expressnewsline.com/phpnews2/news.php?action=fullnews&showcomments=1&id=2066)
 
 ### Related:
 

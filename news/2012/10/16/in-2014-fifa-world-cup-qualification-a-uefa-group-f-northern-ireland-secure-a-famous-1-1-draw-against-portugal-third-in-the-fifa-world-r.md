@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Herald](http://www.herald.ie/breaking-news/sport/northern-ireland-earn-portugal-draw-3262068.html)
-2. [Mail](http://www.dailymail.co.uk/sport/football/article-2218772/Portugal-1-Northern-Ireland-1-match-report-Cristiano-Ronaldo-wins-100th-cap.html?ito=feeds-newsxml)
+1. [Mail](http://www.dailymail.co.uk/sport/football/article-2218772/Portugal-1-Northern-Ireland-1-match-report-Cristiano-Ronaldo-wins-100th-cap.html?ito=feeds-newsxml)
+2. [Herald](http://www.herald.ie/breaking-news/sport/northern-ireland-earn-portugal-draw-3262068.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Wayne Rooney, who was last night named PFA Player of the Year, has allayed fears
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/wayne-rooney/7632050/Manchester-Uniteds-Wayne-Rooney-banishes-World-Cup-fears-after-winning-PFA-award.html)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/football/eng_prem/8643305.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/football/eng_prem/8643305.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/wayne-rooney/7632050/Manchester-Uniteds-Wayne-Rooney-banishes-World-Cup-fears-after-winning-PFA-award.html)
 
 ### Related:
 

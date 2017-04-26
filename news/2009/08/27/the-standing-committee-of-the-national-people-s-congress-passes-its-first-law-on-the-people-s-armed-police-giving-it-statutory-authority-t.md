@@ -7,8 +7,8 @@ The law details the authority of the paramilitary force that played a key role i
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2009-08/27/content_8625494.htm)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20090827120336442C411990)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20090827120336442C411990)
+2. [China Daily](http://www.chinadaily.com.cn/china/2009-08/27/content_8625494.htm)
 3. [The New York Times](http://www.nytimes.com/2009/08/28/world/asia/28china.html)
 
 ### Related:

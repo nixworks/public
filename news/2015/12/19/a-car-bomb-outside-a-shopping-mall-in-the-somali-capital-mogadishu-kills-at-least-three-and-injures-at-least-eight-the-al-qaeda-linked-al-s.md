@@ -7,8 +7,8 @@ A car bomb exploded on Saturday on a busy street in the Somali capital Mogadishu
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/somalia-blast-idINKBN0U20HX20151219)
-2. [CNN](http://www.cnn.com/2015/12/19/africa/somalia-deadly-bombing/)
+1. [CNN](http://www.cnn.com/2015/12/19/africa/somalia-deadly-bombing/)
+2. [Reuters](http://in.reuters.com/article/somalia-blast-idINKBN0U20HX20151219)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Christchurch Mayor Bob Parker is thankful there has been no loss of life but the
 
 ### Source:
 
-1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10671049)
-2. [Herald Sun](http://www.heraldsun.com.au/news/world/strong-earthquake-leaves-nz-trembling/story-e6frf7lf-1225914069084)
+1. [Herald Sun](http://www.heraldsun.com.au/news/world/strong-earthquake-leaves-nz-trembling/story-e6frf7lf-1225914069084)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10671049)
 
 ### Related:
 

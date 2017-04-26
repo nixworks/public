@@ -7,9 +7,9 @@ Alexis Tsipras remains hopeful for compromise but opinion is divided as France s
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/business/2015/jul/12/greek-crisis-european-leaders-begin-talks-with-views-split-over-agreement)
+1. [BBC](http://www.bbc.com/news/world-europe-33497353#)
 2. [Sky News](http://www.skynews.com.au/news/top-stories/2015/07/12/-inconclusive--greek-bailout-talks-suspended.html)
-3. [BBC](http://www.bbc.com/news/world-europe-33497353#)
+3. [The Guardian](http://www.theguardian.com/business/2015/jul/12/greek-crisis-european-leaders-begin-talks-with-views-split-over-agreement)
 
 ### Related:
 

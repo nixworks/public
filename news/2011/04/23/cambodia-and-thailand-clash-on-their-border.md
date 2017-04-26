@@ -7,8 +7,8 @@ At least four soldiers die in renewed fighting on the Thai-Cambodia border, brin
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13173906)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/201142323946554672.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/201142323946554672.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13173906)
 
 ### Related:
 

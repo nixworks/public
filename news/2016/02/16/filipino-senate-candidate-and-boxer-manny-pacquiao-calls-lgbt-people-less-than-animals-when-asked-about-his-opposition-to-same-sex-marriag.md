@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ (''Rappler](http://www.rappler.com/entertainment/news/122633-celebrities-manny-pacquiao-same-sex-marriage)
-2. [The New York Times](http://mobile.nytimes.com/2016/02/17/sports/manny-pacquiao-apologizes-for-calling-gays-worse-than-animals.html?referer=https://www.google.com/)
+1. [The New York Times](http://mobile.nytimes.com/2016/02/17/sports/manny-pacquiao-apologizes-for-calling-gays-worse-than-animals.html?referer=https://www.google.com/)
+2. [ (''Rappler](http://www.rappler.com/entertainment/news/122633-celebrities-manny-pacquiao-same-sex-marriage)
 3. [NPR](http://www.npr.org/sections/thetwo-way/2016/02/16/466922420/manny-pacquiao-apologizes-for-comparing-homosexuals-to-animals)
 
 ### Related:

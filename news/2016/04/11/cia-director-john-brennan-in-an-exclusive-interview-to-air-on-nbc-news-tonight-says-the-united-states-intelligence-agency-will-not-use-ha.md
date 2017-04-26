@@ -7,8 +7,8 @@ CIA Director John Brennan told NBC News his agency will not engage in harsh &#x2
 
 ### Source:
 
-1. [The Hill'' via MSN.com](http://www.msn.com/en-us/news/us/cia-director-no-waterboarding-even-if-commanded-by-future-president/ar-BBrArSf?ocid=spartanntp)
-2. [NBC News](http://www.nbcnews.com/news/us-news/director-brennan-cia-won-t-waterboard-again-even-if-ordered-n553756)
+1. [NBC News](http://www.nbcnews.com/news/us-news/director-brennan-cia-won-t-waterboard-again-even-if-ordered-n553756)
+2. [The Hill'' via MSN.com](http://www.msn.com/en-us/news/us/cia-director-no-waterboarding-even-if-commanded-by-future-president/ar-BBrArSf?ocid=spartanntp)
 
 ### Related:
 

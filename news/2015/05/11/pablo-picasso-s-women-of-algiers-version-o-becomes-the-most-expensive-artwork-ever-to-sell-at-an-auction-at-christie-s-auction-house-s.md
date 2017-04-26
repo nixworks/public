@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/entertainment-arts-32700575?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-2. [AP via ''Business Insider](http://www.businessinsider.com/this-picasso-just-became-the-most-expensive-piece-of-art-sold-at-auction-2015-5?IR=T)
+1. [AP via ''Business Insider](http://www.businessinsider.com/this-picasso-just-became-the-most-expensive-piece-of-art-sold-at-auction-2015-5?IR=T)
+2. [BBC](http://www.bbc.com/news/entertainment-arts-32700575?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 
 ### Related:
 

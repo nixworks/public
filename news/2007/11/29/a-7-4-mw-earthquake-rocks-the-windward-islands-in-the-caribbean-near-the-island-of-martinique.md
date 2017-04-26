@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007kha5.php)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20071129/ap_on_re_la_am_ca/caribbean_earthquake)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20071129/ap_on_re_la_am_ca/caribbean_earthquake)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007kha5.php)
 
 ### Related:
 

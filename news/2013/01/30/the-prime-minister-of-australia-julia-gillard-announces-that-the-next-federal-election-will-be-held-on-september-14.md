@@ -7,9 +7,9 @@ Australian Prime Minister Julia Gillard calls a general election for 14 Septembe
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/video/2013/01/30/gillard-surprises-with-sept-election-cal?videoId=240840502&videoChannel=1)
+1. [ABC News Australia](http://www.abc.net.au/news/2013-01-30/julia-gillard-calls-september-14-federal-election/4491118)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21256429)
-3. [ABC News Australia](http://www.abc.net.au/news/2013-01-30/julia-gillard-calls-september-14-federal-election/4491118)
+3. [Reuters](http://www.reuters.com/video/2013/01/30/gillard-surprises-with-sept-election-cal?videoId=240840502&videoChannel=1)
 
 ### Related:
 

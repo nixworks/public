@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37598413)
-2. [The Independent](http://www.independent.co.uk/news/world/middle-east/saudi-coalition-air-strike-yemen-funeral-a7352021.html)
-3. [Reuters](http://www.reuters.com/article/us-yemen-security-airstrike-idUSKCN1280OR)
+2. [Reuters](http://www.reuters.com/article/us-yemen-security-airstrike-idUSKCN1280OR)
+3. [The Independent](http://www.independent.co.uk/news/world/middle-east/saudi-coalition-air-strike-yemen-funeral-a7352021.html)
 
 ### Related:
 

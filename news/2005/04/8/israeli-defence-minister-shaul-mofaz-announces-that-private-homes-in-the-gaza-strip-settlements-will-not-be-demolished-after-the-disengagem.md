@@ -7,8 +7,8 @@ Defense, Internal Security Ministers recommend transferring Gush Katif houses to
 
 ### Source:
 
-1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3069481,00.html)
-2. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=562538&contrassID=2&subContrassID=1&sbSubContrassID=0)
+1. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=562538&contrassID=2&subContrassID=1&sbSubContrassID=0)
+2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3069481,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ An interior corridor and a block engraved with hieroglyphic lines have been unea
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-39484988)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/04/pyramid-remains-discovered-south-cairo-170403102437622.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/04/pyramid-remains-discovered-south-cairo-170403102437622.html)
+2. [BBC](http://www.bbc.com/news/world-middle-east-39484988)
 
 ### Related:
 

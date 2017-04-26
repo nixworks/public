@@ -7,8 +7,8 @@ Egyptian security forces shot dead 24 Islamic State militants in central Sinai, 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/16/us-egypt-crash-islamic-state-idUSKCN0T51QC20151116)
-2. [Independent](http://www.independent.co.uk/news/world/africa/russian-plane-crash-egypt-kills-24-isis-militants-70km-from-crash-site-a6736626.html)
+1. [Independent](http://www.independent.co.uk/news/world/africa/russian-plane-crash-egypt-kills-24-isis-militants-70km-from-crash-site-a6736626.html)
+2. [Reuters](http://www.reuters.com/article/2015/11/16/us-egypt-crash-islamic-state-idUSKCN0T51QC20151116)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVOD-6CJH8P?OpenDocument)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L19687249.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4561797.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4561797.stm)
+2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVOD-6CJH8P?OpenDocument)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L19687249.htm)
 
 ### Related:
 

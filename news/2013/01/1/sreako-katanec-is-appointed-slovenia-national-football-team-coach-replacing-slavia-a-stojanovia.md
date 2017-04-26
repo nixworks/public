@@ -7,8 +7,8 @@ Srečko Katanec has been reappointed Slovenia coach, a decade after ending a suc
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/worldcup/news/newsid=1909686.html)
-2. [HRsport.net](http://www.hrsport.net/vijesti/453343/nogomet-nogometni-svijet/srecko-katanec-ponovno-na-klupi-slovenije/)
+1. [HRsport.net](http://www.hrsport.net/vijesti/453343/nogomet-nogometni-svijet/srecko-katanec-ponovno-na-klupi-slovenije/)
+2. [UEFA](http://www.uefa.com/worldcup/news/newsid=1909686.html)
 
 ### Related:
 

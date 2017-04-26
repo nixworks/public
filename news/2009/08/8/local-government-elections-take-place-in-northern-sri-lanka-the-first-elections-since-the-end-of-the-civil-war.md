@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=102844&sectionid=351020406)
-2. [Reuters](http://www.reuters.com/article/asiaCrisis/idUSCOL461692)
-3. [Daily News](http://www.dailynews.lk/2009/08/08/pol01.asp)
+1. [Reuters](http://www.reuters.com/article/asiaCrisis/idUSCOL461692)
+2. [Daily News](http://www.dailynews.lk/2009/08/08/pol01.asp)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=102844&sectionid=351020406)
 
 ### Related:
 

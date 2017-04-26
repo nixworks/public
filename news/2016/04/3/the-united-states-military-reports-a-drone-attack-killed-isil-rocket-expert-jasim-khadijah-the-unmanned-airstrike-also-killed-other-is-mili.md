@@ -7,8 +7,8 @@ HIT, Iraq (AP) — Iraqi forces took the northern edge of the Islamic State-held
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2016/04/03/US-airstrike-kills-Islamic-State-rocket-expert/7861459704055/?spt=hs&or=tn_int)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-3521741/ISIS-expert-involved-attack-killed-marine-died-drone-strike-emerges-terror-group-killed-15-own.html)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-3521741/ISIS-expert-involved-attack-killed-marine-died-drone-strike-emerges-terror-group-killed-15-own.html)
+2. [UPI](http://www.upi.com/Top_News/World-News/2016/04/03/US-airstrike-kills-Islamic-State-rocket-expert/7861459704055/?spt=hs&or=tn_int)
 3. [AP](http://bigstory.ap.org/article/3644fedf7a6f4ecd8b90cdf6abdfc6ea/iraqi-forces-take-northern-edge-held-town)
 
 ### Related:

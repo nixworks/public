@@ -8,8 +8,8 @@
 ### Source:
 
 1. [SA ''Sunday Mail](http://www.adelaidenow.com.au/sport/superbowl/superbowl-payback-time-for-the-patriots/story-fn947x03-1226262746383)
-2. [AP via ''Wall Street Journal](http://online.wsj.com/article/APaa3a216a45bd46278fe2ab73d31d958f.html)
-3. [NBC Sports](http://scores.nbcsports.msnbc.com/fb/boxscore.asp?gamecode=20120205017)
+2. [NBC Sports](http://scores.nbcsports.msnbc.com/fb/boxscore.asp?gamecode=20120205017)
+3. [AP via ''Wall Street Journal](http://online.wsj.com/article/APaa3a216a45bd46278fe2ab73d31d958f.html)
 
 ### Related:
 

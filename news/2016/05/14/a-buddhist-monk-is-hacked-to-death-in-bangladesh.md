@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA News](http://www.voanews.com/content/buddhist-monk-hacked-to-death-in-bangladesh/3330185.html)
-2. [CNN](http://edition.cnn.com/2016/05/14/asia/bangladesh-buddhist-monk-killed/)
+1. [CNN](http://edition.cnn.com/2016/05/14/asia/bangladesh-buddhist-monk-killed/)
+2. [VOA News](http://www.voanews.com/content/buddhist-monk-hacked-to-death-in-bangladesh/3330185.html)
 
 ### Related:
 

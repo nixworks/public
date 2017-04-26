@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Euro news](http://www.bloomberg.com/news/2013-07-02/portugal-foreign-minister-quits-over-choice-of-finance-minister.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-23146635)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-23146635)
+2. [Euro news](http://www.bloomberg.com/news/2013-07-02/portugal-foreign-minister-quits-over-choice-of-finance-minister.html)
 
 ### Related:
 

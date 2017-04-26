@@ -7,8 +7,8 @@ China executes the top justice official in Chongqing, as part of a high-profile 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10535226.stm)
-2. [The Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=3&art_id=100233&sid=28829607&con_type=1&d_str=20100708&fc=7)
+1. [The Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=3&art_id=100233&sid=28829607&con_type=1&d_str=20100708&fc=7)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10535226.stm)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/07/china-executes-former-official-corruption)
 4. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/07/c_13388010.htm)
 

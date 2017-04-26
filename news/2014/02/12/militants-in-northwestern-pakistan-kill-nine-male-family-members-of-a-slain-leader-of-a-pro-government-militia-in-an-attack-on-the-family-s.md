@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/02/12/world/asia/pakistan-violence/index.html?hpt=wo_c2)
-2. [AP via ABC](http://abcnews.go.com/International/wireStory/militants-kill-anti-taliban-militia-pakistan-22473810)
+1. [AP via ABC](http://abcnews.go.com/International/wireStory/militants-kill-anti-taliban-militia-pakistan-22473810)
+2. [CNN](http://www.cnn.com/2014/02/12/world/asia/pakistan-violence/index.html?hpt=wo_c2)
 
 ### Related:
 

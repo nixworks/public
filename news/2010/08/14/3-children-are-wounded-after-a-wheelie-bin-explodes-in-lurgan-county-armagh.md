@@ -7,9 +7,9 @@ Police investigating suspicious packages in Lurgan, County Armagh, are attacked 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0814/north1.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-10975548)
-3. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/14/lurgan-bomb-condemned-sinn-fein-sdlp)
+1. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/14/lurgan-bomb-condemned-sinn-fein-sdlp)
+2. [RTÉ](http://www.rte.ie/news/2010/0814/north1.html)
+3. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-10975548)
 
 ### Related:
 

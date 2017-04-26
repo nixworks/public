@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/sports/hockey/opinion/2013/03/did-you-see-that-martin-brodeur-scores-a-strange-goal.html)
-2. [SB Nation](http://www.sbnation.com/2013/3/22/4135142/martin-brodeur-scores-but-nevermind-that-ranking-the-real-goalie-goals)
-3. [National Post](http://sports.nationalpost.com/2013/03/21/devils-martin-brodeur-credited-with-third-career-goal-against-hurricanes/)
+1. [SB Nation](http://www.sbnation.com/2013/3/22/4135142/martin-brodeur-scores-but-nevermind-that-ranking-the-real-goalie-goals)
+2. [National Post](http://sports.nationalpost.com/2013/03/21/devils-martin-brodeur-credited-with-third-career-goal-against-hurricanes/)
+3. [CBC](http://www.cbc.ca/sports/hockey/opinion/2013/03/did-you-see-that-martin-brodeur-scores-a-strange-goal.html)
 
 ### Related:
 

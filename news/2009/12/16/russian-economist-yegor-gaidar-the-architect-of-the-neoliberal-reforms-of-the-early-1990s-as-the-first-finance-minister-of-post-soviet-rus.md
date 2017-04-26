@@ -7,9 +7,9 @@ Yegor T. Gaidar oversaw the transition from Communism to capitalism as the first
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/europe/8415441.stm)
+1. [RIA Novosti](http://en.rian.ru/russia/20091216/157252785.html)
 2. [New York Times](http://www.nytimes.com/2009/12/17/world/europe/17gaidar.html)
-3. [RIA Novosti](http://en.rian.ru/russia/20091216/157252785.html)
+3. [BBC News](http://news.bbc.co.uk/2/hi/europe/8415441.stm)
 
 ### Related:
 

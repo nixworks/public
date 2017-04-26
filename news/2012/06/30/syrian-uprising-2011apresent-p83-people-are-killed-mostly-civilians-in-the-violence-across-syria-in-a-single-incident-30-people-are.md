@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sacramento Bee](http://www.sacbee.com/2012/07/01/4602696/at-least-85-die-in-bombing-of.html)
-2. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/international-powers-agree-on-syria-deal-20120701-21abd.html)
+1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/international-powers-agree-on-syria-deal-20120701-21abd.html)
+2. [Sacramento Bee](http://www.sacbee.com/2012/07/01/4602696/at-least-85-die-in-bombing-of.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15728785&PageNum=0)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/nov/30/explosion-kyrgyzstan-bishkek-clinton-visit)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/nov/30/explosion-kyrgyzstan-bishkek-clinton-visit)
+2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15728785&PageNum=0)
 
 ### Related:
 

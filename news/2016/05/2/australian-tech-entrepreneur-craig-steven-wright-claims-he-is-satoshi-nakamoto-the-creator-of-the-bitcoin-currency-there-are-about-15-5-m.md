@@ -7,10 +7,10 @@ Australian entrepreneur Craig Wright has publicly identified himself as Bitcoin 
 
 ### Source:
 
-1. [The Economist](http://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin)
-2. [BBC](http://www.bbc.com/news/technology-36168863)
-3. [The Economist''²](http://www.economist.com/news/briefings/21698066-onus-on-craig-wright-provide-better-evidence-satoshi-nakamoto)
-4. [AP via ''The Charlotte Observer](http://www.charlotteobserver.com/article75233707.html)
+1. [AP via ''The Charlotte Observer](http://www.charlotteobserver.com/article75233707.html)
+2. [The Economist''²](http://www.economist.com/news/briefings/21698066-onus-on-craig-wright-provide-better-evidence-satoshi-nakamoto)
+3. [BBC](http://www.bbc.com/news/technology-36168863)
+4. [The Economist](http://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin)
 
 ### Related:
 

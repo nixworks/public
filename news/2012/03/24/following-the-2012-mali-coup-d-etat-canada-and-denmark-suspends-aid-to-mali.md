@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CPH Post](http://www.cphpost.dk/news/international/aid-mali-suspended-after-military-coup)
-2. [CBC News](http://www.cbc.ca/news/world/story/2012/03/24/canada-mali-aid.html)
+1. [CBC News](http://www.cbc.ca/news/world/story/2012/03/24/canada-mali-aid.html)
+2. [CPH Post](http://www.cphpost.dk/news/international/aid-mali-suspended-after-military-coup)
 
 ### Related:
 

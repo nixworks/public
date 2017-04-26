@@ -8,8 +8,8 @@ Death toll jumps to 917 as international organisations appeal for funds to fight
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11753411)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1114/breaking6.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/20101114153515676688.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/20101114153515676688.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1114/breaking6.html)
 
 ### Related:
 

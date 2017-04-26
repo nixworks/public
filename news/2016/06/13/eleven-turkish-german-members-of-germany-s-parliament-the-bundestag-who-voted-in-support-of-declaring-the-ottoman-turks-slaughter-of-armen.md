@@ -7,8 +7,8 @@ Eleven German MPs of Turkish origin are under police protection after declaring 
 
 ### Source:
 
-1. [UPI²](http://www.upi.com/Top_News/World-News/2016/06/09/Turkey-plans-retaliatory-measures-for-German-genocide-resolution-Erdogan-says/8101465480660/?st_rec=5841465775367)
-2. [UPI](http://www.upi.com/Top_News/World-News/2016/06/12/11-German-MPs-under-police-protection-over-genocide-squabble-with-Turkey/5841465775367/?spt=hs&or=tn_int)
+1. [UPI](http://www.upi.com/Top_News/World-News/2016/06/12/11-German-MPs-under-police-protection-over-genocide-squabble-with-Turkey/5841465775367/?spt=hs&or=tn_int)
+2. [UPI²](http://www.upi.com/Top_News/World-News/2016/06/09/Turkey-plans-retaliatory-measures-for-German-genocide-resolution-Erdogan-says/8101465480660/?st_rec=5841465775367)
 
 ### Related:
 

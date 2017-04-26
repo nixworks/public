@@ -7,9 +7,9 @@ President Obama and House Speaker John A. Boehner escalated their battle over th
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/business/economy/house-senate-leaders-unveil-dueling-debt-limit-plans/2011/07/25/gIQApnm1YI_story.html?hpid=z1)
-2. [CNN](http://politicalticker.blogs.cnn.com/2011/07/24/obama-cancels-fundraisers-amidst-debt-situation/)
-3. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/obama-to-warn-of-incalculable-damage-20110726-1hxj7.html)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/obama-to-warn-of-incalculable-damage-20110726-1hxj7.html)
+2. [Washington Post](http://www.washingtonpost.com/business/economy/house-senate-leaders-unveil-dueling-debt-limit-plans/2011/07/25/gIQApnm1YI_story.html?hpid=z1)
+3. [CNN](http://politicalticker.blogs.cnn.com/2011/07/24/obama-cancels-fundraisers-amidst-debt-situation/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Two officials in Burma have been sentenced to death for leaking information, in 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/01/09/world/asia/09myanmar.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/leaking-burmese-officials-to-be-executed-20100108-lyp6.html)
+1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/leaking-burmese-officials-to-be-executed-20100108-lyp6.html)
+2. [The New York Times](http://www.nytimes.com/2010/01/09/world/asia/09myanmar.html)
 
 ### Related:
 

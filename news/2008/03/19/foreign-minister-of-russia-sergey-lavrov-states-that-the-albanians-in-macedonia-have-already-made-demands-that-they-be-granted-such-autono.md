@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ria Novosti](http://en.rian.ru/russia/20080318/101564953.html)
-2. [Makfax](http://makfax.com.mk/look/novina/article.tpl?IdLanguage=1&IdPublication=2&NrArticle=105436&NrIssue=611&NrSection=10&search_x=10&search_y=2)
+1. [Makfax](http://makfax.com.mk/look/novina/article.tpl?IdLanguage=1&IdPublication=2&NrArticle=105436&NrIssue=611&NrSection=10&search_x=10&search_y=2)
+2. [Ria Novosti](http://en.rian.ru/russia/20080318/101564953.html)
 
 ### Related:
 

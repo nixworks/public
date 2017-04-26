@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yonhap News](http://english.yonhapnews.co.kr/national/2015/02/27/64/0302000000AEN20150227002851315F.html)
+1. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-south-korea-shooting-20150226-story.html)
 2. [The Korea Herald](http://www.koreaherald.com/view.php?ud=20150227000323)
-3. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-south-korea-shooting-20150226-story.html)
+3. [Yonhap News](http://english.yonhapnews.co.kr/national/2015/02/27/64/0302000000AEN20150227002851315F.html)
 
 ### Related:
 

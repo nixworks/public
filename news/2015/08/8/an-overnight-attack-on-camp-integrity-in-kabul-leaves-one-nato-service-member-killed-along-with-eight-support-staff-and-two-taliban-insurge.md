@@ -7,8 +7,8 @@ One member of Afghanistan&#x27;s NATO force and two insurgents were killed in an
 
 ### Source:
 
-1. [Reuters via Yahoo News](http://news.yahoo.com/one-nato-force-member-two-insurgents-killed-kabul-031626327.html)
-2. [AFP](http://timetravel.mementoweb.org/memento/2015/http://www.afp.com/en/news/eight-more-confirmed-dead-kabul-us-base-attack-nato)
+1. [AFP](http://timetravel.mementoweb.org/memento/2015/http://www.afp.com/en/news/eight-more-confirmed-dead-kabul-us-base-attack-nato)
+2. [Reuters via Yahoo News](http://news.yahoo.com/one-nato-force-member-two-insurgents-killed-kabul-031626327.html)
 
 ### Related:
 

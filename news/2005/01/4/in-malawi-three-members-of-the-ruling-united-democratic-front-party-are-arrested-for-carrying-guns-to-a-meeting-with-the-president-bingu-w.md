@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/4144961.stm)
-2. [Nation Onliune, Malawi](http://www.nationmalawi.com/articles.asp?articleID=9702)
+1. [Nation Onliune, Malawi](http://www.nationmalawi.com/articles.asp?articleID=9702)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4144961.stm)
 3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L03149128.htm)
 
 ### Related:

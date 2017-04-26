@@ -7,8 +7,8 @@ Attorney general says the state will no longer recognize such handgun permits fr
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/local/virginia-politics/va-attorney-general-mark-herring-delivers-blow-to-gun-rights-advocates/2015/12/21/d72ce3d0-a821-11e5-9b92-dea7cd4b1a4d_story.html)
-2. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/sns-bc-va--concealed-handgun-permits-20151222-story.html)
+1. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/sns-bc-va--concealed-handgun-permits-20151222-story.html)
+2. [The Washington Post](https://www.washingtonpost.com/local/virginia-politics/va-attorney-general-mark-herring-delivers-blow-to-gun-rights-advocates/2015/12/21/d72ce3d0-a821-11e5-9b92-dea7cd4b1a4d_story.html)
 
 ### Related:
 

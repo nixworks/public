@@ -8,10 +8,10 @@ In a final communiqué at the end of a two-week meeting at the Vatican on the pl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11611658)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3973715,00.html)
-3. [The Jerusalem Post](http://www.jpost.com/Home/Article.aspx?id=192368)
+2. [The Jerusalem Post](http://www.jpost.com/Home/Article.aspx?id=192368)
+3. [The New York Times](http://www.nytimes.com/2010/10/24/world/europe/24vatican.html)
 4. [RIA Novosti](http://en.rian.ru/world/20101024/161066944.html)
-5. [The New York Times](http://www.nytimes.com/2010/10/24/world/europe/24vatican.html)
+5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3973715,00.html)
 
 ### Related:
 

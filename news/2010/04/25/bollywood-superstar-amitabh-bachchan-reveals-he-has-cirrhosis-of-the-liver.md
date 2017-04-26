@@ -7,10 +7,10 @@ Mikey Bustos has &quot;a couple million or so,&quot; he says, the result of his 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8642792.stm)
-2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Lifestyle/Story/STIStory_519271.html)
-3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7107672.ece)
-4. [CBC](http://www.cbc.ca/arts/film/story/2010/04/25/amitabh-liver-disease.html)
+1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Lifestyle/Story/STIStory_519271.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8642792.stm)
+3. [CBC](http://www.cbc.ca/arts/film/story/2010/04/25/amitabh-liver-disease.html)
+4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7107672.ece)
 
 ### Related:
 

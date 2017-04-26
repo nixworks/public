@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thomson Reuters Trust](http://www.trust.org/item/20150510033110-q4dgv)
-2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3075327/Yemen-accepts-5-day-truce-proposed-Saudi-Arabia--Houthi-allied-army-spokesperson.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3075327/Yemen-accepts-5-day-truce-proposed-Saudi-Arabia--Houthi-allied-army-spokesperson.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+2. [Thomson Reuters Trust](http://www.trust.org/item/20150510033110-q4dgv)
 
 ### Related:
 

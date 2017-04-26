@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2010/06/egypt-alleged-torture-death-scatters-nationwide-fury.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5im-Kw1VwkViBjtBkORFz0olsP-uAD9GAHO900)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5im-Kw1VwkViBjtBkORFz0olsP-uAD9GAHO900)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2010/06/egypt-alleged-torture-death-scatters-nationwide-fury.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ An Austrian pianist performed two newly discovered pieces by Wolfgang Amadeus Mo
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8180138.stm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jdIpbnNm3YEuTPMHQ4WIuKiTiSlwD99QODS80)
-3. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE5710N020090802)
+1. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE5710N020090802)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8180138.stm)
+3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jdIpbnNm3YEuTPMHQ4WIuKiTiSlwD99QODS80)
 
 ### Related:
 

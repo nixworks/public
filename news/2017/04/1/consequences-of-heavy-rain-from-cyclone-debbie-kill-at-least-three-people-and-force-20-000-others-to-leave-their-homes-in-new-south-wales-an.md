@@ -7,9 +7,9 @@ POLICE hold serious concerns for four people missing in southeast Queensland, as
 
 ### Source:
 
-1. [ABC](http://www.abc.net.au/news/2017-04-01/cyclone-debbie-leaves-trail-of-destruction/8407530)
+1. [AAP via Yahoo News Australia](https://au.news.yahoo.com/a/34876247/fresh-wave-of-flooding-to-hit-logan/#page1)
 2. [News Limited](http://www.news.com.au/technology/environment/cyclone-debbie-floods-in-nsw-and-queensland-sees-death-toll-rise-to-two/news-story/c705b89cd6ad07a7a25e188639fda581)
-3. [AAP via Yahoo News Australia](https://au.news.yahoo.com/a/34876247/fresh-wave-of-flooding-to-hit-logan/#page1)
+3. [ABC](http://www.abc.net.au/news/2017-04-01/cyclone-debbie-leaves-trail-of-destruction/8407530)
 
 ### Related:
 

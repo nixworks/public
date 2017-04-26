@@ -7,11 +7,11 @@ The emails detail how bitter the relationship became, Bernie Sanders emerged as 
 
 ### Source:
 
-1. [Mediaite](http://www.mediaite.com/online/robert-reich-rips-debbie-wasserman-schultz-over-dnc-leak-fire-her-now/)
-2. [ABC News](http://abcnews.go.com/Politics/emails-released-wikileaks-show-dnc-aid-hillary-clinton/story?id=40815253)
-3. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/07/22/on-eve-of-democratic-convention-wikileaks-releases-thousands-of-documents-about-clinton-the-campaign-and-internal-deliberations/)
+1. [Al Jazeera](http://www.aljazeera.com/amp/news/2016/07/leaked-emails-show-dnc-hostility-sanders-160723174522015.html)
+2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/07/22/on-eve-of-democratic-convention-wikileaks-releases-thousands-of-documents-about-clinton-the-campaign-and-internal-deliberations/)
+3. [ABC News](http://abcnews.go.com/Politics/emails-released-wikileaks-show-dnc-aid-hillary-clinton/story?id=40815253)
 4. [CNN](http://www.cnn.com/2016/07/22/politics/dnc-wikileaks-emails/)
-5. [Al Jazeera](http://www.aljazeera.com/amp/news/2016/07/leaked-emails-show-dnc-hostility-sanders-160723174522015.html)
+5. [Mediaite](http://www.mediaite.com/online/robert-reich-rips-debbie-wasserman-schultz-over-dnc-leak-fire-her-now/)
 6. [ABC News](http://abcnews.go.com/Politics/bernie-sanders-campaign-chief-accountable-dnc-emails-show/story?id=40825318)
 
 ### Related:

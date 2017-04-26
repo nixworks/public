@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press Trust of India](http://www.ptinews.com/news/355623_Fire-at-oil-depot-rages-on--to-be-allowed-to-burn-out)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gwLvd_gUEGs2ga_LP0Rs2S5CjxYwD9BLEQM80)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gwLvd_gUEGs2ga_LP0Rs2S5CjxYwD9BLEQM80)
+2. [Press Trust of India](http://www.ptinews.com/news/355623_Fire-at-oil-depot-rages-on--to-be-allowed-to-burn-out)
 
 ### Related:
 

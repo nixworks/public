@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=472968)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jQuZdieobqPfln7WXPjaBjm6kQog)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8495000.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8495000.stm)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=472968)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jQuZdieobqPfln7WXPjaBjm6kQog)
 
 ### Related:
 

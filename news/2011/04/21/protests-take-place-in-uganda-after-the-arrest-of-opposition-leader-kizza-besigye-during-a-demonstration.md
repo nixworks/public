@@ -8,8 +8,8 @@ Opposition leader Kizza Besigye held yet again for marching in a fourth round of
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/20114218112393816.html)
-2. [Reuters](http://www.reuters.com/article/2011/04/21/us-uganda-protest-idUSTRE73K1M320110421)
-3. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/1148900/-/c2na5lz/-/)
+2. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/1148900/-/c2na5lz/-/)
+3. [Reuters](http://www.reuters.com/article/2011/04/21/us-uganda-protest-idUSTRE73K1M320110421)
 
 ### Related:
 

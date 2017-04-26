@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/14/AR2009071401649.html)
-2. [Delfi](http://www.delfi.lt/news/daily/lithuania/article.php?id=23095158)
+1. [Delfi](http://www.delfi.lt/news/daily/lithuania/article.php?id=23095158)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/14/AR2009071401649.html)
 
 ### Related:
 

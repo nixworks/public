@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/heavy-clashes-syria-near-turkish-border)
-2. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2014/03/23/Turkey-downs-Syria-warplane-on-border.html)
+1. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2014/03/23/Turkey-downs-Syria-warplane-on-border.html)
+2. [AP](http://bigstory.ap.org/article/heavy-clashes-syria-near-turkish-border)
 
 ### Related:
 

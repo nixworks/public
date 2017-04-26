@@ -7,8 +7,8 @@ Turkey deploys anti-aircraft guns along its border with Syria; meanwhile, explos
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18622140)
-2. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-06-28/syria-explosion/55882520/1)
+1. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-06-28/syria-explosion/55882520/1)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18622140)
 
 ### Related:
 

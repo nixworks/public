@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iyBq-a9vvTymsdrAQuqvcD3x8Apw?docId=CNG.5a73e88b2737221ddfdd9d4ecd2a1988.881)
-2. [Trend News Agency](http://en.trend.az/news/politics/1822068.html)
-3. [RIA Novosti](http://en.rian.ru/world/20110202/162417646.html)
+2. [RIA Novosti](http://en.rian.ru/world/20110202/162417646.html)
+3. [Trend News Agency](http://en.trend.az/news/politics/1822068.html)
 
 ### Related:
 

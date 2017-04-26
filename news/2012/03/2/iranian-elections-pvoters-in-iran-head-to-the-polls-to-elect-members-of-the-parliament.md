@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/Iran-elections)
-2. [PressTv](http://www.presstv.ir/detail/229533.html)
+1. [PressTv](http://www.presstv.ir/detail/229533.html)
+2. [Al Jazeera](http://blogs.aljazeera.net/liveblog/Iran-elections)
 
 ### Related:
 

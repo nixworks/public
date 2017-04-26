@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/24/c_13572316.htm)
+1. [RTÉ](http://www.rte.ie/news/2010/1023/down.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11613622)
-3. [RTÉ](http://www.rte.ie/news/2010/1023/down.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/24/c_13572316.htm)
 
 ### Related:
 

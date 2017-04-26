@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5irtYBlZUJEiUON8NIDWLexRp_JTw)
-2. [The Guardian](http://www.guardian.co.uk/world/2009/jul/06/zelaya-plane-honduras-coup)
+1. [The Guardian](http://www.guardian.co.uk/world/2009/jul/06/zelaya-plane-honduras-coup)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5irtYBlZUJEiUON8NIDWLexRp_JTw)
 3. [BBC](http://news.bbc.co.uk/2/hi/americas/8135358.stm)
 
 ### Related:

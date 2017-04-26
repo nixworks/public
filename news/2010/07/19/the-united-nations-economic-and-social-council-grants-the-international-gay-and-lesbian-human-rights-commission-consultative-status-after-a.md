@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2010/07/19/world/AP-UN-UN-Gay-Rights.html?hp)
-2. [San Diego Gay & Lesbian News](http://sdgln.com/news/2010/07/19/united-nations-grants-official-status-us-based-international-lgbt-rights-group)
+1. [San Diego Gay & Lesbian News](http://sdgln.com/news/2010/07/19/united-nations-grants-official-status-us-based-international-lgbt-rights-group)
+2. [The New York Times](http://www.nytimes.com/aponline/2010/07/19/world/AP-UN-UN-Gay-Rights.html?hp)

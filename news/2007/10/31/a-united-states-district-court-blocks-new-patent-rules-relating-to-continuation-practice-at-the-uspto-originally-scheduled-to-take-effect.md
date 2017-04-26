@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/feeds/ap/2007/10/31/ap4285576.html)
-2. [InformationWeek](http://www.informationweek.com/news/showArticle.jhtml?articleID=202800798)
+1. [InformationWeek](http://www.informationweek.com/news/showArticle.jhtml?articleID=202800798)
+2. [Forbes](http://www.forbes.com/feeds/ap/2007/10/31/ap4285576.html)
 
 ### Related:
 

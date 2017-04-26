@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/15/AR2007041500486.html)
-2. [Forbes](http://www.forbes.com/markets/commodities/2007/04/16/essar-algoma-steel-markets-equity-cx_rd_0416markets2.html)
+1. [Forbes](http://www.forbes.com/markets/commodities/2007/04/16/essar-algoma-steel-markets-equity-cx_rd_0416markets2.html)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/15/AR2007041500486.html)
 
 ### Related:
 

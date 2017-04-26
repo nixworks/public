@@ -7,8 +7,8 @@ Russian scientists believe they have found a wholly new type of bacteria in the 
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/science/20130307/179878285/Unclassified-Life-Found-in-Antarctic-Lake--Researcher.html)
-2. [AFP via Discovery News](http://news.discovery.com/earth/russia-finds-new-bacteria-antarctic-lake-130307.htm)
+1. [AFP via Discovery News](http://news.discovery.com/earth/russia-finds-new-bacteria-antarctic-lake-130307.htm)
+2. [RIA Novosti](http://en.ria.ru/science/20130307/179878285/Unclassified-Life-Found-in-Antarctic-Lake--Researcher.html)
 
 ### Related:
 

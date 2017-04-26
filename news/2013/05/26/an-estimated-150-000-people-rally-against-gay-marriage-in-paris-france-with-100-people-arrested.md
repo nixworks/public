@@ -7,8 +7,8 @@ Police are forced to use tear gas to subdue demonstrations on the streets of Par
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1095940/france-gay-marriage-law-violence-at-protest)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-22671572)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-22671572)
+2. [Sky News](http://news.sky.com/story/1095940/france-gay-marriage-law-violence-at-protest)
 
 ### Related:
 

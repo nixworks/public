@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Philippine Star](http://www.philstar.com/headlines/2016/07/04/1599429/bayan-maintain-presence-streets-despite-duterte-alliance)
-2. [GMA News](http://www.gmanetwork.com/news/story/572319/news/nation/communists-answer-duterte-s-call-to-join-fight-vs-drugs)
+1. [GMA News](http://www.gmanetwork.com/news/story/572319/news/nation/communists-answer-duterte-s-call-to-join-fight-vs-drugs)
+2. [The Philippine Star](http://www.philstar.com/headlines/2016/07/04/1599429/bayan-maintain-presence-streets-despite-duterte-alliance)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Suspect, who was shot and killed, was wanted in assault on officer.
 
 ### Source:
 
-1. [KSDK](http://www.ksdk.com/news/article/248149/3/UPDATE-Suspect-in-multiple-shooting-dies)
-2. [St Louis Today](http://www.stltoday.com/news/local/crime-and-courts/article_ede9e4a4-4987-11e0-b80d-00127992bc8b.html)
+1. [St Louis Today](http://www.stltoday.com/news/local/crime-and-courts/article_ede9e4a4-4987-11e0-b80d-00127992bc8b.html)
+2. [KSDK](http://www.ksdk.com/news/article/248149/3/UPDATE-Suspect-in-multiple-shooting-dies)
 
 ### Related:
 

@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [European Voice](http://www.europeanvoice.com/article/2012/august/parliament-forced-to-close-debating-chamber/75049.aspx)
-2. [Public Service Europe](http://www.publicserviceeurope.com/article/2394/roof-damage-forces-closure-of-european-parliament-chamber)
+1. [Public Service Europe](http://www.publicserviceeurope.com/article/2394/roof-damage-forces-closure-of-european-parliament-chamber)
+2. [European Voice](http://www.europeanvoice.com/article/2012/august/parliament-forced-to-close-debating-chamber/75049.aspx)

@@ -7,13 +7,13 @@ Zardari meets flood victims after heavy criticism of decision to continue Europe
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081282449784350.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/pakistan-president-flood-response-criticised)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10948275)
-4. [AFP via France24](http://www.france24.com/en/20100812-under-fire-zardari-visits-pakistan-flood-victims)
-5. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jX_KetVCMo64AOZxSMudPWArFrJgD9HI00900)
-6. [BBC](http://www.bbc.co.uk/news/world-south-asia-10960094)
-7. [Channel 4](http://www.channel4.com/news/articles/politics/international_politics/pakistanaposs+president+zardari+visits+floods/3741957)
+1. [AFP via France24](http://www.france24.com/en/20100812-under-fire-zardari-visits-pakistan-flood-victims)
+2. [Channel 4](http://www.channel4.com/news/articles/politics/international_politics/pakistanaposs+president+zardari+visits+floods/3741957)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jX_KetVCMo64AOZxSMudPWArFrJgD9HI00900)
+4. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081282449784350.html)
+5. [BBC](http://www.bbc.co.uk/news/world-south-asia-10960094)
+6. [BBC](http://www.bbc.co.uk/news/world-south-asia-10948275)
+7. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/pakistan-president-flood-response-criticised)
 
 ### Related:
 

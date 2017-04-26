@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5022558.stm)
-2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/26/indonesia.quake/index.html)
-3. [AP](http://news.yahoo.com/s/ap/indonesia_earthquake)
+1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/26/indonesia.quake/index.html)
+2. [AP](http://news.yahoo.com/s/ap/indonesia_earthquake)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5022558.stm)
 
 ### Related:
 

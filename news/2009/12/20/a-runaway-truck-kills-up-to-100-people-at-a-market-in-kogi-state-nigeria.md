@@ -7,8 +7,8 @@ IT was a gory sight yesterday in Dekina, in Dekina Local Government Area of Kogi
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8423218.stm)
-2. [Vanguard](http://www.vanguardngr.com/2009/12/20/90-killed-in-kogi-auto-crash/)
+1. [Vanguard](http://www.vanguardngr.com/2009/12/20/90-killed-in-kogi-auto-crash/)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8423218.stm)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-12/20/content_12674048.htm)
 
 ### Related:

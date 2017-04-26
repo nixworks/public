@@ -8,8 +8,8 @@
 ### Source:
 
 1. [GMA News](http://www.gmanetwork.com/news/story/562813/news/nation/miriam-disputes-credibility-of-poll-surveys)
-2. [The Manila Bulletin](http://www.mb.com.ph/miriam-santiago-in-thick-fight-for-may-9-presidential-race/)
-3. [Inquirer](http://newsinfo.inquirer.net/779702/miriam-pollsters-have-removed-my-name-from-survey-forms)
+2. [Inquirer](http://newsinfo.inquirer.net/779702/miriam-pollsters-have-removed-my-name-from-survey-forms)
+3. [The Manila Bulletin](http://www.mb.com.ph/miriam-santiago-in-thick-fight-for-may-9-presidential-race/)
 
 ### Related:
 

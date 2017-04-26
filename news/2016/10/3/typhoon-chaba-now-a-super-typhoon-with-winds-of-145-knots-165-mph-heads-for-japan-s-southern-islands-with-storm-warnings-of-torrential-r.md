@@ -7,8 +7,8 @@ Chaba will now brush South Korea before moving into mainland Japan.
 
 ### Source:
 
-1. [Weather.com](https://weather.com/storms/typhoon/news/super-typhoon-chaba-okinawa-japan-forecast)
-2. [AAP via SBS](http://www.sbs.com.au/news/article/2016/10/03/powerful-typhoon-barrels-towards-japan)
+1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/10/03/powerful-typhoon-barrels-towards-japan)
+2. [Weather.com](https://weather.com/storms/typhoon/news/super-typhoon-chaba-okinawa-japan-forecast)
 
 ### Related:
 

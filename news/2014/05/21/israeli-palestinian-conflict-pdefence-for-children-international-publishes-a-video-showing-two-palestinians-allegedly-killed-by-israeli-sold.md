@@ -7,8 +7,8 @@ B&#x27;Tselem contradicts Israeli military claims that CCTV footage showing deat
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/may/22/footage-palestinian-boys-shot-genuine-btselem)
-2. [New York Times](http://www.nytimes.com/2014/05/21/world/middleeast/palestinian-teenagers-video.htm)
+1. [New York Times](http://www.nytimes.com/2014/05/21/world/middleeast/palestinian-teenagers-video.htm)
+2. [The Guardian](http://www.theguardian.com/world/2014/may/22/footage-palestinian-boys-shot-genuine-btselem)
 
 ### Related:
 

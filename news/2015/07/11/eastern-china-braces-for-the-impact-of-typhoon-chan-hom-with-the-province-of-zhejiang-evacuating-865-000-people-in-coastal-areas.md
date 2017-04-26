@@ -7,8 +7,8 @@ Shanghai (AFP) - Super typhoon Chan-hom barrelled towards eastern China near com
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/07/09/asia/asia-weather-typhoons-linfa-chan-hom/index.html?eref=edition)
-2. [Business Insider](http://www.businessinsider.com/afp-china-evacuates-over-865000-as-super-typhoon-nears-2015-7?IR=T#ixzz3fXtZhX3m)
+1. [Business Insider](http://www.businessinsider.com/afp-china-evacuates-over-865000-as-super-typhoon-nears-2015-7?IR=T#ixzz3fXtZhX3m)
+2. [CNN](http://edition.cnn.com/2015/07/09/asia/asia-weather-typhoons-linfa-chan-hom/index.html?eref=edition)
 
 ### Related:
 

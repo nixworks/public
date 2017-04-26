@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/africa/-Mauritania-Extradites-Al-Qaida-Kidnapper-to-Mali-100984829.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE67H37X20100818)
+1. [Reuters](http://www.reuters.com/article/idUSTRE67H37X20100818)
+2. [Voice of America](http://www1.voanews.com/english/news/africa/-Mauritania-Extradites-Al-Qaida-Kidnapper-to-Mali-100984829.html)
 
 ### Related:
 

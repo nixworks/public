@@ -7,10 +7,10 @@ Israeli Prime Minister Netanyahu says army and intelligence operations will &quo
 
 ### Source:
 
-1. [Times of Israel](http://www.timesofisrael.com/four-year-old-killed-in-mortar-attack-named-as-daniel-turgerman/)
-2. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ISRAEL_PALESTINIANS?SITE=MYPSP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2014-08-22-04-21-35)
-3. [BBC](http://www.bbc.com/news/world-middle-east-28900098)
-4. [NY Times](http://www.nytimes.com/2014/08/23/world/middleeast/israel-gaza.html?_r=0)
+1. [NY Times](http://www.nytimes.com/2014/08/23/world/middleeast/israel-gaza.html?_r=0)
+2. [Times of Israel](http://www.timesofisrael.com/four-year-old-killed-in-mortar-attack-named-as-daniel-turgerman/)
+3. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ISRAEL_PALESTINIANS?SITE=MYPSP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2014-08-22-04-21-35)
+4. [BBC](http://www.bbc.com/news/world-middle-east-28900098)
 
 ### Related:
 

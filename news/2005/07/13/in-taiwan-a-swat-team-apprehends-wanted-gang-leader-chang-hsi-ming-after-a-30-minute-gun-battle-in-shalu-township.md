@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/14/2003263424)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/eastasia/view/157777/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/eastasia/view/157777/1/.html)
+2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/14/2003263424)
 
 ### Related:
 

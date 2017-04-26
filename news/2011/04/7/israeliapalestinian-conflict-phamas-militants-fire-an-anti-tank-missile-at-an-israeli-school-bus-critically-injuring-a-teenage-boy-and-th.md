@@ -7,15 +7,15 @@ Initial report suggests anti-tank fired from Gaza Strip hit bus driving near Sha
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jsO-Lf5Rak06CBdJxJJ0vXTv3ZxA?docId=CNG.8d00429b889e9bb8fbb49b947c2102b1.ac1)
-2. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=215697)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114713475225620.html)
-4. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=215584)
-5. [CNN](http://www.cnn.com/2011/WORLD/meast/04/07/israel.gaza.violence/index.html)
-6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13008789)
-7. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/iron-dome-successfully-intercepts-gaza-rocket-for-first-time-1.354696)
-8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4053704,00.html)
-9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4053931,00.html)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13008789)
+2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/iron-dome-successfully-intercepts-gaza-rocket-for-first-time-1.354696)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4053931,00.html)
+4. [CNN](http://www.cnn.com/2011/WORLD/meast/04/07/israel.gaza.violence/index.html)
+5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114713475225620.html)
+6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4053704,00.html)
+7. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=215697)
+8. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=215584)
+9. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jsO-Lf5Rak06CBdJxJJ0vXTv3ZxA?docId=CNG.8d00429b889e9bb8fbb49b947c2102b1.ac1)
 
 ### Related:
 

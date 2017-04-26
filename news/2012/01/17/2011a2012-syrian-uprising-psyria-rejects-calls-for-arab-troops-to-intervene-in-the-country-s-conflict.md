@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News24](http://www.news24.com/World/News/Syria-rejects-calls-for-Arab-troops-20120117)
-2. [Voice of America](http://www.voanews.com/english/news/middle-east/Syrian-Violence-Spikes-West-Russia-Spar-Over-Intervention-137517128.html)
+1. [Voice of America](http://www.voanews.com/english/news/middle-east/Syrian-Violence-Spikes-West-Russia-Spar-Over-Intervention-137517128.html)
+2. [News24](http://www.news24.com/World/News/Syria-rejects-calls-for-Arab-troops-20120117)
 
 ### Related:
 

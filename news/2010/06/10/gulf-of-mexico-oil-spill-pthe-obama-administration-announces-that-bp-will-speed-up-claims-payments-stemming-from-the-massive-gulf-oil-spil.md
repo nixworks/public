@@ -7,11 +7,11 @@ British Petroleum said Thursday it plans to increase its ability to capture the 
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/U/US_GULF_OIL_SPILL_WASHINGTON?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-06-10-11-52-15)
-2. [Reuters](http://mobile.reuters.com/mobile/m/FullArticle/CTOP/ntopNews_uUSTRE6573FD20100610)
-3. [The New York Times](http://www.nytimes.com/2010/06/11/us/11spill.html?src=un&feedurl=http%3A%2F%2Fjson8.nytimes.com%2Fpages%2Fopinion%2Findex.jsonp)
+1. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2010/06/bp-oil-spill-payments/1)
+2. [AP](http://hosted.ap.org/dynamic/stories/U/US_GULF_OIL_SPILL_WASHINGTON?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-06-10-11-52-15)
+3. [Reuters](http://mobile.reuters.com/mobile/m/FullArticle/CTOP/ntopNews_uUSTRE6573FD20100610)
 4. [BBC](http://news.bbc.co.uk/2/hi/business/10281079.stm)
-5. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2010/06/bp-oil-spill-payments/1)
+5. [The New York Times](http://www.nytimes.com/2010/06/11/us/11spill.html?src=un&feedurl=http%3A%2F%2Fjson8.nytimes.com%2Fpages%2Fopinion%2Findex.jsonp)
 
 ### Related:
 

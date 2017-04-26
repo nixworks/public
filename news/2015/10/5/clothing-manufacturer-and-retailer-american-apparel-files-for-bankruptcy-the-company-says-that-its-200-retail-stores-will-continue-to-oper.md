@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2015/10/06/business/american-apparel-files-for-bankruptcy.html?smid=tw-bna)
-2. [Forbes](http://www.forbes.com/sites/laurengensler/2015/10/05/american-apparel-bankruptcy/)
+1. [Forbes](http://www.forbes.com/sites/laurengensler/2015/10/05/american-apparel-bankruptcy/)
+2. [The New York Times](http://www.nytimes.com/2015/10/06/business/american-apparel-files-for-bankruptcy.html?smid=tw-bna)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Hindu](http://beta.thehindu.com/news/international/article94833.ece)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/25/dalai-lama-tibet-talks-beijing)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gZdB0EB5TYIvdjR5dBg6O8unqvYA)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gZdB0EB5TYIvdjR5dBg6O8unqvYA)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/jan/25/dalai-lama-tibet-talks-beijing)
 
 ### Related:
 

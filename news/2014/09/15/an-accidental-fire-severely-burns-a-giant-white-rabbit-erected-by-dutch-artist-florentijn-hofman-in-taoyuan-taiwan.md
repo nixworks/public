@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://sinosphere.blogs.nytimes.com/2014/09/15/a-burning-man-style-finale-for-a-giant-rabbit-in-taiwan/?_php=true&_type=blogs&_r=0)
-2. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/lifestyle/hofman-s-giant-white/1363406.html)
+1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/lifestyle/hofman-s-giant-white/1363406.html)
+2. [New York Times](http://sinosphere.blogs.nytimes.com/2014/09/15/a-burning-man-style-finale-for-a-giant-rabbit-in-taiwan/?_php=true&_type=blogs&_r=0)
 
 ### Related:
 

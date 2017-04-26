@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [GMA News](http://www.gmanews.tv/story/212458/ex-afp-chief-reyes-declared-dead-from-gunshot-wound#)
-2. [Philippines Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20110208-319114/Angelo-Reyes-shot)
-3. [Philippines Star](http://www.philstar.com/Article.aspx?articleId=655532&publicationSubCategoryId=200)
+1. [Philippines Star](http://www.philstar.com/Article.aspx?articleId=655532&publicationSubCategoryId=200)
+2. [GMA News](http://www.gmanews.tv/story/212458/ex-afp-chief-reyes-declared-dead-from-gunshot-wound#)
+3. [Philippines Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20110208-319114/Angelo-Reyes-shot)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Labour Chairman and TD Colm Keaveney is to be expelled from the parliamentary pa
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2012/1213/dail-child-benefit.html)
-2. [Irish Independent](http://www.independent.ie/national-news/blow-for-gilmore-as-labour-chairman-colm-keaveney-quits-parliamentary-party-over-welfare-cuts-3325465.html)
+1. [Irish Independent](http://www.independent.ie/national-news/blow-for-gilmore-as-labour-chairman-colm-keaveney-quits-parliamentary-party-over-welfare-cuts-3325465.html)
+2. [RTÉ](http://www.rte.ie/news/2012/1213/dail-child-benefit.html)
 
 ### Related:
 

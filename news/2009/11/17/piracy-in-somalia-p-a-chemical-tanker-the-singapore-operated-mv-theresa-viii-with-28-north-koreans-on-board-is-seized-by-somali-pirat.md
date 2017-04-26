@@ -7,10 +7,10 @@ Tuna trawler and crew released amid reports of $3.5m ransom having been paid by 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/20091117154517373706.html)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9C17U0O1)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1018865/1/.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9C17U0O1)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8363922.stm)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8363922.stm)
+4. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/20091117154517373706.html)
 
 ### Related:
 

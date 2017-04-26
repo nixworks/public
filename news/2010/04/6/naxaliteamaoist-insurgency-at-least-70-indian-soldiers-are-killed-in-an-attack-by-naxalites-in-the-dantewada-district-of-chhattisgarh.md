@@ -7,8 +7,8 @@ In one of the bloodiest attacks on security forces, Naxals trapped and gunned do
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h_lCZKTbGKxncfOoL-5QNNYiUZlwD9ETM9KG0)
-2. [Times of India](http://timesofindia.indiatimes.com/india/More-than-50-killed-as-Maoists-ambush-CRPF-team/articleshow/5765722.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/india/More-than-50-killed-as-Maoists-ambush-CRPF-team/articleshow/5765722.cms)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h_lCZKTbGKxncfOoL-5QNNYiUZlwD9ETM9KG0)
 
 ### Related:
 

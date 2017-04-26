@@ -7,8 +7,8 @@ Four Nigerian farmers are set to find out whether a Netherlands court will back 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-21254890)
-2. [Reuters](http://www.reuters.com/article/2013/01/30/us-shell-nigeria-lawsuit-idUSBRE90S16X20130130)
+1. [Reuters](http://www.reuters.com/article/2013/01/30/us-shell-nigeria-lawsuit-idUSBRE90S16X20130130)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-21254890)
 
 ### Related:
 

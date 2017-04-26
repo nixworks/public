@@ -7,8 +7,8 @@ Much of Syria, including the capital Damascus, was hit by a power cut late on We
 
 ### Source:
 
-1. [Reuters](http://www.trust.org/item/20131022151244-dwwo2/?source=hpbreaking)
-2. [Reuters](http://www.reuters.com/article/2013/10/23/us-syria-crisis-blackout-idUSBRE99M13320131023)
+1. [Reuters](http://www.reuters.com/article/2013/10/23/us-syria-crisis-blackout-idUSBRE99M13320131023)
+2. [Reuters](http://www.trust.org/item/20131022151244-dwwo2/?source=hpbreaking)
 
 ### Related:
 

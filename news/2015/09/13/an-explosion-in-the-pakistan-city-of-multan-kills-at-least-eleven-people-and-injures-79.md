@@ -7,8 +7,8 @@ At least nine people are killed and 42 others wounded in an explosion on a conge
 
 ### Source:
 
-1. [Pakistan Tribune](http://tribune.com.pk/story/956092/seven-killed-20-wounded-in-multan-blast/)
-2. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-14/nine-dead-42-wounded-in-central-pakistan-explosion/6772354)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-14/nine-dead-42-wounded-in-central-pakistan-explosion/6772354)
+2. [Pakistan Tribune](http://tribune.com.pk/story/956092/seven-killed-20-wounded-in-multan-blast/)
 
 ### Related:
 

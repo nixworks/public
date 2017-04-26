@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/videos/news/world/2015/05/11/27114139/)
-2. [Time](http://time.com/3853365/noul-philippines-dodong-typhoon-batanes-signal-japan-death-pagasa/)
+1. [Time](http://time.com/3853365/noul-philippines-dodong-typhoon-batanes-signal-japan-death-pagasa/)
+2. [USA Today](http://www.usatoday.com/videos/news/world/2015/05/11/27114139/)
 
 ### Related:
 

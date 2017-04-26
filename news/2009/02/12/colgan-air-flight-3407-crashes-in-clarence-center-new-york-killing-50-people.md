@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Buffalo News](http://www.buffalonews.com/home/story/577959.html)
-2. [CNN](http://www.cnn.com/2009/US/02/13/plane.crash.new.york/index.html)
+1. [CNN](http://www.cnn.com/2009/US/02/13/plane.crash.new.york/index.html)
+2. [Buffalo News](http://www.buffalonews.com/home/story/577959.html)
 
 ### Related:
 

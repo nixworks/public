@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Aktualne](http://aktualne.centrum.cz/czechnews/clanek.phtml?id=648356)
-2. [Irish Independent](http://www.independent.ie/national-news/oleary-and-ganley-lock-horns-in-bitter-tv-showdown-1896426.html)
-3. [BBC](http://www.bbc.co.uk/blogs/thereporters/gavinhewitt/2009/09/lisbon_fiercely_debated.html)
+2. [BBC](http://www.bbc.co.uk/blogs/thereporters/gavinhewitt/2009/09/lisbon_fiercely_debated.html)
+3. [Irish Independent](http://www.independent.ie/national-news/oleary-and-ganley-lock-horns-in-bitter-tv-showdown-1896426.html)
 
 ### Related:
 

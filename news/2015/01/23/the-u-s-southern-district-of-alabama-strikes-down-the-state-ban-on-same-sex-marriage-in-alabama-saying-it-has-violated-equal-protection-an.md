@@ -7,8 +7,8 @@ The state&#39;s attorney general said he would seek a stay of the ruling.
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2015/01/23/judge-strikes-down-gay-marriage-ban-in-ala/22251623/)
-2. [The Guardian](http://www.theguardian.com/us-news/2015/jan/24/federal-judge-strikes-down-alabama-gay-marriage-ban)
+1. [The Guardian](http://www.theguardian.com/us-news/2015/jan/24/federal-judge-strikes-down-alabama-gay-marriage-ban)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2015/01/23/judge-strikes-down-gay-marriage-ban-in-ala/22251623/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PCHR](http://www.pchrgaza.org/files/PressR/English/2008/27-2009.html)
-2. [Ma'an](http://www.maannews.net/en/index.php?opr=ShowDetails&Do=&ID=35683)
+1. [Ma'an](http://www.maannews.net/en/index.php?opr=ShowDetails&Do=&ID=35683)
+2. [PCHR](http://www.pchrgaza.org/files/PressR/English/2008/27-2009.html)
 
 ### Related:
 

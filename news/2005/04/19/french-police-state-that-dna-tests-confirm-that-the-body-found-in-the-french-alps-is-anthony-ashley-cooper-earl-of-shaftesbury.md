@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Scotsman](http://news.scotsman.com/latest.cfm?id=4424347)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4463279.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4463279.stm)
+2. [Scotsman](http://news.scotsman.com/latest.cfm?id=4424347)
 
 ### Related:
 

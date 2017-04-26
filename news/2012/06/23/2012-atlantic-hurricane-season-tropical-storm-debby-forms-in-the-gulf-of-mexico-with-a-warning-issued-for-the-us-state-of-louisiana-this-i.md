@@ -7,8 +7,8 @@ Tropical Storm Debby&#160; formed Saturday, the National Hurricane Center said, 
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/47904893/ns/weather/t/tropical-storm-debby-forms-gulf-louisiana-warned/#.T-Yy7hdo3TA)
-2. [AP via ''The Province](http://www.theprovince.com/news/world/Tropical+Storm+Debby+forms+Gulf+time+since+1851+that+storms+have/6831245/story.html)
+1. [AP via ''The Province](http://www.theprovince.com/news/world/Tropical+Storm+Debby+forms+Gulf+time+since+1851+that+storms+have/6831245/story.html)
+2. [MSNBC](http://www.msnbc.msn.com/id/47904893/ns/weather/t/tropical-storm-debby-forms-gulf-louisiana-warned/#.T-Yy7hdo3TA)
 
 ### Related:
 

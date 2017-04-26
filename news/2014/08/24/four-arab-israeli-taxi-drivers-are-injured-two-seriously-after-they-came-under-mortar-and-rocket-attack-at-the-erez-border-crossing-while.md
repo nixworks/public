@@ -7,10 +7,10 @@ Four taxi drivers injured as mortars slam into Erez terminal. &#8216;This is an 
 
 ### Source:
 
-1. [Times of Israel](http://www.timesofisrael.com/waiting-to-transport-sick-drivers-at-gaza-crossing-come-under-attack/)
-2. [Fox News](http://www.foxnews.com/world/2014/08/24/israel-steps-up-gaza-strikes-as-netanyahu-says-hamas-is-being-crushed/)
-3. [Jerusalem Post](http://www.jpost.com/Middle-East/Palestinian-Authority-says-Hamas-shot-Fatah-men-in-legs-during-Gaza-fighting-371568)
-4. [Times of Israel](http://www.timesofisrael.com/day-49-barrage-of-rockets-before-midnight-hamas-head-says-no-return-to-talks/)
+1. [Fox News](http://www.foxnews.com/world/2014/08/24/israel-steps-up-gaza-strikes-as-netanyahu-says-hamas-is-being-crushed/)
+2. [Jerusalem Post](http://www.jpost.com/Middle-East/Palestinian-Authority-says-Hamas-shot-Fatah-men-in-legs-during-Gaza-fighting-371568)
+3. [Times of Israel](http://www.timesofisrael.com/day-49-barrage-of-rockets-before-midnight-hamas-head-says-no-return-to-talks/)
+4. [Times of Israel](http://www.timesofisrael.com/waiting-to-transport-sick-drivers-at-gaza-crossing-come-under-attack/)
 
 ### Related:
 

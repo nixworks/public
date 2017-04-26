@@ -8,8 +8,8 @@ Neymar beat Corinthians striker Paolo Guerrero, who scored the winning goal in t
 ### Source:
 
 1. [HDTV Sports](http://sports.ndtv.com/football/news/item/201360-neymar-voted-south-americas-best-player)
-2. [ESPN](http://soccernet.espn.go.com/columns/story/_/id/1284188/neymar:-south-america's-finest-footballer-in-2012)
-3. [Sambafoot](http://www.sambafoot.com/en/news/40964_neymar_voted_best_player_in_south_america_2012_-_el_pais.html)
+2. [Sambafoot](http://www.sambafoot.com/en/news/40964_neymar_voted_best_player_in_south_america_2012_-_el_pais.html)
+3. [ESPN](http://soccernet.espn.go.com/columns/story/_/id/1284188/neymar:-south-america's-finest-footballer-in-2012)
 
 ### Related:
 

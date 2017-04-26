@@ -7,10 +7,10 @@ Vessel originally from Libya, loaded with arms reportedly destined for Syrian op
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/04/28/us-syria-killings-idUSBRE83R06720120428)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5j9f3ojei94X07964KM3QHFL8LAAQ?docId=83085df6b3ee4286b2848631cf2f8d01)
 2. [euronews](http://www.euronews.com/newswires/1498704-gunmen-attack-syrian-army-unit-from-sea-several-dead/)
-3. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5j9f3ojei94X07964KM3QHFL8LAAQ?docId=83085df6b3ee4286b2848631cf2f8d01)
-4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242813737244536.html)
+3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242813737244536.html)
+4. [Reuters](http://www.reuters.com/article/2012/04/28/us-syria-killings-idUSBRE83R06720120428)
 
 ### Related:
 

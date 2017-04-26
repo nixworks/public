@@ -7,9 +7,9 @@ The sprinter awarded a gold medal after Australia&#039;s Sally Pearson was disqu
 
 ### Source:
 
-1. [ Sky Sports](http://www.skysports.com/commonwealth-games/story/0,28877,19884_6438356,00.html)
-2. [AFP via Yahoo! News Australia](http://au.news.yahoo.com/a/-/newshome/8112404/cgames-womens-100m-champion-failed-dope-test-report/)
-3. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/11/3035197.htm?site=sport&section=all)
+1. [AFP via Yahoo! News Australia](http://au.news.yahoo.com/a/-/newshome/8112404/cgames-womens-100m-champion-failed-dope-test-report/)
+2. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/11/3035197.htm?site=sport&section=all)
+3. [ Sky Sports](http://www.skysports.com/commonwealth-games/story/0,28877,19884_6438356,00.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8148850.stm)
-2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/148844/burma-to-amnesty-prisoners)
-3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56C4IV20090713)
+1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/148844/burma-to-amnesty-prisoners)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56C4IV20090713)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8148850.stm)
 
 ### Related:
 

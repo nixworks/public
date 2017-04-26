@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/gerry-adams-to-quit-british-politics-to-stand-in-ireland/story-e6frg6so-1225953656270?from=public_rss)
-2. [The Guardian](http://www.guardian.co.uk/politics/2010/nov/14/gerry-adams-irish-parliament-run)
+1. [The Guardian](http://www.guardian.co.uk/politics/2010/nov/14/gerry-adams-irish-parliament-run)
+2. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/gerry-adams-to-quit-british-politics-to-stand-in-ireland/story-e6frg6so-1225953656270?from=public_rss)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Verdict ending police presence in universities is hailed, but government may use
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101023133934791518.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11613209)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11613209)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101023133934791518.html)
 
 ### Related:
 

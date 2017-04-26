@@ -4,10 +4,10 @@
 _Context: 2007 ICC World Twenty20, Indian, Pakistan_
 
 ### [ Menachem Mazuz, the Attorney General of Israel, orders a criminal investigation into the purchase of a house by the Prime Minister of Israel Ehud Olmert. ](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.md)
-_Context: Attorney General of Israel, Ehud Olmert, Menachem Mazuz, prime minister of Israel_
+_Context: Attorney General of Israel, Ehud Olmert, Menachem Mazuz, Prime Minister of Israel_
 
 ### [ The President of Iran Mahmoud Ahmadinejad speaks at Columbia University stating that Americans should look into "who was truly involved" in the September 11, 2001 attacks, defending his right to denial of the Holocaust, and denying the existence of gay Iranians. ](/news/2007/09/24/the-president-of-iran-mahmoud-ahmadinejad-speaks-at-columbia-university-stating-that-americans-should-look-into-who-was-truly-involved-in.md)
-_Context: Columbia, Holocaust, Iranian President, Mahmoud Ahmadinejad, September 11, 2001 attacks, United States, gay Iran_
+_Context: Columbia, Holocaust, Iranian President, Mahmoud Ahmadinejad, September 11, 2001 attacks, U.S., gay Iran_
 
 ### [ The Secretary-General of the United Nations Ban Ki-Moon called for a new commitment by world leaders on climate change at a special United Nations session to discuss climate change. ](/news/2007/09/24/the-secretary-general-of-the-united-nations-ban-ki-moon-called-for-a-new-commitment-by-world-leaders-on-climate-change-at-a-special-united.md)
 _Context: Ban Ki-moon, Secretary General, United Nations, climate change_

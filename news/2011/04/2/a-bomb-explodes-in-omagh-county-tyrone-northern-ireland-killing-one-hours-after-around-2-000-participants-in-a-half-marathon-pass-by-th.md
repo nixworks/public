@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12947225)
+1. [The Guardian](http://www.guardian.co.uk/uk/2011/apr/02/omagh-murder-officer-1998-atrocity)
 2. [CBC News](http://www.cbc.ca/news/world/story/2011/04/02/ireland-policeman-bomb.html)
-3. [The Guardian](http://www.guardian.co.uk/uk/2011/apr/02/omagh-murder-officer-1998-atrocity)
+3. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12947225)
 
 ### Related:
 

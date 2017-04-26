@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=227581)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201172143643709749.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201172143643709749.html)
+2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=227581)
 
 ### Related:
 

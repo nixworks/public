@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-09/19/content_12080244.htm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8264189.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/local/24102/suthep-warns-over-rally)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8264189.stm)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/19/content_12080244.htm)
 
 ### Related:
 

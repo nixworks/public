@@ -7,16 +7,16 @@ At least 10 people are killed after Syrian police open fire on people protesting
 
 ### Source:
 
-1. [VoA](http://www.voanews.com/english/news/Coalition-Forces-Pound-Libya-as-African-Union-Brokers-Talks-118608614.html)
-2. [The Australian](http://www.theaustralian.com.au/news/world/security-forces-reportedly-open-fire-outside-a-mosque/story-e6frg6so-1226027178517)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12853634)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12843905)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011324164740741279.html)
-6. [The Australian](http://www.theaustralian.com.au/news/world/air-force-destroyed-fierce-fighting-at-key-cities/story-e6frg6so-1226027356167)
-7. [Globe and Mail](http://www.theglobeandmail.com/news/world/africa-mideast/african-union-to-host-delegates-for-gadhafi-rebels/article1955796/)
-8. [BBC](http://www.bbc.co.uk/news/world-africa-12850975)
-9. [AP](http://news.yahoo.com/s/ap/20110324/ap_on_re_mi_ea/ml_jordan)
-10. [CNN](http://www.cnn.com/2011/WORLD/africa/03/23/libya.war/index.html?hpt=T1)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12850975)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12853634)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12843905)
+4. [AP](http://news.yahoo.com/s/ap/20110324/ap_on_re_mi_ea/ml_jordan)
+5. [Globe and Mail](http://www.theglobeandmail.com/news/world/africa-mideast/african-union-to-host-delegates-for-gadhafi-rebels/article1955796/)
+6. [CNN](http://www.cnn.com/2011/WORLD/africa/03/23/libya.war/index.html?hpt=T1)
+7. [The Australian](http://www.theaustralian.com.au/news/world/air-force-destroyed-fierce-fighting-at-key-cities/story-e6frg6so-1226027356167)
+8. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011324164740741279.html)
+9. [VoA](http://www.voanews.com/english/news/Coalition-Forces-Pound-Libya-as-African-Union-Brokers-Talks-118608614.html)
+10. [The Australian](http://www.theaustralian.com.au/news/world/security-forces-reportedly-open-fire-outside-a-mosque/story-e6frg6so-1226027178517)
 
 ### Related:
 

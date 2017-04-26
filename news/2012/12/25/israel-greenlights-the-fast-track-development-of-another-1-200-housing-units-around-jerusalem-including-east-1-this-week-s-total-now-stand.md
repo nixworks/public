@@ -7,8 +7,8 @@ Plan includes 930 apartments for immediate construction and around 300 that coul
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/dec/25/israel-approves-settlement-units-jerusalem)
-2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=297219)
+1. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=297219)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/dec/25/israel-approves-settlement-units-jerusalem)
 
 ### Related:
 

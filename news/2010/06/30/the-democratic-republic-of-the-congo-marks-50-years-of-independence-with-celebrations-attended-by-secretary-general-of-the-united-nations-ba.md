@@ -7,10 +7,10 @@ The Democratic Republic of Congo marks 50 years of independence Wednesday with U
 
 ### Source:
 
-1. [news24.com](http://www.news24.com/Africa/News/G-Bissau-army-chief-installed-20100629)
+1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/dr-congo-marks-50-troubled-years-of-independence-20100630-zl72.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/201063011385670268.html)
-3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/dr-congo-marks-50-troubled-years-of-independence-20100630-zl72.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10471186.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10471186.stm)
+4. [news24.com](http://www.news24.com/Africa/News/G-Bissau-army-chief-installed-20100629)
 5. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10460564.stm)
 
 ### Related:

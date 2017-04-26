@@ -7,9 +7,9 @@ Breaking&#x20;news&#x20;and&#x20;world&#x20;news&#x20;from&#x20;France&#x20;24&#
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20151206_2020&ns_linkname=homepage&ns_fee=0&f24_member_id=1080960490882)
-2. [France 24](http://www.france24.com/en/breaking/20151206-france-far-right-national-front-tops-first-round-voting-regional-elections-with-306-vote-estimate-if-0/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20151206_2016&ns_linkname=20151206_breaking_news&ns_fee=0&f24_member_id=1080960490882)
-3. [Reuters](http://www.reuters.com/article/us-france-politics-idUSKBN0TO0S920151206#iHEpimUxbGDH8Oec.97)
+1. [France 24](http://www.france24.com/en/breaking/20151206-france-far-right-national-front-tops-first-round-voting-regional-elections-with-306-vote-estimate-if-0/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20151206_2016&ns_linkname=20151206_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+2. [Reuters](http://www.reuters.com/article/us-france-politics-idUSKBN0TO0S920151206#iHEpimUxbGDH8Oec.97)
+3. [France24](http://www.france24.com/en/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20151206_2020&ns_linkname=homepage&ns_fee=0&f24_member_id=1080960490882)
 
 ### Related:
 

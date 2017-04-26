@@ -7,9 +7,9 @@ Vladimir Putin&#39;s United Russia party has won nearly 80% of the seats in loca
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-10/12/content_12217178.htm)
+1. [RTÉ](http://www.rte.ie/news/2009/1012/russia.html)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1079513&lang=eng_news)
-3. [RTÉ](http://www.rte.ie/news/2009/1012/russia.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-10/12/content_12217178.htm)
 
 ### Related:
 

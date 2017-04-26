@@ -7,13 +7,13 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [whitehouse.gov](http://georgewbush-whitehouse.archives.gov/news/releases/2005/01/20050101-2.html)
-2. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/01/03/ntsun103.xml&sSheet=/news/2005/01/03/ixnewstop.html)
-3. [UN Regional Coordination Centre] to coordinate relief efforts to stricken areas. This centre will see an influx of UN staff and it is likely to be a long-term infrastructure to help reconstruction efforts. John Budd, [[UNICEF]] head of communications in Indonesia, said, "The Singapore government's military [http://www.sgwiki.com/Singapore_Armed_Forces_%28SAF%29 (SAF](http://www.sgwiki.com/UN_Regional_Coordination_Centre)
-4. [London Free Press](http://www.canoe.ca/NewsStand/LondonFreePress/News/2005/01/03/805581-sun.html)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4143459.stm)
-6. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/125532/1/.html)
-7. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4140375.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4140375.stm)
+2. [London Free Press](http://www.canoe.ca/NewsStand/LondonFreePress/News/2005/01/03/805581-sun.html)
+3. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/01/03/ntsun103.xml&sSheet=/news/2005/01/03/ixnewstop.html)
+4. [UN Regional Coordination Centre] to coordinate relief efforts to stricken areas. This centre will see an influx of UN staff and it is likely to be a long-term infrastructure to help reconstruction efforts. John Budd, [[UNICEF]] head of communications in Indonesia, said, "The Singapore government's military [http://www.sgwiki.com/Singapore_Armed_Forces_%28SAF%29 (SAF](http://www.sgwiki.com/UN_Regional_Coordination_Centre)
+5. [whitehouse.gov](http://georgewbush-whitehouse.archives.gov/news/releases/2005/01/20050101-2.html)
+6. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4143459.stm)
+7. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/125532/1/.html)
 
 ### Related:
 

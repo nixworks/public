@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/business/romanians-protest-for-3rd-day-against-government-austerity-cuts/2012/01/14/gIQAVhWuyP_story.html)
-2. [Antena 3](http://www.antena3.ro/romania/proteste-violente-in-bucuresti-protestatarii-s-au-luat-la-bataie-cu-jandarmii-live-video-151508.html)
+1. [Antena 3](http://www.antena3.ro/romania/proteste-violente-in-bucuresti-protestatarii-s-au-luat-la-bataie-cu-jandarmii-live-video-151508.html)
+2. [Washington Post](http://www.washingtonpost.com/business/romanians-protest-for-3rd-day-against-government-austerity-cuts/2012/01/14/gIQAVhWuyP_story.html)
 
 ### Related:
 

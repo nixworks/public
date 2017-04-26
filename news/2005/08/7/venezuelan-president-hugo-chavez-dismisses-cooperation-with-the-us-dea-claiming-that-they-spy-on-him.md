@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/4130354.stm)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-07T220311Z_01_N07238419_RTRIDST_0_INTERNATIONAL-VENEZUELA-DRUGS-DC.XML)
+1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-07T220311Z_01_N07238419_RTRIDST_0_INTERNATIONAL-VENEZUELA-DRUGS-DC.XML)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4130354.stm)
 
 ### Related:
 

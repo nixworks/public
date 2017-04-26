@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ghana Home Page](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=126605)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6268468.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6268468.stm)
+2. [Ghana Home Page](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=126605)
 
 ### Related:
 

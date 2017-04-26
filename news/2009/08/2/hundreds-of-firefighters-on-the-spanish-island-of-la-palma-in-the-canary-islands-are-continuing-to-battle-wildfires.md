@@ -7,8 +7,8 @@ A wildfire is raging out of control on the Canary Island of La Palma a day after
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6736631.ece)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/5960864/Thousands-evacuated-as-fire-engulfs-Canary-Island-of-La-Palma.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/5960864/Thousands-evacuated-as-fire-engulfs-Canary-Island-of-La-Palma.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6736631.ece)
 
 ### Related:
 

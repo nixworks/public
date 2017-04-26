@@ -7,8 +7,8 @@ The Irish Prime Minister Brian Cowen says he will continue to lead his country a
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/sep/20/irish-pm-brian-cowen-drunk-allegations)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11377050)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11377050)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/sep/20/irish-pm-brian-cowen-drunk-allegations)
 
 ### Related:
 

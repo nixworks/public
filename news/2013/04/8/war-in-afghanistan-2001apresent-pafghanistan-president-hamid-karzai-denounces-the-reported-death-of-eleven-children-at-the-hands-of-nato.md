@@ -7,8 +7,8 @@ President Hamid Karzai denounces reported death of 11 children by NATO forces in
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134712422926374.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134855848509383.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134855848509383.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134712422926374.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4216052.stm)
-2. [Sky News](http://www.sky.com/skynews/article/0,,30000-1194591,00.html)
+1. [Sky News](http://www.sky.com/skynews/article/0,,30000-1194591,00.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4216052.stm)
 
 ### Related:
 

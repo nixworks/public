@@ -7,8 +7,8 @@ Protesters in Cairo demand the resignation of the head of Egypt governing milita
 
 ### Source:
 
-1. [Al Arabiya](http://english.alarabiya.net/articles/2011/11/21/178463.html)
-2. [BBC](http://www.bbc.co.uk/news/world-15814615)
+1. [BBC](http://www.bbc.co.uk/news/world-15814615)
+2. [Al Arabiya](http://english.alarabiya.net/articles/2011/11/21/178463.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-15826048)
 
 ### Related:

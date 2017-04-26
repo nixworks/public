@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Businessweek](http://www.businessweek.com/news/2010-05-06/u-k-election-may-face-legal-challenges-after-voters-locked-out.html)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/ukip/7684695/Ukips-Nigel-Farage-injured-in-plane-crash.html)
-3. [TVNZ](http://tvnz.co.nz/world-news/uk-party-mep-injured-in-plane-crash-3530369)
-4. [Daily Mail](http://www.dailymail.co.uk/news/election/article-1274948/UK-ELECTION-RESULTS-2010-Thousands-sue-lockouts-key-marginals.html#ixzz0nMlJJS6w)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8663716.stm)
+2. [TVNZ](http://tvnz.co.nz/world-news/uk-party-mep-injured-in-plane-crash-3530369)
+3. [Businessweek](http://www.businessweek.com/news/2010-05-06/u-k-election-may-face-legal-challenges-after-voters-locked-out.html)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/ukip/7684695/Ukips-Nigel-Farage-injured-in-plane-crash.html)
 5. [The Guardian](http://www.guardian.co.uk/politics/2010/may/07/election-polling-stations-lock-out)
-6. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8663716.stm)
+6. [Daily Mail](http://www.dailymail.co.uk/news/election/article-1274948/UK-ELECTION-RESULTS-2010-Thousands-sue-lockouts-key-marginals.html#ixzz0nMlJJS6w)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Parliament faces a week of political gamesmanship and mounting election speculat
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/budget-to-take-spotlight-off-contempt-vote-for-a-while/article1948310/)
-2. [Vancouver Sun](http://www.vancouversun.com/Opposition+readies+contempt+report/4470886/story.html)
+1. [Vancouver Sun](http://www.vancouversun.com/Opposition+readies+contempt+report/4470886/story.html)
+2. [The Globe and Mail](http://www.theglobeandmail.com/news/politics/budget-to-take-spotlight-off-contempt-vote-for-a-while/article1948310/)
 3. [Macleans.ca](http://www2.macleans.ca/2011/03/18/opposition-moves-to-find-tories-in-contempt-of-parliament/)
 
 ### Related:

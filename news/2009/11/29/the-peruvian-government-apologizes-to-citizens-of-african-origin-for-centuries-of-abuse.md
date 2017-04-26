@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=348176&CategoryId=14095)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8384853.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8384853.stm)
+2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=348176&CategoryId=14095)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20151121-belgium-raises-terror-alert-highest-level-brussels-statement)
-2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3328049/Belgium-raises-alert-status-Brussels-highest-level.html#ixzz3s6QBV2jT)
-3. [BNO News](http://bnonews.com/news/index.php/news/id2692)
+1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3328049/Belgium-raises-alert-status-Brussels-highest-level.html#ixzz3s6QBV2jT)
+2. [BNO News](http://bnonews.com/news/index.php/news/id2692)
+3. [France 24](http://www.france24.com/en/20151121-belgium-raises-terror-alert-highest-level-brussels-statement)
 
 ### Related:
 

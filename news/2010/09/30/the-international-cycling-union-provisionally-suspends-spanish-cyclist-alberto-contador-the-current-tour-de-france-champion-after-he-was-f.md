@@ -7,10 +7,10 @@ Tour de France champion Alberto Contador has tested positive to a banned substan
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/sport/cycling/alberto-contador-tests-positive-to-banned-substance-20100930-15y37.html)
-2. [AAP via ''The Australian](http://www.theaustralian.com.au/news/sport/tour-de-france-winner-alberto-contador-blames-positive-test-on-food-contamination/story-e6frg7mf-1225932257452?from=public_rss)
-3. [New York Times](http://www.nytimes.com/2010/09/30/sports/cycling/30cycling.html?_r=1&emc=na)
-4. [Reuters](http://af.reuters.com/article/sportsNews/idAFJOE68T00O20100930)
+1. [Reuters](http://af.reuters.com/article/sportsNews/idAFJOE68T00O20100930)
+2. [Sydney Morning Herald](http://www.smh.com.au/sport/cycling/alberto-contador-tests-positive-to-banned-substance-20100930-15y37.html)
+3. [AAP via ''The Australian](http://www.theaustralian.com.au/news/sport/tour-de-france-winner-alberto-contador-blames-positive-test-on-food-contamination/story-e6frg7mf-1225932257452?from=public_rss)
+4. [New York Times](http://www.nytimes.com/2010/09/30/sports/cycling/30cycling.html?_r=1&emc=na)
 
 ### Related:
 

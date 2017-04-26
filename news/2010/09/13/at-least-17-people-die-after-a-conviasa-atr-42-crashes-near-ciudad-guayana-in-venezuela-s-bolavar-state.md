@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Plane-Carrying-47-People-Crashes-in-Venezuela-Survivors-Reported-102787224.html)
+1. [Sina](http://english.sina.com/world/p/2010/0914/339564.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/15/c_13495160.htm)
-3. [Sina](http://english.sina.com/world/p/2010/0914/339564.html)
+3. [Voice of America](http://www.voanews.com/english/news/Plane-Carrying-47-People-Crashes-in-Venezuela-Survivors-Reported-102787224.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/video/asia-pacific/2010/11/2010111245020326197.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11740798)
-3. [The Irrawaddy](http://www.irrawaddy.org/highlight.php?art_id=20053)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11740798)
+2. [The Irrawaddy](http://www.irrawaddy.org/highlight.php?art_id=20053)
+3. [Al Jazeera](http://english.aljazeera.net/video/asia-pacific/2010/11/2010111245020326197.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Nicaraguan leader Daniel Ortega wins a third consecutive term, but the oppositio
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-37892477)
+1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_NICARAGUA_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [AP via ''The Caledonian-Record](http://www.caledonianrecord.com/news/world/nicaragua-s-president-appears-headed-for-re-election-again/article_b3fdc1c5-e9b4-5c53-aa67-f93b7d6027d6.html)
-3. [AP](http://hosted.ap.org/dynamic/stories/L/LT_NICARAGUA_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+3. [BBC](http://www.bbc.com/news/world-latin-america-37892477)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Alabama Gov. Bentley declares State of Emergency following gas line explosion an
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/us/2016/11/01/deadly-pipeline-blast-in-alabama-triggers-2nd-shutdown-in-2-months.html)
-2. [BreakingNews.com](http://www.breakingnews.com/item/2016/11/01/breaking-gov-bentley-declares-state-of/)
+1. [BreakingNews.com](http://www.breakingnews.com/item/2016/11/01/breaking-gov-bentley-declares-state-of/)
+2. [Fox News](http://www.foxnews.com/us/2016/11/01/deadly-pipeline-blast-in-alabama-triggers-2nd-shutdown-in-2-months.html)
 
 ### Related:
 

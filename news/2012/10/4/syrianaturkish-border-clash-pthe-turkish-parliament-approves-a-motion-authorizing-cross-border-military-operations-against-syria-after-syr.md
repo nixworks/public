@@ -7,10 +7,10 @@ World leaders urged Turkey to step back from the brink of war with Syria after i
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9588296/World-leaders-urge-Turkey-to-step-back-from-brink-of-war-with-Syria.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19830928)
-3. [SANA](http://sana.sy/eng/21/2012/10/04/445137.htm)
-4. [CBS](http://www.cbsnews.com/8301-202_162-57525883/turkey-syria-admits-fault-for-deadly-shelling/)
+1. [SANA](http://sana.sy/eng/21/2012/10/04/445137.htm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9588296/World-leaders-urge-Turkey-to-step-back-from-brink-of-war-with-Syria.html)
+3. [CBS](http://www.cbsnews.com/8301-202_162-57525883/turkey-syria-admits-fault-for-deadly-shelling/)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-19830928)
 
 ### Related:
 

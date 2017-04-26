@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4475603,00.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hIH0N3mJ1HhKJrBMWn3uUa8WpghAD99DHBEG0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hIH0N3mJ1HhKJrBMWn3uUa8WpghAD99DHBEG0)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4475603,00.html)
 
 ### Related:
 

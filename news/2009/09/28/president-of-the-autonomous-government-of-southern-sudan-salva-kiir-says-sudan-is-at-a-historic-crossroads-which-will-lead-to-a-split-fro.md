@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/Africa/2009-09-28-voa4.cfm)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8278130.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8278130.stm)
+2. [Voice of America](http://www.voanews.com/english/Africa/2009-09-28-voa4.cfm)
 
 ### Related:
 

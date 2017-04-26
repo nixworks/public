@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/news/world/south-asia/Afghan-energy-minister-survives-roadside-attack-four-civilians-killed/articleshow/5061909.cms)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8277048.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8277048.stm)
+2. [Times of India](http://timesofindia.indiatimes.com/news/world/south-asia/Afghan-energy-minister-survives-roadside-attack-four-civilians-killed/articleshow/5061909.cms)
 
 ### Related:
 

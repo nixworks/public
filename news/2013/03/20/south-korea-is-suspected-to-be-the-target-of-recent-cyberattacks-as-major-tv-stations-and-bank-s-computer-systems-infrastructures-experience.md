@@ -7,8 +7,8 @@ Disruption to the computer networks of broadcasters and banks in South Korea app
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-21855051)
-2. [AP via Fox News](http://www.foxnews.com/world/2013/03/20/south-korean-banks-and-media-report-computer-network-crash/)
+1. [AP via Fox News](http://www.foxnews.com/world/2013/03/20/south-korean-banks-and-media-report-computer-network-crash/)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-21855051)
 
 ### Related:
 

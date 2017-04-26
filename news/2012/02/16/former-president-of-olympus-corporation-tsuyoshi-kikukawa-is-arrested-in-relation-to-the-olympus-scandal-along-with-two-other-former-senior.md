@@ -7,8 +7,8 @@ The ex-chairman of Japanese camera manufacturer Olympus and two other former exe
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-17054089)
-2. [CNN](http://edition.cnn.com/2012/02/15/business/japan-olympus-prosecutors/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2012/02/15/business/japan-olympus-prosecutors/index.html?eref=edition)
+2. [BBC](http://www.bbc.co.uk/news/business-17054089)
 
 ### Related:
 

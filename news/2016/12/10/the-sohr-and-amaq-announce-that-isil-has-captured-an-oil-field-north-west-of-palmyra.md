@@ -7,11 +7,11 @@ The US says it is sending 200 troops to help Syrian rebels recapture the IS stro
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/a/surprise-attack-is-fights-retake-ancient-palmyra/3630304.html)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-carter-idUSKBN13Z051)
 2. [BBC](http://www.bbc.com/news/world-middle-east-38274191)
-3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-carter-idUSKBN13Z051)
-4. [ABC News](http://abcnews.go.com/International/200-us-troops-headed-syria-ash-carter/story?id=44103634)
-5. [De Standaard](http://www.standaard.be/cnt/dmf20161210_02619148)
+3. [De Standaard](http://www.standaard.be/cnt/dmf20161210_02619148)
+4. [VOA](http://www.voanews.com/a/surprise-attack-is-fights-retake-ancient-palmyra/3630304.html)
+5. [ABC News](http://abcnews.go.com/International/200-us-troops-headed-syria-ash-carter/story?id=44103634)
 
 ### Related:
 

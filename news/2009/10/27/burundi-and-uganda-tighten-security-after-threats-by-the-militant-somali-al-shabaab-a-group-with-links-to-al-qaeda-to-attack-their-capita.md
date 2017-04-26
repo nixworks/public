@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2009-10-27-voa25.cfm)
-2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-43471220091027)
+1. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-43471220091027)
+2. [VOA](http://www.voanews.com/english/2009-10-27-voa25.cfm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The shelling of an Abidjan market by Ivory Coast security forces which killed at
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72H0F920110318?sp=true)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12787015)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12787015)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72H0F920110318?sp=true)
 
 ### Related:
 

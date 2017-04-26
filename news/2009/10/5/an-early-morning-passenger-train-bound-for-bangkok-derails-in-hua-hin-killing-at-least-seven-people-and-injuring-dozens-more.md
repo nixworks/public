@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [The NZ Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10601432)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8289960.stm)
 2. [The Hindu](http://beta.thehindu.com/news/international/article29006.ece)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8289960.stm)
-4. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/10/5/nation/20091005105956&sec=nation)
-5. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSP460819)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSP460819)
+4. [The NZ Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10601432)
+5. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/10/5/nation/20091005105956&sec=nation)
 
 ### Related:
 

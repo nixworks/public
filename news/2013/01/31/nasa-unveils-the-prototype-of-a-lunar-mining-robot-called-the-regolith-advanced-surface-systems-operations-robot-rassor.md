@@ -7,8 +7,8 @@ The Regolith Advanced Surface Systems Operations Robot — RASSOR, for short —
 
 ### Source:
 
-1. [The Atlantic](http://www.theatlantic.com/technology/archive/2013/01/here-is-the-robot-that-will-extract-water-from-the-moon/272651/)
-2. [The Verge](http://www.theverge.com/2013/1/30/3931782/nasa-rassor-water-mining-moon-robot-prototype)
+1. [The Verge](http://www.theverge.com/2013/1/30/3931782/nasa-rassor-water-mining-moon-robot-prototype)
+2. [The Atlantic](http://www.theatlantic.com/technology/archive/2013/01/here-is-the-robot-that-will-extract-water-from-the-moon/272651/)
 3. [Red Orbit](http://www.redorbit.com/news/space/1112771415/nasa-lunar-excavator-robot-rassor-012713/)
 
 ### Related:

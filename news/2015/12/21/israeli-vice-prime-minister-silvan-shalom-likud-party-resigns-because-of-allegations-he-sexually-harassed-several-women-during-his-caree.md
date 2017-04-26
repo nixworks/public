@@ -7,8 +7,8 @@ Israeli Interior Minister Silvan Shalom, the subject of sexual harassment allega
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2015/12/21/Israeli-Interior-Minister-Shalom-resigns-after-sexual-harassment-allegation/3201450699634/)
-2. [Reuters](http://www.reuters.com/article/us-israel-politics-idUSKBN0U30RQ20151221)
+1. [Reuters](http://www.reuters.com/article/us-israel-politics-idUSKBN0U30RQ20151221)
+2. [UPI](http://www.upi.com/Top_News/World-News/2015/12/21/Israeli-Interior-Minister-Shalom-resigns-after-sexual-harassment-allegation/3201450699634/)
 
 ### Related:
 

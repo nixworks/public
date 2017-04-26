@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L17687260.htm)
-2. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,12583078%255E23109,00.html)
-3. [Moscow Times](http://www.themoscowtimes.com/stories/2005/03/18/019.html)
+1. [Moscow Times](http://www.themoscowtimes.com/stories/2005/03/18/019.html)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L17687260.htm)
+3. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,12583078%255E23109,00.html)
 
 ### Related:
 

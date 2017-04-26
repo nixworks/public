@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/01/24/wiran24.xml)
-2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/01/27/koreas.nuclear/index.html)
+1. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/01/27/koreas.nuclear/index.html)
+2. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/01/24/wiran24.xml)
 
 ### Related:
 

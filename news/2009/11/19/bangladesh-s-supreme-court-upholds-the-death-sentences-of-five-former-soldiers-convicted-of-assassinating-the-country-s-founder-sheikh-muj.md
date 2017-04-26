@@ -7,9 +7,9 @@ Move allows for hanging of men convicted of killing Bangladesh independence lead
 
 ### Source:
 
-1. [bdnews24.com](http://bdnews24.com/details.php?id=147347&cid=2)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8366329.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/200911196114275202.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8366329.stm)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/200911196114275202.html)
+3. [bdnews24.com](http://bdnews24.com/details.php?id=147347&cid=2)
 
 ### Related:
 

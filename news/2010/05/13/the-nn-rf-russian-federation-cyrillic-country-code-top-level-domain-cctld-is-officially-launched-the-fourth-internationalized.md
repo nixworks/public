@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15119038&PageNum=0)
-2. [правительство.рф] (government.rf](http://xn--80aealotwbjpid2k.xn--p1ai/)
-3. [Voice of Russia](http://english.ruvr.ru/2010/05/13/7757514.html)
-4. [президент.рф] (president.rf](http://xn--d1abbgf6aiiy.xn--p1ai/)
-5. [RIA Novosti](http://en.rian.ru/russia/20100513/159002507.html)
+1. [правительство.рф] (government.rf](http://xn--80aealotwbjpid2k.xn--p1ai/)
+2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15119038&PageNum=0)
+3. [RIA Novosti](http://en.rian.ru/russia/20100513/159002507.html)
+4. [Voice of Russia](http://english.ruvr.ru/2010/05/13/7757514.html)
+5. [президент.рф] (president.rf](http://xn--d1abbgf6aiiy.xn--p1ai/)
 
 ### Related:
 

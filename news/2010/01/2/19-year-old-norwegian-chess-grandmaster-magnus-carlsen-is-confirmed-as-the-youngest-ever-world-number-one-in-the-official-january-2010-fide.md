@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Chessbase](http://www.chessbase.com/newsdetail.asp?newsid=6027)
-2. [Reuters](http://www.reuters.com/article/idUSTRE5BT17H20091230)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g1QmAdxADzyQCWyLLzs2N63owZEA)
 3. [TIME](http://www.time.com/time/world/article/0,8599,1948809,00.html)
-4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g1QmAdxADzyQCWyLLzs2N63owZEA)
+4. [Reuters](http://www.reuters.com/article/idUSTRE5BT17H20091230)
 
 ### Related:
 

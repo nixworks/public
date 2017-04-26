@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/oct/20/somali-pirates-chinese-kill-threat)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/20/indian.ocean.hijacking/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/20/indian.ocean.hijacking/)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/20/somali-pirates-chinese-kill-threat)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-10/20/content_12280295.htm)
 
 ### Related:

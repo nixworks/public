@@ -7,9 +7,9 @@ VIGAN, Philippines— Super Typhoon Haima weakened and blew out to sea Thursday 
 
 ### Source:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/10/20/world/asia/ap-as-asia-typhoon.html?_r=0)
+1. [BBC](http://www.bbc.com/news/world-asia-37707593)
 2. [The Epoch Times](http://www.theepochtimes.com/n3/2174861-typhoon-haima-leaves-at-least-7-dead-in-northern-philippines/)
-3. [BBC](http://www.bbc.com/news/world-asia-37707593)
+3. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/10/20/world/asia/ap-as-asia-typhoon.html?_r=0)
 
 ### Related:
 

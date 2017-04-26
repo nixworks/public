@@ -7,8 +7,8 @@ Myanmar opposition party says campaign will go on as it faces being disbanded.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/2010565313809276.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hpTuO71miIEaHjubVEQ5LQwk6Uig)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hpTuO71miIEaHjubVEQ5LQwk6Uig)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/2010565313809276.html)
 
 ### Related:
 

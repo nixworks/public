@@ -8,8 +8,8 @@ Live coverage as Sir John Chilcot unveils his report into the Iraq war. Plus all
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/politics/live/2016/jul/06/chilcot-report-live-inquiry-war-iraq)
-2. [BBC²](http://www.bbc.com/news/live/uk-36714717#)
-3. [BBC](http://www.bbc.com/news/uk-politics-36712735#)
+2. [BBC](http://www.bbc.com/news/uk-politics-36712735#)
+3. [BBC²](http://www.bbc.com/news/live/uk-36714717#)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Sport/Story/STIStory_566223.html)
-2. [BBC News](http://news.bbc.co.uk/sport2/hi/olympic_games/8913222.stm)
+1. [BBC News](http://news.bbc.co.uk/sport2/hi/olympic_games/8913222.stm)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Sport/Story/STIStory_566223.html)
 
 ### Related:
 

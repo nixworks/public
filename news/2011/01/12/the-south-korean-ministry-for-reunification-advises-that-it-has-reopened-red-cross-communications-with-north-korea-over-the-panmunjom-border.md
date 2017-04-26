@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/01/12/koreas.communication/index.html?eref=edition)
-2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/01/12/54/0401000000AEN20110112005800315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/01/12/54/0401000000AEN20110112005800315F.HTML)
+2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/01/12/koreas.communication/index.html?eref=edition)
 
 ### Related:
 

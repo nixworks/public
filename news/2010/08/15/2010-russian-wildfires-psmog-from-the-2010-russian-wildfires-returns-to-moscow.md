@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201081585347214781.html)
-2. [BBC](http://www.bbc.co.uk/news/business-10977955)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jgAfjznmiotsY8IrgNfIXb9H8qUQ)
-4. [RIA Novosti](http://en.rian.ru/russia/20100814/160203229.html)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jgAfjznmiotsY8IrgNfIXb9H8qUQ)
+3. [RIA Novosti](http://en.rian.ru/russia/20100814/160203229.html)
+4. [BBC](http://www.bbc.co.uk/news/business-10977955)
 
 ### Related:
 

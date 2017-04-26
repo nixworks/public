@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Science Daily](http://www.sciencedaily.com/upi/index.php?feed=Science&article=UPI-1-20050519-14351600-bc-korea-clonecells.xml)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N18306409.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/health/4563607.stm)
-4. [CNN](http://edition.cnn.com/2005/TECH/science/05/19/stem.cells.embryo.ap/)
+1. [BBC](http://news.bbc.co.uk/1/hi/health/4563607.stm)
+2. [CNN](http://edition.cnn.com/2005/TECH/science/05/19/stem.cells.embryo.ap/)
+3. [Science Daily](http://www.sciencedaily.com/upi/index.php?feed=Science&article=UPI-1-20050519-14351600-bc-korea-clonecells.xml)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N18306409.htm)
 
 ### Related:
 

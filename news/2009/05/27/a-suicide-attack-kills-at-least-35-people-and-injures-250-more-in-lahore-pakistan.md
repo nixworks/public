@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8069467.stm)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/05/27/lahore.blast/index.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/05/27/lahore.blast/index.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8069467.stm)
 
 ### Related:
 

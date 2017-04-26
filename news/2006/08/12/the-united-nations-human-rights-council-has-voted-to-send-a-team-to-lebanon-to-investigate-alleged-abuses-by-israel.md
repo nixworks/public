@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4783511.stm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4786041.stm)
-3. [AP](http://www.phillyburbs.com/pb-dyn/news/93-08122006-696953.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4786041.stm)
+2. [AP](http://www.phillyburbs.com/pb-dyn/news/93-08122006-696953.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4783511.stm)
 
 ### Related:
 

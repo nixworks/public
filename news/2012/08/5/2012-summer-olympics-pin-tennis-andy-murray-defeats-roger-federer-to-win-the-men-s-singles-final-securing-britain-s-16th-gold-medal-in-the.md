@@ -7,8 +7,8 @@ Why did we ever doubt him? The imperiousness with which Usain Bolt demolished th
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/olympics/athletics-london-2012/bolt-wins-100m-gold-in-new-olympic-record-time-20120806-23oi7.html)
-2. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/18907001)
+1. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/18907001)
+2. [The Sydney Morning Herald](http://www.smh.com.au/olympics/athletics-london-2012/bolt-wins-100m-gold-in-new-olympic-record-time-20120806-23oi7.html)
 
 ### Related:
 

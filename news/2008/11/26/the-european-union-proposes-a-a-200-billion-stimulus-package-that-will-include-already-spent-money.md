@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2008/11/26/business/euecon.php)
-2. [BBC News](http://news.bbc.co.uk/2/hi/business/7751284.stm)
-3. [WSJ](http://online.wsj.com/article/SB122772595753960371.html?mod=googlenews_wsj)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2008/11/200811261318918300.html)
+1. [BBC News](http://news.bbc.co.uk/2/hi/business/7751284.stm)
+2. [IHT](http://www.iht.com/articles/2008/11/26/business/euecon.php)
+3. [Al Jazeera](http://english.aljazeera.net/news/europe/2008/11/200811261318918300.html)
+4. [WSJ](http://online.wsj.com/article/SB122772595753960371.html?mod=googlenews_wsj)
 
 ### Related:
 

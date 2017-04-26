@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBA](http://www.nba.com/bucks/news/bucks-and-skiles-mutually-agree-part-ways)
-2. [ESPN](http://espn.go.com/nba/story/_/id/8823781/scott-skiles-assistant-jim-boylan-milwaukee-bucks-coach)
+1. [ESPN](http://espn.go.com/nba/story/_/id/8823781/scott-skiles-assistant-jim-boylan-milwaukee-bucks-coach)
+2. [NBA](http://www.nba.com/bucks/news/bucks-and-skiles-mutually-agree-part-ways)
 
 ### Related:
 

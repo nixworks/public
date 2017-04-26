@@ -7,15 +7,15 @@ Turkey&#x27;s president declared he is in control of the NATO country early Satu
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/attempted-turkey-coup-u-s-would-consider-extradition-request-blamed-n610906)
-2. [Reuters via Yahoo! News](https://www.yahoo.com/news/greece-arrests-eight-aboard-turkish-military-helicopter-101227848.html)
-3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-07-16-EU--Turkey-Military%20Coup-The%20Latest/id-a19f8ddebd434668ae1fb317ef65c582)
-4. [Ekathimerini](http://www.ekathimerini.com/210510/article/ekathimerini/news/turkish-military-helicopter-lands-in-northern-greece-crew-requests-asylum)
-5. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/turkeys-erdogan-declares-coup-over-after-clashes-kill-dozens-n610736)
-6. [Reuters](http://www.reuters.com/article/us-turkey-security-usa-flights-idUSKCN0ZW15C)
-7. [AP](http://bigstory.ap.org/article/898783a16ef74ccb80ca46ac231157c3/us-based-turkish-cleric-denies-involvement-coup)
-8. [CNN](http://edition.cnn.com/2016/07/15/world/live-blog-turkey/index.html)
-9. [The New York Times](http://www.nytimes.com/2016/07/16/world/europe/military-attempts-coup-in-turkey-prime-minister-says.html?emc=edit_na_20160715&nlid=66213151&ref=cta)
+1. [CNN](http://edition.cnn.com/2016/07/15/world/live-blog-turkey/index.html)
+2. [The New York Times](http://www.nytimes.com/2016/07/16/world/europe/military-attempts-coup-in-turkey-prime-minister-says.html?emc=edit_na_20160715&nlid=66213151&ref=cta)
+3. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/attempted-turkey-coup-u-s-would-consider-extradition-request-blamed-n610906)
+4. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-07-16-EU--Turkey-Military%20Coup-The%20Latest/id-a19f8ddebd434668ae1fb317ef65c582)
+5. [Reuters](http://www.reuters.com/article/us-turkey-security-usa-flights-idUSKCN0ZW15C)
+6. [Ekathimerini](http://www.ekathimerini.com/210510/article/ekathimerini/news/turkish-military-helicopter-lands-in-northern-greece-crew-requests-asylum)
+7. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/turkeys-erdogan-declares-coup-over-after-clashes-kill-dozens-n610736)
+8. [AP](http://bigstory.ap.org/article/898783a16ef74ccb80ca46ac231157c3/us-based-turkish-cleric-denies-involvement-coup)
+9. [Reuters via Yahoo! News](https://www.yahoo.com/news/greece-arrests-eight-aboard-turkish-military-helicopter-101227848.html)
 
 ### Related:
 

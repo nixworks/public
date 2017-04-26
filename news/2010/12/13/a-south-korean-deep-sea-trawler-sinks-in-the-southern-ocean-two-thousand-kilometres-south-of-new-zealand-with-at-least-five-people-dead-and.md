@@ -7,8 +7,8 @@ More than 20 fishermen are feared dead in icy waters after a South Korean deep-s
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11980392)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/12/13/19/0301000000AEN20101213006300315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/12/13/19/0301000000AEN20101213006300315F.HTML)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11980392)
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/12/antarctica.ship.sinks/index.html?eref=edition)
 
 ### Related:

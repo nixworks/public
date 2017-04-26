@@ -8,8 +8,8 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 ### Source:
 
 1. [CBC](http://www.cbc.ca/arts/music/story/2009/11/06/elton-john-recover-resume.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8346828.stm)
-3. [Reuters India](http://in.reuters.com/article/hollywood/idINTRE5A541Y20091106)
+2. [Reuters India](http://in.reuters.com/article/hollywood/idINTRE5A541Y20091106)
+3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8346828.stm)
 
 ### Related:
 

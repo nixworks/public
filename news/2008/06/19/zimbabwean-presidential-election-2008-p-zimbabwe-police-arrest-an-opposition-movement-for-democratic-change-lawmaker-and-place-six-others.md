@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.750ce05505615674bc3c8716f9f5bf6b.7b1.html)
-2. [Sky News](http://news.sky.com/skynews/article/0,,30200-1319546,00.html)
+1. [Sky News](http://news.sky.com/skynews/article/0,,30200-1319546,00.html)
+2. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.750ce05505615674bc3c8716f9f5bf6b.7b1.html)
 
 ### Related:
 

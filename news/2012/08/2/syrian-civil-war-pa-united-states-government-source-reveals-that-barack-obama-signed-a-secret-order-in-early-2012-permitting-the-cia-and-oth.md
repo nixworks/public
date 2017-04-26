@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/08/02/world/meast/syria-unrest/index.html?hpt=hp_t1)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/08/02/230002.html)
 2. [The Guardian](http://www.guardian.co.uk/world/middle-east-live/2012/aug/02/syria-crisis-damascus-massacres-live?newsfeed=true)
-3. [The Guardian](http://www.guardian.co.uk/world/2012/aug/02/obama-order-supporting-syria-rebels?newsfeed=true)
-4. [Al Arabiya](http://english.alarabiya.net/articles/2012/08/02/230002.html)
+3. [CNN](http://www.cnn.com/2012/08/02/world/meast/syria-unrest/index.html?hpt=hp_t1)
+4. [The Guardian](http://www.guardian.co.uk/world/2012/aug/02/obama-order-supporting-syria-rebels?newsfeed=true)
 
 ### Related:
 

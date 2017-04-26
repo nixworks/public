@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/03/07/news/turkey.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a.CwJnQocw0s&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a.CwJnQocw0s&refer=europe)
+2. [IHT](http://www.iht.com/articles/2005/03/07/news/turkey.html)
 
 ### Related:
 

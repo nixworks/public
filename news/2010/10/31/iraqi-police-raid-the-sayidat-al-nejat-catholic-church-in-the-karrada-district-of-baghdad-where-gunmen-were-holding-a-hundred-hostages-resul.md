@@ -7,9 +7,9 @@ At least 52 people are killed after Iraqi troops storm a Catholic church in Bagh
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101031/wl_afp/iraqunrestushostagereleasetoll)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101031155653449733.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-11463544)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11463544)
+2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101031/wl_afp/iraqunrestushostagereleasetoll)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101031155653449733.html)
 
 ### Related:
 

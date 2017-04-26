@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Thai News Agency](http://enews.mcot.net/view.php?id=12748)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8353896.stm)
-3. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009111129468/Online-Edition/cambodia-rejects-demands-to-extradite-thaksin.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8353896.stm)
+2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009111129468/Online-Edition/cambodia-rejects-demands-to-extradite-thaksin.html)
+3. [Thai News Agency](http://enews.mcot.net/view.php?id=12748)
 
 ### Related:
 

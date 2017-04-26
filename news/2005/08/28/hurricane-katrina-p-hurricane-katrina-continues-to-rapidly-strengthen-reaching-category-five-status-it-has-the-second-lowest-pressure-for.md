@@ -8,10 +8,10 @@
 ### Source:
 
 1. [The Most Intense Hurricanes in the United States 1851-2004](http://www.nhc.noaa.gov/pastint.shtml)
-2. [CNN](http://www.cnn.com/2005/WEATHER/08/27/tropical.weather/index.html)
-3. [NHC](http://www.nhc.noaa.gov)
+2. [NHC](http://www.nhc.noaa.gov)
+3. [Weather Channel](http://www.weather.com/index.html)
 4. [BBC](http://news.bbc.co.uk/2/hi/americas/4192218.stm)
-5. [Weather Channel](http://www.weather.com/index.html)
+5. [CNN](http://www.cnn.com/2005/WEATHER/08/27/tropical.weather/index.html)
 
 ### Related:
 

@@ -31,7 +31,7 @@ A bus plunges into a ravine in western Guatemala, killing 14 ex-paramilitaries w
 Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to make way for a new Israeli enclave, moving ahead with a plan that has angered the Palestinians and the U.S. ...
 
 ### [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md)
-_Context: Birgitta Jónsdóttir, Iceland, United States_
+_Context: Birgitta Jónsdóttir, Iceland, U.S._
 
 ### [Hillary Clinton of the United States speaks out against Iran in Abu Dhabi during a five-day trip to the United Arab Emirates, Oman and Qatar. She requests that the world increase its pressure on Iran, a country she considers "a serious concern". ](/news/2011/01/9/hillary-clinton-of-the-united-states-speaks-out-against-iran-in-abu-dhabi-during-a-five-day-trip-to-the-united-arab-emirates-oman-and-qatar.md)
 US secretary of state says there must be continued international pressure on Iran over its nuclear programme.

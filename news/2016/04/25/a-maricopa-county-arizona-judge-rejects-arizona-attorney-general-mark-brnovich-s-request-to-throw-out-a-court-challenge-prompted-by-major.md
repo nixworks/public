@@ -7,8 +7,8 @@ A Maricopa County judge Monday allowed a lawsuit stemming from Arizona&#39;s&nbs
 
 ### Source:
 
-1. [KPNX](http://www.12news.com/news/politics/elections-fiasco-judge-allows-suit-vs-secretary-of-state/152868265)
-2. [ (KPNX²](http://www.12news.com/news/politics/democrats-file-lawsuit-over-arizona-voting-debacle/135283490)
+1. [ (KPNX²](http://www.12news.com/news/politics/democrats-file-lawsuit-over-arizona-voting-debacle/135283490)
+2. [KPNX](http://www.12news.com/news/politics/elections-fiasco-judge-allows-suit-vs-secretary-of-state/152868265)
 
 ### Related:
 

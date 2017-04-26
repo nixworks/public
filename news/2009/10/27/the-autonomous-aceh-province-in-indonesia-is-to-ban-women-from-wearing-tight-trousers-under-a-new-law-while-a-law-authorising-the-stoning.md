@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Jakarta Globe](http://thejakartaglobe.com/home/west-aceh-to-ban-tight-trousers-shorts/337941)
-2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_446994.html)
-3. [Reuters South Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE59Q14Z20091027)
+1. [Reuters South Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE59Q14Z20091027)
+2. [Jakarta Globe](http://thejakartaglobe.com/home/west-aceh-to-ban-tight-trousers-shorts/337941)
+3. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_446994.html)
 
 ### Related:
 

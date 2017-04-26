@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2005-05/23/content_2990177.htm)
-2. [Forbes](http://www.forbes.com/work/feeds/afx/2005/05/22/afx2046174.html)
+2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/22/mongolia.vote.ap/)
 3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-05-23T051525Z_01_MOR318894_RTRUKOC_0_MONGOLIA.xml)
-4. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/22/mongolia.vote.ap/)
+4. [Forbes](http://www.forbes.com/work/feeds/afx/2005/05/22/afx2046174.html)
 
 ### Related:
 

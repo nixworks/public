@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/7644994.stm)
-2. [The Nation](http://www.thenation.com/doc/20071119/glover_lee)
+1. [The Nation](http://www.thenation.com/doc/20071119/glover_lee)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/7644994.stm)
 
 ### Related:
 

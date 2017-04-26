@@ -7,11 +7,11 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8557765.stm)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/monaco/7407401/Princess-Caroline-of-Monacos-husband-fined-for-Kenya-hotel-assault.html)
-3. [IOL](http://www.iol.co.za/index.php?from=rss_Europe&set_id=1&click_id=24&art_id=nw20100309145741416C461121)
-4. [ABC News](http://abcnews.go.com/Entertainment/wireStory?id=10049951)
-5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/princess-carolines-husband-fined-20100310-pw36.html)
+1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/princess-carolines-husband-fined-20100310-pw36.html)
+2. [IOL](http://www.iol.co.za/index.php?from=rss_Europe&set_id=1&click_id=24&art_id=nw20100309145741416C461121)
+3. [ABC News](http://abcnews.go.com/Entertainment/wireStory?id=10049951)
+4. [BBC](http://news.bbc.co.uk/2/hi/europe/8557765.stm)
+5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/monaco/7407401/Princess-Caroline-of-Monacos-husband-fined-for-Kenya-hotel-assault.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/science/large-hadron-collider/6690033/LHC-sets-new-energy-record-CERN-says.html)
+1. [The Times](http://www.timesonline.co.uk/tol/news/science/physics/article6937460.ece)
 2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8385891.stm)
-3. [The Times](http://www.timesonline.co.uk/tol/news/science/physics/article6937460.ece)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/science/large-hadron-collider/6690033/LHC-sets-new-energy-record-CERN-says.html)
 
 ### Related:
 

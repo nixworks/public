@@ -7,8 +7,8 @@ A worker died after collapsing at a facility in the crippled Fukushima Daiichi n
 
 ### Source:
 
-1. [PanARMENIAN](http://www.panarmenian.net/eng/world/news/69956/Over_15000_people_killed_in_Japan_quake_and_tsunami)
-2. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20110514p2g00m0dm011000c.html)
+1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20110514p2g00m0dm011000c.html)
+2. [PanARMENIAN](http://www.panarmenian.net/eng/world/news/69956/Over_15000_people_killed_in_Japan_quake_and_tsunami)
 3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/14/japan.fukushima.death/index.html)
 
 ### Related:

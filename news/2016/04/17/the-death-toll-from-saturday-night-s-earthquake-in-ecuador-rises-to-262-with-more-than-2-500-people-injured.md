@@ -7,10 +7,10 @@ A huge earthquake hits northern Ecuador, killing at least 77 people, injuring hu
 
 ### Source:
 
-1. [AP² via ''Miami Herald](http://www.miamiherald.com/news/business/article72314847.html)
-2. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-04-18/ecuador-earthquake-leaves-hundreds-dead/7333472)
-3. [BBC](http://www.bbc.com/news/world-latin-america-36065551#)
-4. [AP via Fox News](http://www.foxnews.com/world/2016/04/17/at-least-41-killed-after-powerful-7-8-magnitude-earthquake-strikes-ecuador.html)
+1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-04-18/ecuador-earthquake-leaves-hundreds-dead/7333472)
+2. [AP² via ''Miami Herald](http://www.miamiherald.com/news/business/article72314847.html)
+3. [AP via Fox News](http://www.foxnews.com/world/2016/04/17/at-least-41-killed-after-powerful-7-8-magnitude-earthquake-strikes-ecuador.html)
+4. [BBC](http://www.bbc.com/news/world-latin-america-36065551#)
 
 ### Related:
 

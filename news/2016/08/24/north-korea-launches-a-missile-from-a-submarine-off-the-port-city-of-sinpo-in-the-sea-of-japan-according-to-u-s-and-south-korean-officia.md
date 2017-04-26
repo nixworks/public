@@ -7,8 +7,8 @@ It&#x27;s the third submarine-launched missile test fired this year, but the oth
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_KOREAS_TENSION_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [NBC News](http://www.nbcnews.com/news/world/north-korea-fires-ballistic-missile-submarine-n636821)
+1. [NBC News](http://www.nbcnews.com/news/world/north-korea-fires-ballistic-missile-submarine-n636821)
+2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_KOREAS_TENSION_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

@@ -7,8 +7,8 @@ North Carolina Gov. Pat McCrory has issued an executive order that &quot;seeks l
 
 ### Source:
 
-1. [WSOC](http://www.wsoctv.com/news/read-more-statements-regarding-mccrorys-executive-order-93-on-hb2/212122374)
-2. [NPR](http://www.npr.org/sections/thetwo-way/2016/04/12/473982918/n-c-governor-signs-order-that-clarifies-controversial-gender-identity-bill)
+1. [NPR](http://www.npr.org/sections/thetwo-way/2016/04/12/473982918/n-c-governor-signs-order-that-clarifies-controversial-gender-identity-bill)
+2. [WSOC](http://www.wsoctv.com/news/read-more-statements-regarding-mccrorys-executive-order-93-on-hb2/212122374)
 3. [WNCN](http://wncn.com/2016/04/12/mccrory-issues-executive-order-on-house-bill-2/)
 
 ### Related:

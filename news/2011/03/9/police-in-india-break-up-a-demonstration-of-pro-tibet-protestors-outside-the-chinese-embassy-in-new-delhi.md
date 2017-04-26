@@ -7,8 +7,8 @@ New Delhi, March 9 (IANS) Several Tibetans were detailed Wednesday when they pro
 
 ### Source:
 
-1. [Sify India](http://www.sify.com/news/tibetans-protest-near-chinese-embassy-detained-news-national-ldjuacfjbie.html)
-2. [MSN Philippines](http://news.ph.msn.com/regional/article.aspx?cp-documentid=4699285)
+1. [MSN Philippines](http://news.ph.msn.com/regional/article.aspx?cp-documentid=4699285)
+2. [Sify India](http://www.sify.com/news/tibetans-protest-near-chinese-embassy-detained-news-national-ldjuacfjbie.html)
 
 ### Related:
 

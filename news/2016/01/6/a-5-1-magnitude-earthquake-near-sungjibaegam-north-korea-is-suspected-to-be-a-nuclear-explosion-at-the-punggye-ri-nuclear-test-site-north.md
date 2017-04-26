@@ -7,11 +7,11 @@ A 5.1-magnitude earthquake detected near North Korea’s nuclear test site appea
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/live/2016/jan/06/north-korea-major-announcement-artificial-earthquake-nuclear-test-site-live)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-06/magnitude-5-1-quake-detected-near-north-korea-nuclear-test-site)
-3. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-01-06/north-korea-earthquake-near-nuclear-test-site-could-be-blast/7070848)
-4. [AP](http://bigstory.ap.org/article/148519e577cc4f5e99478c07213b2ad0/earthquake-detected-north-korea-not-clear-if-nuke-test)
-5. [ABC News Australia](http://www.abc.net.au/news/2016-01-07/un-demands-north-korea-cease-further-nuclear-action/7072506)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-01-06/north-korea-earthquake-near-nuclear-test-site-could-be-blast/7070848)
+2. [AP](http://bigstory.ap.org/article/148519e577cc4f5e99478c07213b2ad0/earthquake-detected-north-korea-not-clear-if-nuke-test)
+3. [ABC News Australia](http://www.abc.net.au/news/2016-01-07/un-demands-north-korea-cease-further-nuclear-action/7072506)
+4. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-06/magnitude-5-1-quake-detected-near-north-korea-nuclear-test-site)
+5. [The Guardian](http://www.theguardian.com/world/live/2016/jan/06/north-korea-major-announcement-artificial-earthquake-nuclear-test-site-live)
 
 ### Related:
 

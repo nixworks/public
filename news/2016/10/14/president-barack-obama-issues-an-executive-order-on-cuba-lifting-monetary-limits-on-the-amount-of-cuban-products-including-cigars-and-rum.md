@@ -8,8 +8,8 @@ Regulatory changes ranged from serious business overtures to one that will becom
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2016/10/15/world/americas/obama-cuba-trade-embargo.html?_r=0)
-2. [The Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/cuba/article108195527.html)
-3. [The Havana Times](http://www.havanatimes.org/?p=121556)
+2. [The Havana Times](http://www.havanatimes.org/?p=121556)
+3. [The Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/cuba/article108195527.html)
 
 ### Related:
 

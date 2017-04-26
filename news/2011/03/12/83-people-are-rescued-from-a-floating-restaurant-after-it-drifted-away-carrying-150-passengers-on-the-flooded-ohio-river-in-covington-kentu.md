@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dayton Daily News](http://www.daytondailynews.com/news/dayton-news/floating-restaurant-detaches-on-ohio-river-with-150floating-restaurant-detaches-on-ohio-river-with-150-aboard-1105233.html)
-2. [CTV Edmonton](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110312/floating-restaurant-on-river-110312/20110312/?hub=EdmontonHome)
+1. [CTV Edmonton](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110312/floating-restaurant-on-river-110312/20110312/?hub=EdmontonHome)
+2. [Dayton Daily News](http://www.daytondailynews.com/news/dayton-news/floating-restaurant-detaches-on-ohio-river-with-150floating-restaurant-detaches-on-ohio-river-with-150-aboard-1105233.html)
 
 ### Related:
 

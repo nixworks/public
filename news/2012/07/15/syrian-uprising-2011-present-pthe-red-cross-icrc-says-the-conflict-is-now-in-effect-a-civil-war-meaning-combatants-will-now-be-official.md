@@ -7,8 +7,8 @@ Syria is in effect in civil war, the Red Cross says, meaning combatants will now
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/15/us-syria-crisis-idUSBRE8610SH20120715)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18849362)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18849362)
+2. [Reuters](http://www.reuters.com/article/2012/07/15/us-syria-crisis-idUSBRE8610SH20120715)
 
 ### Related:
 

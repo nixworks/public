@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE60S35Y20100129)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8487474.stm)
-3. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5519242-146/high_court_judge_rejects_demand_for.csp)
+2. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5519242-146/high_court_judge_rejects_demand_for.csp)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8487474.stm)
 
 ### Related:
 

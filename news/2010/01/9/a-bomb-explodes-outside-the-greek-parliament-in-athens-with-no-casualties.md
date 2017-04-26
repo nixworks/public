@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [China Radio International](http://english.cri.cn/6966/2010/01/10/2041s541272.htm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/09/greece.blast/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/09/greece.blast/)
+2. [China Radio International](http://english.cri.cn/6966/2010/01/10/2041s541272.htm)
 
 ### Related:
 

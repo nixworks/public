@@ -7,9 +7,9 @@ The Archbishop of Tuam in County Galway says the Catholic church has no records 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/commentisfree/2014/jun/04/children-galway-mass-graves-ireland-catholic-church)
-2. [CNN](http://edition.cnn.com/2014/06/04/world/europe/ireland-children-bodies-tuam/)
-3. [BBC](http://www.bbc.com/news/world-europe-27710206)
+1. [CNN](http://edition.cnn.com/2014/06/04/world/europe/ireland-children-bodies-tuam/)
+2. [BBC](http://www.bbc.com/news/world-europe-27710206)
+3. [The Guardian](http://www.theguardian.com/commentisfree/2014/jun/04/children-galway-mass-graves-ireland-catholic-church)
 
 ### Related:
 

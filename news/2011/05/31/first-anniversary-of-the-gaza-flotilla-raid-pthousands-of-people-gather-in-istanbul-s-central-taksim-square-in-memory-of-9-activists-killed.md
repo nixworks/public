@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://gamutnews.com/20110531/12387/video-turks-rally-in-memory-of-flotilla-dead.html)
-2. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/05/31/general-ml-gaza-blockade_8491895.html)
+1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/05/31/general-ml-gaza-blockade_8491895.html)
+2. [Reuters](http://gamutnews.com/20110531/12387/video-turks-rally-in-memory-of-flotilla-dead.html)
 
 ### Related:
 

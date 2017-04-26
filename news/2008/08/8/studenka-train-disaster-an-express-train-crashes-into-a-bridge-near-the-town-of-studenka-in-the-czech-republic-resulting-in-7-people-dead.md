@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080808/ap_on_re_eu/czech_train_crash_1)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20080808/wl_afp/czechaccidentrail_080808153106)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20080808/wl_afp/czechaccidentrail_080808153106)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080808/ap_on_re_eu/czech_train_crash_1)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC News America](http://abcnews.go.com/International/wireStory?id=2169391&CMP=OTC-RSSFeeds0312)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/5162082.stm)
-3. [CNN](http://www.cnn.com/2006/WORLD/europe/07/08/russia.crash/index.html)
+1. [CNN](http://www.cnn.com/2006/WORLD/europe/07/08/russia.crash/index.html)
+2. [ABC News America](http://abcnews.go.com/International/wireStory?id=2169391&CMP=OTC-RSSFeeds0312)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/5162082.stm)
 
 ### Related:
 

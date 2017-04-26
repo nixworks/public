@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35869254)
-2. [CNN²](http://www.cnn.com/2016/03/22/europe/brussels-explosions/index.html)
-3. [The New York Times](http://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html)
+2. [The New York Times](http://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html)
+3. [CNN²](http://www.cnn.com/2016/03/22/europe/brussels-explosions/index.html)
 4. [CNN](http://www.cnn.com/2016/03/22/europe/brussels-explosions/)
 
 ### Related:

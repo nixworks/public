@@ -7,8 +7,8 @@ What to do... what to do...
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/arts/film/story/2010/05/21/cannes-algeria-protest.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10139215.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10139215.stm)
+2. [CBC](http://www.cbc.ca/arts/film/story/2010/05/21/cannes-algeria-protest.html)
 3. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/cannes/article7133175.ece)
 
 ### Related:

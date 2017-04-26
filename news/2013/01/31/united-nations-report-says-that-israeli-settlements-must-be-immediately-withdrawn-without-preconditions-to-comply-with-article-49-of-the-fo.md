@@ -7,8 +7,8 @@ U.N. human rights investigators called on Israel on Thursday to halt settlement 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/31/us-israel-palestinians-settlements-idUSBRE90U0EI20130131)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21274061)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21274061)
+2. [Reuters](http://www.reuters.com/article/2013/01/31/us-israel-palestinians-settlements-idUSBRE90U0EI20130131)
 
 ### Related:
 

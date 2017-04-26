@@ -7,9 +7,9 @@ US defence secretary expresses deep concern about China’s push to claim resour
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/05/28/politics/china-ashton-carter-south-china-sea-islands/index.html)
+1. [The Guardian](http://www.theguardian.com/us-news/2015/may/30/us-defense-chief-ash-carter-says-chinas-island-building-erodes-security)
 2. [AP via News24](http://www.news24.com/news24/World/News/Chinese-weaponry-spotted-on-artificial-island-20150530)
-3. [The Guardian](http://www.theguardian.com/us-news/2015/may/30/us-defense-chief-ash-carter-says-chinas-island-building-erodes-security)
+3. [CNN](http://edition.cnn.com/2015/05/28/politics/china-ashton-carter-south-china-sea-islands/index.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Hundreds of meditating supporters of an influential Buddhist abbot in Thailand b
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-36545637)
-2. [Reuters](http://www.reuters.com/article/us-thailand-buddhism-idUSKCN0Z2096)
+1. [Reuters](http://www.reuters.com/article/us-thailand-buddhism-idUSKCN0Z2096)
+2. [BBC](http://www.bbc.com/news/world-asia-36545637)
 
 ### Related:
 

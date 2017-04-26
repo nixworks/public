@@ -7,8 +7,8 @@ A week of intense negotiation is expected as Congressional Democrats said they w
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/23/business/23markets.html)
-2. [The New York Times](http://www.nytimes.com/2008/09/22/business/22paulson.html)
+1. [The New York Times](http://www.nytimes.com/2008/09/22/business/22paulson.html)
+2. [The New York Times](http://www.nytimes.com/2008/09/23/business/23markets.html)
 
 ### Related:
 

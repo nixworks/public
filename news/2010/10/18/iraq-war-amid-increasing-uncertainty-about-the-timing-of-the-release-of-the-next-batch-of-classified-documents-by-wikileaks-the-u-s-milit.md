@@ -7,8 +7,8 @@ The US military assembles a large team to prepare for the expected publication o
 
 ### Source:
 
-1. [The New Zealand Herald](http://www.nzherald.co.nz/ict-news/news/article.cfm?c_id=55&objectid=10681324&ref=rss)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-11562494)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11562494)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/ict-news/news/article.cfm?c_id=55&objectid=10681324&ref=rss)
 
 ### Related:
 

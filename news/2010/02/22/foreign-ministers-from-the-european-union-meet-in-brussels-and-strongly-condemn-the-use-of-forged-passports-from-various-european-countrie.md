@@ -7,8 +7,8 @@ Minister for Foreign Affairs Micheál Martin has said his Israeli counterpart, A
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0222/dubai.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8528427.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8528427.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0222/dubai.html)
 
 ### Related:
 

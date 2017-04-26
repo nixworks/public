@@ -7,12 +7,12 @@ Michael D. Higgins will become Ireland&#039;s next president after his main riva
 
 ### Source:
 
-1. [The telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/8856598/Michael-D.-Higgins-wins-Irish-presidential-election.html)
-2. [BBC News](http://www.bbc.co.uk/news/world-europe-15488067)
+1. [The Journal](http://www.thejournal.ie/all-seven-independents-knocked-out-of-dublin-west-by-election-266308-Oct2011/)
+2. [Newstalk](http://www.newstalk.ie/2011/news/count-underway-in-dublin-west-by-election/)
 3. [98FM](http://www.98fm.com/2011/category-news-sport/by-election-2/)
-4. [The Journal](http://www.thejournal.ie/all-seven-independents-knocked-out-of-dublin-west-by-election-266308-Oct2011/)
-5. [RTÉ News](http://www.rte.ie/news/2011/1028/vote_tracker.html)
-6. [Newstalk](http://www.newstalk.ie/2011/news/count-underway-in-dublin-west-by-election/)
+4. [RTÉ News](http://www.rte.ie/news/2011/1028/vote_tracker.html)
+5. [The telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/8856598/Michael-D.-Higgins-wins-Irish-presidential-election.html)
+6. [BBC News](http://www.bbc.co.uk/news/world-europe-15488067)
 
 ### Related:
 

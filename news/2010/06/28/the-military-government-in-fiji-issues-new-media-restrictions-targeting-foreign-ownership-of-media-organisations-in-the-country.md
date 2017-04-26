@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Fiji-regime-cracks-down-on-media/Article1-564339.aspx)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10432247.stm)
-3. [The Australian](http://www.theaustralian.com.au/business/media/fiji-dictator-frank-bainimarama-cracks-down-on-press-freedom/story-e6frg996-1225885426213)
+1. [The Australian](http://www.theaustralian.com.au/business/media/fiji-dictator-frank-bainimarama-cracks-down-on-press-freedom/story-e6frg996-1225885426213)
+2. [Hindustan Times](http://www.hindustantimes.com/Fiji-regime-cracks-down-on-media/Article1-564339.aspx)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10432247.stm)
 
 ### Related:
 

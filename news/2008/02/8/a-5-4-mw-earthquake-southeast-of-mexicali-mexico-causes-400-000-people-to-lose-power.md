@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/WORLD/americas/02/09/mexico.quake.ap/index.html)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/ci14346868.php)
+1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/ci14346868.php)
+2. [CNN](http://www.cnn.com/2008/WORLD/americas/02/09/mexico.quake.ap/index.html)
 
 ### Related:
 

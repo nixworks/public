@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060206/cabinet_main_060206/20060206?hub=TopStories)
-2. [CBC](http://www.cbc.ca/canada/story/2006/02/06/emerson-jumps060206.html)
+1. [CBC](http://www.cbc.ca/canada/story/2006/02/06/emerson-jumps060206.html)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060206/cabinet_main_060206/20060206?hub=TopStories)
 
 ### Related:
 

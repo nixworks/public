@@ -7,8 +7,8 @@ The Taliban have attacked and entered the northern Afghanistan city of Kunduz.
 
 ### Source:
 
-1. [Nine Entertainment Company Now](http://www.9news.com.au/world/2016/10/03/14/24/taliban-enters-afghan-city-of-kunduz)
-2. [Sputniknews](https://sputniknews.com/asia/20161003/1045936507/kabul-explosion-victims.html)
+1. [Sputniknews](https://sputniknews.com/asia/20161003/1045936507/kabul-explosion-victims.html)
+2. [Nine Entertainment Company Now](http://www.9news.com.au/world/2016/10/03/14/24/taliban-enters-afghan-city-of-kunduz)
 
 ### Related:
 

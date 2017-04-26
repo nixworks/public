@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Associated Press](http://www.thetelegram.com/index.cfm?pid=1154&cpcat=world&stry=268066235)
-2. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-03/27/c_13226914.htm)
-3. [People](http://english.people.com.cn/90001/90783/91321/6932570.html)
+1. [People](http://english.people.com.cn/90001/90783/91321/6932570.html)
+2. [The Associated Press](http://www.thetelegram.com/index.cfm?pid=1154&cpcat=world&stry=268066235)
+3. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-03/27/c_13226914.htm)
 
 ### Related:
 

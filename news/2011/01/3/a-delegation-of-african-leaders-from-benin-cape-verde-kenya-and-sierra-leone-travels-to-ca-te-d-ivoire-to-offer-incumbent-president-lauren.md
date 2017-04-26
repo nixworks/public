@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of Russia](http://english.ruvr.ru/2011/01/03/38637686.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12106533)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12106533)
+2. [Voice of Russia](http://english.ruvr.ru/2011/01/03/38637686.html)
 
 ### Related:
 

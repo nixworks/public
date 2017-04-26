@@ -7,11 +7,11 @@ The closure of the embassy comes after weeks of concern about the safety of thos
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hfzSyRpEIP5fDkNzSdCgVAZLZVtg?docId=9f36adf0f9a54e8e85a079627ee38341)
-2. [Haaretz](http://www.haaretz.com/print-edition/news/bashar-assad-emails-leaked-tips-for-abc-interview-revealed-1.411445)
-3. [Washington Post](http://www.washingtonpost.com/world/us-pulls-diplomats-out-of-syria-as-violence-intensifies/2012/02/06/gIQAN1CxtQ_story.html)
+1. [Washington Post](http://www.washingtonpost.com/world/us-pulls-diplomats-out-of-syria-as-violence-intensifies/2012/02/06/gIQAN1CxtQ_story.html)
+2. [Hurriyet Daily News](http://www.hurriyetdailynews.com/turkey-opens-its-doors-to-all-syrians-fleeing-regime--.aspx?PageID=238&NID=13091&NewsCatID=409)
+3. [Haaretz](http://www.haaretz.com/print-edition/news/bashar-assad-emails-leaked-tips-for-abc-interview-revealed-1.411445)
 4. [CNN](http://www.cnn.com/2012/02/06/world/meast/syria-unrest/index.html?hpt=hp_t2)
-5. [Hurriyet Daily News](http://www.hurriyetdailynews.com/turkey-opens-its-doors-to-all-syrians-fleeing-regime--.aspx?PageID=238&NID=13091&NewsCatID=409)
+5. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hfzSyRpEIP5fDkNzSdCgVAZLZVtg?docId=9f36adf0f9a54e8e85a079627ee38341)
 
 ### Related:
 

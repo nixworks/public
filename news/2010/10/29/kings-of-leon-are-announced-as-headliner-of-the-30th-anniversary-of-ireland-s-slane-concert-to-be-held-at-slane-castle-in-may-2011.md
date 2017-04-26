@@ -7,7 +7,7 @@ American rock band The Kings of Leon have been confirmed as the headline act for
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1029/breaking53.html)
-2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/entertainment/music/news/kings-of-leon-to-rock-slanes-30th-birthday-bash-14991032.html)
-3. [Hot Press](http://www.hotpress.com/Kings%20Of%20Leon/news/Kings-Of-Leon-to-headline-Slane-2011/7202435.html)
-4. [Irish Independent](http://www.independent.ie/national-news/rock-royalty-to-headline-slane-2400556.html)
+1. [Irish Independent](http://www.independent.ie/national-news/rock-royalty-to-headline-slane-2400556.html)
+2. [Hot Press](http://www.hotpress.com/Kings%20Of%20Leon/news/Kings-Of-Leon-to-headline-Slane-2011/7202435.html)
+3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/entertainment/music/news/kings-of-leon-to-rock-slanes-30th-birthday-bash-14991032.html)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1029/breaking53.html)

@@ -7,8 +7,8 @@ A magnitude 5.7 earthquake kills at least 13 people and injures more than 200 in
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-37330418)
-2. [AFP via ''The Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3783308/At-11-dead-100-injured-Tanzania-earthquake-police.html)
+1. [AFP via ''The Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3783308/At-11-dead-100-injured-Tanzania-earthquake-police.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-37330418)
 
 ### Related:
 

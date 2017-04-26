@@ -8,8 +8,8 @@ Iranian media say the Islamic Republic has tested short-range missiles and plans
 ### Source:
 
 1. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/09/27/2009092700639.html)
-2. [The Independent](http://www.independent.co.uk/news/world/middle-east/iranian-military-stages-missile-exercises-1794069.html)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=107220&sectionid=351020101)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=107220&sectionid=351020101)
+3. [The Independent](http://www.independent.co.uk/news/world/middle-east/iranian-military-stages-missile-exercises-1794069.html)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12117776.htm)
 
 ### Related:

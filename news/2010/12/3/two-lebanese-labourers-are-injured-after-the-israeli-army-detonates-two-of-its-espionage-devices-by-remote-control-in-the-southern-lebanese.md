@@ -7,8 +7,8 @@ The Israeli army detonated two of its espionage devices Friday in southern Leban
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jShH9pADHmOdOfHvTAG5qXppxj1g?docId=CNG.3023d7fcdeb5553eb95b62891d9d84d2.a11)
-2. [Daily Star'' - Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=122191)
+1. [Daily Star'' - Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=122191)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jShH9pADHmOdOfHvTAG5qXppxj1g?docId=CNG.3023d7fcdeb5553eb95b62891d9d84d2.a11)
 
 ### Related:
 

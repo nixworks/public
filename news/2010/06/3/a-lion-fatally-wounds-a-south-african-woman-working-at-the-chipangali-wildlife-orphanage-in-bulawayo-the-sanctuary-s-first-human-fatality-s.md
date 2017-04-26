@@ -7,9 +7,9 @@ A lion attacks and kills a South African woman working at a wildlife orphanage i
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10229351.stm)
-2. [ABC News](http://abcnews.go.com/International/wireStory?id=10813955)
-3. [Mail & Guardian](http://www.mg.co.za/article/2010-06-03-lion-kills-sa-volunteer-at-zim-animal-sanctuary)
+1. [Mail & Guardian](http://www.mg.co.za/article/2010-06-03-lion-kills-sa-volunteer-at-zim-animal-sanctuary)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10229351.stm)
+3. [ABC News](http://abcnews.go.com/International/wireStory?id=10813955)
 
 ### Related:
 

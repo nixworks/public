@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011321164113728994.html)
-2. [AP via ''The Washington Post](http://www.washingtonpost.com/world/yemeni-leader-loses-more-of-his-dwindling-power-base-as-top-army-officers-defect/2011/03/21/ABWX9Q5_story.html)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/yemeni-leader-loses-more-of-his-dwindling-power-base-as-top-army-officers-defect/2011/03/21/ABWX9Q5_story.html)
+2. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011321164113728994.html)
 
 ### Related:
 

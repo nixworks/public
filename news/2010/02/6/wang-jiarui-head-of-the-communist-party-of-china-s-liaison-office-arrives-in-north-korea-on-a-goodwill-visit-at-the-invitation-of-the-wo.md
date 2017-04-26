@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_487292.html)
-2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=213864)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gjlAbfHvm1fAlsBcMyTWfa-aS4fA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gjlAbfHvm1fAlsBcMyTWfa-aS4fA)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_487292.html)
+3. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=213864)
 
 ### Related:
 

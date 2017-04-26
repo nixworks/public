@@ -7,8 +7,8 @@ Long-term studies have revealed population declines in fishes, amphibians, repti
 
 ### Source:
 
-1. [Biol. Lett.](http://rsbl.royalsocietypublishing.org/content/early/2010/06/03/rsbl.2010.0373.abstract)
-2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8727863.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8727863.stm)
+2. [Biol. Lett.](http://rsbl.royalsocietypublishing.org/content/early/2010/06/03/rsbl.2010.0373.abstract)
 
 ### Related:
 

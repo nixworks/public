@@ -8,8 +8,8 @@ The UN peacekeeping chief in southern Lebanon appeals for calm, after recent inc
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107965550357860.html)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/10574653.stm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hqROfVAcYUgNlMR9QhD0CEE6v4sA)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hqROfVAcYUgNlMR9QhD0CEE6v4sA)
+3. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/10574653.stm)
 
 ### Related:
 

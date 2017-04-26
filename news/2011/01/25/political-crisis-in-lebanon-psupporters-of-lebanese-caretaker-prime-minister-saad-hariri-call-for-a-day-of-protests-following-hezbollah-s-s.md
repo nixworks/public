@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-lebanon-politics-20110125,0,954437.story)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011125123043953760.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011125123043953760.html)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-lebanon-politics-20110125,0,954437.story)
 
 ### Related:
 

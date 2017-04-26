@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Human Rights Watch](http://hrw.org/english/docs/2005/04/13/liberi10476.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/01becf3c27a03837156c65c8795760ce.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4438497.stm)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/01becf3c27a03837156c65c8795760ce.htm)
+3. [Human Rights Watch](http://hrw.org/english/docs/2005/04/13/liberi10476.htm)
 
 ### Related:
 

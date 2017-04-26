@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [INO](http://news.ino.com/headlines/?newsid=81020100278)
-2. [AFP via Yahoo News Australia](http://au.news.yahoo.com/thewest/a/-/world/7740427/major-7-6-earthquake-tsunami-hit-pacifics-vanuatu/)
+1. [AFP via Yahoo News Australia](http://au.news.yahoo.com/thewest/a/-/world/7740427/major-7-6-earthquake-tsunami-hit-pacifics-vanuatu/)
+2. [INO](http://news.ino.com/headlines/?newsid=81020100278)
 
 ### Related:
 

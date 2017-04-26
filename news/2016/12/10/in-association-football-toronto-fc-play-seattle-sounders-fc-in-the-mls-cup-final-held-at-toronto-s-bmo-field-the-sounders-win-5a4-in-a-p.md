@@ -7,8 +7,8 @@ Toronto FC will finally get their shot at becoming MLS champions on Saturday nig
 
 ### Source:
 
-1. [CTV](http://www.ctvnews.ca/sports/excitement-in-toronto-as-fc-heads-into-mls-final-of-firsts-1.3197976)
-2. [MLS](http://www.cbc.ca/sports/soccer/mls/toronto-fc-seattle-sounders-win-shootout-mls-cup-1.3891222)
+1. [MLS](http://www.cbc.ca/sports/soccer/mls/toronto-fc-seattle-sounders-win-shootout-mls-cup-1.3891222)
+2. [CTV](http://www.ctvnews.ca/sports/excitement-in-toronto-as-fc-heads-into-mls-final-of-firsts-1.3197976)
 
 ### Related:
 

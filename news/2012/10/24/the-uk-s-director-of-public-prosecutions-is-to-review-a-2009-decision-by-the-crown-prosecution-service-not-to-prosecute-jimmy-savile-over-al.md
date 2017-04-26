@@ -7,8 +7,8 @@ Keir Starmer, the Director of Public Prosecutions is to review legal papers rela
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9630550/Jimmy-Savile-What-George-Entwistle-told-MPs-about-Panorama-justthewomen-Newsnight-and-the-conversation-at-the-Hilton-Hotel.html)
-2. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/bbc-workers-face-sex-claims-probe-16228721.html)
+1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/bbc-workers-face-sex-claims-probe-16228721.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9630550/Jimmy-Savile-What-George-Entwistle-told-MPs-about-Panorama-justthewomen-Newsnight-and-the-conversation-at-the-Hilton-Hotel.html)
 
 ### Related:
 

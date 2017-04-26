@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/10/us-storm-jova-idUSTRE79964O20111010)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-10-11/hurricane-jova-nearing-landfall-on-mexico-with-category-2-force.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-10-11/hurricane-jova-nearing-landfall-on-mexico-with-category-2-force.html)
+2. [Reuters](http://www.reuters.com/article/2011/10/10/us-storm-jova-idUSTRE79964O20111010)
 
 ### Related:
 

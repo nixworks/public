@@ -7,8 +7,8 @@ The 1980s British pop star Shakin&#39; Stevens has been convicted of assaulting 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0112/barrettm.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/in_depth/8454635.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/in_depth/8454635.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0112/barrettm.html)
 3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/entertainment/shakin-stevens-guilty-of-assault-14633099.html)
 
 ### Related:

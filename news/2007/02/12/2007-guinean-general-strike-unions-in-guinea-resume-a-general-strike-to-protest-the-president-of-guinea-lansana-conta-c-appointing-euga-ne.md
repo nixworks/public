@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L12889231.htm)
-2. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4547502.html)
-3. [SOS](http://www.soschildrensvillages.org.uk/charity-news/guinea-protests-120207.htm)
+2. [SOS](http://www.soschildrensvillages.org.uk/charity-news/guinea-protests-120207.htm)
+3. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4547502.html)
 
 ### Related:
 

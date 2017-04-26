@@ -7,11 +7,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4804808,00.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4271011.stm)
 2. [VOA News](http://www.voanews.com/english/2005-02-16voa110.cfm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4271011.stm)
-4. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7649393)
-5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7651210)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7651210)
+4. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4804808,00.html)
+5. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7649393)
 
 ### Related:
 

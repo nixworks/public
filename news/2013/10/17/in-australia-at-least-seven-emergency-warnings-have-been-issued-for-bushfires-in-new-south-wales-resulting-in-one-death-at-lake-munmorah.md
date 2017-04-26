@@ -7,8 +7,8 @@ Fire services have issued several emergency warnings in NSW as serious fires bur
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2013/oct/18/nsw-bushfires-dynamic-dangerous-live)
-2. [The Guardian](http://www.theguardian.com/world/2013/oct/17/bushfires-rage-in-nsw-as-emergency-warnings-issued-live-blog)
+1. [The Guardian](http://www.theguardian.com/world/2013/oct/17/bushfires-rage-in-nsw-as-emergency-warnings-issued-live-blog)
+2. [The Guardian](http://www.theguardian.com/world/2013/oct/18/nsw-bushfires-dynamic-dangerous-live)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The Turkish government is reportedly considering demolishing a giant sculpture m
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/10/AR2011011001350.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-12150661)
-3. [AsiaOne](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20110110-257462.html)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12150661)
+2. [AsiaOne](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20110110-257462.html)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/10/AR2011011001350.html)
 
 ### Related:
 

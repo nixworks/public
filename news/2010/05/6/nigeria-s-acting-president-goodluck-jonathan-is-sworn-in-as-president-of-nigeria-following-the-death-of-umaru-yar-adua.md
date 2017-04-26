@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Punch](http://www.punchng.com/Articl.aspx?theartic=Art201005061042078)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hW8uWhgiqtcuunO2WIHnk8o2iw6gD9FHBMQG6)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hW8uWhgiqtcuunO2WIHnk8o2iw6gD9FHBMQG6)
+2. [The Punch](http://www.punchng.com/Articl.aspx?theartic=Art201005061042078)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Hundreds of exiled Syrian activists meeting in Istanbul on Saturday elected a 25
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011716134720701985.html)
-2. [Arab News](http://arabnews.com/middleeast/article472919.ece)
-3. [CNN](http://edition.cnn.com/2011/WORLD/meast/07/16/syria.unrest/)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201171610179115527.html?utm_content=automateplus&utm_campaign=Trial5&utm_source=SocialFlow&utm_term=tweets&utm_medium=MasterAccount)
-5. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFWQtQJEfHaFPdh10Kpre5TUtbPg?docId=CNG.dc25ca3b91c1dca03c4e92b9874f6487.861)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201171610179115527.html?utm_content=automateplus&utm_campaign=Trial5&utm_source=SocialFlow&utm_term=tweets&utm_medium=MasterAccount)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011716134720701985.html)
+3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFWQtQJEfHaFPdh10Kpre5TUtbPg?docId=CNG.dc25ca3b91c1dca03c4e92b9874f6487.861)
+4. [Arab News](http://arabnews.com/middleeast/article472919.ece)
+5. [CNN](http://edition.cnn.com/2011/WORLD/meast/07/16/syria.unrest/)
 
 ### Related:
 

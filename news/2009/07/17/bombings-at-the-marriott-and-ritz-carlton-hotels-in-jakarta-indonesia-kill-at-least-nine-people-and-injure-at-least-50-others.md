@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,25795233-661,00.html)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6717240.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6717240.ece)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/SP522493.htm)
 3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iq-RSvjSDopV724MnWihBs7hYbpwD99FT47O0)
-4. [Reuters](http://www.alertnet.org/thenews/newsdesk/SP522493.htm)
+4. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,25795233-661,00.html)
 
 ### Related:
 

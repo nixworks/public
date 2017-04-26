@@ -7,8 +7,8 @@ A levee breach along the swollen Missouri River prompted the evacuation Sunday o
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/US/06/05/missouri.levee.breech/index.html)
-2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5j1FRaGNFldcLx0DEPMv0ecbcoJdw?docId=bc6c6cc87630460b9ce29e4783627464)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5j1FRaGNFldcLx0DEPMv0ecbcoJdw?docId=bc6c6cc87630460b9ce29e4783627464)
+2. [CNN](http://edition.cnn.com/2011/US/06/05/missouri.levee.breech/index.html)
 
 ### Related:
 

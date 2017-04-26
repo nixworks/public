@@ -7,8 +7,8 @@ Two children and five adults have been injured in a shooting at a block party in
 
 ### Source:
 
-1. [AFP via News24](http://www.news24.com/news24/World/News/Baby-among-7-wounded-in-Philadelphia-party-shooting-20150621)
-2. [NBC Philadelphia](http://www.nbcphiladelphia.com/news/breaking/Ogden-STreet-Shooting-308747231.html)
+1. [NBC Philadelphia](http://www.nbcphiladelphia.com/news/breaking/Ogden-STreet-Shooting-308747231.html)
+2. [AFP via News24](http://www.news24.com/news24/World/News/Baby-among-7-wounded-in-Philadelphia-party-shooting-20150621)
 
 ### Related:
 

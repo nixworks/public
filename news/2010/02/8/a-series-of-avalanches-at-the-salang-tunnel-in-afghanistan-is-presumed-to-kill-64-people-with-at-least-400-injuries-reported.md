@@ -7,8 +7,8 @@ The authorities said a sudden storm with heavy wind and rain set off waves of sn
 
 ### Source:
 
-1. [Toronto Sun](http://www.torontosun.com/news/world/2010/02/09/12803311.html)
-2. [The New York Times](http://www.nytimes.com/2010/02/10/world/asia/10avalanche.html)
+1. [The New York Times](http://www.nytimes.com/2010/02/10/world/asia/10avalanche.html)
+2. [Toronto Sun](http://www.torontosun.com/news/world/2010/02/09/12803311.html)
 
 ### Related:
 

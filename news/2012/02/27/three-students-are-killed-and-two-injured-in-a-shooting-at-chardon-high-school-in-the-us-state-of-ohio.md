@@ -7,8 +7,8 @@ One student was killed and four were injured in a shooting Monday morning&nbsp;a
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-fatality-ohio-shooting-20120227,0,1080775.story)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-17182562)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17182562)
+2. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-fatality-ohio-shooting-20120227,0,1080775.story)
 
 ### Related:
 

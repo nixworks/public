@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD90HCJ9O2)
-2. [Reuters via NineMSN](http://news.ninemsn.com.au/article.aspx?id=559444)
-3. [Reuters via NineMSN](http://www.nidosa.com/)
+1. [Reuters via NineMSN](http://news.ninemsn.com.au/article.aspx?id=559444)
+2. [Reuters via NineMSN](http://www.nidosa.com/)
+3. [AP via Google News](http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD90HCJ9O2)
 
 ### Related:
 

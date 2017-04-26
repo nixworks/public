@@ -7,8 +7,8 @@ Alex Hern analyses the Facebook founder’s 5,700-word mission statement on the 
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/technology/ng-interactive/2017/feb/17/mark-zuckerberg-facebook-letter-annotated-what-he-said-what-he-didnt)
-2. [Forbes](http://www.forbes.com/sites/kathleenchaykowski/2017/02/16/mark-zuckerbergs-manifesto-is-facebooks-state-of-the-union/#4e98edf95206)
+1. [Forbes](http://www.forbes.com/sites/kathleenchaykowski/2017/02/16/mark-zuckerbergs-manifesto-is-facebooks-state-of-the-union/#4e98edf95206)
+2. [The Guardian](https://www.theguardian.com/technology/ng-interactive/2017/feb/17/mark-zuckerberg-facebook-letter-annotated-what-he-said-what-he-didnt)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 
 ### Source:
 
-1. [Deadline](http://deadline.com/2016/02/bafta-awards-live-blog-2016-british-film-academy-1201702474/)
-2. [AP via Yahoo! News](http://news.yahoo.com/dicaprio-favored-best-actor-prize-britains-baftas-101447922.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/dicaprio-favored-best-actor-prize-britains-baftas-101447922.html)
+2. [Deadline](http://deadline.com/2016/02/bafta-awards-live-blog-2016-british-film-academy-1201702474/)
 
 ### Related:
 

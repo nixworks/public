@@ -19,7 +19,7 @@ _Context: Juárez drug cartel, Vicente Carrillo Fuentes_
 _Context: Gloria Arroyo, Philippines, coup, impeach_
 
 ### [ In Israel, president Moshe Katsav states that he is worried about a possible assassination plot against Prime Minister of Israel Ariel Sharon. ](/news/2005/07/4/in-israel-president-moshe-katsav-states-that-he-is-worried-about-a-possible-assassination-plot-against-prime-minister-of-israel-ariel-shar.md)
-_Context: Ariel Sharon, Israel, Moshe Katsav, assassinated, prime minister of Israel_
+_Context: Ariel Sharon, Israel, Moshe Katsav, Prime Minister of Israel, assassinated_
 
 ### [ France abolishes the legal differences between legitimate and illegitimate children. The decree will take effect July 2006. ](/news/2005/07/4/france-abolishes-the-legal-differences-between-legitimate-and-illegitimate-children-the-decree-will-take-effect-july-2006.md)
 _Context: illegitimate, legitimate_

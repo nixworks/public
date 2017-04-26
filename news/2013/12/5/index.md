@@ -4,7 +4,7 @@
 52 doctors and nurses were killed following the attack and 167 people have been wounded.
 
 ### [2013 Central African Republic coup d'tat:The United Nations approves the creation of the MISCA peacekeeping mission in the Central African Republic, initially led by the African Union with French military support, to help quell the ongoing civil war, as reports emerge of more than 100 people killed during recent clashes in the capital Bangui. ](/news/2013/12/5/2013-central-african-republic-coup-d-etat-pthe-united-nations-approves-the-creation-of-the-misca-peacekeeping-mission-in-the-central-african.md)
-_Context: 2013 Central African Republic coup d'état, African Union, Bangui's, Central-African, French Army, MISCA, United Nations, sectarian violence_
+_Context: 2013 Central African Republic coup d'état, African Union, Bangui's, Central African Republic, French Army, MISCA, United Nations, sectarian violence_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-pmilitants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-an.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal), Kirkuk_
@@ -25,7 +25,7 @@ THE coalition government has secured a free trade deal with South Korea, the fir
 U.S. reporters say China&rsquo;s efforts to intimidate journalists have increased under President Xi Jinping.
 
 ### [United States Secretary of State John Kerry meets with the Prime Minister of Israel Benjamin Netanyahu in Jerusalem to talk about many topics including the nuclear program of Iran. ](/news/2013/12/5/united-states-secretary-of-state-john-kerry-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-in-jerusalem-to-talk-about-many-topic.md)
-_Context: Benjamin Netanyahu, Jerusalem, John Kerry, United States Secretary of State, nuclear scientist, prime minister of Israel_
+_Context: Benjamin Netanyahu, Jerusalem, John Kerry, Prime Minister of Israel, United States Secretary of State, nuclear scientist_
 
 ### [Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel.  ](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.md)
 _Context: Benigno Aquino III, Myanmar, Philippines, Thein Sein, mass media, renewable energy, visa-free travel_

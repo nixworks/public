@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5imPJmHHDmRtjTsKHB9F0M0Ip2eJQ)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5haBT_2q3YzW89_6wsYKpNbHPlZKw)
-3. [AP via Google News](http://ap.google.com/article/ALeqM5h5Z6bJwtN_roGSIUQiQnfbf2NkhgD8VGRM1O1)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5h5Z6bJwtN_roGSIUQiQnfbf2NkhgD8VGRM1O1)
+3. [AFP via Google News](http://afp.google.com/article/ALeqM5haBT_2q3YzW89_6wsYKpNbHPlZKw)
 
 ### Related:
 

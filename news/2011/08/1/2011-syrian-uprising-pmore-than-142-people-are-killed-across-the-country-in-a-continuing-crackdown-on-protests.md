@@ -8,8 +8,8 @@ More deaths reported in several cities, a day after activists said 142 were kill
 ### Source:
 
 1. [Lebanon Now](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=296397)
-2. [The Moscow Times](http://www.themoscowtimes.com/news/article/russia-calls-for-halt-to-violence-in-syria/441432.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/08/20118153040657423.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/08/20118153040657423.html)
+3. [The Moscow Times](http://www.themoscowtimes.com/news/article/russia-calls-for-halt-to-violence-in-syria/441432.html)
 
 ### Related:
 

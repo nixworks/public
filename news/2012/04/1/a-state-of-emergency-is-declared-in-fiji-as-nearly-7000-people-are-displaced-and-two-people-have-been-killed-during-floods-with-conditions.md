@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via ''Perth Now](http://www.perthnow.com.au/news/breaking-news/flood-hit-fiji-declares-state-of-emergency/story-e6frg13l-1226315717724)
-2. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/fiji-floods-forces-7000-evacuations/story-e6frf7jx-1226315608544)
+1. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/fiji-floods-forces-7000-evacuations/story-e6frf7jx-1226315608544)
+2. [AFP via ''Perth Now](http://www.perthnow.com.au/news/breaking-news/flood-hit-fiji-declares-state-of-emergency/story-e6frg13l-1226315717724)
 
 ### Related:
 

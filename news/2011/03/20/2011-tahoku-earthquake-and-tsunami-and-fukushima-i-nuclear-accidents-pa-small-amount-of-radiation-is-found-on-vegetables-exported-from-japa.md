@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/03/79727.html)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/business/japanese-villagers-advised-by-government-not-to-drink-water-due-to-radioactive-iodine-levels/2011/03/20/ABD6pvz_story.html)
-3. [Canadian Press via ''Prince Edward Island Guardian](http://www.theguardian.pe.ca/Canada---World/Business/2011-03-20/article-2347183/Taiwan-says-radiation-detected-on-batch-of-Japanese-peas,-but-levels-not-harmful/1)
+2. [Canadian Press via ''Prince Edward Island Guardian](http://www.theguardian.pe.ca/Canada---World/Business/2011-03-20/article-2347183/Taiwan-says-radiation-detected-on-batch-of-Japanese-peas,-but-levels-not-harmful/1)
+3. [AP via ''Washington Post](http://www.washingtonpost.com/business/japanese-villagers-advised-by-government-not-to-drink-water-due-to-radioactive-iodine-levels/2011/03/20/ABD6pvz_story.html)
 4. [RTÉ](http://www.rte.ie/news/2011/0320/japan.html)
 
 ### Related:

@@ -7,8 +7,8 @@ Bayer AG offered $62 billion to buy Monsanto Co., deepening investor concern tha
 
 ### Source:
 
-1. [The Wall Street Journal](http://www.wsj.com/articles/why-bayers-big-monsanto-bid-has-fallen-flat-1464013191)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-23/germany-s-bayer-offers-62-billion-cash-to-acquire-monsanto)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-23/germany-s-bayer-offers-62-billion-cash-to-acquire-monsanto)
+2. [The Wall Street Journal](http://www.wsj.com/articles/why-bayers-big-monsanto-bid-has-fallen-flat-1464013191)
 
 ### Related:
 

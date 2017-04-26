@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yokwe](http://yokwe.net/index.php?name=News&file=article&sid=2492)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hlzdubNZuoetx6SdFblGLAoZmpgA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hlzdubNZuoetx6SdFblGLAoZmpgA)
+2. [Yokwe](http://yokwe.net/index.php?name=News&file=article&sid=2492)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009112729829/Online-Edition/duch-asks-to-be-set-free.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gXssZ7V8pKg42hqegCKtdB4TPyZgD9C7VVP80)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gXssZ7V8pKg42hqegCKtdB4TPyZgD9C7VVP80)
+2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009112729829/Online-Edition/duch-asks-to-be-set-free.html)
 
 ### Related:
 

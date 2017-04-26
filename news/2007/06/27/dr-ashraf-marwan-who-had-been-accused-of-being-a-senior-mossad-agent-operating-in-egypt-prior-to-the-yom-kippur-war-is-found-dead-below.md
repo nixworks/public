@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://haaretz.com/hasen/spages/875847.html)
-2. [Guardian](http://www.guardian.co.uk/israel/Story/0,,2113578,00.html)
+1. [Guardian](http://www.guardian.co.uk/israel/Story/0,,2113578,00.html)
+2. [Haaretz](http://haaretz.com/hasen/spages/875847.html)
 
 ### Related:
 

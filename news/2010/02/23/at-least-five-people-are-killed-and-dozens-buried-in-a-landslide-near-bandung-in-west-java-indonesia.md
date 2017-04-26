@@ -8,8 +8,8 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 ### Source:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2010/02/23/heavy-equipment-difficult-reach-ciwidey-landslide-location.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8530071.stm)
-3. [New Straits Times](http://www.nst.com.my/Current_News/NST/articles/20100223195329/Article/index_html)
+2. [New Straits Times](http://www.nst.com.my/Current_News/NST/articles/20100223195329/Article/index_html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8530071.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ China has wrested the title of the nation with the most powerful supercomputer o
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-10/28/content_11472540.htm)
-2. [BBC](http://www.bbc.co.uk/news/technology-11644252)
+1. [BBC](http://www.bbc.co.uk/news/technology-11644252)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-10/28/content_11472540.htm)
 
 ### Related:
 

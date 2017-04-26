@@ -7,8 +7,8 @@ Tornadoes killed at least seven people in south Alabama today, including five at
 
 ### Source:
 
-1. [KDKA CBS](http://kdka.com/national/topstories_story_061033052.html)
-2. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/nation/4595039.html)
+1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/nation/4595039.html)
+2. [KDKA CBS](http://kdka.com/national/topstories_story_061033052.html)
 3. [The Birmingham News](http://blog.al.com/spotnews/2007/03/official_revises_death_toll_to.html)
 
 ### Related:

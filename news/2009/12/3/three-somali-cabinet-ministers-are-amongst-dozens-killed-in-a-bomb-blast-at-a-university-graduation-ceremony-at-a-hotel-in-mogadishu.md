@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/200912392625390720.html)
+1. [CCTV](http://english.cctv.com/20091203/104872.shtml)
 2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iwGqas0eCncQf8GRW64qxJ49tGmg)
-3. [CCTV](http://english.cctv.com/20091203/104872.shtml)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/200912392625390720.html)
 
 ### Related:
 

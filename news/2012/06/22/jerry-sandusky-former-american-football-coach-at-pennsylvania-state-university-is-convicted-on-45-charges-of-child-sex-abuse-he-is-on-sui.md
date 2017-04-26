@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/sports/official-sandusky-jury-has-1462298.html)
-2. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/06/23/12374414-sandusky-reportedly-on-suicide-watch?lite)
+1. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/06/23/12374414-sandusky-reportedly-on-suicide-watch?lite)
+2. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/sports/official-sandusky-jury-has-1462298.html)
 
 ### Related:
 

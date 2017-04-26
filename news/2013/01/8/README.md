@@ -37,7 +37,7 @@ _Context: Lega Nord, People of Freedom, Prime Minister, Roberto Maroni, Silvio B
 Bob Brown will spearhead Sea Shepherd Society&#039;s next anti-whaling protest in the Southern Ocean.
 
 ### [The United States records its hottest year on record in 2012. ](/news/2013/01/8/the-united-states-records-its-hottest-year-on-record-in-2012.md)
-_Context: United States_
+_Context: U.S._
 
 ### [In NBA, the Milwaukee Bucks and Scott Skiles mutually agree to part ways after starting the 2012-13 NBA season with a 16-16 record. The team promotes assistant Jim Boylan as interim head coach. ](/news/2013/01/8/in-nba-the-milwaukee-bucks-and-scott-skiles-mutually-agree-to-part-ways-after-starting-the-2012a13-nba-season-with-a-16a16-record-the.md)
  Assistant Jim Boylan will assume head coaching duties for the remainder of the season. Boylan, 57, has been the lead assistant coach for the Bucks the past four seasons. NBAE / Gett

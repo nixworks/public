@@ -62,7 +62,7 @@ Jimmy Lemi Milla, minister for cooperatives and reural development, shot dead al
 The war crimes trial of ex-Liberian leader Charles Taylor is adjourned until Friday after he fails to attend the court in The Hague.
 
 ### [Daniel Patrick Boyd pleads guilty to terrorism charges in a trial in the US state of North Carolina. ](/news/2011/02/9/daniel-patrick-boyd-pleads-guilty-to-terrorism-charges-in-a-trial-in-the-us-state-of-north-carolina.md)
-_Context: Daniel Patrick Boyd, North Carolina, United States, terrorism_
+_Context: Daniel Patrick Boyd, North Carolina, U.S., terrorism_
 
 ### [Spanish Basque nationalists announce a new political party named Sortu (meaning "born" in the Basque language), categorically rejecting all violence, including that of ETA. ](/news/2011/02/9/spanish-basque-nationalists-announce-a-new-political-party-named-sortu-meaning-born-in-the-basque-language-categorically-rejecting-all.md)
 _Context: Basque language, Basque nationalists, ETA, Sortu_
@@ -74,13 +74,13 @@ _Context: Cabinet of Pakistan, Prime Minister, economic crisis, forming a govern
 _Context: 26th congressional district, Chris Lee, U.S. House_
 
 ### [The United States Democratic Leadership Council consisting of centrist Democrats announces that it will wind up. ](/news/2011/02/9/the-united-states-democratic-leadership-council-consisting-of-centrist-democrats-announces-that-it-will-wind-up.md)
-_Context: Democratic, Democratic Leadership Council, United States_
+_Context: Democratic, Democratic Leadership Council, U.S._
 
 ### [The Chamber of Councillors of Tunisia passes legislation allowing the President to rule by decree. ](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.md)
 _Context: Chamber of Councillors of Tunisia, President of Tunisia_
 
 ### [Owners and players in the United States National Football League resume talks in an effort to avoid a lockout next season. ](/news/2011/02/9/owners-and-players-in-the-united-states-national-football-league-resume-talks-in-an-effort-to-avoid-a-lockout-next-season.md)
-_Context: National Football League, United States, locks out_
+_Context: National Football League, U.S., locks out_
 
 ### [The Florida Panthers National Hockey League team acquires Jack Skille, Hugh Jessiman and David Pacan from the Chicago Blackhawks in exchange for Michael Frolik and Alexander Salak. ](/news/2011/02/9/the-florida-panthers-national-hockey-league-team-acquires-jack-skille-hugh-jessiman-and-david-pacan-from-the-chicago-blackhawks-in-exchange.md)
 The latest news, analysis and stories from NHL.com, the official site of the National Hockey League

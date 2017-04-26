@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKTRE67009120100801)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/01/82/0301000000AEN20100801001400315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/01/82/0301000000AEN20100801001400315F.HTML)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE67009120100801)
 
 ### Related:
 

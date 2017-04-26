@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Aftenposten](http://www.aftenposten.no/english/local/article1141583.ece)
-2. [RIA Novosti](http://en.rian.ru/world/20051024/41877198.html)
+1. [RIA Novosti](http://en.rian.ru/world/20051024/41877198.html)
+2. [Aftenposten](http://www.aftenposten.no/english/local/article1141583.ece)
 
 ### Related:
 

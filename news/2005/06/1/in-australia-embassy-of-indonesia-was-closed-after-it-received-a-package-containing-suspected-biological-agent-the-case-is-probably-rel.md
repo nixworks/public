@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=ao3uqttcI10U&refer=australia)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP80256.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP80256.htm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=ao3uqttcI10U&refer=australia)
 
 ### Related:
 

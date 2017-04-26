@@ -7,9 +7,9 @@ A third small bomb has exploded in the central square of Palma de Majorca in Spa
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8192267.stm)
+1. [RTÉ](http://www.rte.ie/news/2009/0809/spain.html)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=atZq_.A2ZKD4)
-3. [RTÉ](http://www.rte.ie/news/2009/0809/spain.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8192267.stm)
 
 ### Related:
 

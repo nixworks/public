@@ -7,8 +7,8 @@ Two Canadians, an Italian and a Colombian are among those killed at the Playa de
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-38635881)
-2. [Reuters](http://www.reuters.com/article/us-mexico-violence-bpm-idUSKBN1501LE)
+1. [Reuters](http://www.reuters.com/article/us-mexico-violence-bpm-idUSKBN1501LE)
+2. [BBC](http://www.bbc.com/news/world-latin-america-38635881)
 
 ### Related:
 

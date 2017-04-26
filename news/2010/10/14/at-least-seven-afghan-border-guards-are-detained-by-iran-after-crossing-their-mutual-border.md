@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Fars News Agency](http://english.farsnews.com/newstext.php?nn=8907220601)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/15/c_13557956.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/15/c_13557956.htm)
+2. [Fars News Agency](http://english.farsnews.com/newstext.php?nn=8907220601)
 
 ### Related:
 

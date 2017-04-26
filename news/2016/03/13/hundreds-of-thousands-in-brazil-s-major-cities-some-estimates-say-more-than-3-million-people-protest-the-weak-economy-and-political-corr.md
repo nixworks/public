@@ -7,9 +7,9 @@ More than one million people marched through cities across Brazil on Sunday to p
 
 ### Source:
 
-1. [Bloomberg Business](http://www.bloomberg.com/news/articles/2016-03-14/millions-join-brazil-impeachment-chorus-in-threat-to-rousseff)
-2. [Reuters](http://www.reuters.com/article/brazil-rousseff-protests-idUSL2N16L054)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-13/brazil-protesters-assemble-as-rousseff-s-future-hangs-in-balance)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-13/brazil-protesters-assemble-as-rousseff-s-future-hangs-in-balance)
+2. [Bloomberg Business](http://www.bloomberg.com/news/articles/2016-03-14/millions-join-brazil-impeachment-chorus-in-threat-to-rousseff)
+3. [Reuters](http://www.reuters.com/article/brazil-rousseff-protests-idUSL2N16L054)
 
 ### Related:
 

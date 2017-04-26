@@ -7,8 +7,8 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/LandedPages/SearchResults.aspx?q=paltel)
-2. [Reuters](http://www.reuters.com/article/2011/11/01/palestinians-internet-idUSL5E7M139720111101)
+1. [Reuters](http://www.reuters.com/article/2011/11/01/palestinians-internet-idUSL5E7M139720111101)
+2. [Jerusalem Post](http://www.jpost.com/LandedPages/SearchResults.aspx?q=paltel)
 
 ### Related:
 

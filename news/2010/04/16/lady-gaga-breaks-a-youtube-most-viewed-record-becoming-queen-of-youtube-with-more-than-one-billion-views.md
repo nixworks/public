@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC Philadelphia](http://www.nbcphiladelphia.com/entertainment/music/Lady_Gaga_Breaks_YouTube_Views_Record-90990324.html)
-2. [Digital Spy](http://www.digitalspy.co.uk/music/news/a214698/lady-gaga-breaks-youtube-record.html)
+1. [Digital Spy](http://www.digitalspy.co.uk/music/news/a214698/lady-gaga-breaks-youtube-record.html)
+2. [NBC Philadelphia](http://www.nbcphiladelphia.com/entertainment/music/Lady_Gaga_Breaks_YouTube_Views_Record-90990324.html)
 
 ### Related:
 

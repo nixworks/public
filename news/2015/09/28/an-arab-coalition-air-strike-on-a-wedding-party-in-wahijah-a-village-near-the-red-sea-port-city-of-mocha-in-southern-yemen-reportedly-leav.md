@@ -7,9 +7,9 @@ At least 38 people are reported to have been killed in an air strike on a weddin
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34382405)
-2. [The National](http://www.thenational.ae/world/middle-east/yemeni-forces-capture-houthi-stronghold-in-marib)
-3. [USA TODAY](http://www.usatoday.com/story/news/world/2015/09/29/airstrike-yemen-wedding-party/73016546/)
+1. [USA TODAY](http://www.usatoday.com/story/news/world/2015/09/29/airstrike-yemen-wedding-party/73016546/)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-34382405)
+3. [The National](http://www.thenational.ae/world/middle-east/yemeni-forces-capture-houthi-stronghold-in-marib)
 
 ### Related:
 

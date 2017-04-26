@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/08/27/world/asia/afghanistan-troops-killed/index.html?eref=edition)
-2. [The Wall Street Journal](http://online.wsj.com/article/SB10000872396390444327204577614593492776150.html)
+1. [The Wall Street Journal](http://online.wsj.com/article/SB10000872396390444327204577614593492776150.html)
+2. [CNN](http://edition.cnn.com/2012/08/27/world/asia/afghanistan-troops-killed/index.html?eref=edition)
 
 ### Related:
 

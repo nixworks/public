@@ -7,8 +7,8 @@ Taking defence cooperation to a new level, India and Russia on Tuesday signed a 
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/mlitary_news/20101221/161867153.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12046974)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12046974)
+2. [RIA Novosti](http://en.rian.ru/mlitary_news/20101221/161867153.html)
 3. [The Hindu](http://www.thehindu.com/news/national/article967916.ece)
 
 ### Related:

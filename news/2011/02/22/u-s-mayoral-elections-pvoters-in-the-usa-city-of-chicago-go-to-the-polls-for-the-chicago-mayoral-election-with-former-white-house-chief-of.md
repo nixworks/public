@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Fox Kansas City](http://www.fox4kc.com/news/wdaf-funkhouser-trailing-in-reelection-run-20110222,0,1899536.story)
-2. [New York Times](http://www.nytimes.com/2011/02/23/us/chicago-mayor-election.html?_r=1&hp)
-3. [ABC News](http://abclocal.go.com/wabc/story?section=news/politics&id=7972568&rss=rss-twitter-wabc-article-7972568&utm_source=twitterfeed&utm_medium=twitter)
-4. [CNN](http://politicalticker.blogs.cnn.com/2011/02/22/breaking-cnn-projects-emanuel-wins-in-chicago/)
+1. [New York Times](http://www.nytimes.com/2011/02/23/us/chicago-mayor-election.html?_r=1&hp)
+2. [Fox Kansas City](http://www.fox4kc.com/news/wdaf-funkhouser-trailing-in-reelection-run-20110222,0,1899536.story)
+3. [CNN](http://politicalticker.blogs.cnn.com/2011/02/22/breaking-cnn-projects-emanuel-wins-in-chicago/)
+4. [ABC News](http://abclocal.go.com/wabc/story?section=news/politics&id=7972568&rss=rss-twitter-wabc-article-7972568&utm_source=twitterfeed&utm_medium=twitter)
 
 ### Related:
 

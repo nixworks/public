@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8450713.stm)
-2. [News24](http://www.news24.com/Content/World/News/1073/78d0c2a010fa4628afd67f7cafa6acb5/10-01-2010-07-34/Malaysia_more_Allah_attacks)
+1. [News24](http://www.news24.com/Content/World/News/1073/78d0c2a010fa4628afd67f7cafa6acb5/10-01-2010-07-34/Malaysia_more_Allah_attacks)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8450713.stm)
 
 ### Related:
 

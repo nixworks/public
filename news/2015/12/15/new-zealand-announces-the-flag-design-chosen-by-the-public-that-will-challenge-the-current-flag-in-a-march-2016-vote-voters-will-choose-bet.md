@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctvnews.ca/world/new-zealand-picks-new-flag-design-that-could-replace-current-flag-1.2700539)
-2. [Stuff](http://www.stuff.co.nz/national/75129464/flag-referendum-final-voting-figures-due-soon)
+1. [Stuff](http://www.stuff.co.nz/national/75129464/flag-referendum-final-voting-figures-due-soon)
+2. [CTV](http://www.ctvnews.ca/world/new-zealand-picks-new-flag-design-that-could-replace-current-flag-1.2700539)
 
 ### Related:
 

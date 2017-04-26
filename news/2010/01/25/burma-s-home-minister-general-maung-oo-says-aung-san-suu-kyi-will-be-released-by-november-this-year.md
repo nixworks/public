@@ -7,8 +7,8 @@ Military reportedly planning to free opposition leader from house arrest.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012554845308917.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE60O0J020100125)
+1. [Reuters](http://www.reuters.com/article/idUSTRE60O0J020100125)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012554845308917.html)
 
 ### Related:
 

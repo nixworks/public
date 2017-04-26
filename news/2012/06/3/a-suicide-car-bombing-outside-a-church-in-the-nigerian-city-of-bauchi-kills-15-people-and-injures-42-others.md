@@ -7,8 +7,8 @@ The Nation Newspaper is Nigeria&#039;s widest circulating newspaper covering New
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ihAmjgK3T5xzf6cuvaq-lIUdb63Q?docId=CNG.b7dce36355e4938d9b295fc7dc549e81.911)
-2. [The Nation](http://www.thenationonlineng.net/2011/index.php/news/48949-bombs-kill-15-in-bauchi-churches.html)
+1. [The Nation](http://www.thenationonlineng.net/2011/index.php/news/48949-bombs-kill-15-in-bauchi-churches.html)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ihAmjgK3T5xzf6cuvaq-lIUdb63Q?docId=CNG.b7dce36355e4938d9b295fc7dc549e81.911)
 
 ### Related:
 

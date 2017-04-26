@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ahram Online](http://english.ahram.org.eg/NewsContent/1/64/135525/Egypt/Politics-/UPDATED-Egypts-Islamic-State-affiliate-claims-rock.aspx)
-2. [Time](http://time.com/3960691/isis-frigate-egypt-sinai/)
+1. [Time](http://time.com/3960691/isis-frigate-egypt-sinai/)
+2. [Ahram Online](http://english.ahram.org.eg/NewsContent/1/64/135525/Egypt/Politics-/UPDATED-Egypts-Islamic-State-affiliate-claims-rock.aspx)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Several high-ranking Syrian military figures reportedly defect to Turkey, amid h
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18586645)
-2. [AP via FOX News](http://www.foxnews.com/world/2012/06/25/syria-fires-at-second-turkish-plane-deputy-prime-minister-says/)
-3. [BBC](http://www.bbc.co.uk/news/world-18445370)
-4. [CNN](http://www.cnn.com/2012/06/25/world/meast/syria-unrest/index.html?hpt=hp_t2)
+1. [AP via FOX News](http://www.foxnews.com/world/2012/06/25/syria-fires-at-second-turkish-plane-deputy-prime-minister-says/)
+2. [CNN](http://www.cnn.com/2012/06/25/world/meast/syria-unrest/index.html?hpt=hp_t2)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18586645)
+4. [BBC](http://www.bbc.co.uk/news/world-18445370)
 
 ### Related:
 

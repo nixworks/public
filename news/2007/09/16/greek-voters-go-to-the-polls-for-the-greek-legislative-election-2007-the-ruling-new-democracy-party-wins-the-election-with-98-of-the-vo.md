@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ERT](http://news.ert.gr/en/c/9/27238.asp)
-2. [AFP](http://afp.google.com/article/ALeqM5gqDqygbdnzCrM_GDPozE5nBLbasg)
+1. [AFP](http://afp.google.com/article/ALeqM5gqDqygbdnzCrM_GDPozE5nBLbasg)
+2. [ERT](http://news.ert.gr/en/c/9/27238.asp)
 
 ### Related:
 

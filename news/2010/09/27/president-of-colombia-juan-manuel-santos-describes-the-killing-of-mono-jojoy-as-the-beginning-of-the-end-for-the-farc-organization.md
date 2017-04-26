@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11415821)
-2. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/beginning-of-end-for-colombian-rebels-20100927-15suc.html)
+1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/beginning-of-end-for-colombian-rebels-20100927-15suc.html)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11415821)
 
 ### Related:
 

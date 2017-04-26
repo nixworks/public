@@ -7,13 +7,13 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [MercoPress](http://www.falkland-malvinas.com/Detalle.asp?NUM=5131)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4272633.stm)
-3. [ABC](http://abcnews.go.com/International/wireStory?id=507052)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4272633.stm)
+2. [ABC](http://abcnews.go.com/International/wireStory?id=507052)
+3. [MercoPress](http://www.falkland-malvinas.com/Detalle.asp?NUM=5131)
 
 ### Related:
 
-1. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-storm-a-security-vault-and-police-headquart.md) _Context: Paraguay_
+1. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-criminal-gang-storm-a-security-vault-and-po.md) _Context: Paraguay_
 2. [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on  a constitutional  amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago.  ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md) _Context: Paraguay_
 3. [At least eight Paraguayan Army soldiers are killed in an ambush by suspected Paraguayan People's Army (EPP) insurgents, near the village of Arroyito, in northern Paraguay. ](/news/2016/08/27/at-least-eight-paraguayan-army-soldiers-are-killed-in-an-ambush-by-suspected-paraguayan-people-s-army-epp-insurgents-near-the-village-of.md) _Context: Paraguay_
 4. [A man is arrested in Paraguay for allegedly raping and impregnating his ten-year-old stepdaughter. ](/news/2015/05/9/a-man-is-arrested-in-paraguay-for-allegedly-raping-and-impregnating-his-ten-year-old-stepdaughter.md) _Context: Paraguay_

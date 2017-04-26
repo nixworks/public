@@ -7,13 +7,13 @@ Defense Secretary Robert M. Gates said Russia’s actions required a reassessmen
 
 ### Source:
 
-1. [ US warns Russia of lasting impact (BBC News](http://news.bbc.co.uk/2/hi/europe/7561586.stm)
-2. [Reuters](http://www.reuters.com/article/GCA-Georgia/idUSLE73186420080814)
-3. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/14/georgia.russia.war/index.html)
-4. [The New York Times](http://www.nytimes.com/2008/08/15/world/europe/15georgia.html)
-5. [International Herald Tribune](http://www.iht.com/articles/2008/08/14/europe/15georgia.php)
-6. [Amnesty International](http://www.amnesty.org/en/news-and-updates/news/civilians-vulnerable-after-hostilities-georgia-20080814)
-7. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/14/georgia.russia.war/)
+1. [International Herald Tribune](http://www.iht.com/articles/2008/08/14/europe/15georgia.php)
+2. [Amnesty International](http://www.amnesty.org/en/news-and-updates/news/civilians-vulnerable-after-hostilities-georgia-20080814)
+3. [ US warns Russia of lasting impact (BBC News](http://news.bbc.co.uk/2/hi/europe/7561586.stm)
+4. [Reuters](http://www.reuters.com/article/GCA-Georgia/idUSLE73186420080814)
+5. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/14/georgia.russia.war/)
+6. [The New York Times](http://www.nytimes.com/2008/08/15/world/europe/15georgia.html)
+7. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/14/georgia.russia.war/index.html)
 
 ### Related:
 

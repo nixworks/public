@@ -7,8 +7,8 @@ Seven churches, a power station and an elementary school are also razed. The reg
 
 ### Source:
 
-1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=54222)
-2. [AsiaNews.it](http://www.asianews.it/news-en/Nine-villages-and-almost-2,000-houses-destroyed-in-Papua-quake-18700.html)
+1. [AsiaNews.it](http://www.asianews.it/news-en/Nine-villages-and-almost-2,000-houses-destroyed-in-Papua-quake-18700.html)
+2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=54222)
 
 ### Related:
 

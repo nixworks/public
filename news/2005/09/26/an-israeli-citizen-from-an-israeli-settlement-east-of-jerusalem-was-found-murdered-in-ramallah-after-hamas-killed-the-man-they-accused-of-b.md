@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Israeli Insider](http://web.israelinsider.com/Articles/Security/6709.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4284216.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4284216.stm)
+2. [Israeli Insider](http://web.israelinsider.com/Articles/Security/6709.htm)
 
 ### Related:
 

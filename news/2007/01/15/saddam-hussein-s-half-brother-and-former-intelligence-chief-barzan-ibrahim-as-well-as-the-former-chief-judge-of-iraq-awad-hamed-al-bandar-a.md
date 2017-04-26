@@ -9,8 +9,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [CNN](http://www.cnn.com/2007/WORLD/meast/01/15/iraq.executions/index.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2007-01-15T135512Z_01_MAC638878_RTRUKOC_0_US-IRAQ.xml&src=rss&rpc=22)
-3. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,21061735-23109,00.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6263787.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6263787.stm)
+4. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,21061735-23109,00.html)
 
 ### Related:
 

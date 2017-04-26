@@ -7,8 +7,8 @@ Costa Rica denies asylum to Colombian,
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD9079FA05)
-2. [AP via Fox News](http://www.foxnews.com/wires/2008Apr22/0,4670,CostaRicaColombia,00.html)
+1. [AP via Fox News](http://www.foxnews.com/wires/2008Apr22/0,4670,CostaRicaColombia,00.html)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD9079FA05)
 
 ### Related:
 

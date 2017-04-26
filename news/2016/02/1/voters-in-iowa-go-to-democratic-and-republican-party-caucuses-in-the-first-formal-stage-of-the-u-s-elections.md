@@ -7,13 +7,13 @@ This article is drawn from reporting by Yahoo News correspondents, photo and vid
 
 ### Source:
 
-1. [Yahoo! politics](https://www.yahoo.com/politics/iowa-on-our-minds-as-the-campaign-nears-its-063213666.html)
-2. [ABC Go](http://abcnews.go.com/Politics/mike-huckabee-suspends-2016-presidential-race/story?id=36654628)
-3. [Washington Post](https://www.washingtonpost.com/politics/omalley-to-suspend-his-campaign-according-to-campaign-adviser/2016/02/01/4e1a4572-c77c-11e5-a4aa-f25866ba0dc6_story.html)
-4. [CNN](http://edition.cnn.com/2016/02/01/politics/iowa-caucuses-updates-real-time/index.html)
-5. [The Hill](http://thehill.com/blogs/ballot-box/presidential-races/bernie-sanders-iowa-results-gain-error-recount-hillary-clinton)
-6. [Fox News Latino]¶[[Republican Party (United States](http://latino.foxnews.com/latino/politics/2016/02/01/iowans-to-choose-trump-aggressiveness-cruz-conservatism-or-rubio-moderation/)
-7. [Who TV](http://whotv.com/2016/02/01/iowans-could-witness-history-once-again-in-2016/)
+1. [The Hill](http://thehill.com/blogs/ballot-box/presidential-races/bernie-sanders-iowa-results-gain-error-recount-hillary-clinton)
+2. [Who TV](http://whotv.com/2016/02/01/iowans-could-witness-history-once-again-in-2016/)
+3. [Yahoo! politics](https://www.yahoo.com/politics/iowa-on-our-minds-as-the-campaign-nears-its-063213666.html)
+4. [Washington Post](https://www.washingtonpost.com/politics/omalley-to-suspend-his-campaign-according-to-campaign-adviser/2016/02/01/4e1a4572-c77c-11e5-a4aa-f25866ba0dc6_story.html)
+5. [CNN](http://edition.cnn.com/2016/02/01/politics/iowa-caucuses-updates-real-time/index.html)
+6. [ABC Go](http://abcnews.go.com/Politics/mike-huckabee-suspends-2016-presidential-race/story?id=36654628)
+7. [Fox News Latino]¶[[Republican Party (United States](http://latino.foxnews.com/latino/politics/2016/02/01/iowans-to-choose-trump-aggressiveness-cruz-conservatism-or-rubio-moderation/)
 
 ### Related:
 

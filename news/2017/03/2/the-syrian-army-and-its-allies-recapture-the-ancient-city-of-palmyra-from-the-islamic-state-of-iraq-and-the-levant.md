@@ -7,11 +7,11 @@ The Syrian opposition declined to congratulate Syrian President Bashar al-Assad 
 
 ### Source:
 
-1. [Al-Masdar News](https://www.almasdarnews.com/article/breaking-syrian-army-recaptures-palmyra-kremlin/)
-2. [Reuters](http://www.reuters.com/article/us-russia-syria-palmyra-idUSKBN16921M)
-3. [Rudaw](http://www.rudaw.net/english/middleeast/syria/02032017)
-4. [BBC](http://www.bbc.com/news/world-middle-east-39140880)
-5. [Al-Masdar News](https://www.almasdarnews.com/article/breaking-kurdish-led-sdf-handover-huge-section-territory-saa/)
+1. [Reuters](http://www.reuters.com/article/us-russia-syria-palmyra-idUSKBN16921M)
+2. [Al-Masdar News](https://www.almasdarnews.com/article/breaking-kurdish-led-sdf-handover-huge-section-territory-saa/)
+3. [BBC](http://www.bbc.com/news/world-middle-east-39140880)
+4. [Rudaw](http://www.rudaw.net/english/middleeast/syria/02032017)
+5. [Al-Masdar News](https://www.almasdarnews.com/article/breaking-syrian-army-recaptures-palmyra-kremlin/)
 
 ### Related:
 

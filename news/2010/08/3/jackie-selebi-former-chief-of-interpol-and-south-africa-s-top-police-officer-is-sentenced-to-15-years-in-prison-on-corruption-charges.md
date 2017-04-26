@@ -8,10 +8,10 @@ Jackie Selebi sentenced to 15 years in jail for accepting bribes from organised 
 ### Source:
 
 1. [France24](http://www.france24.com/en/20100803-safricas-ex-police-chief-jailed-graft)
-2. [AP via GaeaTimes](http://crimewatch.gaeatimes.com/2010/08/03/ex-top-cop-in-south-africa-jackie-selebi-sentenced-to-15-years-on-corruption-charges-41888/)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/03/jackie-selebi-south-africa-corruption-sentence)
-4. [Reuters India](http://in.reuters.com/article/idINIndia-50595920100803?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
-5. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/201082124357208466.html)
+2. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/201082124357208466.html)
+3. [Reuters India](http://in.reuters.com/article/idINIndia-50595920100803?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
+4. [AP via GaeaTimes](http://crimewatch.gaeatimes.com/2010/08/03/ex-top-cop-in-south-africa-jackie-selebi-sentenced-to-15-years-on-corruption-charges-41888/)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/aug/03/jackie-selebi-south-africa-corruption-sentence)
 
 ### Related:
 

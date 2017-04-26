@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/meast/02/26/egypt.cruise.ship/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8538505.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8538505.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/meast/02/26/egypt.cruise.ship/)
 
 ### Related:
 

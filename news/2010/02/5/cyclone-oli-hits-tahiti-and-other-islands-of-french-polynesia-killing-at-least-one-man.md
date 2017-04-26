@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8497969.stm)
-2. [AP](http://www.forbes.com/feeds/ap/2010/02/05/general-as-french-polynesia-tropical-weather_7332802.html)
+1. [AP](http://www.forbes.com/feeds/ap/2010/02/05/general-as-french-polynesia-tropical-weather_7332802.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8497969.stm)
 
 ### Related:
 

@@ -7,16 +7,16 @@ A tsunami that pounded remote islands in western Indonesia following an earthqua
 
 ### Source:
 
-1. [Today's Zaman](http://www.todayszaman.com/tz-web/news-225468-quake-off-indonesia-kills-one-destroys-homes.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/26/c_13576263.htm)
-3. [News Limited](http://www.news.com.au/world/sumatra-tsunami-skipper-says-his-boat-was-lifted-4m-in-the-air/story-e6frfkyi-1225943880226?from=public_rss)
-4. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
-5. [News Limited](http://www.news.com.au/national/australians-missing-on-southern-cross-boat-found-safe-and-well/story-e6frfkvr-1225943936634?referrer=email&source=eDM_newspulse&emcmp=Newspulse&emchn=Newsletter&emlist=Member)
-6. [Reuters](http://www.reuters.com/article/idUSTRE69P0QN20101026?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/26/c_13576263.htm)
+2. [News Limited](http://www.news.com.au/world/sumatra-tsunami-skipper-says-his-boat-was-lifted-4m-in-the-air/story-e6frfkyi-1225943880226?from=public_rss)
+3. [Herald Sun](http://www.heraldsun.com.au/news/world/thousands-ordered-to-flee-as-indonesia-stays-on-volcano-alert/story-e6frf7lf-1225943521075)
+4. [News Limited](http://www.news.com.au/national/australians-missing-on-southern-cross-boat-found-safe-and-well/story-e6frfkvr-1225943936634?referrer=email&source=eDM_newspulse&emcmp=Newspulse&emchn=Newsletter&emlist=Member)
+5. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+6. [Today's Zaman](http://www.todayszaman.com/tz-web/news-225468-quake-off-indonesia-kills-one-destroys-homes.html)
 7. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11625154)
-8. [Herald Sun](http://www.heraldsun.com.au/news/world/thousands-ordered-to-flee-as-indonesia-stays-on-volcano-alert/story-e6frf7lf-1225943521075)
-9. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010102613435550327.html)
-10. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/26/c_13576421.htm)
+8. [Reuters](http://www.reuters.com/article/idUSTRE69P0QN20101026?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+9. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/26/c_13576421.htm)
+10. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010102613435550327.html)
 
 ### Related:
 

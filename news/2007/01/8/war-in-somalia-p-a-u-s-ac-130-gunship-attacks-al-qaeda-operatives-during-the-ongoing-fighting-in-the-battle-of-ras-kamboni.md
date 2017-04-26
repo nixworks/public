@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2007/WORLD/africa/01/08/somalia.strike/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/6240269.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/6240269.stm)
+2. [CNN](http://www.cnn.com/2007/WORLD/africa/01/08/somalia.strike/index.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jbk8KqzaevC0dVbz6M1r7ousoHrw?docId=CNG.6ddcbc57a3d9d10ad0e2f7b757e9b37a.381)
-2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20110510/news_20110510_56_754306.htm)
-3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-05/10/c_13867440.htm)
+1. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20110510/news_20110510_56_754306.htm)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-05/10/c_13867440.htm)
+3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jbk8KqzaevC0dVbz6M1r7ousoHrw?docId=CNG.6ddcbc57a3d9d10ad0e2f7b757e9b37a.381)
 
 ### Related:
 

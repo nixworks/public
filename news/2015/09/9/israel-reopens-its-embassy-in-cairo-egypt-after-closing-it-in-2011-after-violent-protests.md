@@ -8,8 +8,8 @@ Embassy had shut down in 2012 after protesters stormed the building in protest o
 ### Source:
 
 1. [CNN International](http://edition.cnn.com/2015/09/09/world/israel-re-opens-embassy-in-egypt/index.html)
-2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/israel-reopens-embassy-egypt-150909153841311.html)
-3. [AP via ABC News](http://abcnews.go.com/International/wireStory/israeli-embassy-reopens-cairo-years-attack-33632019)
+2. [AP via ABC News](http://abcnews.go.com/International/wireStory/israeli-embassy-reopens-cairo-years-attack-33632019)
+3. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/israel-reopens-embassy-egypt-150909153841311.html)
 
 ### Related:
 

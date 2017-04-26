@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kosovareport](http://kosovareport.blogspot.com/2005/05/serbia-withdraws-international-arrest.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4598007.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4598007.stm)
+2. [Kosovareport](http://kosovareport.blogspot.com/2005/05/serbia-withdraws-international-arrest.html)
 
 ### Related:
 

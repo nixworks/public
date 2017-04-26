@@ -7,12 +7,12 @@ DUBLIN - Irish bishops and politicians called Wednesday for the release of an el
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSMAN479052)
+1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/muslim-rebels-asked-to-help-free-irish-priest-14530540.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8306684.stm)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-10/14/content_12231845.htm)
-4. [ABS-CBN](http://www.abs-cbnnews.com/nation/regions/10/14/09/irish-bishops-call-release-abducted-priest)
-5. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/muslim-rebels-asked-to-help-free-irish-priest-14530540.html)
-6. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8306476.stm)
+4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8306476.stm)
+5. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSMAN479052)
+6. [ABS-CBN](http://www.abs-cbnnews.com/nation/regions/10/14/09/irish-bishops-call-release-abducted-priest)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Chinese government is trying to block access to social media, photo-sharing 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8078538.stm)
-2. [CBC](http://www.cbc.ca/technology/story/2009/06/02/china-blocks-links.html)
+1. [CBC](http://www.cbc.ca/technology/story/2009/06/02/china-blocks-links.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8078538.stm)
 
 ### Related:
 

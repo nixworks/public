@@ -7,12 +7,12 @@ Survivors of a stampede at a dance music festival in Germany, in which 19 people
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/germany/7909015/Love-Parade-cancelled-permanently-as-police-investigate-causes-of-crush-that-killed-19.html)
+1. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,708383,00.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE66N1JV20100725)
-3. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,708383,00.html)
-4. [Sky News](http://news.sky.com/skynews/Home/World-News/Germany-Love-Parade-Stampede-At-Least-19-Are-Killed-At-A-Music-Festival-In-Duisburg/Article/201007415670479?f=rss)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5835760,00.html)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/germany/7909015/Love-Parade-cancelled-permanently-as-police-investigate-causes-of-crush-that-killed-19.html)
 5. [BBC](http://www.bbc.co.uk/news/world-europe-10753448)
-6. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5835760,00.html)
+6. [Sky News](http://news.sky.com/skynews/Home/World-News/Germany-Love-Parade-Stampede-At-Least-19-Are-Killed-At-A-Music-Festival-In-Duisburg/Article/201007415670479?f=rss)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8283945)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=aZB_JlHP8eLs&refer=germany)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1562714,00.html)
-4. [IHT](http://www.iht.com/articles/2005/04/25/news/germany.php)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=aZB_JlHP8eLs&refer=germany)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8283945)
+3. [IHT](http://www.iht.com/articles/2005/04/25/news/germany.php)
+4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1562714,00.html)
 
 ### Related:
 

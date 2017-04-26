@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sina](http://english.sina.com/sports/p/2010/0220/304723.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8525862.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8525862.stm)
+2. [Sina](http://english.sina.com/sports/p/2010/0220/304723.html)
 3. [CBC](http://www.cbc.ca/olympics/luge/story/2010/02/20/spo-georgia.html?ref=rss)
 
 ### Related:

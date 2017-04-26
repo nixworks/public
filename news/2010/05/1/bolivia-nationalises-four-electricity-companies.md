@@ -8,9 +8,9 @@ Four electricity companies taken over as state expands control of key industries
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8656106.stm)
-2. [Bangkok Post](http://www.bangkokpost.com/business/economics/176537/bolivia-nationalizes-electricity-companies)
-3. [Reuters](http://www.reuters.com/article/businessNews/idUSTRE64013020100501)
-4. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/201051153755686496.html)
+2. [Reuters](http://www.reuters.com/article/businessNews/idUSTRE64013020100501)
+3. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/201051153755686496.html)
+4. [Bangkok Post](http://www.bangkokpost.com/business/economics/176537/bolivia-nationalizes-electricity-companies)
 
 ### Related:
 

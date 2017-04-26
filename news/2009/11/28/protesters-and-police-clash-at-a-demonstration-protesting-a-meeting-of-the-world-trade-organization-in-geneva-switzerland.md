@@ -7,8 +7,8 @@ Demonstrators have smashed shop windows and set fire to cars in central Geneva d
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB125942469414268001.html?mod=WSJ_hpp_sections_world)
-2. [Swissinfo](http://www.swissinfo.ch/eng/swiss_news/WTO_protests_in_Geneva_turn_violent.html?siteSect=204&sid=11551601&ty=nd)
+1. [Swissinfo](http://www.swissinfo.ch/eng/swiss_news/WTO_protests_in_Geneva_turn_violent.html?siteSect=204&sid=11551601&ty=nd)
+2. [Wall Street Journal](http://online.wsj.com/article/SB125942469414268001.html?mod=WSJ_hpp_sections_world)
 
 ### Related:
 

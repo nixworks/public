@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Times of Zambia](http://www.times.co.zm/news/viewnews.cgi?category=4&id=1118877083)
-2. [AllAfrica](http://allafrica.com/stories/200506150037.html)
+1. [AllAfrica](http://allafrica.com/stories/200506150037.html)
+2. [Times of Zambia](http://www.times.co.zm/news/viewnews.cgi?category=4&id=1118877083)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8799619)
 
 ### Related:

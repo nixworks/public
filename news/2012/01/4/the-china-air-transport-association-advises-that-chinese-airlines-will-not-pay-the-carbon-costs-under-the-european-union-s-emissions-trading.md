@@ -7,10 +7,10 @@ The European Commission said airlines that refused to participate in its carbon 
 
 ### Source:
 
-1. [Bloomberg.com](http://www.bloomberg.com/news/2012-01-04/india-china-mount-opposition-against-eu-imposing-carbon-curbs-on-airlines.html)
-2. [New York Times](http://www.nytimes.com/2012/01/06/business/global/eu-toughens-stance-in-airline-carbon-dispute.html)
-3. [Reuters](http://www.reuters.com/article/2012/01/06/airlines-carbon-tax-asia-idUSL3E8C45RQ20120106)
-4. [ABC Online](http://www.abc.net.au/news/2012-01-06/china-eu-airline-emissions-tax/3761122/)
+1. [New York Times](http://www.nytimes.com/2012/01/06/business/global/eu-toughens-stance-in-airline-carbon-dispute.html)
+2. [Bloomberg.com](http://www.bloomberg.com/news/2012-01-04/india-china-mount-opposition-against-eu-imposing-carbon-curbs-on-airlines.html)
+3. [ABC Online](http://www.abc.net.au/news/2012-01-06/china-eu-airline-emissions-tax/3761122/)
+4. [Reuters](http://www.reuters.com/article/2012/01/06/airlines-carbon-tax-asia-idUSL3E8C45RQ20120106)
 5. [Climate Spectator](http://www.climatespectator.com.au/news/china-airlines-wont-pay-eu-carbon-tax-cata)
 
 ### Related:

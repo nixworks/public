@@ -8,12 +8,12 @@ Turkish warplanes shoot down a Russian military aircraft on the border with Syri
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34907983#)
-2. [BBC](http://www.bbc.com/news/world-middle-east-34912581)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/12013212/Turkey-shoots-down-Russian-military-plane-on-Syria-border-live.html)
-4. [Irish Independent](http://www.independent.ie/world-news/middle-east/turkey-shoots-down-russian-fighter-jet-near-syrian-border-34228526.html)
-5. [BBC](http://www.bbc.co.uk/news/world-middle-east-34917485)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-34917485)
+3. [Irish Independent](http://www.independent.ie/world-news/middle-east/turkey-shoots-down-russian-fighter-jet-near-syrian-border-34228526.html)
+4. [Independent](http://www.independent.co.uk/news/world/europe/vladimir-putin-warns-of-serious-consequences-following-turkey-shooting-down-russian-jet-a6746836.html)
+5. [BBC](http://www.bbc.com/news/world-middle-east-34912581)
 6. [AFP via The Express Tribune](http://tribune.com.pk/story/997532/nato-calls-extraordinary-meeting-after-turkey-downs-russian-jet/)
-7. [Independent](http://www.independent.co.uk/news/world/europe/vladimir-putin-warns-of-serious-consequences-following-turkey-shooting-down-russian-jet-a6746836.html)
+7. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/12013212/Turkey-shoots-down-Russian-military-plane-on-Syria-border-live.html)
 8. [Reuters](http://www.reuters.com/article/2015/11/24/us-mideast-syria-crisis-helicopter-idUSKBN0TD1KQ20151124)
 
 ### Related:

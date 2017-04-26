@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=425795)
+1. [Press TV](http://www.presstv.ir/detail.aspx?id=100794&sectionid=3510212)
 2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5hctngYA7mCw9sGVa-_J7CwVdGOWg)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=100794&sectionid=3510212)
+3. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=425795)
 
 ### Related:
 

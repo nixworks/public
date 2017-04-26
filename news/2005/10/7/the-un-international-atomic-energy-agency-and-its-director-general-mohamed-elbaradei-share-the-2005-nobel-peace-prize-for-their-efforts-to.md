@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Aftenposten](http://www.aftenposten.no/english/local/article1129781.ece)
-2. [Nobel Prize](http://nobelprize.org/peace/laureates/2005/index.html)
-3. [CNN](http://edition.cnn.com/2005/WORLD/europe/10/07/nobel.citation/)
+2. [CNN](http://edition.cnn.com/2005/WORLD/europe/10/07/nobel.citation/)
+3. [Nobel Prize](http://nobelprize.org/peace/laureates/2005/index.html)
 
 ### Related:
 

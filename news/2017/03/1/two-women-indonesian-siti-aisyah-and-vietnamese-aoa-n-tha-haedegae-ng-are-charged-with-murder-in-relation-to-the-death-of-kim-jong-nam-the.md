@@ -7,8 +7,8 @@ Siti Aisyah and Doan Thi Huong face a mandatory death sentence if convicted
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/north-korean-diplomats-in-malaysia-seek-kim-jong-nams-body/article34157158/)
-2. [CNN](http://edition.cnn.com/2017/02/28/asia/kim-jong-nam-murder-charges/index.html)
+1. [CNN](http://edition.cnn.com/2017/02/28/asia/kim-jong-nam-murder-charges/index.html)
+2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/north-korean-diplomats-in-malaysia-seek-kim-jong-nams-body/article34157158/)
 
 ### Related:
 

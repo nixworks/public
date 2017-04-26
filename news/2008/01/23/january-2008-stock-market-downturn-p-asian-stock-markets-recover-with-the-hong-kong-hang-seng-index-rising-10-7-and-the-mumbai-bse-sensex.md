@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! Finance](http://biz.yahoo.com/ap/080123/world_markets.html)
-2. [AP via Yahoo! Finance](http://biz.yahoo.com/ap/080123/wall_street.html)
+1. [AP via Yahoo! Finance](http://biz.yahoo.com/ap/080123/wall_street.html)
+2. [AP via Yahoo! Finance](http://biz.yahoo.com/ap/080123/world_markets.html)
 
 ### Related:
 

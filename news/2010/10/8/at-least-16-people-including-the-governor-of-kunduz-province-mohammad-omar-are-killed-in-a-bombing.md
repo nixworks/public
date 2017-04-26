@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Provincial-Governor-19-Others-Die-in-Afghan-Blast--104577979.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/2010108101226418853.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/2010108101226418853.html)
+2. [Voice of America](http://www.voanews.com/english/news/Provincial-Governor-19-Others-Die-in-Afghan-Blast--104577979.html)
 
 ### Related:
 

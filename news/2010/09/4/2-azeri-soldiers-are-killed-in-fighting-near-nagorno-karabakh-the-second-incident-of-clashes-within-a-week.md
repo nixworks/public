@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/LDE68304J.htm)
-2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15461939&PageNum=0)
+1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15461939&PageNum=0)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/LDE68304J.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33348&Cr=China&Cr1=)
-2. [Press Trust of India](http://www.ptinews.com/news/440416_Chinese-dissident-sentenced-to-11-years-in-prison)
+1. [Press Trust of India](http://www.ptinews.com/news/440416_Chinese-dissident-sentenced-to-11-years-in-prison)
+2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33348&Cr=China&Cr1=)
 3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/200912252121168471.html)
 
 ### Related:

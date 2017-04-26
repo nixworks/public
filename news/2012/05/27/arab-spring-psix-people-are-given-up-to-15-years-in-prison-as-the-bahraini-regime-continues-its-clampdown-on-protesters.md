@@ -8,9 +8,9 @@ Six activists given up to 15 years in prison for allegedly working with Iran to 
 ### Source:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/may/28/syria-condemned-by-un-houla-massacre)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012527143426694817.html)
+2. [Rueters](http://www.reuters.com/article/2012/05/27/us-syria-un-deaths-idUSBRE84Q0C520120527)
 3. [Reuters](http://www.reuters.com/article/2012/05/27/us-syria-hama-idUSBRE84Q0CS20120527)
-4. [Rueters](http://www.reuters.com/article/2012/05/27/us-syria-un-deaths-idUSBRE84Q0C520120527)
+4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012527143426694817.html)
 
 ### Related:
 

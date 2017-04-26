@@ -7,18 +7,18 @@ Police believe they have found the body of a gunman suspected of shooting 12 peo
 
 ### Source:
 
-1. [TIME](http://newsfeed.time.com/2010/06/02/body-found-as-12-dead-in-u-k-shooting-massacre/)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-1283465/Lake-District-shooting-TWELVE-people-gunned-rampaging-Derrick-Bird-turned-weapon-himself.html?ito=feeds-newsxml)
-3. [Digital Spy](http://www.digitalspy.co.uk/soaps/s3/coronation-street/news/a223177/tonights-corrie-pulled-from-schedules.html)
-4. [RTÉ](http://www.rte.ie/news/2010/0602/cumbria.html)
-5. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-britain-rampage-20100603,0,5060185.story)
-6. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106214389905844.html)
-7. [STV](http://news.stv.tv/scotland/180893-coronation-street-taken-off-air-following-cumbria-shooting/)
-8. [Cumbria Police](http://www.cumbria.police.uk/news/latest-news/urgent-public-message-shots-fired-in-whitehaven)
-9. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13330977.htm)
-10. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7142413.ece#cid=OTC-RSS&attr=797084)
-11. [The Guardian](http://www.guardian.co.uk/uk/2010/jun/02/gunman-sought-person-shot-dead-whitehaven)
-12. [BBC](http://news.bbc.co.uk/1/hi/england/10214661.stm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13330977.htm)
+2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106214389905844.html)
+3. [STV](http://news.stv.tv/scotland/180893-coronation-street-taken-off-air-following-cumbria-shooting/)
+4. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-britain-rampage-20100603,0,5060185.story)
+5. [The Guardian](http://www.guardian.co.uk/uk/2010/jun/02/gunman-sought-person-shot-dead-whitehaven)
+6. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7142413.ece#cid=OTC-RSS&attr=797084)
+7. [Cumbria Police](http://www.cumbria.police.uk/news/latest-news/urgent-public-message-shots-fired-in-whitehaven)
+8. [RTÉ](http://www.rte.ie/news/2010/0602/cumbria.html)
+9. [Daily Mail](http://www.dailymail.co.uk/news/article-1283465/Lake-District-shooting-TWELVE-people-gunned-rampaging-Derrick-Bird-turned-weapon-himself.html?ito=feeds-newsxml)
+10. [BBC](http://news.bbc.co.uk/1/hi/england/10214661.stm)
+11. [TIME](http://newsfeed.time.com/2010/06/02/body-found-as-12-dead-in-u-k-shooting-massacre/)
+12. [Digital Spy](http://www.digitalspy.co.uk/soaps/s3/coronation-street/news/a223177/tonights-corrie-pulled-from-schedules.html)
 
 ### Related:
 

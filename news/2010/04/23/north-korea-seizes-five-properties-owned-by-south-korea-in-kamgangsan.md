@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042362647903392.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8639065.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5500753,00.html?maca=en-rss-en-all-1573-rdf)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8639065.stm)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042362647903392.html)
 
 ### Related:
 

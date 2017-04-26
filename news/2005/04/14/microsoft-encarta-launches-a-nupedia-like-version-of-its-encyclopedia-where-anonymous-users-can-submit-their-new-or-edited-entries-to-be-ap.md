@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Business Week](http://www.businessweek.com/ap/financialnews/D89ESGN01.htm?campaign_id=apn_tech_down)
+1. [FairfaxDigital](http://www.smh.com.au/news/Breaking/Encarta-seeks-free-information/2005/04/14/1113251721051.html)
 2. [Encarta Blog](http://spaces.msn.com/members/Encarta/Blog/cns!1pKov6pW19gvfZD4bZjOEp7A!143.entry)
-3. [FairfaxDigital](http://www.smh.com.au/news/Breaking/Encarta-seeks-free-information/2005/04/14/1113251721051.html)
+3. [Business Week](http://www.businessweek.com/ap/financialnews/D89ESGN01.htm?campaign_id=apn_tech_down)
 
 ### Related:
 

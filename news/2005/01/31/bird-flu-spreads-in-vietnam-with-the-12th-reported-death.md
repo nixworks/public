@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7478755)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=am8oAjfWljfI&refer=asia)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=am8oAjfWljfI&refer=asia)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7478755)
 
 ### Related:
 

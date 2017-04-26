@@ -7,8 +7,8 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2005/04/13/national/13gene.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8163095)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8163095)
+2. [New York Times](http://www.nytimes.com/2005/04/13/national/13gene.html)
 
 ### Related:
 

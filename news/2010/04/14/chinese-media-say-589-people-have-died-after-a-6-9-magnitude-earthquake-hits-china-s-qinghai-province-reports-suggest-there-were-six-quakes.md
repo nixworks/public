@@ -7,10 +7,10 @@ Chinese authorities raced against time, distance, altitude and wind in a remote 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/apr/14/china-earthquake-death-toll-yushu)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-04/14/content_9728383.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8619593.stm)
-4. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-china-earthquake15-2010apr15,0,2837670.story)
+1. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-china-earthquake15-2010apr15,0,2837670.story)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8619593.stm)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/apr/14/china-earthquake-death-toll-yushu)
+4. [China Daily](http://www.chinadaily.com.cn/china/2010-04/14/content_9728383.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ David Cameron&#039;s visit to China has been overshadowed by human rights concer
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8118943/Liu-Xiaobos-lawyer-blocked-from-visiting-Britain.html)
-2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20101109/news_20101109_56_711215.htm)
+1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20101109/news_20101109_56_711215.htm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8118943/Liu-Xiaobos-lawyer-blocked-from-visiting-Britain.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=114128&sectionid=351020406)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8422022.stm)
-3. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_468493.html)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_468493.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8422022.stm)
 
 ### Related:
 

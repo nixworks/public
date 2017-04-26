@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/world/20130122/178934469/Bus-Crash-in-Bolivias-North-Leaves-10-Dead-26-Injured.html)
-2. [Bernama](http://www.bernama.com/bernama/v6/newsindex.php?id=923391)
+1. [Bernama](http://www.bernama.com/bernama/v6/newsindex.php?id=923391)
+2. [RIA Novosti](http://en.ria.ru/world/20130122/178934469/Bus-Crash-in-Bolivias-North-Leaves-10-Dead-26-Injured.html)
 3. [Voice of Russia](http://english.ruvr.ru/2013_01_22/Bus-falls-into-river-in-Bolivia-killing-at-least-10/)
 
 ### Related:

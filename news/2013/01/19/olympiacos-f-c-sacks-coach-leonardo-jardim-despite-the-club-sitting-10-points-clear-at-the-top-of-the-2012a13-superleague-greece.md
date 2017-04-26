@@ -7,9 +7,9 @@ Olympiacos FC will begin their UEFA Europa League campaign with a new coach afte
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en-gb/news/2557/news/2013/01/19/3684832/olympiakos-announce-shock-jardim-sacking)
-2. [UEFA](http://www.uefa.com/uefaeuropaleague/news/newsid=1912768.html)
-3. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1988248.html)
+1. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1988248.html)
+2. [Goal.com](http://www.goal.com/en-gb/news/2557/news/2013/01/19/3684832/olympiakos-announce-shock-jardim-sacking)
+3. [UEFA](http://www.uefa.com/uefaeuropaleague/news/newsid=1912768.html)
 
 ### Related:
 

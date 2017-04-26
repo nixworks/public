@@ -7,9 +7,9 @@ Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica 
 
 ### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/02/25/ranulph-fiennes-antarctic-journey/1946571/)
+1. [BBC](http://www.bbc.co.uk/news/uk-21571870)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/antarctica/9892933/Sir-Ranulph-Fiennes-pulls-out-of-coldest-journey-on-earth-due-to-frostbite.html)
-3. [BBC](http://www.bbc.co.uk/news/uk-21571870)
+3. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/02/25/ranulph-fiennes-antarctic-journey/1946571/)
 4. [Sky News](http://news.sky.com/story/1056755/explorer-fiennes-forced-out-of-antarctic-trip)
 
 ### Related:

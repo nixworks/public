@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2015-01-15/snb-unexpectedly-gives-up-cap-on-franc-lowers-deposit-rate.html)
-2. [BBC](http://www.bbc.com/news/business-30829917)
+1. [BBC](http://www.bbc.com/news/business-30829917)
+2. [Bloomberg](http://www.bloomberg.com/news/2015-01-15/snb-unexpectedly-gives-up-cap-on-franc-lowers-deposit-rate.html)
 
 ### Related:
 

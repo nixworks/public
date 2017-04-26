@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/746077.html)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3285857,00.html)
-3. [Haaretz](http://www.haaretz.com/hasen/spages/745828.html)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/746108.html)
-5. [YNet](http://www.ynetnews.com/articles/0,7340,L-3285572,00.html)
-6. [Al Jazeera](http://english.aljazeera.net/NR/exeres/4CC21D25-66EA-45BC-B627-168C47D936CF.htm)
-7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3285678,00.html)
-8. [CNN](http://edition.cnn.com/2006/WORLD/meast/08/02/mideast.main/index.html)
+1. [YNet](http://www.ynetnews.com/articles/0,7340,L-3285572,00.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/745828.html)
+3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/4CC21D25-66EA-45BC-B627-168C47D936CF.htm)
+4. [Haaretz](http://www.haaretz.com/hasen/spages/746077.html)
+5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3285678,00.html)
+6. [CNN](http://edition.cnn.com/2006/WORLD/meast/08/02/mideast.main/index.html)
+7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3285857,00.html)
+8. [Haaretz](http://www.haaretz.com/hasen/spages/746108.html)
 
 ### Related:
 

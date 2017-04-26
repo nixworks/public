@@ -7,9 +7,9 @@ Officials say at least 31 people have been killed and more than 200 others wound
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/15/us-iraq-violence-idUSBRE93E07320130415)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201341562946963175.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22149863)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201341562946963175.html)
+3. [Reuters](http://www.reuters.com/article/2013/04/15/us-iraq-violence-idUSBRE93E07320130415)
 
 ### Related:
 

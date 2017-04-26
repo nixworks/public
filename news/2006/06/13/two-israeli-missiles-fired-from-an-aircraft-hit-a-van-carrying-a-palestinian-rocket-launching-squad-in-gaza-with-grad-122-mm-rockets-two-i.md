@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-06-13T090334Z_01_L13684509_RTRUKOC_0_UK-MIDEAST-GAZA-EXPLOSION.xml)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/726378.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/726378.html)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-06-13T090334Z_01_L13684509_RTRUKOC_0_UK-MIDEAST-GAZA-EXPLOSION.xml)
 
 ### Related:
 

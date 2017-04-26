@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/science+environment-10633640)
-2. [The Guardian](http://www.guardian.co.uk/science/2010/jul/14/ape-ancestors-fossil-skull-saadanius)
-3. [NatureNews](http://www.nature.com/news/2010/100714/full/news.2010.354.html)
+1. [NatureNews](http://www.nature.com/news/2010/100714/full/news.2010.354.html)
+2. [BBC News](http://www.bbc.co.uk/news/science+environment-10633640)
+3. [The Guardian](http://www.guardian.co.uk/science/2010/jul/14/ape-ancestors-fossil-skull-saadanius)
 
 ### Related:
 

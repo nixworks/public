@@ -7,8 +7,8 @@ At least 15 people are killed in air strikes on rebel-held areas in the Syrian c
 
 ### Source:
 
-1. [Deccan Chronicle](http://www.deccanchronicle.com/world/middle-east/090616/aleppo-air-strikes-kill-15-hospital-destroyed.html)
-2. [BBC](http://www.bbc.com/news/world-middle-east-36479415)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36479415)
+2. [Deccan Chronicle](http://www.deccanchronicle.com/world/middle-east/090616/aleppo-air-strikes-kill-15-hospital-destroyed.html)
 
 ### Related:
 

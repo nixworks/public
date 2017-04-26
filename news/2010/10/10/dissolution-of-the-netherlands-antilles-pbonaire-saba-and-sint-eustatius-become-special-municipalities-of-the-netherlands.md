@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/mountains-and-coral-reefs-added-dutch-landscape)
+1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/bulletin/new-government-and-new-status-curacao)
 2. [Caribbean 360](http://www.caribbean360.com/index.php/news/41210.html)
-3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/bulletin/new-government-and-new-status-curacao)
+3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/mountains-and-coral-reefs-added-dutch-landscape)
 
 ### Related:
 

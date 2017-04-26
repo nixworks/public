@@ -7,8 +7,8 @@ The deepwater oil rig burning off the coast of Louisiana sank into the Gulf of M
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/us/2010/04/22/transocean-rig-reportedly-sinks-louisiana-coast/)
-2. [CNN](http://www.cnn.com/2010/US/04/22/oil.rig.explosion/index.html?hpt=T2)
+1. [CNN](http://www.cnn.com/2010/US/04/22/oil.rig.explosion/index.html?hpt=T2)
+2. [Fox News](http://www.foxnews.com/us/2010/04/22/transocean-rig-reportedly-sinks-louisiana-coast/)
 
 ### Related:
 

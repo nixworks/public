@@ -7,8 +7,8 @@ Vietnam blocks off the scene of a rare protest by thousands of ethnic Hmong in a
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13306362)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gzTW5k_mNeMcAKGmVFcp_veU3k3w?docId=CNG.c0bb0d28621ce10d14542a3563c84669.271)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gzTW5k_mNeMcAKGmVFcp_veU3k3w?docId=CNG.c0bb0d28621ce10d14542a3563c84669.271)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13306362)
 
 ### Related:
 

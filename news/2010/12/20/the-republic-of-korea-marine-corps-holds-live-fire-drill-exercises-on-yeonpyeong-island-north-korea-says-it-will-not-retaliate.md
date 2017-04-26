@@ -7,9 +7,9 @@ South Korea holds live-firing exercises on an island close to the border with No
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12033330)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/20/c_13656025.htm)
-3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/12/20/30/0301000000AEN20101220001000315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/12/20/30/0301000000AEN20101220001000315F.HTML)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12033330)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/20/c_13656025.htm)
 
 ### Related:
 

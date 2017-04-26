@@ -7,12 +7,12 @@ Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/06/201162844012819777.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116283558545951.html)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-13937817)
-4. [BBC](http://www.bbc.co.uk/news/uk-13950948)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162812152801929.html)
-6. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011628223426192676.html)
+1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011628223426192676.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-13937817)
+3. [BBC](http://www.bbc.co.uk/news/uk-13950948)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116283558545951.html)
+5. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/06/201162844012819777.html)
+6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162812152801929.html)
 
 ### Related:
 

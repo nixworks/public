@@ -7,12 +7,12 @@ Tropical Storm Alex was close to hurricane strength in the Gulf of Mexico on Tue
 
 ### Source:
 
-1. [Atlanta Journal-Constitution](http://www.ajc.com/news/nation-world/hurricane-warnings-for-mexico-559266.html)
-2. [CBS](http://cbs5.com/national/Tropical.storm.oil.2.1777875.html)
-3. [CNN](http://www.cnn.com/2010/HEALTH/06/28/louisiana.oil.exposure/)
-4. [Statesman](http://www.statesman.com/news/texas/official-even-glancing-blow-from-alex-could-wreak-775223.html)
-5. [Los Angeles Times](http://latimesblogs.latimes.com/greenspace/2010/06/gulf-oil-spill-air-pollution-health-workers.html)
-6. [Reuters](http://www.reuters.com/article/idUSTRE65P0UL20100629)
+1. [Statesman](http://www.statesman.com/news/texas/official-even-glancing-blow-from-alex-could-wreak-775223.html)
+2. [CNN](http://www.cnn.com/2010/HEALTH/06/28/louisiana.oil.exposure/)
+3. [CBS](http://cbs5.com/national/Tropical.storm.oil.2.1777875.html)
+4. [Atlanta Journal-Constitution](http://www.ajc.com/news/nation-world/hurricane-warnings-for-mexico-559266.html)
+5. [Reuters](http://www.reuters.com/article/idUSTRE65P0UL20100629)
+6. [Los Angeles Times](http://latimesblogs.latimes.com/greenspace/2010/06/gulf-oil-spill-air-pollution-health-workers.html)
 
 ### Related:
 

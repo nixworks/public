@@ -13,7 +13,7 @@ _Context: Afghan, Guantanamo Bay detention camp, Muhammed Rahim, Osama bin Laden
 _Context: Brussels, European Union, greenhouse gas_
 
 ### [ United States investment bank Bear Stearns gets emergency funding from JPMorgan Chase, with the Federal Reserve Bank of New York's backing. ](/news/2008/03/14/united-states-investment-bank-bear-stearns-gets-emergency-funding-from-jpmorgan-chase-with-the-federal-reserve-bank-of-new-york-s-backing.md)
-_Context: Bear Stearns, Federal Reserve Bank of New York, JPMorgan Chase, United States, investment bank_
+_Context: Bear Stearns, Federal Reserve Bank of New York, JPMorgan Chase, U.S., investment bank_
 
 ### [ An EF2 tornado hits Atlanta, Georgia, damaging many buildings including the CNN Center, the Georgia Dome, the World Congress Center and the Philips Arena. ](/news/2008/03/14/an-ef2-tornado-hits-atlanta-georgia-damaging-many-buildings-including-the-cnn-center-the-georgia-dome-the-world-congress-center-and-the.md)
 _Context: Atlanta, Georgia, CNN Center, Georgia, Georgia Dome, Philips Arena, World Congress Center, tornado_
@@ -25,7 +25,7 @@ _Context: Iran, legislative election_
 _Context: Lhasa, Tibet, free Tibet, possible protests, protests turn violent_
 
 ### [ Venezuelan President Hugo Chvez dares the United States to designate Venezuela as a state sponsor of terrorism. ](/news/2008/03/14/venezuelan-president-hugo-chavez-dares-the-united-states-to-designate-venezuela-as-a-state-sponsor-of-terrorism.md)
-_Context: Hugo Chávez, United States, Venezuela, Venezuelan President, state sponsor of terrorism_
+_Context: Hugo Chávez, U.S., Venezuela, Venezuelan President, state sponsor of terrorism_
 
 ### [ Saint Patrick's Day happens today, not the usual March 17th.&nbsp; ](/news/2008/03/14/saint-patrick-s-day-happens-today-not-the-usual-march-17th-nbsp.md)
 _Context: March 17th, Saint Patrick's Day_

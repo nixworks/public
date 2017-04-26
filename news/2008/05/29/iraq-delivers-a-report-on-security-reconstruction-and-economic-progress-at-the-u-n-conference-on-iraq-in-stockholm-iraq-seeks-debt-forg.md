@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2008-05-29-voa52.cfm)
-2. [Mawtani](http://www.google.com/translate?u=http%3A%2F%2Fmawtani.com%2Far%2Fcontent%2Farticles%2F0805_international_cov_ir%2F&hl=en&ie=UTF8&sl=ar&tl=en)
+1. [Mawtani](http://www.google.com/translate?u=http%3A%2F%2Fmawtani.com%2Far%2Fcontent%2Farticles%2F0805_international_cov_ir%2F&hl=en&ie=UTF8&sl=ar&tl=en)
+2. [VOA](http://www.voanews.com/english/2008-05-29-voa52.cfm)
 
 ### Related:
 

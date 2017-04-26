@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TV New Zealand](http://tvnz.co.nz/national-news/christchurch-centre-very-dangerous-4059297)
-2. [TV New Zealand](http://tvnz.co.nz/national-news/state-emergency-extended-further-4059297)
+1. [TV New Zealand](http://tvnz.co.nz/national-news/state-emergency-extended-further-4059297)
+2. [TV New Zealand](http://tvnz.co.nz/national-news/christchurch-centre-very-dangerous-4059297)
 
 ### Related:
 

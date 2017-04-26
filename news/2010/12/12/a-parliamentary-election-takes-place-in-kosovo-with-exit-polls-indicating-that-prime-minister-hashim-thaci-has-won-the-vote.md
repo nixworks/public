@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11978021)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6BB03R20101212)
+1. [Reuters](http://www.reuters.com/article/idUSTRE6BB03R20101212)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11978021)
 
 ### Related:
 

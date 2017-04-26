@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/25/us-armenia-azerbaijan-conflict-idUSKCN0RP2E420150925)
-2. [Fox News](http://latino.foxnews.com/latino/news/2015/09/26/armenia-says-it-will-use-artillery-missiles-to-repel-azerbaijani-attacks/)
+1. [Fox News](http://latino.foxnews.com/latino/news/2015/09/26/armenia-says-it-will-use-artillery-missiles-to-repel-azerbaijani-attacks/)
+2. [Reuters](http://www.reuters.com/article/2015/09/25/us-armenia-azerbaijan-conflict-idUSKCN0RP2E420150925)
 
 ### Related:
 

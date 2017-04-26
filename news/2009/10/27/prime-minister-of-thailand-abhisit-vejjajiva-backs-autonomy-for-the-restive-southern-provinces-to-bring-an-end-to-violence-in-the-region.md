@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_447072.html)
-2. [The Nation](http://www.nationmultimedia.com/2009/10/27/regional/regional_30115348.php)
+1. [The Nation](http://www.nationmultimedia.com/2009/10/27/regional/regional_30115348.php)
+2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_447072.html)
 
 ### Related:
 

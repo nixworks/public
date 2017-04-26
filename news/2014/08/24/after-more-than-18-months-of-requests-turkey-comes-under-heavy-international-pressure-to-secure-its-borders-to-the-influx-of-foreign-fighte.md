@@ -8,8 +8,8 @@ Islamic State fighters mass on Syria&#x27;s north-western frontier as it seeks t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-28918792)
-2. [AP](http://hosted.ap.org/dynamic/stories/U/US_AMERICAN_FREED_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [The Guardian](http://www.theguardian.com/world/2014/aug/23/isis-islamic-state-surges-to-turkish-border)
+2. [The Guardian](http://www.theguardian.com/world/2014/aug/23/isis-islamic-state-surges-to-turkish-border)
+3. [AP](http://hosted.ap.org/dynamic/stories/U/US_AMERICAN_FREED_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

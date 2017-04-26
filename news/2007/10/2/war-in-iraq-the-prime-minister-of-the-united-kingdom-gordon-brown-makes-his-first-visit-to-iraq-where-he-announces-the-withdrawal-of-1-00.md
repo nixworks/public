@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Topix](http://www.topix.net/content/ap/2007/10/uk-plans-to-pull-1-000-troops-from-iraq)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/7023366.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/7023366.stm)
+2. [AP via Topix](http://www.topix.net/content/ap/2007/10/uk-plans-to-pull-1-000-troops-from-iraq)
 
 ### Related:
 

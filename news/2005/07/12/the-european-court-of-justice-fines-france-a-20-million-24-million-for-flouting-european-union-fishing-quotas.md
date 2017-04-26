@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nL12277747)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4674885.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4674885.stm)
+2. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nL12277747)
 
 ### Related:
 

@@ -7,9 +7,9 @@ A Kenyan national who was attempting to sell an albino man has been arrested, po
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11001791)
+1. [The Citizen](http://thecitizen.co.tz/business/13-local-business/3601-police-arrest-kenyan-attempting-to-sell-an-albino.html)
 2. [AllAfrica.com](http://allafrica.com/stories/201008170703.html)
-3. [The Citizen](http://thecitizen.co.tz/business/13-local-business/3601-police-arrest-kenyan-attempting-to-sell-an-albino.html)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-11001791)
 
 ### Related:
 

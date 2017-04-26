@@ -7,13 +7,13 @@ Catholic cardinals meeting at the Vatican have been holding another round of vot
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-21769556)
-2. [AP via Boston.com](http://www.boston.com/news/world/europe/2013/03/13/cardinals-resume-vote-day-conclave/ytvmYKshKETFMk5pDSgFxH/story.html)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-21777494)
+1. [The New York Times](http://thelede.blogs.nytimes.com/2013/03/13/live-updates-on-election-of-a-new-pope/)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-21769556)
+3. [CTV News](http://www.ctvnews.ca/world/new-pope-chosen-argentinian-jorge-mario-bergoglio-1.1193437)
 4. [NCR](http://ncronline.org/news/vatican/white-smoke-rises-sistine-chapel-signaling-new-pope)
-5. [CTV News](http://www.ctvnews.ca/world/new-pope-chosen-argentinian-jorge-mario-bergoglio-1.1193437)
-6. [The New York Times](http://thelede.blogs.nytimes.com/2013/03/13/live-updates-on-election-of-a-new-pope/)
-7. [The Guardian](http://www.guardian.co.uk/world/2013/mar/13/papal-conclave-chooses-pope-day-two-live-coverage)
+5. [AP via Boston.com](http://www.boston.com/news/world/europe/2013/03/13/cardinals-resume-vote-day-conclave/ytvmYKshKETFMk5pDSgFxH/story.html)
+6. [The Guardian](http://www.guardian.co.uk/world/2013/mar/13/papal-conclave-chooses-pope-day-two-live-coverage)
+7. [BBC](http://www.bbc.co.uk/news/world-europe-21777494)
 8. [Reuters](http://www.reuters.com/article/2013/03/14/us-pope-succession-idUSBRE92808520130314)
 
 ### Related:

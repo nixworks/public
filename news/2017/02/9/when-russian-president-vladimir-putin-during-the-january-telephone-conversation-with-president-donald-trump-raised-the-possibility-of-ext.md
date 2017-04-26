@@ -7,8 +7,8 @@ In his first call as president with Russian leader Vladimir Putin, Donald Trump 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-trump-putin-idUSKBN15O2A5)
-2. [The Hill](http://thehill.com/policy/national-security/318733-trump-denounced-arms-reduction-treaty-in-putin-call-report)
+1. [The Hill](http://thehill.com/policy/national-security/318733-trump-denounced-arms-reduction-treaty-in-putin-call-report)
+2. [Reuters](http://www.reuters.com/article/us-usa-trump-putin-idUSKBN15O2A5)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Heavy rains battered Belgium at the weekend, causing flooding and mudslides that
 
 ### Source:
 
-1. [Expatica Belgium](http://www.expatica.com/be/news/belgian-news/three-dead-as-rain-batters-belgium_110426.html)
-2. [The Voice of Russia](http://english.ruvr.ru/2010/11/14/34135360.html)
-3. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5gPlB82E8eFaCD5W1Fr2s5CD-tMoQ?docId=5131138)
+1. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5gPlB82E8eFaCD5W1Fr2s5CD-tMoQ?docId=5131138)
+2. [Expatica Belgium](http://www.expatica.com/be/news/belgian-news/three-dead-as-rain-batters-belgium_110426.html)
+3. [The Voice of Russia](http://english.ruvr.ru/2010/11/14/34135360.html)
 
 ### Related:
 

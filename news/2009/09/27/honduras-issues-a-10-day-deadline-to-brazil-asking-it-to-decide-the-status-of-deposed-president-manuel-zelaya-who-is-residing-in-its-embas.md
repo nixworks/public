@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58Q0A320090927)
-2. [CNN](http://edition.cnn.com/2009/WORLD/americas/09/27/honduras.presidemt/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/americas/09/27/honduras.presidemt/)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58Q0A320090927)
 
 ### Related:
 

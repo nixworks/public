@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2007-10-06-voa23.cfm)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7031230.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7031230.stm)
+2. [VOA](http://www.voanews.com/english/2007-10-06-voa23.cfm)
 3. [Bangkok Post](http://www.bangkokpost.com/breaking_news/breakingnews.php?id=122404)
 
 ### Related:

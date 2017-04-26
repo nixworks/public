@@ -8,8 +8,8 @@ India suspends defence exchanges after China denies visa to Kashmir general, rep
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/India-suspends-defence-exchanges-with-China/Article1-592418.aspx)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11106235)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/08/201082754840935773.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/08/201082754840935773.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11106235)
 
 ### Related:
 

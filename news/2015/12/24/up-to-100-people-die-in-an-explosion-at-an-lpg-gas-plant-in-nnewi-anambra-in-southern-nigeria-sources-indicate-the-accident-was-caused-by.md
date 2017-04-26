@@ -7,8 +7,8 @@ Breaking: Christmas tragedy: 100 burnt to death in Anambra gas explosion
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-35178194)
-2. [Vanguard](http://www.vanguardngr.com/2015/12/breaking-christmas-tragedy-100-burnt-to-death-in-anambra-gas-explosion/)
+1. [Vanguard](http://www.vanguardngr.com/2015/12/breaking-christmas-tragedy-100-burnt-to-death-in-anambra-gas-explosion/)
+2. [BBC](http://www.bbc.com/news/world-africa-35178194)
 
 ### Related:
 

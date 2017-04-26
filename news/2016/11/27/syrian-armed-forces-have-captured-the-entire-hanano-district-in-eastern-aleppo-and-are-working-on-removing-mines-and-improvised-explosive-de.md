@@ -8,8 +8,8 @@ The Syrian army said it had taken control of an important district in rebel-held
 ### Source:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/nearly-10-000-civilians-flee-east-aleppo-monitor-224230423.html)
-2. [South Front](https://southfront.org/al-nusra-al-qaeda-defensese-collapse-syrian-army-ready-to-split-eastern-aleppo-pocket-into-two/)
-3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKBN13L0KR)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKBN13L0KR)
+3. [South Front](https://southfront.org/al-nusra-al-qaeda-defensese-collapse-syrian-army-ready-to-split-eastern-aleppo-pocket-into-two/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Chilean miners trapped underground receive their first hot meal in 26 days, as N
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7975916/Chilean-miners-requests-for-alcohol-and-cigarettes-turned-down-by-Nasa.html)
-2. [Reuters](http://uk.reuters.com/article/idUKTRE67U61A20100831)
+1. [Reuters](http://uk.reuters.com/article/idUKTRE67U61A20100831)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7975916/Chilean-miners-requests-for-alcohol-and-cigarettes-turned-down-by-Nasa.html)
 3. [BBC](http://www.bbc.co.uk/news/world-latin-america-11159484)
 
 ### Related:

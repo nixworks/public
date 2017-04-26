@@ -8,10 +8,10 @@ German officials have condemned a recent video depicting a screaming mob of anti
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/shameful-video-of-mob-blocking-a-refugee-bus-in-germany-sparks-outrage/a-19062019)
-2. [Deutsche Welle](http://www.dw.com/en/police-in-germanys-saxony-state-deny-mishandling-migrants-arrival/a-19062984)
-3. [Deutsche Welle](http://www.dw.com/en/german-interior-minister-thomas-de-maiziere-defends-police-action-against-migrants-in-saxony/a-19064622)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/02/21/world/europe/ap-eu-germany-migrants.html)
+3. [Deutsche Welle](http://www.dw.com/en/police-in-germanys-saxony-state-deny-mishandling-migrants-arrival/a-19062984)
 4. [The New York Times](http://www.nytimes.com/aponline/2016/02/20/world/europe/ap-eu-europe-migrants.html)
-5. [The New York Times](http://www.nytimes.com/aponline/2016/02/21/world/europe/ap-eu-germany-migrants.html)
+5. [Deutsche Welle](http://www.dw.com/en/german-interior-minister-thomas-de-maiziere-defends-police-action-against-migrants-in-saxony/a-19064622)
 
 ### Related:
 

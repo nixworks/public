@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/200910764431254967.html)
-2. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20091007x1.html)
-3. [euronews](http://www.euronews.net/2009/10/07/japan-braced-for-strong-typhoon/)
+1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20091007x1.html)
+2. [euronews](http://www.euronews.net/2009/10/07/japan-braced-for-strong-typhoon/)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/200910764431254967.html)
 
 ### Related:
 

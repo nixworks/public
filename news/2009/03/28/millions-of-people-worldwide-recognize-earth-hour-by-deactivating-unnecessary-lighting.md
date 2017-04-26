@@ -7,8 +7,8 @@ Millions of people across the world have marked Earth Hour by switching off ligh
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/7969515.stm)
-2. [RTÉ](http://www.rte.ie/news/2009/0328/earthhour.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0328/earthhour.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/7969515.stm)
 
 ### Related:
 

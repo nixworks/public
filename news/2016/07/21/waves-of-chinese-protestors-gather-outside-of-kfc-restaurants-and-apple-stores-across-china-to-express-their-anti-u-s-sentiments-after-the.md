@@ -7,9 +7,9 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-china-36842660)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/kfc-apple-china-hit-south-china-sea-spa-40726022)
-3. [USA Today](http://www.usatoday.com/story/news/world/2016/07/20/kfc-apple-china-hit-south-china-sea-spat/87330092/)
+1. [USA Today](http://www.usatoday.com/story/news/world/2016/07/20/kfc-apple-china-hit-south-china-sea-spat/87330092/)
+2. [BBC](http://www.bbc.com/news/world-asia-china-36842660)
+3. [AP via ABC News](http://abcnews.go.com/International/wireStory/kfc-apple-china-hit-south-china-sea-spa-40726022)
 
 ### Related:
 

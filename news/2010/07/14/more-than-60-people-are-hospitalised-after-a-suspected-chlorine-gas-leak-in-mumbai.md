@@ -7,11 +7,11 @@ More than 60 people are taken to hospital after a suspected chlorine gas leak in
 
 ### Source:
 
-1. [Arab News](http://arabnews.com/world/article84282.ece)
-2. [News24.com](http://www.news24.com/World/News/60-hospitalised-after-gas-leak-20100714)
-3. [The Independent](http://www.independent.co.uk/news/world/asia/92-in-india-taken-to-hospital-after-chlorine-leak-2026209.html)
+1. [The Independent](http://www.independent.co.uk/news/world/asia/92-in-india-taken-to-hospital-after-chlorine-leak-2026209.html)
+2. [The Age](http://www.theage.com.au/world/mumbai-in-damage-control-as-chlorine-gas-leak-wreaks-havoc-20100714-10b1o.html)
+3. [Arab News](http://arabnews.com/world/article84282.ece)
 4. [BBC](http://www.bbc.co.uk/news/10626042)
-5. [The Age](http://www.theage.com.au/world/mumbai-in-damage-control-as-chlorine-gas-leak-wreaks-havoc-20100714-10b1o.html)
+5. [News24.com](http://www.news24.com/World/News/60-hospitalised-after-gas-leak-20100714)
 
 ### Related:
 

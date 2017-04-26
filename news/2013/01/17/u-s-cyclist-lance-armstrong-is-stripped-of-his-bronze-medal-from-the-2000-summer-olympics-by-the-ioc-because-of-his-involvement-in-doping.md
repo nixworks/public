@@ -7,9 +7,9 @@ Lance Armstrong is stripped of the Olympic bronze medal he won at the Sydney Oly
 
 ### Source:
 
-1. [Olympic.org](http://www.olympic.org/news/ioc-statement-on-lance-armstrong/188433)
-2. [AP via ''Los Angeles Times](http://www.latimes.com/sports/sportsnow/la-sp-sn-armstrong-reportedly-stripped-of-bronze-20130117,0,662993.story)
-3. [BBC](http://www.bbc.co.uk/sport/0/cycling/21062496)
+1. [AP via ''Los Angeles Times](http://www.latimes.com/sports/sportsnow/la-sp-sn-armstrong-reportedly-stripped-of-bronze-20130117,0,662993.story)
+2. [BBC](http://www.bbc.co.uk/sport/0/cycling/21062496)
+3. [Olympic.org](http://www.olympic.org/news/ioc-statement-on-lance-armstrong/188433)
 
 ### Related:
 

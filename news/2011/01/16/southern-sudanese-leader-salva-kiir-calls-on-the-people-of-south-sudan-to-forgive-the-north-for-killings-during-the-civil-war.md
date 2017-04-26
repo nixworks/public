@@ -7,8 +7,8 @@ The South Sudanese leader calls on his people to forgive the north for killings 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12201063)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ieUpHlwPSCUbU0fUKquVe3tHajsQ?docId=CNG.a0fecf3288ed5701a75b9cd49cf8dca6.251)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ieUpHlwPSCUbU0fUKquVe3tHajsQ?docId=CNG.a0fecf3288ed5701a75b9cd49cf8dca6.251)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12201063)
 
 ### Related:
 

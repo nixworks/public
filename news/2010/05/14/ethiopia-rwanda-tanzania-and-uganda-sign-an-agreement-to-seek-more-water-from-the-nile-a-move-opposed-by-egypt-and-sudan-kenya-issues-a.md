@@ -7,10 +7,10 @@ Four African countries sign new water sharing deal amid opposition from Egypt an
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201051412498188812.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8682387.stm)
-3. [The Miami Herald](http://www.miamiherald.com/2010/05/14/1629403/upriver-nile-countries-sign-compact.html)
-4. [IOL](http://www.iol.co.za/index.php?from=rss_Science&set_id=1&click_id=31&art_id=nw20100514163441835C508599)
+1. [The Miami Herald](http://www.miamiherald.com/2010/05/14/1629403/upriver-nile-countries-sign-compact.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201051412498188812.html)
+3. [IOL](http://www.iol.co.za/index.php?from=rss_Science&set_id=1&click_id=31&art_id=nw20100514163441835C508599)
+4. [BBC](http://news.bbc.co.uk/2/hi/africa/8682387.stm)
 
 ### Related:
 

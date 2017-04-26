@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L2144427.htm)
-2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/RMOI-6AQ2TZ?OpenDocument)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4370843.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4370843.stm)
+3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/RMOI-6AQ2TZ?OpenDocument)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [WPVI](http://abclocal.go.com/wpvi/story?section=local&id=5193567)
-2. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=bondsNews&storyID=2007-04-12T225120Z_01_N12386537_RTRIDST_0_PEOPLE-CORZINE-URGENT.XML)
+1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=bondsNews&storyID=2007-04-12T225120Z_01_N12386537_RTRIDST_0_PEOPLE-CORZINE-URGENT.XML)
+2. [WPVI](http://abclocal.go.com/wpvi/story?section=local&id=5193567)
 
 ### Related:
 

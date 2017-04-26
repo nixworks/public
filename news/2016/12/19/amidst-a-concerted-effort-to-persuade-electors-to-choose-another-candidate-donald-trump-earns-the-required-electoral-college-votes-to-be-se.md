@@ -7,8 +7,8 @@ The number of faithless votes were the most-ever cast in a single presidential e
 
 ### Source:
 
-1. [Politico](http://www.politico.com/story/2016/12/electoral-college-electors-232836)
-2. [New York Times](http://www.nytimes.com/2016/12/19/us/politics/electoral-college-vote.html)
+1. [New York Times](http://www.nytimes.com/2016/12/19/us/politics/electoral-college-vote.html)
+2. [Politico](http://www.politico.com/story/2016/12/electoral-college-electors-232836)
 
 ### Related:
 

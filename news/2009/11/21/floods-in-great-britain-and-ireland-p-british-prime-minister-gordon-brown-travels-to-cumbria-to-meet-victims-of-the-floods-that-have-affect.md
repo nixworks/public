@@ -8,10 +8,10 @@ Parts of the south and west are on high alert this evening as more rain and high
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1121/weather.html)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Flooding-In-Ireland-Troops-Drafted-In-To-Help-Emergency-Services-Deal-With-Crisis/Article/200911315460612?lpos=World_News_First_World_News_Article_Teaser_Region_4&lid=ARTICLE_15460612_Flooding_In_Ireland%3A_Troops_Drafted_In_To_Help_Emergency_Services_Deal_With_Crisis)
-3. [BBC News](http://news.bbc.co.uk/1/hi/uk/8371961.stm)
+2. [BBC News](http://news.bbc.co.uk/1/hi/uk/8371961.stm)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1121/breaking13.htm)
 4. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_457470.html)
-5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1121/breaking13.htm)
+5. [Sky News](http://news.sky.com/skynews/Home/World-News/Flooding-In-Ireland-Troops-Drafted-In-To-Help-Emergency-Services-Deal-With-Crisis/Article/200911315460612?lpos=World_News_First_World_News_Article_Teaser_Region_4&lid=ARTICLE_15460612_Flooding_In_Ireland%3A_Troops_Drafted_In_To_Help_Emergency_Services_Deal_With_Crisis)
 
 ### Related:
 

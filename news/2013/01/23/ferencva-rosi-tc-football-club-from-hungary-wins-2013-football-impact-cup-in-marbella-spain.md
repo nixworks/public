@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Fradi.hu](http://www.fradi.hu/hu/labdarugas/nb-i/hirek/ftc-steaua-2-1/20130123/c/2844)
-2. [Sport.ro](http://www.sport.ro/liga-1/reghe-fiert-pe-jucatori-unii-dintre-ei-daca-vor-continua-asa-nu-vor-mai-continua-cu-noi-suporterii-stelei-1.html)
+1. [Sport.ro](http://www.sport.ro/liga-1/reghe-fiert-pe-jucatori-unii-dintre-ei-daca-vor-continua-asa-nu-vor-mai-continua-cu-noi-suporterii-stelei-1.html)
+2. [Fradi.hu](http://www.fradi.hu/hu/labdarugas/nb-i/hirek/ftc-steaua-2-1/20130123/c/2844)
 
 ### Related:
 

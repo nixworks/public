@@ -7,10 +7,10 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1110616560475A141)
-2. [Roll Back Malaria Africa Live Concert website](http://www.rollbackmalaria.org/africalive/)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=musicNews&storyID=7884134)
-4. [News24](http://www.news24.com/News24/Entertainment/Abroad/0,,2-1225-1243_1675830,00.html)
+1. [News24](http://www.news24.com/News24/Entertainment/Abroad/0,,2-1225-1243_1675830,00.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=musicNews&storyID=7884134)
+3. [Roll Back Malaria Africa Live Concert website](http://www.rollbackmalaria.org/africalive/)
+4. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1110616560475A141)
 
 ### Related:
 

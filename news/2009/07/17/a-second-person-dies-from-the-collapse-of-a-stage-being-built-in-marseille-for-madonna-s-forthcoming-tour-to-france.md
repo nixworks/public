@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1200191/One-dead-injured-Madonnas-stage-collapses.html?ITO=1490)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6717739.ece)
 2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8154643.stm)
-3. [AFP](http://news.yahoo.com/s/afp/20090717/wl_uk_afp/entertainmentfrancebritainaccidentpeoplemadonna_20090717130643;_ylt=AjzfaUvQUpT9zOgDB5H25W6FOrgF;_ylu=X3oDMTNuY2djYzlyBGFzc2V0A2FmcC8yMDA5MDcxNy9lbnRlcnRhaW5tZW50ZnJhbmNlYnJpdGFpbmFjY2lkZW50cGVvcGxlbWFkb25uY)
-4. [The Guardian](http://www.guardian.co.uk/music/2009/jul/17/madonna-stage-collapse-kills-two)
-5. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6717739.ece)
+3. [The Guardian](http://www.guardian.co.uk/music/2009/jul/17/madonna-stage-collapse-kills-two)
+4. [AFP](http://news.yahoo.com/s/afp/20090717/wl_uk_afp/entertainmentfrancebritainaccidentpeoplemadonna_20090717130643;_ylt=AjzfaUvQUpT9zOgDB5H25W6FOrgF;_ylu=X3oDMTNuY2djYzlyBGFzc2V0A2FmcC8yMDA5MDcxNy9lbnRlcnRhaW5tZW50ZnJhbmNlYnJpdGFpbmFjY2lkZW50cGVvcGxlbWFkb25uY)
+5. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1200191/One-dead-injured-Madonnas-stage-collapses.html?ITO=1490)
 
 ### Related:
 

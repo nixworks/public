@@ -7,8 +7,8 @@ ISLAMABAD: The government has decided to impose a ban on Jundullah and all the t
 
 ### Source:
 
-1. [Daily Times](http://dailytimes.com.pk/pakistan/08-Jan-17/govt-decides-to-slap-ban-on-jundullah)
-2. [The News](https://www.thenews.com.pk/print/177663-Govt-to-ban-Jundullah-other-terrorist-groups)
+1. [The News](https://www.thenews.com.pk/print/177663-Govt-to-ban-Jundullah-other-terrorist-groups)
+2. [Daily Times](http://dailytimes.com.pk/pakistan/08-Jan-17/govt-decides-to-slap-ban-on-jundullah)
 
 ### Related:
 

@@ -8,10 +8,10 @@ Man allegedly helped Mabhouh killers obtain fake German passport.
 ### Source:
 
 1. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE65B1SY20100612)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10302022.stm)
-3. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178204)
+2. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178204)
+3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010612132455243703.html)
 4. [Press TV](http://www.presstv.ir/detail.aspx?id=130103&sectionid=351020605)
-5. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010612132455243703.html)
+5. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10302022.stm)
 
 ### Related:
 

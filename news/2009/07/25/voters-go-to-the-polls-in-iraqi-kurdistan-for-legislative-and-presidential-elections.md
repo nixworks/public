@@ -7,9 +7,9 @@ There was little doubt that the governing coalition would maintain its ironclad 
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-07/25/content_11770004.htm)
-2. [The Hindu](http://www.hindu.com/thehindu/holnus/003200907251311.htm)
-3. [The New York Times](http://www.nytimes.com/2009/07/26/world/middleeast/26kurds.html)
+1. [The Hindu](http://www.hindu.com/thehindu/holnus/003200907251311.htm)
+2. [The New York Times](http://www.nytimes.com/2009/07/26/world/middleeast/26kurds.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-07/25/content_11770004.htm)
 
 ### Related:
 

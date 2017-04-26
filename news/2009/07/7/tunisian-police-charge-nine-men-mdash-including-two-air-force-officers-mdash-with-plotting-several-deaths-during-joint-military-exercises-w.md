@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8137442.stm)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1246443734509&pagename=JPost%2FJPArticle%2FShowFull)
+1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1246443734509&pagename=JPost%2FJPArticle%2FShowFull)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8137442.stm)
 
 ### Related:
 

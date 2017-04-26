@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090904105333929C180646)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/04/content_11997209.htm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hSYSk49cuu7Yo3lZwW4bgpLohR0g)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hSYSk49cuu7Yo3lZwW4bgpLohR0g)
+2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090904105333929C180646)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/04/content_11997209.htm)
 
 ### Related:
 

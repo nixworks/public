@@ -7,5 +7,5 @@ Armed men set fire to a casino in the northern Mexican city of Monterrey, killin
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-14674706)
-2. [AP via Youtube](http://www.youtube.com/watch?v=a6qtILGZqs4&feature=uploademail)
+1. [AP via Youtube](http://www.youtube.com/watch?v=a6qtILGZqs4&feature=uploademail)
+2. [BBC News](http://www.bbc.co.uk/news/world-latin-america-14674706)

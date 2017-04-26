@@ -7,9 +7,9 @@ AT least 30 people died when their bus crashed, rolled over and broke in two in 
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hPuK0QUB58cBLS85pzrXLbkO6Zaw)
+1. [news.com.au](http://www.news.com.au/breaking-news/at-least-30-dead-in-cameroon-bus-crash/story-e6frfku0-1225873271713)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010530154941685302.html)
-3. [news.com.au](http://www.news.com.au/breaking-news/at-least-30-dead-in-cameroon-bus-crash/story-e6frfku0-1225873271713)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hPuK0QUB58cBLS85pzrXLbkO6Zaw)
 
 ### Related:
 

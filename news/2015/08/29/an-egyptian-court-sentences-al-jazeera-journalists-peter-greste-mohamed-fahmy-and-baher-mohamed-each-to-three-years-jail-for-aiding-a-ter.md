@@ -7,8 +7,8 @@ Peter Greste and his Al Jazeera colleagues Mohammed Fahmy and Baher Mohamed are 
 
 ### Source:
 
-1. [Al Jazeera](http://america.aljazeera.com/articles/2015/8/29/al-jazeera-journalists-sentenced-to-three-years-in-jail-by-egyptian-court.html)
-2. [ABC Australia](http://www.abc.net.au/news/2015-08-29/peter-greste-and-al-jazeera-colleagues-found-guilty-at-retrial/6735106)
+1. [ABC Australia](http://www.abc.net.au/news/2015-08-29/peter-greste-and-al-jazeera-colleagues-found-guilty-at-retrial/6735106)
+2. [Al Jazeera](http://america.aljazeera.com/articles/2015/8/29/al-jazeera-journalists-sentenced-to-three-years-in-jail-by-egyptian-court.html)
 
 ### Related:
 

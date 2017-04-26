@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via SignOn SanDiego](http://www.signonsandiego.com/news/2010/sep/23/typhoon-kills-54-in-china-dozens-missing/)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-09/23/content_11339793.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2010-09/23/content_11339793.htm)
+2. [AP via SignOn SanDiego](http://www.signonsandiego.com/news/2010/sep/23/typhoon-kills-54-in-china-dozens-missing/)
 
 ### Related:
 

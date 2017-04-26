@@ -7,11 +7,11 @@ A man accused of beating his wife tells a New Zealand court they were performing
 
 ### Source:
 
-1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5ieAgIPrdROEVHq2-rfvQD4iiCnGQ)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/newzealand/7929568/Man-arrested-for-wife-beating-blames-traditional-Turkish-dance.html)
 2. [The Age](http://media.theage.com.au/entertainment/red-carpet/so-what-is-the-kolbasti-1757153.html)
-3. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10664000)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/newzealand/7929568/Man-arrested-for-wife-beating-blames-traditional-Turkish-dance.html)
-5. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10901313)
+3. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5ieAgIPrdROEVHq2-rfvQD4iiCnGQ)
+4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10901313)
+5. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10664000)
 
 ### Related:
 

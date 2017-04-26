@@ -7,8 +7,8 @@ A Somali police official says a suicide bomber killed 14 people when he detonate
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/africa/suicide-bombers-kill-14-in-somali-capital-mogadishu-8160577.html)
-2. [The Montreal Gazette](http://www.montrealgazette.com/news/Somali+suicide+bomber+kills+Mogadishu+cafe/7273190/story.html)
+1. [The Montreal Gazette](http://www.montrealgazette.com/news/Somali+suicide+bomber+kills+Mogadishu+cafe/7273190/story.html)
+2. [The Independent](http://www.independent.co.uk/news/world/africa/suicide-bombers-kill-14-in-somali-capital-mogadishu-8160577.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A Colombian governor kidnapped by leftist rebels had been killed shortly after h
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE5BL4R220091222)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8427582.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8427582.stm)
+2. [Reuters](http://www.reuters.com/article/idUSTRE5BL4R220091222)
 3. [Colombia Reports](http://colombiareports.com/colombia-news/news/7442-caqueta-governor-found-dead-cma.html)
 
 ### Related:

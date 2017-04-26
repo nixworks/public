@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTHK](http://rthk.hk/rthk/news/englishnews/news.htm?hightlight&20111223&56&806944)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/dec/22/chinese-police-teargas-power-plant-protest)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/dec/22/chinese-police-teargas-power-plant-protest)
+2. [RTHK](http://rthk.hk/rthk/news/englishnews/news.htm?hightlight&20111223&56&806944)
 
 ### Related:
 

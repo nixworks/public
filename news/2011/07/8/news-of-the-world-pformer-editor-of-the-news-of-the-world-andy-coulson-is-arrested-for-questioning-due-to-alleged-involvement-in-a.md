@@ -7,9 +7,9 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-14081387)
+1. [Sky News](http://news.sky.com/skynews/Home/UK-News/News-Of-The-World-Andy-Coulson-Former-Editor-Arrested-By-Police-Investigating-Phone-Hacking/Article/201107216026496?lpos=UK_News_Right_Promo_Region_2&lid=ARTICLE_16026496_News_Of_The_World%3A_Andy_Coulson%2C_Former_Editor%2C_Arrested_By_Police_Investigating_Phone_Hacking)
 2. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=635470&vId=)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/News-Of-The-World-Andy-Coulson-Former-Editor-Arrested-By-Police-Investigating-Phone-Hacking/Article/201107216026496?lpos=UK_News_Right_Promo_Region_2&lid=ARTICLE_16026496_News_Of_The_World%3A_Andy_Coulson%2C_Former_Editor%2C_Arrested_By_Police_Investigating_Phone_Hacking)
+3. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-14081387)
 4. [The Guardian](http://www.guardian.co.uk/media/2011/jul/07/andy-coulson-arrest-phone-hacking)
 5. [BBC](http://www.bbc.co.uk/news/uk-14077405)
 

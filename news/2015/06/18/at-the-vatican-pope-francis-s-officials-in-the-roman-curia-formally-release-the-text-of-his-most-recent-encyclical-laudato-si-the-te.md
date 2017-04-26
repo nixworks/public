@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Vatican](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
-2. [CNN](http://www.cnn.com/2015/06/18/world/pope-francis-climate-technology-encyclical/index.html)
-3. [Reuters](http://www.msn.com/en-us/news/world/pope-calls-for-action-now-to-save-planet-stem-warming-help-poor/ar-AAbLMse)
+1. [CNN](http://www.cnn.com/2015/06/18/world/pope-francis-climate-technology-encyclical/index.html)
+2. [Reuters](http://www.msn.com/en-us/news/world/pope-calls-for-action-now-to-save-planet-stem-warming-help-poor/ar-AAbLMse)
+3. [Vatican](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
 
 ### Related:
 

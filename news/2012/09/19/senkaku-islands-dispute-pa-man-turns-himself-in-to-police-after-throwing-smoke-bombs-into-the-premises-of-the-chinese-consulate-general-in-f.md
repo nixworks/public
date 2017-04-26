@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120919x7.html)
+1. [Jiji Press via ''Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120918003098.htm)
 2. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120919x3.html)
-3. [Jiji Press via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120919a5.html)
-4. [Jiji Press via ''Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120918003098.htm)
-5. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120919004462.htm)
-6. [Reuters via ''Asahi Shimbun](http://ajw.asahi.com/article/behind_news/politics/AJ201209190103)
-7. [Jiji Press](http://jen.jiji.com/jc/eng?g=eco&k=2012091901088)
+3. [Jiji Press](http://jen.jiji.com/jc/eng?g=eco&k=2012091901088)
+4. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120919x7.html)
+5. [Reuters via ''Asahi Shimbun](http://ajw.asahi.com/article/behind_news/politics/AJ201209190103)
+6. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120919004462.htm)
+7. [Jiji Press via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120919a5.html)
 8. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/us-ambassador-to-china-surrounded-by-protesters-car-damaged.html)
 
 ### Related:

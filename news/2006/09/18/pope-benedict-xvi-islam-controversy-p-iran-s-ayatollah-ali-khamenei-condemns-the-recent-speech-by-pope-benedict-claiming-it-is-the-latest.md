@@ -8,8 +8,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [AP](http://abcnews.go.com/International/wireStory?id=2460090)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5356820.stm)
-3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyID=2006-09-18T155514Z_01_L18623697_RTRUKOC_0_US-POPE-ISLAM.xml&WTmodLoc=NewsHome-C1-topNews-2)
+2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyID=2006-09-18T155514Z_01_L18623697_RTRUKOC_0_US-POPE-ISLAM.xml&WTmodLoc=NewsHome-C1-topNews-2)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5356820.stm)
 
 ### Related:
 

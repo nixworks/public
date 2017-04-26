@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/politicsNews/idUSN1055815420080210)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080210/ap_on_el_pr/campaign_rdp_51;_ylt=Ai_.Y_bJw134aNx0MdQHx2ME1vAI)
-3. [The Washington Post](http://blog.washingtonpost.com/the-trail/2008/02/09/huckabee_wins_kansas_caucus.html)
-4. [The Oregonian](http://www.oregonlive.com/news/oregonian/index.ssf?/base/news/1202626509223010.xml&coll=7)
+1. [The Oregonian](http://www.oregonlive.com/news/oregonian/index.ssf?/base/news/1202626509223010.xml&coll=7)
+2. [Reuters](http://www.reuters.com/article/politicsNews/idUSN1055815420080210)
+3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080210/ap_on_el_pr/campaign_rdp_51;_ylt=Ai_.Y_bJw134aNx0MdQHx2ME1vAI)
+4. [The Washington Post](http://blog.washingtonpost.com/the-trail/2008/02/09/huckabee_wins_kansas_caucus.html)
 
 ### Related:
 

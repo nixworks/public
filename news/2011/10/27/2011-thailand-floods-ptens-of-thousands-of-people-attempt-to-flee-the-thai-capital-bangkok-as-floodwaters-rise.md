@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/263432/froc-advises-people-to-leave-bangkok)
-2. [News Limited](http://www.news.com.au/world/thousands-flee-as-gigantic-floodwaters-threaten-bangkok/story-e6frfkyi-1226178444480)
+1. [News Limited](http://www.news.com.au/world/thousands-flee-as-gigantic-floodwaters-threaten-bangkok/story-e6frfkyi-1226178444480)
+2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/263432/froc-advises-people-to-leave-bangkok)
 
 ### Related:
 

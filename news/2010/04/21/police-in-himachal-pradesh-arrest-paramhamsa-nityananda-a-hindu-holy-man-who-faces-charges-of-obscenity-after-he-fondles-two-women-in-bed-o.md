@@ -7,10 +7,10 @@ An Indian guru shown on television fondling two women in bed last month was arre
 
 ### Source:
 
-1. [Indian Express](http://www.indianexpress.com/news/swami-nityananda-arrested-in-himachal/609412/)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8634696.stm)
 2. [iAfrica](http://news.iafrica.com/worldnews/2370840.htm)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/indian-guru-arrested-over-sex-scandal-20100421-t2cn.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8634696.stm)
+4. [Indian Express](http://www.indianexpress.com/news/swami-nityananda-arrested-in-himachal/609412/)
 
 ### Related:
 

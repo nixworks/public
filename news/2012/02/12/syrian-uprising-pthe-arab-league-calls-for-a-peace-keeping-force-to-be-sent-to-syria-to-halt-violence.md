@@ -7,9 +7,9 @@ Arab League ministers agree to ask United Nations for joint force and special Ar
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2012/02/12/uk-syria-idUKL6E8C52E220120212)
+1. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/2012212144046479368.html)
 2. [Emirates 24/7](http://www.emirates247.com/news/region/arab-league-s-syria-mission-chief-resigns-2012-02-12-1.442585)
-3. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/2012212144046479368.html)
+3. [Reuters](http://uk.reuters.com/article/2012/02/12/uk-syria-idUKL6E8C52E220120212)
 4. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201221285656460612.html?utm_campaign=default&utm_source=social_flow&utm_medium=twitter)
 
 ### Related:

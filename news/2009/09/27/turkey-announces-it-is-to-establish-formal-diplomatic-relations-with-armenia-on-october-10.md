@@ -7,8 +7,8 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8277835.stm)
-2. [The Hurriyet](http://www.hurriyetdailynews.com/n.php?n=turkey-armenia-to-sign-diplomatic-deal-next-month-says-official-2009-09-27)
+1. [The Hurriyet](http://www.hurriyetdailynews.com/n.php?n=turkey-armenia-to-sign-diplomatic-deal-next-month-says-official-2009-09-27)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8277835.stm)
 
 ### Related:
 

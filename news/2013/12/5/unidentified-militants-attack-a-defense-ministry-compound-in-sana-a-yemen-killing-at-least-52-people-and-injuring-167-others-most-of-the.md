@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/12/05/world/meast/yemen-violence/)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/12/strong-blast-rocks-yemen-defence-ministry-201312565750185751.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/12/strong-blast-rocks-yemen-defence-ministry-201312565750185751.html)
+2. [CNN](http://www.cnn.com/2013/12/05/world/meast/yemen-violence/)
 
 ### Related:
 

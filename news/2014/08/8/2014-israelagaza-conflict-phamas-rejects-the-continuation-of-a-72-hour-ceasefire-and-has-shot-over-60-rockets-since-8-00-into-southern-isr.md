@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/08/07/world/meast/mideast-crisis)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-08-ML--Israel-Palestinians/id-b6844b9922b543119eda187066ebb733)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-08-ML--Israel-Palestinians/id-b6844b9922b543119eda187066ebb733)
+2. [CNN](http://www.cnn.com/2014/08/07/world/meast/mideast-crisis)
 
 ### Related:
 

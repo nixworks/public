@@ -7,8 +7,8 @@ Thousands of supporters hear Vladimir Putin deliver a strongly patriotic speech 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-17136644)
-2. [RIA Novosti](http://en.rian.ru/society/20120223/171477950.html)
+1. [RIA Novosti](http://en.rian.ru/society/20120223/171477950.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-17136644)
 
 ### Related:
 

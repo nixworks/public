@@ -7,8 +7,8 @@ Police in Bangladesh use tear gas against investors who rampaged after the bigge
 
 ### Source:
 
-1. [Financial Express Bangladesh](http://www.thefinancialexpress-bd.com/more.php?news_id=122575&date=2011-01-11)
-2. [BBC](http://www.bbc.co.uk/news/business-12149340)
+1. [BBC](http://www.bbc.co.uk/news/business-12149340)
+2. [Financial Express Bangladesh](http://www.thefinancialexpress-bd.com/more.php?news_id=122575&date=2011-01-11)
 
 ### Related:
 

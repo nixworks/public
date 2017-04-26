@@ -7,9 +7,9 @@ Former&#x20;IMF&#x20;chief&#x20;Dominique&#x20;Strauss-Kahn&#x20;was&#x20;releas
 
 ### Source:
 
-1. [Reuters via ''Montreal Gazette](http://www.montrealgazette.com/news/Strauss+Kahn+dines+York+after+release/5037332/story.html)
-2. [The New York Times](http://www.nytimes.com/2011/07/01/nyregion/strauss-kahn-case-seen-as-in-jeopardy.html/?_r=1&smid=tw-nytimes)
-3. [France 24](http://www.france24.com/en/20110701-strauss-kahn-released-house-arrest-amid-doubts-about-accuser)
+1. [The New York Times](http://www.nytimes.com/2011/07/01/nyregion/strauss-kahn-case-seen-as-in-jeopardy.html/?_r=1&smid=tw-nytimes)
+2. [France 24](http://www.france24.com/en/20110701-strauss-kahn-released-house-arrest-amid-doubts-about-accuser)
+3. [Reuters via ''Montreal Gazette](http://www.montrealgazette.com/news/Strauss+Kahn+dines+York+after+release/5037332/story.html)
 
 ### Related:
 

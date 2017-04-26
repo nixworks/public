@@ -7,14 +7,14 @@ Municipality endorses mayor&#39;s plan to raze 22 homes in east Jerusalem before
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE65K24E20100621)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201062112534556173.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jKLemSHYVMsxWulWvH6loVem3lIQ)
-4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3908541,00.html)
+1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3908541,00.html)
+2. [The Sydney Morning Herald](http://www.smh.com.au/world/allfemale-ship-heads-for-gaza-blockade-20100620-yp8g.html)
+3. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/world/mayor-approves-albustan-demolition-14850553.html)
+4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9GFJM4G2)
 5. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLDE65K19R20100621)
-6. [The Sydney Morning Herald](http://www.smh.com.au/world/allfemale-ship-heads-for-gaza-blockade-20100620-yp8g.html)
-7. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9GFJM4G2)
-8. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/world/mayor-approves-albustan-demolition-14850553.html)
+6. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jKLemSHYVMsxWulWvH6loVem3lIQ)
+7. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201062112534556173.html)
+8. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE65K24E20100621)
 
 ### Related:
 

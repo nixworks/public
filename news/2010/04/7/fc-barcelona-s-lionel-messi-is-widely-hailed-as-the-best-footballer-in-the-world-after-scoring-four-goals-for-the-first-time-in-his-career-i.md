@@ -7,12 +7,12 @@ The legend at the Nou Camp reads &#034;mes que un club&#034; (more than a club) 
 
 ### Source:
 
-1. [BusinessWorld](http://www.bworldonline.com/main/content.php?id=8580)
-2. [AFP](http://asia.news.yahoo.com/afp/20100407/tsp-fbl-eur-c1-esp-arg-messi-47c0590.html)
-3. [The New York Times](http://www.nytimes.com/reuters/2010/04/07/sports/sports-uk-soccer-world-messi-maradona.html)
-4. [The Guardian](http://www.guardian.co.uk/football/2010/apr/07/lionel-messi)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/lionel-messi/7564309/Lionel-Messis-brilliance-is-an-inspiration-and-antidote-to-the-modern-game.html)
-6. [BBC](http://news.bbc.co.uk/sport2/hi/football/europe/8606391.stm)
+1. [The Guardian](http://www.guardian.co.uk/football/2010/apr/07/lionel-messi)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/lionel-messi/7564309/Lionel-Messis-brilliance-is-an-inspiration-and-antidote-to-the-modern-game.html)
+3. [BBC](http://news.bbc.co.uk/sport2/hi/football/europe/8606391.stm)
+4. [The New York Times](http://www.nytimes.com/reuters/2010/04/07/sports/sports-uk-soccer-world-messi-maradona.html)
+5. [AFP](http://asia.news.yahoo.com/afp/20100407/tsp-fbl-eur-c1-esp-arg-messi-47c0590.html)
+6. [BusinessWorld](http://www.bworldonline.com/main/content.php?id=8580)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Civil Rights Congress of Nigeria, a Nigerian human rights group, has announc
 
 ### Source:
 
-1. [NgEX](http://www.ngex.com/news/public/newsinfo.php?nid=9148)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-13185667)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-13185667)
+2. [NgEX](http://www.ngex.com/news/public/newsinfo.php?nid=9148)
 
 ### Related:
 

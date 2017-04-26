@@ -7,8 +7,8 @@ Monarch, 82, who has had health problems, is said to have announced intention to
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-36784045)
-2. [The Guardian](https://www.theguardian.com/world/2016/jul/13/japans-emperor-akihito-plans-step-down-reports)
+1. [The Guardian](https://www.theguardian.com/world/2016/jul/13/japans-emperor-akihito-plans-step-down-reports)
+2. [BBC](http://www.bbc.com/news/world-asia-36784045)
 
 ### Related:
 

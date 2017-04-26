@@ -7,10 +7,10 @@ A bull leaps out of the arena at a Spanish bullring and rampages through the cro
 
 ### Source:
 
-1. [Aljazeera](http://www.youtube.com/watch?v=-mKvflegox0)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11022260)
-3. [The Independent](http://www.independent.co.uk/news/world/europe/when-the-raging-bull-escaped-from-the-ring-2057388.html)
-4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/19/bull-jumps-into-stands-spain)
+1. [The Independent](http://www.independent.co.uk/news/world/europe/when-the-raging-bull-escaped-from-the-ring-2057388.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/19/bull-jumps-into-stands-spain)
+3. [Aljazeera](http://www.youtube.com/watch?v=-mKvflegox0)
+4. [BBC](http://www.bbc.co.uk/news/world-europe-11022260)
 
 ### Related:
 

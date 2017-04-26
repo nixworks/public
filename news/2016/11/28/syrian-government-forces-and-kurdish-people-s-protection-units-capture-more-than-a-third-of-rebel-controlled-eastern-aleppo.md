@@ -7,10 +7,10 @@ Syrian government forces capture more than a third of rebel-held territory in ea
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/11/28/world/middleeast/aleppo-syria.html?_r=0)
-2. [BBC](http://www.bbc.com/news/world-middle-east-38128370)
-3. [UPI](http://www.upi.com/Top_News/World-News/2016/11/28/Syrian-military-captures-part-of-rebel-held-Aleppo-as-civilians-flee/5691480322346)
-4. [Anadolu Agency](http://aa.com.tr/en/middle-east/turkish-air-force-kills-11-daesh-terrorists-in-aleppo/695296)
+1. [UPI](http://www.upi.com/Top_News/World-News/2016/11/28/Syrian-military-captures-part-of-rebel-held-Aleppo-as-civilians-flee/5691480322346)
+2. [The New York Times](http://www.nytimes.com/2016/11/28/world/middleeast/aleppo-syria.html?_r=0)
+3. [Anadolu Agency](http://aa.com.tr/en/middle-east/turkish-air-force-kills-11-daesh-terrorists-in-aleppo/695296)
+4. [BBC](http://www.bbc.com/news/world-middle-east-38128370)
 5. [South Front](https://southfront.org/militants-evacuate-from-khan-al-shih-hand-over-town-and-military-equipment-to-syrian-army/)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''The Star-Tribune](http://www.startribune.com/world/130621688.html)
-2. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/9868525)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/9868525)
+2. [AP via ''The Star-Tribune](http://www.startribune.com/world/130621688.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6914490.stm)
-2. [MIA-Macedonian Informative Agency](http://www.mia.com.mk/portal/page?_pageid=113,166290&_dad=portal&_schema=PORTAL&VestID=23216856&prikaz=3)
-3. [International Herald Tribune](http://www.iht.com/articles/ap/2007/07/24/europe/EU-GEN-Albania-Blackout.php)
+2. [International Herald Tribune](http://www.iht.com/articles/ap/2007/07/24/europe/EU-GEN-Albania-Blackout.php)
+3. [MIA-Macedonian Informative Agency](http://www.mia.com.mk/portal/page?_pageid=113,166290&_dad=portal&_schema=PORTAL&VestID=23216856&prikaz=3)
 
 ### Related:
 

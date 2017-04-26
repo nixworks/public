@@ -7,8 +7,8 @@ Two Bangladesh opposition leaders are executed for war crimes committed during t
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/world/bangladesh-executes-two-former-members-of-parliament/2015/11/21/bf01c81c-9065-11e5-934c-a369c80822c2_story.html)
-2. [BBC](http://www.bbc.com/news/world-asia-34892606)
+1. [BBC](http://www.bbc.com/news/world-asia-34892606)
+2. [Washington Post](https://www.washingtonpost.com/world/bangladesh-executes-two-former-members-of-parliament/2015/11/21/bf01c81c-9065-11e5-934c-a369c80822c2_story.html)
 
 ### Related:
 

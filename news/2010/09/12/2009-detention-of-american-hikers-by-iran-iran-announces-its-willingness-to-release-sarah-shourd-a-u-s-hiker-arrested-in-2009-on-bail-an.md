@@ -8,9 +8,9 @@ Iranian authorities are ready to release on $500,000 (£325,000) bail one of the
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010912728371337.html)
-2. [AP via ''The Independent](http://www.independent.co.uk/news/world/middle-east/iran-ready-to-release-american-woman-2077347.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11275130)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/sep/12/iran-bail-hiker-sarah-shourd)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-11275130)
+4. [AP via ''The Independent](http://www.independent.co.uk/news/world/middle-east/iran-ready-to-release-american-woman-2077347.html)
 
 ### Related:
 

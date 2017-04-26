@@ -7,8 +7,8 @@ Dozens&#x20;of&#x20;Syrians&#x20;staged&#x20;a&#x20;rare&#x20;protest&#x20;in&#x
 
 ### Source:
 
-1. [The News Hub](https://www.the-newshub.com/international/close-cousin-of-syrian-president-will-be-arrested-for-the-murder)
-2. [France 24](http://www.france24.com/en/20150809-syria-protesters-road-rage-assad-relative-accused-civil-war-alawite-latakia)
+1. [France 24](http://www.france24.com/en/20150809-syria-protesters-road-rage-assad-relative-accused-civil-war-alawite-latakia)
+2. [The News Hub](https://www.the-newshub.com/international/close-cousin-of-syrian-president-will-be-arrested-for-the-murder)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Dunga appointed Internacional coach
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en/news/584/brazil/2012/12/12/3598699/dunga-appointed-internacional-coach)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1261384/former-brazil-coach-dunga-appointed-internacional-boss)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1261384/former-brazil-coach-dunga-appointed-internacional-boss)
+2. [Goal.com](http://www.goal.com/en/news/584/brazil/2012/12/12/3598699/dunga-appointed-internacional-coach)
 
 ### Related:
 

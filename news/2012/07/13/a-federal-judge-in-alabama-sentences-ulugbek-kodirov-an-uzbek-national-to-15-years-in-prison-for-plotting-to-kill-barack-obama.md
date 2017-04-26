@@ -7,8 +7,8 @@ An Uzbek man who came to America pursuing an Ivy League medical degree but wound
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/us/2012/07/13/uzbek-man-gets-more-than-15-years-for-obama-threat/)
-2. [ABC](http://abcnews.go.com/US/wireStory/federal-judge-alabama-sentences-uzbek-man-15-years-16773960#.UABzJ0vUyuR)
+1. [ABC](http://abcnews.go.com/US/wireStory/federal-judge-alabama-sentences-uzbek-man-15-years-16773960#.UABzJ0vUyuR)
+2. [Fox News](http://www.foxnews.com/us/2012/07/13/uzbek-man-gets-more-than-15-years-for-obama-threat/)
 
 ### Related:
 

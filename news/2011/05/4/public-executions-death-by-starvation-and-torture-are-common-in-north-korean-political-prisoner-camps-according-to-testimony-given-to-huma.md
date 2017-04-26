@@ -7,9 +7,9 @@ Public executions, death by starvation and torture are common in North Korean po
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2011/05/05/world/asia/05korea.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jD0jufxBVYczJAwQN0q0CXq90Y0A?docId=CNG.e09e6e09c43cfc58a567b94c3b6f9c67.5e1)
-3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/04/north.korea.amnesty/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/04/north.korea.amnesty/index.html)
+2. [The New York Times](http://www.nytimes.com/2011/05/05/world/asia/05korea.html)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jD0jufxBVYczJAwQN0q0CXq90Y0A?docId=CNG.e09e6e09c43cfc58a567b94c3b6f9c67.5e1)
 
 ### Related:
 

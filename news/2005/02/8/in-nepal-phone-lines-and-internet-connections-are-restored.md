@@ -7,9 +7,9 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Sify](http://headlines.sify.com/news/fullstory.php?id=13665657)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4245411.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7563126&type=topNews)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7563126&type=topNews)
+2. [Sify](http://headlines.sify.com/news/fullstory.php?id=13665657)
+3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4245411.stm)
 
 ### Related:
 

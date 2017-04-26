@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [New Vision](http://www.newvision.co.ug/D/8/12/702522)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8383253.stm)
-3. [Daily Monitor](http://www.monitor.co.ug/artman/publish/news/Land_Bill_passed_in_90_mins_95194.shtml)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8383253.stm)
+2. [Daily Monitor](http://www.monitor.co.ug/artman/publish/news/Land_Bill_passed_in_90_mins_95194.shtml)
+3. [New Vision](http://www.newvision.co.ug/D/8/12/702522)
 
 ### Related:
 

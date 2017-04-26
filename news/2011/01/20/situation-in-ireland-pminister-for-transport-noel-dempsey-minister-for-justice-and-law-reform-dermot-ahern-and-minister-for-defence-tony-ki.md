@@ -7,18 +7,18 @@ Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-12239332)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking50.html)
-3. [RTÉ](http://www.rte.ie/news/2011/0120/cowenb.html)
-4. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE70J1I320110120)
-5. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110120-712408.html)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking67.html)
-7. [RTÉ](http://www.rte.ie/news/2011/0119/harneym.html)
-8. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112014193633285.html)
-9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking3.html)
-10. [Press Association](http://www.independent.ie/breaking-news/national-news/gerry-adams-quits-westminster-seat-2505176.html)
-11. [RTÉ](http://www.rte.ie/news/2011/0120/dail_tracker.html)
-12. [AFP](http://politics.inquirer.net/politics/view/20110120-315576/Four-Irish-cabinet-ministers-quitreports)
+1. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110120-712408.html)
+2. [AFP](http://politics.inquirer.net/politics/view/20110120-315576/Four-Irish-cabinet-ministers-quitreports)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking3.html)
+4. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112014193633285.html)
+5. [BBC](http://www.bbc.co.uk/news/world-europe-12239332)
+6. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE70J1I320110120)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking67.html)
+8. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0120/breaking50.html)
+9. [Press Association](http://www.independent.ie/breaking-news/national-news/gerry-adams-quits-westminster-seat-2505176.html)
+10. [RTÉ](http://www.rte.ie/news/2011/0120/dail_tracker.html)
+11. [RTÉ](http://www.rte.ie/news/2011/0120/cowenb.html)
+12. [RTÉ](http://www.rte.ie/news/2011/0119/harneym.html)
 
 ### Related:
 

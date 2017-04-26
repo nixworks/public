@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/sport/gaa/championship/2012/0319/stynesj.html)
+1. [The Australian](http://www.theaustralian.com.au/sport/football-legend-jim-stynes-dies-after-a-battle-with-cancer/story-e6frg7mf-1226304812859)
 2. [Melbourne Age](http://www.theage.com.au/afl/melbourne-demons/jim-stynes-dead-at-45-20120320-1vgdr.html)
-3. [The Australian](http://www.theaustralian.com.au/sport/football-legend-jim-stynes-dies-after-a-battle-with-cancer/story-e6frg7mf-1226304812859)
+3. [RTE](http://www.rte.ie/sport/gaa/championship/2012/0319/stynesj.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A bus plunges into a ravine in western Guatemala, killing 14 ex-paramilitaries w
 
 ### Source:
 
-1. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=383408&CategoryId=23558)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12144331)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12144331)
+2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=383408&CategoryId=23558)
 
 ### Related:
 

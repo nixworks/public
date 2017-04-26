@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/8-dead-100-missing-in/1527318.html?cid=TWTCNA&utm_source=dlvr.it&utm_medium=twitter)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_LANDSLIDE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [BBC](http://www.bbc.com/news/world-asia-30459175)
+2. [BBC](http://www.bbc.com/news/world-asia-30459175)
+3. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_LANDSLIDE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

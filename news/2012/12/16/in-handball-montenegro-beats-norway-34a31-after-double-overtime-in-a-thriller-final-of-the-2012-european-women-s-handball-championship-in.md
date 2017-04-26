@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [EHF](http://www.ehf-euro.com/Singe-News.2807.0.html?&tx_ttnews%5Btt_news%5D=22281&cHash=46d1660aab6f45f4a3f83922b59eab5c)
-2. [THN](http://teamhandballnews.com/wordpress/2012/12/euro-2012-womens-final-revenge-for-montenegro-after-thriller-with-double-overtime/)
+1. [THN](http://teamhandballnews.com/wordpress/2012/12/euro-2012-womens-final-revenge-for-montenegro-after-thriller-with-double-overtime/)
+2. [EHF](http://www.ehf-euro.com/Singe-News.2807.0.html?&tx_ttnews%5Btt_news%5D=22281&cHash=46d1660aab6f45f4a3f83922b59eab5c)
 
 ### Related:
 

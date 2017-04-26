@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/136015/1/.html)
-2. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=worldNews&storyID=2005-03-07T061941Z_01_DOB717625_RTRUKOC_0_SECURITY-INDONESIA-MALAYSIA.xml)
-3. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050306121201&irec=0)
+2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050306121201&irec=0)
+3. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=worldNews&storyID=2005-03-07T061941Z_01_DOB717625_RTRUKOC_0_SECURITY-INDONESIA-MALAYSIA.xml)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Entire villages are reportedly buried following heavy snow in Afghanistan and Pa
 
 ### Source:
 
-1. [FOX News](http://www.foxnews.com/world/2017/02/05/avalanches-in-afghanistan-kill-at-least-54.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-38872941)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-38872941)
+2. [FOX News](http://www.foxnews.com/world/2017/02/05/avalanches-in-afghanistan-kill-at-least-54.html)
 
 ### Related:
 

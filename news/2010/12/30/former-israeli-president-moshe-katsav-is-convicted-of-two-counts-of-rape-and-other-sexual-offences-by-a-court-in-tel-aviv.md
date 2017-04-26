@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010123083812287264.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/dec/30/israeli-court-convicts-former-president-rape)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12091982)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12091982)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/dec/30/israeli-court-convicts-former-president-rape)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Twenty-one of the 23 oil workers kidnapped on Monday in the eastern department o
 
 ### Source:
 
-1. [Reuters via ''Vancouver Sun](http://www.vancouversun.com/news/Canadian+company+workers+freed+after+Colombia+kidnapping/4399440/story.html)
-2. [Colombia Reports](http://colombiareports.com/colombia-news/news/14775-21-kidnapped-oil-workers-rescued-.html)
+1. [Colombia Reports](http://colombiareports.com/colombia-news/news/14775-21-kidnapped-oil-workers-rescued-.html)
+2. [Reuters via ''Vancouver Sun](http://www.vancouversun.com/news/Canadian+company+workers+freed+after+Colombia+kidnapping/4399440/story.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Pro-democracy supporters hold fresh rallies in Cairo, just hours after the relea
 
 ### Source:
 
-1. [New York Times](http://thelede.blogs.nytimes.com/2011/02/08/latest-updates-on-day-15-of-egypt-protests/?src=twt&twt=thelede#video-of-protest-at-egyptian-parliament)
+1. [MSNBC](http://www.msnbc.msn.com/id/41469240/ns/world_news-mideastn_africa/)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112851424979539.html)
-3. [MSNBC](http://www.msnbc.msn.com/id/41469240/ns/world_news-mideastn_africa/)
-4. [ABC News Australia](http://www.abc.net.au/news/stories/2011/02/09/3133668.htm?section=justin)
+3. [ABC News Australia](http://www.abc.net.au/news/stories/2011/02/09/3133668.htm?section=justin)
+4. [New York Times](http://thelede.blogs.nytimes.com/2011/02/08/latest-updates-on-day-15-of-egypt-protests/?src=twt&twt=thelede#video-of-protest-at-egyptian-parliament)
 
 ### Related:
 

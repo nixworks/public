@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Los Angeles Times](http://www.latimes.com/business/nationworld/wire/sns-ap-as-nkorea-beer-commercial,0,4464914.story)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8132199.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8132199.stm)
+2. [The Los Angeles Times](http://www.latimes.com/business/nationworld/wire/sns-ap-as-nkorea-beer-commercial,0,4464914.story)
 
 ### Related:
 

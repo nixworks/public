@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTHK](http://www.rthk.org.hk/rthk/news/einternational/news.htm?einternational&20090815&56&604775)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6797486.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6797486.ece)
+2. [RTHK](http://www.rthk.org.hk/rthk/news/einternational/news.htm?einternational&20090815&56&604775)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-08/15/content_11885914.htm)
 
 ### Related:

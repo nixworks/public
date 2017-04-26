@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8487898.stm)
-2. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?id=pTK8dQvtnyI=)
+1. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?id=pTK8dQvtnyI=)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8487898.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8008075/Prominent-Pakistani-politician-murdered-outside-his-London-home.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-england-london-11340976)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-london-11340976)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8008075/Prominent-Pakistani-politician-murdered-outside-his-London-home.html)
 
 ### Related:
 

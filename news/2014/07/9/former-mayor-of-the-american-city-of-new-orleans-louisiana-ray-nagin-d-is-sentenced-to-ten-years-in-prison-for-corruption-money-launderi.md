@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2014/07/09/ray-nagin-new-orleans-mayor-sentencing/12397415/)
-2. [New York Times](http://www.nytimes.com/2014/07/10/us/ray-nagin-former-new-orleans-mayor.html?_r=0)
+1. [New York Times](http://www.nytimes.com/2014/07/10/us/ray-nagin-former-new-orleans-mayor.html?_r=0)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2014/07/09/ray-nagin-new-orleans-mayor-sentencing/12397415/)
 
 ### Related:
 

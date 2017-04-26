@@ -7,8 +7,8 @@ Beaches in Florida, Georgia and South Carolina braced for the arrival of Tropica
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2012/05/28/us/tropical-storm-beryl-threatens-the-southeast.html)
-2. [Florida Times Union](http://jacksonville.com/news/florida/2012-05-27/story/beryl-bears-down-bringing-strong-rain-and-wind)
+1. [Florida Times Union](http://jacksonville.com/news/florida/2012-05-27/story/beryl-bears-down-bringing-strong-rain-and-wind)
+2. [New York Times](http://www.nytimes.com/2012/05/28/us/tropical-storm-beryl-threatens-the-southeast.html)
 
 ### Related:
 

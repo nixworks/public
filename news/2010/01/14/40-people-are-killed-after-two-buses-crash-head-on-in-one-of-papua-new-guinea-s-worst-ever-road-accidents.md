@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The National](http://www.thenational.com.pg/?q=node/5114)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5haqQnjwAUaDPnYceLG-TZS-0UYCA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5haqQnjwAUaDPnYceLG-TZS-0UYCA)
+2. [The National](http://www.thenational.com.pg/?q=node/5114)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The Democratic state representative held onto an early lead to beat the Republic
 
 ### Source:
 
-1. [NOLA.com](http://www.nola.com/politics/index.ssf/2015/11/louisiana_governor_democrat.html)
-2. [Washington Post](https://www.washingtonpost.com/politics/john-edwards-claiming-win-over-david-vitter-in-louisiana-governors-race/2015/11/21/a583fc06-9070-11e5-ae1f-af46b7df8483_story.html)
-3. [AP](http://hosted.ap.org/dynamic/stories/U/US_LOUISIANA_ELECTION_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-11-21-23-58-55)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_LOUISIANA_ELECTION_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-11-21-23-58-55)
+2. [NOLA.com](http://www.nola.com/politics/index.ssf/2015/11/louisiana_governor_democrat.html)
+3. [Washington Post](https://www.washingtonpost.com/politics/john-edwards-claiming-win-over-david-vitter-in-louisiana-governors-race/2015/11/21/a583fc06-9070-11e5-ae1f-af46b7df8483_story.html)
 
 ### Related:
 

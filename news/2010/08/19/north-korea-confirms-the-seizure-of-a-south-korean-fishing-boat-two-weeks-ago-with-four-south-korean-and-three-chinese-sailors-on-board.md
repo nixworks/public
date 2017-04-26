@@ -7,9 +7,9 @@ North Korea confirmed Thursday that it had seized a South Korean fishing boat ca
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5inBfUMgpVzP9XTRGq51Wr-lWxwSQ)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/19/33/0301000000AEN20100819004100320F.HTML)
-3. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/08/116_71689.html)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/19/33/0301000000AEN20100819004100320F.HTML)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/08/116_71689.html)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5inBfUMgpVzP9XTRGq51Wr-lWxwSQ)
 
 ### Related:
 

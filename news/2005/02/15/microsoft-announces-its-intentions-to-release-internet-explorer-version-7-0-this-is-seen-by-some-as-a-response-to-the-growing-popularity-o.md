@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters UK](http://today.reuters.co.uk/news/newsArticle.aspx?type=technologyNews&storyID=2005-02-16T002412Z_01_N1519247_RTRIDST_0_TECH-TECH-MICROSOFT-BROWSER-DC.XML)
-2. [News.com](http://news.com.com/Reversal+Next+IE+update+divorced+from+Windows/2100-1032_3-5577263.html?tag=nl)
+1. [News.com](http://news.com.com/Reversal+Next+IE+update+divorced+from+Windows/2100-1032_3-5577263.html?tag=nl)
+2. [Reuters UK](http://today.reuters.co.uk/news/newsArticle.aspx?type=technologyNews&storyID=2005-02-16T002412Z_01_N1519247_RTRIDST_0_TECH-TECH-MICROSOFT-BROWSER-DC.XML)
 
 ### Related:
 

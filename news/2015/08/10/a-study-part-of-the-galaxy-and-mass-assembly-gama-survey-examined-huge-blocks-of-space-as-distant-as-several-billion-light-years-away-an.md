@@ -8,5 +8,5 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2015/08/10/us/universe-dying/index.html)
-2. [The South African Times Live](http://www.timeslive.co.za/scitech/2015/08/11/Don%E2%80%99t-panic-but-the-universe-is-slowly-dying)
-3. [The Guardian'' via MSN](http://www.msn.com/en-us/news/technology/universe-slowly-dying-as-old-stars-fade-faster-than-new-ones-born/ar-BBlCpq8?ocid=spartandhp)
+2. [The Guardian'' via MSN](http://www.msn.com/en-us/news/technology/universe-slowly-dying-as-old-stars-fade-faster-than-new-ones-born/ar-BBlCpq8?ocid=spartandhp)
+3. [The South African Times Live](http://www.timeslive.co.za/scitech/2015/08/11/Don%E2%80%99t-panic-but-the-universe-is-slowly-dying)

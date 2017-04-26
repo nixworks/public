@@ -7,8 +7,8 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6537861.stm)
-2. [Reuters via Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=142685&version=1&template_id=42&parent_id=18)
+1. [Reuters via Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=142685&version=1&template_id=42&parent_id=18)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6537861.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MyFoxPhilly](http://www.myfoxphilly.com/story/22956400/building-collapse-reported-in-south-philly)
-2. [CNN](http://edition.cnn.com/2013/07/29/us/pennsylvania-building-collapse/index.html?sr=fb072913buildingcollapse12p)
+1. [CNN](http://edition.cnn.com/2013/07/29/us/pennsylvania-building-collapse/index.html?sr=fb072913buildingcollapse12p)
+2. [MyFoxPhilly](http://www.myfoxphilly.com/story/22956400/building-collapse-reported-in-south-philly)
 
 ### Related:
 

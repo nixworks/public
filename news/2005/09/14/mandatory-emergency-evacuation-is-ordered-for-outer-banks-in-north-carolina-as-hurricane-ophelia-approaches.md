@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-14T204307Z_01_YUE474504_RTRUKOC_0_UK-WEATHER-OPHELIA.xml&archived=False)
-2. [Guardian](http://www.guardian.co.uk/usa/story/0,12271,1570436,00.html)
+1. [Guardian](http://www.guardian.co.uk/usa/story/0,12271,1570436,00.html)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-14T204307Z_01_YUE474504_RTRUKOC_0_UK-WEATHER-OPHELIA.xml&archived=False)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/14/AR2005091401832.html)
 
 ### Related:

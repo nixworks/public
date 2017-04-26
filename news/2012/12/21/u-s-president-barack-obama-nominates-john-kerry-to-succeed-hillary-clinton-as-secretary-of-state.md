@@ -7,8 +7,8 @@ US President Barack Obama nominates Senator John Kerry to replace Hillary Clinto
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/12/21/politics/kerry-nomination/index.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-20816463)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20816463)
+2. [CNN](http://www.cnn.com/2012/12/21/politics/kerry-nomination/index.html)
 
 ### Related:
 

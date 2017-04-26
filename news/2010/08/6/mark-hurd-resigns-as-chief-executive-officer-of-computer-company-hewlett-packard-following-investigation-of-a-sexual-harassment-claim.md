@@ -7,8 +7,8 @@ Mark Hurd resigns as chief executive officer and president of Hewlett-Packard fo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10900198)
-2. [AP via ABC America](http://abcnews.go.com/Technology/wireStory?id=11344825)
+1. [AP via ABC America](http://abcnews.go.com/Technology/wireStory?id=11344825)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10900198)
 
 ### Related:
 

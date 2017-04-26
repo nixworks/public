@@ -7,8 +7,8 @@ Rock of Ages star Tom Cruise and his wife Katie Holmes are divorcing after five 
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/entertainment/2012/06/29/tom-cruise-katie-holmes-divorcing-after-five-years-marriage-report-says/)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18653268)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18653268)
+2. [Fox News](http://www.foxnews.com/entertainment/2012/06/29/tom-cruise-katie-holmes-divorcing-after-five-years-marriage-report-says/)
 
 ### Related:
 

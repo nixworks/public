@@ -8,8 +8,8 @@
 ### Source:
 
 1. [London Free Press (Ontario](http://lfpress.ca/newsstand/News/Local/2006/04/09/1526462-sun.html)
-2. [CBC](http://www.cbc.ca/canada/story/2006/04/08/bodies-field060408.html)
-3. [National Nine News](http://news.ninemsn.com.au/article.aspx?id=95022)
+2. [National Nine News](http://news.ninemsn.com.au/article.aspx?id=95022)
+3. [CBC](http://www.cbc.ca/canada/story/2006/04/08/bodies-field060408.html)
 
 ### Related:
 

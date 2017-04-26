@@ -8,8 +8,8 @@ Baghdad traffic police are reportedly being given Kalashnikov assault rifles to 
 ### Source:
 
 1. [Reuters via ''Arab News](http://arabnews.com/middleeast/article98506.ece)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10919280)
-3. [IOL](http://www.iol.co.za/index.php?from=rss_Middle%20East&set_id=1&click_id=123&art_id=nw20100809181715455C937626)
+2. [IOL](http://www.iol.co.za/index.php?from=rss_Middle%20East&set_id=1&click_id=123&art_id=nw20100809181715455C937626)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-10919280)
 
 ### Related:
 

@@ -7,10 +7,10 @@ A Russian airliner crashes in Sinai killing all 224 people on board - rescuers d
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/group-egypt-claims-downed-russian-airliner-141443087.html;_ylt=AwrC0wyczTRW8hoAh5PQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
-2. [AP via New Jersey Herald](http://www.njherald.com/story/30399604/the-latest-co-pilots-wife-he-complained-about-plane)
+1. [The News Hub](https://www.the-newshub.com/international/russian-airplane-crashes-224-possibly-dead)
+2. [AFP via Yahoo! News](http://news.yahoo.com/group-egypt-claims-downed-russian-airliner-141443087.html;_ylt=AwrC0wyczTRW8hoAh5PQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
 3. [BBC](http://www.bbc.com/news/world-middle-east-34687139?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-4. [The News Hub](https://www.the-newshub.com/international/russian-airplane-crashes-224-possibly-dead)
+4. [AP via New Jersey Herald](http://www.njherald.com/story/30399604/the-latest-co-pilots-wife-he-complained-about-plane)
 
 ### Related:
 

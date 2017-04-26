@@ -7,9 +7,9 @@ At least 156 people were killed and more than 800 injured in by far the worst in
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11663866.htm)
-2. [Times of India](http://timesofindia.indiatimes.com/World/World/Unrest-in-China-140-dead-in-rioting/articleshow/4743125.cms)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8135203.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8135203.stm)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11663866.htm)
+3. [Times of India](http://timesofindia.indiatimes.com/World/World/Unrest-in-China-140-dead-in-rioting/articleshow/4743125.cms)
 4. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/20097641242376417.html)
 
 ### Related:

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Boston Channel](http://www.thebostonchannel.com/politics/23031046/detail.html)
-2. [My Fox Boston](http://www.myfoxboston.com/dpp/news/local/feds-visit-flood-damage-20100402)
-3. [Boston](http://www.boston.com/news/local/maine/articles/2010/04/01/mass_gov_patrick_says_obama_weighing_flood_tour/)
+2. [Boston](http://www.boston.com/news/local/maine/articles/2010/04/01/mass_gov_patrick_says_obama_weighing_flood_tour/)
+3. [My Fox Boston](http://www.myfoxboston.com/dpp/news/local/feds-visit-flood-damage-20100402)
 4. [CNS](http://www.cnsnews.com/news/article/63673)
 
 ### Related:

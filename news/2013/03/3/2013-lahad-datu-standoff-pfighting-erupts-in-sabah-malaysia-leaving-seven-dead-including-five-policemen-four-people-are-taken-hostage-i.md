@@ -8,8 +8,8 @@ At least five police officers have died in another armed clash with gunmen in ea
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/03/03/us-malaysia-poltiics-idUSBRE92202A20130303)
-2. [The New York Times](http://www.nytimes.com/2013/03/04/world/asia/04iht-malaysia04.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-21646374)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-21646374)
+3. [The New York Times](http://www.nytimes.com/2013/03/04/world/asia/04iht-malaysia04.html)
 
 ### Related:
 

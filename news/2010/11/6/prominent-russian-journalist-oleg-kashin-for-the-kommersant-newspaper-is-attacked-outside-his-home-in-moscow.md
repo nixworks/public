@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20101106/161228431.html)
-2. [Reuters](http://www.reuters.com/article/idUSLDE6A501O20101106)
+1. [Reuters](http://www.reuters.com/article/idUSLDE6A501O20101106)
+2. [RIA Novosti](http://en.rian.ru/russia/20101106/161228431.html)
 
 ### Related:
 

@@ -8,9 +8,9 @@ At least 10 people have been killed and dozens are missing after a passenger boa
 ### Source:
 
 1. [The News International](http://www.thenews.com.pk/updates.asp?id=109979)
-2. [France24](http://www.france24.com/en/20100809-indonesia-ferry-sinking-passengers-killed)
-3. [The Age](http://news.theage.com.au/breaking-news-world/indonesian-ferry-sinks-11-dead-20100809-11tlf.html)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10910908)
+2. [The Age](http://news.theage.com.au/breaking-news-world/indonesian-ferry-sinks-11-dead-20100809-11tlf.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10910908)
+4. [France24](http://www.france24.com/en/20100809-indonesia-ferry-sinking-passengers-killed)
 
 ### Related:
 

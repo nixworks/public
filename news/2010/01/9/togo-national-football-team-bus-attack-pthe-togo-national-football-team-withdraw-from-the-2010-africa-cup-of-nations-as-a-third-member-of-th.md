@@ -7,15 +7,15 @@ Three people were reported killed in Friday’s attack on Togo’s team bus in A
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=6&click_id=4&art_id=nw20100109203329129C575563)
-2. [L'Équipe'', in French](http://www.lequipe.fr/Football/breves2010/20100110_011629_les-togolais-veulent-jouer.html)
-3. [The New York Times](http://www.nytimes.com/2010/01/10/sports/soccer/10soccer.html)
-4. [Philippine Times](http://story.philippinetimes.com/index.php/ct/9/cid/2411cd3571b4f088/id/586716/cs/1/)
+1. [BBC](http://news.bbc.co.uk/sport1/hi/football/africa/8449611.stm)
+2. [Philippine Times](http://story.philippinetimes.com/index.php/ct/9/cid/2411cd3571b4f088/id/586716/cs/1/)
+3. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/africa/8449611.stm)
+4. [L'Équipe'', in French](http://www.lequipe.fr/Football/breves2010/20100110_011629_les-togolais-veulent-jouer.html)
 5. [AP via ESPN](http://sports.espn.go.com/sports/soccer/news/story?id=4810995)
-6. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/6958082/Togo-attack-Cabinda-to-remain-African-Cup-of-Nations-venue.html)
-7. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/africa/8449611.stm)
-8. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/desporto/2010/0/1/Togo-assistant-coach-dies,0a0378fe-fd48-4763-9a9e-343fee8ae101.html)
-9. [BBC](http://news.bbc.co.uk/sport1/hi/football/africa/8449611.stm)
+6. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/desporto/2010/0/1/Togo-assistant-coach-dies,0a0378fe-fd48-4763-9a9e-343fee8ae101.html)
+7. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/6958082/Togo-attack-Cabinda-to-remain-African-Cup-of-Nations-venue.html)
+8. [IOL](http://www.iol.co.za/index.php?set_id=6&click_id=4&art_id=nw20100109203329129C575563)
+9. [The New York Times](http://www.nytimes.com/2010/01/10/sports/soccer/10soccer.html)
 
 ### Related:
 

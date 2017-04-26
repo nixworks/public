@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2009/WORLD/americas/06/25/honduras.general/index.html?eref=rss_latest)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8119223.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8119223.stm)
+2. [CNN](http://www.cnn.com/2009/WORLD/americas/06/25/honduras.general/index.html?eref=rss_latest)
 
 ### Related:
 

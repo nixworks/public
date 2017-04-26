@@ -7,8 +7,8 @@ At least three people are killed and more are missing after a landslide destroye
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13167900)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/22/c_13841153.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/22/c_13841153.htm)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13167900)
 
 ### Related:
 

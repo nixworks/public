@@ -7,5 +7,5 @@ An unprecedented census gives a sobering baseline for managing what’s left of 
 
 ### Source:
 
-1. [PEERJ](https://peerj.com/articles/2354/)
-2. [National Geographic](http://news.nationalgeographic.com/2016/08/wildlife-african-elephants-population-decrease-great-elephant-census/)
+1. [National Geographic](http://news.nationalgeographic.com/2016/08/wildlife-african-elephants-population-decrease-great-elephant-census/)
+2. [PEERJ](https://peerj.com/articles/2354/)

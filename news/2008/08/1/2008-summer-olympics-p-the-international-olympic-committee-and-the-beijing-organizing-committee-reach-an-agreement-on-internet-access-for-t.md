@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/article4441127.ece)
-2. [Reuters via ''The New York Times](http://www.nytimes.com/reuters/technology/tech-olympics-censorship.html)
-3. [AFP via Google News](http://afp.google.com/article/ALeqM5gI4coLNu9o-2CJUDgz4NeqaxIf5A)
+1. [Reuters via ''The New York Times](http://www.nytimes.com/reuters/technology/tech-olympics-censorship.html)
+2. [AFP via Google News](http://afp.google.com/article/ALeqM5gI4coLNu9o-2CJUDgz4NeqaxIf5A)
+3. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/article4441127.ece)
 
 ### Related:
 

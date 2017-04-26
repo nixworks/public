@@ -7,8 +7,8 @@ Frankfurt&#39;s airport has closed, trains have stopped running under the Englis
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-21766690)
-2. [AP via News24](http://www.news24.com/news24/World/News/Snowfall-brings-Europe-to-a-standstill-20130312)
+1. [AP via News24](http://www.news24.com/news24/World/News/Snowfall-brings-Europe-to-a-standstill-20130312)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-21766690)
 
 ### Related:
 

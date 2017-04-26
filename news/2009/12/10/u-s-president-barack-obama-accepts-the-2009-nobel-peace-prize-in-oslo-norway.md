@@ -7,8 +7,8 @@ Formally accepting the Nobel Peace Prize in Oslo on Thursday, President Obama ro
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/POLITICS/12/10/obama.peace.prize/index.html)
-2. [New York Times](http://www.nytimes.com/2009/12/11/world/europe/11prexy.html)
+1. [New York Times](http://www.nytimes.com/2009/12/11/world/europe/11prexy.html)
+2. [CNN](http://edition.cnn.com/2009/POLITICS/12/10/obama.peace.prize/index.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/americas/8405033.stm)
 
 ### Related:

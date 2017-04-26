@@ -7,8 +7,8 @@ Lava streamed down the sides of Indonesia&#8217;s Mount Merapi on Tuesday, but t
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4767805.stm)
-2. [MSNBC](http://www.msnbc.msn.com/id/12765408/)
+1. [MSNBC](http://www.msnbc.msn.com/id/12765408/)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4767805.stm)
 
 ### Related:
 

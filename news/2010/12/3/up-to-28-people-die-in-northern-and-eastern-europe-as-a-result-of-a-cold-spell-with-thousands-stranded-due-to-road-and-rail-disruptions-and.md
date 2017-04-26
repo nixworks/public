@@ -7,8 +7,8 @@ Heavy snow and freezing temperatures continue across northern Europe, with dozen
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012310834370633.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11907045)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11907045)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012310834370633.html)
 
 ### Related:
 

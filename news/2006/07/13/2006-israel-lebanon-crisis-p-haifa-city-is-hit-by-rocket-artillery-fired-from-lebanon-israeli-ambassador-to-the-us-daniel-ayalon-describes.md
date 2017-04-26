@@ -7,20 +7,20 @@
 
 ### Source:
 
-1. [Getty](http://editorial.gettyimages.com/source/search/details_pop.aspx?iid=71432630)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/738315.html)
+1. [Fox](http://www.foxnews.com/story/0,2933,203253,00.html)
+2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1150885985413&pagename=JPost%2FJPArticle%2FShowFull)
 3. [CNN](http://www.cnn.com/2006/WORLD/meast/07/13/mideast/index.html)
 4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5175160.stm)
-5. [Getty](http://editorial.gettyimages.com/source/search/details_pop.aspx?iid=71432808)
+5. [Haaretz](http://www.haaretz.com/hasen/spages/738315.html)
 6. [Haaretz](http://www.haaretz.com/hasen/spages/738310.html)
-7. [Associated Press](http://www.breitbart.com/news/2006/07/13/D8IQVBP02.html)
-8. [Associated Press](http://www.breitbart.com/news/2006/07/13/D8IR5KV8H.html)
-9. [Haaretz](http://www.haaretz.com/hasen/spages/738318.html)
-10. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274827,00.html)
-11. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275229,00.html)
-12. [Fox](http://www.foxnews.com/story/0,2933,203253,00.html)
-13. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1150885985413&pagename=JPost%2FJPArticle%2FShowFull)
-14. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-07-13T053755Z_01_L11538533_RTRUKOC_0_US-MIDEAST.xml&src=rss&rpc=22)
+7. [Getty](http://editorial.gettyimages.com/source/search/details_pop.aspx?iid=71432630)
+8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274827,00.html)
+9. [Associated Press](http://www.breitbart.com/news/2006/07/13/D8IR5KV8H.html)
+10. [Getty](http://editorial.gettyimages.com/source/search/details_pop.aspx?iid=71432808)
+11. [Haaretz](http://www.haaretz.com/hasen/spages/738318.html)
+12. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3275229,00.html)
+13. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-07-13T053755Z_01_L11538533_RTRUKOC_0_US-MIDEAST.xml&src=rss&rpc=22)
+14. [Associated Press](http://www.breitbart.com/news/2006/07/13/D8IQVBP02.html)
 
 ### Related:
 

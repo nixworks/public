@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20090625/155348295.html)
-2. [CNN](http://edition.cnn.com/2009/WORLD/europe/06/25/russian.journalist.politkovskaya.trial/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/europe/06/25/russian.journalist.politkovskaya.trial/)
+2. [RIA Novosti](http://en.rian.ru/russia/20090625/155348295.html)
 
 ### Related:
 

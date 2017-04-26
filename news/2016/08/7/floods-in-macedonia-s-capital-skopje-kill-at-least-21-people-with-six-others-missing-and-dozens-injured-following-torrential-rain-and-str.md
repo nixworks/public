@@ -7,8 +7,8 @@ At least 21 people are killed as freak winds and flooding hit Skopje, the capita
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/d66299972717471c920ca6c7ff80ee13/storm-leaves-15-dead-6-missing-22-injured-macedonia)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-37002364)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-37002364)
+2. [AP](http://bigstory.ap.org/article/d66299972717471c920ca6c7ff80ee13/storm-leaves-15-dead-6-missing-22-injured-macedonia)
 
 ### Related:
 

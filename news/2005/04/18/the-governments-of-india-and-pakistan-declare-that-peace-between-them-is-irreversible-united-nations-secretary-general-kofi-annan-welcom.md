@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Deepika](http://www.deepikaglobal.com/latestnews.asp?ncode=27300)
-2. [IHT](http://www.iht.com/articles/2005/04/18/asia/web.0418india.html)
-3. [Hindu](http://www.hindu.com/thehindu/holnus/000200504181401.htm)
-4. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_19-4-2005_pg7_48)
+1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_19-4-2005_pg7_48)
+2. [Hindu](http://www.hindu.com/thehindu/holnus/000200504181401.htm)
+3. [IHT](http://www.iht.com/articles/2005/04/18/asia/web.0418india.html)
+4. [Deepika](http://www.deepikaglobal.com/latestnews.asp?ncode=27300)
 
 ### Related:
 

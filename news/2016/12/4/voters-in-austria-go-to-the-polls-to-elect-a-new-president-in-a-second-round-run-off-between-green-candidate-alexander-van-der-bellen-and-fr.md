@@ -7,8 +7,8 @@ Austrian voters roundly rejected on Sunday a candidate vying to become the first
 
 ### Source:
 
-1. [AFP via Yahoo! News](https://www.yahoo.com/news/austria-far-cusp-power-election-showdown-041515397.html)
-2. [Reuters](http://www.reuters.com/article/us-austria-election-idUSKBN13S0W0)
+1. [Reuters](http://www.reuters.com/article/us-austria-election-idUSKBN13S0W0)
+2. [AFP via Yahoo! News](https://www.yahoo.com/news/austria-far-cusp-power-election-showdown-041515397.html)
 
 ### Related:
 

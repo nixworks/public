@@ -7,8 +7,8 @@ AU-PRINCE (Reuters) - Haitians have chosen banana exporter Jovenel Moise as thei
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-haiti-elecion-idUSKBN13O08P)
-2. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/haiti/article117626878.html)
+1. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/haiti/article117626878.html)
+2. [Reuters](http://www.reuters.com/article/us-haiti-elecion-idUSKBN13O08P)
 
 ### Related:
 

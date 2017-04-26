@@ -7,8 +7,8 @@ NATO&#039;s alliance force in Afghanistan says its warplanes killed an unspecifi
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7005993.stm)
-2. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/21/2040023.htm)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/21/2040023.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7005993.stm)
 
 ### Related:
 

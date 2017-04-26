@@ -8,8 +8,8 @@ Derry&#39;s most senior police officer has said lives could have been lost in th
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0803/breaking4.html)
-2. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/03/derry-officials-denounce-bomb-attack)
-3. [RTÉ](http://www.rte.ie/news/2010/0803/derry.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0803/derry.html)
+3. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/03/derry-officials-denounce-bomb-attack)
 
 ### Related:
 

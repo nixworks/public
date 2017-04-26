@@ -7,12 +7,12 @@ Al-Jadeed TV cameraman Ali Shaaban was killed Monday at a border crossing in the
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201248124610592469.html)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle_east/turkey-says-3-wounded-after-syrian-forces-open-fire-at-refugee-camp-inside-turkey/2012/04/09/gIQAJcIS5S_story.html)
-3. [CNN](http://edition.cnn.com/2012/04/09/world/meast/yemen-attack/index.html?eref=edition)
-4. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2012\04\09\story_9-4-2012_pg7_30)
-5. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Local-News/2012/Apr-09/169668-al-jadeed-cameraman-killed-on-lebanon-syria-border.ashx#axzz1rY2hfmZ9)
-6. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/201249111138604841.html)
+1. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2012\04\09\story_9-4-2012_pg7_30)
+2. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/201249111138604841.html)
+3. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Local-News/2012/Apr-09/169668-al-jadeed-cameraman-killed-on-lebanon-syria-border.ashx#axzz1rY2hfmZ9)
+4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201248124610592469.html)
+5. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle_east/turkey-says-3-wounded-after-syrian-forces-open-fire-at-refugee-camp-inside-turkey/2012/04/09/gIQAJcIS5S_story.html)
+6. [CNN](http://edition.cnn.com/2012/04/09/world/meast/yemen-attack/index.html?eref=edition)
 
 ### Related:
 

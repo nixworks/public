@@ -7,8 +7,8 @@ Armenia’s ruling Republican Party led by the president has taken a clear lead 
 
 ### Source:
 
-1. [TASS](http://tass.com/world/938878)
-2. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/armenian-vote-parliament-sarkisian-tsarukian/28404992.html)
+1. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/armenian-vote-parliament-sarkisian-tsarukian/28404992.html)
+2. [TASS](http://tass.com/world/938878)
 
 ### Related:
 

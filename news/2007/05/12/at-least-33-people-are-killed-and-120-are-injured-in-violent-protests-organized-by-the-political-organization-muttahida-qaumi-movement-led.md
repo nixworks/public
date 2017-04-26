@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6649089.stm)
-2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/05/12/pakistan.strife/index.html)
+1. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/05/12/pakistan.strife/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6649089.stm)
 
 ### Related:
 

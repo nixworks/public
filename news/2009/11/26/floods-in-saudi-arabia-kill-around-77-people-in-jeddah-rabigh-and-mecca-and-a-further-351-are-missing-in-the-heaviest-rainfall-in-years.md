@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iXnnwi-QAtxEShlY_jrXNHDQdIsQ)
-2. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2009112655554)
+1. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2009112655554)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iXnnwi-QAtxEShlY_jrXNHDQdIsQ)
 
 ### Related:
 

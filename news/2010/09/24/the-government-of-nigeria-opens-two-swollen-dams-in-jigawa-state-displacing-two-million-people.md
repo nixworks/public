@@ -7,8 +7,8 @@ Nigerian authorities opened the gates at two swollen dams Friday in the country&
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11409167)
-2. [AP via MSNBC](http://www.msnbc.msn.com/id/39347692/ns/world_news-africa/)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/39347692/ns/world_news-africa/)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11409167)
 
 ### Related:
 

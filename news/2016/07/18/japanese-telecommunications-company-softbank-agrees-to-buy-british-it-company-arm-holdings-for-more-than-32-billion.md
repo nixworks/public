@@ -7,8 +7,8 @@ U.K.-based chip designer ARM Holdings confirmed that it agreed to a $32 billion 
 
 ### Source:
 
-1. [TechCrunch](https://techcrunch.com/2016/07/17/arm-holdings-confirms-softbank-is-buying-the-chip-designer-for-24-3b-in-bold-iot-move/)
-2. [Wall Street Journal](http://www.wsj.com/articles/softbank-agrees-to-buy-arm-holdings-for-more-than-32-billion-1468808434)
+1. [Wall Street Journal](http://www.wsj.com/articles/softbank-agrees-to-buy-arm-holdings-for-more-than-32-billion-1468808434)
+2. [TechCrunch](https://techcrunch.com/2016/07/17/arm-holdings-confirms-softbank-is-buying-the-chip-designer-for-24-3b-in-bold-iot-move/)
 
 ### Related:
 

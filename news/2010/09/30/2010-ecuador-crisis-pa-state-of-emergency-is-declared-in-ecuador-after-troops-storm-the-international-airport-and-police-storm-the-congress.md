@@ -8,10 +8,10 @@ A state of emergency is declared in Ecuador after President Rafael Correa accuse
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jrnvjhcqgCKRGkE7xwszbiQS-mqA?docId=CNG.eca89f5bc88800f85f46c6df5cbe0017.61)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11447519)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/ecuador/8035745/Ecuador-President-injured-in-coup.html)
 3. [Euronews](http://www.euronews.net/2010/09/30/president-attacked-as-unrest-rocks-ecuador/)
 4. [CNN](http://edition.cnn.com/2010/WORLD/americas/09/30/ecuador.unrest/)
-5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/ecuador/8035745/Ecuador-President-injured-in-coup.html)
+5. [BBC](http://www.bbc.co.uk/news/world-latin-america-11447519)
 
 ### Related:
 

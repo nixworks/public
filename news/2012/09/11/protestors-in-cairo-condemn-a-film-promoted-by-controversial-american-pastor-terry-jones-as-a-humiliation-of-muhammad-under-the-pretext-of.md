@@ -7,10 +7,10 @@ Protesters breach the wall at the US embassy in Cairo and tear down a flag over 
 
 ### Source:
 
-1. [The Atlantic](http://www.theatlantic.com/international/archive/2012/09/the-movie-so-offensive-that-egyptians-just-stormed-the-us-embassy-over-it/262225/)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19562688)
 2. [CNN](http://www.cnn.com/2012/09/11/world/meast/egpyt-us-embassy-protests/index.html?hpt=hp_t1)
 3. [Ahram](http://english.ahram.org.eg/NewsContent/1/0/52567/Egypt/0/Egypt-army-intervenes-to-pacify-Salafist-protest-a.aspx)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-19562688)
+4. [The Atlantic](http://www.theatlantic.com/international/archive/2012/09/the-movie-so-offensive-that-egyptians-just-stormed-the-us-embassy-over-it/262225/)
 
 ### Related:
 

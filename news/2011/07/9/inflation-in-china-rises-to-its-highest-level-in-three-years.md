@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-07/09/c_13974827.htm)
-2. [Reuters](http://www.reuters.com/article/2011/07/09/china-economy-inflation-idUSL3E7I901B20110709)
+1. [Reuters](http://www.reuters.com/article/2011/07/09/china-economy-inflation-idUSL3E7I901B20110709)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-07/09/c_13974827.htm)
 
 ### Related:
 

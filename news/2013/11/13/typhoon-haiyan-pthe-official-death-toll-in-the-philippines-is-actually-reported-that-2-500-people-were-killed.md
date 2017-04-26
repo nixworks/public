@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/11/12/world/asia/typhoon-haiyan/index.html)
-2. [Newsinfo](http://newsinfo.inquirer.net/526485/yolanda-death-toll-breaches-1800-80000-houses-totally-destroyed-ndrrmc)
+1. [Newsinfo](http://newsinfo.inquirer.net/526485/yolanda-death-toll-breaches-1800-80000-houses-totally-destroyed-ndrrmc)
+2. [CNN](http://www.cnn.com/2013/11/12/world/asia/typhoon-haiyan/index.html)
 
 ### Related:
 

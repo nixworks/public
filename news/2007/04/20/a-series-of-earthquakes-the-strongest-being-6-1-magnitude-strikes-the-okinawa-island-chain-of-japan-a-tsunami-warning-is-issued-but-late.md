@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFX via Forbes](http://www.forbes.com/business/feeds/afx/2007/04/19/afx3633544.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aOAVqWBJWKpM&refer=asia)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aOAVqWBJWKpM&refer=asia)
+2. [AFX via Forbes](http://www.forbes.com/business/feeds/afx/2007/04/19/afx3633544.html)
 
 ### Related:
 

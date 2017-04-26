@@ -7,8 +7,8 @@ Six suicide bombers stormed a USAID compound in northern Afghanistan before dawn
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107243355686641.html)
-2. [AP via ''The Washington Times](http://www.washingtontimes.com/news/2010/jul/2/usaid-compound-attacked-afghanistan-4-killed/)
+1. [AP via ''The Washington Times](http://www.washingtontimes.com/news/2010/jul/2/usaid-compound-attacked-afghanistan-4-killed/)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107243355686641.html)
 
 ### Related:
 

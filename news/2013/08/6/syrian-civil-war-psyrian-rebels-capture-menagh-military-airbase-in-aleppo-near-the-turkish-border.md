@@ -7,10 +7,10 @@ Rebels fighting to overthrow Syrian President Bashar al-Assad have captured a ke
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23585886)
-2. [CNN](http://edition.cnn.com/2013/08/06/world/meast/syria-civil-war/)
-3. [USA Today](http://www.usatoday.com/story/news/world/2013/08/06/bomb-kills-18/2624565/)
-4. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/170615)
+1. [CNN](http://edition.cnn.com/2013/08/06/world/meast/syria-civil-war/)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-23585886)
+3. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/170615)
+4. [USA Today](http://www.usatoday.com/story/news/world/2013/08/06/bomb-kills-18/2624565/)
 
 ### Related:
 

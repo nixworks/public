@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Today's Zaman](http://www.todayszaman.com/tz-web/news-198418-turkey-says-will-withdraw-ambassador-if-israel-does-not-apologize.html)
+1. [Ha'aretz](http://www.haaretz.com/hasen/spages/1142344.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE60C1M420100113)
-3. [Ha'aretz](http://www.haaretz.com/hasen/spages/1142344.html)
+3. [Today's Zaman](http://www.todayszaman.com/tz-web/news-198418-turkey-says-will-withdraw-ambassador-if-israel-does-not-apologize.html)
 
 ### Related:
 

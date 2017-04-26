@@ -7,8 +7,8 @@ Several people are injured and others are arrested as police thwart pro-democrac
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Algerian-police-break-up-crowd-at-pro-reform-rally/articleshow/7528798.cms)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011219124435427432.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011219124435427432.html)
+2. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Algerian-police-break-up-crowd-at-pro-reform-rally/articleshow/7528798.cms)
 
 ### Related:
 

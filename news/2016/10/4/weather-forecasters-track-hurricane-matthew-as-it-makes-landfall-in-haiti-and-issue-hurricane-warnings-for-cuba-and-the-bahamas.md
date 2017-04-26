@@ -7,12 +7,12 @@ More than a million residents near the South Carolina coast should get at least 
 
 ### Source:
 
-1. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/040551.shtml)
-2. [CNN](http://www.cnn.com/2016/10/04/us/hurricane-matthew-florida-carolinas/index.html)
-3. [CNN](http://edition.cnn.com/2016/10/04/americas/hurricane-matthew/)
-4. [AP via WTVD](http://abc11.com/weather/hurricane-matthew-roars-across-haiti;-death-toll-at-9/1532291/)
-5. [UPI](http://www.upi.com/Top_News/US/2016/10/04/SC-Gov-Nikki-Haley-calls-for-evacuation-of-11M-coastal-residents-ahead-of-Hurricane-Matthew/1081475611127/?spt=hs&or=tn_us)
-6. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/042354.shtml)
+1. [CNN](http://edition.cnn.com/2016/10/04/americas/hurricane-matthew/)
+2. [AP via WTVD](http://abc11.com/weather/hurricane-matthew-roars-across-haiti;-death-toll-at-9/1532291/)
+3. [UPI](http://www.upi.com/Top_News/US/2016/10/04/SC-Gov-Nikki-Haley-calls-for-evacuation-of-11M-coastal-residents-ahead-of-Hurricane-Matthew/1081475611127/?spt=hs&or=tn_us)
+4. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/042354.shtml)
+5. [CNN](http://www.cnn.com/2016/10/04/us/hurricane-matthew-florida-carolinas/index.html)
+6. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/040551.shtml)
 
 ### Related:
 

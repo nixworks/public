@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Arizona Republic](http://www.azcentral.com/community/phoenix/articles/2011/07/05/20110705phoenix-dust-storm-abrk.html)
-2. [ABC](http://www.abc15.com/dpp/news/region_southeast_valley/tempe/8%2C000-without-power%2C-flights-grounded-due-to-massive-dust-storm)
+1. [ABC](http://www.abc15.com/dpp/news/region_southeast_valley/tempe/8%2C000-without-power%2C-flights-grounded-due-to-massive-dust-storm)
+2. [Arizona Republic](http://www.azcentral.com/community/phoenix/articles/2011/07/05/20110705phoenix-dust-storm-abrk.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Rival Palestinian groups announce signing of initial agreement ending four-year-
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4061418,00.html)
+1. [Palestine News Network](http://english.pnn.ps/index.php?option=com_content&task=view&id=9961)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israeli-politicians-security-forces-push-ahead-to-thwart-new-gaza-flotilla-1.358434)
-3. [Palestine News Network](http://english.pnn.ps/index.php?option=com_content&task=view&id=9961)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4061418,00.html)
 
 ### Related:
 

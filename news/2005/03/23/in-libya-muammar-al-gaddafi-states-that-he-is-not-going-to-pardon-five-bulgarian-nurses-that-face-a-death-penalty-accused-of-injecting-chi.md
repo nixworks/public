@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/4376551.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7987481&type=worldNews)
-3. [Gulf Daily News](http://www.gulf-daily-news.com/Story.asp?Article=107624&Sn=WORL&IssueID=28004)
+1. [Gulf Daily News](http://www.gulf-daily-news.com/Story.asp?Article=107624&Sn=WORL&IssueID=28004)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4376551.stm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7987481&type=worldNews)
 4. [Bulgarian News Network](http://www.bgnewsnet.com/story.php?lang=en&sid=19808)
 
 ### Related:

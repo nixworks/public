@@ -7,8 +7,8 @@ Two gunmen sprayed the windowless sanctuary Monday night with fire from Kalashni
 
 ### Source:
 
-1. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0807/Nigeria-church-Bible-study-shooting-leaves-19-dead)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-19161082)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-19161082)
+2. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0807/Nigeria-church-Bible-study-shooting-leaves-19-dead)
 
 ### Related:
 

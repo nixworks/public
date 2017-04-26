@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8784870)
-2. [Australia](http://www.theaustralian.news.com.au/common/story_page/0,5744,15618241%255E2702,00.html)
+1. [Australia](http://www.theaustralian.news.com.au/common/story_page/0,5744,15618241%255E2702,00.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8784870)
 
 ### Related:
 

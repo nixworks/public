@@ -7,9 +7,9 @@ America&#039;s last World War 1 veteran is farewelled decades after returning to
 
 ### Source:
 
-1. [The Washington Post''}], [http://www.dailymail.co.uk/news/article-1366613/Last-American-World-War-I-veteran-receives-heros-burial-military-honours.html?ito=feeds-newsxml (''The Daily Mail](http://www.washingtonpost.com/local/frank-buckles-last-known-us-world-war-i-veteran-is-laid-to-rest-at-arlington/2011/03/10/ABHVLFZ_story.html)
-2. [The Sydney Morning Herald](http://www.smh.com.au/world/a-grand-goodbye-as-us-salutes-its-oldest-soldier-20110316-1bx85.html?from=smh_sb)
-3. [The Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-wwi-veteran-20110316,0,5385570.story)
+1. [The Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-wwi-veteran-20110316,0,5385570.story)
+2. [The Washington Post''}], [http://www.dailymail.co.uk/news/article-1366613/Last-American-World-War-I-veteran-receives-heros-burial-military-honours.html?ito=feeds-newsxml (''The Daily Mail](http://www.washingtonpost.com/local/frank-buckles-last-known-us-world-war-i-veteran-is-laid-to-rest-at-arlington/2011/03/10/ABHVLFZ_story.html)
+3. [The Sydney Morning Herald](http://www.smh.com.au/world/a-grand-goodbye-as-us-salutes-its-oldest-soldier-20110316-1bx85.html?from=smh_sb)
 
 ### Related:
 

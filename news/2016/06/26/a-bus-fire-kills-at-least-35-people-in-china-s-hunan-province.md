@@ -7,8 +7,8 @@ A total of 56 people were on board the bus which crashed in Hunan province, the 
 
 ### Source:
 
-1. [Reuters](https://www.yahoo.com/news/china-bus-fire-kills-35-102115232.html?ref=gs)
-2. [AFP via Geo TV](https://www.geo.tv/latest/108493-Bus-fire-kills-30-in-central-China-Xinhua)
+1. [AFP via Geo TV](https://www.geo.tv/latest/108493-Bus-fire-kills-30-in-central-China-Xinhua)
+2. [Reuters](https://www.yahoo.com/news/china-bus-fire-kills-35-102115232.html?ref=gs)
 
 ### Related:
 

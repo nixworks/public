@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/96575a4990334b1e898e37d6b0949e80/police-revenge-prompted-man-set-fire-killed-6)
-2. [WTAE](http://www.wtae.com/news/6-people-die-in-mckeesport-house-fire/29211286?)
+1. [WTAE](http://www.wtae.com/news/6-people-die-in-mckeesport-house-fire/29211286?)
+2. [AP](http://bigstory.ap.org/article/96575a4990334b1e898e37d6b0949e80/police-revenge-prompted-man-set-fire-killed-6)
 
 ### Related:
 

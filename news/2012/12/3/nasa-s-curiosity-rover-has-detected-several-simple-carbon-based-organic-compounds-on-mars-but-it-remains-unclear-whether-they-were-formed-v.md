@@ -7,9 +7,9 @@ NASA&#039;s Mars rover Curiosity has found some complex chemistry on Mars, but n
 
 ### Source:
 
-1. [Space.com](http://www.space.com/18741-mars-rover-curiosity-discovery.html)
+1. [CBS News](http://www.cbsnews.com/8301-205_162-57556806/mars-rover-no-revelations-in-first-soil-test/)
 2. [NASA](http://mars.nasa.gov/msl/news/whatsnew/index.cfm?FuseAction=ShowNews&NewsID=1399)
-3. [CBS News](http://www.cbsnews.com/8301-205_162-57556806/mars-rover-no-revelations-in-first-soil-test/)
+3. [Space.com](http://www.space.com/18741-mars-rover-curiosity-discovery.html)
 
 ### Related:
 

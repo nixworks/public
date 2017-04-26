@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8497438.stm)
-2. [KashmirWatch.com](http://www.kashmirwatch.com/showexclusives.php?subaction=showfull&id=1265308923&archive=&start_from=&ucat=15&var1news=value1news)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j3XfauzJeh2KV8ty3vr2jiIOZIzQ)
+1. [KashmirWatch.com](http://www.kashmirwatch.com/showexclusives.php?subaction=showfull&id=1265308923&archive=&start_from=&ucat=15&var1news=value1news)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j3XfauzJeh2KV8ty3vr2jiIOZIzQ)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8497438.stm)
 
 ### Related:
 

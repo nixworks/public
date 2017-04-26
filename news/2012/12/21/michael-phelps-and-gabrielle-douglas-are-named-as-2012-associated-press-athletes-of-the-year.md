@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://articles.latimes.com/2012/dec/20/sports/la-sp-newswire-20121221)
-2. [BoxScore](http://boxscorenews.com/douglas-named-aps-female-athlete-of-the-year-for-p52578-68.htm)
+1. [BoxScore](http://boxscorenews.com/douglas-named-aps-female-athlete-of-the-year-for-p52578-68.htm)
+2. [Los Angeles Times](http://articles.latimes.com/2012/dec/20/sports/la-sp-newswire-20121221)
 
 ### Related:
 

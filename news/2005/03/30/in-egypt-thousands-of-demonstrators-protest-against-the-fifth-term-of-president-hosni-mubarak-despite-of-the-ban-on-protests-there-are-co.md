@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:424813e6:2d9a1ca87b99028?type=topNews&localeKey=en_ZA&storyID=8012758)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/171BDC44-DC05-49A0-A166-4955206ECF2E.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4394915.stm)
-4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L30691739.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L30691739.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4394915.stm)
+3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:424813e6:2d9a1ca87b99028?type=topNews&localeKey=en_ZA&storyID=8012758)
+4. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/171BDC44-DC05-49A0-A166-4955206ECF2E.htm)
 
 ### Related:
 

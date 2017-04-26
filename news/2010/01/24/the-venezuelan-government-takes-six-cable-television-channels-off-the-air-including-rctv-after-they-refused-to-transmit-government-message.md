@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8477428.stm)
-2. [The New York Times](http://www.nytimes.com/aponline/2010/01/24/world/AP-LT-Venezuela-Media.html)
+1. [The New York Times](http://www.nytimes.com/aponline/2010/01/24/world/AP-LT-Venezuela-Media.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8477428.stm)
 
 ### Related:
 

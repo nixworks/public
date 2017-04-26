@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4471515.stm)
-2. [Herald](http://www.theherald.co.uk/news/37805.html)
+1. [Herald](http://www.theherald.co.uk/news/37805.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4471515.stm)
 
 ### Related:
 

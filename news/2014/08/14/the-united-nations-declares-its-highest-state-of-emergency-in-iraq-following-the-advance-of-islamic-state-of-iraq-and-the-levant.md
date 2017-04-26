@@ -8,8 +8,8 @@ The UN declares its highest level of emergency in Iraq as a humanitarian crisis 
 ### Source:
 
 1. [AP via ''Standard Journal](http://www.standard-journal.com/news/news_ap/article_9a4e2aa5-4010-5e4d-a800-6127735548a8.html)
-2. [BBC](http://www.bbc.com/news/world-middle-east-28785725)
-3. [BBC](http://www.bbc.com/news/world-middle-east-28796275)
+2. [BBC](http://www.bbc.com/news/world-middle-east-28796275)
+3. [BBC](http://www.bbc.com/news/world-middle-east-28785725)
 
 ### Related:
 

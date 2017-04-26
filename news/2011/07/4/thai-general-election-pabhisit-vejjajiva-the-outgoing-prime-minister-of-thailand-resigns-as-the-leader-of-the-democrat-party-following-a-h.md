@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/245369/abhisit-quits-as-democrat-leader)
-2. [Reuters](http://www.reuters.com/article/2011/07/04/thailand-election-coalition-idUSL3E7I40NU20110704)
+1. [Reuters](http://www.reuters.com/article/2011/07/04/thailand-election-coalition-idUSL3E7I40NU20110704)
+2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/245369/abhisit-quits-as-democrat-leader)
 
 ### Related:
 

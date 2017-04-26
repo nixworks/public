@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Zee News](http://www.zeenews.com/news679233.html)
-2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_621993.html)
+1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_621993.html)
+2. [Zee News](http://www.zeenews.com/news679233.html)
 
 ### Related:
 

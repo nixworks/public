@@ -7,8 +7,8 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ### Source:
 
-1. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=two-trains-collide-in-northwestern-turkey-one-person-killed-2010-01-03)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/03/turkey.train.crash/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/03/turkey.train.crash/)
+2. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=two-trains-collide-in-northwestern-turkey-one-person-killed-2010-01-03)
 
 ### Related:
 

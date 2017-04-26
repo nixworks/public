@@ -7,8 +7,8 @@ An engine on a passenger jet bound for Caracas, Venezuela, burst into flames whi
 
 ### Source:
 
-1. [AP via Lompoc Record](http://lompocrecord.com/news/national/the-latest-injured-in-florida-plane-fire-burned/article_baf86de2-1c00-5e00-b253-ee5557fae25b.html)
-2. [Reuters](http://www.reuters.com/article/2015/10/29/us-florida-dynamic-idUSKCN0SN2CJ20151029)
+1. [Reuters](http://www.reuters.com/article/2015/10/29/us-florida-dynamic-idUSKCN0SN2CJ20151029)
+2. [AP via Lompoc Record](http://lompocrecord.com/news/national/the-latest-injured-in-florida-plane-fire-burned/article_baf86de2-1c00-5e00-b253-ee5557fae25b.html)
 
 ### Related:
 

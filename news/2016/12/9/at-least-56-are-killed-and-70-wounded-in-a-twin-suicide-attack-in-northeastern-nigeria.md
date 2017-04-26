@@ -7,10 +7,10 @@ A twin bomb blast has ripped through a market in Yola, the Adamawa state capital
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/12/09/world/africa/ap-af-nigeria-boko-haram.html?_r=0)
-2. [BBC](http://www.bbc.com/news/world-africa-38263837)
-3. [FOX News](http://www.foxnews.com/world/2016/12/10/toll-rises-to-57-in-suicide-bombings-in-northeast-nigeria.html)
-4. [Newsweek](http://europe.newsweek.com/nigeria-double-suicide-bomb-kills-30-former-boko-haram-stronghold-530142?rm=eu)
+1. [FOX News](http://www.foxnews.com/world/2016/12/10/toll-rises-to-57-in-suicide-bombings-in-northeast-nigeria.html)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/12/09/world/africa/ap-af-nigeria-boko-haram.html?_r=0)
+3. [Newsweek](http://europe.newsweek.com/nigeria-double-suicide-bomb-kills-30-former-boko-haram-stronghold-530142?rm=eu)
+4. [BBC](http://www.bbc.com/news/world-africa-38263837)
 5. [NAIJ](https://www.naij.com/1076968-breaking-boko-haram-twin-bomb-blast-kills-47.html)
 
 ### Related:

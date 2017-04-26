@@ -7,8 +7,8 @@ Pre-empting mass anti-government protest, Ali Saleh vows not to seek extension a
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_YEMEN?SITE=RIPAW&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011228541277951.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011228541277951.html)
+2. [AP](http://hosted.ap.org/dynamic/stories/M/ML_YEMEN?SITE=RIPAW&SECTION=HOME&TEMPLATE=DEFAULT)
 3. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Yemeni-president-says-he-wont-seek-another-term-/articleshow/7412112.cms)
 
 ### Related:

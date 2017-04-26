@@ -7,8 +7,8 @@ Belgian prosecutors say a suspect has admitted being the &quot;man in the hat&qu
 
 ### Source:
 
-1. [Reuters via Ynet](http://www.ynetnews.com/articles/0,7340,L-4789022,00.html)
-2. [BBC News](http://www.bbc.com/news/world-europe-36005709)
+1. [BBC News](http://www.bbc.com/news/world-europe-36005709)
+2. [Reuters via Ynet](http://www.ynetnews.com/articles/0,7340,L-4789022,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/12/27/middleeast/iraq-isis-ramadi/)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-ramadi-idUSKBN0UA06P20151227)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-ramadi-idUSKBN0UA06P20151227)
+2. [CNN](http://www.cnn.com/2015/12/27/middleeast/iraq-isis-ramadi/)
 
 ### Related:
 

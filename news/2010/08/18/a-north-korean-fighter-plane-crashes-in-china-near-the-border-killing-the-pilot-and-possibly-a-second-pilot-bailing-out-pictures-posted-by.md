@@ -7,8 +7,8 @@ A North Korean aircraft, which may be a fighter jet carrying a suspected defecto
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11008466)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/18/75/0301000000AEN20100818007500315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/18/75/0301000000AEN20100818007500315F.HTML)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11008466)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_470544.html)
+1. [Japan Today](http://www.japantoday.com/category/national/view/suicides-in-japan-top-30000-in-2009-for-12th-consecutive-year)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Japanese-suicides-top-30000-for-12th-year/articleshow/5377674.cms)
-3. [Japan Today](http://www.japantoday.com/category/national/view/suicides-in-japan-top-30000-in-2009-for-12th-consecutive-year)
+3. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_470544.html)
 
 ### Related:
 

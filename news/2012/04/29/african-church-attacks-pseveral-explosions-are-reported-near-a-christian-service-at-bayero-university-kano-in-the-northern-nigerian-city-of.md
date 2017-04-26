@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jm09ohRDg6J-ZdGNKtkd_RldPWGw?docId=CNG.babfefb58a04bf7ad1203dbc54c1f351.1f1)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ggOyDCOcHRigCtOrYdFOF81ko1TA?docId=64d227fefe974eb8be3622de0fa4d9cd)
-3. [AP](http://hosted2.ap.org/ALDEC/TDNational/Article_2012-04-29-AF-Nigeria-Violence/id-44429706d3bc40eda0c07f85d357897e)
+2. [AP](http://hosted2.ap.org/ALDEC/TDNational/Article_2012-04-29-AF-Nigeria-Violence/id-44429706d3bc40eda0c07f85d357897e)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ggOyDCOcHRigCtOrYdFOF81ko1TA?docId=64d227fefe974eb8be3622de0fa4d9cd)
 
 ### Related:
 

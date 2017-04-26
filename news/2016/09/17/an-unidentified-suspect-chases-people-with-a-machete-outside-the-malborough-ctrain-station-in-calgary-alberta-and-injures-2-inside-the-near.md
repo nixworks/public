@@ -7,8 +7,8 @@ A member of the Calgary Police Service remained in hospital Sunday in serious bu
 
 ### Source:
 
-1. [Global News](http://globalnews.ca/news/2947650/calgary-police-officer-remains-in-hospital-after-machete-attack-at-marlborough-mall/)
-2. [The Calgary Sun](http://www.calgarysun.com/2016/09/17/two-injured-including-calgary-cop-after-shooting-at-marlborough-mall)
+1. [The Calgary Sun](http://www.calgarysun.com/2016/09/17/two-injured-including-calgary-cop-after-shooting-at-marlborough-mall)
+2. [Global News](http://globalnews.ca/news/2947650/calgary-police-officer-remains-in-hospital-after-machete-attack-at-marlborough-mall/)
 
 ### Related:
 

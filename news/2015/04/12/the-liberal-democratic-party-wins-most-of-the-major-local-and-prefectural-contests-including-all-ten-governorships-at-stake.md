@@ -7,8 +7,8 @@ Prime Minister Shinzo Abe’s Liberal Democratic Party cruised to victory in Jap
 
 ### Source:
 
-1. [Nikkei](http://www.nikkei.com/article/DGXLASFS12H25_S5A410C1MM8000/)
-2. [Wall Street Journal](http://www.wsj.com/articles/abes-liberal-democratic-party-prevails-in-japans-local-elections-1428842615)
+1. [Wall Street Journal](http://www.wsj.com/articles/abes-liberal-democratic-party-prevails-in-japans-local-elections-1428842615)
+2. [Nikkei](http://www.nikkei.com/article/DGXLASFS12H25_S5A410C1MM8000/)
 
 ### Related:
 

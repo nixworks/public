@@ -7,8 +7,8 @@ A UN war crimes tribunal orders the release of Momcilo Perisic, the former chief
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-21621242)
-2. [ICTY](http://www.icty.org/sid/11221)
+1. [ICTY](http://www.icty.org/sid/11221)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-21621242)
 
 ### Related:
 

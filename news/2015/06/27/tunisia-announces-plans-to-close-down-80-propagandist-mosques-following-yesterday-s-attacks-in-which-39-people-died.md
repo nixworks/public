@@ -7,9 +7,9 @@ Tunisia deploys extra security to tourist sites and vows to close down mosques a
 
 ### Source:
 
-1. [Boston Herald](http://www.bostonherald.com/news_opinion/international/middle_east/2015/06/the_latest_germany_says_1_citizen_killed_in_tunisia)
-2. [BBC](http://www.bbc.com/news/world-africa-33297245)
-3. [BBC](http://www.bbc.co.uk/news/uk-33299523)
+1. [BBC](http://www.bbc.com/news/world-africa-33297245)
+2. [BBC](http://www.bbc.co.uk/news/uk-33299523)
+3. [Boston Herald](http://www.bostonherald.com/news_opinion/international/middle_east/2015/06/the_latest_germany_says_1_citizen_killed_in_tunisia)
 
 ### Related:
 

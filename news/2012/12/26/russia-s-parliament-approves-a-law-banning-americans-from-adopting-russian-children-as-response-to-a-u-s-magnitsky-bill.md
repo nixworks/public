@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324669104578203132463233930.html)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/russian-parliament-mull-anti-us-adoption-bill-18064296)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/russian-parliament-mull-anti-us-adoption-bill-18064296)
+2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324669104578203132463233930.html)
 
 ### Related:
 

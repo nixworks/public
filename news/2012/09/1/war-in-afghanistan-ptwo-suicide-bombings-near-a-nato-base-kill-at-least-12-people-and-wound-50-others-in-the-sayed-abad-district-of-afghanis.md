@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/us-drone-strike-kills-5-suspected-militants-in-northwest-pakistan/2012/09/01/812f33de-f3f7-11e1-b74c-84ed55e0300b_story.html)
-2. [Pakistan Observer](http://pakobserver.net/detailnews.asp?id=171766)
+2. [USA Today](http://www.usatoday.com/news/world/story/2012-09-01/afghanistan-attacks-nato/57493170/1)
 3. [Daily Bhaskar](http://daily.bhaskar.com/article/WOR-TOP-taliban-militants-behead-12-pakistani-soldiers-3726470-NOR.html)
-4. [USA Today](http://www.usatoday.com/news/world/story/2012-09-01/afghanistan-attacks-nato/57493170/1)
+4. [Pakistan Observer](http://pakobserver.net/detailnews.asp?id=171766)
 
 ### Related:
 

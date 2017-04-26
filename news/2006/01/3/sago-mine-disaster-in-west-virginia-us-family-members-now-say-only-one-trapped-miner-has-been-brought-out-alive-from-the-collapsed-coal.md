@@ -7,8 +7,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [Yahoo!](http://news.yahoo.com/s/ap/20060104/ap_on_re_us/mine_explosion)
-2. [ABC](http://abcnews.go.com/US/wireStory?id=1468437)
+1. [ABC](http://abcnews.go.com/US/wireStory?id=1468437)
+2. [Yahoo!](http://news.yahoo.com/s/ap/20060104/ap_on_re_us/mine_explosion)
 
 ### Related:
 

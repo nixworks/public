@@ -7,8 +7,8 @@ The EU has agreed to lift sanctions it imposed on Cuba in 2003.
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7463803.stm)
-2. [RTÉ](http://www.rte.ie/news/2008/0620/cuba.html)
+1. [RTÉ](http://www.rte.ie/news/2008/0620/cuba.html)
+2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7463803.stm)
 
 ### Related:
 

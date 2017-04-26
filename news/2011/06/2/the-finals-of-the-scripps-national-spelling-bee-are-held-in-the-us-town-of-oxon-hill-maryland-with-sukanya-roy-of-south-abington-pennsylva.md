@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NPR](http://www.npr.org/blogs/monkeysee/2011/06/02/136888659/the-unstoppable-rightness-of-bee-ing-its-spellings-biggest-night-of-the-year)
-2. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18189289)
+1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18189289)
+2. [NPR](http://www.npr.org/blogs/monkeysee/2011/06/02/136888659/the-unstoppable-rightness-of-bee-ing-its-spellings-biggest-night-of-the-year)
 
 ### Related:
 

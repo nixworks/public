@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thai News Agency](http://enews.mcot.net/view.php?id=13176)
-2. [Financial Times](http://www.ft.com/cms/s/0/aca4612e-e405-11de-b2a9-00144feab49a.html)
+1. [Financial Times](http://www.ft.com/cms/s/0/aca4612e-e405-11de-b2a9-00144feab49a.html)
+2. [Thai News Agency](http://enews.mcot.net/view.php?id=13176)
 
 ### Related:
 

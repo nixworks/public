@@ -7,8 +7,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [People](http://www.people.com/people/article/0,,20554715,00.html?xid=rss-topheadlines)
-2. [AP via ABC News](http://abcnews.go.com/US/wireStory/barefoot-bandit-pleads-guilty-wash-court-15172578#.TuuqjrK4q7s)
+1. [AP via ABC News](http://abcnews.go.com/US/wireStory/barefoot-bandit-pleads-guilty-wash-court-15172578#.TuuqjrK4q7s)
+2. [People](http://www.people.com/people/article/0,,20554715,00.html?xid=rss-topheadlines)
 
 ### Related:
 

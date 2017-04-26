@@ -7,9 +7,9 @@ South Africa strongly criticises Madagascar over the life sentence passed on exi
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11174975)
-2. [Business Day](http://www.businessday.co.za/articles/Content.aspx?id=119968)
-3. [AllAfrica.com](http://allafrica.com/stories/201009030016.html)
+1. [AllAfrica.com](http://allafrica.com/stories/201009030016.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11174975)
+3. [Business Day](http://www.businessday.co.za/articles/Content.aspx?id=119968)
 
 ### Related:
 

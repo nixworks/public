@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2912920)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8373098.stm)
-3. [New York Times](http://www.nytimes.com/reuters/2009/11/22/world/international-uk-korea-suicide.html)
+2. [New York Times](http://www.nytimes.com/reuters/2009/11/22/world/international-uk-korea-suicide.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8373098.stm)
 
 ### Related:
 

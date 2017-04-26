@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5heyUEZfE_DJMSzEPsv9JopWUZtMQ)
-2. [RIA Novosti](http://en.rian.ru/world/20091221/157311649.html)
-3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/21/6/0401000000AEN20091221006200315F.HTML)
-4. [UPI](http://www.upiasia.com/Security/2009/12/21/pyongyang_threatens_to_fire_in_south_korean_waters/5117/)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/12/21/6/0401000000AEN20091221006200315F.HTML)
+3. [UPI](http://www.upiasia.com/Security/2009/12/21/pyongyang_threatens_to_fire_in_south_korean_waters/5117/)
+4. [RIA Novosti](http://en.rian.ru/world/20091221/157311649.html)
 
 ### Related:
 

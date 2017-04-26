@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AAP via News Limited](http://www.news.com.au/story/0,10117,21351164-2,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6433319.stm)
-3. [NineMSN](http://news.ninemsn.com.au/article.aspx?id=253697)
+1. [NineMSN](http://news.ninemsn.com.au/article.aspx?id=253697)
+2. [AAP via News Limited](http://www.news.com.au/story/0,10117,21351164-2,00.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6433319.stm)
 
 ### Related:
 

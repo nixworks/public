@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2005/05/01/taiwan-china050501.html)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=718836)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=718836)
+2. [CBC](http://www.cbc.ca/world/story/2005/05/01/taiwan-china050501.html)
 
 ### Related:
 

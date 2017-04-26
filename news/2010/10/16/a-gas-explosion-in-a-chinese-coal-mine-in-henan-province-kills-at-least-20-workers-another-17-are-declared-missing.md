@@ -7,10 +7,10 @@ Rescue workers trying to reach 16 miners trapped in Henan pit after 21 were kill
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/16/china.miners/index.html?eref=edition)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101016/ts_afp/chinaminingaccident)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11557581)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010164406795952.html)
-4. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101016/ts_afp/chinaminingaccident)
+3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/16/china.miners/index.html?eref=edition)
+4. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010164406795952.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ RT&Eacute;&rsquo;s head of current affairs Ed Mulhall has retired and the editor
 
 ### Source:
 
-1. [Irish Independent](http://www.independent.ie/national-news/rte-axes-prime-time-following-watchdog-report-3069870.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0403/breaking38.html?via=rel)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0403/breaking38.html?via=rel)
+2. [Irish Independent](http://www.independent.ie/national-news/rte-axes-prime-time-following-watchdog-report-3069870.html)
 
 ### Related:
 

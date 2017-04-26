@@ -7,11 +7,11 @@ Anti-establishment Philippine politician Rodrigo Duterte&#039;s rollicking ride 
 
 ### Source:
 
-1. [ABC Online](http://www.abc.net.au/news/2016-05-05/rodrigo-duterte-likely-to-face-coup-in-philippines/7387708)
-2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/783392/dictator-duterte-facing-coup-rumors)
-3. [GMA News](http://www.gmanetwork.com/news/story/565063/news/specialreports/into-the-saln-of-grace-poe)
-4. [Rappler](http://www.rappler.com/nation/politics/elections/2016/131894-grace-poe-denies-withdrawing-race)
-5. [Rappler](http://www.rappler.com/nation/politics/elections/2016/131839-iglesia-ni-cristo-leila-de-lima-2016-senatorial-elections)
+1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/131894-grace-poe-denies-withdrawing-race)
+2. [Rappler](http://www.rappler.com/nation/politics/elections/2016/131839-iglesia-ni-cristo-leila-de-lima-2016-senatorial-elections)
+3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/783392/dictator-duterte-facing-coup-rumors)
+4. [ABC Online](http://www.abc.net.au/news/2016-05-05/rodrigo-duterte-likely-to-face-coup-in-philippines/7387708)
+5. [GMA News](http://www.gmanetwork.com/news/story/565063/news/specialreports/into-the-saln-of-grace-poe)
 
 ### Related:
 

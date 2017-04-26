@@ -7,11 +7,11 @@ Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal secur
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121755057219793.html)
-2. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=208672)
-3. [CNN](http://www.cnn.com/2011/WORLD/africa/02/17/libya.protests/)
+1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121716917273192.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121755057219793.html)
+3. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=208672)
 4. [BBC](http://www.bbc.co.uk/news/world-africa-12490504)
-5. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121716917273192.html)
+5. [CNN](http://www.cnn.com/2011/WORLD/africa/02/17/libya.protests/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/gallery/2010/nov/05/indonesia-volcano-mount-merapi?picture=368424842#/?picture=368424824&index=0)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101106/wl_afp/indonesiavolcanotsunami)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101106/wl_afp/indonesiavolcanotsunami)
+2. [The Guardian](http://www.guardian.co.uk/world/gallery/2010/nov/05/indonesia-volcano-mount-merapi?picture=368424842#/?picture=368424824&index=0)
 
 ### Related:
 

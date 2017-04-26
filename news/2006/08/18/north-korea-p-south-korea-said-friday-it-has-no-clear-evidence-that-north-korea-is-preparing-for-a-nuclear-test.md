@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-08-18T183159Z_01_N17323351_RTRIDST_0_NEWS-NUCLEAR-KOREA-NORTH-COL.XML)
-2. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060818/korea_nuke_060818/20060818?hub=World)
+1. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060818/korea_nuke_060818/20060818?hub=World)
+2. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-08-18T183159Z_01_N17323351_RTRIDST_0_NEWS-NUCLEAR-KOREA-NORTH-COL.XML)
 
 ### Related:
 

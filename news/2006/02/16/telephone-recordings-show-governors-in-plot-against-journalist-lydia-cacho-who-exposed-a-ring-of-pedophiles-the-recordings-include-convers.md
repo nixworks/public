@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [El Universal](http://www.eluniversal.com.mx/miami/16995.html)
-2. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=16460)
+1. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=16460)
+2. [El Universal](http://www.eluniversal.com.mx/miami/16995.html)
 
 ### Related:
 

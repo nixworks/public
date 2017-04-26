@@ -7,9 +7,9 @@ Best-selling author James Herbert who wrote the horror classic The Rats, dies ag
 
 ### Source:
 
-1. [The Bookseller](http://www.thebookseller.com/news/james-herbert-dies.html)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-21870413)
 2. [The Guardian](http://www.guardian.co.uk/books/2013/mar/20/james-herbert-horror-author-dies)
-3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-21870413)
+3. [The Bookseller](http://www.thebookseller.com/news/james-herbert-dies.html)
 
 ### Related:
 

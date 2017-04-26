@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Today's Zaman](http://election.todayszaman.com:8080/news-247011-first-polls-open-in-turkish-parliamentary-election.html)
-2. [PressTV](http://www.presstv.ir/detail/184318.html)
+1. [PressTV](http://www.presstv.ir/detail/184318.html)
+2. [Today's Zaman](http://election.todayszaman.com:8080/news-247011-first-polls-open-in-turkish-parliamentary-election.html)
 
 ### Related:
 

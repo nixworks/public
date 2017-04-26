@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFE1R0NWa0gQ&refer=top_world_news)
-2. [Reuter](http://www.alertnet.org/thenews/newsdesk/L18751974.htm)
-3. [Xinhua](http://news.xinhuanet.com/english/2006-02/18/content_4198287.htm)
+1. [Reuter](http://www.alertnet.org/thenews/newsdesk/L18751974.htm)
+2. [Xinhua](http://news.xinhuanet.com/english/2006-02/18/content_4198287.htm)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFE1R0NWa0gQ&refer=top_world_news)
 4. [People's Daily online](http://english.people.com.cn/200602/18/eng20060218_243728.html)
 
 ### Related:

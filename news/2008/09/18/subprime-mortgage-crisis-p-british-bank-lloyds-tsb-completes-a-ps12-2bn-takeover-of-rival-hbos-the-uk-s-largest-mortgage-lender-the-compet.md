@@ -7,11 +7,11 @@ The federal government, trying to boost investor confidence in the face of a mar
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/business/7622380.stm)
-2. [MSNBC](http://www.msnbc.msn.com/id/26785712)
-3. [BBC News](http://news.bbc.co.uk/1/hi/business/7624012.stm)
-4. [Riksgäldskontoret](https://www.riksgalden.se/templates/RGK_Templates/NewsPage____16980.aspx)
-5. [The Wall Street Journal](http://online.wsj.com/article/SB122175692668652881.html)
+1. [MSNBC](http://www.msnbc.msn.com/id/26785712)
+2. [The Wall Street Journal](http://online.wsj.com/article/SB122175692668652881.html)
+3. [Riksgäldskontoret](https://www.riksgalden.se/templates/RGK_Templates/NewsPage____16980.aspx)
+4. [BBC News](http://news.bbc.co.uk/1/hi/business/7624012.stm)
+5. [BBC News](http://news.bbc.co.uk/1/hi/business/7622380.stm)
 6. [Reuters via ''Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/09/18/afx5441768.html)
 
 ### Related:

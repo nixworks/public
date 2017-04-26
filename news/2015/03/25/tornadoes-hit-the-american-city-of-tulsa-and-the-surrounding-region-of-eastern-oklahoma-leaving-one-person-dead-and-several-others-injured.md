@@ -7,8 +7,8 @@ At least one person is killed and several others are injured after a tornado roa
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-32061728)
-2. [News on 6](http://www.newson6.com/story/28613332/severe-weather-possible-across-eastern-oklahoma)
+1. [News on 6](http://www.newson6.com/story/28613332/severe-weather-possible-across-eastern-oklahoma)
+2. [BBC](http://www.bbc.com/news/world-us-canada-32061728)
 
 ### Related:
 

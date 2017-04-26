@@ -8,8 +8,8 @@ A row erupts after the firm behind World of Warcraft announced that users of its
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/10543100.stm)
-2. [Boston Globe](http://www.boston.com/business/technology/articles/2010/07/07/bye_bye_trolls_blizzard_forums_to_use_real_names/)
-3. [CBC News](http://www.cbc.ca/technology/story/2010/07/07/warcraft-activision-blizzard-trolls.html?ref=rss)
+2. [CBC News](http://www.cbc.ca/technology/story/2010/07/07/warcraft-activision-blizzard-trolls.html?ref=rss)
+3. [Boston Globe](http://www.boston.com/business/technology/articles/2010/07/07/bye_bye_trolls_blizzard_forums_to_use_real_names/)
 
 ### Related:
 

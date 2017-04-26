@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/printerFriendlyPopup.jhtml?type=topNews&storyID=8321561)
-2. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050428/ap_on_go_co/ethics_committee_36)
+1. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050428/ap_on_go_co/ethics_committee_36)
+2. [Reuters](http://www.reuters.com/printerFriendlyPopup.jhtml?type=topNews&storyID=8321561)
 
 ### Related:
 

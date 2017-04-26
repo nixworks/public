@@ -8,8 +8,8 @@ REUTERS - Twin car bombs targeting two government buildings killed at least 132 
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/scores-dead-as-car-bombs-strike-central-baghdad-20091025-heqx.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8325600.stm)
-3. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-43419720091025)
+2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-43419720091025)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8325600.stm)
 
 ### Related:
 

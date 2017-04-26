@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11872456)
-2. [24.kg News Agency](http://eng.24.kg/politic/2010/11/30/15054.html)
+1. [24.kg News Agency](http://eng.24.kg/politic/2010/11/30/15054.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11872456)
 
 ### Related:
 

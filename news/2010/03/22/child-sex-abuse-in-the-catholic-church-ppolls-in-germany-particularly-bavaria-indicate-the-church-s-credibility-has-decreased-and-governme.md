@@ -7,12 +7,12 @@ By remaining silent on the issue of punishment for church figures, the pope’s 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/03/22/world/europe/22ireland.html)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/critics-slam-popes-apology-for-glaring-omissions/article1507503/)
-3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704454004575135873010410654.html?mod=googlenews_wsj)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/7494539/Pope-Benedict-faces-new-criticism-on-sexual-abuse-record.html)
-5. [The Sunday Business Post](http://www.sbpost.ie/news/ireland/victims-groups-react-angrily-to-popes-letter-48070.html)
-6. [The Independent](http://www.independent.co.uk/opinion/leading-articles/leading-article-a-landmark-for-ireland-if--not-yet-for-catholicism-1925061.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ireland/7494539/Pope-Benedict-faces-new-criticism-on-sexual-abuse-record.html)
+2. [The Independent](http://www.independent.co.uk/opinion/leading-articles/leading-article-a-landmark-for-ireland-if--not-yet-for-catholicism-1925061.html)
+3. [The Sunday Business Post](http://www.sbpost.ie/news/ireland/victims-groups-react-angrily-to-popes-letter-48070.html)
+4. [The New York Times](http://www.nytimes.com/2010/03/22/world/europe/22ireland.html)
+5. [The Globe and Mail](http://www.theglobeandmail.com/news/world/critics-slam-popes-apology-for-glaring-omissions/article1507503/)
+6. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704454004575135873010410654.html?mod=googlenews_wsj)
 
 ### Related:
 

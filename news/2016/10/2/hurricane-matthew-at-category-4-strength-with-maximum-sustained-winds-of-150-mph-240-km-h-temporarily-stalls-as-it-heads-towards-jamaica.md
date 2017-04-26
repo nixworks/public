@@ -8,10 +8,10 @@ Hurricane Matthew heads towards Jamaica, with wind speeds strong enough to wreck
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37527865)
-2. [The Los Angeles Times](http://www.latimes.com/world/la-fg-hurricane-matthew-20161002-snap-story.html)
+2. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/020252.shtml?)
 3. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/022037.shtml?)
-4. [NBC News](http://www.nbcnews.com/news/weather/life-threatening-rains-feared-hurricane-matthew-approaches-haiti-n658016)
-5. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/020252.shtml?)
+4. [The Los Angeles Times](http://www.latimes.com/world/la-fg-hurricane-matthew-20161002-snap-story.html)
+5. [NBC News](http://www.nbcnews.com/news/weather/life-threatening-rains-feared-hurricane-matthew-approaches-haiti-n658016)
 
 ### Related:
 

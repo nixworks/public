@@ -8,8 +8,8 @@ CNN news anchor Rick Sanchez is dimissed by the network after calling top TV sat
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/11458523)
-2. [The Times of India](http://timesofindia.indiatimes.com/world/us/CNN-fires-anchor-Rick-Sanchez-for-calling-Jon-Stewart-a-bigot/articleshow/6671109.cms)
-3. [AP via ''The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10677702&ref=rss)
+2. [AP via ''The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10677702&ref=rss)
+3. [The Times of India](http://timesofindia.indiatimes.com/world/us/CNN-fires-anchor-Rick-Sanchez-for-calling-Jon-Stewart-a-bigot/articleshow/6671109.cms)
 
 ### Related:
 

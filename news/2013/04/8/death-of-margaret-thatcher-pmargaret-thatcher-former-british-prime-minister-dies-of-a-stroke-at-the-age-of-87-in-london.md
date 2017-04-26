@@ -8,8 +8,8 @@ The first woman to be UK prime minister, Baroness Thatcher, has died at the age 
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/International/margaret-thatcher-britains-iron-lady-dead/story?id=13644011)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-22067155)
-3. [Reuters](http://www.reuters.com/article/2013/04/08/us-britain-thatcher-idUSBRE9370DA20130408)
+2. [Reuters](http://www.reuters.com/article/2013/04/08/us-britain-thatcher-idUSBRE9370DA20130408)
+3. [BBC](http://www.bbc.co.uk/news/uk-politics-22067155)
 
 ### Related:
 

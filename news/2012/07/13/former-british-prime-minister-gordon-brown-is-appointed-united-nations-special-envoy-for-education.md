@@ -7,8 +7,8 @@ Gordon Brown is to become the United Nations&#039; special envoy for education, 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/politics/gordon-brown-becomes-education-envoy-for-un-7942488.html)
-2. [The Guardian](http://www.guardian.co.uk/politics/2012/jul/13/gordon-brown-un-envoy-children?newsfeed=true)
+1. [The Guardian](http://www.guardian.co.uk/politics/2012/jul/13/gordon-brown-un-envoy-children?newsfeed=true)
+2. [The Independent](http://www.independent.co.uk/news/uk/politics/gordon-brown-becomes-education-envoy-for-un-7942488.html)
 
 ### Related:
 

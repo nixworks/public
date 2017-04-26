@@ -7,8 +7,8 @@ Former Zambian Finance Minister Katele Kalumba is jailed for five years with har
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20100526204446353C640907)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10168584.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10168584.stm)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20100526204446353C640907)
 
 ### Related:
 

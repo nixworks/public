@@ -7,12 +7,12 @@ Nobel&#x20;peace&#x20;laureate&#x20;Archbishop&#x20;Desmond&#x20;Tutu&#x20;annou
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE66L0G020100722)
-2. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/2010722125833436665.html)
+1. [France24](http://www.france24.com/en/20100722-nobel-peace-laureate-archbishop-desmond-tutu-retire-public-eye-cape-town-south-africa)
+2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE66L0G020100722)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-10727115)
-4. [The New York Times](http://www.nytimes.com/2010/07/23/world/africa/23tutu.html?_r=1&partner=rss&emc=rss)
-5. [euronews](http://www.euronews.net/2010/07/22/desmond-tutu-to-retire-from-public-duties/)
-6. [France24](http://www.france24.com/en/20100722-nobel-peace-laureate-archbishop-desmond-tutu-retire-public-eye-cape-town-south-africa)
+4. [euronews](http://www.euronews.net/2010/07/22/desmond-tutu-to-retire-from-public-duties/)
+5. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/2010722125833436665.html)
+6. [The New York Times](http://www.nytimes.com/2010/07/23/world/africa/23tutu.html?_r=1&partner=rss&emc=rss)
 
 ### Related:
 

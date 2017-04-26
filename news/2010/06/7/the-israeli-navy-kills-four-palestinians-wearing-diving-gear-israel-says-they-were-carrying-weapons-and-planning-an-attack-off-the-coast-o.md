@@ -7,11 +7,11 @@ Senior IDF officer says investigation of incident off Gaza&#39;s coastline deter
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10252229.stm)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010675457624159.html)
-3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israel-navy-fires-on-armed-palestinians-off-gaza-coast-1.294642)
-4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3901708,00.html)
-5. [RTÉ](http://www.rte.ie/news/2010/0607/gazashootings.html)
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israel-navy-fires-on-armed-palestinians-off-gaza-coast-1.294642)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3901708,00.html)
+3. [RTÉ](http://www.rte.ie/news/2010/0607/gazashootings.html)
+4. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010675457624159.html)
+5. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10252229.stm)
 
 ### Related:
 

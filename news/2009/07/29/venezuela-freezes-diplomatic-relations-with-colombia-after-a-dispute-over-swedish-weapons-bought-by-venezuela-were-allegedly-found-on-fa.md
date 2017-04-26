@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Colombia Reports](http://colombiareports.com/colombia-news/news/5201-chavez-withdraws-ambassador-from-colombia.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8173709.stm)
-3. [El Universal](http://english.eluniversal.com/2009/07/28/en_pol_esp_chavez-freezes-dip_28A2554203.shtml)
+2. [El Universal](http://english.eluniversal.com/2009/07/28/en_pol_esp_chavez-freezes-dip_28A2554203.shtml)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8173709.stm)
 
 ### Related:
 

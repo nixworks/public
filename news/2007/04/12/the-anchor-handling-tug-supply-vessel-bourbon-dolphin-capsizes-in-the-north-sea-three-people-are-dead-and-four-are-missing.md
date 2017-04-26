@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/6550077.stm)
-2. [Aftenposten](http://www.aftenposten.no/nyheter/uriks/article1733326.ece)
-3. [VG](http://www.vg.no/pub/vgart.hbs?artid=150245)
+1. [VG](http://www.vg.no/pub/vgart.hbs?artid=150245)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/6550077.stm)
+3. [Aftenposten](http://www.aftenposten.no/nyheter/uriks/article1733326.ece)
 
 ### Related:
 

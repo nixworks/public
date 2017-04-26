@@ -7,8 +7,8 @@ Almost 100 defendants, including two former mayors, have appeared in court in th
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/8028039/95-defendants-pack-into-court-for-one-of-Spains-biggest-corruption-trials.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11421331)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11421331)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/8028039/95-defendants-pack-into-court-for-one-of-Spains-biggest-corruption-trials.html)
 
 ### Related:
 

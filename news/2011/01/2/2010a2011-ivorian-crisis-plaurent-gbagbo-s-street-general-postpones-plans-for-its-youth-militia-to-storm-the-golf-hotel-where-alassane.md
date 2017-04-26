@@ -8,10 +8,10 @@ Charles Ble Goude, the notorious &#039;Street General&#039; of Ivory Coast&#039;
 ### Source:
 
 1. [The East African](http://www.theeastafrican.co.ke/news/-/2558/1082324/-/okhv6yz/-/)
-2. [Herald Sun Australia](http://www.heraldsun.com.au/news/breaking-news/street-general-drops-call-to-storm-outtaras-hotel/story-e6frf7jx-1225980892966)
+2. [euronews](http://www.euronews.net/2011/01/02/agencies-prepare-for-flood-of-ivory-coast-refugees/)
 3. [Sky News Australia](http://www.skynews.com.au/world/article.aspx?id=559473&vId=2067114&cId=World)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/cotedivoire/8236702/Ivory-Coast-street-general-calls-off-Golf-Hotel-assault.html)
-5. [euronews](http://www.euronews.net/2011/01/02/agencies-prepare-for-flood-of-ivory-coast-refugees/)
+5. [Herald Sun Australia](http://www.heraldsun.com.au/news/breaking-news/street-general-drops-call-to-storm-outtaras-hotel/story-e6frf7jx-1225980892966)
 
 ### Related:
 

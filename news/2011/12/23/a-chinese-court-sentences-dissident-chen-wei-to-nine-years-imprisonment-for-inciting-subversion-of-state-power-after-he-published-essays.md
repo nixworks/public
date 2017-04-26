@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20111223/news_20111223_56_807074.htm)
-2. [Times of India](http://timesofindia.indiatimes.com/world/china/China-sentences-rights-activist-to-9-years-in-jail/articleshow/11218127.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/world/china/China-sentences-rights-activist-to-9-years-in-jail/articleshow/11218127.cms)
+2. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20111223/news_20111223_56_807074.htm)
 
 ### Related:
 

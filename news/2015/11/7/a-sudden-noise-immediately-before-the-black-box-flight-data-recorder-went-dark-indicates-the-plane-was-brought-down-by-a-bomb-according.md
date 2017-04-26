@@ -7,8 +7,8 @@ The Russian plane crash in Egypt was not due to technical failures, say French a
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2015/11/07/egypt-tourists-russian-plane-crash/75359338/)
-2. [BBC](http://www.bbc.com/news/world-europe-34753464)
+1. [BBC](http://www.bbc.com/news/world-europe-34753464)
+2. [USA Today](http://www.usatoday.com/story/news/world/2015/11/07/egypt-tourists-russian-plane-crash/75359338/)
 3. [The Mirror](http://www.mirror.co.uk/news/world-news/russian-plane-black-box-recording-6782860)
 
 ### Related:

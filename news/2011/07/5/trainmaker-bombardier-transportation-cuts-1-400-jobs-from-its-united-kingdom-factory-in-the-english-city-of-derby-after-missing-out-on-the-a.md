@@ -7,8 +7,8 @@ Train maker Bombardier, which missed out on the £1.4bn Thameslink contract, say
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-derbyshire-14019992)
-2. [Channel 4 News](http://www.channel4.com/news/bombardier-confirm-1400-jobs-to-go)
+1. [Channel 4 News](http://www.channel4.com/news/bombardier-confirm-1400-jobs-to-go)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-derbyshire-14019992)
 
 ### Related:
 

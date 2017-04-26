@@ -7,11 +7,11 @@ At least ten people were killed and seven injured in a suicide bomb attack that 
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/21/AR2010032100252.html)
-2. [RTÉ](http://www.rte.ie/news/2010/0321/afghanistan.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8578637.stm)
+2. [The Hindu](http://beta.thehindu.com/news/international/article261057.ece)
 3. [Reuters](http://www.reuters.com/article/idUSTRE62K0C120100321)
-4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8578637.stm)
-5. [The Hindu](http://beta.thehindu.com/news/international/article261057.ece)
+4. [RTÉ](http://www.rte.ie/news/2010/0321/afghanistan.html)
+5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/21/AR2010032100252.html)
 
 ### Related:
 

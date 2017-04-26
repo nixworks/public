@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2010010130589/National-news/opposition-leader-repudiates-political-charges-against-him.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8436851.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8436851.stm)
+2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2010010130589/National-news/opposition-leader-repudiates-political-charges-against-him.html)
 
 ### Related:
 

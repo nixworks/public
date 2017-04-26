@@ -7,9 +7,9 @@ Poland&#039;s conservative Law and Justice (PiS) party led by eurosceptic Jarosl
 
 ### Source:
 
-1. [AP via US News and World Report](http://www.usnews.com/news/world/articles/2015/10/26/as-poland-moves-right-kaczynski-makes-dramatic-comeback)
+1. [Newstalk](http://www.newstalk.com/Polish-PM-concedes-defeat-to-rightwing-Law-and-Justice-party)
 2. [NDTV](http://www.ndtv.com/world-news/polish-eurosceptic-conservatives-win-absolute-majority-tv-exit-poll-1236278)
-3. [Newstalk](http://www.newstalk.com/Polish-PM-concedes-defeat-to-rightwing-Law-and-Justice-party)
+3. [AP via US News and World Report](http://www.usnews.com/news/world/articles/2015/10/26/as-poland-moves-right-kaczynski-makes-dramatic-comeback)
 
 ### Related:
 

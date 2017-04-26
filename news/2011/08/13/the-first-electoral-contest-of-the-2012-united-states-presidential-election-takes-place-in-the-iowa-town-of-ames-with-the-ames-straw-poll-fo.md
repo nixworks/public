@@ -7,8 +7,8 @@ After months of laying the groundwork, the first test of the Republican presiden
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/blogs/the-fix/post/michele-bachmann-wins-the-ames-straw-poll/2011/08/13/gIQApgnoDJ_blog.html?wpisrc=al_national)
-2. [AP via Yahoo! News](http://news.yahoo.com/finally-ames-straw-poll-first-test-2012-070321630.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/finally-ames-straw-poll-first-test-2012-070321630.html)
+2. [Washington Post](http://www.washingtonpost.com/blogs/the-fix/post/michele-bachmann-wins-the-ames-straw-poll/2011/08/13/gIQApgnoDJ_blog.html?wpisrc=al_national)
 
 ### Related:
 

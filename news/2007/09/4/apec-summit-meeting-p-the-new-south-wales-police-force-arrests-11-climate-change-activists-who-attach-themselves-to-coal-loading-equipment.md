@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/news/environment/eleven-held-in-coal-protest/2007/09/04/1188783200074.html?s_cid=rss_news)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=a9utDu8wwUhY&refer=australia)
-3. [The Daily Telegraph](http://www.news.com.au/dailytelegraph/story/0,22049,22361294-5006009,00.html)
-4. [DPA via ''EarthTimes](http://www.earthtimes.org/articles/show/101751.html)
+1. [DPA via ''EarthTimes](http://www.earthtimes.org/articles/show/101751.html)
+2. [The Daily Telegraph](http://www.news.com.au/dailytelegraph/story/0,22049,22361294-5006009,00.html)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=a9utDu8wwUhY&refer=australia)
+4. [Sydney Morning Herald](http://www.smh.com.au/news/environment/eleven-held-in-coal-protest/2007/09/04/1188783200074.html?s_cid=rss_news)
 
 ### Related:
 

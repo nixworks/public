@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [YA Libnan](http://yalibnan.com/site/archives/2008/05/lebanon_army_re.php)
-2. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2008/05/10/africa/ME-GEN-Lebanon-Government.php)
+1. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2008/05/10/africa/ME-GEN-Lebanon-Government.php)
+2. [YA Libnan](http://yalibnan.com/site/archives/2008/05/lebanon_army_re.php)
 
 ### Related:
 

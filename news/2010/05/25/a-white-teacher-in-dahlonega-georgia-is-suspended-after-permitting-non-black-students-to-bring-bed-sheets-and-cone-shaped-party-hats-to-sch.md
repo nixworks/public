@@ -7,9 +7,9 @@ A US teacher is suspended from duty after allowing pupils to don Ku Klux Klan ro
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7764776/Teacher-let-students-dress-in-Ku-Klux-Klan-outfits.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10157270.stm)
 2. [Pretoria News](http://www.pretorianews.co.za/?fSectionId=3534&fArticleId=iol1274790923216D520)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10157270.stm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7764776/Teacher-let-students-dress-in-Ku-Klux-Klan-outfits.html)
 
 ### Related:
 

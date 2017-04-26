@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?Id=gyK2DAZtSU0=)
-2. [BBC](http://www.bbc.co.uk/mundo/ultimas_noticias/2011/03/110319_ultnot_peru_rosario_fernandez_lav.shtml)
+1. [BBC](http://www.bbc.co.uk/mundo/ultimas_noticias/2011/03/110319_ultnot_peru_rosario_fernandez_lav.shtml)
+2. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?Id=gyK2DAZtSU0=)
 
 ### Related:
 

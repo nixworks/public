@@ -7,8 +7,8 @@ The soldier who killed a man in 1971 should have been charged with murder, the c
 
 ### Source:
 
-1. [Londonderry Sentinel](http://www.londonderrysentinel.co.uk/news/Shot-man-was-innocent.6339799.jp)
-2. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/foyle_and_west/10226501.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/foyle_and_west/10226501.stm)
+2. [Londonderry Sentinel](http://www.londonderrysentinel.co.uk/news/Shot-man-was-innocent.6339799.jp)
 
 ### Related:
 

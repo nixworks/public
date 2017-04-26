@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/I/ISRAEL_PALESTINIANS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2007-06-13-23-16-06)
-2. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1951863.htm)
-3. [CNN](http://edition.cnn.com/2007/WORLD/meast/06/14/gaza/index.html)
+1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1951863.htm)
+2. [CNN](http://edition.cnn.com/2007/WORLD/meast/06/14/gaza/index.html)
+3. [AP](http://hosted.ap.org/dynamic/stories/I/ISRAEL_PALESTINIANS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2007-06-13-23-16-06)
 4. [Reuters](http://www.reuters.com/article/newsOne/idUSMAC32084020070613)
 
 ### Related:

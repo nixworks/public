@@ -7,8 +7,8 @@ Taipei says launch of Hsiung-feng III missile during drill in Tsoying could have
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2016/jul/01/taiwanese-warship-missile-china-hsiung-feng-iii)
-2. [BBC](http://www.bbc.com/news/world-asia-36680899)
+1. [BBC](http://www.bbc.com/news/world-asia-36680899)
+2. [The Guardian](https://www.theguardian.com/world/2016/jul/01/taiwanese-warship-missile-china-hsiung-feng-iii)
 
 ### Related:
 

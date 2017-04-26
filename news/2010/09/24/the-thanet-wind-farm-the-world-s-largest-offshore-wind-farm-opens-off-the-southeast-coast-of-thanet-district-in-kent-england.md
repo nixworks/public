@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [3news](http://www.3news.co.nz/Worlds-largest-wind-farm-opens-off-UK-coast/tabid/417/articleID/177903/Default.aspx)
-2. [Seattle Times](http://seattletimes.nwsource.com/html/businesstechnology/2012976150_apeubritainwindfarm.html?syndication=)
-3. [AP via yahoo](http://news.yahoo.com/s/ap/20100923/ap_on_bi_ge/eu_britain_wind_farm)
-4. [Sky](http://news.sky.com/skynews/Home/UK-News/Kent-Worlds-Largest-Wind-Farm-Thanet-Opens-Off-Kent-Coast-With-100-Turbines/Article/201009415741385?f=rss)
+1. [Seattle Times](http://seattletimes.nwsource.com/html/businesstechnology/2012976150_apeubritainwindfarm.html?syndication=)
+2. [Sky](http://news.sky.com/skynews/Home/UK-News/Kent-Worlds-Largest-Wind-Farm-Thanet-Opens-Off-Kent-Coast-With-100-Turbines/Article/201009415741385?f=rss)
+3. [AP](http://hosted.ap.org/dynamic/stories/E/EU_BRITAIN_WIND_FARM?SITE=KOPB&SECTION=HOME&TEMPLATE=DEFAULT)
+4. [AP via yahoo](http://news.yahoo.com/s/ap/20100923/ap_on_bi_ge/eu_britain_wind_farm)
 5. [CBS](http://www.cbsnews.com/stories/2010/09/23/ap/business/main6894020.shtml)
-6. [AP](http://hosted.ap.org/dynamic/stories/E/EU_BRITAIN_WIND_FARM?SITE=KOPB&SECTION=HOME&TEMPLATE=DEFAULT)
+6. [3news](http://www.3news.co.nz/Worlds-largest-wind-farm-opens-off-UK-coast/tabid/417/articleID/177903/Default.aspx)
 
 ### Related:
 

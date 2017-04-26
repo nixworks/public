@@ -7,8 +7,8 @@ Top seed David Ferrer beat second-seeded Philipp Kohlschreiber 7-6 (5), 6-1 on S
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/david-ferrer-wins-heineken-open-4th-time)
-2. [ESPN](http://espn.go.com/tennis/story/_/id/8837097/david-ferrer-wins-heineken-open-4th-time)
+1. [ESPN](http://espn.go.com/tennis/story/_/id/8837097/david-ferrer-wins-heineken-open-4th-time)
+2. [AP](http://bigstory.ap.org/article/david-ferrer-wins-heineken-open-4th-time)
 
 ### Related:
 

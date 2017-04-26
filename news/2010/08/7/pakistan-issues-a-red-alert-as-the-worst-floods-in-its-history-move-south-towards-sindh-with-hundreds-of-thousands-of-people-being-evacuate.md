@@ -7,8 +7,8 @@ Pakistan issues a red alert as floods that have devastated northern areas sweep 
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108795249902616.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10900947)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10900947)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108795249902616.html)
 
 ### Related:
 

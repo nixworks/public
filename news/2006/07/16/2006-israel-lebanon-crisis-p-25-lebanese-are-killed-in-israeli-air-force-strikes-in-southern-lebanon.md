@@ -7,18 +7,18 @@ Israeli warplanes continue to strike targets all across Lebanon, reportedly kill
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L16654109.htm)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/E821E46B-A4DA-46B9-8FD5-FE461210664B.htm)
-3. [Jerusalem post](http://www.jpost.com/servlet/Satellite?cid=1150886006292&pagename=JPost%2FJPArticle%2FShowFull)
-4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276932,00.html)
-5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276753,00.html)
-6. [CBS](http://www.cbsnews.com/stories/2006/07/14/world/main1804389.shtml)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/9E89DE1C-45C9-48D6-A5C3-6F15C9C29692.htm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5184428.stm)
+3. [CBS](http://www.cbsnews.com/stories/2006/07/14/world/main1804389.shtml)
+4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5185624.stm)
+5. [AP](http://www.tribstar.com/news/feeds/apcontent/apstories/apstorysection/D8IT7IF00.xml.txt/resources_apstoryview)
+6. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/E821E46B-A4DA-46B9-8FD5-FE461210664B.htm)
 7. [Haaretz](http://www.haaretz.com/hasen/spages/738747.html)
-8. [AP](http://www.tribstar.com/news/feeds/apcontent/apstories/apstorysection/D8IT7IF00.xml.txt/resources_apstoryview)
-9. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5185624.stm)
-10. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/9E89DE1C-45C9-48D6-A5C3-6F15C9C29692.htm)
-11. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5184428.stm)
-12. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5185624.stm)
+8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276932,00.html)
+9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3276753,00.html)
+10. [Jerusalem post](http://www.jpost.com/servlet/Satellite?cid=1150886006292&pagename=JPost%2FJPArticle%2FShowFull)
+11. [Reuters](http://www.alertnet.org/thenews/newsdesk/L16654109.htm)
+12. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5185624.stm)
 
 ### Related:
 

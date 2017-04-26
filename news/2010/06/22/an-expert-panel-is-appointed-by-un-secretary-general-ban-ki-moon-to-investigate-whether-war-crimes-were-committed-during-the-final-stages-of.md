@@ -7,9 +7,9 @@ U.N. Secretary-General on Tuesday announced the formation of a three-member pane
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/10384964.stm)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/22/un.sri.lanka/)
 2. [Reuters](http://www.reuters.com/article/idUSTRE65L4SW20100622)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/22/un.sri.lanka/)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/10384964.stm)
 
 ### Related:
 

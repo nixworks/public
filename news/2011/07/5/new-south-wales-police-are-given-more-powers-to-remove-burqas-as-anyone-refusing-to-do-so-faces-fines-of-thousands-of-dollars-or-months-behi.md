@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20110705-australia-police-get-power-demand-burqa-removal-0)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14025386)
-3. [The Guardian](http://www.guardian.co.uk/world/2011/jul/05/australia-new-south-wales-police-burqa-removal)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/jul/05/australia-new-south-wales-police-burqa-removal)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14025386)
 
 ### Related:
 

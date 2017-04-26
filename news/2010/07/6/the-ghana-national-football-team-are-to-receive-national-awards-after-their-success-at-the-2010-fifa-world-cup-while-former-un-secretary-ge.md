@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/06/AR2010070603352.html)
-2. [IOL](http://www.iol.co.za/index.php?from=rss_News&set_id=1&click_id=79&art_id=nw20100706204429791C637000)
+1. [IOL](http://www.iol.co.za/index.php?from=rss_News&set_id=1&click_id=79&art_id=nw20100706204429791C637000)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/06/AR2010070603352.html)
 
 ### Related:
 

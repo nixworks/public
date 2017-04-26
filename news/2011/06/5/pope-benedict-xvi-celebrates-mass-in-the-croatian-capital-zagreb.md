@@ -7,8 +7,8 @@ Pope Benedict XVI said a mass for an estimated 300,000 people at a Zagreb racetr
 
 ### Source:
 
-1. [Vatican Radio](http://www.oecumene.radiovaticana.org/en1/Articolo.asp?c=493507)
-2. [UPI](http://www.upi.com/Top_News/World-News/2011/06/05/Pope-conducts-mass-in-Croatia/UPI-83831307284215/)
+1. [UPI](http://www.upi.com/Top_News/World-News/2011/06/05/Pope-conducts-mass-in-Croatia/UPI-83831307284215/)
+2. [Vatican Radio](http://www.oecumene.radiovaticana.org/en1/Articolo.asp?c=493507)
 
 ### Related:
 

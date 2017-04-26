@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 2. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 3. [In an interview, U.S. President Donald Trump says the U.S. dollar is "getting too strong" and wants to keep interest rates low, causing the U.S. Dollar Index to fall. ](/news/2017/04/12/in-an-interview-u-s-president-donald-trump-says-the-u-s-dollar-is-getting-too-strong-and-wants-to-keep-interest-rates-low-causing-the.md) _Context: U.S. dollar_
 4. [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md) _Context: U.S. dollar_

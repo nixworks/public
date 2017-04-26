@@ -8,8 +8,8 @@ Seattle fire investigators have determined a massive natural gas explosion in th
 ### Source:
 
 1. [Seattle Fire Department](http://fireline.seattle.gov/2016/03/09/greenwoodexplosion/)
-2. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/03/09/massive-explosion-injures-9-firefighters-levels-several-buildings-in-seattle/)
-3. [KING-TV](http://www.king5.com/story/news/2016/03/09/massive-explosion-rocks-greenwood-several-firefighters-hurt/81518136/)
+2. [KING-TV](http://www.king5.com/story/news/2016/03/09/massive-explosion-rocks-greenwood-several-firefighters-hurt/81518136/)
+3. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/03/09/massive-explosion-injures-9-firefighters-levels-several-buildings-in-seattle/)
 
 ### Related:
 

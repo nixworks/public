@@ -7,8 +7,8 @@ In landmark ruling backing president&#8217;s stance, legal body strikes down law
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/us-supreme-court-jerusalem-born-americans-cant-list-israel-as-birthplace/)
-2. [CNN](http://edition.cnn.com/2015/06/08/politics/zivotofsky-supreme-court-jerusalem-passport/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29)
+1. [CNN](http://edition.cnn.com/2015/06/08/politics/zivotofsky-supreme-court-jerusalem-passport/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29)
+2. [The Times of Israel](http://www.timesofisrael.com/us-supreme-court-jerusalem-born-americans-cant-list-israel-as-birthplace/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ESPN](http://sports.espn.go.com/sports/tennis/aus11/news/story?id=6072590)
-2. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/djokovic-beats-murray-to-win-aussie-open-20110130-1a9sa.html)
+1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/djokovic-beats-murray-to-win-aussie-open-20110130-1a9sa.html)
+2. [ESPN](http://sports.espn.go.com/sports/tennis/aus11/news/story?id=6072590)
 
 ### Related:
 

@@ -7,9 +7,9 @@ At least eight women have died in an air strike in the eastern Afghan province o
 
 ### Source:
 
-1. [Vancouver Sun](http://www.vancouversun.com/news/NATO+forces+Afghanistan+international+troops+killed+apparent+attack/7249702/story.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gzDd4B8c-vEnsuVSlMiNgosuUYPw?docId=CNG.b0d1cb705164693dadc62479a8a2c79e.541)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-19616356)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gzDd4B8c-vEnsuVSlMiNgosuUYPw?docId=CNG.b0d1cb705164693dadc62479a8a2c79e.541)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-19616356)
+3. [Vancouver Sun](http://www.vancouversun.com/news/NATO+forces+Afghanistan+international+troops+killed+apparent+attack/7249702/story.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2009-07/28/content_8479227.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8171791.stm)
-3. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20090728f2.html)
+1. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20090728f2.html)
+2. [China Daily](http://www.chinadaily.com.cn/china/2009-07/28/content_8479227.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8171791.stm)
 
 ### Related:
 

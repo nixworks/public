@@ -7,8 +7,8 @@ MOGADISHU, Somalia (AP) — Two suicide bombers detonated explosives-laden cars 
 
 ### Source:
 
-1. [Al-Jazeera](http://www.aljazeera.com/news/2016/07/huge-blasts-heard-airport-somalia-mogadishu-160726035504889.html)
-2. [AP](http://bigstory.ap.org/article/bd560cbd554c43568b6258bdc5cd9ae8/somalia-suicide-car-bomb-un-mine-offices-kills-3)
+1. [AP](http://bigstory.ap.org/article/bd560cbd554c43568b6258bdc5cd9ae8/somalia-suicide-car-bomb-un-mine-offices-kills-3)
+2. [Al-Jazeera](http://www.aljazeera.com/news/2016/07/huge-blasts-heard-airport-somalia-mogadishu-160726035504889.html)
 
 ### Related:
 

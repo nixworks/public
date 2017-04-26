@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080908.wrussia0908/BNStory/International/?page=rss&id=RTGAM.20080908.wrussia0908)
-2. [Financial Times](http://www.ft.com/cms/s/0/bdffd9a6-7b71-11dd-b839-000077b07658.html)
-3. [Reuters](http://www.reuters.com/article/worldNews/idUSL272497420080908?feedType=RSS&feedName=worldNews&pageNumber=3&virtualBrandChannel=0)
+1. [Reuters](http://www.reuters.com/article/worldNews/idUSL272497420080908?feedType=RSS&feedName=worldNews&pageNumber=3&virtualBrandChannel=0)
+2. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080908.wrussia0908/BNStory/International/?page=rss&id=RTGAM.20080908.wrussia0908)
+3. [Financial Times](http://www.ft.com/cms/s/0/bdffd9a6-7b71-11dd-b839-000077b07658.html)
 
 ### Related:
 

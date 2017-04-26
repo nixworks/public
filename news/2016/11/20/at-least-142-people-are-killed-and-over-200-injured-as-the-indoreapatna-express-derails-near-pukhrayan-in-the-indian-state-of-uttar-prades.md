@@ -7,13 +7,13 @@ The Indian Railways has issued helpline numbers for those seeking information
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/2016/11/20/at-least-30-killed-in-indian-train-crash/)
-2. [Hindustan Times](http://www.hindustantimes.com/india-news/patna-indore-exp-derailed-centre-orders-enquiry-as-over-40-killed-in-tragedy/story-xUO9JeerMAg1iRbc1f2scM.html)
-3. [Indian Express](http://indianexpress.com/article/india/india-news-india/patna-indore-express-derailed-indian-railways-issues-helpline-numbers-4385301/)
-4. [The New York Times](http://www.nytimes.com/2016/11/21/world/asia/india-train-derails.html?partner=rss&emc=rss&_r=0)
-5. [Reuters](http://in.reuters.com/article/india-train-idINKBN13F03Y)
-6. [CNN](http://edition.cnn.com/2016/11/19/asia/indian-train-derailment-kills-dozens/index.html)
-7. [Fox News](http://www.foxnews.com/us/2016/11/19/train-in-northern-india-derails-killing-at-least-24.html)
+1. [Fox News](http://www.foxnews.com/us/2016/11/19/train-in-northern-india-derails-killing-at-least-24.html)
+2. [The New York Times](http://www.nytimes.com/2016/11/21/world/asia/india-train-derails.html?partner=rss&emc=rss&_r=0)
+3. [Reuters](http://in.reuters.com/article/india-train-idINKBN13F03Y)
+4. [The Telegraph](http://www.telegraph.co.uk/news/2016/11/20/at-least-30-killed-in-indian-train-crash/)
+5. [Hindustan Times](http://www.hindustantimes.com/india-news/patna-indore-exp-derailed-centre-orders-enquiry-as-over-40-killed-in-tragedy/story-xUO9JeerMAg1iRbc1f2scM.html)
+6. [Indian Express](http://indianexpress.com/article/india/india-news-india/patna-indore-express-derailed-indian-railways-issues-helpline-numbers-4385301/)
+7. [CNN](http://edition.cnn.com/2016/11/19/asia/indian-train-derailment-kills-dozens/index.html)
 
 ### Related:
 

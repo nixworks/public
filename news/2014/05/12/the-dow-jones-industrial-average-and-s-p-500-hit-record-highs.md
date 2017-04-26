@@ -7,8 +7,8 @@ U.S. stocks rise sharply after data that show jobless claims falling to a five-y
 
 ### Source:
 
-1. [TIME](http://time.com/96738/us-stock-market-record-high-monday/)
-2. [Marketwatch](http://www.marketwatch.com/story/us-stocks-rally-sp-500-clears-1700-2013-08-01?dist=lcountdown)
+1. [Marketwatch](http://www.marketwatch.com/story/us-stocks-rally-sp-500-clears-1700-2013-08-01?dist=lcountdown)
+2. [TIME](http://time.com/96738/us-stock-market-record-high-monday/)
 
 ### Related:
 

@@ -7,12 +7,12 @@ The New Hampshire primaries will be crucial for both sides of the presidential r
 
 ### Source:
 
-1. [The Week](http://theweek.com/speedreads/604757/bernie-sanders-becomes-first-jewish-nonchristian-candidate-win-primary)
-2. [CNN](http://www.cnn.com/2016/02/04/politics/bernie-sanders-jewish-new-hampshire-primary/index.html)
+1. [The Huffington Post](http://www.huffingtonpost.com/entry/bernie-sanders-wins-new-hampshire_us_56ba4d2ce4b08ffac122ff50)
+2. [CNN](http://www.cnn.com/2016/02/04/politics/bernie-sanders-jewish-new-hampshire-primary/)
 3. [BBC](http://www.bbc.com/news/election-us-2016-35526323)
-4. [NBC News](http://www.nbcnews.com/politics/2016-election/trump-sanders-sweep-victory-new-hampshire-primaries-nbc-news-n515191?cid=eml_nbn_20160209)
-5. [CNN](http://www.cnn.com/2016/02/04/politics/bernie-sanders-jewish-new-hampshire-primary/)
-6. [The Huffington Post](http://www.huffingtonpost.com/entry/bernie-sanders-wins-new-hampshire_us_56ba4d2ce4b08ffac122ff50)
+4. [The Week](http://theweek.com/speedreads/604757/bernie-sanders-becomes-first-jewish-nonchristian-candidate-win-primary)
+5. [CNN](http://www.cnn.com/2016/02/04/politics/bernie-sanders-jewish-new-hampshire-primary/index.html)
+6. [NBC News](http://www.nbcnews.com/politics/2016-election/trump-sanders-sweep-victory-new-hampshire-primaries-nbc-news-n515191?cid=eml_nbn_20160209)
 
 ### Related:
 

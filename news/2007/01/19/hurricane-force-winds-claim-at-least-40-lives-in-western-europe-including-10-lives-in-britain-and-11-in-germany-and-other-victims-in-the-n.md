@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/stories/2007/01/18/world/main2372142.shtml)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/6277537.stm)
-3. [CNN](http://edition.cnn.com/2007/WORLD/europe/01/19/europe.storm.ap/index.html)
+2. [CNN](http://edition.cnn.com/2007/WORLD/europe/01/19/europe.storm.ap/index.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/6277537.stm)
 
 ### Related:
 

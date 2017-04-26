@@ -7,7 +7,7 @@ _Context: Colombia, Nevado del Huila, volcanic activity_
 _Context: Delta Air Lines, Northwest Airlines_
 
 ### [ The United States begins occupying its new US$736 million embassy in Iraq, one of the largest embassies in the world. Presently under construction, it is approximately as large as the Vatican City and will permanently employ thousands of Americans, including a Marine detachment. ](/news/2008/04/14/the-united-states-begins-occupying-its-new-us-736-million-embassy-in-iraq-one-of-the-largest-embassies-in-the-world-presently-under-const.md)
-_Context: US$, United States, United States Marines, Vatican City, embassy in Iraq_
+_Context: U.S., US$, United States Marines, Vatican City, embassy in Iraq_
 
 ### [ Silvio Berlusconi is re-elected for the third time as the Prime Minister of Italy. ](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.md)
 _Context: Prime Minister, Silvio Berlusconi, re-elected_

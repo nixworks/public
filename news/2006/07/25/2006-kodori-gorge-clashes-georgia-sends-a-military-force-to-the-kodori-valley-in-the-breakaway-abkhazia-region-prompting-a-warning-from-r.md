@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Interfax](http://www.interfax.ru/e/B/politics/28.html?id_issue=11560216)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/5213662.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/5213662.stm)
+2. [Interfax](http://www.interfax.ru/e/B/politics/28.html?id_issue=11560216)
 
 ### Related:
 

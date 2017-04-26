@@ -7,8 +7,8 @@ At least 85 people are killed in a gas explosion at a restaurant in the central 
 
 ### Source:
 
-1. [News 18](http://www.news18.com/news/madhya-pradesh/20-feared-dead-over-150-injured-in-an-explosion-in-mps-jhabua-804815.html)
-2. [AP via US News](http://www.usnews.com/news/world/articles/2015/09/12/25-people-killed-in-gas-cylinder-explosion-in-central-india)
+1. [AP via US News](http://www.usnews.com/news/world/articles/2015/09/12/25-people-killed-in-gas-cylinder-explosion-in-central-india)
+2. [News 18](http://www.news18.com/news/madhya-pradesh/20-feared-dead-over-150-injured-in-an-explosion-in-mps-jhabua-804815.html)
 3. [ABC News Australia](http://www.abc.net.au/news/2015-09-12/gas-explosion-in-india-kills-at-least-44-police/6771090)
 
 ### Related:

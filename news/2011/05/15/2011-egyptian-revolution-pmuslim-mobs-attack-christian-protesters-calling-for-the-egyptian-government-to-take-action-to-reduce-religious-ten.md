@@ -7,10 +7,10 @@ At least seven people are injured after Christian protesters in central Cairo ar
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/africa/05/15/egypt.suzanne.mubarak/index.html)
-2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74E02G20110515)
+1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74E02G20110515)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13403504)
 3. [AP via MSNBC](http://www.msnbc.msn.com/id/43035836)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-13403504)
+4. [CNN](http://www.cnn.com/2011/WORLD/africa/05/15/egypt.suzanne.mubarak/index.html)
 
 ### Related:
 

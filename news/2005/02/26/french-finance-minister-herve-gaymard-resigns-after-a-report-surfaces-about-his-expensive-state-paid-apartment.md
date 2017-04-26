@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Boston Globe](http://www.boston.com/news/world/europe/articles/2005/02/26/finance_minister_in_france_quits_admitting_error_in_judgment/)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=531568)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=531568)
+2. [Boston Globe](http://www.boston.com/news/world/europe/articles/2005/02/26/finance_minister_in_france_quits_admitting_error_in_judgment/)
 3. [Guardian](http://www.guardian.co.uk/france/story/0,11882,1425854,00.html)
 
 ### Related:

@@ -7,8 +7,8 @@ The new novel Go Set a Watchman, Harper Lee&#039;s first for 55 years, features 
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/celebritynews/11387478/To-Kill-A-Mockingbird-author-Harper-Lee-to-publish-second-novel.html)
-2. [ABC News](http://abcnews.go.com/Entertainment/wireStory/harper-lee-published-july-28687808)
+1. [ABC News](http://abcnews.go.com/Entertainment/wireStory/harper-lee-published-july-28687808)
+2. [The Telegraph](http://www.telegraph.co.uk/news/celebritynews/11387478/To-Kill-A-Mockingbird-author-Harper-Lee-to-publish-second-novel.html)
 
 ### Related:
 

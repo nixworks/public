@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PrensaLibre](http://www.prensalibre.com/chimaltenango/Accidente-autobus-deja-muertos-heridos_0_825517571.html)
-2. [EFE via ''El Tiempo](http://eltiempo.com.ve/mundo/accidente/al-menos-seis-personas-murieron-hoy-y-otras-veinte-resultaron-heridas-en-un-accidente-de-un-autobus-de-pasajeros-en-el-oeste-de-guatemala/73148)
+1. [EFE via ''El Tiempo](http://eltiempo.com.ve/mundo/accidente/al-menos-seis-personas-murieron-hoy-y-otras-veinte-resultaron-heridas-en-un-accidente-de-un-autobus-de-pasajeros-en-el-oeste-de-guatemala/73148)
+2. [PrensaLibre](http://www.prensalibre.com/chimaltenango/Accidente-autobus-deja-muertos-heridos_0_825517571.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Lakeland Times](http://www.lakelandtimes.com/main.asp?SectionID=9&SubSectionID=9&ArticleID=13839)
-2. [Duluth News](http://www.duluthnewstribune.com/event/article/id/209444/group/Sports/)
+1. [Duluth News](http://www.duluthnewstribune.com/event/article/id/209444/group/Sports/)
+2. [Lakeland Times](http://www.lakelandtimes.com/main.asp?SectionID=9&SubSectionID=9&ArticleID=13839)
 
 ### Related:
 

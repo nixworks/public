@@ -7,8 +7,8 @@ Advances by Ukrainian army lead to intense fighting as separatists renew calls f
 
 ### Source:
 
-1. [Reuters'' via ''New York Times](http://www.nytimes.com/reuters/2014/08/03/world/europe/03reuters-urkaine-crisis-east.html?ref=world&_r=0)
-2. [AP via ''Guardian](http://www.theguardian.com/world/2014/aug/03/ukraine-army-advance-donetsk-russia-rebels)
+1. [AP via ''Guardian](http://www.theguardian.com/world/2014/aug/03/ukraine-army-advance-donetsk-russia-rebels)
+2. [Reuters'' via ''New York Times](http://www.nytimes.com/reuters/2014/08/03/world/europe/03reuters-urkaine-crisis-east.html?ref=world&_r=0)
 
 ### Related:
 

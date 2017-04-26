@@ -7,8 +7,8 @@ Staff Sgt. Robert Bales, the figure at the center of the worst American war crim
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/06/201365172441270933.html)
-2. [New York Times](http://www.nytimes.com/2013/06/06/us/sergeant-robert-bales-testimony.html)
+1. [New York Times](http://www.nytimes.com/2013/06/06/us/sergeant-robert-bales-testimony.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/06/201365172441270933.html)
 
 ### Related:
 

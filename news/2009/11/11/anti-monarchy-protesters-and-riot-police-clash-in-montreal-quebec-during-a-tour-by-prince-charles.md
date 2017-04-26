@@ -8,8 +8,8 @@ The Prince of Wales&#039; tour of Canada has been marred by an anti-monarchy pro
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/6540798/Prince-of-Wales-tour-of-Canada-marred-by-anti-monarchy-protests.html)
-2. [CBC](http://www.cbc.ca/canada/montreal/story/2009/11/10/quebec-royal-visit.html)
-3. [Metro](http://www.metro.co.uk/news/article.html?Prince_Charles_Canada_tour_marred_by_anti-monarchy_protests&in_article_id=767268&in_page_id=34)
+2. [Metro](http://www.metro.co.uk/news/article.html?Prince_Charles_Canada_tour_marred_by_anti-monarchy_protests&in_article_id=767268&in_page_id=34)
+3. [CBC](http://www.cbc.ca/canada/montreal/story/2009/11/10/quebec-royal-visit.html)
 
 ### Related:
 

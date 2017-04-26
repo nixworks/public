@@ -7,8 +7,8 @@ Two Jordanians seized while serving with UN African Union mission in Sudan are f
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/17/c_13449275.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11001349)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11001349)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/17/c_13449275.htm)
 3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/201081711110479194.html)
 
 ### Related:

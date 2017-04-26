@@ -7,8 +7,8 @@ NASA&#039;s Mars Reconnaissance Orbiter has provided images allowing scientists 
 
 ### Source:
 
-1. [Science](http://www.sciencemag.org/content/early/2013/03/06/science.1234787)
-2. [NASA](http://www.nasa.gov/mission_pages/MRO/news/mro20130307.html)
+1. [NASA](http://www.nasa.gov/mission_pages/MRO/news/mro20130307.html)
+2. [Science](http://www.sciencemag.org/content/early/2013/03/06/science.1234787)
 
 ### Related:
 

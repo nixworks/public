@@ -7,8 +7,8 @@ The government plans to make Hanyu Pinyin (漢語拼音) the standard system of 
 
 ### Source:
 
-1. [China Post](http://www.chinapost.com.tw/taiwan/national/national%20news/2008/09/18/175155/Gov%27t-to.htm)
-2. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2008/09/18/2003423528)
+1. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2008/09/18/2003423528)
+2. [China Post](http://www.chinapost.com.tw/taiwan/national/national%20news/2008/09/18/175155/Gov%27t-to.htm)
 
 ### Related:
 

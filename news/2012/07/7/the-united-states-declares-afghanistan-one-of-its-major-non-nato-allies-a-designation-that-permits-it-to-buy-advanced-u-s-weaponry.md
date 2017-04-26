@@ -7,8 +7,8 @@ Classification, allowing Kabul to buy advanced US weaponry, announced as Afghan 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-18750732)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/07/2012779419933231.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/07/2012779419933231.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-18750732)
 3. [The New York Times](http://www.nytimes.com/2012/07/08/world/asia/us-grants-special-ally-status-to-afghanistan.html)
 
 ### Related:

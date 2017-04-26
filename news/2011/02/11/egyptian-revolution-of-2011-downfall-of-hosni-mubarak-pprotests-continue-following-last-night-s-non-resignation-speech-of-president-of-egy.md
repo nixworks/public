@@ -7,19 +7,19 @@ Egyptian president stands down and hands over power to the Supreme Council for t
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
-2. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/10/egypt.protests.reax/index.html?iref=NS1)
-3. [CBS News](http://www.cbsnews.com/stories/2011/02/11/501364/main20031477.shtml)
-4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/11/AR2011021102386.html)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121161511674298.html)
-6. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jfxszj9wlBGrS1-dCx83NF6El6Bw?docId=5917466)
-7. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE7192I62011021)
-8. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/11/c_13728121.htm)
-9. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4027193,00.html)
-10. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/10/live-blog-feb-11-egypt-protests)
-11. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121125158705862.html)
-12. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/11/egypt-hosni-mubarak-left-cairo#block-5)
-13. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/11/egypt-protests-mubarak)
+1. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE7192I62011021)
+2. [CBS News](http://www.cbsnews.com/stories/2011/02/11/501364/main20031477.shtml)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12307698)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121125158705862.html)
+5. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/10/egypt.protests.reax/index.html?iref=NS1)
+6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121161511674298.html)
+7. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/11/AR2011021102386.html)
+8. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/11/egypt-protests-mubarak)
+9. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/11/egypt-hosni-mubarak-left-cairo#block-5)
+10. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jfxszj9wlBGrS1-dCx83NF6El6Bw?docId=5917466)
+11. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/11/c_13728121.htm)
+12. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/10/live-blog-feb-11-egypt-protests)
+13. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4027193,00.html)
 
 ### Related:
 

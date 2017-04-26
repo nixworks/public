@@ -7,11 +7,11 @@ Israel has said no one was injured in its takeover of the Canadian ship Tahrir
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/world/story/2011/11/05/gaza-flotilla-israel-reaction.html)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/canadian-who-tried-breaching-gaza-blockade-was-beaten-by-troops-organizers/article2226834/)
-3. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=244491)
-4. [Ynetnews.com](http://www.ynetnews.com/articles/0,7340,L-4144184,00.html)
-5. [Salem-News.com](http://www.salem-news.com/articles/november052011/freedom-waves-boarded.php)
+1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=244491)
+2. [Ynetnews.com](http://www.ynetnews.com/articles/0,7340,L-4144184,00.html)
+3. [CBC](http://www.cbc.ca/news/world/story/2011/11/05/gaza-flotilla-israel-reaction.html)
+4. [Salem-News.com](http://www.salem-news.com/articles/november052011/freedom-waves-boarded.php)
+5. [The Globe and Mail](http://www.theglobeandmail.com/news/world/canadian-who-tried-breaching-gaza-blockade-was-beaten-by-troops-organizers/article2226834/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Eurasia Net](http://www.eurasianet.org/departments/insight/articles/eav092506.shtml)
-2. [AP](http://news.yahoo.com/s/ap/20060925/ap_on_go_ca_st_pe/us_kazakhstan_2)
+1. [AP](http://news.yahoo.com/s/ap/20060925/ap_on_go_ca_st_pe/us_kazakhstan_2)
+2. [Eurasia Net](http://www.eurasianet.org/departments/insight/articles/eav092506.shtml)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Police in Belgium arrest a man suspected of shooting dead a magistrate and a cle
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/man-admits-killing-belgian-judge-clerk-20100605-xl6e.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10237234.stm)
-3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201064123259217580.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201064123259217580.html)
+2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/man-admits-killing-belgian-judge-clerk-20100605-xl6e.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10237234.stm)
 
 ### Related:
 

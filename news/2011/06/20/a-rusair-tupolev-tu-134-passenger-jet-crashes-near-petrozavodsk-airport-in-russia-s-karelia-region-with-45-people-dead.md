@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_PLANE_CRASH?SITE=OHCIN&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [ITAR-TASS](http://www.itar-tass.com/en/c154/169237.html)
+1. [ITAR-TASS](http://www.itar-tass.com/en/c154/169237.html)
+2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_PLANE_CRASH?SITE=OHCIN&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/meast/01/18/israel.gaza/index.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-01/19/content_10679802.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-01/19/content_10679802.htm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/meast/01/18/israel.gaza/index.html)
 
 ### Related:
 

@@ -8,17 +8,17 @@ Army to press charges of manslaughter over deaths of Palestinian women during wa
 ### Source:
 
 1. [Today's Zaman](http://www.todayszaman.com/tz-web/news-215257-100-three-soldiers-martyred-in-clashes-with-terrorists.html)
-2. [News24.com](http://www.news24.com/Africa/News/Bus-driver-shoots-dead-6-in-Egypt-20100706)
-3. [AP](http://www.google.com/hostednews/afp/article/ALeqM5jQ0fw9i07FUKrsH66jDhZxSzBCDQ)
-4. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/06/israel.soldier.indictments/index.html?eref=edition&fbid=4I1tbJn2BPy)
-5. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10519991.stm)
-6. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLDE6650UQ20100706)
-7. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10526541.stm)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i1EIvktK_uRLS4f-zrVW6MpebNqQD9GPFGF00)
+3. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/06/turkey.pkk/?fbid=Dxrzb6Q-4_O)
+4. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10526541.stm)
+5. [AP](http://www.google.com/hostednews/afp/article/ALeqM5jQ0fw9i07FUKrsH66jDhZxSzBCDQ)
+6. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/07/20107681258864541.html)
+7. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10519991.stm)
 8. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107613517457411.html)
-9. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i1EIvktK_uRLS4f-zrVW6MpebNqQD9GPFGF00)
-10. [The Guardian](http://www.guardian.co.uk/world/2010/jul/06/israeli-soldier-charged-gaza-manslaughter)
-11. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/06/turkey.pkk/?fbid=Dxrzb6Q-4_O)
-12. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/07/20107681258864541.html)
+9. [The Guardian](http://www.guardian.co.uk/world/2010/jul/06/israeli-soldier-charged-gaza-manslaughter)
+10. [News24.com](http://www.news24.com/Africa/News/Bus-driver-shoots-dead-6-in-Egypt-20100706)
+11. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLDE6650UQ20100706)
+12. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/06/israel.soldier.indictments/index.html?eref=edition&fbid=4I1tbJn2BPy)
 
 ### Related:
 

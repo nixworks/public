@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Fox News](http://www.foxnews.com/scitech/2009/12/15/thousands-flee-volcano-spews-lava-philippines/?test=latestnews)
-2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20091215-242177/6-7-kms-from-Mayon-volcano-off-limits-to-people)
+1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20091215-242177/6-7-kms-from-Mayon-volcano-off-limits-to-people)
+2. [AP via Fox News](http://www.foxnews.com/scitech/2009/12/15/thousands-flee-volcano-spews-lava-philippines/?test=latestnews)
 
 ### Related:
 

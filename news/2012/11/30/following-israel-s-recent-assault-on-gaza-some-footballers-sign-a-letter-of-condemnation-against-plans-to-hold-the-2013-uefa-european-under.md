@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/sport/football/news/9715577/Premier-League-players-call-on-Uefa-to-remove-Israel-as-European-U-21-hosts.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/sport/2012/1201/1224327341829.html)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/sport/2012/1201/1224327341829.html)
+2. [The Telegraph](http://www.telegraph.co.uk/sport/football/news/9715577/Premier-League-players-call-on-Uefa-to-remove-Israel-as-European-U-21-hosts.html)
 3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1246310/didier-drogba-among-stars-declaring-support-for-palestine)
 
 ### Related:

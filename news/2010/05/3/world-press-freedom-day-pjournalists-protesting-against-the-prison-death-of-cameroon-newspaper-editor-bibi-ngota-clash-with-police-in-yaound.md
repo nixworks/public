@@ -8,8 +8,8 @@
 ### Source:
 
 1. [New York Daily News](http://www.nydailynews.com/news/world/2010/05/03/2010-05-03_reporters_without_borders_names_mullah_omar_kim_jongil_among_predators_of_press_.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8657779.stm)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8658458.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8658458.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8657779.stm)
 
 ### Related:
 

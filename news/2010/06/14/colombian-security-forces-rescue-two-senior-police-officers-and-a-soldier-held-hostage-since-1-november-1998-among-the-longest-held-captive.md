@@ -7,12 +7,12 @@ Colombian forces rescue three of their men held hostage for more than a decade b
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100614-colombia-rescues-police-held-12-years-farc)
+1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-colombia-rescue-20100614,0,2040937.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fasia+%28L.A.+Times+-+Asia%29)
 2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/20106143171785167.html)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/colombian-hostages-freed-after-12-years-20100614-y8oz.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10311248.stm)
-5. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-colombia-rescue-20100614,0,2040937.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fasia+%28L.A.+Times+-+Asia%29)
-6. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10305816.stm)
+4. [France24](http://www.france24.com/en/20100614-colombia-rescues-police-held-12-years-farc)
+5. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10305816.stm)
+6. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10311248.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A Yemeni security official says five soldiers and two al-Qaida militants have be
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2013/04/27/5-soldiers-2-al-qaida-militants-killed-in-central-yemen-intelligence-officer/)
-2. [ABC News](http://abcnews.go.com/International/wireStory/yemen-soldiers-al-qaida-militants-killed-19055821#.UXvU2KKsiSo)
+1. [ABC News](http://abcnews.go.com/International/wireStory/yemen-soldiers-al-qaida-militants-killed-19055821#.UXvU2KKsiSo)
+2. [Fox News](http://www.foxnews.com/world/2013/04/27/5-soldiers-2-al-qaida-militants-killed-in-central-yemen-intelligence-officer/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Weatherzone](http://www.weatherzone.com.au/news/tropical-cyclone-lam-strengthens-to-category-three-closes-in-on-arnhem-land/243854)
-2. [The Age](http://www.theage.com.au/queensland/brisbane-weather-cyclone-lam-emergency-services-gearing-up-as-cyclone-predicted-20150218-13i9je.html)
+1. [The Age](http://www.theage.com.au/queensland/brisbane-weather-cyclone-lam-emergency-services-gearing-up-as-cyclone-predicted-20150218-13i9je.html)
+2. [Weatherzone](http://www.weatherzone.com.au/news/tropical-cyclone-lam-strengthens-to-category-three-closes-in-on-arnhem-land/243854)
 
 ### Related:
 

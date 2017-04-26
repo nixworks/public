@@ -7,10 +7,10 @@ Activists say opposition fighters have taken control of base near Aleppo as figh
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012101214255877977.html)
-2. [Reuters](http://uk.reuters.com/article/2012/10/12/uk-bahrain-protests-idUKBRE89B0X620121012)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gsYt-XMP-BX3Y47d0Rj1nA3tgpEg?docId=CNG.fb72c7896a878a35e0ee5d7f0aff37dc.171)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1012/breaking53.html)
+1. [Reuters](http://uk.reuters.com/article/2012/10/12/uk-bahrain-protests-idUKBRE89B0X620121012)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012101214255877977.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1012/breaking53.html)
+4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gsYt-XMP-BX3Y47d0Rj1nA3tgpEg?docId=CNG.fb72c7896a878a35e0ee5d7f0aff37dc.171)
 
 ### Related:
 

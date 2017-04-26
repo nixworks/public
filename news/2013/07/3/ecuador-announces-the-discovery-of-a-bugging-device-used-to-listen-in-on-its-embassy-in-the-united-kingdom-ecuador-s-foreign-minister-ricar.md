@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/jul/03/ecuador-microphone-bug-london-embassy)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/07/20137383834271630.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/07/20137383834271630.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/jul/03/ecuador-microphone-bug-london-embassy)
 
 ### Related:
 

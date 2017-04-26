@@ -7,8 +7,8 @@ Justice Department prosecutors are reviewing allegations that News Corp.&#8217;s
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/43847056/ns/us_news-crime_and_courts/)
-2. [BBC](http://www.bbc.co.uk/news/uk-14242763)
+1. [BBC](http://www.bbc.co.uk/news/uk-14242763)
+2. [MSNBC](http://www.msnbc.msn.com/id/43847056/ns/us_news-crime_and_courts/)
 
 ### Related:
 

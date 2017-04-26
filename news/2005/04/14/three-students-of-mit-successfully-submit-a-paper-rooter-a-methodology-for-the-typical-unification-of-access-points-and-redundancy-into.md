@@ -8,8 +8,8 @@
 ### Source:
 
 1. [SciGen](http://www.pdos.lcs.mit.edu/scigen/)
-2. [Boston Herald](http://business.bostonherald.com/technologyNews/view.bg?articleid=78365)
-3. [CNN](http://edition.cnn.com/2005/TECH/science/04/14/mit.prank.reut/)
+2. [CNN](http://edition.cnn.com/2005/TECH/science/04/14/mit.prank.reut/)
+3. [Boston Herald](http://business.bostonherald.com/technologyNews/view.bg?articleid=78365)
 
 ### Related:
 

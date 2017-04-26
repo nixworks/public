@@ -7,8 +7,8 @@ The United Nations Security Council has voted to impose sanctions on four citize
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2006/04/25/darfur060425.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4942026.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4942026.stm)
+2. [CBC](http://www.cbc.ca/world/story/2006/04/25/darfur060425.html)
 
 ### Related:
 

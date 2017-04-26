@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080703/ap_on_re_us/colombia_us_hostages)
-2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7486552.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7486552.stm)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080703/ap_on_re_us/colombia_us_hostages)
 
 ### Related:
 

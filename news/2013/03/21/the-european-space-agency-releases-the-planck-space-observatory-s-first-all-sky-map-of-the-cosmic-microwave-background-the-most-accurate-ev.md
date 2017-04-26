@@ -8,8 +8,8 @@ The Planck space mission has released the most accurate and detailed map ever ma
 ### Source:
 
 1. [NASA](http://www.nasa.gov/mission_pages/planck/news/planck20130321.html)
-2. [The New York Times](http://www.nytimes.com/2013/03/22/science/space/planck-satellite-shows-image-of-infant-universe.html)
-3. [BBC](http://www.bbc.co.uk/news/science-environment-21866464)
+2. [BBC](http://www.bbc.co.uk/news/science-environment-21866464)
+3. [The New York Times](http://www.nytimes.com/2013/03/22/science/space/planck-satellite-shows-image-of-infant-universe.html)
 
 ### Related:
 

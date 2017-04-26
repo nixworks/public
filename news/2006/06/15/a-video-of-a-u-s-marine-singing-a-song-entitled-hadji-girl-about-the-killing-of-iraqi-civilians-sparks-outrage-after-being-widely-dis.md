@@ -7,8 +7,8 @@ A Marine corporal seen in a video singing about killing members of an Iraqi fami
 
 ### Source:
 
-1. [NYT](http://www.nytimes.com/2006/06/15/world/worldspecial/15hadjigirl.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/5081930.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/5081930.stm)
+2. [NYT](http://www.nytimes.com/2006/06/15/world/worldspecial/15hadjigirl.html)
 
 ### Related:
 

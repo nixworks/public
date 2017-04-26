@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/04/18/world/asia/south-korea-ship-sinking/index.html?hpt=hp_t1)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2014/04/17/60/0302000000AEN20140417002063315F.html)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2014/04/17/60/0302000000AEN20140417002063315F.html)
+2. [CNN](http://www.cnn.com/2014/04/18/world/asia/south-korea-ship-sinking/index.html?hpt=hp_t1)
 
 ### Related:
 

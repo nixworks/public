@@ -7,8 +7,8 @@ Around 150 people are feared dead after more than three days of heavy rain trigg
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/05/18/world/asia/ap-as-sri-lanka-floods-.html)
-2. [Reuters](http://in.reuters.com/article/sri-lanka-floods-idINKCN0Y90KP)
+1. [Reuters](http://in.reuters.com/article/sri-lanka-floods-idINKCN0Y90KP)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/05/18/world/asia/ap-as-sri-lanka-floods-.html)
 
 ### Related:
 

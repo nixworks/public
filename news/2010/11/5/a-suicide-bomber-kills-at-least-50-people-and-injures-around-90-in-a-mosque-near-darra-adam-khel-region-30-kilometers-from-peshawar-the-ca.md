@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/05/c_13593137.htm)
-2. [Dawn](http://news.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-several-injured-in-blast-in-darra-adam-khel-ss-03)
+1. [Dawn](http://news.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-several-injured-in-blast-in-darra-adam-khel-ss-03)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/05/c_13593137.htm)
 3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/05/pakistan.blast/index.html)
 
 ### Related:

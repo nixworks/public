@@ -7,8 +7,8 @@ The health ministry in China is investigating reports that a brand of powdered m
 
 ### Source:
 
-1. [Sify](http://sify.com/news/china-launches-probe-into-milk-powder-controversy-news-international-kimpkejadih.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10955585)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10955585)
+2. [Sify](http://sify.com/news/china-launches-probe-into-milk-powder-controversy-news-international-kimpkejadih.html)
 
 ### Related:
 

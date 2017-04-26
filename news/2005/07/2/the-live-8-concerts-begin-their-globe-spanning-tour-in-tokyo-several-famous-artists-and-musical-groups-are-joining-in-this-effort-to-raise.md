@@ -7,11 +7,11 @@ Paul McCartney and the Irish rock band U2 will have history on their minds today
 
 ### Source:
 
-1. [LA Times](http://www.latimes.com/news/politics/la-et-live2jul02,1,7633303.story?coll=la-headlines-politics)
-2. [AOL Music (live webcast](http://music.aol.com/)
-3. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050702.weight0702/BNStory/Entertainment/)
-4. [Wired](http://www.wired.com/news/digiwood/0,1412,68069,00.html?tw=rss.TOP)
-5. [Live 8 home page](http://www.live8live.com/)
+1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050702.weight0702/BNStory/Entertainment/)
+2. [Live 8 home page](http://www.live8live.com/)
+3. [AOL Music (live webcast](http://music.aol.com/)
+4. [LA Times](http://www.latimes.com/news/politics/la-et-live2jul02,1,7633303.story?coll=la-headlines-politics)
+5. [Wired](http://www.wired.com/news/digiwood/0,1412,68069,00.html?tw=rss.TOP)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Russian and Syrian air raids on the rebel-held east of Aleppo have forced the cl
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-37528260)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN12133Z)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN12133Z)
+2. [BBC](http://www.bbc.com/news/world-middle-east-37528260)
 
 ### Related:
 

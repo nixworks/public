@@ -7,9 +7,9 @@ Polish President Lech Kaczynski signed the European Union&#39;s Lisbon Treaty in
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1010/eulisbon.html)
-2. [Deusche Welle](http://www.dw-world.de/dw/article/0,,4780257,00.html)
-3. [BBC News](http://news.bbc.co.uk/2/hi/europe/8300311.stm)
+1. [Deusche Welle](http://www.dw-world.de/dw/article/0,,4780257,00.html)
+2. [BBC News](http://news.bbc.co.uk/2/hi/europe/8300311.stm)
+3. [RTÉ](http://www.rte.ie/news/2009/1010/eulisbon.html)
 
 ### Related:
 

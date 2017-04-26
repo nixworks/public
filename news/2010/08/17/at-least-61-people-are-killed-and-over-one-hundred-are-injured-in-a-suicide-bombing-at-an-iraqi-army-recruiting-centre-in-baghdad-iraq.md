@@ -7,10 +7,10 @@ Some&#x20;60&#x20;people&#x20;have&#x20;been&#x20;killed&#x20;and&#x20;scores&#x
 
 ### Source:
 
-1. [AP via ''New York Times](http://www.nytimes.com/aponline/2010/08/17/world/AP-ML-Iraq.html?hp)
-2. [France 24](http://www.france24.com/en/20100817-dozens-killed-attack-baghdad-army-recruitment-centre-iraq)
-3. [AP cia Central Florida News](http://www.cfnews13.com/article/news/ap/august/138406/Police:-Bomb-blows-up-fuel-truck-in-Baghdad)
-4. [Voice of America](http://www1.voanews.com/english/news/Suicide-Bomb-Blast-Kills-41-at-Iraqi-Army-Recruitment-Center--100864519.html)
+1. [France 24](http://www.france24.com/en/20100817-dozens-killed-attack-baghdad-army-recruitment-centre-iraq)
+2. [AP cia Central Florida News](http://www.cfnews13.com/article/news/ap/august/138406/Police:-Bomb-blows-up-fuel-truck-in-Baghdad)
+3. [Voice of America](http://www1.voanews.com/english/news/Suicide-Bomb-Blast-Kills-41-at-Iraqi-Army-Recruitment-Center--100864519.html)
+4. [AP via ''New York Times](http://www.nytimes.com/aponline/2010/08/17/world/AP-ML-Iraq.html?hp)
 
 ### Related:
 

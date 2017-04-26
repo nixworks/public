@@ -7,12 +7,12 @@ At least 17 people killed in fighting between government forces and rebels.
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/20107254323497624.html)
-2. [Reuters](http://af.reuters.com/article/senegalNews/idAFLDE6610SL20100702?feedType=RSS&feedName=senegalNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaSenegalNews+%28News+%2F+Africa+%2F+Senegal+News%29)
+1. [CNN](http://us.cnn.com/2010/WORLD/africa/07/02/rwanda.genocide.arrest/index.html?hpt=T2)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10485558.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10486173.stm)
-4. [CNN](http://us.cnn.com/2010/WORLD/africa/07/02/rwanda.genocide.arrest/index.html?hpt=T2)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10485558.stm)
-6. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201072111013944348.html)
+4. [Reuters](http://af.reuters.com/article/senegalNews/idAFLDE6610SL20100702?feedType=RSS&feedName=senegalNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaSenegalNews+%28News+%2F+Africa+%2F+Senegal+News%29)
+5. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201072111013944348.html)
+6. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/20107254323497624.html)
 
 ### Related:
 

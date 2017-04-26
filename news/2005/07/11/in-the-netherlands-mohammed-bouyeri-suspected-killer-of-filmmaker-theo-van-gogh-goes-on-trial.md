@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Expatica, Netherlands](http://www.expatica.com/source/site_article.asp?subchannel_id=1&story_id=21798&name=Trial+of+Theo+van+Gogh%27s+alleged+assassin+begins+)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=afCN8mSvURm0&refer=europe)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L11597631.htm)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=afCN8mSvURm0&refer=europe)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L11597631.htm)
+3. [Expatica, Netherlands](http://www.expatica.com/source/site_article.asp?subchannel_id=1&story_id=21798&name=Trial+of+Theo+van+Gogh%27s+alleged+assassin+begins+)
 
 ### Related:
 

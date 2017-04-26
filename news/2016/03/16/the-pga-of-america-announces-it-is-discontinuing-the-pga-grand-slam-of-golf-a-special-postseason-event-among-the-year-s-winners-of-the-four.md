@@ -8,8 +8,8 @@ PGA of America decides to discontinue the PGA Grand Slam of Golf
 ### Source:
 
 1. [ESPN](http://espn.go.com/golf/story/_/id/13571464/pga-cancels-grand-slam-golf-trump-national-los-angeles)
-2. [AP](http://bigstory.ap.org/article/a90f7f11936e4adc85cf76bbc3edc637/pga-america-pulls-plug-grand-slam)
-3. [PGA](http://www.pga.com/news/pga/pga-america-discontinue-pga-grand-slam-golf)
+2. [PGA](http://www.pga.com/news/pga/pga-america-discontinue-pga-grand-slam-golf)
+3. [AP](http://bigstory.ap.org/article/a90f7f11936e4adc85cf76bbc3edc637/pga-america-pulls-plug-grand-slam)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [G.K](http://www.greaterkashmir.com/news/2010/Jul/1/-and-we-stand-stunned--17.asp)
-2. [Kashmir](http://www.greaterkashmir.com/news/2010/Jul/1/kashmir-in-rage-94.asp)
+1. [Kashmir](http://www.greaterkashmir.com/news/2010/Jul/1/kashmir-in-rage-94.asp)
+2. [G.K](http://www.greaterkashmir.com/news/2010/Jul/1/-and-we-stand-stunned--17.asp)
 
 ### Related:
 

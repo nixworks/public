@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-05/06/c_13862763.htm)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5igZzIZAtuWmYMeq7lK884LNsafTA?docId=CNG.08792357d46f2afef70ee39435e88b91.3b1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5igZzIZAtuWmYMeq7lK884LNsafTA?docId=CNG.08792357d46f2afef70ee39435e88b91.3b1)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-05/06/c_13862763.htm)
 
 ### Related:
 

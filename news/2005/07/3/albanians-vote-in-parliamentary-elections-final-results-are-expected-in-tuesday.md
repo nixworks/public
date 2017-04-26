@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-03T203708Z_01_MOL346546_RTRUKOC_0_ALBANIA-ELECTIONS.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4645643.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4645643.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-03T203708Z_01_MOL346546_RTRUKOC_0_ALBANIA-ELECTIONS.xml)
 
 ### Related:
 

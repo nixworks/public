@@ -7,8 +7,8 @@ The latest news, analysis and stories from NHL.com, the official site of the Nat
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/nhl/columnist/allen/2013/01/16/nhl-story-lines/1840493/)
-2. [NHL](http://www.nhl.com/ice/news.htm?id=651237)
+1. [NHL](http://www.nhl.com/ice/news.htm?id=651237)
+2. [USA Today](http://www.usatoday.com/story/sports/nhl/columnist/allen/2013/01/16/nhl-story-lines/1840493/)
 
 ### Related:
 

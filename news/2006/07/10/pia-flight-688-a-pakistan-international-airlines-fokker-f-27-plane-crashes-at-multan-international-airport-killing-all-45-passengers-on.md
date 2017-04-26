@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Associated Press](http://hosted.ap.org/dynamic/stories/P/PAKISTAN_AIR_CRASH?SITE=NHPOR&TEMPLATE=DEFAULT&SECTION=HOME)
-2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/07/10/pakistan.aircrash/index.html?section=cnn_latest)
+1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/07/10/pakistan.aircrash/index.html?section=cnn_latest)
+2. [Associated Press](http://hosted.ap.org/dynamic/stories/P/PAKISTAN_AIR_CRASH?SITE=NHPOR&TEMPLATE=DEFAULT&SECTION=HOME)
 
 ### Related:
 

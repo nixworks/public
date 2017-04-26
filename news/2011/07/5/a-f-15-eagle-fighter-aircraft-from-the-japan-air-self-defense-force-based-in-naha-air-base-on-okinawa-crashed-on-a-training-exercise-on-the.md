@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/07/06/international/i012459D54.DTL)
-2. [Kyodo News](http://english.kyodonews.jp/news/2011/07/101084.html)
+1. [Kyodo News](http://english.kyodonews.jp/news/2011/07/101084.html)
+2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/07/06/international/i012459D54.DTL)
 
 ### Related:
 

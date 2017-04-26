@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8302841.stm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-10/12/content_12218695.htm)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2009/10/12/0200000000AEN20091012007000315.HTML)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-10/12/content_12218695.htm)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8302841.stm)
 
 ### Related:
 

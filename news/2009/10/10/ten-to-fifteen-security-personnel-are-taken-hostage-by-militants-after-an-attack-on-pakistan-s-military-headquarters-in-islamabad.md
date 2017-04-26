@@ -7,8 +7,8 @@ Fifteen people were taken hostage in a terrorist attack on Pakistan&#039;s main 
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-10/10/content_12208958.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8300745.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8300745.stm)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-10/10/content_12208958.htm)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/6292306/Pakistan-six-soldiers-killed-and-15-taken-hostage-in-terror-attack.html)
 
 ### Related:

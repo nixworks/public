@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/04/117_64972.html)
-2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100427/himalaya_peak_100427/20100427?hub=TopStoriesV2)
+1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100427/himalaya_peak_100427/20100427?hub=TopStoriesV2)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/04/117_64972.html)
 
 ### Related:
 

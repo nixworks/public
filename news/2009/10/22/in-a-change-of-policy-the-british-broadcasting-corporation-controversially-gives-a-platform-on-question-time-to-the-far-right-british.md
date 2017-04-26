@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8319596.stm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hm8iVgMBN3s7cLmvrXzLFSLuK3lgD9BG5LRG0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hm8iVgMBN3s7cLmvrXzLFSLuK3lgD9BG5LRG0)
+2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8319596.stm)
 
 ### Related:
 

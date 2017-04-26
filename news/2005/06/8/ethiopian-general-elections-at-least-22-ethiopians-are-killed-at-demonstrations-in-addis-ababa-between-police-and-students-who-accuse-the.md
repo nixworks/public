@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5060121,00.html)
-2. [News 24, South Africa](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1718079,00.html)
+1. [News 24, South Africa](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1718079,00.html)
+2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5060121,00.html)
 
 ### Related:
 

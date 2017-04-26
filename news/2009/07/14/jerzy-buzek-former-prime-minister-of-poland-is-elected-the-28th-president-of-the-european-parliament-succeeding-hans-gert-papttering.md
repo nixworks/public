@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AHN](http://www.allheadlinenews.com/articles/7015783086?European%20Parliament%20Elects%20First%20Polish%20Assembly%20President)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8148729.stm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jNbkR_JuBP66lBj0u2MCp9VB1Fmw)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jNbkR_JuBP66lBj0u2MCp9VB1Fmw)
+2. [AHN](http://www.allheadlinenews.com/articles/7015783086?European%20Parliament%20Elects%20First%20Polish%20Assembly%20President)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8148729.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/07/27/81/0200000000AEN20110727003700315F.HTML)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SKOREA_LANDSLIDE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SKOREA_LANDSLIDE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Yonhap](http://english.yonhapnews.co.kr/news/2011/07/27/81/0200000000AEN20110727003700315F.HTML)
 
 ### Related:
 

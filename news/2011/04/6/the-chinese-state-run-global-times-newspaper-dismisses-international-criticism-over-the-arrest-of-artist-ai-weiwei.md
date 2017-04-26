@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Global Times](http://en.huanqiu.com/opinion/editorial/2011-04/641187.html)
-2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/3/14/China-dismisses-int-concerns-over-missing-artist,e099a864-c033-47bb-827b-1310837ce310.html)
-3. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_653561.html)
+1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/3/14/China-dismisses-int-concerns-over-missing-artist,e099a864-c033-47bb-827b-1310837ce310.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_653561.html)
+3. [Global Times](http://en.huanqiu.com/opinion/editorial/2011-04/641187.html)
 
 ### Related:
 

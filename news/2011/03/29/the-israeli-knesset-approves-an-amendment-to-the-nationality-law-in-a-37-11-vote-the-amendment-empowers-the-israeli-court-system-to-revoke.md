@@ -7,8 +7,8 @@ Bill passes by vote of 37 to 11; Lieberman: We have fulfilled our campaign promi
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=214202)
-2. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2014624896_apmlisraelcitizenship.html)
+1. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2014624896_apmlisraelcitizenship.html)
+2. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=214202)
 
 ### Related:
 

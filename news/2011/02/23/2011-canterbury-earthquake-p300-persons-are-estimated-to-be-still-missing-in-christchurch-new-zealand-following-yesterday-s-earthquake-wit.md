@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Courier Mail](http://www.couriermail.com.au/news/national/frantic-effort-to-free-christchurch-earthquake-survivors-as-death-toll-mounts/story-e6freooo-1226010364314)
-2. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708071)
-3. [SBS](http://www.sbs.com.au/news/article/1489207/Rescuers-focus-on-survivors-of-NZ-quake)
-4. [NZ Herald](http://www.nzherald.co.nz/earthquakes/news/article.cfm?c_id=184&objectid=10708163)
-5. [Sydney Morning Herald](http://www.smh.com.au/world/looters-arrested-as-police-order-christchurch-curfew-20110223-1b588.html)
+1. [SBS](http://www.sbs.com.au/news/article/1489207/Rescuers-focus-on-survivors-of-NZ-quake)
+2. [Sydney Morning Herald](http://www.smh.com.au/world/looters-arrested-as-police-order-christchurch-curfew-20110223-1b588.html)
+3. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708071)
+4. [Courier Mail](http://www.couriermail.com.au/news/national/frantic-effort-to-free-christchurch-earthquake-survivors-as-death-toll-mounts/story-e6freooo-1226010364314)
+5. [NZ Herald](http://www.nzherald.co.nz/earthquakes/news/article.cfm?c_id=184&objectid=10708163)
 6. [ABC News Australia](http://www.abc.net.au/news/stories/2011/02/23/3146607.htm?section=justin)
 
 ### Related:

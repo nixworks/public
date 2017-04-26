@@ -7,9 +7,9 @@ At least 18 people, including 14 women, have been killed in the collapse of an i
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Illegal-mine-collapses-in-Ghana-killing-18-Police-/articleshow/5223001.cms)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8356343.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1112/ghana.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8356343.stm)
+3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Illegal-mine-collapses-in-Ghana-killing-18-Police-/articleshow/5223001.cms)
 
 ### Related:
 

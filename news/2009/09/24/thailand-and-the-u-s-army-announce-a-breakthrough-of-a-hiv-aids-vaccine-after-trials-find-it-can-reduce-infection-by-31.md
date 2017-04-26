@@ -8,10 +8,10 @@
 ### Source:
 
 1. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=442189)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/24/content_12107259.htm)
-3. [CNN](http://edition.cnn.com/2009/HEALTH/09/24/hiv.vaccine/)
-4. [BBC](http://www.bbc.co.uk/worldservice/news/2009/09/090924_aids_vaccine_sl.shtml)
-5. [Thai News Agency](http://enews.mcot.net/view.php?id=11979)
+2. [CNN](http://edition.cnn.com/2009/HEALTH/09/24/hiv.vaccine/)
+3. [Thai News Agency](http://enews.mcot.net/view.php?id=11979)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-09/24/content_12107259.htm)
+5. [BBC](http://www.bbc.co.uk/worldservice/news/2009/09/090924_aids_vaccine_sl.shtml)
 
 ### Related:
 

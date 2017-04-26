@@ -7,11 +7,11 @@ Rocket alert system rings out across Ashkelon as rocket from Gaza slams into sou
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gZwbaZ6aGLzfxezELs78jLw6d4Sg?docId=CNG.58e763c4f9e27c86cf73881d881278bb.8d1)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12799772)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12799772)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4045126,00.html)
 3. [Press TV](http://www.presstv.ir/detail/170852.html)
 4. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=213034)
-5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4045126,00.html)
+5. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gZwbaZ6aGLzfxezELs78jLw6d4Sg?docId=CNG.58e763c4f9e27c86cf73881d881278bb.8d1)
 
 ### Related:
 

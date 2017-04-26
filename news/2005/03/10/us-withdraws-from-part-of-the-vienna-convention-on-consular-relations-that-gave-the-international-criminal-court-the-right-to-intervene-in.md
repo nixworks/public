@@ -7,9 +7,9 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7868062)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4338523.stm)
 2. [CNN](http://edition.cnn.com/2005/US/03/11/vienna.convention/)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4338523.stm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7868062)
 
 ### Related:
 

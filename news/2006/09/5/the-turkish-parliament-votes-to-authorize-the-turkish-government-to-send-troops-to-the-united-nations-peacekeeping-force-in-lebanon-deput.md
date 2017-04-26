@@ -7,8 +7,8 @@ Lebanese troops moved on Tuesday into a town wrecked by Israel&#8217;s war with 
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/14677953/)
-2. [Turkish Press](http://www.turkishpress.com/news.asp?id=140766)
+1. [Turkish Press](http://www.turkishpress.com/news.asp?id=140766)
+2. [MSNBC](http://www.msnbc.msn.com/id/14677953/)
 
 ### Related:
 

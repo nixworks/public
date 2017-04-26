@@ -8,9 +8,9 @@ Croatia’s ruling center-left coalition faces a strong challenge from a conserv
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-08/croatian-general-election-results-in-tie-exit-poll-shows)
-2. [Wall Street Journal](http://www.wsj.com/articles/croatia-holds-first-general-election-since-joining-eu-1446978876)
+2. [The Guardian](http://www.theguardian.com/world/live/2015/nov/09/myanmar-elections-aung-san-suu-kyi-hints-at-victory)
 3. [EUROPP](http://blogs.lse.ac.uk/europpblog/2015/11/10/croatian-parliamentary-elections-2015-expert-reactions/)
-4. [The Guardian](http://www.theguardian.com/world/live/2015/nov/09/myanmar-elections-aung-san-suu-kyi-hints-at-victory)
+4. [Wall Street Journal](http://www.wsj.com/articles/croatia-holds-first-general-election-since-joining-eu-1446978876)
 
 ### Related:
 

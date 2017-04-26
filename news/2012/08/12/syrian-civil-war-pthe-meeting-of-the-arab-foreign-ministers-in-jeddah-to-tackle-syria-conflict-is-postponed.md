@@ -7,8 +7,8 @@ Foreign ministers of the Arab League postpone a meeting on the Syrian crisis, of
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19230641)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128128921123314.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128128921123314.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19230641)
 3. [CNN](http://www.cnn.com/2012/08/12/world/meast/syria-unrest/)
 
 ### Related:

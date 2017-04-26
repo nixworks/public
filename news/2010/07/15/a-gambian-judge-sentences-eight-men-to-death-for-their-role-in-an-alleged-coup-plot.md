@@ -7,9 +7,9 @@ A Gambian judge sentences eight men, including a former army chief, to death for
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE66E0N320100715?feedType=RSS&feedName=topNews)
-2. [Afrol News](http://www.afrol.com/articles/36521)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-10650294)
+1. [Afrol News](http://www.afrol.com/articles/36521)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-10650294)
+3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE66E0N320100715?feedType=RSS&feedName=topNews)
 
 ### Related:
 

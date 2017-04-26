@@ -7,12 +7,12 @@ The Irish pop star Bono is criticised in South Africa for apparently endorsing t
 
 ### Source:
 
-1. [Primedia Broadcasting - Eyewitness News](http://www.eyewitnessnews.co.za/articleprog.aspx?id=59320)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12444061)
-3. [Mail & Guardian](http://www.mg.co.za/article/2011-02-13-bono-causes-stir-over-shoot-the-boer-song/)
-4. [The New Age](http://www.thenewage.co.za/10379-1007-53-Hofmeyr_dumps_U2_tickets_over_Bono_comments)
-5. [The Sydney Morning Herald](http://www.smh.com.au/entertainment/music/bono-causes-stir-in-south-africa-over-shoot-the-farmer-song-20110213-1arww.html)
-6. [IOL](http://www.iol.co.za/tonight/music/twitter-buzz-after-steve-dumps-u2-tickets-1.1025559)
+1. [Mail & Guardian](http://www.mg.co.za/article/2011-02-13-bono-causes-stir-over-shoot-the-boer-song/)
+2. [The Sydney Morning Herald](http://www.smh.com.au/entertainment/music/bono-causes-stir-in-south-africa-over-shoot-the-farmer-song-20110213-1arww.html)
+3. [Primedia Broadcasting - Eyewitness News](http://www.eyewitnessnews.co.za/articleprog.aspx?id=59320)
+4. [IOL](http://www.iol.co.za/tonight/music/twitter-buzz-after-steve-dumps-u2-tickets-1.1025559)
+5. [BBC](http://www.bbc.co.uk/news/world-africa-12444061)
+6. [The New Age](http://www.thenewage.co.za/10379-1007-53-Hofmeyr_dumps_U2_tickets_over_Bono_comments)
 
 ### Related:
 

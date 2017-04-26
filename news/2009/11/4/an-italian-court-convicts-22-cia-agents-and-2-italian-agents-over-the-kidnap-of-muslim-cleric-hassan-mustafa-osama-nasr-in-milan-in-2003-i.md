@@ -8,8 +8,8 @@ Twenty-three US secret agents, accused of seizing imam, sentenced to jail in abs
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009114164237350216.html)
-2. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/04/italy.rendition.verdict/)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8343123.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8343123.stm)
+3. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/04/italy.rendition.verdict/)
 
 ### Related:
 

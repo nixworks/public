@@ -7,10 +7,10 @@ A motorcycle bomb exploded as worshippers left a mosque after Friday prayers in 
 
 ### Source:
 
-1. [AFP via NDTV](http://www.ndtv.com/article/world/motorbike-bomb-attack-outside-damascus-mosque-state-tv-264457)
-2. [Haaretz](http://www.haaretz.com/news/middle-east/british-dutch-call-for-sanctions-against-lebanon-s-hezbollah-1.463496)
-3. [VOA via ''YaLibnan](http://www.yalibnan.com/2012/09/07/explosion-outside-a-mosque-in-damascus-syria-killed-5/)
-4. [AP via ''TIME](http://world.time.com/2012/09/07/french-direct-aid-a-dubious-break-for-syria-rebels/)
+1. [AP via ''TIME](http://world.time.com/2012/09/07/french-direct-aid-a-dubious-break-for-syria-rebels/)
+2. [VOA via ''YaLibnan](http://www.yalibnan.com/2012/09/07/explosion-outside-a-mosque-in-damascus-syria-killed-5/)
+3. [AFP via NDTV](http://www.ndtv.com/article/world/motorbike-bomb-attack-outside-damascus-mosque-state-tv-264457)
+4. [Haaretz](http://www.haaretz.com/news/middle-east/british-dutch-call-for-sanctions-against-lebanon-s-hezbollah-1.463496)
 
 ### Related:
 

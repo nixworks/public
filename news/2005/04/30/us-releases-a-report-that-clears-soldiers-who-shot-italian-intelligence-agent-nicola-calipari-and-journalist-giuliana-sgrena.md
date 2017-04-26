@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/US/04/30/italian.shooting/)
+1. [full text on BBC](http://news.bbc.co.uk/2/hi/europe/4499289.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=8352644)
-3. [full text on BBC](http://news.bbc.co.uk/2/hi/europe/4499289.stm)
+3. [CNN](http://edition.cnn.com/2005/US/04/30/italian.shooting/)
 
 ### Related:
 

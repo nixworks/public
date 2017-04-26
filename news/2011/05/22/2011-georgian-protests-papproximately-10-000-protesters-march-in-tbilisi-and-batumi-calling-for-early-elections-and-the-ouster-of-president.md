@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2011/05/22/149999.html)
-2. [Bloomberg News](http://www.bloomberg.com/news/2011-05-22/georgian-opposition-police-clash-in-tbilisi-burjanadze-says.html)
-3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE74K1Z620110521?sp=true)
+2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE74K1Z620110521?sp=true)
+3. [Bloomberg News](http://www.bloomberg.com/news/2011-05-22/georgian-opposition-police-clash-in-tbilisi-burjanadze-says.html)
 
 ### Related:
 

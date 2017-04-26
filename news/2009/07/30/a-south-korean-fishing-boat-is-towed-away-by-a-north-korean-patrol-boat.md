@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/07/116_49359.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/200973002817423936.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/200973002817423936.html)
+2. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/07/116_49359.html)
 3. [RTÉ](http://www.rte.ie/news/2009/0730/nkorea.html)
 4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8175752.stm)
 

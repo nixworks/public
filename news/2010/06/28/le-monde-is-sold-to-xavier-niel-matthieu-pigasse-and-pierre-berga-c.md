@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/business/10442729.stm)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/28/tycoons-win-approval-of-le-monde-bid)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/jun/28/tycoons-win-approval-of-le-monde-bid)
+2. [BBC](http://news.bbc.co.uk/2/hi/business/10442729.stm)
 
 ### Related:
 

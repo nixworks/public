@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110410/ap_on_re_eu/eu_britain_submarine_killing)
-2. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/04/11/3187728.htm?utm_source=twitterfeed+just+in&utm_medium=twitter)
+1. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/04/11/3187728.htm?utm_source=twitterfeed+just+in&utm_medium=twitter)
+2. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110410/ap_on_re_eu/eu_britain_submarine_killing)
 
 ### Related:
 

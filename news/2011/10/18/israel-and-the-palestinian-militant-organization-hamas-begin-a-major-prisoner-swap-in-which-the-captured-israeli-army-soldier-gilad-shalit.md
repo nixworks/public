@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/10/18/world/meast/israel-prisoner-swap)
-2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=242250)
-3. [The Guardian](http://www.guardian.co.uk/world/2011/oct/18/gilad-shalit-release-palestinian-exchange)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/oct/18/gilad-shalit-release-palestinian-exchange)
+2. [CNN](http://www.cnn.com/2011/10/18/world/meast/israel-prisoner-swap)
+3. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=242250)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Goshen &#8212; Minutes before Chilean special forces were to swarm government an
 
 ### Source:
 
-1. [Times Herald-Record](http://www.recordonline.com/apps/pbcs.dll/article?AID=/20100810/NEWS/8100317)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/13/easter-island-indigenous-chile)
-3. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=55330)
+1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=55330)
+2. [Times Herald-Record](http://www.recordonline.com/apps/pbcs.dll/article?AID=/20100810/NEWS/8100317)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/13/easter-island-indigenous-chile)
 
 ### Related:
 

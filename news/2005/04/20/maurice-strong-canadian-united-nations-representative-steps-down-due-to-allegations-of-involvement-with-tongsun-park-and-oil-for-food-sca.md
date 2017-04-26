@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/story/2005/04/20/strong050420.html)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N20251561.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N20251561.htm)
+2. [CBC](http://www.cbc.ca/canada/story/2005/04/20/strong050420.html)
 
 ### Related:
 

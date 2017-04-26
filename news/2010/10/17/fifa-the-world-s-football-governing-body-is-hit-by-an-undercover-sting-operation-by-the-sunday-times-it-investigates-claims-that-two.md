@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Observer](http://www.guardian.co.uk/football/2010/oct/17/fifa-investigate-world-cup-votes-allegations)
-2. [BBC](http://www.bbc.co.uk/news/11559801)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Fifa-Officials-Sell-World-Cup-Votes-For-Cash-Sunday-Times-Reveals-Voting-Scandal/Article/201010315759649?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15759649_Fifa_Officials_Sell_World_Cup_Votes_For_Cash%3A_Sunday_Times_Reveals_Voting_Scandal)
+1. [BBC](http://www.bbc.co.uk/news/11559801)
+2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Fifa-Officials-Sell-World-Cup-Votes-For-Cash-Sunday-Times-Reveals-Voting-Scandal/Article/201010315759649?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15759649_Fifa_Officials_Sell_World_Cup_Votes_For_Cash%3A_Sunday_Times_Reveals_Voting_Scandal)
+3. [The Observer](http://www.guardian.co.uk/football/2010/oct/17/fifa-investigate-world-cup-votes-allegations)
 
 ### Related:
 

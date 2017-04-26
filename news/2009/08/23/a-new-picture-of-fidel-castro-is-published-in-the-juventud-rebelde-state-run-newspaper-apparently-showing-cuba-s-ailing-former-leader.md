@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [IOL](http://www.int.iol.co.za/index.php?from=rss_World&set_id=1&click_id=3&art_id=nw20090823165532995C820143)
-2. [Reuters Africa](http://af.reuters.com/article/metalsNews/idAFN2310795220090823)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/8217334.stm)
-4. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/23/cuba.castro/index.html?iref=mpstoryview)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8217334.stm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/23/cuba.castro/index.html?iref=mpstoryview)
+3. [IOL](http://www.int.iol.co.za/index.php?from=rss_World&set_id=1&click_id=3&art_id=nw20090823165532995C820143)
+4. [Reuters Africa](http://af.reuters.com/article/metalsNews/idAFN2310795220090823)
 
 ### Related:
 

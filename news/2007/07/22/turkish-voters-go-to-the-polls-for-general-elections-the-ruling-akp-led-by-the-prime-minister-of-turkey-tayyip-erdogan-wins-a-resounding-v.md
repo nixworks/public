@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-07-22T175637Z_01_L21280970_RTRIDST_0_NEWS-TURKEY-ELECTION-COL.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/6909667.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/6909667.stm)
+2. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-07-22T175637Z_01_L21280970_RTRIDST_0_NEWS-TURKEY-ELECTION-COL.XML)
 
 ### Related:
 

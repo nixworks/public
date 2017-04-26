@@ -7,8 +7,8 @@ Wind shear may have caused the crash of a FedEx jet that cartwheeled on the runw
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2009/WORLD/asiapcf/03/22/japan.planecrash/index.html)
-2. [MSNBC](http://www.msnbc.msn.com/id/29828648/)
+1. [MSNBC](http://www.msnbc.msn.com/id/29828648/)
+2. [CNN](http://www.cnn.com/2009/WORLD/asiapcf/03/22/japan.planecrash/index.html)
 
 ### Related:
 

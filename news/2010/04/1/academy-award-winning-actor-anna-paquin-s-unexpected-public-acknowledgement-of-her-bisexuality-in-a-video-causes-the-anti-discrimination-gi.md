@@ -7,11 +7,11 @@ LOS ANGELES (Reuters Life!) - Oscar winner Anna Paquin came out as bisexual on T
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/arts/2010/0401/paquina.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/7546031/True-Blood-star-Anna-Paquin-comes-out-as-bisexual.html)
 2. [Reuters](http://in.reuters.com/article/lifestyleMolt/idINTRE6303NT20100401)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=10635943)
-4. [The Vancouver Sun](http://www.vancouversun.com/entertainment/movie-guide/Anna+Paquin+bisexual+gives+damn/2753425/story.html)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/7546031/True-Blood-star-Anna-Paquin-comes-out-as-bisexual.html)
+4. [RTÉ](http://www.rte.ie/arts/2010/0401/paquina.html)
+5. [The Vancouver Sun](http://www.vancouversun.com/entertainment/movie-guide/Anna+Paquin+bisexual+gives+damn/2753425/story.html)
 
 ### Related:
 

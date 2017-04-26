@@ -8,11 +8,11 @@ Poland is continuing to mourn the death of President Lech Kaczynski who died in 
 ### Source:
 
 1. [RIA Novosti](http://en.rian.ru/world/20100412/158539458.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8615872.stm)
-3. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/12/poland.president.crash/index.html?hpt=T1)
-4. [RIA Novosti](http://en.rian.ru/world/20100412/158532356.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/8614685.stm)
-6. [RTÉ](http://www.rte.ie/news/2010/0412/kaczynskil.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8614685.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8615872.stm)
+4. [RTÉ](http://www.rte.ie/news/2010/0412/kaczynskil.html)
+5. [RIA Novosti](http://en.rian.ru/world/20100412/158532356.html)
+6. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/12/poland.president.crash/index.html?hpt=T1)
 
 ### Related:
 

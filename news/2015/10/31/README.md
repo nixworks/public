@@ -19,7 +19,7 @@ Flash flood advisories remain in place until Sunday
 Survivors of a deadly nightclub fire and stampede in Romania say the lead singer of the heavy metal band on stage made a joke at first about the fire before it engulfed the basement club in downtown Bucharest.
 
 ### [Israeli Prime Minister Benjamin Netanyahu retracts controversial comments he made about Nazi policies during World War 2, saying he never meant to claim that an Islamic leader Amin al-Husseini persuaded Adolf Hitler to adopt a policy to kill European Jews. ](/news/2015/10/31/israeli-prime-minister-benjamin-netanyahu-retracts-controversial-comments-he-made-about-nazi-policies-during-world-war-2-saying-he-never-me.md)
-_Context: Adolf Hitler, Amin al-Husseini, Benjamin Netanyahu, European Jews, Islam, Nazi, World War 2, prime minister of Israel_
+_Context: Adolf Hitler, Amin al-Husseini, Benjamin Netanyahu, European Jews, Islam, Nazi, Prime Minister of Israel, World War 2_
 
 ### [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md)
 _Context: Ban Ki-moon, Bashar al-Assad, Secretary General, Syria, Syria peace talks in Vienna, Syrian Civil War, Syrian President_

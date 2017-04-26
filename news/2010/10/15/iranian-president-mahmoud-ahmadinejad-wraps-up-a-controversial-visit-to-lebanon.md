@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/world/israel-destined-to-disappear-mahmoud-ahmadinejad/story-e6frg6so-1225939369753)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11539845)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11539845)
+2. [The Australian](http://www.theaustralian.com.au/news/world/israel-destined-to-disappear-mahmoud-ahmadinejad/story-e6frg6so-1225939369753)
 
 ### Related:
 

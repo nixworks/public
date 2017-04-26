@@ -7,9 +7,9 @@ Footage shows Venezuelan president with Fidel Castro, but regional summit postpo
 
 ### Source:
 
-1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5g3mgZ06u6ADm_K2rrsx2w8r2lfcQ?docId=CNG.8ac2052adabeba1a4c6ab33d53512e37.c1)
-2. [Press TV](http://www.presstv.com/detail/186889.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/06/2011629222614233974.html)
+1. [Press TV](http://www.presstv.com/detail/186889.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/06/2011629222614233974.html)
+3. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5g3mgZ06u6ADm_K2rrsx2w8r2lfcQ?docId=CNG.8ac2052adabeba1a4c6ab33d53512e37.c1)
 
 ### Related:
 

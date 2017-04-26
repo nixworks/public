@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/10/18/china-vp-military.html)
-2. [BBC](http://www.bbc.co.uk/news/world-11564634)
+1. [BBC](http://www.bbc.co.uk/news/world-11564634)
+2. [CBC](http://www.cbc.ca/world/story/2010/10/18/china-vp-military.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-10/18/c_13563001.htm)
 
 ### Related:

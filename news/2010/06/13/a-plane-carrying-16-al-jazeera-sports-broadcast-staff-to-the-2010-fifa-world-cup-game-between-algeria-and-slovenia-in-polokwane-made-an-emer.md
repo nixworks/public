@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE65C08820100613)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=nw20100613135759223C865411)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=nw20100613135759223C865411)
+2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/world-cup-journalists-escape-emergency-landing/story-e6frf7jx-1225879208917)
 3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iJLeMvHXP_MyvM6DENdBZ8KSZ_8w)
-4. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/world-cup-journalists-escape-emergency-landing/story-e6frf7jx-1225879208917)
+4. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE65C08820100613)
 
 ### Related:
 

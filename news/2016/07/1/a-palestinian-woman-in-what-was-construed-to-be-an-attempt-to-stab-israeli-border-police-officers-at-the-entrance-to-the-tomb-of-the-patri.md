@@ -7,15 +7,15 @@ West Bank /PNN/ Israeli occupation forces killed on Friday, a Palestinian woman 
 
 ### Source:
 
-1. [Ma'an](http://www.maannews.com/Content.aspx?id=772079)
-2. [PNN](http://english.pnn.ps/2016/07/01/israel-kills-palestinian-woman-in-hebron-and-a-man-in-qalandia/)
-3. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Initial-report-shooting-attack-in-Hebron-459253)
-4. [The Times of Israel](http://www.timesofisrael.com/relative-of-kiryat-arba-killer-tries-to-stab-cop-in-hebron-is-shot-dead/)
-5. [The Times of Israel](http://www.timesofisrael.com/rocket-fired-from-gaza-hits-vacant-israeli-preschool/)
-6. [The Times of Israel](http://www.timesofisrael.com/palestinian-dies-in-qalandiya-riot-idf-denies-tear-gas-was-cause/)
-7. [Al Jazeera](http://www.aljazeera.com/news/2016/06/israel-punishes-hebron-village-teens-killing-160630173527433.html)
-8. [The Times of Israel](http://www.timesofisrael.com/idf-slaps-closure-on-hebron-withholds-pa-tax-funds-after-attacks/)
-9. [The Times of Israel](http://www.timesofisrael.com/2-israelis-badly-hurt-in-shooting-attack-near-hebron/)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/06/israel-punishes-hebron-village-teens-killing-160630173527433.html)
+2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Initial-report-shooting-attack-in-Hebron-459253)
+3. [The Times of Israel](http://www.timesofisrael.com/relative-of-kiryat-arba-killer-tries-to-stab-cop-in-hebron-is-shot-dead/)
+4. [The Times of Israel](http://www.timesofisrael.com/rocket-fired-from-gaza-hits-vacant-israeli-preschool/)
+5. [The Times of Israel](http://www.timesofisrael.com/2-israelis-badly-hurt-in-shooting-attack-near-hebron/)
+6. [PNN](http://english.pnn.ps/2016/07/01/israel-kills-palestinian-woman-in-hebron-and-a-man-in-qalandia/)
+7. [The Times of Israel](http://www.timesofisrael.com/palestinian-dies-in-qalandiya-riot-idf-denies-tear-gas-was-cause/)
+8. [Ma'an](http://www.maannews.com/Content.aspx?id=772079)
+9. [The Times of Israel](http://www.timesofisrael.com/idf-slaps-closure-on-hebron-withholds-pa-tax-funds-after-attacks/)
 
 ### Related:
 

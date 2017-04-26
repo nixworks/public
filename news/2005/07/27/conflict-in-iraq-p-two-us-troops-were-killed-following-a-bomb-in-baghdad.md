@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4720083.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4721719.stm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4722307.stm)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4724377.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4724377.stm)
+2. [KCTV](http://www.kctv.com/Global/story.asp?S=3645815)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4721719.stm)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4720083.stm)
 5. [Christian Science Monitor](http://csmonitor.com/2005/0727/dailyUpdate.html)
-6. [KCTV](http://www.kctv.com/Global/story.asp?S=3645815)
+6. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4722307.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [This is London](http://www.thisislondon.co.uk/news/article-23389746-details/Cricket%20coach%20Bob%20Woolmer%20WAS%20murdered/article.do)
-2. [IOL (S. Africa](http://www.iol.co.za/index.php?set_id=6&click_id=17&art_id=nw20070322222429587C709168)
+1. [IOL (S. Africa](http://www.iol.co.za/index.php?set_id=6&click_id=17&art_id=nw20070322222429587C709168)
+2. [This is London](http://www.thisislondon.co.uk/news/article-23389746-details/Cricket%20coach%20Bob%20Woolmer%20WAS%20murdered/article.do)
 
 ### Related:
 

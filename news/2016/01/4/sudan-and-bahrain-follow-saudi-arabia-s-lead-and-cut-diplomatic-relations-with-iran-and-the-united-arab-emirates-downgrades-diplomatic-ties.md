@@ -7,9 +7,9 @@ Saudi Arabia widened its rift with Iran on Monday, saying it would end air traff
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-saudi-iran-jubeir-idUSKBN0UI1GU20160104)
+1. [BBC](http://www.bbc.com/news/world-middle-east-35222365)
 2. [Jerusalem Post](http://www.jpost.com/Breaking-News/Syrias-opposition-urges-all-Arab-states-to-cut-Iran-ties-439400)
-3. [BBC](http://www.bbc.com/news/world-middle-east-35222365)
+3. [Reuters](http://www.reuters.com/article/us-saudi-iran-jubeir-idUSKBN0UI1GU20160104)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=465849)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8439160.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8439160.stm)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=465849)
 
 ### Related:
 

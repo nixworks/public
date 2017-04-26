@@ -7,12 +7,12 @@ month mission
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/national-security/obama-issues-syria-red-line-warning-on-chemical-weapons/2012/08/20/ba5d26ec-eaf7-11e1-b811-09036bcb182b_story.html)
-2. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0820/Obama-warns-Syria-of-enormous-consequences-video)
-3. [Reuters](http://in.reuters.com/article/2012/08/20/syria-crisis-idINL6E8JJ3Q720120820)
+1. [Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/syria-airstrikes-shelling-kill-1502017.html)
+2. [Reuters](http://in.reuters.com/article/2012/08/20/syria-crisis-idINL6E8JJ3Q720120820)
+3. [Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0820/Obama-warns-Syria-of-enormous-consequences-video)
 4. [Bloomberg](http://www.bloomberg.com/news/2012-08-20/un-monitors-exit-syria-as-brahimi-describes-civil-war.html)
-5. [Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/syria-airstrikes-shelling-kill-1502017.html)
-6. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=281920)
+5. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=281920)
+6. [Washington Post](http://www.washingtonpost.com/world/national-security/obama-issues-syria-red-line-warning-on-chemical-weapons/2012/08/20/ba5d26ec-eaf7-11e1-b811-09036bcb182b_story.html)
 
 ### Related:
 

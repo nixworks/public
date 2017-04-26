@@ -9,8 +9,8 @@
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/19/france.roma/?hpt=Sbin#fbid=kfQgteZwI1N&wom=false)
 2. [Xinhua](http://news.xinhuanet.com/english2010/indepth/2010-08/20/c_13454241.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11020429)
-4. [TIME](http://www.time.com/time/world/article/0,8599,2011848,00.html)
+3. [TIME](http://www.time.com/time/world/article/0,8599,2011848,00.html)
+4. [BBC](http://www.bbc.co.uk/news/world-europe-11020429)
 
 ### Related:
 

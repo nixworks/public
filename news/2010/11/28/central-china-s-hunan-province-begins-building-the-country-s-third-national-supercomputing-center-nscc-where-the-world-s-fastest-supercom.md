@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/28/c_13626049.htm)
-2. [Sina](http://english.sina.com/technology/2010/1128/349909.html)
+1. [Sina](http://english.sina.com/technology/2010/1128/349909.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/28/c_13626049.htm)
 
 ### Related:
 

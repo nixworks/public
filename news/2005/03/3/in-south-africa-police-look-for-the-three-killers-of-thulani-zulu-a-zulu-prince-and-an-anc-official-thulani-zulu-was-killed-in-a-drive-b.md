@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News24](http://www.news24.com/News24/South_Africa/News/0,,2-7-1442_1670789,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4314003.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4314003.stm)
+2. [News24](http://www.news24.com/News24/South_Africa/News/0,,2-7-1442_1670789,00.html)
 3. [SABC] [http://www.iol.co.za/index.php?set_id=1&click_id=15&art_id=qw1109844361159B265 (IOL](http://www.sabcnews.com/south_africa/crime1justice/0,2172,99184,00.html)
 
 ### Related:

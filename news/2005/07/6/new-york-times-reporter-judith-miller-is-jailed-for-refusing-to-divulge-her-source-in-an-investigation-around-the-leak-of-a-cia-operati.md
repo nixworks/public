@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/LAW/07/06/reporters.contempt/index.html)
-2. [New York Times](http://www.nytimes.com/2005/07/06/politics/06cnd-leak.html?ex=1278302400&en=e082e1477ff27bf2&ei=5090&partner=rssuserland&emc=rss)
+1. [New York Times](http://www.nytimes.com/2005/07/06/politics/06cnd-leak.html?ex=1278302400&en=e082e1477ff27bf2&ei=5090&partner=rssuserland&emc=rss)
+2. [CNN](http://www.cnn.com/2005/LAW/07/06/reporters.contempt/index.html)
 
 ### Related:
 

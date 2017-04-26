@@ -7,8 +7,8 @@ Prosecution accuses Victoire Ingabire of propagating genocide ideology.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8638129.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104227655169963.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104227655169963.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8638129.stm)
 
 ### Related:
 

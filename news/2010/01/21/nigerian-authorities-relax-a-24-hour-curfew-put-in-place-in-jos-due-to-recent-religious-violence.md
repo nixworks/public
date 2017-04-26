@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/curfew-relaxed-in-nigerian-city-after-violence-2010012142539.html)
-2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE60K06A20100121)
+1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE60K06A20100121)
+2. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/curfew-relaxed-in-nigerian-city-after-violence-2010012142539.html)
 
 ### Related:
 

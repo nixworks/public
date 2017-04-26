@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Hindu](http://beta.thehindu.com/news/international/article98552.ece)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5197793,00.html)
-3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33631&Cr=cyprus&Cr1=)
+2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33631&Cr=cyprus&Cr1=)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5197793,00.html)
 
 ### Related:
 

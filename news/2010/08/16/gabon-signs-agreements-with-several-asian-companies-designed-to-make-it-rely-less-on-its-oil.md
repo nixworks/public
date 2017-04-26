@@ -7,9 +7,9 @@ Gabon signs deals to diversify its economy in an attempt to be less reliant on i
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-10985014)
+1. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFLDE67E0D620100815)
 2. [Financial Times](http://www.ft.com/cms/s/806d4102-a8b8-11df-86dd-00144feabdc0,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F806d4102-a8b8-11df-86dd-00144feabdc0.html%3Fftcamp%3Drss&_i_referer=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-10985014&ftcamp=rss)
-3. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFLDE67E0D620100815)
+3. [BBC](http://www.bbc.co.uk/news/business-10985014)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Royal Dutch Shell has agreed to a $15.5m payout to settle a lawsuit alleging com
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Royal-Dutch-Shell-Oil-Giant-To-Pay-Millions-Over-Hangings-Of-Nigerian-Environmental-Activists/Article/200906215299072?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15299072_Royal_Dutch_Shell%3A_Oil_Giant_To_Pay_Millions_Over_Hangings_Of_Nigerian_Environmental_Activists)
-2. [RTÉ](http://www.rte.ie/news/2009/0609/shell.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0609/shell.html)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Royal-Dutch-Shell-Oil-Giant-To-Pay-Millions-Over-Hangings-Of-Nigerian-Environmental-Activists/Article/200906215299072?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15299072_Royal_Dutch_Shell%3A_Oil_Giant_To_Pay_Millions_Over_Hangings_Of_Nigerian_Environmental_Activists)
 
 ### Related:
 

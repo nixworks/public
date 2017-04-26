@@ -7,8 +7,8 @@ The Coast Guard is searching for two CH-53E Super Stallion helicopters and their
 
 ### Source:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/coast-guard-says-two-marine-helicopters-collided-off-hawaiian-island-of-oahu-1452864960)
-2. [CNN](http://www.cnn.com/2016/01/15/us/hawaii-military-aircraft-collision/)
+1. [CNN](http://www.cnn.com/2016/01/15/us/hawaii-military-aircraft-collision/)
+2. [Wall Street Journal](http://www.wsj.com/articles/coast-guard-says-two-marine-helicopters-collided-off-hawaiian-island-of-oahu-1452864960)
 
 ### Related:
 

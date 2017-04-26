@@ -7,8 +7,8 @@ GOHEUNG, South Jeolla Province _ South Korea bumbled its way into the Asian spac
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/techscience/2009/08/25/0/0601000000AEN20090825010000320F.HTML)
-2. [The Korea Times](http://www.koreatimes.co.kr/www/news/tech/2009/08/133_50676.html)
+1. [The Korea Times](http://www.koreatimes.co.kr/www/news/tech/2009/08/133_50676.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/techscience/2009/08/25/0/0601000000AEN20090825010000320F.HTML)
 3. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/8219669.stm)
 
 ### Related:

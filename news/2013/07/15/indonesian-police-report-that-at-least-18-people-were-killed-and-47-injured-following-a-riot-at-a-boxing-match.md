@@ -7,8 +7,8 @@ News, email and search are just the beginning. Discover more every day. Find you
 
 ### Source:
 
-1. [Associated Press via Inquirer](http://newsinfo.inquirer.net/444929/18-killed-in-stampede-at-boxing-match-in-indonesia)
-2. [AFP via Yahoo News South Africa](http://za.news.yahoo.com/17-die-indonesian-boxing-match-stampede-030123924.html)
+1. [AFP via Yahoo News South Africa](http://za.news.yahoo.com/17-die-indonesian-boxing-match-stampede-030123924.html)
+2. [Associated Press via Inquirer](http://newsinfo.inquirer.net/444929/18-killed-in-stampede-at-boxing-match-in-indonesia)
 
 ### Related:
 

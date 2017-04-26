@@ -8,8 +8,8 @@ President Jacob Zuma announces full withdrawal from Central African Republic aft
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/04/20134464929202943.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-22017853)
-3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323646604578400010535910542.html)
+2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323646604578400010535910542.html)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-22017853)
 
 ### Related:
 

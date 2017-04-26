@@ -7,8 +7,8 @@ A suicide bomber killed himself and three soldiers when he detonated a car bomb 
 
 ### Source:
 
-1. [TIME](http://time.com/42630/car-bomb-targets-lebanon-army-near-syria-border/)
-2. [Reuters](http://www.reuters.com/article/2014/03/29/us-lebanon-violence-idUSBREA2S0I720140329)
+1. [Reuters](http://www.reuters.com/article/2014/03/29/us-lebanon-violence-idUSBREA2S0I720140329)
+2. [TIME](http://time.com/42630/car-bomb-targets-lebanon-army-near-syria-border/)
 
 ### Related:
 

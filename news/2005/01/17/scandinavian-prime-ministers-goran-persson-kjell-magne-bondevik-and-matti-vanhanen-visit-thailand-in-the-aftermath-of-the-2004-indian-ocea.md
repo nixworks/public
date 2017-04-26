@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ScandAsia](http://www.scandasia.com/view.php?id=1305&im=no)
-2. [Bangkok Post](http://www.bangkokpost.com/News/17Jan2005_news02.php)
+1. [Bangkok Post](http://www.bangkokpost.com/News/17Jan2005_news02.php)
+2. [ScandAsia](http://www.scandasia.com/view.php?id=1305&im=no)
 3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4179197.stm)
 
 ### Related:

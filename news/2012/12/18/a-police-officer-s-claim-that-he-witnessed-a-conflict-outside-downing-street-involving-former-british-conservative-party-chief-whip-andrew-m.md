@@ -7,8 +7,8 @@ The police watchdog says it is to investigate whether an officer did witness a r
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-politics-20764044)
-2. [Channel 4 News](http://www.channel4.com/news/andrew-mitchell-plebgate-police-cctv-downing-street)
+1. [Channel 4 News](http://www.channel4.com/news/andrew-mitchell-plebgate-police-cctv-downing-street)
+2. [BBC](http://www.bbc.co.uk/news/uk-politics-20764044)
 
 ### Related:
 

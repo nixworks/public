@@ -7,8 +7,8 @@ Lawyer who blamed Colom for his assassination arranged his own death, probe says
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net//news/americas/2010/01/201011351717683427.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/americas/01/12/guatemala.lawyer.slaying/index.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/01/12/guatemala.lawyer.slaying/index.html)
+2. [Al-Jazeera](http://english.aljazeera.net//news/americas/2010/01/201011351717683427.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/americas/8455537.stm)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33454&Cr=Secretary-General&Cr1=Priorit)
-2. [Sudan Tribune](http://www.sudantribune.com/spip.php?article33733)
+1. [Sudan Tribune](http://www.sudantribune.com/spip.php?article33733)
+2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33454&Cr=Secretary-General&Cr1=Priorit)
 
 ### Related:
 

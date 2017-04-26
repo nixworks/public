@@ -7,8 +7,8 @@ The Cuban leader, after a meeting with the U.S. president, called for an end to 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/politics/on-first-full-day-in-cuba-obama-to-meet-with-castro-and-address-the-public/2016/03/20/931e4ff6-eef5-11e5-89c3-a647fcce95e0_story.html?wpmm=1&wpisrc=nl_headlines)
-2. [The New York Times](http://www.nytimes.com/2016/03/22/world/americas/obama-and-raul-castro-to-meet-in-pivotal-moment-for-us-cuba-thaw.html?em_pos=large&emc=edit_nn_20160322&nl=morning-briefing&nlid=11553763&_r=0)
+1. [The New York Times](http://www.nytimes.com/2016/03/22/world/americas/obama-and-raul-castro-to-meet-in-pivotal-moment-for-us-cuba-thaw.html?em_pos=large&emc=edit_nn_20160322&nl=morning-briefing&nlid=11553763&_r=0)
+2. [The Washington Post](https://www.washingtonpost.com/politics/on-first-full-day-in-cuba-obama-to-meet-with-castro-and-address-the-public/2016/03/20/931e4ff6-eef5-11e5-89c3-a647fcce95e0_story.html?wpmm=1&wpisrc=nl_headlines)
 
 ### Related:
 

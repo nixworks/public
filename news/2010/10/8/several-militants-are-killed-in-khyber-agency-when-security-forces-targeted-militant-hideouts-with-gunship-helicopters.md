@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-gunship-helicopters-target-militants-in-barra-ss-02)
-2. [Tafreehmela](http://www.tafreehmela.com/pakistan-news/139253-gunship-helicopters-target-militants-barra.html)
+1. [Tafreehmela](http://www.tafreehmela.com/pakistan-news/139253-gunship-helicopters-target-militants-barra.html)
+2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-gunship-helicopters-target-militants-in-barra-ss-02)
 
 ### Related:
 

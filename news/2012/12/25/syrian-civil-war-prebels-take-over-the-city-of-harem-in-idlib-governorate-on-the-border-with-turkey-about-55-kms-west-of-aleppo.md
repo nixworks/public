@@ -7,10 +7,10 @@ The Pope calls for a political solution to the conflict in Syria during his Chri
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/dec/25/pope-hope-syria-nigeria-speech)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-20841387)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/2012122514403541461.html)
-4. [Reuters](http://www.reuters.com/article/2012/12/25/us-christmas-pope-idUSBRE8BN0M620121225)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/2012122514403541461.html)
+2. [Reuters](http://www.reuters.com/article/2012/12/25/us-christmas-pope-idUSBRE8BN0M620121225)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-20841387)
+4. [The Guardian](http://www.guardian.co.uk/world/2012/dec/25/pope-hope-syria-nigeria-speech)
 
 ### Related:
 

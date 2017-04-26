@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7710EH20110802)
-2. [Hindustan Times](http://www.hindustantimes.com/20-million-year-old-ape-skull-discovered-in-Uganda/Article1-728515.aspx)
+1. [Hindustan Times](http://www.hindustantimes.com/20-million-year-old-ape-skull-discovered-in-Uganda/Article1-728515.aspx)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7710EH20110802)
 
 ### Related:
 

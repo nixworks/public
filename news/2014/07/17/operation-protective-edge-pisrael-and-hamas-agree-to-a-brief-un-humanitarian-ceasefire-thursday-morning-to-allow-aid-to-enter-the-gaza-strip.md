@@ -7,11 +7,11 @@ Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-28359582)
-2. [BBC](http://www.bbc.com/news/world-middle-east-28344637)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/07/israel-temporarily-halt-fire-gaza-strip-201471620212427540.html)
+2. [BBC](http://www.bbc.com/news/world-middle-east-28359582)
 3. [Times of Israel](http://www.timesofisrael.com/abbas-sissi-urge-immediate-gaza-ceasefire/)
 4. [Times of Israel](http://www.timesofisrael.com/20-missiles-found-in-un-run-school-in-gaza/)
-5. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/07/israel-temporarily-halt-fire-gaza-strip-201471620212427540.html)
+5. [BBC](http://www.bbc.com/news/world-middle-east-28344637)
 
 ### Related:
 

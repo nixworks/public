@@ -7,8 +7,8 @@ NASA&#039;s Kepler mission has confirmed the first near-Earth-size planet in the
 
 ### Source:
 
-1. [NASA](https://www.nasa.gov/press-release/nasa-kepler-mission-discovers-bigger-older-cousin-to-earth)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-33641648)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-33641648)
+2. [NASA](https://www.nasa.gov/press-release/nasa-kepler-mission-discovers-bigger-older-cousin-to-earth)
 
 ### Related:
 

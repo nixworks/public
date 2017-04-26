@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/christian-lobby-defends-gay-slur-20120906-25gxe.html)
-2. [SBS](http://www.sbs.com.au/news/article/1689743/Smoking-gay-quotation-misrepresented-ACL)
+1. [SBS](http://www.sbs.com.au/news/article/1689743/Smoking-gay-quotation-misrepresented-ACL)
+2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/christian-lobby-defends-gay-slur-20120906-25gxe.html)

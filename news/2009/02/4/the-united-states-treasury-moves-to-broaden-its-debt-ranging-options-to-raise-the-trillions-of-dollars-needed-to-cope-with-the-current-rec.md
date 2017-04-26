@@ -7,12 +7,12 @@ The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to ra
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jxjjd_lM-uMVjXmtd53_pvYn7yHwD964LGFG0)
-2. [Financial Times](http://www.ft.com/cms/s/a27e150c-f2dc-11dd-abe6-0000779fd2ac,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fa27e150c-f2dc-11dd-abe6-0000779fd2ac.html&_i_referer=)
-3. [Sky News](http://news.sky.com/skynews/Home/Business/Icelandic-Retail-Group-Baugur-Owner-Of-Karen-Millen-House-Of-Fraser-On-Brink-Of-Administration/Article/200902115216486?lpos=Business_Top_Stories_Header_0&lid=ARTICLE_15216486_Icelandic_Retail_Group_Baugur_Owner_Of_Karen_Millen_House_Of_Fraser_On_Brink_Of_Administration)
-4. [RTÉ](http://www.rte.ie/news/2009/0204/employment.html)
+1. [Sky News](http://news.sky.com/skynews/Home/Business/Icelandic-Retail-Group-Baugur-Owner-Of-Karen-Millen-House-Of-Fraser-On-Brink-Of-Administration/Article/200902115216486?lpos=Business_Top_Stories_Header_0&lid=ARTICLE_15216486_Icelandic_Retail_Group_Baugur_Owner_Of_Karen_Millen_House_Of_Fraser_On_Brink_Of_Administration)
+2. [RTÉ](http://www.rte.ie/news/2009/0204/employment.html)
+3. [Der Spiegel](http://www.spiegel.de/international/business/0,1518,605513,00.html)
+4. [Financial Times](http://www.ft.com/cms/s/a27e150c-f2dc-11dd-abe6-0000779fd2ac,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fa27e150c-f2dc-11dd-abe6-0000779fd2ac.html&_i_referer=)
 5. [Reuters](http://www.reuters.com/article/ousivMolt/idUSTRE5133L020090204)
-6. [Der Spiegel](http://www.spiegel.de/international/business/0,1518,605513,00.html)
+6. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jxjjd_lM-uMVjXmtd53_pvYn7yHwD964LGFG0)
 
 ### Related:
 

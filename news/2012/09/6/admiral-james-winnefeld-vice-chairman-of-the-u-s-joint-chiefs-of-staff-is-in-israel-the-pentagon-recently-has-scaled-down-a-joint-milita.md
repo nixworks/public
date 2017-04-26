@@ -7,8 +7,8 @@ Time reports Pentagon radically cuts back number of troops, equipment slated to 
 
 ### Source:
 
-1. [Ma'an News](http://www.maannews.net/eng/ViewDetails.aspx?ID=517749)
-2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4275502,00.html)
+1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4275502,00.html)
+2. [Ma'an News](http://www.maannews.net/eng/ViewDetails.aspx?ID=517749)
 3. [TIME](http://world.time.com/2012/09/04/how-sending-fewer-u-s-troops-to-israeli-joint-exercise-further-strains-relations/)
 
 ### Related:

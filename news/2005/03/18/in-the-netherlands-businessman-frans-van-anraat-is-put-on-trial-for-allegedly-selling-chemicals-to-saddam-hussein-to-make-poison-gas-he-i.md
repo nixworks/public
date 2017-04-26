@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7941214)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4360137.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4360137.stm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7941214)
 
 ### Related:
 

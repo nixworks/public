@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSSP20752520080414)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7345790.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7345790.stm)
+2. [Reuters](http://www.reuters.com/article/newsOne/idUSSP20752520080414)
 
 ### Related:
 

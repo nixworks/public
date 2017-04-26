@@ -8,8 +8,8 @@ Efforts to curtail the environmental agency’s programs are not likely to end: 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2011/04/07/us-climate-congress-idUSTRE7357HU20110407)
-2. [Washington Times][http://www.bloomberg.com/news/2011-04-06/epa-s-greenhouse-gas-rules-targeted-for-limits-in-u-s-house-senate-votes.html (Bloomberg](http://www.washingtontimes.com/news/2011/apr/6/senate-fails-to-curb-epa-s-climate-authority)
-3. [New York Times](http://www.nytimes.com/2011/04/07/us/politics/07epa.html?_r=1)
+2. [New York Times](http://www.nytimes.com/2011/04/07/us/politics/07epa.html?_r=1)
+3. [Washington Times][http://www.bloomberg.com/news/2011-04-06/epa-s-greenhouse-gas-rules-targeted-for-limits-in-u-s-house-senate-votes.html (Bloomberg](http://www.washingtontimes.com/news/2011/apr/6/senate-fails-to-curb-epa-s-climate-authority)
 
 ### Related:
 

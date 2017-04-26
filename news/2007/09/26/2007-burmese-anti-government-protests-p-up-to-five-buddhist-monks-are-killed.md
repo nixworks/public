@@ -7,9 +7,9 @@ Police baton-charged a crowd of about 700 anti-junta protesters including studen
 
 ### Source:
 
-1. [AFP via News Limited](http://www.news.com.au/story/0,10117,22486165-401,00.html)
-2. [AFP and ABC News Australia](http://www.abc.net.au/news/stories/2007/09/26/2044242.htm)
-3. [Sky News](http://news.sky.com/skynews/article/0,,70131-1285741,00.html)
+1. [AFP and ABC News Australia](http://www.abc.net.au/news/stories/2007/09/26/2044242.htm)
+2. [Sky News](http://news.sky.com/skynews/article/0,,70131-1285741,00.html)
+3. [AFP via News Limited](http://www.news.com.au/story/0,10117,22486165-401,00.html)
 
 ### Related:
 

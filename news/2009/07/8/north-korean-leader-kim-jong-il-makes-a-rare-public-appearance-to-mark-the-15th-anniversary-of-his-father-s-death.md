@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8140028.stm)
-2. [MSNBC](http://www.msnbc.msn.com/id/31792999/ns/world_news-asiapacific/)
-3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6670248.ece)
-4. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090708/korea_appearance_090708/20090708?hub=World)
-5. [The Guardian](http://www.guardian.co.uk/world/2009/jul/08/north-korea-leader-memorial)
+1. [MSNBC](http://www.msnbc.msn.com/id/31792999/ns/world_news-asiapacific/)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6670248.ece)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8140028.stm)
+4. [The Guardian](http://www.guardian.co.uk/world/2009/jul/08/north-korea-leader-memorial)
+5. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090708/korea_appearance_090708/20090708?hub=World)
 
 ### Related:
 

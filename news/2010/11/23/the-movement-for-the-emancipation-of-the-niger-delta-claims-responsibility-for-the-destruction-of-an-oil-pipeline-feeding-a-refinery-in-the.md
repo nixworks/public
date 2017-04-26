@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/23/nigeria.mend.claim/)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hkRbOBUh8VCMrSQRbcSRJcR3ICwQ?docId=CNG.078ec7b362705e06b1ea3a05530f00eb.a31)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hkRbOBUh8VCMrSQRbcSRJcR3ICwQ?docId=CNG.078ec7b362705e06b1ea3a05530f00eb.a31)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/23/nigeria.mend.claim/)
 
 ### Related:
 

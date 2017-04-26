@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP/Yahoo!](http://news.yahoo.com/s/ap/20060124/ap_on_en_tv/tv_network)
-2. [Story from E! Online via Yahoo.com](http://news.yahoo.com/s/eo/20060124/en_movies_eo/18222)
+1. [Story from E! Online via Yahoo.com](http://news.yahoo.com/s/eo/20060124/en_movies_eo/18222)
+2. [AP/Yahoo!](http://news.yahoo.com/s/ap/20060124/ap_on_en_tv/tv_network)
 
 ### Related:
 

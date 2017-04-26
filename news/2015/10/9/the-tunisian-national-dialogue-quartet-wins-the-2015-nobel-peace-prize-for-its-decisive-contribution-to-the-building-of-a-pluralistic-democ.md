@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-34485865)
-2. [CNN](http://www.cnn.com/2015/10/09/world/nobel-peace-prize/index.html)
+1. [CNN](http://www.cnn.com/2015/10/09/world/nobel-peace-prize/index.html)
+2. [BBC](http://www.bbc.com/news/world-europe-34485865)
 3. [Nobel Peace Prize](http://nobelpeaceprize.org/en_GB/laureates/laureates-2015/announce-2015/)
 
 ### Related:

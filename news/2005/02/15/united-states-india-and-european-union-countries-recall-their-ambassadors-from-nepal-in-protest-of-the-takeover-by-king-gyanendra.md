@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050214-083829-9992r)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aDna9hj53UoM&refer=top_world_news)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7622145)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aDna9hj53UoM&refer=top_world_news)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7622145)
+3. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050214-083829-9992r)
 4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4263877.stm)
 
 ### Related:

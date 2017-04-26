@@ -7,11 +7,11 @@ An Antonov-12 Soviet-made cargo plane has crash-landed near South Sudan’s airp
 
 ### Source:
 
-1. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/dead-south-sudan-plane-crash-151104081236346.html)
-2. [RT](https://www.rt.com/news/320710-antonov-plane-crash-landing/)
-3. [Daily Mail](http://www.dailymail.co.uk/news/article-3303160/Russian-plane-crashes-taking-airport-South-Sudan-killing-10-people.html)
-4. [AFP via Rappler](http://www.rappler.com/world/regions/africa/111721-south-sudan-air-crash)
-5. [Reuters Africa](http://af.reuters.com/article/topNews/idAFKCN0ST0QX20151104)
+1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFKCN0ST0QX20151104)
+2. [AFP via Rappler](http://www.rappler.com/world/regions/africa/111721-south-sudan-air-crash)
+3. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/dead-south-sudan-plane-crash-151104081236346.html)
+4. [RT](https://www.rt.com/news/320710-antonov-plane-crash-landing/)
+5. [Daily Mail](http://www.dailymail.co.uk/news/article-3303160/Russian-plane-crashes-taking-airport-South-Sudan-killing-10-people.html)
 
 ### Related:
 

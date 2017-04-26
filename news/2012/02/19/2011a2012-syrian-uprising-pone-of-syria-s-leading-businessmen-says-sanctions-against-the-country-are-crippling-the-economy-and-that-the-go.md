@@ -7,11 +7,11 @@ Police and militia patrols fanned out in the Syrian capital&#39;s Mezze district
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/world/20120219/171398744.html)
+1. [UPI](http://www.upi.com/Top_News/World-News/2012/02/19/Syrian-rebels-gun-down-legal-officials/UPI-83991329658134/)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17088270)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-17090326)
-4. [Buenos Aires Herald](http://www.buenosairesherald.com/article/93195/syrian-security-forces-clamp-down-on-damascus)
-5. [UPI](http://www.upi.com/Top_News/World-News/2012/02/19/Syrian-rebels-gun-down-legal-officials/UPI-83991329658134/)
+4. [RIA Novosti](http://en.ria.ru/world/20120219/171398744.html)
+5. [Buenos Aires Herald](http://www.buenosairesherald.com/article/93195/syrian-security-forces-clamp-down-on-damascus)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Israeli air strikes on Hamas weapon sheds in Gaza Strip leave 7 Palestinians wou
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL1731780720070522)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3403475,00.html)
+1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3403475,00.html)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSL1731780720070522)
 
 ### Related:
 

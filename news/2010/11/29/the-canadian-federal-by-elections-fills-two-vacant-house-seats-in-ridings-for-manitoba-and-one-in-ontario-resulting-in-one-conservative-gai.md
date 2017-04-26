@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Global Winnipeg](http://www.globalwinnipeg.com/Liberals+snag+Winnipeg+North+seat+election+surprises+Dauphin/3908077/story.html)
-2. [CBC](http://www.cbc.ca/canada/manitoba/story/2010/11/30/federal-byelections-reax.html)
+1. [CBC](http://www.cbc.ca/canada/manitoba/story/2010/11/30/federal-byelections-reax.html)
+2. [Global Winnipeg](http://www.globalwinnipeg.com/Liberals+snag+Winnipeg+North+seat+election+surprises+Dauphin/3908077/story.html)
 
 ### Related:
 

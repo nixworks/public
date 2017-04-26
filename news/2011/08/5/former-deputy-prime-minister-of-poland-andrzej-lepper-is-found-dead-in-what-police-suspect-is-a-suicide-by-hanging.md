@@ -7,8 +7,8 @@ A controversial Polish former deputy prime minister who shot to international fa
 
 ### Source:
 
-1. [WBJ](http://www.wbj.pl/article-55568-andrzej-lepper-found-dead-in-his-warsaw-office.html?typ=wbj)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/poland/8685015/Polish-former-deputy-prime-minister-commits-suicide.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/poland/8685015/Polish-former-deputy-prime-minister-commits-suicide.html)
+2. [WBJ](http://www.wbj.pl/article-55568-andrzej-lepper-found-dead-in-his-warsaw-office.html?typ=wbj)
 
 ### Related:
 

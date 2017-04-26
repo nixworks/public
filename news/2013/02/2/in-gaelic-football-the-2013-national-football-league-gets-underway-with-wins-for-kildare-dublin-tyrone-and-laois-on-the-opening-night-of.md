@@ -7,8 +7,8 @@ Donegal returned to the scene of last September&#8217;s glory this evening. Stan
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/sport/gaa/football/2013/0202/365889-live-allianz-league-updates/)
-2. [The Score](http://thescore.thejournal.ie/donegal-kildare-live-780252-Feb2013/)
+1. [The Score](http://thescore.thejournal.ie/donegal-kildare-live-780252-Feb2013/)
+2. [RTÉ](http://www.rte.ie/sport/gaa/football/2013/0202/365889-live-allianz-league-updates/)
 3. [BBC](http://www.bbc.co.uk/sport/0/northern-ireland/21308548)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=31&art_id=nw20100112110251598C594183)
-2. [ABC News](http://abcnews.go.com/Travel/wireStory?id=9541353)
+1. [ABC News](http://abcnews.go.com/Travel/wireStory?id=9541353)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=31&art_id=nw20100112110251598C594183)
 
 ### Related:
 

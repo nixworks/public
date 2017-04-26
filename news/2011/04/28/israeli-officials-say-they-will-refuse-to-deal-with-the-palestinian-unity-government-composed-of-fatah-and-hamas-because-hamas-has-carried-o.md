@@ -7,8 +7,8 @@ Netanyahu huddles with top officials to discuss diplomatic, security impact of A
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201142817747522257.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13221843)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13221843)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201142817747522257.html)
 3. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=218357)
 
 ### Related:

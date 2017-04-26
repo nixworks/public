@@ -7,8 +7,8 @@ Benazir Bhutto left open the possibility that her party would resign from Parlia
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/10/03/pakistan.bhutto/)
-2. [NYT](http://www.nytimes.com/2007/10/04/world/asia/04pakistan.html?ex=1349150400&en=c2749f3530aa9261&ei=5088&partner=rssnyt&emc=rss)
+1. [NYT](http://www.nytimes.com/2007/10/04/world/asia/04pakistan.html?ex=1349150400&en=c2749f3530aa9261&ei=5088&partner=rssnyt&emc=rss)
+2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/10/03/pakistan.bhutto/)
 
 ### Related:
 

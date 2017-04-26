@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MMQD-6BULFS?OpenDocument)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1114610760757B213)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L27378289.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L27378289.htm)
+2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MMQD-6BULFS?OpenDocument)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1114610760757B213)
 
 ### Related:
 

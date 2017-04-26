@@ -7,8 +7,8 @@ A magnitude 7.1 quake knocked items off shelves and walls in Alaska early Sunday
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10004gqp#general_summary)
-2. [ABC](http://abcnews.go.com/US/wireStory/federal-agency-magnitude-64-earthquake-hit-southern-alaska-36482900)
+1. [ABC](http://abcnews.go.com/US/wireStory/federal-agency-magnitude-64-earthquake-hit-southern-alaska-36482900)
+2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10004gqp#general_summary)
 3. [The Los Angeles Times](http://www.latimes.com/nation/nationnow/la-na-nn-earthquake-hits-southern-alaska-20160124-story.html)
 
 ### Related:

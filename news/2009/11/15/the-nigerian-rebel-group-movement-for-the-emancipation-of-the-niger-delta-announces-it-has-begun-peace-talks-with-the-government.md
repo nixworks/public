@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/africaCrisis/idUSLF216359)
+1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/nigeria%27s-president-%27meets%27-mend%27s-team-2009111538252.html)
 2. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5481399-146/story.csp)
-3. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/nigeria%27s-president-%27meets%27-mend%27s-team-2009111538252.html)
+3. [Reuters](http://www.reuters.com/article/africaCrisis/idUSLF216359)
 
 ### Related:
 

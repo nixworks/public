@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2015/06/02/world/asia/ship-reported-sunk-in-chinas-yangtze.html)
-2. [CNN](http://edition.cnn.com/2015/06/01/asia/china-yangtze-river-ship-sinks/index.html)
+1. [CNN](http://edition.cnn.com/2015/06/01/asia/china-yangtze-river-ship-sinks/index.html)
+2. [New York Times](http://www.nytimes.com/2015/06/02/world/asia/ship-reported-sunk-in-chinas-yangtze.html)
 
 ### Related:
 

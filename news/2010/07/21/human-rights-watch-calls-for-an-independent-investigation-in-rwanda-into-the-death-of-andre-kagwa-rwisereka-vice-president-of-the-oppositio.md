@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/07/21/rwanda.opposition.leader/#fbid=Dxrzb6Q-4_O)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iR4vAXjcZ6OZmpcLsSOiD55etcwg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iR4vAXjcZ6OZmpcLsSOiD55etcwg)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/07/21/rwanda.opposition.leader/#fbid=Dxrzb6Q-4_O)
 
 ### Related:
 

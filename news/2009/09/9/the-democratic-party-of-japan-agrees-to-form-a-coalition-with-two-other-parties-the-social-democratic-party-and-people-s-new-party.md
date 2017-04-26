@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20090909p2a00m0na015000c.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/09/content_12021794.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8245483.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8245483.stm)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/09/content_12021794.htm)
 
 ### Related:
 

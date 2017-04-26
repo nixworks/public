@@ -7,22 +7,22 @@ Severe storms and tornadoes moving through the Southeast dealt a severe blow to 
 
 ### Source:
 
-1. [Al.com](http://blog.al.com/spotnews/2011/04/major_gas_leaks_reported_throu.html)
+1. [The State](http://www.thestate.com/2011/04/27/1795745/forecasters-say-severe-storms.html)
 2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hYcw3VQ5dUuvh8lKilJoaAfDd4ww?docId=CNG.fb6d5467c8dc5b3160c4939c2d753569.171)
-3. [Times Daily](http://www.timesdaily.com/article/20110427/NEWS/110429812?Title=Witness-South-part-of-Phil-Campbell-is-just-gone-12-confirmed-dead-or-missing)
-4. [Montgomery News](http://blog.al.com/montgomery/2011/04/ema_6_confirmed_dead_as_a_resu.html)
-5. [Birmingham News](http://blog.al.com/spotnews/2011/04/ema_reports_people_trapped_in.html)
-6. [WAFF](http://www.waff.com/story/14527806/very-large-tornado-on-ground-in-tuscaloosa)
-7. [BBC](http://www.bbc.co.uk/news/world-us-canada-13217726)
-8. [Clarion Ledger](http://www.clarionledger.com/article/20110427/NEWS/110427004/Deadly-tornado-outbreak-devastates-Mississippi?odyssey=tab%7Cmostpopular%7Ctext%7CFRONTPAGE)
-9. [The State](http://www.thestate.com/2011/04/27/1795745/forecasters-say-severe-storms.html)
-10. [News Channel 7](http://www2.wspa.com/news/2011/apr/27/24/flooding-danger-through-wednesday-western-nc-upsta-ar-1764938/)
-11. [Reuters](http://www.reuters.com/article/2011/04/27/us-utilities-tva-storms-idUSTRE73Q98920110427?feedType=RSS&feedName=domesticNews&dlvrit=60573)
-12. [ABC 40](http://www.wggb.com/Global/story.asp?S=14527002)
-13. [CBS42](http://www.cbs42.com/content/localnews/story/Power-Outages/xwFqXDr5iUyhU8vxIlRJoA.cspx)
-14. [CNN](http://news.blogs.cnn.com/2011/04/27/possible-tornado-touches-down-in-alabama-damage-reported/)
-15. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110428/ts_nm/us_weather)
-16. [Fox News](http://www.myfoxmemphis.com/dpp/news/local/storms-kill-54-around-south,-including-40-in-ala.-apx-20110427?utm_source=NeoMemphis&utm_medium=twitter)
+3. [Birmingham News](http://blog.al.com/spotnews/2011/04/ema_reports_people_trapped_in.html)
+4. [Al.com](http://blog.al.com/spotnews/2011/04/major_gas_leaks_reported_throu.html)
+5. [WAFF](http://www.waff.com/story/14527806/very-large-tornado-on-ground-in-tuscaloosa)
+6. [Reuters](http://www.reuters.com/article/2011/04/27/us-utilities-tva-storms-idUSTRE73Q98920110427?feedType=RSS&feedName=domesticNews&dlvrit=60573)
+7. [Montgomery News](http://blog.al.com/montgomery/2011/04/ema_6_confirmed_dead_as_a_resu.html)
+8. [CNN](http://news.blogs.cnn.com/2011/04/27/possible-tornado-touches-down-in-alabama-damage-reported/)
+9. [News Channel 7](http://www2.wspa.com/news/2011/apr/27/24/flooding-danger-through-wednesday-western-nc-upsta-ar-1764938/)
+10. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110428/ts_nm/us_weather)
+11. [ABC 40](http://www.wggb.com/Global/story.asp?S=14527002)
+12. [Times Daily](http://www.timesdaily.com/article/20110427/NEWS/110429812?Title=Witness-South-part-of-Phil-Campbell-is-just-gone-12-confirmed-dead-or-missing)
+13. [BBC](http://www.bbc.co.uk/news/world-us-canada-13217726)
+14. [Fox News](http://www.myfoxmemphis.com/dpp/news/local/storms-kill-54-around-south,-including-40-in-ala.-apx-20110427?utm_source=NeoMemphis&utm_medium=twitter)
+15. [CBS42](http://www.cbs42.com/content/localnews/story/Power-Outages/xwFqXDr5iUyhU8vxIlRJoA.cspx)
+16. [Clarion Ledger](http://www.clarionledger.com/article/20110427/NEWS/110427004/Deadly-tornado-outbreak-devastates-Mississippi?odyssey=tab%7Cmostpopular%7Ctext%7CFRONTPAGE)
 
 ### Related:
 

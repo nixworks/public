@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9CCFCS80)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-12/04/content_12587549.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/8395191.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/8395191.stm)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9CCFCS80)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/04/content_12587549.htm)
 
 ### Related:
 

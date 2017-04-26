@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Voice of Russia](http://english.ruvr.ru/2012_12_27/Japan-offers-aid-to-rescue-Russian-trawler/)
-2. [ITAR-TASS](http://www.itar-tass.com/c32/611023.html)
+1. [ITAR-TASS](http://www.itar-tass.com/c32/611023.html)
+2. [The Voice of Russia](http://english.ruvr.ru/2012_12_27/Japan-offers-aid-to-rescue-Russian-trawler/)
 
 ### Related:
 

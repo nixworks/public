@@ -7,8 +7,8 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/arts/music/story/2009/06/18/songwriters-fame.html?ref=rss)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8109568.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8109568.stm)
+2. [CBC](http://www.cbc.ca/arts/music/story/2009/06/18/songwriters-fame.html?ref=rss)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/03c34b7088f9cc1f9c01842adca1c0b9.htm)
-2. [Middle East Online](http://www.middle-east-online.com/english/?id=12597)
+1. [Middle East Online](http://www.middle-east-online.com/english/?id=12597)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/03c34b7088f9cc1f9c01842adca1c0b9.htm)
 
 ### Related:
 

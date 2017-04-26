@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Euro-Reporters](http://euro-reporters.com/index.php?option=com_content&task=view&id=110&Itemid=1)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-04T180717Z_01_MOL465224_RTRUKOC_0_ALBANIA-ELECTIONS.xml)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-04T180717Z_01_MOL465224_RTRUKOC_0_ALBANIA-ELECTIONS.xml)
+2. [Euro-Reporters](http://euro-reporters.com/index.php?option=com_content&task=view&id=110&Itemid=1)
 3. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5118125,00.html)
 
 ### Related:

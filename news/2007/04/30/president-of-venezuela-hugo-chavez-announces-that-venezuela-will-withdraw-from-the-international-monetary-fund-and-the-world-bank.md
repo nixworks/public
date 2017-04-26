@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New Zealand Herald](http://www.nzherald.co.nz/section/3/story.cfm?c_id=3&objectid=10437327)
-2. [Forbes](http://www.forbes.com/markets/feeds/afx/2007/04/30/afx3670712.html)
+1. [Forbes](http://www.forbes.com/markets/feeds/afx/2007/04/30/afx3670712.html)
+2. [New Zealand Herald](http://www.nzherald.co.nz/section/3/story.cfm?c_id=3&objectid=10437327)
 
 ### Related:
 

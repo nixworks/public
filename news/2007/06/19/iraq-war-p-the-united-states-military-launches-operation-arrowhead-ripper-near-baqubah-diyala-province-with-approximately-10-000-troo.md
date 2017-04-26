@@ -7,8 +7,8 @@ The U.S. military said it had launched a major offensive against al Qaeda north 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6767427.stm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSL1914954220070619?feedType=RSS)
+1. [Reuters](http://www.reuters.com/article/topNews/idUSL1914954220070619?feedType=RSS)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6767427.stm)
 
 ### Related:
 

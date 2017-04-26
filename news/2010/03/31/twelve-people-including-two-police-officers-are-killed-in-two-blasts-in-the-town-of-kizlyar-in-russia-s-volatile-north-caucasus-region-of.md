@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [TVNZ](http://tvnz.co.nz/world-news/two-blasts-kill-11-in-russian-town-3442661)
-2. [RIA Novosti](http://en.rian.ru/russia/20100331/158377219.html)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/31/c_13232296.htm)
+1. [RIA Novosti](http://en.rian.ru/russia/20100331/158377219.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/31/c_13232296.htm)
+3. [TVNZ](http://tvnz.co.nz/world-news/two-blasts-kill-11-in-russian-town-3442661)
 
 ### Related:
 

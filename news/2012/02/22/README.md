@@ -34,7 +34,7 @@ Indonesian police stormed a prison on the resort island of Bali on Wednesday to 
 _Context: Charlottesville, Virginia, University of Virginia, Yeardley Love, men's lacrosse_
 
 ### [Yoaz Hendel, the top spokesman for Prime Minister of Israel Benjamin Netanyahu, resigns following a disagreement over handling an issue involving another aide. ](/news/2012/02/22/yoaz-hendel-the-top-spokesman-for-prime-minister-of-israel-benjamin-netanyahu-resigns-following-a-disagreement-over-handling-an-issue-invo.md)
-_Context: Benjamin Netanyahu, Yoaz Hendel, prime minister of Israel_
+_Context: Benjamin Netanyahu, Prime Minister of Israel, Yoaz Hendel_
 
 ### [Kevin Rudd resigns as Foreign Minister of Australia after alleged "attacks on credibility" by supporters of Prime Minister Julia Gillard. ](/news/2012/02/22/kevin-rudd-resigns-as-foreign-minister-of-australia-after-alleged-attacks-on-credibility-by-supporters-of-prime-minister-julia-gillard.md)
 _Context: Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Prime Minister of Australia_

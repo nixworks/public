@@ -7,8 +7,8 @@ Abbas blames Israel for escalation in West Bank violence after two alleged fireb
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/palestinians-riot-in-hebron-as-prisoner-is-laid-to-rest/)
-2. [CNN](http://www.cnn.com/2013/04/04/world/meast/west-bank-tensions)
+1. [CNN](http://www.cnn.com/2013/04/04/world/meast/west-bank-tensions)
+2. [The Times of Israel](http://www.timesofisrael.com/palestinians-riot-in-hebron-as-prisoner-is-laid-to-rest/)
 
 ### Related:
 

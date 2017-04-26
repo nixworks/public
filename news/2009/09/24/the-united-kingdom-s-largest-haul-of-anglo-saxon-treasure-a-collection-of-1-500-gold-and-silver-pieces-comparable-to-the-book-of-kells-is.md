@@ -7,15 +7,15 @@ The largest hoard of Anglo-Saxon gold ever found comprises more than 1,500 items
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/uk/article6847081.ece)
-2. [Malaysian Sun](http://story.malaysiasun.com/index.php/ct/9/cid/b8de8e630faf3631/id/546729/cs/1/)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Staffordshire-Hoard-Largest-Ever-Anglo-Saxon-Gold-Find-Unearthed-With-Metal-Detector/Article/200909415388189?lpos=UK_News_Top_Stories_Header_1&lid=ARTICLE_15388189_Staffordshire_Hoard%3A_Largest_Ever_Anglo-Saxon_Gold_Find_Unearthed_With_Metal_Detector)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/6225100/Britains-largest-Anglo-Saxon-gold-hoard.html)
-5. [The Independent](http://www.independent.co.uk/news/uk/home-news/golden-dreams-for-man-with-the-golden-metal-detector-1792390.html)
+1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Staffordshire-Hoard-Largest-Ever-Anglo-Saxon-Gold-Find-Unearthed-With-Metal-Detector/Article/200909415388189?lpos=UK_News_Top_Stories_Header_1&lid=ARTICLE_15388189_Staffordshire_Hoard%3A_Largest_Ever_Anglo-Saxon_Gold_Find_Unearthed_With_Metal_Detector)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/staffordshire/8272058.stm)
+3. [The Independent](http://www.independent.co.uk/news/uk/home-news/golden-dreams-for-man-with-the-golden-metal-detector-1792390.html)
+4. [The Guardian](http://www.guardian.co.uk/uk/2009/sep/24/anglo-saxon-treasure-hoard-gold-staffordshire-metal-detector)
+5. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26119804-12377,00.html)
 6. [RTÉ](http://www.rte.ie/news/2009/0924/gold.html)
-7. [The Guardian](http://www.guardian.co.uk/uk/2009/sep/24/anglo-saxon-treasure-hoard-gold-staffordshire-metal-detector)
-8. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/staffordshire/8272058.stm)
-9. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26119804-12377,00.html)
+7. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/6225100/Britains-largest-Anglo-Saxon-gold-hoard.html)
+8. [The Times](http://www.timesonline.co.uk/tol/news/uk/article6847081.ece)
+9. [Malaysian Sun](http://story.malaysiasun.com/index.php/ct/9/cid/b8de8e630faf3631/id/546729/cs/1/)
 
 ### Related:
 

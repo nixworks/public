@@ -7,8 +7,8 @@ Up to 80 African migrants are feared drowned off the coast of Yemen after two bo
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/news/africa/80-immigrants-feared-drowned-off-yemen-1.1007558)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12108715)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12108715)
+2. [IOL](http://www.iol.co.za/news/africa/80-immigrants-feared-drowned-off-yemen-1.1007558)
 3. [Press TV](http://www.presstv.ir/detail/158485.html)
 
 ### Related:

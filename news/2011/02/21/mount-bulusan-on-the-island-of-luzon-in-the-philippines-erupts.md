@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20110221-321459/Mt-Bulusan-spews-3-km-ash-columnPhivolcs)
-2. [Huffington Post](http://www.huffingtonpost.com/2011/02/20/mount-bulusan-eruption_n_825787.html?ref=twitter)
+1. [Huffington Post](http://www.huffingtonpost.com/2011/02/20/mount-bulusan-eruption_n_825787.html?ref=twitter)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20110221-321459/Mt-Bulusan-spews-3-km-ash-columnPhivolcs)
 
 ### Related:
 

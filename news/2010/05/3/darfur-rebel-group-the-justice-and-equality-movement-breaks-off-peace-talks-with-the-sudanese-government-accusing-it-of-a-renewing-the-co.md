@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/world/2010-05-03-Darfur-peace_N.htm)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/03/AR2010050300594.html)
+1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/03/AR2010050300594.html)
+2. [USA Today](http://www.usatoday.com/news/world/2010-05-03-Darfur-peace_N.htm)
 
 ### Related:
 

@@ -4,7 +4,7 @@
 _Context: Ashgabat, Germany, Saparmurat Niyazov, Turkmenistan, president_
 
 ### [ War in Chad (2005-present) and Central African Republic Bush War: Chad has offered to send troops to the Central African Republic to help fight rebels it claims are backed by Sudan. ](/news/2006/11/18/war-in-chad-2005apresent-and-central-african-republic-bush-war-p-chad-has-offered-to-send-troops-to-the-central-african-republic-to-hel.md)
-_Context: 2004–2007 Bush War, Central-African, Chad, Sudan, War in Chad (2005–present)_
+_Context: 2004–2007 Bush War, Central African Republic, Chad, Sudan, War in Chad (2005–present)_
 
 ### [ The annual Leonid meteor shower could produce a strong outburst this weekend for residents of New York and New England in the USA, the Maritimes in Canada and in Western Europe. ](/news/2006/11/18/the-annual-leonid-meteor-shower-could-produce-a-strong-outburst-this-weekend-for-residents-of-new-york-and-new-england-in-the-usa-the-mari.md)
 The annual Leonid meteor shower could produce a strong outburst this weekend for residents of the North America and Western Europe. 

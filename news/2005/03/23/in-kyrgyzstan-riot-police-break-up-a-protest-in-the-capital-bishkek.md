@@ -8,13 +8,13 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4374437.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4375083.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7980800)
-4. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5472339&startrow=1&date=2005-03-23&do_alert=0)
-5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a7Foki3sQT54&refer=asia)
+2. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5472339&startrow=1&date=2005-03-23&do_alert=0)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a_M04VAW10So&refer=asia)
+4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a7Foki3sQT54&refer=asia)
+5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7980800)
 6. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=11259088)
-7. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/9a5015d5df6a1ecfad6abe30f41cd396.htm)
-8. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a_M04VAW10So&refer=asia)
+7. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4375083.stm)
+8. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/9a5015d5df6a1ecfad6abe30f41cd396.htm)
 
 ### Related:
 

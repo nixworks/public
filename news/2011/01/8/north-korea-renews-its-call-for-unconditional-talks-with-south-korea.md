@@ -7,8 +7,8 @@ South describes proposal for unconditional negotiations as more concrete than pr
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/01/08/69/0401000000AEN20110108001300315F.HTML)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/2011184012659934.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/2011184012659934.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/01/08/69/0401000000AEN20110108001300315F.HTML)
 
 ### Related:
 

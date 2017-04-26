@@ -7,8 +7,8 @@ Measure approved under fast-track procedure as European markets rally.
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/euDealsNews/idUSTRE49G1U820081017)
-2. [Reuters](http://ca.reuters.com/article/businessNews/idCATRE49G65L20081017)
+1. [Reuters](http://ca.reuters.com/article/businessNews/idCATRE49G65L20081017)
+2. [Reuters](http://www.reuters.com/article/euDealsNews/idUSTRE49G1U820081017)
 3. [Al Jazeera](http://english.aljazeera.net/news/europe/2008/10/20081017152115123883.html)
 
 ### Related:

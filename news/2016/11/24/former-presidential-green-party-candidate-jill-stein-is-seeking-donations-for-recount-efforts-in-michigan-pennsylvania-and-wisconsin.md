@@ -7,9 +7,9 @@ It’s a reminder to her supporters that more Americans voted the way they did t
 
 ### Source:
 
-1. [Jill2016](https://jillstein.nationbuilder.com/recount)
-2. [The Atlantic](http://www.theatlantic.com/politics/archive/2016/11/clinton-vote-lead/508667/)
-3. [CNN](http://www.cnn.com/2016/11/23/politics/election-hack-hillary-clinton-donald-trump/)
+1. [CNN](http://www.cnn.com/2016/11/23/politics/election-hack-hillary-clinton-donald-trump/)
+2. [Jill2016](https://jillstein.nationbuilder.com/recount)
+3. [The Atlantic](http://www.theatlantic.com/politics/archive/2016/11/clinton-vote-lead/508667/)
 
 ### Related:
 

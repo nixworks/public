@@ -7,8 +7,8 @@ Two people have been killed and as many as 23 injured after a car hit a crowd of
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2014/03/13/sxsw-austin-nightclub-accident/6360729/)
-2. [CNN](http://www.cnn.com/2014/03/13/us/texas-sxsw-crash/)
+1. [CNN](http://www.cnn.com/2014/03/13/us/texas-sxsw-crash/)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2014/03/13/sxsw-austin-nightclub-accident/6360729/)
 
 ### Related:
 

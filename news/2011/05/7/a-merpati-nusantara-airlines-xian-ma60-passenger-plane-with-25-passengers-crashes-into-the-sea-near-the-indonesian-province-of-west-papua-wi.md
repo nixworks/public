@@ -7,9 +7,9 @@ There were no survivors from the crash of an Indonesian passenger aircraft into 
 
 ### Source:
 
-1. [AFP via''Calgary Herald](http://www.calgaryherald.com/news/survivors+Indonesia+plane+crash+navy+officer/4744264/story.html)
+1. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110507/ap_on_re_as/as_indonesia_plane_crash_1)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13320313)
-3. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110507/ap_on_re_as/as_indonesia_plane_crash_1)
+3. [AFP via''Calgary Herald](http://www.calgaryherald.com/news/survivors+Indonesia+plane+crash+navy+officer/4744264/story.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Iraqi&#x20;political&#x20;turmoil&#x20;persisted&#x20;Monday&#x20;with&#x20;form
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100816-iraq-formation-government-delayed-opposing-groups-break-off-talks-election)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10990437)
-3. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010816154736783266.html)
-4. [Mail & Guardian](http://www.mg.co.za/article/2010-08-16-iraqi-parties-break-off-coalition-talks)
+1. [Mail & Guardian](http://www.mg.co.za/article/2010-08-16-iraqi-parties-break-off-coalition-talks)
+2. [France24](http://www.france24.com/en/20100816-iraq-formation-government-delayed-opposing-groups-break-off-talks-election)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-10990437)
+4. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010816154736783266.html)
 
 ### Related:
 

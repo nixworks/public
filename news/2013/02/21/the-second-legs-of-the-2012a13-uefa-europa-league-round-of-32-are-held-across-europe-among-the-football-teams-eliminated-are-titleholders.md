@@ -8,8 +8,8 @@ While Chelsea FC and Tottenham Hotspur FC struck at the death, Liverpool FC and 
 ### Source:
 
 1. [UEFA](http://www.uefa.com/uefaeuropaleague/news/newsid=1922632.html)
-2. [Setanta Sports](http://edit.setanta.com/ien/Articles/2013/02/21/Europa-League-round-up/gnid-158920/)
-3. [Reuters](http://www.reuters.com/article/2013/02/21/uk-soccer-europa-atletico-idUKBRE91K16820130221)
+2. [Reuters](http://www.reuters.com/article/2013/02/21/uk-soccer-europa-atletico-idUKBRE91K16820130221)
+3. [Setanta Sports](http://edit.setanta.com/ien/Articles/2013/02/21/Europa-League-round-up/gnid-158920/)
 
 ### Related:
 

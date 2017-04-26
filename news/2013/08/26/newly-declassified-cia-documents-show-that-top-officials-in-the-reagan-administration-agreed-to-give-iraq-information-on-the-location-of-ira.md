@@ -7,8 +7,8 @@ They concealed evidence, then shared information on Iran.
 
 ### Source:
 
-1. [New York](http://nymag.com/daily/intelligencer/2013/08/cia-files-us-aided-iraq-with-iran-gas-attacks.html)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-2402174/CIA-helped-Saddam-Hussein-carry-chemical-weapons-attack-Iran-1988-Ronald-Reagan.html)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-2402174/CIA-helped-Saddam-Hussein-carry-chemical-weapons-attack-Iran-1988-Ronald-Reagan.html)
+2. [New York](http://nymag.com/daily/intelligencer/2013/08/cia-files-us-aided-iraq-with-iran-gas-attacks.html)
 
 ### Related:
 

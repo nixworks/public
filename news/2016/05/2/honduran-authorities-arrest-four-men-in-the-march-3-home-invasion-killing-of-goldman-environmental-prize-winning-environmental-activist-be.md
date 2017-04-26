@@ -7,8 +7,8 @@ TEGUCIGALPA, Honduras (AP) — Honduran authorities arrested four people Monday 
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/109431f864214ad5a7f429c169af3dce/4-arrested-slaying-honduran-environmental-activist)
-2. [The Guardian](http://www.theguardian.com/world/2016/may/02/berta-caceres-murder-four-men-arrested-honduras)
+1. [The Guardian](http://www.theguardian.com/world/2016/may/02/berta-caceres-murder-four-men-arrested-honduras)
+2. [AP](http://bigstory.ap.org/article/109431f864214ad5a7f429c169af3dce/4-arrested-slaying-honduran-environmental-activist)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Berkin Elvan has been in coma since June last year when he was hit by a teargas 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/mar/11/turkish-police-teargas-protests-boy-15-dies)
-2. [Reuters](http://www.reuters.com/article/2014/03/11/us-turkey-protests-idUSBREA2A0XP20140311)
+1. [Reuters](http://www.reuters.com/article/2014/03/11/us-turkey-protests-idUSBREA2A0XP20140311)
+2. [The Guardian](http://www.theguardian.com/world/2014/mar/11/turkish-police-teargas-protests-boy-15-dies)
 
 ### Related:
 

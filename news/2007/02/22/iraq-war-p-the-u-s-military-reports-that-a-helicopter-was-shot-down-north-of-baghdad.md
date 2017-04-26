@@ -7,10 +7,10 @@ Harry, 22, is a junior officer in the upper-crust Blues and Royals regiment of t
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6384503.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6385033.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6385033.stm)
+2. [New York Times](http://www.nytimes.com/2007/02/22/world/europe/22cnd-harry.html?ex=1329800400&en=3ca3fee75ac71bd2&ei=5088&partner=rssnyt&emc=rss)
 3. [AP via USA Today](http://www.usatoday.com/news/washington/2007-02-22-iraq-slaying_x.htm?csp=34)
-4. [New York Times](http://www.nytimes.com/2007/02/22/world/europe/22cnd-harry.html?ex=1329800400&en=3ca3fee75ac71bd2&ei=5088&partner=rssnyt&emc=rss)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6384503.stm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The Bishop of Down and Connor has described as &#39;faith-shaking&#39; the &#39;
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0402/abuse.html)
+1. [The Australian](http://www.theaustralian.com.au/news/world/christians-losing-faith-amid-abuse-scandal/story-e6frg6so-1225849033470)
 2. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article7085129.ece)
-3. [The Australian](http://www.theaustralian.com.au/news/world/christians-losing-faith-amid-abuse-scandal/story-e6frg6so-1225849033470)
+3. [RTÉ](http://www.rte.ie/news/2010/0402/abuse.html)
 
 ### Related:
 

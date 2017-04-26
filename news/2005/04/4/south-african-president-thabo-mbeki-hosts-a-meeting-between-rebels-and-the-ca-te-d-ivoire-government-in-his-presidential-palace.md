@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=vn20050404065153507C190642)
-2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1685042,00.html)
+1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1685042,00.html)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=vn20050404065153507C190642)
 
 ### Related:
 

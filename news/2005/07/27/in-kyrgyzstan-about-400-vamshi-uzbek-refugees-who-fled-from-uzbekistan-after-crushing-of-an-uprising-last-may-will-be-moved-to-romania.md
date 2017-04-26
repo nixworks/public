@@ -8,8 +8,8 @@
 ### Source:
 
 1. [MosNews](http://www.mosnews.com/news/2005/07/27/uzbekrefugees.shtml)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4720181.stm)
-3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-27T064618Z_01_KNE724365_RTRUKOC_0_KYRGYZSTAN-UZBEKISTAN-REFUGEES.xml)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-27T064618Z_01_KNE724365_RTRUKOC_0_KYRGYZSTAN-UZBEKISTAN-REFUGEES.xml)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4720181.stm)
 
 ### Related:
 

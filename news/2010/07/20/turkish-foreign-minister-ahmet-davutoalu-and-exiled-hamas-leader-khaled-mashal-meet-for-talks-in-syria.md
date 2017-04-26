@@ -8,8 +8,8 @@ Turkish Foreign Minister Ahmet Davutoglu has met with Hamas supremo Khaled Mesha
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/20/turkey.hamas.visit/index.html#fbid=owo5XaKfoFI)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/turkish-fm-meets-hamas-supremo-report-20100720-10jey.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-10698211)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10698211)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/turkish-fm-meets-hamas-supremo-report-20100720-10jey.html)
 
 ### Related:
 

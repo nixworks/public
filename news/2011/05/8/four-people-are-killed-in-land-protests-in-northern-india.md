@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_666329.html)
-2. [Economic Times of India](http://economictimes.indiatimes.com/news/politics/nation/up-agitation-farmers-protest-continue-on-day-2-four-dead/articleshow/8198576.cms)
+1. [Economic Times of India](http://economictimes.indiatimes.com/news/politics/nation/up-agitation-farmers-protest-continue-on-day-2-four-dead/articleshow/8198576.cms)
+2. [AP via ''Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_666329.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NEXT](http://www.234next.com/csp/cms/sites/Next/News/5441232-147/story.csp)
-2. [Reuters](http://www.reuters.com/article/africaCrisis/idUSL4619553)
+1. [Reuters](http://www.reuters.com/article/africaCrisis/idUSL4619553)
+2. [NEXT](http://www.234next.com/csp/cms/sites/Next/News/5441232-147/story.csp)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Pope Francis visits Armenia this weekend and will try to avoid reigniting a dipl
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/news/world/pope-francis-visit-armenia-amid-genocide-spat-turkey-n596876)
-2. [Reuters](http://www.reuters.com/article/us-pope-armenia-idUSKCN0Z8128)
-3. [PanARMENIAN.Net](http://www.panarmenian.net/eng/news/215339/)
+2. [PanARMENIAN.Net](http://www.panarmenian.net/eng/news/215339/)
+3. [Reuters](http://www.reuters.com/article/us-pope-armenia-idUSKCN0Z8128)
 
 ### Related:
 

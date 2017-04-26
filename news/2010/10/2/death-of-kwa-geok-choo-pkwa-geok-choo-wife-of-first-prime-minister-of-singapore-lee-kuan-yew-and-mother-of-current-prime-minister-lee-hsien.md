@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201010020027)
-2. [TODAY](http://www.todayonline.com/Singapore/EDC101002-0000165/Madam-Kwa-Geok-Choo)
-3. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1084739/1/.html)
-4. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1084809/1/.html)
-5. [The Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_586155.html)
-6. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1084753/1/.html)
+1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_586151.html)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1084739/1/.html)
+3. [TODAY](http://www.todayonline.com/Singapore/EDC101002-0000165/Madam-Kwa-Geok-Choo)
+4. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201010020027)
+5. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1084753/1/.html)
+6. [The Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_586155.html)
 7. [The Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_586010.html)
-8. [The Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_586151.html)
+8. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1084809/1/.html)
 
 ### Related:
 

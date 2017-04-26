@@ -7,8 +7,8 @@ U.S. lawmakers on Thursday proposed a bill to give the White House power to fast
 
 ### Source:
 
-1. [US Senate](http://www.finance.senate.gov/newsroom/chairman/release/?id=7cd1c188-87f1-4a0b-8856-3fc139121ca9)
-2. [Reuters](http://www.reuters.com/article/2014/01/09/us-usa-trade-congress-idUSBREA0817520140109)
+1. [Reuters](http://www.reuters.com/article/2014/01/09/us-usa-trade-congress-idUSBREA0817520140109)
+2. [US Senate](http://www.finance.senate.gov/newsroom/chairman/release/?id=7cd1c188-87f1-4a0b-8856-3fc139121ca9)
 
 ### Related:
 

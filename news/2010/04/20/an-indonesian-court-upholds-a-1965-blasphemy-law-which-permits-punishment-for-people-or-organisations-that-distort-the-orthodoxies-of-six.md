@@ -7,9 +7,9 @@ While applied to six recognized religions, the law is enforced mainly against th
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gOzktbjytGwSVCUwDrSXckH_4CjA)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104208101575962.html)
-3. [New York Times](http://www.nytimes.com/2010/04/20/world/asia/20indo.html)
+1. [New York Times](http://www.nytimes.com/2010/04/20/world/asia/20indo.html)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gOzktbjytGwSVCUwDrSXckH_4CjA)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104208101575962.html)
 
 ### Related:
 

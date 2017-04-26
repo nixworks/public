@@ -7,10 +7,10 @@ With 99 per cent of votes counted, provisional results show referendum passing w
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/video/europe/2010/09/2010912155547655382.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11274027)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/12/c_13491253.htm)
-4. [BBC](http://www.bbc.co.uk/news/world-europe-11278602)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/12/c_13491253.htm)
+2. [Al Jazeera](http://english.aljazeera.net/video/europe/2010/09/2010912155547655382.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-11278602)
+4. [BBC](http://www.bbc.co.uk/news/world-europe-11274027)
 
 ### Related:
 

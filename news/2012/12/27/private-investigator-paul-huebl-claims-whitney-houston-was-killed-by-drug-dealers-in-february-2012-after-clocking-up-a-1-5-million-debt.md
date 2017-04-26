@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Sun](http://www.thesun.co.uk/sol/homepage/showbiz/4714770/Whitney-Houston-was-murdered-claims-private-investigator.html)
-2. [Radar Online](http://www.radaronline.com/exclusives/2012/12/whitney-houston-murdered-private-investigator-new-video-evidence-fbi)
-3. [RT](http://rt.com/art-and-culture/news/investigator-whitney-houston-murdered-909/)
+2. [RT](http://rt.com/art-and-culture/news/investigator-whitney-houston-murdered-909/)
+3. [Radar Online](http://www.radaronline.com/exclusives/2012/12/whitney-houston-murdered-private-investigator-new-video-evidence-fbi)
 
 ### Related:
 

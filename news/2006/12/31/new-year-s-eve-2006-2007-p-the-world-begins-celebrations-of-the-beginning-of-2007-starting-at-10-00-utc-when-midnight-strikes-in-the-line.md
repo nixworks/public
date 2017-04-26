@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://apnews.myway.com/article/20061231/D8MC2KR00.html)
-2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/12/31/thailand.blasts/index.html)
+1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/12/31/thailand.blasts/index.html)
+2. [AP](http://apnews.myway.com/article/20061231/D8MC2KR00.html)
 
 ### Related:
 

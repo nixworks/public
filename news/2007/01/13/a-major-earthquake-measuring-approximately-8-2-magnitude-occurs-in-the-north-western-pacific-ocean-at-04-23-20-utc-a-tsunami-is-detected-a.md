@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Pacific Tsunami Warning Center](http://www.prh.noaa.gov/ptwc/wmsg)
-2. [Japan Meteorological Agency](http://www.jma.go.jp/en/tsunami/info.html)
-3. [US Geological Survey](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007xmae.php)
+1. [Japan Meteorological Agency](http://www.jma.go.jp/en/tsunami/info.html)
+2. [US Geological Survey](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007xmae.php)
+3. [Pacific Tsunami Warning Center](http://www.prh.noaa.gov/ptwc/wmsg)
 
 ### Related:
 

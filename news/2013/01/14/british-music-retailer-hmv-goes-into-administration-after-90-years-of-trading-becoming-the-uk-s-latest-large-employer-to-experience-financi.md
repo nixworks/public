@@ -7,8 +7,8 @@ Troubled music and DVD retailer HMV, which began trading in 1921, announces it i
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/business/2013/jan/15/jobs-hmv-administrators)
-2. [BBC](http://www.bbc.co.uk/news/business-21021073)
+1. [BBC](http://www.bbc.co.uk/news/business-21021073)
+2. [The Guardian](http://www.guardian.co.uk/business/2013/jan/15/jobs-hmv-administrators)
 
 ### Related:
 

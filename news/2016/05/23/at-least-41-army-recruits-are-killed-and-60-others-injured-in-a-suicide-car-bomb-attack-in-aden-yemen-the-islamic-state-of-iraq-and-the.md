@@ -7,9 +7,9 @@ A suicide car bombing claimed by Islamic State killed at least 40 Yemeni army re
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN0YE0LE)
+1. [VOA News](http://www.voanews.com/content/militants-killed-in-yemen/3340892.html)
 2. [National Yemen](http://nationalyemen.com/2016/05/23/al-mukalla-13-al-qaeda-fighters-killed-by-forces/)
-3. [VOA News](http://www.voanews.com/content/militants-killed-in-yemen/3340892.html)
+3. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN0YE0LE)
 
 ### Related:
 

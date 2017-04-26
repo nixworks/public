@@ -7,8 +7,8 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-australia-31033369#)
-2. [The Australian](http://www.theaustralian.com.au/in-depth/sydney-siege/sydney-siege-inquest-lindt-cafe-deaths-investigated/story-fnqxbywy-1227200443586)
+1. [The Australian](http://www.theaustralian.com.au/in-depth/sydney-siege/sydney-siege-inquest-lindt-cafe-deaths-investigated/story-fnqxbywy-1227200443586)
+2. [BBC](http://www.bbc.com/news/world-australia-31033369#)
 
 ### Related:
 

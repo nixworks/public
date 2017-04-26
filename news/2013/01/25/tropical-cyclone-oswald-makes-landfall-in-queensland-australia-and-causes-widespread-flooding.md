@@ -7,9 +7,9 @@ Torrential rain has caused widespread flooding in the Australian state of Queens
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/queenslands-north-braces-for-flash-floods-after-oswalds-low-blow/story-e6frg6n6-1226558563257)
+1. [AFP via IOL](http://www.iol.co.za/news/world/floods-sweep-through-north-east-oz-1.1458676)
 2. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0125/breaking34.html)
-3. [AFP via IOL](http://www.iol.co.za/news/world/floods-sweep-through-north-east-oz-1.1458676)
+3. [The Australian](http://www.theaustralian.com.au/news/queenslands-north-braces-for-flash-floods-after-oswalds-low-blow/story-e6frg6n6-1226558563257)
 
 ### Related:
 

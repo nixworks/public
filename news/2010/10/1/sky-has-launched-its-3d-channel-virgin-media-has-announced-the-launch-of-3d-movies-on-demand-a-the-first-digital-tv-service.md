@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Virgin Media](http://www.virginmedia.com/movies/features/virgin-media-3d.php)
-2. [Sky](http://news.sky.com/skynews/Home/UK-News/Sky-3D-Launch-Europes-First-Ever-3D-Channel-Is-Launched-By-Sky-With-The-Ryder-Cup/Article/201009415748798?lpos=UK_News_Carousel_Region_3&lid=ARTICLE_15748798_Sky_3D_Launch%3A_Europes_First_Ever_3D_Channel_Is_Launched_By_Sky_With_The_Ryder_Cup)
+1. [Sky](http://news.sky.com/skynews/Home/UK-News/Sky-3D-Launch-Europes-First-Ever-3D-Channel-Is-Launched-By-Sky-With-The-Ryder-Cup/Article/201009415748798?lpos=UK_News_Carousel_Region_3&lid=ARTICLE_15748798_Sky_3D_Launch%3A_Europes_First_Ever_3D_Channel_Is_Launched_By_Sky_With_The_Ryder_Cup)
+2. [Virgin Media](http://www.virginmedia.com/movies/features/virgin-media-3d.php)
 
 ### Related:
 

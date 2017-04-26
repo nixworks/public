@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Independent](http://news.independent.co.uk/uk/legal/article355599.ece)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/devon/4876176.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/devon/4876176.stm)
+2. [The Independent](http://news.independent.co.uk/uk/legal/article355599.ece)
 
 ### Related:
 

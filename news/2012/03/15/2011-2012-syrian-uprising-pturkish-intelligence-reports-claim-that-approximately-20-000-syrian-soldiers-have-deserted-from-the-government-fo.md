@@ -8,9 +8,9 @@ Turkey threatened to launch a military incursion into northern Syria after refug
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/2012-03-15/syria-loses-20-000-troops-as-deserters-flee-turkey-says-1-.html)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9146900/Turkey-threatens-military-incursion-into-northern-Syria-as-refugees-flee-across-its-borders.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/2012315181220687384.html)
 3. [The New York Times](http://www.nytimes.com/2012/03/16/world/middleeast/syria-mass-damascus-rally-for-assad.html)
-4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/2012315181220687384.html)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9146900/Turkey-threatens-military-incursion-into-northern-Syria-as-refugees-flee-across-its-borders.html)
 
 ### Related:
 

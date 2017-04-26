@@ -7,8 +7,8 @@ At least two killed and dozens injured as storm sweeps up Japanese island of Hon
 
 ### Source:
 
-1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20091008p2a00m0na024000c.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/200910835835668644.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/200910835835668644.html)
+2. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20091008p2a00m0na024000c.html)
 
 ### Related:
 

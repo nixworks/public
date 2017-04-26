@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Pope-Benedict-Meets-with-British-Leaders-Celebrates-Mass-103198954.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-11355258)
+1. [BBC](http://www.bbc.co.uk/news/uk-11355258)
+2. [Voice of America](http://www.voanews.com/english/news/Pope-Benedict-Meets-with-British-Leaders-Celebrates-Mass-103198954.html)
 
 ### Related:
 

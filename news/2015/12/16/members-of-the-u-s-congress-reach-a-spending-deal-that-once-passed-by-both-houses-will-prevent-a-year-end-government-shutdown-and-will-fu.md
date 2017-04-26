@@ -7,8 +7,8 @@ WASHINGTON — House leaders reached a tentative deal Tuesday night on a $1.1 tr
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Breaking-News/White-House-Emergency-Documents-signed-to-prevent-US-government-shutdown-437573)
-2. [USA Today](http://www.usatoday.com/story/news/2015/12/15/congress-nears-deal-2016-spending-bill-fund-federal-government/77353838/)
+1. [USA Today](http://www.usatoday.com/story/news/2015/12/15/congress-nears-deal-2016-spending-bill-fund-federal-government/77353838/)
+2. [The Jerusalem Post](http://www.jpost.com/Breaking-News/White-House-Emergency-Documents-signed-to-prevent-US-government-shutdown-437573)
 3. [The Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2015/12/15/congress-reaches-year-end-deal-on-taxes-and-spending/)
 
 ### Related:

@@ -7,19 +7,19 @@ There have been multiple fatalities after a shallow 6.3 magnitude earthquake in 
 
 ### Source:
 
-1. [3 News New Zealand](http://www.3news.co.nz/Live-updates-Deaths-confirmed-in-Christchurch-quake/tabid/423/articleID/199310/Default.aspx)
+1. [TV3](http://www.3news.co.nz/Christchurch-quake-200-trapped-in-Pyne-building/tabid/423/articleID/199310/Default.aspx)
 2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/02/21/new.zealand.earthquake/index.html?eref=edition&utm_source=twitterfeed&utm_medium=twitter#)
-3. [Stuff](http://www.stuff.co.nz/national/4688231/65-dead-in-devastating-Christchurch-quake)
-4. [TV New Zealand](http://tvnz.co.nz/national-news/live-updates-christchurch-quake-4038261)
-5. [Radio New Zealand](http://www.radionz.co.nz/news/canterbury-earthquake/69180/deaths-confirmed-as-huge-quake-hits-christchurch)
-6. [TVNZ](http://tvnz.co.nz/national-news/chch-quake-65-confirmed-dead-4038278)
-7. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10707996)
-8. [WA Today](http://www.watoday.com.au/world/huge-quake-hits-christchurch-20110222-1b356.html)
-9. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10707997)
-10. [Sky News](http://news.sky.com/skynews/Article/201102115938201)
-11. [TV3](http://www.3news.co.nz/Christchurch-quake-200-trapped-in-Pyne-building/tabid/423/articleID/199310/Default.aspx)
-12. [Geo Net](http://www.geonet.org.nz/earthquake/quakes/3468575g.html)
-13. [Radio New Zealand](http://www.radionz.co.nz/news/top/69180/huge-earthquake-hits-christchurch-city-centre)
+3. [TVNZ](http://tvnz.co.nz/national-news/chch-quake-65-confirmed-dead-4038278)
+4. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10707996)
+5. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10707997)
+6. [Geo Net](http://www.geonet.org.nz/earthquake/quakes/3468575g.html)
+7. [Radio New Zealand](http://www.radionz.co.nz/news/canterbury-earthquake/69180/deaths-confirmed-as-huge-quake-hits-christchurch)
+8. [Stuff](http://www.stuff.co.nz/national/4688231/65-dead-in-devastating-Christchurch-quake)
+9. [Sky News](http://news.sky.com/skynews/Article/201102115938201)
+10. [Radio New Zealand](http://www.radionz.co.nz/news/top/69180/huge-earthquake-hits-christchurch-city-centre)
+11. [WA Today](http://www.watoday.com.au/world/huge-quake-hits-christchurch-20110222-1b356.html)
+12. [3 News New Zealand](http://www.3news.co.nz/Live-updates-Deaths-confirmed-in-Christchurch-quake/tabid/423/articleID/199310/Default.aspx)
+13. [TV New Zealand](http://tvnz.co.nz/national-news/live-updates-christchurch-quake-4038261)
 
 ### Related:
 

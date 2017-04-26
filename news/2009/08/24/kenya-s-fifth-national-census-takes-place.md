@@ -7,10 +7,10 @@ President Mwai Kibaki Monday evening kicked off the 2009 Kenya Population and Ho
 
 ### Source:
 
-1. [KBC](http://www.kbc.co.ke/story.asp?ID=59420)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8217637.stm)
-3. [The Nation](http://www.nation.co.ke/News/-/1056/644550/-/um72j8/-/)
-4. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gIpZHJ5uG5Zu3_X3n6CyvIxEdykwD9A9AN180)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8217637.stm)
+2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gIpZHJ5uG5Zu3_X3n6CyvIxEdykwD9A9AN180)
+3. [KBC](http://www.kbc.co.ke/story.asp?ID=59420)
+4. [The Nation](http://www.nation.co.ke/News/-/1056/644550/-/um72j8/-/)
 
 ### Related:
 

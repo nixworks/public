@@ -7,9 +7,9 @@ Catholic writer Austin Ivereigy explains that using condoms as a contraception i
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hWS0sJieLtax3VDflQT3MvR1dOlw?docId=47be739eae4f42b1996abf5ac6f2e1f6)
-2. [The Australian](http://www.theaustralian.com.au/news/nation/condoms-justified-to-stop-aids-pope/story-e6frg6nf-1225957998146)
-3. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/8149664/Catholic-Church-contraception-still-forbidden.html)
+1. [The Australian](http://www.theaustralian.com.au/news/nation/condoms-justified-to-stop-aids-pope/story-e6frg6nf-1225957998146)
+2. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/8149664/Catholic-Church-contraception-still-forbidden.html)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hWS0sJieLtax3VDflQT3MvR1dOlw?docId=47be739eae4f42b1996abf5ac6f2e1f6)
 
 ### Related:
 

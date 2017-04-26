@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/article/0,,30200-1283139,00.html)
-2. [CNN](http://edition.cnn.com/2007/WORLD/weather/09/06/felix/index.html)
+1. [CNN](http://edition.cnn.com/2007/WORLD/weather/09/06/felix/index.html)
+2. [Sky News](http://news.sky.com/skynews/article/0,,30200-1283139,00.html)
 
 ### Related:
 

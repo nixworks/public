@@ -7,10 +7,10 @@ Chinese government has dismissed chances of West Asia style revolution in the Co
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/news.htm?main&20110306&56&738694)
+1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20110306&56&738753)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/No-chance-of-Gulf-style-riots-taking-place-China/articleshow/7639701.cms)
-3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20110306&56&738753)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h5o7M-uY9jxbYeLe24TrMOdM-Y1A?docId=CNG.af3406c143150f5cb19eebe48e541502.4e1)
+3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h5o7M-uY9jxbYeLe24TrMOdM-Y1A?docId=CNG.af3406c143150f5cb19eebe48e541502.4e1)
+4. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/news.htm?main&20110306&56&738694)
 
 ### Related:
 

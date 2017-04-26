@@ -7,10 +7,10 @@ Hu was imprisoned for criticising human rights conditions in China ahead of the 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/06/2011625211022390987.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hHefDKYMrR9XyB-eUpbwbsRG1S2g?docId=CNG.c9cde10db53b7b578203134cc9ebbef5.3d1)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13914125)
-4. [Voice of Russia](http://english.ruvr.ru/2011/06/26/52398073.html)
+1. [Voice of Russia](http://english.ruvr.ru/2011/06/26/52398073.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13914125)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/06/2011625211022390987.html)
+4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hHefDKYMrR9XyB-eUpbwbsRG1S2g?docId=CNG.c9cde10db53b7b578203134cc9ebbef5.3d1)
 
 ### Related:
 

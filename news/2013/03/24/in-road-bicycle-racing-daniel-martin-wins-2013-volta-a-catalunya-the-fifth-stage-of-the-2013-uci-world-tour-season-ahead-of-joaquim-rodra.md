@@ -7,8 +7,8 @@ Find out the latest news, stage reports, race scores and expert analysis from th
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/sport/2013/mar/24/ireland-dan-martin-volta-catalunya)
-2. [Cycling News](http://www.cyclingnews.com/races/volta-ciclista-a-catalunya-2013/stage-7/results)
+1. [Cycling News](http://www.cyclingnews.com/races/volta-ciclista-a-catalunya-2013/stage-7/results)
+2. [The Guardian](http://www.guardian.co.uk/sport/2013/mar/24/ireland-dan-martin-volta-catalunya)
 
 ### Related:
 

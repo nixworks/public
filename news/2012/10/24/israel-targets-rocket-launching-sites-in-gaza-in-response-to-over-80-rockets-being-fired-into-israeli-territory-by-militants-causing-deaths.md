@@ -7,8 +7,8 @@ Israel carries out air strikes in the Gaza Strip, killing four Hamas militants, 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20054554)
-2. [The Times of Israel](http://www.timesofisrael.com/rocket-fire-from-gaza-resumes-after-brief-lull/)
+1. [The Times of Israel](http://www.timesofisrael.com/rocket-fire-from-gaza-resumes-after-brief-lull/)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20054554)
 
 ### Related:
 

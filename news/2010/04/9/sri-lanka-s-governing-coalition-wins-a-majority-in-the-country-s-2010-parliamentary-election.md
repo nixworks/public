@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=456795772e0e7210VgnVCM100000360a0a0aRCRD&s=News&ss=Asia+%26+World)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/20104912571106421.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/20104912571106421.html)
+2. [Reuters](http://www.reuters.com/article/idUSTRE63740B20100409?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
 3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8610705.stm)
-4. [Reuters](http://www.reuters.com/article/idUSTRE63740B20100409?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
-5. [France24](http://www.france24.com/en/20100409-sri-lanka-ruling-alliance-wins-parliamentary-majority-rajapaksa-upfa-elections)
+4. [France24](http://www.france24.com/en/20100409-sri-lanka-ruling-alliance-wins-parliamentary-majority-rajapaksa-upfa-elections)
+5. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=456795772e0e7210VgnVCM100000360a0a0aRCRD&s=News&ss=Asia+%26+World)
 
 ### Related:
 

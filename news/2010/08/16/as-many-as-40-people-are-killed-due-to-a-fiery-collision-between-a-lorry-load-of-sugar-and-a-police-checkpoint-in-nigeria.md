@@ -7,9 +7,9 @@ A fiery road crash outside Nigeria’s commercial capital of Lagos has burnt at 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-10988051)
+1. [IOL](http://www.iol.co.za/index.php?from=rss_West%20Africa&set_id=1&click_id=86&art_id=nw20100816123659650C225354)
 2. [News24](http://www.news24.com/Africa/News/15-dead-in-Nigerian-road-crash-20100816)
-3. [IOL](http://www.iol.co.za/index.php?from=rss_West%20Africa&set_id=1&click_id=86&art_id=nw20100816123659650C225354)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-10988051)
 
 ### Related:
 

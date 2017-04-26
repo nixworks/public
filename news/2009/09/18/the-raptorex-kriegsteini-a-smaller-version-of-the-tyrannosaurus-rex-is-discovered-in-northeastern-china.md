@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/science/dinosaurs/6201316/Tinysaurus-Rex-just-nine-foot-long-and-weighing-the-same-as-a-human-discovered.html)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/17/AR2009091702573.html?hpid=sec-nation)
-3. [The Guardian](http://www.guardian.co.uk/science/2009/sep/17/tiny-t-rex-fossil)
+2. [The Guardian](http://www.guardian.co.uk/science/2009/sep/17/tiny-t-rex-fossil)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/17/AR2009091702573.html?hpid=sec-nation)
 
 ### Related:
 

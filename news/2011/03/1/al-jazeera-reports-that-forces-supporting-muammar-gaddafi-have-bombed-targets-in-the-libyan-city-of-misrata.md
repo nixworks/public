@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://blogs.aljazeera.net/live/africa/live-blog-libya-march-1#)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12606855)
-3. [Reuters via ''Hindustan Times](http://www.hindustantimes.com/Gaddafi-forces-mass-world-raises-pressure-on-Libya/Article1-668028.aspx#)
+1. [Reuters via ''Hindustan Times](http://www.hindustantimes.com/Gaddafi-forces-mass-world-raises-pressure-on-Libya/Article1-668028.aspx#)
+2. [Al-Jazeera](http://blogs.aljazeera.net/live/africa/live-blog-libya-march-1#)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-12606855)
 
 ### Related:
 

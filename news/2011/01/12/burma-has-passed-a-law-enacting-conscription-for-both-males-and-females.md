@@ -7,9 +7,9 @@ Burmese men and women above the age of 18 required to serve up to three years in
 
 ### Source:
 
-1. [Democratic Voice of Burma](http://www.dvb.no/news/burma-introduces-military-draft/13640)
-2. [AP via Google](http://www.google.com/hostednews/ukpress/article/ALeqM5iER3nuRWw5nz_MTulPlGhKiwzfWQ?docId=N0060871294635449524A)
-3. [Mizzima](http://www.mizzima.com/news/inside-burma/4739-military-draft-seen-as-threat-to-ethnic-armed-groups.html)
+1. [AP via Google](http://www.google.com/hostednews/ukpress/article/ALeqM5iER3nuRWw5nz_MTulPlGhKiwzfWQ?docId=N0060871294635449524A)
+2. [Mizzima](http://www.mizzima.com/news/inside-burma/4739-military-draft-seen-as-threat-to-ethnic-armed-groups.html)
+3. [Democratic Voice of Burma](http://www.dvb.no/news/burma-introduces-military-draft/13640)
 
 ### Related:
 

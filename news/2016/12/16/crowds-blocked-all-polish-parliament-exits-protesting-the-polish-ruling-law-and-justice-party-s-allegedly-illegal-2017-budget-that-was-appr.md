@@ -7,10 +7,10 @@ Police early Saturday forcefully broke up an hours-long blockade of exits from t
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-poland-politics-crisis-idUSKBN1452TL?il=0)
-2. [Reuters²](http://www.reuters.com/article/us-poland-media-idUSKBN1451OJ?il=0)
-3. [RT](https://www.rt.com/news/370590-poland-parliament-protest-police/)
-4. [Interia](http://fakty.interia.pl/polska/news-agnieszka-pomaska-prezes-pis-mnie-zaatakowal-wyrwal-mi-telef,nId,2323827)
+1. [Reuters²](http://www.reuters.com/article/us-poland-media-idUSKBN1451OJ?il=0)
+2. [Reuters](http://www.reuters.com/article/us-poland-politics-crisis-idUSKBN1452TL?il=0)
+3. [Interia](http://fakty.interia.pl/polska/news-agnieszka-pomaska-prezes-pis-mnie-zaatakowal-wyrwal-mi-telef,nId,2323827)
+4. [RT](https://www.rt.com/news/370590-poland-parliament-protest-police/)
 
 ### Related:
 

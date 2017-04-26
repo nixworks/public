@@ -7,8 +7,8 @@ Twenty-one people were missing after an overloaded boat carrying an estimated 10
 
 ### Source:
 
-1. [BNO via Wire Update](http://wireupdate.com/boat-carrying-more-than-200-capsizes-in-malaysia-21-missing.html)
-2. [AFP via NDTV](http://www.ndtv.com/article/world/boat-with-a-hundred-passengers-capsize-in-malaysia-several-reported-missing-372226)
+1. [AFP via NDTV](http://www.ndtv.com/article/world/boat-with-a-hundred-passengers-capsize-in-malaysia-several-reported-missing-372226)
+2. [BNO via Wire Update](http://wireupdate.com/boat-carrying-more-than-200-capsizes-in-malaysia-21-missing.html)
 
 ### Related:
 

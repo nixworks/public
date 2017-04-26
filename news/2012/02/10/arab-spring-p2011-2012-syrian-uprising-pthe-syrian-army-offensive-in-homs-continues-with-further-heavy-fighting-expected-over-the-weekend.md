@@ -7,13 +7,13 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hFDG7Ov6zinzYxhTIJjkq6KhOdMA?docId=8f9677a734a544a493fc6a42d95aac12)
-2. [UPI](http://www.upi.com/Top_News/Special/2012/02/10/Egyptians-march-on-Defense-Ministry/UPI-17981328888930/)
-3. [Washington Post](http://www.washingtonpost.com/world/middle-east/bahrain-anti-government-protesters-seek-new-freedom-square-for-uprising-anniversary/2012/02/10/gIQAh4pv3Q_story.html)
-4. [AP via ABC News America](http://abcnews.go.com/International/wireStory/explosion-hit-northern-syrian-city-aleppo-15553351#.TzTbq8Ugpa8)
-5. [Foreign Policy](http://thecable.foreignpolicy.com/posts/2012/02/10/senators_call_for_aiding_the_syrian_opposition)
+1. [Reuters](http://uk.reuters.com/article/2012/02/10/uk-syria-idUKL6E8C52E220120210)
+2. [Washington Post](http://www.washingtonpost.com/world/middle-east/bahrain-anti-government-protesters-seek-new-freedom-square-for-uprising-anniversary/2012/02/10/gIQAh4pv3Q_story.html)
+3. [Foreign Policy](http://thecable.foreignpolicy.com/posts/2012/02/10/senators_call_for_aiding_the_syrian_opposition)
+4. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hFDG7Ov6zinzYxhTIJjkq6KhOdMA?docId=8f9677a734a544a493fc6a42d95aac12)
+5. [AP via ABC News America](http://abcnews.go.com/International/wireStory/explosion-hit-northern-syrian-city-aleppo-15553351#.TzTbq8Ugpa8)
 6. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/syria-feb-11-2012-0221)
-7. [Reuters](http://uk.reuters.com/article/2012/02/10/uk-syria-idUKL6E8C52E220120210)
+7. [UPI](http://www.upi.com/Top_News/Special/2012/02/10/Egyptians-march-on-Defense-Ministry/UPI-17981328888930/)
 
 ### Related:
 

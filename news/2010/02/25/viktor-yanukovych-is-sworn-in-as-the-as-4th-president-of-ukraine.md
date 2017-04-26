@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/60475/)
-2. [BBC Europe](http://news.bbc.co.uk/2/hi/europe/8535778.stm)
-3. [The Moscow Times](http://www.themoscowtimes.com/news/article/yanukovych-promises-russia-west-balancing-act/400455.html)
-4. [CNN](http://edition.cnn.com/2010/WORLD/europe/02/25/ukraine.yanukovich.inauguration/)
+1. [BBC Europe](http://news.bbc.co.uk/2/hi/europe/8535778.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/02/25/ukraine.yanukovich.inauguration/)
+3. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/60475/)
+4. [The Moscow Times](http://www.themoscowtimes.com/news/article/yanukovych-promises-russia-west-balancing-act/400455.html)
 
 ### Related:
 

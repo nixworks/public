@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via CBC](http://www.cbc.ca/news/canada/north/story/2013/03/13/north-greenland-election-results.html)
-2. [AAP via ''The Australian](http://www.theaustralian.com.au/news/breaking-news/greenland-to-get-first-woman-pm/story-fn3dxix6-1226596814879)
+1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/breaking-news/greenland-to-get-first-woman-pm/story-fn3dxix6-1226596814879)
+2. [AP via CBC](http://www.cbc.ca/news/canada/north/story/2013/03/13/north-greenland-election-results.html)
 
 ### Related:
 

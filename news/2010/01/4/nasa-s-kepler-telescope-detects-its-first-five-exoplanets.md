@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [National Geographic](http://news.nationalgeographic.com/news/2010/01/100104-new-planets-kepler-nasa.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8440392.stm)
 2. [New Scientist](http://www.newscientist.com/article/dn18335-kepler-telescope-spots-styrofoam-planet.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8440392.stm)
+3. [National Geographic](http://news.nationalgeographic.com/news/2010/01/100104-new-planets-kepler-nasa.html)
 
 ### Related:
 

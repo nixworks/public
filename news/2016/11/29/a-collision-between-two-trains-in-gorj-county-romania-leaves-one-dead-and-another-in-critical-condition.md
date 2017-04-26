@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Stirileprotv.ro](http://stirileprotv.ro/stiri/actualitate/accident-feroviar-grav-langa-targu-jiu-doua-trenuri-s-au-izbit-frontal.html)
-2. [Realitatea](https://www.realitatea.net/accident-feroviar-grav-in-gorj-un-mecanic-de-tren-a-murit_2008133.html)
+1. [Realitatea](https://www.realitatea.net/accident-feroviar-grav-in-gorj-un-mecanic-de-tren-a-murit_2008133.html)
+2. [Stirileprotv.ro](http://stirileprotv.ro/stiri/actualitate/accident-feroviar-grav-langa-targu-jiu-doua-trenuri-s-au-izbit-frontal.html)
 
 ### Related:
 

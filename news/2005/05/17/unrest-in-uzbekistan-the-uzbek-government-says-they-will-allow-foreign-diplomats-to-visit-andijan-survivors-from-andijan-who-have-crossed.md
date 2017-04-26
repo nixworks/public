@@ -7,15 +7,15 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=11285461)
-2. [London Free Press](http://www.canoe.ca/NewsStand/LondonFreePress/News/2005/05/17/1042825-sun.html)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L17559363.htm)
-4. [Guardian Unlimited](http://www.guardian.co.uk/international/story/0,3604,1485421,00.html)
-5. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L16216312.htm)
-6. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5013280,00.html)
-7. [IHT](http://www.iht.com/articles/2005/05/17/news/uzbek.php)
-8. [Moscow Times](http://www.themoscowtimes.com/stories/2005/05/18/016.html)
-9. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/05/17/wuzbek17.xml&sSheet=/news/2005/05/17/ixnewstop.html)
+1. [Moscow Times](http://www.themoscowtimes.com/stories/2005/05/18/016.html)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L17559363.htm)
+3. [IHT](http://www.iht.com/articles/2005/05/17/news/uzbek.php)
+4. [London Free Press](http://www.canoe.ca/NewsStand/LondonFreePress/News/2005/05/17/1042825-sun.html)
+5. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5013280,00.html)
+6. [Guardian Unlimited](http://www.guardian.co.uk/international/story/0,3604,1485421,00.html)
+7. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L16216312.htm)
+8. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/05/17/wuzbek17.xml&sSheet=/news/2005/05/17/ixnewstop.html)
+9. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=11285461)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Nation](http://202.60.196.117/breaking/read.php?lang=en&newsid=94166)
-2. [Bangkok Post](http://www.bangkokpost.com/News/13Nov2005_news02.php)
+1. [Bangkok Post](http://www.bangkokpost.com/News/13Nov2005_news02.php)
+2. [The Nation](http://202.60.196.117/breaking/read.php?lang=en&newsid=94166)
 
 ### Related:
 

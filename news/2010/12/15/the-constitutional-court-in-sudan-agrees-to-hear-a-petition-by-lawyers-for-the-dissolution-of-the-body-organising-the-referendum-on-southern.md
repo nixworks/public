@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6BE01L20101215?sp=true)
-2. [Sudan Tribune](http://www.sudantribune.com/Sudan-s-constitutional-court,37277)
+1. [Sudan Tribune](http://www.sudantribune.com/Sudan-s-constitutional-court,37277)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6BE01L20101215?sp=true)
 
 ### Related:
 

@@ -8,9 +8,9 @@ At least 848 Afghan civilians were killed or wounded following a Taliban attack 
 ### Source:
 
 1. [Radio Free Europe](http://www.rferl.org/content/afghanistan-un-report-kunduz-violence/27422671.html)
-2. [Reuters](http://www.reuters.com/article/us-afghanistan-fighting-report-idUSKBN0TV07720151212#2QL88hCCMPdAPCwZ.97)
-3. [The Guardian](http://www.theguardian.com/world/2015/dec/12/msf-afghanistan-hospital-airstrike-death-toll-42)
-4. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3357169/MSF-says-death-toll-rises-42-Afghan-hospital-strike.html)
+2. [The Guardian](http://www.theguardian.com/world/2015/dec/12/msf-afghanistan-hospital-airstrike-death-toll-42)
+3. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3357169/MSF-says-death-toll-rises-42-Afghan-hospital-strike.html)
+4. [Reuters](http://www.reuters.com/article/us-afghanistan-fighting-report-idUSKBN0TV07720151212#2QL88hCCMPdAPCwZ.97)
 
 ### Related:
 

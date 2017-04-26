@@ -7,12 +7,12 @@ Israel carries out a joint missile test with the US in the Mediterranean, amid h
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/2013/09/02/french-intel-syria-attack_n_3856762.html)
+1. [Washington Post](http://www.washingtonpost.com/world/national-security/kerry-hagel-to-appear-at-foreign-relations-committee-to-make-the-case-for-syria-strikes/2013/09/02/936adc48-13df-11e3-a100-66fa8fd9a50c_story.html)
 2. [Reuters](http://www.reuters.com/article/2013/09/03/us-syria-crisis-un-idUSBRE9820VX20130903)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-23947354)
-4. [Washington Post](http://www.washingtonpost.com/world/national-security/kerry-hagel-to-appear-at-foreign-relations-committee-to-make-the-case-for-syria-strikes/2013/09/02/936adc48-13df-11e3-a100-66fa8fd9a50c_story.html)
-5. [Sky News](http://news.sky.com/story/1136479/syria-israel-fires-missiles-in-mediterranean)
-6. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10282697/US-general-says-Syria-action-could-be-more-substantial-than-thought.html)
+3. [Huffington Post](http://www.huffingtonpost.com/2013/09/02/french-intel-syria-attack_n_3856762.html)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10282697/US-general-says-Syria-action-could-be-more-substantial-than-thought.html)
+5. [BBC](http://www.bbc.co.uk/news/world-middle-east-23947354)
+6. [Sky News](http://news.sky.com/story/1136479/syria-israel-fires-missiles-in-mediterranean)
 
 ### Related:
 

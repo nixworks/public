@@ -7,9 +7,9 @@ Fourteen people have been killed in China in the heaviest rains in a century bro
 
 ### Source:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/07/world/asia/ap-as-asia-typhoon.html)
-2. [AFP via ABC News](http://www.abc.net.au/news/2015-08-09/thousands-evacuated-as-typhoon-soudelor-approaches-china/6683360)
-3. [CNA via Focus Taiwan](http://focustaiwan.tw/news/asoc/201508080004.aspx)
+1. [CNA via Focus Taiwan](http://focustaiwan.tw/news/asoc/201508080004.aspx)
+2. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/07/world/asia/ap-as-asia-typhoon.html)
+3. [AFP via ABC News](http://www.abc.net.au/news/2015-08-09/thousands-evacuated-as-typhoon-soudelor-approaches-china/6683360)
 
 ### Related:
 

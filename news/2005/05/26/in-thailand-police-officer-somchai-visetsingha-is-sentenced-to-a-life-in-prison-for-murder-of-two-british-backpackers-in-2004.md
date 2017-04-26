@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [MCOT](http://www.mcot.org/query.php?nid=38824)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/devon/4579823.stm)
-3. [Reuters](http://www.alertnet.org/thenews/newsdesk/BKK270321.htm)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/BKK270321.htm)
+2. [MCOT](http://www.mcot.org/query.php?nid=38824)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/devon/4579823.stm)
 
 ### Related:
 

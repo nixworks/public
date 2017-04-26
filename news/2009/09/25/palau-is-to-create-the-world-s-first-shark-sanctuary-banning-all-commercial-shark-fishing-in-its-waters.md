@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Science_News/2009/09/25/Palau-to-create-shark-sanctuary/UPI-25501253888487/)
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8272508.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6848627.ece)
-3. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8272508.stm)
+3. [UPI](http://www.upi.com/Science_News/2009/09/25/Palau-to-create-shark-sanctuary/UPI-25501253888487/)
 
 ### Related:
 

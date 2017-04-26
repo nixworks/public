@@ -7,8 +7,8 @@ When Germans at a Nazi camp demanded that Jewish POWs identify themselves, Roddi
 
 ### Source:
 
-1. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/02/458166709/u-s-soldier-posthumously-honored-for-protecting-jewish-pows-in-1945?utm_source=twitter.com&utm_campaign=npr&utm_medium=social&utm_term=nprnews)
-2. [Yad Vashem](http://www.yadvashem.org/yv/en/pressroom/pressreleases/pr_details.asp?cid=960#!prettyPhoto)
+1. [Yad Vashem](http://www.yadvashem.org/yv/en/pressroom/pressreleases/pr_details.asp?cid=960#!prettyPhoto)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/02/458166709/u-s-soldier-posthumously-honored-for-protecting-jewish-pows-in-1945?utm_source=twitter.com&utm_campaign=npr&utm_medium=social&utm_term=nprnews)
 
 ### Related:
 

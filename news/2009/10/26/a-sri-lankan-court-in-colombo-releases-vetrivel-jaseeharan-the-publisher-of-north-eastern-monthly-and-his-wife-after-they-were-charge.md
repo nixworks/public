@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8326490.stm)
-2. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/international/2009/October/international_October1766.xml&section=international)
+1. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/international/2009/October/international_October1766.xml&section=international)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8326490.stm)
 
 ### Related:
 

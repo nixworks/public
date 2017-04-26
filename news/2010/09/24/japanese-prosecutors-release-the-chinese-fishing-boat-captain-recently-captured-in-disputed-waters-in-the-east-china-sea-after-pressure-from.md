@@ -7,9 +7,9 @@ Japan frees a Chinese fishing boat captain whose arrest in disputed waters two w
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/201092454848191156.html)
-2. [Reuters via Yahoo! News UK](http://uk.news.yahoo.com/22/20100924/tpl-uk-japan-china-release-81f3b62.html)
-3. [BBC](http://www.bbc.co.uk/news/world-11403241)
+1. [BBC](http://www.bbc.co.uk/news/world-11403241)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/201092454848191156.html)
+3. [Reuters via Yahoo! News UK](http://uk.news.yahoo.com/22/20100924/tpl-uk-japan-china-release-81f3b62.html)
 
 ### Related:
 

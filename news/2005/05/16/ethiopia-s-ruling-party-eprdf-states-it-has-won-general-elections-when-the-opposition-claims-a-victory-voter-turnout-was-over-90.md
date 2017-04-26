@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/4550839.stm)
-2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1706024,00.html)
+1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1706024,00.html)
+2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1705687,00.html)
 3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:4288b79d:7f2bdd29bfa371f3?type=topNews&localeKey=en_ZA&storyID=8503962)
-4. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1705687,00.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/africa/4550839.stm)
 
 ### Related:
 

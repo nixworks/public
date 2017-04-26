@@ -8,9 +8,9 @@ The Pope will arrive at the Basilica of the National Shrine of the Immaculate Co
 ### Source:
 
 1. [Washington Post](https://www.washingtonpost.com/apps/g/page/world/what-to-watch-for-at-wednesdays-mass/1827/)
-2. [AP via MSN](http://www.msn.com/en-us/news/us/the-pope-at-white-house-climate-change-action-cant-wait/ar-AAeFJwC?li=AAa0dzB&ocid=iehp)
-3. [The New York Times](http://www.nytimes.com/news-event/pope-francis-us-visit?hp&action=click&pgtype=Homepage&module=above-banner-region&region=above-banner-region&WT.nav=above-banner-region)
-4. [CNN](http://www.cnn.com/2015/09/23/politics/pope-francis-washington-visit-updates/index.html)
+2. [The New York Times](http://www.nytimes.com/news-event/pope-francis-us-visit?hp&action=click&pgtype=Homepage&module=above-banner-region&region=above-banner-region&WT.nav=above-banner-region)
+3. [CNN](http://www.cnn.com/2015/09/23/politics/pope-francis-washington-visit-updates/index.html)
+4. [AP via MSN](http://www.msn.com/en-us/news/us/the-pope-at-white-house-climate-change-action-cant-wait/ar-AAeFJwC?li=AAa0dzB&ocid=iehp)
 
 ### Related:
 

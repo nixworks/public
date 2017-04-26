@@ -7,8 +7,8 @@ Republican presidential candidate Ted Cruz said Monday he’s fired campaign com
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/politics/2016/02/22/cruz-fires-top-campaign-spokesman-over-rubio-bible-video.html)
-2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/02/22/cruz-fires-spokesman-over-inaccurate-video-accusing-rubio-of-negative-comment-about-bible/)
+1. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/02/22/cruz-fires-spokesman-over-inaccurate-video-accusing-rubio-of-negative-comment-about-bible/)
+2. [Fox News](http://www.foxnews.com/politics/2016/02/22/cruz-fires-top-campaign-spokesman-over-rubio-bible-video.html)
 
 ### Related:
 

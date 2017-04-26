@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/03/indonesia.earthquake/index.html)
-2. [Press TV](http://www.presstv.ir/detail.aspx?id=107715&sectionid=351020406)
+1. [Press TV](http://www.presstv.ir/detail.aspx?id=107715&sectionid=351020406)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/03/indonesia.earthquake/index.html)
 
 ### Related:
 

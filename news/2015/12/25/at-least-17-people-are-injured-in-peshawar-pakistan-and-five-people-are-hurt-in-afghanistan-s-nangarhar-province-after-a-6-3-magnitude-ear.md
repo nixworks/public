@@ -7,10 +7,10 @@ It came two months after more than 300 people were killed by a quake in the same
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/world/6-2-magnitude-earthquake-hits-northern-afghanistan-pakistan-n485931)
-2. [BNO News](http://bnonews.com/news/index.php/news/id3119)
-3. [CNN](http://www.cnn.com/2015/12/25/asia/afghanistan-tajikistan-earthquake/)
-4. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us100049i1#general_summary)
+1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us100049i1#general_summary)
+2. [CNN](http://www.cnn.com/2015/12/25/asia/afghanistan-tajikistan-earthquake/)
+3. [NBC News](http://www.nbcnews.com/news/world/6-2-magnitude-earthquake-hits-northern-afghanistan-pakistan-n485931)
+4. [BNO News](http://bnonews.com/news/index.php/news/id3119)
 
 ### Related:
 

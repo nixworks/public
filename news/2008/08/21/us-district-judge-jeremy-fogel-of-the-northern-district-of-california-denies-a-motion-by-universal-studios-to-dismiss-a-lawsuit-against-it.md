@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [text of the order via EFF](http://www.eff.org/files/filenode/lenz_v_universal/lenzorder082008.pdf)
-2. [Ars Technica](http://arstechnica.com/news.ars/post/20080821-fair-use-gets-a-fair-shake-youtube-tot-to-get-day-in-court.html)
+1. [Ars Technica](http://arstechnica.com/news.ars/post/20080821-fair-use-gets-a-fair-shake-youtube-tot-to-get-day-in-court.html)
+2. [text of the order via EFF](http://www.eff.org/files/filenode/lenz_v_universal/lenzorder082008.pdf)
 
 ### Related:
 

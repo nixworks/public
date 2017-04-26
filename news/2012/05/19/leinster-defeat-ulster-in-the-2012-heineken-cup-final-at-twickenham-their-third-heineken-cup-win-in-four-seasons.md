@@ -7,8 +7,8 @@ Leinster were crowned European champions for a third time in four years after cr
 
 ### Source:
 
-1. [Setanta Sports](http://www.setanta.com/ien/Articles/2012/05/19/Leinster-vs-Ulster-minute-by-minute/gnid-142666/)
-2. [RTÉ](http://www.rte.ie/sport/rugby/heineken-cup/2012/0519/321612-leinster-42-14-ulster/)
+1. [RTÉ](http://www.rte.ie/sport/rugby/heineken-cup/2012/0519/321612-leinster-42-14-ulster/)
+2. [Setanta Sports](http://www.setanta.com/ien/Articles/2012/05/19/Leinster-vs-Ulster-minute-by-minute/gnid-142666/)
 
 ### Related:
 

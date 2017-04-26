@@ -7,11 +7,11 @@ An Arab Israeli stabbed four people near a bus stop in northern Israel on Sunday
 
 ### Source:
 
-1. [AP via Houston Chronicle](http://www.chron.com/news/world/article/The-Latest-Gaza-officials-say-airstrike-kills-6564490.php)
+1. [AFP via New Indian Express](http://www.newindianexpress.com/world/Israeli-Strike-Kills-2-Palestinians-in-Gaza-as-Unrest-Spiral/2015/10/11/article3074391.ece)
 2. [AP via New York Times](http://www.nytimes.com/aponline/2015/10/11/world/middleeast/ap-ml-israel-palestinians-the-latest.html?_r=0)
-3. [Reuters](http://www.reuters.com/article/2015/10/11/us-israel-palestinians-idUSKCN0S501720151011)
-4. [AFP via New Indian Express](http://www.newindianexpress.com/world/Israeli-Strike-Kills-2-Palestinians-in-Gaza-as-Unrest-Spiral/2015/10/11/article3074391.ece)
-5. [AFP via NDTV](http://www.ndtv.com/world-news/palestinian-wounds-israeli-policeman-in-attempted-suicide-bombing-1230737)
+3. [AFP via NDTV](http://www.ndtv.com/world-news/palestinian-wounds-israeli-policeman-in-attempted-suicide-bombing-1230737)
+4. [AP via Houston Chronicle](http://www.chron.com/news/world/article/The-Latest-Gaza-officials-say-airstrike-kills-6564490.php)
+5. [Reuters](http://www.reuters.com/article/2015/10/11/us-israel-palestinians-idUSKCN0S501720151011)
 
 ### Related:
 

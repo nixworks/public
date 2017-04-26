@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hansard](http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm081203/debtext/81203-0001.htm)
-2. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/politics/7764093.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/politics/7764093.stm)
+2. [Hansard](http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm081203/debtext/81203-0001.htm)
 
 ### Related:
 

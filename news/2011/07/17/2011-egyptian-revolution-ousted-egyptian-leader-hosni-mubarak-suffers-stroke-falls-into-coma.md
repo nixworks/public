@@ -7,12 +7,12 @@ Hosni Mubarak&#039;s lawyer says the former Egyptian president is in a coma just
 
 ### Source:
 
-1. [ABC](http://www.abc.net.au/news/2011-07-18/mubarak-health/2798152)
+1. [New York Times](http://www.nytimes.com/2011/07/18/world/middleeast/18syria.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14178740)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011717134540580142.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/2011717142844567305.html)
-5. [New York Times](http://www.nytimes.com/2011/07/18/world/middleeast/18syria.html)
-6. [Haaretz](http://www.haaretz.com/news/middle-east/ousted-egyptian-leader-mubarak-suffers-stroke-falls-into-coma-1.373744)
+3. [Haaretz](http://www.haaretz.com/news/middle-east/ousted-egyptian-leader-mubarak-suffers-stroke-falls-into-coma-1.373744)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011717134540580142.html)
+5. [ABC](http://www.abc.net.au/news/2011-07-18/mubarak-health/2798152)
+6. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/2011717142844567305.html)
 
 ### Related:
 

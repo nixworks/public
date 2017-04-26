@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7914541.stm)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Bangladesh-Mutiny-Forces-Detain-Nearly-300-Border-Guards-After-Two-Days-Of-Violence-In-Dhaka/Article/200902415230962?lpos=World_News_First_World_News_Article_Teaser_Region_2&lid=ARTICLE_15230962_Bangladesh_Mutiny%3A_Forces_Detain_Nearly_300_Border_Guards_After_Two_Days_Of_Violence_In_Dhaka)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Bangladesh-Mutiny-Forces-Detain-Nearly-300-Border-Guards-After-Two-Days-Of-Violence-In-Dhaka/Article/200902415230962?lpos=World_News_First_World_News_Article_Teaser_Region_2&lid=ARTICLE_15230962_Bangladesh_Mutiny%3A_Forces_Detain_Nearly_300_Border_Guards_After_Two_Days_Of_Violence_In_Dhaka)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7914541.stm)
 
 ### Related:
 

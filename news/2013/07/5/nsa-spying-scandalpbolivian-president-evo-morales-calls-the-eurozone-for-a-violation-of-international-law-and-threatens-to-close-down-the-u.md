@@ -7,8 +7,8 @@ MANAGUA, Nicaragua (AP) — Presidents Daniel Ortega of Nicaragua and Nicolas Ma
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/jul/05/bolivia-morales-close-us-embassy)
-2. [AP via ''USA today](http://www.usatoday.com/story/news/world/2013/07/05/wikileaks-6-asylum-requests/2493225/)
+1. [AP via ''USA today](http://www.usatoday.com/story/news/world/2013/07/05/wikileaks-6-asylum-requests/2493225/)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/jul/05/bolivia-morales-close-us-embassy)
 
 ### Related:
 

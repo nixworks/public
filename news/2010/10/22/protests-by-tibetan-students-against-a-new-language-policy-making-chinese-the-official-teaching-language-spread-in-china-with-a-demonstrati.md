@@ -7,9 +7,9 @@ Protests by Tibetan students over plans to elevate Chinese to the main language 
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-tibet-protests-20101023,0,1063679.story)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11604013)
-3. [Global Times](http://china.globaltimes.cn/society/2010-10/584565.html)
+1. [Global Times](http://china.globaltimes.cn/society/2010-10/584565.html)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-tibet-protests-20101023,0,1063679.story)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11604013)
 
 ### Related:
 

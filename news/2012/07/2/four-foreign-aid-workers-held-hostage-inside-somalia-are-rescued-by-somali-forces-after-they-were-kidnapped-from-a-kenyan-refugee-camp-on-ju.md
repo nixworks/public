@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/four-foreign-aid-workers-rescued-somalia-army-062948312.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-18670091)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-18670091)
+2. [Reuters via Yahoo! News](http://news.yahoo.com/four-foreign-aid-workers-rescued-somalia-army-062948312.html)
 
 ### Related:
 

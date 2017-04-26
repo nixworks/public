@@ -8,8 +8,8 @@ Heavy security amid fears of racial tensions around funeral of Eugene Terreblanc
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8610741.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104913336825289.html)
-3. [Sky News](http://news.sky.com/skynews/Home/World-News/Terreblanche-Funeral-Heavy-Security-For-White-Supremacists-Funeral-In-South-Africa/Article/201004215597786?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15597786_Terreblanche_Funeral%3A_Heavy_Security_For_White_Supremacists_Funeral_In_South_Africa)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Terreblanche-Funeral-Heavy-Security-For-White-Supremacists-Funeral-In-South-Africa/Article/201004215597786?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15597786_Terreblanche_Funeral%3A_Heavy_Security_For_White_Supremacists_Funeral_In_South_Africa)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104913336825289.html)
 
 ### Related:
 

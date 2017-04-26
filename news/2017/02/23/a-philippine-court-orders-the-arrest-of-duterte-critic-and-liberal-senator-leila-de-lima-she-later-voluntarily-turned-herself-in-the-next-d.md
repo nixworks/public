@@ -7,8 +7,8 @@ De Lima, a vocal critic of President Duterte, is facing drug trafficking charges
 
 ### Source:
 
-1. [PDI](http://newsinfo.inquirer.net/874861/after-awaiting-arrest-at-senate-de-lima-turns-self-in)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/02/philippine-court-orders-arrest-senator-leila-de-lima-170223140039218.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/philippine-court-orders-arrest-senator-leila-de-lima-170223140039218.html)
+2. [PDI](http://newsinfo.inquirer.net/874861/after-awaiting-arrest-at-senate-de-lima-turns-self-in)
 
 ### Related:
 

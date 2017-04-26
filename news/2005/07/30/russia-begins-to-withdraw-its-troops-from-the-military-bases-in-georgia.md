@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Euronews](http://euronews.net/create_html.php?page=detail_info&article=302100&lng=1)
-2. [Mosnews](http://www.mosnews.com/news/2005/07/30/troops.shtml)
+1. [Mosnews](http://www.mosnews.com/news/2005/07/30/troops.shtml)
+2. [Euronews](http://euronews.net/create_html.php?page=detail_info&article=302100&lng=1)
 3. [Messenger, Georgia](http://www.messenger.com.ge/issues/0915_august_1_2005/news_0915_1.htm)
 
 ### Related:

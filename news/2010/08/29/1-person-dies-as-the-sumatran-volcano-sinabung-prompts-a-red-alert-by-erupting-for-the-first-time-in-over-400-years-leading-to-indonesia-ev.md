@@ -7,9 +7,9 @@ Indonesia issues a red alert after the Sinabung volcano on Sumatra erupts, spewi
 
 ### Source:
 
-1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/29/2996474.htm?section=justin)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hNV5wQJkwQ-Cfn7_tdJST4ANIZpQ)
 2. [DPA via Monsters and Critics](http://www.monstersandcritics.com/news/asiapacific/news/article_1580736.php/One-dead-thousands-flee-as-volcano-erupts-in-Indonesia-2nd-Lead)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hNV5wQJkwQ-Cfn7_tdJST4ANIZpQ)
+3. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/29/2996474.htm?section=justin)
 
 ### Related:
 

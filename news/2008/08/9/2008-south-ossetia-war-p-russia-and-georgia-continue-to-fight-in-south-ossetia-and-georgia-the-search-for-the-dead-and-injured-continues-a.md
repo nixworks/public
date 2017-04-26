@@ -7,16 +7,16 @@ Russia accused Georgia on Saturday of seeking bloody adventures by trying to ret
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5hV2N6fVKS5slf10A13Dj_uIdaZ4QD92EO4000)
-2. [RIA](http://en.rian.ru/russia/20080809/115914161.html)
-3. [RIAN](http://en.rian.ru/russia/20080809/115917652.html)
-4. [BBC News](http://news.bbc.co.uk/2/hi/europe/7551576.stm)
-5. [BBC News](http://news.bbc.co.uk/2/hi/europe/7550354.stm)
-6. [BBC News](http://news.bbc.co.uk/2/hi/europe/7551595.stm)
-7. [The Local](http://www.thelocal.se/13596/20080809/)
-8. [Reuters](http://www.reuters.com/article/newsOne/idUSL768040420080809?pageNumber=2&virtualBrandChannel=0)
-9. [AP via Yahoo! News](http://news.yahoo.com/s/ap/georgia_south_ossetia)
-10. [BBC News](http://news.bbc.co.uk/2/hi/europe/7550804.stm)
+1. [RIAN](http://en.rian.ru/russia/20080809/115917652.html)
+2. [The Local](http://www.thelocal.se/13596/20080809/)
+3. [BBC News](http://news.bbc.co.uk/2/hi/europe/7551595.stm)
+4. [BBC News](http://news.bbc.co.uk/2/hi/europe/7550804.stm)
+5. [AP via Google News](http://ap.google.com/article/ALeqM5hV2N6fVKS5slf10A13Dj_uIdaZ4QD92EO4000)
+6. [RIA](http://en.rian.ru/russia/20080809/115914161.html)
+7. [Reuters](http://www.reuters.com/article/newsOne/idUSL768040420080809?pageNumber=2&virtualBrandChannel=0)
+8. [AP via Yahoo! News](http://news.yahoo.com/s/ap/georgia_south_ossetia)
+9. [BBC News](http://news.bbc.co.uk/2/hi/europe/7550354.stm)
+10. [BBC News](http://news.bbc.co.uk/2/hi/europe/7551576.stm)
 
 ### Related:
 

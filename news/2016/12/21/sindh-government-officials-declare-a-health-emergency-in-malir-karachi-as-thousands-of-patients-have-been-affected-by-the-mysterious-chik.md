@@ -7,8 +7,8 @@ KARACHI - The Sindh government has declared a health emergency in Karachi’s Ma
 
 ### Source:
 
-1. [ (Dunya News tv](http://dunyanews.tv/en/Pakistan/366408-Aedes-aegypti-mosquito-responsible-for-Chikungun)
-2. [Geo tv](https://www.geo.tv/latest/124382-More-patients-arrive-at-Karachi-hospital-with-symptoms-of-mysterious-virus)
+1. [Geo tv](https://www.geo.tv/latest/124382-More-patients-arrive-at-Karachi-hospital-with-symptoms-of-mysterious-virus)
+2. [ (Dunya News tv](http://dunyanews.tv/en/Pakistan/366408-Aedes-aegypti-mosquito-responsible-for-Chikungun)
 3. [Daily Pakistan](https://en.dailypakistan.com.pk/headline/emergency-declared-in-malir-as-thousands-fear-falling-victim-to-mysterious-chikungunya-virus/)
 
 ### Related:

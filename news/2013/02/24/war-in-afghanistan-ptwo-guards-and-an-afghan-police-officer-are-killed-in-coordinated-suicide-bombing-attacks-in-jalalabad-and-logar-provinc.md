@@ -7,8 +7,8 @@ KABUL, Afghanistan -- Afghan security forces foiled an apparent suicide bomber i
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-afghan-bombers-20130223,0,701440.story)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-21566295)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-21566295)
+2. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-afghan-bombers-20130223,0,701440.story)
 
 ### Related:
 

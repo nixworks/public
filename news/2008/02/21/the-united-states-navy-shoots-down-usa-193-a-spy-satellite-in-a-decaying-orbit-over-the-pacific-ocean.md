@@ -8,8 +8,8 @@
 ### Source:
 
 1. [FoxNews.com](http://www.foxnews.com/story/0,2933,331642,00.html)
-2. [U.S. DoD video](http://dodvclips.mil/index.jsp?auto_band=x&rf=sv&fr_story=FRdamp250959&rf/)
-3. [AP via Breitbart.com](http://www.breitbart.com/article.php?id=D8UUFA002&show_article=1)
+2. [AP via Breitbart.com](http://www.breitbart.com/article.php?id=D8UUFA002&show_article=1)
+3. [U.S. DoD video](http://dodvclips.mil/index.jsp?auto_band=x&rf=sv&fr_story=FRdamp250959&rf/)
 
 ### Related:
 

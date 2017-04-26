@@ -8,8 +8,8 @@ State of emergency declared in Queensland where homes have been destroyed.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/2009101863556779542.html)
-2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26226160-5006786,00.html)
-3. [TVNZ](http://tvnz.co.nz/world-news/bushfires-burn-across-australia-3080869)
+2. [TVNZ](http://tvnz.co.nz/world-news/bushfires-burn-across-australia-3080869)
+3. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26226160-5006786,00.html)
 
 ### Related:
 

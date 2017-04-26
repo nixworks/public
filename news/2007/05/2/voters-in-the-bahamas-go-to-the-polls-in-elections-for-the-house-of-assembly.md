@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6618421.stm)
-2. [AP via CNN](http://edition.cnn.com/2007/WORLD/americas/05/02/bahamas.election.ap/index.html?eref=rss_world)
+1. [AP via CNN](http://edition.cnn.com/2007/WORLD/americas/05/02/bahamas.election.ap/index.html?eref=rss_world)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6618421.stm)
 
 ### Related:
 

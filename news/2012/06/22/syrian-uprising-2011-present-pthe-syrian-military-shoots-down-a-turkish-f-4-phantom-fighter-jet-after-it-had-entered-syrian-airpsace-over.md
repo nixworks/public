@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18561219)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262210113949697.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/jun/22/saudi-arabia-syria-rebel-army)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262210113949697.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18561219)
 
 ### Related:
 

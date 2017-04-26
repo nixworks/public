@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Energy_Resources/2009/07/31/Putin-inaugurates-Far-East-gas-network/UPI-26731249054386/)
-2. [Reuters](http://www.reuters.com/article/companyNewsAndPR/idUSLV7139820090731)
+1. [Reuters](http://www.reuters.com/article/companyNewsAndPR/idUSLV7139820090731)
+2. [UPI](http://www.upi.com/Energy_Resources/2009/07/31/Putin-inaugurates-Far-East-gas-network/UPI-26731249054386/)
 
 ### Related:
 

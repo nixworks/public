@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AOL](http://news.aol.com/story/_a/official-300-wounded-in-sri-lanka/n20090127071409990102)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/01/28/sri.lanka.fighting/index.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/01/28/sri.lanka.fighting/index.html)
+2. [AOL](http://news.aol.com/story/_a/official-300-wounded-in-sri-lanka/n20090127071409990102)
 
 ### Related:
 

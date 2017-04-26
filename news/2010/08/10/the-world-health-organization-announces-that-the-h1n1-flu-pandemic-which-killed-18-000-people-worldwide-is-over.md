@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WHO](http://www.who.int/mediacentre/news/statements/2010/h1n1_vpc_20100810/en/index.html)
-2. [CBC](http://www.cbc.ca/world/story/2010/08/10/who-h1n1-swine-flu-pandemic.html)
+1. [CBC](http://www.cbc.ca/world/story/2010/08/10/who-h1n1-swine-flu-pandemic.html)
+2. [WHO](http://www.who.int/mediacentre/news/statements/2010/h1n1_vpc_20100810/en/index.html)
 
 ### Related:
 

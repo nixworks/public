@@ -7,8 +7,8 @@ A new study paints a picture of an Earth that is warmer than it has been in abou
 
 ### Source:
 
-1. [Nature](http://www.nature.com/news/longest-historic-temperature-record-stretches-back-2-million-years-1.20673#/b1)
-2. [Phys.org](http://phys.org/news/2016-09-earth-roughly-warmest-years.html)
+1. [Phys.org](http://phys.org/news/2016-09-earth-roughly-warmest-years.html)
+2. [Nature](http://www.nature.com/news/longest-historic-temperature-record-stretches-back-2-million-years-1.20673#/b1)
 3. [Nature](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature19798.html)
 
 ### Related:

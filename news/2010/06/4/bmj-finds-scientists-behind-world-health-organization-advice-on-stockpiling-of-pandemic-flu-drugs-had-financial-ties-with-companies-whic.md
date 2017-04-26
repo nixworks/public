@@ -7,8 +7,8 @@ Links between WHO experts and drug firms that profited from H1N1 pandemic under 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/health/10235558.stm)
-2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/20106485035915742.html)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/20106485035915742.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/health/10235558.stm)
 
 ### Related:
 

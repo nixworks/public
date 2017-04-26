@@ -7,9 +7,9 @@ The Duchess of York has allegedly become the victim of a tabloid sting aimed at 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/2010523155918505763.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/7754890/Duchess-of-York-in-tabloid-sting-over-finances.html)
 2. [News of the World](http://www.newsoftheworld.co.uk/news/822306/Royal-editor-Robert-Jobson-on-Sarah-Fergusons-rollercoaster-of-scandal.html)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/7754890/Duchess-of-York-in-tabloid-sting-over-finances.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/2010523155918505763.html)
 4. [The Times](http://www.timesonline.co.uk/tol/news/uk/article7134237.ece)
 
 ### Related:

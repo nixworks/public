@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/POLITICS/11/17/house.leadership/)
-2. [CNN](http://politicalticker.blogs.cnn.com/2010/11/17/boehner-elected-house-speaker/)
-3. [MSNBC](http://firstread.msnbc.msn.com/_news/2010/11/17/5483097-pelosi-wins-house-dem-minority-leader-post-150-43)
+1. [CNN](http://politicalticker.blogs.cnn.com/2010/11/17/boehner-elected-house-speaker/)
+2. [MSNBC](http://firstread.msnbc.msn.com/_news/2010/11/17/5483097-pelosi-wins-house-dem-minority-leader-post-150-43)
+3. [CNN](http://edition.cnn.com/2010/POLITICS/11/17/house.leadership/)
 
 ### Related:
 

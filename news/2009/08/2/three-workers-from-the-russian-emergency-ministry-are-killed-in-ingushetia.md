@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20090802/155702275.html)
-2. [Kyiv Post](http://www.kyivpost.com/world/46266)
+1. [Kyiv Post](http://www.kyivpost.com/world/46266)
+2. [RIA Novosti](http://en.rian.ru/russia/20090802/155702275.html)
 
 ### Related:
 

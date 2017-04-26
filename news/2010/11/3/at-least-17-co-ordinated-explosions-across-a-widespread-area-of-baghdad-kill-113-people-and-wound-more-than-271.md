@@ -8,8 +8,8 @@ Militants unleashed a wave of deadly attacks in Baghdad on Tuesday, killing at l
 ### Source:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588026.htm)
-2. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=453528&type=World#ixzz14BnIdc4p)
-3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-iraq-bombings-20101103,0,202463.story)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-iraq-bombings-20101103,0,202463.story)
+3. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=453528&type=World#ixzz14BnIdc4p)
 
 ### Related:
 

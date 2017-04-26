@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/1061189.html)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1233304684758&pagename=JPost%2FJPArticle%2FShowFull)
+1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1233304684758&pagename=JPost%2FJPArticle%2FShowFull)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/1061189.html)
 
 ### Related:
 

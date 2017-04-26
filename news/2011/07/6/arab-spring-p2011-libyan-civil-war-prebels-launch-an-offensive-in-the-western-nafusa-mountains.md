@@ -7,11 +7,11 @@ Fighters take town of al-Qawalish after six-hour battle and move closer to cutti
 
 ### Source:
 
-1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-jul-6-2011-1123)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201176144549657602.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-14051679)
+1. [Reuters](http://uk.reuters.com/article/2011/07/06/libya-mountains-advance-idUKLDE7650HM20110706)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14051679)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201176144549657602.html)
 4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201176153213449975.html)
-5. [Reuters](http://uk.reuters.com/article/2011/07/06/libya-mountains-advance-idUKLDE7650HM20110706)
+5. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-jul-6-2011-1123)
 
 ### Related:
 

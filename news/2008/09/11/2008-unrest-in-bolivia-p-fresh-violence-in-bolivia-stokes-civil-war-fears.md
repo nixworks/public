@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5iXp7kZBY1LarAJ4_qn0KwWPOwznQD934RE700)
-2. [Times of India](http://timesofindia.indiatimes.com/Fresh_violence_in_Bolivia_stokes_civil_war_fears/articleshow/3472988.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/Fresh_violence_in_Bolivia_stokes_civil_war_fears/articleshow/3472988.cms)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5iXp7kZBY1LarAJ4_qn0KwWPOwznQD934RE700)
 
 ### Related:
 

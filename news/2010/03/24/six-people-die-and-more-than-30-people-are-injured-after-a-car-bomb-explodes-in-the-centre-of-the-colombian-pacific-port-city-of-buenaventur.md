@@ -7,12 +7,12 @@ A car bomb has exploded in the Colombian port town of Buenaventura, killing at l
 
 ### Source:
 
-1. [Toronto Sun](http://www.torontosun.com/news/world/2010/03/24/13346456.html)
-2. [ABC News](http://www.abc.net.au/news/stories/2010/03/25/2855392.htm?section=world)
-3. [TVNZ](http://tvnz.co.nz/world-news/carbomb-kills-3-in-colombian-port-town-3431590)
-4. [BBC](http://news.bbc.co.uk/2/hi/americas/8585645.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8585645.stm)
+2. [Radio Netherlands Worldwide](http://www.rnw.nl/international-justice/article/bomb-atttack-buenaventura)
+3. [Toronto Sun](http://www.torontosun.com/news/world/2010/03/24/13346456.html)
+4. [TVNZ](http://tvnz.co.nz/world-news/carbomb-kills-3-in-colombian-port-town-3431590)
 5. [CNN](http://www.cnn.com/2010/WORLD/americas/03/24/colombia.car.bomb/?hpt=Sbin)
-6. [Radio Netherlands Worldwide](http://www.rnw.nl/international-justice/article/bomb-atttack-buenaventura)
+6. [ABC News](http://www.abc.net.au/news/stories/2010/03/25/2855392.htm?section=world)
 
 ### Related:
 

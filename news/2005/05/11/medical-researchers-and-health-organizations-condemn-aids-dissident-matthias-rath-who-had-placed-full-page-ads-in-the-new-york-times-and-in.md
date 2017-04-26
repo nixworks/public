@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Pretoria News](http://www.pretorianews.co.za/index.php?fSectionId=665&fArticleId=2517252)
+1. [Business Day](http://www.businessday.co.za/articles/topstories.aspx?ID=BD4A44439)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1120421.htm)
-3. [Business Day](http://www.businessday.co.za/articles/topstories.aspx?ID=BD4A44439)
-4. [BBC](http://news.bbc.co.uk/2/hi/americas/4538477.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4538477.stm)
+4. [Pretoria News](http://www.pretorianews.co.za/index.php?fSectionId=665&fArticleId=2517252)
 5. [News24](http://www.news24.com/News24/South_Africa/Aids_Focus/0,,2-7-659_1703316,00.html)
 
 ### Related:

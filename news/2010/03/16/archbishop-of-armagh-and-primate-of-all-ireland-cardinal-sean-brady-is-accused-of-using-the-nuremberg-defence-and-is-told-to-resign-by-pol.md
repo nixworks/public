@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ireland Online](http://breakingnews.iol.ie/news/ireland/deputy-first-minister-joins-calls-for-brady-resignation-450261.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/16/ireland.abuse.catholic/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/16/ireland.abuse.catholic/)
+2. [Ireland Online](http://breakingnews.iol.ie/news/ireland/deputy-first-minister-joins-calls-for-brady-resignation-450261.html)
 3. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article7063601.ece)
 
 ### Related:

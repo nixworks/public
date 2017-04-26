@@ -7,17 +7,17 @@
 
 ### Source:
 
-1. [Bernardinai](http://www.bernardinai.lt/index.php?url=articles%2F83823)
-2. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27540&pg=1&im=main&ct=0&wth=)
-3. [Alfa](http://www.alfa.lt/straipsnis/c85170)
-4. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/22/russia.georgia.withdrawal/index.html)
-5. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLL364124._CH_.2400)
-6. [Sky News](http://news.sky.com/skynews/Home/World-News/South-Ossetia-Crisis-Russian-Troops-Appear-To-Be-Withdrawing-From-Georgian-Town-Of-Gori/Article/200808415084801?lpos=World%2BNews_0&lid=ARTICLE_15084801_South%2BOssetia%2BCrisis%253A%2BRussian%2BTroops%2BAppear%2BTo%2BBe%2BWithdrawing%2BFrom%2BGeorgian%2BTown%2BOf%2BGori)
-7. [The Independent](http://www.independent.co.uk/news/world/europe/georgian-official-russian-troops-leaving-gori-906071.html)
-8. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27558&pg=1&im=main&ct=0&wth=)
-9. [Civil](http://www.civil.ge/eng/article.php?id=19250)
+1. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27561&pg=1&im=main&ct=0&wth=)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/South-Ossetia-Crisis-Russian-Troops-Appear-To-Be-Withdrawing-From-Georgian-Town-Of-Gori/Article/200808415084801?lpos=World%2BNews_0&lid=ARTICLE_15084801_South%2BOssetia%2BCrisis%253A%2BRussian%2BTroops%2BAppear%2BTo%2BBe%2BWithdrawing%2BFrom%2BGeorgian%2BTown%2BOf%2BGori)
+3. [The Independent](http://www.independent.co.uk/news/world/europe/georgian-official-russian-troops-leaving-gori-906071.html)
+4. [Civil](http://www.civil.ge/eng/article.php?id=19250)
+5. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27558&pg=1&im=main&ct=0&wth=)
+6. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27540&pg=1&im=main&ct=0&wth=)
+7. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLL364124._CH_.2400)
+8. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/22/russia.georgia.withdrawal/index.html)
+9. [Bernardinai](http://www.bernardinai.lt/index.php?url=articles%2F83823)
 10. [Delfi](http://www.delfi.lt/news/daily/world/article.php?id=18249883)
-11. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27561&pg=1&im=main&ct=0&wth=)
+11. [Alfa](http://www.alfa.lt/straipsnis/c85170)
 
 ### Related:
 

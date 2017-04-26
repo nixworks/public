@@ -7,8 +7,8 @@ Days of efforts trying to guide a mobile offshore drilling rig through stormy Al
 
 ### Source:
 
-1. [Anchorage Daily News](http://www.adn.com/2012/12/31/2739314/shell-drilling-rig-is-adrift-again.html)
-2. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-shell-kulluk-grounded-20130101,0,7770041.story)
+1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-shell-kulluk-grounded-20130101,0,7770041.story)
+2. [Anchorage Daily News](http://www.adn.com/2012/12/31/2739314/shell-drilling-rig-is-adrift-again.html)
 
 ### Related:
 

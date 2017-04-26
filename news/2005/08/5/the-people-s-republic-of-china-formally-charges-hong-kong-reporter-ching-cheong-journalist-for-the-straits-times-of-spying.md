@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161634/1/.html)
-2. [China Post](http://www.chinapost.com.tw/i_latestdetail.asp?id=29678)
+1. [China Post](http://www.chinapost.com.tw/i_latestdetail.asp?id=29678)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161634/1/.html)
 
 ### Related:
 

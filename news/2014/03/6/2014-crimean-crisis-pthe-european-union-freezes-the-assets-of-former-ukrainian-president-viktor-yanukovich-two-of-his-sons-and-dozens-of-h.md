@@ -7,10 +7,10 @@ LONDON -- The European Union has frozen the assets of former Ukrainian President
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2014/03/06/crimea-leader-says-11000-pro-russian-troops-in-control-region/)
-2. [AFP via ''Times of India](http://timesofindia.indiatimes.com/world/europe/Ukraine-crisis-UN-EU-hold-emergency-talks/articleshow/31529108.cms)
+1. [AFP via ''Times of India](http://timesofindia.indiatimes.com/world/europe/Ukraine-crisis-UN-EU-hold-emergency-talks/articleshow/31529108.cms)
+2. [CNN](http://www.cnn.com/2014/03/06/politics/us-ukraine-sanctions/)
 3. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-eu-assets-ukraine-20140306,0,3680461.story)
-4. [CNN](http://www.cnn.com/2014/03/06/politics/us-ukraine-sanctions/)
+4. [Fox News](http://www.foxnews.com/world/2014/03/06/crimea-leader-says-11000-pro-russian-troops-in-control-region/)
 
 ### Related:
 

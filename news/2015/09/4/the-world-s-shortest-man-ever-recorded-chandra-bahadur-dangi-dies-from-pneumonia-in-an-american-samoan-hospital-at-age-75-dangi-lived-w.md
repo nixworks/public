@@ -7,8 +7,8 @@ Chandra Bahadur Dangi, who was recorded as the world’s shortest man with a hei
 
 ### Source:
 
-1. [Daily Pakistan](http://en.dailypakistan.com.pk/world/shortest-man-in-human-history-passes-away-908/)
-2. [Kathmandu Post](http://kathmandupost.ekantipur.com/news/2015-09-04/worlds-shortest-man-chandra-bahadur-dangi-no-more.html)
+1. [Kathmandu Post](http://kathmandupost.ekantipur.com/news/2015-09-04/worlds-shortest-man-chandra-bahadur-dangi-no-more.html)
+2. [Daily Pakistan](http://en.dailypakistan.com.pk/world/shortest-man-in-human-history-passes-away-908/)
 
 ### Related:
 

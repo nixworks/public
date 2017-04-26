@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hXOyRYV9P1tZ7w97ROmbmKP-LhFw?docId=CNG.9169ad9303e8b3a2ca9470b5e05e2e20.421)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-11443210)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-11443210)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hXOyRYV9P1tZ7w97ROmbmKP-LhFw?docId=CNG.9169ad9303e8b3a2ca9470b5e05e2e20.421)
 
 ### Related:
 

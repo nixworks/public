@@ -7,9 +7,9 @@ At least four people lost their lives on Friday evening after a perimeter wall c
 
 ### Source:
 
-1. [Standard Media](http://www.standardmedia.co.ke/article/2000200075/heavy-rains-kill-four-people-in-nairobi-as-floods-cause-havoc)
-2. [CNN](http://edition.cnn.com/2016/04/29/africa/kenya-building-collapse/index.html?eref=edition)
-3. [BBC](http://www.bbc.com/news/world-africa-36174505)
+1. [BBC](http://www.bbc.com/news/world-africa-36174505)
+2. [Standard Media](http://www.standardmedia.co.ke/article/2000200075/heavy-rains-kill-four-people-in-nairobi-as-floods-cause-havoc)
+3. [CNN](http://edition.cnn.com/2016/04/29/africa/kenya-building-collapse/index.html?eref=edition)
 
 ### Related:
 

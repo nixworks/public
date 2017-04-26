@@ -7,12 +7,12 @@ Greek MPs begin voting on a motion of confidence as the government battles to wi
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13855156)
-2. [Irish Independent](http://www.independent.ie/business/irish/imf-urges-eu-to-stump-up-extra-cash-for-greece-2801089.html)
-3. [BBC](http://www.bbc.co.uk/news/business-13850580)
+1. [BBC](http://www.bbc.co.uk/news/business-13850580)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-13855156)
+3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE75K4L520110621)
 4. [Al Jazeera](http://english.aljazeera.net/video/europe/2011/06/2011621524188836.html)
 5. [Al Jazeera](http://english.aljazeera.net/video/europe/2011/06/2011621204033932952.html)
-6. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE75K4L520110621)
+6. [Irish Independent](http://www.independent.ie/business/irish/imf-urges-eu-to-stump-up-extra-cash-for-greece-2801089.html)
 7. [BBC](http://www.bbc.co.uk/news/business-13867158)
 
 ### Related:

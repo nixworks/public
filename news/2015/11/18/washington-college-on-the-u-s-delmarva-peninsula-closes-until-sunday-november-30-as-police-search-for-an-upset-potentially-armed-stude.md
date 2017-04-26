@@ -8,8 +8,8 @@ A college prank may be at the root of a desperate search for missing Pennsylvani
 ### Source:
 
 1. [WBAL](http://www.wbaltv.com/news/washington-college-cancels-classes-over-gun-threat-involving-student/36495314)
-2. [The Washington Post](https://www.washingtonpost.com/news/grade-point/wp/2015/11/17/washington-college-locks-down-again-tuesday-morning-as-search-for-armed-student-continues/?wpmm=1&wpisrc=nl_headlines)
-3. [NBC 10](http://www.nbcphiladelphia.com/news/local/Cheltenham-Former-Student-Gun-Marberger-351027181.html)
+2. [NBC 10](http://www.nbcphiladelphia.com/news/local/Cheltenham-Former-Student-Gun-Marberger-351027181.html)
+3. [The Washington Post](https://www.washingtonpost.com/news/grade-point/wp/2015/11/17/washington-college-locks-down-again-tuesday-morning-as-search-for-armed-student-continues/?wpmm=1&wpisrc=nl_headlines)
 
 ### Related:
 

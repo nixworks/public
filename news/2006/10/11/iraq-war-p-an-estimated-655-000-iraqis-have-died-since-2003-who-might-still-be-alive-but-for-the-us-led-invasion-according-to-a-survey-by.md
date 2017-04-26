@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-10-11T123341Z_01_L11717456_RTRIDST_0_NEWS-IRAQ-DEATHS-COL.XML)
-2. [CTV News](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20061011/iraq_deaths_061011/20061011?hub=World)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6040054.stm)
+1. [CTV News](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20061011/iraq_deaths_061011/20061011?hub=World)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6040054.stm)
+3. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-10-11T123341Z_01_L11717456_RTRIDST_0_NEWS-IRAQ-DEATHS-COL.XML)
 
 ### Related:
 

@@ -7,13 +7,13 @@ Political allies of Hong Kong’s new Beijing-backed leader perform solidly in c
 
 ### Source:
 
-1. [South China Morning Post](http://www.scmp.com/news/hong-kong/article/1033062/live-coverage-both-camps-make-early-gains-results-come)
-2. [The Standard](http://www.thestandard.com.hk/breaking_news_detail.asp?id=24758&icid=3&d_str=)
+1. [Reuters via ''Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-hongkong-electionbre889007-20120909,0,6482246.story)
+2. [Reuters via Stuff.co](http://www.stuff.co.nz/world/asia/7646260/Support-steady-for-Beijing-backed-leader)
 3. [Voice of America](http://www.voanews.com/content/hong-kong-pro-democracy-camp-takes-narrow-lead-in-election/1504684.html)
-4. [Reuters via Stuff.co](http://www.stuff.co.nz/world/asia/7646260/Support-steady-for-Beijing-backed-leader)
-5. [New York Times](http://www.nytimes.com/2012/09/10/world/asia/hong-kong-voting-for-legislature-is-heavy.html?pagewanted=all)
-6. [Reuters via ''Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-hongkong-electionbre889007-20120909,0,6482246.story)
-7. [results](http://www.elections.gov.hk/legco2012/eng/rs_gc.html)
+4. [South China Morning Post](http://www.scmp.com/news/hong-kong/article/1033062/live-coverage-both-camps-make-early-gains-results-come)
+5. [The Standard](http://www.thestandard.com.hk/breaking_news_detail.asp?id=24758&icid=3&d_str=)
+6. [results](http://www.elections.gov.hk/legco2012/eng/rs_gc.html)
+7. [New York Times](http://www.nytimes.com/2012/09/10/world/asia/hong-kong-voting-for-legislature-is-heavy.html?pagewanted=all)
 
 ### Related:
 

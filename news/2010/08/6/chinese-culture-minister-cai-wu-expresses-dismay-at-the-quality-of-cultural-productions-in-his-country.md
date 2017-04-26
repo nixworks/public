@@ -7,9 +7,9 @@ Chinese media is &#034;vulgar&#034; and &#034;kitsch&#034;, according to the cou
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-08/06/content_11113082.htm)
-2. [France24](http://www.france24.com/en/20100806-china-minister-hits-out-vulgar-modern-culture)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10898582)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10898582)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-08/06/content_11113082.htm)
+3. [France24](http://www.france24.com/en/20100806-china-minister-hits-out-vulgar-modern-culture)
 4. [Reuters](http://www.reuters.com/article/idUSTRE6752DU20100806)
 5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/7931444/Chinese-media-vulgar-and-kitsch.html)
 

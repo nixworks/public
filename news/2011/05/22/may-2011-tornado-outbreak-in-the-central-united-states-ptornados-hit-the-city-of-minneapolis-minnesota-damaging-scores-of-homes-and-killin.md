@@ -7,17 +7,17 @@ Powerful storm blew into metro, killing 1, injuring 30 and putting North Side un
 
 ### Source:
 
-1. [News Leader](http://www.news-leader.com/article/20110522/WEATHER/110522056/MoDOT-expects-44-remain-closed-both-directions-near-Joplin-several-more-hours?odyssey=mod|newswell|text|FRONTPAGE|p)
-2. [News-Leader](http://www.news-leader.com/article/20110522/WEATHER/110522050/St-John-s-Joplin-fully-evacuated-due-extensive-tornado-damage)
-3. [News Leader](http://www.news-leader.com/article/20110522/NEWS01/110522040/24-deaths-Joplin-say-Greene-County-officials)
-4. [Fox Twin Cities](http://www.myfoxtwincities.com/dpp/news/Gunshots-Looting-Prompt-Mpls-Curfew-may-22-2011)
+1. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110523/ts_nm/us_usa_weather_tornadoes_deaths)
+2. [News Leader](http://www.news-leader.com/article/20110522/WEATHER/110522012/Joplin-suffers-direct-hit-from-tornado-early-reports-indicate-major-damage-)
+3. [CNN](http://news.blogs.cnn.com/2011/05/22/tornado-causes-some-fatalities-in-joplin-missouri/)
+4. [Minneapolis Star-Tribune](http://www.startribune.com/local/122417279.html)
 5. [AP](http://hosted.ap.org/dynamic/stories/U/US_MIDWEST_STORMS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-6. [Missouri Governor](http://governor.mo.gov/newsroom/2011/Gov_Nixon_deploys_National_Guard_to_southwest_Missouri_in_response_to_deadly_tornadoes)
-7. [News Leader](http://www.news-leader.com/article/20110522/WEATHER/110522012/Joplin-suffers-direct-hit-from-tornado-early-reports-indicate-major-damage-)
-8. [CNN](http://news.blogs.cnn.com/2011/05/22/tornado-causes-some-fatalities-in-joplin-missouri/)
-9. [Minneapolis Star-Tribune](http://www.startribune.com/local/122417279.html)
-10. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110523/ts_nm/us_usa_weather_tornadoes_deaths)
-11. [AP via ''Saint Cloud Times](http://www.sctimes.com/article/20110522/NEWS01/105220114/Tornado-hits-north-Minneapolis-no-word-injuries?odyssey=nav|head)
+6. [News Leader](http://www.news-leader.com/article/20110522/WEATHER/110522056/MoDOT-expects-44-remain-closed-both-directions-near-Joplin-several-more-hours?odyssey=mod|newswell|text|FRONTPAGE|p)
+7. [AP via ''Saint Cloud Times](http://www.sctimes.com/article/20110522/NEWS01/105220114/Tornado-hits-north-Minneapolis-no-word-injuries?odyssey=nav|head)
+8. [News-Leader](http://www.news-leader.com/article/20110522/WEATHER/110522050/St-John-s-Joplin-fully-evacuated-due-extensive-tornado-damage)
+9. [News Leader](http://www.news-leader.com/article/20110522/NEWS01/110522040/24-deaths-Joplin-say-Greene-County-officials)
+10. [Missouri Governor](http://governor.mo.gov/newsroom/2011/Gov_Nixon_deploys_National_Guard_to_southwest_Missouri_in_response_to_deadly_tornadoes)
+11. [Fox Twin Cities](http://www.myfoxtwincities.com/dpp/news/Gunshots-Looting-Prompt-Mpls-Curfew-may-22-2011)
 
 ### Related:
 

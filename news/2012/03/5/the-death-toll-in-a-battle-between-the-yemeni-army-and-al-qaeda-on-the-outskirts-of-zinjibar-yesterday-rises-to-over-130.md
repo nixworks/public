@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gu2slM3l9GMKNav6ubJdbKKYRR9A?docId=CNG.c2871abfb66264b3a7bef9fe48baf163.8d1)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/2012356504141349.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/2012356504141349.html)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gu2slM3l9GMKNav6ubJdbKKYRR9A?docId=CNG.c2871abfb66264b3a7bef9fe48baf163.8d1)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via SBS](http://www.sbs.com.au/news/article/1720493/Three-die-as-Cyclone-Evan-devastates-Samoa)
-2. [ABC Australia via Yahoo!](http://au.news.yahoo.com/a/-/latest/15623964/sea-surge-as-tropical-cyclone-evan-hits-samoa/)
+1. [ABC Australia via Yahoo!](http://au.news.yahoo.com/a/-/latest/15623964/sea-surge-as-tropical-cyclone-evan-hits-samoa/)
+2. [AFP via SBS](http://www.sbs.com.au/news/article/1720493/Three-die-as-Cyclone-Evan-devastates-Samoa)
 
 ### Related:
 

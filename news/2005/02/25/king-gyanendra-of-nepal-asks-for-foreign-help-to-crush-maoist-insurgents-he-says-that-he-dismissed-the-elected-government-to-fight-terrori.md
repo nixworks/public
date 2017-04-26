@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [New Kerala](http://news.newkerala.com/india-news/?action=fullnews&id=77638)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/134301/1/.html)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aCFVS4_GTlPI&refer=asia)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/134301/1/.html)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aCFVS4_GTlPI&refer=asia)
+3. [New Kerala](http://news.newkerala.com/india-news/?action=fullnews&id=77638)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Eight Turkish soldiers and 22 Kurdish militants have been killed in clashes over
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkey-10-soldiers-dead-in-clash-with-pkk-helicopter-crash/2016/05/13/58af1132-18d2-11e6-971a-dadf9ab18869_story.html)
-2. [Reuters](http://www.reuters.com/article/us-turkey-security-idUSKCN0Y40H0)
-3. [VOA News](http://www.voanews.com/content/clashes-helicopter-crash-in-southeast-turkey/3328623.html)
+1. [VOA News](http://www.voanews.com/content/clashes-helicopter-crash-in-southeast-turkey/3328623.html)
+2. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkey-10-soldiers-dead-in-clash-with-pkk-helicopter-crash/2016/05/13/58af1132-18d2-11e6-971a-dadf9ab18869_story.html)
+3. [Reuters](http://www.reuters.com/article/us-turkey-security-idUSKCN0Y40H0)
 
 ### Related:
 

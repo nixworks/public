@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Shanghai Daily](http://www.shanghaidaily.com/article/article_xinhua.aspx?id=326030)
-2. [Reuters](http://ca.reuters.com/article/topNews/idCAKCN0X404W)
+1. [Reuters](http://ca.reuters.com/article/topNews/idCAKCN0X404W)
+2. [Shanghai Daily](http://www.shanghaidaily.com/article/article_xinhua.aspx?id=326030)
 
 ### Related:
 

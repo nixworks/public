@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/nova-scotia/story/2009/10/28/ns-coyote-attack-died.html)
-2. [The Star](http://www.thestar.com/news/canada/article/717207--toronto-singer-killed-by-coyotes)
+1. [The Star](http://www.thestar.com/news/canada/article/717207--toronto-singer-killed-by-coyotes)
+2. [CBC](http://www.cbc.ca/canada/nova-scotia/story/2009/10/28/ns-coyote-attack-died.html)
 
 ### Related:
 

@@ -8,9 +8,9 @@ Residents of North Carolina approve a constitutional ban on gay unions, initial 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17997794)
-2. [MSNBC](http://nbcpolitics.msnbc.msn.com/_news/2012/05/08/11604125-nbc-news-projects-lugar-defeated-in-indiana-primary?lite)
+2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/20125942959863200.html)
 3. [CBS News](http://www.cbsnews.com/news/4-in-10-choose-convict-over-obama-in-wva-primary/)
-4. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/20125942959863200.html)
+4. [MSNBC](http://nbcpolitics.msnbc.msn.com/_news/2012/05/08/11604125-nbc-news-projects-lugar-defeated-in-indiana-primary?lite)
 
 ### Related:
 

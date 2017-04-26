@@ -7,8 +7,8 @@ Though Moscow maintains that Syria’s chemical weapons are secure, new rumors h
 
 ### Source:
 
-1. [NBC](http://worldnews.nbcnews.com/_news/2012/12/24/16127090-syria-activists-several-die-after-assads-forces-use-poisonous-gases)
-2. [RT](http://rt.com/news/syria-chemical-weapons-rebels-696/)
+1. [RT](http://rt.com/news/syria-chemical-weapons-rebels-696/)
+2. [NBC](http://worldnews.nbcnews.com/_news/2012/12/24/16127090-syria-activists-several-die-after-assads-forces-use-poisonous-gases)
 
 ### Related:
 

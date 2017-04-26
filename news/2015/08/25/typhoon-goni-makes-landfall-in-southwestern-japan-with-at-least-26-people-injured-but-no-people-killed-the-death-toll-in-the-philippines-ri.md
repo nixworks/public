@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/08/25/0200000000AEN20150825009400315.html?input=www.tweeter.com)
-2. [AP](http://bigstory.ap.org/article/275ec47a65bf4b058c9a2f4d1b2efe30/typhoon-goni-hits-okinawa-after-killing-19-philippines)
+1. [AP](http://bigstory.ap.org/article/275ec47a65bf4b058c9a2f4d1b2efe30/typhoon-goni-hits-okinawa-after-killing-19-philippines)
+2. [Yonhap](http://english.yonhapnews.co.kr/news/2015/08/25/0200000000AEN20150825009400315.html?input=www.tweeter.com)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/governmentFilingsNews/idUKLV43959420081231?sp=true)
-2. [RIA Novosti](http://en.rian.ru/world/20090101/119302144.html)
+1. [RIA Novosti](http://en.rian.ru/world/20090101/119302144.html)
+2. [Reuters](http://uk.reuters.com/article/governmentFilingsNews/idUKLV43959420081231?sp=true)
 
 ### Related:
 

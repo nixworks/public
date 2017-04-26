@@ -7,10 +7,10 @@ The independent investigation into the sinking of the Cheonan has concluded that
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/world/2010-05/19/content_9868705.htm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10124939.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10124939.stm)
+2. [DailyNK](http://www.dailynk.com/english/read.php?cataId=nk00100&num=6392)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/05/19/49/0301000000AEN20100519007300315F.HTML)
-4. [DailyNK](http://www.dailynk.com/english/read.php?cataId=nk00100&num=6392)
+4. [China Daily](http://www.chinadaily.com.cn/world/2010-05/19/content_9868705.htm)
 
 ### Related:
 

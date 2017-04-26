@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4735927.stm)
+1. [The Hindu](http://www.hindu.com/2005/08/02/stories/2005080204541700.htm)
 2. [Hindu Business Line](http://www.thehindubusinessline.com/blnus/15011507.htm)
-3. [The Hindu](http://www.hindu.com/2005/08/02/stories/2005080204541700.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4735927.stm)
 
 ### Related:
 

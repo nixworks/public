@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/sport/tennis/article-1335951/Novak-Djokovic-leads-Serbia-maiden-Davis-Cup-win-beating-France.html)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/9258371.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/9258371.stm)
+2. [Daily Mail](http://www.dailymail.co.uk/sport/tennis/article-1335951/Novak-Djokovic-leads-Serbia-maiden-Davis-Cup-win-beating-France.html)
 
 ### Related:
 

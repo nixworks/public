@@ -7,8 +7,8 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-35626237)
-2. [AP](http://bigstory.ap.org/article/637285474fa9428dae76f3ebb55cc37b/hindu-priest-killed-2-devotees-injured-bangladesh)
+1. [AP](http://bigstory.ap.org/article/637285474fa9428dae76f3ebb55cc37b/hindu-priest-killed-2-devotees-injured-bangladesh)
+2. [BBC](http://www.bbc.com/news/world-asia-35626237)
 
 ### Related:
 

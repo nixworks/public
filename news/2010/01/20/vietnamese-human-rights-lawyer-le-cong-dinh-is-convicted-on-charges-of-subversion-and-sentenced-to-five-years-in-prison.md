@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8470110.stm)
-2. [Vietnam News](http://vietnamnews.vnanet.vn/showarticle.php?num=04SOC200110)
-3. [Bangkok Post](http://www.bangkokpost.com/news/asia/165971/vietnam-dissidents-jailed-up-to-16-years-for-subversion)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/165971/vietnam-dissidents-jailed-up-to-16-years-for-subversion)
+3. [Vietnam News](http://vietnamnews.vnanet.vn/showarticle.php?num=04SOC200110)
 
 ### Related:
 

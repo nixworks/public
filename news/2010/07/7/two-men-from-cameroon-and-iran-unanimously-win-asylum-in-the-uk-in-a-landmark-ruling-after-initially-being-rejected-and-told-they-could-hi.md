@@ -7,10 +7,10 @@ Homosexuals who cannot live an open life in their own countries without fear of 
 
 ### Source:
 
-1. [The Scotsman](http://news.scotsman.com/politics/Two-gay-men-win-landmark.6407464.jp)
-2. [Daily Express](http://www.dailyexpress.co.uk/posts/view/185617/Now-asylum-if-you-re-gay/)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE6661NZ20100707?feedType=RSS&feedName=domesticNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKDomesticNews+%28News+%2F+UK+%2F+Domestic+News%29)
-4. [BBC](http://news.bbc.co.uk/2/hi/uk/10180564.stm)
+1. [Reuters](http://uk.reuters.com/article/idUKTRE6661NZ20100707?feedType=RSS&feedName=domesticNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKDomesticNews+%28News+%2F+UK+%2F+Domestic+News%29)
+2. [The Scotsman](http://news.scotsman.com/politics/Two-gay-men-win-landmark.6407464.jp)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk/10180564.stm)
+4. [Daily Express](http://www.dailyexpress.co.uk/posts/view/185617/Now-asylum-if-you-re-gay/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14009913)
-2. [Yonhap News](http://english.yonhapnews.co.kr/national/2011/07/04/33/0302000000AEN20110704004151315F.HTML)
+1. [Yonhap News](http://english.yonhapnews.co.kr/national/2011/07/04/33/0302000000AEN20110704004151315F.HTML)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14009913)
 
 ### Related:
 

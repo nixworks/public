@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/7592541.stm)
-2. [CNN](http://edition.cnn.com/2008/WORLD/europe/09/01/russia.georgia.summit.sanctions/index.html?section=cnn_latest)
+1. [CNN](http://edition.cnn.com/2008/WORLD/europe/09/01/russia.georgia.summit.sanctions/index.html?section=cnn_latest)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/7592541.stm)
 
 ### Related:
 

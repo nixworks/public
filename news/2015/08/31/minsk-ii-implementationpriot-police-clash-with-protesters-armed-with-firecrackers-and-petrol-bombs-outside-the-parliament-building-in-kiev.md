@@ -7,8 +7,8 @@ At least one policeman killed and 90 people injured as protesters clash with sec
 
 ### Source:
 
-1. [The News Hub](https://www.the-newshub.com/politics/dozens-of-policemen-wounded-as-extreme-nationalists-and-police-battle-in-the-center-of-kiev)
-2. [Al Jazeera](http://www.aljazeera.com/news/2015/08/deadly-protest-ukraine-decentralisation-law-150831132200366.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/deadly-protest-ukraine-decentralisation-law-150831132200366.html)
+2. [The News Hub](https://www.the-newshub.com/politics/dozens-of-policemen-wounded-as-extreme-nationalists-and-police-battle-in-the-center-of-kiev)
 3. [BBC](http://www.bbc.com/news/world-europe-34105925)
 
 ### Related:

@@ -7,8 +7,8 @@ Cyclone Laila on Friday weakened into a depression and further into a low pressu
 
 ### Source:
 
-1. [IndiaTimes](http://timesofindia.indiatimes.com/india/Cyclone-Laila-weakens-into-depression-toll-36/articleshow/5960419.cms)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8696211.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8696211.stm)
+2. [IndiaTimes](http://timesofindia.indiatimes.com/india/Cyclone-Laila-weakens-into-depression-toll-36/articleshow/5960419.cms)
 
 ### Related:
 

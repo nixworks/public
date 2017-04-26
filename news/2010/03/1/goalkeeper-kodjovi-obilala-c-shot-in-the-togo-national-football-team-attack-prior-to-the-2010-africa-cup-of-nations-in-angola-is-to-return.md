@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Netherlands Worldwide](http://www.rnw.nl/africa/article/shot-togolese-goalkeeper-return-france)
-2. [Reuters South Africa](http://af.reuters.com/article/sportsNews/idAFJOE6200BU20100301)
+1. [Reuters South Africa](http://af.reuters.com/article/sportsNews/idAFJOE6200BU20100301)
+2. [Radio Netherlands Worldwide](http://www.rnw.nl/africa/article/shot-togolese-goalkeeper-return-france)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/02/26/afghanistan.explosion/index.html)
-2. [The Hindu](http://beta.thehindu.com/news/national/article114082.ece)
+1. [The Hindu](http://beta.thehindu.com/news/national/article114082.ece)
+2. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/02/26/afghanistan.explosion/index.html)
 
 ### Related:
 

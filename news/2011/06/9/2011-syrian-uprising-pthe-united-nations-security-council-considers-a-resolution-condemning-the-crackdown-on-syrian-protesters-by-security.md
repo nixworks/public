@@ -7,9 +7,9 @@ Video emerges appearing to show body of Syrian boy killed in crackdown, as Russi
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011696563111657.html)
-2. [Al Arabiya](http://english.alarabiya.net/articles/2011/06/09/152571.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201169131651223112.html)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2011/06/09/152571.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201169131651223112.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011696563111657.html)
 
 ### Related:
 

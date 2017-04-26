@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443635404578035822373395226.html)
-2. [CNN](http://edition.cnn.com/2012/10/02/world/meast/syria-refugee-crisis-turkey/index.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-19811829)
-4. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443768804578034372539783626.html#printMode)
+1. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443768804578034372539783626.html#printMode)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443635404578035822373395226.html)
+3. [CNN](http://edition.cnn.com/2012/10/02/world/meast/syria-refugee-crisis-turkey/index.html)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-19811829)
 
 ### Related:
 

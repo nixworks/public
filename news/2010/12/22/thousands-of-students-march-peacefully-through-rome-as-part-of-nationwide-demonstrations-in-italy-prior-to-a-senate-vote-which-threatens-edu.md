@@ -7,8 +7,8 @@ Thousands take to the streets a week after some of the most violent protests in 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012221686817399.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-12058434)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12058434)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012221686817399.html)
 
 ### Related:
 

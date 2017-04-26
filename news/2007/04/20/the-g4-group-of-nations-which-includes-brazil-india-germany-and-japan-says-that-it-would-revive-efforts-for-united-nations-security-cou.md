@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [People's Daily](http://english.people.com.cn/200704/20/eng20070420_368277.html)
-2. [NDTV](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20070009377)
+1. [NDTV](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20070009377)
+2. [People's Daily](http://english.people.com.cn/200704/20/eng20070420_368277.html)
 
 ### Related:
 

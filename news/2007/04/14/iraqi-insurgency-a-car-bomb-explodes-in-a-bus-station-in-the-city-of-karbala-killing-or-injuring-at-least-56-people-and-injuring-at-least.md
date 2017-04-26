@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=3041209)
-2. [AP via CBS News](http://www.cbsnews.com/stories/2007/04/13/iraq/main2679905.shtml)
-3. [AFP via News Limited](http://www.news.com.au/story/0,10117,21557071-2,00.html)
+1. [AFP via News Limited](http://www.news.com.au/story/0,10117,21557071-2,00.html)
+2. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=3041209)
+3. [AP via CBS News](http://www.cbsnews.com/stories/2007/04/13/iraq/main2679905.shtml)
 
 ### Related:
 

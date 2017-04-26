@@ -9,8 +9,8 @@ International Criminal Police Organization announces 27 people now wanted for al
 
 1. [RTÉ](http://www.rte.ie/news/2010/0308/dubai.html)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3859669,00.html)
-3. [Ha'aretz](http://www.haaretz.com/hasen/spages/1154922.html)
-4. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-46748720100308)
+3. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-46748720100308)
+4. [Ha'aretz](http://www.haaretz.com/hasen/spages/1154922.html)
 
 ### Related:
 

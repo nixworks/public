@@ -7,8 +7,8 @@ Swiss voters decisively reject a referendum proposal to cut net immigration to n
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2014-11-30/swiss-voters-reject-snb-gold-referendum-srf-projections-show.html)
-2. [BBC](http://www.bbc.com/news/world-europe-30267042)
+1. [BBC](http://www.bbc.com/news/world-europe-30267042)
+2. [Bloomberg](http://www.bloomberg.com/news/2014-11-30/swiss-voters-reject-snb-gold-referendum-srf-projections-show.html)
 3. [Al Jazeera](http://www.aljazeera.com/news/europe/2014/11/switzerland-voters-reject-immigration-cap-20141130123534538530.html)
 
 ### Related:

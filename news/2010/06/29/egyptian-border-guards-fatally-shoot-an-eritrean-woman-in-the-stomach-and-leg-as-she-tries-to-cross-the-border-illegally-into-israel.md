@@ -7,12 +7,12 @@ An African migrant is shot and killed by Egyptian police as she tries to cross i
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/idINIndia-49747120100629)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10444459.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10444459.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10455944.stm)
 3. [Reuters](http://in.reuters.com/article/idINIndia-49743520100629?loomia_ow=t0:s0:a49:g43:r1:c0.500000:b35292758:z0)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10455944.stm)
-5. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201062916845576597.html)
-6. [The Vancouver Sun](http://www.vancouversun.com/news/Israel+plan+raze+homes+illegal+rights+envoy+says/3215190/story.html)
+4. [Reuters](http://in.reuters.com/article/idINIndia-49747120100629)
+5. [The Vancouver Sun](http://www.vancouversun.com/news/Israel+plan+raze+homes+illegal+rights+envoy+says/3215190/story.html)
+6. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201062916845576597.html)
 
 ### Related:
 

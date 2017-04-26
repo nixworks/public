@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10877110)
-2. [The Asian Age](http://www.asianage.com/international/suicide-attack-kills-six-afghan-police-219)
-3. [IOL](http://www.iol.co.za/index.php?from=rss_Asia&set_id=1&click_id=126&art_id=nw20100805074646859C741399)
+1. [IOL](http://www.iol.co.za/index.php?from=rss_Asia&set_id=1&click_id=126&art_id=nw20100805074646859C741399)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10877110)
+3. [The Asian Age](http://www.asianage.com/international/suicide-attack-kills-six-afghan-police-219)
 
 ### Related:
 

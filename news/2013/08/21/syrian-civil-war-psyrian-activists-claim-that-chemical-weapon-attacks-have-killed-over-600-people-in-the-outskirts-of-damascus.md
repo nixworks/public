@@ -7,8 +7,8 @@ Security council to meet later on Wednesday in response to claims that hundreds 
 
 ### Source:
 
-1. [Today's Zaman](http://www.todayszaman.com/news-324089-at-least-635-killed-in-alleged-chemical-attack-in-syria.html)
-2. [The Guardian](http://www.theguardian.com/world/2013/aug/21/syria-poisonous-gas-attack-claim)
+1. [The Guardian](http://www.theguardian.com/world/2013/aug/21/syria-poisonous-gas-attack-claim)
+2. [Today's Zaman](http://www.todayszaman.com/news-324089-at-least-635-killed-in-alleged-chemical-attack-in-syria.html)
 
 ### Related:
 

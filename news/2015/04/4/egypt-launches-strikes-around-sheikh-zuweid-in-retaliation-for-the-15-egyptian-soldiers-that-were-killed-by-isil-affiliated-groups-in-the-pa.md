@@ -7,8 +7,8 @@ At least 100 terrorists are killed in the Egyptian army’s strikes against terr
 
 ### Source:
 
-1. [ABC](http://abcnews.go.com/International/wireStory/egypts-islamic-state-branch-claims-deadly-sinai-attack-30082295)
-2. [CTV](http://www.ctvnews.ca/world/islamic-state-s-egypt-branch-claims-responsibility-for-deadly-sinai-attack-1.2310846)
+1. [CTV](http://www.ctvnews.ca/world/islamic-state-s-egypt-branch-claims-responsibility-for-deadly-sinai-attack-1.2310846)
+2. [ABC](http://abcnews.go.com/International/wireStory/egypts-islamic-state-branch-claims-deadly-sinai-attack-30082295)
 3. [PressTV](http://www.presstv.ir/Detail/2015/04/03/404564/Egypt-kills-100-terrorists-in-Sinai)
 
 ### Related:

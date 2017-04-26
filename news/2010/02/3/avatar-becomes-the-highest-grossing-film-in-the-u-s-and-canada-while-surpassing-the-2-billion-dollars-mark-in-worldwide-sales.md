@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKTRE6124O320100203)
-2. [BoxOfficeMojo](http://boxofficemojo.com/alltime/domestic.htm)
+1. [BoxOfficeMojo](http://boxofficemojo.com/alltime/domestic.htm)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE6124O320100203)
 
 ### Related:
 

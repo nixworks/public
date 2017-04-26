@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201067105435668569.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10252477.stm)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/07/c_13337672.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/07/c_13337672.htm)
+2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201067105435668569.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10252477.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Cadena Agramonte](http://www.cadenagramonte.cu/english/index.php?option=com_content&view=article&id=3639:its-cold-in-cuba-lowest-temps-in-50-years&catid=2:cuba&Itemid=14)
-2. [Cuban News Agency](http://www.ain.cubaweb.cu/idioma/ingles/2010/1216-cuba-registers-record-low-temperatures-fifty-years.htm)
+1. [Cuban News Agency](http://www.ain.cubaweb.cu/idioma/ingles/2010/1216-cuba-registers-record-low-temperatures-fifty-years.htm)
+2. [Radio Cadena Agramonte](http://www.cadenagramonte.cu/english/index.php?option=com_content&view=article&id=3639:its-cold-in-cuba-lowest-temps-in-50-years&catid=2:cuba&Itemid=14)
 
 ### Related:
 

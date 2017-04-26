@@ -7,8 +7,8 @@ Benedict XVI vows &quot;unconditional obedience and reverence&quot; to his event
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/9897769/The-world-bids-farewell-to-Pope-Benedict-XVI.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-21612229)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-21612229)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/9897769/The-world-bids-farewell-to-Pope-Benedict-XVI.html)
 
 ### Related:
 

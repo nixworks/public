@@ -7,9 +7,9 @@ Hurricane Hermine sweeps onto Florida&#039;s Gulf coast as officials warn of lif
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/US/2016/09/02/Hermine-Storm-over-Carolinas-as-Florida-cleans-up-1-dead-250K-without-power/6531472799056/?spt=hts&or=1)
-2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/022040.shtml?)
-3. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2016-09-02/hermine-florida-braces-for-first-hurricane-in-more-than-a-decade/7807488)
+1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/022040.shtml?)
+2. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2016-09-02/hermine-florida-braces-for-first-hurricane-in-more-than-a-decade/7807488)
+3. [UPI](http://www.upi.com/Top_News/US/2016/09/02/Hermine-Storm-over-Carolinas-as-Florida-cleans-up-1-dead-250K-without-power/6531472799056/?spt=hts&or=1)
 
 ### Related:
 

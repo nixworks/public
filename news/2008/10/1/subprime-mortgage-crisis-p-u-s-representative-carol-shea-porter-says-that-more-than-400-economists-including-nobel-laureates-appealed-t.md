@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NHPR](http://www.nhpr.org/node/17839)
-2. [The Local](http://www.thelocal.se/14656/20080930/)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/7647622.stm)
+1. [The Local](http://www.thelocal.se/14656/20080930/)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/7647622.stm)
+3. [NHPR](http://www.nhpr.org/node/17839)
 4. [Nashua Telegraph](http://www.nashuatelegraph.com/apps/pbcs.dll/article?AID=/20080930/NEWS01/309309923/-1/news)
 
 ### Related:

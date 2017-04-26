@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Nation](http://nation.com.pk/national/07-Feb-2016/bomber-kills-10-outside-quetta-district-courts)
-2. [CNN](http://edition.cnn.com/2016/02/06/asia/pakistan-suicide-attack/)
+1. [CNN](http://edition.cnn.com/2016/02/06/asia/pakistan-suicide-attack/)
+2. [The Nation](http://nation.com.pk/national/07-Feb-2016/bomber-kills-10-outside-quetta-district-courts)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/25/uk.last.veteran.obit/)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk/8168691.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/8168691.stm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/25/uk.last.veteran.obit/)
 
 ### Related:
 

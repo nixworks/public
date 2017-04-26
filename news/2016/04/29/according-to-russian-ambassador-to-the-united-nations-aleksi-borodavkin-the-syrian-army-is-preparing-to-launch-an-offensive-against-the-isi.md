@@ -7,8 +7,8 @@ Sources in city say three clinics in rebel-held areas of Aleppo have been destro
 
 ### Source:
 
-1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/russia-syria-offensive-raqqa-islamic-state/27706074.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/04/hospital-syria-hit-air-strike-reports-160429103454466.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/hospital-syria-hit-air-strike-reports-160429103454466.html)
+2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/russia-syria-offensive-raqqa-islamic-state/27706074.html)
 
 ### Related:
 

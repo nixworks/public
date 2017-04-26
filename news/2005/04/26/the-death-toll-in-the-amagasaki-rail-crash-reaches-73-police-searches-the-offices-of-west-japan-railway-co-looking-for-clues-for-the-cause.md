@@ -8,9 +8,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8289081)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T345548.htm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=ah.gQcMVrJQA&refer=top_world_news)
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=2&id=335311)
-4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=ah.gQcMVrJQA&refer=top_world_news)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T345548.htm)
 
 ### Related:
 

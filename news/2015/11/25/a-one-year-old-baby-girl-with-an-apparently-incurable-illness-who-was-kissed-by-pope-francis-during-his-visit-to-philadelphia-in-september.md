@@ -7,8 +7,8 @@ Joey Masciantonio vividly remembers the moment his baby daughter Gianna met Pope
 
 ### Source:
 
-1. [Philadelphia Daily News](http://www.philly.com/philly/news/pope/20151123_Miracle_on_Market__Tot_s_tumor_shrinks_weeks_after_encounter_with_Pope_Francis.html)
-2. [NBC News](http://www.nbcnews.com/storyline/pope-francis-visits-america/divine-moment-baby-kissed-pope-philadelphia-sees-brain-tumor-shrink-n469751)
+1. [NBC News](http://www.nbcnews.com/storyline/pope-francis-visits-america/divine-moment-baby-kissed-pope-philadelphia-sees-brain-tumor-shrink-n469751)
+2. [Philadelphia Daily News](http://www.philly.com/philly/news/pope/20151123_Miracle_on_Market__Tot_s_tumor_shrinks_weeks_after_encounter_with_Pope_Francis.html)
 
 ### Related:
 

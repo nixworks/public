@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-security-police-idUSKCN12408Z)
-2. [Gulf News](http://gulfnews.com/news/mena/turkey/turkey-police-shut-down-pro-kurdish-tv-channel-live-on-air-1.1906713)
+1. [Gulf News](http://gulfnews.com/news/mena/turkey/turkey-police-shut-down-pro-kurdish-tv-channel-live-on-air-1.1906713)
+2. [Reuters](http://www.reuters.com/article/us-turkey-security-police-idUSKCN12408Z)
 
 ### Related:
 

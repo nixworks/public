@@ -7,8 +7,8 @@ A Pakistani minister and woman’s activist has been shot dead by an Islamic ext
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article1414137.ece)
-2. [FOX](http://www.foxnews.com/story/0,2933,253125,00.html)
+1. [FOX](http://www.foxnews.com/story/0,2933,253125,00.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article1414137.ece)
 
 ### Related:
 

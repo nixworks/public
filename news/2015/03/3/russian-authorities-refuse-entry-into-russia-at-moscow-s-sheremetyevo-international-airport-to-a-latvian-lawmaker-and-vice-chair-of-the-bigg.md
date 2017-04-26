@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [AFP via Yahoo! News](https://au.news.yahoo.com/world/a/26494872/polish-latvian-officials-barred-from-entering-russia-for-nemtsov-funeral/)
-2. [ABC News](http://abcnews.go.com/International/wireStory/polish-top-senator-russia-banned-nemtsovs-funeral-29327285)
+1. [ABC News](http://abcnews.go.com/International/wireStory/polish-top-senator-russia-banned-nemtsovs-funeral-29327285)
+2. [AFP via Yahoo! News](https://au.news.yahoo.com/world/a/26494872/polish-latvian-officials-barred-from-entering-russia-for-nemtsov-funeral/)
 
 ### Related:
 

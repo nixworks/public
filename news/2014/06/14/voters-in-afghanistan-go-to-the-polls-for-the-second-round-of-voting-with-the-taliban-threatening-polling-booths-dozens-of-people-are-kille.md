@@ -7,8 +7,8 @@ Afghans headed to the polls Saturday to elect a new president who will help mana
 
 ### Source:
 
-1. [al-Jazeera](http://www.aljazeera.com/news/asia/2014/06/afghans-elect-president-amid-taliban-threats-20146142933334123.html)
-2. [USA Today](http://www.usatoday.com/story/news/world/2014/06/14/afghan-vote-presidential-runoff/10515947/)
+1. [USA Today](http://www.usatoday.com/story/news/world/2014/06/14/afghan-vote-presidential-runoff/10515947/)
+2. [al-Jazeera](http://www.aljazeera.com/news/asia/2014/06/afghans-elect-president-amid-taliban-threats-20146142933334123.html)
 
 ### Related:
 

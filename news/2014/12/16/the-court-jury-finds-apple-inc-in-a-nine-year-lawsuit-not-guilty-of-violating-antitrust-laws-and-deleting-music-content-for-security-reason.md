@@ -7,9 +7,9 @@ After just a few hours of deliberation, jury nukes a 10-year antitrust case.
 
 ### Source:
 
-1. [BusinessWeek](http://www.businessweek.com/news/2014-12-16/apple-prevails-at-1-billion-trial-over-digital-music)
-2. [Ars Technica](http://arstechnica.com/tech-policy/2014/12/jury-finds-for-apple-in-itunes-case-throws-out-billion-dollar-lawsuit/)
-3. [NY Daily News](http://www.nydailynews.com/news/national/apple-wins-digital-music-u-s-antitrust-trial-article-1.2047274)
+1. [NY Daily News](http://www.nydailynews.com/news/national/apple-wins-digital-music-u-s-antitrust-trial-article-1.2047274)
+2. [BusinessWeek](http://www.businessweek.com/news/2014-12-16/apple-prevails-at-1-billion-trial-over-digital-music)
+3. [Ars Technica](http://arstechnica.com/tech-policy/2014/12/jury-finds-for-apple-in-itunes-case-throws-out-billion-dollar-lawsuit/)
 
 ### Related:
 

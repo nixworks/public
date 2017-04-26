@@ -9,8 +9,8 @@ A fourth top Syrian official dies from injuries incurred in a bombing on Wednesd
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012720142235155363.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012720152158394113.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18920733)
-4. [Financial Times](http://www.ft.com/cms/s/0/d942026e-d24a-11e1-ac21-00144feabdc0.html#axzz21CR4f7o8)
+3. [Financial Times](http://www.ft.com/cms/s/0/d942026e-d24a-11e1-ac21-00144feabdc0.html#axzz21CR4f7o8)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-18920733)
 
 ### Related:
 

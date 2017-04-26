@@ -8,8 +8,8 @@ A map of the outer suburbs of the Andromeda galaxy finds that its rotating disk 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8643726)
-2. [Universer Today](http://www.universetoday.com/am/publish/andromeda_3_times_larger.html?3052005)
-3. [Space.Com](http://www.space.com/scienceastronomy/050530_andromeda_size.html)
+2. [Space.Com](http://www.space.com/scienceastronomy/050530_andromeda_size.html)
+3. [Universer Today](http://www.universetoday.com/am/publish/andromeda_3_times_larger.html?3052005)
 
 ### Related:
 

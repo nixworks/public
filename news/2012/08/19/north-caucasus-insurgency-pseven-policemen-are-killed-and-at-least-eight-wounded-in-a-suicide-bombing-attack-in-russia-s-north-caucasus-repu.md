@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/19/us-russia-caucasus-idUSBRE87I01F20120819)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-19310088)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-19310088)
+2. [Reuters](http://www.reuters.com/article/2012/08/19/us-russia-caucasus-idUSBRE87I01F20120819)
 
 ### Related:
 

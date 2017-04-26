@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://neic.usgs.gov/neis/bulletin/neic_axay_nr.html)
-2. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usaxay.htm)
+1. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usaxay.htm)
+2. [USGS](http://neic.usgs.gov/neis/bulletin/neic_axay_nr.html)
 
 ### Related:
 

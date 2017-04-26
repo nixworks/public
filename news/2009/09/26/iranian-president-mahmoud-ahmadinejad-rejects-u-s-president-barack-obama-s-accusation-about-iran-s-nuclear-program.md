@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6jtny6rOmiwS39lfjbJ2n6ybwuQ)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/09/200992653918859243.html)
 2. [CNN](http://www.cnn.com/2009/WORLD/meast/09/25/iran.nuclear/index.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/09/200992653918859243.html)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6jtny6rOmiwS39lfjbJ2n6ybwuQ)
 
 ### Related:
 

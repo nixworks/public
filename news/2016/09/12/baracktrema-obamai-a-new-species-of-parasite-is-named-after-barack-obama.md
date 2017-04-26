@@ -7,8 +7,8 @@ A new species of parasitic flatworms found in turtles has been named after U.S. 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/09/09/scientists-like-barack-obama-so-much-that-they-named-a-parasite-after-him/)
-2. [Tech Times](http://www.techtimes.com/articles/176967/20160912/meet-baractrema-obamai-experts-name-new-parasite-after-barack-obama.htm)
+1. [Tech Times](http://www.techtimes.com/articles/176967/20160912/meet-baractrema-obamai-experts-name-new-parasite-after-barack-obama.htm)
+2. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/09/09/scientists-like-barack-obama-so-much-that-they-named-a-parasite-after-him/)
 
 ### Related:
 

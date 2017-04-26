@@ -7,8 +7,8 @@ A family of four was severely sickened following a Terminix fumigation at a U.S.
 
 ### Source:
 
-1. [NBC News²](http://www.nbcnews.com/news/us-news/family-four-sickened-u-s-virgin-islands-resort-after-fumigation-n336401)
-2. [NBC News](http://www.nbcnews.com/news/us-news/terminix-pay-10-million-using-banned-pesticide-sickened-family-n547566)
+1. [NBC News](http://www.nbcnews.com/news/us-news/terminix-pay-10-million-using-banned-pesticide-sickened-family-n547566)
+2. [NBC News²](http://www.nbcnews.com/news/us-news/family-four-sickened-u-s-virgin-islands-resort-after-fumigation-n336401)
 
 ### Related:
 

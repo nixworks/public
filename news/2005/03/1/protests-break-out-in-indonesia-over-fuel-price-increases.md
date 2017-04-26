@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/JAK202309.htm)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific_business/view/135016/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific_business/view/135016/1/.html)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/JAK202309.htm)
 
 ### Related:
 

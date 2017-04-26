@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h9dwnmYRiglW4VjRLx0ALE_Br3Zw)
+1. [Xinhua](http://news.xinhuanet.com/english/china/2013-04/24/c_132336588.htm)
 2. [Bloomberg](http://www.bloomberg.com/news/2013-04-24/violence-in-china-s-xinjiang-kills-21-people-government-reports.html)
-3. [Xinhua](http://news.xinhuanet.com/english/china/2013-04/24/c_132336588.htm)
+3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h9dwnmYRiglW4VjRLx0ALE_Br3Zw)
 
 ### Related:
 

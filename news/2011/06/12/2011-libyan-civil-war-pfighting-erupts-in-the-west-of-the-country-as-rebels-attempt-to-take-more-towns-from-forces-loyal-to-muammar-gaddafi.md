@@ -7,8 +7,8 @@ Rebels battle troops loyal to Muammar Gaddafi as they attempt to seize town betw
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/20116124372194590.html)
-2. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2011/Jun-12/Fighting-flares-in-Libyan-western-port-rebels.ashx#axzz1P5A9FIGz)
+1. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2011/Jun-12/Fighting-flares-in-Libyan-western-port-rebels.ashx#axzz1P5A9FIGz)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/20116124372194590.html)
 
 ### Related:
 

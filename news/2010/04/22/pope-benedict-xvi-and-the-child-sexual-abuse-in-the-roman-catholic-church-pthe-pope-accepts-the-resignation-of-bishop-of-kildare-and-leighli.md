@@ -7,15 +7,15 @@ Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leig
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8634624.stm)
-2. [Irish Independent](http://www.independent.ie/national-news/pope-accepts-moriarty-resignation-2147207.html)
-3. [Times Online](http://www.timesonline.co.uk/tol/comment/faith/article7104591.ece#cid=OTC-RSS&attr=797093)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8638798.stm)
-5. [New York Daily News](http://www.nydailynews.com/news/world/2010/04/22/2010-04-22_judgement_day_pope_benedict_xvi_accepts_resignation_of_irish_bishop_moriarty_two.html)
-6. [RTÉ](http://www.rte.ie/news/2010/0422/abuse.html)
-7. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010422103030232888.html)
-8. [The New Zealand Herald](http://www.nzherald.co.nz/religion-and-beliefs/news/article.cfm?c_id=301&objectid=10640327)
-9. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0423/1224268953594.html)
+1. [Times Online](http://www.timesonline.co.uk/tol/comment/faith/article7104591.ece#cid=OTC-RSS&attr=797093)
+2. [RTÉ](http://www.rte.ie/news/2010/0422/abuse.html)
+3. [The New Zealand Herald](http://www.nzherald.co.nz/religion-and-beliefs/news/article.cfm?c_id=301&objectid=10640327)
+4. [Irish Independent](http://www.independent.ie/national-news/pope-accepts-moriarty-resignation-2147207.html)
+5. [BBC](http://news.bbc.co.uk/2/hi/europe/8638798.stm)
+6. [BBC](http://news.bbc.co.uk/2/hi/europe/8634624.stm)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0423/1224268953594.html)
+8. [New York Daily News](http://www.nydailynews.com/news/world/2010/04/22/2010-04-22_judgement_day_pope_benedict_xvi_accepts_resignation_of_irish_bishop_moriarty_two.html)
+9. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010422103030232888.html)
 
 ### Related:
 

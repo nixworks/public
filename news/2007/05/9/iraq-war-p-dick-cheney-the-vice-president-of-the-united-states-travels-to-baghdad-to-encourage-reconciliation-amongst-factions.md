@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Sydney Morning Herald](http://www.smh.com.au/news/world/truck-bomb-kills-12-in-kurdish-iraq/2007/05/09/1178390377091.html)
-2. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/chronicle/4787873.html)
+1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/chronicle/4787873.html)
+2. [Reuters via Sydney Morning Herald](http://www.smh.com.au/news/world/truck-bomb-kills-12-in-kurdish-iraq/2007/05/09/1178390377091.html)
 
 ### Related:
 

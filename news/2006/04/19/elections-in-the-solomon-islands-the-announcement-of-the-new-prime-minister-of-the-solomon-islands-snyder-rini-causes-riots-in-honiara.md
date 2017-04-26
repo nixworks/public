@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://voanews.com/english/2006-04-19-voa2.cfm)
-2. [Radio NZ](http://www.rnzi.com/pages/news.php?op=read&id=23509)
+1. [Radio NZ](http://www.rnzi.com/pages/news.php?op=read&id=23509)
+2. [VOA](http://voanews.com/english/2006-04-19-voa2.cfm)
 
 ### Related:
 

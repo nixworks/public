@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press Trust of India](http://www.ptinews.com/news/306116_Typhoon-Ketsana-kills-31-in-Vietnam--officials)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/29/content_12131817.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-09/29/content_12131817.htm)
+2. [Press Trust of India](http://www.ptinews.com/news/306116_Typhoon-Ketsana-kills-31-in-Vietnam--officials)
 
 ### Related:
 

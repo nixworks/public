@@ -7,8 +7,8 @@ Liverpool are to ‘wait and see’ after Luis Suarez was handed a record nine-g
 
 ### Source:
 
-1. [Press Association](http://www.independent.ie/sport/soccer/world-cup/suarez-banned-for-nine-international-matches-and-all-football-for-four-months-30387318.html)
-2. [BBC Sport](http://www.bbc.com/sport/0/football/28023882)
+1. [BBC Sport](http://www.bbc.com/sport/0/football/28023882)
+2. [Press Association](http://www.independent.ie/sport/soccer/world-cup/suarez-banned-for-nine-international-matches-and-all-football-for-four-months-30387318.html)
 
 ### Related:
 

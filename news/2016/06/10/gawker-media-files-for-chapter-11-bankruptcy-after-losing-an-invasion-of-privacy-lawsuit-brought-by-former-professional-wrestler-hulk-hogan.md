@@ -7,10 +7,10 @@ Call it the Chapter 11 inverted headlock.
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/06/11/business/media/gawker-bankruptcy-sale.html?_r=0)
-2. [CNN](http://money.cnn.com/2016/06/10/media/gawker-media-bankruptcy/index.html)
+1. [CNN](http://money.cnn.com/2016/06/10/media/gawker-media-bankruptcy/index.html)
+2. [Ad Week](http://www.adweek.com/news/press/gawker-has-filed-bankruptcy-and-says-it-will-sell-ziff-davis-171937)
 3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-10/gawker-files-bankruptcy-after-losing-hulk-hogan-privacy-case)
-4. [Ad Week](http://www.adweek.com/news/press/gawker-has-filed-bankruptcy-and-says-it-will-sell-ziff-davis-171937)
+4. [The New York Times](http://www.nytimes.com/2016/06/11/business/media/gawker-bankruptcy-sale.html?_r=0)
 
 ### Related:
 

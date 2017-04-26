@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0417/bolivia.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/8004848.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/8004848.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0417/bolivia.html)
 
 ### Related:
 

@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [AP via WTOP](http://wtop.com/asia/2016/09/witness-says-philippine-president-ordered-killings/)
-2. [Rappler](http://www.rappler.com/nation/146292-duterte-ordered-killing-jun-pala-senate-witness)
-3. [Interaksyon](http://www.interaksyon.com/article/132449/dds-member-links-duterte-son-paolo-to-murders)
-4. [The New York Times](http://www.nytimes.com/aponline/2016/09/14/world/asia/ap-as-philippines-duterte-killings.html?_r=0)
-5. [Bloomberg](http://www.bloomberg.com/news/articles/2016-09-15/witness-says-philippine-president-ordered-killings)
+1. [The New York Times](http://www.nytimes.com/aponline/2016/09/14/world/asia/ap-as-philippines-duterte-killings.html?_r=0)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-09-15/witness-says-philippine-president-ordered-killings)
+3. [Rappler](http://www.rappler.com/nation/146292-duterte-ordered-killing-jun-pala-senate-witness)
+4. [AP via WTOP](http://wtop.com/asia/2016/09/witness-says-philippine-president-ordered-killings/)
+5. [Interaksyon](http://www.interaksyon.com/article/132449/dds-member-links-duterte-son-paolo-to-murders)
 
 ### Related:
 

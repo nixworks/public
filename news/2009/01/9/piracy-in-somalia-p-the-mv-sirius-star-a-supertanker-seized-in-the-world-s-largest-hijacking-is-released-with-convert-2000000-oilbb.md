@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/world/2009/jan/09/sirius-star-released-somali-pirates-ransom)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-01/10/content_10636231.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-01/10/content_10636231.htm)
+2. [Guardian](http://www.guardian.co.uk/world/2009/jan/09/sirius-star-released-somali-pirates-ransom)
 
 ### Related:
 

@@ -8,9 +8,9 @@ Leah McLaren briefly published a story in the Globe &amp; Mail this week about a
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8549222.stm)
-2. [CNN](http://www.cnn.com/2010/SHOWBIZ/Movies/03/03/burt.reynolds.surgery/?hpt=T2)
-3. [Ireland Online](http://breakingnews.iol.ie/entertainment/reynolds-undergoes-heart-surgery-448609.html)
-4. [CBC](http://www.cbc.ca/arts/media/story/2010/03/03/burt-reynolds-bypass.html)
+2. [CBC](http://www.cbc.ca/arts/media/story/2010/03/03/burt-reynolds-bypass.html)
+3. [CNN](http://www.cnn.com/2010/SHOWBIZ/Movies/03/03/burt.reynolds.surgery/?hpt=T2)
+4. [Ireland Online](http://breakingnews.iol.ie/entertainment/reynolds-undergoes-heart-surgery-448609.html)
 
 ### Related:
 

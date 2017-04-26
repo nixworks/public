@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The News](http://thenews.jang.com.pk/updates.asp?id=89140)
-2. [Indian Express](http://www.indianexpress.com/news/gunmen-bomber-hit-4-sites-in-pakistan-41-dead/529358/)
+1. [Indian Express](http://www.indianexpress.com/news/gunmen-bomber-hit-4-sites-in-pakistan-41-dead/529358/)
+2. [The News](http://thenews.jang.com.pk/updates.asp?id=89140)
 3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601091&sid=aEW2xCPp8TLc)
 
 ### Related:

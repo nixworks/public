@@ -7,11 +7,11 @@ A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet acr
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/africa/toppled-president-hosni-mubarak-clings-to-life-after-suffering-stroke-7870083.html)
-2. [IBN Live](http://ibnlive.in.com/news/mubarak-health-issues-adds-to-egypt-uncertainty/267198-2.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012621101311578831.html)
-4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262023501862710.html)
-5. [BBC](http://www.bbc.co.uk/news/world-middle-east-18535330)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18535330)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262023501862710.html)
+3. [IBN Live](http://ibnlive.in.com/news/mubarak-health-issues-adds-to-egypt-uncertainty/267198-2.html)
+4. [The Independent](http://www.independent.co.uk/news/world/africa/toppled-president-hosni-mubarak-clings-to-life-after-suffering-stroke-7870083.html)
+5. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012621101311578831.html)
 
 ### Related:
 

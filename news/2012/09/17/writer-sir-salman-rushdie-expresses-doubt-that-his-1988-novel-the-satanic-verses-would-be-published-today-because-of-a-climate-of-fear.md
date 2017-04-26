@@ -7,8 +7,8 @@ British author Sir Salman Rushdie says he does not think his 1988 novel The Sata
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/books/2012/sep/17/salman-rushdie-blackest-period-of-my-life)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-19600879)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-19600879)
+2. [The Guardian](http://www.guardian.co.uk/books/2012/sep/17/salman-rushdie-blackest-period-of-my-life)
 
 ### Related:
 

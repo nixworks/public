@@ -7,8 +7,8 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/template/template.asp?template=Assemblypolls2005&slug=Jharkhand+Governor+to+meet+President+Kalam&id=16419&callid=0&category=National)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4317203.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4317203.stm)
+2. [NDTV](http://www.ndtv.com/template/template.asp?template=Assemblypolls2005&slug=Jharkhand+Governor+to+meet+President+Kalam&id=16419&callid=0&category=National)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Michigan must deliver bottled water or provide in-home filtration to all qualifi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-michigan-water-idUSKBN146015)
-2. [Detroit Free Press](http://www.freep.com/story/news/local/michigan/flint-water-crisis/2016/12/16/appeals-court-refuses-lift-flint-bottled-water-order/95528884/)
+1. [Detroit Free Press](http://www.freep.com/story/news/local/michigan/flint-water-crisis/2016/12/16/appeals-court-refuses-lift-flint-bottled-water-order/95528884/)
+2. [Reuters](http://www.reuters.com/article/us-michigan-water-idUSKBN146015)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Yahoo News/AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050919/ap_on_re_as/koreas_nuclear)
-2. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-09-19T050401Z_01_YUE579659_RTRUKOC_0_US-KOREA-NORTH.xml)
+1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-09-19T050401Z_01_YUE579659_RTRUKOC_0_US-KOREA-NORTH.xml)
+2. [Yahoo News/AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050919/ap_on_re_as/koreas_nuclear)
 
 ### Related:
 

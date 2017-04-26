@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261716157457770.html)
-2. [CNN](http://edition.cnn.com/2012/06/17/world/europe/greece-election/index.html?hpt=hp_t1)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-18472595)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-18472595)
+3. [CNN](http://edition.cnn.com/2012/06/17/world/europe/greece-election/index.html?hpt=hp_t1)
 
 ### Related:
 

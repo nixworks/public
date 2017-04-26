@@ -7,9 +7,9 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/07/20117541342873973.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14024206)
-3. [AP via ABC News America](http://abcnews.go.com/Business/wireStory?id=13996496)
+1. [AP via ABC News America](http://abcnews.go.com/Business/wireStory?id=13996496)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/07/20117541342873973.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14024206)
 
 ### Related:
 

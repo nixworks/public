@@ -7,8 +7,8 @@ Australia&#039;s carbon tax is set to become law after the lower house of parlia
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/environment/climate-change/carbon-tax-bill-passes-into-law-20111012-1ljtf.html)
-2. [Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/carbon-tax-bills-pass-lower-house-of-federal-parliament/story-e6frf7jx-1226164980494)
+1. [Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/carbon-tax-bills-pass-lower-house-of-federal-parliament/story-e6frf7jx-1226164980494)
+2. [Sydney Morning Herald](http://www.smh.com.au/environment/climate-change/carbon-tax-bill-passes-into-law-20111012-1ljtf.html)
 
 ### Related:
 

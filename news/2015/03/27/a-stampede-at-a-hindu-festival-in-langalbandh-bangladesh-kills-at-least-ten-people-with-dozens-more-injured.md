@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangla News](http://en.banglanews24.com/fullnews/bn/108611.html)
-2. [AP](http://bigstory.ap.org/article/cb48134524b74d09bbe65d8c9ccddb9e/police-say-10-dead-stampede-bangladesh)
+1. [AP](http://bigstory.ap.org/article/cb48134524b74d09bbe65d8c9ccddb9e/police-say-10-dead-stampede-bangladesh)
+2. [Bangla News](http://en.banglanews24.com/fullnews/bn/108611.html)
 
 ### Related:
 

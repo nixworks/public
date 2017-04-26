@@ -7,9 +7,9 @@ President’s decree suspends all basic rights and gives sweeping powers to secu
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/nov/04/maldives-declares-state-of-emergency)
-2. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/11/04/maldives-president-declares-state-of-emergency)
-3. [Washington Post](https://www.washingtonpost.com/business/us-amnesty-criticize-maldives-state-of-emergency/2015/11/05/4a3584bc-837a-11e5-8bd2-680fff868306_story.html)
+1. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/11/04/maldives-president-declares-state-of-emergency)
+2. [Washington Post](https://www.washingtonpost.com/business/us-amnesty-criticize-maldives-state-of-emergency/2015/11/05/4a3584bc-837a-11e5-8bd2-680fff868306_story.html)
+3. [The Guardian](http://www.theguardian.com/world/2015/nov/04/maldives-declares-state-of-emergency)
 
 ### Related:
 

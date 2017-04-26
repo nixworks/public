@@ -7,8 +7,8 @@ Spanish football giant sign $218m shirt sponsorship deal with non-profit Qatar F
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101210152528690559.html)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/europe/9276343.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/europe/9276343.stm)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101210152528690559.html)
 3. [The Guardian](http://www.guardian.co.uk/football/2010/dec/10/barcelona-25m-shirt-sponsorship-qatar-foundation)
 
 ### Related:

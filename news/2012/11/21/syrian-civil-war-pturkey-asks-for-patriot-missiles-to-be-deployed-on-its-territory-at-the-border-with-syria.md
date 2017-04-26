@@ -7,8 +7,8 @@ NATO ambassadors met on Wednesday to consider a Turkish request for the deployme
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2012/1121/syrian-forces.html)
-2. [CNN](http://www.cnn.com/2012/11/21/world/meast/syria-civil-war/index.html)
+1. [CNN](http://www.cnn.com/2012/11/21/world/meast/syria-civil-war/index.html)
+2. [RTÉ](http://www.rte.ie/news/2012/1121/syrian-forces.html)
 3. [Reuters](http://www.reuters.com/article/2012/11/21/us-syria-crisis-turkey-nato-idUSBRE8AK0UZ20121121)
 4. [Times Live South Africa](http://www.timeslive.co.za/world/2012/11/21/syrian-troops-besiege-town-on-outskirts-of-damascus)
 

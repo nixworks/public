@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=8120)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L24657775.htm)
-3. [Bangladesh Journal](http://www.bangladeshjournal.com/index.php?ID=3884&tim=24-4-2005)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L24657775.htm)
+2. [Bangladesh Journal](http://www.bangladeshjournal.com/index.php?ID=3884&tim=24-4-2005)
+3. [Al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=8120)
 
 ### Related:
 

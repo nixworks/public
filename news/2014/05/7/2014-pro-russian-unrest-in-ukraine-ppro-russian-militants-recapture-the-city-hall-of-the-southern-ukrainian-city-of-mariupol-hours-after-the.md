@@ -7,8 +7,8 @@ Pro-Russian separatists seize back the city hall in the southern Ukrainian port 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/05/07/world/europe/ukraine-crisis/index.html?hpt=hp_t3)
-2. [BBC](http://www.bbc.com/news/world-europe-27314816)
+1. [BBC](http://www.bbc.com/news/world-europe-27314816)
+2. [CNN](http://www.cnn.com/2014/05/07/world/europe/ukraine-crisis/index.html?hpt=hp_t3)
 3. [BBC](http://www.bbc.com/news/world-europe-27305245)
 
 ### Related:

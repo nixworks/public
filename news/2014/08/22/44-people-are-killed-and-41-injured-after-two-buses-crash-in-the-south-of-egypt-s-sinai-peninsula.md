@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-28892145)
-2. [Al-Ahram](http://english.ahram.org.eg/News/109033.aspx)
-3. [RT](http://rt.com/news/line/2014-08-22/#68956)
+1. [Al-Ahram](http://english.ahram.org.eg/News/109033.aspx)
+2. [RT](http://rt.com/news/line/2014-08-22/#68956)
+3. [BBC](http://www.bbc.com/news/world-middle-east-28892145)
 
 ### Related:
 

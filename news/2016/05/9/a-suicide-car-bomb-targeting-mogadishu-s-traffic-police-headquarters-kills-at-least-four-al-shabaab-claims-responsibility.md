@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/somalia-blast-idINKCN0Y00HN)
-2. [NY Times](http://www.nytimes.com/aponline/2016/05/09/world/africa/ap-af-somalia-violence.html?_r=0)
+1. [NY Times](http://www.nytimes.com/aponline/2016/05/09/world/africa/ap-af-somalia-violence.html?_r=0)
+2. [Reuters](http://in.reuters.com/article/somalia-blast-idINKCN0Y00HN)
 
 ### Related:
 

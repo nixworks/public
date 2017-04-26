@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Canadian Press](http://news.yahoo.com/s/cpress/20060413/ca_pr_on_wo/chad_rebels)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4908836.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4908836.stm)
+2. [Canadian Press](http://news.yahoo.com/s/cpress/20060413/ca_pr_on_wo/chad_rebels)
 
 ### Related:
 

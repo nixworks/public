@@ -7,10 +7,10 @@ A prophecy that Saturday is Judgment Day, and the start of the five-month end of
 
 ### Source:
 
-1. [New York magazine](http://nymag.com/daily/intel/2011/05/a_conversation_with_harold_cam.html)
-2. [The New York Times](http://www.nytimes.com/2011/05/22/us/22doomsday.html?_r=1)
-3. [The New York Times](http://www.nytimes.com/2011/05/20/us/20rapture.html?pagewanted=1&_r=3&hp)
-4. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_671077.html)
+1. [The New York Times](http://www.nytimes.com/2011/05/22/us/22doomsday.html?_r=1)
+2. [New York magazine](http://nymag.com/daily/intel/2011/05/a_conversation_with_harold_cam.html)
+3. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_671077.html)
+4. [The New York Times](http://www.nytimes.com/2011/05/20/us/20rapture.html?pagewanted=1&_r=3&hp)
 
 ### Related:
 

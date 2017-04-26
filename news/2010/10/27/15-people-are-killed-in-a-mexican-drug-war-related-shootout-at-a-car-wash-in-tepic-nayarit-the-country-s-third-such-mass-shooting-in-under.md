@@ -7,8 +7,8 @@ The killings in Nayarit State were the third mass shooting with apparent connect
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/27/mexico.carwash.massacre/index.html?eref=edition)
-2. [New York Times](http://www.nytimes.com/2010/10/28/world/americas/28mexico.html?src=twrhp)
+1. [New York Times](http://www.nytimes.com/2010/10/28/world/americas/28mexico.html?src=twrhp)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/27/mexico.carwash.massacre/index.html?eref=edition)
 
 ### Related:
 

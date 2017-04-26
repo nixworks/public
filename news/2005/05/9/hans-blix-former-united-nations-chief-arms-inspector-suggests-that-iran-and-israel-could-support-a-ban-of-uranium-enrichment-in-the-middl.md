@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N09702375.htm)
-2. [Al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=8508)
+1. [Al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=8508)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N09702375.htm)
 
 ### Related:
 

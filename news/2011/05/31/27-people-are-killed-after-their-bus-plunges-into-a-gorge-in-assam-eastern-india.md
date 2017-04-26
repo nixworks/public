@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g4_-9VRf3wmkzdnCvbJLznyFlK5w?docId=CNG.3cf1e082768131d9b373932dd736ba67.521)
-2. [Kuwait News Agency](http://www.kuna.net.kw/NewsAgenciesPublicSite/ArticleDetails.aspx?id=2170425&Language=en)
+1. [Kuwait News Agency](http://www.kuna.net.kw/NewsAgenciesPublicSite/ArticleDetails.aspx?id=2170425&Language=en)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g4_-9VRf3wmkzdnCvbJLznyFlK5w?docId=CNG.3cf1e082768131d9b373932dd736ba67.521)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AJC](http://www.ajc.com/news/nation-world/tropical-storm-hubert-kills-364879.html)
-2. [Miami Herald](http://www.miamiherald.com/2010/03/12/1526165/tropical-storm-hubert-kills-10.html)
+1. [Miami Herald](http://www.miamiherald.com/2010/03/12/1526165/tropical-storm-hubert-kills-10.html)
+2. [AJC](http://www.ajc.com/news/nation-world/tropical-storm-hubert-kills-364879.html)
 
 ### Related:
 

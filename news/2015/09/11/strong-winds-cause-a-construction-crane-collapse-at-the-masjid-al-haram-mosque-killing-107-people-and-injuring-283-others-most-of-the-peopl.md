@@ -8,9 +8,9 @@ At least 107 people died and 238 more were injured when a crane collapsed at the
 ### Source:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-3231117/At-62-people-dead-crane-collapses-Grand-Mosque-Mecca.html)
-2. [USA Today](http://www.usatoday.com/story/news/world/2015/09/11/many-deaths-reported-crane-collapse-meccas-grand-mosque/72069206/)
+2. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-12/deaths-as-crane-crashes-into-meccas-grand-mosque/6770382)
 3. [RT](http://www.rt.com/news/315082-crane-collapses-mecca-mosque/)
-4. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-12/deaths-as-crane-crashes-into-meccas-grand-mosque/6770382)
+4. [USA Today](http://www.usatoday.com/story/news/world/2015/09/11/many-deaths-reported-crane-collapse-meccas-grand-mosque/72069206/)
 
 ### Related:
 

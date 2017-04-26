@@ -7,10 +7,10 @@ It’s not just Obama’s critics in Congress who think he can’t defeat the Is
 
 ### Source:
 
-1. [The Daily Beast](http://www.thedailybeast.com/articles/2015/12/09/pentagon-insiders-isis-war-plan-is-not-working.html#)
+1. [Reuters via NBC News](http://www.nbcnews.com/storyline/isis-terror/isis-finance-minister-abu-salah-killed-american-airstrike-n477881?wpmm=1&wpisrc=nl_daily202)
 2. [Defense News](http://www.defensenews.com/story/defense/policy-budget/congress/2015/12/09/carter-cautions-us-ground-troops-would-americanize-isis-fight/77043772/)
 3. [The Hill](http://thehill.com/policy/defense/262484-former-obama-defense-official-isis-threat-getting-worse-not-better#.VmglA3tFYfk.facebook)
-4. [Reuters via NBC News](http://www.nbcnews.com/storyline/isis-terror/isis-finance-minister-abu-salah-killed-american-airstrike-n477881?wpmm=1&wpisrc=nl_daily202)
+4. [The Daily Beast](http://www.thedailybeast.com/articles/2015/12/09/pentagon-insiders-isis-war-plan-is-not-working.html#)
 
 ### Related:
 

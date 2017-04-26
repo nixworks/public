@@ -8,9 +8,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### Source:
 
 1. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=N17276004)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/5260020.stm)
-3. [CNN](http://www.cnn.com/2006/WORLD/americas/08/17/ecuador.volcano.reut/)
-4. [UN](http://www.un.org/apps/news/story.asp?NewsID=19221&Cr=ecuador&Cr1=)
+2. [UN](http://www.un.org/apps/news/story.asp?NewsID=19221&Cr=ecuador&Cr1=)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/5260020.stm)
+4. [CNN](http://www.cnn.com/2006/WORLD/americas/08/17/ecuador.volcano.reut/)
 
 ### Related:
 

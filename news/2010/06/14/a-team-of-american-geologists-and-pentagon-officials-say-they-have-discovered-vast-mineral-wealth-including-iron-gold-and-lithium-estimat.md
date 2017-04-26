@@ -9,8 +9,8 @@ David Martin: It Could Take Years to Exploit Minerals Estimated to Be Worth $1 T
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ixbAsQE2cup3cqRFmFhi27zPVksAD9GAU6U02)
 2. [CBS News](http://www.cbsnews.com/8301-503543_162-20007608-503543.html)
-3. [The Guardian](http://www.guardian.co.uk/commentisfree/michaeltomasky/2010/jun/14/afghanistan-usforeignpolicy-petraeus)
-4. [Politico](http://www.politico.com/blogs/laurarozen/0610/Afghanistans_mineral_find_and_the_Washington_clock.html?showall)
+3. [Politico](http://www.politico.com/blogs/laurarozen/0610/Afghanistans_mineral_find_and_the_Washington_clock.html?showall)
+4. [The Guardian](http://www.guardian.co.uk/commentisfree/michaeltomasky/2010/jun/14/afghanistan-usforeignpolicy-petraeus)
 
 ### Related:
 

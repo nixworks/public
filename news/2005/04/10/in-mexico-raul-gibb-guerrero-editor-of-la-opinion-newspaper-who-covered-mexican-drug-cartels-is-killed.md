@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Prensa Latina](http://www.plenglish.com/Article.asp?ID=%7BEB88740B-DC2D-47E0-A8AC-D989DA446519%7D&language=EN)
-2. [San Diego Tribune](http://www.signonsandiego.com/news/mexico/20050409-0903-mexico-journalistkilled.html)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N10393469.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N10393469.htm)
+3. [San Diego Tribune](http://www.signonsandiego.com/news/mexico/20050409-0903-mexico-journalistkilled.html)
 
 ### Related:
 

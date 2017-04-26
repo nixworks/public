@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/03/09/indonesia.terror.raids/index.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8559054.stm)
 2. [ANTARA News](http://www.antara.co.id/en/news/1268206095/president-announces-top-terrorists-death-at-luncheon-in-alia)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8559054.stm)
+3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/03/09/indonesia.terror.raids/index.html)
 
 ### Related:
 

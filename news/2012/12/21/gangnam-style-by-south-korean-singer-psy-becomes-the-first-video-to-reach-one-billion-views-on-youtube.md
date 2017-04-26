@@ -8,8 +8,8 @@ PSY must be psyched! The Korean pop star who has taken America by storm has made
 ### Source:
 
 1. [The Washington Post](http://www.washingtonpost.com/blogs/arts-post/post/psys-gangnam-style-reaches-1-billion-youtube-views/2012/12/21/07d67ea6-4b87-11e2-a6a6-aabac85e8036_blog.html)
-2. [USA Today](http://www.usatoday.com/story/life/people/2012/12/21/psy-gangnam-style-breaks-youtube-record/1784645/)
-3. [BBC](http://www.bbc.co.uk/news/technology-20812870)
+2. [BBC](http://www.bbc.co.uk/news/technology-20812870)
+3. [USA Today](http://www.usatoday.com/story/life/people/2012/12/21/psy-gangnam-style-breaks-youtube-record/1784645/)
 
 ### Related:
 

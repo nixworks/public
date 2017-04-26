@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/newsitems/200702/s1852795.htm)
-2. [AP via Columbian](http://www.columbian.com/news/APStories/AP02212007news106732.cfm)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6382675.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6382675.stm)
+3. [AP via Columbian](http://www.columbian.com/news/APStories/AP02212007news106732.cfm)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://uk.news.yahoo.com/21102005/323/strong-earthquake-injures-15-turkey.html)
-2. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usekb3.htm)
-3. [AP](http://www.usatoday.com/news/world/2005-10-20-quake_x.htm)
+1. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usekb3.htm)
+2. [AP](http://www.usatoday.com/news/world/2005-10-20-quake_x.htm)
+3. [AFP](http://uk.news.yahoo.com/21102005/323/strong-earthquake-injures-15-turkey.html)
 
 ### Related:
 

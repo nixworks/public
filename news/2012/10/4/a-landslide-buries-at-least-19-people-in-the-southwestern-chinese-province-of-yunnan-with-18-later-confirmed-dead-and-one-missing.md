@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/news/article/18-students-die-after-landslide-hits-China-school-3918030.php)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-china-19825402)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19825402)
+2. [AP via ''San Francisco Chronicle](http://www.sfgate.com/news/article/18-students-die-after-landslide-hits-China-school-3918030.php)
 
 ### Related:
 

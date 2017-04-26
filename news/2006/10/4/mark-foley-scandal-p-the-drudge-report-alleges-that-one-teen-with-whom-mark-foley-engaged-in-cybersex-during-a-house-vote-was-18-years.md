@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Drudge Report](http://www.drudgereport.com/flashmfa.htm)
-2. [Chicago Sun-Times](http://www.suntimes.com/news/politics/82527,CST-NWS-pageside04.article)
-3. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/chi-0610040086oct04,1,3952805.story?coll=chi-newsnationworld-hed)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/chi-0610040086oct04,1,3952805.story?coll=chi-newsnationworld-hed)
+2. [Drudge Report](http://www.drudgereport.com/flashmfa.htm)
+3. [Chicago Sun-Times](http://www.suntimes.com/news/politics/82527,CST-NWS-pageside04.article)
 
 ### Related:
 

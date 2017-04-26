@@ -10,7 +10,7 @@ _Context: Flight 507_
 The newly detected â€˜kingâ€™ of supernovas might be evidence of a new way massive stars die.
 
 ### [ Prime Minister Ehud Olmert of Israel survives three motions of no confidence in Knesset, in the latest backlash over his handling of the 2006 Lebanon war. ](/news/2007/05/7/prime-minister-ehud-olmert-of-israel-survives-three-motions-of-no-confidence-in-knesset-in-the-latest-backlash-over-his-handling-of-the-20.md)
-_Context: Ehud Olmert, Israel, Israeli-Lebanese war of 2006, no-confidence, parliament in Israel, prime minister of Israel_
+_Context: Ehud Olmert, Israel, Israeli-Lebanese war of 2006, Prime Minister of Israel, no-confidence, parliament in Israel_
 
 ### [ A senior officer of the Los Angeles Police Department is demoted and 61 other officers reassigned after an inquiry into the handling of a May Day protest. ](/news/2007/05/7/a-senior-officer-of-the-los-angeles-police-department-is-demoted-and-61-other-officers-reassigned-after-an-inquiry-into-the-handling-of-a-m.md)
 _Context: Los Angeles Police Department, May Day_
@@ -19,7 +19,7 @@ _Context: Los Angeles Police Department, May Day_
 _Context: Pakistan, bus_
 
 ### [ More than 18,000 Mexicans pose naked for U.S. photographer Spencer Tunick at the Zcalo Plaza in Mexico City. ](/news/2007/05/7/more-than-18-000-mexicans-pose-naked-for-u-s-photographer-spencer-tunick-at-the-zocalo-plaza-in-mexico-city.md)
-_Context: Mexico, Mexico City, Spencer Tunick, United States, Z�calo Plaza, photographer_
+_Context: Mexico, Mexico City, Spencer Tunick, U.S., Z�calo Plaza, photographer_
 
 ## [Previous Day...](/news/2007/05/6/index.md)
 

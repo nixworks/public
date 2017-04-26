@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8219791.stm)
-2. [Yahoo! news](http://news.yahoo.com/s/ap/20090825/ap_on_re_eu/eu_russia_caucasus_violence)
+1. [Yahoo! news](http://news.yahoo.com/s/ap/20090825/ap_on_re_eu/eu_russia_caucasus_violence)
+2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8219791.stm)
 
 ### Related:
 

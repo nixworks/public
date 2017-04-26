@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1135139.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4537611.stm)
 2. [Cameroon-Info](http://www.cameroon-info.net/cmi_show_news.php?id=16282)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4537611.stm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1135139.htm)
 
 ### Related:
 

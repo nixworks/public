@@ -7,10 +7,10 @@ Pro-Russia separatists in eastern Ukraine tell a Russian news agency they seized
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/rebel-leader-says-men-holding-osce-monitors-060752077.html)
-2. [BBC](http://www.bbc.com/news/world-europe-27616126#)
+1. [BBC](http://www.bbc.com/news/world-europe-27616126#)
+2. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/10863933/Ukraines-rebels-in-crisis-after-Donetsk-coup.html)
 3. [BBC](http://www.bbc.com/news/world-europe-27618681)
-4. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/10863933/Ukraines-rebels-in-crisis-after-Donetsk-coup.html)
+4. [AP via Yahoo! News](http://news.yahoo.com/rebel-leader-says-men-holding-osce-monitors-060752077.html)
 
 ### Related:
 

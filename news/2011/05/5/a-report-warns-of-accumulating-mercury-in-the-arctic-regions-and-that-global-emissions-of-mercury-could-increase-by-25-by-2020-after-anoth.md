@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Nunatsiaq Online](http://www.nunatsiaqonline.ca/stories/article/060889_Report_calls_for_global_deal_to_reduce_deadly_mercury_fro_the_Arctic/)
-2. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5g1c7x73hsUhq24krg1-3ceMSkLVg)
-3. [Montreal Gazette](http://www.montrealgazette.com/health/Deadly+form+mercury+found+Arctic+waters+researchers/4691544/story.html)
+1. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5g1c7x73hsUhq24krg1-3ceMSkLVg)
+2. [Montreal Gazette](http://www.montrealgazette.com/health/Deadly+form+mercury+found+Arctic+waters+researchers/4691544/story.html)
+3. [Nunatsiaq Online](http://www.nunatsiaqonline.ca/stories/article/060889_Report_calls_for_global_deal_to_reduce_deadly_mercury_fro_the_Arctic/)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iruoh7dgpqWG0thjcs3A8-Gg2HQg)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/01/c_13673558.htm)
-3. [Press TV](http://www.presstv.ir/detail/158158.html)
+1. [Press TV](http://www.presstv.ir/detail/158158.html)
+2. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iruoh7dgpqWG0thjcs3A8-Gg2HQg)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/01/c_13673558.htm)
 
 ### Related:
 

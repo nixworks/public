@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-13999509)
-2. [Moscow Times](http://www.themoscowtimes.com/business/article/bank-of-moscow-gets-record-bailout/439955.html)
+1. [Moscow Times](http://www.themoscowtimes.com/business/article/bank-of-moscow-gets-record-bailout/439955.html)
+2. [BBC](http://www.bbc.co.uk/news/business-13999509)
 
 ### Related:
 

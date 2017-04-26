@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-21645769)
-2. [Reuters](http://www.reuters.com/article/2013/03/02/us-mali-belmokhtar-idUSBRE9210B920130302)
+1. [Reuters](http://www.reuters.com/article/2013/03/02/us-mali-belmokhtar-idUSBRE9210B920130302)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-21645769)
 
 ### Related:
 

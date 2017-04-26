@@ -7,13 +7,13 @@ Syrian security forces backed by tanks advance into the restive city of Deraa, i
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-13184594)
-2. [Press TV](http://www.presstv.ir/detail/176553.html)
-3. [CNN](http://news.blogs.cnn.com/2011/04/24/major-military-operation-reported-in-southern-syrian-city/)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-13185185)
-5. [Reuters](http://www.reuters.com/article/2011/04/25/libya-airstrike-compound-idUSLDE73O00720110425)
-6. [Press TV](http://www.presstv.ir/detail/176552.html)
-7. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/04/syria-seals-jordanian-border-as-tanks-swarm-daraa-killing-at-least-5/1)
+1. [Reuters](http://www.reuters.com/article/2011/04/25/libya-airstrike-compound-idUSLDE73O00720110425)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13185185)
+3. [Press TV](http://www.presstv.ir/detail/176552.html)
+4. [Press TV](http://www.presstv.ir/detail/176553.html)
+5. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/04/syria-seals-jordanian-border-as-tanks-swarm-daraa-killing-at-least-5/1)
+6. [CNN](http://news.blogs.cnn.com/2011/04/24/major-military-operation-reported-in-southern-syrian-city/)
+7. [BBC](http://www.bbc.co.uk/news/world-africa-13184594)
 
 ### Related:
 

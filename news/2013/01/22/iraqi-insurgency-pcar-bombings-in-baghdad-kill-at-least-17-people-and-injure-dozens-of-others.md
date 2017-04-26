@@ -7,8 +7,8 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/22/us-iraq-violence-idUSBRE90L0BQ20130122)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21141242)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21141242)
+2. [Reuters](http://www.reuters.com/article/2013/01/22/us-iraq-violence-idUSBRE90L0BQ20130122)
 
 ### Related:
 

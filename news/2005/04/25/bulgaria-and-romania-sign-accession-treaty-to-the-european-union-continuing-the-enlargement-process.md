@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [press release](http://www.eu2005.lu/en/calendrier/2005/04/25bg-ro/index.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4480677.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4480677.stm)
+2. [press release](http://www.eu2005.lu/en/calendrier/2005/04/25bg-ro/index.html)
 
 ### Related:
 

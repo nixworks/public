@@ -7,8 +7,8 @@ A woman injured in the powerful bomb explosion in a bus in the Philippine capita
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2011/01/25/Bus-blast-rocks-Manilas-business-center/UPI-30711295966882/)
-2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=651326&publicationSubCategoryId=63)
+1. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=651326&publicationSubCategoryId=63)
+2. [UPI](http://www.upi.com/Top_News/World-News/2011/01/25/Bus-blast-rocks-Manilas-business-center/UPI-30711295966882/)
 
 ### Related:
 

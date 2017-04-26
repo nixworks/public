@@ -7,8 +7,8 @@ The town of Callaway, Minnesota, has been evacuated after a train crash involvin
 
 ### Source:
 
-1. [Valley News Live](http://www.valleynewslive.com/home/headlines/Train-crash-with-propane-truck-closes-Highway-59--373392491.html?device=phone&c=y)
-2. [KMSP-TV](http://www.fox9.com/news/113247655-story)
+1. [KMSP-TV](http://www.fox9.com/news/113247655-story)
+2. [Valley News Live](http://www.valleynewslive.com/home/headlines/Train-crash-with-propane-truck-closes-Highway-59--373392491.html?device=phone&c=y)
 
 ### Related:
 

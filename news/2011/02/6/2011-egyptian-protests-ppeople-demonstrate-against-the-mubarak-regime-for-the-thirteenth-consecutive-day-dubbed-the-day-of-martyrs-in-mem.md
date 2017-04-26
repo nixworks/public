@@ -7,21 +7,21 @@ Videos uploaded on YouTube appear to show graphic scenes of recent violence in C
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112681158721997.html)
-2. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-4)
-3. [Press TV](http://www.presstv.ir/detail/163958.html)
-4. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-23)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201126145542683316.html)
-6. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak)
-7. [Press TV](http://www.presstv.com/detail/163863.html)
-8. [BBC](http://www.bbc.co.uk/news/business-12376403)
-9. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-7)
-10. [Reuters](http://www.reuters.com/article/2011/02/06/us-egypt-banks-idUSTRE7150EZ20110206)
+1. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-23)
+2. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-27)
+3. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-7)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112681158721997.html)
+5. [Press TV](http://www.presstv.com/detail/163863.html)
+6. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/05/live-blog-feb-6-egypt-protests)
+7. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-4)
+8. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-5)
+9. [BBC](http://www.bbc.co.uk/news/business-12376403)
+10. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak)
 11. [Press TV](http://www.presstv.com/detail/163865.html)
 12. [a live stream] of events, increases by 2,500 per cent during the past week of its coverage of the events in Egypt, with as much as 60 per cent of this coming from the United States. [http://latimesblogs.latimes.com/babylonbeyond/2011/02/egypt-al-jazeera-official-says-web-traffic-skyrocketed-during-protests.html (''Los Angeles Times](http://english.aljazeera.net/watch_now/)
-13. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/05/live-blog-feb-6-egypt-protests)
-14. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-27)
-15. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/06/egypt-hosni-mubarak#block-5)
+13. [Reuters](http://www.reuters.com/article/2011/02/06/us-egypt-banks-idUSTRE7150EZ20110206)
+14. [Press TV](http://www.presstv.ir/detail/163958.html)
+15. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201126145542683316.html)
 
 ### Related:
 

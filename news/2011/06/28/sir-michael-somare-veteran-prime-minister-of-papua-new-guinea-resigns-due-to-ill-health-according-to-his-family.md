@@ -7,8 +7,8 @@ The family of Papua New Guinea&#039;s prime minister Sir Michael Somare says the
 
 ### Source:
 
-1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/06/28/3255803.htm?section=justin)
-2. [The Australian](http://www.theaustralian.com.au/news/world/sir-michael-somare-quits-as-png-leader/story-e6frg6so-1226083610790)
+1. [The Australian](http://www.theaustralian.com.au/news/world/sir-michael-somare-quits-as-png-leader/story-e6frg6so-1226083610790)
+2. [ABC News Australia](http://www.abc.net.au/news/stories/2011/06/28/3255803.htm?section=justin)
 
 ### Related:
 

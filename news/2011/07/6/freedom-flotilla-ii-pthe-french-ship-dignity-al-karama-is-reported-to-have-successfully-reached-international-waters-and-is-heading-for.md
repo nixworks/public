@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Voice of Russia](http://english.ruvr.ru/2011/07/06/52876705.html)
-2. [Channel 6 News](http://channel6newsonline.com/2011/07/israel-deports-five-pro-palestinian-activists-ahead-of-arrival-of-gaza-bound-aid-flotilla/)
+1. [Channel 6 News](http://channel6newsonline.com/2011/07/israel-deports-five-pro-palestinian-activists-ahead-of-arrival-of-gaza-bound-aid-flotilla/)
+2. [The Voice of Russia](http://english.ruvr.ru/2011/07/06/52876705.html)
 
 ### Related:
 

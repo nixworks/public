@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yemen News Agency](http://www.sabanews.net/en/news202446.htm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h4NbgbHk88RSPSpOCG5Cg6f6FrvA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h4NbgbHk88RSPSpOCG5Cg6f6FrvA)
+2. [Yemen News Agency](http://www.sabanews.net/en/news202446.htm)
 
 ### Related:
 

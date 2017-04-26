@@ -7,8 +7,8 @@ Uefa fine the German Football Association 25,000 euros for the &quot;improper co
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-london-18582171)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/18502562)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/18502562)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-london-18582171)
 
 ### Related:
 

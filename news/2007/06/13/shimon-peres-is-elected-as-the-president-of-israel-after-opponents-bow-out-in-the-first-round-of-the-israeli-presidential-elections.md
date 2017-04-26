@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-peres14jun14,0,7457647.story?coll=la-home-world)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/870542.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/870542.html)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-peres14jun14,0,7457647.story?coll=la-home-world)
 
 ### Related:
 

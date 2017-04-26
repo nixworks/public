@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Star Advertiser](http://www.staradvertiser.com/news/breaking/169096206.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iVcf0cFwB0OrH0HIjjsjaiFj7_vg?docId=CNG.7ad0ee28009ec5d851cc625daf0045e6.d71)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iVcf0cFwB0OrH0HIjjsjaiFj7_vg?docId=CNG.7ad0ee28009ec5d851cc625daf0045e6.d71)
+2. [Star Advertiser](http://www.staradvertiser.com/news/breaking/169096206.html)
 
 ### Related:
 

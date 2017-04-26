@@ -7,8 +7,8 @@ Maryam Mirzakhani is among four young researchers to win Fields Medals, awarded 
 
 ### Source:
 
-1. [Nature] [http://www.newscientist.com/article/dn26044-iranian-woman-wins-maths-top-prize-the-fields-medal.html#.U-qB7vldV1k New Scientist](http://www.nature.com/news/iranian-is-first-woman-to-nab-highest-prize-in-maths-1.15686?WT.mc_id=FBK_NatureNews)
-2. [Fields Medals 2014 (IMU](http://www.mathunion.org/general/prizes/2014/)
+1. [Fields Medals 2014 (IMU](http://www.mathunion.org/general/prizes/2014/)
+2. [Nature] [http://www.newscientist.com/article/dn26044-iranian-woman-wins-maths-top-prize-the-fields-medal.html#.U-qB7vldV1k New Scientist](http://www.nature.com/news/iranian-is-first-woman-to-nab-highest-prize-in-maths-1.15686?WT.mc_id=FBK_NatureNews)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Ukraine&#39;s Armed Forces have taken control of Savur-Mohyla in Donetsk region,
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ato-forces-take-over-debaltseve-shakhtarsk-torez-lutuhyne-fighting-for-pervomaisk-and-snizhne-underway-358227.html)
-2. [The New York Times](http://www.nytimes.com/2014/07/29/world/europe/us-and-europe-agree-to-escalate-sanctions-on-russia.html?ref=world)
-3. [Interfax](http://en.interfax.com.ua/news/general/215685.html)
+1. [Interfax](http://en.interfax.com.ua/news/general/215685.html)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ato-forces-take-over-debaltseve-shakhtarsk-torez-lutuhyne-fighting-for-pervomaisk-and-snizhne-underway-358227.html)
+3. [The New York Times](http://www.nytimes.com/2014/07/29/world/europe/us-and-europe-agree-to-escalate-sanctions-on-russia.html?ref=world)
 
 ### Related:
 

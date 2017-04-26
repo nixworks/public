@@ -22,7 +22,7 @@ _Context: Italian Navy, Lampedusa, Mediterranean Sea_
 _Context: Nor'easter_
 
 ### [Former Israeli Prime Minister Ariel Sharon is in critical condition following renal failure after being in a coma since 2006. ](/news/2014/01/2/former-israeli-prime-minister-ariel-sharon-is-in-critical-condition-following-renal-failure-after-being-in-a-coma-since-2006.md)
-_Context: Ariel Sharon, coma, prime minister of Israel, renal failure_
+_Context: Ariel Sharon, Prime Minister of Israel, coma, renal failure_
 
 ## [Previous Day...](/news/2014/01/1/index.md)
 

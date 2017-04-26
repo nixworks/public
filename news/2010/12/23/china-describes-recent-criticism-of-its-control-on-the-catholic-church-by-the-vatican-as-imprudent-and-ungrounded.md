@@ -7,8 +7,8 @@ The Chinese government has challenged the role played by the Pope and suggested 
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/Rift-widens-as-China-lashes-out-at-Pope/articleshow/7150324.cms)
-2. [New York Times](http://www.nytimes.com/2010/12/24/world/asia/24iht-letter24.html)
+1. [New York Times](http://www.nytimes.com/2010/12/24/world/asia/24iht-letter24.html)
+2. [Times of India](http://timesofindia.indiatimes.com/world/china/Rift-widens-as-China-lashes-out-at-Pope/articleshow/7150324.cms)
 
 ### Related:
 

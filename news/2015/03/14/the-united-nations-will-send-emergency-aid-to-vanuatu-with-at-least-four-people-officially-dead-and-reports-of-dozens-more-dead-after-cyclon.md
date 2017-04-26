@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-2994331/Cyclone-batters-Pacific-island-nation-Vanuatu-UN-fears-worst.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
-2. [AP](http://bigstory.ap.org/article/a850f20489f448c49448dbe4de8288c7/cyclone-pam-leaves-trail-destruction-pacifics-vanuatu)
+1. [AP](http://bigstory.ap.org/article/a850f20489f448c49448dbe4de8288c7/cyclone-pam-leaves-trail-destruction-pacifics-vanuatu)
+2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-2994331/Cyclone-batters-Pacific-island-nation-Vanuatu-UN-fears-worst.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Leading Philippine presidential candidate Rodrigo Duterte is angrily condemned a
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/world/philippines-rodrigo-duterte-condemned-for-comments-on-rape-of-australian-missionary-20160417-go8j7b.html)
-2. [BBC News](http://www.bbc.com/news/world-asia-36067011#)
-3. [ABC News Australia](http://www.abc.net.au/news/2016-04-17/philippines-presidential-candidate-condemned-for-joke-about-rape/7333300)
+1. [ABC News Australia](http://www.abc.net.au/news/2016-04-17/philippines-presidential-candidate-condemned-for-joke-about-rape/7333300)
+2. [Sydney Morning Herald](http://www.smh.com.au/world/philippines-rodrigo-duterte-condemned-for-comments-on-rape-of-australian-missionary-20160417-go8j7b.html)
+3. [BBC News](http://www.bbc.com/news/world-asia-36067011#)
 4. [Rappler](http://www.rappler.com/nation/politics/elections/2016/129784-viral-video-duterte-joke-australian-woman-rape)
 
 ### Related:

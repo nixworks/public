@@ -7,9 +7,9 @@ A long-lost composition by Wolfgang Amadeus Mozart and Antonio Salieri was perfo
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/mozart-wolfgang-amadeus-antonio-salieri-lorenzo-da-ponte-libretto-a6873481.html)
-2. [BBC](http://www.bbc.com/news/world-europe-35589422)
-3. [Reuters](http://www.reuters.com/article/us-czech-mozart-idUSKCN0VP1PQ)
+1. [BBC](http://www.bbc.com/news/world-europe-35589422)
+2. [Reuters](http://www.reuters.com/article/us-czech-mozart-idUSKCN0VP1PQ)
+3. [The Independent](http://www.independent.co.uk/news/world/europe/mozart-wolfgang-amadeus-antonio-salieri-lorenzo-da-ponte-libretto-a6873481.html)
 
 ### Related:
 

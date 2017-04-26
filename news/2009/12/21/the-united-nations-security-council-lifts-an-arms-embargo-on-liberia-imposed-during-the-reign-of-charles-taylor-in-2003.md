@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Liberian Observer](http://www.liberianobserver.com/node/3574)
-2. [African Press Agency](http://apanews.net/apa.php?page=show_article_eng&id_article=114116)
+1. [African Press Agency](http://apanews.net/apa.php?page=show_article_eng&id_article=114116)
+2. [Liberian Observer](http://www.liberianobserver.com/node/3574)
 
 ### Related:
 

@@ -8,9 +8,9 @@
 ### Source:
 
 1. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=13803&Cr=ecosystem&Cr1=)
-2. [Seattle PI](http://seattlepi.com/national/218091_ecoreport30.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4391835.stm)
-4. [Discovery](http://dsc.discovery.com/news/afp/20050328/resources.html)
+2. [Discovery](http://dsc.discovery.com/news/afp/20050328/resources.html)
+3. [Seattle PI](http://seattlepi.com/national/218091_ecoreport30.html)
+4. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4391835.stm)
 
 ### Related:
 

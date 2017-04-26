@@ -7,8 +7,8 @@ Andrew Sparrow’s rolling coverage of all the day’s political developments as
 
 ### Source:
 
-1. [Guardian](http://www.theguardian.com/politics/blog/live/2014/oct/16/theresa-may-questioned-by-intelligence-and-security-committee-politics-live-blog)
-2. [EP Media Spokesman](https://twitter.com/jduch/status/522697500910956544)
+1. [EP Media Spokesman](https://twitter.com/jduch/status/522697500910956544)
+2. [Guardian](http://www.theguardian.com/politics/blog/live/2014/oct/16/theresa-may-questioned-by-intelligence-and-security-committee-politics-live-blog)
 
 ### Related:
 

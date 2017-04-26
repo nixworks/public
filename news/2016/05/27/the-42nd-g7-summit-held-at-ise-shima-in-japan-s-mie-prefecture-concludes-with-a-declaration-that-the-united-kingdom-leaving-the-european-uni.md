@@ -8,9 +8,9 @@ A declaration at the G7 meeting in Japan says a vote by the UK to leave the Euro
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2016/05/27/politics/obama-hiroshima-japan/)
-2. [BBC](http://www.bbc.com/news/business-36394905?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-3. [The Washington Post](https://www.washingtonpost.com/politics/obama-visits-hiroshima-more-than-seven-decades-after-the-worlds-first-atomic-strike/2016/05/27/c7d0d250-23b6-11e6-8690-f14ca9de2972_story.html)
-4. [The New York Times](http://www.nytimes.com/2016/05/28/world/asia/obama-hiroshima-japan.html)
+2. [The Washington Post](https://www.washingtonpost.com/politics/obama-visits-hiroshima-more-than-seven-decades-after-the-worlds-first-atomic-strike/2016/05/27/c7d0d250-23b6-11e6-8690-f14ca9de2972_story.html)
+3. [The New York Times](http://www.nytimes.com/2016/05/28/world/asia/obama-hiroshima-japan.html)
+4. [BBC](http://www.bbc.com/news/business-36394905?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 
 ### Related:
 

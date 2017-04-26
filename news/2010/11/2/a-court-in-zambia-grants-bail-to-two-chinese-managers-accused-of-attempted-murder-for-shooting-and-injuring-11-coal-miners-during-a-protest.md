@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Zambian Watchdog](http://www.zambianwatchdog.com/?p=9735)
-2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6A10E320101102)
+1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6A10E320101102)
+2. [Zambian Watchdog](http://www.zambianwatchdog.com/?p=9735)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Pittsburgh Post-Gazette](http://www.post-gazette.com/pg/09267/1000458-482.stm)
-2. [AP via Fox News](http://www.fox11online.com/dpp/news/national/northeast/nat_ap_pittsburgh_g20_march_turns_chaotic_on_streets_of_pittsburgh_200909221547_2899208)
+1. [AP via Fox News](http://www.fox11online.com/dpp/news/national/northeast/nat_ap_pittsburgh_g20_march_turns_chaotic_on_streets_of_pittsburgh_200909221547_2899208)
+2. [Pittsburgh Post-Gazette](http://www.post-gazette.com/pg/09267/1000458-482.stm)
 
 ### Related:
 

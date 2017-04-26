@@ -8,13 +8,13 @@ As the battles raged, a meeting of U.S., European and Arab countries in Rome fai
 ### Source:
 
 1. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5219360.stm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/27/AR2006072700903.html)
-3. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,19938748-23109,00.html)
-4. [New York Times](http://www.nytimes.com/2006/07/26/world/middleeast/26cnd-lebanon.html?ex=1154059200&en=5a44fe9a06294a20&ei=5087%0A)
-5. [CNN](http://www.cnn.com/2006/WORLD/meast/07/27/zawahiri.ap/)
-6. [The Guardian, London](http://www.guardian.co.uk/israel/Story/0,,1831110,00.html)
-7. [ (Associated Press](http://news.yahoo.com/s/ap/20060727/ap_on_re_mi_ea/mideast_fighting_al_qaida)
-8. [Associated Press](http://www.tribstar.com/news/feeds/apcontent/apstories/apstorysection/D8J4B0BO0.xml.txt/resources_apstoryview)
+2. [The Guardian, London](http://www.guardian.co.uk/israel/Story/0,,1831110,00.html)
+3. [Associated Press](http://www.tribstar.com/news/feeds/apcontent/apstories/apstorysection/D8J4B0BO0.xml.txt/resources_apstoryview)
+4. [ (Associated Press](http://news.yahoo.com/s/ap/20060727/ap_on_re_mi_ea/mideast_fighting_al_qaida)
+5. [New York Times](http://www.nytimes.com/2006/07/26/world/middleeast/26cnd-lebanon.html?ex=1154059200&en=5a44fe9a06294a20&ei=5087%0A)
+6. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/27/AR2006072700903.html)
+7. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,19938748-23109,00.html)
+8. [CNN](http://www.cnn.com/2006/WORLD/meast/07/27/zawahiri.ap/)
 
 ### Related:
 

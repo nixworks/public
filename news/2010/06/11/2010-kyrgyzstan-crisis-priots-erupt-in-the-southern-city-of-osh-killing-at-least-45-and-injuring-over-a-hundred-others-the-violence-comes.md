@@ -7,12 +7,12 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/20106113533945972.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/11/kyrgyzstan.violence/index.html?hpt=T2)
+1. [News Daily](http://www.newsdaily.com/stories/tre65a02b-us-kyrgyzstan-violence/)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10290717.stm)
 3. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100611-700136.html?mod=WSJ_latestheadlines)
-4. [RIA Novosti](http://rianovosti.com/world/20100611/159383156.html)
-5. [News Daily](http://www.newsdaily.com/stories/tre65a02b-us-kyrgyzstan-violence/)
-6. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10290717.stm)
+4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/11/kyrgyzstan.violence/index.html?hpt=T2)
+5. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/20106113533945972.html)
+6. [RIA Novosti](http://rianovosti.com/world/20100611/159383156.html)
 
 ### Related:
 

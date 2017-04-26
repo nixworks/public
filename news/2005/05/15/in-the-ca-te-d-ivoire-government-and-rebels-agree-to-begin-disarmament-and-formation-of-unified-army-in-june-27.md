@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L14645646.htm)
-2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CF3TB?OpenDocument)
+1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CF3TB?OpenDocument)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L14645646.htm)
 
 ### Related:
 

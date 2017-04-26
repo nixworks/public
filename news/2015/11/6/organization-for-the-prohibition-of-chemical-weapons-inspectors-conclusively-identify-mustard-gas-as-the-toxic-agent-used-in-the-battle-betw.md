@@ -8,9 +8,9 @@ This is the first official confirmation of mustard gas use in Syria since the co
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Global-News/2015/1106/Mustard-gas-was-used-in-August-attack-on-Syrian-town-says-weapons-group)
-2. [Fox News](http://www.foxnews.com/world/2015/11/06/syrian-activists-rebels-recapture-village-in-country-west-as-major-fighting/)
-3. [Reuters](http://www.reuters.com/article/2015/11/06/us-mideast-crisis-syria-village-idUSKCN0SV0VH20151106)
-4. [Washington Post](https://www.washingtonpost.com/world/weapons-inspectors-determine-syrian-insurgents-used-mustard-gas/2015/11/06/7865d4e0-84b0-11e5-8bd2-680fff868306_story.html)
+2. [Washington Post](https://www.washingtonpost.com/world/weapons-inspectors-determine-syrian-insurgents-used-mustard-gas/2015/11/06/7865d4e0-84b0-11e5-8bd2-680fff868306_story.html)
+3. [Fox News](http://www.foxnews.com/world/2015/11/06/syrian-activists-rebels-recapture-village-in-country-west-as-major-fighting/)
+4. [Reuters](http://www.reuters.com/article/2015/11/06/us-mideast-crisis-syria-village-idUSKCN0SV0VH20151106)
 
 ### Related:
 

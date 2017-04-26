@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8260419.stm)
-2. [Adnkronos](http://www.adnkronos.com/AKI/English/Security/?id=3.0.3780942288)
+1. [Adnkronos](http://www.adnkronos.com/AKI/English/Security/?id=3.0.3780942288)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8260419.stm)
 
 ### Related:
 

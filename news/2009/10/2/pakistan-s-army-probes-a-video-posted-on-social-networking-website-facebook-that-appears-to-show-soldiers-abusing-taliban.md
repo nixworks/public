@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Hindu](http://www.hindu.com/2009/10/03/stories/2009100355501300.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8287264.stm)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/10/02/AR2009100201255.html)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/10/02/AR2009100201255.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8287264.stm)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yahoo](http://news.yahoo.com/s/ap/20051010/ap_on_re_us/new_orleans_taped_beating)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4325574.stm)
-3. [Footage of incident from BBC](http://news.bbc.co.uk/nolavconsole/ifs_news/hi/nb_wm_fs.stm?checkedBandwidth=nb&nbram=1&subtitles=hide&checkedMedia=asx&news=1&bbwm=1&nbwm=1&bbram=1&nol_storyid=4325552)
+1. [Footage of incident from BBC](http://news.bbc.co.uk/nolavconsole/ifs_news/hi/nb_wm_fs.stm?checkedBandwidth=nb&nbram=1&subtitles=hide&checkedMedia=asx&news=1&bbwm=1&nbwm=1&bbram=1&nol_storyid=4325552)
+2. [Yahoo](http://news.yahoo.com/s/ap/20051010/ap_on_re_us/new_orleans_taped_beating)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4325574.stm)
 
 ### Related:
 

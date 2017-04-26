@@ -7,9 +7,9 @@ Ben Ali on course to win fifth term in office, according to initial official res
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2009/10/26/tunisia-election-results.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009102644027187464.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8325378.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009102644027187464.html)
+3. [CBC](http://www.cbc.ca/world/story/2009/10/26/tunisia-election-results.html)
 
 ### Related:
 

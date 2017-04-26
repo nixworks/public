@@ -7,8 +7,8 @@ The UN has warned that up to 200,000 people have been forced to flee after Islam
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-28631770)
-2. [Reuters](http://www.reuters.com/article/2014/08/03/us-iraq-security-idUSKBN0G20FU20140803)
+1. [Reuters](http://www.reuters.com/article/2014/08/03/us-iraq-security-idUSKBN0G20FU20140803)
+2. [BBC](http://www.bbc.com/news/world-middle-east-28631770)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/07/05/world/middleeast/ap-ml-iraq-the-latest.html?_r=0)
-2. [CNN](http://www.cnn.com/2016/07/05/middleeast/iraq-interior-minister-resigns/)
+1. [CNN](http://www.cnn.com/2016/07/05/middleeast/iraq-interior-minister-resigns/)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/07/05/world/middleeast/ap-ml-iraq-the-latest.html?_r=0)
 
 ### Related:
 

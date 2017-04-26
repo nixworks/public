@@ -7,8 +7,8 @@ Greek police charge at protesting government workers who had occupied the Acropo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11539758)
-2. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/travel/riot-police-protesters-clash-682054.html)
+1. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/travel/riot-police-protesters-clash-682054.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11539758)
 
 ### Related:
 

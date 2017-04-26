@@ -7,8 +7,8 @@ Osaka voters rejected a referendum proposal Sunday to merge the city into five s
 
 ### Source:
 
-1. [Japan Times](http://www.japantimes.co.jp/news/2015/05/17/national/politics-diplomacy/osaka-referendum-rejects-merger-plan-possibly-ending-hashimotos-political-career/#.VWDNhkZMi8B)
-2. [Yomiuri Shimbun](http://the-japan-news.com/news/article/0002158625)
+1. [Yomiuri Shimbun](http://the-japan-news.com/news/article/0002158625)
+2. [Japan Times](http://www.japantimes.co.jp/news/2015/05/17/national/politics-diplomacy/osaka-referendum-rejects-merger-plan-possibly-ending-hashimotos-political-career/#.VWDNhkZMi8B)
 
 ### Related:
 

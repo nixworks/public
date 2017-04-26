@@ -7,8 +7,8 @@ Three Tibetans who have been quietly starving themselves in the shadow of the Un
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/world/story/2012/03/20/f-david-common-tibetan-hunger-strike.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hWtwv9qstIyUwfz5rdK-bRF68C8g?docId=CNG.639c501735ab968927c128751a1b4b9a.5e1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hWtwv9qstIyUwfz5rdK-bRF68C8g?docId=CNG.639c501735ab968927c128751a1b4b9a.5e1)
+2. [CBC](http://www.cbc.ca/news/world/story/2012/03/20/f-david-common-tibetan-hunger-strike.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Championship club Blackburn Rovers sack manager Henning Berg after 10 matches an
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/sport/football/article-2253420/Sean-ODriscoll-sacked-Nottingham-Forest.html)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1279064/blackburn-rovers-axe-henning-berg-after-57-days-as-manager)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/20679610)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/20679610)
+2. [Daily Mail](http://www.dailymail.co.uk/sport/football/article-2253420/Sean-ODriscoll-sacked-Nottingham-Forest.html)
+3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1279064/blackburn-rovers-axe-henning-berg-after-57-days-as-manager)
 
 ### Related:
 

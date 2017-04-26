@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [RIAN](http://en.rian.ru/russia/20100329/158343715.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g_9mcBnSXwPM4sqgAwywqSgfV9rAD9EO3JLG1)
+1. [Russia Today](http://www.rt.com/Top_News/2010-03-29/moscow-metro-blast-victims.html)
+2. [RIAN](http://en.rian.ru/russia/20100329/158343715.html)
 3. [RIA](http://en.rian.ru/russia/20100329/158342465.html)
-4. [Russia Today](http://www.rt.com/Top_News/2010-03-29/moscow-metro-blast-victims.html)
+4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g_9mcBnSXwPM4sqgAwywqSgfV9rAD9EO3JLG1)
 
 ### Related:
 

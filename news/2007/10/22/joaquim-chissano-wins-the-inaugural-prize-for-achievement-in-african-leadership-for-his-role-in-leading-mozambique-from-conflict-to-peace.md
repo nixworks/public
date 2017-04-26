@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/7056159.stm)
-2. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/10/22/chissano.award.ap/index.html)
+1. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/10/22/chissano.award.ap/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/7056159.stm)
 
 ### Related:
 

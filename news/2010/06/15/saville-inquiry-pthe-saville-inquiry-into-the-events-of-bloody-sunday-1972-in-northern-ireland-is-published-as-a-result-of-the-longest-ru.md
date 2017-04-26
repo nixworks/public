@@ -9,14 +9,14 @@ The Bloody Sunday killings were unjustified and unjustifiable, the Prime Ministe
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010615144034428377.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0615/bloodysunday.html)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Bloody-Sunday-Inquiry-Report-Published-12-Years-And-200m/Article/201006215649234?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15649234_Bloody_Sunday_Inquiry_Report_Published%3A_12_Years_And_%3F200m)
-4. [euronews](http://www.euronews.net/2010/06/15/relatives-cheer-bloody-sunday-findings/)
-5. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704009804575308243952146652.html?mod=WSJ_hpp_MIDDLETopStories)
-6. [The Independent](http://www.independent.co.uk/news/uk/politics/12year-5000page-report-aiming-to-unlock-the-truth-2000511.html)
-7. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10320609.stm)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0615/breaking56.html)
+4. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704009804575308243952146652.html?mod=WSJ_hpp_MIDDLETopStories)
+5. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10320609.stm)
+6. [The New York Times](http://www.nytimes.com/2010/06/16/world/europe/16nireland.html?src=mv)
+7. [The Independent](http://www.independent.co.uk/news/uk/politics/12year-5000page-report-aiming-to-unlock-the-truth-2000511.html)
 8. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/15/uk.bloody.sunday.inquiry/?hpt=Sbin)
-9. [The New York Times](http://www.nytimes.com/2010/06/16/world/europe/16nireland.html?src=mv)
-10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0615/breaking56.html)
+9. [Sky News](http://news.sky.com/skynews/Home/UK-News/Bloody-Sunday-Inquiry-Report-Published-12-Years-And-200m/Article/201006215649234?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15649234_Bloody_Sunday_Inquiry_Report_Published%3A_12_Years_And_%3F200m)
+10. [euronews](http://www.euronews.net/2010/06/15/relatives-cheer-bloody-sunday-findings/)
 11. [euronews](http://www.euronews.net/2010/06/15/uk-pm-says-sorry-for-northern-irish-bloody-sunday/)
 
 ### Related:

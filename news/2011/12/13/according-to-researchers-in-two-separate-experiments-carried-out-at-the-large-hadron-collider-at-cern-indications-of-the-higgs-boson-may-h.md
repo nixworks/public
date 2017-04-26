@@ -7,8 +7,8 @@ Scientists eagerly await an announcement that will present the best evidence yet
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/technology/story/2011/12/13/science-cern-higgs-boson.html)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-16116230)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-16116230)
+2. [CBC](http://www.cbc.ca/news/technology/story/2011/12/13/science-cern-higgs-boson.html)
 
 ### Related:
 

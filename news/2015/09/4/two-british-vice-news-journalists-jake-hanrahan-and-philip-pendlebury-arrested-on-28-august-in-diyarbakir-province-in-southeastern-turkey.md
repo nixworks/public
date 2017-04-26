@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Turkish Weekly](http://www.turkishweekly.net/2015/09/03/news/two-british-journalists-held-on-terror-charge-released/)
-2. [Time](http://time.com/4022623/turkey-vice-journalists-released/)
+1. [Time](http://time.com/4022623/turkey-vice-journalists-released/)
+2. [Turkish Weekly](http://www.turkishweekly.net/2015/09/03/news/two-british-journalists-held-on-terror-charge-released/)
 
 ### Related:
 

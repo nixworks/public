@@ -7,9 +7,9 @@ Albader Parad said to be among victims of Philippines army operation in Jolo.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8526703.stm)
-2. [Reuters](http://www.reuters.com/article/idUSTRE61K0YU20100221)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102217219857969.html)
+1. [Reuters](http://www.reuters.com/article/idUSTRE61K0YU20100221)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102217219857969.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8526703.stm)
 
 ### Related:
 

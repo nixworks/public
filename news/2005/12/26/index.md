@@ -10,7 +10,7 @@ _Context: 2004 Indian Ocean earthquake, Banda Aceh, Indonesia, President of Indo
 _Context: Russia, Saint Petersburg, gas attack_
 
 ### [ The prime minister of Israel, Ariel Sharon, will undergo a cardiac catheterization to seal a hole in his heart. The surgery is a routine procedure for this congenital defect, according to doctors in Jerusalem. ](/news/2005/12/26/the-prime-minister-of-israel-ariel-sharon-will-undergo-a-cardiac-catheterization-to-seal-a-hole-in-his-heart-the-surgery-is-a-routine-pr.md)
-_Context: Ariel Sharon, Jerusalem, cardiac catheterization, prime minister of Israel_
+_Context: Ariel Sharon, Jerusalem, Prime Minister of Israel, cardiac catheterization_
 
 ### [ A Qassam rocket fired at the Israeli kibbutz Sa'ad lands near a preschool. No injuries are reported. ](/news/2005/12/26/a-qassam-rocket-fired-at-the-israeli-kibbutz-sa-ad-lands-near-a-preschool-no-injuries-are-reported.md)
 _Context: Qassam rocket, Sa'ad, preschool_

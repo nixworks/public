@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/02/04/manila.stampede/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4680040.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4680040.stm)
+2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/02/04/manila.stampede/index.html)
 
 ### Related:
 

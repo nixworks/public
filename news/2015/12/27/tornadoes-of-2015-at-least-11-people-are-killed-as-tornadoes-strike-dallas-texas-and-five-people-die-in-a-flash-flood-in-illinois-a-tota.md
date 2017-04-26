@@ -7,8 +7,8 @@ At least 11 people were killed near Dallas after severe storms and tornadoes sla
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/weather/2015/12/27/severe-weather-tornadoes-texas-south/77939562/)
-2. [Fox2Now](http://fox2now.com/2015/12/27/state-of-emergency-declared-by-gov-nixon-after-deadly-floods-hit-missouri/)
+1. [Fox2Now](http://fox2now.com/2015/12/27/state-of-emergency-declared-by-gov-nixon-after-deadly-floods-hit-missouri/)
+2. [USA Today](http://www.usatoday.com/story/weather/2015/12/27/severe-weather-tornadoes-texas-south/77939562/)
 3. [AP via ''The Greeneville Sun](http://www.greenevillesun.com/news/ap_state_news/at-least-died-from-in-texas-storms-that-spawned-tornadoes/article_4b00b102-aebc-50c7-b37a-50cd6cbb303f.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=50136)
-2. [Fiji Times](http://www.fijitimes.com/story.aspx?id=132929)
+1. [Fiji Times](http://www.fijitimes.com/story.aspx?id=132929)
+2. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=50136)
 
 ### Related:
 

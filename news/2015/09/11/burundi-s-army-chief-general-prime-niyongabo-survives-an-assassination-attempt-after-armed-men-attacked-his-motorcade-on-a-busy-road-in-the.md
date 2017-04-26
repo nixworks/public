@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2015/09/11/world/africa/ap-af-burundi-violence.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-34219026)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-34219026)
+2. [The New York Times](http://www.nytimes.com/aponline/2015/09/11/world/africa/ap-af-burundi-violence.html)
 
 ### Related:
 

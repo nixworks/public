@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Time](http://time.com/4079460/united-nations-ban-ki-moon-israeli-palestinian-peace/)
-2. [CNN](http://www.cnn.com/2015/10/20/middleeast/israeli-palestinian-tensions/)
+1. [CNN](http://www.cnn.com/2015/10/20/middleeast/israeli-palestinian-tensions/)
+2. [Time](http://time.com/4079460/united-nations-ban-ki-moon-israeli-palestinian-peace/)
 
 ### Related:
 

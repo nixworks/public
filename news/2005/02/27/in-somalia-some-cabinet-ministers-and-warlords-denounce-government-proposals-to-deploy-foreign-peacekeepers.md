@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Sudan Tribune](http://www.sudantribune.com/article.php3?id_article=8258)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4302631.stm)
-3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1668605,00.html)
+2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1668605,00.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/4302631.stm)
 
 ### Related:
 

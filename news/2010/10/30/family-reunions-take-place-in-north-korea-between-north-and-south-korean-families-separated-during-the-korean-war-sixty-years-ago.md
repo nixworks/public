@@ -7,8 +7,8 @@ Hundreds of South Koreans cross into North for three-day reunion of families sep
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/10/30/12/0401000000AEN20101030002400315F.HTML)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010103035527118694.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010103035527118694.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/10/30/12/0401000000AEN20101030002400315F.HTML)
 
 ### Related:
 

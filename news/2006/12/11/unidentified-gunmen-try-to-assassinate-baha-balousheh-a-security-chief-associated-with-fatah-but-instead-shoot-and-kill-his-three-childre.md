@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=5990&ref=daily_briefing)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6167835.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6167835.stm)
+2. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=5990&ref=daily_briefing)
 
 ### Related:
 

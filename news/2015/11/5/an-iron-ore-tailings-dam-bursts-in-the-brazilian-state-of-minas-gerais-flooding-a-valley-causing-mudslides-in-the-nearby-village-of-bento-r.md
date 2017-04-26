@@ -7,10 +7,10 @@ Brazilian authorities stepped up efforts to locate and care for victims of a mas
 
 ### Source:
 
-1. [Reuters via SBS Australia](http://www.sbs.com.au/news/article/2015/11/06/16-reported-killed-45-missing-dam-burst-brazilian-bhp-mine)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-05/samarco-says-dam-in-brazil-burst-teams-are-working-on-site)
-3. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/dam-burst-mining-site-devastates-brazilian-town-151106022548631.html)
-4. [AFP via Yahoo! News](http://news.yahoo.com/least-17-dead-dam-bursts-brazil-mining-waste-022224741.html;_ylt=AwrXoCD1EjxWoAQAVqfQtDMD;_ylu=X3oDMTByb2lvbXVuBGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [AFP via Yahoo! News](http://news.yahoo.com/least-17-dead-dam-bursts-brazil-mining-waste-022224741.html;_ylt=AwrXoCD1EjxWoAQAVqfQtDMD;_ylu=X3oDMTByb2lvbXVuBGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+2. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/dam-burst-mining-site-devastates-brazilian-town-151106022548631.html)
+3. [Reuters via SBS Australia](http://www.sbs.com.au/news/article/2015/11/06/16-reported-killed-45-missing-dam-burst-brazilian-bhp-mine)
+4. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-05/samarco-says-dam-in-brazil-burst-teams-are-working-on-site)
 
 ### Related:
 
@@ -21,6 +21,6 @@ Brazilian authorities stepped up efforts to locate and care for victims of a mas
 5. [95 farm workers are rescued from difficult living conditions in two south-eastern states (Minas Gerais and Rio de Janeiro (state)) of Brazil. ](/news/2010/09/12/95-farm-workers-are-rescued-from-difficult-living-conditions-in-two-south-eastern-states-minas-gerais-and-rio-de-janeiro-state-of-brazil.md) _Context: Brazil, Minas Gerais_
 6. [A teenager is shot dead and another is wounded by a further shot during a gay pride parade attended by around 70,000 people in Juiz de Fora, Minas Gerais, Brazil. ](/news/2010/08/15/a-teenager-is-shot-dead-and-another-is-wounded-by-a-further-shot-during-a-gay-pride-parade-attended-by-around-70-000-people-in-juiz-de-fora.md) _Context: Brazil, Minas Gerais_
 7. [Minas Gerais, one of Brazil's biggest states, bans the sale of the Toyota Corolla over safety fears. ](/news/2010/04/22/minas-gerais-one-of-brazil-s-biggest-states-bans-the-sale-of-the-toyota-corolla-over-safety-fears.md) _Context: Brazil, Minas Gerais_
-8. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-storm-a-security-vault-and-police-headquart.md) _Context: Brazil_
+8. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-criminal-gang-storm-a-security-vault-and-po.md) _Context: Brazil_
 9. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_
 10. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: Brazil_

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/10/30/world/meast/syria-civil-war/index.html?hpt=hp_t3)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012103093035382754.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012103093035382754.html)
+2. [CNN](http://www.cnn.com/2012/10/30/world/meast/syria-civil-war/index.html?hpt=hp_t3)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Russias-Heatwave-Continues-With-Mortality-Rate-Rising-By-More-Than-A-Third-In-July/Article/201008115678202?f=rss)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-08-06/wildfire-smoke-in-moscow-delays-120-flights-as-russia-s-heartland-blazes.html)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/06/russia-fires-moscow)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-08-06/wildfire-smoke-in-moscow-delays-120-flights-as-russia-s-heartland-blazes.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/06/russia-fires-moscow)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Russias-Heatwave-Continues-With-Mortality-Rate-Rising-By-More-Than-A-Third-In-July/Article/201008115678202?f=rss)
 
 ### Related:
 

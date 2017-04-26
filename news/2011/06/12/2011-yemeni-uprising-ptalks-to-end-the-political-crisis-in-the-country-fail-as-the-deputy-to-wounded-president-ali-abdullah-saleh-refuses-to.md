@@ -7,8 +7,8 @@ Over in Yemen, At least 40 people have been killed in a battle between Yemeni so
 
 ### Source:
 
-1. [Arirang News](http://www.arirang.co.kr/News/News_View.asp?nseq=116973&code=Ne2&category=2)
-2. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE75B09320110612?sp=true)
+1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE75B09320110612?sp=true)
+2. [Arirang News](http://www.arirang.co.kr/News/News_View.asp?nseq=116973&code=Ne2&category=2)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8350850.stm)
-2. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/international/2009/November/international_November500.xml&section=international)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9BS2V700)
+1. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/international/2009/November/international_November500.xml&section=international)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9BS2V700)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8350850.stm)
 
 ### Related:
 

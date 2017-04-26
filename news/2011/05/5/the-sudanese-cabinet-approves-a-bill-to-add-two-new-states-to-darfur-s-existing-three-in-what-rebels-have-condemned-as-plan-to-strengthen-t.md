@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/05/us-sudan-darfur-idUSTRE7446E620110505)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iHBvq2NZeD7pCR6XqqFHrQs9FA5w?docId=CNG.854889179a7ec590cda41e5232f39aed.3d1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iHBvq2NZeD7pCR6XqqFHrQs9FA5w?docId=CNG.854889179a7ec590cda41e5232f39aed.3d1)
+2. [Reuters](http://www.reuters.com/article/2011/05/05/us-sudan-darfur-idUSTRE7446E620110505)
 
 ### Related:
 

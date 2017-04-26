@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19564640)
-2. [El Punt](http://www.elpuntavui.cat/component/elpunt/article/-/-/575296.html)
-3. [El País](http://ccaa.elpais.com/ccaa/2012/09/11/catalunya/1347375808_419590.html)
+2. [El País](http://ccaa.elpais.com/ccaa/2012/09/11/catalunya/1347375808_419590.html)
+3. [El Punt](http://www.elpuntavui.cat/component/elpunt/article/-/-/575296.html)
 
 ### Related:
 

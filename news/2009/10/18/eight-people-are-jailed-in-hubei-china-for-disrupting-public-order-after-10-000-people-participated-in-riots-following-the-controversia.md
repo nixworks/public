@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8313246.stm)
-2. [China Daily](http://www.chinadaily.com.cn/china/2009-10/18/content_8807749.htm)
-3. [Bangkok Post](http://www.bangkokpost.com/news/asia/157418/chinese-jailed-for-riot-sparked-by-suicide-govt)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/157418/chinese-jailed-for-riot-sparked-by-suicide-govt)
+3. [China Daily](http://www.chinadaily.com.cn/china/2009-10/18/content_8807749.htm)
 
 ### Related:
 

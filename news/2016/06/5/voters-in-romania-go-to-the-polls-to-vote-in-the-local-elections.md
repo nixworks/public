@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ziare.com](http://www.ziare.com/alegeri/alegeri-locale-2016/bursa-zvonurilor-cine-conduce-la-primaria-capitalei-si-la-sectoare-1424481)
-2. [Adevarul](http://adevarul.ro/news/politica/alegeri-locale-2016-alegem-primarii-e-unsingur-tur-scrutin-liveblog-1_57518e6d5ab6550cb89906a3/index.html)
+1. [Adevarul](http://adevarul.ro/news/politica/alegeri-locale-2016-alegem-primarii-e-unsingur-tur-scrutin-liveblog-1_57518e6d5ab6550cb89906a3/index.html)
+2. [Ziare.com](http://www.ziare.com/alegeri/alegeri-locale-2016/bursa-zvonurilor-cine-conduce-la-primaria-capitalei-si-la-sectoare-1424481)
 
 ### Related:
 

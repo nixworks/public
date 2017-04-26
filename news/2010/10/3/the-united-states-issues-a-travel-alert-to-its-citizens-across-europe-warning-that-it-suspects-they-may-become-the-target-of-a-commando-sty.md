@@ -7,6 +7,6 @@ State Department warns citizens to be vigilant while travelling in Europe in lig
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/20101034163623674.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-11460335)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11460335)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/20101034163623674.html)
 3. [Channel 4 News](http://www.channel4.com/news/terror-alert-to-us-citizens-abroad)

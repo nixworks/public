@@ -7,8 +7,8 @@ South African white far-right leader Eugene Terre&#39;blanche was beaten and hac
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0403/terreblanchee.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8602347.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8602347.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0403/terreblanchee.html)
 
 ### Related:
 

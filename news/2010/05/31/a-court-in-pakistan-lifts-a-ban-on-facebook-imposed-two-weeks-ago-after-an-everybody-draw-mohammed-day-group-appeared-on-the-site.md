@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gaYX44y9hFrAImMU0qoclnK-_aMQD9G1NE9O0)
-2. [Press Trust of India](http://www.ptinews.com/news/679839_Pak-court-orders-Facebook-access-to-be-restored)
+1. [Press Trust of India](http://www.ptinews.com/news/679839_Pak-court-orders-Facebook-access-to-be-restored)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gaYX44y9hFrAImMU0qoclnK-_aMQD9G1NE9O0)
 3. [RTT News](http://www.rttnews.com/Content/GeneralNews.aspx?Id=1320296&SM=1)
 
 ### Related:

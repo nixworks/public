@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4682781,00.html?maca=en-rss-en-ger-1023-rdf)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8253115.stm)
 2. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1231251.html)
-3. [Bankok Post](http://www.bangkokpost.com/news/world/154270/german-rivals-spar-but-no-killer-punch-in-tv-debate)
-4. [The Guardian](http://www.guardian.co.uk/world/2009/sep/13/angela-merkel-steinmeier-germany-election)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/8253115.stm)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/sep/13/angela-merkel-steinmeier-germany-election)
+4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4682781,00.html?maca=en-rss-en-ger-1023-rdf)
+5. [Bankok Post](http://www.bangkokpost.com/news/world/154270/german-rivals-spar-but-no-killer-punch-in-tv-debate)
 
 ### Related:
 

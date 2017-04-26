@@ -8,14 +8,14 @@ Saudi Arabians voted 17 women into public office in municipal elections in the c
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/saudi-election-idUSKBN0TW08G20151213#56BeaUQh7ioGvHfu.97)
-2. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/13/459554429/saudi-arabia-elects-its-first-woman-to-municipal-council)
-3. [Daily Pakistan](http://en.dailypakistan.com.pk/world/17-saudi-women-win-historic-local-council-polls/)
+2. [Daily Pakistan](http://en.dailypakistan.com.pk/world/17-saudi-women-win-historic-local-council-polls/)
+3. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/13/459554429/saudi-arabia-elects-its-first-woman-to-municipal-council)
 
 ### Related:
 
 1. [Voters in Saudi Arabia go to the polls for municipal elections, with women voting and standing for election for the first time. Seventeen women are elected to office. ](/news/2015/12/12/voters-in-saudi-arabia-go-to-the-polls-for-municipal-elections-with-women-voting-and-standing-for-election-for-the-first-time-seventeen-wo.md) _Context: Saudi Arabia, Saudi Arabian municipal elections, 2015_
 2. [ Saudi Arabia starts its first nationwide municipal elections. Voting is limited to men in Riyadh and voters elect only half of the municipal councils; the other half is appointed by the monarchy. Other regions are scheduled to hold elections next month. ](/news/2005/02/10/saudi-arabia-starts-its-first-nationwide-municipal-elections-voting-is-limited-to-men-in-riyadh-and-voters-elect-only-half-of-the-municipa.md) _Context: Saudi Arabia, kingdom's_
-3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 4. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 5. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 6. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

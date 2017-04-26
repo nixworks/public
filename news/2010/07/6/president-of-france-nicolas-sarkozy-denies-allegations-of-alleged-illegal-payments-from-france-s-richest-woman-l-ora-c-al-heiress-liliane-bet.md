@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201076193454392737.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/07/06/france.sarkozy.payments/index.html?eref=edition&fbid=4I1tbJn2BPy)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/07/06/france.sarkozy.payments/index.html?eref=edition&fbid=4I1tbJn2BPy)
+2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201076193454392737.html)
 
 ### Related:
 

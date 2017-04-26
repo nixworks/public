@@ -7,8 +7,8 @@ Israel unveils preliminary plans for 238 new homes for Jewish settlers in East J
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11550263)
-2. [Reuters](http://www.reuters.com/article/idUSLDE69E11Z20101015?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+1. [Reuters](http://www.reuters.com/article/idUSLDE69E11Z20101015?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11550263)
 
 ### Related:
 

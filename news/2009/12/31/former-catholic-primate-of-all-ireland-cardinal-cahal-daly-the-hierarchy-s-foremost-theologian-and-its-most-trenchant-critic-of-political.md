@@ -7,10 +7,10 @@ Tributes have been paid to the former Catholic Primate of All Ireland, Cardinal 
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/6918610/Cardinal-Cahal-Daly-dies-aged-92.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE5BU3EP20091231)
-3. [RTÉ](http://www.rte.ie/news/2009/1231/dalyc.html)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1231/breaking66.htm)
+1. [RTÉ](http://www.rte.ie/news/2009/1231/dalyc.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1231/breaking66.htm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/6918610/Cardinal-Cahal-Daly-dies-aged-92.html)
+4. [Reuters](http://www.reuters.com/article/idUSTRE5BU3EP20091231)
 
 ### Related:
 

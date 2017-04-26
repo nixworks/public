@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/news/africa/nigeria-finds-weapons-in-cargo-1.689145)
-2. [Nigerian Tribune](http://tribune.com.ng/index.php/front-page-news/12706-customs-seize-13-containers-of-arms-ammunition-in-lagos)
-3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69P0P920101026)
+1. [Nigerian Tribune](http://tribune.com.ng/index.php/front-page-news/12706-customs-seize-13-containers-of-arms-ammunition-in-lagos)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69P0P920101026)
+3. [IOL](http://www.iol.co.za/news/africa/nigeria-finds-weapons-in-cargo-1.689145)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A woman has died and at least 31 others have been hospitalised after panic sprea
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/12/01/kenyan-university-fails-to-warn-of-realistic-terrorism-drill-causing-panic-and-death/?uid=0ef76ca8-45d6-11e0-a478-1231380f446b&wpmm=1&wpisrc=nl_mix)
-2. [BBC](http://www.bbc.com/news/world-africa-34969266)
+1. [BBC](http://www.bbc.com/news/world-africa-34969266)
+2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/12/01/kenyan-university-fails-to-warn-of-realistic-terrorism-drill-causing-panic-and-death/?uid=0ef76ca8-45d6-11e0-a478-1231380f446b&wpmm=1&wpisrc=nl_mix)
 
 ### Related:
 

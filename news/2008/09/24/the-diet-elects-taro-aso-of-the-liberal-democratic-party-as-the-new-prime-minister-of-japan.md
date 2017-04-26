@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via CNN](http://edition.cnn.com/2008/WORLD/asiapcf/09/23/japan.politics.ap/index.html)
-2. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.9ecb3d3491dae15c197fc6edb44cf938.711.html)
+1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.9ecb3d3491dae15c197fc6edb44cf938.711.html)
+2. [AP via CNN](http://edition.cnn.com/2008/WORLD/asiapcf/09/23/japan.politics.ap/index.html)
 
 ### Related:
 

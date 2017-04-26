@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/scotland/7478913.stm)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20080628/wl_uk_afp/britainpoliticsscotland)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20080628/wl_uk_afp/britainpoliticsscotland)
+2. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/scotland/7478913.stm)
 
 ### Related:
 

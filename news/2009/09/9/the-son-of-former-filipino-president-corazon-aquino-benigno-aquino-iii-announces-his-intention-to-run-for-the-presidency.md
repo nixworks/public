@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26050244-2703,00.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/09/philippines.aquino.candidacy/)
 2. [The Philippine Inquirier](http://newsinfo.inquirer.net/breakingnews/nation/view/20090909-224337/Aquino-declares-presidential-bid)
-3. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/09/philippines.aquino.candidacy/)
+3. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26050244-2703,00.html)
 
 ### Related:
 

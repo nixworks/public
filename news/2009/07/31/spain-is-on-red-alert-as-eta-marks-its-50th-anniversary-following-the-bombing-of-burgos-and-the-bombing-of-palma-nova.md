@@ -7,9 +7,9 @@ Police in Majorca are on heightened alert following yesterday&#39;s car bombing 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0731/majorca.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/5948084/Spain-issues-pictures-of-six-ETA-suspects-in-resort-bomb-probe.html)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4530753,00.html)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/5948084/Spain-issues-pictures-of-six-ETA-suspects-in-resort-bomb-probe.html)
+3. [RTÉ](http://www.rte.ie/news/2009/0731/majorca.html)
 
 ### Related:
 

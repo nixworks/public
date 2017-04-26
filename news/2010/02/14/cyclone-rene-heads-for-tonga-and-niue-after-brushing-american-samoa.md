@@ -7,8 +7,8 @@ People in Tonga and Niue are being advised to bunker down and prepare for the wo
 
 ### Source:
 
-1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10626102)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/tsunami-survivors-brace-for-cyclone-rene-20100214-nyu0.html)
+1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/tsunami-survivors-brace-for-cyclone-rene-20100214-nyu0.html)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10626102)
 
 ### Related:
 

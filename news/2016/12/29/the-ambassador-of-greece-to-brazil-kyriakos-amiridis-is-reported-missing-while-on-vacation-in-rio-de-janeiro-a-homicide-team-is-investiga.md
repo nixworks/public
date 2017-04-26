@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BNO News](http://bnonews.com/news/index.php/news/id5585)
-2. [O Globo](http://oglobo.globo.com/rio/embaixador-da-grecia-esta-desaparecido-no-rio-ha-3-dias-20706463)
+1. [O Globo](http://oglobo.globo.com/rio/embaixador-da-grecia-esta-desaparecido-no-rio-ha-3-dias-20706463)
+2. [BNO News](http://bnonews.com/news/index.php/news/id5585)
 
 ### Related:
 

@@ -7,12 +7,12 @@ Activists say 25 people killed as warships and tanks reportedly shell the northe
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=233889)
-2. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-aug-15-2011-1959)
-3. [CNN](http://www.cnn.com/2011/WORLD/meast/08/15/syria.unrest/)
-4. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-syria-latakia-20110816,0,6681337.story)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/08/201181475734965763.html)
-6. [VOA](http://blogs.voanews.com/breaking-news/2011/08/15/turkey-tells-syria-to-stop-civilian-bloodshed/)
+1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-syria-latakia-20110816,0,6681337.story)
+2. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=233889)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/08/201181475734965763.html)
+4. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-aug-15-2011-1959)
+5. [VOA](http://blogs.voanews.com/breaking-news/2011/08/15/turkey-tells-syria-to-stop-civilian-bloodshed/)
+6. [CNN](http://www.cnn.com/2011/WORLD/meast/08/15/syria.unrest/)
 7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/8701592/Egypt-Libya-and-Syria-live.html)
 
 ### Related:

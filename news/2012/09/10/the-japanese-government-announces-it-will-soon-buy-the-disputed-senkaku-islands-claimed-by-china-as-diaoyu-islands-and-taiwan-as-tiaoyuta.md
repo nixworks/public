@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journals](http://online.wsj.com/article/SB10000872396390443921504577643261139002438.html)
-2. [Reuters](http://www.reuters.com/article/2012/09/10/us-china-japan-idUSBRE8890AU20120910)
+1. [Reuters](http://www.reuters.com/article/2012/09/10/us-china-japan-idUSBRE8890AU20120910)
+2. [Wall Street Journals](http://online.wsj.com/article/SB10000872396390443921504577643261139002438.html)
 
 ### Related:
 

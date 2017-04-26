@@ -9,8 +9,8 @@
 
 1. [Jiji Press via ''Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120925003807.htm)
 2. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120925p2g00m0dm033000c.html)
-3. [The Japan Times](http://www.japantimes.co.jp/text/nn20120926a1.html)
-4. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120926a3.html)
+3. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120926a3.html)
+4. [The Japan Times](http://www.japantimes.co.jp/text/nn20120926a1.html)
 5. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120925003806.htm)
 
 ### Related:

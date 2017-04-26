@@ -7,8 +7,8 @@ The people of the Falkland Islands overwhelmingly vote to remain a British terri
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-21750909)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gskPFBaksQ3LylugZlW5sljU0OIQ)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gskPFBaksQ3LylugZlW5sljU0OIQ)
+2. [BBC](http://www.bbc.co.uk/news/uk-21750909)
 
 ### Related:
 

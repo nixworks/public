@@ -7,8 +7,8 @@ A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/08/27/AR2009082704189.html?wprss=rss_world/wires)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jCT8DQitylyzMv_NflHTMQe_1B9gD9ABJD8G1)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jCT8DQitylyzMv_NflHTMQe_1B9gD9ABJD8G1)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/08/27/AR2009082704189.html?wprss=rss_world/wires)
 3. [NY Times](http://www.nytimes.com/2009/08/29/world/middleeast/29saudi.html)
 
 ### Related:
@@ -22,4 +22,4 @@ A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism
 7. [ The multi-billion dollar King Abdullah University of Science and Technology, boasting one of the world's fastest supercomputers, opens near Jeddah in Saudi Arabia in an attempt to enable the country to compete in science and technology internationally. ](/news/2009/09/23/the-multi-billion-dollar-king-abdullah-university-of-science-and-technology-boasting-one-of-the-world-s-fastest-supercomputers-opens-near.md) _Context: Jeddah, Saudi Arabia_
 8. [ Al Qaeda claims responsibility for the attempted assassination on Saudi Prince Muhammad bin Nayef. ](/news/2009/08/30/al-qaeda-claims-responsibility-for-the-attempted-assassination-on-saudi-prince-muhammad-bin-nayef.md) _Context: Muhammad bin Nayef, Saudi Arabia_
 9. [ Saudi Arabia offers to increase its oil production slightly at an oil summit in Jeddah. ](/news/2008/06/22/saudi-arabia-offers-to-increase-its-oil-production-slightly-at-an-oil-summit-in-jeddah.md) _Context: Jeddah, Saudi Arabia_
-10. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+10. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_

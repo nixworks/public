@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFox2ble4ReEOrUj_1U_PP_tAF1g?docId=CNG.0170e299dccfe0c32de778f254b7d9ad.121)
-2. [The Moscow Times](http://www.themoscowtimes.com/news/article/latvians-reject-russian-as-joint-national-language/453301.html)
+1. [The Moscow Times](http://www.themoscowtimes.com/news/article/latvians-reject-russian-as-joint-national-language/453301.html)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFox2ble4ReEOrUj_1U_PP_tAF1g?docId=CNG.0170e299dccfe0c32de778f254b7d9ad.121)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-17083397)
 
 ### Related:

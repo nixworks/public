@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Noticias24](http://www.noticias24.com/actualidad/?p=14701)
-2. [CNN](http://edition.cnn.com/2008/WORLD/americas/05/30/honduras.crash.ap/index.html)
+1. [CNN](http://edition.cnn.com/2008/WORLD/americas/05/30/honduras.crash.ap/index.html)
+2. [Noticias24](http://www.noticias24.com/actualidad/?p=14701)
 
 ### Related:
 

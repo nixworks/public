@@ -8,8 +8,8 @@ An ancient Egyptian city believed to be Avaris, the capital of the Hyksos who ru
 ### Source:
 
 1. [IOL](http://www.iol.co.za/index.php?from=rss_Discovery&set_id=1&click_id=588&art_id=nw20100620221553583C852414)
-2. [News24.com](http://www.news24.com/SciTech/News/Ancient-underground-city-found-20100620)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10367930.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10367930.stm)
+3. [News24.com](http://www.news24.com/SciTech/News/Ancient-underground-city-found-20100620)
 
 ### Related:
 

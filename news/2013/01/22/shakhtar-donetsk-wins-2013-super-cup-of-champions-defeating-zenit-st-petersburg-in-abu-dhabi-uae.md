@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [FC Shakhtar](http://shakhtar.com/en/news/25203)
-2. [FC Zenit](http://en.fc-zenit.ru/main/calendar/matches/11625.html)
+1. [FC Zenit](http://en.fc-zenit.ru/main/calendar/matches/11625.html)
+2. [FC Shakhtar](http://shakhtar.com/en/news/25203)
 
 ### Related:
 

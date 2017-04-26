@@ -7,12 +7,12 @@ Up to 150,000 civilians are reportedly forced to flee their homes in the Iraqi c
 
 ### Source:
 
-1. [The Local](http://www.thelocal.se/20150417/syria-says-scandinavian-isis-leaders-most-dangerous)
+1. [BBC/AFP via ABC News Australia](http://www.abc.net.au/news/2015-04-17/islamic-state-thousands-flee-homes-ramadi-onslaught/6399858)
 2. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/article18762294.html)
-3. [BBC](http://www.bbc.com/news/world-middle-east-32347036)
-4. [BBC/AFP via ABC News Australia](http://www.abc.net.au/news/2015-04-17/islamic-state-thousands-flee-homes-ramadi-onslaught/6399858)
-5. [Reuters](http://in.reuters.com/article/2015/04/17/mideast-crisis-erbil-blast-idINL5N0XE3DF20150417)
-6. [CBS News](http://www.cbsnews.com/news/car-bomb-explodes-outside-u-s-consulate-in-iraq/)
+3. [The Local](http://www.thelocal.se/20150417/syria-says-scandinavian-isis-leaders-most-dangerous)
+4. [BBC](http://www.bbc.com/news/world-middle-east-32347036)
+5. [CBS News](http://www.cbsnews.com/news/car-bomb-explodes-outside-u-s-consulate-in-iraq/)
+6. [Reuters](http://in.reuters.com/article/2015/04/17/mideast-crisis-erbil-blast-idINL5N0XE3DF20150417)
 
 ### Related:
 

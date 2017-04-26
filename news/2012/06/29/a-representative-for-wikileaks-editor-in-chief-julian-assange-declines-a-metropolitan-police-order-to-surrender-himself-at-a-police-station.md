@@ -7,8 +7,8 @@ Wikileaks founder Julian Assange is ignoring a Metropolitan Police request to su
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-18648922)
-2. [The Guardian](http://www.guardian.co.uk/media/2012/jun/29/julian-assange-ecuadorean-embassy-statement)
+1. [The Guardian](http://www.guardian.co.uk/media/2012/jun/29/julian-assange-ecuadorean-embassy-statement)
+2. [BBC](http://www.bbc.co.uk/news/uk-18648922)
 
 ### Related:
 

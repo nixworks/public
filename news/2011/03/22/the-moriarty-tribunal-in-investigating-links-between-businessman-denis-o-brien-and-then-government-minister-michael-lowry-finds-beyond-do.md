@@ -8,8 +8,8 @@ The Moriarty Tribunal has published its report into the awarding of the second m
 ### Source:
 
 1. [The Guardian](http://www.guardian.co.uk/media/2011/mar/22/denis-o-brien-ireland)
-2. [RTÉ](http://www.rte.ie/news/2011/0322/moriarty.html)
-3. [TV3](http://www.tv3.ie/article.php?article_id=55904&locID=1.2&pagename=news)
+2. [TV3](http://www.tv3.ie/article.php?article_id=55904&locID=1.2&pagename=news)
+3. [RTÉ](http://www.rte.ie/news/2011/0322/moriarty.html)
 
 ### Related:
 

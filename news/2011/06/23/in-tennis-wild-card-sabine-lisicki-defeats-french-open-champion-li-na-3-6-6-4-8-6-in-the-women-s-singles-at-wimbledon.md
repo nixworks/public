@@ -7,8 +7,8 @@ French Open champion Li Na of China has become the biggest name to crash out of 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com//2011/SPORT/tennis/06/23/tennis.wimbledon.serena/index.html)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/tennis/13892462.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/tennis/13892462.stm)
+2. [CNN](http://edition.cnn.com//2011/SPORT/tennis/06/23/tennis.wimbledon.serena/index.html)
 3. [Sky Sports](http://www.skysports.com/story/0,,21411_7002249,00.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g1F3rK2Tld9m648edA-eshNZBSogD9CHQEEG0)
-2. [The Philippine Star](http://www.philstar.com/Article.aspx?articleId=532059&publicationSubCategoryId=63)
+1. [The Philippine Star](http://www.philstar.com/Article.aspx?articleId=532059&publicationSubCategoryId=63)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g1F3rK2Tld9m648edA-eshNZBSogD9CHQEEG0)
 
 ### Related:
 

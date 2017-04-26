@@ -7,8 +7,8 @@ The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with 
 
 ### Source:
 
-1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-05-03/nepal-quake-death-toll-rises-to-more-than-7000/6441180)
-2. [AP](http://bigstory.ap.org/article/c345ffeac2a145ee86e23d3031688f6f/nepal-shuts-down-its-only-international-airport-big-jets)
+1. [AP](http://bigstory.ap.org/article/c345ffeac2a145ee86e23d3031688f6f/nepal-shuts-down-its-only-international-airport-big-jets)
+2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-05-03/nepal-quake-death-toll-rises-to-more-than-7000/6441180)
 
 ### Related:
 

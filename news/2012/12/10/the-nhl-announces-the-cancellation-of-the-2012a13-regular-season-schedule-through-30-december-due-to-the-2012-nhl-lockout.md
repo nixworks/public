@@ -7,8 +7,8 @@ The National Hockey League (NHL) canceled another two weeks of the regular seaso
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/10/csports-us-nhl-labor-idCABRE8B50BI20121210)
-2. [NHL](http://www.nhl.com/ice/news.htm?id=647344)
+1. [NHL](http://www.nhl.com/ice/news.htm?id=647344)
+2. [Reuters](http://www.reuters.com/article/2012/12/10/csports-us-nhl-labor-idCABRE8B50BI20121210)
 
 ### Related:
 

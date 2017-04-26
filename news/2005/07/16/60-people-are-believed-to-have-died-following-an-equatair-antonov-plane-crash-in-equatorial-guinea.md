@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSN](http://newsbox.msn.co.uk/article.aspx?as=adimarticle&f=uk_-_olgbworld&t=4023&id=1052313&d=20050717&do=http://newsbox.msn.co.uk&i=http://newsbox.msn.co.uk/mediaexportlive&ks=0&mc=5&ml=ma&lc=en&ae=windows-1252)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4689787.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4689787.stm)
+2. [MSN](http://newsbox.msn.co.uk/article.aspx?as=adimarticle&f=uk_-_olgbworld&t=4023&id=1052313&d=20050717&do=http://newsbox.msn.co.uk&i=http://newsbox.msn.co.uk/mediaexportlive&ks=0&mc=5&ml=ma&lc=en&ae=windows-1252)
 
 ### Related:
 

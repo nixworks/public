@@ -7,9 +7,9 @@ One of the biggest hauls of illegal ape parts in Central Africa is seized by off
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12238900)
-2. [WWF](http://wwf.panda.org/wwf_news/?199074/Gabon-seizes-large-cache-of-ape-parts-and-leopard-skins)
-3. [Afrol News](http://www.afrol.com/articles/37122)
+1. [Afrol News](http://www.afrol.com/articles/37122)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12238900)
+3. [WWF](http://wwf.panda.org/wwf_news/?199074/Gabon-seizes-large-cache-of-ape-parts-and-leopard-skins)
 
 ### Related:
 

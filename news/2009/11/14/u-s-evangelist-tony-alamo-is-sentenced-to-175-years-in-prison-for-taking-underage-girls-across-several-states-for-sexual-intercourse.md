@@ -7,5 +7,5 @@ Tony Alamo, a US preacher, has been sentenced to 175 years in prison for taking 
 
 ### Source:
 
-1. [Telegraph.co.uk](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/6565830/US-evangelist-Tony-Alamo-gets-175-years-for-sex-crimes.html)
-2. [CNN](http://edition.cnn.com/2009/CRIME/11/13/arkansas.evangelist.trial/)
+1. [CNN](http://edition.cnn.com/2009/CRIME/11/13/arkansas.evangelist.trial/)
+2. [Telegraph.co.uk](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/6565830/US-evangelist-Tony-Alamo-gets-175-years-for-sex-crimes.html)

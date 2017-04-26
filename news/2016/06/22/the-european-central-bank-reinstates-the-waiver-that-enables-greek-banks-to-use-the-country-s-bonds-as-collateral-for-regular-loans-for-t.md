@@ -7,8 +7,8 @@ FRANKFURT, Germany (AP) — The European Central Bank has restored a key waiver 
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/1ddb37c548c84e0391df8cec02b49e0a/ecb-restores-bond-waiver-lets-greek-banks-tap-credit)
-2. [Reuters](http://www.reuters.com/article/us-eurozone-greece-ecb-idUSKCN0Z80YF)
+1. [Reuters](http://www.reuters.com/article/us-eurozone-greece-ecb-idUSKCN0Z80YF)
+2. [AP](http://bigstory.ap.org/article/1ddb37c548c84e0391df8cec02b49e0a/ecb-restores-bond-waiver-lets-greek-banks-tap-credit)
 
 ### Related:
 

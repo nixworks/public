@@ -7,9 +7,9 @@ More than 100 arrests were reported today, the first anniversary of the Occupy W
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0917/breaking45.html)
-2. [Huffington Post](http://www.huffingtonpost.com/2012/09/17/occupy-wall-street-anniversary-live_n_1891041.html)
-3. [The Guardian](http://www.guardian.co.uk/world/2012/sep/17/occupy-wall-street-protests-anniversary-live?newsfeed=true)
+1. [Huffington Post](http://www.huffingtonpost.com/2012/09/17/occupy-wall-street-anniversary-live_n_1891041.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/sep/17/occupy-wall-street-protests-anniversary-live?newsfeed=true)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0917/breaking45.html)
 4. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-occupy-anniversary-20120917,0,6713498.story)
 
 ### Related:

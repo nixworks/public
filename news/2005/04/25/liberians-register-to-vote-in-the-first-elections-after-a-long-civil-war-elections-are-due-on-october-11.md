@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Land Claims Court](http://allafrica.com/stories/200504251100.html)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/e765b8433ae758c5e1ced67106afd49e.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4483239.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4483239.stm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/e765b8433ae758c5e1ced67106afd49e.htm)
 
 ### Related:
 

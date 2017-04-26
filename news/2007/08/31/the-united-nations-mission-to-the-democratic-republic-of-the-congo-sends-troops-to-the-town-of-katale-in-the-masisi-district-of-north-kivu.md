@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [World Health Organization](http://www.who.int/csr/don/2007_08_31a/en/)
-2. [All Africa](http://allafrica.com/stories/200709010004.html)
+1. [All Africa](http://allafrica.com/stories/200709010004.html)
+2. [World Health Organization](http://www.who.int/csr/don/2007_08_31a/en/)
 
 ### Related:
 

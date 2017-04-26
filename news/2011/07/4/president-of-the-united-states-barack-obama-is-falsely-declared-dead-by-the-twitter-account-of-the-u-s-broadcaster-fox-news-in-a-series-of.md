@@ -7,8 +7,8 @@ Hackers have taken over a Twitter account belonging to US broadcaster Fox News a
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/TECH/social.media/07/04/fox.hack/)
-2. [BBC](http://www.bbc.co.uk/news/technology-14012294)
+1. [BBC](http://www.bbc.co.uk/news/technology-14012294)
+2. [CNN](http://edition.cnn.com/2011/TECH/social.media/07/04/fox.hack/)
 3. [AP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-technology/hacking-on-fox-news-twitter-reports-obamas-death-20110704-1gz44.html)
 
 ### Related:

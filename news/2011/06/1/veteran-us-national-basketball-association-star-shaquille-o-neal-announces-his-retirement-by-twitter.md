@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Shaquille O'Neal](http://twitter.com/#!/SHAQ)
-2. [USA Today](http://www.usatoday.com/sports/basketball/nba/2011-06-01-shaquilleoneal_N.htm)
+1. [USA Today](http://www.usatoday.com/sports/basketball/nba/2011-06-01-shaquilleoneal_N.htm)
+2. [Shaquille O'Neal](http://twitter.com/#!/SHAQ)
 
 ### Related:
 

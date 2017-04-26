@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/15/c_13692486.htm)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201111593738475575.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12198142)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201111593738475575.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12198142)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/15/c_13692486.htm)
 
 ### Related:
 

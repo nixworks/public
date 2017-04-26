@@ -7,8 +7,8 @@ Shadow foreign secretary Hilary Benn is sacked from the shadow cabinet amid clai
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/uk-politics-36632539)
-2. [Daily Mirror](http://www.mirror.co.uk/news/uk-news/brexit-petition-hits-two-million-8281945)
+1. [Daily Mirror](http://www.mirror.co.uk/news/uk-news/brexit-petition-hits-two-million-8281945)
+2. [BBC](http://www.bbc.com/news/uk-politics-36632539)
 
 ### Related:
 

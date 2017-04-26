@@ -7,10 +7,10 @@ Syrian troops killed 58 militants associated with the Islamic State (IS) group i
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/08/Syria-Regime-forces-kill-58-Islamic-State-fighters-in-Deir-Ezzor-province/3631447029405/?spt=hs&or=tn_int)
+1. [France 24](http://www.france24.com/en/20151108-10-dead-syria-regime-raids-held-town-monitor)
 2. [Al Bawaba](http://www.albawaba.com/news/russian-airstrikes-reportedly-kill-11-civilians-idlib-765766)
-3. [Zee News](http://zeenews.india.com/news/world/syrian-troops-kill-58-is-militants_1820157.html)
-4. [France 24](http://www.france24.com/en/20151108-10-dead-syria-regime-raids-held-town-monitor)
+3. [UPI](http://www.upi.com/Top_News/World-News/2015/11/08/Syria-Regime-forces-kill-58-Islamic-State-fighters-in-Deir-Ezzor-province/3631447029405/?spt=hs&or=tn_int)
+4. [Zee News](http://zeenews.india.com/news/world/syrian-troops-kill-58-is-militants_1820157.html)
 
 ### Related:
 

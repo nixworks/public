@@ -7,9 +7,9 @@ Five injured in West Bank clashes between Palestinian youths and Israeli soldier
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20717171)
+1. [The Times of Israel](http://www.timesofisrael.com/palestinian-in-hebron-killed-after-aiming-gun-at-border-police-officer/)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/2012121395541482874.html)
-3. [The Times of Israel](http://www.timesofisrael.com/palestinian-in-hebron-killed-after-aiming-gun-at-border-police-officer/)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20717171)
 
 ### Related:
 

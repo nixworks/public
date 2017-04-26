@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Canada.com](http://www.canada.com/news/national/story.html?id=38ab4439-73d1-409b-8781-0ad2655367a2)
+1. [CBC interview](http://www.cbc.ca/canada/story/2005/07/04/homolka050704.html)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-04T194106Z_01_BAU469640_RTRUKOC_0_CRIME-CANADA-KILLER.xml)
 3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1120472902514_13/?hub=CTVNewsAt11)
-4. [CBC interview](http://www.cbc.ca/canada/story/2005/07/04/homolka050704.html)
+4. [Canada.com](http://www.canada.com/news/national/story.html?id=38ab4439-73d1-409b-8781-0ad2655367a2)
 
 ### Related:
 

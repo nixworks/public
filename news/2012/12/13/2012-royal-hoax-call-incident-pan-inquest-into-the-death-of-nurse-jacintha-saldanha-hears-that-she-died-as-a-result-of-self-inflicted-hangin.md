@@ -7,8 +7,8 @@ The nurse duped by a prank call from an Australian Radio DJs while she was carin
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/media/acma-launches-inquiry-into-2day-fm-prank-call-to-hospital/story-e6frg996-1226535960842)
-2. [The Independent](http://www.independent.co.uk/news/uk/home-news/jacintha-saldanha-nurse-found-hanged-after-royal-hoax-call-left-three-notes-inquest-hears-8412585.html)
+1. [The Independent](http://www.independent.co.uk/news/uk/home-news/jacintha-saldanha-nurse-found-hanged-after-royal-hoax-call-left-three-notes-inquest-hears-8412585.html)
+2. [The Australian](http://www.theaustralian.com.au/media/acma-launches-inquiry-into-2day-fm-prank-call-to-hospital/story-e6frg996-1226535960842)
 
 ### Related:
 

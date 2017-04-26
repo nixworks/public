@@ -8,10 +8,10 @@ Two reports of Wikileaks files claim an alleged al-Qaeda &quot;assassin&quot; wa
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13191959)
-2. [Reuters](http://www.reuters.com/article/2011/04/26/usa-wikileaks-assange-idUSN2629178720110426)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ik6nqH5wGmEYJNwh8OlQdFtwkU7w?docId=CNG.17e3806625fad53ce9d38b16c2d5c8a2.981)
 3. [PA via ''The Independent](http://www.independent.co.uk/news/world/americas/wikileaks-terror-suspect-was-british-agent-2274870.html)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ik6nqH5wGmEYJNwh8OlQdFtwkU7w?docId=CNG.17e3806625fad53ce9d38b16c2d5c8a2.981)
-5. [AFP via ''Montreal Gazette](http://www.montrealgazette.com/news/Doctors+turned+blind+Guantanamo+torture+Study/4677604/story.html)
+4. [AFP via ''Montreal Gazette](http://www.montrealgazette.com/news/Doctors+turned+blind+Guantanamo+torture+Study/4677604/story.html)
+5. [Reuters](http://www.reuters.com/article/2011/04/26/usa-wikileaks-assange-idUSN2629178720110426)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Governor's statement (PDF](http://www.governor.ca.gov/govsite/pdf/press_release_2005/Williams_Clemency_Statement.pdf)
-2. [SF Chronicle](http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/12/MNGEAG6SI84.DTL)
+1. [SF Chronicle](http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/12/MNGEAG6SI84.DTL)
+2. [Governor's statement (PDF](http://www.governor.ca.gov/govsite/pdf/press_release_2005/Williams_Clemency_Statement.pdf)
 
 ### Related:
 

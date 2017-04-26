@@ -7,15 +7,15 @@
 
 ### Source:
 
-1. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2006/11/11/europe/EU_GEN_NATO_Georgia.php)
+1. [PM's Office](http://www.regeringen.se/sb/d/10856/a/109510)
 2. [America.gov](http://www.america.gov/st/washfile-english/2006/November/20061109165249MVyelwarC0.5890009.html)
-3. [OSCE](http://www.osce.org/item/32594.html)
-4. [PM's Office](http://www.regeringen.se/sb/d/10856/a/109510)
+3. [AP via ''The Hindu](http://www.hindu.com/thehindu/holnus/003200808182221.htm)
+4. [AP via Google News](http://ap.google.com/article/ALeqM5gVL0IvBUzY3m22zNvMFXssesfbrQD92KT1180)
 5. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=1042&a=817530)
-6. [AP via ''The Hindu](http://www.hindu.com/thehindu/holnus/003200808182221.htm)
-7. [BBC News](http://news.bbc.co.uk/2/hi/europe/7567184.stm)
-8. [AP via Google News](http://ap.google.com/article/ALeqM5gVL0IvBUzY3m22zNvMFXssesfbrQD92KT1180)
-9. [Nasdaq](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20080817%5CACQDJON200808170659DOWJONESDJONLINE000206.htm&&mypage=newsheadlines&title=Ethnic%20Ossetians%20To%20Have%20Voice%20In%20South%20Ossetia%20Status-OSCE)
+6. [Nasdaq](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20080817%5CACQDJON200808170659DOWJONESDJONLINE000206.htm&&mypage=newsheadlines&title=Ethnic%20Ossetians%20To%20Have%20Voice%20In%20South%20Ossetia%20Status-OSCE)
+7. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2006/11/11/europe/EU_GEN_NATO_Georgia.php)
+8. [BBC News](http://news.bbc.co.uk/2/hi/europe/7567184.stm)
+9. [OSCE](http://www.osce.org/item/32594.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Japan&#039;s prime minister draws criticism from China and South Korea over his 
 
 ### Source:
 
-1. [The South China Morning Post](http://www.scmp.com/news/asia/east-asia/article/1849891/north-korea-wakes-pyongyang-time-break-traces-japanese-colonial)
+1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-08-15/japan-marks-end-of-wwii-under-criticism-from-china-south-korea/6700070)
 2. [ABC News Australia](http://www.abc.net.au/news/2015-08-15/four-facts-on-victory-in-the-pacific-day/6698118)
-3. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-08-15/japan-marks-end-of-wwii-under-criticism-from-china-south-korea/6700070)
+3. [The South China Morning Post](http://www.scmp.com/news/asia/east-asia/article/1849891/north-korea-wakes-pyongyang-time-break-traces-japanese-colonial)
 
 ### Related:
 

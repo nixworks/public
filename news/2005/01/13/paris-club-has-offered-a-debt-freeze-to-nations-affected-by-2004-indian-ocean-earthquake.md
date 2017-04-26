@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=businessNews&storyID=7310947)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/4166727.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/4166727.stm)
+2. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=businessNews&storyID=7310947)
 
 ### Related:
 

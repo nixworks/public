@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/sep/21/north-korea-leadership-workers-party)
-2. [AP](http://hosted2.ap.org/APDefault/8ef5320729ce4298abefc1903704c7d5/Article_2010-09-21-AS-NKorea-Succession/id-e4f8b99ed39648e9b64d1826ddaf4c94)
+1. [AP](http://hosted2.ap.org/APDefault/8ef5320729ce4298abefc1903704c7d5/Article_2010-09-21-AS-NKorea-Succession/id-e4f8b99ed39648e9b64d1826ddaf4c94)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/sep/21/north-korea-leadership-workers-party)
 
 ### Related:
 

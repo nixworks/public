@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/11/20/asia/south-korea-indictment/index.html)
-2. [Yonhap](http://english.yonhapnews.co.kr/news/2016/11/20/0200000000AEN20161120001500315.html)
+1. [Yonhap](http://english.yonhapnews.co.kr/news/2016/11/20/0200000000AEN20161120001500315.html)
+2. [CNN](http://edition.cnn.com/2016/11/20/asia/south-korea-indictment/index.html)
 
 ### Related:
 

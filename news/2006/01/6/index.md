@@ -16,7 +16,7 @@ _Context: Mexico, Subcomandante Marcos, Zapatista, presidential election_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Israeli Prime Minister Ariel Sharon successfully undergoes a third round of surgery to correct a rise in cranial pressure. ](/news/2006/01/6/israeli-prime-minister-ariel-sharon-successfully-undergoes-a-third-round-of-surgery-to-correct-a-rise-in-cranial-pressure.md)
-_Context: Ariel Sharon, cranial, prime minister of Israel, surgery_
+_Context: Ariel Sharon, Prime Minister of Israel, cranial, surgery_
 
 ### [ The Supreme Court of India denies access to the Alang port to the French warship Clemenceau since it contains tonnes of asbestos. ](/news/2006/01/6/the-supreme-court-of-india-denies-access-to-the-alang-port-to-the-french-warship-clemenceau-since-it-contains-tonnes-of-asbestos.md)
 _Context: Alang, Clemenceau, Indian Supreme Court, asbestos_

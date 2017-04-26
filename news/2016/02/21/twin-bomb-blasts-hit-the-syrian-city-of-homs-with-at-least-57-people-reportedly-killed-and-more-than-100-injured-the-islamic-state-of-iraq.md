@@ -7,11 +7,11 @@ Bomb blasts in the Syrian cities of Homs and Damascus have killed at least 140 p
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-35624654)
-2. [AFP via Yahoo! News](http://news.yahoo.com/four-blasts-including-car-bomb-near-syria-shiite-152018401.html)
-3. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3456843/Double-car-bombing-kills-25-Syrias-Homs-monitor.html)
-4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-homs-idUSKCN0VU08C?feedType=RSS&feedName=topNews)
-5. [CNN](http://www.cnn.com/2016/02/21/middleeast/syria-civil-war/)
+1. [CNN](http://www.cnn.com/2016/02/21/middleeast/syria-civil-war/)
+2. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3456843/Double-car-bombing-kills-25-Syrias-Homs-monitor.html)
+3. [BBC](http://www.bbc.com/news/world-middle-east-35624654)
+4. [AFP via Yahoo! News](http://news.yahoo.com/four-blasts-including-car-bomb-near-syria-shiite-152018401.html)
+5. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-homs-idUSKCN0VU08C?feedType=RSS&feedName=topNews)
 
 ### Related:
 

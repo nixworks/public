@@ -7,8 +7,8 @@ Up to 60 people are killed and scores are injured in a series of bomb attacks in
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21840718)
-2. [CNN](http://www.cnn.com/2013/03/19/world/meast/iraq-violence)
+1. [CNN](http://www.cnn.com/2013/03/19/world/meast/iraq-violence)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21840718)
 3. [Reuters](http://www.reuters.com/article/2013/03/19/us-iraq-violence-idUSBRE92I04Q20130319)
 
 ### Related:

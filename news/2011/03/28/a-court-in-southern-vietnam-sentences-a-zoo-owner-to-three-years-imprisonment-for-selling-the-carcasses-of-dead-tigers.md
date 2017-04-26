@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/3/28/apworld/20110328134411&sec=apworld)
-2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_650210.html)
+1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_650210.html)
+2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/3/28/apworld/20110328134411&sec=apworld)
 
 ### Related:
 

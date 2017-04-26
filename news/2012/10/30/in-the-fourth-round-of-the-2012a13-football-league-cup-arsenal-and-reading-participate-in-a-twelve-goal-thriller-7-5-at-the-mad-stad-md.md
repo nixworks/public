@@ -8,10 +8,10 @@ Read a full match report of the Capital One Cup fourth round match between Readi
 ### Source:
 
 1. [The Guardian](http://www.guardian.co.uk/football/2012/oct/30/reading-arsenal-live-report-mbm)
-2. [Irish Independent](http://www.independent.ie/sport/soccer/walcott-runs-riot-as-arsenal-recover-from-four-goals-down-3278571.html)
+2. [GOAL](http://www.goal.com/en-gb/news/2920/league-cup/2012/10/31/3490743/arsenal-boss-wenger-relieved-to-avoid-disaster-after?source=breakingnews)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/competitions/league-cup/9643798/Arsenal-stage-stunning-comeback-from-four-goals-down-to-beat-Reading-7-5-after-extra-time.html)
 4. [ESPN](http://soccernet.espn.go.com/columns/story/_/id/1207353/mark-lomas:-arsenal-record-chapter-in-football-folklore?cc=5739)
-5. [GOAL](http://www.goal.com/en-gb/news/2920/league-cup/2012/10/31/3490743/arsenal-boss-wenger-relieved-to-avoid-disaster-after?source=breakingnews)
+5. [Irish Independent](http://www.independent.ie/sport/soccer/walcott-runs-riot-as-arsenal-recover-from-four-goals-down-3278571.html)
 
 ### Related:
 

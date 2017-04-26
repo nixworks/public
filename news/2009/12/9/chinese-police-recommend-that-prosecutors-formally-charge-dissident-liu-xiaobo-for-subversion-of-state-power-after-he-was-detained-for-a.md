@@ -7,9 +7,9 @@ Liu Xiaobo, a prominent dissident who has been in detention for a year, is charg
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8403061.stm)
-2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20091209&56&632598)
-3. [New York Times](http://www.nytimes.com/2009/12/10/world/asia/10china.html)
+1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20091209&56&632598)
+2. [New York Times](http://www.nytimes.com/2009/12/10/world/asia/10china.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8403061.stm)
 
 ### Related:
 

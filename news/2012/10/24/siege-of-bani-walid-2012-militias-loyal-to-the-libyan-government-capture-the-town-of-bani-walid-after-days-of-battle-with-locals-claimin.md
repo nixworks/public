@@ -7,8 +7,8 @@ After weeks of fighting, militias loyal to the new Libyan government took over t
 
 ### Source:
 
-1. [The Daily Beast](http://www.thedailybeast.com/articles/2012/10/24/ex-gaddafi-stronghold-surrenders-to-pro-government-forces.html)
-2. [Reuters](http://www.reuters.com/article/2012/10/24/us-libya-clashes-idUSBRE89N0WL20121024)
+1. [Reuters](http://www.reuters.com/article/2012/10/24/us-libya-clashes-idUSBRE89N0WL20121024)
+2. [The Daily Beast](http://www.thedailybeast.com/articles/2012/10/24/ex-gaddafi-stronghold-surrenders-to-pro-government-forces.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://artsbeat.blogs.nytimes.com/2012/04/16/sex-pistols-to-reissue-god-save-the-queen/)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17725902)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17725902)
+2. [The New York Times](http://artsbeat.blogs.nytimes.com/2012/04/16/sex-pistols-to-reissue-god-save-the-queen/)
 
 ### Related:
 

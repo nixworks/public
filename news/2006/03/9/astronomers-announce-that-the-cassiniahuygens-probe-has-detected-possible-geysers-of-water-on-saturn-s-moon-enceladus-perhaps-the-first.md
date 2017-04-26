@@ -7,8 +7,8 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ### Source:
 
-1. [AP](http://abcnews.go.com/Technology/wireStory?id=1706420)
-2. [JPL](http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=639)
+1. [JPL](http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=639)
+2. [AP](http://abcnews.go.com/Technology/wireStory?id=1706420)
 
 ### Related:
 

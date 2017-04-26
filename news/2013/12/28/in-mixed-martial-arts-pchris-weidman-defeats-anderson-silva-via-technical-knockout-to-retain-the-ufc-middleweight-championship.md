@@ -7,8 +7,8 @@ LAS VEGAS – For Ronda Rousey, one streak ended, but another remained intact. L
 
 ### Source:
 
-1. [GMA News](http://www.gmanetwork.com/news/story/341690/sports/othersports/repeat-complete-weidman-retains-title-as-silva-breaks-leg-in-ufc-168)
-2. [USA Today](http://www.usatoday.com/story/sports/ufc/2013/12/29/ufc-168-ronda-rousey-submits-miesha-tate-armbar/4238299/)
+1. [USA Today](http://www.usatoday.com/story/sports/ufc/2013/12/29/ufc-168-ronda-rousey-submits-miesha-tate-armbar/4238299/)
+2. [GMA News](http://www.gmanetwork.com/news/story/341690/sports/othersports/repeat-complete-weidman-retains-title-as-silva-breaks-leg-in-ufc-168)
 
 ### Related:
 

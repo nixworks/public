@@ -7,8 +7,8 @@ Supreme court rules that current prime minister cannot hold office two months af
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/2012619104352956999.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-18506728)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-18506728)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/2012619104352956999.html)
 
 ### Related:
 

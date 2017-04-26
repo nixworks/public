@@ -7,8 +7,8 @@ Singer and actress Whitney Houston, one of the most celebrated acts of all time,
 
 ### Source:
 
-1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/02/whitney-houston-death-cpr.html)
-2. [BBC](http://www.bbc.co.uk/news/world-17001548)
+1. [BBC](http://www.bbc.co.uk/news/world-17001548)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/02/whitney-houston-death-cpr.html)
 3. [AP via ''Herald-Sun](http://www.heraldsun.com.au/news/more-news/whitney-houston-superstar-of-records-films-dies-age-48/story-fn7x8me2-1226268869683)
 
 ### Related:

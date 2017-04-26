@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times LIVE](http://www.timeslive.co.za/news/world/article205424.ece)
-2. [IBN](http://ibnlive.in.com/news/bjp-furious-cong-mum-on-liberhan-report/105764-37.html?from=tn)
+1. [IBN](http://ibnlive.in.com/news/bjp-furious-cong-mum-on-liberhan-report/105764-37.html?from=tn)
+2. [Times LIVE](http://www.timeslive.co.za/news/world/article205424.ece)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8373586.stm)
 
 ### Related:

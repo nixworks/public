@@ -7,8 +7,8 @@ A 22-year-old man died in a hospital after being shot during protests in souther
 
 ### Source:
 
-1. [Al Jazeera](http://blogs.aljazeera.com/topic/turkey-protests/international-support-turkey-demonstrators)
-2. [AFP via ''The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/10097368/Turkey-protests-second-fatality-reported-as-widespread-civil-unrest-continues.html)
+1. [AFP via ''The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/10097368/Turkey-protests-second-fatality-reported-as-widespread-civil-unrest-continues.html)
+2. [Al Jazeera](http://blogs.aljazeera.com/topic/turkey-protests/international-support-turkey-demonstrators)
 
 ### Related:
 

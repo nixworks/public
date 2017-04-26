@@ -7,8 +7,8 @@ The BBC says an edition of Panorama filmed secretly on a study trip to North Kor
 
 ### Source:
 
-1. [RT](http://rt.com/news/north-korea-nuke-state-844/)
-2. [BBC](http://www.bbc.co.uk/news/uk-22144667)
+1. [BBC](http://www.bbc.co.uk/news/uk-22144667)
+2. [RT](http://rt.com/news/north-korea-nuke-state-844/)
 
 ### Related:
 

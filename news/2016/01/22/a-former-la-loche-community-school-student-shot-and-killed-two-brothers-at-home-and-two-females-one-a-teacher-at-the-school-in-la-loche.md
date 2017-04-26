@@ -7,8 +7,8 @@ A small community in northern Saskatchewan is reeling after shootings at two loc
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/canada/saskatchewan/la-loche-community-school-lock-down-jan22-1.3416143)
-2. [Reuters](http://www.reuters.com/article/us-canada-shooting-idUSKCN0V02KT)
+1. [Reuters](http://www.reuters.com/article/us-canada-shooting-idUSKCN0V02KT)
+2. [CBC](http://www.cbc.ca/news/canada/saskatchewan/la-loche-community-school-lock-down-jan22-1.3416143)
 
 ### Related:
 

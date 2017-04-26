@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CHINA_TAIWAN_TYPHOON?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-09-22-04-34-50)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/09/22/china.typhoon.deaths/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/09/22/china.typhoon.deaths/)
+2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CHINA_TAIWAN_TYPHOON?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-09-22-04-34-50)
 
 ### Related:
 

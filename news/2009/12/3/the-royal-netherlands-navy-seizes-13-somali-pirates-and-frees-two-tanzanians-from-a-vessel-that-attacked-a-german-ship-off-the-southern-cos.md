@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE5B20H620091203)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9CBSFO00)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091203095131511C815391)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091203095131511C815391)
+2. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE5B20H620091203)
+3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9CBSFO00)
 
 ### Related:
 

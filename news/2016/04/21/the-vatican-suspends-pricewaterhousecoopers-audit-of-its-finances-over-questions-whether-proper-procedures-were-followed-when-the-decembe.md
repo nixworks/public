@@ -7,8 +7,8 @@ The Vatican suspended an audit of its finances by PricewaterhouseCoopers (PwC), 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/21/vaticans-suspension-of-major-pwc-audit-exposes-internal-rift-george-pell)
-2. [BBC](http://www.bbc.com/news/world-europe-35018430)
+1. [BBC](http://www.bbc.com/news/world-europe-35018430)
+2. [The Guardian](http://www.theguardian.com/world/2016/apr/21/vaticans-suspension-of-major-pwc-audit-exposes-internal-rift-george-pell)
 3. [Reuters](http://www.reuters.com/article/us-vatican-finances-auditor-idUSKCN0XI2G4)
 
 ### Related:

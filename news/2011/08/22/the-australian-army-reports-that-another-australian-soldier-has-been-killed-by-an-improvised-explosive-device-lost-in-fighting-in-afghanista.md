@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/national-affairs/digger-killed-by-improvised-explosive-device-on-patrol-in-afghanistan/story-fn59niix-1226119912280)
-2. [The Courier Mail](http://www.couriermail.com.au/news/australian-digger-killed-in-afghanistan/story-e6freon6-1226119901090)
+1. [The Courier Mail](http://www.couriermail.com.au/news/australian-digger-killed-in-afghanistan/story-e6freon6-1226119901090)
+2. [The Australian](http://www.theaustralian.com.au/national-affairs/digger-killed-by-improvised-explosive-device-on-patrol-in-afghanistan/story-fn59niix-1226119912280)
 
 ### Related:
 

@@ -7,8 +7,8 @@ An army spokesman says 10 people have been killed and at least 25 wounded in two
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/ten-killed-in-series-of-attacks-in-southern-thailand-1781028.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/local/153404/motorcycle-bomb-injures-27-in-south)
+1. [Bangkok Post](http://www.bangkokpost.com/news/local/153404/motorcycle-bomb-injures-27-in-south)
+2. [The Independent](http://www.independent.co.uk/news/world/asia/ten-killed-in-series-of-attacks-in-southern-thailand-1781028.html)
 
 ### Related:
 

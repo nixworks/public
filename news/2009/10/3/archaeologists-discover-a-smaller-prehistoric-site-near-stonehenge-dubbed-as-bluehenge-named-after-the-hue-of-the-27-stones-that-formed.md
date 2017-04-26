@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/england/wiltshire/8288567.stm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i55z9vq47vnFMeo1MGW-6uT2ZoegD9B3IJAO0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i55z9vq47vnFMeo1MGW-6uT2ZoegD9B3IJAO0)
+2. [BBC](http://news.bbc.co.uk/1/hi/england/wiltshire/8288567.stm)
 
 ### Related:
 

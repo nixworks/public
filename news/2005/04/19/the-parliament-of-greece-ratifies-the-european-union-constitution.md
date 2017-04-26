@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [MPA](http://www.mpa.gr/article.html?doc_id=523449)
-2. [EUBusiness](http://www.eubusiness.com/afp/050419171342.9hnhin1r)
-3. [IHT](http://www.iht.com/articles/2005/04/19/news/greece.html)
+1. [EUBusiness](http://www.eubusiness.com/afp/050419171342.9hnhin1r)
+2. [IHT](http://www.iht.com/articles/2005/04/19/news/greece.html)
+3. [MPA](http://www.mpa.gr/article.html?doc_id=523449)
 
 ### Related:
 

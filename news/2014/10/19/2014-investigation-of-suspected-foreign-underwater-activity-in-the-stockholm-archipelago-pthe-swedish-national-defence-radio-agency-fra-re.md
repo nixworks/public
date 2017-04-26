@@ -7,8 +7,8 @@ Swedish Military were still on Sunday investigating suspected ’foreign underwa
 
 ### Source:
 
-1. [Expressen](http://www.expressen.se/nyheter/suspected-foreign-underwater-activity/)
-2. [Svenska Dagbladet](http://www.svd.se/nyheter/inrikes/english-version-could-be-a-damaged-russian-submarine_4023511.svd)
+1. [Svenska Dagbladet](http://www.svd.se/nyheter/inrikes/english-version-could-be-a-damaged-russian-submarine_4023511.svd)
+2. [Expressen](http://www.expressen.se/nyheter/suspected-foreign-underwater-activity/)
 
 ### Related:
 

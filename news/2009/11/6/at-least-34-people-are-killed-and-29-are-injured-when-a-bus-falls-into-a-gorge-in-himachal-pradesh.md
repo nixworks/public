@@ -7,10 +7,10 @@ Thirty-four people, including six children and 12 women, were killed and another
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSDEL301588)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8346100.stm)
 2. [RIA Novosti](http://en.rian.ru/world/20091106/156731165.html)
-3. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/06/india.bus.plunge/)
-4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8346100.stm)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSDEL301588)
+4. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/06/india.bus.plunge/)
 5. [The Times of India](http://timesofindia.indiatimes.com/india/34-killed-as-bus-falls-into-gorge-in-Himachal/articleshow/5204496.cms)
 
 ### Related:

@@ -8,8 +8,8 @@ BP’s embattled chief executive, Tony Hayward, prepared to tell Congress on Thu
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2010/06/17/us/politics/17obama.html)
-2. [The New York Times](http://www.nytimes.com/2010/06/17/us/17spill.html?ref=politics)
-3. [USA Today](http://www.usatoday.com/news/washington/2010-06-16-obama-bp-oil_N.htm)
+2. [USA Today](http://www.usatoday.com/news/washington/2010-06-16-obama-bp-oil_N.htm)
+3. [The New York Times](http://www.nytimes.com/2010/06/17/us/17spill.html?ref=politics)
 4. [Chicago Tribune](http://www.chicagotribune.com/business/sns-ap-us-gulf-oil-spill,0,1622568.story)
 
 ### Related:

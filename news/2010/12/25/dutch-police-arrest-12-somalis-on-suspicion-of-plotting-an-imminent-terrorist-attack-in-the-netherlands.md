@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6BO0JX20101225)
-2. [CNN](http://news.blogs.cnn.com/2010/12/25/dutch-arrest-12-on-suspicion-of-terrorism/)
+1. [CNN](http://news.blogs.cnn.com/2010/12/25/dutch-arrest-12-on-suspicion-of-terrorism/)
+2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6BO0JX20101225)
 
 ### Related:
 

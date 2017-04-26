@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Adelaide Now](http://www.news.com.au/adelaidenow/story/0,22606,20548728-5006301,00.html)
+1. [AP](http://www.cnn.com/2006/WORLD/asiapcf/10/08/korea.nuclear.test.ap/index.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6034873.stm)
-3. [AP](http://www.cnn.com/2006/WORLD/asiapcf/10/08/korea.nuclear.test.ap/index.html)
-4. [AFP via ABS_CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=52607)
-5. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,20549542-23109,00.html)
+3. [Adelaide Now](http://www.news.com.au/adelaidenow/story/0,22606,20548728-5006301,00.html)
+4. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,20549542-23109,00.html)
+5. [AFP via ABS_CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=52607)
 
 ### Related:
 

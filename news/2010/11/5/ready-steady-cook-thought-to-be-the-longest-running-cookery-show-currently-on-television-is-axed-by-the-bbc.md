@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Daily Record](http://www.dailyrecord.co.uk/2010/11/05/bbc-to-axe-ready-steady-cook-after-15-years-and-2000-episodes-86908-22693780/)
-2. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1326902/Ready-Steady-Cook-gets-canned-ratings-boil.html?ito=feeds-newsxml)
-3. [RTÉ](http://www.rte.ie/ten/2010/1105/readysteadycook.html)
-4. [The Guardian](http://www.guardian.co.uk/media/2010/nov/05/ready-steady-cook-axed-by-bbc)
+1. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1326902/Ready-Steady-Cook-gets-canned-ratings-boil.html?ito=feeds-newsxml)
+2. [Daily Record](http://www.dailyrecord.co.uk/2010/11/05/bbc-to-axe-ready-steady-cook-after-15-years-and-2000-episodes-86908-22693780/)
+3. [The Guardian](http://www.guardian.co.uk/media/2010/nov/05/ready-steady-cook-axed-by-bbc)
+4. [RTÉ](http://www.rte.ie/ten/2010/1105/readysteadycook.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/525469AC-9239-4B85-8EE5-4B625927FD77.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4585489.stm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aRYK95UQ35DA&refer=top_world_news)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aRYK95UQ35DA&refer=top_world_news)
+3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4585489.stm)
 
 ### Related:
 

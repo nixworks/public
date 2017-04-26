@@ -7,8 +7,8 @@ Nursultan Nazarbayev calls for early presidential election after rejecting plan 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/02/04/us-kazakhstan-election-idUSTRE7130YP20110204)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/02/20112452524115600.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/02/20112452524115600.html)
+2. [Reuters](http://www.reuters.com/article/2011/02/04/us-kazakhstan-election-idUSTRE7130YP20110204)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-idlib-idUKKCN0X00WA)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-town-idUSKCN0X00BL)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-town-idUSKCN0X00BL)
+2. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-idlib-idUKKCN0X00WA)
 
 ### Related:
 

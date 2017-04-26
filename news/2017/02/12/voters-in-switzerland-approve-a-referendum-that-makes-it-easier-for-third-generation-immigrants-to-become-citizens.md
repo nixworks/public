@@ -7,8 +7,8 @@ The new law will make it easier for third-generation immigrants to become citize
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-swiss-immigration-idUSKBN15R0JP?il=0)
-2. [BBC](http://www.bbc.com/news/world-europe-38947518)
+1. [BBC](http://www.bbc.com/news/world-europe-38947518)
+2. [Reuters](http://www.reuters.com/article/us-swiss-immigration-idUSKBN15R0JP?il=0)
 
 ### Related:
 

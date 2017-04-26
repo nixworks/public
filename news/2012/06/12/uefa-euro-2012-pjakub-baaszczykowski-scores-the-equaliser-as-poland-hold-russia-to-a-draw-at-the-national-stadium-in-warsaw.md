@@ -7,15 +7,15 @@ Poland captain Jakub Blaszczykowski scores a stunning second-half equaliser as t
 
 ### Source:
 
-1. [AP via ''New Zealand Herald](http://www.nzherald.co.nz/soccer-football/news/article.cfm?c_id=86&objectid=10812676)
-2. [news.com.au](http://www.news.com.au/national/italy-player-hopes-no-gays-on-team/story-fn7mjqus-1226393679990)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/18138408)
-4. [Reuters](http://football.uk.reuters.com/leagues/euro2012/news/2012/06/12/792D8C1E-B4D5-11E1-9AC3-0B3E8033923B.php)
-5. [BBC](http://www.bbc.co.uk/sport/0/football/18137833)
-6. [BBC](http://www.bbc.co.uk/sport/0/football/18419309)
-7. [The Guardian](http://www.guardian.co.uk/football/2012/jun/12/euro-2012-antonio-cassano-gays?newsfeed=true)
-8. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012612212031877924.html)
-9. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/201261218252495910.html)
+1. [news.com.au](http://www.news.com.au/national/italy-player-hopes-no-gays-on-team/story-fn7mjqus-1226393679990)
+2. [Reuters](http://football.uk.reuters.com/leagues/euro2012/news/2012/06/12/792D8C1E-B4D5-11E1-9AC3-0B3E8033923B.php)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/18419309)
+4. [The Guardian](http://www.guardian.co.uk/football/2012/jun/12/euro-2012-antonio-cassano-gays?newsfeed=true)
+5. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/201261218252495910.html)
+6. [AP via ''New Zealand Herald](http://www.nzherald.co.nz/soccer-football/news/article.cfm?c_id=86&objectid=10812676)
+7. [BBC](http://www.bbc.co.uk/sport/0/football/18137833)
+8. [BBC](http://www.bbc.co.uk/sport/0/football/18138408)
+9. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012612212031877924.html)
 
 ### Related:
 

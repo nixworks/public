@@ -7,9 +7,9 @@ Polling stations have closed after 15 hours of voting in two elections and on tw
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/1027/breaking55.html)
-2. [The New York Times](http://www.nytimes.com/2011/10/27/world/europe/irish-election-portends-signs-of-reconciliation.html)
-3. [RTÉ News](http://www.rte.ie/news/2011/1027/president.html)
+1. [RTÉ News](http://www.rte.ie/news/2011/1027/president.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/1027/breaking55.html)
+3. [The New York Times](http://www.nytimes.com/2011/10/27/world/europe/irish-election-portends-signs-of-reconciliation.html)
 
 ### Related:
 

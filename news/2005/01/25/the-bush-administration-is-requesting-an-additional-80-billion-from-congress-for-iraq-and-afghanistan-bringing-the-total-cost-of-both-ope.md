@@ -7,8 +7,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7416540)
-2. [CNN](http://edition.cnn.com/2005/ALLPOLITICS/01/24/bush.war.funds/)
+1. [CNN](http://edition.cnn.com/2005/ALLPOLITICS/01/24/bush.war.funds/)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7416540)
 
 ### Related:
 

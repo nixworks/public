@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/culture/2010-03/17/c_13213838.htm)
-2. [New Vision](http://www.newvision.co.ug/D/8/12/713151)
+1. [New Vision](http://www.newvision.co.ug/D/8/12/713151)
+2. [Xinhua](http://news.xinhuanet.com/english2010/culture/2010-03/17/c_13213838.htm)
 
 ### Related:
 

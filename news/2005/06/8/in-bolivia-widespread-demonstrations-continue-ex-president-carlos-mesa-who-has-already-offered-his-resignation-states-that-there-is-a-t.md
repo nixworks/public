@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N07471551.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4071950.stm)
-3. [CNN](http://edition.cnn.com/2005/WORLD/americas/06/07/bolivia.unrest/)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4071950.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/americas/06/07/bolivia.unrest/)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N07471551.htm)
 
 ### Related:
 

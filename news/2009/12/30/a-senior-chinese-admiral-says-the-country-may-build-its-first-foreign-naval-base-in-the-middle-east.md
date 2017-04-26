@@ -7,8 +7,8 @@ China&#039;s rapidly-expanding navy is considering building its first foreign na
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/6911198/China-may-build-Middle-East-naval-base.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hs9FI-bp-ej_mwo-HTAa4KBny6EA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hs9FI-bp-ej_mwo-HTAa4KBny6EA)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/6911198/China-may-build-Middle-East-naval-base.html)
 
 ### Related:
 

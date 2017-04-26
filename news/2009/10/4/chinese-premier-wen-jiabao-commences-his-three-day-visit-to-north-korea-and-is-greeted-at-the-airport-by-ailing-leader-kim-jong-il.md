@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8289170.stm)
-2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/10/04/4/0401000000AEN20091004000800315F.HTML)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-10/04/content_12178703.htm)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-10/04/content_12178703.htm)
+3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/10/04/4/0401000000AEN20091004000800315F.HTML)
 
 ### Related:
 

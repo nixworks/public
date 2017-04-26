@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NPR](http://www.npr.org/2011/12/15/143770049/census-1-in-2-americans-are-poor-or-low-income)
+1. [CBS News](http://www.cbsnews.com/8301-201_162-57343397/census-data-half-of-u.s-poor-or-low-income/)
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gkc3uqGuPnGfO90dElARcCQvgTvA?docId=9576d6a6343c46b1abbd0184a9244305)
-3. [CBS News](http://www.cbsnews.com/8301-201_162-57343397/census-data-half-of-u.s-poor-or-low-income/)
+3. [NPR](http://www.npr.org/2011/12/15/143770049/census-1-in-2-americans-are-poor-or-low-income)
 
 ### Related:
 

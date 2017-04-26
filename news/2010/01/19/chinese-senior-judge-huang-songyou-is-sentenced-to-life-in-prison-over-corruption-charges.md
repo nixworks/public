@@ -7,9 +7,9 @@ Chinese court hands down life sentence to senior judge accused of taking bribes.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011972937663444.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8467064.stm)
-3. [People's Daily](http://english.people.com.cn/90001/90776/90882/6872927.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8467064.stm)
+2. [People's Daily](http://english.people.com.cn/90001/90776/90882/6872927.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011972937663444.html)
 
 ### Related:
 

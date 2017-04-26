@@ -7,13 +7,13 @@ Lower house of parliament ratifies key element of European convention on human r
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101151432738981.html)
-2. [FT](http://www.ft.com/cms/s/0/97bf5980-01ec-11df-b8cb-00144feabdc0.html)
-3. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14720809)
+1. [FT](http://www.ft.com/cms/s/0/97bf5980-01ec-11df-b8cb-00144feabdc0.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101151432738981.html)
+3. [RT](http://rt.com/Politics/2010-01-15/russia-ratifies-protocol-14.html)
 4. [RFERL](http://www.rferl.org/content/Whats_Behind_Moscows_Decision_To_Finally_Back_Strasbourg_Reform/1930858.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/8460934.stm)
-6. [RT](http://rt.com/Politics/2010-01-15/russia-ratifies-protocol-14.html)
-7. [NY Times](http://www.nytimes.com/2010/01/16/world/europe/16russia.html)
+5. [NY Times](http://www.nytimes.com/2010/01/16/world/europe/16russia.html)
+6. [BBC](http://news.bbc.co.uk/2/hi/europe/8460934.stm)
+7. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14720809)
 
 ### Related:
 

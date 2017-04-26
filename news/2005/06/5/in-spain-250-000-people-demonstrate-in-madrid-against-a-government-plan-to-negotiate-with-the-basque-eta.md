@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4610629.stm)
-2. [EITB](http://www.eitb24.com/noticia_en.php?id=65974)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L04295395.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L04295395.htm)
+3. [EITB](http://www.eitb24.com/noticia_en.php?id=65974)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Six men lock themselves into a mock spaceship in Moscow to simulate an 18-month 
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/science/20100603/159287152.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10197470.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10197470.stm)
+2. [RIA Novosti](http://en.rian.ru/science/20100603/159287152.html)
 
 ### Related:
 

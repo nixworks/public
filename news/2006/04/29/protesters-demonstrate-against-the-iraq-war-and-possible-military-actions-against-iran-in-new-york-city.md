@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/71182C17-5E78-4019-BAE2-ACDA0A102356.htm)
+1. [The Hindu](http://www.hindu.com/thehindu/holnus/003200604301012.htm)
 2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/29/AR2006042900497.html)
-3. [The Hindu](http://www.hindu.com/thehindu/holnus/003200604301012.htm)
+3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/71182C17-5E78-4019-BAE2-ACDA0A102356.htm)
 
 ### Related:
 

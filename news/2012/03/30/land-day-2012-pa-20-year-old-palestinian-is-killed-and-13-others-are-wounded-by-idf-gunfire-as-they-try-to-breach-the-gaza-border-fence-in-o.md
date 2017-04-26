@@ -8,6 +8,6 @@ A Palestinian man has been shot dead by Israeli security forces in the Gaza Stri
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17560066)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4210176,00.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201233018384736481.html)
-4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4210157,00.html)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4210157,00.html)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4210176,00.html)
+4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201233018384736481.html)

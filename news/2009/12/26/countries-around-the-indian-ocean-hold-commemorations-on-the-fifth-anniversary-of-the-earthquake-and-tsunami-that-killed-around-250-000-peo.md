@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8430675.stm)
-2. [euronews](http://www.euronews.net/2009/12/26/tsunami-victims-remembered-five-years-on/)
+1. [euronews](http://www.euronews.net/2009/12/26/tsunami-victims-remembered-five-years-on/)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8430675.stm)
 
 ### Related:
 

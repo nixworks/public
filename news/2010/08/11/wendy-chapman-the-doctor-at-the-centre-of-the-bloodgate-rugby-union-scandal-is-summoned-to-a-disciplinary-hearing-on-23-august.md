@@ -7,9 +7,9 @@ Bloodgate doctor Wendy Chapman has been summoned to appear before a General Medi
 
 ### Source:
 
-1. [Sky Sports](http://www.skysports.com/story/0,19528,12332_6306409,00.html)
-2. [RTÉ Sport](http://www.rte.ie/sport/rugby/2010/0811/harlequins.html)
-3. [BBC Sport](http://www.bbc.co.uk/news/uk-10932574)
+1. [RTÉ Sport](http://www.rte.ie/sport/rugby/2010/0811/harlequins.html)
+2. [BBC Sport](http://www.bbc.co.uk/news/uk-10932574)
+3. [Sky Sports](http://www.skysports.com/story/0,19528,12332_6306409,00.html)
 
 ### Related:
 

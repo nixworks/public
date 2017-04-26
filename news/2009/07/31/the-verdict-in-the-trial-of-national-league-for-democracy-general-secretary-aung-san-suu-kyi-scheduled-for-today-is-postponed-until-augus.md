@@ -7,10 +7,10 @@ Myanmar opposition leader to know fate on August 11 as court defers ruling.
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/world/150706/burma-court-delays-suu-kyi-verdict)
-2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_410546.html)
+1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_410546.html)
+2. [RTÉ](http://www.rte.ie/news/2009/0731/burma.html)
 3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/200973195348304767.html)
-4. [RTÉ](http://www.rte.ie/news/2009/0731/burma.html)
+4. [Bangkok Post](http://www.bangkokpost.com/news/world/150706/burma-court-delays-suu-kyi-verdict)
 
 ### Related:
 

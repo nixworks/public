@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-31252429)
-2. [AP](http://bigstory.ap.org/article/3af8692785214fdea9595871d39ad361/official-least-5-dead-egypt-soccer-riot-toll-rise)
+1. [AP](http://bigstory.ap.org/article/3af8692785214fdea9595871d39ad361/official-least-5-dead-egypt-soccer-riot-toll-rise)
+2. [BBC](http://www.bbc.com/news/world-middle-east-31252429)
 
 ### Related:
 

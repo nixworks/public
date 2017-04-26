@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://www.seattlepi.com/othersports/2050AP_SOC_Iran_Women.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4938912.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4938912.stm)
+2. [AP](http://www.seattlepi.com/othersports/2050AP_SOC_Iran_Women.html)
 3. [Guardian](http://www.guardian.co.uk/iran/story/0,,1760745,00.html)
 
 ### Related:

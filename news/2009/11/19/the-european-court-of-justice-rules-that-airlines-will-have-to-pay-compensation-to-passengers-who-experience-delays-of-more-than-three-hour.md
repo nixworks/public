@@ -7,8 +7,8 @@ Airline passengers facing long delays should receive the same cash compensation 
 
 ### Source:
 
-1. [European Court of Justice](http://curia.europa.eu/jcms/upload/docs/application/pdf/2009-11/cp090102en.pdf)
-2. [Independent](http://www.independent.co.uk/travel/news-and-advice/delayed-air-passengers-to-benefit-from-compensation-ruling-1823572.html)
+1. [Independent](http://www.independent.co.uk/travel/news-and-advice/delayed-air-passengers-to-benefit-from-compensation-ruling-1823572.html)
+2. [European Court of Justice](http://curia.europa.eu/jcms/upload/docs/application/pdf/2009-11/cp090102en.pdf)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/life/movies/movieawards/story/2012-01-29/2012-screen-actors-guild-awards/52873680/1)
-2. [AP via Yahoo News](http://old.news.yahoo.com/s/ap/20120130/ap_on_en_mo/us_sag_awards)
+1. [AP via Yahoo News](http://old.news.yahoo.com/s/ap/20120130/ap_on_en_mo/us_sag_awards)
+2. [USA Today](http://www.usatoday.com/life/movies/movieawards/story/2012-01-29/2012-screen-actors-guild-awards/52873680/1)
 
 ### Related:
 

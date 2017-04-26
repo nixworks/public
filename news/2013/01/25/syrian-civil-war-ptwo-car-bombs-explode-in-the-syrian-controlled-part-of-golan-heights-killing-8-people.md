@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-government-calls-on-dissidents-citizens-who-fled-civil-war-to-return-home/2013/01/25/53a54c80-66c7-11e2-889b-f23c246aa446_story.html)
-2. [AP via Fox News](http://www.foxnews.com/world/2013/01/25/2-deadly-carbombs-explode-as-syrian-government-urges-rebels-refugees-to-return/)
-3. [Voice of America](http://www.voanews.com/content/twin-car-bombs-kill-8-in-syrias-golan-heights/1590697.html)
+1. [Voice of America](http://www.voanews.com/content/twin-car-bombs-kill-8-in-syrias-golan-heights/1590697.html)
+2. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-government-calls-on-dissidents-citizens-who-fled-civil-war-to-return-home/2013/01/25/53a54c80-66c7-11e2-889b-f23c246aa446_story.html)
+3. [AP via Fox News](http://www.foxnews.com/world/2013/01/25/2-deadly-carbombs-explode-as-syrian-government-urges-rebels-refugees-to-return/)
 
 ### Related:
 

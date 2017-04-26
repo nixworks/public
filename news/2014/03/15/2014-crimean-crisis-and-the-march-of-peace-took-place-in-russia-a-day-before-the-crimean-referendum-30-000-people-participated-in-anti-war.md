@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Moscow Times](http://www.themoscowtimes.com/news/article/thousands-attend-anti-war-rally/496233.html)
-2. [Reuters](http://www.reuters.com/article/2014/03/15/us-ukraine-crisis-russia-rallies-idUSBREA2E0H820140315)
-3. [RFE/RL](http://www.rferl.org/content/ukraine-crimea-rally-moscow/25298167.html)
+2. [RFE/RL](http://www.rferl.org/content/ukraine-crimea-rally-moscow/25298167.html)
+3. [Reuters](http://www.reuters.com/article/2014/03/15/us-ukraine-crisis-russia-rallies-idUSBREA2E0H820140315)
 
 ### Related:
 

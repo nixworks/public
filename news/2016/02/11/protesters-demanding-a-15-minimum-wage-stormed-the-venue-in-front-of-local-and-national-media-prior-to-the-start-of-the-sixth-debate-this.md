@@ -7,8 +7,8 @@ Protesters demanding a $15 minimum wage stormed in to the debate center before t
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/US/2016/02/12/Minimum-wage-protesters-storm-debate-center/2631455252310/?spt=hs&or=tn_us)
-2. [Fox 6 News](http://fox6now.com/2016/02/11/protesters-storm-into-media-room-ahead-of-debate-all-our-voices-together-going-to-be-heard/)
+1. [Fox 6 News](http://fox6now.com/2016/02/11/protesters-storm-into-media-room-ahead-of-debate-all-our-voices-together-going-to-be-heard/)
+2. [UPI](http://www.upi.com/Top_News/US/2016/02/12/Minimum-wage-protesters-storm-debate-center/2631455252310/?spt=hs&or=tn_us)
 
 ### Related:
 

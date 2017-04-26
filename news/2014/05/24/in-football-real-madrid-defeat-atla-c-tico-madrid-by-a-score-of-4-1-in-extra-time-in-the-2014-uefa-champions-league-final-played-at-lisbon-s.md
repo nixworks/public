@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-27536405)
-2. [AFP via Yahoo! sports](https://au.sports.yahoo.com/news/article/-/23814187/bale-ronaldo-goals-lead-real-to-10th-champions-league/)
+1. [AFP via Yahoo! sports](https://au.sports.yahoo.com/news/article/-/23814187/bale-ronaldo-goals-lead-real-to-10th-champions-league/)
+2. [BBC](http://www.bbc.com/news/world-europe-27536405)
 
 ### Related:
 

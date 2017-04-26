@@ -7,9 +7,9 @@ Lebanon&#39;s opposition blamed &quot;Syria and its allies&quot; for the killing
 
 ### Source:
 
-1. [Al-Jazeera](http://www.aljazeera.com/me.asp?service_ID=8566)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4605027.stm)
-3. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15624)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4605027.stm)
+2. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15624)
+3. [Al-Jazeera](http://www.aljazeera.com/me.asp?service_ID=8566)
 
 ### Related:
 

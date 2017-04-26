@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [King5](http://www.king5.com/news/Southwest-flight-to-Phoenix-diverted-to-Yuma-119100294.html)
-2. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_SOUTHWEST_FLIGHT_DIVERTED?SITE=TXKER&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_SOUTHWEST_FLIGHT_DIVERTED?SITE=TXKER&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [King5](http://www.king5.com/news/Southwest-flight-to-Phoenix-diverted-to-Yuma-119100294.html)
 
 ### Related:
 

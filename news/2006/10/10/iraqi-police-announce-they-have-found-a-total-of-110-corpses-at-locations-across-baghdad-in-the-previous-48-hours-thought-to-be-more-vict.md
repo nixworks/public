@@ -9,9 +9,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyID=2006-10-10T160404Z_01_GEO743062_RTRUKOC_0_US-IRAQ.xml&src=101006_1219_DOUBLEFEATURE_international)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-10-10T211943Z_01_L10700777_RTRUKOC_0_US-IRAQ-BLASTS.xml&WTmodLoc=Home-C2-TopNews-newsOne-5)
-3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-10-10T064225Z_01_COL958119_RTRUKOT_0_TEXT0.xml&WTmodLoc=NewsArt-L1-RelatedNews-3)
+3. [CNN](http://www.cnn.com/2006/WORLD/meast/10/10/iraq.main/index.html)
 4. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4801705.stm)
-5. [CNN](http://www.cnn.com/2006/WORLD/meast/10/10/iraq.main/index.html)
+5. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-10-10T064225Z_01_COL958119_RTRUKOT_0_TEXT0.xml&WTmodLoc=NewsArt-L1-RelatedNews-3)
 
 ### Related:
 

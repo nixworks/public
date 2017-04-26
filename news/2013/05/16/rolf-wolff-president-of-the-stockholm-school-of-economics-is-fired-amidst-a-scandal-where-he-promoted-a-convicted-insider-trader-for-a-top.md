@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dagens industri](http://www.di.se/artiklar/2013/5/16/handelshogskolans-rektor-sparkas/)
-2. [Dagens Nyheter](http://www.dn.se/ekonomi/handelshogskolans-rektor-far-sparken)
+1. [Dagens Nyheter](http://www.dn.se/ekonomi/handelshogskolans-rektor-far-sparken)
+2. [Dagens industri](http://www.di.se/artiklar/2013/5/16/handelshogskolans-rektor-sparkas/)
 
 ### Related:
 

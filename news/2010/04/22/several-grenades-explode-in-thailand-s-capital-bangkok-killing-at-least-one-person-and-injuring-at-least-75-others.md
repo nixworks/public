@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/175491/6-bomb-blasts-in-silom-at-least-27-injured)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/8638942.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/8638942.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/175491/6-bomb-blasts-in-silom-at-least-27-injured)
 
 ### Related:
 

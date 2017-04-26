@@ -8,9 +8,9 @@ Rojas, one of Latin America&#039;s greatest modern writers, dies at the age of 9
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jOyl1YuhpDWJCvA5_VWvQzZSGLpQ?docId=CNG.c8db012cba954cc01b3d717fdd81175b.141)
-2. [Fox News](http://latino.foxnews.com/latino/lifestyle/2011/04/25/chilean-poet-gonzalo-rojas-dies/)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/culture/books/booknews/8472325/Gonzalo-Rojas-Chilean-poet-is-dead.html)
-4. [BBC](http://www.bbc.co.uk/news/world-latin-america-13187777)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-13187777)
+3. [Fox News](http://latino.foxnews.com/latino/lifestyle/2011/04/25/chilean-poet-gonzalo-rojas-dies/)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/culture/books/booknews/8472325/Gonzalo-Rojas-Chilean-poet-is-dead.html)
 
 ### Related:
 

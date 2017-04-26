@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/11/indonesia.flooding/index.html?eref=edition)
+1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_589290.html)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/11/death-toll-wasior039s-flooding-climbs-145.html)
-3. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_589290.html)
+3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/11/indonesia.flooding/index.html?eref=edition)
 
 ### Related:
 

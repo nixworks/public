@@ -7,12 +7,12 @@ THE LONG-AWAITED report into the handling of clerical sexual abuse allegations i
 
 ### Source:
 
-1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/exbishop-slammed-over-child-abuse-16022689.html)
-2. [Irish Independent](http://www.independent.ie/national-news/report-on-sex-abuse-to-be-worse-than-ferns-2818576.html)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0713/1224300654778.html)
-4. [RTÉ](http://www.rte.ie/news/2011/0713/cloyne.html)
-5. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/ojkfcweycwid/)
-6. [The Guardian](http://www.guardian.co.uk/world/2011/jul/13/irish-report-child-sex-abuse-vatican)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/jul/13/irish-report-child-sex-abuse-vatican)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0713/1224300654778.html)
+3. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/ojkfcweycwid/)
+4. [Irish Independent](http://www.independent.ie/national-news/report-on-sex-abuse-to-be-worse-than-ferns-2818576.html)
+5. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/exbishop-slammed-over-child-abuse-16022689.html)
+6. [RTÉ](http://www.rte.ie/news/2011/0713/cloyne.html)
 
 ### Related:
 

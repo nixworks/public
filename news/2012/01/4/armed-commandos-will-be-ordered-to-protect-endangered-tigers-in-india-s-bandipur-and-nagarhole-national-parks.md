@@ -7,9 +7,9 @@ Armed commandos are to be deployed in the jungles of southern India to deter poa
 
 ### Source:
 
-1. [SMH](http://www.smh.com.au/environment/conservation/armed-commandos-to-protect-indias-tigers-20120105-1pmj1.html)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16410137)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_751780.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-india-16410137)
+3. [SMH](http://www.smh.com.au/environment/conservation/armed-commandos-to-protect-indias-tigers-20120105-1pmj1.html)
 
 ### Related:
 

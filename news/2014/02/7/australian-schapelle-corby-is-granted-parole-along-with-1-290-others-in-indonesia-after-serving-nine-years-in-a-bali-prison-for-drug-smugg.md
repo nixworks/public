@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Eastern Tribune](http://www.theeasterntribune.com/story/2500/schapelle-corby-parole-bid-approved/)
-2. [Sydney Morning Herald](http://www.smh.com.au/national/schapelle-corby-parole-verdict-handed-down-20140207-3274q.html)
+1. [Sydney Morning Herald](http://www.smh.com.au/national/schapelle-corby-parole-verdict-handed-down-20140207-3274q.html)
+2. [The Eastern Tribune](http://www.theeasterntribune.com/story/2500/schapelle-corby-parole-bid-approved/)
 
 ### Related:
 

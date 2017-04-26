@@ -7,9 +7,9 @@ At least 20 dead as explosions rock marketplace in Basra, wounding scores.
 
 ### Source:
 
-1. [Euronews](http://www.euronews.net/2010/08/08/dozens-feared-dead-in-basra-blasts/)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10907112)
 2. [Aljazeeera](http://english.aljazeera.net/news/middleeast/2010/08/201087191644753781.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-10907112)
+3. [Euronews](http://www.euronews.net/2010/08/08/dozens-feared-dead-in-basra-blasts/)
 
 ### Related:
 

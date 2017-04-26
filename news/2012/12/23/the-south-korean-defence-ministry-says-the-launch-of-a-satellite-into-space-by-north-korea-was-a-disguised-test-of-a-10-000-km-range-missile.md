@@ -7,8 +7,8 @@ North Korea has the ability to fire a rocket more than 10,000km, theoretically p
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-20830605)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212234411261225.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212234411261225.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-20830605)
 3. [Reuters](http://www.reuters.com/article/2012/12/23/us-korea-north-missile-idUSBRE8BM01720121223)
 
 ### Related:

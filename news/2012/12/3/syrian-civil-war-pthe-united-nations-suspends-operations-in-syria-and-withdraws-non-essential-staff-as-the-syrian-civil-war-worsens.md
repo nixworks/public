@@ -7,8 +7,8 @@ There are unconfirmed reports that Jihad Makdissi has either defected or been fi
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/2012123163314873741.html)
-2. [AAP via News Limited](http://www.news.com.au/breaking-news/world/un-suspends-operations-in-syria/story-e6frfkui-1226529365380?from=public_rss)
+1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/un-suspends-operations-in-syria/story-e6frfkui-1226529365380?from=public_rss)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/2012123163314873741.html)
 
 ### Related:
 

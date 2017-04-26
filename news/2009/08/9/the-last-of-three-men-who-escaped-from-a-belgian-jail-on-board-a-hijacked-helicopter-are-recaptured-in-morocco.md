@@ -7,9 +7,9 @@ Reasons for the phenomenon, experts say, include poor security at heliports, ove
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8192572.stm)
+1. [The New York Times](http://www.nytimes.com/2009/08/09/world/europe/09copter.html?_r=1&partner=MOREOVERNEWS&ei=5040)
 2. [People's Daily online](http://english.people.com.cn/90001/90777/90853/6722971.html)
-3. [The New York Times](http://www.nytimes.com/2009/08/09/world/europe/09copter.html?_r=1&partner=MOREOVERNEWS&ei=5040)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8192572.stm)
 
 ### Related:
 

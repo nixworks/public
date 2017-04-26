@@ -7,9 +7,9 @@ Syrian state TV reports the army has begun operations in Jisr al-Shughour, where
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011610162535580409.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13723810)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/201161091735838652.html)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13723810)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/201161091735838652.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011610162535580409.html)
 4. [Trend News Agency Azerbaijan](http://en.trend.az/regions/met/arabicr/1889745.html)
 
 ### Related:

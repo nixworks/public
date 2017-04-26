@@ -7,8 +7,8 @@ Nelson Mandela has had a successful surgical procedure to remove gallstones from
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-20739780)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/nelson-mandela/9747134/Nelson-Mandela-has-successful-procedure-to-remove-gallstones.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/nelson-mandela/9747134/Nelson-Mandela-has-successful-procedure-to-remove-gallstones.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-20739780)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Two people have died and another is in a critical condition after a plane carryi
 
 ### Source:
 
-1. [Romania-Insider.com](http://www.romania-insider.com/plane-carrying-medical-team-crashes-in-romanian-mountains-one-dead-another-critical/113202/)
-2. [ABC News](http://abcnews.go.com/International/wireStory/romania-plane-medics-found-hours-21602405)
-3. [NewsDaily](http://www.newsdaily.com/europe/ea3a0203846cbdc477e01e32f4141715/romania-plane-with-medics-found-after-4-12-hours)
+1. [NewsDaily](http://www.newsdaily.com/europe/ea3a0203846cbdc477e01e32f4141715/romania-plane-with-medics-found-after-4-12-hours)
+2. [Romania-Insider.com](http://www.romania-insider.com/plane-carrying-medical-team-crashes-in-romanian-mountains-one-dead-another-critical/113202/)
+3. [ABC News](http://abcnews.go.com/International/wireStory/romania-plane-medics-found-hours-21602405)
 
 ### Related:
 

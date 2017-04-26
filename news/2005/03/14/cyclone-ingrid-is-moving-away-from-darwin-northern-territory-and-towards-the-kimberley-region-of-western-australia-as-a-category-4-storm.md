@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AustBC News](http://www.abc.net.au/news/newsitems/200503/s1323166.htm)
-2. [Aust BOM](http://www.bom.gov.au/products/IDD65011.shtml)
+1. [Aust BOM](http://www.bom.gov.au/products/IDD65011.shtml)
+2. [AustBC News](http://www.abc.net.au/news/newsitems/200503/s1323166.htm)
 
 ### Related:
 

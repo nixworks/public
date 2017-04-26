@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [wired](http://www.wired.com/news/technology/0,70028-0.html?tw=rss.index)
-2. [text of draft](http://gplv3.fsf.org/draft)
+1. [text of draft](http://gplv3.fsf.org/draft)
+2. [wired](http://www.wired.com/news/technology/0,70028-0.html?tw=rss.index)
 
 ### Related:
 

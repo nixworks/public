@@ -7,9 +7,9 @@ The official site of the international governing body of football with news, nat
 
 ### Source:
 
-1. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=2001157.html)
-2. [AP va Fox Sports](http://msn.foxsports.com/foxsoccer/seriea/story/palermo-fires-second-coach-gasperini-malesani-rumored-replacement-020413)
-3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1326732/gian-piero-gasperini-given-the-chop-by-palermo-after-latest-defeat)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1326732/gian-piero-gasperini-given-the-chop-by-palermo-after-latest-defeat)
+2. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=2001157.html)
+3. [AP va Fox Sports](http://msn.foxsports.com/foxsoccer/seriea/story/palermo-fires-second-coach-gasperini-malesani-rumored-replacement-020413)
 
 ### Related:
 

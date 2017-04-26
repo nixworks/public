@@ -8,8 +8,8 @@
 ### Source:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-08/23/content_8605057.htm)
-2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_420353.html)
-3. [Press Trust of India](http://www.ptinews.com/news/243927_Severe-drought-hits-5-million-people-in-China)
+2. [Press Trust of India](http://www.ptinews.com/news/243927_Severe-drought-hits-5-million-people-in-China)
+3. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_420353.html)
 
 ### Related:
 

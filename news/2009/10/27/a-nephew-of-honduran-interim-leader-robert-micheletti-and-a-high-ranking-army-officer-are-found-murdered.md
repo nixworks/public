@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8327196.stm)
-2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Honduras-de-facto-leaders-nephew-murdered/articleshow/5168177.cms)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=109724&sectionid=351020706)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=109724&sectionid=351020706)
+3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Honduras-de-facto-leaders-nephew-murdered/articleshow/5168177.cms)
 
 ### Related:
 

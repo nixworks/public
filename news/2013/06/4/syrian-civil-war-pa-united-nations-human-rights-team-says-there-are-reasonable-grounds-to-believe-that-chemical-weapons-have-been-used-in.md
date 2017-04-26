@@ -7,8 +7,8 @@ UN investigators say they have reasonable grounds to believe chemical weapons we
 
 ### Source:
 
-1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2013-06-04/un-rights-team-believes-chemical-weapons-used-in-syria/4733034)
-2. [Haaretz](http://www.haaretz.com/news/middle-east/france-tests-confirm-sarin-gas-used-several-times-in-syria-1.527813)
+1. [Haaretz](http://www.haaretz.com/news/middle-east/france-tests-confirm-sarin-gas-used-several-times-in-syria-1.527813)
+2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2013-06-04/un-rights-team-believes-chemical-weapons-used-in-syria/4733034)
 
 ### Related:
 

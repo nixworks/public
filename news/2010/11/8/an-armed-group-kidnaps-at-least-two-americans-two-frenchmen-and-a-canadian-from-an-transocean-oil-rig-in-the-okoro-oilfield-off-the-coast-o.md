@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/08/c_13596743.htm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/08/nigeria.oil.rig.kidnappings/index.html?eref=edition)
-3. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE6A708L20101108?sp=true)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/08/nigeria.oil.rig.kidnappings/index.html?eref=edition)
+2. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE6A708L20101108?sp=true)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/08/c_13596743.htm)
 
 ### Related:
 

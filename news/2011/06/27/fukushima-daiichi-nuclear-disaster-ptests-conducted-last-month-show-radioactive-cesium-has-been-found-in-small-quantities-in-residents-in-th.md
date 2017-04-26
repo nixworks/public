@@ -7,8 +7,8 @@ Japanese researchers have found radiation in all 15 people tested last month fro
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13924602)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13924582)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13924582)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-13924602)
 3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/japan.radiation/index.html)
 
 ### Related:

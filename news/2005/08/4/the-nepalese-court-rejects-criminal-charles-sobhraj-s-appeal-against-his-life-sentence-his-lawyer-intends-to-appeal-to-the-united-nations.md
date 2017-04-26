@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [HImalayan Times](http://www.thehimalayantimes.com/fullstory.asp?filename=6a6Sa8maxamal&folder=aHaoamW&Name=Home&dtSiteDate=20050805)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4746585.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4746585.stm)
+2. [HImalayan Times](http://www.thehimalayantimes.com/fullstory.asp?filename=6a6Sa8maxamal&folder=aHaoamW&Name=Home&dtSiteDate=20050805)
 
 ### Related:
 

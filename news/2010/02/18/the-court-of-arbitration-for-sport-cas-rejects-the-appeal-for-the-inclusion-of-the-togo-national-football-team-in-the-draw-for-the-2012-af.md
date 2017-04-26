@@ -7,9 +7,9 @@ All the latest Football News, Results &amp; Fixtures, brought to you as it happe
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/sport/soccer/2010/0218/togo.html)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8522623.stm)
-3. [The Irish Times](http://www.irishtimes.com/sports/soccer/2010/0218/1224264785887.html)
+1. [The Irish Times](http://www.irishtimes.com/sports/soccer/2010/0218/1224264785887.html)
+2. [RTÉ](http://www.rte.ie/sport/soccer/2010/0218/togo.html)
+3. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8522623.stm)
 
 ### Related:
 

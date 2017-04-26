@@ -7,8 +7,8 @@ Activists accuse Syrian government forces of massacring 78 in a village near Ham
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18345796)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18348201)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18348201)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18345796)
 
 ### Related:
 

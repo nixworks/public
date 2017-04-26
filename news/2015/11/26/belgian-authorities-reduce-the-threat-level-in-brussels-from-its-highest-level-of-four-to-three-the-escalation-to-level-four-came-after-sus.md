@@ -7,8 +7,8 @@ Belgian authorities reduce the threat level in Brussels from its highest level n
 
 ### Source:
 
-1. [Intenational Business Times](http://www.ibtimes.com/belgian-officials-say-potential-anthrax-brussels-mosque-false-alarm-raids-are-2201495)
-2. [BBC](http://www.bbc.com/news/world-europe-34933500)
+1. [BBC](http://www.bbc.com/news/world-europe-34933500)
+2. [Intenational Business Times](http://www.ibtimes.com/belgian-officials-say-potential-anthrax-brussels-mosque-false-alarm-raids-are-2201495)
 3. [Reuters](http://www.reuters.com/article/2015/11/26/us-france-shooting-belgium-mosque-idUSKBN0TF1GT20151126?feedType=RSS&feedName=topNews&utm_source=twitter#rwmcDCflP0wgfKLf.97)
 
 ### Related:

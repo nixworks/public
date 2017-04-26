@@ -7,9 +7,9 @@ A strong earthquake hit southwestern Japan on Thursday, bringing down some build
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/national/view/strong-quake-hits-kyushu-region-4-dead-400-injured)
-2. [Reuters](http://www.reuters.com/article/us-japan-quake-idUSKCN0XB1K6)
-3. [CNN](http://edition.cnn.com/2016/04/14/asia/japan-earthquake/)
+1. [CNN](http://edition.cnn.com/2016/04/14/asia/japan-earthquake/)
+2. [Japan Today](http://www.japantoday.com/category/national/view/strong-quake-hits-kyushu-region-4-dead-400-injured)
+3. [Reuters](http://www.reuters.com/article/us-japan-quake-idUSKCN0XB1K6)
 
 ### Related:
 

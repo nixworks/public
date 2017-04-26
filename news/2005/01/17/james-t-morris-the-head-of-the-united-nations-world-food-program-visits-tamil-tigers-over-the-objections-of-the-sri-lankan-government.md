@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4177519.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=au5grRfX55kY&refer=asia)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=au5grRfX55kY&refer=asia)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4177519.stm)
 
 ### Related:
 

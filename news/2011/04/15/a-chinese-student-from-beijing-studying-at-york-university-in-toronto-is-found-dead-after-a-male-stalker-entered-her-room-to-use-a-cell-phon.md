@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Montreal Gazette](http://www.montrealgazette.com/technology/Webcam+captures+fatal+attack+York+University+student/4631303/story.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iSocAmMoWN5lV733edSUKEOIXvSg)
-3. [Global Post](http://www.globalpost.com/dispatch/news/regions/americas/canada/110419/skype-murder-canada-toronto-china-webcam)
+2. [Global Post](http://www.globalpost.com/dispatch/news/regions/americas/canada/110419/skype-murder-canada-toronto-china-webcam)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iSocAmMoWN5lV733edSUKEOIXvSg)
 
 ### Related:
 

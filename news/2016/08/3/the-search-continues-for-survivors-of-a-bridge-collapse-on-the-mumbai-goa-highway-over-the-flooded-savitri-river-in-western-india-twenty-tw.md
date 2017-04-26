@@ -7,8 +7,8 @@ A British-era bridge across the Savitri River on the Mumbai-Goa highway collapse
 
 ### Source:
 
-1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/highway-bridge-collapses-in-western-india-casualties-feared/2016/08/02/98c85ab2-5923-11e6-8b48-0cb344221131_story.html)
-2. [Times of India](http://timesofindia.indiatimes.com/india/Maharashtra-bridge-collapse-22-missing-Savitri-River-rescue-operations-underway/articleshow/53516755.cms?)
+1. [Times of India](http://timesofindia.indiatimes.com/india/Maharashtra-bridge-collapse-22-missing-Savitri-River-rescue-operations-underway/articleshow/53516755.cms?)
+2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/highway-bridge-collapses-in-western-india-casualties-feared/2016/08/02/98c85ab2-5923-11e6-8b48-0cb344221131_story.html)
 
 ### Related:
 

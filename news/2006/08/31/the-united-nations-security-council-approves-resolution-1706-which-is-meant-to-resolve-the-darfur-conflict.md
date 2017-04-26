@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/LAC.20060901.SUDAN01/TPStory/TPInternational/Africa/)
-2. [Business Day](http://www.businessday.co.za/articles/world.aspx?ID=BD4A262004)
+1. [Business Day](http://www.businessday.co.za/articles/world.aspx?ID=BD4A262004)
+2. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/LAC.20060901.SUDAN01/TPStory/TPInternational/Africa/)
 
 ### Related:
 

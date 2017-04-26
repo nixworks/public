@@ -7,8 +7,8 @@ Six people were killed and seven others wounded when a fourth-floor balcony coll
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/U/US_BERKELEY_BALCONY_COLLAPSE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [NBC News](http://www.nbcnews.com/news/us-news/five-killed-balcony-collapses-fourth-floor-berkeley-n376181)
+1. [NBC News](http://www.nbcnews.com/news/us-news/five-killed-balcony-collapses-fourth-floor-berkeley-n376181)
+2. [AP](http://hosted.ap.org/dynamic/stories/U/US_BERKELEY_BALCONY_COLLAPSE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

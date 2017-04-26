@@ -7,8 +7,8 @@ CIA director David Petraeus has resigned from the CIA
 
 ### Source:
 
-1. [NBC News](http://usnews.nbcnews.com/_news/2012/11/09/15054517-cia-director-david-petraeus-resigns-cites-extramarital-affair?lite)
-2. [NBC News via ''USA Today](http://www.usatoday.com/story/news/nation/2012/11/09/david-petraeus-cia-resign-nbc/1695271/?csp=usatgoogleplus)
+1. [NBC News via ''USA Today](http://www.usatoday.com/story/news/nation/2012/11/09/david-petraeus-cia-resign-nbc/1695271/?csp=usatgoogleplus)
+2. [NBC News](http://usnews.nbcnews.com/_news/2012/11/09/15054517-cia-director-david-petraeus-resigns-cites-extramarital-affair?lite)
 
 ### Related:
 

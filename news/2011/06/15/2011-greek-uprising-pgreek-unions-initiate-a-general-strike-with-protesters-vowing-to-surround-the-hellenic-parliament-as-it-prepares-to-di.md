@@ -7,18 +7,18 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 
 ### Source:
 
-1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jun/15/greece-general-strike-parliament-clashes)
-2. [Reuters via France 24](http://www.france24.com/en/20110614-protesters-vow-besiege-parliament-unions-call-general-strike-over-austerity-plan?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110615&amp;f24_member_id=&amp;ns_linkname=node_5209450&amp;ns_fee=0)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-06/15/c_13931590.htm)
-4. [DAWN](http://www.dawn.com/2011/06/15/greek-strikers-turn-out-in-thousands.html)
+1. [Reuters via France 24](http://www.france24.com/en/20110614-protesters-vow-besiege-parliament-unions-call-general-strike-over-austerity-plan?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110615&amp;f24_member_id=&amp;ns_linkname=node_5209450&amp;ns_fee=0)
+2. [euronews](http://www.euronews.net/2011/06/15/greece-braced-for-anti-austerity-protest/)
+3. [Sofia Echo](http://www.sofiaecho.com/2011/06/15/1106520_athens-protests-turn-violent-outside-parliament-square)
+4. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jun/15/greece-general-strike-parliament-clashes)
 5. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1626680)
-6. [BBC](http://www.bbc.co.uk/news/world-europe-13773817)
-7. [BBC](http://www.bbc.co.uk/news/world-europe-13773148)
+6. [BBC](http://www.bbc.co.uk/news/world-europe-13773148)
+7. [BBC](http://www.bbc.co.uk/news/world-europe-13773817)
 8. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15154672,00.html)
-9. [euronews](http://www.euronews.net/2011/06/15/greece-braced-for-anti-austerity-protest/)
-10. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/201161572136449774.html)
-11. [Sofia Echo](http://www.sofiaecho.com/2011/06/15/1106520_athens-protests-turn-violent-outside-parliament-square)
-12. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/greek_workers_strike_austerity_measures/24235735.html)
+9. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/201161572136449774.html)
+10. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/greek_workers_strike_austerity_measures/24235735.html)
+11. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-06/15/c_13931590.htm)
+12. [DAWN](http://www.dawn.com/2011/06/15/greek-strikers-turn-out-in-thousands.html)
 
 ### Related:
 

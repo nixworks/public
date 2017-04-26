@@ -7,9 +7,9 @@ Updated story: 9 Hutaree members face federal charges of conspiracy, attempting 
 
 ### Source:
 
-1. [WDIV](http://www.clickondetroit.com/news/22978954/detail.html)
+1. [AnnArbor.com](http://www.annarbor.com/news/fbi-conducts-raids-in-washtenaw-lenawee-counties/)
 2. [AP](http://www.nytimes.com/aponline/2010/03/28/us/politics/AP-US-FBI-Raids-Gun-Charges.html)
-3. [AnnArbor.com](http://www.annarbor.com/news/fbi-conducts-raids-in-washtenaw-lenawee-counties/)
+3. [WDIV](http://www.clickondetroit.com/news/22978954/detail.html)
 
 ### Related:
 

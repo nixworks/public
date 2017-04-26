@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NYT](http://www.nytimes.com/2016/01/22/us/politics/us-tightens-visa-rules-for-some-european-visitors.html?_r=0)
-2. [CNN](http://www.cnn.com/2016/01/21/politics/visa-waiver-program-change-isis-syria/)
-3. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/us-enforcing-new-visa-rules-iran-iraq/27502955.html)
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/us-enforcing-new-visa-rules-iran-iraq/27502955.html)
+2. [NYT](http://www.nytimes.com/2016/01/22/us/politics/us-tightens-visa-rules-for-some-european-visitors.html?_r=0)
+3. [CNN](http://www.cnn.com/2016/01/21/politics/visa-waiver-program-change-isis-syria/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Asian Times](http://atimes.com/2015/12/n-korean-pop-band-cancels-beijing-concert-leaves-for-home/)
-2. [AP via Huffington Post](http://www.huffingtonpost.com/entry/north-korea-girl-band-rumors_566c43f0e4b011b83a6b79f1)
+1. [AP via Huffington Post](http://www.huffingtonpost.com/entry/north-korea-girl-band-rumors_566c43f0e4b011b83a6b79f1)
+2. [Reuters via Asian Times](http://atimes.com/2015/12/n-korean-pop-band-cancels-beijing-concert-leaves-for-home/)
 
 ### Related:
 

@@ -8,18 +8,18 @@
 ### Source:
 
 1. [MSNBC](http://worldblog.msnbc.msn.com/_news/2011/02/04/5990223-report-egyptian-ministers-under-house-arrest-)
-2. [Al Jazeera](http://blogs.aljazeera.net/node/3164)
-3. [Committee to Protect Journalists](http://cpj.org/2011/02/press-attacks-cairo-reporter-dies.php)
-4. [Fox News](http://www.foxnews.com/world/2011/02/04/egypt-vp-targeted-assassination-attempt-killed-bodyguards-sources-tell-fox-news/)
-5. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live)
-6. [AFP via ''The Swedish Wire](http://www.swedishwire.com/component/content/article/2:politics/8388:swedish-reporter-seriously-injured-in-cairo-riots)
-7. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/05/AR2011020500696.html?hpid=topnews)
-8. [a live stream] of events, increases by 2,500 per cent during the past week of its coverage of the events in Egypt, with as much as 60 per cent of this coming from the United States. [http://latimesblogs.latimes.com/babylonbeyond/2011/02/egypt-al-jazeera-official-says-web-traffic-skyrocketed-during-protests.html (''Los Angeles Times](http://english.aljazeera.net/watch_now/)
-9. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-45#block-22)
-10. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/eu-chiefs-condemn-violence-in-egypt/story-e6frg6so-1226000501639)
+2. [AFP via ''The Swedish Wire](http://www.swedishwire.com/component/content/article/2:politics/8388:swedish-reporter-seriously-injured-in-cairo-riots)
+3. [Al Jazeera](http://blogs.aljazeera.net/node/3164)
+4. [CNN](http://www.cnn.com/2011/WORLD/africa/02/04/egypt.protests.scene/index.html?hpt=T1)
+5. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/eu-chiefs-condemn-violence-in-egypt/story-e6frg6so-1226000501639)
+6. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/05/AR2011020500696.html?hpid=topnews)
+7. [Committee to Protect Journalists](http://cpj.org/2011/02/press-attacks-cairo-reporter-dies.php)
+8. [Fox News](http://www.foxnews.com/world/2011/02/04/egypt-vp-targeted-assassination-attempt-killed-bodyguards-sources-tell-fox-news/)
+9. [a live stream] of events, increases by 2,500 per cent during the past week of its coverage of the events in Egypt, with as much as 60 per cent of this coming from the United States. [http://latimesblogs.latimes.com/babylonbeyond/2011/02/egypt-al-jazeera-official-says-web-traffic-skyrocketed-during-protests.html (''Los Angeles Times](http://english.aljazeera.net/watch_now/)
+10. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-45#block-22)
 11. [The Guardian](http://www.guardian.co.uk/media/2011/feb/04/al-jazeera-office-attacked-egypt-protests)
 12. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-49)
-13. [CNN](http://www.cnn.com/2011/WORLD/africa/02/04/egypt.protests.scene/index.html?hpt=T1)
+13. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live)
 14. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-58)
 
 ### Related:

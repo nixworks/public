@@ -7,9 +7,9 @@ At least 67 people were missing after mudslides hit a remote southwest Chinese t
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11008107)
+1. [AP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hSncf1oKclyI8bn9zSW-vQ5CCZOA)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-08/18/content_11171519.htm)
-3. [AP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hSncf1oKclyI8bn9zSW-vQ5CCZOA)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11008107)
 4. [Reuters](http://www.reuters.com/article/idUSTOE67H02M)
 
 ### Related:

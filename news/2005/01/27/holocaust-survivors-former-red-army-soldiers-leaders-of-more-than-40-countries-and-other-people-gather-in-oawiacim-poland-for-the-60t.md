@@ -8,11 +8,11 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4210841.stm)
-2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26381430.htm)
-3. [CBC](http://www.cbc.ca/cp/world/050126/w012642.html)
-4. [Reuters] [http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1106796046722 (Jerusalem Post](http://www.reuters.co.uk/newsArticle.jhtml?type=topNews&storyID=662261)
-5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aZArzrT6Gx2c&refer=europe)
-6. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1470778,00.html)
+2. [Reuters] [http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1106796046722 (Jerusalem Post](http://www.reuters.co.uk/newsArticle.jhtml?type=topNews&storyID=662261)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1470778,00.html)
+4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aZArzrT6Gx2c&refer=europe)
+5. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26381430.htm)
+6. [CBC](http://www.cbc.ca/cp/world/050126/w012642.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Dereck Chisora has his boxing licence withdrawn for his actions before and after
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/boxing/17366033)
-2. [AP via Fox Sports](http://msn.foxsports.com/boxing/story/Dereck-Chisora-loses-British-boxing-license-40243758)
+1. [AP via Fox Sports](http://msn.foxsports.com/boxing/story/Dereck-Chisora-loses-British-boxing-license-40243758)
+2. [BBC](http://www.bbc.co.uk/sport/0/boxing/17366033)
 
 ### Related:
 

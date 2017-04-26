@@ -7,10 +7,10 @@ Death came at express speed to the sleepy station of Sainthia early Monday when 
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107191185349401.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gvNPUEKOTTOI9AumfFfjiEGSlZsQ)
 2. [Times of India](http://timesofindia.indiatimes.com/India/60-dead-90-injured-as-trains-collide-in-West-Bengal/articleshow/6185725.cms)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gvNPUEKOTTOI9AumfFfjiEGSlZsQ)
-4. [BBC](http://www.bbc.co.uk/news/world-south-asia-10679933)
+3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10679933)
+4. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107191185349401.html)
 
 ### Related:
 

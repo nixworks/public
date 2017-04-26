@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hR5yNrCf_J3vwK_xXRBmb56cfkEw)
-2. [CNN](http://www.cnn.com/2011/US/01/02/arkansas.falling.birds/)
+1. [CNN](http://www.cnn.com/2011/US/01/02/arkansas.falling.birds/)
+2. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hR5yNrCf_J3vwK_xXRBmb56cfkEw)
 
 ### Related:
 

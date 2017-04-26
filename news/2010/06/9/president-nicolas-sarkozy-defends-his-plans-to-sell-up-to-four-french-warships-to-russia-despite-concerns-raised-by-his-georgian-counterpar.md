@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [eu-russiacentre](http://www.eu-russiacentre.org/news/france-sticks-russian-warship-deal-concern.html)
-2. [EU Observer](http://euobserver.com/9/30239)
+1. [EU Observer](http://euobserver.com/9/30239)
+2. [eu-russiacentre](http://www.eu-russiacentre.org/news/france-sticks-russian-warship-deal-concern.html)
 
 ### Related:
 

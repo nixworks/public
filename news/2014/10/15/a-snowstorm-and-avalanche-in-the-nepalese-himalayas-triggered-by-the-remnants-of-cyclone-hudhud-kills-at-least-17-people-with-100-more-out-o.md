@@ -7,8 +7,8 @@ The toll from snowstorms and avalanches in Nepal&#039;s Himalayas climbed to 29 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/10/15/us-nepal-hikers-snowfall-idUSKCN0I40U620141015?feedType=RSS&feedName=worldNews)
-2. [AAP via SBS](http://www.sbs.com.au/news/article/2014/10/16/himalayas-snowstorm-kills-17-trek)
+1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/10/16/himalayas-snowstorm-kills-17-trek)
+2. [Reuters](http://www.reuters.com/article/2014/10/15/us-nepal-hikers-snowfall-idUSKCN0I40U620141015?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ITV](http://www.itv.com/news/world_bdfc03ff15f385ea3f6668beeaf13db7.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk/6484279.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/6484279.stm)
+2. [ITV](http://www.itv.com/news/world_bdfc03ff15f385ea3f6668beeaf13db7.html)
 
 ### Related:
 

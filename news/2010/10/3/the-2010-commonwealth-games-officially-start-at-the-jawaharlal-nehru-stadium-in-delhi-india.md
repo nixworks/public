@@ -7,8 +7,8 @@ Prince Charles declares the Commonwealth Games officially open at a colourful ce
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/201010295436167951.html)
-2. [BBC News](http://www.bbc.co.uk/news/world-south-asia-11460568)
+1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-11460568)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/201010295436167951.html)
 
 ### Related:
 

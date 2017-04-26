@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/30/us-europe-migrants-greece-tsipras-idUSKCN0SO11A20151030)
-2. [AP via Huffington Post](http://www.huffingtonpost.com/entry/greece-capsized-boat-kills-22-migrants-in-aegean-sea_56336464e4b063179911ea8e)
+1. [AP via Huffington Post](http://www.huffingtonpost.com/entry/greece-capsized-boat-kills-22-migrants-in-aegean-sea_56336464e4b063179911ea8e)
+2. [Reuters](http://www.reuters.com/article/2015/10/30/us-europe-migrants-greece-tsipras-idUSKCN0SO11A20151030)
 
 ### Related:
 

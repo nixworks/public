@@ -7,8 +7,8 @@ On Tuesday, the Northern Command announced that military sleuths had uncovered a
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/articleshow/1176613.cms)
-2. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Oil+scam%3A+Army+probes+role+of+middlemen&id=76239)
+1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Oil+scam%3A+Army+probes+role+of+middlemen&id=76239)
+2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1176613.cms)
 
 ### Related:
 

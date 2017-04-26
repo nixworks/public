@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/n-korea-dismisses-south-s/637922.html)
-2. [Sahara Samay](http://english.samaylive.com/world-news/676527851/north-korea-rebuffs-talks-as-a-crafty-trick-.html)
-3. [The Guardian](http://www.guardian.co.uk/media/2013/apr/14/bbc-students-undercover-north-korea)
+1. [Sahara Samay](http://english.samaylive.com/world-news/676527851/north-korea-rebuffs-talks-as-a-crafty-trick-.html)
+2. [The Guardian](http://www.guardian.co.uk/media/2013/apr/14/bbc-students-undercover-north-korea)
+3. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/n-korea-dismisses-south-s/637922.html)
 
 ### Related:
 

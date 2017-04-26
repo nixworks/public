@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Inquirer](http://newsinfo.inquirer.net/845662/14-killed-in-operation-vs-abu-sayyaf-in-sulu)
-2. [The New York Times](http://www.nytimes.com/aponline/2016/11/18/world/asia/ap-as-philippines-abu-sayyaf.html?_r=0)
+1. [The New York Times](http://www.nytimes.com/aponline/2016/11/18/world/asia/ap-as-philippines-abu-sayyaf.html?_r=0)
+2. [Inquirer](http://newsinfo.inquirer.net/845662/14-killed-in-operation-vs-abu-sayyaf-in-sulu)
 
 ### Related:
 

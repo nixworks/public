@@ -7,10 +7,10 @@ A knife-wielding man injured 22 children and one adult outside a primary school 
 
 ### Source:
 
-1. [CBC News](http://www.cbc.ca/news/world/story/2012/12/14/china-knife-attack-school.html)
+1. [The Indian Express](http://www.indianexpress.com/news/chinese-man-goes-on-stabbing-spree-at-a-school-22-kids-hurt/1045394/)
 2. [Xinhua](http://news.xinhuanet.com/english/china/2012-12/14/c_132041711.htm)
-3. [The Indian Express](http://www.indianexpress.com/news/chinese-man-goes-on-stabbing-spree-at-a-school-22-kids-hurt/1045394/)
-4. [Sky News](http://news.sky.com/story/1025442/china-children-hurt-in-school-knife-attack)
+3. [Sky News](http://news.sky.com/story/1025442/china-children-hurt-in-school-knife-attack)
+4. [CBC News](http://www.cbc.ca/news/world/story/2012/12/14/china-knife-attack-school.html)
 
 ### Related:
 

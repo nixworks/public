@@ -7,8 +7,8 @@ Caroline Wozniacki became the first Danish tennis player to be crowned world num
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6962W320101007)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/9070895.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/9070895.stm)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6962W320101007)
 
 ### Related:
 

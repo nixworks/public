@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFN3122128320100731)
-2. [The Earth Times](http://www.earthtimes.org/articles/news/337419,tanzania-sites-summary.html)
-3. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/convict-sites-now-world-heritage-listed-20100801-1113q.html)
+1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/convict-sites-now-world-heritage-listed-20100801-1113q.html)
+2. [Reuters](http://af.reuters.com/article/energyOilNews/idAFN3122128320100731)
+3. [The Earth Times](http://www.earthtimes.org/articles/news/337419,tanzania-sites-summary.html)
 
 ### Related:
 

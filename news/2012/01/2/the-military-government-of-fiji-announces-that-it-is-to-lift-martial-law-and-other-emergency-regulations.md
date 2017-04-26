@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i6KLakVE8EURLhwHHiBdYD7Ts-bA?docId=CNG.dd7871b47f818f3295303a270e3b7dc4.11)
-2. [Fiji Times](http://www.fijitimes.com/story.aspx?id=189805)
+1. [Fiji Times](http://www.fijitimes.com/story.aspx?id=189805)
+2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i6KLakVE8EURLhwHHiBdYD7Ts-bA?docId=CNG.dd7871b47f818f3295303a270e3b7dc4.11)
 
 ### Related:
 

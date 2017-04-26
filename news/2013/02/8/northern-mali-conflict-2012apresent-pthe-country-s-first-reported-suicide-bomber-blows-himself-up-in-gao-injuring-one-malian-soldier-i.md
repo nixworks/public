@@ -7,8 +7,8 @@ GAO, Mali (AP) — A suspected al-Qaida-linked militant blew himself up near a m
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-21381379)
-2. [AP via Yahoo News!](http://news.yahoo.com/french-back-mali-town-bomber-attacks-gao-171624775.html)
+1. [AP via Yahoo News!](http://news.yahoo.com/french-back-mali-town-bomber-attacks-gao-171624775.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-21381379)
 
 ### Related:
 

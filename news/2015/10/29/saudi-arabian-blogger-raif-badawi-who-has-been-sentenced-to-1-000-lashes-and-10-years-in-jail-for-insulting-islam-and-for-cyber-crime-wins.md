@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/29/jailed-saudi-blogger-raif-badawi-awarded-rights-prize.html)
-2. [EU](http://www.europarl.europa.eu/news/en/news-room/content/20151023STO99024/html/European-Parliament-awards-Sakharov-Prize-to-Raif-Badawi)
+1. [EU](http://www.europarl.europa.eu/news/en/news-room/content/20151023STO99024/html/European-Parliament-awards-Sakharov-Prize-to-Raif-Badawi)
+2. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/29/jailed-saudi-blogger-raif-badawi-awarded-rights-prize.html)
 3. [Reuters](http://www.reuters.com/article/2015/10/29/us-eu-rights-badawi-idUSKCN0SN1FT20151029)
 
 ### Related:

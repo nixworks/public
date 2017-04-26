@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6980360.ece)
-2. [Malaysia Star](http://www.thestar.com.my/news/story.asp?file=/2010/1/8/nation/20100108115637&sec=nation)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/20101871816435228.html)
+1. [Malaysia Star](http://www.thestar.com.my/news/story.asp?file=/2010/1/8/nation/20100108115637&sec=nation)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/20101871816435228.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6980360.ece)
 
 ### Related:
 

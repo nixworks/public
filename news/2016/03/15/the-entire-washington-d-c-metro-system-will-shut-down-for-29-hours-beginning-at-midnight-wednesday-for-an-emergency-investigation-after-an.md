@@ -7,5 +7,5 @@ Hundreds of thousands of commuters, visitors and residents of Washington, D.C., 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/local/2016/03/15/8e0b2be4-eae8-11e5-b0fd-073d5930a7b7_story.html?hpid=hp_rhp-top-table-high_metro-4pm%3Ahomepage%2Fstory)
-2. [NBC4 Washington](http://www.nbcwashington.com/news/local/metro-shutdown--372144902.html)
+1. [NBC4 Washington](http://www.nbcwashington.com/news/local/metro-shutdown--372144902.html)
+2. [The Washington Post](https://www.washingtonpost.com/local/2016/03/15/8e0b2be4-eae8-11e5-b0fd-073d5930a7b7_story.html?hpid=hp_rhp-top-table-high_metro-4pm%3Ahomepage%2Fstory)

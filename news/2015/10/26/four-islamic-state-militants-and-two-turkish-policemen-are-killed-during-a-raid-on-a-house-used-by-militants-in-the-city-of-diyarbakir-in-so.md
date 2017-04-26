@@ -8,8 +8,8 @@ Turkish media reports say police have raided a house used by Islamic State group
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/049569661f954cfeb08ac3a6e0f6259c/aid-group-100000-newly-displaced-3-weeks-syria)
-2. [AP via Fox News](http://www.foxnews.com/world/2015/10/26/reports-4-islamic-state-militants-2-policemen-killed-in-police-raid-in/)
-3. [Reuters](http://www.reuters.com/article/2015/10/26/mideast-crisis-turkey-syria-idUSL8N12Q07K20151026)
+2. [Reuters](http://www.reuters.com/article/2015/10/26/mideast-crisis-turkey-syria-idUSL8N12Q07K20151026)
+3. [AP via Fox News](http://www.foxnews.com/world/2015/10/26/reports-4-islamic-state-militants-2-policemen-killed-in-police-raid-in/)
 
 ### Related:
 

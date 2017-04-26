@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000102&sid=a6ohRn_QE.gM&refer=uk)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/4324321.stm)
-3. [MarketWatch](http://cbs.marketwatch.com/news/story.asp?guid=%7B9F8DDC5B-F4C7-4190-9CD2-0FB498B21845%7D&siteid=google&dist=google)
+2. [MarketWatch](http://cbs.marketwatch.com/news/story.asp?guid=%7B9F8DDC5B-F4C7-4190-9CD2-0FB498B21845%7D&siteid=google&dist=google)
+3. [BBC](http://news.bbc.co.uk/2/hi/business/4324321.stm)
 
 ### Related:
 

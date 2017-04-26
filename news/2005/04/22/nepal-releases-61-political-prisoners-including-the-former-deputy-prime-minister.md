@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4471545.stm)
-2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/ACIO-6BNQKF?OpenDocument)
-3. [Sify](http://sify.com/news/international/fullstory.php?id=13724215)
-4. [Indian Express](http://www.indianexpress.com/full_story.php?content_id=68890)
+1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/ACIO-6BNQKF?OpenDocument)
+2. [Sify](http://sify.com/news/international/fullstory.php?id=13724215)
+3. [Indian Express](http://www.indianexpress.com/full_story.php?content_id=68890)
+4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4471545.stm)
 
 ### Related:
 

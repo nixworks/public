@@ -7,5 +7,5 @@ The Latest on a wrong-way crash that killed five Vermont high school students (a
 
 ### Source:
 
-1. [The Burlington Free Press](http://www.burlingtonfreepress.com/story/news/local/2016/10/09/accident-closes--89-between-richmond-s-burlington-exits/91818446/)
-2. [AP via Fox News](http://www.foxnews.com/us/2016/10/09/latest-5-killed-in-wrong-way-crash-were-in-high-school.html)
+1. [AP via Fox News](http://www.foxnews.com/us/2016/10/09/latest-5-killed-in-wrong-way-crash-were-in-high-school.html)
+2. [The Burlington Free Press](http://www.burlingtonfreepress.com/story/news/local/2016/10/09/accident-closes--89-between-richmond-s-burlington-exits/91818446/)

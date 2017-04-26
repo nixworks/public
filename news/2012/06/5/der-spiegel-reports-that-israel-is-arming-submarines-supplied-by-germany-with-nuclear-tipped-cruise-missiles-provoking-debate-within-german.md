@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Der Spiegel](http://www.spiegel.de/international/world/german-press-supports-sale-of-submarines-to-israel-a-837093.html)
-2. [PRESS TV](http://presstv.com/detail/2012/06/06/244813/aiding-nuclear-israel-troubles-germany/)
+1. [PRESS TV](http://presstv.com/detail/2012/06/06/244813/aiding-nuclear-israel-troubles-germany/)
+2. [Der Spiegel](http://www.spiegel.de/international/world/german-press-supports-sale-of-submarines-to-israel-a-837093.html)
 
 ### Related:
 

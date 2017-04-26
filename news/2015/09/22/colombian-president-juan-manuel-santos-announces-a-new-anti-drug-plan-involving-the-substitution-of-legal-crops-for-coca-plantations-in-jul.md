@@ -7,8 +7,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Source:
 
-1. [AP via ABC News](http://abcnews.go.com/International/wireStory/colombia-revamps-drug-policy-us-eradication-program-ends-33955811)
-2. [COHA](http://www.coha.org/a-new-challenge-for-the-santos-administration-colombias-end-to-the-aerial-coca-eradication-program/)
+1. [COHA](http://www.coha.org/a-new-challenge-for-the-santos-administration-colombias-end-to-the-aerial-coca-eradication-program/)
+2. [AP via ABC News](http://abcnews.go.com/International/wireStory/colombia-revamps-drug-policy-us-eradication-program-ends-33955811)
 3. [EFE via Fox News Latino](http://latino.foxnews.com/latino/news/2015/09/22/colombia-santos-announces-new-anti-drug-plan/)
 
 ### Related:
@@ -20,6 +20,6 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 5. [Colombian President Juan Manuel Santos signs a decree fully legalizing medical marijuana. Growers must apply to the National Narcotics Council for a license. Earlier, Colombia decriminalized personal possession of up to 20 grams. ](/news/2015/12/22/colombian-president-juan-manuel-santos-signs-a-decree-fully-legalizing-medical-marijuana-growers-must-apply-to-the-national-narcotics-counc.md) _Context: Colombian President, Juan Manuel Santos_
 6. [The President of Colombia Juan Manuel Santos and the leader of FARC Timoleon Jimenez will announce a deal on justice for crimes committed in the fifty-year-long conflict. ](/news/2015/09/23/the-president-of-colombia-juan-manuel-santos-and-the-leader-of-farc-timolea3n-jima-c-nez-will-announce-a-deal-on-justice-for-crimes-committed.md) _Context: Colombian President, Juan Manuel Santos_
 7. [The President of Venezuela Nicolas Maduro and the President of Colombia Juan Manuel Santos agree to gradually reopen their common border which had been closed following a Venezuelan crackdown on smuggling. ](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.md) _Context: Colombian President, Juan Manuel Santos_
-8. [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md) _Context: United States, anti-drug plan_
+8. [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md) _Context: U.S., anti-drug plan_
 9. [Juan Manuel Santos is sworn in for a second term as President of Colombia. ](/news/2014/08/8/juan-manuel-santos-is-sworn-in-for-a-second-term-as-president-of-colombia.md) _Context: Colombian President, Juan Manuel Santos_
-10. [Twenty-three people allegedly linked to the Mexican Los Zetas Cartel are indicted in the US state of Colorado for allegedly trying to smuggle marijuana in the United States. ](/news/2011/07/11/twenty-three-people-allegedly-linked-to-the-mexican-los-zetas-cartel-are-indicted-in-the-us-state-of-colorado-for-allegedly-trying-to-smuggl.md) _Context: United States, anti-drug plan_
+10. [Twenty-three people allegedly linked to the Mexican Los Zetas Cartel are indicted in the US state of Colorado for allegedly trying to smuggle marijuana in the United States. ](/news/2011/07/11/twenty-three-people-allegedly-linked-to-the-mexican-los-zetas-cartel-are-indicted-in-the-us-state-of-colorado-for-allegedly-trying-to-smuggl.md) _Context: U.S., anti-drug plan_

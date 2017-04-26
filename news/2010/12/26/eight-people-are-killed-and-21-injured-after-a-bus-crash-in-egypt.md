@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Eight-US-tourists-killed-in-Egypt-accident/Article1-643027.aspx)
-2. [CBC](http://www.cbc.ca/world/story/2010/12/26/egypt-bus-crash-americans.html)
+1. [CBC](http://www.cbc.ca/world/story/2010/12/26/egypt-bus-crash-americans.html)
+2. [Hindustan Times](http://www.hindustantimes.com/Eight-US-tourists-killed-in-Egypt-accident/Article1-643027.aspx)
 
 ### Related:
 

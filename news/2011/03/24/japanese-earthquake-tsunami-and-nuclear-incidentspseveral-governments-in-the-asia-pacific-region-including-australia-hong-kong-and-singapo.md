@@ -7,12 +7,12 @@ Singapore reports finding low levels of radioactivity in vegetables from Japan a
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-japan-quake-20110324,0,2277742.story)
-2. [NY Times](http://www.nytimes.com/2011/03/25/world/asia/25japan.html?_r=1&hp)
+1. [Yahoo News](http://news.yahoo.com/s/ap/20110324/ap_on_re_as/as_japan_earthquake_toll)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-japan-quake-20110324,0,2277742.story)
 3. [Kyodo](http://english.kyodonews.jp/news/2011/03/80666.html)
-4. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1118568/1/.html)
-5. [BBC](http://www.bbc.co.uk/news/business-12834153)
-6. [Yahoo News](http://news.yahoo.com/s/ap/20110324/ap_on_re_as/as_japan_earthquake_toll)
+4. [NY Times](http://www.nytimes.com/2011/03/25/world/asia/25japan.html?_r=1&hp)
+5. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1118568/1/.html)
+6. [BBC](http://www.bbc.co.uk/news/business-12834153)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS on the 6.3 quake](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007zpal.php)
-2. [The Age](http://www.theage.com.au/news/world/quakes-kill-82-in-indonesia/2007/03/06/1173156488441.html)
+1. [The Age](http://www.theage.com.au/news/world/quakes-kill-82-in-indonesia/2007/03/06/1173156488441.html)
+2. [USGS on the 6.3 quake](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007zpal.php)
 3. [USGS on the 6.4 quake](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007zpah.php)
 
 ### Related:

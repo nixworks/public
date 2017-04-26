@@ -7,8 +7,8 @@ Canada followed the lead of about 30 other countries Tuesday and formally recogn
 
 ### Source:
 
-1. [Ministry of Foreign Affairs of Japan](http://www.mofa.go.jp/announce/announce/2008/3/0318.html)
-2. [CBC](http://www.cbc.ca/world/story/2008/03/18/canada-kosovo.html)
+1. [CBC](http://www.cbc.ca/world/story/2008/03/18/canada-kosovo.html)
+2. [Ministry of Foreign Affairs of Japan](http://www.mofa.go.jp/announce/announce/2008/3/0318.html)
 
 ### Related:
 

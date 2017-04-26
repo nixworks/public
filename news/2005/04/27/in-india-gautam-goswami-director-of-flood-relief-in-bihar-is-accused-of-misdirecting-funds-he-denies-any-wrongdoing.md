@@ -8,9 +8,9 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### Source:
 
 1. [Times of India](http://timesofindia.indiatimes.com/articleshow/1091145.cms)
-2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1088997.cms)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4489411.stm)
-4. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Flood+relief+scam%3A+Buta+clarifies+stand&id=72169)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4489411.stm)
+3. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Flood+relief+scam%3A+Buta+clarifies+stand&id=72169)
+4. [Times of India](http://timesofindia.indiatimes.com/articleshow/1088997.cms)
 
 ### Related:
 

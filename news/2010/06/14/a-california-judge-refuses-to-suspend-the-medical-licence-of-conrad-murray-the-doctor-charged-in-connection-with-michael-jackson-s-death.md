@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [newser](http://www.newser.com/story/92490/michael-jackson-doctor-keeps-license.html)
-2. [AP via LA.com](http://www.la.com/celebrity-gossip/ci_15292885)
+1. [AP via LA.com](http://www.la.com/celebrity-gossip/ci_15292885)
+2. [newser](http://www.newser.com/story/92490/michael-jackson-doctor-keeps-license.html)
 
 ### Related:
 

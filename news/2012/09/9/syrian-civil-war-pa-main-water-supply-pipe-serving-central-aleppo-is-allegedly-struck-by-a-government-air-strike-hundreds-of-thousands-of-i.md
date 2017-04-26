@@ -7,10 +7,10 @@ Battles between the Syrian military and rebels burst a main pipe that delivered 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/09/us-syria-crisis-idUSBRE8860TF20120909)
+1. [AFP via Yahoo! NZ News](http://nz.news.yahoo.com/a/-/world/14793283/battle-rages-in-aleppo-as-russia-urges-syria-unity/)
 2. [AP via CBC](http://www.cbc.ca/news/world/story/2012/07/31/syria-aleppo-clash-731.html)
-3. [AFP via Yahoo! NZ News](http://nz.news.yahoo.com/a/-/world/14793283/battle-rages-in-aleppo-as-russia-urges-syria-unity/)
-4. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/08/c_131836965.htm)
+3. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/08/c_131836965.htm)
+4. [Reuters](http://www.reuters.com/article/2012/09/09/us-syria-crisis-idUSBRE8860TF20120909)
 5. [The New York Times](http://www.nytimes.com/2012/09/09/world/middleeast/syria.html?src=mv&ref=world)
 
 ### Related:

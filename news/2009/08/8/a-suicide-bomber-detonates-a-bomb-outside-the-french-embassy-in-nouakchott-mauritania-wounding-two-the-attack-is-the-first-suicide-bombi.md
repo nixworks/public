@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RFI](http://www.rfi.fr/actuen/articles/116/article_4690.asp)
-2. [France 24](http://www.france24.com/en/20090809-two-wounded-suicide-bombing-outside-french-embassy-)
+1. [France 24](http://www.france24.com/en/20090809-two-wounded-suicide-bombing-outside-french-embassy-)
+2. [RFI](http://www.rfi.fr/actuen/articles/116/article_4690.asp)
 
 ### Related:
 

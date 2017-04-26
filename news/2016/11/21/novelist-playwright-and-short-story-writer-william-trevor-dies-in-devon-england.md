@@ -7,9 +7,9 @@ Writers pay tribute to three-time winner of the Whitbread prize who was ‘at hi
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/books/2016/nov/21/irish-writer-william-trevor-dies-aged-88)
+1. [The New York Times](http://www.nytimes.com/2016/11/21/books/william-trevor-dead.html)
 2. [The Irish Times](http://www.irishtimes.com/culture/books/william-trevor-writers-are-outsiders-with-no-place-in-society-1.2876818)
-3. [The New York Times](http://www.nytimes.com/2016/11/21/books/william-trevor-dead.html)
+3. [The Guardian](https://www.theguardian.com/books/2016/nov/21/irish-writer-william-trevor-dies-aged-88)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Inbee Park set many golfing goals. Etching her name alongside Babe Zaharias was 
 
 ### Source:
 
-1. [AP via ESPN](http://espn.go.com/golf/story/_/id/9438963/kenny-perry-claims-senior-players-first-major-title)
-2. [AP via ESPN](http://espn.go.com/golf/story/_/id/9439470/inbee-park-claims-us-women-open-historic-win)
+1. [AP via ESPN](http://espn.go.com/golf/story/_/id/9439470/inbee-park-claims-us-women-open-historic-win)
+2. [AP via ESPN](http://espn.go.com/golf/story/_/id/9438963/kenny-perry-claims-senior-players-first-major-title)
 
 ### Related:
 

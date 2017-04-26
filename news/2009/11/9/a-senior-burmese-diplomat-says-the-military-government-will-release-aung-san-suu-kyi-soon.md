@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/nov/09/aung-san-suu-kyi-release)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5guSoils3M8NmCUsy6YLOUln-IzyAD9BS1TO00)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5guSoils3M8NmCUsy6YLOUln-IzyAD9BS1TO00)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/nov/09/aung-san-suu-kyi-release)
 
 ### Related:
 

@@ -7,16 +7,16 @@ At least 233 people die in a fire that swept through a nightclub in southern Bra
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-21220308)
-2. [AP](http://bigstory.ap.org/article/more-90-dead-nightclub-fire-brazil)
-3. [Reuters](http://www.reuters.com/article/2013/01/27/us-brazil-nightclub-idUSBRE90Q04T20130127)
-4. [CNN](http://edition.cnn.com/2013/01/27/world/americas/brazil-nightclub-fire)
+1. [AP](http://bigstory.ap.org/article/more-90-dead-nightclub-fire-brazil)
+2. [CNN](http://edition.cnn.com/2013/01/27/world/americas/brazil-nightclub-fire)
+3. [BBC](http://www.bbc.co.uk/news/world-21220308)
+4. [Reuters](http://www.reuters.com/article/2013/01/27/us-brazil-nightclub-idUSBRE90Q04T20130127)
 
 ### Related:
 
 1. [Special services are held in Brazil in memory of the 237 people killed in last week's Kiss nightclub fire in Santa Maria. ](/news/2013/02/3/special-services-are-held-in-brazil-in-memory-of-the-237-people-killed-in-last-week-s-kiss-nightclub-fire-in-santa-maria.md) _Context: Brazil, Kiss nightclub fire, Santa Maria_
 2. [Brazilian police charge 16 people in connection with the Kiss nightclub fire last January including the owner of the club which killed 241 people and injured 168. ](/news/2013/03/23/brazilian-police-charge-16-people-in-connection-with-the-kiss-nightclub-fire-last-january-including-the-owner-of-the-club-which-killed-241-p.md) _Context: Brazil, Kiss nightclub fire_
-3. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-storm-a-security-vault-and-police-headquart.md) _Context: Brazil_
+3. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-criminal-gang-storm-a-security-vault-and-po.md) _Context: Brazil_
 4. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_
 5. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: Brazil_
 6. [Members of the Brazilian Primeiro Comando da Capital prison gang kill 31 inmates in the Monte Cristo prison in the state of Roraima. This action was revenge for an earlier massacre in a prison in Amazonas that killed 56 inmates. ](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-capital-prison-gang-kill-31-inmates-in-the-monte-cristo-prison-in-the-state-of-roraima-this-ac.md) _Context: Brazil_

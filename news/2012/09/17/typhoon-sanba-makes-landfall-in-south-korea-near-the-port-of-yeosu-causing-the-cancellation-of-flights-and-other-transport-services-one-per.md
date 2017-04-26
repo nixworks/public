@@ -7,8 +7,8 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ### Source:
 
-1. [Sky News Australia](http://www.skynews.com.au/world/article.aspx?id=795790)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2012/09/17/73/0302000000AEN20120917002153315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2012/09/17/73/0302000000AEN20120917002153315F.HTML)
+2. [Sky News Australia](http://www.skynews.com.au/world/article.aspx?id=795790)
 
 ### Related:
 

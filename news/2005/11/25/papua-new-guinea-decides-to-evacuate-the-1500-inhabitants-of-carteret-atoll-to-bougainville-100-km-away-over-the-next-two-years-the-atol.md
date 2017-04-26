@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/science/story/0,3605,1650407,00.html)
-2. [Straits Times](http://www.ecologyasia.com/news-archives/2001/dec-01/straitstimes.asia1.com.sg_cybernews_story_0,1870,91530,00.html)
+1. [Straits Times](http://www.ecologyasia.com/news-archives/2001/dec-01/straitstimes.asia1.com.sg_cybernews_story_0,1870,91530,00.html)
+2. [Guardian](http://www.guardian.co.uk/science/story/0,3605,1650407,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4160171.stm)
-2. [AP](http://story.news.yahoo.com/news?tmpl=story&e=1&u=/ap/20050109/ap_on_re_mi_ea/palestinians_poll)
+1. [AP](http://story.news.yahoo.com/news?tmpl=story&e=1&u=/ap/20050109/ap_on_re_mi_ea/palestinians_poll)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4160171.stm)
 
 ### Related:
 

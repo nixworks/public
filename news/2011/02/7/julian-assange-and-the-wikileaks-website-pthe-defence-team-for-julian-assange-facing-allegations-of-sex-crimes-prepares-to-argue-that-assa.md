@@ -7,9 +7,9 @@ LONDON: Julian Assange&#039;s defence team is to argue that he cannot be given a
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/assange-case-focuses-on-question-of-fair-trial-20110206-1aiie.html)
-2. [The Daily Mail](http://www.dailymail.co.uk/news/article-1353989/WikiLeaks-Police-sex-files-Julian-Assange-leaked-online.html)
-3. [The Independent](http://www.independent.co.uk/news/uk/home-news/wikileaks-founder-threatens-to-sue-the-guardian-for-libel-2206330.html)
+1. [The Daily Mail](http://www.dailymail.co.uk/news/article-1353989/WikiLeaks-Police-sex-files-Julian-Assange-leaked-online.html)
+2. [The Independent](http://www.independent.co.uk/news/uk/home-news/wikileaks-founder-threatens-to-sue-the-guardian-for-libel-2206330.html)
+3. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/assange-case-focuses-on-question-of-fair-trial-20110206-1aiie.html)
 
 ### Related:
 

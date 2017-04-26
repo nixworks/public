@@ -7,8 +7,8 @@ BEIRUT - The Islamic State group threatened Britain in an Internet video Sunday 
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/isis-threatens-uk-in-new-execution-video/)
-2. [AFP via ABS-CBN News](http://news.abs-cbn.com/global-filipino/world/01/04/16/is-threatens-britain-in-new-executions-video)
+1. [AFP via ABS-CBN News](http://news.abs-cbn.com/global-filipino/world/01/04/16/is-threatens-britain-in-new-executions-video)
+2. [CBS News](http://www.cbsnews.com/news/isis-threatens-uk-in-new-execution-video/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/libya)
-2. [IOL News](http://www.iol.co.za/news/africa/anton-hammerl-is-dead-family-1.1071364)
+1. [IOL News](http://www.iol.co.za/news/africa/anton-hammerl-is-dead-family-1.1071364)
+2. [Al Jazeera](http://blogs.aljazeera.net/liveblog/libya)
 
 ### Related:
 

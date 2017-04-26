@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/19976781)
-2. [CNN](http://www.cnn.com/2012/10/17/sport/football/england-serbia-racism-football/index.html?hpt=hp_t3)
+1. [CNN](http://www.cnn.com/2012/10/17/sport/football/england-serbia-racism-football/index.html?hpt=hp_t3)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/19976781)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Vatican City, Feb 18, 2016 / 11:00 am (CNA).- In his hour-long inflight news con
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/02/18/health/zika-pope-francis-contraceptives/)
-2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_REL_POPE_ZIKA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [The Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2016/02/17/mexico-confirms-zika-virus-cases-in-pregnant-women-as-pope-francis-exits-the-country/)
-4. [Patheos](http://www.patheos.com/blogs/catholicnews/2016/02/full-text-of-pope-francis-in-flight-interview-from-mexico-to-rome/)
-5. [Katholiek Nieuwsblad](http://www.katholieknieuwsblad.nl/nieuws/wat-zei-de-paus-over-zika-abortus-en-contraceptie)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_REL_POPE_ZIKA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [The Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2016/02/17/mexico-confirms-zika-virus-cases-in-pregnant-women-as-pope-francis-exits-the-country/)
+3. [Patheos](http://www.patheos.com/blogs/catholicnews/2016/02/full-text-of-pope-francis-in-flight-interview-from-mexico-to-rome/)
+4. [Katholiek Nieuwsblad](http://www.katholieknieuwsblad.nl/nieuws/wat-zei-de-paus-over-zika-abortus-en-contraceptie)
+5. [CNN](http://www.cnn.com/2016/02/18/health/zika-pope-francis-contraceptives/)
 
 ### Related:
 

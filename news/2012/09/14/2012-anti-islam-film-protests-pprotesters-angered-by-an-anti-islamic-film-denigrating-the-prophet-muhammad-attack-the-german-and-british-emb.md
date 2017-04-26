@@ -7,15 +7,15 @@ At least seven people are killed as protests against a film which mocks Islam sp
 
 ### Source:
 
-1. [Egypt Independent](http://www.egyptindependent.com/news/man-died-embassy-clashes-uneasy-calm-after-protesters-dispersed)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9544864/Two-killed-in-attack-on-US-base-in-Afghanistan-near-Prince-Harry.html)
 2. [Reuters](http://ca.reuters.com/article/topNews/idCABRE88D0O320120914?pageNumber=2&virtualBrandChannel=0)
-3. [AP via Boston.com](http://www.boston.com/news/nation/washington/2012/09/14/marines-killed-attack-southern-afghanistan/CohO20DBjrx67Sd7R6DMVO/story.html)
-4. [Fox News](http://www.foxnews.com/world/2012/09/14/violent-protests-across-middle-east-target-embassies-pope-visit-to-lebanon/)
-5. [BBC](http://www.bbc.co.uk/news/world-africa-19602177)
-6. [BBC](http://www.bbc.co.uk/news/world-asia-19608561)
-7. [CNN](http://www.cnn.com/2012/09/14/world/africa/libya-us-ambassador-killed/index.html?hpt=hp_t2)
-8. [AP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/us-school-ransacked-set-ablaze-near-us-embassy-in-tunis-as-demonstrations-spread/article4544577)
-9. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9544864/Two-killed-in-attack-on-US-base-in-Afghanistan-near-Prince-Harry.html)
+3. [CNN](http://www.cnn.com/2012/09/14/world/africa/libya-us-ambassador-killed/index.html?hpt=hp_t2)
+4. [AP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/us-school-ransacked-set-ablaze-near-us-embassy-in-tunis-as-demonstrations-spread/article4544577)
+5. [AP via Boston.com](http://www.boston.com/news/nation/washington/2012/09/14/marines-killed-attack-southern-afghanistan/CohO20DBjrx67Sd7R6DMVO/story.html)
+6. [Egypt Independent](http://www.egyptindependent.com/news/man-died-embassy-clashes-uneasy-calm-after-protesters-dispersed)
+7. [BBC](http://www.bbc.co.uk/news/world-africa-19602177)
+8. [BBC](http://www.bbc.co.uk/news/world-asia-19608561)
+9. [Fox News](http://www.foxnews.com/world/2012/09/14/violent-protests-across-middle-east-target-embassies-pope-visit-to-lebanon/)
 
 ### Related:
 

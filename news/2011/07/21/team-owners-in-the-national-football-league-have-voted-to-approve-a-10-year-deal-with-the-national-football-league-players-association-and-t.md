@@ -7,8 +7,8 @@ The league and players are divided over how long it would take the players to re
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/sports/nfl-lockout-owners-poised-to-approve-new-labor-deal-but-new-differences-emerge/2011/07/21/gIQA9IB2RI_story.html)
-2. [AP via ''Atlamta Journal Constitution](http://www.ajc.com/sports/atlanta-falcons/ap-source-nfl-owners-1033816.html)
+1. [AP via ''Atlamta Journal Constitution](http://www.ajc.com/sports/atlanta-falcons/ap-source-nfl-owners-1033816.html)
+2. [Washington Post](http://www.washingtonpost.com/sports/nfl-lockout-owners-poised-to-approve-new-labor-deal-but-new-differences-emerge/2011/07/21/gIQA9IB2RI_story.html)
 
 ### Related:
 

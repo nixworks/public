@@ -7,9 +7,9 @@ Police in China have sent two activists to labor camps and charged a veteran dis
 
 ### Source:
 
-1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/04/14/2003500689)
+1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110413/news_20110413_56_748175.htm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8447908/China-arrests-dissident-as-crackdown-continues.html)
-3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110413/news_20110413_56_748175.htm)
+3. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/04/14/2003500689)
 
 ### Related:
 

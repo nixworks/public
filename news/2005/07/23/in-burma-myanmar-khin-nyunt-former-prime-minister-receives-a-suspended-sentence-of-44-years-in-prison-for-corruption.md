@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Irrawaddy](http://www.irrawaddy.org/aviewer.asp?a=4836&z=153)
-2. [Democratic Voice of Burma](http://english.dvb.no/news.php?id=5207)
+1. [Democratic Voice of Burma](http://english.dvb.no/news.php?id=5207)
+2. [Irrawaddy](http://www.irrawaddy.org/aviewer.asp?a=4836&z=153)
 
 ### Related:
 

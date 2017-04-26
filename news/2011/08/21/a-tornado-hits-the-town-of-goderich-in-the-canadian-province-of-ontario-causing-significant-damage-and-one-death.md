@@ -7,8 +7,8 @@ GODERICH, Ont. &amp;#8212; One person is dead after a powerful tornado struck an
 
 ### Source:
 
-1. [AP via the ''Washington Post](http://www.washingtonpost.com/world/americas/1-dead-as-tornado-devastates-southwestern-ontario-town/2011/08/21/gIQA2bCYVJ_story.html)
-2. [Vancouver Sun](http://www.vancouversun.com/news/Suspected+tornado+tears+through+Ontario+community/5286266/story.html)
+1. [Vancouver Sun](http://www.vancouversun.com/news/Suspected+tornado+tears+through+Ontario+community/5286266/story.html)
+2. [AP via the ''Washington Post](http://www.washingtonpost.com/world/americas/1-dead-as-tornado-devastates-southwestern-ontario-town/2011/08/21/gIQA2bCYVJ_story.html)
 
 ### Related:
 

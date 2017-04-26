@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2008-06/12/content_8350707.htm)
-2. [The International Herald Tribune](http://www.iht.com/articles/ap/2008/06/11/europe/EU-GEN-Greece-Lisbon-Treaty.php)
+1. [The International Herald Tribune](http://www.iht.com/articles/ap/2008/06/11/europe/EU-GEN-Greece-Lisbon-Treaty.php)
+2. [Xinhua](http://news.xinhuanet.com/english/2008-06/12/content_8350707.htm)
 
 ### Related:
 

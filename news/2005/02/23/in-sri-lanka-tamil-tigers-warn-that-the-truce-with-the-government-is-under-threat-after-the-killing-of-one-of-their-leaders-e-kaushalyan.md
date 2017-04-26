@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aDpaq27kxoGY&refer=asia)
-2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/COL74961.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4287661.stm)
+1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/COL74961.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4287661.stm)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aDpaq27kxoGY&refer=asia)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/feb/03/sudan-president-darfur-genocide-charges)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/03/sudan.bashir.genocide/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/03/sudan.bashir.genocide/)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/feb/03/sudan-president-darfur-genocide-charges)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The military is suspending an offensive against rebels as a test in response to 
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/europe/ukraine-declares-one-day-cease-fire-in-east/2014/07/31/6371eb6a-189f-11e4-9349-84d4a85be981_story.html)
-2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/at-least-363-soldiers-killed-in-russias-war-against-ukraine-358839.html)
+1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/at-least-363-soldiers-killed-in-russias-war-against-ukraine-358839.html)
+2. [Washington Post](http://www.washingtonpost.com/world/europe/ukraine-declares-one-day-cease-fire-in-east/2014/07/31/6371eb6a-189f-11e4-9349-84d4a85be981_story.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The National Football League (NFL) season gets underway with a bang on Thursday 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/07/us-nfl-preview-idUSTRE7866ZQ20110907)
-2. [The Sports Network'' via ''The Sacramento Bee](http://www.sacbee.com/2011/09/08/3895692/recap-green-bay-vs-new-orleans.html)
+1. [The Sports Network'' via ''The Sacramento Bee](http://www.sacbee.com/2011/09/08/3895692/recap-green-bay-vs-new-orleans.html)
+2. [Reuters](http://www.reuters.com/article/2011/09/07/us-nfl-preview-idUSTRE7866ZQ20110907)
 
 ### Related:
 

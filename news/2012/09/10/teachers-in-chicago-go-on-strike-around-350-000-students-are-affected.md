@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2012/09/10/us-usa-chicago-schools-idUSBRE8870DL20120910)
-2. [CBS News](http://www.cbsnews.com/8301-201_162-57509202/chicago-teachers-to-go-on-strike/)
-3. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-chicago-public-schools-chicago-teachers-union-contract-talks-strike,0,2062807.story)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-chicago-public-schools-chicago-teachers-union-contract-talks-strike,0,2062807.story)
+3. [CBS News](http://www.cbsnews.com/8301-201_162-57509202/chicago-teachers-to-go-on-strike/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Queensland&#039;s rail safety regulator is investigating this morning&#039;s tra
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/passenger-train-derails-on-cleveland-line-during-morning-commute/story-e6frg6n6-1226565749276)
-2. [ABC News Australia](http://www.abc.net.au/news/2013-01-31/train-crashes-into-cleveland-staion/4493096)
-3. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/qr-left-scratching-its-head-over-train-crash-20130131-2dmd9.html)
+1. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/qr-left-scratching-its-head-over-train-crash-20130131-2dmd9.html)
+2. [The Australian](http://www.theaustralian.com.au/news/passenger-train-derails-on-cleveland-line-during-morning-commute/story-e6frg6n6-1226565749276)
+3. [ABC News Australia](http://www.abc.net.au/news/2013-01-31/train-crashes-into-cleveland-staion/4493096)
 
 ### Related:
 

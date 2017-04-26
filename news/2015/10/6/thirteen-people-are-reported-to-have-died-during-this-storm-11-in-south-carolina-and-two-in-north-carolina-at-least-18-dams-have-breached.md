@@ -7,8 +7,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/10/06/us/south-carolina-flooding/)
-2. [ABC News](http://abcnews.go.com/US/wireStory/sunny-forecast-south-carolina-ordeal-34274872)
+1. [ABC News](http://abcnews.go.com/US/wireStory/sunny-forecast-south-carolina-ordeal-34274872)
+2. [CNN](http://www.cnn.com/2015/10/06/us/south-carolina-flooding/)
 
 ### Related:
 

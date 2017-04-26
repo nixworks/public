@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_410232.html)
-2. [CBS](http://www.cbsnews.com/stories/2009/07/30/ap/europe/main5197267.shtml)
+1. [CBS](http://www.cbsnews.com/stories/2009/07/30/ap/europe/main5197267.shtml)
+2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_410232.html)
 
 ### Related:
 

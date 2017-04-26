@@ -7,8 +7,8 @@ A veteran climber was found dead in the Himalayas today, days after he was injur
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1114/breaking44.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8360519.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8360519.stm)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1114/breaking44.htm)
 
 ### Related:
 

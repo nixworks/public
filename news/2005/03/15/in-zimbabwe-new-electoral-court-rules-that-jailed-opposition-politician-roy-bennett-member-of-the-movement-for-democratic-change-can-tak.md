@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4351491.stm)
-2. [AllAfrica](http://allafrica.com/stories/200503150570.html)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1580604.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1580604.htm)
+3. [AllAfrica](http://allafrica.com/stories/200503150570.html)
 
 ### Related:
 

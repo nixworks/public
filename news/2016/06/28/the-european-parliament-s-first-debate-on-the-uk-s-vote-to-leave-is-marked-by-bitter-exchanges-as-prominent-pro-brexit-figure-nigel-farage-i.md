@@ -7,11 +7,11 @@ Prime minister speaks in Brussels as Osborne rules himself out as successor, and
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-britain-eu-scotland-idUSKCN0ZE1HR)
-2. [BBC](http://www.bbc.com/news/uk-politics-eu-referendum-36648664)
-3. [The Guardian](http://www.theguardian.com/politics/live/2016/jun/28/brexit-live-cameron-eu-leaders-brussels-corbyn-confidence)
-4. [Time](http://time.com/4385307/brexit-nicola-sturgeon-referendum-scotland-martin-schulz-eu/)
-5. [Daily Mail](http://www.dailymail.co.uk/news/article-3663868/Wish-weren-t-Dave-Latest-humiliation-PM-arrives-Brussels-explain-let-Brexit-happen-EU-hastily-runs-Union-flag.html)
+1. [Time](http://time.com/4385307/brexit-nicola-sturgeon-referendum-scotland-martin-schulz-eu/)
+2. [Reuters](http://www.reuters.com/article/us-britain-eu-scotland-idUSKCN0ZE1HR)
+3. [Daily Mail](http://www.dailymail.co.uk/news/article-3663868/Wish-weren-t-Dave-Latest-humiliation-PM-arrives-Brussels-explain-let-Brexit-happen-EU-hastily-runs-Union-flag.html)
+4. [BBC](http://www.bbc.com/news/uk-politics-eu-referendum-36648664)
+5. [The Guardian](http://www.theguardian.com/politics/live/2016/jun/28/brexit-live-cameron-eu-leaders-brussels-corbyn-confidence)
 
 ### Related:
 

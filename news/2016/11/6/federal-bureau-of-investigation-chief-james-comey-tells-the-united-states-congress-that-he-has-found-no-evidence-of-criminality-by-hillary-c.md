@@ -7,8 +7,8 @@ An FBI investigation finds no evidence of criminality in the latest batch of Hil
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/11/06/politics/comey-tells-congress-fbi-has-not-changed-conclusions/index.html)
-2. [BBC](http://www.bbc.com/news/election-us-2016-37892138#)
+1. [BBC](http://www.bbc.com/news/election-us-2016-37892138#)
+2. [CNN](http://www.cnn.com/2016/11/06/politics/comey-tells-congress-fbi-has-not-changed-conclusions/index.html)
 
 ### Related:
 

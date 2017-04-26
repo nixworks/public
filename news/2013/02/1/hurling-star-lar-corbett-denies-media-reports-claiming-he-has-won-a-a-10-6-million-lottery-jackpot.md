@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/sport/gaa/hurling/2013/0201/365632-corbett-not-drawn-on-lotto-speculation/)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0201/breaking23.html)
-3. [Independent](http://www.independent.ie/national-news/hurling-star-lar-corbett-denies-rumours-hes-a-106m-lotto-winner-3371985.html)
+1. [Independent](http://www.independent.ie/national-news/hurling-star-lar-corbett-denies-rumours-hes-a-106m-lotto-winner-3371985.html)
+2. [RTÉ](http://www.rte.ie/sport/gaa/hurling/2013/0201/365632-corbett-not-drawn-on-lotto-speculation/)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0201/breaking23.html)
 
 ### Related:
 

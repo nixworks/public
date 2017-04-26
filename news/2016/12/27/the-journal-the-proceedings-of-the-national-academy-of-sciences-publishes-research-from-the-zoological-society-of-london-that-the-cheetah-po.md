@@ -7,8 +7,8 @@ A new study estimates there are just 7,100 now left in the wild as they face gro
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/science-environment-38415906)
-2. [The Proceeding of the National Academy of Science](http://www.pnas.org/content/early/2016/12/20/1611122114.abstract)
+1. [The Proceeding of the National Academy of Science](http://www.pnas.org/content/early/2016/12/20/1611122114.abstract)
+2. [BBC](http://www.bbc.com/news/science-environment-38415906)
 
 ### Related:
 

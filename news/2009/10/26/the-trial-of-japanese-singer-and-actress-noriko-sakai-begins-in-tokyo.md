@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8326030.stm)
-2. [Japan Today](http://www.japantoday.com/category/crime/view/sakai-admits-to-drug-use-possession-6000-line-up-for-20-gallery-seats)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-10/26/content_12331243.htm)
+1. [Japan Today](http://www.japantoday.com/category/crime/view/sakai-admits-to-drug-use-possession-6000-line-up-for-20-gallery-seats)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-10/26/content_12331243.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8326030.stm)
 
 ### Related:
 

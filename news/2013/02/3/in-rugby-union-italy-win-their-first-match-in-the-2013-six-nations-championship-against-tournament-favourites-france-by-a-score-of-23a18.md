@@ -7,9 +7,9 @@ Italy blow the Six Nations wide open as they win at home to neighbours France fo
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/sport/rugby/six-nations/2013/0203/366021-italy-shock-france-at-stadio-olimpico/)
+1. [BBC](http://www.bbc.co.uk/sport/0/rugby-union/21279519)
 2. [Al Jazeera](http://www.aljazeera.com/sport/rugbyunion/2013/02/201323181139982909.html)
-3. [BBC](http://www.bbc.co.uk/sport/0/rugby-union/21279519)
+3. [RTÉ](http://www.rte.ie/sport/rugby/six-nations/2013/0203/366021-italy-shock-france-at-stadio-olimpico/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Leaving his own employees in the dark, the leader of an award-winning Christian 
 
 ### Source:
 
-1. [Christian Post](http://www.christiantoday.com/article/pentagon.used.christian.aid.group.to.spy.on.north.korea/68848.htm)
+1. [The Intercept](https://theintercept.com/2015/10/26/pentagon-missionary-spies-christian-ngo-front-for-north-korea-espionage/)
 2. [NK News](http://www.nknews.org/2015/10/doubts-surface-about-n-korea-missionary-spies-intel-program/)
-3. [The Intercept](https://theintercept.com/2015/10/26/pentagon-missionary-spies-christian-ngo-front-for-north-korea-espionage/)
+3. [Christian Post](http://www.christiantoday.com/article/pentagon.used.christian.aid.group.to.spy.on.north.korea/68848.htm)
 
 ### Related:
 
@@ -17,7 +17,7 @@ Leaving his own employees in the dark, the leader of an award-winning Christian 
 2. [ The non-governmental organization Freedom House ranks Burma, Cuba, Libya, North Korea, Sudan, Syria, Turkmenistan, and Uzbekistan as the worst violators of human rights. FH also cited Tibet and Chechnya as areas of intense repression. ](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.md) _Context: NGO, North Korea_
 3. [The United States Pacific Command deploys warships, including the USS ''Carl Vinson'', to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north.md) _Context: North Korea_
 4. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea_
-5. [The prime minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/the-prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refus.md) _Context: NGO_
+5. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: NGO_
 6. [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _Context: North Korea_
 7. [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md) _Context: NGO_
 8. [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md) _Context: North Korea_

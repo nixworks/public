@@ -7,9 +7,9 @@ Six New Orleans police officers are charged in connection with an inquiry into t
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/idINIndia-50102020100713)
-2. [CBC News](http://www.cbc.ca/world/story/2010/07/13/katrina-charges-shooting.html?ref=rss)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10623960.stm)
+1. [CBC News](http://www.cbc.ca/world/story/2010/07/13/katrina-charges-shooting.html?ref=rss)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10623960.stm)
+3. [Reuters](http://in.reuters.com/article/idINIndia-50102020100713)
 
 ### Related:
 

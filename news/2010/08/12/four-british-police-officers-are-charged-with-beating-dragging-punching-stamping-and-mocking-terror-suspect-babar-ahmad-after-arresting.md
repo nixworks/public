@@ -7,12 +7,12 @@ Four policemen face prosecution for actual bodily harm on a terror suspect in Lo
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/home-news/police-officers-to-face-trial-for-abuse-of-terror-suspect-2051335.html)
-2. [Wandsworth Guardian](http://www.yourlocalguardian.co.uk/news/local/wandsworthnews/8328114.UPDATE__Tooting_MP_praises_Babar_Ahmad_decision/?ref=rss)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-london-10949216)
+2. [The Independent](http://www.independent.co.uk/news/uk/home-news/police-officers-to-face-trial-for-abuse-of-terror-suspect-2051335.html)
 3. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/12/babar-ahmad-timeline)
-4. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/12/uk.terror.suspect.police/#fbid=EvZM6zDBMdz&wom=false)
-5. [ABC News](http://www.abc.net.au/news/stories/2010/08/13/2981626.htm?section=justin)
-6. [BBC](http://www.bbc.co.uk/news/uk-england-london-10949216)
+4. [Wandsworth Guardian](http://www.yourlocalguardian.co.uk/news/local/wandsworthnews/8328114.UPDATE__Tooting_MP_praises_Babar_Ahmad_decision/?ref=rss)
+5. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/12/uk.terror.suspect.police/#fbid=EvZM6zDBMdz&wom=false)
+6. [ABC News](http://www.abc.net.au/news/stories/2010/08/13/2981626.htm?section=justin)
 
 ### Related:
 

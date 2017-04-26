@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8325377.stm)
-2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10605530)
-3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/south-korean-cloning-scientist-convicted)
+1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10605530)
+2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/south-korean-cloning-scientist-convicted)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8325377.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Fighting continues in Syria as the Arab League meets over the crisis, with the g
 
 ### Source:
 
-1. [SAPA via IOL](http://www.iol.co.za/news/world/syrian-army-storms-central-town-1.1265954)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17541186)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17541186)
+2. [SAPA via IOL](http://www.iol.co.za/news/world/syrian-army-storms-central-town-1.1265954)
 
 ### Related:
 

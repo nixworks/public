@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [International Herald Tribune](http://www.iht.com/articles/2008/06/04/business/03fuel.php)
-2. [BBC News](http://news.bbc.co.uk/2/hi/business/7432754.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/business/7432754.stm)
+2. [International Herald Tribune](http://www.iht.com/articles/2008/06/04/business/03fuel.php)
 
 ### Related:
 

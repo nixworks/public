@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20100505/158881449.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8661816.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8661816.stm)
+2. [RIA Novosti](http://en.rian.ru/russia/20100505/158881449.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ The Queen tells competitors in the Invictus Games she has been &quot;deeply move
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-29191984)
-2. [London Evening Standard](http://www.standard.co.uk/goingout/music/invictus-games-closing-concert-queen-elizabeth-olympic-park--music-review-foo-fighters-frontman-dave-grohl-dedicated-my-hero-to-all-the-heroes-9732799.html)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/live-music-reviews/11095378/Invictus-Games-closing-concert-Olympic-Park-review-heroic-endeavour.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/live-music-reviews/11095378/Invictus-Games-closing-concert-Olympic-Park-review-heroic-endeavour.html)
+3. [London Evening Standard](http://www.standard.co.uk/goingout/music/invictus-games-closing-concert-queen-elizabeth-olympic-park--music-review-foo-fighters-frontman-dave-grohl-dedicated-my-hero-to-all-the-heroes-9732799.html)
 
 ### Related:
 

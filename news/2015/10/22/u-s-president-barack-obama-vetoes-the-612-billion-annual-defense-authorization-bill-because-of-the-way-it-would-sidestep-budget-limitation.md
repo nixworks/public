@@ -7,8 +7,8 @@ President Barack Obama vetoed a sweeping $612 billion defense policy bill on Thu
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/business/economy/president-to-use-veto-for-only-fifth-time-to-reject-defense-authorization-bill/2015/10/22/58a455a6-78d4-11e5-bc80-9091021aeb69_story.html)
-2. [Reuters](http://www.reuters.com/article/2015/10/22/us-usa-fiscal-defense-idUSKCN0SG2LF20151022)
+1. [Reuters](http://www.reuters.com/article/2015/10/22/us-usa-fiscal-defense-idUSKCN0SG2LF20151022)
+2. [Washington Post](http://www.washingtonpost.com/business/economy/president-to-use-veto-for-only-fifth-time-to-reject-defense-authorization-bill/2015/10/22/58a455a6-78d4-11e5-bc80-9091021aeb69_story.html)
 
 ### Related:
 

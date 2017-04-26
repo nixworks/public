@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4935474.stm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300581.html)
-3. [Washington Post/Reuters](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300158.html)
+1. [Washington Post/Reuters](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300158.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4935474.stm)
+3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300581.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-10T220310Z_01_KNE984714_RTRUKOC_0_BOSNIA-SREBRENICA.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4670379.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4670379.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-10T220310Z_01_KNE984714_RTRUKOC_0_BOSNIA-SREBRENICA.xml)
 3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/1DF7683A-4114-4E8E-878E-FAF829504C35.htm)
 
 ### Related:

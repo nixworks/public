@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10537133.stm)
-2. [ESPN](http://soccernet.espn.go.com/worldcup/?null&topId=800552&linktext=Spain+beats+Germany+1-0+to+reach+final&cc=3436&ver=global)
+1. [ESPN](http://soccernet.espn.go.com/worldcup/?null&topId=800552&linktext=Spain+beats+Germany+1-0+to+reach+final&cc=3436&ver=global)
+2. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10537133.stm)
 
 ### Related:
 

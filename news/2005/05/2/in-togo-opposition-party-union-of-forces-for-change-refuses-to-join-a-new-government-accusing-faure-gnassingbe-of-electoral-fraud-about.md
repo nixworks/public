@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [GhanaWeb](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=80506)
-2. [ABC](http://www.abc.net.au/news/newsitems/200505/s1357556.htm)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L01183044.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/africa/4503767.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4503767.stm)
+2. [GhanaWeb](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=80506)
+3. [ABC](http://www.abc.net.au/news/newsitems/200505/s1357556.htm)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L01183044.htm)
 
 ### Related:
 

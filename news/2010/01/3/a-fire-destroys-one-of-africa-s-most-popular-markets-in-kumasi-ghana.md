@@ -7,9 +7,9 @@ Fire gutted a large and popular market in Kumasi, Ghana, known for attracting tr
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8438242.stm)
-2. [UPI](http://www.upi.com/Top_News/International/2010/01/03/Fire-guts-popular-West-African-market/UPI-16751262522673/)
-3. [My Joy Online](http://news.myjoyonline.com/news/201001/40010.asp)
+1. [My Joy Online](http://news.myjoyonline.com/news/201001/40010.asp)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8438242.stm)
+3. [UPI](http://www.upi.com/Top_News/International/2010/01/03/Fire-guts-popular-West-African-market/UPI-16751262522673/)
 
 ### Related:
 

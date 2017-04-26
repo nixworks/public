@@ -7,9 +7,9 @@ Canadian cultural institution hit by strong dollar, global economic slowdown
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/report-on-business/cirque-du-soleil-laying-off-400-employees/article7434220/)
-2. [The Guardian](http://www.guardian.co.uk/stage/2013/jan/16/cirque-du-soleil-jobs-hang-in-air)
-3. [Financial Post](http://business.financialpost.com/2013/01/16/cirque-du-soleil-cuts-400-jobs-as-strong-loonie-and-surging-costs-bite/)
+1. [Financial Post](http://business.financialpost.com/2013/01/16/cirque-du-soleil-cuts-400-jobs-as-strong-loonie-and-surging-costs-bite/)
+2. [The Globe and Mail](http://www.theglobeandmail.com/report-on-business/cirque-du-soleil-laying-off-400-employees/article7434220/)
+3. [The Guardian](http://www.guardian.co.uk/stage/2013/jan/16/cirque-du-soleil-jobs-hang-in-air)
 
 ### Related:
 

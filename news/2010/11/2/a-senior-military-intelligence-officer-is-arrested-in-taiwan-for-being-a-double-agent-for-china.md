@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11673184)
-2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101102/news_20101102_56_709525.htm)
-3. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201011020010&Type=aIPL)
+1. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101102/news_20101102_56_709525.htm)
+2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201011020010&Type=aIPL)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11673184)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/16/c_13693201.htm)
-2. [CNN](http://edition.cnn.com/2011/WORLD/meast/01/16/egypt.death.sentence/)
+1. [CNN](http://edition.cnn.com/2011/WORLD/meast/01/16/egypt.death.sentence/)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/16/c_13693201.htm)
 
 ### Related:
 

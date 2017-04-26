@@ -7,9 +7,9 @@ One man has died from his injuries and two others were injured after being struc
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw.com/en/heidelberg-pedestrians-rammed-by-car-police-shoot-attacker/a-37717837)
-2. [BBC](http://www.bbc.com/news/world-europe-39091858)
-3. [Reuters](http://www.reuters.com/article/us-germany-attack-idUSKBN1640NW)
+1. [Reuters](http://www.reuters.com/article/us-germany-attack-idUSKBN1640NW)
+2. [Deutsche Welle](http://www.dw.com/en/heidelberg-pedestrians-rammed-by-car-police-shoot-attacker/a-37717837)
+3. [BBC](http://www.bbc.com/news/world-europe-39091858)
 
 ### Related:
 

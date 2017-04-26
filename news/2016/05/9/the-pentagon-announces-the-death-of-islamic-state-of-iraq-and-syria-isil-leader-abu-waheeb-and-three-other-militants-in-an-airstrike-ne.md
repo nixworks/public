@@ -8,8 +8,8 @@ A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, i
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-airstrike-idUSKCN0Y02A9)
-2. [AAP via News Limited](http://www.news.com.au/world/breaking-news/car-bomb-in-eastern-iraq-kills-12/news-story/643f57a60df621f4ad7cb52d21298b64)
-3. [FOX News](http://www.foxnews.com/world/2016/05/09/us-airstrike-kills-isis-emir-anbar-province-in-iraq.html)
+2. [FOX News](http://www.foxnews.com/world/2016/05/09/us-airstrike-kills-isis-emir-anbar-province-in-iraq.html)
+3. [AAP via News Limited](http://www.news.com.au/world/breaking-news/car-bomb-in-eastern-iraq-kills-12/news-story/643f57a60df621f4ad7cb52d21298b64)
 
 ### Related:
 

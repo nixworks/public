@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [WRCB](http://www.wrcbtv.com/story/29563843/officer-involved-shooting-at-us-naval-reserve)
-2. [Reuters via MSN](http://www.msn.com/en-us/news/us/chattanooga-shooting-suspect-identified-cbs/ar-AAd3U69)
-3. [CNN](http://www.tennessean.com/story/news/2015/07/16/active-shooter--chattanooga-military-facility/30240535/)
+1. [CNN](http://www.tennessean.com/story/news/2015/07/16/active-shooter--chattanooga-military-facility/30240535/)
+2. [WRCB](http://www.wrcbtv.com/story/29563843/officer-involved-shooting-at-us-naval-reserve)
+3. [Reuters via MSN](http://www.msn.com/en-us/news/us/chattanooga-shooting-suspect-identified-cbs/ar-AAd3U69)
 4. [NBC News](http://www.nbcnews.com/news/us-news/police-officer-shot-tennessee-naval-reserve-center-n393266?cid=eml_nbn_20150716)
 
 ### Related:

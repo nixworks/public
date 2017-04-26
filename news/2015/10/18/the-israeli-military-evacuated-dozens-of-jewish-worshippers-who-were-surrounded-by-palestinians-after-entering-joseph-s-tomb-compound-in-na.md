@@ -8,8 +8,8 @@ A group of ultra-Orthodox Jews attempting to illegally visit a holy site in the 
 ### Source:
 
 1. [New Delhi Television](http://www.ndtv.com/world-news/jews-assaulted-in-illegal-visit-to-west-bank-holy-site-israel-1233546)
-2. [NBC](http://www.nbcnews.com/storyline/middle-east-unrest/push-ease-palestinian-israeli-tensions-secretary-kerry-meet-netanyahu-abbas-n446711)
-3. [AP](http://bigstory.ap.org/article/ecc2c753a5524e809201c3c43d7fbc65/dozens-jews-illegally-enter-torched-west-bank-shrine)
+2. [AP](http://bigstory.ap.org/article/ecc2c753a5524e809201c3c43d7fbc65/dozens-jews-illegally-enter-torched-west-bank-shrine)
+3. [NBC](http://www.nbcnews.com/storyline/middle-east-unrest/push-ease-palestinian-israeli-tensions-secretary-kerry-meet-netanyahu-abbas-n446711)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The dissidents who were marching to demand improved human rights.
 
 ### Source:
 
-1. [Havana Times](http://www.havanatimes.org/?p=117493)
-2. [USA Today](http://www.usatoday.com/story/news/world/2016/03/20/cuba-dissidents-protesters-arrested-president-obama-visit/82048950/)
+1. [USA Today](http://www.usatoday.com/story/news/world/2016/03/20/cuba-dissidents-protesters-arrested-president-obama-visit/82048950/)
+2. [Havana Times](http://www.havanatimes.org/?p=117493)
 3. [Jamaica Observer](http://www.jamaicaobserver.com/news/OBAMA2016-03-20T13-29-54)
 
 ### Related:

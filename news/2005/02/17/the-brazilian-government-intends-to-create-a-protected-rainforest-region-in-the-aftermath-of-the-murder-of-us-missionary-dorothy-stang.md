@@ -7,10 +7,10 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC](http://abcnews.go.com/International/wireStory?id=510411)
+1. [CNN](http://edition.cnn.com/2005/WORLD/americas/02/18/amazon.nun.ap/)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/4275781.stm)
-3. [Reuters](http://www.alertnet.org/thenews/newsdesk/N17258144.htm)
-4. [CNN](http://edition.cnn.com/2005/WORLD/americas/02/18/amazon.nun.ap/)
+3. [ABC](http://abcnews.go.com/International/wireStory?id=510411)
+4. [Reuters](http://www.alertnet.org/thenews/newsdesk/N17258144.htm)
 
 ### Related:
 

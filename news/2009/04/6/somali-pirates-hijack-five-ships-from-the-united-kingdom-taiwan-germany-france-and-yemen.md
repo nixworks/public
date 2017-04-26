@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2009/WORLD/africa/04/06/britain.cargo.ship.seized.somalia/index.html?eref=rss_topstories)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/7985374.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/7985374.stm)
+2. [CNN](http://www.cnn.com/2009/WORLD/africa/04/06/britain.cargo.ship.seized.somalia/index.html?eref=rss_topstories)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [JTA](http://www.jta.org/news/article/2010/09/26/2741044/unhcr-flotilla-report-says-israel-broke-international-law)
-2. [The Jordan Times](http://www.jordantimes.com/?news=30363)
+1. [The Jordan Times](http://www.jordantimes.com/?news=30363)
+2. [JTA](http://www.jta.org/news/article/2010/09/26/2741044/unhcr-flotilla-report-says-israel-broke-international-law)
 
 ### Related:
 

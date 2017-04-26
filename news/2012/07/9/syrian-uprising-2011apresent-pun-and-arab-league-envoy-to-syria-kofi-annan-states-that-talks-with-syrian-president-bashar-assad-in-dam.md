@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al Arabiya](http://english.alarabiya.net/articles/2012/07/09/225391.html)
+1. [Yahoo! News](http://news.yahoo.com/homs-qusayr-battered-31-killed-syria-ngo-160525893.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18764789)
-3. [Yahoo! News](http://news.yahoo.com/homs-qusayr-battered-31-killed-syria-ngo-160525893.html)
+3. [Al Arabiya](http://english.alarabiya.net/articles/2012/07/09/225391.html)
 
 ### Related:
 

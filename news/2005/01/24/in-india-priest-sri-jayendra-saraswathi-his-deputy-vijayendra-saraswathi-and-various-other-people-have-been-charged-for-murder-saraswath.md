@@ -7,8 +7,8 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/template/template.asp?template=Seerarrest&slug=Kanchi+Mutt+awaits+seer's+return&id=67282&callid=1&category=National)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4194291.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4194291.stm)
+2. [NDTV](http://www.ndtv.com/template/template.asp?template=Seerarrest&slug=Kanchi+Mutt+awaits+seer's+return&id=67282&callid=1&category=National)
 
 ### Related:
 

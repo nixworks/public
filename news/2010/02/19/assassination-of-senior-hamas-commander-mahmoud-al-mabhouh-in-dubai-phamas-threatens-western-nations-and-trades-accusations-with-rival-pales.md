@@ -7,9 +7,9 @@ Hamas official warns nations to stay out of Israeli-Palestinian conflict.
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=169100)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8523588.stm)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=169175)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8523588.stm)
+3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=169100)
 
 ### Related:
 

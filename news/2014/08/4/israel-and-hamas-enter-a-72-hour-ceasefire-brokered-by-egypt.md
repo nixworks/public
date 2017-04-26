@@ -7,12 +7,12 @@ Mughrabi and Ori Lewis
 
 ### Source:
 
-1. [AP via ''Buffalo News](http://www.buffalonews.com/associated-press/2014-14-08/Israeli-airstrike-kills-militant-leader-in-Gaza)
-2. [Times Of Israel](http://www.timesofisrael.com/in-tractor-rampage-a-return-to-a-familiar-and-deadly-terror-method/)
+1. [Times of Israel](http://www.timesofisrael.com/israel-hamas-agree-to-egypt-proposal-for-72-hour-truce/)
+2. [AP via ''Buffalo News](http://www.buffalonews.com/associated-press/2014-14-08/Israeli-airstrike-kills-militant-leader-in-Gaza)
 3. [NBC News](http://www.nbcnews.com/storyline/middle-east-unrest/israel-withdraws-most-troops-gaza-u-s-condemns-airstrike-n171611)
 4. [Human Rights Watch](http://www.hrw.org/news/2014/08/04/gaza-israeli-soldiers-shoot-and-kill-fleeing-civilians)
 5. [Reuters](http://www.reuters.com/article/2014/08/04/us-mideast-gaza-idUSKBN0G008720140804)
-6. [Times of Israel](http://www.timesofisrael.com/israel-hamas-agree-to-egypt-proposal-for-72-hour-truce/)
+6. [Times Of Israel](http://www.timesofisrael.com/in-tractor-rampage-a-return-to-a-familiar-and-deadly-terror-method/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A Hague-based arbitration panel rules that it can hear a case brought by the Phi
 
 ### Source:
 
-1. [The Diplomat](http://thediplomat.com/2015/10/philippines-v-china-court-rules-favorably-on-jurisdiction-case-will-proceed/)
-2. [BBC News](http://www.bbc.com/news/world-asia-34671504)
+1. [BBC News](http://www.bbc.com/news/world-asia-34671504)
+2. [The Diplomat](http://thediplomat.com/2015/10/philippines-v-china-court-rules-favorably-on-jurisdiction-case-will-proceed/)
 
 ### Related:
 

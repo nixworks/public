@@ -7,8 +7,8 @@ The weather bureau is using satellite imagery to monitor another dust storm whic
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aJU3acHEACb8)
-2. [ABC News](http://www.abc.net.au/news/stories/2009/09/26/2697277.htm?section=justin)
+1. [ABC News](http://www.abc.net.au/news/stories/2009/09/26/2697277.htm?section=justin)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aJU3acHEACb8)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-09/26/content_12114515.htm)
 
 ### Related:

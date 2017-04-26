@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-10693215)
-2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201072019435821318.html)
-3. [Samaylive News](http://english.samaylive.com/world/676468817.html)
+2. [Samaylive News](http://english.samaylive.com/world/676468817.html)
+3. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201072019435821318.html)
 
 ### Related:
 

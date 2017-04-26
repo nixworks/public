@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-12-20T204037Z_01_L20540919_RTRUKOC_0_US-SOMALIA-CONFLICT.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/6195863.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/6195863.stm)
+2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-12-20T204037Z_01_L20540919_RTRUKOC_0_US-SOMALIA-CONFLICT.xml)
 
 ### Related:
 

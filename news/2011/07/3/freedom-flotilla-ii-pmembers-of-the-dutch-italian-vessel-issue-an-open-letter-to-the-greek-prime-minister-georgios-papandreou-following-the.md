@@ -7,11 +7,11 @@ Pro-Palestinian activists have their sights set on sailing to Gaza, despite Gree
 
 ### Source:
 
-1. [Toronto Star](http://www.thestar.com/news/world/article/1018707--ships-ready-to-leave-greece-on-monday?bn=1)
-2. [ABC News](http://www.abc.net.au/news/stories/2011/07/04/3259958.htm)
+1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/7/3/nation/9023408&sec=nation)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8614090/Israel-claims-diplomatic-victory-as-Greece-stops-Gaza-flotilla.html)
 3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201173115538534109.html)
-4. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/7/3/nation/9023408&sec=nation)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8614090/Israel-claims-diplomatic-victory-as-Greece-stops-Gaza-flotilla.html)
+4. [ABC News](http://www.abc.net.au/news/stories/2011/07/04/3259958.htm)
+5. [Toronto Star](http://www.thestar.com/news/world/article/1018707--ships-ready-to-leave-greece-on-monday?bn=1)
 
 ### Related:
 

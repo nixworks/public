@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050412195521&irec=0)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aZRA1w19c.2w&refer=asia)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4437685.stm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aZRA1w19c.2w&refer=asia)
+3. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050412195521&irec=0)
 
 ### Related:
 

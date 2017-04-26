@@ -8,8 +8,8 @@ Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201068144658312157.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/finance/2010/0609/1224272117175.html)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/08/jerome-kerviel-trial-societe-generale)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/08/jerome-kerviel-trial-societe-generale)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/finance/2010/0609/1224272117175.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Typhoon Fanapi punished Taiwan with 125 mph winds Sunday, downing trees and powe
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2010/09/19/Typhoon-Fanapi-lashes-Taiwan/UPI-35521284870548/)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-09-19/china-steps-up-emergency-response-for-typhoon-fanapi-as-storm-nears-coast.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-09-19/china-steps-up-emergency-response-for-typhoon-fanapi-as-storm-nears-coast.html)
+2. [UPI](http://www.upi.com/Top_News/World-News/2010/09/19/Typhoon-Fanapi-lashes-Taiwan/UPI-35521284870548/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Relatives and friends attend a mass funeral for the 38 people killed when a coac
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/07/30/world/europe/italy-bus-crash-funeral/index.html?hpt=wo_c2)
-2. [BBC News](http://www.bbc.co.uk/news/world-europe-23501313)
+1. [BBC News](http://www.bbc.co.uk/news/world-europe-23501313)
+2. [CNN](http://www.cnn.com/2013/07/30/world/europe/italy-bus-crash-funeral/index.html?hpt=wo_c2)
 
 ### Related:
 

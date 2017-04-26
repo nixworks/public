@@ -7,8 +7,8 @@ Gunmen from Islamist group Boko Haram shot or burned to death 59 pupils in a boa
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1217121/sleeping-students-killed-by-boko-haram)
-2. [Reuters](http://uk.reuters.com/article/2014/02/25/uk-nigeria-violence-idUKBREA1O1IO20140225)
+1. [Reuters](http://uk.reuters.com/article/2014/02/25/uk-nigeria-violence-idUKBREA1O1IO20140225)
+2. [Sky News](http://news.sky.com/story/1217121/sleeping-students-killed-by-boko-haram)
 
 ### Related:
 

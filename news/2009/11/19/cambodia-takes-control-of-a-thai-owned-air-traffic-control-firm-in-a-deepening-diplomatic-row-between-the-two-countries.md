@@ -7,9 +7,9 @@ Thai nationals working for a Cambodian air traffic control firm were suspended a
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8367650.stm)
-2. [UPI](http://www.upi.com/Top_News/International/2009/11/19/Thai-employees-ousted-at-firm-in-Cambodia/UPI-25141258634245/)
-3. [Thai News Agency](http://enews.mcot.net/view.php?id=12864)
+1. [UPI](http://www.upi.com/Top_News/International/2009/11/19/Thai-employees-ousted-at-firm-in-Cambodia/UPI-25141258634245/)
+2. [Thai News Agency](http://enews.mcot.net/view.php?id=12864)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8367650.stm)
 
 ### Related:
 

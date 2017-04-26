@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22684948)
-2. [CNN](http://www.cnn.com/2013/05/27/world/meast/syria-civil-war/index.html?hpt=hp_t1)
+1. [CNN](http://www.cnn.com/2013/05/27/world/meast/syria-civil-war/index.html?hpt=hp_t1)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22684948)
 
 ### Related:
 

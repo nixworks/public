@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jakarta Globe](http://thejakartaglobe.com/home/thousands-trapped-under-rubble-in-indonesia-after-sumatra-earthquake-official/332769)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58T39720090930)
+1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58T39720090930)
+2. [Jakarta Globe](http://thejakartaglobe.com/home/thousands-trapped-under-rubble-in-indonesia-after-sumatra-earthquake-official/332769)
 3. [The Guardian](http://www.guardian.co.uk/world/2009/sep/30/indonesia-earthquake-padang)
 
 ### Related:

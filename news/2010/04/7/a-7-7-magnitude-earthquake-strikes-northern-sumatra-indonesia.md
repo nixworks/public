@@ -7,8 +7,8 @@ Magnitude 7.7 quake strikes off coast of Aceh, triggering tsunami alert that is 
 
 ### Source:
 
-1. [ (CNN](http://news.blogs.cnn.com/2010/04/06/usgs-earthquake-strikes-northern-sumatra/?hpt=T2)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201046223740492250.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201046223740492250.html)
+2. [ (CNN](http://news.blogs.cnn.com/2010/04/06/usgs-earthquake-strikes-northern-sumatra/?hpt=T2)
 
 ### Related:
 

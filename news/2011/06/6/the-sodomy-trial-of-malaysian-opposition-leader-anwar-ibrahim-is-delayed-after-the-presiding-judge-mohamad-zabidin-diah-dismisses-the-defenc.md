@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=591842)
-2. [AP via MSNBC](http://www.msnbc.msn.com/id/43290355)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/43290355)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=591842)
 
 ### Related:
 

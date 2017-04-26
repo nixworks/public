@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/4377805.stm)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-24T085536Z_01_DEN432021_RTRUKOC_0_SUDAN-UN.xml)
-3. [EUObserver](http://www.euobserver.com/?sid=9&aid=18739)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-24T085536Z_01_DEN432021_RTRUKOC_0_SUDAN-UN.xml)
+2. [EUObserver](http://www.euobserver.com/?sid=9&aid=18739)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/4377805.stm)
 
 ### Related:
 

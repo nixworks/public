@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap News](http://english.yonhapnews.co.kr/national/2011/08/10/17/0301000000AEN20110810000900315F.HTML)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-08-10/south-korea-fires-artillery-off-yeonpyeong-after-hearing-shells-from-north.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-08-10/south-korea-fires-artillery-off-yeonpyeong-after-hearing-shells-from-north.html)
+2. [Yonhap News](http://english.yonhapnews.co.kr/national/2011/08/10/17/0301000000AEN20110810000900315F.HTML)
 
 ### Related:
 

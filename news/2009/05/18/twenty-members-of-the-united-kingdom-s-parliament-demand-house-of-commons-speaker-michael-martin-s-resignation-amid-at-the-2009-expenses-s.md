@@ -7,8 +7,8 @@ Michael Martin, the Commons Speaker, has apologised for his role in the MPs&#039
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8054657.stm)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/mps-expenses/5344495/Speaker-Michael-Martin-sorry-but-refuses-to-resign.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/mps-expenses/5344495/Speaker-Michael-Martin-sorry-but-refuses-to-resign.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8054657.stm)
 
 ### Related:
 

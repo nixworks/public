@@ -8,8 +8,8 @@
 ### Source:
 
 1. [WHO](http://www.who.int/mediacentre/news/releases/2010/polio_20101026/en/)
-2. [VOA](http://www.voanews.com/english/news/africa/WHO-Africa-Launch-Polio-Vaccination-Campaign-105795793.html)
-3. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5hzk6Zz2x15ZEoSvnDDJRXSqVYfsA?docId=4940949)
+2. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5hzk6Zz2x15ZEoSvnDDJRXSqVYfsA?docId=4940949)
+3. [VOA](http://www.voanews.com/english/news/africa/WHO-Africa-Launch-Polio-Vaccination-Campaign-105795793.html)
 
 ### Related:
 

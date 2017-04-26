@@ -8,8 +8,8 @@ A suicide bomber targets a Kabul auditorium packed with people watching a drama 
 ### Source:
 
 1. [New York Daily News](http://www.nydailynews.com/news/world/u-s-closes-afghan-bagram-prison-no-detainees-held-article-1.2042422)
-2. [AFP via France 24](http://www.france24.com/en/20141211-taliban-suicide-blast-kills-six-afghan-soldiers-kabul/?aef_campaign_date=2014-12-11&aef_campaign_ref=partage_aef&ns_campaign=reseaux_sociaux&ns_linkname=editorial&ns_mchannel=social&ns_source=twitter#?aef_campaign_date=2014-12-11&aef_campaign_ref=partage_aef&ns_campaign=reseaux_sociaux&ns_linkname=editorial&ns_mchannel=social&ns_source=twitter&_suid=141827533791008981681490221784)
-3. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2014-12-12/afghanistan-suicide-bomber-kabul-france-condemns/5962130)
+2. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2014-12-12/afghanistan-suicide-bomber-kabul-france-condemns/5962130)
+3. [AFP via France 24](http://www.france24.com/en/20141211-taliban-suicide-blast-kills-six-afghan-soldiers-kabul/?aef_campaign_date=2014-12-11&aef_campaign_ref=partage_aef&ns_campaign=reseaux_sociaux&ns_linkname=editorial&ns_mchannel=social&ns_source=twitter#?aef_campaign_date=2014-12-11&aef_campaign_ref=partage_aef&ns_campaign=reseaux_sociaux&ns_linkname=editorial&ns_mchannel=social&ns_source=twitter&_suid=141827533791008981681490221784)
 
 ### Related:
 

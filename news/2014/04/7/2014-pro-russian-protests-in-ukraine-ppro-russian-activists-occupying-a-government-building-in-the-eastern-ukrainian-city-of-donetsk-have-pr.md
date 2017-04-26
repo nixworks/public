@@ -8,9 +8,9 @@ Russian soldier shoots dead naval officer in Crimea, defence ministry says
 ### Source:
 
 1. [The Guardian](http://www.theguardian.com/world/2014/apr/07/ukraine-officer-shot-dead-russian-soldier-crimea)
-2. [BBC](http://www.bbc.com/news/world-europe-26917428#)
+2. [The Irish Times](http://www.irishtimes.com/news/world/europe/pro-moscow-activists-proclaim-ukraine-city-donetsk-people-s-republic-1.1752937)
 3. [CNN](http://edition.cnn.com/2014/04/08/world/europe/ukraine-crisis/index.html?eref=edition)
-4. [The Irish Times](http://www.irishtimes.com/news/world/europe/pro-moscow-activists-proclaim-ukraine-city-donetsk-people-s-republic-1.1752937)
+4. [BBC](http://www.bbc.com/news/world-europe-26917428#)
 
 ### Related:
 

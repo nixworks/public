@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Time Magazine](http://battleland.blogs.time.com/2011/06/13/haunted-by-homicide-federal-grand-jury-investigates-war-crimes-and-torture-in-death-of-the-ice-man-at-abu-ghraib-and-other-alleged-cia-abuses/)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110614/wl_afp/iraqunrestbaqubatoll)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110614/wl_afp/iraqunrestbaqubatoll)
+2. [Time Magazine](http://battleland.blogs.time.com/2011/06/13/haunted-by-homicide-federal-grand-jury-investigates-war-crimes-and-torture-in-death-of-the-ice-man-at-abu-ghraib-and-other-alleged-cia-abuses/)
 
 ### Related:
 

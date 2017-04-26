@@ -7,8 +7,8 @@ London mayor throws weight behind challenger Owen Smith, after condemning party 
 
 ### Source:
 
-1. [The Observer'' via The Guardian](http://www.theguardian.com/politics/2016/aug/20/ditch-jeremy-corbyn-before-too-late-sadiq-khan-tells-labour)
-2. [Reuters](http://in.reuters.com/article/britain-labour-idINKCN10W04A)
+1. [Reuters](http://in.reuters.com/article/britain-labour-idINKCN10W04A)
+2. [The Observer'' via The Guardian](http://www.theguardian.com/politics/2016/aug/20/ditch-jeremy-corbyn-before-too-late-sadiq-khan-tells-labour)
 
 ### Related:
 

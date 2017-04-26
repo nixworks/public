@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/national/2-israelis-wounded-in-second-west-bank-shooting-attack-in-two-days-1.311583)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/09/201091212849992438.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/09/201091212849992438.html)
+2. [Haaretz](http://www.haaretz.com/news/national/2-israelis-wounded-in-second-west-bank-shooting-attack-in-two-days-1.311583)
 
 ### Related:
 

@@ -16,7 +16,7 @@ _Context: George Zimmer, Men's Wearhouse_
 Following the latest updates from Uttarakhand, where relief and rescue operators are battling bad weather to save thousands of stranded pilgrims.
 
 ### [A gold mine collapses in the Central African Republic killing at least 37 people. ](/news/2013/06/25/a-gold-mine-collapses-in-the-central-african-republic-killing-at-least-37-people.md)
-_Context: Central-African_
+_Context: Central African Republic_
 
 ### [South Korea issues a cyber alert after a hacking attack on a number of Government websites including the  presidential Blue House site. ](/news/2013/06/25/south-korea-issues-a-cyber-alert-after-a-hacking-attack-on-a-number-of-government-websites-including-the-presidential-blue-house-site.md)
 South Korea issued a cyber attack alert on Tuesday after hackers apparently penetrated a number of official websites, including the presidential Blue House, the science ministry said.

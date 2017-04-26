@@ -7,9 +7,9 @@ Air force hits concealed rocket launchers hours after projectiles from the Strip
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/breaking-news/iraq-bombings-kill-14-police/story-fn3dxix6-1226697502604)
-2. [The Times of Israel](http://www.timesofisrael.com/idf-launches-airstrike-after-gaza-rockets-target-israel/)
-3. [International Business Times](http://www.ibtimes.co.uk/articles/498902/20130814/israel-airstrike-gaza-palestine-peace-talks-idf.htm)
+1. [International Business Times](http://www.ibtimes.co.uk/articles/498902/20130814/israel-airstrike-gaza-palestine-peace-talks-idf.htm)
+2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/iraq-bombings-kill-14-police/story-fn3dxix6-1226697502604)
+3. [The Times of Israel](http://www.timesofisrael.com/idf-launches-airstrike-after-gaza-rockets-target-israel/)
 
 ### Related:
 

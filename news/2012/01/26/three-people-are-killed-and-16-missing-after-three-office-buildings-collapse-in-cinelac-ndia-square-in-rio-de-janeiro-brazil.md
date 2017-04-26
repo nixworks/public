@@ -8,10 +8,10 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16735556)
-2. [Washington Post](http://www.washingtonpost.com/world/several-bodies-found-in-rio-building-collapses-101/2012/01/26/gIQAZ4rfTQ_video.html)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204573704577184644206969890.html)
 3. [IOL](http://www.iol.co.za/news/world/3-dead-as-rio-buildings-collapse-1.1221247)
-4. [USA Today](http://www.usatoday.com/news/world/story/2012-01-26/brazil-building-collapse/52799876/1)
-5. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204573704577184644206969890.html)
+4. [Washington Post](http://www.washingtonpost.com/world/several-bodies-found-in-rio-building-collapses-101/2012/01/26/gIQAZ4rfTQ_video.html)
+5. [USA Today](http://www.usatoday.com/news/world/story/2012-01-26/brazil-building-collapse/52799876/1)
 
 ### Related:
 

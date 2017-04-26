@@ -7,8 +7,8 @@ Officials in Sierra Leone ask for the return of diamonds allegedly given by Char
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-10968992)
-2. [Montreal Gazette](http://www.montrealgazette.com/news/Sierra+Leone+wants+Naomi+Campbell+blood+diamonds+back/3391405/story.html)
+1. [Montreal Gazette](http://www.montrealgazette.com/news/Sierra+Leone+wants+Naomi+Campbell+blood+diamonds+back/3391405/story.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-10968992)
 
 ### Related:
 

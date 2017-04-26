@@ -7,8 +7,8 @@ Police in El Salvador find a barrel containing more than $9m of suspected drug m
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hAVZ0K7PYVZ8n6Vq8MrsMDIvIsrwD9I1E2DG1)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11193687)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11193687)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hAVZ0K7PYVZ8n6Vq8MrsMDIvIsrwD9I1E2DG1)
 
 ### Related:
 

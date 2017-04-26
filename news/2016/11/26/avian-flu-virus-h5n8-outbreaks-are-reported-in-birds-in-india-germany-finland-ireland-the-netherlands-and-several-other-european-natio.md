@@ -7,12 +7,12 @@ India has reported an outbreak of a highly contagious bird flu virus in the sout
 
 ### Source:
 
-1. [Business Insider](http://www.businessinsider.com/r-finland-confirms-h5n8-bird-flu-found-in-aland-islands-2016-11)
-2. [WHO](http://www.who.int/influenza/human_animal_interface/avian_influenza/riskassessment_AH5N8_201611/en/)
-3. [Reuters](http://www.reuters.com/article/us-health-birdflu-india-idUSKBN13K1U9)
-4. [The New York Times](http://www.nytimes.com/aponline/2016/11/25/world/europe/ap-eu-germany-bird-flu.html?_r=0)
-5. [Agriland](http://www.agriland.ie/farming-news/over-215000-birds-destroyed-due-to-bird-flu-outbreaks-across-europe/#)
-6. [Phys.org](http://phys.org/news/2016-11-sweden-slaughters-hens-bird-flu.html)
+1. [The New York Times](http://www.nytimes.com/aponline/2016/11/25/world/europe/ap-eu-germany-bird-flu.html?_r=0)
+2. [Phys.org](http://phys.org/news/2016-11-sweden-slaughters-hens-bird-flu.html)
+3. [Business Insider](http://www.businessinsider.com/r-finland-confirms-h5n8-bird-flu-found-in-aland-islands-2016-11)
+4. [Agriland](http://www.agriland.ie/farming-news/over-215000-birds-destroyed-due-to-bird-flu-outbreaks-across-europe/#)
+5. [Reuters](http://www.reuters.com/article/us-health-birdflu-india-idUSKBN13K1U9)
+6. [WHO](http://www.who.int/influenza/human_animal_interface/avian_influenza/riskassessment_AH5N8_201611/en/)
 
 ### Related:
 

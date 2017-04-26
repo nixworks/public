@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Toronto Star](http://www.thestar.com/news/canada/article/847500--rcmp-returns-after-boarding-tamil-ship?bn=1)
-2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201081313474239755.html)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201081313474239755.html)
+2. [CTV](http://www.ctv.ca/CTVNews/TopStories/20100813/tamil-ship-arrives-100813/)
 3. [CBC](http://www.cbc.ca/canada/british-columbia/story/2010/08/13/bc-tamil-ship-migrants-esquimalt.html)
-4. [CTV](http://www.ctv.ca/CTVNews/TopStories/20100813/tamil-ship-arrives-100813/)
+4. [Toronto Star](http://www.thestar.com/news/canada/article/847500--rcmp-returns-after-boarding-tamil-ship?bn=1)
 
 ### Related:
 

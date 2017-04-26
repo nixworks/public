@@ -7,9 +7,9 @@ It&#39;s unclear whether he knew of Trump&#39;s latest attacks when issuing the 
 
 ### Source:
 
-1. [Court Order](http://www.politico.com/f/?id=00000154-f8b3-da5b-afd4-fbb33c940001)
-2. [Politico](http://www.politico.com/blogs/under-the-radar/2016/05/donald-trump-university-judge-unseals-files-223687)
-3. [The Washington Post](https://www.washingtonpost.com/politics/judge-orders-release-of-internal-trump-university-documents/2016/05/28/2e960e5e-24f9-11e6-8690-f14ca9de2972_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/politics/judge-orders-release-of-internal-trump-university-documents/2016/05/28/2e960e5e-24f9-11e6-8690-f14ca9de2972_story.html)
+2. [Court Order](http://www.politico.com/f/?id=00000154-f8b3-da5b-afd4-fbb33c940001)
+3. [Politico](http://www.politico.com/blogs/under-the-radar/2016/05/donald-trump-university-judge-unseals-files-223687)
 4. [UPI](http://www.upi.com/Top_News/US/2016/05/28/Trump-trashes-Mexican-judge-in-Trump-U-civil-trial/7441464457911/?spt=hs&or=tn_us)
 
 ### Related:

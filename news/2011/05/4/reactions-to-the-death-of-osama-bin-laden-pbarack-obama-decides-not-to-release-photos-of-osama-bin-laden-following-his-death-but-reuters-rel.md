@@ -7,11 +7,11 @@ An official from a radical Palestinian Islamist party has used Islam&#039;s thir
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8492426/Osama-bin-Laden-dead-Palestinian-radical-denounces-dog-Barack-Obama.html)
-2. [CNN](http://www.cnn.com/2011/POLITICS/05/04/bin.laden.photo.release/index.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8492345/Uzbekistan-fails-to-report-the-story-of-the-decade.html)
+2. [CBS News](http://www.cbsnews.com/8301-503544_162-20059739-503544.html?tag=contentMain;contentBody)
 3. [The Guardian](http://www.guardian.co.uk/world/gallery/2011/may/04/osama-bin-laden-compound)
-4. [CBS News](http://www.cbsnews.com/8301-503544_162-20059739-503544.html?tag=contentMain;contentBody)
-5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8492345/Uzbekistan-fails-to-report-the-story-of-the-decade.html)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/al-qaeda/8492426/Osama-bin-Laden-dead-Palestinian-radical-denounces-dog-Barack-Obama.html)
+5. [CNN](http://www.cnn.com/2011/POLITICS/05/04/bin.laden.photo.release/index.html)
 
 ### Related:
 

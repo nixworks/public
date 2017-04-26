@@ -9,8 +9,8 @@ The Supreme Court has ruled the gay friend of a lesbian couple who donated his s
 
 1. [RTÉ](http://www.rte.ie/news/2009/1210/guardianship.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1210/breaking13.htm)
-3. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/rights-group-expresses-concern-over-supreme-court-ruling-437783.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8406203.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8406203.stm)
+4. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/rights-group-expresses-concern-over-supreme-court-ruling-437783.html)
 
 ### Related:
 

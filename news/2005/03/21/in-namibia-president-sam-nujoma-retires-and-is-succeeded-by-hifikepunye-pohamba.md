@@ -7,12 +7,12 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aj8V3EHtH_LY&refer=top_world_news)
-2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1679289,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4367015.stm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7956341)
 3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:423d6e5b:f456dbbb13f0485e?type=topNews&localeKey=en_ZA&storyID=7952122)
 4. [AllAfrica](http://allafrica.com/stories/200503180690.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/americas/4367015.stm)
-6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7956341)
+5. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1679289,00.html)
+6. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aj8V3EHtH_LY&refer=top_world_news)
 
 ### Related:
 

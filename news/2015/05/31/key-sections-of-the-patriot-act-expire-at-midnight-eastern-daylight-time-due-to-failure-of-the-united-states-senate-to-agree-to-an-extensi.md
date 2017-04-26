@@ -7,8 +7,8 @@ WASHINGTON — Key sections of the Patriot Act anti-terrorism law will expire at
 
 ### Source:
 
-1. [Time](http://time.com/3902493/patriot-act-vote/)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2015/05/31/nsa-cia-data-collection/28259481/)
+1. [USA Today](http://www.usatoday.com/story/news/nation/2015/05/31/nsa-cia-data-collection/28259481/)
+2. [Time](http://time.com/3902493/patriot-act-vote/)
 
 ### Related:
 

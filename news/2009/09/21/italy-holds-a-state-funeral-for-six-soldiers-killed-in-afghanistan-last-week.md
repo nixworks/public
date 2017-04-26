@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Adnkronos](http://www.adnkronos.com/AKI/English/Security/?id=3.0.3794455127)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gSM5ghQShu5GtxfCo7fFMO8M_BlAD9ARKD5G0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gSM5ghQShu5GtxfCo7fFMO8M_BlAD9ARKD5G0)
+2. [Adnkronos](http://www.adnkronos.com/AKI/English/Security/?id=3.0.3794455127)
 
 ### Related:
 

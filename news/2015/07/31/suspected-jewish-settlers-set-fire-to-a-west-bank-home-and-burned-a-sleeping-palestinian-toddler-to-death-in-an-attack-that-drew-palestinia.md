@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NY Times](http://www.nytimes.com/aponline/2015/07/31/world/middleeast/ap-ml-israel-palestinians.html)
-2. [KLTV](http://www.kltv.com/story/29676536/attack-in-west-bank-kills-palestinian-child-homes-torched)
+1. [KLTV](http://www.kltv.com/story/29676536/attack-in-west-bank-kills-palestinian-child-homes-torched)
+2. [NY Times](http://www.nytimes.com/aponline/2015/07/31/world/middleeast/ap-ml-israel-palestinians.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ TAIPEI • China will allow transit stops in Taiwan for flights from three Chine
 ### Source:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/asia-briefschina-allows-transit-flights-through-taiwan)
-2. [Central News Agency](http://focustaiwan.tw/news/aipl/201601050033.aspx)
-3. [Reuters](http://www.reuters.com/article/us-china-taiwan-idUSKBN0UJ0LA20160106)
+2. [Reuters](http://www.reuters.com/article/us-china-taiwan-idUSKBN0UJ0LA20160106)
+3. [Central News Agency](http://focustaiwan.tw/news/aipl/201601050033.aspx)
 
 ### Related:
 

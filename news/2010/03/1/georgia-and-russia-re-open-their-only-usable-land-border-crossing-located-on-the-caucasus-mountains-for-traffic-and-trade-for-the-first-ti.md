@@ -8,9 +8,9 @@ Georgian official says move does not indicate warming of ties between nations.
 ### Source:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=119791&sectionid=351020602)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/01/c_13192324.htm)
-3. [Toronto Sun](http://www.torontosun.com/news/world/2010/03/01/13066081.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/201031124943879961.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/201031124943879961.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/01/c_13192324.htm)
+4. [Toronto Sun](http://www.torontosun.com/news/world/2010/03/01/13066081.html)
 
 ### Related:
 

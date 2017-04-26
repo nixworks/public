@@ -7,8 +7,8 @@ Archaeologists discovered a pharaonic sun temple with large statues believed to 
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/11588559/)
-2. [Australian Broadcasting Corporation](http://www.abc.net.au/news/newsitems/200602/s1578829.htm)
+1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/newsitems/200602/s1578829.htm)
+2. [MSNBC](http://www.msnbc.msn.com/id/11588559/)
 
 ### Related:
 

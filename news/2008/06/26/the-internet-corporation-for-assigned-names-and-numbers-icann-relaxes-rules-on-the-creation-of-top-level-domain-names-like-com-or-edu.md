@@ -7,8 +7,8 @@ Internet regulators on Thursday voted to relax rules on domain names like .com o
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2008/TECH/06/26/domain.names/)
-2. [The Wall Street Journal](http://online.wsj.com/article/SB121449700084907489.html)
+1. [The Wall Street Journal](http://online.wsj.com/article/SB121449700084907489.html)
+2. [CNN](http://edition.cnn.com/2008/TECH/06/26/domain.names/)
 3. [Reuters](http://www.reuters.com/article/technologyNews/idUSN2635186520080626)
 
 ### Related:

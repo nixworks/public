@@ -7,10 +7,10 @@ A suspected suicide bomber dies after being tackled by guards near the US consul
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-36706761)
-2. [BBC](http://www.bbc.com/news/world-middle-east-36700635)
-3. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3674066/Suicide-bomber-strikes-near-main-mosque-Medina-Saudi-Arabia--Arabiya.html)
-4. [Pakistan Today](http://www.pakistantoday.com.pk/2016/07/04/foreign/suicide-bomber-hits-mosque-in-saudi-arabia-casualties-feared/)
+1. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3674066/Suicide-bomber-strikes-near-main-mosque-Medina-Saudi-Arabia--Arabiya.html)
+2. [Pakistan Today](http://www.pakistantoday.com.pk/2016/07/04/foreign/suicide-bomber-hits-mosque-in-saudi-arabia-casualties-feared/)
+3. [BBC](http://www.bbc.com/news/world-middle-east-36700635)
+4. [BBC](http://www.bbc.com/news/world-middle-east-36706761)
 
 ### Related:
 

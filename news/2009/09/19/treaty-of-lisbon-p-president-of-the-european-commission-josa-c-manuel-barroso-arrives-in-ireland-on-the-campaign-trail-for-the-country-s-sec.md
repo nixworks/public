@@ -7,10 +7,10 @@ European Commission President José Manuel Barroso has said a No vote will affec
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0919/eulisbon.html)
+1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58I0KE20090919)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2009/0919/1224254860514.html)
-3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58I0KE20090919)
-4. [The Times](http://www.timesonline.co.uk/tol/news/world/ireland/article6840613.ece)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/ireland/article6840613.ece)
+4. [RTÉ](http://www.rte.ie/news/2009/0919/eulisbon.html)
 
 ### Related:
 

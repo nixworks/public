@@ -7,9 +7,9 @@ The US Navy says it will not tolerate disruption to a vital oil route as Iran th
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011122715516459511.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-16348633)
-3. [CNN](http://www.cnn.com/2011/12/28/world/meast/iran-hormuz/index.html?hpt=hp_c1)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16348633)
+2. [CNN](http://www.cnn.com/2011/12/28/world/meast/iran-hormuz/index.html?hpt=hp_c1)
+3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011122715516459511.html)
 
 ### Related:
 

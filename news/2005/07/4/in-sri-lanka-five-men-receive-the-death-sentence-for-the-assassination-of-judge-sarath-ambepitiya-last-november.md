@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4649169.stm)
-2. [Colombo Page](http://www.colombopage.com/archive/July4140620UN.html)
-3. [TamilNet](http://www.tamilnet.com/art.html?catid=13&artid=15317)
+2. [TamilNet](http://www.tamilnet.com/art.html?catid=13&artid=15317)
+3. [Colombo Page](http://www.colombopage.com/archive/July4140620UN.html)
 
 ### Related:
 

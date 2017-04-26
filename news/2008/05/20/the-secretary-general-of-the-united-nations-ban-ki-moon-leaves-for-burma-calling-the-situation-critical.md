@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5iy-MfhLN9Q7MwtQ1VlrvexLjr2dAD90P4VEG5)
-2. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.fdc520ceb65e4b0488ac949ed9a77b72.01.html)
+1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.fdc520ceb65e4b0488ac949ed9a77b72.01.html)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5iy-MfhLN9Q7MwtQ1VlrvexLjr2dAD90P4VEG5)
 
 ### Related:
 

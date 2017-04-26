@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/business/4267095.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=aQY0i0Ow42_E&refer=germany)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=aQY0i0Ow42_E&refer=germany)
+2. [BBC](http://news.bbc.co.uk/1/hi/business/4267095.stm)
 3. [Forbes](http://www.forbes.com/infoimaging/feeds/ap/2005/02/16/ap1831791.html)
 
 ### Related:

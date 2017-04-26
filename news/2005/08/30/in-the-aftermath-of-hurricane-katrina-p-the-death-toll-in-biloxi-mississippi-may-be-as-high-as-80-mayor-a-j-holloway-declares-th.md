@@ -7,9 +7,9 @@ Miss. governor estimates 80 could be dead in one county alone; two levees break 
 
 ### Source:
 
-1. [AP](http://www.newsday.com/news/local/wire/newyork/ny-bc-ny--gasprices0830aug30,0,7358679.story?coll=ny-region-apnewyork)
-2. [Yahoo! News](http://news.yahoo.com/s/ap/20050830/ap_on_re_us/katrina_washington)
-3. [Yahoo! News](http://news.yahoo.com/s/ap/20050830/ap_on_re_us/hurricane_katrina_3;_ylt=AiQ5CXJxwXVtmvijI8TgLK8bLisB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
+1. [Yahoo! News](http://news.yahoo.com/s/ap/20050830/ap_on_re_us/katrina_washington)
+2. [Yahoo! News](http://news.yahoo.com/s/ap/20050830/ap_on_re_us/hurricane_katrina_3;_ylt=AiQ5CXJxwXVtmvijI8TgLK8bLisB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
+3. [AP](http://www.newsday.com/news/local/wire/newyork/ny-bc-ny--gasprices0830aug30,0,7358679.story?coll=ny-region-apnewyork)
 4. [Fox News](http://www.foxnews.com/story/0,2933,167633,00.html)
 
 ### Related:

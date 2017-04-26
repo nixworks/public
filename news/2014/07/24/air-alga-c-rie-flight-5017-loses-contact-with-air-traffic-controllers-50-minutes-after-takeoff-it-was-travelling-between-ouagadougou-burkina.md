@@ -8,9 +8,9 @@ An Air Algerie flight crashed on Thursday en route from Ouagadougou in Burkina F
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2014/07/24/us-algeria-flight-keita-idUSKBN0FT2DZ20140724)
-2. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/contact-lost-with-algerian-jet-over-africa-20140724-zwls1.html)
+2. [NBC News](http://www.nbcnews.com/news/world/air-algerie-flight-ah5017-crashed-mali-airport-official-says-n163731)
 3. [NBC News](http://www.nbcnews.com/news/world/air-algerie-jet-chartered-spains-swiftair-vanishes-radar-n163731)
-4. [NBC News](http://www.nbcnews.com/news/world/air-algerie-flight-ah5017-crashed-mali-airport-official-says-n163731)
+4. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/contact-lost-with-algerian-jet-over-africa-20140724-zwls1.html)
 
 ### Related:
 

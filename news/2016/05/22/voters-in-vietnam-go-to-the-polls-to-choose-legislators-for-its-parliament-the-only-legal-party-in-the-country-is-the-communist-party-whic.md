@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Time](http://time.com/4344416/vietnam-elections-independent-communist/)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_VIETNAM_OBAMA_POLITICS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_VIETNAM_OBAMA_POLITICS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Time](http://time.com/4344416/vietnam-elections-independent-communist/)
 
 ### Related:
 

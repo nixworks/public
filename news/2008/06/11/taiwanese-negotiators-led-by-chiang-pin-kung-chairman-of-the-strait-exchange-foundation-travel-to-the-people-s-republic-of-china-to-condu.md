@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7447536.stm)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080612/ap_on_re_as/taiwan_china_talks)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080612/ap_on_re_as/taiwan_china_talks)
+2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7447536.stm)
 
 ### Related:
 

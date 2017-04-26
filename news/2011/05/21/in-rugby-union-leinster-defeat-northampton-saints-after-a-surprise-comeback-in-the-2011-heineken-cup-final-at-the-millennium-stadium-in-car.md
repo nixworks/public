@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/sport/rugby/rugby-union/club-rugby/sexton-buries-saints-in-a-european-classic-2287522.html)
-2. [The Irish Times](http://www.irishtimes.com/sports/rugby/2011/0521/1224297501776.html?via=mr)
-3. [BBC Sport](http://news.bbc.co.uk/sport2/hi/rugby_union/13487187.stm)
-4. [The Guardian](http://www.guardian.co.uk/sport/2011/may/21/leinster-northampton-heineken-cup)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/rugby_union/13487187.stm)
+2. [The Independent](http://www.independent.co.uk/sport/rugby/rugby-union/club-rugby/sexton-buries-saints-in-a-european-classic-2287522.html)
+3. [The Guardian](http://www.guardian.co.uk/sport/2011/may/21/leinster-northampton-heineken-cup)
+4. [The Irish Times](http://www.irishtimes.com/sports/rugby/2011/0521/1224297501776.html?via=mr)
 
 ### Related:
 

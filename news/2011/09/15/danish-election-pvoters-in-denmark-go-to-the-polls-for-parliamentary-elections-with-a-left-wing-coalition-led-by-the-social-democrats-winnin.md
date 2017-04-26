@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NPR](http://www.npr.org/blogs/thetwo-way/2011/09/15/140517030/helle-thorning-schmidt-to-become-denmarks-first-female-prime-minister)
-2. [Christian Science Monitor](http://www.csmonitor.com/World/Europe/2011/0914/Denmark-s-election-a-litmus-test-for-Europe-s-far-right-politics)
-3. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110915-711622.html)
+1. [Christian Science Monitor](http://www.csmonitor.com/World/Europe/2011/0914/Denmark-s-election-a-litmus-test-for-Europe-s-far-right-politics)
+2. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110915-711622.html)
+3. [NPR](http://www.npr.org/blogs/thetwo-way/2011/09/15/140517030/helle-thorning-schmidt-to-become-denmarks-first-female-prime-minister)
 
 ### Related:
 

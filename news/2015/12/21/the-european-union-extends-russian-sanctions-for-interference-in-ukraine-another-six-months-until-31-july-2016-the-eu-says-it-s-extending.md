@@ -7,8 +7,8 @@ The European Union renewed economic sanctions on Russia for another six months a
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-12-21/eu-extends-russia-sanctions-to-july-amid-fragile-ukraine-peace)
-2. [Voice of America](http://www.voanews.com/content/eu-russia-sanctions/3111894.html)
+1. [Voice of America](http://www.voanews.com/content/eu-russia-sanctions/3111894.html)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-12-21/eu-extends-russia-sanctions-to-july-amid-fragile-ukraine-peace)
 
 ### Related:
 

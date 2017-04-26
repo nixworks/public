@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iK9eBrTXkUA97VNmRJW1ALWef-rAD9FKCJ0G0)
-2. [NWS Norman](http://www.srh.noaa.gov/news/display_cmsstory.php?wfo=oun&storyid=52237&source=0)
-3. [NewsOK](http://newsok.com/deadly-tornadoes-move-through-central-oklahoma/article/3460456?custom_click=lead_story_title)
-4. [KTUL](http://www.ktul.com/news/stories/0510/734581.html)
+1. [NWS Norman](http://www.srh.noaa.gov/news/display_cmsstory.php?wfo=oun&storyid=52237&source=0)
+2. [KTUL](http://www.ktul.com/news/stories/0510/734581.html)
+3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iK9eBrTXkUA97VNmRJW1ALWef-rAD9FKCJ0G0)
+4. [NewsOK](http://newsok.com/deadly-tornadoes-move-through-central-oklahoma/article/3460456?custom_click=lead_story_title)
 
 ### Related:
 

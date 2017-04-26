@@ -7,8 +7,8 @@ A 6.2-magnitude earthquake struck off the coast of the Philippines this morning 
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/New-Article/articleshow/9193808.cms)
-2. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/07/12/3267412.htm?section=justin)
+1. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/07/12/3267412.htm?section=justin)
+2. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/New-Article/articleshow/9193808.cms)
 
 ### Related:
 

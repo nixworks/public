@@ -40,7 +40,7 @@ MOMBASA, Kenya (AP) — A Kenyan court on Thursday upheld the use of anal examin
 An agreement was apparently reached to allow votes on whether to ban people on a terror watch list from buying guns and to expand background checks.
 
 ### [The Philadelphia, Pennsylvania, City Council approves a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This is the first so-called sugary drinks tax in a major U.S. city.  ](/news/2016/06/16/the-philadelphia-pennsylvania-city-council-approves-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1-2.md)
-_Context: City Council, Pennsylvania, Philadelphia, United States, sugar-sweetened and diet beverages, sugary drinks tax_
+_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
 
 ### [Ten Olympic weightlifters fail a drug test in a reanalysis of samples from the 2012 Summer Olympics. Among them are four Kazakh gold medalists: Ilya Ilyin, Zulfiya Chinshanlo, Svetlana Podobedova and Maiya Maneza. The other athletes represent Azerbaijan, Belarus, Russia, and  Ukraine. All ten lifters are provisionally suspended by the International Weightlifting Federation and are expected to be stripped of their titles. ](/news/2016/06/16/ten-olympic-weightlifters-fail-a-drug-test-in-a-reanalysis-of-samples-from-the-2012-summer-olympics-among-them-are-four-kazakh-gold-medalis.md)
 _Context: 2012 Summer Olympics, Azerbaijan, Belarus, Ilya Ilyin, International Weightlifting Federation, Kazakhstan, Maiya Maneza, Olympic weightlifters, Russia, Svetlana Podobedova, Ukrainian, Zulfiya Chinshanlo_

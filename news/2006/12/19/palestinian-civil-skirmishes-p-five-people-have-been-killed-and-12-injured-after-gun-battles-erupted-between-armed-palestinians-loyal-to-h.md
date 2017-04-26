@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/FCC1EC71-E84A-4461-827E-9C7F190309E9.htm)
-2. [AP via Boston Globe](http://www.boston.com/news/world/middleeast/articles/2006/12/19/haniyeh_urges_end_to_palestinian_fights/)
+1. [AP via Boston Globe](http://www.boston.com/news/world/middleeast/articles/2006/12/19/haniyeh_urges_end_to_palestinian_fights/)
+2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/FCC1EC71-E84A-4461-827E-9C7F190309E9.htm)
 
 ### Related:
 

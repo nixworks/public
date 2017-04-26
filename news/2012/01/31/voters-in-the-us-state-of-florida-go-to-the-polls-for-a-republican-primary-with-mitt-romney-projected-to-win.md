@@ -7,8 +7,8 @@ The latest Quinnipiac poll show former Massachusetts governor Mitt Romney surgin
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/politics/florida-primary-mitt-romney-pulls-ahead-of-newt-gingrich/2012/01/30/gIQAgyHzcQ_story.html)
-2. [Reuters](http://www.reuters.com/article/2012/02/01/us-usa-campaign-idUSTRE80Q2AQ20120201)
+1. [Reuters](http://www.reuters.com/article/2012/02/01/us-usa-campaign-idUSTRE80Q2AQ20120201)
+2. [Washington Post](http://www.washingtonpost.com/politics/florida-primary-mitt-romney-pulls-ahead-of-newt-gingrich/2012/01/30/gIQAgyHzcQ_story.html)
 
 ### Related:
 

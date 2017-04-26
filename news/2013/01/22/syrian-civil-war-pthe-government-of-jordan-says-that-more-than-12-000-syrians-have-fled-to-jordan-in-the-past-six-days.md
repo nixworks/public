@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via IOL](http://www.iol.co.za/news/world/12-000-syrians-flee-to-jordan-1.1456512)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hRI2Mjx3yFaTSXRwQmTRY-qOH6Aw)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hRI2Mjx3yFaTSXRwQmTRY-qOH6Aw)
+2. [AFP via IOL](http://www.iol.co.za/news/world/12-000-syrians-flee-to-jordan-1.1456512)
 
 ### Related:
 

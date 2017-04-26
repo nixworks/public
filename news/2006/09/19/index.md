@@ -7,7 +7,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 President Bush&#8217;s policies in the Middle East are &#8220;moving the world toward war,&#8221; Iranian President Mahmoud Ahmadinejad said Tuesday in an exclusive interview with &#8220;NBC Nightly News&#8221; anchor Brian Williams.
 
 ### [ A judicial panel in Canada finds that Canadian citizen Maher Arar was falsely accused when he was secretly extradited by the United States to Syria, and that he was tortured there. [http://www.msnbc.msn.com/id/14897315/ (MSNBC)].](/news/2006/09/19/a-judicial-panel-in-canada-finds-that-canadian-citizen-maher-arar-was-falsely-accused-when-he-was-secretly-extradited-by-the-united-states.md)
-_Context: Canadian, Maher Arar, Syria, United States, extraordinary rendition, torture_
+_Context: Canadian, Maher Arar, Syria, U.S., extraordinary rendition, torture_
 
 ### [ Israeli media report an explosion in Tel Aviv. Police spokesman Micky Rosenfeld said the blast appeared to be criminal in nature and not a terrorist attack. ](/news/2006/09/19/israeli-media-report-an-explosion-in-tel-aviv-police-spokesman-micky-rosenfeld-said-the-blast-appeared-to-be-criminal-in-nature-and-not-a.md)
 _Context: Israel, Tel Aviv, gunmen, terrorist_

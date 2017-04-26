@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Washington Post/Reuters](http://www.washingtonpost.com/wp-dyn/content/article/2006/09/22/AR2006092200515.html)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,2181452,00.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5370564.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5370564.stm)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,2181452,00.html)
 
 ### Related:
 

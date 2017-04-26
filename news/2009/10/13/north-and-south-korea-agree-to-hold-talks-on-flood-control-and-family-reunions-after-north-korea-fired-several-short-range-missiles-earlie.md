@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/10/13/25/0401000000AEN20091013002500315F.HTML)
-2. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2911268)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8303986.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8303986.stm)
+2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/10/13/25/0401000000AEN20091013002500315F.HTML)
+3. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2911268)
 
 ### Related:
 

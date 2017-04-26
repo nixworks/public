@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-politics-21170265)
-2. [The Guardian](http://www.guardian.co.uk/politics/2013/jan/23/david-cameron-uk-exemption-eu)
-3. [AP](http://bigstory.ap.org/article/cameron-propose-vote-eu-relationship-0)
+1. [AP](http://bigstory.ap.org/article/cameron-propose-vote-eu-relationship-0)
+2. [BBC](http://www.bbc.co.uk/news/uk-politics-21170265)
+3. [The Guardian](http://www.guardian.co.uk/politics/2013/jan/23/david-cameron-uk-exemption-eu)
 
 ### Related:
 

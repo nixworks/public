@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Asia Times](http://www.atimes.com/atimes/Central_Asia/JH19Ag01.html)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5gLzVO9YmRVo2zJXJwfNJ0XQRZQWg)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5gLzVO9YmRVo2zJXJwfNJ0XQRZQWg)
+2. [Asia Times](http://www.atimes.com/atimes/Central_Asia/JH19Ag01.html)
 
 ### Related:
 

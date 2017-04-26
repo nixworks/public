@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Morgungblaðið](http://www.earthice.hi.is/page/ies_Eyjafjallajokull_eruption)
-2. [Iceland Review](http://www.icelandreview.com/icelandreview/daily_news/?cat_id=16568&ew_0_a_id=360735)
+1. [Iceland Review](http://www.icelandreview.com/icelandreview/daily_news/?cat_id=16568&ew_0_a_id=360735)
+2. [Morgungblaðið](http://www.earthice.hi.is/page/ies_Eyjafjallajokull_eruption)
 
 ### Related:
 

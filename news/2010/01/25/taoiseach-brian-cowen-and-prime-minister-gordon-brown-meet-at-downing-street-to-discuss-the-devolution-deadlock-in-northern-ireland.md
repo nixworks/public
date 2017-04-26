@@ -7,9 +7,9 @@ Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2010/jan/24/northern-ireland-brown-cowen-powersharing)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0124/breaking13.htm)
-3. [RTÉ](http://www.rte.ie/news/2010/0124/northpolitics.html)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0124/breaking13.htm)
+2. [RTÉ](http://www.rte.ie/news/2010/0124/northpolitics.html)
+3. [The Guardian](http://www.guardian.co.uk/uk/2010/jan/24/northern-ireland-brown-cowen-powersharing)
 
 ### Related:
 

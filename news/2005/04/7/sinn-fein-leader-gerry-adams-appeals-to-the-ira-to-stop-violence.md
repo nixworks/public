@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8107813)
-2. [Irish Times](http://www.ireland.com/newspaper/front/2005/0407/2228363515HM1ADAMS.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/northern_ireland/4419009.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/northern_ireland/4419009.stm)
+3. [Irish Times](http://www.ireland.com/newspaper/front/2005/0407/2228363515HM1ADAMS.html)
 4. [Reuters UK](http://today.reuters.co.uk/News/newsArticle.aspx?type=topNews&storyID=2005-04-07T003845Z_01_JON651546_RTRUKOC_0_IRISH.xml)
 
 ### Related:

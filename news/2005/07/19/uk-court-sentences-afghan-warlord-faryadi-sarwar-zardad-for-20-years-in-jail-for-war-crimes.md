@@ -7,9 +7,9 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/1B671E79-FAA1-4207-A92F-7CA7D1CF9907.htm)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-07-18T125425Z_01_SCH846359_RTRUKOC_0_CRIME-AFGHAN-WARLORD.xml)
-3. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/07/20/nzardad20.xml&sSheet=/portal/2005/07/20/ixportal.html)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-07-18T125425Z_01_SCH846359_RTRUKOC_0_CRIME-AFGHAN-WARLORD.xml)
+2. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/07/20/nzardad20.xml&sSheet=/portal/2005/07/20/ixportal.html)
+3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/1B671E79-FAA1-4207-A92F-7CA7D1CF9907.htm)
 
 ### Related:
 

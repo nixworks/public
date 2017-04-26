@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via IHT](http://www.iht.com/articles/ap/2007/12/01/africa/ME-GEN-Iraq.php?WT.mc_id=rssafrica#end_main)
-2. [Time](http://www.time.com/time/world/article/0,8599,1689977,00.html?xid=rss-topstories)
+1. [Time](http://www.time.com/time/world/article/0,8599,1689977,00.html?xid=rss-topstories)
+2. [AP via IHT](http://www.iht.com/articles/ap/2007/12/01/africa/ME-GEN-Iraq.php?WT.mc_id=rssafrica#end_main)
 
 ### Related:
 

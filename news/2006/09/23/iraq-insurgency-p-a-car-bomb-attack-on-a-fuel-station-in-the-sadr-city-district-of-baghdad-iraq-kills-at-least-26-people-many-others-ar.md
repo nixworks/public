@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5373050.stm)
-2. [CNN](http://www.cnn.com/2006/WORLD/meast/09/23/iraq.main/index.html)
-3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-23T080304Z_01_GEO743062_RTRUKOC_0_US-IRAQ.xml&WTmodLoc=Home-C2-TopNews-newsOne-1)
+1. [CNN](http://www.cnn.com/2006/WORLD/meast/09/23/iraq.main/index.html)
+2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-23T080304Z_01_GEO743062_RTRUKOC_0_US-IRAQ.xml&WTmodLoc=Home-C2-TopNews-newsOne-1)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5373050.stm)
 
 ### Related:
 

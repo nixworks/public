@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4183181.stm)
-2. [WCDR Official Site](http://www.unisdr.org/wcdr/)
+1. [WCDR Official Site](http://www.unisdr.org/wcdr/)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4183181.stm)
 
 ### Related:
 

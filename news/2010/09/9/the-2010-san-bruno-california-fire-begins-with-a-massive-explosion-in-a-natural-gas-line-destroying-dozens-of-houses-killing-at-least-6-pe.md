@@ -7,9 +7,9 @@ The official death toll from the natural-gas-line explosion in a Bay Area suburb
 
 ### Source:
 
-1. [Marketwatch](http://www.marketwatch.com/story/large-explosion-rocks-san-bruno-reports-2010-09-09)
-2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/09/09/BADP1FBJRS.DTL)
-3. [Silicon Valley Mercury News](http://www.mercurynews.com/breaking-news/ci_16038268)
+1. [Silicon Valley Mercury News](http://www.mercurynews.com/breaking-news/ci_16038268)
+2. [Marketwatch](http://www.marketwatch.com/story/large-explosion-rocks-san-bruno-reports-2010-09-09)
+3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/09/09/BADP1FBJRS.DTL)
 
 ### Related:
 

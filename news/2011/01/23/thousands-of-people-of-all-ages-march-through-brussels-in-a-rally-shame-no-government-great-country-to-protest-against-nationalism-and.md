@@ -7,9 +7,9 @@ Thousands march in Brussels to demand political rivals form a government after s
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0124/1224288164785.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011123162414365732.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/jan/23/brussels-protests-belgium-government)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011123162414365732.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0124/1224288164785.html)
 
 ### Related:
 

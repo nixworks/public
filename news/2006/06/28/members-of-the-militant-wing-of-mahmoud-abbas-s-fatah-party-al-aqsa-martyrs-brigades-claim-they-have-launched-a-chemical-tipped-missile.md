@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/732408.html)
-2. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-06-29T013909Z_01_L29258645_RTRUKOC_0_US-MIDEAST-ROCKET.xml&src=rss&rpc=22)
+1. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-06-29T013909Z_01_L29258645_RTRUKOC_0_US-MIDEAST-ROCKET.xml&src=rss&rpc=22)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/732408.html)
 
 ### Related:
 

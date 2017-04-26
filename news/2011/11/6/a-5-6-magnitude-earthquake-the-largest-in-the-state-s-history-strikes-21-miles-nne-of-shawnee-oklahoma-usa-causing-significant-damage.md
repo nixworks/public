@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/us/2011/11/06/52-magnitude-earthquake-strikes-oklahoma/)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usb0006klz/)
+1. [USGS](http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usb0006klz/)
+2. [Fox News](http://www.foxnews.com/us/2011/11/06/52-magnitude-earthquake-strikes-oklahoma/)
 
 ### Related:
 

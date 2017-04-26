@@ -7,8 +7,8 @@ Marriage must remain a union between a man and a woman, says the Archbishop of Y
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/religion/9045796/Dont-legalise-gay-marriage-Archbishop-of-York-Dr-John-Sentamu-warns-David-Cameron.html)
-2. [The Guardian](http://www.guardian.co.uk/uk/2012/jan/28/archbishop-york-legalise-gay-marriage)
+1. [The Guardian](http://www.guardian.co.uk/uk/2012/jan/28/archbishop-york-legalise-gay-marriage)
+2. [The Telegraph](http://www.telegraph.co.uk/news/religion/9045796/Dont-legalise-gay-marriage-Archbishop-of-York-Dr-John-Sentamu-warns-David-Cameron.html)
 
 ### Related:
 

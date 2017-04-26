@@ -7,8 +7,8 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being s
 
 ### Source:
 
-1. [AP via IHT](http://www.iht.com/articles/2007/04/17/news/nagasaki.php)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUST33398520070417)
+1. [Reuters](http://www.reuters.com/article/worldNews/idUST33398520070417)
+2. [AP via IHT](http://www.iht.com/articles/2007/04/17/news/nagasaki.php)
 
 ### Related:
 

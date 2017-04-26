@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BNO via Wire Update](http://wireupdate.com/wires/9689/report-71-inmates-escape-in-mass-jail-break-in-mexicos-drug-plagued-north/)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/11/c_13489845.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/11/c_13489845.htm)
+2. [BNO via Wire Update](http://wireupdate.com/wires/9689/report-71-inmates-escape-in-mass-jail-break-in-mexicos-drug-plagued-north/)
 
 ### Related:
 

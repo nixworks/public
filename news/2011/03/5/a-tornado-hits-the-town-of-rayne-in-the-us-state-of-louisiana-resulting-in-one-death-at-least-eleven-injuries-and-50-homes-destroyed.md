@@ -9,8 +9,8 @@ At least one person was killed, and 12 others injured, when a tornado struck the
 
 1. [AP via ''Indiana Republic](http://www.therepublic.com/view/story/0269fa3ee4ca49fabcd0ef6e2c7bc379/LA--Louisiana_Tornado/)
 2. [CNN](http://www.cnn.com/2011/US/03/05/louisiana.storm/)
-3. [The Daily Advertiser](http://www.theadvertiser.com/article/20110305/NEWS01/110305004)
-4. [Fox News](http://www.foxnews.com/weather/2011/03/05/people-injured-louisiana-tornado/)
+3. [Fox News](http://www.foxnews.com/weather/2011/03/05/people-injured-louisiana-tornado/)
+4. [The Daily Advertiser](http://www.theadvertiser.com/article/20110305/NEWS01/110305004)
 
 ### Related:
 

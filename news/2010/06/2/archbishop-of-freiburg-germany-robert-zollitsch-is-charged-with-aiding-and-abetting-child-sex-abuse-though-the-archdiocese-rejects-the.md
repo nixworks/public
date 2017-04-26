@@ -7,10 +7,10 @@ Robert&#x20;Zollitsch,&#x20;the&#x20;71-year-old&#x20;head&#x20;of&#x20;the&#x20
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100602-robert-zollitsch-head-german-catholic-probed-suspicion-abetting-child-abuse)
-2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7032894.html)
+1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7032894.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5643029,00.html?maca=en-rss-en-top-1022-rdf)
 3. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10219002.stm)
-4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5643029,00.html?maca=en-rss-en-top-1022-rdf)
+4. [France24](http://www.france24.com/en/20100602-robert-zollitsch-head-german-catholic-probed-suspicion-abetting-child-abuse)
 
 ### Related:
 

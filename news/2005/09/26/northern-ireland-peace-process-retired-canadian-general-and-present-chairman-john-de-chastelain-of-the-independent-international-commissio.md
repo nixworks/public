@@ -7,8 +7,8 @@ General John de Chastelain has said that he is satisfied that the IRA has comple
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2005/0926/northpolitics.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4283444.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4283444.stm)
+2. [RTÉ](http://www.rte.ie/news/2005/0926/northpolitics.html)
 
 ### Related:
 

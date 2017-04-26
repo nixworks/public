@@ -7,8 +7,8 @@ ISRAEL-PALESTINIANS/ (TV, PIX, UPDATE 1):UPDATE 1-Jordan proposes TV cameras to 
 
 ### Source:
 
-1. [Reuters](http://www.trust.org/item/20151024154737-9peqk)
-2. [BBC](http://www.bbc.com/news/world-middle-east-34626425)
+1. [BBC](http://www.bbc.com/news/world-middle-east-34626425)
+2. [Reuters](http://www.trust.org/item/20151024154737-9peqk)
 3. [Washington Post](https://www.washingtonpost.com/world/kerry-travels-to-jordan-in-quest-to-stop-violence-in-israel/2015/10/24/a6c1dbe2-d518-46cd-b71d-355aee59bfc5_story.html)
 
 ### Related:

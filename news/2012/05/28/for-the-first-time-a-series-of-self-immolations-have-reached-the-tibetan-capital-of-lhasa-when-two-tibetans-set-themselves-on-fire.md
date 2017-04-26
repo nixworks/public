@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/china/2-Tibetans-set-selves-on-fire-in-Lhasa/articleshow/13589591.cms)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125285056419618.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125285056419618.html)
+2. [The Times of India](http://timesofindia.indiatimes.com/world/china/2-Tibetans-set-selves-on-fire-in-Lhasa/articleshow/13589591.cms)
 
 ### Related:
 

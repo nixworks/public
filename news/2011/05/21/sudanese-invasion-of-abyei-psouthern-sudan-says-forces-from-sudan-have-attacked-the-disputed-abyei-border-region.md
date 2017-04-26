@@ -7,9 +7,9 @@ The northern Sudanese army is in control of Abyei on the border with South Sudan
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-13487864)
+1. [Voice of America](http://www.voanews.com/english/news/africa/UN-Security-Council-Cancels-Visit-to-Sudans-Abyei-Region-Citing-Violence-122394819.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74K09M20110521?sp=true)
-3. [Voice of America](http://www.voanews.com/english/news/africa/UN-Security-Council-Cancels-Visit-to-Sudans-Abyei-Region-Citing-Violence-122394819.html)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-13487864)
 
 ### Related:
 

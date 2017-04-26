@@ -8,8 +8,8 @@ Shelling and tank fire rage in Aleppo as the ceasefire and evacuation plan stall
 ### Source:
 
 1. [The Star via Reuters](https://www.thestar.com/news/world/2016/12/14/aleppo-ceasefire-collapses-as-syrian-fighter-jets-resume-deadly-raids.html)
-2. [CNN](http://edition.cnn.com/2016/12/14/middleeast/aleppo-syria-government-gains/index.html)
-3. [BBC](http://www.bbc.com/news/world-middle-east-38314291)
+2. [BBC](http://www.bbc.com/news/world-middle-east-38314291)
+3. [CNN](http://edition.cnn.com/2016/12/14/middleeast/aleppo-syria-government-gains/index.html)
 
 ### Related:
 

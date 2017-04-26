@@ -7,8 +7,8 @@ A family of three young Muslims has been shot dead in their home in a quiet neig
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/5675a9eee93c40bbb169c875c93314ad/man-arrested-after-3-shot-death-north-carolina)
-2. [The Independent](http://www.independent.co.uk/news/world/americas/chapel-hill-shooting-three-young-muslims-gunned-down-in-north-carolina-at-their-family-home-10037734.html)
+1. [The Independent](http://www.independent.co.uk/news/world/americas/chapel-hill-shooting-three-young-muslims-gunned-down-in-north-carolina-at-their-family-home-10037734.html)
+2. [AP](http://bigstory.ap.org/article/5675a9eee93c40bbb169c875c93314ad/man-arrested-after-3-shot-death-north-carolina)
 
 ### Related:
 

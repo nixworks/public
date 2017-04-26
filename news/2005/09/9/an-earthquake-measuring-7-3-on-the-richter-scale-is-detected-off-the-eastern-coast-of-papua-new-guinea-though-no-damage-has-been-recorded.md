@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Manichi Daily News](http://mdn.mainichi-msn.co.jp/international/news/20050909p2g00m0in039000c.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4228960.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4228960.stm)
+2. [Manichi Daily News](http://mdn.mainichi-msn.co.jp/international/news/20050909p2g00m0in039000c.html)
 
 ### Related:
 

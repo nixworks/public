@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CP](http://cnews.canoe.ca/CNEWS/Science/2005/04/30/1019331-ap.html)
-2. [ESO](http://www.eso.org/outreach/press-rel/pr-2005/pr-12-05-p2.html)
-3. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2002258224_planet30.html)
+1. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2002258224_planet30.html)
+2. [CP](http://cnews.canoe.ca/CNEWS/Science/2005/04/30/1019331-ap.html)
+3. [ESO](http://www.eso.org/outreach/press-rel/pr-2005/pr-12-05-p2.html)
 
 ### Related:
 

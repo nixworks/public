@@ -7,8 +7,8 @@ Eight mummies, colourful coffins and more than 1000 funerary statues have been f
 
 ### Source:
 
-1. [Radio New Zealand](http://www.radionz.co.nz/news/world/329065/eight-egyptian-mummies-unearthed-in-tomb)
-2. [CNN](http://www.cnn.com/2017/04/18/middleeast/egypt-tombs-mummies/)
+1. [CNN](http://www.cnn.com/2017/04/18/middleeast/egypt-tombs-mummies/)
+2. [Radio New Zealand](http://www.radionz.co.nz/news/world/329065/eight-egyptian-mummies-unearthed-in-tomb)
 
 ### Related:
 

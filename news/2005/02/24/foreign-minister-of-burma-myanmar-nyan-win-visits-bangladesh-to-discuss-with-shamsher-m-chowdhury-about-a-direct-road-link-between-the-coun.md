@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Financial Express, Bangladesh](http://www.financialexpress-bd.com/index3.asp?cnd=2/24/2005&section_id=2&newsid=13423&spcl=no)
+1. [05-29.htm (Mizzima](http://www.mizzima.com/archives/news-in-2005/news-in-feb/23-February)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4293059.stm)
-3. [05-29.htm (Mizzima](http://www.mizzima.com/archives/news-in-2005/news-in-feb/23-February)
+3. [Financial Express, Bangladesh](http://www.financialexpress-bd.com/index3.asp?cnd=2/24/2005&section_id=2&newsid=13423&spcl=no)
 
 ### Related:
 

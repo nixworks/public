@@ -7,9 +7,9 @@ Officials in Oklahoma execute a prison inmate using a drug cocktail that include
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12014323)
-2. [CNN](http://www.cnn.com/2010/CRIME/12/16/oklahoma.execution/)
-3. [Daily Mail](http://www.dailymail.co.uk/news/article-1339181/Oklahoma-uses-animal-euthanizing-drug-execute-inmate.html)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-1339181/Oklahoma-uses-animal-euthanizing-drug-execute-inmate.html)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12014323)
+3. [CNN](http://www.cnn.com/2010/CRIME/12/16/oklahoma.execution/)
 
 ### Related:
 

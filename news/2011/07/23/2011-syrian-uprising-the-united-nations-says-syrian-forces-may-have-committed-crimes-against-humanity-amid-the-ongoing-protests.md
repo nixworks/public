@@ -7,8 +7,8 @@ DAMASCUS, Syria, July 23 - UN officials have said Syrian security forces may hav
 
 ### Source:
 
-1. [Times of Oman](http://www.timesofoman.com/innercat.asp?detail=48048&rand=)
-2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2011/07/23/un-fears-crimes-against-humanity-in-syria/)
+1. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2011/07/23/un-fears-crimes-against-humanity-in-syria/)
+2. [Times of Oman](http://www.timesofoman.com/innercat.asp?detail=48048&rand=)
 
 ### Related:
 

@@ -7,12 +7,12 @@ Harry Redknapp says his &quot;nightmare&quot; is over after being cleared of tax
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/home/uk-news/article/16166052)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/england/9070211/Fabio-Capello-resigns-live-reaction.html)
-3. [Daily Mail](http://www.dailymail.co.uk/news/article-2098386/England-manager-Fabio-Capello-quits-crunch-meeting-FA-John-Terry-race-row.html?ito=feeds-newsxml)
-4. [BBC](http://www.bbc.co.uk/news/uk-england-16925280)
-5. [RTÉ Sport](http://www.rte.ie/sport/soccer/2012/0208/capello_england.html)
-6. [The Guardian](http://www.guardian.co.uk/football/2012/feb/08/fabio-capello-resigns-england-manager-live)
+1. [The Guardian](http://www.guardian.co.uk/football/2012/feb/08/fabio-capello-resigns-england-manager-live)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-2098386/England-manager-Fabio-Capello-quits-crunch-meeting-FA-John-Terry-race-row.html?ito=feeds-newsxml)
+3. [BBC](http://www.bbc.co.uk/news/uk-england-16925280)
+4. [RTÉ Sport](http://www.rte.ie/sport/soccer/2012/0208/capello_england.html)
+5. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/england/9070211/Fabio-Capello-resigns-live-reaction.html)
+6. [Sky News](http://news.sky.com/home/uk-news/article/16166052)
 
 ### Related:
 

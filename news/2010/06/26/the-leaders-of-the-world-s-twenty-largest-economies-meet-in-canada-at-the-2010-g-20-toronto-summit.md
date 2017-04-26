@@ -7,16 +7,16 @@ Black-clad anarchists protesting at the G20 summit have smashed storefronts and 
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/toronto/story/2010/06/26/toronto-activists-raids-g20-isu.html)
+1. [Reuters via ABC Australia](http://www.abc.net.au/news/stories/2010/06/27/2938016.htm?WT.mc_id=newsmail)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10426625.stm)
 3. [CBC](http://www.cbc.ca/canada/toronto/story/2010/06/26/police-booth-raid426.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/06/201062617195194576.html)
+4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i67tL7tKKQpvoKn3wuaJNxIQqOFg)
 5. [BBC](http://news.bbc.co.uk/1/hi/business/10416895.stm)
-6. [Reuters via ABC Australia](http://www.abc.net.au/news/stories/2010/06/27/2938016.htm?WT.mc_id=newsmail)
-7. [National Post](http://news.nationalpost.com/2010/06/26/g20-veterinarian-couple-had-home-raided-by-police-in-error-husband-calls-incident-an-abusive-of-power/)
+6. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/06/201062617195194576.html)
+7. [CBC](http://www.cbc.ca/canada/toronto/story/2010/06/26/toronto-activists-raids-g20-isu.html)
 8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/27/c_13371172.htm)
-9. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i67tL7tKKQpvoKn3wuaJNxIQqOFg)
-10. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3910924,00.html)
+9. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3910924,00.html)
+10. [National Post](http://news.nationalpost.com/2010/06/26/g20-veterinarian-couple-had-home-raided-by-police-in-error-husband-calls-incident-an-abusive-of-power/)
 
 ### Related:
 

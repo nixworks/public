@@ -7,8 +7,8 @@ With video of the damage and the storm, and a photo gallery
 
 ### Source:
 
-1. [Press of Atlantic City](http://pressofatlanticcity.com/news/breaking/article_b3e29272-2ecd-11df-ad92-001cc4c03286.html)
-2. [New York Times](http://www.nytimes.com/aponline/2010/03/13/us/AP-US-Stormy-Weather.html?hp)
+1. [New York Times](http://www.nytimes.com/aponline/2010/03/13/us/AP-US-Stormy-Weather.html?hp)
+2. [Press of Atlantic City](http://pressofatlanticcity.com/news/breaking/article_b3e29272-2ecd-11df-ad92-001cc4c03286.html)
 
 ### Related:
 

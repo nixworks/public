@@ -7,12 +7,12 @@ A hostage-taking of dozens of children at an international school in Cambodia ha
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4098412.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8808440)
-3. [CBC](http://www.cbc.ca/world/story/2005/06/16/cambodia-school050616.html)
+1. [CBC](http://www.cbc.ca/world/story/2005/06/16/cambodia-school050616.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8807502)
+3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/153063/1/.html)
 4. [Channel News Asia](http://www.channelnewsasia.com/stories/southeastasia/view/153023/1/.html)
-5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8807502)
-6. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/153063/1/.html)
+5. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4098412.stm)
+6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8808440)
 
 ### Related:
 

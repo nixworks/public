@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [NBC-WTSM](http://www.wstm.com/Global/story.asp?S=3069127)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7884180)
-3. [Xinhua](http://news.xinhuanet.com/english/2005-03/13/content_2690671.htm)
+2. [Xinhua](http://news.xinhuanet.com/english/2005-03/13/content_2690671.htm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7884180)
 4. [CCTV](http://news.cctv.com/news/special/C13558/20050312/100798.shtml)
 
 ### Related:

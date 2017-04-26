@@ -7,9 +7,9 @@ A rescued sailor who was adrift in the Atlantic Ocean for two months says he sur
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-32172646)
-2. [CTV news](http://www.ctvnews.ca/world/man-reported-missing-at-sea-for-66-days-found-by-u-s-coast-guard-1.2310687)
-3. [Yahoo news](http://news.yahoo.com/man-reported-missing-sea-66-days-ago-found-001630310.html)
+1. [Yahoo news](http://news.yahoo.com/man-reported-missing-sea-66-days-ago-found-001630310.html)
+2. [BBC](http://www.bbc.com/news/world-us-canada-32172646)
+3. [CTV news](http://www.ctvnews.ca/world/man-reported-missing-at-sea-for-66-days-found-by-u-s-coast-guard-1.2310687)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-08-18T190255Z_01_N16296310_RTRIDST_0_NEWS-PERU-EARTHQUAKE-COL.XML)
-2. [AP via IHT](http://www.iht.com/articles/ap/2007/08/19/america/LA-GEN-Peru-Quake.php)
+1. [AP via IHT](http://www.iht.com/articles/ap/2007/08/19/america/LA-GEN-Peru-Quake.php)
+2. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-08-18T190255Z_01_N16296310_RTRIDST_0_NEWS-PERU-EARTHQUAKE-COL.XML)
 
 ### Related:
 

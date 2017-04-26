@@ -7,8 +7,8 @@ There&#8217;s now only one day to go until voting starts for the 2014 European P
 
 ### Source:
 
-1. [European Union](https://plus.google.com/108549873871553806005/posts/YwmiC7B5LsL#108549873871553806005/posts/YwmiC7B5LsL)
-2. [Debating Europe](http://www.debatingeurope.eu/2014/05/21/europe-votes-tomorrow/)
+1. [Debating Europe](http://www.debatingeurope.eu/2014/05/21/europe-votes-tomorrow/)
+2. [European Union](https://plus.google.com/108549873871553806005/posts/YwmiC7B5LsL#108549873871553806005/posts/YwmiC7B5LsL)
 
 ### Related:
 

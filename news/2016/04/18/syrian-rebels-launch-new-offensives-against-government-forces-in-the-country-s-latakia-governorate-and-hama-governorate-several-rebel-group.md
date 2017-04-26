@@ -7,8 +7,8 @@ Rockets fired from northern Syria have killed four Syrians - three of them child
 
 ### Source:
 
-1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/syria-rebels-attack-government-positions/27681803.html)
-2. [BBC](http://www.bbc.com/news/world-europe-36077052)
+1. [BBC](http://www.bbc.com/news/world-europe-36077052)
+2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/syria-rebels-attack-government-positions/27681803.html)
 
 ### Related:
 

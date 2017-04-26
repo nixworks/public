@@ -7,8 +7,8 @@ Cases of alleged child abuse in Japan have risen to their highest level since re
 
 ### Source:
 
-1. [The Age](http://news.theage.com.au/breaking-news-world/japans-child-abuse-hits-record-high-20100805-11ko5.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10879109)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10879109)
+2. [The Age](http://news.theage.com.au/breaking-news-world/japans-child-abuse-hits-record-high-20100805-11ko5.html)
 
 ### Related:
 

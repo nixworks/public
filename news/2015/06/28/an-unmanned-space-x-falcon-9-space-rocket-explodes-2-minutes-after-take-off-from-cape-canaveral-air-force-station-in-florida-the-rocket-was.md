@@ -7,8 +7,8 @@ An unmanned SpaceX rocket has exploded after liftoff from Cape Canaveral Air For
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/2015/06/28/technology/spacex-rocket/)
-2. [Reuters via News24](http://www.news24.com/fin24/Tech/News/SpaceX-Falcon-rocket-explodes-after-Florida-liftoff-20150628)
+1. [Reuters via News24](http://www.news24.com/fin24/Tech/News/SpaceX-Falcon-rocket-explodes-after-Florida-liftoff-20150628)
+2. [CNN](http://money.cnn.com/2015/06/28/technology/spacex-rocket/)
 
 ### Related:
 

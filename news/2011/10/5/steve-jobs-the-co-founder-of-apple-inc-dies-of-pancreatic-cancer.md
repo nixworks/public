@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/sites/erikkain/2011/10/05/steve-jobs-has-died-at-age-56/)
-2. [Apple Statement](http://www.marketwatch.com/story/statement-by-apples-board-of-directors-2011-10-05)
+1. [Apple Statement](http://www.marketwatch.com/story/statement-by-apples-board-of-directors-2011-10-05)
+2. [Forbes](http://www.forbes.com/sites/erikkain/2011/10/05/steve-jobs-has-died-at-age-56/)
 
 ### Related:
 

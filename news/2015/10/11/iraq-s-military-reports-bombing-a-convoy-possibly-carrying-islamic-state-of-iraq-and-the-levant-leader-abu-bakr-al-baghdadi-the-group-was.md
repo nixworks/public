@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2015/10/11/uk-mideast-crisis-iraq-baghdadi-idUKKCN0S50KJ20151011)
-2. [New York  Daily News](http://www.nydailynews.com/news/world/top-isis-leaders-killed-iraqi-air-strike-not-baghdadi-article-1.2393228)
+1. [New York  Daily News](http://www.nydailynews.com/news/world/top-isis-leaders-killed-iraqi-air-strike-not-baghdadi-article-1.2393228)
+2. [Reuters](http://uk.reuters.com/article/2015/10/11/uk-mideast-crisis-iraq-baghdadi-idUKKCN0S50KJ20151011)
 
 ### Related:
 

@@ -7,8 +7,8 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [JapanToday](http://www.japantoday.com/jp/news/389364)
-2. [TimesOnline](http://www.timesonline.co.uk/article/0,,25689-2436381,00.html)
+1. [TimesOnline](http://www.timesonline.co.uk/article/0,,25689-2436381,00.html)
+2. [JapanToday](http://www.japantoday.com/jp/news/389364)
 
 ### Related:
 

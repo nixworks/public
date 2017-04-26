@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [El País](http://www.elpais.com/articulo/espana/Decenas/muertos/estrellarse/despegue/avion/salia/Barajas/elpepuesp/20080820elpepunac_11/Tes)
-2. [The International Herald Tribune](http://www.iht.com/articles/2008/08/20/europe/spain.php)
-3. [AFP via ''Mercury](http://www.news.com.au/mercury/story/0,22884,24216348-5005940,00.html)
+1. [AFP via ''Mercury](http://www.news.com.au/mercury/story/0,22884,24216348-5005940,00.html)
+2. [El País](http://www.elpais.com/articulo/espana/Decenas/muertos/estrellarse/despegue/avion/salia/Barajas/elpepuesp/20080820elpepunac_11/Tes)
+3. [The International Herald Tribune](http://www.iht.com/articles/2008/08/20/europe/spain.php)
 
 ### Related:
 

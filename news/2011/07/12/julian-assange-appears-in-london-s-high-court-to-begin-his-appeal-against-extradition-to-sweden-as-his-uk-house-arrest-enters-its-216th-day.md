@@ -7,8 +7,8 @@ WikiLeaks founder Julian Assange launches his appeal against a UK court&#039;s d
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/2011-07-13/wikileaks-assange-extradition-appeal/2792358)
-2. [The Guardian](http://www.guardian.co.uk/media/2011/jul/12/julian-assange-strategy-fight-extradition)
+1. [The Guardian](http://www.guardian.co.uk/media/2011/jul/12/julian-assange-strategy-fight-extradition)
+2. [ABC News](http://www.abc.net.au/news/2011-07-13/wikileaks-assange-extradition-appeal/2792358)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/society/20120305/171764463.html)
+1. [Radio Free Europe](http://www.rferl.org/content/moscow_protest_demands_new_vote/24505779.html)
 2. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/fraud-claims-follow-vladimir-putins-poll-victory/story-e6frg6so-1226289225275)
-3. [Radio Free Europe](http://www.rferl.org/content/moscow_protest_demands_new_vote/24505779.html)
+3. [RIA Novosti](http://en.rian.ru/society/20120305/171764463.html)
 
 ### Related:
 

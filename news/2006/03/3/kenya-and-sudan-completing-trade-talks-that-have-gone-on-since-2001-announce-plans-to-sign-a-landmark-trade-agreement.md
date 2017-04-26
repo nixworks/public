@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AllAfrica](http://allafrica.com/stories/200603030950.html)
-2. [Reuters](http://news.yahoo.com/s/ap/20060304/ap_on_re_af/kenya_food_shortages)
+1. [Reuters](http://news.yahoo.com/s/ap/20060304/ap_on_re_af/kenya_food_shortages)
+2. [AllAfrica](http://allafrica.com/stories/200603030950.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The controversial case has been watched closely by the rest of the country, and 
 
 ### Source:
 
-1. [CSMonitor](http://www.csmonitor.com/World/Americas/2008/0829/p25s22-woam.html)
-2. [LA Times](http://articles.latimes.com/2008/aug/29/world/fg-mexabortion29)
-3. [Guardian](http://www.theguardian.com/world/2008/aug/29/mexico.humanrights)
+1. [Guardian](http://www.theguardian.com/world/2008/aug/29/mexico.humanrights)
+2. [CSMonitor](http://www.csmonitor.com/World/Americas/2008/0829/p25s22-woam.html)
+3. [LA Times](http://articles.latimes.com/2008/aug/29/world/fg-mexabortion29)
 
 ### Related:
 

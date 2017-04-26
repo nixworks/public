@@ -9,8 +9,8 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8552721.stm)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/eight-jailed-over-fiji-plot-20100305-poml.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/05/AR2010030500923.html)
-4. [Bangkok Post](http://www.bangkokpost.com/news/asia/170529/eight-jailed-for-plot-to-kill-fiji-military-leader)
+3. [Bangkok Post](http://www.bangkokpost.com/news/asia/170529/eight-jailed-for-plot-to-kill-fiji-military-leader)
+4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/05/AR2010030500923.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/06/30/news/germany.php)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4639781.stm)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1636171,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4639781.stm)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1636171,00.html)
+3. [IHT](http://www.iht.com/articles/2005/06/30/news/germany.php)
 
 ### Related:
 

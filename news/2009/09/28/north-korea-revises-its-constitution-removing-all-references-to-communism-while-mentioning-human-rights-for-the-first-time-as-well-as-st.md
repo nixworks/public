@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/09/116_52641.html)
-2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20090929&56&615725)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hY5_VJJzvCxgWdthfrbI1iDU4CsQD9B0A13O0)
-4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSEO253213)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hY5_VJJzvCxgWdthfrbI1iDU4CsQD9B0A13O0)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/09/116_52641.html)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSEO253213)
+4. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20090929&56&615725)
 
 ### Related:
 

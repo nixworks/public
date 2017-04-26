@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/oct/22/italian-scientists-jailed-earthquake-aquila)
-2. [BBC](http://www.bbc.com/news/world-europe-20025626)
+1. [BBC](http://www.bbc.com/news/world-europe-20025626)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/oct/22/italian-scientists-jailed-earthquake-aquila)
 3. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/20121022151851442575.html)
 
 ### Related:

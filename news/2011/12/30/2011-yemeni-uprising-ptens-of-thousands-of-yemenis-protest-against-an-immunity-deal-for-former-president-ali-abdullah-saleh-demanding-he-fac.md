@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hNRsYMcoS97j1BLcPepnUn4M5I2A?docId=2b1e706abd074a1d990e1ba08089c1ae)
-2. [Reuters via ''Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/12/31/worldupdates/2011-12-30T233903Z_1_TRE7BT1B9_RTROPTT_0_UK-YEMEN-CLASHES&sec=worldupdates)
+1. [Reuters via ''Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/12/31/worldupdates/2011-12-30T233903Z_1_TRE7BT1B9_RTROPTT_0_UK-YEMEN-CLASHES&sec=worldupdates)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hNRsYMcoS97j1BLcPepnUn4M5I2A?docId=2b1e706abd074a1d990e1ba08089c1ae)
 
 ### Related:
 

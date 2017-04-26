@@ -19,7 +19,7 @@ _Context: Nawaz Sharif, Pakistan Muslim League, Pervez Musharraf, President, Pri
 _Context: Argentina, Hugo Chávez, President, Techint, Ternium-Sidor, Venezuela, steel_
 
 ### [ Israeli police raid the Jerusalem city hall to seize documents related to alleged bribes received by Prime Minister Ehud Olmert from businessman Moshe Talansky. ](/news/2008/05/12/israeli-police-raid-the-jerusalem-city-hall-to-seize-documents-related-to-alleged-bribes-received-by-prime-minister-ehud-olmert-from-busine.md)
-_Context: Ehud Olmert, Israel, Israeli police, Jerusalem, Moshe Talansky, bribe, city hall, prime minister of Israel_
+_Context: Ehud Olmert, Israel, Israeli police, Jerusalem, Moshe Talansky, Prime Minister of Israel, bribe, city hall_
 
 ### [ The President of Bolivia Evo Morales approves recall elections for himself and the governors of the nine departments on August 10, 2008. ](/news/2008/05/12/the-president-of-bolivia-evo-morales-approves-recall-elections-for-himself-and-the-governors-of-the-nine-departments-on-august-10-2008.md)
 _Context: Bolivia, Evo Morales, President of Bolivia, departments, gubernatorial elections, recall referendum_
@@ -28,7 +28,7 @@ _Context: Bolivia, Evo Morales, President of Bolivia, departments, gubernatorial
 _Context: Prime Minister, Russia, Russian Government, Vladimir Putin_
 
 ### [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md)
-_Context: Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma!, United States_
+_Context: Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma!, U.S._
 
 ## [Previous Day...](/news/2008/05/11/index.md)
 

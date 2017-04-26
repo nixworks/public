@@ -8,9 +8,9 @@ At least 33 people have been killed and more than 100 injured in a series of exp
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32363749?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-2. [RT](http://rt.com/news/250821-afghanistan-blast-jalalabad-victims/)
-3. [CNN](http://edition.cnn.com/2015/04/18/asia/afghanistan-violence/index.html)
-4. [Reuters](http://www.reuters.com/article/2015/04/18/us-afghanistan-blast-idUSKBN0N904620150418)
+2. [Reuters](http://www.reuters.com/article/2015/04/18/us-afghanistan-blast-idUSKBN0N904620150418)
+3. [RT](http://rt.com/news/250821-afghanistan-blast-jalalabad-victims/)
+4. [CNN](http://edition.cnn.com/2015/04/18/asia/afghanistan-violence/index.html)
 
 ### Related:
 

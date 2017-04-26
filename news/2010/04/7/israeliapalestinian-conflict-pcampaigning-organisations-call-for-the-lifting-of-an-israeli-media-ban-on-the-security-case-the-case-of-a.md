@@ -7,14 +7,14 @@ According to the group, military courts in Gaza sentenced 16 people to death in 
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=172543)
-2. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2010040868747)
-3. [Ha'aetz](http://www.haaretz.com/hasen/spages/1161437.html)
-4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=172540)
-5. [CNN](http://edition.cnn.com/2010/WORLD/meast/04/07/mideast.sex.tape/index.html?hpt=T2)
-6. [Arab News](http://arabnews.com/middleeast/article39978.ece)
+1. [Ha'aetz](http://www.haaretz.com/hasen/spages/1161437.html)
+2. [Arab News](http://arabnews.com/saudiarabia/article40389.ece)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=172543)
+4. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2010040868747)
+5. [Arab News](http://arabnews.com/middleeast/article39978.ece)
+6. [CNN](http://edition.cnn.com/2010/WORLD/meast/04/07/mideast.sex.tape/index.html?hpt=T2)
 7. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8608227.stm)
-8. [Arab News](http://arabnews.com/saudiarabia/article40389.ece)
+8. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=172540)
 
 ### Related:
 

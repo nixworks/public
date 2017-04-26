@@ -7,8 +7,8 @@ The number was far in excess of expectations and more than three times the 37,00
 
 ### Source:
 
-1. [TV NZ](http://tvnz.co.nz/world-news/estimated-120-000-attend-canberra-dawn-service-6300228)
-2. [BBC](http://www.bbc.com/news/world-europe-32459375)
+1. [BBC](http://www.bbc.com/news/world-europe-32459375)
+2. [TV NZ](http://tvnz.co.nz/world-news/estimated-120-000-attend-canberra-dawn-service-6300228)
 
 ### Related:
 

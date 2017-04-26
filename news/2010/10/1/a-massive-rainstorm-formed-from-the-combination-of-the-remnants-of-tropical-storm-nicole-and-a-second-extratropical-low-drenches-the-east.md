@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via WMBF](http://www.wmbfnews.com/story/13243500/rain-pounds-nc-as-storm-moves-up-the-east-coast)
-2. [AOL](http://www.aolnews.com/story/storms-drench-much-of-the-east-coast-5/1303729?cid=10)
+1. [AOL](http://www.aolnews.com/story/storms-drench-much-of-the-east-coast-5/1303729?cid=10)
+2. [AP via WMBF](http://www.wmbfnews.com/story/13243500/rain-pounds-nc-as-storm-moves-up-the-east-coast)
 
 ### Related:
 

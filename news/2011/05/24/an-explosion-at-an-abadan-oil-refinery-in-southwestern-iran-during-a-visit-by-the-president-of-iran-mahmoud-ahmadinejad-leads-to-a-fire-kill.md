@@ -7,8 +7,8 @@ A deadly blast during the inauguration of a major oil refinery by Iranian Presid
 
 ### Source:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/blast-during-ahmadinejad-opening-of-refinery-kills-two/2011/05/24/AFXqMKAH_story.html)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4073069,00.html)
+1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4073069,00.html)
+2. [AP via ''Washington Post](http://www.washingtonpost.com/world/blast-during-ahmadinejad-opening-of-refinery-kills-two/2011/05/24/AFXqMKAH_story.html)
 
 ### Related:
 

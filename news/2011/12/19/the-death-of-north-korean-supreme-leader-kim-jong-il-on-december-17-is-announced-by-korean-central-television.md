@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/12/19/world/asia/north-korea-leader-dead/index.html)
+1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204791104577107350219610874.html)
 2. [CNN](http://www.cnn.com/2011/12/18/world/asia/kimjong-il-obit/index.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2011/12/201112193620221153.html)
-4. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204791104577107350219610874.html)
-5. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1172236/1/.html)
+3. [CNN](http://www.cnn.com/2011/12/19/world/asia/north-korea-leader-dead/index.html)
+4. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1172236/1/.html)
+5. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2011/12/201112193620221153.html)
 
 ### Related:
 

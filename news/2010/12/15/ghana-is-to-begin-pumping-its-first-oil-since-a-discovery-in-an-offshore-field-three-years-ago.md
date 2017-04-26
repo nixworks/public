@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times LIVE](http://www.timeslive.co.za/africa/article816776.ece/Ghana-becomes-an-oil-nation)
-2. [Ghana Broadcasting Corporation](http://gbcghana.com/index.php?id=1.183128)
+1. [Ghana Broadcasting Corporation](http://gbcghana.com/index.php?id=1.183128)
+2. [Times LIVE](http://www.timeslive.co.za/africa/article816776.ece/Ghana-becomes-an-oil-nation)
 
 ### Related:
 

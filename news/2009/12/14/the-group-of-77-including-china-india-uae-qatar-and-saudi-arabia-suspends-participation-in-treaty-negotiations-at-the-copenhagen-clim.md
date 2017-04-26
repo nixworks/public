@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8411898.stm)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i9TuMrvrknh-ZXwqmZ2N-48kff3wD9CJ874O0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i9TuMrvrknh-ZXwqmZ2N-48kff3wD9CJ874O0)
+2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8411898.stm)
 
 ### Related:
 

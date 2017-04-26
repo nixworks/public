@@ -7,8 +7,8 @@ At least 113 people killed after cloudburst causes water to sweep through Leh.
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108683855593220.html)
-2. [The Times of India](http://timesofindia.indiatimes.com/india/Flash-floods-in-Leh-leave-103-dead-370-injured/articleshow/6264165.cms)
+1. [The Times of India](http://timesofindia.indiatimes.com/india/Flash-floods-in-Leh-leave-103-dead-370-injured/articleshow/6264165.cms)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108683855593220.html)
 
 ### Related:
 

@@ -7,15 +7,15 @@ A journalist, 22, was sentenced for her connection to a Lebanese TV show in whic
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2009/10/25/world/middleeast/25saudi.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8324117.stm)
-3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/journalist-sentenced-lashes-saudi-arabia)
-4. [CNN](http://edition.cnn.com/2009/WORLD/meast/10/24/saudi.sex.braggart.journalist/)
-5. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLO592546)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8324117.stm)
+2. [The New York Times](http://www.nytimes.com/2009/10/25/world/middleeast/25saudi.html)
+3. [CNN](http://edition.cnn.com/2009/WORLD/meast/10/24/saudi.sex.braggart.journalist/)
+4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLO592546)
+5. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/journalist-sentenced-lashes-saudi-arabia)
 
 ### Related:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 2. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 3. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 4. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

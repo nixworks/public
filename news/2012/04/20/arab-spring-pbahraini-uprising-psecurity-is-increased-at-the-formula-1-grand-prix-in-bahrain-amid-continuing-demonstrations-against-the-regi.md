@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17786228)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17788086)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-17781138)
-4. [Al Arabiya](http://english.alarabiya.net/articles/2012/04/20/209069.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242073436819990.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17786228)
+3. [Al Arabiya](http://english.alarabiya.net/articles/2012/04/20/209069.html)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-17788086)
 5. [Al Arabiya](http://english.alarabiya.net/articles/2012/04/20/208971.html)
-6. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242073436819990.html)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-17781138)
 
 ### Related:
 

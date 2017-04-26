@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-28T115241Z_01_YUE842740_RTRUKOC_0_UK-SECURITY-PAKISTAN.xml&archived=False)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4289740.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4289740.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-28T115241Z_01_YUE842740_RTRUKOC_0_UK-SECURITY-PAKISTAN.xml&archived=False)
 
 ### Related:
 

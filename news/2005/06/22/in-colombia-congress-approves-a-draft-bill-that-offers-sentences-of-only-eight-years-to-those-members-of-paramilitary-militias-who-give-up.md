@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IHT](http://iht.com/articles/2005/06/22/news/colombia.php)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N21644945.htm)
-3. [Colombia Journal](http://www.colombiajournal.org/colombia211.htm)
+1. [Colombia Journal](http://www.colombiajournal.org/colombia211.htm)
+2. [IHT](http://iht.com/articles/2005/06/22/news/colombia.php)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N21644945.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Union pledges to fight to reverse the decision.
 
 ### Source:
 
-1. [Business Standard](http://www.business-standard.com/india/news/corus-axes-3500-jobs/14/09/347186/)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i7tFqA1-8RZQHn2dfeUko9BQq7Wg)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i7tFqA1-8RZQHn2dfeUko9BQq7Wg)
+2. [Business Standard](http://www.business-standard.com/india/news/corus-axes-3500-jobs/14/09/347186/)
 
 ### Related:
 

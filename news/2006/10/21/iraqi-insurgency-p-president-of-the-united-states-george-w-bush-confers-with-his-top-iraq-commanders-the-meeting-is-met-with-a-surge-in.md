@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601103&sid=at9X1Z7oilgY)
-2. [Boston Herald](http://news.bostonherald.com/international/view.bg?articleid=163433)
+2. [Boston Herald](http://news.bostonherald.com/international/view.bg?articleid=163580)
 3. [AP via Southern Illinoisan](http://www.southernillinoisan.com/articles/2006/10/21/ap/headlines/d8kt8t880.txt)
-4. [Boston Herald](http://news.bostonherald.com/international/view.bg?articleid=163580)
+4. [Boston Herald](http://news.bostonherald.com/international/view.bg?articleid=163433)
 
 ### Related:
 

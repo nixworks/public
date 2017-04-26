@@ -7,8 +7,8 @@ Minister for Arts, Sport and Tourism Martin Cullen is to resign from the Cabinet
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0308/breaking50.html)
-2. [RTÉ](http://www.rte.ie/news/2010/0308/cullenm.html)
+1. [RTÉ](http://www.rte.ie/news/2010/0308/cullenm.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0308/breaking50.html)
 
 ### Related:
 

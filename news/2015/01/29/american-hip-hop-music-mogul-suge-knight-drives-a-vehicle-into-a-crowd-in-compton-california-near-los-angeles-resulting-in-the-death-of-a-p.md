@@ -7,9 +7,9 @@ Knight&#x27;s attorney said the rap impresario was behind the wheel of the truck
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Entertainment_News/2015/01/29/Suge-Knight-involved-in-hit-and-run-on-film-set-victim-dead/8701422589429/)
+1. [NBC News](http://www.nbcnews.com/news/investigations/marion-suge-knight-involved-hit-run-killed-pedestrian-n296596)
 2. [Twitter](https://twitter.com/tercar1/status/561189703769415681)
-3. [NBC News](http://www.nbcnews.com/news/investigations/marion-suge-knight-involved-hit-run-killed-pedestrian-n296596)
+3. [UPI](http://www.upi.com/Entertainment_News/2015/01/29/Suge-Knight-involved-in-hit-and-run-on-film-set-victim-dead/8701422589429/)
 
 ### Related:
 

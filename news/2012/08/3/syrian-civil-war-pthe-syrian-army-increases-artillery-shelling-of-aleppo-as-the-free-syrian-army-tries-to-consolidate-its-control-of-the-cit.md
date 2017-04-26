@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/08/03/world/meast/syria-unrest/index.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128353645664375.html)
 2. [CNN](http://edition.cnn.com/2012/08/03/world/meast/syria-unrest/index.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128353645664375.html)
+3. [CNN](http://www.cnn.com/2012/08/03/world/meast/syria-unrest/index.html)
 
 ### Related:
 

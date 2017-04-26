@@ -7,11 +7,11 @@ How graphic images are being used on social media.
 
 ### Source:
 
-1. [YouTube](https://www.youtube.com/watch?v=ZMw80GQPXhU)
-2. [BBC](http://www.bbc.com/news/blogs-trending-28198622)
-3. [Palestinian Media Watch](http://www.palwatch.org/main.aspx?fi=157&doc_id=11970)
-4. [IsraelNationalNews](http://www.israelnationalnews.com/News/News.aspx/182652#.U76PxfldWop)
-5. [JPost](http://www.jpost.com/Operation-Protective-Edge/WATCH-Israel-thwarts-Palestinian-terrorist-attack-on-major-West-Bank-highway-362266)
+1. [Palestinian Media Watch](http://www.palwatch.org/main.aspx?fi=157&doc_id=11970)
+2. [JPost](http://www.jpost.com/Operation-Protective-Edge/WATCH-Israel-thwarts-Palestinian-terrorist-attack-on-major-West-Bank-highway-362266)
+3. [IsraelNationalNews](http://www.israelnationalnews.com/News/News.aspx/182652#.U76PxfldWop)
+4. [YouTube](https://www.youtube.com/watch?v=ZMw80GQPXhU)
+5. [BBC](http://www.bbc.com/news/blogs-trending-28198622)
 
 ### Related:
 

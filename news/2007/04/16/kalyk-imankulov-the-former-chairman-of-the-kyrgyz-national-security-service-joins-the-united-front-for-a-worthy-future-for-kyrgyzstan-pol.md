@@ -7,8 +7,8 @@ Kyrgyzstan entered its sixth day of anti-government protests on April 16, after 
 
 ### Source:
 
-1. [EurasiaNet](http://www.eurasianet.org/departments/insight/articles/eav041607a.shtml)
-2. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=11713881)
+1. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=11713881)
+2. [EurasiaNet](http://www.eurasianet.org/departments/insight/articles/eav041607a.shtml)
 
 ### Related:
 

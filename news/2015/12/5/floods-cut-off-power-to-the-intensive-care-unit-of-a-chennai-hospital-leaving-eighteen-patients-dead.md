@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ABC News](http://abcnews.go.com/International/wireStory/18-die-india-hospital-floods-cut-off-power-35594264)
-2. [The Malay Mail](http://www.themalaymailonline.com/world/article/indias-chennai-struggles-with-aftermath-of-deadly-flood-after-worst-rains-i)
+1. [The Malay Mail](http://www.themalaymailonline.com/world/article/indias-chennai-struggles-with-aftermath-of-deadly-flood-after-worst-rains-i)
+2. [AP via ABC News](http://abcnews.go.com/International/wireStory/18-die-india-hospital-floods-cut-off-power-35594264)
 3. [The Gulf Today](http://gulftoday.ae/portal/297be1da-f473-49be-a6df-32e8f62863f4.aspx)
 
 ### Related:

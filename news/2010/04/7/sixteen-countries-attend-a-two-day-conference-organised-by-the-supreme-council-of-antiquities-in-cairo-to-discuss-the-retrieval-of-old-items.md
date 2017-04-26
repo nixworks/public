@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100407-cairo-archaeology-meeting-recover-national-treasures-nefertiti-rosetta-stone)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8606458.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8606458.stm)
+2. [France24](http://www.france24.com/en/20100407-cairo-archaeology-meeting-recover-national-treasures-nefertiti-rosetta-stone)
 
 ### Related:
 

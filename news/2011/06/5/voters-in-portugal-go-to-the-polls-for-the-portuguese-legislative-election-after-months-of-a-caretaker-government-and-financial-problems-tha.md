@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [AFP via France24](http://www.france24.com/en/20110605-portugal-votes-early-election-centre-right-leads)
-2. [AP via Yahoo](http://sg.finance.yahoo.com/news/Projection-Opposition-wins-apf-3560171811.html?x=0)
-3. [CNN](http://www.cnn.com/2011/WORLD/europe/06/05/portugal.election/index.html)
-4. [The Guardian](http://www.guardian.co.uk/world/2011/jun/05/pedro-passos-coelho-election-portugal)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/jun/05/pedro-passos-coelho-election-portugal)
+2. [CNN](http://www.cnn.com/2011/WORLD/europe/06/05/portugal.election/index.html)
+3. [AP via Yahoo](http://sg.finance.yahoo.com/news/Projection-Opposition-wins-apf-3560171811.html?x=0)
+4. [AFP via France24](http://www.france24.com/en/20110605-portugal-votes-early-election-centre-right-leads)
 
 ### Related:
 

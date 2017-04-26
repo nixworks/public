@@ -7,17 +7,17 @@ A French plane has fired the first shots on a military vehicle in Libya, as the 
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/42164455/ns/world_news-mideastn_africa/)
-2. [Reuters](http://www.reuters.com/article/2011/03/19/us-libya-usa-strike-idUSTRE72I3N120110319?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-3. [AP via the ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7480381.html)
-4. [Fox News](http://www.foxnews.com/world/2011/03/19/france-fires-libyan-military-vehicle/)
-5. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201131934914112208.html)
-6. [AFP via News Limited](http://www.news.com.au/world/gaddafi-says-benghazi-attack-today/story-e6frfkyi-1226023693860?from=public_rss)
-7. [BBC](http://www.bbc.co.uk/news/world-africa-12795971?utm_source=twitterfeed&utm_medium=twitter)
-8. [News Limited](http://www.news.com.au/world/french-open-fire-in-libya/story-e6frfkyi-1226024793478?from=public_rss)
-9. [Tunis Afrique Press News Agency](http://www.tap.info.tn/en/index.php?option=com_content&task=view&id=16175&Itemid=56)
-10. [Reuters](http://www.reuters.com/article/2011/03/19/us-libya-idUSTRE7270JP20110319)
-11. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1117512/1/.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [News Limited](http://www.news.com.au/world/french-open-fire-in-libya/story-e6frfkyi-1226024793478?from=public_rss)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201131934914112208.html)
+3. [Reuters](http://www.reuters.com/article/2011/03/19/us-libya-idUSTRE7270JP20110319)
+4. [Reuters](http://www.reuters.com/article/2011/03/19/us-libya-usa-strike-idUSTRE72I3N120110319?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+5. [AP via the ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7480381.html)
+6. [BBC](http://www.bbc.co.uk/news/world-africa-12795971?utm_source=twitterfeed&utm_medium=twitter)
+7. [AFP via News Limited](http://www.news.com.au/world/gaddafi-says-benghazi-attack-today/story-e6frfkyi-1226023693860?from=public_rss)
+8. [Fox News](http://www.foxnews.com/world/2011/03/19/france-fires-libyan-military-vehicle/)
+9. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1117512/1/.html?utm_source=twitterfeed&utm_medium=twitter)
+10. [MSNBC](http://www.msnbc.msn.com/id/42164455/ns/world_news-mideastn_africa/)
+11. [Tunis Afrique Press News Agency](http://www.tap.info.tn/en/index.php?option=com_content&task=view&id=16175&Itemid=56)
 
 ### Related:
 

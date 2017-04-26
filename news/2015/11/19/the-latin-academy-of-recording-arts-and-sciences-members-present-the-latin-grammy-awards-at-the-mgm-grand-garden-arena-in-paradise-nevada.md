@@ -7,9 +7,9 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/Entertainment/wireStory/natalia-lafourcade-leonel-garcia-light-latin-grammys-35315557)
+1. [Newser](http://www.newser.com/article/914b3f795a214102a9de0632f2a9efcc/juan-luis-guerra-natalia-lafourcade-split-top-latin-grammy-honors-winning-3-trophies-each.html1227211417509)
 2. [The Miami Herald](http://www.miamiherald.com/entertainment/celebrities/article45544683.html)
-3. [Newser](http://www.newser.com/article/914b3f795a214102a9de0632f2a9efcc/juan-luis-guerra-natalia-lafourcade-split-top-latin-grammy-honors-winning-3-trophies-each.html1227211417509)
+3. [ABC News](http://abcnews.go.com/Entertainment/wireStory/natalia-lafourcade-leonel-garcia-light-latin-grammys-35315557)
 
 ### Related:
 

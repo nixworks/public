@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/4881792.stm)
-2. [Guardian Unlimited](http://www.guardian.co.uk/international/story/0,,1748658,00.html?gusrc=rss)
+1. [Guardian Unlimited](http://www.guardian.co.uk/international/story/0,,1748658,00.html?gusrc=rss)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4881792.stm)
 
 ### Related:
 

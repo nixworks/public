@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-12/19/content_12672632.htm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8422165.stm)
-3. [Times of Nigeria](http://www.thetimesofnigeria.com/Article.aspx?id=2345)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8422165.stm)
+2. [Times of Nigeria](http://www.thetimesofnigeria.com/Article.aspx?id=2345)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/19/content_12672632.htm)
 
 ### Related:
 

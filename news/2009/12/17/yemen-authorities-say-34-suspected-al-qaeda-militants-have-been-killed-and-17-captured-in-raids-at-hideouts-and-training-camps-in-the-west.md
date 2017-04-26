@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yemen News Agency](http://www.sabanews.net/en/news200856.htm)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jyZ4yhVqAu5yqaNFXVY9748IMsNwD9CL0OTO0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jyZ4yhVqAu5yqaNFXVY9748IMsNwD9CL0OTO0)
+2. [Yemen News Agency](http://www.sabanews.net/en/news200856.htm)
 3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/world/14-yemen-kills-34-al-qaeda-militants-captures-17-official-zj-07)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/us-concerned-about-extrajudicial-killings-in-philippines/2016/08/09/f42853cc-5e09-11e6-84c1-6d27287896b5_story.html)
-2. [Rappler](http://www.rappler.com/nation/142510-duterte-sereno-declare-martial-law)
+1. [Rappler](http://www.rappler.com/nation/142510-duterte-sereno-declare-martial-law)
+2. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/us-concerned-about-extrajudicial-killings-in-philippines/2016/08/09/f42853cc-5e09-11e6-84c1-6d27287896b5_story.html)
 
 ### Related:
 

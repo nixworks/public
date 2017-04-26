@@ -7,9 +7,9 @@ Two people are shot dead and more than 400 injured in protests across Egypt spar
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16863190)
+1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/22-dead-in-egypt-1328173.html)
 2. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201222174712848617.html)
-3. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/22-dead-in-egypt-1328173.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-16863190)
 
 ### Related:
 

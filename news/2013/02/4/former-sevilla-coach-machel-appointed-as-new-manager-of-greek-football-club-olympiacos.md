@@ -7,8 +7,8 @@ The official site of the international governing body of football with news, nat
 
 ### Source:
 
-1. [Reuters via Yahoo!](http://sports.yahoo.com/news/1-soccer-olympiakos-appoint-michel-first-league-defeat-191222964--sow.html)
-2. [AP via FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=2000674.html)
+1. [AP via FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=2000674.html)
+2. [Reuters via Yahoo!](http://sports.yahoo.com/news/1-soccer-olympiakos-appoint-michel-first-league-defeat-191222964--sow.html)
 
 ### Related:
 

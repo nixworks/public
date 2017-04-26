@@ -7,8 +7,8 @@ Moody&rsquo;s Investors Service downgraded the debt ratings of 15 major internat
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-18542691)
-2. [CNBC](http://www.cnbc.com/id/47908669)
+1. [CNBC](http://www.cnbc.com/id/47908669)
+2. [BBC](http://www.bbc.co.uk/news/world-18542691)
 
 ### Related:
 

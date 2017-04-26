@@ -7,9 +7,9 @@ IRAN-ELECTION/RESULTS:Rohani tops early Iran election results -interior minister
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/2013/06/15/309169/rohani-becomes-irans-new-president/)
-2. [AP via Fox News LA](http://www.myfoxla.com/story/22583298/a-look-at-irans-voters-and-election-process)
-3. [Reuters via Thomson Reuters Foundation](http://www.trust.org/item/20130615012609-im453)
+1. [Reuters via Thomson Reuters Foundation](http://www.trust.org/item/20130615012609-im453)
+2. [Press TV](http://www.presstv.ir/detail/2013/06/15/309169/rohani-becomes-irans-new-president/)
+3. [AP via Fox News LA](http://www.myfoxla.com/story/22583298/a-look-at-irans-voters-and-election-process)
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-22916174)
 
 ### Related:

@@ -7,8 +7,8 @@ Two Palestinians are shot dead by an Israeli truck driver in the West Bank after
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4243349,00.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18478829)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18478829)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4243349,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/6430951.stm)
-2. [AP via CNN](http://edition.cnn.com/2007/WORLD/americas/03/07/bush.trip.ap/index.html?eref=rss_world)
+1. [AP via CNN](http://edition.cnn.com/2007/WORLD/americas/03/07/bush.trip.ap/index.html?eref=rss_world)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/6430951.stm)
 
 ### Related:
 

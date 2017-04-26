@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-38978627)
-2. [CNN](http://www.cnn.com/2017/02/15/world/dominican-republic-radio-facebook-shooting-trnd/)
+1. [CNN](http://www.cnn.com/2017/02/15/world/dominican-republic-radio-facebook-shooting-trnd/)
+2. [BBC](http://www.bbc.com/news/world-latin-america-38978627)
 
 ### Related:
 

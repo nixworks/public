@@ -8,8 +8,8 @@ Separatists in Catalonia claim victory in a regional election that they have vow
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-28/separatists-win-majority-of-seats-in-catalan-vote-exit-poll-says/6808550)
-2. [BBC](http://www.bbc.com/news/world-europe-34372548)
-3. [Euronews](http://www.euronews.com/2015/09/27/separatist-parties-win-majority-of-seats-in-catalan-regional-poll/)
+2. [Euronews](http://www.euronews.com/2015/09/27/separatist-parties-win-majority-of-seats-in-catalan-regional-poll/)
+3. [BBC](http://www.bbc.com/news/world-europe-34372548)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NY Times](http://www.nytimes.com/2006/04/28/world/asia/28cnd-hyundai.html?hp&ex=1146283200&en=addb42d7d874746e&ei=5094&partner=homepage)
-2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/04/28/hyundai.probe.ap/)
+1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/04/28/hyundai.probe.ap/)
+2. [NY Times](http://www.nytimes.com/2006/04/28/world/asia/28cnd-hyundai.html?hp&ex=1146283200&en=addb42d7d874746e&ei=5094&partner=homepage)
 
 ### Related:
 

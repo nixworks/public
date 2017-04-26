@@ -7,8 +7,8 @@ Swansea reach the Capital One Cup final with a 2-0 aggregate win over Chelsea, w
 
 ### Source:
 
-1. [ESPN](http://espnfc.com/uk/en/report/358615/report.html)
-2. [BBC Sport](http://www.bbc.co.uk/sport/0/football/21038756)
+1. [BBC Sport](http://www.bbc.co.uk/sport/0/football/21038756)
+2. [ESPN](http://espnfc.com/uk/en/report/358615/report.html)
 
 ### Related:
 

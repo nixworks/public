@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=367979&CategoryId=23558)
-2. [CNN](http://edition.cnn.com/2010/CRIME/09/24/slain.nicaraguan.diplomat/)
+1. [CNN](http://edition.cnn.com/2010/CRIME/09/24/slain.nicaraguan.diplomat/)
+2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=367979&CategoryId=23558)
 
 ### Related:
 

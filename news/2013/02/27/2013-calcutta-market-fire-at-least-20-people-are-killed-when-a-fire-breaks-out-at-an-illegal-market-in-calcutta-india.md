@@ -7,9 +7,9 @@ At least 20 people are killed in a fire at an illegal paper and plastics market 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2013/02/27/world/asia/india-fire)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-india-21597839)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/9896726/19-killed-in-Calcutta-fire.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/9896726/19-killed-in-Calcutta-fire.html)
+2. [CNN](http://edition.cnn.com/2013/02/27/world/asia/india-fire)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-india-21597839)
 
 ### Related:
 

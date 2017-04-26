@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The International News](http://www.thenews.com.pk/article-77108-Malala-ranks-6th-on-FP-list-)
-2. [Foreign Policy](http://www.foreignpolicy.com/2012globalthinkers)
+1. [Foreign Policy](http://www.foreignpolicy.com/2012globalthinkers)
+2. [The International News](http://www.thenews.com.pk/article-77108-Malala-ranks-6th-on-FP-list-)
 
 ### Related:
 

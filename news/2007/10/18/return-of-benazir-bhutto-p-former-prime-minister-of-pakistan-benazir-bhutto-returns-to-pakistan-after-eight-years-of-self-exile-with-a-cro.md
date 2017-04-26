@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/10/17/pakistan.bhutto/index.html)
-2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/10/18/pakistan.explosions/index.html)
+1. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/10/18/pakistan.explosions/index.html)
+2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/10/17/pakistan.bhutto/index.html)
 
 ### Related:
 

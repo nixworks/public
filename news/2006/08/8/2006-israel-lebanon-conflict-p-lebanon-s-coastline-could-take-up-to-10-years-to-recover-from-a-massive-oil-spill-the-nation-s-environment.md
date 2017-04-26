@@ -8,12 +8,12 @@ Foreign Ministry recalls envoy following Venezuelan president&#39;s comments com
 ### Source:
 
 1. [YNET NEWS](http://www.ynetnews.com/articles/0,7340,L-3288005,00.html)
-2. [VenezuelAnalysis](http://www.venezuelanalysis.com/news.php?newsno=2031)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/default.stm)
-4. [ADL](http://www.adl.org/PresRele/IslME_62/4866_62.htm)
-5. [BBC NEWS](http://news.bbc.co.uk/1/hi/sci/tech/5255966.stm)
-6. [Haaretz](http://www.haaretz.com/hasen/spages/746636.html)
-7. [Reuters](http://www.alertnet.org/thenews/newsdesk/L08494382.htm)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/746636.html)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/L08494382.htm)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/default.stm)
+5. [VenezuelAnalysis](http://www.venezuelanalysis.com/news.php?newsno=2031)
+6. [BBC NEWS](http://news.bbc.co.uk/1/hi/sci/tech/5255966.stm)
+7. [ADL](http://www.adl.org/PresRele/IslME_62/4866_62.htm)
 
 ### Related:
 

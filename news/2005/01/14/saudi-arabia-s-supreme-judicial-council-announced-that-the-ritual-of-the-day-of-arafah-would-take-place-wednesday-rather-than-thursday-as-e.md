@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [Arabicnews.com](http://www.arabicnews.com/ansub/Daily/Day/050115/2005011511.html)
-2. [The Guardian](http://www.guardian.co.uk/saudi/story/0,11599,1392816,00.html)
+1. [The Guardian](http://www.guardian.co.uk/saudi/story/0,11599,1392816,00.html)
+2. [Arabicnews.com](http://www.arabicnews.com/ansub/Daily/Day/050115/2005011511.html)
 
 ### Related:
 
 1. [ Hajj: Pilgrims on Hajj celebrate Eid ul-Adha in Saudi Arabia, and prepare to stone the pillars that represent satan, and eat meat of a newly killed animal, while giving meat to those less fortunate as ''qurbani''. Hajj Celebrations will also be held around the world, but some will wait until Friday. ](/news/2005/01/20/hajj-p-pilgrims-on-hajj-celebrate-eid-ul-adha-in-saudi-arabia-and-prepare-to-stone-the-pillars-that-represent-satan-and-eat-meat-of-a-new.md) _Context: Eid ul-Adha, Saudi Arabia_
-2. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+2. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 3. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 4. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 5. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

@@ -7,10 +7,10 @@ French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Ga
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-21203731)
-2. [Xinhua](http://news.xinhuanet.com/english/africa/2013-01/25/c_132128234.htm)
-3. [AFP via Al Arabiya](http://english.alarabiya.net/articles/2013/01/25/262489.html)
-4. [RFI](http://www.english.rfi.fr/africa/20130125-french-mali-troops-take-town-head-gao-and-timbuktu)
+1. [AFP via Al Arabiya](http://english.alarabiya.net/articles/2013/01/25/262489.html)
+2. [RFI](http://www.english.rfi.fr/africa/20130125-french-mali-troops-take-town-head-gao-and-timbuktu)
+3. [Xinhua](http://news.xinhuanet.com/english/africa/2013-01/25/c_132128234.htm)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-21203731)
 
 ### Related:
 

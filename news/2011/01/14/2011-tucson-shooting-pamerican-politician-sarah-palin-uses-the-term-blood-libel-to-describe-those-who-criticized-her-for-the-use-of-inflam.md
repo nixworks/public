@@ -7,10 +7,10 @@ Sarah Palin was straining to look presidential. With the Stars and Stripes at he
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/debate/article-1347028/Palin-politics-new-lexicon-hate.html?ito=feeds-newsxml)
-2. [The Independent](http://www.independent.co.uk/news/world/americas/blood-libel-the-two-words-that-spelled-trouble-for-sarah-palin-2184102.html)
-3. [The Sydney Morning Herald](http://www.smh.com.au/world/palin-cops-flak-for-term-offensive-to-jews-20110113-19psq.html)
-4. [BBC](http://www.bbc.co.uk/news/world-us-canada-12185872)
+1. [The Sydney Morning Herald](http://www.smh.com.au/world/palin-cops-flak-for-term-offensive-to-jews-20110113-19psq.html)
+2. [Daily Mail](http://www.dailymail.co.uk/debate/article-1347028/Palin-politics-new-lexicon-hate.html?ito=feeds-newsxml)
+3. [BBC](http://www.bbc.co.uk/news/world-us-canada-12185872)
+4. [The Independent](http://www.independent.co.uk/news/world/americas/blood-libel-the-two-words-that-spelled-trouble-for-sarah-palin-2184102.html)
 
 ### Related:
 

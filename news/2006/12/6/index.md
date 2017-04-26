@@ -4,7 +4,7 @@
 _Context: Democratic Republic of the Congo, Joseph Kabila, President, presidential candidate in 2006_
 
 ### [ The Iraq Study Group Report calls the situation in Iraq "grave and deteriorating" and calls for a change in strategy including the removal of most United States troops by early 2008. ](/news/2006/12/6/the-iraq-study-group-report-calls-the-situation-in-iraq-grave-and-deteriorating-and-calls-for-a-change-in-strategy-including-the-removal.md)
-_Context: Iraq, Iraq Study Group Report, United States_
+_Context: Iraq, Iraq Study Group Report, U.S._
 
 ### [ The Australian House of Representatives passes private members legislation allowing therapeutic cloning after a conscience vote. The Australian Senate had already approved the bill prepared by Senator Kay Patterson meaning that it will become law. ](/news/2006/12/6/the-australian-house-of-representatives-passes-private-members-legislation-allowing-therapeutic-cloning-after-a-conscience-vote-the-austra.md)
 _Context: Australian Senate, Kay Patterson, Lower House, conscience vote, therapeutic cloning_

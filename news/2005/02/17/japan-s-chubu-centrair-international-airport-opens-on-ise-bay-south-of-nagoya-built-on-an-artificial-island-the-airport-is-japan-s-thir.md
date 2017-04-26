@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyodo News](http://home.kyodo.co.jp/all/display.jsp?an=20050217001)
-2. [Daily Yomiuri](http://www.yomiuri.co.jp/newse/20050217wo62.htm)
+1. [Daily Yomiuri](http://www.yomiuri.co.jp/newse/20050217wo62.htm)
+2. [Kyodo News](http://home.kyodo.co.jp/all/display.jsp?an=20050217001)
 
 ### Related:
 

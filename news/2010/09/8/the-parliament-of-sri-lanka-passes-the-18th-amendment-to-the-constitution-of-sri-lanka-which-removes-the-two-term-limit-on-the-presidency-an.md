@@ -8,8 +8,8 @@ Sri Lankan MPs overwhelmingly approve proposals to let President Mahinda Rajapak
 ### Source:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/sri-lanka-chief-mahinda-rajapakse-to-get-total-power/story-e6frg6so-1225916088607)
-2. [New York Times](http://www.nytimes.com/2010/09/09/world/asia/09srilanka.html)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11225723)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11225723)
+3. [New York Times](http://www.nytimes.com/2010/09/09/world/asia/09srilanka.html)
 
 ### Related:
 

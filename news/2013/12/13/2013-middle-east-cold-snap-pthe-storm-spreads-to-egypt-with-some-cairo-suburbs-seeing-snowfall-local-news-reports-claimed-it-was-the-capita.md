@@ -7,9 +7,9 @@ A regional cold snap spreads to Egypt, with some Cairo suburbs seeing snowfall f
 
 ### Source:
 
-1. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Dec-13/240969-cairo-sees-first-snow-in-years-as-cold-snap-hits-egypt.ashx#axzz2nMzCNzyf)
-2. [Huffington Post](http://www.huffingtonpost.co.uk/2013/12/13/snow-egypt-middle-east_n_4438571.html?utm_hp_ref=uk)
-3. [Al-Ahram](http://english.ahram.org.eg/NewsContentP/1/89025/Egypt/Winter-brings-snow-to-Cairo.aspx)
+1. [Al-Ahram](http://english.ahram.org.eg/NewsContentP/1/89025/Egypt/Winter-brings-snow-to-Cairo.aspx)
+2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Dec-13/240969-cairo-sees-first-snow-in-years-as-cold-snap-hits-egypt.ashx#axzz2nMzCNzyf)
+3. [Huffington Post](http://www.huffingtonpost.co.uk/2013/12/13/snow-egypt-middle-east_n_4438571.html?utm_hp_ref=uk)
 
 ### Related:
 

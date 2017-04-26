@@ -7,8 +7,8 @@ Tokyo was pummeled by rain and winds as Mindulle became the first typhoon to mak
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-08-22/typhoon-mindulle-bears-down-on-tokyo-set-to-make-landfall-today)
-2. [CNN](http://edition.cnn.com/2016/08/22/asia/japan-typhoon-mindulle-weather/index.html)
+1. [CNN](http://edition.cnn.com/2016/08/22/asia/japan-typhoon-mindulle-weather/index.html)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-08-22/typhoon-mindulle-bears-down-on-tokyo-set-to-make-landfall-today)
 
 ### Related:
 

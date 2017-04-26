@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/8/38/Euro-MPs-give-Barroso-new-mandate,59db8322-56da-4173-88ce-4107ef2c461b.html)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8258387.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8258387.stm)
+2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/8/38/Euro-MPs-give-Barroso-new-mandate,59db8322-56da-4173-88ce-4107ef2c461b.html)
 
 ### Related:
 

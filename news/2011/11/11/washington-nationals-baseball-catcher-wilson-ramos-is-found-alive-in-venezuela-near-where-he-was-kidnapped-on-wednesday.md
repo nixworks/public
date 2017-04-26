@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/11/11/world/americas/venezuela-mlb-player-kidnapped/index.html?hpt=wo_c2)
-2. [NBC Sports](http://nbcsports.msnbc.com/id/45264722/ns/sports-baseball/)
+1. [NBC Sports](http://nbcsports.msnbc.com/id/45264722/ns/sports-baseball/)
+2. [CNN](http://www.cnn.com/2011/11/11/world/americas/venezuela-mlb-player-kidnapped/index.html?hpt=wo_c2)
 
 ### Related:
 

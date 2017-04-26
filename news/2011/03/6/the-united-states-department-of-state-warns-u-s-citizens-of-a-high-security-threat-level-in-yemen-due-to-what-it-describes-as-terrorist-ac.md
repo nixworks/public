@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/usa/US-Warns-Citizens-Against-Travel-to-Yemen--117484408.html)
-2. [U.S. State Department](http://travel.state.gov/travel/cis_pa_tw/tw/tw_936.html)
+1. [U.S. State Department](http://travel.state.gov/travel/cis_pa_tw/tw/tw_936.html)
+2. [Voice of America](http://www.voanews.com/english/news/usa/US-Warns-Citizens-Against-Travel-to-Yemen--117484408.html)
 
 ### Related:
 

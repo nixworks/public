@@ -7,16 +7,16 @@ LIBYAN leader Muammar Gaddafi, facing the greatest challenge to his four-decade 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12544624)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/feb/22/libya-crisis-un-security-council)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-12548239)
-4. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/22/live-blog-libya-feb-22)
-5. [The Australian](http://www.theaustralian.com.au/news/breaking-news/peru-snaps-ties-with-libya/story-fn3dxity-1226010583957)
-6. [The Local](http://www.thelocal.se/32204/20110222/)
-7. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5gpm_i4gCtyuAXtsDYQrIX8zrJKHQ?docId=6029350)
-8. [Reuters via News 24](http://www.news24.com/Africa/News/Libya-Benghazi-airport-runways-destroyed-20110222)
-9. [AFP via News Limited](http://www.news.com.au/breaking-news/gaddafi-makes-brief-tv-appearance/story-e6frfku0-1226009945190)
-10. [BBC](http://www.bbc.co.uk/news/world-africa-12533069)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12533069)
+2. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/22/live-blog-libya-feb-22)
+3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/peru-snaps-ties-with-libya/story-fn3dxity-1226010583957)
+4. [AFP via News Limited](http://www.news.com.au/breaking-news/gaddafi-makes-brief-tv-appearance/story-e6frfku0-1226009945190)
+5. [BBC](http://www.bbc.co.uk/news/world-middle-east-12544624)
+6. [Reuters via News 24](http://www.news24.com/Africa/News/Libya-Benghazi-airport-runways-destroyed-20110222)
+7. [The Guardian](http://www.guardian.co.uk/world/2011/feb/22/libya-crisis-un-security-council)
+8. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5gpm_i4gCtyuAXtsDYQrIX8zrJKHQ?docId=6029350)
+9. [BBC](http://www.bbc.co.uk/news/world-latin-america-12548239)
+10. [The Local](http://www.thelocal.se/32204/20110222/)
 
 ### Related:
 

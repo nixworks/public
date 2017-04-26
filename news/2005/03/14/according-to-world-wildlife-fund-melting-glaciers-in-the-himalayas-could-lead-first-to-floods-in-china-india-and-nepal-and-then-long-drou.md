@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4346211.stm)
+1. [Xinhua](http://news.xinhuanet.com/english/2005-03/14/content_2694416.htm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aEXRYEeiVwkM&refer=asia)
-3. [Xinhua](http://news.xinhuanet.com/english/2005-03/14/content_2694416.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4346211.stm)
 
 ### Related:
 

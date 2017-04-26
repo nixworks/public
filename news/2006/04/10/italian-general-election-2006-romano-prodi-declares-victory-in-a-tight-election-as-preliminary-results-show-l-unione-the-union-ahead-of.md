@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [La Stampa](http://www.lastampa.it/speciali/elezioni2006/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4897994.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4897994.stm)
+2. [La Stampa](http://www.lastampa.it/speciali/elezioni2006/)
 
 ### Related:
 

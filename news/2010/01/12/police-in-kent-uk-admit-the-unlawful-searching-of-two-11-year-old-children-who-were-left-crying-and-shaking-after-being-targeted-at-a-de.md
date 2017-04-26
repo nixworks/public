@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2010/jan/12/kingsnorth-stop-search-boys-illegal)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/kent/8454959.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/kent/8454959.stm)
+2. [The Guardian](http://www.guardian.co.uk/uk/2010/jan/12/kingsnorth-stop-search-boys-illegal)
 
 ### Related:
 

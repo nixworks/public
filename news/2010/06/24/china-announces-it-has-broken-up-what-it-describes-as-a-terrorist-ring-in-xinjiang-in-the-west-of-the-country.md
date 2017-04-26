@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gSjMTGA_93sjHUt2y3ACaI8ak7vQD9GHDOT01)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-06/24/content_10013664.htm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201062461350150419.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201062461350150419.html)
+3. [China Daily](http://www.chinadaily.com.cn/china/2010-06/24/content_10013664.htm)
 
 ### Related:
 

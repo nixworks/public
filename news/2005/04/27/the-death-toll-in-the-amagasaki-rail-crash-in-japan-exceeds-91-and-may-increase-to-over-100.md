@@ -7,11 +7,11 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=NIOMAVDO32WWICRBAEKSFEY?type=topNews&storyID=8308438)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8305798)
-3. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200504270137.html)
-4. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=335311)
-5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=a0cEPLq5yG2k&refer=japan)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=a0cEPLq5yG2k&refer=japan)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=NIOMAVDO32WWICRBAEKSFEY?type=topNews&storyID=8308438)
+3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=335311)
+4. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200504270137.html)
+5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8305798)
 
 ### Related:
 

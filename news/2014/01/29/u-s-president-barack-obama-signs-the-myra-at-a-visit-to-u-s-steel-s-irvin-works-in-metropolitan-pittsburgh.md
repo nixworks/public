@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WTAE-TV](http://livewire.wtae.com/Event/President_Obamas_Pittsburgh_Visit/103828239)
-2. [C-SPAN 24:50](http://www.c-span.org/video/?317482-1/Miffl)
+1. [C-SPAN 24:50](http://www.c-span.org/video/?317482-1/Miffl)
+2. [WTAE-TV](http://livewire.wtae.com/Event/President_Obamas_Pittsburgh_Visit/103828239)
 3. [Whitehouse.gov](http://www.whitehouse.gov/the-press-office/2014/01/29/press-gaggle-press-secretary-jay-carney-and-treasury-secretary-jack-lew-)
 
 ### Related:

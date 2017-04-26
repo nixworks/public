@@ -7,8 +7,8 @@ Rescue operations are taking place in south-west China to try to reach 28 miners
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-11/21/content_11583798.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11805400)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11805400)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-11/21/content_11583798.htm)
 
 ### Related:
 

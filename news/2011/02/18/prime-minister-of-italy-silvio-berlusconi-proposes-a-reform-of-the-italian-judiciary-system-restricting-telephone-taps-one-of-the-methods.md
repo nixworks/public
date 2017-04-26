@@ -7,8 +7,8 @@ Italian PM Silvio Berlusconi launches an attempt to reform the judicial system, 
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/19/c_13739105.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-12508671)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12508671)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/19/c_13739105.htm)
 
 ### Related:
 

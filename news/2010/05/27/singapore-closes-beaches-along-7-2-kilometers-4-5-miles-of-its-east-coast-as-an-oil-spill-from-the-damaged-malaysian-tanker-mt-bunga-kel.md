@@ -7,8 +7,8 @@ Singapore closed most of its eastern beaches due to the oil spilt in nearby wate
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10171589.stm)
-2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-48842520100527)
+1. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-48842520100527)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10171589.stm)
 3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gsvDNgVUV17anTqUZDFdqngBb-mAD9FV1SSO0)
 
 ### Related:

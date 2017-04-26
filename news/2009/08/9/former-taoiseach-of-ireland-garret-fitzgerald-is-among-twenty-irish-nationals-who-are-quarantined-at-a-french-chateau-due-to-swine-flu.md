@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/garrett-fitzgerald-quarantined-in-france-amid-fears-of-swine-flu-outbreak-421910.html)
-2. [Expatica](http://www.expatica.com/fr/news/french-news/French-police_-Irish-ex_PM-in-swine-flu-scare_55264.html)
+1. [Expatica](http://www.expatica.com/fr/news/french-news/French-police_-Irish-ex_PM-in-swine-flu-scare_55264.html)
+2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/garrett-fitzgerald-quarantined-in-france-amid-fears-of-swine-flu-outbreak-421910.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Benedict XVI may have resisted removal of cleric with child molestation record.
 
 ### Source:
 
-1. [The J Post](http://www.jpost.com/International/Article.aspx?ID=172772)
-2. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article7093936.ece)
-3. [LA Times](http://latimesblogs.latimes.com/lanow/2010/04/future-pope-had-concerns-about-defrocking-california-priest-accused-of-molestation-letter-shows.html)
+1. [LA Times](http://latimesblogs.latimes.com/lanow/2010/04/future-pope-had-concerns-about-defrocking-california-priest-accused-of-molestation-letter-shows.html)
+2. [The J Post](http://www.jpost.com/International/Article.aspx?ID=172772)
+3. [The Times](http://www.timesonline.co.uk/tol/comment/faith/article7093936.ece)
 4. [a letter] in 1985 - the first time he has been directly accused of involvement in the Catholic Church's ongoing international child sex abuse scandal. [http://news.bbc.co.uk/2/hi/europe/8612457.stm (BBC](http://news.bbc.co.uk/2/hi/europe/8612596.stm)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/apr/10/pope-paedophile-priests-cover-up)
 

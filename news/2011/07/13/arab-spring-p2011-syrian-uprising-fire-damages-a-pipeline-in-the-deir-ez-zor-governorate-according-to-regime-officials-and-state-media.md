@@ -9,8 +9,8 @@ Fire has damaged an oil pipeline in north-east Syria, the oil ministry says, tho
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011713151838644663.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201171319645404106.html)
-3. [White House](http://www.whitehouse.gov/the-press-office/2011/07/13/statement-press-secretary-presidents-meeting-russian-foreign-minister-la)
-4. [SANA](http://www.sana.sy/eng/21/2011/07/13/358092.htm)
+3. [SANA](http://www.sana.sy/eng/21/2011/07/13/358092.htm)
+4. [White House](http://www.whitehouse.gov/the-press-office/2011/07/13/statement-press-secretary-presidents-meeting-russian-foreign-minister-la)
 5. [BBC](http://www.bbc.co.uk/news/world-middle-east-14137680)
 
 ### Related:

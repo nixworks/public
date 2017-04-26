@@ -7,8 +7,8 @@ Suicide bomber blows himself up at 11:30 a.m. outside Sharon Mall in Netanya; ab
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3179585,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4498862.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4498862.stm)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3179585,00.html)
 
 ### Related:
 

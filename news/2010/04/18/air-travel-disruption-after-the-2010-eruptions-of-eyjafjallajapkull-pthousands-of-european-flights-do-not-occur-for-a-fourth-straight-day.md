@@ -7,15 +7,15 @@ Tens of thousands of people gathered in the city of Krakow on Sunday for the sta
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/04/18/kaczynski-funeral.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8627857.stm)
+1. [CNN](http://edition.cnn.com/2010/TRAVEL/04/18/volcano.ash.test.flights/index.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0418/kaczynskil.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0418/travel.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/in_pictures/8628331.stm)
-5. [CNN](http://edition.cnn.com/2010/TRAVEL/04/18/volcano.ash.test.flights/index.html)
-6. [RTÉ](http://www.rte.ie/news/2010/0418/kaczynskil.html)
-7. [Globes](http://www.globes.co.il/serveen/globes/docview.asp?did=1000553789&fid=1725)
+4. [CBC](http://www.cbc.ca/world/story/2010/04/18/kaczynski-funeral.html)
+5. [Reuters](http://www.reuters.com/article/industrialsSector/idUSLDE63H0F220100418)
+6. [Globes](http://www.globes.co.il/serveen/globes/docview.asp?did=1000553789&fid=1725)
+7. [BBC](http://news.bbc.co.uk/2/hi/in_pictures/8628331.stm)
 8. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7101167.ece)
-9. [Reuters](http://www.reuters.com/article/industrialsSector/idUSLDE63H0F220100418)
+9. [BBC](http://news.bbc.co.uk/2/hi/europe/8627857.stm)
 
 ### Related:
 

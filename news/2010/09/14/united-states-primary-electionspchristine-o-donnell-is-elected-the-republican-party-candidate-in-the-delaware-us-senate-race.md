@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/sep/15/christine-odonnell-delaware-midterms)
-2. [CNN](http://edition.cnn.com/2010/POLITICS/09/14/new.york.rangel.primary/index.html?hpt=T1)
+1. [CNN](http://edition.cnn.com/2010/POLITICS/09/14/new.york.rangel.primary/index.html?hpt=T1)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/sep/15/christine-odonnell-delaware-midterms)
 
 ### Related:
 

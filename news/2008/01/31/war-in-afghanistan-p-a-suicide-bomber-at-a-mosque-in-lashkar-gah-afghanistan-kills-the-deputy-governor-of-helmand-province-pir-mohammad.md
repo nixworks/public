@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7220823.stm)
-2. [AP via the ''San Jose Mercury News](http://www.mercurynews.com/breakingnews/ci_8126433?nclick_check=1)
+1. [AP via the ''San Jose Mercury News](http://www.mercurynews.com/breakingnews/ci_8126433?nclick_check=1)
+2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7220823.stm)
 
 ### Related:
 

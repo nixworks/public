@@ -7,10 +7,10 @@ Thousands of people took part in what is expected to be the final march in Derry
 
 ### Source:
 
-1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/final-bloody-sunday-commemoration-march-to-take-place-491395.html)
+1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12319055)
 2. [CNN](http://edition.cnn.com/2011/WORLD/europe/01/30/northern.ireland.bloody.sunday/)
-3. [RTÉ](http://www.rte.ie/news/2011/0130/bloodysunday.html)
-4. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12319055)
+3. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/final-bloody-sunday-commemoration-march-to-take-place-491395.html)
+4. [RTÉ](http://www.rte.ie/news/2011/0130/bloodysunday.html)
 
 ### Related:
 

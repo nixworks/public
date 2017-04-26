@@ -7,9 +7,9 @@ Gov. Mike Pence asked groups to redirect Syrian families coming to Indiana this 
 
 ### Source:
 
-1. [AP via Miami Herald](http://www.miamiherald.com/news/nation-world/article46183315.html)
-2. [Indianapolis Star](http://www.indystar.com/story/news/politics/2015/11/23/gov-mike-pence-sued-halting-syrian-refugee-resettlement-indiana/76279528/)
-3. [USA Today](http://www.usatoday.com/story/news/2015/11/18/indiana-bound-syrian-refugees-redirected-connecticut/75988858/)
+1. [Indianapolis Star](http://www.indystar.com/story/news/politics/2015/11/23/gov-mike-pence-sued-halting-syrian-refugee-resettlement-indiana/76279528/)
+2. [USA Today](http://www.usatoday.com/story/news/2015/11/18/indiana-bound-syrian-refugees-redirected-connecticut/75988858/)
+3. [AP via Miami Herald](http://www.miamiherald.com/news/nation-world/article46183315.html)
 
 ### Related:
 

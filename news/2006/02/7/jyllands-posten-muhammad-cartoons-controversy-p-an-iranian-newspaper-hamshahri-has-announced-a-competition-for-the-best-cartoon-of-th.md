@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-02-07T191037Z_01_L07197113_RTRUKOC_0_US-RELIGION-CARTOONS-DENMARK.xml)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4687992.stm)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4688466.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4688466.stm)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-02-07T191037Z_01_L07197113_RTRUKOC_0_US-RELIGION-CARTOONS-DENMARK.xml)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4687992.stm)
 
 ### Related:
 

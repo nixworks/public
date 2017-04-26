@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Avon and Somerset Constabulary](http://www.avonandsomerset.police.uk/LocalPages/NewsDetails.aspx?nsid=23252&t=1&lid=1)
-2. [Jack FM](http://www.jackbristol.com/newscentre/bristols-news/complaints-made-to-police-over-bristol-riot-5996)
-3. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-13234890)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-13234890)
+3. [Jack FM](http://www.jackbristol.com/newscentre/bristols-news/complaints-made-to-police-over-bristol-riot-5996)
 
 ### Related:
 

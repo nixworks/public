@@ -7,8 +7,8 @@ Police have confirmed a small bomb exploded on a bus in Jerusalem on Monday duri
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4793280,00.html)
-2. [Euronews](http://www.euronews.com/2016/04/18/israeli-radio-reports-explosion-on-bus-in-jerusalem-20-casualties/)
+1. [Euronews](http://www.euronews.com/2016/04/18/israeli-radio-reports-explosion-on-bus-in-jerusalem-20-casualties/)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4793280,00.html)
 
 ### Related:
 

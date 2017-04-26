@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [|(''Hindustan Times](http://www.hindustantimes.com/Japan-confirms-Noda-as-new-PM/Article1-739504.aspx)
-2. [Nikkei](http://e.nikkei.com/e/fr/tnks/Nni20110830D30JF229.htm)
+1. [Nikkei](http://e.nikkei.com/e/fr/tnks/Nni20110830D30JF229.htm)
+2. [|(''Hindustan Times](http://www.hindustantimes.com/Japan-confirms-Noda-as-new-PM/Article1-739504.aspx)
 
 ### Related:
 

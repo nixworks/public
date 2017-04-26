@@ -7,8 +7,8 @@ France has entered its second recession in four years after the economy shrank b
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/breaking-news/world/eurozone-recession-deepens/story-e6frfkui-1226643361980)
-2. [BBC](http://www.bbc.co.uk/news/business-22536197)
+1. [BBC](http://www.bbc.co.uk/news/business-22536197)
+2. [News Limited](http://www.news.com.au/breaking-news/world/eurozone-recession-deepens/story-e6frfkui-1226643361980)
 
 ### Related:
 

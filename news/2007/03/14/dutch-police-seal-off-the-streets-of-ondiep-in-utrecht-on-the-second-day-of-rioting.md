@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Canada Free Press](http://www.canadafreepress.com/2007/brussels031507.htm)
-2. [DutchNews](http://www.dutchnews.nl/news/archives/2007/03/police_to_seal_utrecht_streets.php)
+1. [DutchNews](http://www.dutchnews.nl/news/archives/2007/03/police_to_seal_utrecht_streets.php)
+2. [Canada Free Press](http://www.canadafreepress.com/2007/brussels031507.htm)
 
 ### Related:
 

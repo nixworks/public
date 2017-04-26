@@ -7,8 +7,8 @@ Anti-Lisbon campaigner Patricia McKenna has threatened the European Commission w
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0928/breaking74.htm)
-2. [EU Observer](http://euobserver.com/9/28730)
+1. [EU Observer](http://euobserver.com/9/28730)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0928/breaking74.htm)
 
 ### Related:
 

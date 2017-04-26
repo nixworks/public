@@ -7,11 +7,11 @@ Three people were killed on Monday and up to eight others wounded when about 20 
 
 ### Source:
 
-1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/three-dead-as-20-nato-tankers-set-ablaze-in-pakistan-20101004-1635a.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11471185)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11463490)
-4. [The New York Times](http://www.nytimes.com/2010/10/05/world/asia/05pstan.html?_r=1)
-5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542535.htm)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11471185)
+2. [The New York Times](http://www.nytimes.com/2010/10/05/world/asia/05pstan.html?_r=1)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542535.htm)
+4. [BBC](http://www.bbc.co.uk/news/world-south-asia-11463490)
+5. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/three-dead-as-20-nato-tankers-set-ablaze-in-pakistan-20101004-1635a.html)
 
 ### Related:
 

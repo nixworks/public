@@ -7,9 +7,9 @@ They busted the dike, and the water poured through -- slowly.
 
 ### Source:
 
-1. [WWL-TV](http://www.wwltv.com/news/Spillway-to-be--121832944.html)
-2. [CTV](http://ottawa.ctv.ca/servlet/an/local/CTVNews/20110514/manitoba-deliberate-flood-110514/20110514/?hub=OttawaHome)
-3. [Canoe.ca](http://cnews.canoe.ca/CNEWS/Canada/2011/05/14/18148596.html)
+1. [CTV](http://ottawa.ctv.ca/servlet/an/local/CTVNews/20110514/manitoba-deliberate-flood-110514/20110514/?hub=OttawaHome)
+2. [Canoe.ca](http://cnews.canoe.ca/CNEWS/Canada/2011/05/14/18148596.html)
+3. [WWL-TV](http://www.wwltv.com/news/Spillway-to-be--121832944.html)
 
 ### Related:
 

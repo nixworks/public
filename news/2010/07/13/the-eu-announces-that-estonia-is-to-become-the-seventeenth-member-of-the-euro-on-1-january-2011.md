@@ -9,8 +9,8 @@ European Union finance ministers gave the final approval today to Estonia joinin
 
 1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/13/AR2010071302079.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0713/breaking35.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/business/10611399.stm)
-4. [RTÉ](http://www.rte.ie/news/2010/0713/euro.html)
+3. [RTÉ](http://www.rte.ie/news/2010/0713/euro.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/business/10611399.stm)
 
 ### Related:
 

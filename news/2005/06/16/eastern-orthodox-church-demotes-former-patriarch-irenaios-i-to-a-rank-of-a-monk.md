@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jerusalem Post/AP](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1118888337168)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4101886.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4101886.stm)
+2. [Jerusalem Post/AP](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1118888337168)
 
 ### Related:
 

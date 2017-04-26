@@ -7,8 +7,8 @@ Syrian government troops surrounded Hama prison in the west of the country on Mo
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/49b7499dbafb409799cc27cd21b9cb28/turkey-strikes-islamic-state-group-positions-syria)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-hama-idUSKCN0XT1FW)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-hama-idUSKCN0XT1FW)
+2. [AP](http://bigstory.ap.org/article/49b7499dbafb409799cc27cd21b9cb28/turkey-strikes-islamic-state-group-positions-syria)
 
 ### Related:
 

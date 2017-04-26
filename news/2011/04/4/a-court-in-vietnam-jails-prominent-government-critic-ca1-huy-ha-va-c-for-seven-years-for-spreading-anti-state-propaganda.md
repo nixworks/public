@@ -7,8 +7,8 @@ Prominent lawyer and dissident Cu Huy Ha Vu is jailed for seven years in Vietnam
 
 ### Source:
 
-1. [VOV News Vietnam](http://english.vovnews.vn/Home/Cu-Huy-Ha-Vu-to-stand-trial-for-antiState-propaganda/20114/125407.vov)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12956496)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12956496)
+2. [VOV News Vietnam](http://english.vovnews.vn/Home/Cu-Huy-Ha-Vu-to-stand-trial-for-antiState-propaganda/20114/125407.vov)
 
 ### Related:
 

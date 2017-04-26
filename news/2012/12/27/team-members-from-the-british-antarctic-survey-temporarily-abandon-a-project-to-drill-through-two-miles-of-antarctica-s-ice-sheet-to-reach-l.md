@@ -7,8 +7,8 @@ A UK project to drill through 3km of ice to reach a lake sequestered for thousan
 
 ### Source:
 
-1. [Nature](http://blogs.nature.com/news/2012/12/uk-team-abandons-effort-to-reach-subglacial-antarctic-lake.html)
-2. [ITV News](http://www.itv.com/news/anglia/2012-12-27/antarctic-lake-project-abandoned-for-this-year/)
+1. [ITV News](http://www.itv.com/news/anglia/2012-12-27/antarctic-lake-project-abandoned-for-this-year/)
+2. [Nature](http://blogs.nature.com/news/2012/12/uk-team-abandons-effort-to-reach-subglacial-antarctic-lake.html)
 3. [BBC](http://www.bbc.co.uk/news/science-environment-20850360)
 
 ### Related:

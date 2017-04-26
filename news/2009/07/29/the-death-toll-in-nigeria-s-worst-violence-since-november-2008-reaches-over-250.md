@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/nigerian-forces-shell-sect-leaders-home-20090729-e0eq.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8175627.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8175627.stm)
+2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/nigerian-forces-shell-sect-leaders-home-20090729-e0eq.html)
 
 ### Related:
 

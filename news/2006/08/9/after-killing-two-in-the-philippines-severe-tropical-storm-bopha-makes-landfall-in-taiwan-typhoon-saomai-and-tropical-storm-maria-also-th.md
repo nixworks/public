@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The China Post](http://www.chinapost.com.tw/asiapacific/detail.asp?ID=87496&GRP=C)
-2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2006/8/9/apworld/20060809104436&sec=apworld)
+1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2006/8/9/apworld/20060809104436&sec=apworld)
+2. [The China Post](http://www.chinapost.com.tw/asiapacific/detail.asp?ID=87496&GRP=C)
 
 ### Related:
 

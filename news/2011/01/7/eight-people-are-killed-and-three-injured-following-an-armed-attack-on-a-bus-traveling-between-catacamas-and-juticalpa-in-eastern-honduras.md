@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/americas/01/07/honduras.bus.shooting/)
-2. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=202588)
+1. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=202588)
+2. [CNN](http://edition.cnn.com/2011/WORLD/americas/01/07/honduras.bus.shooting/)
 
 ### Related:
 

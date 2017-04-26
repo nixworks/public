@@ -7,8 +7,8 @@ Police say they are preparing for as many as 40 deaths after a fire breaks out a
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-38195612)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-12-03-US--Warehouse%20Party%20Fire-The%20Latest/id-814e62dd893f485399b20784569ea8b5)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-12-03-US--Warehouse%20Party%20Fire-The%20Latest/id-814e62dd893f485399b20784569ea8b5)
+2. [BBC](http://www.bbc.com/news/world-us-canada-38195612)
 
 ### Related:
 
@@ -21,4 +21,4 @@ Police say they are preparing for as many as 40 deaths after a fire breaks out a
 7. [Seven people, including a toddler, are shot while recording a music video in Oakland, California. ](/news/2011/11/29/seven-people-including-a-toddler-are-shot-while-recording-a-music-video-in-oakland-california.md) _Context: California, Oakland, California_
 8. [Violent protests occur in Oakland, California following Johannes Mehserle receiving two years jail for the shooting of Oscar Grant on the Bay Area Rapid Transit system with Oakland police chief Anthony Batts expecting to make 150 arrests. ](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.md) _Context: California, Oakland, California_
 9. [ Four police officers are killed in Oakland, California, United States. ](/news/2009/03/22/four-police-officers-are-killed-in-oakland-california-united-states.md) _Context: California, Oakland, California_
-10. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
+10. [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md) _Context: California_

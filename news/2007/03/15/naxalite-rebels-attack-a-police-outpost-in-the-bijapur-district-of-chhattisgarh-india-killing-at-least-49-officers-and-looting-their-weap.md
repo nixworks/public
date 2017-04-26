@@ -7,8 +7,8 @@ Many security personnel are feared killed in the attack on a police outpost in B
 
 ### Source:
 
-1. [AP via Canada.com](http://www.canada.com/topics/news/world/story.html?id=b9b9d0ef-6abe-4720-9cec-c8c564ed2475&k=54240)
-2. [Times of India](http://timesofindia.indiatimes.com/Naxals_attack_police_post_in_Chhattisgarh/articleshow/1765273.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/Naxals_attack_police_post_in_Chhattisgarh/articleshow/1765273.cms)
+2. [AP via Canada.com](http://www.canada.com/topics/news/world/story.html?id=b9b9d0ef-6abe-4720-9cec-c8c564ed2475&k=54240)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Palestine Telegraph](http://www.paltelegraph.com/palestine/gaza-strip/8399-three-workers-wounded-by-israeli-gunfire-in-gaza.html)
-2. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90854/7280406.html)
+1. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90854/7280406.html)
+2. [The Palestine Telegraph](http://www.paltelegraph.com/palestine/gaza-strip/8399-three-workers-wounded-by-israeli-gunfire-in-gaza.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2012-06-03/japan-s-noda-to-reshuffle-cabinet-in-bid-for-opposition-backing.html)
-2. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/japans-prime-minister-reshuffles-his-cabinet-again-to-gain-support-for-tax-hike-bill/2012/06/04/gJQAjbPqCV_story.html)
+1. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/japans-prime-minister-reshuffles-his-cabinet-again-to-gain-support-for-tax-hike-bill/2012/06/04/gJQAjbPqCV_story.html)
+2. [Bloomberg](http://www.bloomberg.com/news/2012-06-03/japan-s-noda-to-reshuffle-cabinet-in-bid-for-opposition-backing.html)
 
 ### Related:
 

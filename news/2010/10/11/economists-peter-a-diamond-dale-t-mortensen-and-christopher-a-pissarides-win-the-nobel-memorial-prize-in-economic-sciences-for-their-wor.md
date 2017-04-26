@@ -7,8 +7,8 @@ Two Americans and a British-Cypriot economist won the 2010 Nobel economics prize
 
 ### Source:
 
-1. [AP via Fox News](http://www.foxnews.com/world/2010/10/11/win-economics-nobel-job-market-analysis/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+foxnews/world+(Internal+-+World+Latest+-+Text))
-2. [Nobel Prize](http://nobelprize.org/nobel_prizes/economics/laureates/2010/press.html)
+1. [Nobel Prize](http://nobelprize.org/nobel_prizes/economics/laureates/2010/press.html)
+2. [AP via Fox News](http://www.foxnews.com/world/2010/10/11/win-economics-nobel-job-market-analysis/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+foxnews/world+(Internal+-+World+Latest+-+Text))
 
 ### Related:
 

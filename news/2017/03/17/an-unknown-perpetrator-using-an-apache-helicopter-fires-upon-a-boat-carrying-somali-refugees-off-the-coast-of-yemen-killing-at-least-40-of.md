@@ -7,8 +7,8 @@ Forty-two Somali refugees were killed when a helicopter gunship attacked their b
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-yemen-security-refugees-idUSKBN16O0UI)
-2. [AFP via MSN](http://www.msn.com/en-us/news/world/33-somali-refugees-shot-dead-on-red-sea-yemen-officials/ar-BByfsNR)
+1. [AFP via MSN](http://www.msn.com/en-us/news/world/33-somali-refugees-shot-dead-on-red-sea-yemen-officials/ar-BByfsNR)
+2. [Reuters](http://www.reuters.com/article/us-yemen-security-refugees-idUSKBN16O0UI)
 
 ### Related:
 

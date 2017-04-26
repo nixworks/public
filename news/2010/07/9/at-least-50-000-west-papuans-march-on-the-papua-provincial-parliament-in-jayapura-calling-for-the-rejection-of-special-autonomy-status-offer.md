@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=54620)
-2. [Jakarta Globe](http://www.thejakartaglobe.com/home/thousands-rally-for-independence-referendum-in-indonesias-papua/384834)
+1. [Jakarta Globe](http://www.thejakartaglobe.com/home/thousands-rally-for-independence-referendum-in-indonesias-papua/384834)
+2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=54620)
 
 ### Related:
 

@@ -9,8 +9,8 @@
 
 1. [The Guardian](http://www.guardian.co.uk/football/2010/sep/04/euro-2012-qualifiers-roundup)
 2. [Toronto Sun](http://www.torontosun.com/sports/soccer/2010/09/03/15241711.html)
-3. [New Kerala](http://www.newkerala.com/news2/fullnews-34858.html)
-4. [The Guardian](http://www.guardian.co.uk/football/2010/sep/04/france-belarus-euro-2012)
+3. [The Guardian](http://www.guardian.co.uk/football/2010/sep/04/france-belarus-euro-2012)
+4. [New Kerala](http://www.newkerala.com/news2/fullnews-34858.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ THE ISRAELI supreme court yesterday rejected an appeal by Mairead Maguire agains
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11473122)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1005/1224280400386.html)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1005/1224280400386.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11473122)
 3. [Haaretz](http://www.haaretz.com/news/national/israel-rejects-pro-palestinian-nobel-laureate-s-deportation-appeal-1.317188)
 
 ### Related:

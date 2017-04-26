@@ -7,9 +7,9 @@ Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/Sports/wireStory?id=751507)
-2. [BBC](http://news.bbc.co.uk/1/hi/business/4540939.stm)
-3. [NY Times](http://www.nytimes.com/2005/05/12/sports/soccer/12cnd-soccer.html?ex=1116561600&en=15ece544c9849a93&ei=5040&partner=MOREOVERNEWS)
+1. [BBC](http://news.bbc.co.uk/1/hi/business/4540939.stm)
+2. [NY Times](http://www.nytimes.com/2005/05/12/sports/soccer/12cnd-soccer.html?ex=1116561600&en=15ece544c9849a93&ei=5040&partner=MOREOVERNEWS)
+3. [ABC News](http://abcnews.go.com/Sports/wireStory?id=751507)
 
 ### Related:
 

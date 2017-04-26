@@ -7,11 +7,11 @@ Ivory Coast residents to give up claims against Trafigura under $50m deal, firm 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/2009920132129567154.html)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLK593911)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8265193.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8265193.stm)
+2. [France 24](http://www.france24.com/en/20090920-ivory-coast-toxic-waste-dumping-trafigura-reaches-settlement-claims)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/2009920132129567154.html)
 4. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6839258.ece)
-5. [France 24](http://www.france24.com/en/20090920-ivory-coast-toxic-waste-dumping-trafigura-reaches-settlement-claims)
+5. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLK593911)
 6. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/trafigura-settles-over-ivory-coast-toxic-waste-claims-20090920-fwut.html)
 
 ### Related:

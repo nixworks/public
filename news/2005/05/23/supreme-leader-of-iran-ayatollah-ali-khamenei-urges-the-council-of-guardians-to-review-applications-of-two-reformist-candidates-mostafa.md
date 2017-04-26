@@ -7,10 +7,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/OLI365571.htm)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8578939)
 2. [Tehran Times](http://www.tehrantimes.com/Description.asp?Da=5/24/2005&Cat=2&Num=007)
 3. [IRNA](http://www.irna.ir/en/news/view/menu-234/0505240046013033.htm)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8578939)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/OLI365571.htm)
 
 ### Related:
 

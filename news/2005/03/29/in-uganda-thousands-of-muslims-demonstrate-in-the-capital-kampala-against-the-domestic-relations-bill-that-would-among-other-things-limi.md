@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [New Vision, Uganda](http://www.newvision.co.ug/D/8/12/426158)
-2. [AllAfrica](http://allafrica.com/stories/200503290768.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4391067.stm)
+1. [AllAfrica](http://allafrica.com/stories/200503290768.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4391067.stm)
+3. [New Vision, Uganda](http://www.newvision.co.ug/D/8/12/426158)
 
 ### Related:
 

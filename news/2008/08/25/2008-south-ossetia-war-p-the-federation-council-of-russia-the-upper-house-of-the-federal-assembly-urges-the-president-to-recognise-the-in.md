@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Wall Street Journal](http://online.wsj.com/article/SB121963217681968159.html)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4602459.ece)
-3. [BBC News](http://news.bbc.co.uk/2/hi/europe/7580386.stm)
-4. [The Moscow Times](http://www.themoscowtimes.com/article/600/42/370378.htm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7580386.stm)
+2. [The Moscow Times](http://www.themoscowtimes.com/article/600/42/370378.htm)
+3. [The Wall Street Journal](http://online.wsj.com/article/SB121963217681968159.html)
+4. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4602459.ece)
 
 ### Related:
 

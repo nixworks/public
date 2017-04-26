@@ -7,9 +7,9 @@ Fresh rioting breaks out in the Algerian capital and several other cities, after
 
 ### Source:
 
-1. [Al Jazeera](http://www.youtube.com/watch?v=fpQkHcIJpFg)
-2. [Africa News](http://www.africanews.com/site/Algeria_Riots_over_high_food_prices/list_messages/36938)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-12134307)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12134307)
+2. [Al Jazeera](http://www.youtube.com/watch?v=fpQkHcIJpFg)
+3. [Africa News](http://www.africanews.com/site/Algeria_Riots_over_high_food_prices/list_messages/36938)
 
 ### Related:
 

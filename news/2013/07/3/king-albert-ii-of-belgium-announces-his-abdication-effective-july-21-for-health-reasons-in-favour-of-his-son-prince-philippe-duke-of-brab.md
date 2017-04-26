@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [DeRedactie.be](http://www.deredactie.be/cm/vrtnieuws/binnenland/130702_koningalbert_toespraak)
-2. [Nieuwsblad](http://www.nieuwsblad.be/article/detail.aspx?articleid=DMF20130703_00645593)
+1. [Nieuwsblad](http://www.nieuwsblad.be/article/detail.aspx?articleid=DMF20130703_00645593)
+2. [DeRedactie.be](http://www.deredactie.be/cm/vrtnieuws/binnenland/130702_koningalbert_toespraak)
 
 ### Related:
 

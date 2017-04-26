@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8086868.stm)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/ireland/article6446680.ece)
 2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h9bdX_cBP3lsk7qq2_nyz78o6GOg)
-3. [The Times](http://www.timesonline.co.uk/tol/news/world/ireland/article6446680.ece)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8086868.stm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Emotions run high after mosque in occupied territory is set ablaze by settlers i
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11464621)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010104142450285342.html)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542250.htm)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010104142450285342.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542250.htm)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-11464621)
 
 ### Related:
 

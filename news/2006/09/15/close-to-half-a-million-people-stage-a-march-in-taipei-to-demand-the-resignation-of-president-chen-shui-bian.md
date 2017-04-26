@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5348830.stm)
-2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/09/15/taiwan.protests.ap/index.html)
+1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/09/15/taiwan.protests.ap/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5348830.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [People](http://english.peopledaily.com.cn/90001/90776/90882/6974566.html)
-2. [China.com](http://news.china.com.cn/txt/2010-05/05/content_19975277.htm)
+1. [China.com](http://news.china.com.cn/txt/2010-05/05/content_19975277.htm)
+2. [People](http://english.peopledaily.com.cn/90001/90776/90882/6974566.html)
 
 ### Related:
 

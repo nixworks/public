@@ -7,8 +7,8 @@ Car bomb and two explosions at main gate of Interior Ministry, after earlier bla
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20705519)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/2012121218423532899.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/2012121218423532899.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20705519)
 
 ### Related:
 

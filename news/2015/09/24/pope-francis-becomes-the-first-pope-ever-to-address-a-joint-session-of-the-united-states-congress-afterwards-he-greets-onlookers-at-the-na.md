@@ -7,11 +7,11 @@ A woman who saw the pope at St. Patrick in the City said: &ldquo;We are in heave
 
 ### Source:
 
-1. [AP via MSN](http://www.msn.com/en-us/news/video/live-video-coverage-from-the-associated-press/ar-BBisrVh?ocid=iehp)
+1. [Vatican](http://w2.vatican.va/content/francesco/en/speeches/2015/september/documents/papa-francesco_20150924_usa-us-congress.html)
 2. [Washington Post](https://www.washingtonpost.com/local/pope-francis-to-address-divided-congress-in-washington-on-thursday/2015/09/23/971b0a9e-6260-11e5-b38e-06883aacba64_story.html)
-3. [CNN](http://www.cnn.com/2015/09/24/politics/pope-francis-washington-congress-updates/index.html)
+3. [AP via MSN](http://www.msn.com/en-us/news/video/live-video-coverage-from-the-associated-press/ar-BBisrVh?ocid=iehp)
 4. [Time](http://time.com/4048075/pope-francis-us-visit-speech-congress/?xid=homepage)
-5. [Vatican](http://w2.vatican.va/content/francesco/en/speeches/2015/september/documents/papa-francesco_20150924_usa-us-congress.html)
+5. [CNN](http://www.cnn.com/2015/09/24/politics/pope-francis-washington-congress-updates/index.html)
 
 ### Related:
 

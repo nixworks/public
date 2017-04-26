@@ -7,8 +7,8 @@ Officials deny decision is political, saying that monks could obstruct relief ef
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8639497.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042354712278816.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042354712278816.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8639497.stm)
 
 ### Related:
 

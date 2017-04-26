@@ -7,11 +7,11 @@ Russian PM Vladimir Putin will no longer be awarded a prestigious German rights 
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/europe/german-foundation-cancels-ceremony-to-honor-russias-putin-after-criticism-of-nomination/2011/07/16/gIQAB0nuHI_story.html)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15240096,00.html)
-3. [The New York Times](http://www.nytimes.com/2011/07/17/world/europe/17germany.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15240096,00.html)
+2. [The New York Times](http://www.nytimes.com/2011/07/17/world/europe/17germany.html)
+3. [Reuters](http://www.reuters.com/article/2011/07/16/us-germany-putin-award-idUSTRE76F1CO20110716)
 4. [BBC](http://www.bbc.co.uk/news/world-europe-14173814)
-5. [Reuters](http://www.reuters.com/article/2011/07/16/us-germany-putin-award-idUSTRE76F1CO20110716)
+5. [The Washington Post](http://www.washingtonpost.com/world/europe/german-foundation-cancels-ceremony-to-honor-russias-putin-after-criticism-of-nomination/2011/07/16/gIQAB0nuHI_story.html)
 
 ### Related:
 

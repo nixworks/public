@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iGUfe2ZND3xtAK2AOqHUh-DJm9jw)
-2. [Press Trust of India](http://www.ptinews.com/news/317641_Deaths-in-K-taka--Andhra-touch-269--relief-announced)
-3. [Outlook India](http://news.outlookindia.com/item.aspx?667262)
+2. [Outlook India](http://news.outlookindia.com/item.aspx?667262)
+3. [Press Trust of India](http://www.ptinews.com/news/317641_Deaths-in-K-taka--Andhra-touch-269--relief-announced)
 
 ### Related:
 

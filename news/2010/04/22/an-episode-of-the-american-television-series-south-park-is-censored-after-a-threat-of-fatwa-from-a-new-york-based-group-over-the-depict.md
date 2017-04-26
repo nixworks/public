@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/8301-504083_162-20003151-504083.html)
-2. [The Guardian](http://www.guardian.co.uk/tv-and-radio/2010/apr/22/south-park-censored-fatwa-muhammad)
-3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8636455.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8636455.stm)
+2. [CBS News](http://www.cbsnews.com/8301-504083_162-20003151-504083.html)
+3. [The Guardian](http://www.guardian.co.uk/tv-and-radio/2010/apr/22/south-park-censored-fatwa-muhammad)
 
 ### Related:
 

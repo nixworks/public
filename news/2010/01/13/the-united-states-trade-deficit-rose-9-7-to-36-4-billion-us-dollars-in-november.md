@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2010-01/13/content_12798885.htm)
+1. [RTT News](http://www.rttnews.com/Content/USEconomicNews.aspx?Id=1177483)
 2. [People's Daily](http://english.people.com.cn/90001/90778/90858/90864/6866980.html)
-3. [RTT News](http://www.rttnews.com/Content/USEconomicNews.aspx?Id=1177483)
+3. [Xinhua](http://news.xinhuanet.com/english/2010-01/13/content_12798885.htm)
 
 ### Related:
 

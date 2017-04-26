@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Daily Nation](http://www.nation.co.ke/News/Kenya%20minister%20steps%20aside%20over%20saga/-/1056/1041378/-/foio57z/-/index.html)
-2. [AllAfrica.com](http://allafrica.com/stories/201010270980.html)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-11636883)
+1. [AllAfrica.com](http://allafrica.com/stories/201010270980.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11636883)
+3. [Daily Nation](http://www.nation.co.ke/News/Kenya%20minister%20steps%20aside%20over%20saga/-/1056/1041378/-/foio57z/-/index.html)
 
 ### Related:
 

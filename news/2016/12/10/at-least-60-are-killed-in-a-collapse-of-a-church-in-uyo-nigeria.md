@@ -7,8 +7,8 @@ A roof collapses during a church ceremony in south-eastern Nigeria, killing at l
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-38279101)
-2. [FOX News](http://www.foxnews.com/world/2016/12/10/scores-killed-as-crowded-church-collapses-in-nigeria.html)
+1. [FOX News](http://www.foxnews.com/world/2016/12/10/scores-killed-as-crowded-church-collapses-in-nigeria.html)
+2. [BBC](http://www.bbc.com/news/world-africa-38279101)
 
 ### Related:
 

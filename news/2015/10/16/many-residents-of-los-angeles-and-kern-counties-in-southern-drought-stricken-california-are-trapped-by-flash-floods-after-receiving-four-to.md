@@ -8,8 +8,8 @@ The emergency message crackled over the car radio, warning listeners of looming 
 ### Source:
 
 1. [AP via KPHO TV](http://www.kpho.com/story/30275570/mud-covers-highways-strands-drivers-in-southern-california#ixzz3ol0cz0dv)
-2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-rain-mudslides-los-angeles-20151015-story.html)
-3. [CNN](http://www.cnn.com/2015/10/16/us/southern-california-flooding/)
+2. [CNN](http://www.cnn.com/2015/10/16/us/southern-california-flooding/)
+3. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-rain-mudslides-los-angeles-20151015-story.html)
 
 ### Related:
 

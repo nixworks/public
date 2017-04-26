@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2013/09/01/uk-pakistan-bomb-idUKBRE98008620130901)
-2. [ABC](http://abcnews.go.com/International/wireStory/bomb-kills-soldiers-northwest-pakistan-20129489)
+1. [ABC](http://abcnews.go.com/International/wireStory/bomb-kills-soldiers-northwest-pakistan-20129489)
+2. [Reuters](http://uk.reuters.com/article/2013/09/01/uk-pakistan-bomb-idUKBRE98008620130901)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Israeli forces arrested a senior Hamas figure on Sunday after a raid in the town
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE62D0IQ20100314)
+1. [ABC News](http://www.abc.net.au/news/stories/2010/03/14/2845450.htm?section=world)
 2. [Hindustan Times](http://www.hindustantimes.com/News-Feed/restofasia/Israel-arrests-top-Hamas-militant/Article1-518983.aspx)
-3. [ABC News](http://www.abc.net.au/news/stories/2010/03/14/2845450.htm?section=world)
+3. [Reuters](http://www.reuters.com/article/idUSTRE62D0IQ20100314)
 
 ### Related:
 

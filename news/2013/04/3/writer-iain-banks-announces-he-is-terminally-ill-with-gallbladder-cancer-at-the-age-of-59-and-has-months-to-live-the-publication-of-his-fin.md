@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/books/2013/apr/03/iain-banks-gall-bladder-cancer)
-2. [AFP via ''The Times of India](http://timesofindia.indiatimes.com/world/uk/Scottish-writer-Iain-Banks-has-terminal-cancer/articleshow/19366713.cms)
+1. [AFP via ''The Times of India](http://timesofindia.indiatimes.com/world/uk/Scottish-writer-Iain-Banks-has-terminal-cancer/articleshow/19366713.cms)
+2. [The Guardian](http://www.guardian.co.uk/books/2013/apr/03/iain-banks-gall-bladder-cancer)
 3. [The Irish Times](http://www.irishtimes.com/culture/books/author-iain-banks-has-just-months-to-live-1.1347505)
 
 ### Related:

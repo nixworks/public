@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Korea Herald](http://www.koreaherald.co.kr/SITE/data/html_dir/2005/06/13/200506130019.asp)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/4086648.stm)
 2. [Korea Times](http://times.hankooki.com/lpage/200506/kt2005061217431910220.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/business/4086648.stm)
-4. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific_business/view/152302/1/.html)
+3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific_business/view/152302/1/.html)
+4. [Korea Herald](http://www.koreaherald.co.kr/SITE/data/html_dir/2005/06/13/200506130019.asp)
 
 ### Related:
 

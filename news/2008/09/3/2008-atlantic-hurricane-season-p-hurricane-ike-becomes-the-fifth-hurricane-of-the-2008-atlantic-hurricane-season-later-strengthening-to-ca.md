@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5gVWjsPEiqe1tEu2mhBIRaxxGi8owD92VIBMG0)
-2. [USA Today](http://www.usatoday.com/weather/storms/hurricanes/2008-09-03-hurricane-ike_N.htm?csp=34)
+1. [USA Today](http://www.usatoday.com/weather/storms/hurricanes/2008-09-03-hurricane-ike_N.htm?csp=34)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5gVWjsPEiqe1tEu2mhBIRaxxGi8owD92VIBMG0)
 
 ### Related:
 

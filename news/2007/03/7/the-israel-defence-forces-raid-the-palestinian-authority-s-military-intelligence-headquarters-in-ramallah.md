@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AlJazeera](http://english.aljazeera.net/NR/exeres/339683A0-7E29-4FAB-9BC8-B7A591BCF748.htm)
-2. [AFP via News Limited](http://www.news.com.au/story/0,10117,21342391-401,00.html)
+1. [AFP via News Limited](http://www.news.com.au/story/0,10117,21342391-401,00.html)
+2. [AlJazeera](http://english.aljazeera.net/NR/exeres/339683A0-7E29-4FAB-9BC8-B7A591BCF748.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=135388&sectionid=351020501)
-2. [Radio Netherlands Worldwide](http://www.rnw.nl/africa/article/dozens-killed-artillery-battle-somalia)
+1. [Radio Netherlands Worldwide](http://www.rnw.nl/africa/article/dozens-killed-artillery-battle-somalia)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=135388&sectionid=351020501)
 3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g7OaI4_kjeHA-o4UhlmP7vlWmrrwD9H20FQ80)
 
 ### Related:

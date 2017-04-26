@@ -7,8 +7,8 @@ The capital is staring at an unprecedented water crisis after 70% of its supply 
 
 ### Source:
 
-1. [BBX](http://www.bbc.com/news/world-asia-india-35624547)
-2. [The Times of India](http://timesofindia.indiatimes.com/city/delhi/Jat-quota-stir-Water-supply-cut-Delhi-may-go-dry-today/articleshow/51073879.cms)
+1. [The Times of India](http://timesofindia.indiatimes.com/city/delhi/Jat-quota-stir-Water-supply-cut-Delhi-may-go-dry-today/articleshow/51073879.cms)
+2. [BBX](http://www.bbc.com/news/world-asia-india-35624547)
 
 ### Related:
 

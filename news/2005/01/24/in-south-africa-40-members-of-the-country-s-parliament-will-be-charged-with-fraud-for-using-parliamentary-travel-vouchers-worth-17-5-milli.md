@@ -8,8 +8,8 @@
 ### Source:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=15&art_id=vn20050123143202363C599689)
-2. [Guardian](http://www.guardian.co.uk/southafrica/story/0,13262,1396902,00.html)
-3. [IAfrica](http://iafrica.com/news/sa/340435.htm)
+2. [IAfrica](http://iafrica.com/news/sa/340435.htm)
+3. [Guardian](http://www.guardian.co.uk/southafrica/story/0,13262,1396902,00.html)
 
 ### Related:
 

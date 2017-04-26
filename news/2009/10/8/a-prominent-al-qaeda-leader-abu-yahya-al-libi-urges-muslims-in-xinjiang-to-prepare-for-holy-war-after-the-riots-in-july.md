@@ -7,9 +7,9 @@ China&rsquo;s fears about international Islamic militants getting excited over t
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/Al-Qaida-leader-orders-reprisals-against-Chinese-targets-for-Urumqi-riots/articleshow/5101955.cms)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/08/china.uyghur.threat/)
-3. [China Daily](http://www.chinadaily.com.cn/china/2009-10/08/content_8767743.htm)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/08/china.uyghur.threat/)
+2. [China Daily](http://www.chinadaily.com.cn/china/2009-10/08/content_8767743.htm)
+3. [Times of India](http://timesofindia.indiatimes.com/world/china/Al-Qaida-leader-orders-reprisals-against-Chinese-targets-for-Urumqi-riots/articleshow/5101955.cms)
 
 ### Related:
 

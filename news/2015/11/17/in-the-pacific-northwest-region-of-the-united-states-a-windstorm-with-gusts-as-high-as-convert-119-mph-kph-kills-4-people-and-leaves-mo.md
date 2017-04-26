@@ -8,8 +8,8 @@ A large storm system has brought widespread damage to the Northwest. Here&#039;s
 ### Source:
 
 1. [The Weather Channel](http://www.weather.com/news/weather/news/northwest-high-winds-rain-snow-impacts)
-2. [KIRO-TV](http://www.kirotv.com/news/news/thousands-remain-without-power-after-violent-storm/npQJm/)
-3. [The Seattle Times](http://www.seattletimes.com/seattle-news/weather/high-winds-to-hit-puget-sound-area-flooding-downed-trees-landslides-possible/)
+2. [The Seattle Times](http://www.seattletimes.com/seattle-news/weather/high-winds-to-hit-puget-sound-area-flooding-downed-trees-landslides-possible/)
+3. [KIRO-TV](http://www.kirotv.com/news/news/thousands-remain-without-power-after-violent-storm/npQJm/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ New satellite imagery appears to reveal extensive damage to a major airbase in S
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-raqqa-idINKCN0YF2G3)
-2. [BBC](http://www.bbc.com/news/world-middle-east-36368346)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36368346)
+2. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-raqqa-idINKCN0YF2G3)
 
 ### Related:
 

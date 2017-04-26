@@ -1,13 +1,13 @@
 ## [2006-06-27](/news/2006/06/27/index.md)
 
 ### [ Chadian rebels attack the neighboring Central African Republic. They have reportedly formed an alliance with CAR rebels. Large areas of both countries have descended into violence. ](/news/2006/06/27/chadian-rebels-attack-the-neighboring-central-african-republic-they-have-reportedly-formed-an-alliance-with-car-rebels-large-areas-of-bot.md)
-_Context: Central-African, Chad_
+_Context: Central African Republic, Chad_
 
 ### [ Armenian President Robert Kocharyan and Azerbaijani President Ilham Aliyev agree to allow the residents of Nagorno-Karabakh to decide the region's future status through a popular vote. ](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.md)
 _Context: Armenia, Armenian President, Azerbaijan, Ilham Aliyev's, Nagorno-Karabakh region, President, Robert Kocharyan_
 
 ### [ The most recent attempt in the United States to adopt a flag desecration amendment fails in the Senate by one vote. ](/news/2006/06/27/the-most-recent-attempt-in-the-united-states-to-adopt-a-flag-desecration-amendment-fails-in-the-senate-by-one-vote.md)
-_Context: United States, United States Senate, flag desecration amendment_
+_Context: U.S., United States Senate, flag desecration amendment_
 
 ### [ Popular musician Axl Rose from the band Guns N' Roses is arrested in Stockholm, Sweden, for alleged violent conduct including biting a security guard on the leg. ](/news/2006/06/27/popular-musician-axl-rose-from-the-band-guns-n-roses-is-arrested-in-stockholm-sweden-for-alleged-violent-conduct-including-biting-a-secu.md)
 _Context: Axl Rose, Guns N' Roses, Stockholm, Sweden, popular music_

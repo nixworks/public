@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090726063949815C917290)
-2. [CNN](http://edition.cnn.com/2009/WORLD/africa/07/26/guinea.bissau.elections/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/africa/07/26/guinea.bissau.elections/)
+2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090726063949815C917290)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8600561.stm)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/apr/02/tapping-heard-china-mine-flooded)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/apr/02/tapping-heard-china-mine-flooded)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8600561.stm)
 
 ### Related:
 

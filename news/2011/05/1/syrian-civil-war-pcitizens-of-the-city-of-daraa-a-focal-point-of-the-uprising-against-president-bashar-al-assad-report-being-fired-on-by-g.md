@@ -7,12 +7,12 @@ Syrian soldiers and tanks have been firing in the city of Deraa, a centre of ant
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13253914)
-2. [Voice of America News](http://www.voanews.com/english/news/Syrian-Troops-Storm-Into-Daraa-Sunday-121048314.html)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jnycmkaCdITN5_jgu81pYktyoMFw?docId=CNG.042d4a3fb6d1e2421d66119ad6efcb0f.311)
-4. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=218720)
-5. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218638)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115191534769149.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115191534769149.html)
+2. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=218720)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218638)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-13253914)
+5. [Voice of America News](http://www.voanews.com/english/news/Syrian-Troops-Storm-Into-Daraa-Sunday-121048314.html)
+6. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jnycmkaCdITN5_jgu81pYktyoMFw?docId=CNG.042d4a3fb6d1e2421d66119ad6efcb0f.311)
 
 ### Related:
 

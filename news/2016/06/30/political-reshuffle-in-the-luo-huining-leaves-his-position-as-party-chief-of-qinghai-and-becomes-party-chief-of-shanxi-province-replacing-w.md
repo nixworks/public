@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SCMP](http://www.scmp.com/news/china/policies-politics/article/1982979/hubei-governor-tipped-party-head-qinghai-province-it)
-2. [SCMP](http://www.scmp.com/news/china/policies-politics/article/1982987/chinas-powerful-internet-tsar-steps-aside-another-xi)
+1. [SCMP](http://www.scmp.com/news/china/policies-politics/article/1982987/chinas-powerful-internet-tsar-steps-aside-another-xi)
+2. [SCMP](http://www.scmp.com/news/china/policies-politics/article/1982979/hubei-governor-tipped-party-head-qinghai-province-it)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Simmering tensions between Anthem Inc. and Cigna Corp. exploded Tuesday as Cigna
 
 ### Source:
 
-1. [CNBC](http://www.cnbc.com/2017/02/14/cigna-terminates-merger-with-anthem-sues-for-fee-damages.html)
-2. [Bloomberg](https://www.bloomberg.com/news/articles/2017-02-14/cigna-sues-anthem-after-ending-their-merger-agreement)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-02-14/cigna-sues-anthem-after-ending-their-merger-agreement)
+2. [CNBC](http://www.cnbc.com/2017/02/14/cigna-terminates-merger-with-anthem-sues-for-fee-damages.html)
 
 ### Related:
 

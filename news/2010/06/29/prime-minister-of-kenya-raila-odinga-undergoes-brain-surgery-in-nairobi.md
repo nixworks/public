@@ -7,12 +7,12 @@ Rescue workers say there is little chance of finding more survivors after a gold
 
 ### Source:
 
-1. [My Joy Online](http://news.myjoyonline.com/news/201006/48376.asp)
-2. [AllAfrica.com](http://allafrica.com/stories/201006291287.html)
-3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE65S0CD20100629)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10449723.stm)
-5. [Times LIVE](http://www.timeslive.co.za/africa/article525773.ece/Kenyan-PM-has-brain-op)
-6. [Daily Nation](http://www.nation.co.ke/News/Kenya%20PM%20undergoing%20treatment%20for%20fatigue/-/1056/948634/-/jew2yb/-/)
+1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE65S0CD20100629)
+2. [Daily Nation](http://www.nation.co.ke/News/Kenya%20PM%20undergoing%20treatment%20for%20fatigue/-/1056/948634/-/jew2yb/-/)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10449723.stm)
+4. [Times LIVE](http://www.timeslive.co.za/africa/article525773.ece/Kenyan-PM-has-brain-op)
+5. [AllAfrica.com](http://allafrica.com/stories/201006291287.html)
+6. [My Joy Online](http://news.myjoyonline.com/news/201006/48376.asp)
 
 ### Related:
 

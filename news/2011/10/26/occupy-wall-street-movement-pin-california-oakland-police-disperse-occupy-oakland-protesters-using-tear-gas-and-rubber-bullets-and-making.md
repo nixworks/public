@@ -7,10 +7,10 @@ Update: 7:45 EST/3:45 PST What we know now: Scott Olsen, a US Marine who served 
 
 ### Source:
 
-1. [DailyKos](http://www.dailykos.com/story/2011/10/26/1030222/-BREAKING-PHOTOS:-Images-CONTRADICT-Oakland-PD-Press-Release-on-Rubber-Bullets)
-2. [CNN](http://www.cnn.com/2011/10/26/us/occupy-wall-steet/index.html?hpt=hp_t1)
+1. [Reuters](http://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-eviction-idUSTRE79P7XL20111026)
+2. [DailyKos](http://www.dailykos.com/story/2011/10/26/1030222/-BREAKING-PHOTOS:-Images-CONTRADICT-Oakland-PD-Press-Release-on-Rubber-Bullets)
 3. [Reuters](http://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-oakland-idUSTRE79P7KS20111026)
-4. [Reuters](http://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-eviction-idUSTRE79P7XL20111026)
+4. [CNN](http://www.cnn.com/2011/10/26/us/occupy-wall-steet/index.html?hpt=hp_t1)
 
 ### Related:
 
@@ -18,9 +18,9 @@ Update: 7:45 EST/3:45 PST What we know now: Scott Olsen, a US Marine who served 
 2. [The Port of Oakland in the US state of California reopens after a second police crackdown on Occupy Oakland. ](/news/2011/11/3/the-port-of-oakland-in-the-us-state-of-california-reopens-after-a-second-police-crackdown-on-occupy-oakland.md) _Context: California, Occupy Oakland_
 3. [Police fire tear gas at Occupy Oakland protesters after they blocked the Port of Oakland. ](/news/2011/11/3/police-fire-tear-gas-at-occupy-oakland-protesters-after-they-blocked-the-port-of-oakland.md) _Context: Occupy Oakland, tear gas_
 4. [Police arrest 75 people outside Oakland City Hall in the U.S. state of California while clearing the campsite of the Occupy Oakland protest. ](/news/2011/10/25/police-arrest-75-people-outside-oakland-city-hall-in-the-u-s-state-of-california-while-clearing-the-campsite-of-the-occupy-oakland-protest.md) _Context: California, Occupy Oakland_
-5. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
-6. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: California_
-7. [A California storm in the Calaveras Big Trees State Park fells the 1,000-year-old American tree, the Pioneer Cabin Tree. ](/news/2017/01/9/a-california-storm-in-the-calaveras-big-trees-state-park-fells-the-1-000-year-old-american-tree-the-pioneer-cabin-tree.md) _Context: California_
-8. [Yes California, the campaign to reinstate the independence of California launches its signature campaign. ](/news/2017/01/27/yes-california-the-campaign-to-reinstate-the-independence-of-california-launches-its-signature-campaign.md) _Context: California_
-9. [California Governor Jerry Brown declares a state of emergency in 50 counties, as winter storms kill four and cause millions of dollars in damage. ](/news/2017/01/24/california-governor-jerry-brown-declares-a-state-of-emergency-in-50-counties-as-winter-storms-kill-four-and-cause-millions-of-dollars-in-da.md) _Context: California_
-10. [Uber suspends tests of its self-driving cars in San Francisco, California, after the California Department of Motor Vehicles revoked the registration of the vehicles in the state in response to two red-light violations. ](/news/2016/12/21/uber-suspends-tests-of-its-self-driving-cars-in-san-francisco-california-after-the-california-department-of-motor-vehicles-revoked-the-reg.md) _Context: California_
+5. [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md) _Context: California_
+6. [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md) _Context: California_
+7. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
+8. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: California_
+9. [A California storm in the Calaveras Big Trees State Park fells the 1,000-year-old American tree, the Pioneer Cabin Tree. ](/news/2017/01/9/a-california-storm-in-the-calaveras-big-trees-state-park-fells-the-1-000-year-old-american-tree-the-pioneer-cabin-tree.md) _Context: California_
+10. [Yes California, the campaign to reinstate the independence of California launches its signature campaign. ](/news/2017/01/27/yes-california-the-campaign-to-reinstate-the-independence-of-california-launches-its-signature-campaign.md) _Context: California_

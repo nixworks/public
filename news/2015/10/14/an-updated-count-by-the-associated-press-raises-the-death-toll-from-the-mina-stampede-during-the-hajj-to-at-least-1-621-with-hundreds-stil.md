@@ -7,8 +7,8 @@ Dubai: The toll in the deadliest tragedy to ever strike the annual hajj pilgrima
 
 ### Source:
 
-1. [AP via Washington Post](https://www.washingtonpost.com/world/middle_east/new-tally-shows-at-least-1621-killed-in-saudi-hajj-tragedy/2015/10/14/8740b3ac-7279-11e5-ba14-318f8e87a2fc_story.html)
-2. [Dainik Jagran](http://post.jagran.com/new-tally-shows-at-least-1621-killed-in-saudi-hajj-tragedy-1444885689)
+1. [Dainik Jagran](http://post.jagran.com/new-tally-shows-at-least-1621-killed-in-saudi-hajj-tragedy-1444885689)
+2. [AP via Washington Post](https://www.washingtonpost.com/world/middle_east/new-tally-shows-at-least-1621-killed-in-saudi-hajj-tragedy/2015/10/14/8740b3ac-7279-11e5-ba14-318f8e87a2fc_story.html)
 
 ### Related:
 

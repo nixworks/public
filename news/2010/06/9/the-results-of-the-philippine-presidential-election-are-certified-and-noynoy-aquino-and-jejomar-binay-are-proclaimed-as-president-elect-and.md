@@ -7,8 +7,8 @@ MANILA, Philippines &ndash; After over a week of wrangling over &ldquo;null vote
 
 ### Source:
 
-1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/06/09/10/congress-proclaims-aquino-binay-president-and-vice-president)
-2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20100609-274746/Aquino-15th-President-of-the-Philippines)
+1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20100609-274746/Aquino-15th-President-of-the-Philippines)
+2. [ABS-CBN News](http://www.abs-cbnnews.com/nation/06/09/10/congress-proclaims-aquino-binay-president-and-vice-president)
 
 ### Related:
 

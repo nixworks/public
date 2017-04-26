@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=100077)
-2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704366504575278212516510890.html)
+1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704366504575278212516510890.html)
+2. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=100077)
 
 ### Related:
 

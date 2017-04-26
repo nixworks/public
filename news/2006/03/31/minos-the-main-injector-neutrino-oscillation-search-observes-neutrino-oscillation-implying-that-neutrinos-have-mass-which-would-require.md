@@ -8,8 +8,8 @@
 ### Source:
 
 1. [MINOS](http://www-numi.fnal.gov/talks/results06.html)
-2. [PhysOrg.com](http://www.physorg.com/news62941548.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4862112.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4862112.stm)
+3. [PhysOrg.com](http://www.physorg.com/news62941548.html)
 
 ### Related:
 

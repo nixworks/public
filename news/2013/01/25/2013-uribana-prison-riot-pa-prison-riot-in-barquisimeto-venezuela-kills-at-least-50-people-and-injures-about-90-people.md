@@ -7,9 +7,9 @@ More than 50 people have been killed and dozens more injured in a prison riot in
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/01/201312615326992465.html)
-2. [CNN](http://edition.cnn.com/2013/01/26/world/americas/venezuela-prison-riot)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-21208692)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21208692)
+2. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/01/201312615326992465.html)
+3. [CNN](http://edition.cnn.com/2013/01/26/world/americas/venezuela-prison-riot)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.voanews.com/content/kerry-russian-planes-in-syria-for-force-protection/2974425.html)
-2. [Reuters](http://www.reuters.com/article/2015/09/22/us-mideast-crisis-russia-bases-idUSKCN0RM21520150922)
+1. [Reuters](http://www.reuters.com/article/2015/09/22/us-mideast-crisis-russia-bases-idUSKCN0RM21520150922)
+2. [Reuters](http://www.voanews.com/content/kerry-russian-planes-in-syria-for-force-protection/2974425.html)
 
 ### Related:
 

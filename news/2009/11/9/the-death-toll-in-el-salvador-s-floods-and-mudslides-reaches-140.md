@@ -7,9 +7,9 @@ The death toll from flooding and mudslides in El Salvador triggered by the passa
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSN08211085)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8349333.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/El-Salvador-Hurricane-Flooding-Dozens-Killed-In-Mudslides-The-Government-Says/Article/200911215444546?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_15444546_El_Salvador_Hurricane_Flooding%3A_Dozens_Killed_In_Mudslides%2C_The_Government_Says)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/8349333.stm)
+3. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSN08211085)
 
 ### Related:
 

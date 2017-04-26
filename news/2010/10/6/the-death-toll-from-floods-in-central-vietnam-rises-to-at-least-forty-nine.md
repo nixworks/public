@@ -8,9 +8,9 @@ The death toll from floods that devastated central Vietnam over recent days has 
 ### Source:
 
 1. [Vietnamnet](http://english.vietnamnet.vn/social/201010/Flood-kills-28-in-central-Vietnam-939791/)
-2. [TRT](http://www.trtenglish.com/trtworld/en/newsDetail.aspx?HaberKodu=8da88815-908f-41fc-8807-cf17fb8fb0a4)
-3. [VOV News](http://english.vovnews.vn/Home/Central-floods-kill-28/201010/120183.vov)
-4. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/vietnam-flood-toll-rises-to-26-20101006-167bq.html)
+2. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/vietnam-flood-toll-rises-to-26-20101006-167bq.html)
+3. [TRT](http://www.trtenglish.com/trtworld/en/newsDetail.aspx?HaberKodu=8da88815-908f-41fc-8807-cf17fb8fb0a4)
+4. [VOV News](http://english.vovnews.vn/Home/Central-floods-kill-28/201010/120183.vov)
 
 ### Related:
 

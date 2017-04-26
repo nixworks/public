@@ -7,9 +7,9 @@ A group of 15 children kidnapped in south-eastern Nigeria is freed in a police o
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/20101017400540776.html)
+1. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5625659-146/kidnapped_schoolchildren_freed_unharmed.csp)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11450818)
-3. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5625659-146/kidnapped_schoolchildren_freed_unharmed.csp)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/20101017400540776.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The heavy favorite settles accounts first on the road, then on the Roubaix velod
 
 ### Source:
 
-1. [VeloNation](http://www.velonation.com/News/ID/14313/Fabian-Cancellara-wins-Paris-Roubaix-in-velodrome-sprint-over-Vanmarcke.aspx)
-2. [VeloNews](http://velonews.competitor.com/2013/04/news/fabian-cancellara-wins-2013-paris-roubaix_281023)
+1. [VeloNews](http://velonews.competitor.com/2013/04/news/fabian-cancellara-wins-2013-paris-roubaix_281023)
+2. [VeloNation](http://www.velonation.com/News/ID/14313/Fabian-Cancellara-wins-Paris-Roubaix-in-velodrome-sprint-over-Vanmarcke.aspx)
 
 ### Related:
 

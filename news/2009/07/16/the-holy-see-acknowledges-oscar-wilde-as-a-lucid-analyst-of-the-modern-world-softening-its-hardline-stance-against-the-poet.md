@@ -7,8 +7,8 @@ Oscar Wilde, whose flamboyant homosexuality shocked Britain in the 19th century,
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/5844870/Vatican-reconciles-with-Oscar-Wilde.html)
-2. [The Guardian](http://www.guardian.co.uk/commentisfree/belief/2009/jul/17/oscar-wilde-vatican-catholic-osservatore)
+1. [The Guardian](http://www.guardian.co.uk/commentisfree/belief/2009/jul/17/oscar-wilde-vatican-catholic-osservatore)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/5844870/Vatican-reconciles-with-Oscar-Wilde.html)
 
 ### Related:
 

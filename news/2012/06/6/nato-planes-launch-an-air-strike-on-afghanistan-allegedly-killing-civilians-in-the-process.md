@@ -7,8 +7,8 @@ Nato planes carry out an air strike in Logar province, south of the Afghan capit
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-18340140)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/20126664410739115.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/06/20126664410739115.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-18340140)
 
 ### Related:
 

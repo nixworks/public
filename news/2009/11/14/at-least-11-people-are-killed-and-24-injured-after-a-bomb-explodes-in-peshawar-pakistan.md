@@ -8,8 +8,8 @@ A suicide bomber blew up his explosives-filled car Saturday at a police checkpoi
 ### Source:
 
 1. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/suicide-car-bomb-kills-11-in-nw-pakistan-20091115-iftp.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/20091114114243650412.html)
-3. [Geo TV](http://www.geo.tv/11-14-2009/52898.htm)
+2. [Geo TV](http://www.geo.tv/11-14-2009/52898.htm)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/20091114114243650412.html)
 
 ### Related:
 

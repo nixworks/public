@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a2nqlw1.tHlo&refer=top_world_news)
-2. [Mosnews](http://www.mosnews.com/news/2005/03/16/crashsurvivors.shtml)
-3. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5463986&startrow=1&date=2005-03-16&do_alert=0)
+1. [Mosnews](http://www.mosnews.com/news/2005/03/16/crashsurvivors.shtml)
+2. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5463986&startrow=1&date=2005-03-16&do_alert=0)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a2nqlw1.tHlo&refer=top_world_news)
 
 ### Related:
 

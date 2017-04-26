@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE6990IN20101010)
-2. [AP via USA Today](http://www.usatoday.com/sports/college/volleyball/2010-10-10-2701088372_x.htm)
+1. [AP via USA Today](http://www.usatoday.com/sports/college/volleyball/2010-10-10-2701088372_x.htm)
+2. [Reuters](http://www.reuters.com/article/idUSLDE6990IN20101010)
 
 ### Related:
 

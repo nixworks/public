@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Norway Post](http://www.norwaypost.no/content/view/22509/1/)
-2. [Financial Times](http://www.ft.com/cms/s/0/58a1ac9e-a14d-11de-a88d-00144feabdc0.html)
+1. [Financial Times](http://www.ft.com/cms/s/0/58a1ac9e-a14d-11de-a88d-00144feabdc0.html)
+2. [Norway Post](http://www.norwaypost.no/content/view/22509/1/)
 
 ### Related:
 

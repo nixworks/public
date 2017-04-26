@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [New Kerala](http://www.newkerala.com/news-daily/news/features.php?action=fullnews&id=64603)
+1. [Rediff, india](http://in.rediff.com/news/2005/jan/25satara.htm)
 2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/BOM50055.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4204877.stm)
-4. [Rediff, india](http://in.rediff.com/news/2005/jan/25satara.htm)
+3. [New Kerala](http://www.newkerala.com/news-daily/news/features.php?action=fullnews&id=64603)
+4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4204877.stm)
 
 ### Related:
 

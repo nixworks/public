@@ -7,10 +7,10 @@ Frenchman defeats six-time champion to reach semi-final against second seed Djok
 
 ### Source:
 
-1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/tennis/13958561.stm)
-2. [Reuters](http://uk.reuters.com/article/2011/06/29/tennis-wimbledon-idUKL3E7HT2UJ20110629?feedType=RSS&feedName=tennisNews)
+1. [Reuters](http://uk.reuters.com/article/2011/06/29/tennis-wimbledon-idUKL3E7HT2UJ20110629?feedType=RSS&feedName=tennisNews)
+2. [Al Jazeera](http://english.aljazeera.net/sport/2011/06/2011629173611317246.html)
 3. [The Denver Post](http://www.denverpost.com/golf/ci_18376322)
-4. [Al Jazeera](http://english.aljazeera.net/sport/2011/06/2011629173611317246.html)
+4. [BBC Sport](http://news.bbc.co.uk/sport2/hi/tennis/13958561.stm)
 
 ### Related:
 

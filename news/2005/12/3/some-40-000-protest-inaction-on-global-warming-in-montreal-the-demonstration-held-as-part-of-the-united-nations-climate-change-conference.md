@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Independent](http://news.independent.co.uk/environment/article331083.ece)
-2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20051203/climatechange_worldwide_051203/20051203?hub=SciTech)
+1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20051203/climatechange_worldwide_051203/20051203?hub=SciTech)
+2. [Independent](http://news.independent.co.uk/environment/article331083.ece)
 
 ### Related:
 

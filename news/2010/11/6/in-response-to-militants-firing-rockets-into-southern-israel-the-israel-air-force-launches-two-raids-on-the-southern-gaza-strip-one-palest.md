@@ -7,8 +7,8 @@ Relative calm in south disturbed as Palestinian terrorists launch rocket from no
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3980351,00.html)
-2. [France24](http://www.france24.com/en/20101106-palestinian-hurt-israeli-gaza-raids-after-rocket-strike)
+1. [France24](http://www.france24.com/en/20101106-palestinian-hurt-israeli-gaza-raids-after-rocket-strike)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3980351,00.html)
 
 ### Related:
 

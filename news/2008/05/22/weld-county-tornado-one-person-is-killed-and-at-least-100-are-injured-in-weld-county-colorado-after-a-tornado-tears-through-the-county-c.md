@@ -7,8 +7,8 @@ The town hall and several other buildings in Windsor were hit by a mile-wide tor
 
 ### Source:
 
-1. [The Denver Post](http://origin.denverpost.com/extremes/ci_9344925)
-2. [ABC 7](http://www.thedenverchannel.com/weather/16321240/detail.html)
+1. [ABC 7](http://www.thedenverchannel.com/weather/16321240/detail.html)
+2. [The Denver Post](http://origin.denverpost.com/extremes/ci_9344925)
 
 ### Related:
 

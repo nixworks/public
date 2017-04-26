@@ -7,8 +7,8 @@ There can be no pick and choose in the single market, EU leaders meeting in Brus
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-britain-eu-wrapup-idUSKCN0ZF29S)
-2. [BBC](http://www.bbc.com/news/world-europe-36659900)
+1. [BBC](http://www.bbc.com/news/world-europe-36659900)
+2. [Reuters](http://www.reuters.com/article/us-britain-eu-wrapup-idUSKCN0ZF29S)
 
 ### Related:
 

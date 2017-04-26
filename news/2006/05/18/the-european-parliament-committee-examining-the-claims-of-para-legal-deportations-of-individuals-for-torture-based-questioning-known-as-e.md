@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20060517-125933-1701r)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-05-17T153544Z_01_L17291758_RTRUKOC_0_US-SECURITY-EUROPE-CIA.xml&archived=False)
-3. [EU Observer](http://euobserver.com/9/21632)
+1. [EU Observer](http://euobserver.com/9/21632)
+2. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20060517-125933-1701r)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-05-17T153544Z_01_L17291758_RTRUKOC_0_US-SECURITY-EUROPE-CIA.xml&archived=False)
 
 ### Related:
 

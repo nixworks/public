@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/05/23/far-right-candidate-slightly-ahead-austria-vote-counting-continues/84767130/)
-2. [CNN](http://edition.cnn.com/2016/05/23/europe/austria-presidential-election/)
+1. [CNN](http://edition.cnn.com/2016/05/23/europe/austria-presidential-election/)
+2. [USA Today](http://www.usatoday.com/story/news/world/2016/05/23/far-right-candidate-slightly-ahead-austria-vote-counting-continues/84767130/)
 
 ### Related:
 

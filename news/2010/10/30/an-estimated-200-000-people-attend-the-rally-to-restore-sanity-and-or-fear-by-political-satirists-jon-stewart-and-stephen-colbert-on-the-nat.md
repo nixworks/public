@@ -7,9 +7,9 @@ Gathering in Washington called attempt to inject humour and tone down partisan d
 
 ### Source:
 
-1. [Toronto Sun](http://www.torontosun.com/news/world/2010/10/30/15890551.html)
-2. [Al Jazeera](http://english.aljazeera.net/video/americas/2010/10/20101030152030884959.html)
-3. [Reuters](http://www.reuters.com/article/idUSTRE69T1IX20101030)
+1. [Al Jazeera](http://english.aljazeera.net/video/americas/2010/10/20101030152030884959.html)
+2. [Reuters](http://www.reuters.com/article/idUSTRE69T1IX20101030)
+3. [Toronto Sun](http://www.torontosun.com/news/world/2010/10/30/15890551.html)
 
 ### Related:
 

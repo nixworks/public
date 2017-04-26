@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PhysOrg](http://www.physorg.com/news/2011-03-virus-eating-virus-antarctic-lake.html)
-2. [Nature](http://www.nature.com/news/2011/110328/full/news.2011.188.html)
+1. [Nature](http://www.nature.com/news/2011/110328/full/news.2011.188.html)
+2. [PhysOrg](http://www.physorg.com/news/2011-03-virus-eating-virus-antarctic-lake.html)
 
 ### Related:
 

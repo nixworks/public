@@ -8,8 +8,8 @@
 ### Source:
 
 1. [MENAFN](http://www.menafn.com/qn_news_story.asp?StoryId=CqT3mqeidEwvTzw4TCMLVDhm)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/BD09A401-9E2D-4D7C-ABCC-7F024C0A29FC.htm)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L20645936.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L20645936.htm)
+3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/BD09A401-9E2D-4D7C-ABCC-7F024C0A29FC.htm)
 
 ### Related:
 

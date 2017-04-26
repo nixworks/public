@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_507336.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/sci/2010-03/27/c_13226796.htm)
-3. [The Hindu](http://beta.thehindu.com/sci-tech/science/article306715.ece)
+2. [The Hindu](http://beta.thehindu.com/sci-tech/science/article306715.ece)
+3. [Xinhua](http://news.xinhuanet.com/english2010/sci/2010-03/27/c_13226796.htm)
 
 ### Related:
 

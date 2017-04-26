@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/news/europe/Volcano-Disrupts-Flights-Industry-Criticizes-Regulators-122509244.html)
-2. [Sky News](http://news.sky.com/skynews/Article/201009115999035)
+1. [Sky News](http://news.sky.com/skynews/Article/201009115999035)
+2. [VOA](http://www.voanews.com/english/news/europe/Volcano-Disrupts-Flights-Industry-Criticizes-Regulators-122509244.html)
 
 ### Related:
 

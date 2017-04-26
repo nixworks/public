@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN0641764920070806?src=080607_1406_TOPSTORY_coal_mine_collapses)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/uu00007535.php)
+1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/uu00007535.php)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSN0641764920070806?src=080607_1406_TOPSTORY_coal_mine_collapses)
 
 ### Related:
 

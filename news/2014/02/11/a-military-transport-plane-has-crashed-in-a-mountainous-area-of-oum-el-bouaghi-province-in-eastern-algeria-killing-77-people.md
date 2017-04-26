@@ -7,8 +7,8 @@ A military transport plane carrying members of the Algerian armed forces and the
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-26138101)
-2. [Reuters](http://www.reuters.com/article/2014/02/11/us-algeria-crash-idUSBREA1A0YK20140211?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/2014/02/11/us-algeria-crash-idUSBREA1A0YK20140211?feedType=RSS&feedName=topNews)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-26138101)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Myanmar-s-Suu-Kyi-turns-66-in-freedom/Article1-711187.aspx)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jhF3ML20rmM4SaCcpfThgIQEav2Q?docId=5ab35317c866461ca70954f11ce8bc29)
-3. [Al Arabiya](http://english.alarabiya.net/articles/2011/06/19/153932.html)
+2. [Al Arabiya](http://english.alarabiya.net/articles/2011/06/19/153932.html)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jhF3ML20rmM4SaCcpfThgIQEav2Q?docId=5ab35317c866461ca70954f11ce8bc29)
 
 ### Related:
 

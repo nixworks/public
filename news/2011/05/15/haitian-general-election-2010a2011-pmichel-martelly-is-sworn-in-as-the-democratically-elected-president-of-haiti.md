@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Miami Herald](http://www.miamiherald.com/2011/05/15/2218209/haiti-prime-minister-jean-max.html#storylink=twt)
-2. [CNN](http://www.cnn.com/2011/WORLD/americas/05/14/haiti.inauguration/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/americas/05/14/haiti.inauguration/index.html)
+2. [Miami Herald](http://www.miamiherald.com/2011/05/15/2218209/haiti-prime-minister-jean-max.html#storylink=twt)
 
 ### Related:
 

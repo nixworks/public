@@ -7,9 +7,9 @@ At least 717 people taking part in the Hajj pilgrimage have been killed in a sta
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/world/middle_east/the-latest-saudis-say-220-dead-in-hajj-stampede/2015/09/24/0b002e8a-629d-11e5-8475-781cc9851652_story.html)
-2. [The New York Times](http://www.nytimes.com/2015/09/25/world/middleeast/mecca-stampede.html?emc=edit_na_20150924&nlid=66213151&ref=cta)
-3. [BBC](http://www.bbc.com/news/world-middle-east-34346449)
+1. [BBC](http://www.bbc.com/news/world-middle-east-34346449)
+2. [Washington Post](https://www.washingtonpost.com/world/middle_east/the-latest-saudis-say-220-dead-in-hajj-stampede/2015/09/24/0b002e8a-629d-11e5-8475-781cc9851652_story.html)
+3. [The New York Times](http://www.nytimes.com/2015/09/25/world/middleeast/mecca-stampede.html?emc=edit_na_20150924&nlid=66213151&ref=cta)
 
 ### Related:
 

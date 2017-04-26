@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en/match/102042/sevilla-vs-atletico-madrid/report)
-2. [Soccerway](http://int.soccerway.com/news/2013/February/28/copa-del-rey-sevilla-2-atletico-madrid-2-agg-3-4/)
+1. [Soccerway](http://int.soccerway.com/news/2013/February/28/copa-del-rey-sevilla-2-atletico-madrid-2-agg-3-4/)
+2. [Goal.com](http://www.goal.com/en/match/102042/sevilla-vs-atletico-madrid/report)
 
 ### Related:
 

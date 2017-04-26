@@ -7,8 +7,8 @@ France stages its annual Bastille Day parade, amid criticism of the presence of 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/10628679)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010714134545897731.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010714134545897731.html)
+2. [BBC](http://www.bbc.co.uk/news/10628679)
 
 ### Related:
 

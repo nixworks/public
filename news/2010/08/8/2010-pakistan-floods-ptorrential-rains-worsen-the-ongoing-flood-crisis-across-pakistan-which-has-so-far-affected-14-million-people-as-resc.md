@@ -7,10 +7,10 @@ Prime minister visits flood-hit areas in Sindh as people take refuge in governme
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108814446737102.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10904903)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10908890)
-4. [The Express Tribune](http://tribune.com.pk/story/37497/floods-send-food-prices-soaring-in-pakistan/)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10904903)
+2. [The Express Tribune](http://tribune.com.pk/story/37497/floods-send-food-prices-soaring-in-pakistan/)
+3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108814446737102.html)
+4. [BBC](http://www.bbc.co.uk/news/world-south-asia-10908890)
 
 ### Related:
 

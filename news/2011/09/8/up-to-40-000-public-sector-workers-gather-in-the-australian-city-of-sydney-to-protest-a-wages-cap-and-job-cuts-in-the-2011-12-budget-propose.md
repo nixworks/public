@@ -7,8 +7,8 @@ ROAD closures and public transport disruptions are set to plague Sydney today as
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/breaking-news/sydney-set-to-be-disrupted-by-mass-protest/story-e6frfku0-1226131927565)
-2. [Daily Telegraph](http://www.dailytelegraph.com.au/news/sydney-nsw/workers-all-walk-off-job-to-protest-at-rally-at-nsw-parliament-house/story-e6freuzi-1226131761724)
+1. [Daily Telegraph](http://www.dailytelegraph.com.au/news/sydney-nsw/workers-all-walk-off-job-to-protest-at-rally-at-nsw-parliament-house/story-e6freuzi-1226131761724)
+2. [News Limited](http://www.news.com.au/breaking-news/sydney-set-to-be-disrupted-by-mass-protest/story-e6frfku0-1226131927565)
 
 ### Related:
 

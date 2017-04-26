@@ -7,8 +7,8 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ### Source:
 
-1. [Voice of Russia](http://english.ruvr.ru/2010/05/31/8761013.html)
-2. [The Hürriyet](http://www.hurriyetdailynews.com/n.php?n=russia-and-crisis-hit-eu-to-ease-disputes-at-summit-2010-05-31)
+1. [The Hürriyet](http://www.hurriyetdailynews.com/n.php?n=russia-and-crisis-hit-eu-to-ease-disputes-at-summit-2010-05-31)
+2. [Voice of Russia](http://english.ruvr.ru/2010/05/31/8761013.html)
 3. [EU Observer](http://euobserver.com/9/30168)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AL Jazeera](http://www.aljazeera.com/news/2016/01/attack-kills-10-afghan-police-160126083547130.html)
-2. [The New Indian Express](http://www.newindianexpress.com/world/Six-IS-Militants-Killed-in-Afghanistan-US-Drone-Attack/2016/01/26/article3246076.ece)
+1. [The New Indian Express](http://www.newindianexpress.com/world/Six-IS-Militants-Killed-in-Afghanistan-US-Drone-Attack/2016/01/26/article3246076.ece)
+2. [AL Jazeera](http://www.aljazeera.com/news/2016/01/attack-kills-10-afghan-police-160126083547130.html)
 
 ### Related:
 

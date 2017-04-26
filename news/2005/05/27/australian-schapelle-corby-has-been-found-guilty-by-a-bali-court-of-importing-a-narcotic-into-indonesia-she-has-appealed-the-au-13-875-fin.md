@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050525094057&irec=0)
-2. [ABC News](http://www.abc.net.au/news/newsitems/200505/s1378668.htm)
+1. [ABC News](http://www.abc.net.au/news/newsitems/200505/s1378668.htm)
+2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050525094057&irec=0)
 
 ### Related:
 

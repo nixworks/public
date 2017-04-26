@@ -7,10 +7,10 @@ Suicide bombers target game in northern town of Tal Afar, leaving at least 25 de
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8683642.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010514161932327374.html)
+1. [France24](http://www.france24.com/en/20100514-iraq-suicide-blast-football-match-stadium-north-tal-afar)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8683642.stm)
 3. [Xinhuanet](http://news.xinhuanet.com/english2010/world/2010-05/15/c_13295336.htm)
-4. [France24](http://www.france24.com/en/20100514-iraq-suicide-blast-football-match-stadium-north-tal-afar)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010514161932327374.html)
 
 ### Related:
 

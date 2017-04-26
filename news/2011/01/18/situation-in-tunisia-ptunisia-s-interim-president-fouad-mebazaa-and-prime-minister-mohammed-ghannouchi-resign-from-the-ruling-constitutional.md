@@ -7,9 +7,9 @@ The French foreign minister defends her handling of the Tunisian crisis, saying 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-12214746)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hXYDtlwRz0u1G1hLtGDxeW5uT84w?docId=CNG.bcacce5d757f65ee2ea85771101c036f.9e1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12220862)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hXYDtlwRz0u1G1hLtGDxeW5uT84w?docId=CNG.bcacce5d757f65ee2ea85771101c036f.9e1)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-12214746)
 4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011118194731826312.html)
 
 ### Related:

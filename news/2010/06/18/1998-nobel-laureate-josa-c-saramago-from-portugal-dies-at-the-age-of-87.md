@@ -7,10 +7,10 @@ Portuguese novelist Jose Saramago, who won the Nobel Prize for literature in 199
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/18/obit.saramago/)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5707165,00.html)
-3. [The Guardian](http://www.guardian.co.uk/books/2010/jun/18/jose-saramago-obituary)
-4. [BBC News](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10352251.stm)
+1. [The Guardian](http://www.guardian.co.uk/books/2010/jun/18/jose-saramago-obituary)
+2. [BBC News](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10352251.stm)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5707165,00.html)
+4. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/18/obit.saramago/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Rebekah Brooks, the former News International chief executive, has been charged 
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9266529/Phone-hacking-Rebekah-Brooks-will-be-charged-with-perverting-course-of-justice.html)
-2. [The Guardian](http://www.guardian.co.uk/uk/2012/may/15/rebekah-brooks-charged-perverting-course-justice)
-3. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125159273599626.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125159273599626.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9266529/Phone-hacking-Rebekah-Brooks-will-be-charged-with-perverting-course-of-justice.html)
+3. [The Guardian](http://www.guardian.co.uk/uk/2012/may/15/rebekah-brooks-charged-perverting-course-justice)
 
 ### Related:
 

@@ -8,9 +8,9 @@
 ### Source:
 
 1. [People's Daily](http://english.peopledaily.com.cn/90001/90783/91300/7177403.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-10/26/c_13575639.htm)
-3. [China Daily](http://www.chinadaily.com.cn/china/2010-10/26/content_11457796.htm)
-4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/26/china.three.gorges.dam/index.html?eref=edition)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-10/26/content_11457796.htm)
+3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/26/china.three.gorges.dam/index.html?eref=edition)
+4. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-10/26/c_13575639.htm)
 
 ### Related:
 

@@ -8,10 +8,10 @@ Prominent Shia cleric Sheikh Nimr al-Nimr is among 47 people executed for terror
 ### Source:
 
 1. [Reuters](http://mobile.reuters.com/article/idUSKBN0UG03B20160102)
-2. [ (The Nation](http://nation.com.pk/international/02-Jan-2016/saudi-arabia-executes-sheikh-nimr-al-nimr)
+2. [The New York Times](http://www.nytimes.com/2016/01/03/world/middleeast/saudi-arabia-executes-47-sheikh-nimr-shiite-cleric.html?_r=0)
 3. [BBC](http://www.bbc.com/news/world-middle-east-35213244)
 4. [Indian Express](http://indianexpress.com/article/world/world-news/saudi-arabia-executes-47-terrorists-including-shiite-cleric-sheikh-nimr-al-nimr/)
-5. [The New York Times](http://www.nytimes.com/2016/01/03/world/middleeast/saudi-arabia-executes-47-sheikh-nimr-shiite-cleric.html?_r=0)
+5. [ (The Nation](http://nation.com.pk/international/02-Jan-2016/saudi-arabia-executes-sheikh-nimr-al-nimr)
 
 ### Related:
 
@@ -19,7 +19,7 @@ Prominent Shia cleric Sheikh Nimr al-Nimr is among 47 people executed for terror
 2. [Pakistani prime minister Nawaz Sharif and army chief General Raheel Sharif will visit Riyadh on Monday and Tehran on Tuesday to launch mediation efforts between Iran and Saudi Arabia for normalization of relations and to ease the tensions in the region after Saudi Arabia executed a prominent Shia cleric Sheikh Nimr and an attack on the Saudi Embassy in Tehran. ](/news/2016/01/17/pakistani-prime-minister-nawaz-sharif-and-army-chief-general-raheel-sharif-will-visit-riyadh-on-monday-and-tehran-on-tuesday-to-launch-media.md) _Context: Saudi Arabia, Sheikh Nimr_
 3. [Saudi Arabian ambassador to the United Kingdom Prince Mohammed bin Nawaf bin Abdulaziz, in an op-ed piece in the ''The Daily Telegraph'', warns of "potentially serious repercussions" for the two countries' relationship unless a more respectful discourse developed.  At issue is London's withdrawal from a PS5.9m (US$9.1m) prison deal with Saudi Arabia which has been linked to London's concerns about a death penalty case and a case involving Karl Andree, a 74-year-old Briton who faces 350 lashes. Today, the Saudi Supreme Court confirmed Sheikh Nimr al-Nimr's death sentence. ](/news/2015/10/26/saudi-arabian-ambassador-to-the-united-kingdom-prince-mohammed-bin-nawaf-bin-abdulaziz-in-an-op-ed-piece-in-the-the-daily-telegraph-wa.md) _Context: Saudi Arabia, Sheikh Nimr_
 4. [Saudi Arabia's Supreme Court upholds the death sentence of Shiite cleric Sheikh Nimr al-Nimr, who was found guilty of sedition and other charges following his involvement in the 2011 Arab Spring Movement. ](/news/2015/10/26/saudi-arabia-s-supreme-court-upholds-the-death-sentence-of-shiite-cleric-sheikh-nimr-al-nimr-who-was-found-guilty-of-sedition-and-other-cha.md) _Context: Saudi Arabia, Sheikh Nimr_
-5. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+5. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 6. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 7. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 8. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

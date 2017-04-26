@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-04/02/c_13810616.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12947213)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12947213)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-04/02/c_13810616.htm)
 
 ### Related:
 

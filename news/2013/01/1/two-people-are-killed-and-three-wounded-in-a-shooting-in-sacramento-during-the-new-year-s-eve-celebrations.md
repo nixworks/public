@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''The Sacramento Bee](http://www.sacbee.com/2012/12/31/5085810/sacramento-police-say-2-dead-3.html)
-2. [Fox News](http://www.foxnews.com/us/2013/01/01/sacramento-police-say-2-dead-3-hurt-in-shooting/)
+1. [Fox News](http://www.foxnews.com/us/2013/01/01/sacramento-police-say-2-dead-3-hurt-in-shooting/)
+2. [AP via ''The Sacramento Bee](http://www.sacbee.com/2012/12/31/5085810/sacramento-police-say-2-dead-3.html)
 3. [CNN](http://www.cnn.com/2013/01/01/us/california-new-years-eve-shooting/)
 
 ### Related:

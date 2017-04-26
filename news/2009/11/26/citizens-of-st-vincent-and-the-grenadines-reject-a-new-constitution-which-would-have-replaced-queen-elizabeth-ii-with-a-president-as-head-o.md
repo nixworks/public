@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Antillean](http://www.antillean.org/2009/11/26/constitutional-reform-referendum-defeated-in-st-vincent-the-grenadines/)
-2. [Caribbean News Agency](http://www.cananews.net/news/131/ARTICLE/44142/2009-11-26.html)
+1. [Caribbean News Agency](http://www.cananews.net/news/131/ARTICLE/44142/2009-11-26.html)
+2. [Antillean](http://www.antillean.org/2009/11/26/constitutional-reform-referendum-defeated-in-st-vincent-the-grenadines/)
 
 ### Related:
 

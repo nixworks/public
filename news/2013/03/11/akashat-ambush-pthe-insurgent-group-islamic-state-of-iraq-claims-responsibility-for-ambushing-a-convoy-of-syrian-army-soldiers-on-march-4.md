@@ -7,8 +7,8 @@ A militant umbrella group that includes al-Qaeda in Iraq says it was behind the 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/201331114024632648.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21738613)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21738613)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/201331114024632648.html)
 
 ### Related:
 

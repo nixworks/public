@@ -7,11 +7,11 @@ German singer Nadja Benaissa admits at her trial to having unprotected sex with 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/hivpositive-pop-singer-admits-having-unprotected-sex-2054528.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-10983227)
-3. [AFP via ''Philippine Daily Inquirer](http://showbizandstyle.inquirer.net/breakingnews/breakingnews/view/20100817-287232/Tearful-German-pop-star-confesses-in-HIV-trial)
-4. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010816231356935627.html)
-5. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/16/german.singer.hiv.charges/?hpt=T2#fbid=Zi63FEAlScD&wom=false)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010816231356935627.html)
+2. [AFP via ''Philippine Daily Inquirer](http://showbizandstyle.inquirer.net/breakingnews/breakingnews/view/20100817-287232/Tearful-German-pop-star-confesses-in-HIV-trial)
+3. [The Independent](http://www.independent.co.uk/news/world/europe/hivpositive-pop-singer-admits-having-unprotected-sex-2054528.html)
+4. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/16/german.singer.hiv.charges/?hpt=T2#fbid=Zi63FEAlScD&wom=false)
+5. [BBC](http://www.bbc.co.uk/news/world-europe-10983227)
 6. [The Guardian](http://www.guardian.co.uk/lifeandstyle/2010/aug/16/hiv-singer-unprotected-sex-nadja)
 
 ### Related:

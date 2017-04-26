@@ -7,8 +7,8 @@ An unofficial Chinese church says it will continue to hold outdoor services, aft
 
 ### Source:
 
-1. [MSN Malaysia News](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4771150)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13048472)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13048472)
+2. [MSN Malaysia News](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4771150)
 
 ### Related:
 

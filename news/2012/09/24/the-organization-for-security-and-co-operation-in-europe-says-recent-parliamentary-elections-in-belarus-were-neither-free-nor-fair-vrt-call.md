@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VRT](http://www.deredactie.be/cm/vrtnieuws/buitenland/120924_Wit-Rusland_verkiezingen)
-2. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE88N0F420120924)
+1. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE88N0F420120924)
+2. [VRT](http://www.deredactie.be/cm/vrtnieuws/buitenland/120924_Wit-Rusland_verkiezingen)
 
 ### Related:
 

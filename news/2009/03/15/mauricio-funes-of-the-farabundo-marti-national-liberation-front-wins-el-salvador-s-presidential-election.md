@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-03/16/content_11019838.htm)
-2. [VoA](http://www.voanews.com/english/2009-03-16-voa70.cfm)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gIoF_OztvPLrAQSgyRslBn6H5OdgD96UC62O5)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gIoF_OztvPLrAQSgyRslBn6H5OdgD96UC62O5)
+3. [VoA](http://www.voanews.com/english/2009-03-16-voa70.cfm)
 
 ### Related:
 

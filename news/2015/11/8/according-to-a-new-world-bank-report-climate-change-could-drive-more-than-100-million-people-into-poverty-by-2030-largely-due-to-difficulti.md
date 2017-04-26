@@ -7,9 +7,9 @@ Poverty levels will drastically increase across the world if governments fail to
 
 ### Source:
 
-1. [Time](http://time.com/4104289/climate-change-poverty-world-bank/?xid=gonewsedit&google_editors_picks=true)
+1. [CNBC](http://www.cnbc.com/2015/11/08/poverty-to-soar-without-climate-action-world-bank.html)
 2. [World Bank Report](https://openknowledge.worldbank.org/bitstream/handle/10986/22787/9781464806735.pdf)
-3. [CNBC](http://www.cnbc.com/2015/11/08/poverty-to-soar-without-climate-action-world-bank.html)
+3. [Time](http://time.com/4104289/climate-change-poverty-world-bank/?xid=gonewsedit&google_editors_picks=true)
 
 ### Related:
 

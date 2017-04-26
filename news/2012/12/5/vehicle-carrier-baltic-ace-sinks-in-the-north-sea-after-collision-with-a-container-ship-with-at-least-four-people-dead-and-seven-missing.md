@@ -7,8 +7,8 @@ At least three crew members died when a cargo ship carrying cars sank after coll
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2012/12/05/uk-dutch-ship-collision-idUKBRE8B419M20121205)
-2. [AP via ''The Australian](http://www.theaustralian.com.au/news/world/three-dead-after-freighter-sinks-off-netherlands-coast/story-e6frg6so-1226531060398)
+1. [AP via ''The Australian](http://www.theaustralian.com.au/news/world/three-dead-after-freighter-sinks-off-netherlands-coast/story-e6frg6so-1226531060398)
+2. [Reuters](http://uk.reuters.com/article/2012/12/05/uk-dutch-ship-collision-idUKBRE8B419M20121205)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Independent Online](http://217.145.4.56/ind/news.asp?newsitemid=12832)
-2. [di-ve](http://www.di-ve.com/dive/portal/portal.jhtml?id=174632&pid=23)
-3. [MaltaToday](http://www.maltatoday.com.mt/2005/03/06/t20.html)
+2. [MaltaToday](http://www.maltatoday.com.mt/2005/03/06/t20.html)
+3. [di-ve](http://www.di-ve.com/dive/portal/portal.jhtml?id=174632&pid=23)
 
 ### Related:
 

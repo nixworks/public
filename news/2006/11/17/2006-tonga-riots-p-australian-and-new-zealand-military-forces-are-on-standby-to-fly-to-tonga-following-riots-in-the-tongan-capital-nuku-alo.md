@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Radio NZ](http://www.radionz.co.nz/news/latest/200611171722/tonga_passes_emergency_stop-and-search_laws)
-2. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10411220)
-3. [Radio NZ](http://www.rnzi.com/pages/news.php?op=read&id=28357)
+2. [Radio NZ](http://www.rnzi.com/pages/news.php?op=read&id=28357)
+3. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10411220)
 
 ### Related:
 

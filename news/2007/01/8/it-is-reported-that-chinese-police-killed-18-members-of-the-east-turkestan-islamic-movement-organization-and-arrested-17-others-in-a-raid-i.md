@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/world/2007-01-08-china-terrorism_x.htm)
-2. [Xinhua](http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/english/2007-01/08/content_5580233.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6241073.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6241073.stm)
+2. [USA Today](http://www.usatoday.com/news/world/2007-01-08-china-terrorism_x.htm)
+3. [Xinhua](http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/english/2007-01/08/content_5580233.htm)
 
 ### Related:
 

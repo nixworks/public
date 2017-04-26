@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2008/us2008xva9/)
-2. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/10/07/china.quake/index.html)
+1. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/10/07/china.quake/index.html)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2008/us2008xva9/)
 
 ### Related:
 

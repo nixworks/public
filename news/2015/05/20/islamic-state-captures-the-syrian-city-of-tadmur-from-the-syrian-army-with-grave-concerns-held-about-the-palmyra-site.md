@@ -7,8 +7,8 @@ Ancient Palmyra is home to 2,000-year-old monuments; Syrian antiquities chief sa
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-32820857)
-2. [The Hindu](http://www.thehindu.com/news/international/islamic-state-seizes-ancient-palmyra-from-syrian-forces/article7230139.ece?homepage=true)
+1. [The Hindu](http://www.thehindu.com/news/international/islamic-state-seizes-ancient-palmyra-from-syrian-forces/article7230139.ece?homepage=true)
+2. [BBC](http://www.bbc.com/news/world-middle-east-32820857)
 
 ### Related:
 

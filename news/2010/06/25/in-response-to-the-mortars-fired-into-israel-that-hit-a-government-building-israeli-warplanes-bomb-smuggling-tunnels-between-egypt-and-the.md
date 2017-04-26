@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=131912&sectionid=351020202)
-2. [CNN](http://www.cnn.com/2010/WORLD/meast/06/25/israel.tunnels/?hpt=Sbin)
-3. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5g_T_uxXmE8iluIwqfnVd6pYVgc5Q)
+2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5g_T_uxXmE8iluIwqfnVd6pYVgc5Q)
+3. [CNN](http://www.cnn.com/2010/WORLD/meast/06/25/israel.tunnels/?hpt=Sbin)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The election on December 20 will be colored by the memories of street protests i
 
 ### Source:
 
-1. [Reuters via Huffington Post](http://www.huffingtonpost.com/entry/spain-election-results_5676bcdee4b06fa6887db39c)
-2. [Newsweek](http://www.newsweek.com/spanish-elections-all-you-need-know-407060)
+1. [Newsweek](http://www.newsweek.com/spanish-elections-all-you-need-know-407060)
+2. [Reuters via Huffington Post](http://www.huffingtonpost.com/entry/spain-election-results_5676bcdee4b06fa6887db39c)
 
 ### Related:
 

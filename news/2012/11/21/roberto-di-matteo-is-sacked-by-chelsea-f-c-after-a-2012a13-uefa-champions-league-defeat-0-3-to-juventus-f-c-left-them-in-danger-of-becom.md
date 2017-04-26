@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2012/nov/21/rafael-benitez-chelsea-manager-coach)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1234455)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1234455)
+2. [The Guardian](http://www.guardian.co.uk/football/2012/nov/21/rafael-benitez-chelsea-manager-coach)
 
 ### Related:
 

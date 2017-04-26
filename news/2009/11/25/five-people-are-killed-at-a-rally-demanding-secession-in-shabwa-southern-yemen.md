@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8378727.stm)
+1. [Reuters](http://www.reuters.com/article/africaCrisis/idUSGEE5AO0Q1)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/25/content_12539156.htm)
-3. [Reuters](http://www.reuters.com/article/africaCrisis/idUSGEE5AO0Q1)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8378727.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Local and state officials warned Wednesday that they would not tolerate a slow r
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080206/ap_on_re_us/severe_weather)
-2. [MSNBC](http://www.msnbc.msn.com/id/23006771/)
+1. [MSNBC](http://www.msnbc.msn.com/id/23006771/)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080206/ap_on_re_us/severe_weather)
 
 ### Related:
 

@@ -7,8 +7,8 @@ At least 10 people have died after clinging to their capsized charter boat for 1
 
 ### Source:
 
-1. [AFP via New Delhi Television](http://www.ndtv.com/world-news/10-dead-8-still-missing-after-fishing-boat-capsizes-in-south-korea-1214835)
-2. [Sydney Morning Herald](http://www.smh.com.au/world/ten-dead-after-south-korea-fishing-boat-capsizes-20150906-gjgg44.html)
+1. [Sydney Morning Herald](http://www.smh.com.au/world/ten-dead-after-south-korea-fishing-boat-capsizes-20150906-gjgg44.html)
+2. [AFP via New Delhi Television](http://www.ndtv.com/world-news/10-dead-8-still-missing-after-fishing-boat-capsizes-in-south-korea-1214835)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Irish Prison Service has confirmed that 139 prisoners had their telephone co
 
 ### Source:
 
-1. [RTÉ News](http://www.rte.ie/news/2014/0401/606016-prison-service-recordings/)
-2. [RTÉ News](http://www.rte.ie/news/2014/0401/605859-garda-recordings/)
+1. [RTÉ News](http://www.rte.ie/news/2014/0401/605859-garda-recordings/)
+2. [RTÉ News](http://www.rte.ie/news/2014/0401/606016-prison-service-recordings/)
 
 ### Related:
 

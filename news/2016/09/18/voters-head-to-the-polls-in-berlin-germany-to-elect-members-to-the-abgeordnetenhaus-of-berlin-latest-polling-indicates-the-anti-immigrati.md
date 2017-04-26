@@ -7,8 +7,8 @@ Berliners will go to the polls on Sunday to vote in a state parliamentary electi
 
 ### Source:
 
-1. [Sputnik News](https://sputniknews.com/europe/20160918/1045421592/berlin-parliamentary-election.html)
-2. [Reuters](http://uk.reuters.com/article/uk-germany-election-idUKKCN11N0V9)
+1. [Reuters](http://uk.reuters.com/article/uk-germany-election-idUKKCN11N0V9)
+2. [Sputnik News](https://sputniknews.com/europe/20160918/1045421592/berlin-parliamentary-election.html)
 
 ### Related:
 

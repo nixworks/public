@@ -7,12 +7,12 @@ Two female suicide bombers killed more than 60 people at a camp for people displ
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-nigeria-violence-idUSKCN0VJ265)
-2. [Newsweek](http://europe.newsweek.com/six-dead-double-suicide-bombing-cameroon-report-424907?rm=eu)
-3. [ABC News](http://abcnews.go.com/International/wireStory/female-bombers-kill-56-northeast-nigerian-refugee-camp-36840049)
-4. [Al Jazeera](http://america.aljazeera.com/articles/2016/2/10/twin-suicide-bombings-kill-scores-at-nigeria-refugee-camp.html)
+1. [ABC News](http://abcnews.go.com/International/wireStory/female-bombers-kill-56-northeast-nigerian-refugee-camp-36840049)
+2. [IB Times](http://www.ibtimes.co.in/6-killed-twin-suicide-attacks-cameroon-666427)
+3. [Newsweek](http://europe.newsweek.com/six-dead-double-suicide-bombing-cameroon-report-424907?rm=eu)
+4. [Reuters](http://www.reuters.com/article/us-nigeria-violence-idUSKCN0VJ265)
 5. [CNN](http://edition.cnn.com/2016/02/11/africa/nigeria-suicide-bombing-boko-haram/)
-6. [IB Times](http://www.ibtimes.co.in/6-killed-twin-suicide-attacks-cameroon-666427)
+6. [Al Jazeera](http://america.aljazeera.com/articles/2016/2/10/twin-suicide-bombings-kill-scores-at-nigeria-refugee-camp.html)
 
 ### Related:
 

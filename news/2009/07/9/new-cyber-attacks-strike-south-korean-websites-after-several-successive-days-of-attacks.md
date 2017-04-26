@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Korea Times](http://www.koreatimes.co.kr/www/news/biz/2009/07/123_48203.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jvH8X8qojQgzc1R8X_5PceTd1nWQD99ATHCO0)
-3. [Yonhap](http://english.yonhapnews.co.kr/national/2009/07/09/14/0302000000AEN20090709007800315F.HTML)
+2. [Yonhap](http://english.yonhapnews.co.kr/national/2009/07/09/14/0302000000AEN20090709007800315F.HTML)
+3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jvH8X8qojQgzc1R8X_5PceTd1nWQD99ATHCO0)
 
 ### Related:
 

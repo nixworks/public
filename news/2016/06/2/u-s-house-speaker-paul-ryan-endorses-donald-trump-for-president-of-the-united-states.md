@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2016/06/02/paul-ryan-endorses-donald-trump/)
-2. [CNN](http://edition.cnn.com/2016/06/02/politics/paul-ryan-endorses-donald-trump/)
+1. [CNN](http://edition.cnn.com/2016/06/02/politics/paul-ryan-endorses-donald-trump/)
+2. [Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2016/06/02/paul-ryan-endorses-donald-trump/)
 
 ### Related:
 

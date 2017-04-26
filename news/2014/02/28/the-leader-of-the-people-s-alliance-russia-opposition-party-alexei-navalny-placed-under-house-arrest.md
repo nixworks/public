@@ -7,8 +7,8 @@ Russian opposition leader Alexei Navalny is put under house arrest for breaking 
 
 ### Source:
 
-1. [RIA](http://en.ria.ru/crime/20140228/187966609/Court-Puts-Navalny-Under-House-Arrest-Bans-Him-From-Internet.html)
-2. [BBC](http://www.bbc.com/news/world-europe-26382331)
+1. [BBC](http://www.bbc.com/news/world-europe-26382331)
+2. [RIA](http://en.ria.ru/crime/20140228/187966609/Court-Puts-Navalny-Under-House-Arrest-Bans-Him-From-Internet.html)
 3. [RFE/RL](http://www.rferl.org/content/russia-navalny-house-arrest/25280249.html)
 
 ### Related:

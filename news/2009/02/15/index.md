@@ -22,7 +22,7 @@ _Context: Colombia, Galeras, volcanic activity_
 _Context: Constitution of Venezuela, Venezuela, Venezuelan President, elected offices, referendum, term limit_
 
 ### [ Prime Minister Ehud Olmert denies reports that Israel is negotiating with Hamas. ](/news/2009/02/15/prime-minister-ehud-olmert-denies-reports-that-israel-is-negotiating-with-hamas.md)
-_Context: Ehud Olmert, Hamas, Israel, fire, prime minister of Israel_
+_Context: Ehud Olmert, Hamas, Israel, Prime Minister of Israel, fire_
 
 ### [ General strikes over high living costs continue in Guadeloupe and Martinique. ](/news/2009/02/15/general-strikes-over-high-living-costs-continue-in-guadeloupe-and-martinique.md)
 _Context: General strikes, Guadeloupe, Martinique, living costs_

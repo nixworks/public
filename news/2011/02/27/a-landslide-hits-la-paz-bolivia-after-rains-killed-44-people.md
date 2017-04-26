@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN International](http://edition.cnn.com/2011/WORLD/americas/02/28/bolivia.landslide/?hpt=T2)
-2. [Nazarene Communications Network](http://www.ncnnews.org/nphweb/html/ncn/article.jsp?sid=10000010&id=10010044)
-3. [Media with Conscience](http://mwcnews.net/news/americas/8998-bolivian-aid-for-landslide-homeless.html)
+1. [Media with Conscience](http://mwcnews.net/news/americas/8998-bolivian-aid-for-landslide-homeless.html)
+2. [CNN International](http://edition.cnn.com/2011/WORLD/americas/02/28/bolivia.landslide/?hpt=T2)
+3. [Nazarene Communications Network](http://www.ncnnews.org/nphweb/html/ncn/article.jsp?sid=10000010&id=10010044)
 
 ### Related:
 

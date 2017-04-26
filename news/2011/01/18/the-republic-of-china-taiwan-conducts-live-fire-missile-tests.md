@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aIPL&ID=201101180047)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12213185)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12213185)
+2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aIPL&ID=201101180047)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/world/2005-10-20-earthquakerelief_x.htm)
-2. [Guardian](http://www.guardian.co.uk/naturaldisasters/story/0,7369,1596767,00.html)
+1. [Guardian](http://www.guardian.co.uk/naturaldisasters/story/0,7369,1596767,00.html)
+2. [USA Today](http://www.usatoday.com/news/world/2005-10-20-earthquakerelief_x.htm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The pilot at the controls of a Germanwings jet that crashed in the French Alps a
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-32173632)
+1. [Reuters](http://www.reuters.com/article/2015/04/03/us-france-crash-idUSKBN0MU0MA20150403)
 2. [Guardian](http://www.theguardian.com/world/2015/apr/03/germanwings-co-pilot-accelerated-plane-during-descent)
-3. [Reuters](http://www.reuters.com/article/2015/04/03/us-france-crash-idUSKBN0MU0MA20150403)
+3. [BBC](http://www.bbc.com/news/world-europe-32173632)
 
 ### Related:
 

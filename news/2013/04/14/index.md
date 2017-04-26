@@ -4,7 +4,7 @@
 At least 19 people are killed in bomb and gun attacks in the Somali capital Mogadishu, including an assault on the main courts.
 
 ### [War in North-West Pakistan:A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakist.md)
-_Context: Datta Khel, North Waziristan, Pakistan, United States, War in North-West Pakistan, drones launch_
+_Context: Datta Khel, North Waziristan, Pakistan, U.S., War in North-West Pakistan, drones launch_
 
 ### [At least 33 people die when a bus tumbles into a river near Trujillo, Peru. ](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-a-river-near-trujillo-peru.md)
 _Context: Peru, Trujillo, bus_
@@ -49,7 +49,7 @@ _Context: 2013 European Weightlifting Championships, Albania, Olympic weightlift
 _Context: Adam Scott, Australian, Masters Tournament, golf, win, Ángel Cabrera_
 
 ### [In figure skating, the United States win the 2013 ISU World Team Trophy in Figure Skating in Tokyo ahead of Canada and Japan. ](/news/2013/04/14/in-figure-skating-the-united-states-win-the-2013-isu-world-team-trophy-in-figure-skating-in-tokyo-ahead-of-canada-and-japan.md)
-_Context: 2013 ISU World Team Trophy in Figure Skating, Canadian, Japan, Tokyo, United States, figure skater_
+_Context: 2013 ISU World Team Trophy in Figure Skating, Canadian, Japan, Tokyo, U.S., figure skater_
 
 ## [Previous Day...](/news/2013/04/13/index.md)
 

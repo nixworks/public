@@ -7,9 +7,9 @@ Heinz Fischer easily defeats controversial leader of far-right Freedom Party.
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/04/25/austria-president-wins.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0426/1224269091601.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010425175334560120.html)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0426/1224269091601.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010425175334560120.html)
+3. [CBC](http://www.cbc.ca/world/story/2010/04/25/austria-president-wins.html)
 
 ### Related:
 

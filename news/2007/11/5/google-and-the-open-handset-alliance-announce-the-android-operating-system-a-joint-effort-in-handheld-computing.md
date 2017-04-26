@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/news/newsfeeds/articles/newstex/AFX-0013-20741757.htm)
-2. [Ars Technica](http://arstechnica.com/news.ars/post/20071105-its-official-google-announces-open-source-mobile-phone-os-android.html)
+1. [Ars Technica](http://arstechnica.com/news.ars/post/20071105-its-official-google-announces-open-source-mobile-phone-os-android.html)
+2. [CNN](http://money.cnn.com/news/newsfeeds/articles/newstex/AFX-0013-20741757.htm)
 
 ### Related:
 

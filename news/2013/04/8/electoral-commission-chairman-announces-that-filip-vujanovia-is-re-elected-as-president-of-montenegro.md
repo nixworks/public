@@ -7,8 +7,8 @@ PODGORICA, Montenegro (AP) — Incumbent Filip Vujanovic has won Montenegro&#x27
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/incumbent-declared-winner-montenegro-election-165652012.html)
-2. [AFP via France24](http://www.france24.com/en/20130408-montenegros-vujanovic-elected-vote-panel)
+1. [AFP via France24](http://www.france24.com/en/20130408-montenegros-vujanovic-elected-vote-panel)
+2. [AP via Yahoo! News](http://news.yahoo.com/incumbent-declared-winner-montenegro-election-165652012.html)
 3. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/04/201348202655616260.html)
 
 ### Related:

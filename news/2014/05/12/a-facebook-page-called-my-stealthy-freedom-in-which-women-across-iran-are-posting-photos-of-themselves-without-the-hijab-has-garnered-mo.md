@@ -7,8 +7,8 @@ Women across Iran are posting photos of themselves without the hijab to a dedica
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/blogs-trending-27373368)
-2. [The Guardian](http://www.theguardian.com/world/2014/may/12/iran-women-hijab-facebook-pictures-alinejad)
+1. [The Guardian](http://www.theguardian.com/world/2014/may/12/iran-women-hijab-facebook-pictures-alinejad)
+2. [BBC](http://www.bbc.com/news/blogs-trending-27373368)
 
 ### Related:
 

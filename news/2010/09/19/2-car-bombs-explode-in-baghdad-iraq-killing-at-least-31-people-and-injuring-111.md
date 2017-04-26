@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/fronts/WORLD?SITE=AP&SECTION=HOME)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jT9mmbqOoe8AQV7fthHBL7HaPSmQ)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/19/c_13519948.htm)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jT9mmbqOoe8AQV7fthHBL7HaPSmQ)
+3. [AP](http://hosted.ap.org/dynamic/fronts/WORLD?SITE=AP&SECTION=HOME)
 4. [CNN](http://edition.cnn.com/2010/WORLD/meast/09/19/iraq.violence/index.html?eref=edition_meast&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+rss/edition_meast+(RSS:+Middle+East))
 
 ### Related:

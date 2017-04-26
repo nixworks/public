@@ -7,15 +7,15 @@ Manila Standard | Defining The News
 
 ### Source:
 
-1. [ABC News Go](http://abcnews.go.com/International/wireStory/candidates-asked-unite-filipino-mayor-likened-trump-38927042)
-2. [CNN Philippines](http://cnnphilippines.com/news/2016/05/06/mar-roxas-calls-on-grace-poe-dialogue-unity-alliance.html)
-3. [Rappler](http://www.rappler.com/nation/politics/elections/2016/132046-grace-poe-reject-mar-roxas-call-talk-duterte)
-4. [GMA News](http://www.gmanetwork.com/news/story/565179/news/nation/poe-robredo-grateful-to-supporters-of-tandem-but-affirm-loyalty-to-running-mates)
-5. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/783400/leni-on-poe-robredo-tandem-roxas-remains-my-partner)
-6. [The Philippine Star](http://www.philstar.com/headlines/2016/05/07/1580579/grace-poe-mars-call-whats-there-talk-about)
-7. [The Manila Standard](http://thestandard.com.ph/news/-main-stories/top-stories/204990/poe-roxas-camps-tell-each-other-to-quit.html)
-8. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/philippine-president-urge/2762692.html)
-9. [Rappler](http://www.rappler.com/nation/politics/elections/2016/132060-leni-robredo-vp-bid-sendoff)
+1. [The Philippine Star](http://www.philstar.com/headlines/2016/05/07/1580579/grace-poe-mars-call-whats-there-talk-about)
+2. [Rappler](http://www.rappler.com/nation/politics/elections/2016/132060-leni-robredo-vp-bid-sendoff)
+3. [GMA News](http://www.gmanetwork.com/news/story/565179/news/nation/poe-robredo-grateful-to-supporters-of-tandem-but-affirm-loyalty-to-running-mates)
+4. [ABC News Go](http://abcnews.go.com/International/wireStory/candidates-asked-unite-filipino-mayor-likened-trump-38927042)
+5. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/philippine-president-urge/2762692.html)
+6. [Rappler](http://www.rappler.com/nation/politics/elections/2016/132046-grace-poe-reject-mar-roxas-call-talk-duterte)
+7. [CNN Philippines](http://cnnphilippines.com/news/2016/05/06/mar-roxas-calls-on-grace-poe-dialogue-unity-alliance.html)
+8. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/783400/leni-on-poe-robredo-tandem-roxas-remains-my-partner)
+9. [The Manila Standard](http://thestandard.com.ph/news/-main-stories/top-stories/204990/poe-roxas-camps-tell-each-other-to-quit.html)
 
 ### Related:
 

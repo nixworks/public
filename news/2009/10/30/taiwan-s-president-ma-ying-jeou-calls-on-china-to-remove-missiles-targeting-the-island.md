@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_448343.html)
-2. [Radio Taiwan International](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=89376)
+1. [Radio Taiwan International](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=89376)
+2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_448343.html)
 
 ### Related:
 

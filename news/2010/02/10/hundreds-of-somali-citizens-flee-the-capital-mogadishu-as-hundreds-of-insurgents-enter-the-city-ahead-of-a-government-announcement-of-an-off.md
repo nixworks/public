@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News24.com](http://www.news24.com/Content/Africa/News/965/ce852c3971a44b81ad5d867538e7dd48/10-02-2010-12-35/Residents_flee_Mogadishu)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8508176.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8508176.stm)
+2. [News24.com](http://www.news24.com/Content/Africa/News/965/ce852c3971a44b81ad5d867538e7dd48/10-02-2010-12-35/Residents_flee_Mogadishu)
 
 ### Related:
 

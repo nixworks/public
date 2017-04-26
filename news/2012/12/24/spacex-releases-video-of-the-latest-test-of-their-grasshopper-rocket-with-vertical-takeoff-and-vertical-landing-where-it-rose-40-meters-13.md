@@ -7,10 +7,10 @@ SpaceX recently released video of the latest test of their Grasshopper Vertical 
 
 ### Source:
 
-1. [Universe Today](http://www.universetoday.com/99143/spacex-grasshopper-takes-off-and-lands-vertically-in-new-12-story-hop/)
-2. [Wacotrib.com](http://www.wacotrib.com/news/184730161.html)
+1. [Wacotrib.com](http://www.wacotrib.com/news/184730161.html)
+2. [Daily Breeze](http://www.dailybreeze.com/news/ci_22256691/spacex-rocket-test-launch-successful)
 3. [Today Online](http://www.todayonline.com/World/EDC121225-0000036/US-firm-launches-reusable-space-rocket)
-4. [Daily Breeze](http://www.dailybreeze.com/news/ci_22256691/spacex-rocket-test-launch-successful)
+4. [Universe Today](http://www.universetoday.com/99143/spacex-grasshopper-takes-off-and-lands-vertically-in-new-12-story-hop/)
 
 ### Related:
 

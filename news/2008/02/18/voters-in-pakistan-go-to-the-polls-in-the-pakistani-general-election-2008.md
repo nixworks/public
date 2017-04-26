@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/voting-begins-in-pakistan-election/20080218-1sqo.html)
-2. [Geo Television Network](http://www.geo.tv/home/)
+1. [Geo Television Network](http://www.geo.tv/home/)
+2. [AP via ''Sydney Morning Herald](http://news.smh.com.au/voting-begins-in-pakistan-election/20080218-1sqo.html)
 
 ### Related:
 

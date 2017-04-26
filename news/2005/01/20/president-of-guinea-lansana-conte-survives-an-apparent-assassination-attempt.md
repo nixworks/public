@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [IAfrica](http://iafrica.com/news/worldnews/404918.htm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7374474)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7374474)
+2. [IAfrica](http://iafrica.com/news/worldnews/404918.htm)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/news/national/british-columbia/rescuers-begin-search-for-survivors-of-deadly-avalanche-in-bc/article1500053/)
-2. [CBC](http://www.cbc.ca/canada/calgary/story/2010/03/14/bc-avalanche.html)
-3. [Vancouver Sun](http://www.vancouversun.com/news/avalanche+leaves+dead+injured/2680790/story.html)
+1. [Vancouver Sun](http://www.vancouversun.com/news/avalanche+leaves+dead+injured/2680790/story.html)
+2. [Globe and Mail](http://www.theglobeandmail.com/news/national/british-columbia/rescuers-begin-search-for-survivors-of-deadly-avalanche-in-bc/article1500053/)
+3. [CBC](http://www.cbc.ca/canada/calgary/story/2010/03/14/bc-avalanche.html)
 
 ### Related:
 

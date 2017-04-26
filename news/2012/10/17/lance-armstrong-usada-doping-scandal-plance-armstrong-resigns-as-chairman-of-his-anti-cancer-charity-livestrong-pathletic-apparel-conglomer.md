@@ -7,8 +7,8 @@ Lance Armstrong loses three main sponsors and steps down as chairman of his Live
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/10/17/us/lance-armstrong-doping/index.html?hpt=hp_c2)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-2219534/Shamed-Lance-Armstrong-dropped-sponsors--including-bike-deal--Nike-claims-cyclist-misled-decade.html?ITO=1490)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-2219534/Shamed-Lance-Armstrong-dropped-sponsors--including-bike-deal--Nike-claims-cyclist-misled-decade.html?ITO=1490)
+2. [CNN](http://www.cnn.com/2012/10/17/us/lance-armstrong-doping/index.html?hpt=hp_c2)
 3. [BBC](http://www.bbc.com/sport/0/cycling/19978608)
 
 ### Related:

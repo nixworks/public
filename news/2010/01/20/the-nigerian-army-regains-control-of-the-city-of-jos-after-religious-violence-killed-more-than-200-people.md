@@ -7,9 +7,9 @@ Up to 300 feared dead after fighting between Muslim and Christian communities.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/201012084322535901.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8469863.stm)
-3. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5514501-146/story.csp)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8469863.stm)
+2. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5514501-146/story.csp)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/201012084322535901.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/10/us-egypt-copts-clashes-idUSTRE7981Q220111010)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-15235212)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15235212)
+2. [Reuters](http://www.reuters.com/article/2011/10/10/us-egypt-copts-clashes-idUSTRE7981Q220111010)
 
 ### Related:
 

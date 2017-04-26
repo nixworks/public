@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Daily Star](http://www.thedailystar.net/newDesign/news-details.php?nid=119694)
+1. [Zee News](http://www.zeenews.com/news591146.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-12/29/content_12723573.htm)
-3. [Zee News](http://www.zeenews.com/news591146.html)
+3. [The Daily Star](http://www.thedailystar.net/newDesign/news-details.php?nid=119694)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The American president&rsquo;s speech to the House of Commons will inevitably be
 
 ### Source:
 
-1. [Toronto Star](https://www.thestar.com/news/canada/2016/06/29/climate-deal-caps-north-american-leaders-summit.html)
-2. [CBC](http://www.cbc.ca/news/politics/trudeau-obama-ottawa-meeing-macdonald-1.3658538)
+1. [CBC](http://www.cbc.ca/news/politics/trudeau-obama-ottawa-meeing-macdonald-1.3658538)
+2. [Toronto Star](https://www.thestar.com/news/canada/2016/06/29/climate-deal-caps-north-american-leaders-summit.html)
 
 ### Related:
 

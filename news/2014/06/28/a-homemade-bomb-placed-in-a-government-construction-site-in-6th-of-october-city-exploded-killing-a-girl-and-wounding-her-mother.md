@@ -7,8 +7,8 @@ Homemade bomb in government construction site on outskirts of Cairo cuts off mob
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/girl-killed-mother-hurt-in-egypt-bomb-blast/)
-2. [Jerusalem Post](http://www.jpost.com/Middle-East/ISIS-terror-cell-arrested-in-Sinai-360847)
+1. [Jerusalem Post](http://www.jpost.com/Middle-East/ISIS-terror-cell-arrested-in-Sinai-360847)
+2. [The Times of Israel](http://www.timesofisrael.com/girl-killed-mother-hurt-in-egypt-bomb-blast/)
 
 ### Related:
 

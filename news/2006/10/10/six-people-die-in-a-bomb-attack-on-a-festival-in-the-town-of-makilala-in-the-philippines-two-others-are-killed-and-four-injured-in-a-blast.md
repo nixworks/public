@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AFP](http://sg.news.yahoo.com/061010/1/43yni.html)
-2. [Sun Star](http://www.sunstar.com.ph/static/net/2006/10/11/14.killed.24.wounded.in.bomb.attacks.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6037828.stm)
-4. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/10/10/philippines.bomb.ap/index.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6037828.stm)
+3. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/10/10/philippines.bomb.ap/index.html)
+4. [Sun Star](http://www.sunstar.com.ph/static/net/2006/10/11/14.killed.24.wounded.in.bomb.attacks.html)
 
 ### Related:
 

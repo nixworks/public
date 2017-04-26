@@ -9,8 +9,8 @@
 
 1. [Fox News Latino](http://latino.foxnews.com/latino/politics/2016/06/06/peru-kuczynski-sees-lead-shrink-with-2-pct-votes-counted/)
 2. [CNN via WFXP](http://www.yourerie.com/news/peru-will-convicted-exleaders-daughter-become-president)
-3. [Reuters](http://www.reuters.com/article/us-peru-election-idUSKCN0YS0KW)
-4. [Financial Times](http://www.ft.com/cms/s/0/8165e4a6-2ba7-11e6-a18d-a96ab29e3c95.html)
+3. [Financial Times](http://www.ft.com/cms/s/0/8165e4a6-2ba7-11e6-a18d-a96ab29e3c95.html)
+4. [Reuters](http://www.reuters.com/article/us-peru-election-idUSKCN0YS0KW)
 
 ### Related:
 

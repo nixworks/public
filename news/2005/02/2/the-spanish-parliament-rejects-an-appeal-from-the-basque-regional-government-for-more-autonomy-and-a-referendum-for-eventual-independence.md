@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aOyCCyMoyrBU&refer=europe)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L01183479.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4228297.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4228297.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aOyCCyMoyrBU&refer=europe)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L01183479.htm)
 
 ### Related:
 

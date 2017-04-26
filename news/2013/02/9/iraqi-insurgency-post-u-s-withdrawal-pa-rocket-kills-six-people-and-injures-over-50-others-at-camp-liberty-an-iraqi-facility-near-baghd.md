@@ -7,8 +7,8 @@ Ban Ki-moon demands investigation by Iraqi authorities into deadly attack on dis
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/201329235524818483.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21393162)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21393162)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/201329235524818483.html)
 
 ### Related:
 

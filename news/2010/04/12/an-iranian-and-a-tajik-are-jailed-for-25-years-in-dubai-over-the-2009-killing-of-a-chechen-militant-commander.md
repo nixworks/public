@@ -8,11 +8,11 @@ A Dubai court convicted two men Monday of involvement in the 2009 assassination 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8615054.stm)
-2. [The Star](http://thestar.com.my/news/story.asp?file=/2010/4/12/worldupdates/2010-04-12T162207Z_01_NOOTR_RTRMDNC_0_-476164-2&sec=Worldupdates)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE63B0Z720100412?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
-4. [Miami Herald](http://www.miamiherald.com/2010/04/12/1575393/dubai-jails-2-for-25-years-over.html)
-5. [People's Daily Online](http://english.people.com.cn/90001/90777/90853/6947959.html)
-6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/12/AR2010041201464.html)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE63B0Z720100412?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/12/AR2010041201464.html)
+4. [People's Daily Online](http://english.people.com.cn/90001/90777/90853/6947959.html)
+5. [The Star](http://thestar.com.my/news/story.asp?file=/2010/4/12/worldupdates/2010-04-12T162207Z_01_NOOTR_RTRMDNC_0_-476164-2&sec=Worldupdates)
+6. [Miami Herald](http://www.miamiherald.com/2010/04/12/1575393/dubai-jails-2-for-25-years-over.html)
 
 ### Related:
 

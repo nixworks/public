@@ -8,8 +8,8 @@ South Korea says its third attempt at putting a satellite into space has been a 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/2013/01/30/us-korea-rocket-idUSBRE90T0A320130130)
-2. [CNN](http://www.cnn.com/2013/01/30/world/asia/south-korea-rocket-launch)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-21256683)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-21256683)
+3. [CNN](http://www.cnn.com/2013/01/30/world/asia/south-korea-rocket-launch)
 
 ### Related:
 

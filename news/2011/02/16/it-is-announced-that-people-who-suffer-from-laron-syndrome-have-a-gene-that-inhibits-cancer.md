@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Scientific American](http://www.scientificamerican.com/article.cfm?id=defective-growth-gene-in-dwarfism)
-2. [PBS](http://www.pbs.org/newshour/rundown/2011/02/dwarfism-gene-may-offer-protection-from-cancer-diabetes.html)
+1. [PBS](http://www.pbs.org/newshour/rundown/2011/02/dwarfism-gene-may-offer-protection-from-cancer-diabetes.html)
+2. [Scientific American](http://www.scientificamerican.com/article.cfm?id=defective-growth-gene-in-dwarfism)

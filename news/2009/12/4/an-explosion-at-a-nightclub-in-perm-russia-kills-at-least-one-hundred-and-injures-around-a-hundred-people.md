@@ -7,9 +7,9 @@ Russian President Dmitry Medvedev demands tighter fire codes after the deadliest
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20091205/157104532.html)
+1. [MSNBC](http://www.msnbc.msn.com/id/34280116/ns/world_news-europe/)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8396587.stm)
-3. [MSNBC](http://www.msnbc.msn.com/id/34280116/ns/world_news-europe/)
+3. [RIA Novosti](http://en.rian.ru/russia/20091205/157104532.html)
 
 ### Related:
 

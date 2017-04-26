@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6254326,00.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/201011221434144409.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/201011221434144409.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6254326,00.html)
 
 ### Related:
 

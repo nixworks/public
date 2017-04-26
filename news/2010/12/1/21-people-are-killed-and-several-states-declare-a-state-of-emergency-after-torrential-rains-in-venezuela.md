@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [El Universal](http://english.eluniversal.com/2010/11/30/en_pol_esp_state-of-emergency-d_30A4795851.shtml)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gEWcL7PPm0K3Ut10_J9xJK41TZog?docId=51e8b1855b1344c781f245d32d0e1f4a)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gEWcL7PPm0K3Ut10_J9xJK41TZog?docId=51e8b1855b1344c781f245d32d0e1f4a)
+2. [El Universal](http://english.eluniversal.com/2010/11/30/en_pol_esp_state-of-emergency-d_30A4795851.shtml)
 
 ### Related:
 

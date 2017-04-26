@@ -7,8 +7,8 @@ Scientists in Peru hunt the cause of the mysterious deaths of hundreds of pelica
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2012/05/08/world/americas/peru-has-no-answers-on-dead-dolphins-and-seabirds.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-17972972)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17972972)
+2. [New York Times](http://www.nytimes.com/2012/05/08/world/americas/peru-has-no-answers-on-dead-dolphins-and-seabirds.html)
 
 ### Related:
 

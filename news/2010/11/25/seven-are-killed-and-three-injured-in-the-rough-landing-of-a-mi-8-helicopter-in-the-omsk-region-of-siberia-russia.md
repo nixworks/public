@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [KazInform](http://www.inform.kz/eng/article/2325862)
-2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15715508&PageNum=0)
+1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15715508&PageNum=0)
+2. [KazInform](http://www.inform.kz/eng/article/2325862)
 
 ### Related:
 

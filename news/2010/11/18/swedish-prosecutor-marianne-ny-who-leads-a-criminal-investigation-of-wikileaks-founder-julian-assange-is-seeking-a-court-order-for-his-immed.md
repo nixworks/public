@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/18/AR2010111800928.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gBIiwry4GxHK2hgspa3l_OmgYICQ?docId=CNG.34d413ddaf37cdcea164fb9b026494b1.1c1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gBIiwry4GxHK2hgspa3l_OmgYICQ?docId=CNG.34d413ddaf37cdcea164fb9b026494b1.1c1)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/18/AR2010111800928.html)
 
 ### Related:
 

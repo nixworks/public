@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ottawa Citizen](http://www.canada.com/ottawacitizen/news/story.html?id=aed321be-e264-42b4-baec-374165aaa0e3)
-2. [National Post](http://www.canada.com/nationalpost/news/story.html?id=559b278c-321c-404c-9270-1c4e7cc62c3f&k=36517)
+1. [National Post](http://www.canada.com/nationalpost/news/story.html?id=559b278c-321c-404c-9270-1c4e7cc62c3f&k=36517)
+2. [Ottawa Citizen](http://www.canada.com/ottawacitizen/news/story.html?id=aed321be-e264-42b4-baec-374165aaa0e3)
 
 ### Related:
 

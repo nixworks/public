@@ -7,12 +7,12 @@ Celebrations likely to be subdued as country faces tough economic challenges.
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/18/AR2010041801529.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/zimbabwe-marks-30-years-of-independence-20100418-smrq.html)
-3. [Zimbabwe Telegraph](http://www.zimtelegraph.com/?p=7006)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201041851759342391.html)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8627813.stm)
-6. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010418134932669805.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010418134932669805.html)
+2. [Zimbabwe Telegraph](http://www.zimtelegraph.com/?p=7006)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/18/AR2010041801529.html)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8627813.stm)
+5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/zimbabwe-marks-30-years-of-independence-20100418-smrq.html)
+6. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201041851759342391.html)
 
 ### Related:
 

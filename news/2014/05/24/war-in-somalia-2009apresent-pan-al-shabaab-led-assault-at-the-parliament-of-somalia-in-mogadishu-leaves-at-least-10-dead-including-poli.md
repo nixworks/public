@@ -7,8 +7,8 @@ At least 10 people are reported killed as al-Shabab militants attack parliament 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-27554498)
-2. [IANS via Biharprabha](http://news.biharprabha.com/2014/05/7-militants-killed-in-car-bomb-blast-near-somalias-parliament/)
+1. [IANS via Biharprabha](http://news.biharprabha.com/2014/05/7-militants-killed-in-car-bomb-blast-near-somalias-parliament/)
+2. [BBC](http://www.bbc.com/news/world-africa-27554498)
 
 ### Related:
 

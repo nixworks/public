@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j60GBQM_ZjGIFK-M9B2PQotG-44w)
-2. [Colombo Page](http://www.colombopage.com/archive_10A/Jun28_1277737767CH.php)
-3. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jVFylRn08FMaluU80i8XBc2k9HIA)
+1. [Colombo Page](http://www.colombopage.com/archive_10A/Jun28_1277737767CH.php)
+2. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jVFylRn08FMaluU80i8XBc2k9HIA)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j60GBQM_ZjGIFK-M9B2PQotG-44w)
 
 ### Related:
 

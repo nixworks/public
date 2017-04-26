@@ -7,8 +7,8 @@ Voters went to the polls in a closely watched race to replace the former Represe
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2011/09/13/nyregion/david-weprin-and-bob-turner-campaign-on-eve-of-house-election.html)
-2. [AP](http://hosted.ap.org/dynamic/files/elections/2011/by_county/NV_US_House_0913.html?SITE=AP&SECTION=POLITICS)
+1. [AP](http://hosted.ap.org/dynamic/files/elections/2011/by_county/NV_US_House_0913.html?SITE=AP&SECTION=POLITICS)
+2. [New York Times](http://www.nytimes.com/2011/09/13/nyregion/david-weprin-and-bob-turner-campaign-on-eve-of-house-election.html)
 
 ### Related:
 

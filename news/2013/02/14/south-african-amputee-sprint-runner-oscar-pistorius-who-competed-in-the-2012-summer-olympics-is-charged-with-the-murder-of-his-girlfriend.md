@@ -7,11 +7,11 @@ South African runner faces premeditated murder charge over fatal shooting of gir
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/14/oscar-pistorius-murder-charge-live)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-21459240)
-3. [RTÉ News](http://www.rte.ie/news/2013/0214/367708-pistorius-girlfriend-dead/)
-4. [CBC News](http://www.cbc.ca/news/world/story/2013/02/14/oscar-pistorius-bio.html)
-5. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/02/201321464236891351.html)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-21459240)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/feb/14/oscar-pistorius-murder-charge-live)
+3. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/02/201321464236891351.html)
+4. [RTÉ News](http://www.rte.ie/news/2013/0214/367708-pistorius-girlfriend-dead/)
+5. [CBC News](http://www.cbc.ca/news/world/story/2013/02/14/oscar-pistorius-bio.html)
 
 ### Related:
 

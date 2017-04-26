@@ -7,11 +7,11 @@ Reporters are bullied, have equipment confiscated, barred from sensitive sites&#
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/un-calls-for-immediate-cease-fire-in-gaza-as-lull-in-fighting-prevails/2014/07/28/01dea116-9195-424b-85b1-da93899d8250_story.html?wpisrc=nl_hdtop)
-2. [Algemeiner](http://www.algemeiner.com/2014/07/25/facebook-page-publishing-identities-of-french-jews-to-encourage-attackers-15-men-reportedly-assault-1-jew-in-paris-suburb-after-confirming-photo/)
-3. [Jerusalem Post](http://www.jpost.com/Jewish-World/Jewish-Features/Toulouse-Jewish-center-firebombed-after-anti-Israel-protest-in-area-369153)
-4. [Times of Israel](http://www.timesofisrael.com/hamas-threatening-journalists-in-gaza-who-expose-abuse-of-civilians/)
-5. [Times of Israel](http://www.timesofisrael.com/the-terrorist-misfire-that-deepened-the-conflict/)
+1. [Times of Israel](http://www.timesofisrael.com/hamas-threatening-journalists-in-gaza-who-expose-abuse-of-civilians/)
+2. [Times of Israel](http://www.timesofisrael.com/the-terrorist-misfire-that-deepened-the-conflict/)
+3. [Washington Post](http://www.washingtonpost.com/world/un-calls-for-immediate-cease-fire-in-gaza-as-lull-in-fighting-prevails/2014/07/28/01dea116-9195-424b-85b1-da93899d8250_story.html?wpisrc=nl_hdtop)
+4. [Jerusalem Post](http://www.jpost.com/Jewish-World/Jewish-Features/Toulouse-Jewish-center-firebombed-after-anti-Israel-protest-in-area-369153)
+5. [Algemeiner](http://www.algemeiner.com/2014/07/25/facebook-page-publishing-identities-of-french-jews-to-encourage-attackers-15-men-reportedly-assault-1-jew-in-paris-suburb-after-confirming-photo/)
 
 ### Related:
 

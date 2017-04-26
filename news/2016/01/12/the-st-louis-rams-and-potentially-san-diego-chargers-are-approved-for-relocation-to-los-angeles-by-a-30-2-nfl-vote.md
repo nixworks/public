@@ -7,8 +7,8 @@ NFL owners voted Tuesday to allow the St. Louis Rams to move to a new stadium ju
 
 ### Source:
 
-1. [NFL](http://www.nfl.com/news/story/0ap3000000621645/article/rams-approved-to-relocate-to-los-angeles)
-2. [Los Angeles Times](http://www.latimes.com/sports/nfl/la-sp-nfl-la-chargers-rams-20160113-story.html)
+1. [Los Angeles Times](http://www.latimes.com/sports/nfl/la-sp-nfl-la-chargers-rams-20160113-story.html)
+2. [NFL](http://www.nfl.com/news/story/0ap3000000621645/article/rams-approved-to-relocate-to-los-angeles)
 
 ### Related:
 

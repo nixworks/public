@@ -7,8 +7,8 @@ Toyota Motor Corp (7203.T) said late on Tuesday it is recalling 1.43 million hyb
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-toyota-recall-usa-idUSKCN0ZE30W)
-2. [AP via ''U.S. News & World Report](http://www.usnews.com/news/business/articles/2016-06-28/toyota-recalls-143-million-vehicles-for-defective-air-bags)
+1. [AP via ''U.S. News & World Report](http://www.usnews.com/news/business/articles/2016-06-28/toyota-recalls-143-million-vehicles-for-defective-air-bags)
+2. [Reuters](http://www.reuters.com/article/us-toyota-recall-usa-idUSKCN0ZE30W)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for a
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ggpxibR0mh2R2vgOXoffZdzr3oVw?docId=24f4f03080a14793ab890fa87baa1f66)
-2. [Iceland Review](http://www.icelandreview.com/icelandreview/daily_news/?cat_id=29314&ew_0_a_id=372760)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/23/AR2011012301084.html)
-4. [Reuters](http://www.reuters.com/article/idUSTRE70K4GT20110123)
+1. [Reuters](http://www.reuters.com/article/idUSTRE70K4GT20110123)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/23/AR2011012301084.html)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ggpxibR0mh2R2vgOXoffZdzr3oVw?docId=24f4f03080a14793ab890fa87baa1f66)
+4. [Iceland Review](http://www.icelandreview.com/icelandreview/daily_news/?cat_id=29314&ew_0_a_id=372760)
 
 ### Related:
 

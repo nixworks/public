@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-30258537)
-2. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/egypt-s-mubarak-arrives/1500884.html)
+1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/egypt-s-mubarak-arrives/1500884.html)
+2. [BBC](http://www.bbc.com/news/world-middle-east-30258537)
 
 ### Related:
 

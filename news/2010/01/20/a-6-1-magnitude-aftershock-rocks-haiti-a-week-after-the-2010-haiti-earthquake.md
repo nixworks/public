@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/01/20/haiti-earthquake.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8469800.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8469800.stm)
+2. [CBC](http://www.cbc.ca/world/story/2010/01/20/haiti-earthquake.html)
 
 ### Related:
 

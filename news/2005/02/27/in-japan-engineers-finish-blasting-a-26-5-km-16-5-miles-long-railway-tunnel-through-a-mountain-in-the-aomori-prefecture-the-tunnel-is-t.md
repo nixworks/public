@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=329127)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4302291.stm)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/134693/1/.html)
+2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=329127)
 3. [Pacific Business News](http://pacific.bizjournals.com/pacific/stories/2005/02/21/daily67.html)
-4. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/134693/1/.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4302291.stm)
 
 ### Related:
 

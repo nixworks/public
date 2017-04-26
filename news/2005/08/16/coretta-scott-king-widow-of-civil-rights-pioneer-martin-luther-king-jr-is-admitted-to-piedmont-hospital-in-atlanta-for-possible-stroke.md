@@ -7,8 +7,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [ABC news](http://abcnews.go.com/US/wireStory?id=1042669)
-2. [AP](http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2005/08/17/national/a015940D21.DTL)
+1. [AP](http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2005/08/17/national/a015940D21.DTL)
+2. [ABC news](http://abcnews.go.com/US/wireStory?id=1042669)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/12/22/malaysia.floods.ap/)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6203973.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6203973.stm)
+2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/12/22/malaysia.floods.ap/)
 
 ### Related:
 

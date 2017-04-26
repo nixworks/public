@@ -8,8 +8,8 @@ SHIKARPUR - At least 13 people, including five cops, were injured after one of t
 ### Source:
 
 1. [First Post](http://www.firstpost.com/world/pakistan-2-policemen-killed-23-injured-in-eid-bombings-in-balochistan-sindh-3003342.html)
-2. [The Express Tribune](http://tribune.com.pk/story/1181600/several-feared-injured-blast-eidul-azha-prayers-shikarpur-imambargah/)
-3. [The News International](https://www.thenews.com.pk/latest/150038-Roadside-blast-kills-two-cops-in-Quetta)
+2. [The News International](https://www.thenews.com.pk/latest/150038-Roadside-blast-kills-two-cops-in-Quetta)
+3. [The Express Tribune](http://tribune.com.pk/story/1181600/several-feared-injured-blast-eidul-azha-prayers-shikarpur-imambargah/)
 4. [Daily Pakistan](https://en.dailypakistan.com.pk/pakistan/three-injured-as-suicide-bombers-storm-shikarpur-imambargah/)
 
 ### Related:

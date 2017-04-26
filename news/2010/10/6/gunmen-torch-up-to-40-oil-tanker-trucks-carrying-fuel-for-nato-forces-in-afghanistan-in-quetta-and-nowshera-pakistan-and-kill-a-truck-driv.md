@@ -7,11 +7,11 @@ The U.S. apologized Wednesday for a recent helicopter attack that killed two Pak
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6950BX20101006)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ibEvAlF1bYACJIKBM3oeM_r-Ju3w?docId=CNG.9c785ad010af3908e94058c220f5a603.601)
-3. [AP via MSNBC](http://www.msnbc.msn.com/id/39529199)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/39529199)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/New-Attack-On-Nato-Fuel-Tankers-In-Pakistan-Up-To-20-Trucks-Torched-And-One-Driver-Killed/Article/201010115753021?lpos=World_News_Carousel_Region_1&lid=ARTICLE_15753021_New_Attack_On_Nato_Fuel_Tankers_In_Pakistan%3A_Up_To_20_Trucks_Torched_And_One_Driver_Killed)
+3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ibEvAlF1bYACJIKBM3oeM_r-Ju3w?docId=CNG.9c785ad010af3908e94058c220f5a603.601)
 4. [Reuters](http://www.reuters.com/article/idUSTRE6950KK20101006?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
-5. [Sky News](http://news.sky.com/skynews/Home/World-News/New-Attack-On-Nato-Fuel-Tankers-In-Pakistan-Up-To-20-Trucks-Torched-And-One-Driver-Killed/Article/201010115753021?lpos=World_News_Carousel_Region_1&lid=ARTICLE_15753021_New_Attack_On_Nato_Fuel_Tankers_In_Pakistan%3A_Up_To_20_Trucks_Torched_And_One_Driver_Killed)
+5. [Reuters](http://www.reuters.com/article/idUSTRE6950BX20101006)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to m
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/10/c_13683367.htm)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12146277)
 2. [AP via Fox News](http://www.foxnews.com/world/2011/01/08/military-palestinian-shot-dead-charged-troops/)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12146277)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/10/c_13683367.htm)
 
 ### Related:
 

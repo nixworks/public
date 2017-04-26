@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP via Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-5782313,00.html)
-2. [VoA](http://voanews.com/english/2006-04-26-voa24.cfm)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4945156.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4945156.stm)
+3. [VoA](http://voanews.com/english/2006-04-26-voa24.cfm)
 
 ### Related:
 

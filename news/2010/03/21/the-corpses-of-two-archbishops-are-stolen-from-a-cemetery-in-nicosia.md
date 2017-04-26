@@ -7,10 +7,10 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKTRE62K0BU20100321)
-2. [ABC News](http://abcnews.go.com/International/wireStory?id=10160568)
-3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100321-260028/Tombs-of-Cyprus-archbishops-raided)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8578760.stm)
+1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100321-260028/Tombs-of-Cyprus-archbishops-raided)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8578760.stm)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE62K0BU20100321)
+4. [ABC News](http://abcnews.go.com/International/wireStory?id=10160568)
 
 ### Related:
 

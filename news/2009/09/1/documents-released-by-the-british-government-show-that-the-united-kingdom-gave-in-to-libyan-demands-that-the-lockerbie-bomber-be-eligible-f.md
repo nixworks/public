@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-09/02/content_11980947.htm)
-2. [CNN](http://edition.cnn.com/2009/WORLD/europe/09/01/scotland.libya.lockerbie.documents/index.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/europe/09/01/scotland.libya.lockerbie.documents/index.html)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-09/02/content_11980947.htm)
 
 ### Related:
 

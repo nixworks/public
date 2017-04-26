@@ -7,8 +7,8 @@ Official website for the Le Gruy&egrave;re European Curling Championships 2012 h
 
 ### Source:
 
-1. [ECC2012](http://ecc2012.curlingevents.com/day-8-mens-gold-medal-game)
-2. [UPI](http://www.upi.com/Sports_News/2012/12/15/Russia-wins-Europe-womens-curling-finals/UPI-85681355585235/)
+1. [UPI](http://www.upi.com/Sports_News/2012/12/15/Russia-wins-Europe-womens-curling-finals/UPI-85681355585235/)
+2. [ECC2012](http://ecc2012.curlingevents.com/day-8-mens-gold-medal-game)
 
 ### Related:
 

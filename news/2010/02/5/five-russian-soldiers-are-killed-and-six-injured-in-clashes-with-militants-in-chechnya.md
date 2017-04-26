@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20100205/157779514.html)
+1. [Press TV](http://www.presstv.ir/detail.aspx?id=117928&sectionid=351020602)
 2. [News24](http://www.news24.com/Content/World/News/1073/f2cd5cb6351c4373aedd4b7fa535e461/05-02-2010-02-14/Chechnya_clashes_kill_5_troops)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=117928&sectionid=351020602)
+3. [RIA Novosti](http://en.rian.ru/russia/20100205/157779514.html)
 
 ### Related:
 

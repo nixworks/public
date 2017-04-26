@@ -7,8 +7,8 @@ Rescuers are forced to use chainsaws to cut through the mangled wreckage after o
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-35603163)
-2. [Sky News](http://news.sky.com/story/1644212/dozens-dead-after-ghana-bus-collides-with-truck)
+1. [Sky News](http://news.sky.com/story/1644212/dozens-dead-after-ghana-bus-collides-with-truck)
+2. [BBC](http://www.bbc.com/news/world-africa-35603163)
 
 ### Related:
 

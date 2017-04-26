@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L12628051.htm)
-2. [Planet Ark](http://www.planetark.com/dailynewsstory.cfm/newsid/30788/story.htm)
+1. [Planet Ark](http://www.planetark.com/dailynewsstory.cfm/newsid/30788/story.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L12628051.htm)
 
 ### Related:
 

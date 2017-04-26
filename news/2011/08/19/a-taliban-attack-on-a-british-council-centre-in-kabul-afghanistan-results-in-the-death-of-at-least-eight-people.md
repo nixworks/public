@@ -7,10 +7,10 @@ Insurgents are shot dead after killing at least 12 people in a strike on a Briti
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/19/us-afghanistan-blasts-idUSTRE77I0FX20110819)
-2. [AFP via ''The Strait Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_703790.html)
-3. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/18/afghanistan.bombing/index.html)
-4. [BBC](http://www.bbc.co.uk/news/world-south-asia-14585563)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14585563)
+2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/18/afghanistan.bombing/index.html)
+3. [Reuters](http://www.reuters.com/article/2011/08/19/us-afghanistan-blasts-idUSTRE77I0FX20110819)
+4. [AFP via ''The Strait Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_703790.html)
 
 ### Related:
 

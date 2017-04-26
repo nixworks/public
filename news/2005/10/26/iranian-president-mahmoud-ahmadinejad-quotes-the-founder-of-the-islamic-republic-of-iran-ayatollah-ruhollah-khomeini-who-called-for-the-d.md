@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20051026/ap_on_re_mi_ea/iran_israel)
-2. [AP](http://abcnews.go.com/International/wireStory?id=1251789)
+1. [AP](http://abcnews.go.com/International/wireStory?id=1251789)
+2. [Reuters](http://news.yahoo.com/s/ap/20051026/ap_on_re_mi_ea/iran_israel)
 
 ### Related:
 

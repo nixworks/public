@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Google News](http://ap.google.com/article/ALeqM5hJKC3vEvxHN2S92LeJJ6c9e50yEAD8UFQD000)
-2. [The Guardian](http://www.guardian.co.uk/venezuela/story/0,,2248765,00.html)
+1. [The Guardian](http://www.guardian.co.uk/venezuela/story/0,,2248765,00.html)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5hJKC3vEvxHN2S92LeJJ6c9e50yEAD8UFQD000)
 
 ### Related:
 

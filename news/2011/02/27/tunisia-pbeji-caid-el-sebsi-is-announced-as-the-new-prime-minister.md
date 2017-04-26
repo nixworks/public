@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/world-africa-12591445)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/feb/27/tunisian-prime-minister-ghannouchi-resigns?utm_source=twitterfeed&utm_medium=twitter)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/feb/27/tunisian-prime-minister-ghannouchi-resigns?utm_source=twitterfeed&utm_medium=twitter)
+2. [BBC News](http://www.bbc.co.uk/news/world-africa-12591445)
 3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iUyF0OYJPntwAMRcXBsLkD1j-kjQ?docId=CNG.6d1f4ccfc419a26d8e1da17eabc8d972.5e1)
 
 ### Related:

@@ -7,9 +7,9 @@ South Korean President Park Geun-hye apologises over the ferry disaster, saying 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-27200542#)
-2. [CNN](http://www.cnn.com/2014/04/29/world/asia/south-korea-ferry-sinking/index.html?hpt=hp_t2)
-3. [CNN](http://edition.cnn.com/2014/04/27/world/asia/south-korea-ferry-video/index.html?hpt=hp_t1/)
+1. [CNN](http://edition.cnn.com/2014/04/27/world/asia/south-korea-ferry-video/index.html?hpt=hp_t1/)
+2. [BBC](http://www.bbc.com/news/world-asia-27200542#)
+3. [CNN](http://www.cnn.com/2014/04/29/world/asia/south-korea-ferry-sinking/index.html?hpt=hp_t2)
 
 ### Related:
 

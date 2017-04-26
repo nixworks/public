@@ -7,8 +7,8 @@ A large fire broke out in the coastal Chilean city of Valparaiso on Monday eveni
 
 ### Source:
 
-1. [AAP via SBS](http://www.sbs.com.au/news/article/2017/01/03/least-100-homes-burned-chile-fire)
-2. [Reuters](http://www.reuters.com/article/us-chile-fire-idUSKBN14N027)
+1. [Reuters](http://www.reuters.com/article/us-chile-fire-idUSKBN14N027)
+2. [AAP via SBS](http://www.sbs.com.au/news/article/2017/01/03/least-100-homes-burned-chile-fire)
 
 ### Related:
 

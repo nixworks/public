@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/news.asp?nid=67316)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/01/kenya.poaching/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/01/kenya.poaching/)
+2. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/news.asp?nid=67316)
 
 ### Related:
 

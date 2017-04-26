@@ -7,8 +7,8 @@ At least 35 believed killed in bus station bombing during rush hour in the capit
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/04/bus-station-bombed-abuja-rush-hour-20144147323279272.html)
-2. [BBC](http://www.bbc.com/news/world-africa-27018751)
+1. [BBC](http://www.bbc.com/news/world-africa-27018751)
+2. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/04/bus-station-bombed-abuja-rush-hour-20144147323279272.html)
 
 ### Related:
 

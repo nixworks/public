@@ -7,8 +7,8 @@ It&#39;s legal under copyright law for Google to scan millions of books and make
 
 ### Source:
 
-1. [The Register](http://www.theregister.co.uk/2015/10/16/google_wins_books_case_again_can_post_scanned_pages_again/)
-2. [USA Today](http://www.usatoday.com/story/tech/2015/10/16/google-fair-use-scanned-books-2nd-circuit-appeal-library/74055878/)
+1. [USA Today](http://www.usatoday.com/story/tech/2015/10/16/google-fair-use-scanned-books-2nd-circuit-appeal-library/74055878/)
+2. [The Register](http://www.theregister.co.uk/2015/10/16/google_wins_books_case_again_can_post_scanned_pages_again/)
 
 ### Related:
 

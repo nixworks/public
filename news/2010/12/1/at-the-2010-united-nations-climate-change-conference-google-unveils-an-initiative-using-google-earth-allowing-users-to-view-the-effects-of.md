@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/environment/UN-Climate-Change-Conference-Activists-Confront-Global-Warming-111209699.html)
-2. [The Huffington Post](http://www.huffingtonpost.com/2010/12/01/google-fights-climate-cha_n_790062.html)
-3. [Reuters](http://www.reuters.com/article/idUS421867299720101202)
+1. [The Huffington Post](http://www.huffingtonpost.com/2010/12/01/google-fights-climate-cha_n_790062.html)
+2. [Reuters](http://www.reuters.com/article/idUS421867299720101202)
+3. [Voice of America](http://www.voanews.com/english/news/environment/UN-Climate-Change-Conference-Activists-Confront-Global-Warming-111209699.html)
 
 ### Related:
 

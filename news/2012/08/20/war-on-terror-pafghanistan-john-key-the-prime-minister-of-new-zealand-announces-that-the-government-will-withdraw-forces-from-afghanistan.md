@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Arabiya](http://english.alarabiya.net/articles/2012/08/20/233225.html)
-2. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/new-zealand-announces-earlier-exit-from-afghanistan-pm-says-not-prompted-by-recent-deaths/2012/08/19/bb3348c4-ea72-11e1-866f-60a00f604425_story.html?wprss=rss_social-world-headlines)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/new-zealand-announces-earlier-exit-from-afghanistan-pm-says-not-prompted-by-recent-deaths/2012/08/19/bb3348c4-ea72-11e1-866f-60a00f604425_story.html?wprss=rss_social-world-headlines)
+2. [Al Arabiya](http://english.alarabiya.net/articles/2012/08/20/233225.html)
 
 ### Related:
 

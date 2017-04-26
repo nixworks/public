@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/world/20100128/157700882.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8484848.stm)
-3. [Colombia Reports](http://colombiareports.com/colombia-news/news/7889-colombia-rejects-alleged-venezuelan-violation-of-airspace.html)
+1. [Colombia Reports](http://colombiareports.com/colombia-news/news/7889-colombia-rejects-alleged-venezuelan-violation-of-airspace.html)
+2. [RIA Novosti](http://en.rian.ru/world/20100128/157700882.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8484848.stm)
 
 ### Related:
 

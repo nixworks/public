@@ -7,10 +7,10 @@ At least four people killed after troops open fire near Lebanese border, as thou
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13398608)
+1. [Journal of Turkish Weekly](http://www.turkishweekly.net/news/115138/six-killed-in-syria%E2%80%99s-anti-government-protests.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/meast/05/14/syria.conflict/index.html)
-3. [Journal of Turkish Weekly](http://www.turkishweekly.net/news/115138/six-killed-in-syria%E2%80%99s-anti-government-protests.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011514111351532345.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011514111351532345.html)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-13398608)
 
 ### Related:
 

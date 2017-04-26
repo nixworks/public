@@ -8,9 +8,9 @@ The Chinese authorities are refusing to comment on the whereabouts of artist Ai 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/20114442824275563.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12954811)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12963468)
-4. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/news.htm?main&20110405&56&746087)
+2. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/news.htm?main&20110405&56&746087)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12954811)
+4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12963468)
 
 ### Related:
 

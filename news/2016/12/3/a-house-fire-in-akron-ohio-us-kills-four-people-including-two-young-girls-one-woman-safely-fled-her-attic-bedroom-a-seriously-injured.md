@@ -7,8 +7,8 @@ With no smoke detectors in the North Hill rental house, a deadly fire spread qui
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/a9a57cfbc99d41aeab64dfd6ad90043f/overnight-house-fire-ohio-kills-2-adults-2-children)
-2. [Akron Beacon Journal](http://www.ohio.com/news/local/north-hill-fire-tragedy-four-killed-one-critically-injured-in-rental-house-without-smoke-detectors-1.731341)
+1. [Akron Beacon Journal](http://www.ohio.com/news/local/north-hill-fire-tragedy-four-killed-one-critically-injured-in-rental-house-without-smoke-detectors-1.731341)
+2. [AP](http://bigstory.ap.org/article/a9a57cfbc99d41aeab64dfd6ad90043f/overnight-house-fire-ohio-kills-2-adults-2-children)
 
 ### Related:
 

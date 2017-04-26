@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [World peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050629-033304-3277r)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4633955.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4633955.stm)
+2. [World peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050629-033304-3277r)
 
 ### Related:
 

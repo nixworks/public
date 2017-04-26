@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/20080607TDY01302.htm)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7437244.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7437244.stm)
+2. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/20080607TDY01302.htm)
 
 ### Related:
 

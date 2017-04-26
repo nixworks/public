@@ -8,12 +8,12 @@ Ukraine striker Andriy Shevchenko has announced he will retire from internationa
 ### Source:
 
 1. [Reuters via Yahoo!](http://uk.eurosport.yahoo.com/news/goalline-technology-too-ukraine-223529725--sow.html)
-2. [Yahoo!](http://uk.eurosport.yahoo.com/news/shevchenko-retire-national-side-223711024.html)
-3. [Sky Sports](http://www.skysports.com/football/match_report/0,,11065_3472070,00.html)
-4. [The Washington Post](http://www.washingtonpost.com/sports/dcunited/5-famous-soccer-goal-line-controversies/2012/06/19/gJQA9x5ooV_story.html)
-5. [Daily Mail](http://www.dailymail.co.uk/sport/euro2012/article-2161841/Euro-2012-England-1-Ukraine-0-Oleg-Blokhin-fumes-ghost-goal-Roy-Hodgson-happy-rub-green.html?ito=feeds-newsxml)
+2. [Sky Sports](http://www.skysports.com/football/match_report/0,,11065_3472070,00.html)
+3. [Daily Mail](http://www.dailymail.co.uk/sport/euro2012/article-2161841/Euro-2012-England-1-Ukraine-0-Oleg-Blokhin-fumes-ghost-goal-Roy-Hodgson-happy-rub-green.html?ito=feeds-newsxml)
+4. [Yahoo!](http://uk.eurosport.yahoo.com/news/shevchenko-retire-national-side-223711024.html)
+5. [Bleacher Report](http://bleacherreport.com/articles/1228174-marko-devic-for-ukraine-vs-england-enters-goal-line-technology-hall-of-shame)
 6. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/picturegalleries/9342803/Euro-2012-England-v-Ukraine-in-pictures.html?frame=2253500#?frame=2253504)
-7. [Bleacher Report](http://bleacherreport.com/articles/1228174-marko-devic-for-ukraine-vs-england-enters-goal-line-technology-hall-of-shame)
+7. [The Washington Post](http://www.washingtonpost.com/sports/dcunited/5-famous-soccer-goal-line-controversies/2012/06/19/gJQA9x5ooV_story.html)
 
 ### Related:
 

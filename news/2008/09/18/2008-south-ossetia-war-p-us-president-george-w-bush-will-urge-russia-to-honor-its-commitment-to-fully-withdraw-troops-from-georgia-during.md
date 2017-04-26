@@ -7,8 +7,8 @@ Talks at the Organization for Security and Cooperation in Europe (OSCE) on sendi
 
 ### Source:
 
-1. [AFP via Google News](http://afp.google.com/article/ALeqM5hygXnOmrVbxMVtgYvUOB_AUleCxg)
-2. [EurAsia](http://www.eurasianet.org/departments/insight/articles/eav091908.shtml)
+1. [EurAsia](http://www.eurasianet.org/departments/insight/articles/eav091908.shtml)
+2. [AFP via Google News](http://afp.google.com/article/ALeqM5hygXnOmrVbxMVtgYvUOB_AUleCxg)
 
 ### Related:
 

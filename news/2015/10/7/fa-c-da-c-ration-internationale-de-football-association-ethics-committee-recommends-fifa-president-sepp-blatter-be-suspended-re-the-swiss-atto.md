@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/sport/sportsnews/article-3263820/Sepp-Blatter-provisionally-suspended-90-days-FIFA-ethics-committee.html)
-2. [BBC](http://www.bbc.com/sport/0/football/34468663)
+1. [BBC](http://www.bbc.com/sport/0/football/34468663)
+2. [Daily Mail](http://www.dailymail.co.uk/sport/sportsnews/article-3263820/Sepp-Blatter-provisionally-suspended-90-days-FIFA-ethics-committee.html)
 
 ### Related:
 

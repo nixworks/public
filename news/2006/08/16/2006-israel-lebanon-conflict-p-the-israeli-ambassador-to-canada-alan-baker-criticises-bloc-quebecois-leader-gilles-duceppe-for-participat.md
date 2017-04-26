@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060815/bloc_hezbollah_060815/20060815?hub=QPeriod)
+1. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060816/ap_on_re_mi_ea/mideast_hezbollah_iran)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyID=2006-08-16T130322Z_01_L13492527_RTRUKOC_0_US-MIDEAST.xml&WTmodLoc=NewsArt-L3-Top+NewsNews-2)
-3. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060816/ap_on_re_mi_ea/mideast_hezbollah_iran)
+3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060815/bloc_hezbollah_060815/20060815?hub=QPeriod)
 
 ### Related:
 

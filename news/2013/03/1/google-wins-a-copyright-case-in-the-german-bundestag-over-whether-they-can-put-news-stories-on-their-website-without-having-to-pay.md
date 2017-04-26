@@ -7,8 +7,8 @@ Google was handed a small victory in Germany this week when lawmakers there appr
 
 ### Source:
 
-1. [PC Magazine](http://www.pcmag.com/article2/0,2817,2416116,00.asp)
-2. [Bloomberg](http://www.bloomberg.com/news/2013-03-01/google-defeats-publishers-over-copyright-in-german-parliament.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2013-03-01/google-defeats-publishers-over-copyright-in-german-parliament.html)
+2. [PC Magazine](http://www.pcmag.com/article2/0,2817,2416116,00.asp)
 
 ### Related:
 

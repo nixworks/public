@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5207874.stm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/23/AR2006072300778.html)
+1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/23/AR2006072300778.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5207874.stm)
 3. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nMAC322880&imageid=2006-07-23T102325Z_01_BAG20_RTRIDSP_2_IRAQ.jpg&cap=Wounded%20Iraqi%20children,%20victims%20of%20a%20car%20bomb%20attack%20rest%20in%20their%20beds%20in%20a%20hospital%20in%20Baghdad's%20Sadr%20City%20July%2023,%202006.%20REUTERS/Kareem%20Raheem%20%20(IRAQ))
 
 ### Related:

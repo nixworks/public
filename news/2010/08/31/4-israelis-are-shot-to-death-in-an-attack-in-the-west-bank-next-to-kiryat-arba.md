@@ -7,8 +7,8 @@ Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11144742)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3947089,00.html)
+1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3947089,00.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11144742)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20100110&56&639318)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8450213.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8450213.stm)
+2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20100110&56&639318)
 
 ### Related:
 

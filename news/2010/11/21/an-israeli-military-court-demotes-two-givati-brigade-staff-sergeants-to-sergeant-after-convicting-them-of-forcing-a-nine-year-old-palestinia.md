@@ -7,8 +7,8 @@ Two Israeli soldiers who used a Palestinian child as a human shield during an of
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11807152)
-2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=196128)
+1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=196128)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11807152)
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-court-demotes-soldiers-convicted-of-gaza-war-misconduct-1.325850)
 
 ### Related:

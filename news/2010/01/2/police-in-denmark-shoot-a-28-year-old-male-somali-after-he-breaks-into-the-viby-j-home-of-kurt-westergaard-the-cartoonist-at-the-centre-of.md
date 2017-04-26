@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6973706.ece)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Danish-Police-Shoot-Man-At-House-Of-Cartoonist-Kurt-Westergaard-Who-Drew-Pictures-Of-Mohammed/Article/201001115513050?lpos=World_News_Top_Stories_Header_2&lid=ARTICLE_15513050_Danish_Police_Shoot_Man_At_House_Of_Cartoonist_Kurt_Westergaard_Who_Drew_Pictures_Of_Mohammed)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8437433.stm)
-3. [Sky News](http://news.sky.com/skynews/Home/World-News/Danish-Police-Shoot-Man-At-House-Of-Cartoonist-Kurt-Westergaard-Who-Drew-Pictures-Of-Mohammed/Article/201001115513050?lpos=World_News_Top_Stories_Header_2&lid=ARTICLE_15513050_Danish_Police_Shoot_Man_At_House_Of_Cartoonist_Kurt_Westergaard_Who_Drew_Pictures_Of_Mohammed)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6973706.ece)
 
 ### Related:
 

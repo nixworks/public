@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8325470.stm)
-2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE59P0H820091026)
-3. [Ghana Broadcasting Corporation](http://gbcghana.com/news/29141detail.html)
+1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE59P0H820091026)
+2. [Ghana Broadcasting Corporation](http://gbcghana.com/news/29141detail.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/8325470.stm)
 
 ### Related:
 

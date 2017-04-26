@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/dec/11/russian-opera-singer-galina-vishnevskaya-dies)
+1. [RIA Novosti](http://en.ria.ru/art_living/20121211/178079716.html)
 2. [RT](http://rt.com/art-and-culture/news/vishnevskaya-opera-singer-died-824/)
-3. [RIA Novosti](http://en.ria.ru/art_living/20121211/178079716.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2012/dec/11/russian-opera-singer-galina-vishnevskaya-dies)
 
 ### Related:
 

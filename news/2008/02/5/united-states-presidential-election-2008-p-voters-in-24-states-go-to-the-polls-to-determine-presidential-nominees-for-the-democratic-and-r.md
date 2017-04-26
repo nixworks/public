@@ -7,18 +7,18 @@ Former Arkansas Gov. MikeHuckabee won his home state primary on Tuesday in a vic
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/05/MNVKUSEM3.DTL)
-2. [Fox News](http://youdecide08.foxnews.com/2008/02/06/obama-wins-alaska-democratic-caucuses-fox-news-projects/)
-3. [Reuters](http://www.reuters.com/article/bondsNews/idUSWBT00831220080206)
+1. [The New York Times](http://www.nytimes.com/2008/02/06/us/politics/05cnd-relect.html)
+2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7224962.stm)
+3. [Bloomberg News](http://www.bloomberg.com/apps/news?pid=20601170&refer=home&sid=a7dvsOn9SX5Q)
 4. [TIME](http://www.time.com/time/politics/article/0,8599,1709876,00.html)
-5. [BBC News](http://news.bbc.co.uk/2/hi/americas/7224962.stm)
-6. [ABC News](http://abcnews.go.com/politics/elections/state?state=AS&ref=ipb)
-7. [Reuters](http://www.reuters.com/article/bondsNews/idUSWAT00884420080206)
-8. [CNN](http://edition.cnn.com/ELECTION/2008/)
+5. [Reuters](http://www.reuters.com/article/bondsNews/idUSWBT00831120080206)
+6. [CNN](http://edition.cnn.com/ELECTION/2008/)
+7. [Fox News](http://youdecide08.foxnews.com/2008/02/06/obama-wins-alaska-democratic-caucuses-fox-news-projects/)
+8. [Reuters](http://www.reuters.com/article/bondsNews/idUSWBT00831220080206)
 9. [USA Today](http://blogs.usatoday.com/ondeadline/2008/02/first-results-a.html)
-10. [The New York Times](http://www.nytimes.com/2008/02/06/us/politics/05cnd-relect.html)
-11. [Bloomberg News](http://www.bloomberg.com/apps/news?pid=20601170&refer=home&sid=a7dvsOn9SX5Q)
-12. [Reuters](http://www.reuters.com/article/bondsNews/idUSWBT00831120080206)
+10. [Reuters](http://www.reuters.com/article/bondsNews/idUSWAT00884420080206)
+11. [ABC News](http://abcnews.go.com/politics/elections/state?state=AS&ref=ipb)
+12. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/05/MNVKUSEM3.DTL)
 
 ### Related:
 

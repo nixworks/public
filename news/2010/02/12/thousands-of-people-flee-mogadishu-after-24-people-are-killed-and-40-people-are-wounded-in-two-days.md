@@ -7,8 +7,8 @@ The United Nations refugee agency says it is preparing for a mass flight of peop
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/02/12/somalia-refugees.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8513230.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8513230.stm)
+2. [CBC](http://www.cbc.ca/world/story/2010/02/12/somalia-refugees.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L03533729.htm)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/9EB2DD12-E22B-4FB6-8803-129B4CA5A782.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4744053.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4744053.stm)
+3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/9EB2DD12-E22B-4FB6-8803-129B4CA5A782.htm)
 
 ### Related:
 

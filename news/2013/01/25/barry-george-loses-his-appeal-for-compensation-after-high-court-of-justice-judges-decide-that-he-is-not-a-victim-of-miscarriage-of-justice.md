@@ -7,9 +7,9 @@ Barry George, who was wrongly convicted of the murder of BBC TV presenter Jill D
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2013/jan/25/barry-george-jill-dando-compensation)
+1. [The Independent](http://www.independent.co.uk/news/uk/home-news/eight-years-in-prison-but-barry-george-is-refused-compensation-8467485.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-21195269)
-3. [The Independent](http://www.independent.co.uk/news/uk/home-news/eight-years-in-prison-but-barry-george-is-refused-compensation-8467485.html)
+3. [The Guardian](http://www.guardian.co.uk/uk/2013/jan/25/barry-george-jill-dando-compensation)
 
 ### Related:
 

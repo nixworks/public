@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sports Illustrated](http://sportsillustrated.cnn.com/2007/baseball/mlb/wires/08/04/2010.ap.bba.rodriguez.500.homers.7th.ld.writethru.1102/)
-2. [TSN](http://www.tsn.ca/mlb/news_story/?ID=215498&hubname=)
+1. [TSN](http://www.tsn.ca/mlb/news_story/?ID=215498&hubname=)
+2. [Sports Illustrated](http://sportsillustrated.cnn.com/2007/baseball/mlb/wires/08/04/2010.ap.bba.rodriguez.500.homers.7th.ld.writethru.1102/)
 
 ### Related:
 

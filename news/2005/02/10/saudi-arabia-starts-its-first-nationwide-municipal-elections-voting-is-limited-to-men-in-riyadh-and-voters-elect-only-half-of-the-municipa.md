@@ -7,10 +7,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7588403)
-2. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050207-094045-9469r)
-3. [Arab News](http://www.arabnews.com/?page=1&section=0&article=58768&d=10&m=2&y=2005&pix=kingdom.jpg&category=Kingdom)
-4. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/middleeast/2005/February/middleeast_February294.xml&section=middleeast)
+1. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/middleeast/2005/February/middleeast_February294.xml&section=middleeast)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7588403)
+3. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050207-094045-9469r)
+4. [Arab News](http://www.arabnews.com/?page=1&section=0&article=58768&d=10&m=2&y=2005&pix=kingdom.jpg&category=Kingdom)
 
 ### Related:
 
@@ -22,5 +22,5 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 6. [Saudi Arabia's official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabiaas-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md) _Context: Riyadh, Saudi Arabia_
 7. [ Arab and Middle East leaders meet in Riyadh, Saudi Arabia to discuss reviving the Middle East peace process. ](/news/2007/03/28/arab-and-middle-east-leaders-meet-in-riyadh-saudi-arabia-to-discuss-reviving-the-middle-east-peace-process.md) _Context: Riyadh, Saudi Arabia_
 8. [ Forty Pakistani Christians are arrested in Riyadh, Saudi Arabia for practicing their religion in violation of a Saudi law forbidding the practice of any religion but Islam.  [http://www.christiantoday.com/news/meast/289.htm (Christian Today)].](/news/2005/04/24/forty-pakistani-christians-are-arrested-in-riyadh-saudi-arabia-for-practicing-their-religion-in-violation-of-a-saudi-law-forbidding-the-pr.md) _Context: Riyadh, Saudi Arabia_
-9. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+9. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 10. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_

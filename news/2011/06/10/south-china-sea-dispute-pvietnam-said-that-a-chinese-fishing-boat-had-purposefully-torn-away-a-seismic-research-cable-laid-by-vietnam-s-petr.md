@@ -7,9 +7,9 @@ China accuses Vietnam of &quot;gravely violating&quot; its sovereignty in an esc
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/feeds/ap/2011/06/10/general-as-china-disputed-islands_8509912.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13723443)
-3. [RIA Novosti](http://en.rian.ru/news/20110610/164551029.html)
+1. [RIA Novosti](http://en.rian.ru/news/20110610/164551029.html)
+2. [Forbes](http://www.forbes.com/feeds/ap/2011/06/10/general-as-china-disputed-islands_8509912.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13723443)
 
 ### Related:
 

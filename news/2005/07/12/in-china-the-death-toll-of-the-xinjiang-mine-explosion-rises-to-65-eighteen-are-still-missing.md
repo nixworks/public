@@ -7,10 +7,10 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2005-07/11/content_3206775.htm)
+1. [People's Daily](http://english.people.com.cn/200507/12/eng20050712_195606.html)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-11T143816Z_01_N11478448_RTRIDST_0_INTERNATIONAL-CHINA-MINE-DC.XML)
-3. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-07/12/content_459285.htm)
-4. [People's Daily](http://english.people.com.cn/200507/12/eng20050712_195606.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2005-07/11/content_3206775.htm)
+4. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-07/12/content_459285.htm)
 
 ### Related:
 

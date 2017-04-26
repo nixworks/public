@@ -7,8 +7,8 @@ A train derailed in Cameroon on Friday reportedly killing more than 50 people an
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-cameroon-derailment-idUSKCN12L1XA)
-2. [Africa News](http://www.africanews.com/2016/10/21/about-10-dead-scores-injured-as-train-derails-in-cameroon/)
+1. [Africa News](http://www.africanews.com/2016/10/21/about-10-dead-scores-injured-as-train-derails-in-cameroon/)
+2. [Reuters](http://www.reuters.com/article/us-cameroon-derailment-idUSKCN12L1XA)
 
 ### Related:
 

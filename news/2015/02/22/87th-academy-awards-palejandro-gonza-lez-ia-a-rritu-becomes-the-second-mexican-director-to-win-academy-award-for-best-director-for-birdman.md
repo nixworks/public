@@ -9,9 +9,9 @@ The full list of winners at the 2015 Oscars
 
 1. [The Globe and Mail](http://www.theglobeandmail.com/arts/awards-and-festivals/film-awards/the-movies-the-stars-the-host-what-to-expect-at-the-oscars-tonight/article23142132/)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/film/oscars/11420116/oscars-2015-winners-list.html)
-3. [The Guardian](http://www.theguardian.com/film/2015/feb/23/eddie-redmayne-wins-best-actor-oscar-for-the-theory-of-everything)
-4. [The Guardian](http://www.theguardian.com/film/2015/feb/23/ida-wins-oscar-for-best-foreign-language-film)
-5. [Hollywood Reporter](http://www.hollywoodreporter.com/news/oscars-2015-best-actress-julianne-773847)
+3. [Hollywood Reporter](http://www.hollywoodreporter.com/news/oscars-2015-best-actress-julianne-773847)
+4. [The Guardian](http://www.theguardian.com/film/2015/feb/23/eddie-redmayne-wins-best-actor-oscar-for-the-theory-of-everything)
+5. [The Guardian](http://www.theguardian.com/film/2015/feb/23/ida-wins-oscar-for-best-foreign-language-film)
 
 ### Related:
 

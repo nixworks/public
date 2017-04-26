@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Shanghai Daily](http://www.shanghaidaily.com/gallery/photo.asp?article_id=453381)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_DISASTERS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_DISASTERS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Shanghai Daily](http://www.shanghaidaily.com/gallery/photo.asp?article_id=453381)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Front-running candidate for governor in border state shot dead with four aides.
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/americas/06/28/mexico.candidate.killed/?fbid=Dxrzb6Q-4_O)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010628212222901623.html)
 2. [Times Live South Africa](http://www.timeslive.co.za/world/article523729.ece/Leading-candidate-killed-days-before-Mexico-elections)
-3. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010628212222901623.html)
+3. [CNN](http://edition.cnn.com/2010/WORLD/americas/06/28/mexico.candidate.killed/?fbid=Dxrzb6Q-4_O)
 
 ### Related:
 

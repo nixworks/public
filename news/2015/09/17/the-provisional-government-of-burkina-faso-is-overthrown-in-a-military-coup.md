@@ -7,11 +7,11 @@ EU and UN demand army release detained president and prime minister as warning s
 
 ### Source:
 
-1. [Irish Times](http://www.irishtimes.com/news/world/africa/soldiers-crush-protests-following-military-coup-in-burkina-faso-1.2356000)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/burkinafaso/11870962/Burkina-Faso-coup-military-says-it-now-controls-country-after-arresting-leaders.html)
-3. [BBC](http://www.bbc.com/news/world-africa-34276807)
-4. [AP via Huffington Post](http://www.huffingtonpost.com/entry/burkina-faso-coup_55fa77b6e4b00310edf5cc5b)
-5. [Al Jazeera America](http://america.aljazeera.com/articles/2015/9/17/burkina-faso-military-confirms-coup-dissolves-government.html)
+1. [Al Jazeera America](http://america.aljazeera.com/articles/2015/9/17/burkina-faso-military-confirms-coup-dissolves-government.html)
+2. [BBC](http://www.bbc.com/news/world-africa-34276807)
+3. [AP via Huffington Post](http://www.huffingtonpost.com/entry/burkina-faso-coup_55fa77b6e4b00310edf5cc5b)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/burkinafaso/11870962/Burkina-Faso-coup-military-says-it-now-controls-country-after-arresting-leaders.html)
+5. [Irish Times](http://www.irishtimes.com/news/world/africa/soldiers-crush-protests-following-military-coup-in-burkina-faso-1.2356000)
 
 ### Related:
 

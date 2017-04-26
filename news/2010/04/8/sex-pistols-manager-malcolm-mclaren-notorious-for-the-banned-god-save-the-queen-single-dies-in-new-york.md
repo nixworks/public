@@ -7,10 +7,10 @@ Malcolm McLaren, the former manager of the Sex Pistols and impresario, has died 
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Sex-Pistols-Former-Manager-Malcolm-McLaren-Had-Died-Aged-64-From-Cancer/Article/201004215597657?lpos=Showbiz_News_Top_Stories_Header_4&lid=ARTICLE_15597657_Sex_Pistols_Former_Manager_Malcolm_McLaren_Had_Died_Aged_64_From_Cancer)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8610423.stm)
 2. [The Independent](http://www.independent.co.uk/news/people/news/malcolm-mclaren-dies-aged-64-1939621.html)
-3. [The Guardian](http://www.guardian.co.uk/music/2010/apr/08/malcolm-mclaren-dies-sex-pistols)
-4. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8610423.stm)
+3. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Sex-Pistols-Former-Manager-Malcolm-McLaren-Had-Died-Aged-64-From-Cancer/Article/201004215597657?lpos=Showbiz_News_Top_Stories_Header_4&lid=ARTICLE_15597657_Sex_Pistols_Former_Manager_Malcolm_McLaren_Had_Died_Aged_64_From_Cancer)
+4. [The Guardian](http://www.guardian.co.uk/music/2010/apr/08/malcolm-mclaren-dies-sex-pistols)
 
 ### Related:
 

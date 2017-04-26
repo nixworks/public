@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-04-Panama-Presidential%20Election/id-f8fc42f613ec47418e47d95b84b55f9c)
-2. [Fox News Latino](http://latino.foxnews.com/latino/politics/2014/05/04/panama-holds-presidential-election/)
+1. [Fox News Latino](http://latino.foxnews.com/latino/politics/2014/05/04/panama-holds-presidential-election/)
+2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-04-Panama-Presidential%20Election/id-f8fc42f613ec47418e47d95b84b55f9c)
 
 ### Related:
 

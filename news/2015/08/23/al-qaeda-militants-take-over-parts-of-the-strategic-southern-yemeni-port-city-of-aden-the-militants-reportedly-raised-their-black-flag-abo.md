@@ -8,8 +8,8 @@ A Saudi army general has been killed in cross-border fire from Yemen, the armed 
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/saudi-border-guard-killed-rocket-fire-yemen-103626578.html)
-2. [BBC](http://www.bbc.com/news/uk-34032377?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-3. [Reuters](http://www.reuters.com/article/2015/08/23/us-yemen-security-idUSKCN0QS07820150823)
+2. [Reuters](http://www.reuters.com/article/2015/08/23/us-yemen-security-idUSKCN0QS07820150823)
+3. [BBC](http://www.bbc.com/news/uk-34032377?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 
 ### Related:
 

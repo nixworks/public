@@ -7,10 +7,10 @@ Thousands of Argentines filed past a flag-draped coffin to pay their respects to
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/chanting-crowds-bid-farewell-to-beloved-argentinian-president-2120528.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11657248)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11657248)
+2. [AFP via France24](http://www.france24.com/en/20101029-body-argentine-ex-president-kirchner-en-route-burial)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Argentinas-Former-President-Nestor-Kirchner-Is-Buried-In-Private-Ceremony-Attended-By-Hugo-Chavez/Article/201010415786824?lpos=World_News_First_Home_Article_Teaser_Region_4&amp;lid=ARTICLE_15786824_Argentinas_Fo)
-4. [AFP via France24](http://www.france24.com/en/20101029-body-argentine-ex-president-kirchner-en-route-burial)
+4. [The Independent](http://www.independent.co.uk/news/world/americas/chanting-crowds-bid-farewell-to-beloved-argentinian-president-2120528.html)
 
 ### Related:
 

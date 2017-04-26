@@ -7,11 +7,11 @@ The ACLU filed a legal challenge to President Donald Trump&#039;s order to deny 
 
 ### Source:
 
-1. [CNBC](http://www.cnbc.com/2017/01/28/aclu-mounts-legal-challenge-to-trumps-refugee-ban-calling-it-unlawful.html)
-2. [Reuters](http://live.reuters.com/Event/Election_2016)
-3. [CNN](http://edition.cnn.com/2017/01/28/middleeast/iran-will-ban-us-citizens/)
-4. [AP](http://bigstory.ap.org/article/1b76c00a59a64cc78e23cc2dec7762ff/us-judge-bars-deportations-under-trump-travel-ban)
-5. [The New York Times](https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html)
+1. [The New York Times](https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html)
+2. [AP](http://bigstory.ap.org/article/1b76c00a59a64cc78e23cc2dec7762ff/us-judge-bars-deportations-under-trump-travel-ban)
+3. [Reuters](http://live.reuters.com/Event/Election_2016)
+4. [CNN](http://edition.cnn.com/2017/01/28/middleeast/iran-will-ban-us-citizens/)
+5. [CNBC](http://www.cnbc.com/2017/01/28/aclu-mounts-legal-challenge-to-trumps-refugee-ban-calling-it-unlawful.html)
 
 ### Related:
 

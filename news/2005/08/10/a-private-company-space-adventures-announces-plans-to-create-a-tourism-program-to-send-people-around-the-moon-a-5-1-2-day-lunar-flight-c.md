@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo](http://news.yahoo.com/s/ap/20050811/ap_on_re_us/space_tourism)
-2. [CNN](http://money.cnn.com/2005/08/10/news/funny/moontrip/?cnn=yes)
+1. [CNN](http://money.cnn.com/2005/08/10/news/funny/moontrip/?cnn=yes)
+2. [Yahoo](http://news.yahoo.com/s/ap/20050811/ap_on_re_us/space_tourism)
 
 ### Related:
 

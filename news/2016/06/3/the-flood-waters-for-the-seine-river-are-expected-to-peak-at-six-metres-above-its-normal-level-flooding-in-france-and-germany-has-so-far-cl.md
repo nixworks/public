@@ -7,8 +7,8 @@ The city of Paris is on high alert, with floodwaters on the River Seine due to p
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-36441322)
-2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_EUROPE_FLOODS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_EUROPE_FLOODS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [BBC](http://www.bbc.com/news/world-europe-36441322)
 
 ### Related:
 

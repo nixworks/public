@@ -7,8 +7,8 @@ At least eight people are killed by attackers with machetes near Jos in Nigeria,
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-10674389)
-2. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071717329277497.html)
+1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071717329277497.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-10674389)
 
 ### Related:
 

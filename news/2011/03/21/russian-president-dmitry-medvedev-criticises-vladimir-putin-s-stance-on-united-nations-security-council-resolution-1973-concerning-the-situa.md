@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20110321/163130143.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-12810566)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12810566)
+2. [RIA Novosti](http://en.rian.ru/russia/20110321/163130143.html)
 
 ### Related:
 

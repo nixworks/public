@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Sun Star](http://www.sunstar.com.ph/static/net/2005/07/04/military.renews.loyalty.to.arroyo.amid.coup.rumors.(11.10.p.m.).html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156204/1/.html)
 2. [Manila Times](http://www.manilatimes.net/national/2005/jul/05/yehey/top_stories/20050705top8.html)
-3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156204/1/.html)
+3. [Sun Star](http://www.sunstar.com.ph/static/net/2005/07/04/military.renews.loyalty.to.arroyo.amid.coup.rumors.(11.10.p.m.).html)
 
 ### Related:
 

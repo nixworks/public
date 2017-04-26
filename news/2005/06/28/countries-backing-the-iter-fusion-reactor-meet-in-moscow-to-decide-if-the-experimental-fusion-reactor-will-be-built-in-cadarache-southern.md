@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [PhysOrg](http://www.physorg.com/news4760.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4629239.stm)
 2. [European Commission](http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/05/226&format=HTML&aged=0&language=EN&guiLanguage=en)
-3. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4629239.stm)
-4. [IHT](http://iht.com/articles/2005/06/28/news/fusion.php)
+3. [IHT](http://iht.com/articles/2005/06/28/news/fusion.php)
+4. [PhysOrg](http://www.physorg.com/news4760.html)
 
 ### Related:
 

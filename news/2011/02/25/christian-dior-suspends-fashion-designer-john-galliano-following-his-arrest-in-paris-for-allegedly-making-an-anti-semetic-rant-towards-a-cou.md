@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Elle](http://www.elleuk.com/news/fashion-news/a-galliano-update-he-s-been-suspended/(gid)/751533)
+1. [Vogue](http://www.vogue.co.uk/news/daily/110225-john-galliano-arrested-in-paris-for.aspx)
 2. [Daily Telegraph](http://fashion.telegraph.co.uk/news-features/TMG8347082/John-Galliano-suspended-by-Dior-following-arrest-over-anti-semitic-rant.html)
-3. [Vogue](http://www.vogue.co.uk/news/daily/110225-john-galliano-arrested-in-paris-for.aspx)
+3. [Elle](http://www.elleuk.com/news/fashion-news/a-galliano-update-he-s-been-suspended/(gid)/751533)
 
 ### Related:
 

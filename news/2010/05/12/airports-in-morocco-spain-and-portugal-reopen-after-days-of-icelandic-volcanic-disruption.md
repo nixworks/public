@@ -7,8 +7,8 @@ RESTRICTIONS on flights to and from airports in Spain, Portugal and Morocco were
 
 ### Source:
 
-1. [NEWS.com.au](http://www.news.com.au/breaking-news/ash-cloud-hit-airports-reopen/story-e6frfku0-1225865779890)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8678514.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8678514.stm)
+2. [NEWS.com.au](http://www.news.com.au/breaking-news/ash-cloud-hit-airports-reopen/story-e6frfku0-1225865779890)
 
 ### Related:
 

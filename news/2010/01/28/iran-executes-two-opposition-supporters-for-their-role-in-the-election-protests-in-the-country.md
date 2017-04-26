@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7006047.ece)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/2010/01/201012883746634565.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/2010/01/201012883746634565.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7006047.ece)
 3. [WSJ](http://online.wsj.com/article/SB10001424052748704878904575030483299887178.html?mod=WSJ_World_LEFTSecondNews)
 
 ### Related:

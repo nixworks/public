@@ -7,15 +7,15 @@ Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on
 
 ### Source:
 
-1. [WA Today](http://www.watoday.com.au/environment/new-tsunami-warning-as-another-quake-rocks-tokyo-20110314-1bto7.html?rand=1300069485440)
-2. [CNN](http://news.blogs.cnn.com/2011/03/13/japan-quake-live-blog-nine-people-test-positive-for-high-radiation-levels/)
-3. [Washington Post](http://www.washingtonpost.com/business/economy/at-two-reactors-a-race-to-contain-meltdowns/2011/03/13/ABtdVDU_story.html?wpisrc=nl_natlalert)
-4. [Kyodo News](http://english.kyodonews.jp/news/2011/03/77575.html)
-5. [Reuters](http://www.reuters.com/article/2011/03/14/japan-quake-chernobyl-idUSWEA841120110314)
-6. [AAP via News Limited](http://www.news.com.au/breaking-news/new-tsunami-set-to-hit-japan-report/story-e6frfku0-1226021098967)
-7. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12729035)
-8. [Associated Press](http://hosted2.ap.org/APDefault/*/Article_2011-03-13-AS-Japan-Earthquake-Nuclear-Crisis/id-545552db9e3549669117948e29b8226a)
-9. [Japan Today](http://www.japantoday.com/category/national/view/tokyo-power-outages-to-start-later-than-planned-trains-reduce-services)
+1. [CNN](http://news.blogs.cnn.com/2011/03/13/japan-quake-live-blog-nine-people-test-positive-for-high-radiation-levels/)
+2. [Associated Press](http://hosted2.ap.org/APDefault/*/Article_2011-03-13-AS-Japan-Earthquake-Nuclear-Crisis/id-545552db9e3549669117948e29b8226a)
+3. [Kyodo News](http://english.kyodonews.jp/news/2011/03/77575.html)
+4. [WA Today](http://www.watoday.com.au/environment/new-tsunami-warning-as-another-quake-rocks-tokyo-20110314-1bto7.html?rand=1300069485440)
+5. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12729035)
+6. [Japan Today](http://www.japantoday.com/category/national/view/tokyo-power-outages-to-start-later-than-planned-trains-reduce-services)
+7. [AAP via News Limited](http://www.news.com.au/breaking-news/new-tsunami-set-to-hit-japan-report/story-e6frfku0-1226021098967)
+8. [Washington Post](http://www.washingtonpost.com/business/economy/at-two-reactors-a-race-to-contain-meltdowns/2011/03/13/ABtdVDU_story.html?wpisrc=nl_natlalert)
+9. [Reuters](http://www.reuters.com/article/2011/03/14/japan-quake-chernobyl-idUSWEA841120110314)
 
 ### Related:
 

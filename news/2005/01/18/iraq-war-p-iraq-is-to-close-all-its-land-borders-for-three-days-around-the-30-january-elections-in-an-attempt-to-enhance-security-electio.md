@@ -7,10 +7,10 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 
 ### Source:
 
-1. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=34711)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4183243.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7347475)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4183131.stm)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4183243.stm)
+4. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=34711)
 
 ### Related:
 

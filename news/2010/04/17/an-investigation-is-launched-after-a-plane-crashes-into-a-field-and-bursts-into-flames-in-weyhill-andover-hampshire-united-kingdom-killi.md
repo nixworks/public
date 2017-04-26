@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0417/uk.html)
-2. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/17/light-aircraft-crash-andover)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/7602026/Two-dead-as-light-aircraft-crashes-in-Hampshire.html)
-4. [Sky News](http://news.sky.com/skynews/Home/UK-News/Two-People-Die-After-A-Light-Aircraft-Crashed-Into-A-Field-Near-Andover-Hampshire-Police-Say/Article/201004315607486?lpos=UK_News_First_UK_News_Article_Teaser_Region_3&lid=ARTICLE_15607486_Two_People_Die_After_A_Light_Aircraft_Crashed_Into_A_Field_Near_Andover%2C_Hampshire_Police_Say)
-5. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/hampshire/8627661.stm)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/7602026/Two-dead-as-light-aircraft-crashes-in-Hampshire.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0417/uk.html)
+3. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/17/light-aircraft-crash-andover)
+4. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/hampshire/8627661.stm)
+5. [Sky News](http://news.sky.com/skynews/Home/UK-News/Two-People-Die-After-A-Light-Aircraft-Crashed-Into-A-Field-Near-Andover-Hampshire-Police-Say/Article/201004315607486?lpos=UK_News_First_UK_News_Article_Teaser_Region_3&lid=ARTICLE_15607486_Two_People_Die_After_A_Light_Aircraft_Crashed_Into_A_Field_Near_Andover%2C_Hampshire_Police_Say)
 
 ### Related:
 

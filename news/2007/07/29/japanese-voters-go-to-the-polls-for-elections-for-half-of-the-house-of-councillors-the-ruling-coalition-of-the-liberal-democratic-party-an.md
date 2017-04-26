@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUST26506820070728?feedType=RSS)
-2. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/07/29/japan.election.reut/index.html?eref=rss_world)
+1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/07/29/japan.election.reut/index.html?eref=rss_world)
+2. [Reuters](http://www.reuters.com/article/topNews/idUST26506820070728?feedType=RSS)
 
 ### Related:
 

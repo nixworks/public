@@ -7,7 +7,7 @@ _Context: Boris Tadić, Mirko Cvetković, President, Prime Minster, Serbia, parl
 _Context: Baja Verapaz, Guatemala, Vinicio Gómez_
 
 ### [ Richard Scruggs, a high-profile United States lawyer known for his lawsuits against the tobacco, pharmaceutical and construction industries, is sentenced to five years jail for conspiracy to bribe a judge. ](/news/2008/06/27/richard-scruggs-a-high-profile-united-states-lawyer-known-for-his-lawsuits-against-the-tobacco-pharmaceutical-and-construction-industries.md)
-_Context: Pharmaceutical, Richard Scruggs, United States, tobacco_
+_Context: Pharmaceutical, Richard Scruggs, U.S., tobacco_
 
 ### [ The Andaman and Nicobar Islands are struck by an earthquake measuring 6.1 on the Richter scale. ](/news/2008/06/27/the-andaman-and-nicobar-islands-are-struck-by-an-earthquake-measuring-6-1-on-the-richter-scale.md)
 _Context: Andaman and Nicobar Islands, Richter scale, earthquake_

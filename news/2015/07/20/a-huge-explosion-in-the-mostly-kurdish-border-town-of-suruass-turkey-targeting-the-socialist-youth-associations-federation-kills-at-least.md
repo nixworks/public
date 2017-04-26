@@ -7,8 +7,8 @@ A suspected female suicide attacker kills at least 30 people, most of university
 
 ### Source:
 
-1. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Jul-20/307438-evidence-suggests-explosion-in-turkish-border-town-of-suruc-was-suicide-bombing-by-isis-two-senior.ashx)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-33593615)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-33593615)
+2. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Jul-20/307438-evidence-suggests-explosion-in-turkish-border-town-of-suruc-was-suicide-bombing-by-isis-two-senior.ashx)
 
 ### Related:
 

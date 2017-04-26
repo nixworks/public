@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV News](http://www.ctv.ca/CTVNews/World/20110729/ukraine-mining-accidents-110729/)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hsEW7iINVQ1vvOi97F0wLYw8wPGw?docId=4ac382e84c3d40d08ff8ccf02b0107ae)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hsEW7iINVQ1vvOi97F0wLYw8wPGw?docId=4ac382e84c3d40d08ff8ccf02b0107ae)
+2. [CTV News](http://www.ctv.ca/CTVNews/World/20110729/ukraine-mining-accidents-110729/)
 
 ### Related:
 

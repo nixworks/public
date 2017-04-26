@@ -7,14 +7,14 @@ Dozens die as a new earthquake of magnitude 7.3 strikes Nepal, two weeks after a
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2015/05/12/earthquake-nepal-idINKBN0NX0JZ20150512)
+1. [NBC News](http://www.nbcnews.com/storyline/nepal-earthquake/nepal-hit-7-3-magnitude-earthquake-panic-reported-kathmandu-n357481)
 2. [MSN](http://www.msn.com/en-us/news/world/fresh-nepal-earthquake-kills-dozens-triggers-panic/ar-BBjEgeU)
-3. [NBC News](http://www.nbcnews.com/storyline/nepal-earthquake/nepal-hit-7-3-magnitude-earthquake-panic-reported-kathmandu-n357481)
-4. [The Guardian](http://www.theguardian.com/world/live/2015/may/12/nepal-earthquake-74-tremor-hits-near-mount-everest-live-updates)
-5. [NBC News](http://www.nbcnews.com/storyline/nepal-earthquake/u-s-marines-helicopter-supporting-earthquake-relief-missing-nepal-n357771)
-6. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3077946/Four-dead-Nepals-Chautara-quake-destroys-buildings.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
-7. [ABC News Australia](http://www.abc.net.au/news/2015-05-12/magnitude-74-earthquake-strikes-in-nepal/6464556)
-8. [BBC](http://www.bbc.co.uk/news/world-asia-32701385)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-32701385)
+4. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3077946/Four-dead-Nepals-Chautara-quake-destroys-buildings.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+5. [The Guardian](http://www.theguardian.com/world/live/2015/may/12/nepal-earthquake-74-tremor-hits-near-mount-everest-live-updates)
+6. [Reuters](http://in.reuters.com/article/2015/05/12/earthquake-nepal-idINKBN0NX0JZ20150512)
+7. [NBC News](http://www.nbcnews.com/storyline/nepal-earthquake/u-s-marines-helicopter-supporting-earthquake-relief-missing-nepal-n357771)
+8. [ABC News Australia](http://www.abc.net.au/news/2015-05-12/magnitude-74-earthquake-strikes-in-nepal/6464556)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [EITB](http://www.eitb24.com/noticia_en.php?id=55042)
-2. [Berria](http://www.berria.info/english/ikusi.php?id=1393)
+1. [Berria](http://www.berria.info/english/ikusi.php?id=1393)
+2. [EITB](http://www.eitb24.com/noticia_en.php?id=55042)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=reutersEdge&storyID=8256794)
 
 ### Related:

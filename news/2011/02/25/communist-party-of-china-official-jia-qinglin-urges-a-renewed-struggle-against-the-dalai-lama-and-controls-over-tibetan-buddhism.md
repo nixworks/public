@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12575470)
+1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_638778.html)
 2. [Indian Express](http://www.indianexpress.com/news/china-urges-renewed-struggle-against-dalai-lama/754706/)
-3. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_638778.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12575470)
 
 ### Related:
 

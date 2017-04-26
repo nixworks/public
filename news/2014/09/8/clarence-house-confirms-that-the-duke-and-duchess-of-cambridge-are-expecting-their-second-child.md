@@ -7,8 +7,8 @@ The Duchess of Cambridge is pregnant with her second child, Kensington Palace an
 
 ### Source:
 
-1. [Wales Online](http://www.walesonline.co.uk/news/wales-news/kate-middleton-pregnant-duchess-cambridge-7734954)
-2. [BBC](http://www.bbc.co.uk/news/uk-29108010)
+1. [BBC](http://www.bbc.co.uk/news/uk-29108010)
+2. [Wales Online](http://www.walesonline.co.uk/news/wales-news/kate-middleton-pregnant-duchess-cambridge-7734954)
 
 ### Related:
 

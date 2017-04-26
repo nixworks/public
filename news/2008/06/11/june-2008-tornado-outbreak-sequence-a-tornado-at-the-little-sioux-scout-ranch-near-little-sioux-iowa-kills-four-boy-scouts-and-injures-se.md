@@ -7,10 +7,10 @@ Four teenagers were killed and 48 others were injured after a tornado ripped thr
 
 ### Source:
 
-1. [Atlanta Journal-Constitution](http://www.ajc.com/travel/content/news/stories/2008/06/11/boy_scouts_tornado.html)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/severe_weather)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/severe_weather)
+2. [National Public Radio](http://www.npr.org/templates/story/story.php?storyId=91415289)
 3. [Des Moines Register](http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=/20080611/NEWS/80611078/0/politics)
-4. [National Public Radio](http://www.npr.org/templates/story/story.php?storyId=91415289)
+4. [Atlanta Journal-Constitution](http://www.ajc.com/travel/content/news/stories/2008/06/11/boy_scouts_tornado.html)
 
 ### Related:
 

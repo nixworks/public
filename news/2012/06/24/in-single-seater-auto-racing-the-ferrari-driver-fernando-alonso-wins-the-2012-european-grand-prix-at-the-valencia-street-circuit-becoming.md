@@ -7,8 +7,8 @@ Fernando Alonso becomes first driver of season to win two races as he reigns in 
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/sport/formulaone/2012/06/201262414533408491.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/formula1/18569752)
+1. [BBC](http://www.bbc.co.uk/sport/0/formula1/18569752)
+2. [Al Jazeera](http://www.aljazeera.com/sport/formulaone/2012/06/201262414533408491.html)
 
 ### Related:
 

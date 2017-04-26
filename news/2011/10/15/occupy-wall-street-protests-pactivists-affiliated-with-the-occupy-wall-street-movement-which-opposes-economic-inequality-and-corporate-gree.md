@@ -7,18 +7,18 @@ About 2,000 protesters with the Occupy Wall Street movement marched through New 
 
 ### Source:
 
-1. [BusinessWeek](http://www.businessweek.com/ap/financialnews/D9Q4CNR81.htm)
-2. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2016514985_globaloccupy16.html)
-3. [BusinessWeek](http://www.businessweek.com/news/2011-10-15/canadians-occupy-toronto-montreal-in-wall-street-protests.html)
-4. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-10/16/c_131193593.htm)
-5. [Times of India](http://articles.economictimes.indiatimes.com/2011-10-15/news/30283522_1_zuccotti-park-protesters-anti-austerity)
-6. [Toronto Sun](http://www.torontosun.com/2011/10/15/occupy-wall-street-protests-continue-in-nyc)
-7. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204002304576633542169585716.html)
-8. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-15319924)
-9. [Maclean's](http://www2.macleans.ca/2011/10/15/occupy-wall-st-comes-to-canada/)
-10. [BusinessWeek](http://www.businessweek.com/management/occupy-wall-street-what-businesses-need-to-know-10142011.html)
-11. [San Diego Union-Tribune](http://www.signonsandiego.com/news/2011/oct/16/corruptions-roots-are-in-washington-not-wall/)
-12. [HuffingtonPost](http://www.huffingtonpost.com/lawrence-lessig/occupywallst-then-occupyk_b_995547.html)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-10/16/c_131193593.htm)
+2. [Toronto Sun](http://www.torontosun.com/2011/10/15/occupy-wall-street-protests-continue-in-nyc)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-15319924)
+4. [HuffingtonPost](http://www.huffingtonpost.com/lawrence-lessig/occupywallst-then-occupyk_b_995547.html)
+5. [BusinessWeek](http://www.businessweek.com/ap/financialnews/D9Q4CNR81.htm)
+6. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2016514985_globaloccupy16.html)
+7. [BusinessWeek](http://www.businessweek.com/news/2011-10-15/canadians-occupy-toronto-montreal-in-wall-street-protests.html)
+8. [Times of India](http://articles.economictimes.indiatimes.com/2011-10-15/news/30283522_1_zuccotti-park-protesters-anti-austerity)
+9. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204002304576633542169585716.html)
+10. [San Diego Union-Tribune](http://www.signonsandiego.com/news/2011/oct/16/corruptions-roots-are-in-washington-not-wall/)
+11. [BusinessWeek](http://www.businessweek.com/management/occupy-wall-street-what-businesses-need-to-know-10142011.html)
+12. [Maclean's](http://www2.macleans.ca/2011/10/15/occupy-wall-st-comes-to-canada/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Clashes break out between rival Russian and Polish football fans in the Polish c
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261219153670680.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-18409776)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-18409776)
+2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261219153670680.html)
 
 ### Related:
 

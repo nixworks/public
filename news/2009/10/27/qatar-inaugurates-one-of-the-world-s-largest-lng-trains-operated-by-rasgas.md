@@ -7,9 +7,9 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ### Source:
 
-1. [Al Bawaba](http://www.albawaba.com/en/countries/Qatar/255999)
+1. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=322669&version=1&template_id=57&parent_id=56)
 2. [The Peninsula](http://www.thepeninsulaqatar.com/Display_news.asp?section=business_news&month=october2009&file=business_news2009102784553.xml)
-3. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=322669&version=1&template_id=57&parent_id=56)
+3. [Al Bawaba](http://www.albawaba.com/en/countries/Qatar/255999)
 
 ### Related:
 

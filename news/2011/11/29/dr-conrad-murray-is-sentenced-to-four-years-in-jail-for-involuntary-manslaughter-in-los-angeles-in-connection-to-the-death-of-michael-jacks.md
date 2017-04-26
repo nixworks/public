@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/jackson-doctor-sentenced-to-four-years-20111130-1o5jz.html)
-2. [CNN](http://edition.cnn.com/2011/11/29/justice/california-conrad-murray-sentencing/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2011/11/29/justice/california-conrad-murray-sentencing/index.html?eref=edition)
+2. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/jackson-doctor-sentenced-to-four-years-20111130-1o5jz.html)
 
 ### Related:
 

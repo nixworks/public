@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_573895.html)
-2. [AP via Sign On San Diego](http://www.signonsandiego.com/news/2010/sep/01/typhoon-suspends-skorean-flights-subway-kills-3/)
+1. [AP via Sign On San Diego](http://www.signonsandiego.com/news/2010/sep/01/typhoon-suspends-skorean-flights-subway-kills-3/)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_573895.html)
 
 ### Related:
 

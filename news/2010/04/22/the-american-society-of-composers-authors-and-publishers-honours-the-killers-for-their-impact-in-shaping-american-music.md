@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [Contact Music](http://www.contactmusic.com/news.nsf/story/the-killers-shape-us-music_1139966)
-2. [CBC](http://www.cbc.ca/arts/music/story/2010/04/22/ascap-songwriters-awards.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8636682.stm)
+1. [CBC](http://www.cbc.ca/arts/music/story/2010/04/22/ascap-songwriters-awards.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8636682.stm)
+3. [Contact Music](http://www.contactmusic.com/news.nsf/story/the-killers-shape-us-music_1139966)

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20091023/156570480.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a9rZA8kcGD58)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a9rZA8kcGD58)
+2. [RIA Novosti](http://en.rian.ru/russia/20091023/156570480.html)
 
 ### Related:
 

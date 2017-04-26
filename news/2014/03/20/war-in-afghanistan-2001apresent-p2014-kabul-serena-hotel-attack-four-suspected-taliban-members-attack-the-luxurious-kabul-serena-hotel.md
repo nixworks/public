@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/20/us-afghanistan-blast-idUSBREA2J06320140320)
-2. [Yahoo News](http://news.yahoo.com/least-eight-civilians-killed-kabul-hotel-attack-035801809.html;_ylt=AwrBJSAnyCtTFU8AMjLQtDMD)
+1. [Yahoo News](http://news.yahoo.com/least-eight-civilians-killed-kabul-hotel-attack-035801809.html;_ylt=AwrBJSAnyCtTFU8AMjLQtDMD)
+2. [Reuters](http://www.reuters.com/article/2014/03/20/us-afghanistan-blast-idUSBREA2J06320140320)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Seven people die after a Hawker Hunter jet crashes into several vehicles on the 
 
 ### Source:
 
-1. [News24](http://m.news24.com/news24/World/News/Seven-killed-in-British-air-show-crash-20150822)
-2. [BBC](http://www.bbc.co.uk/news/uk-34027260)
+1. [BBC](http://www.bbc.co.uk/news/uk-34027260)
+2. [News24](http://m.news24.com/news24/World/News/Seven-killed-in-British-air-show-crash-20150822)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Gambia orders all Iranian government representatives to leave within 48 hour
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11819143)
-2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6AM02M20101123)
+1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6AM02M20101123)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11819143)
 
 ### Related:
 

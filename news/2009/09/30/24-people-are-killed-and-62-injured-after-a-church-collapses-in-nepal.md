@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Church+collapse+kills+23+in+Dharan&NewsID=36045)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hVzNffNsc2FaZlJ1u8kqGkM09dUgD9B1DLPG0)
 2. [Times of India](http://timesofindia.indiatimes.com/news/world/south-asia/Church-collapse-in-Nepal-kills-24/articleshow/5070789.cms)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hVzNffNsc2FaZlJ1u8kqGkM09dUgD9B1DLPG0)
+3. [Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Church+collapse+kills+23+in+Dharan&NewsID=36045)
 
 ### Related:
 

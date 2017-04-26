@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NineMSN](http://news.ninemsn.com.au/article.aspx?id=50572)
-2. [SMH](http://www.smh.com.au/news/Music/Kylie-has-breast-cancer/2005/05/17/1116095952778.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/entertainment/music/4554035.stm)
+1. [SMH](http://www.smh.com.au/news/Music/Kylie-has-breast-cancer/2005/05/17/1116095952778.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/entertainment/music/4554035.stm)
+3. [NineMSN](http://news.ninemsn.com.au/article.aspx?id=50572)
 4. [The Age](http://www.theage.com.au/news/People/Cancer-shock-for-Kylie-Minogue/2005/05/17/1116095953030.html)
 
 ### Related:

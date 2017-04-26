@@ -7,8 +7,8 @@ The Gambian strongman Yahya Jammeh has agreed to step down, officials involved i
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-38699119)
-2. [Reuters](http://www.reuters.com/article/us-gambia-politics-army-idUSKBN154269)
+1. [Reuters](http://www.reuters.com/article/us-gambia-politics-army-idUSKBN154269)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-38699119)
 
 ### Related:
 

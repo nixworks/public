@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5haPOLjXeDSEqdjDv6nHvnXzFL1pA)
+1. [The Times](http://www.timesonline.co.uk/tol/sport/football/article7101448.ece)
 2. [Ennahar](http://www.ennaharonline.com/en/sports/3700.html)
-3. [RTÉ](http://www.rte.ie/sport/soccer/2010/0418/france.html)
-4. [The Times](http://www.timesonline.co.uk/tol/sport/football/article7101448.ece)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5haPOLjXeDSEqdjDv6nHvnXzFL1pA)
+4. [RTÉ](http://www.rte.ie/sport/soccer/2010/0418/france.html)
 
 ### Related:
 

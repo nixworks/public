@@ -7,9 +7,9 @@ A Sinn Féin spokesperson has said party President Gerry Adams has received a de
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0110/breaking28.htm)
-2. [Ireland Online](http://breakingnews.iol.ie/news/ireland/adams-receives-death-threats-from-loyalists-441397.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0110/adamsg.html)
+1. [RTÉ](http://www.rte.ie/news/2010/0110/adamsg.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0110/breaking28.htm)
+3. [Ireland Online](http://breakingnews.iol.ie/news/ireland/adams-receives-death-threats-from-loyalists-441397.html)
 
 ### Related:
 

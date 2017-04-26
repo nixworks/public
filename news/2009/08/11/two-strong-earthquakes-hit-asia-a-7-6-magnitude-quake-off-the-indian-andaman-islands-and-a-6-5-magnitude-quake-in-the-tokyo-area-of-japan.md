@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5glXHCXLgQ2pZmhzM3mB_Kwk7QlJgD9A0GSFO0)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8194563.stm)
-3. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5jJrF1aN4a3dOTIcWvvZDcyT8sugQ)
+2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5jJrF1aN4a3dOTIcWvvZDcyT8sugQ)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8194563.stm)
 
 ### Related:
 

@@ -9,8 +9,8 @@
 
 1. [AP via CNN](http://edition.cnn.com/2008/WORLD/asiapcf/03/07/malay.elex.ap/index.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2008-03/09/content_7748373.htm)
-3. [CNA](http://www.channelnewsasia.com/stories/southeastasia/view/333807/1/.html)
-4. [Gaulia](http://www.gaulia.com)
+3. [Gaulia](http://www.gaulia.com)
+4. [CNA](http://www.channelnewsasia.com/stories/southeastasia/view/333807/1/.html)
 
 ### Related:
 

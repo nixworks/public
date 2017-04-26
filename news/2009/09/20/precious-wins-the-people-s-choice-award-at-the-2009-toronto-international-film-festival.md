@@ -7,11 +7,11 @@ To mark Canada’s 150th birthday, CBC has launched a national storytelling proj
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8265281.stm)
-2. [CNN](http://money.cnn.com/news/newsfeeds/articles/reuters/MTFH37234_2009-09-19_19-43-25_N19284668.htm)
-3. [Cape Times](http://www.capetimes.co.za/index.php?fArticleId=5172323)
-4. [CBC](http://www.cbc.ca/arts/tiff/story/2009/09/19/festival-awards.html?ref=rss)
-5. [The Sydney Morning Herald](http://www.smh.com.au/news/entertainment/film/precious-snags-audience-choice-award-at-toronto-film-festival/2009/09/20/1253384897080.html)
+1. [Cape Times](http://www.capetimes.co.za/index.php?fArticleId=5172323)
+2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8265281.stm)
+3. [The Sydney Morning Herald](http://www.smh.com.au/news/entertainment/film/precious-snags-audience-choice-award-at-toronto-film-festival/2009/09/20/1253384897080.html)
+4. [CNN](http://money.cnn.com/news/newsfeeds/articles/reuters/MTFH37234_2009-09-19_19-43-25_N19284668.htm)
+5. [CBC](http://www.cbc.ca/arts/tiff/story/2009/09/19/festival-awards.html?ref=rss)
 
 ### Related:
 

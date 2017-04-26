@@ -8,8 +8,8 @@ At least 31 people are killed and dozens injured after a Syrian military aircraf
 ### Source:
 
 1. [YNET News](http://www.ynetnews.com/articles/0,7340,L-4687045,00.html)
-2. [ABC](http://www.abc.net.au/news/2015-08-03/residents-killed-after-syrian-fighter-jet-crashes-marketplace/6669744)
-3. [TC via AP](http://www.timescolonist.com/activists-say-a-syrian-warplane-crash-airstrikes-in-northwest-town-kill-and-wound-dozens-1.2019502)
+2. [TC via AP](http://www.timescolonist.com/activists-say-a-syrian-warplane-crash-airstrikes-in-northwest-town-kill-and-wound-dozens-1.2019502)
+3. [ABC](http://www.abc.net.au/news/2015-08-03/residents-killed-after-syrian-fighter-jet-crashes-marketplace/6669744)
 
 ### Related:
 

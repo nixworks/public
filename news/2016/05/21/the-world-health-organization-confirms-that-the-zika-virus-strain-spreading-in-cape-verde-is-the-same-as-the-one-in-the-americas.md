@@ -7,8 +7,8 @@ The detection has triggered more efforts to beef up surveillance and testing cap
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/health/article-3601001/Zika-strain-Americas-outbreak-spreads-Africa-time-WHO.html)
-2. [CIDRAP](http://www.cidrap.umn.edu/news-perspective/2016/05/cape-verde-zika-virus-matches-americas-strain-threatening-africa)
+1. [CIDRAP](http://www.cidrap.umn.edu/news-perspective/2016/05/cape-verde-zika-virus-matches-americas-strain-threatening-africa)
+2. [Daily Mail](http://www.dailymail.co.uk/health/article-3601001/Zika-strain-Americas-outbreak-spreads-Africa-time-WHO.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2009-03/11/content_7568707.htm)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-03/11/content_10990447.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-03/11/content_10990447.htm)
+2. [China Daily](http://www.chinadaily.com.cn/china/2009-03/11/content_7568707.htm)
 
 ### Related:
 

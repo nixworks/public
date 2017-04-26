@@ -7,8 +7,8 @@ Isn&#39;t it nice when everyone bands together for a cause? The compilation albu
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/life/music/2013/11/25/songs-for-the-philippines-album-compilation/3704555/)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-25102418)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-25102418)
+2. [USA Today](http://www.usatoday.com/story/life/music/2013/11/25/songs-for-the-philippines-album-compilation/3704555/)
 
 ### Related:
 

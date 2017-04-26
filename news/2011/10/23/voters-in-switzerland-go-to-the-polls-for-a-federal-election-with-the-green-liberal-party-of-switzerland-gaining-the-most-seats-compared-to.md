@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Global Post](http://www.globalpost.com/dispatch/news/regions/europe/111021/switzerlands-extreme-right-poised-historic-win-sunday-elections)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/oct/23/swiss-election-nationalist-party-result)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/oct/23/swiss-election-nationalist-party-result)
+2. [Global Post](http://www.globalpost.com/dispatch/news/regions/europe/111021/switzerlands-extreme-right-poised-historic-win-sunday-elections)
 
 ### Related:
 

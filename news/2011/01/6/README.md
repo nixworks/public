@@ -28,7 +28,7 @@ _Context: France, Hermès, LVMH_
 Dehra Dun: 22 killed as bus falls into gorge
 
 ### [The United States protests strongly to Vietnam after a U.S. diplomat is attacked and injured by Vietnamese police when he went to visit a detained religious dissident.](/news/2011/01/6/the-united-states-protests-strongly-to-vietnam-after-a-u-s-diplomat-is-attacked-and-injured-by-vietnamese-police-when-he-went-to-visit-a-de.md)
-_Context: United States, Vietnam_
+_Context: U.S., Vietnam_
 
 ### [South Korea dismisses an offer of unconditional talks by North Korea, saying the offer was part of a propaganda campaign. ](/news/2011/01/6/south-korea-dismisses-an-offer-of-unconditional-talks-by-north-korea-saying-the-offer-was-part-of-a-propaganda-campaign.md)
 _Context: North Korea, South Korea, propaganda_

@@ -7,8 +7,8 @@ At least five and possibly seven planets are circling the star HD 10180, some 12
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2010/08/27/science/space/27planet.html?_r=1&hp)
-2. [Christian Science Monitor](http://www.csmonitor.com/Science/Cool-Astronomy/2010/0824/Newfound-star-system-could-have-seven-planets)
+1. [Christian Science Monitor](http://www.csmonitor.com/Science/Cool-Astronomy/2010/0824/Newfound-star-system-could-have-seven-planets)
+2. [New York Times](http://www.nytimes.com/2010/08/27/science/space/27planet.html?_r=1&hp)
 
 ### Related:
 

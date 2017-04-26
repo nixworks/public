@@ -7,12 +7,12 @@ Hillary Clinton won the Nevada Democratic caucuses on Saturday, beating Bernie S
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/politics/2016-election/jeb-bush-ends-2016-presidential-campaign-n522831)
-2. [NBC News](http://www.nbcnews.com/nightly-news/video/trump-struggles-to-defend-his-support-of-iraq-war-in-2002-interview-626649667922)
-3. [AP via Boston Globe](https://www.bostonglobe.com/news/politics/2016/02/20/sanders-hopes-for-big-turnout-nevada-caucuses/woktwaDHLl6iNyPKTWfBiJ/story.html)
-4. [CNN](http://edition.cnn.com/2016/02/20/politics/republicans-south-carolina-primary-highlights/)
-5. [Fox News](http://www.foxnews.com/politics/2016/02/20/clinton-wins-nevada-caucuses-fox-news-projects.html?intcmp=hpbt1)
-6. [2016 Election Central](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/2016-south-carolina-primary/)
+1. [NBC News](http://www.nbcnews.com/nightly-news/video/trump-struggles-to-defend-his-support-of-iraq-war-in-2002-interview-626649667922)
+2. [NBC News](http://www.nbcnews.com/politics/2016-election/jeb-bush-ends-2016-presidential-campaign-n522831)
+3. [CNN](http://edition.cnn.com/2016/02/20/politics/republicans-south-carolina-primary-highlights/)
+4. [Fox News](http://www.foxnews.com/politics/2016/02/20/clinton-wins-nevada-caucuses-fox-news-projects.html?intcmp=hpbt1)
+5. [2016 Election Central](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/2016-south-carolina-primary/)
+6. [AP via Boston Globe](https://www.bostonglobe.com/news/politics/2016/02/20/sanders-hopes-for-big-turnout-nevada-caucuses/woktwaDHLl6iNyPKTWfBiJ/story.html)
 
 ### Related:
 

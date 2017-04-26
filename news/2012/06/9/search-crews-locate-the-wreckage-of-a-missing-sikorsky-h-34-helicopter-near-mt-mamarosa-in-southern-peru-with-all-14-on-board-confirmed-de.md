@@ -7,9 +7,9 @@ The wreckage of a helicopter missing in southern Peru has been found with all 14
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201269213219494779.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18383768)
-3. [Aviation Safety](http://aviation-safety.net/wikibase/wiki.php?id=146194)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18383768)
+2. [Aviation Safety](http://aviation-safety.net/wikibase/wiki.php?id=146194)
+3. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201269213219494779.html)
 
 ### Related:
 

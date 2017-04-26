@@ -7,9 +7,9 @@ Hearings began today in a libel case brought by the grandson of Joseph Stalin ag
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/grandson-sues-newspaper-for-stalin-libel-1799728.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8296902.stm)
-3. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1272849.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8296902.stm)
+2. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1272849.html)
+3. [The Independent](http://www.independent.co.uk/news/world/europe/grandson-sues-newspaper-for-stalin-libel-1799728.html)
 
 ### Related:
 

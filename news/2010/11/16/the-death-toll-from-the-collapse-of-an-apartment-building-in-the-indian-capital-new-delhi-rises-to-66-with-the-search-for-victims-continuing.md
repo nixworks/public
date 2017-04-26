@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101116/wl_asia_afp/indiaaccidentbuilding)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/16/c_13608988.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/16/c_13608988.htm)
+2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101116/wl_asia_afp/indiaaccidentbuilding)
 
 ### Related:
 

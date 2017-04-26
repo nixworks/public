@@ -7,8 +7,8 @@ A man with &quot;political and religious motives&quot; killed a soldier just out
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gQACNshVFYt6M9CDykHq6DKqPhiwD98IKUB03)
-2. [MSNBC](http://www.msnbc.msn.com/id/31048825/)
+1. [MSNBC](http://www.msnbc.msn.com/id/31048825/)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gQACNshVFYt6M9CDykHq6DKqPhiwD98IKUB03)
 
 ### Related:
 

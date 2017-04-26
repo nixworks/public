@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Rwanda Information Exchange](http://www.rwanda.net/english/News/2005/042005/news04182005c.htm)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=qw11138175033R532)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4457003.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4457003.stm)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=qw11138175033R532)
 
 ### Related:
 

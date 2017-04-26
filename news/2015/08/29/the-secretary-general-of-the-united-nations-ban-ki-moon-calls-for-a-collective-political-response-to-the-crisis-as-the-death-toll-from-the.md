@@ -7,8 +7,8 @@ The UN says &quot;much more is required&quot; to prevent fatalities among migran
 
 ### Source:
 
-1. [CTV News](http://www.ctvnews.ca/world/migrant-death-toll-rises-to-117-off-libyan-coast-185-still-missing-1.2539025)
-2. [BBC](http://www.bbc.com/news/world-europe-34092932)
+1. [BBC](http://www.bbc.com/news/world-europe-34092932)
+2. [CTV News](http://www.ctvnews.ca/world/migrant-death-toll-rises-to-117-off-libyan-coast-185-still-missing-1.2539025)
 
 ### Related:
 

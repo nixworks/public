@@ -7,9 +7,9 @@ Officials are investigating after another vehicle was shot at on Interstate 10 o
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/phoenix-sniper-strikes-again-arizona-cops-confirm-11th-freeway-shooting-n424921)
+1. [ABC 15](http://www.abc15.com/news/region-phoenix-metro/west-phoenix/dps-investigating-11th-shooting-on-phoenix-freeway)
 2. [FOX10 Phoenix](http://www.fox10phoenix.com/arizona-news/19013124-story)
-3. [ABC 15](http://www.abc15.com/news/region-phoenix-metro/west-phoenix/dps-investigating-11th-shooting-on-phoenix-freeway)
+3. [NBC News](http://www.nbcnews.com/news/us-news/phoenix-sniper-strikes-again-arizona-cops-confirm-11th-freeway-shooting-n424921)
 
 ### Related:
 

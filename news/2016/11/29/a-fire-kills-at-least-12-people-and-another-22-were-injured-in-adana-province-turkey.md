@@ -7,10 +7,10 @@ Electricity eyed in fire in which 22 others injured, hospitalized in Adana provi
 
 ### Source:
 
-1. [Anadolu Agency](http://aa.com.tr/en/turkey/dorm-fire-kills-12-in-southern-turkey/695816)
-2. [Hürriyet Daily News](http://www.hurriyetdailynews.com/eight-students-killed-in-fire-at-dormitory-in-turkeys-adana-report.aspx?pageID=238&nID=106726&NewsCatID=341)
-3. [Reuters](http://www.reuters.com/article/us-turkey-fire-idUSKBN13O2O9?il=0)
-4. [Daily Sabah](http://www.dailysabah.com/nation/2016/11/29/fire-breaks-out-in-girls-dorm-in-southern-turkey-11-students-and-one-worker-killed)
+1. [Reuters](http://www.reuters.com/article/us-turkey-fire-idUSKBN13O2O9?il=0)
+2. [Daily Sabah](http://www.dailysabah.com/nation/2016/11/29/fire-breaks-out-in-girls-dorm-in-southern-turkey-11-students-and-one-worker-killed)
+3. [Hürriyet Daily News](http://www.hurriyetdailynews.com/eight-students-killed-in-fire-at-dormitory-in-turkeys-adana-report.aspx?pageID=238&nID=106726&NewsCatID=341)
+4. [Anadolu Agency](http://aa.com.tr/en/turkey/dorm-fire-kills-12-in-southern-turkey/695816)
 
 ### Related:
 

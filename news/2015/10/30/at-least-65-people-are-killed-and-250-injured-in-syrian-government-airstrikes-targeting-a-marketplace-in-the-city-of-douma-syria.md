@@ -9,8 +9,8 @@ Another 250 people also wounded in airstrikes and missile attacks on crowded mar
 
 1. [WSJ](http://www.wsj.com/articles/at-least-50-syrians-killed-in-government-attack-1446205919)
 2. [Reuters](http://www.reuters.com/article/2015/10/30/us-mideast-crisis-syria-usa-idUSKCN0SO1VD20151030)
-3. [New York Times](http://www.nytimes.com/2015/10/31/world/obama-will-send-forces-to-syria-to-help-fight-the-islamic-state.html)
-4. [Al Jazeera via Yahoo!](https://en-maktoob.news.yahoo.com/syrians-killed-government-jets-hit-market-douma-085636034.html)
+3. [Al Jazeera via Yahoo!](https://en-maktoob.news.yahoo.com/syrians-killed-government-jets-hit-market-douma-085636034.html)
+4. [New York Times](http://www.nytimes.com/2015/10/31/world/obama-will-send-forces-to-syria-to-help-fight-the-islamic-state.html)
 5. [Reuters](http://www.reuters.com/article/2015/10/30/us-mideast-crisis-syria-missile-idUSKCN0SO0W020151030?feedType=RSS&feedName=topNews)
 
 ### Related:

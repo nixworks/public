@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2009/12/19/business/global/19saab.html)
-2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703523504574603822836080350.html?mod=WSJ_hpp_sections_business)
+1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703523504574603822836080350.html?mod=WSJ_hpp_sections_business)
+2. [New York Times](http://www.nytimes.com/2009/12/19/business/global/19saab.html)
 
 ### Related:
 

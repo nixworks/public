@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L20328587.htm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aZ8fLhzDNDts&refer=asia)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aZ8fLhzDNDts&refer=asia)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L20328587.htm)
 
 ### Related:
 

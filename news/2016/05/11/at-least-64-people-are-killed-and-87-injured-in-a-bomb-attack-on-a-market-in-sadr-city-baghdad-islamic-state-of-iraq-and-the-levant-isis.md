@@ -7,10 +7,10 @@ Furious commanders ordered the savage execution after the 45 men retreated from 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/05/11/middleeast/baghdad-market-bombing/)
-2. [Armen Press](https://armenpress.am/eng/news/846810/isis-buries-dozens-of-jihadists-alive-as-punishment-for-escaping-battlefront-near-kirkuk.html)
-3. [NY Times](http://www.nytimes.com/aponline/2016/05/11/world/middleeast/ap-ml-iraq.html?_r=0)
-4. [Mirror](http://www.mirror.co.uk/news/world-news/isis-bury-45-fighters-alive-7943328)
+1. [Armen Press](https://armenpress.am/eng/news/846810/isis-buries-dozens-of-jihadists-alive-as-punishment-for-escaping-battlefront-near-kirkuk.html)
+2. [CNN](http://edition.cnn.com/2016/05/11/middleeast/baghdad-market-bombing/)
+3. [Mirror](http://www.mirror.co.uk/news/world-news/isis-bury-45-fighters-alive-7943328)
+4. [NY Times](http://www.nytimes.com/aponline/2016/05/11/world/middleeast/ap-ml-iraq.html?_r=0)
 
 ### Related:
 

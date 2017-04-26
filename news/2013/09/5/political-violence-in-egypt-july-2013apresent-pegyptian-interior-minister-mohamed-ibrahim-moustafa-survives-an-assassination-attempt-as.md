@@ -7,8 +7,8 @@ Mohammed Ibrahim, who is charge of the country&#x27;s police force, targeted as 
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424127887323623304579056500017476432.html)
-2. [The Guardian](http://www.theguardian.com/world/2013/sep/05/egyptian-interior-minister-survives-car-bomb)
+1. [The Guardian](http://www.theguardian.com/world/2013/sep/05/egyptian-interior-minister-survives-car-bomb)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424127887323623304579056500017476432.html)
 
 ### Related:
 

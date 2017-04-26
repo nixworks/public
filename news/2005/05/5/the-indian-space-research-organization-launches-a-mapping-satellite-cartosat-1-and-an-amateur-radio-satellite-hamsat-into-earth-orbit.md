@@ -7,10 +7,10 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 
 ### Source:
 
-1. [Tribune](http://www.tribuneindia.com/2005/20050506/main2.htm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8394337)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8394337)
+2. [Hindustan Times](http://www.hindustantimes.com/2005/May/05/181_1348803,0000.htm)
 3. [Space.Com](http://www.space.com/missionlaunches/cartosat1_launch_050505.html)
-4. [Hindustan Times](http://www.hindustantimes.com/2005/May/05/181_1348803,0000.htm)
+4. [Tribune](http://www.tribuneindia.com/2005/20050506/main2.htm)
 
 ### Related:
 

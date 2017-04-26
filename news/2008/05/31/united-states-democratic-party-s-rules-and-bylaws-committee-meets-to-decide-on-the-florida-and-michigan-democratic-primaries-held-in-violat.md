@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2008-05-31-voa9.cfm)
+1. [The Guardian](http://www.guardian.co.uk/world/2008/jun/01/us.election.barack.obama.hillary.clinton.democratic.primaries)
 2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7426825.stm)
-3. [The Guardian](http://www.guardian.co.uk/world/2008/jun/01/us.election.barack.obama.hillary.clinton.democratic.primaries)
+3. [VOA](http://www.voanews.com/english/2008-05-31-voa9.cfm)
 
 ### Related:
 

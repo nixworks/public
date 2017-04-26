@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1707028,00.html)
-2. [WHO press release](http://www.who.int/csr/don/2005_05_18/en/)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L18330303.htm)
+1. [WHO press release](http://www.who.int/csr/don/2005_05_18/en/)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L18330303.htm)
+3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1707028,00.html)
 
 ### Related:
 

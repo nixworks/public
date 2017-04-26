@@ -7,9 +7,9 @@ An Argentine football club accuses Brazilian security officials of beating and p
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1262363/fifa-allays-world-cup-fears-after-brazil-violence)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-20710615)
-3. [CONMEBOL](http://fe1.conmebol.com//copanissansudamericana/Sao-Paulo-es-el-nuevo-campeon-20121212-0005.html)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20710615)
+2. [CONMEBOL](http://fe1.conmebol.com//copanissansudamericana/Sao-Paulo-es-el-nuevo-campeon-20121212-0005.html)
+3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1262363/fifa-allays-world-cup-fears-after-brazil-violence)
 
 ### Related:
 

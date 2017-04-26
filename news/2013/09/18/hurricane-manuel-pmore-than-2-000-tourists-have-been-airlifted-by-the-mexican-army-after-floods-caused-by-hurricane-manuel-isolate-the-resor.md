@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-24140473)
-2. [CNN](http://edition.cnn.com/2013/09/18/world/americas/mexico-severe-weather/index.html)
+1. [CNN](http://edition.cnn.com/2013/09/18/world/americas/mexico-severe-weather/index.html)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-24140473)
 
 ### Related:
 

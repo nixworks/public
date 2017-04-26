@@ -7,8 +7,8 @@ The Italian coast guard boarded a cargo ship abandoned by traffickers with 970 m
 
 ### Source:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/italian-coast-guard-steers-ship-with-hundreds-of-migrants-aboard-away-from-collision-course-1420028650)
-2. [eNews Channel Africa](http://www.enca.com/world/disaster-avoided-runaway-ship-stopped-italy-900-aboard)
+1. [eNews Channel Africa](http://www.enca.com/world/disaster-avoided-runaway-ship-stopped-italy-900-aboard)
+2. [Wall Street Journal](http://www.wsj.com/articles/italian-coast-guard-steers-ship-with-hundreds-of-migrants-aboard-away-from-collision-course-1420028650)
 
 ### Related:
 

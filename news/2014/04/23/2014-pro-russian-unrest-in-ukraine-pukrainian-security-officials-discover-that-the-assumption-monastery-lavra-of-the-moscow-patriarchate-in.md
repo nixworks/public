@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukraine-forces-liberate-sviatohirsk-from-armed-groups-as-anti-terror-operation-gets-underway-344823.html)
-2. [CNN](http://www.cnn.com/2014/04/23/world/europe/ukraine-crisis/index.html?hpt=wo_c1)
+1. [CNN](http://www.cnn.com/2014/04/23/world/europe/ukraine-crisis/index.html?hpt=wo_c1)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukraine-forces-liberate-sviatohirsk-from-armed-groups-as-anti-terror-operation-gets-underway-344823.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L022474.htm)
-2. [Turkish Press](http://www.turkishpress.com/news.asp?id=63422)
+1. [Turkish Press](http://www.turkishpress.com/news.asp?id=63422)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L022474.htm)
 
 ### Related:
 

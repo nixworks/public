@@ -7,9 +7,9 @@ Police in Port Moresby open fire on university students protesting against Papua
 
 ### Source:
 
-1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/305888/png-students-injured-in-police-crackdown)
-2. [ABC News](http://www.abc.net.au/news/2016-06-08/shooting-on-papua-new-guinea-university-campus/7489416)
-3. [Reuters](http://www.reuters.com/article/us-papua-protests-idUSKCN0YU2PI)
+1. [Reuters](http://www.reuters.com/article/us-papua-protests-idUSKCN0YU2PI)
+2. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/305888/png-students-injured-in-police-crackdown)
+3. [ABC News](http://www.abc.net.au/news/2016-06-08/shooting-on-papua-new-guinea-university-campus/7489416)
 
 ### Related:
 

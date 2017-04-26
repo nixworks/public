@@ -7,8 +7,8 @@ European Union officials voiced guarded optimism on Friday that Turkey was start
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-schengen-idUSKCN0W613U)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-04/eu-weighs-year-end-target-for-lifting-internal-border-controls)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-04/eu-weighs-year-end-target-for-lifting-internal-border-controls)
+2. [Reuters](http://www.reuters.com/article/us-europe-migrants-schengen-idUSKCN0W613U)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The demonstrations reflected concerns that the new chief executive, Leung Chun-y
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2012/07/02/world/asia/protesters-march-as-new-hong-kong-leader-is-sworn-in.html?pagewanted=all)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-china-18662668)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-china-18662668)
+2. [The New York Times](http://www.nytimes.com/2012/07/02/world/asia/protesters-march-as-new-hong-kong-leader-is-sworn-in.html?pagewanted=all)
 
 ### Related:
 

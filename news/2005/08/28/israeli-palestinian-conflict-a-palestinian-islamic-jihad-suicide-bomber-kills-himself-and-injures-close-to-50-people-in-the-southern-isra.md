@@ -7,10 +7,10 @@ Suicide bomber strikes outside central bus station in southern town of Be&#39;er
 
 ### Source:
 
-1. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-28T184413Z_01_KNE826563_RTRIDST_0_INTERNATIONAL-MIDEAST-DC.XML)
-2. [Ha'aretz](http://www.haaretz.com/hasen/pages/ShArtDisengagement.jhtml?itemNo=618088&contrassID=23&subContrassID=0&sbSubContrassID=1)
+1. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1125195660908)
+2. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-28T184413Z_01_KNE826563_RTRIDST_0_INTERNATIONAL-MIDEAST-DC.XML)
 3. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3134082,00.html)
-4. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1125195660908)
+4. [Ha'aretz](http://www.haaretz.com/hasen/pages/ShArtDisengagement.jhtml?itemNo=618088&contrassID=23&subContrassID=0&sbSubContrassID=1)
 5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4192208.stm)
 
 ### Related:

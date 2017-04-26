@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TRT](http://www.trtenglish.com/trtworld/en/newsDetail.aspx?HaberKodu=76f99385-78bb-4004-bb32-341933cf7906)
-2. [Reuters via Arab News](http://arabnews.com/middleeast/article88352.ece)
+1. [Reuters via Arab News](http://arabnews.com/middleeast/article88352.ece)
+2. [TRT](http://www.trtenglish.com/trtworld/en/newsDetail.aspx?HaberKodu=76f99385-78bb-4004-bb32-341933cf7906)
 
 ### Related:
 

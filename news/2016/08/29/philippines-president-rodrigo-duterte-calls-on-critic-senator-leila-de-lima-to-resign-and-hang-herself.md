@@ -7,8 +7,8 @@ The President tells the feisty lady senator that she should resign amid allegati
 
 ### Source:
 
-1. [The Daily Beast](http://www.thedailybeast.com/cheats/2016/08/29/filipino-president-there-s-no-genocide-here.html)
-2. [Rappler](http://www.rappler.com/nation/144535-president-rodrigo-duterte-senator-leila-de-lima-resign-hang-yourself)
+1. [Rappler](http://www.rappler.com/nation/144535-president-rodrigo-duterte-senator-leila-de-lima-resign-hang-yourself)
+2. [The Daily Beast](http://www.thedailybeast.com/cheats/2016/08/29/filipino-president-there-s-no-genocide-here.html)
 
 ### Related:
 

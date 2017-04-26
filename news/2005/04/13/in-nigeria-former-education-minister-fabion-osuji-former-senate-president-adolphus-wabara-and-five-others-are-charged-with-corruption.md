@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Vanguard](http://www.vanguardngr.com/articles/2002/headline/f113042005.html)
-2. [NigeriaWorld](http://nigeriaworld.com/articles/2005/apr/112.html)
+1. [NigeriaWorld](http://nigeriaworld.com/articles/2005/apr/112.html)
+2. [Vanguard](http://www.vanguardngr.com/articles/2002/headline/f113042005.html)
 
 ### Related:
 

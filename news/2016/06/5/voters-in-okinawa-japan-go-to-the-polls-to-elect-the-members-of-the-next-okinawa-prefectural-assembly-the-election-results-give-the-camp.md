@@ -7,9 +7,9 @@ Okinawa&#039;s anti-base faction retained and slightly increased its majority in
 
 ### Source:
 
-1. [Nikkei Asian Review](http://asia.nikkei.com/Politics-Economy/International-Relations/Anti-U.S.-base-relocation-bloc-gains-majority-in-Okinawa-election)
+1. [Japan Times](http://www.japantimes.co.jp/news/2016/06/05/national/politics-diplomacy/okinawans-vote-assembly-poll-focused-almost-exclusively-u-s-base-issues/)
 2. [Kyodo](http://english.kyodonews.jp/news/2016/06/415111.html)
-3. [Japan Times](http://www.japantimes.co.jp/news/2016/06/05/national/politics-diplomacy/okinawans-vote-assembly-poll-focused-almost-exclusively-u-s-base-issues/)
+3. [Nikkei Asian Review](http://asia.nikkei.com/Politics-Economy/International-Relations/Anti-U.S.-base-relocation-bloc-gains-majority-in-Okinawa-election)
 
 ### Related:
 

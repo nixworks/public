@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2015/08/18/world/asia/indonesia-says-crash-site-of-missing-plane-found-in-papua-province.html?partner=rss&emc=rss&_r=0)
-2. [CNN via Twitter](https://twitter.com/cnnbrk/status/633495803890372609)
+1. [CNN via Twitter](https://twitter.com/cnnbrk/status/633495803890372609)
+2. [The New York Times](http://www.nytimes.com/2015/08/18/world/asia/indonesia-says-crash-site-of-missing-plane-found-in-papua-province.html?partner=rss&emc=rss&_r=0)
 
 ### Related:
 

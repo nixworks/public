@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4135670.stm)
-2. [German press release](http://idw-online.de/pages/de/news123914)
+1. [German press release](http://idw-online.de/pages/de/news123914)
+2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4135670.stm)

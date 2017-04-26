@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [the Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5164675,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4712249.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4712249.stm)
+2. [the Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5164675,00.html)
 
 ### Related:
 

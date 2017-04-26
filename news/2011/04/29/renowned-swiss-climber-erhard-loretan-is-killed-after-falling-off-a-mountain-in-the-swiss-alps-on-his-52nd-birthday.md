@@ -7,5 +7,5 @@ Swiss climber Erhard Loretan, who reached the summits of all 14 mountain peaks a
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-13235979)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/apr/29/swiss-mountaineer-erhard-loretan-dies)
+1. [The Guardian](http://www.guardian.co.uk/world/2011/apr/29/swiss-mountaineer-erhard-loretan-dies)
+2. [BBC](http://www.bbc.co.uk/news/world-13235979)

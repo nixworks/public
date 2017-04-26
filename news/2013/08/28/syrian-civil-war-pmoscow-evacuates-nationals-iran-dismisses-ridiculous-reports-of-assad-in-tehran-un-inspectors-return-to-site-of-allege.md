@@ -7,18 +7,18 @@ Moscow evacuates nationals; Iran dismisses &#8216;ridiculous&#8217; reports of A
 
 ### Source:
 
-1. [Fars News](http://english.farsnews.com/newstext.aspx?nn=13920606000908)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-23861895)
+1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10272380/Syrias-UN-ambassador-accuses-Britain-of-conspiring-with-rebels-in-chemical-weapons-attack.html)
+2. [Itar Tass](http://pda.itar-tass.com/en/c32/856318.html)
 3. [BBC](http://www.bbc.co.uk/news/uk-23864016)
-4. [Reuters](http://www.reuters.com/article/2013/08/28/us-syria-crisis-strike-civilians-idUSBRE97R0UJ20130828)
-5. [BBC](http://www.bbc.co.uk/news/uk-23870810)
-6. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10272380/Syrias-UN-ambassador-accuses-Britain-of-conspiring-with-rebels-in-chemical-weapons-attack.html)
-7. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/201382825511534906.html)
-8. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.543986)
-9. [The Times Of Israel](http://www.timesofisrael.com/syria-said-to-clear-out-security-installations-ahead-of-attack/)
-10. [Reuters](http://www.reuters.com/article/2013/08/28/us-syria-crisis-brahimi-idUSBRE97R0EW20130828)
-11. [Reuters](http://www.reuters.com/article/2013/08/28/us-syria-crisis-europe-idUSBRE97R0N220130828)
-12. [Itar Tass](http://pda.itar-tass.com/en/c32/856318.html)
+4. [The Times Of Israel](http://www.timesofisrael.com/syria-said-to-clear-out-security-installations-ahead-of-attack/)
+5. [Reuters](http://www.reuters.com/article/2013/08/28/us-syria-crisis-europe-idUSBRE97R0N220130828)
+6. [Fars News](http://english.farsnews.com/newstext.aspx?nn=13920606000908)
+7. [BBC](http://www.bbc.co.uk/news/world-middle-east-23861895)
+8. [BBC](http://www.bbc.co.uk/news/uk-23870810)
+9. [Reuters](http://www.reuters.com/article/2013/08/28/us-syria-crisis-brahimi-idUSBRE97R0EW20130828)
+10. [Reuters](http://www.reuters.com/article/2013/08/28/us-syria-crisis-strike-civilians-idUSBRE97R0UJ20130828)
+11. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/201382825511534906.html)
+12. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.543986)
 
 ### Related:
 

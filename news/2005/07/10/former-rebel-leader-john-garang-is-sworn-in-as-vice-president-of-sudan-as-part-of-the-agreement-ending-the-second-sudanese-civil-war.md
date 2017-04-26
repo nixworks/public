@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sudan Tribune](http://www.sudantribune.com/article.php3?id_article=10548)
-2. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2005/07/10/former_enemies_sign_new_sudanese_constitution/)
+1. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2005/07/10/former_enemies_sign_new_sudanese_constitution/)
+2. [Sudan Tribune](http://www.sudantribune.com/article.php3?id_article=10548)
 
 ### Related:
 

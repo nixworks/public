@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsus/Quakes/us2009jwbh.php)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8182554.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8182554.stm)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsus/Quakes/us2009jwbh.php)
 
 ### Related:
 

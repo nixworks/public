@@ -7,8 +7,8 @@ Thousands of people have taken to the streets of Kuala Lumpur in protest at laws
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0801/malaysia.html)
-2. [Malaysian Insider](http://www.themalaysianinsider.com/index.php/malaysia/33970-beatings-tear-gas-and-water-cannons-a-setback-for-najibs-reforms)
+1. [Malaysian Insider](http://www.themalaysianinsider.com/index.php/malaysia/33970-beatings-tear-gas-and-water-cannons-a-setback-for-najibs-reforms)
+2. [RTÉ](http://www.rte.ie/news/2009/0801/malaysia.html)
 
 ### Related:
 

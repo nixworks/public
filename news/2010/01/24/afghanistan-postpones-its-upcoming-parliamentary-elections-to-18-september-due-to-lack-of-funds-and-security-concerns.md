@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jan/24/afghanistan-elections)
-2. [The New York Times](http://www.nytimes.com/2010/01/25/world/asia/25afghan.html)
+1. [The New York Times](http://www.nytimes.com/2010/01/25/world/asia/25afghan.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/24/afghanistan-elections)
 
 ### Related:
 

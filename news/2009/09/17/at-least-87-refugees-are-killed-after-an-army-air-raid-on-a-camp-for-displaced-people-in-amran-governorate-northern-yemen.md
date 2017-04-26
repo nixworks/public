@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=441164)
-2. [Saba](http://www.sabanews.net/en/news193895.htm)
+1. [Saba](http://www.sabanews.net/en/news193895.htm)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=441164)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8260414.stm)
 4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/2009917172952710277.html)
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20100510-269084/Poll-success-awaited-more-than-winners)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8671673.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8671673.stm)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20100510-269084/Poll-success-awaited-more-than-winners)
 
 ### Related:
 

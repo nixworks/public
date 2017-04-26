@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/europe/10/20/vatican.anglican.church/index.html?iref=mpstoryview)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8316120.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8316120.stm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/europe/10/20/vatican.anglican.church/index.html?iref=mpstoryview)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Text of Speech](http://rawstory.com/news/2005/Text_of_Gore_speech_0116.html)
-2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/nation/3590307.html)
+1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/nation/3590307.html)
+2. [Text of Speech](http://rawstory.com/news/2005/Text_of_Gore_speech_0116.html)
 
 ### Related:
 

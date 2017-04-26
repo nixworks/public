@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hfGgXfY6vlq6-6sehqLlLEkrFgfA?docId=CNG.49bcc0089441faaa25bb3c6e28cc4338.2a1&hl=en)
-2. [NineMSN](http://news.ninemsn.com.au/world/2013/09/18/02/45/rwanda-s-ruling-party-wins-landslide-vote)
+1. [NineMSN](http://news.ninemsn.com.au/world/2013/09/18/02/45/rwanda-s-ruling-party-wins-landslide-vote)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hfGgXfY6vlq6-6sehqLlLEkrFgfA?docId=CNG.49bcc0089441faaa25bb3c6e28cc4338.2a1&hl=en)
 
 ### Related:
 

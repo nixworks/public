@@ -7,9 +7,9 @@ It took two agonising hours for the magistrate to deliver his verdict, but when 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/22/uk-safrica-pistorius-idUKBRE91K06L20130222)
+1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/22/oscar-pistorius-released-on-bail)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/oscar-pistorius/9888716/Oscar-Pistorius-bailed-Paralympian-freed-pending-trial-over-Reeva-Steenkamps-death.html)
-3. [The Guardian](http://www.guardian.co.uk/world/2013/feb/22/oscar-pistorius-released-on-bail)
+3. [Reuters](http://www.reuters.com/article/2013/02/22/uk-safrica-pistorius-idUKBRE91K06L20130222)
 
 ### Related:
 

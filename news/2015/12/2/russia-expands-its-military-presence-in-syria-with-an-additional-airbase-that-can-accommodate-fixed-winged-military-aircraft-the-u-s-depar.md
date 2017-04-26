@@ -7,8 +7,8 @@ Russia has expanded its military operations in Syria to include a second airbase
 
 ### Source:
 
-1. [Military Times](http://www.militarytimes.com/story/military/pentagon/2015/11/30/new-russian-surface--air-missiles-syria-dod-confirms/76567120/)
-2. [Fox News](http://www.foxnews.com/politics/2015/12/01/russia-adding-2nd-airbase-in-syria-pursuing-expansion-in-military-campaign.html)
+1. [Fox News](http://www.foxnews.com/politics/2015/12/01/russia-adding-2nd-airbase-in-syria-pursuing-expansion-in-military-campaign.html)
+2. [Military Times](http://www.militarytimes.com/story/military/pentagon/2015/11/30/new-russian-surface--air-missiles-syria-dod-confirms/76567120/)
 
 ### Related:
 

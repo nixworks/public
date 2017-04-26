@@ -7,8 +7,8 @@ Finance ministers from the G20 leading economies agree reforms of the Internatio
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-11612701)
-2. [Reuters  via Yahoo! News](http://ca.news.yahoo.com/s/reuters/101023/n_top_news/cnews_us_g20)
+1. [Reuters  via Yahoo! News](http://ca.news.yahoo.com/s/reuters/101023/n_top_news/cnews_us_g20)
+2. [BBC](http://www.bbc.co.uk/news/business-11612701)
 
 ### Related:
 

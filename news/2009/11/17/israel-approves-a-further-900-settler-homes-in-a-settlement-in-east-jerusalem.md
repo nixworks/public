@@ -7,9 +7,9 @@ Israel has risked angering its US allies by approving the construction of 900 mo
 
 ### Source:
 
-1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/6591257/Israel-approves-900-more-settler-homes.html)
-2. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/11/17/1009255/900-housing-units-approved-in-gilo)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-11/18/content_12478628.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-11/18/content_12478628.htm)
+2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/6591257/Israel-approves-900-more-settler-homes.html)
+3. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/11/17/1009255/900-housing-units-approved-in-gilo)
 
 ### Related:
 

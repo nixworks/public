@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Gulf News](http://www.gulfnews.com/region/Bahrain/10085297.html)
-2. [Reuters via CNN](http://edition.cnn.com/2006/WORLD/meast/11/26/bahrain.elections.reut/)
+1. [Reuters via CNN](http://edition.cnn.com/2006/WORLD/meast/11/26/bahrain.elections.reut/)
+2. [Gulf News](http://www.gulfnews.com/region/Bahrain/10085297.html)
 
 ### Related:
 

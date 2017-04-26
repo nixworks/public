@@ -7,8 +7,8 @@ Saying President Obama &ldquo;has failed America,&rdquo; former Massachusetts go
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/politics/mitt-romney-announces-2012-presidential-bid/2011/06/02/AG05iJHH_story.html?wpisrc=al_national)
-2. [Time](http://swampland.time.com/2011/06/02/the-frontrunner-makes-it-official-mitt-romney-targets-obama-acts-like-himself/)
+1. [Time](http://swampland.time.com/2011/06/02/the-frontrunner-makes-it-official-mitt-romney-targets-obama-acts-like-himself/)
+2. [Washington Post](http://www.washingtonpost.com/politics/mitt-romney-announces-2012-presidential-bid/2011/06/02/AG05iJHH_story.html?wpisrc=al_national)
 
 ### Related:
 

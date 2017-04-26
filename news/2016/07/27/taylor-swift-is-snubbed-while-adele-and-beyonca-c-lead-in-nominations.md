@@ -7,8 +7,8 @@ If winning an MTV Video Music Award was a squad goal for Taylor Swift this year,
 
 ### Source:
 
-1. [The Washington Times](http://www.washingtontimes.com/news/2016/jul/27/taylor-swift-fails-get-nominated-mtv-video-music-a/)
-2. [Billboard](http://www.billboard.com/articles/events/vma/7453279/beyonce-adele-lead-nominees-2016-mtv-video-music-awards)
+1. [Billboard](http://www.billboard.com/articles/events/vma/7453279/beyonce-adele-lead-nominees-2016-mtv-video-music-awards)
+2. [The Washington Times](http://www.washingtontimes.com/news/2016/jul/27/taylor-swift-fails-get-nominated-mtv-video-music-a/)
 
 ### Related:
 

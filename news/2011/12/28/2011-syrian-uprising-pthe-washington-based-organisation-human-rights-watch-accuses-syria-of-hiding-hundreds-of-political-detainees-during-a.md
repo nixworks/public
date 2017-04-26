@@ -7,8 +7,8 @@ Syria releases 755 people detained in the nine-month uprising against President 
 
 ### Source:
 
-1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2011/11/52/HRW,9eb0bb74-939a-4677-bd52-dfbe1eab4e07.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-16346354)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16346354)
+2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2011/11/52/HRW,9eb0bb74-939a-4677-bd52-dfbe1eab4e07.html)
 
 ### Related:
 

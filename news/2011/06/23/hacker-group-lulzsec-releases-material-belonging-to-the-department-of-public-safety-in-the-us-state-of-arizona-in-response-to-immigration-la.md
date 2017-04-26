@@ -7,8 +7,8 @@ Hacker collective of the moment LulzSec has just released a torrent of data it c
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110623-714031.html)
-2. [Tech Crunch](http://techcrunch.com/2011/06/23/lulzsec-releases-arizona-law-enforcement-data-in-retaliation-for-immigration-law/)
+1. [Tech Crunch](http://techcrunch.com/2011/06/23/lulzsec-releases-arizona-law-enforcement-data-in-retaliation-for-immigration-law/)
+2. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110623-714031.html)
 
 ### Related:
 

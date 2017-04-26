@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_615772.html)
-2. [Jakarta Globe](http://www.thejakartaglobe.com/indonesia/prison-time-for-aceh-terror-suspects/412795)
+1. [Jakarta Globe](http://www.thejakartaglobe.com/indonesia/prison-time-for-aceh-terror-suspects/412795)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_615772.html)
 
 ### Related:
 

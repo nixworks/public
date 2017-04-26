@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/155897/burma-judges-reject-suu-kyi-appeal-lawyers)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-10/02/content_12172788.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-10/02/content_12172788.htm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/155897/burma-judges-reject-suu-kyi-appeal-lawyers)
 
 ### Related:
 

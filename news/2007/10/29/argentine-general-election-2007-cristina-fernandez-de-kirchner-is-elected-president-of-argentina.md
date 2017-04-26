@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Argentina results](http://www.resultados2007.gov.ar/paginas/f_top.htm)
-2. [CNN](http://www.cnn.com/2007/WORLD/americas/10/29/argentina.election.cnn/index.html)
+1. [CNN](http://www.cnn.com/2007/WORLD/americas/10/29/argentina.election.cnn/index.html)
+2. [Argentina results](http://www.resultados2007.gov.ar/paginas/f_top.htm)
 
 ### Related:
 

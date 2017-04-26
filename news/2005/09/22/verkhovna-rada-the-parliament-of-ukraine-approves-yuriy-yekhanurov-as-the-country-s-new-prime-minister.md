@@ -7,11 +7,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2005-09-22-voa22.cfm)
-2. [CNN](http://edition.cnn.com/2005/WORLD/europe/09/22/ukraine.pm.ap/)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4270694.stm)
-4. [CBC](http://www.cbc.ca/world/story/2005/09/22/Ukraine_PM20050922.html)
-5. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-09-22T135300Z_01_SCH233287_RTRUKOC_0_US-UKRAINE-VOTE.xml&archived=False)
+1. [CNN](http://edition.cnn.com/2005/WORLD/europe/09/22/ukraine.pm.ap/)
+2. [VOA](http://www.voanews.com/english/2005-09-22-voa22.cfm)
+3. [CBC](http://www.cbc.ca/world/story/2005/09/22/Ukraine_PM20050922.html)
+4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-09-22T135300Z_01_SCH233287_RTRUKOC_0_US-UKRAINE-VOTE.xml&archived=False)
+5. [BBC](http://news.bbc.co.uk/2/hi/europe/4270694.stm)
 
 ### Related:
 

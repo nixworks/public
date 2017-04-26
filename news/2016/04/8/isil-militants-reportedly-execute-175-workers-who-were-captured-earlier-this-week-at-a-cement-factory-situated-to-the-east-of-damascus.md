@@ -7,8 +7,8 @@ Islamic State militants have killed 175 workers who were captured at a cement fa
 
 ### Source:
 
-1. [RT](https://www.rt.com/news/338886-isis-massacre-cement-plant/)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-3529698/ISIS-massacred-175-300-cement-workers-kidnapped-outside-Syrian-capital-Damascus-government-claims.html)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-3529698/ISIS-massacred-175-300-cement-workers-kidnapped-outside-Syrian-capital-Damascus-government-claims.html)
+2. [RT](https://www.rt.com/news/338886-isis-massacre-cement-plant/)
 
 ### Related:
 

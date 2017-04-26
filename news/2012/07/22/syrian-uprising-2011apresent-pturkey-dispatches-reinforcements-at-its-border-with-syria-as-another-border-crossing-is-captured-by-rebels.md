@@ -8,10 +8,10 @@ Four Syrian refugees and four members of the Turkish security forces were hurt o
 ### Source:
 
 1. [Al-Jazeera](http://blogs.aljazeera.com/topic/syria/qatar-arab-nations-call-syrias-assad-step-down)
-2. [The Guardian](http://www.guardian.co.uk/world/2012/jul/22/syria-battle-blazes-damascus-aleppo?newsfeed=true)
-3. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2254156&language=en)
-4. [Rudaw](http://www.rudaw.net/english/news/syria/4984.html)
-5. [Reuters](http://www.reuters.com/article/2012/07/22/us-turkey-syria-refugees-idUSBRE86L0J020120722)
+2. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2254156&language=en)
+3. [The Guardian](http://www.guardian.co.uk/world/2012/jul/22/syria-battle-blazes-damascus-aleppo?newsfeed=true)
+4. [Reuters](http://www.reuters.com/article/2012/07/22/us-turkey-syria-refugees-idUSBRE86L0J020120722)
+5. [Rudaw](http://www.rudaw.net/english/news/syria/4984.html)
 6. [The Daily Telegraph'' via ''The Vancouver Sun](http://www.vancouversun.com/news/Assad+forces+regain+control+Damascus/6974193/story.html)
 
 ### Related:

@@ -7,8 +7,8 @@ Charaffe al Mouadan grew up with one of the Paris attackers, a French newspaper 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2015/12/29/airstrike-kills-islamic-state-leader-in-syria-with-direct-tie-to-the-paris-attacks-u-s-military-says/?wpmm=1&wpisrc=nl_evening)
-2. [International Business Times](http://www.ibtimes.com/who-charaffe-al-mouadan-islamic-state-leader-killed-anti-isis-syria-airstrikes-linked-2242857)
+1. [International Business Times](http://www.ibtimes.com/who-charaffe-al-mouadan-islamic-state-leader-killed-anti-isis-syria-airstrikes-linked-2242857)
+2. [The Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2015/12/29/airstrike-kills-islamic-state-leader-in-syria-with-direct-tie-to-the-paris-attacks-u-s-military-says/?wpmm=1&wpisrc=nl_evening)
 
 ### Related:
 

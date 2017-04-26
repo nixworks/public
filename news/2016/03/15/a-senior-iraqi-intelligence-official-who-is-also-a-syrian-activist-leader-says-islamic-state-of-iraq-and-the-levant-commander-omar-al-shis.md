@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2016/03/15/world/middleeast/omar-chechen-isis-killed-us-airstrike-syria.html?ribbon-ad-idx=3&rref=world&module=ArrowsNav&contentCollection=Middle%20East&action=keypress&region=FixedRight&pgtype=article)
-2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-islamic-state-leader-dead-20160315-story.html)
-3. [Reuters via Swiss Broadcasting Corporation](http://www.swissinfo.ch/eng/reuters/islamic-state-s-shishani-unhurt---amaq-news-agency/42023042)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-islamic-state-leader-dead-20160315-story.html)
+2. [Reuters via Swiss Broadcasting Corporation](http://www.swissinfo.ch/eng/reuters/islamic-state-s-shishani-unhurt---amaq-news-agency/42023042)
+3. [New York Times](http://www.nytimes.com/2016/03/15/world/middleeast/omar-chechen-isis-killed-us-airstrike-syria.html?ribbon-ad-idx=3&rref=world&module=ArrowsNav&contentCollection=Middle%20East&action=keypress&region=FixedRight&pgtype=article)
 
 ### Related:
 

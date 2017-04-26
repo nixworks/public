@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Mail & Guardian](http://www.mg.co.za/article/2010-04-21-newborn-baby-among-those-killed-in-luxury-train-accident)
+1. [News24](http://www.news24.com/SouthAfrica/News/Carnage-at-train-derailment-scene-20100421)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8635303.stm)
-3. [News24](http://www.news24.com/SouthAfrica/News/Carnage-at-train-derailment-scene-20100421)
+3. [Mail & Guardian](http://www.mg.co.za/article/2010-04-21-newborn-baby-among-those-killed-in-luxury-train-accident)
 
 ### Related:
 

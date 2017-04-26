@@ -7,8 +7,8 @@ The fighters are expanding their reach in a nearly lawless region of southern Ye
 
 ### Source:
 
-1. [AP via ''Richmond Times-Dispatch](http://www2.timesdispatch.com/news/2011/jun/15/TDMAIN04-us-building-air-base-in-persian-gulf-ar-1108847/)
-2. [AP via ''USA Today](http://www.usatoday.com/news/world/2011-06-15-yemen-militants-attack_n.htm)
+1. [AP via ''USA Today](http://www.usatoday.com/news/world/2011-06-15-yemen-militants-attack_n.htm)
+2. [AP via ''Richmond Times-Dispatch](http://www2.timesdispatch.com/news/2011/jun/15/TDMAIN04-us-building-air-base-in-persian-gulf-ar-1108847/)
 
 ### Related:
 

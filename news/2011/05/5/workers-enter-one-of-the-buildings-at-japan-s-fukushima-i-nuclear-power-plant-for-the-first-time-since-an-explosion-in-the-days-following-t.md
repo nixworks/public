@@ -7,8 +7,8 @@ Workers entered a reactor building at the Fukushima Daiichi nuclear power plant 
 
 ### Source:
 
-1. [AP via MSNBC](http://www.msnbc.msn.com/id/42909102)
-2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/05/japan.nuclear.reactors/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/05/japan.nuclear.reactors/index.html)
+2. [AP via MSNBC](http://www.msnbc.msn.com/id/42909102)
 
 ### Related:
 

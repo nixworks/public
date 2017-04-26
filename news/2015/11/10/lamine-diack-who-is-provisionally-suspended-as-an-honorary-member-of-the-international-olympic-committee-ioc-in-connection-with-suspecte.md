@@ -7,8 +7,8 @@ Former global athletics chief Lamine Diack, who is under investigation in France
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/10/us-athletics-corruption-diack-idUSKCN0SZ2UZ20151110#GdORZmmvUFWh8YPI.97)
-2. [BBC](http://www.bbc.com/sport/0/athletics/34782521)
+1. [BBC](http://www.bbc.com/sport/0/athletics/34782521)
+2. [Reuters](http://www.reuters.com/article/2015/11/10/us-athletics-corruption-diack-idUSKCN0SZ2UZ20151110#GdORZmmvUFWh8YPI.97)
 
 ### Related:
 

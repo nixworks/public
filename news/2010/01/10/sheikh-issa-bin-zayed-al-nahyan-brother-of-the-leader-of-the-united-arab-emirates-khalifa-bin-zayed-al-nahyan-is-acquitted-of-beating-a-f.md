@@ -8,8 +8,8 @@ A brother of the president of the United Arab Emirates filmed beating up a forme
 ### Source:
 
 1. [Al-Bawaba](http://www.albawaba.com/en/news/259121)
-2. [Reuters](http://www.reuters.com/article/idUSTRE60911O20100110)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/unitedarabemirates/6962779/UAE-presidents-brother-acquitted-of-attack-on-businessman.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/unitedarabemirates/6962779/UAE-presidents-brother-acquitted-of-attack-on-businessman.html)
+3. [Reuters](http://www.reuters.com/article/idUSTRE60911O20100110)
 
 ### Related:
 

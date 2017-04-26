@@ -7,8 +7,8 @@ Wikileaks begins releasing more than two million emails it dubs the &quot;Syria 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/07/05/world/meast/uk-syria-wikileaks/index.html?hpt=wo_c2)
-2. [BBC News](http://www.bbc.co.uk/news/world-middle-east-18724328)
+1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-18724328)
+2. [CNN](http://www.cnn.com/2012/07/05/world/meast/uk-syria-wikileaks/index.html?hpt=wo_c2)
 
 ### Related:
 

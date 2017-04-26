@@ -7,9 +7,9 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 
 ### Source:
 
-1. [The Sofia Echo](http://www.sofiaecho.com/2009/10/10/626014_turkey-armenia-sign-deal-on-normalising-relations)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/20091010181935891322.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8299712.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/20091010181935891322.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8299712.stm)
+3. [The Sofia Echo](http://www.sofiaecho.com/2009/10/10/626014_turkey-armenia-sign-deal-on-normalising-relations)
 
 ### Related:
 

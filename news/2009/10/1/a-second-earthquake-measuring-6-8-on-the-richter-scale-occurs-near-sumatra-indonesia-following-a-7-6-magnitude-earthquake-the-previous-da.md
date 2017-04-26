@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8284208.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=a0QIZstJ7gLo)
-3. [Reuters](http://www.alertnet.org/thenews/newsdesk/N30356850.htm)
-4. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26150705-601,00.html)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/N30356850.htm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8284208.stm)
+3. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26150705-601,00.html)
+4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=a0QIZstJ7gLo)
 
 ### Related:
 

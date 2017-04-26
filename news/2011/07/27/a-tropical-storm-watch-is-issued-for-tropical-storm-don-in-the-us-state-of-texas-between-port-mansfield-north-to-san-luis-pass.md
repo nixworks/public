@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Houston Chronicle](http://www.chron.com/news/specials/hurricane/)
-2. [National Hurricane Centre](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/272053.shtml)
+1. [National Hurricane Centre](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/272053.shtml)
+2. [AP via ''Houston Chronicle](http://www.chron.com/news/specials/hurricane/)
 
 ### Related:
 

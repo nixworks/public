@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8507519.stm)
-2. [The Moscow Times](http://www.themoscowtimes.com/arts_n_ideas/article/nizhny-museum-backs-jailed-uzbek-photographer/399388.html)
+1. [The Moscow Times](http://www.themoscowtimes.com/arts_n_ideas/article/nizhny-museum-backs-jailed-uzbek-photographer/399388.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8507519.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The latest forecast from the center said Erika is expected to weaken and could e
 
 ### Source:
 
-1. [Relief Web](http://reliefweb.int/report/cuba/tropical-storm-erika-drenches-parched-cuba)
-2. [Deutsche Welle](http://www.dw.com/en/tropical-storm-erika-drenches-cuba-after-wreaking-havoc-on-dominica/a-18681783)
+1. [Deutsche Welle](http://www.dw.com/en/tropical-storm-erika-drenches-cuba-after-wreaking-havoc-on-dominica/a-18681783)
+2. [Relief Web](http://reliefweb.int/report/cuba/tropical-storm-erika-drenches-parched-cuba)
 3. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/DDHHMM.shtml?)
 4. [WTSP](http://www.wtsp.com/story/weather/2015/08/28/florida--erikas-path/71293898/)
 

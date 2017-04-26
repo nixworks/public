@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2015/11/12/europe/europe-terror-plots-arrests/)
-2. [The Local](http://www.thelocal.it/20151112/italy-announces-swoop-on-jihadist-network)
-3. [NBC News](http://www.nbcnews.com/storyline/isis-uncovered/16-isis-linked-suspects-held-europe-wide-sweep-italy-officials-n461931)
+2. [NBC News](http://www.nbcnews.com/storyline/isis-uncovered/16-isis-linked-suspects-held-europe-wide-sweep-italy-officials-n461931)
+3. [The Local](http://www.thelocal.it/20151112/italy-announces-swoop-on-jihadist-network)
 
 ### Related:
 

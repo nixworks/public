@@ -7,9 +7,9 @@ Coalition leader Denis Napthine has conceded defeat and announced that he will b
 
 ### Source:
 
-1. [News.com.au](http://www.news.com.au/national/victorian-election-daniel-andrews-and-labor-win-victorian-state-election/story-fncynjr2-1227139023353)
-2. [The Age](http://www.theage.com.au/victoria/victoria-state-election-2014/victoria-state-election-2014-denis-napthine-concedes-defeat-20141129-11wwfi.html)
-3. [BBC](http://www.bbc.co.uk/news/world-australia-30240932)
+1. [BBC](http://www.bbc.co.uk/news/world-australia-30240932)
+2. [News.com.au](http://www.news.com.au/national/victorian-election-daniel-andrews-and-labor-win-victorian-state-election/story-fncynjr2-1227139023353)
+3. [The Age](http://www.theage.com.au/victoria/victoria-state-election-2014/victoria-state-election-2014-denis-napthine-concedes-defeat-20141129-11wwfi.html)
 4. [Bloomberg News](http://www.bloomberg.com/news/2014-11-29/abbott-s-coalition-loses-government-in-victoria-state-election.html)
 
 ### Related:

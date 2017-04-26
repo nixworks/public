@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE67J03420100820)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11035154)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11035154)
+2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE67J03420100820)
 
 ### Related:
 

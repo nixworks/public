@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ESPN](http://espn.go.com/college-football/story/_/id/8159195/report-says-penn-state-nittany-lions-senior-officials-disregarded-children-welfare)
-2. [CNN](http://edition.cnn.com/2012/07/12/us/pennsylvania-penn-state-paterno/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2012/07/12/us/pennsylvania-penn-state-paterno/index.html?eref=edition)
+2. [ESPN](http://espn.go.com/college-football/story/_/id/8159195/report-says-penn-state-nittany-lions-senior-officials-disregarded-children-welfare)
 
 ### Related:
 

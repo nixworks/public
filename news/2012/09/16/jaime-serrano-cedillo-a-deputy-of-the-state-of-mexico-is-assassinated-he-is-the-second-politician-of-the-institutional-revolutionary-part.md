@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/the_americas/state-legislator-killed-in-mexico-state-2nd-pri-politician-slain-in-2-days/2012/09/16/c06c98f6-004b-11e2-bbf0-e33b4ee2f0e8_story.html)
-2. [The Washington Post](http://www.washingtonpost.com/world/the_americas/17-mutilated-bodies-found-on-farm-in-central-mexico/2012/09/16/665f8a26-002d-11e2-bbf0-e33b4ee2f0e8_story.html)
+1. [The Washington Post](http://www.washingtonpost.com/world/the_americas/17-mutilated-bodies-found-on-farm-in-central-mexico/2012/09/16/665f8a26-002d-11e2-bbf0-e33b4ee2f0e8_story.html)
+2. [The Washington Post](http://www.washingtonpost.com/world/the_americas/state-legislator-killed-in-mexico-state-2nd-pri-politician-slain-in-2-days/2012/09/16/c06c98f6-004b-11e2-bbf0-e33b4ee2f0e8_story.html)
 
 ### Related:
 

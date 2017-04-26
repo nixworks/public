@@ -7,9 +7,9 @@ Dublin Zoo is offering free entry to &quot;any type of red haired child under 16
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11742283)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1112/1224283151974.html)
-3. [Irish Independent](http://www.independent.ie/national-news/zoo-wants-children-to-go-ape-for-orangutan-drive-2417357.html)
+1. [Irish Independent](http://www.independent.ie/national-news/zoo-wants-children-to-go-ape-for-orangutan-drive-2417357.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11742283)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1112/1224283151974.html)
 
 ### Related:
 

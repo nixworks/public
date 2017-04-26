@@ -8,9 +8,9 @@ The leaders of Colombia and Venezuela met in an effort to repair relations that 
 ### Source:
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/41923)
-2. [The New York Times](http://www.nytimes.com/2010/08/11/world/americas/11venez.html)
-3. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201081023312716697.html)
-4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13441557.htm)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13441557.htm)
+3. [The New York Times](http://www.nytimes.com/2010/08/11/world/americas/11venez.html)
+4. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201081023312716697.html)
 
 ### Related:
 

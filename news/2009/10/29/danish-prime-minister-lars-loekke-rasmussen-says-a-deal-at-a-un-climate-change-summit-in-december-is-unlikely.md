@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8331125.stm)
-2. [RTT News](http://www.rttnews.com/Content/GeneralNews.aspx?Node=B1&Id=1110033)
-3. [Haveeru](http://www.haveeru.com.mv/english/details/28274/Binding_climate_treaty_unlikely_by_December:_Danish_PM)
+2. [Haveeru](http://www.haveeru.com.mv/english/details/28274/Binding_climate_treaty_unlikely_by_December:_Danish_PM)
+3. [RTT News](http://www.rttnews.com/Content/GeneralNews.aspx?Node=B1&Id=1110033)
 
 ### Related:
 

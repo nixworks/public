@@ -7,10 +7,10 @@ The national party had accused the Sanders campaign of improperly accessing Clin
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/politics/sanders-threatens-to-sue-dnc-if-access-to-voter-list-isnt-restored/2015/12/18/fa8d6df8-a5a2-11e5-ad3f-991ce3374e23_story.html)
-2. [CNN](http://www.cnn.com/2015/12/18/politics/bernie-sanders-campaign-dnc-suspension/)
-3. [ABC News](http://abcnews.go.com/US/sanders-campaign-sues-dnc-blocking-voter-data-access/story?id=35852585)
-4. [UPI](http://www.upi.com/Top_News/US/2015/12/18/Bernie-Sanders-campaign-threatens-to-sue-DNC/5791450462344/?spt=hs&or=tn_us)
+1. [UPI](http://www.upi.com/Top_News/US/2015/12/18/Bernie-Sanders-campaign-threatens-to-sue-DNC/5791450462344/?spt=hs&or=tn_us)
+2. [The Washington Post](https://www.washingtonpost.com/politics/sanders-threatens-to-sue-dnc-if-access-to-voter-list-isnt-restored/2015/12/18/fa8d6df8-a5a2-11e5-ad3f-991ce3374e23_story.html)
+3. [CNN](http://www.cnn.com/2015/12/18/politics/bernie-sanders-campaign-dnc-suspension/)
+4. [ABC News](http://abcnews.go.com/US/sanders-campaign-sues-dnc-blocking-voter-data-access/story?id=35852585)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Newcastle United boss Alan Pardew looks set to land himself in hot water with th
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/sport/0/football/26398764)
-2. [Independent](http://www.independent.ie/incoming/ladbrokes-suspend-betting-on-alan-pardew-to-get-the-sack-30053627.html)
-3. [Metro](http://metro.co.uk/2014/03/01/six-pictures-of-alan-pardew-head-butting-hull-city-midfielder-david-meyler-4361463/)
+1. [Metro](http://metro.co.uk/2014/03/01/six-pictures-of-alan-pardew-head-butting-hull-city-midfielder-david-meyler-4361463/)
+2. [BBC](http://www.bbc.com/sport/0/football/26398764)
+3. [Independent](http://www.independent.ie/incoming/ladbrokes-suspend-betting-on-alan-pardew-to-get-the-sack-30053627.html)
 
 ### Related:
 

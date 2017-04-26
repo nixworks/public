@@ -7,9 +7,9 @@ Outgoing prime minister and Free National Movement (FNM) leader, Hubert Ingraham
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/the_americas/former-bahamas-pm-perry-christie-leads-opposition-party-back-to-power-in-general-elections/2012/05/07/gIQAJcjR9T_story.html?tid=pm_world_pop)
-2. [Bahamas Weekly](http://www.thebahamasweekly.com/publish/local/CBA_Analytical_Report_Bahamas_Elections_2012_Too_Close_To_Call21835.shtml)
-3. [Nassau Guardian](http://www.thenassauguardian.com/index.php?option=com_content&view=article&id=30738&Itemid=105)
+1. [Bahamas Weekly](http://www.thebahamasweekly.com/publish/local/CBA_Analytical_Report_Bahamas_Elections_2012_Too_Close_To_Call21835.shtml)
+2. [Nassau Guardian](http://www.thenassauguardian.com/index.php?option=com_content&view=article&id=30738&Itemid=105)
+3. [Washington Post](http://www.washingtonpost.com/world/the_americas/former-bahamas-pm-perry-christie-leads-opposition-party-back-to-power-in-general-elections/2012/05/07/gIQAJcjR9T_story.html?tid=pm_world_pop)
 
 ### Related:
 

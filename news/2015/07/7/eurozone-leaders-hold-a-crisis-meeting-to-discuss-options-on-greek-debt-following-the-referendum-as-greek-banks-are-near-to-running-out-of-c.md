@@ -7,9 +7,9 @@ The eurozone gives Greece until Thursday to present final proposals to secure a 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-33437797#)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-07-07-EU--Greece-Bailout-The%20Latest/id-1a250d47413b49dcbba7ee2f33a2df42)
-3. [Reuters](http://www.reuters.com/article/2015/07/07/us-eurozone-greece-idUSKBN0P40EO20150707)
+1. [Reuters](http://www.reuters.com/article/2015/07/07/us-eurozone-greece-idUSKBN0P40EO20150707)
+2. [BBC](http://www.bbc.com/news/world-europe-33437797#)
+3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-07-07-EU--Greece-Bailout-The%20Latest/id-1a250d47413b49dcbba7ee2f33a2df42)
 
 ### Related:
 

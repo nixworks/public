@@ -8,8 +8,8 @@ Fifa Vice-President Issa Hayatou denies bribery claims carried by the BBC and th
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11873907)
-2. [Reuters](http://football.uk.reuters.com/leagues/uk/news/2010/11/27/LDE6AP1YP.php)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/england/8164224/World-Cup-2018-Prime-Minister-David-Cameron-frustrated-by-BBC-documentary-screened-ahead-of-vote.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/england/8164224/World-Cup-2018-Prime-Minister-David-Cameron-frustrated-by-BBC-documentary-screened-ahead-of-vote.html)
+3. [Reuters](http://football.uk.reuters.com/leagues/uk/news/2010/11/27/LDE6AP1YP.php)
 
 ### Related:
 

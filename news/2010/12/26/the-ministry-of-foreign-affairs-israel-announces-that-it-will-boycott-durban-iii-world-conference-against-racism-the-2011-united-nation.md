@@ -7,8 +7,8 @@ Israel will boycott a meeting at the United Nations to mark the 10th anniversary
 
 ### Source:
 
-1. [JTA](http://www.jta.org/news/article/2010/12/26/2742313/israel-to-boycott-durban-iii)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iu_SM71wkVHl0N5coVNbbGYGVAHw?docId=CNG.78e0d6ea454a7aaf3314a8dbd2c58027.c91)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iu_SM71wkVHl0N5coVNbbGYGVAHw?docId=CNG.78e0d6ea454a7aaf3314a8dbd2c58027.c91)
+2. [JTA](http://www.jta.org/news/article/2010/12/26/2742313/israel-to-boycott-durban-iii)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/26/AR2010122600875.html)
 
 ### Related:

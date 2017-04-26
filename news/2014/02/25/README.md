@@ -10,7 +10,7 @@ For a lucky California couple, their $10 million pot of gold came without the ra
 _Context: 2013 Asiana Airlines accident, Asiana Airlines_
 
 ### [2014 Ukrainian revolution:The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/2014-ukrainian-revolution-pthe-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas.md)
-_Context: 2014 Ukrainian revolution, United States, Viktor Yanukovych_
+_Context: 2014 Ukrainian revolution, U.S., Viktor Yanukovych_
 
 ### [A court in the UK rules that a man arrested in connection with the 1982 Hyde Park and Regent's Park bombings will not be prosecuted for his involvement.](/news/2014/02/25/a-court-in-the-uk-rules-that-a-man-arrested-in-connection-with-the-1982-hyde-park-and-regent-s-park-bombings-will-not-be-prosecuted-for-his.md)
 John Downey will not be prosecuted because he was able to produce documents proving assurances that he would not face trial.

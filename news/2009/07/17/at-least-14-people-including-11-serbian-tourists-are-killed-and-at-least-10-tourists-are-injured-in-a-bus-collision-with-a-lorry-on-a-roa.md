@@ -7,10 +7,10 @@ Fourteen people, including 11 Serb tourists, were killed in Egypt Thursday when 
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLG32550420090716?feedType=RSS&feedName=egyptNews)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8153481.stm)
 2. [Jang Group](http://thenews.jang.com.pk/updates.asp?id=83094)
 3. [Reuters UK](http://uk.reuters.com/article/idUKTRE56F4JW20090716)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8153481.stm)
+4. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLG32550420090716?feedType=RSS&feedName=egyptNews)
 
 ### Related:
 

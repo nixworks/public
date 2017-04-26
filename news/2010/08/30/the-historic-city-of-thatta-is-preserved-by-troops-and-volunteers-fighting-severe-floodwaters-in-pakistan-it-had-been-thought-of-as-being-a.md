@@ -7,10 +7,10 @@ People seek higher ground as troops and civilians struggle to protect city of Th
 
 ### Source:
 
-1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jX_KetVCMo64AOZxSMudPWArFrJgD9HU5AMO0)
-2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010%5C08%5C31%5Cstory_31-8-2010_pg1_3)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201082873211738615.html)
-4. [The Independent](http://www.independent.co.uk/news/world/asia/historic-pakistani-city-saved-from-floodwater-2066148.html)
+1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010%5C08%5C31%5Cstory_31-8-2010_pg1_3)
+2. [The Independent](http://www.independent.co.uk/news/world/asia/historic-pakistani-city-saved-from-floodwater-2066148.html)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jX_KetVCMo64AOZxSMudPWArFrJgD9HU5AMO0)
+4. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201082873211738615.html)
 
 ### Related:
 

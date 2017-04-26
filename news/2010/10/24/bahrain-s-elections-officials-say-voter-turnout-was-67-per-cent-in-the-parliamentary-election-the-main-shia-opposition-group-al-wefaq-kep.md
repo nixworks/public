@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=229201)
-2. [AP](http://www.guardian.co.uk/world/feedarticle/9326475)
+1. [AP](http://www.guardian.co.uk/world/feedarticle/9326475)
+2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=229201)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Business Insider](http://www.businessinsider.com/nigerian-army-captures-boko-haram-stronghold-2016-12)
-2. [BBC News](http://www.bbc.com/news/world-africa-38427462)
+1. [BBC News](http://www.bbc.com/news/world-africa-38427462)
+2. [Business Insider](http://www.businessinsider.com/nigerian-army-captures-boko-haram-stronghold-2016-12)
 
 ### Related:
 

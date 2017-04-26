@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/sport/blog/2010/mar/12/indian-premier-league-ipl-television)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8563584.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8563584.stm)
+2. [The Guardian](http://www.guardian.co.uk/sport/blog/2010/mar/12/indian-premier-league-ipl-television)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [EuroNews](http://www.euronews.net/2011/03/28/oil-down-on-libyan-rebel-gains/)
-2. [WorldNews.com](http://article.wn.com/view/2011/03/28/Qatar_recognises_Libyan_rebels_after_oil_deal/)
-3. [Qatar News Agency](http://www.qnaol.net/QNAEn/Local_News/Politics1/Pages/QatarRecognizesLibyanNationalTransitionCouncil.aspx)
+1. [WorldNews.com](http://article.wn.com/view/2011/03/28/Qatar_recognises_Libyan_rebels_after_oil_deal/)
+2. [Qatar News Agency](http://www.qnaol.net/QNAEn/Local_News/Politics1/Pages/QatarRecognizesLibyanNationalTransitionCouncil.aspx)
+3. [EuroNews](http://www.euronews.net/2011/03/28/oil-down-on-libyan-rebel-gains/)
 
 ### Related:
 

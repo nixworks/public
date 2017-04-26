@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g4ij6BilxyqyjLpHTsmbgnYcKJDAD9C37OV80)
+1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?newsID=95267&cat=1)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8369779.stm)
-3. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?newsID=95267&cat=1)
+3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g4ij6BilxyqyjLpHTsmbgnYcKJDAD9C37OV80)
 
 ### Related:
 

@@ -7,8 +7,8 @@ European Union leaders are looking to Poland and the Czech Republic to fast-trac
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/czechrepublic/6257579/The-Czechs-who-stand-between-the-EU-and-the-Lisbon-Treaty.html)
-2. [RTÉ](http://www.rte.ie/news/2009/1004/eulisbonfuture.html)
+1. [RTÉ](http://www.rte.ie/news/2009/1004/eulisbonfuture.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/czechrepublic/6257579/The-Czechs-who-stand-between-the-EU-and-the-Lisbon-Treaty.html)
 
 ### Related:
 

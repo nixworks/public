@@ -7,8 +7,8 @@ Paramount tells theaters no &#8216;Team America: World Police&#8217;
 
 ### Source:
 
-1. [The Times-Picayune](http://www.nola.com/movies/index.ssf/2014/12/team_america_world_police_scre.html)
-2. [Mercury News](http://www.mercurynews.com/movies-dvd/ci_27159719/paramount-tells-theaters-no-team-america)
+1. [Mercury News](http://www.mercurynews.com/movies-dvd/ci_27159719/paramount-tells-theaters-no-team-america)
+2. [The Times-Picayune](http://www.nola.com/movies/index.ssf/2014/12/team_america_world_police_scre.html)
 
 ### Related:
 

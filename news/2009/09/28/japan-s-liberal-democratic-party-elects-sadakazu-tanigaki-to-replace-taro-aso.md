@@ -7,9 +7,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8278567.stm)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/28/content_12122974.htm)
-3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1068372&lang=eng_news)
+1. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1068372&lang=eng_news)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8278567.stm)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/28/content_12122974.htm)
 
 ### Related:
 

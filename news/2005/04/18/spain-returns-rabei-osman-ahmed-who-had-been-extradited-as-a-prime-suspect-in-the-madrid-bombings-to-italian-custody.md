@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L18619786.htm)
-2. [World Peace Herald](http://www.wpherald.com/Europe/storyview.php?StoryID=20050418-123105-3384r)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4456411.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4456411.stm)
+2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L18619786.htm)
+3. [World Peace Herald](http://www.wpherald.com/Europe/storyview.php?StoryID=20050418-123105-3384r)
 
 ### Related:
 

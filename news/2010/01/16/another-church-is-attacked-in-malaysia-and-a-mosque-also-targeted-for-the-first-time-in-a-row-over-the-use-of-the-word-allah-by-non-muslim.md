@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h0i9-h0mddYgQqODh6diEE-Lxpog)
-2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Malaysian-mosque-vandalised-amid-Allah-row-/articleshow/5452621.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Malaysian-mosque-vandalised-amid-Allah-row-/articleshow/5452621.cms)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h0i9-h0mddYgQqODh6diEE-Lxpog)
 
 ### Related:
 

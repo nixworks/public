@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/8232996.stm)
-2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=437409)
+1. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=437409)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8232996.stm)
 
 ### Related:
 

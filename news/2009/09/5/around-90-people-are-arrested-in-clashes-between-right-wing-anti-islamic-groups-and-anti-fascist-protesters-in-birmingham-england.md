@@ -7,9 +7,9 @@ Hundreds of people clashed in Birmingham city centre yesterday as right-wing pro
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/home-news/rightwing-demo-ends-in-violence-1782532.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jXrkd5wTHAGG9dSErLnEhqOq8EIwD9AHPKVG0)
-3. [BBC](http://news.bbc.co.uk/1/hi/england/west_midlands/8239818.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/england/west_midlands/8239818.stm)
+2. [The Independent](http://www.independent.co.uk/news/uk/home-news/rightwing-demo-ends-in-violence-1782532.html)
+3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jXrkd5wTHAGG9dSErLnEhqOq8EIwD9AHPKVG0)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The US Senate will vote Tuesday on a massive austerity bill that averts a disast
 
 ### Source:
 
-1. [New Zealand Herald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10742621)
-2. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-business/us-senate-to-vote-tuesday-on-debt-bill-20110802-1i8s2.html)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-business/us-senate-to-vote-tuesday-on-debt-bill-20110802-1i8s2.html)
+2. [New Zealand Herald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10742621)
 
 ### Related:
 

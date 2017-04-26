@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20080619/pl_nm/usa_housing_countrywide_dc_3)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=agnF2IL2OCyE)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=agnF2IL2OCyE)
+2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20080619/pl_nm/usa_housing_countrywide_dc_3)
 
 ### Related:
 

@@ -9,14 +9,14 @@ Irish Prime Minister Brian Cowenwill address the media at 1400 GMT on Saturday, 
 
 1. [RTÉ News](http://twitter.com/rtenews/status/28805459964067840)
 2. [Reuters](http://www.reuters.com/article/idUSLDE70L06H20110122)
-3. [The Guardian](http://www.guardian.co.uk/world/2011/jan/22/brian-cowen-full-speech-resignation)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0122/breaking5.html)
-5. [RTÉ](http://www.rte.ie/news/2011/0122/politics1.html)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0122/breaking19.html)
-7. [RTÉ](http://www.rte.ie/news/2011/0122/politics.html)
-8. [BBC](http://www.bbc.co.uk/news/world-europe-12250473)
-9. [Reuters](http://www.reuters.com/article/idUSTRE70K3X720110122?feedType=RSS&feedName=topNews)
-10. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/irish-pm-cowen-quits-as-party-leader-20110123-1a0uj.html)
+3. [RTÉ](http://www.rte.ie/news/2011/0122/politics1.html)
+4. [The Guardian](http://www.guardian.co.uk/world/2011/jan/22/brian-cowen-full-speech-resignation)
+5. [BBC](http://www.bbc.co.uk/news/world-europe-12250473)
+6. [RTÉ](http://www.rte.ie/news/2011/0122/politics.html)
+7. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/irish-pm-cowen-quits-as-party-leader-20110123-1a0uj.html)
+8. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0122/breaking19.html)
+9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0122/breaking5.html)
+10. [Reuters](http://www.reuters.com/article/idUSTRE70K3X720110122?feedType=RSS&feedName=topNews)
 
 ### Related:
 

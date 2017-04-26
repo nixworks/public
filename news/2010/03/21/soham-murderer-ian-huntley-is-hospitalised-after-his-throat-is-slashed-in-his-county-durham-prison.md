@@ -7,11 +7,11 @@ Ian Huntley, who killed schoolgirls Holly Wells and Jessica Chapman in Soham in 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0321/huntleyi.html)
-2. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/21/ian-huntley-attacked-in-prison)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/7494730/Soham-killer-Ian-Huntleys-throat-slashed-in-prison.html)
-4. [Sky News](http://news.sky.com/skynews/Home/UK-News/Soham-Killer-Ian-Huntley-Has-Throat-Slashed-By-Fellow-Inmate-In-Jail/Article/201003315578709?lpos=UK_News_Top_Stories_Header_1&lid=ARTICLE_15578709_Soham_Killer_Ian_Huntley_Has_Throat_Slashed_By_Fellow_Inmate_In_Jail)
-5. [Irish Independent](http://www.independent.ie/world-news/europe/soham-killer-has-throat-slashed-in-jail-2106547.html)
+1. [Irish Independent](http://www.independent.ie/world-news/europe/soham-killer-has-throat-slashed-in-jail-2106547.html)
+2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Soham-Killer-Ian-Huntley-Has-Throat-Slashed-By-Fellow-Inmate-In-Jail/Article/201003315578709?lpos=UK_News_Top_Stories_Header_1&lid=ARTICLE_15578709_Soham_Killer_Ian_Huntley_Has_Throat_Slashed_By_Fellow_Inmate_In_Jail)
+3. [RTÉ](http://www.rte.ie/news/2010/0321/huntleyi.html)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/7494730/Soham-killer-Ian-Huntleys-throat-slashed-in-prison.html)
+5. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/21/ian-huntley-attacked-in-prison)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/159642.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12262439)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12262439)
+2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/159642.html)
 
 ### Related:
 

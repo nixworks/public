@@ -7,8 +7,8 @@ Israeli forces on Monday killed a wanted Hamas operative who had holed up in a h
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8643532.stm)
-2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israeli-forces-kill-hamas-militant-in-west-bank-20100426-tn5z.html)
+1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israeli-forces-kill-hamas-militant-in-west-bank-20100426-tn5z.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8643532.stm)
 3. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=173965)
 
 ### Related:

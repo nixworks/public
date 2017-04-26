@@ -7,18 +7,18 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Source:
 
-1. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=573526&vId=)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Egypt-Hosni-Mubarak-Stands-Firm-After-Day-Of-Departure-Protests-As-Britons-Head-Home-From-Cairo/Article/201102115923449)
-3. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/02/egypt-israeli-president-calls-president-mubarak-a-peacemaker.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112513454758210.html)
-5. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/05/egypt-protests)
-6. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/04/live-blog-feb-5-egypt-protests)
-7. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/05/egypt.unrest.standoff/)
-8. [France 24](http://www.france24.com/en/20110205-france-suspends-sale-arms-police-riot-gear-egypt-amid-turmoil)
-9. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4024283,00.html)
-10. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/02/201125102520170918.html)
-11. [The New York Times](http://thelede.blogs.nytimes.com/2011/02/05/latest-updates-on-day-12-of-egypt-protests/#ongoing-confusion-about-mubaraks-role)
-12. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/mubarak-resigns-as-head-of-egypts-ruling-party-but-remains-president/1)
+1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4024283,00.html)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/02/egypt-israeli-president-calls-president-mubarak-a-peacemaker.html)
+3. [France 24](http://www.france24.com/en/20110205-france-suspends-sale-arms-police-riot-gear-egypt-amid-turmoil)
+4. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/05/egypt.unrest.standoff/)
+5. [The New York Times](http://thelede.blogs.nytimes.com/2011/02/05/latest-updates-on-day-12-of-egypt-protests/#ongoing-confusion-about-mubaraks-role)
+6. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/mubarak-resigns-as-head-of-egypts-ruling-party-but-remains-president/1)
+7. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=573526&vId=)
+8. [Sky News](http://news.sky.com/skynews/Home/World-News/Egypt-Hosni-Mubarak-Stands-Firm-After-Day-Of-Departure-Protests-As-Britons-Head-Home-From-Cairo/Article/201102115923449)
+9. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/04/live-blog-feb-5-egypt-protests)
+10. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/05/egypt-protests)
+11. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112513454758210.html)
+12. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/02/201125102520170918.html)
 
 ### Related:
 

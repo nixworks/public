@@ -8,8 +8,8 @@ The silence was conspicuous in China on Saturday. Dissident Liu Xiaobo languishe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11511310)
-2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-china-dissident-20101010,0,1530440.story)
-3. [AFP via Yahoo News](http://news.yahoo.com/s/afp/20101010/wl_asia_afp/nobelpeacechinausdissidentwife)
+2. [AFP via Yahoo News](http://news.yahoo.com/s/afp/20101010/wl_asia_afp/nobelpeacechinausdissidentwife)
+3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-china-dissident-20101010,0,1530440.story)
 
 ### Related:
 

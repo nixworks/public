@@ -7,8 +7,8 @@ Gang rape of woman on bus triggers nationwide outrage as three of four accused c
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/dec/19/delhi-bus-gang-rape)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/12/20121219991194318.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/12/20121219991194318.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/dec/19/delhi-bus-gang-rape)
 
 ### Related:
 

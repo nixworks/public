@@ -7,8 +7,8 @@ NORTH Korea has made &quot;an important announcement&quot; - Kim Jong-un is the 
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/world/north-korea-to-make-major-announcement/story-fndir2ev-1226429024978?from=public_rss)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-18881524#)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-18881524#)
+2. [News Limited](http://www.news.com.au/world/north-korea-to-make-major-announcement/story-fndir2ev-1226429024978?from=public_rss)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Arutz Sheva](http://www.israelnn.com/news.php3?id=80124)
+1. [Ha'aretz](http://www.haaretz.com/hasen/spages/564195.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8158062&type=worldNews)
-3. [Ha'aretz](http://www.haaretz.com/hasen/spages/564195.html)
+3. [Arutz Sheva](http://www.israelnn.com/news.php3?id=80124)
 
 ### Related:
 

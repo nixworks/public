@@ -7,8 +7,8 @@ A wave of attacks in and around Baghdad kills more than 20 people, the latest in
 
 ### Source:
 
-1. [Reuters AP via ABC Australia](http://www.abc.net.au/news/2017-01-08/baghdad-car-bomb-kills-at-least-12-people/8168740)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/01/iraq-suicide-attacks-rock-baghdad-killing-20-170108131406836.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/iraq-suicide-attacks-rock-baghdad-killing-20-170108131406836.html)
+2. [Reuters AP via ABC Australia](http://www.abc.net.au/news/2017-01-08/baghdad-car-bomb-kills-at-least-12-people/8168740)
 3. [AP via ''The Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-4098738/Car-bomb-eastern-Baghdad-kills-12-wounds-dozens--police-medics.html)
 
 ### Related:

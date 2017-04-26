@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Abstract of article](http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3983.html)
-2. [The Washington Post'' via MSN](http://www.msn.com/en-us/news/us/poverty-linked-to-brain-structure-in-children-new-research-shows/ar-AAahrgH)
+1. [The Washington Post'' via MSN](http://www.msn.com/en-us/news/us/poverty-linked-to-brain-structure-in-children-new-research-shows/ar-AAahrgH)
+2. [Abstract of article](http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3983.html)

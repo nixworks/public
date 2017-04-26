@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News 13](http://www.cfnews13.com/article/news/2010/september/153097/Tropical-Storm-Lisa-forms-as-Hurricane-Igor-races-toward-Newfoundland)
-2. [AP via Canadian Business](http://www.canadianbusiness.com/markets/market_news/article.jsp?content=D9IC7E200)
+1. [AP via Canadian Business](http://www.canadianbusiness.com/markets/market_news/article.jsp?content=D9IC7E200)
+2. [News 13](http://www.cfnews13.com/article/news/2010/september/153097/Tropical-Storm-Lisa-forms-as-Hurricane-Igor-races-toward-Newfoundland)
 
 ### Related:
 

@@ -9,10 +9,10 @@ The attack, which occurred in the north-central part of the country, was the dea
 
 1. [RIA Novosti](http://en.rian.ru/world/20091207/157146510.html)
 2. [Radio Netherlands](http://www.rnw.nl/english/article/gunmen-kill-turkish-soldiers-northern-turkey)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912715954800166.html)
+3. [The New York Times](http://www.nytimes.com/2009/12/08/world/europe/08turkey.html)
 4. [Reuters South Africa](http://af.reuters.com/article/worldNews/idAFTRE5B624R20091207)
-5. [The New York Times](http://www.nytimes.com/2009/12/08/world/europe/08turkey.html)
-6. [Xinhua](http://news.xinhuanet.com/english/2009-12/07/content_12607630.htm)
+5. [Xinhua](http://news.xinhuanet.com/english/2009-12/07/content_12607630.htm)
+6. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912715954800166.html)
 
 ### Related:
 

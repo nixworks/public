@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/21/haiti.cholera/?hpt=T2)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11608551)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11608551)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/21/haiti.cholera/?hpt=T2)
 
 ### Related:
 

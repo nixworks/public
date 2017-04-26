@@ -7,10 +7,10 @@ The director of Israels Government Press Office has apologized for the intensive
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=203623)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4013765,00.html)
-3. [Sify](http://www.sify.com/news/israel-s-press-office-apologizes-for-journalists-bra-gate-howler-news-international-lbonOsefhij.html)
-4. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/01/13/devil-wears-underwear)
+1. [Sify](http://www.sify.com/news/israel-s-press-office-apologizes-for-journalists-bra-gate-howler-news-international-lbonOsefhij.html)
+2. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/01/13/devil-wears-underwear)
+3. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=203623)
+4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4013765,00.html)
 
 ### Related:
 

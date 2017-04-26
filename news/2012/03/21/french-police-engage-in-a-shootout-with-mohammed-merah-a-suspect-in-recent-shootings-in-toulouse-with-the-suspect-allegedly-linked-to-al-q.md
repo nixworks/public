@@ -8,9 +8,9 @@ A&#x20;24-year-old&#x20;gunman,&#x20;still&#x20;holed&#x20;up&#x20;in&#x20;his&#
 ### Source:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/46027894#.T2lqJxG85XI)
-2. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/shots-fired-as-police-raid-al-qaida-linked-french-gunman-in-toulouse/story-e6frg6so-1226306309049)
-3. [France 24](http://www.france24.com/en/20120321-liveblog-france-toulouse-police-surround-suspect-school-soldier-shooting)
-4. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/20123214219458757.html)
+2. [France 24](http://www.france24.com/en/20120321-liveblog-france-toulouse-police-surround-suspect-school-soldier-shooting)
+3. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/20123214219458757.html)
+4. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/shots-fired-as-police-raid-al-qaida-linked-french-gunman-in-toulouse/story-e6frg6so-1226306309049)
 
 ### Related:
 

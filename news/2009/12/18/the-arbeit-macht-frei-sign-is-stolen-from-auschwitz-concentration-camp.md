@@ -9,8 +9,8 @@ Thieves have stolen the infamous &#39;Arbeit macht frei&#39; sign at the entranc
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/world-war-2/6838368/Auschwitz-entrance-sign-stolen.html)
 2. [JTA](http://jta.org/news/article/2009/12/18/1009801/arbeit-macht-frei-sign-stolen-from-auschwitz)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5034155,00.html)
-4. [RTÉ](http://www.rte.ie/news/2009/1218/auschwitz.html)
+3. [RTÉ](http://www.rte.ie/news/2009/1218/auschwitz.html)
+4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5034155,00.html)
 
 ### Related:
 

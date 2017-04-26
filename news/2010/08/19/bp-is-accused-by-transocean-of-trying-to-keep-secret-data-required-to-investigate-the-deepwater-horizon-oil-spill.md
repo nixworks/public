@@ -7,8 +7,8 @@ Energy giant BP is accused of withholding key data needed to investigate the Gul
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-11033247)
-2. [AFP via France24](http://www.france24.com/en/20100819-partner-says-bp-hiding-oil-spill-documents)
+1. [AFP via France24](http://www.france24.com/en/20100819-partner-says-bp-hiding-oil-spill-documents)
+2. [BBC](http://www.bbc.co.uk/news/business-11033247)
 
 ### Related:
 

@@ -7,8 +7,8 @@ China has developed its own technologies that will enable it to reprocess spent 
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2011-01/03/content_11788159.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12107126)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12107126)
+2. [China Daily](http://www.chinadaily.com.cn/china/2011-01/03/content_11788159.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The United Nations Security Council called on the north Sudanese army to withdra
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/22/us-sudan-abyei-idUSTRE74L2C520110522)
-2. [Arab News](http://arabnews.com/middleeast/article422114.ece)
+1. [Arab News](http://arabnews.com/middleeast/article422114.ece)
+2. [Reuters](http://www.reuters.com/article/2011/05/22/us-sudan-abyei-idUSTRE74L2C520110522)
 
 ### Related:
 

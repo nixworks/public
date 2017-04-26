@@ -7,8 +7,8 @@ Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last ni
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/media/blog/2011/jul/09/phone-hacking-newsoftheworld#block-25)
-2. [The Independent](http://www.independent.co.uk/news/media/press/news-international-knew-hacking-was-widespread-in-2007-2311629.html)
+1. [The Independent](http://www.independent.co.uk/news/media/press/news-international-knew-hacking-was-widespread-in-2007-2311629.html)
+2. [The Guardian](http://www.guardian.co.uk/media/blog/2011/jul/09/phone-hacking-newsoftheworld#block-25)
 
 ### Related:
 

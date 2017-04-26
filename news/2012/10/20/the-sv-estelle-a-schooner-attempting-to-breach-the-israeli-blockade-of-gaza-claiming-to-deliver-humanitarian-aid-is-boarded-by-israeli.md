@@ -7,8 +7,8 @@ Israeli naval vessels have stopped a pro-Palestinian boat attempting to reach Ga
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1020/breaking14.html)
-2. [The Times of Israel](http://www.timesofisrael.com/netanyahu-says-gaza-bound-activists-aimed-to-provoke-slander-israel/)
+1. [The Times of Israel](http://www.timesofisrael.com/netanyahu-says-gaza-bound-activists-aimed-to-provoke-slander-israel/)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/1020/breaking14.html)
 
 ### Related:
 

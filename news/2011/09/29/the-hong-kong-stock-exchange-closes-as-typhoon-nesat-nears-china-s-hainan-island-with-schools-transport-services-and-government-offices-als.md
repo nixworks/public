@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/29/us-typhoon-hongkong-idUSTRE78S0IJ20110929)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-09-28/hong-kong-typhoon-8-signal-raised-trading-halted.html?cmpid=bit)
-3. [AFP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/typhoon-death-toll-in-philippines-rises-to-35-likely-to-climb-further/story-e6frf7jx-1226151473489)
-4. [People's Daily](http://english.people.com.cn/90882/7607341.html)
-5. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/typhoon-nesat-shuts-down-hong-kong/story-e6frg6so-1226151792250)
+1. [People's Daily](http://english.people.com.cn/90882/7607341.html)
+2. [Reuters](http://www.reuters.com/article/2011/09/29/us-typhoon-hongkong-idUSTRE78S0IJ20110929)
+3. [Bloomberg](http://www.bloomberg.com/news/2011-09-28/hong-kong-typhoon-8-signal-raised-trading-halted.html?cmpid=bit)
+4. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/typhoon-nesat-shuts-down-hong-kong/story-e6frg6so-1226151792250)
+5. [AFP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/typhoon-death-toll-in-philippines-rises-to-35-likely-to-climb-further/story-e6frf7jx-1226151473489)
 
 ### Related:
 

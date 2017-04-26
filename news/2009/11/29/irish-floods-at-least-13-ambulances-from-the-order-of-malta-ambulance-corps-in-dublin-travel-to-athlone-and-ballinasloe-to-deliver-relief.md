@@ -7,8 +7,8 @@ Bad weather has resulted in flooding in parts of Dublin and Kildare and the Rive
 
 ### Source:
 
-1. [The Sunday Business Post](http://www.sbpost.ie/newsfeatures/fighting-the-flood-factors-45898.html)
-2. [RTÉ](http://www.rte.ie/news/2009/1129/weather.html)
+1. [RTÉ](http://www.rte.ie/news/2009/1129/weather.html)
+2. [The Sunday Business Post](http://www.sbpost.ie/newsfeatures/fighting-the-flood-factors-45898.html)
 
 ### Related:
 

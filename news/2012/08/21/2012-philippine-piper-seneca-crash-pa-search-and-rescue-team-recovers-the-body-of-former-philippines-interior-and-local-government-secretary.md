@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [GMA News](http://www.gmanetwork.com/news/story/270589/news/nation/palace-names-ochoa-as-temporary-dilg-chief)
-2. [Rappler](http://www.rappler.com/nation/10931-gov-t-bids-robredo-goodbye)
-3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/254682/robredos-remains-now-back-in-naga)
-4. [Reuters](http://www.reuters.com/article/2012/08/21/us-philippines-crash-minister-idUSBRE87K03920120821)
+1. [Reuters](http://www.reuters.com/article/2012/08/21/us-philippines-crash-minister-idUSBRE87K03920120821)
+2. [GMA News](http://www.gmanetwork.com/news/story/270589/news/nation/palace-names-ochoa-as-temporary-dilg-chief)
+3. [Rappler](http://www.rappler.com/nation/10931-gov-t-bids-robredo-goodbye)
+4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/254682/robredos-remains-now-back-in-naga)
 
 ### Related:
 

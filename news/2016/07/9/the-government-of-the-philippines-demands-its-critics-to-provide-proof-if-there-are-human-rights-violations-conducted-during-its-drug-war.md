@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Rappler](http://www.rappler.com/nation/139146-palace-critics-war-drugs-proof-violations)
-2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/795120/drug-war-spiraling-out-of-control/amp)
+1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/795120/drug-war-spiraling-out-of-control/amp)
+2. [Rappler](http://www.rappler.com/nation/139146-palace-critics-war-drugs-proof-violations)
 
 ### Related:
 

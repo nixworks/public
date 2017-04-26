@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-kenya-accident-idUSKBN13Z0TK?il=0)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-38278868)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-38278868)
+2. [Reuters](http://www.reuters.com/article/us-kenya-accident-idUSKBN13Z0TK?il=0)
 
 ### Related:
 

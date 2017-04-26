@@ -8,8 +8,8 @@ A woman whose grandfather filmed the assassination of John F Kennedy on a home m
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-34907705)
-2. [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/24/lawsuit-seeks-return-of-missing-jfk-assassination-footage/?uid=0ef76ca8-45d6-11e0-a478-1231380f446b&wpmm=1&wpisrc=nl_mix)
-3. [Document on Scribd.com](http://www.scribd.com/doc/290879705/JFK-Film-Lawsuit)
+2. [Document on Scribd.com](http://www.scribd.com/doc/290879705/JFK-Film-Lawsuit)
+3. [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/24/lawsuit-seeks-return-of-missing-jfk-assassination-footage/?uid=0ef76ca8-45d6-11e0-a478-1231380f446b&wpmm=1&wpisrc=nl_mix)
 
 ### Related:
 

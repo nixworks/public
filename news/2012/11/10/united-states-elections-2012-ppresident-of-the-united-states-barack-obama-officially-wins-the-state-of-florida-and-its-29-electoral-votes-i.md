@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/11/09/us-usa-campaign-florida-idUSBRE8A702F20121109)
-2. [The Seattle Times](http://seattletimes.com/html/localnews/2019648697_govrace10m.html)
+1. [The Seattle Times](http://seattletimes.com/html/localnews/2019648697_govrace10m.html)
+2. [Reuters](http://www.reuters.com/article/2012/11/09/us-usa-campaign-florida-idUSBRE8A702F20121109)
 
 ### Related:
 

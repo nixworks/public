@@ -8,8 +8,8 @@ Six journalists, all members of the Gambia Press Union, were released after bein
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8237901.stm)
-2. [Gambia News](http://www.gambianow.com/news/News/Gambian-president-grants-pardon-to-imprisoned-journalists-.html)
-3. [UPI](http://www.upi.com/Top_News/2009/09/04/Six-imprisoned-journalists-freed-in-Gambia/UPI-62651252070626/)
+2. [UPI](http://www.upi.com/Top_News/2009/09/04/Six-imprisoned-journalists-freed-in-Gambia/UPI-62651252070626/)
+3. [Gambia News](http://www.gambianow.com/news/News/Gambian-president-grants-pardon-to-imprisoned-journalists-.html)
 
 ### Related:
 

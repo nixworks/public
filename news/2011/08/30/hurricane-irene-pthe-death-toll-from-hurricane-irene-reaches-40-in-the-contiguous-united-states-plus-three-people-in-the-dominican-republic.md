@@ -7,9 +7,9 @@ The death toll from Hurricane Irene has spiralled to 38 across 11 states in the 
 
 ### Source:
 
-1. [International Business Times](http://www.ibtimes.com/articles/206012/20110830/hurricane-irene-new-jersey-flooding-passaic-mercer-middlesex-nj-transit.htm)
+1. [NZ Stuff](http://www.stuff.co.nz/world/americas/5529058/Irene-inflicts-huge-floods-in-US-death-toll-hits-38)
 2. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_IRENE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-08-29-22-50-24)
-3. [NZ Stuff](http://www.stuff.co.nz/world/americas/5529058/Irene-inflicts-huge-floods-in-US-death-toll-hits-38)
+3. [International Business Times](http://www.ibtimes.com/articles/206012/20110830/hurricane-irene-new-jersey-flooding-passaic-mercer-middlesex-nj-transit.htm)
 
 ### Related:
 

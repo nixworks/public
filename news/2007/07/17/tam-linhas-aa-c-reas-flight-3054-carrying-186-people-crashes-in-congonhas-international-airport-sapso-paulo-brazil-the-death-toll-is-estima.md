@@ -7,13 +7,13 @@ The pilot of an airliner that burst into flames after trying to land on a short,
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/story/0,2933,289696,00.html)
-2. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-07-17T230229Z_01_N17263598_RTRIDST_0_NEWS-BRAZIL-CRASH-COL.XML)
-3. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/18/1981490.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/americas/6903837.stm)
-5. [CNN](http://edition.cnn.com/2007/WORLD/americas/07/17/brazil.plane.crash/index.html)
-6. [Globo News Online](http://video.globo.com/Videos/Player/Noticias/0,,GIM61910-7823-GLOBO+NEWS+AO+VIVO,00.html)
-7. [MSNBC](http://www.msnbc.msn.com/id/19815779/)
+1. [CNN](http://edition.cnn.com/2007/WORLD/americas/07/17/brazil.plane.crash/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/6903837.stm)
+3. [Fox News](http://www.foxnews.com/story/0,2933,289696,00.html)
+4. [Globo News Online](http://video.globo.com/Videos/Player/Noticias/0,,GIM61910-7823-GLOBO+NEWS+AO+VIVO,00.html)
+5. [MSNBC](http://www.msnbc.msn.com/id/19815779/)
+6. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-07-17T230229Z_01_N17263598_RTRIDST_0_NEWS-BRAZIL-CRASH-COL.XML)
+7. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/18/1981490.htm)
 
 ### Related:
 

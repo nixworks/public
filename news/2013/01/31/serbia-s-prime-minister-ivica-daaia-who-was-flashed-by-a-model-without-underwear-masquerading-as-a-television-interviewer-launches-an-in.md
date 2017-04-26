@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sun](http://www.thesun.co.uk/sol/homepage/news/4770045/Serbian-PM-flashed-at-during-prank-interview-for-Croatian-TV.html)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-2270873/Serbian-prime-minister-left-speechless-glamorous-interviewer-Sharon-Stone-moment-TV-prank.html)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-2270873/Serbian-prime-minister-left-speechless-glamorous-interviewer-Sharon-Stone-moment-TV-prank.html)
+2. [The Sun](http://www.thesun.co.uk/sol/homepage/news/4770045/Serbian-PM-flashed-at-during-prank-interview-for-Croatian-TV.html)
 
 ### Related:
 

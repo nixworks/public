@@ -7,8 +7,8 @@ Fighting between government troops and rebels leaves at least 23 dead in capital
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8135229.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/07/20097420526395612.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/07/20097420526395612.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8135229.stm)
 3. [France 24](http://www.france24.com/en/20090705-somalia-clash-troops-insurgents-mogadishu-islamists-african-union)
 4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL4554458)
 

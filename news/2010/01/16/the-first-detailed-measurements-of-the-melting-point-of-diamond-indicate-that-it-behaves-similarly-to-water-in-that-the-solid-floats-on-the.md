@@ -7,8 +7,8 @@ Diamond oceans are possible on Uranus and Neptune. Learn how scientists discover
 
 ### Source:
 
-1. [Popular Science](http://www.popsci.com/science/article/2010-01/diamond-oceans-may-cover-neptune-and-uranus)
-2. [Discovery News](http://news.discovery.com/space/diamond-oceans-jupiter-uranus.html)
+1. [Discovery News](http://news.discovery.com/space/diamond-oceans-jupiter-uranus.html)
+2. [Popular Science](http://www.popsci.com/science/article/2010-01/diamond-oceans-may-cover-neptune-and-uranus)
 
 ### Related:
 

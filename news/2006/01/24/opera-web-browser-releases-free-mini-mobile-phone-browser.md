@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [InformationWeek](http://www.informationweek.com/windows/showArticle.jhtml?articleID=177103186)
-2. [Red Herring](http://www.redherring.com/Article.aspx?a=15453&hed=Opera+Adds+Free+Phone+Browser&sector=Industries&subsector=Computing)
+1. [Red Herring](http://www.redherring.com/Article.aspx?a=15453&hed=Opera+Adds+Free+Phone+Browser&sector=Industries&subsector=Computing)
+2. [InformationWeek](http://www.informationweek.com/windows/showArticle.jhtml?articleID=177103186)
 
 ### Related:
 

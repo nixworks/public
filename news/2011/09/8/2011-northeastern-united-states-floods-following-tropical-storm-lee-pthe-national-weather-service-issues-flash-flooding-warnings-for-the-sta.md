@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [The Times Leader](http://www.timesleader.com/news/Mandatory-Evacuation-of-Wyoming-Valley.html)
-2. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/mass-evacuation-as-floods-hit-us-northeast-20110909-1k0aq.html)
-3. [Reuters](http://www.reuters.com/article/2011/09/08/usa-flooding-idUSN1E78719D20110908)
-4. [WGAL](http://www.wgal.com/news/29113067/detail.html)
-5. [FOX Philly](http://www.myfoxphilly.com/dpp/weather/Lees_Remnants_Flash_Flooding_Closes_Schuylkill_Expressway_090811)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/mass-evacuation-as-floods-hit-us-northeast-20110909-1k0aq.html)
+2. [Reuters](http://www.reuters.com/article/2011/09/08/usa-flooding-idUSN1E78719D20110908)
+3. [Los Angeles Times'' via ''Bellingham Herald](http://www.bellinghamherald.com/2011/09/08/2176018/heavy-rains-cause-flooding-evacuations.html)
+4. [The Times Leader](http://www.timesleader.com/news/Mandatory-Evacuation-of-Wyoming-Valley.html)
+5. [WGAL](http://www.wgal.com/news/29113067/detail.html)
 6. [Patriot-News](http://www.pennlive.com/midstate/index.ssf/2011/09/evacuation_of_pa_governors_res.html)
-7. [Los Angeles Times'' via ''Bellingham Herald](http://www.bellinghamherald.com/2011/09/08/2176018/heavy-rains-cause-flooding-evacuations.html)
+7. [FOX Philly](http://www.myfoxphilly.com/dpp/weather/Lees_Remnants_Flash_Flooding_Closes_Schuylkill_Expressway_090811)
 
 ### Related:
 

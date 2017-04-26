@@ -7,19 +7,19 @@ Human Rights Watch describes Hamas treatment of captive as torture.
 
 ### Source:
 
-1. [VOA](http://www1.voanews.com/english/news/middle-east/Rights-Group-Urges-Hamas-to-Allow-Shalit-Contact-with-Family-97151764.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jsx1I4iHOAx7-hwB0M4hfnVvskmQD9GICSPG1)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jsx1I4iHOAx7-hwB0M4hfnVvskmQD9GICSPG1)
+2. [VOA](http://www1.voanews.com/english/news/middle-east/Rights-Group-Urges-Hamas-to-Allow-Shalit-Contact-with-Family-97151764.html)
 3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=179518)
 4. [JTA](http://www.jta.org/news/article/2010/06/25/2739783/house-unanimously-calls-for-shalits-release)
 5. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=179498)
-6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3910768,00.html)
-7. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=179542)
+6. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=179542)
+7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3910768,00.html)
 
 ### Related:
 
 1. [After Hamas rejects a call from the International Red Cross for access to  Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-cap.md) _Context: Gilad Shalit, Hamas, Israel, solitary confinement_
 2. [German Foreign Minister Guido Westerwelle calls on Hamas to free captured Israeli soldier Gilad Shalit and urges Israel to end its embargo of the Hamas-ruled Gaza Strip, but does not meet with the Gaza leadership because of group's refusal to renounce violence and recognize Israel.  ](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.md) _Context: Gaza Strip, Gilad Shalit, Hamas, Israel_
-3. [Israeli-Palestinian conflict:Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeliapalestinian-conflict-pisrael-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md) _Context: Gaza Strip, Hamas, Israel, United States_
+3. [Israeli-Palestinian conflict:Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeliapalestinian-conflict-pisrael-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md) _Context: Gaza Strip, Hamas, Israel, U.S._
 4. [Thousands of Palestinians cross the Rafah Border Crossing into the Gaza Strip following its opening by Egypt, but Egypt prevents hundreds of activists from entering and Hamas continues to refuse Red Cross visits for captured Israeli soldier, Gilad Shalit. ](/news/2010/06/12/thousands-of-palestinians-cross-the-rafah-border-crossing-into-the-gaza-strip-following-its-opening-by-egypt-but-egypt-prevents-hundreds-of.md) _Context: Gaza Strip, Gilad Shalit, Hamas, Israel_
 5. [ Israeli-Palestinian conflict (Operation Summer Rains): Israel rejects Hamas terms for a ceasefire - Palestinian PM Ismail Haniya calls for a ceasefire to end several days of fierce fighting in the Gaza Strip. Israel reiterates its demand to release the abducted soldier Gilad Shalit, and end Qassam rocket attacks on Israeli towns, for an immediate cease fire to take place. ](/news/2006/07/8/israeli-palestinian-conflict-operation-summer-rains-p-israel-rejects-hamas-terms-for-a-ceasefire-palestinian-pm-ismail-haniya-calls-for.md) _Context: Gaza Strip, Gilad Shalit, Hamas, Israel_
 6. [ Israeli-Palestinian conflict (Operation Summer Rains): Israel's Prime Minister has allowed the IDF to expand its offensive in the Gaza Strip against the Hamas-controlled Palestinian government, in order to free the abducted soldier Gilad Shalit. ](/news/2006/07/5/israeli-palestinian-conflict-operation-summer-rains-p-israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-str.md) _Context: Gaza Strip, Gilad Shalit, Hamas, Israel_

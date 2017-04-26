@@ -7,8 +7,8 @@ Researchers have identified a new species of African monkey, locally known as th
 
 ### Source:
 
-1. [Eurekalert](http://www.eurekalert.org/pub_releases/2012-09/plos-nam091012.php)
-2. [BBC](http://www.bbc.co.uk/nature/19556915)
+1. [BBC](http://www.bbc.co.uk/nature/19556915)
+2. [Eurekalert](http://www.eurekalert.org/pub_releases/2012-09/plos-nam091012.php)
 3. [PLoS ONE](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0044271)
 
 ### Related:

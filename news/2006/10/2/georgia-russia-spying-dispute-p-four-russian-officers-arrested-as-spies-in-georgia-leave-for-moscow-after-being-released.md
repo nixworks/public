@@ -7,8 +7,8 @@ Russia took its first significant retaliatory steps after Georgia’s arrests of
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2006/10/03/world/europe/03russia.html?_r=1&ref=asia&oref=slogin)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/5398384.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/5398384.stm)
+2. [The New York Times](http://www.nytimes.com/2006/10/03/world/europe/03russia.html?_r=1&ref=asia&oref=slogin)
 
 ### Related:
 

@@ -7,5 +7,5 @@ A 6.8-magnitude earthquake struck a remote Amazon region of Peru on Wednesday, s
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/44259858/ns/world_news-americas/)
-2. [CNN](http://www.cnn.com/2011/WORLD/americas/08/24/peru.earthquake/index.html?hpt=hp_t2)
+1. [CNN](http://www.cnn.com/2011/WORLD/americas/08/24/peru.earthquake/index.html?hpt=hp_t2)
+2. [MSNBC](http://www.msnbc.msn.com/id/44259858/ns/world_news-americas/)

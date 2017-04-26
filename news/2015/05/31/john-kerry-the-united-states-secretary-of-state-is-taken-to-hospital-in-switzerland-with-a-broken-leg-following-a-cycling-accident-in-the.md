@@ -7,8 +7,8 @@ US Secretary of State John Kerry is taken to hospital in Switzerland after break
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/john-kerry-hospitalized-after-bike-accident-france-n367251?cid=sm_tw&hootPostID=2d889c2326111bacdc9924c02e2c974d)
-2. [BBC](http://www.bbc.com/news/world-us-canada-32950173)
+1. [BBC](http://www.bbc.com/news/world-us-canada-32950173)
+2. [NBC News](http://www.nbcnews.com/news/us-news/john-kerry-hospitalized-after-bike-accident-france-n367251?cid=sm_tw&hootPostID=2d889c2326111bacdc9924c02e2c974d)
 
 ### Related:
 

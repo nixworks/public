@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/british-columbia/story/2010/09/18/bc-air-india-perjury-reyat-guilty.html)
+1. [The Hindu](http://www.hindu.com/2010/09/20/stories/2010092052571300.htm)
 2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gT34GU0skt_BE8AalBnJ2m_nNlBQ)
-3. [The Hindu](http://www.hindu.com/2010/09/20/stories/2010092052571300.htm)
+3. [CBC](http://www.cbc.ca/canada/british-columbia/story/2010/09/18/bc-air-india-perjury-reyat-guilty.html)
 
 ### Related:
 

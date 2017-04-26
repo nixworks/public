@@ -7,8 +7,8 @@ In Germany, they call them smombies – smartphone users who stagger about citie
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies)
-2. [RT](https://www.rt.com/viral/341053-germany-smartphone-traffic-lights/)
+1. [RT](https://www.rt.com/viral/341053-germany-smartphone-traffic-lights/)
+2. [The Guardian](http://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies)
 
 ### Related:
 

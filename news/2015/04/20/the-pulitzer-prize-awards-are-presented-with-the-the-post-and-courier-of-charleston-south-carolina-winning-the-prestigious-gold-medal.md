@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/04/20/living/feat-pulitzer-prize-winners-arts-letters-2015/)
-2. [New York Times](http://www.nytimes.com/2015/04/21/business/media/pulitzer-prize-winners-2015.html)
+1. [New York Times](http://www.nytimes.com/2015/04/21/business/media/pulitzer-prize-winners-2015.html)
+2. [CNN](http://edition.cnn.com/2015/04/20/living/feat-pulitzer-prize-winners-arts-letters-2015/)
 
 ### Related:
 

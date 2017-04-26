@@ -7,8 +7,8 @@ China introduces its first property tax for home buyers in an attempt to curb re
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-12304990)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5inXlzpzg6CWT0X_86DE0H-0R7o-A?docId=CNG.d181f701d74575a4927d78a53b5b7ce3.651)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5inXlzpzg6CWT0X_86DE0H-0R7o-A?docId=CNG.d181f701d74575a4927d78a53b5b7ce3.651)
+2. [BBC](http://www.bbc.co.uk/news/business-12304990)
 3. [Global Times](http://business.globaltimes.cn/industries/2011-01/617867.html)
 
 ### Related:

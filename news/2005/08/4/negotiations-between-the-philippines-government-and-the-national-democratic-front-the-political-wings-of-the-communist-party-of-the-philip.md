@@ -8,8 +8,8 @@
 ### Source:
 
 1. [INQ7](http://news.inq7.net/nation/index.php?index=1&story_id=45802)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/MAN75683.htm)
-3. [IHT](http://iht.com/articles/2005/08/04/news/phils.php)
+2. [IHT](http://iht.com/articles/2005/08/04/news/phils.php)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/MAN75683.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Source:
 
-1. [The Jakarta Post](http://www.thejakartapost.com/news/2016/09/15/boat-explosion-in-bali-injures-20-kills-one.html)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/german-woman-killed-bali-boat-explosion-20-injured-42104312)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/german-woman-killed-bali-boat-explosion-20-injured-42104312)
+2. [The Jakarta Post](http://www.thejakartapost.com/news/2016/09/15/boat-explosion-in-bali-injures-20-kills-one.html)
 
 ### Related:
 

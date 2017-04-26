@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/27/1990596.htm)
-2. [Reuters via Canada.com](http://www.canada.com/topics/news/world/story.html?id=5b303c4e-f5eb-4c5a-91a7-14f71a64bcff&k=69317)
+1. [Reuters via Canada.com](http://www.canada.com/topics/news/world/story.html?id=5b303c4e-f5eb-4c5a-91a7-14f71a64bcff&k=69317)
+2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/27/1990596.htm)
 
 ### Related:
 

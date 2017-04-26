@@ -7,10 +7,10 @@ Protesting former staff at traveloperator Thomas Cook (TCG.L) were arrested on T
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0804/breaking1.html?via=mr)
-2. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/leisure/article6738462.ece)
-3. [RTÉ](http://www.rte.ie/news/2009/0804/thomascook.html)
-4. [Reuters](http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSL434453020090804)
+1. [RTÉ](http://www.rte.ie/news/2009/0804/thomascook.html)
+2. [Reuters](http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSL434453020090804)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0804/breaking1.html?via=mr)
+4. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/leisure/article6738462.ece)
 
 ### Related:
 

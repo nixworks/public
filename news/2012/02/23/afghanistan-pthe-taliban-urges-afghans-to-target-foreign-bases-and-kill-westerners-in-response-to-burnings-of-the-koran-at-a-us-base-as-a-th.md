@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/23/us-afghanistan-korans-idUSTRE81K09T20120223)
-2. [Reuters via Alertnet](http://www.trust.org/alertnet/news/afghan-protesters-attack-norwegian-base-over-koran-burning)
+1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/afghan-protesters-attack-norwegian-base-over-koran-burning)
+2. [Reuters](http://www.reuters.com/article/2012/02/23/us-afghanistan-korans-idUSTRE81K09T20120223)
 
 ### Related:
 

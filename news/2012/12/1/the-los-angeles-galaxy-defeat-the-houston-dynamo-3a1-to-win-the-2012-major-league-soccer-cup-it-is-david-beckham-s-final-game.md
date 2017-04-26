@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MLS Soccer](http://www.mlssoccer.com/matchcenter/2012-12-01-la-v-hou/recap)
-2. [Houston Chronicle](http://www.chron.com/sports/dynamo/article/Galaxy-claim-back-to-back-MLS-Cup-titles-4083953.php)
+1. [Houston Chronicle](http://www.chron.com/sports/dynamo/article/Galaxy-claim-back-to-back-MLS-Cup-titles-4083953.php)
+2. [MLS Soccer](http://www.mlssoccer.com/matchcenter/2012-12-01-la-v-hou/recap)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Syrian rebels including jihadists counter-attacked the army and its allies on Fr
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-aleppo-putin-idINR4N1CR024)
-2. [RT](https://www.rt.com/news/364565-russia-putin-resume-airstrikes/)
-3. [ARA News](http://aranews.net/2016/10/syria-rebels-launch-offensive-break-regime-siege-eastern-aleppo/)
+1. [ARA News](http://aranews.net/2016/10/syria-rebels-launch-offensive-break-regime-siege-eastern-aleppo/)
+2. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-aleppo-putin-idINR4N1CR024)
+3. [RT](https://www.rt.com/news/364565-russia-putin-resume-airstrikes/)
 4. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-offensive-idINKCN12S0UJ)
 
 ### Related:

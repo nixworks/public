@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/24/AR2010032401528.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8584707.stm)
 2. [Radio Netherlands Worldwide](http://www.rnw.nl/international-justice/article/nigerian-human-rights-group-debates-sharia-law)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8584707.stm)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/24/AR2010032401528.html)
 
 ### Related:
 

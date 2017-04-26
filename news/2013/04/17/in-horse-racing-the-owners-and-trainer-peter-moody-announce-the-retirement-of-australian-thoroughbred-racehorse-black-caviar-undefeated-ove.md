@@ -7,9 +7,9 @@ Unbeaten Australian mare Black Caviar is to be retired after winning 25 consecut
 
 ### Source:
 
-1. [ABC News Australia](http://www.abc.net.au/news/2013-04-17/worlds-greatest-racehorse-black-caviar-is-retired/4635032)
+1. [BBC](http://www.bbc.co.uk/sport/0/horse-racing/22179135)
 2. [The Australian](http://www.theaustralian.com.au/sport/turf-thoroughbreds/black-caviar-retired-after-25-unbeaten-race-career/story-fnajufri-1226622688219)
-3. [BBC](http://www.bbc.co.uk/sport/0/horse-racing/22179135)
+3. [ABC News Australia](http://www.abc.net.au/news/2013-04-17/worlds-greatest-racehorse-black-caviar-is-retired/4635032)
 
 ### Related:
 

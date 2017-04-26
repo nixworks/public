@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/f91a2c29fa4547758c8cd1a9d1bd5816/apnewsbreak-milwaukee-archdiocese-settles-21-million)
-2. [Archdiocese of Milwaukee](http://www.archmil.org/News-2.0/Archdiocese-of-Milwaukee-Settles-Bankruptcy230866.htm)
+1. [Archdiocese of Milwaukee](http://www.archmil.org/News-2.0/Archdiocese-of-Milwaukee-Settles-Bankruptcy230866.htm)
+2. [AP](http://bigstory.ap.org/article/f91a2c29fa4547758c8cd1a9d1bd5816/apnewsbreak-milwaukee-archdiocese-settles-21-million)
 
 ### Related:
 

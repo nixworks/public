@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN #2](http://edition.cnn.com/2006/LAW/12/15/diaz.execution.ap/index.html?section=cnn_latest)
-2. [CNN #1](http://edition.cnn.com/2006/LAW/12/15/cal.death.penalty.ap/index.html?section=cnn_latest)
+1. [CNN #1](http://edition.cnn.com/2006/LAW/12/15/cal.death.penalty.ap/index.html?section=cnn_latest)
+2. [CNN #2](http://edition.cnn.com/2006/LAW/12/15/diaz.execution.ap/index.html?section=cnn_latest)
 
 ### Related:
 

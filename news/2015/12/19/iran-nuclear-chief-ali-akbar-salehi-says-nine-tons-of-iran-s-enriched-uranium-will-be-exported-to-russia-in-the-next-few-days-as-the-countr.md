@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ya Libnan](http://yalibnan.com/2015/12/19/iran-to-ship-enriched-uranium-to-russia-soon-as-it-rushes-to-secure-relief-from-sanctions/)
-2. [Reuters](http://www.reuters.com/article/us-iran-nuclear-idUSKBN0U208420151219)
+1. [Reuters](http://www.reuters.com/article/us-iran-nuclear-idUSKBN0U208420151219)
+2. [Ya Libnan](http://yalibnan.com/2015/12/19/iran-to-ship-enriched-uranium-to-russia-soon-as-it-rushes-to-secure-relief-from-sanctions/)
 
 ### Related:
 

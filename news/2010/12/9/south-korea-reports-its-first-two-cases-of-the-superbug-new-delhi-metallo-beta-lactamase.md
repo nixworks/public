@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/CTVNews/Health/20101209/south-korea-confirms-superbug-cases-101209/)
-2. [Xinhua](http://news.xinhuanet.com/english2010/health/2010-12/09/c_13642677.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/health/2010-12/09/c_13642677.htm)
+2. [CTV](http://www.ctv.ca/CTVNews/Health/20101209/south-korea-confirms-superbug-cases-101209/)
 
 ### Related:
 

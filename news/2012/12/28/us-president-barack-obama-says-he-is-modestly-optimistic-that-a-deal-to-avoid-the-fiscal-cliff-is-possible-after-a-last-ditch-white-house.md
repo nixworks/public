@@ -7,8 +7,8 @@ US President Barack Obama says he is &quot;modestly optimistic&quot; that a deal
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/28/us-usa-fiscal-obama-congress-idUSBRE8BR0M120121228)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-20862716)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20862716)
+2. [Reuters](http://www.reuters.com/article/2012/12/28/us-usa-fiscal-obama-congress-idUSBRE8BR0M120121228)
 
 ### Related:
 

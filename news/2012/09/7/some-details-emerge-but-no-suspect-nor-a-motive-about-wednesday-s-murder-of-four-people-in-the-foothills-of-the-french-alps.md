@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/8301-202_162-57508088/official-family-feud-suspected-in-brutal-murder-of-4-in-french-alps/)
-2. [CNN](http://edition.cnn.com/2012/09/07/world/europe/france-shooting-probe/index.html)
+1. [CNN](http://edition.cnn.com/2012/09/07/world/europe/france-shooting-probe/index.html)
+2. [CBS News](http://www.cbsnews.com/8301-202_162-57508088/official-family-feud-suspected-in-brutal-murder-of-4-in-french-alps/)
 
 ### Related:
 

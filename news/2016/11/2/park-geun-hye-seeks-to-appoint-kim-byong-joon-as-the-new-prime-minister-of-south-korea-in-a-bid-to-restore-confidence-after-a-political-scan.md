@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/11/02/asia/south-korea-park-guen-hye-choi-soon-sil/index.html)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SKOREA_POLITICS_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SKOREA_POLITICS_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [CNN](http://edition.cnn.com/2016/11/02/asia/south-korea-park-guen-hye-choi-soon-sil/index.html)
 
 ### Related:
 

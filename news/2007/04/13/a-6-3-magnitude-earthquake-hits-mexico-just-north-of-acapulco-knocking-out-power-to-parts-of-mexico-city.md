@@ -7,8 +7,8 @@ A strong earthquake shook southern Mexico early Friday, knocking out power in pa
 
 ### Source:
 
-1. [AP via MSNBC](http://www.msnbc.msn.com/id/18085190/)
-2. [El Universal](http://www.eluniversal.com.mx/notas/418260.html)
+1. [El Universal](http://www.eluniversal.com.mx/notas/418260.html)
+2. [AP via MSNBC](http://www.msnbc.msn.com/id/18085190/)
 
 ### Related:
 

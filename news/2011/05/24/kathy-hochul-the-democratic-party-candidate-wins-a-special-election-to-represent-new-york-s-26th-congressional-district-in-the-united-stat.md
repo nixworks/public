@@ -7,8 +7,8 @@ The morning after Democrat Kathy Hochul used the Medicare issue to win what had 
 
 ### Source:
 
-1. [New York Times](http://thecaucus.blogs.nytimes.com/2011/05/24/heavy-turnout-in-new-york-congressional-election/)
-2. [AP via MSNBC](http://www.msnbc.msn.com/id/43161820/ns/politics-capitol_hill/t/democrat-wins-house-election-medicare-issue/)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/43161820/ns/politics-capitol_hill/t/democrat-wins-house-election-medicare-issue/)
+2. [New York Times](http://thecaucus.blogs.nytimes.com/2011/05/24/heavy-turnout-in-new-york-congressional-election/)
 
 ### Related:
 

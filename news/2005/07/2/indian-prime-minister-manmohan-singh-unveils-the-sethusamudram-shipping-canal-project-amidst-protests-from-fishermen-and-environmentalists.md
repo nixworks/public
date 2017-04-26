@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Rediff](http://us.rediff.com/news/2005/jul/02sethu.htm)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/DEL205659.htm)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/DEL205659.htm)
+2. [Rediff](http://us.rediff.com/news/2005/jul/02sethu.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2010/09/17/poland-detains-exiled-chechen-leader-zakayev/)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/17/poland.separatist.leader/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/17/poland.separatist.leader/)
+2. [euronews](http://www.euronews.net/2010/09/17/poland-detains-exiled-chechen-leader-zakayev/)
 
 ### Related:
 

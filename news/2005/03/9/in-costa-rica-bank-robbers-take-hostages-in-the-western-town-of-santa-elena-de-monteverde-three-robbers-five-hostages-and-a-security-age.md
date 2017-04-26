@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [San Jose Mercury News](http://www.mercurynews.com/mld/mercurynews/news/world/11093619.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4334659.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4334659.stm)
+2. [San Jose Mercury News](http://www.mercurynews.com/mld/mercurynews/news/world/11093619.htm)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N09295420.htm)
 
 ### Related:

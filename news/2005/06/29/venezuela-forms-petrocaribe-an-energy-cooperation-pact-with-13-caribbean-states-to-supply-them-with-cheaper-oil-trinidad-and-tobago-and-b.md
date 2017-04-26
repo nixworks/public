@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [Caribbean Net News](http://www.caribbeannetnews.com/2005/06/30/regional.shtml)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aUHur910fpqA&refer=latin_america)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8934470)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8934470)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aUHur910fpqA&refer=latin_america)
 
 ### Related:
 

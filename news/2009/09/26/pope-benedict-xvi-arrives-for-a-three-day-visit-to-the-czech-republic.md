@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CTK](http://www.ceskenoviny.cz/news/zpravy/pope-benedict-xvi-lands-in-prague-greeted-by-klaus/399695&id_seznam=)
-2. [Press TV](http://www.presstv.ir/detail.aspx?id=107152&sectionid=351020606)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gmMlaMdpDXTlU__cRV4qy0UFcP3gD9AV08RO0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gmMlaMdpDXTlU__cRV4qy0UFcP3gD9AV08RO0)
+2. [CTK](http://www.ceskenoviny.cz/news/zpravy/pope-benedict-xvi-lands-in-prague-greeted-by-klaus/399695&id_seznam=)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=107152&sectionid=351020606)
 
 ### Related:
 

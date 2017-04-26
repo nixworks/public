@@ -7,8 +7,8 @@ Air force bombs 3 smuggling tunnels in Gaza Strip meant to help kidnap and attac
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/20109505237711605.html)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=187102)
+1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=187102)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/20109505237711605.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/05/c_13478728.htm)
 4. [Jerusalem Post](http://www.jpost.com/Features/FrontLines/Article.aspx?id=186124)
 5. [BBC](http://www.bbc.co.uk/news/world-us-canada-11191266)

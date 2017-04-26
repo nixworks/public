@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/06/01/africa/egyptair-possible-signal-detected/index.html)
-2. [The New York Times](http://www.nytimes.com/2016/06/02/world/middleeast/egyptair-black-box.html)
+1. [The New York Times](http://www.nytimes.com/2016/06/02/world/middleeast/egyptair-black-box.html)
+2. [CNN](http://edition.cnn.com/2016/06/01/africa/egyptair-possible-signal-detected/index.html)
 
 ### Related:
 

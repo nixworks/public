@@ -10,7 +10,7 @@ _Context: Justice, Ledbetter v. Goodyear, Ruth Bader Ginsburg, Supreme Court of 
 _Context: Lebanon, Nahr el-Bared, al-Qaeda, refugee_
 
 ### [ United States health officials quarantine a man who may have exposed passengers on two transatlantic flights to extensively drug resistant tuberculosis. ](/news/2007/05/29/united-states-health-officials-quarantine-a-man-who-may-have-exposed-passengers-on-two-transatlantic-flights-to-extensively-drug-resistant.md)
-_Context: United States, extensively drug resistant tuberculosis, quarantine, transatlantic flight_
+_Context: U.S., extensively drug resistant tuberculosis, quarantine, transatlantic flight_
 
 ### [ Russia successfully tests its new RS-24 ICBM, purportedly designed to defeat present and future anti-missile systems. ](/news/2007/05/29/russia-successfully-tests-its-new-rs-24-icbm-purportedly-designed-to-defeat-present-and-future-anti-missile-systems.md)
 _Context: ICBM, RS-24, Russia, anti-ballistic missile_
@@ -25,7 +25,7 @@ _Context: Bashar al-Assad, Syrian President, election_
 _Context: State Food and Drug Administration, Zheng Xiaoyu, bribe, death penalty, recall_
 
 ### [ Ehud Barak, former Prime Minister of Israel, wins the first round of the Israeli Labor Party leadership election and faces a runoff against former secret service chief Ami Ayalon. ](/news/2007/05/29/ehud-barak-former-prime-minister-of-israel-wins-the-first-round-of-the-israeli-labor-party-leadership-election-and-faces-a-runoff-against.md)
-_Context: Ami Ayalon, Ehud Barak, Israel, Labor Party, prime minister of Israel_
+_Context: Ami Ayalon, Ehud Barak, Israel, Labor Party, Prime Minister of Israel_
 
 ### [ Adam Air announces a deal which will ensure the recovery of the black boxes from Adam Air Flight 574. ](/news/2007/05/29/adam-air-announces-a-deal-which-will-ensure-the-recovery-of-the-black-boxes-from-adam-air-flight-574.md)
 _Context: Adam Air, Flight 574, black box_

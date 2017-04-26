@@ -7,8 +7,8 @@ The UN General Assembly votes to recognise the Palestinians as a non-member obse
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-11-29-UN-UN-Palestinians-Status/id-a691e9a4735f4941a34ecc7d4d3cc687)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20550864)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20550864)
+2. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-11-29-UN-UN-Palestinians-Status/id-a691e9a4735f4941a34ecc7d4d3cc687)
 
 ### Related:
 

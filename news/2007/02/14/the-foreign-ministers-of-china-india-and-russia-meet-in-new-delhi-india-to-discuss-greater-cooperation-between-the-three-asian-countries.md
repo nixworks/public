@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/feeds/ap/2007/02/14/ap3426924.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6358693.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6358693.stm)
+2. [Forbes](http://www.forbes.com/feeds/ap/2007/02/14/ap3426924.html)
 
 ### Related:
 

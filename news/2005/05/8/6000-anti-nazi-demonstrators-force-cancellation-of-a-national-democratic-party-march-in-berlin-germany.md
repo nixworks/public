@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8418947)
-2. [Deutsche Welle](http://www.dw-world.de/dw/news/0,1567,12215_1,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/news/0,1567,12215_1,00.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8418947)
 
 ### Related:
 

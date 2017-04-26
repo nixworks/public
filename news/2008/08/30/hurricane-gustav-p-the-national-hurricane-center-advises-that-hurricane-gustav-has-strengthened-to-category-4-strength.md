@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [This is London](http://www.thisislondon.co.uk/news/article-23546267-details/Cuba+evacuates+60,000+people+as+Hurricane+Gustav+sweeps+through+and+heads+for+New+Orleans/article.do)
-2. [New York Daily News](http://www.nydailynews.com/news/us_world/2008/08/30/2008-08-30_new_orleans_begins_evacuating_as_gustav_.html)
+1. [New York Daily News](http://www.nydailynews.com/news/us_world/2008/08/30/2008-08-30_new_orleans_begins_evacuating_as_gustav_.html)
+2. [AP via ''Minneapolis Star Tribune](http://www.startribune.com/nation/27697534.html)
 3. [AP via Google News](http://ap.google.com/article/ALeqM5g8-DEMtAE9q4i4ySQ0eV_qZefmRQD92SOO2O1)
-4. [AP via ''Minneapolis Star Tribune](http://www.startribune.com/nation/27697534.html)
+4. [This is London](http://www.thisislondon.co.uk/news/article-23546267-details/Cuba+evacuates+60,000+people+as+Hurricane+Gustav+sweeps+through+and+heads+for+New+Orleans/article.do)
 
 ### Related:
 

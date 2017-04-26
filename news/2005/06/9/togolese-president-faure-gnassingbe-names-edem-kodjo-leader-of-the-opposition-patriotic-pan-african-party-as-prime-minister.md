@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L08691874.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4075426.stm)
-3. [Republique Togolaise](http://www.republicoftogo.com/fr/news/news.asp?newsID=9896)
+1. [Republique Togolaise](http://www.republicoftogo.com/fr/news/news.asp?newsID=9896)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L08691874.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/africa/4075426.stm)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Britain has raised the threat level from dissident Northern Ireland militants to
 ### Source:
 
 1. [NY Times](http://www.nytimes.com/aponline/2016/05/11/world/europe/ap-eu-britain-threat-level-raised.html?_r=0)
-2. [Reuters](http://in.reuters.com/article/britain-nireland-threat-idINKCN0Y21HY)
-3. [BBC](http://www.bbc.com/news/uk-northern-ireland-36269175)
+2. [BBC](http://www.bbc.com/news/uk-northern-ireland-36269175)
+3. [Reuters](http://in.reuters.com/article/britain-nireland-threat-idINKCN0Y21HY)
 
 ### Related:
 

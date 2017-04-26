@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ReutersAlert](http://www.alertnet.org/thenews/newsdesk/L08754.htm)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-07-08T170711Z_01_MOL861535_RTRUKOC_0_GROUP-AFRICA.xml)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-07-08T170711Z_01_MOL861535_RTRUKOC_0_GROUP-AFRICA.xml)
+2. [ReutersAlert](http://www.alertnet.org/thenews/newsdesk/L08754.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PTI](http://www.ptinews.com/news/1083924_16-killed-in-rain-related-incidents-in-AP)
-2. [Deccan Chronicle](http://www.deccanchronicle.com/visakhapatnam/5-killed-500-houses-submerged-vizag-778)
+1. [Deccan Chronicle](http://www.deccanchronicle.com/visakhapatnam/5-killed-500-houses-submerged-vizag-778)
+2. [PTI](http://www.ptinews.com/news/1083924_16-killed-in-rain-related-incidents-in-AP)
 
 ### Related:
 

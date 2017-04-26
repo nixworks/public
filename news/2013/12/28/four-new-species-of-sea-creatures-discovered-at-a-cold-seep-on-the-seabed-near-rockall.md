@@ -7,5 +7,5 @@ Four animals previously unknown to science discovered in deep water off Scotland
 
 ### Source:
 
-1. [Courier](http://www.thecourier.co.uk/news/scotland/new-sea-creatures-discovery-in-atlantic-a-momentous-find-1.170266)
-2. [BBC](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-25528522)
+1. [BBC](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-25528522)
+2. [Courier](http://www.thecourier.co.uk/news/scotland/new-sea-creatures-discovery-in-atlantic-a-momentous-find-1.170266)

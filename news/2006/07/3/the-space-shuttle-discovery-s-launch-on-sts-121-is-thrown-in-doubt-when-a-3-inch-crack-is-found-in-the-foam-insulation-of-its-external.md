@@ -7,8 +7,8 @@ NASA loads the shuttle Discovery&#39;s external tank with rocket fuel in prepara
 
 ### Source:
 
-1. [Spaceflight Now/CBS News](http://www.spaceflightnow.com/shuttle/sts121/060703crack/)
-2. [MSNBC](http://www.msnbc.msn.com/id/13666974/)
+1. [MSNBC](http://www.msnbc.msn.com/id/13666974/)
+2. [Spaceflight Now/CBS News](http://www.spaceflightnow.com/shuttle/sts121/060703crack/)
 3. [Reuters](http://go.reuters.co.uk/newsArticle.jhtml?type=scienceNews&storyID=12728947&section=news&src=rss/uk/scienceNews)
 
 ### Related:

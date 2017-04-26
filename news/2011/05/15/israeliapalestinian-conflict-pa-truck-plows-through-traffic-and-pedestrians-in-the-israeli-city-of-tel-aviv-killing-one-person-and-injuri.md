@@ -7,21 +7,21 @@ Police spokesman: Truck rampage &quot;looks deliberate,&quot; but probe ongoing;
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Dozens-Shot-Injured-Near-Israel-Gaza-Border--121853324.html)
-2. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220604)
-3. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=220656)
-4. [Bloomberg](http://www.bloomberg.com/news/2011-05-15/israeli-stocks-retreat-most-in-2-months-as-israel-arabs-clash.html)
-5. [Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2011/0515/Nakba-clashes-Iran-Syria-trying-to-turn-Arab-Spring-fury-into-attacks-on-Israel)
-6. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220575)
-7. [CBS News](http://www.cbsnews.com/stories/2011/05/15/501364/main20063028.shtml)
-8. [Nowlebanon](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=271481)
-9. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/eight-said-killed-as-idf-fires-on-infiltrators-from-syria-and-lebanon-1.361841)
-10. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/israel.border.violence/index.html?hpt=T1)
+1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/israel.truck.attack/index.html)
+2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=220656)
+3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1-killed-16-hurt-as-truck-plows-into-cars-pedestrians-in-suspected-tel-aviv-terror-attack-1.361806)
+4. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/israel.border.violence/index.html?hpt=T1)
+5. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220604)
+6. [CBS News](http://www.cbsnews.com/stories/2011/05/15/501364/main20063028.shtml)
+7. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011515131427646668.html)
+8. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/05/15/bloomberg1376-LL87506S972H01-792SF38CHMIRAD6NDU45J09DRA.DTL)
+9. [Nowlebanon](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=271481)
+10. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220575)
 11. [The Australian](http://www.theaustralian.com.au/news/world/deadly-nakba-clashes-hit-israel-at-three-frontiers/story-e6frg6so-1226056427879)
-12. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011515131427646668.html)
-13. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/israel.truck.attack/index.html)
-14. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1-killed-16-hurt-as-truck-plows-into-cars-pedestrians-in-suspected-tel-aviv-terror-attack-1.361806)
-15. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/05/15/bloomberg1376-LL87506S972H01-792SF38CHMIRAD6NDU45J09DRA.DTL)
+12. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/eight-said-killed-as-idf-fires-on-infiltrators-from-syria-and-lebanon-1.361841)
+13. [Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2011/0515/Nakba-clashes-Iran-Syria-trying-to-turn-Arab-Spring-fury-into-attacks-on-Israel)
+14. [Voice of America](http://www.voanews.com/english/news/Dozens-Shot-Injured-Near-Israel-Gaza-Border--121853324.html)
+15. [Bloomberg](http://www.bloomberg.com/news/2011-05-15/israeli-stocks-retreat-most-in-2-months-as-israel-arabs-clash.html)
 
 ### Related:
 

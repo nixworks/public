@@ -7,8 +7,8 @@ Nato forces have attacked Libya&#039;s oil facilities for the first time in this
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/africa/nato-strikes-at-libyas-oil-in-bid-to-oust-gaddafi-2308962.html)
-2. [RIA Novosti](http://en.rian.ru/world/20110707/165066099.html)
+1. [RIA Novosti](http://en.rian.ru/world/20110707/165066099.html)
+2. [The Independent](http://www.independent.co.uk/news/world/africa/nato-strikes-at-libyas-oil-in-bid-to-oust-gaddafi-2308962.html)
 
 ### Related:
 

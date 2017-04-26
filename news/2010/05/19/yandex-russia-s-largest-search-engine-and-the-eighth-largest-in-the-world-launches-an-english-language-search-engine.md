@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20100519/159073419.html)
-2. [The Moscow Times](http://www.themoscowtimes.com/business/article/yandex-launches-foreign-language-search-engine/406343.html)
+1. [The Moscow Times](http://www.themoscowtimes.com/business/article/yandex-launches-foreign-language-search-engine/406343.html)
+2. [RIA Novosti](http://en.rian.ru/russia/20100519/159073419.html)
 3. [RT](http://rt.com/Business/2010-05-19/yandex-opts-latin-script.html)
 
 ### Related:

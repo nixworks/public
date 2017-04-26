@@ -7,10 +7,10 @@ In remarks that could be viewed as a shot across the bow at Russian intervention
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN0VT0H0)
-2. [Business Insider](http://www.businessinsider.com/a-multifaceted-catastrophe-turkey-has-so-alienated-everyone-it-cannot-convince-anyone-to-do-anything-2016-2)
-3. [Voice of America](http://www.voanews.com/content/syrian-rebels-ready-for-truce-if-russia-halts-airstrikes/3199672.html)
-4. [Fox News](http://www.foxnews.com/world/2016/02/21/turkey-says-it-has-right-to-launch-strikes-in-syria.html)
+1. [Business Insider](http://www.businessinsider.com/a-multifaceted-catastrophe-turkey-has-so-alienated-everyone-it-cannot-convince-anyone-to-do-anything-2016-2)
+2. [Voice of America](http://www.voanews.com/content/syrian-rebels-ready-for-truce-if-russia-halts-airstrikes/3199672.html)
+3. [Fox News](http://www.foxnews.com/world/2016/02/21/turkey-says-it-has-right-to-launch-strikes-in-syria.html)
+4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN0VT0H0)
 
 ### Related:
 

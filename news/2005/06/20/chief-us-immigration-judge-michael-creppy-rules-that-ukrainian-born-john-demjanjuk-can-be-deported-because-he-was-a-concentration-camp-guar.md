@@ -7,8 +7,8 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8842628)
-2. [WBNS, Ohio](http://www.10tv.com/Global/story.asp?S=3499248)
+1. [WBNS, Ohio](http://www.10tv.com/Global/story.asp?S=3499248)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8842628)
 3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/06/20/AR2005062001591.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L13322959.htm)
-2. [BBC](http://news.bbc.co.uk/1/hi/health/4432564.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/health/4432564.stm)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L13322959.htm)
 
 ### Related:
 

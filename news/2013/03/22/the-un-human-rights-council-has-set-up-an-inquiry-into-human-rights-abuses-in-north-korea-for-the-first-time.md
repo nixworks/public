@@ -7,8 +7,8 @@ The UN human rights council sets up an inquiry into human rights abuses in North
 
 ### Source:
 
-1. [Brookings Institution](http://www.brookings.edu/research/opinions/2013/03/21-north-korea-cohen)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-21891299)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-21891299)
+2. [Brookings Institution](http://www.brookings.edu/research/opinions/2013/03/21-north-korea-cohen)
 
 ### Related:
 

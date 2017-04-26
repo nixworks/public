@@ -7,10 +7,10 @@ Fernando Torres scores twice as Spain move top of Group C with a win that knocks
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18180616)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/18180948)
-3. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/20126141917814762.html)
-4. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/201261421337693944.html)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/18180948)
+2. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/201261421337693944.html)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/18180616)
+4. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/20126141917814762.html)
 
 ### Related:
 

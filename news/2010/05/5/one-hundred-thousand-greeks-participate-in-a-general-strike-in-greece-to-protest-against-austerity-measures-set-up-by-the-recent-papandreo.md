@@ -7,11 +7,11 @@ Protests against proposed spending cuts by the Greek government have turned viol
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKLDE6440NQ20100505)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/20105582018779620.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8661385.stm)
-4. [CBC](http://www.cbc.ca/world/story/2010/05/05/greece-protest-cuts.html)
-5. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7116511.ece)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8661385.stm)
+2. [Reuters](http://uk.reuters.com/article/idUKLDE6440NQ20100505)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7116511.ece)
+4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/20105582018779620.html)
+5. [CBC](http://www.cbc.ca/world/story/2010/05/05/greece-protest-cuts.html)
 
 ### Related:
 

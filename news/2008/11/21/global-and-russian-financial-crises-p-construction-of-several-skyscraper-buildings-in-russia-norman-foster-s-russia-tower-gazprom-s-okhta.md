@@ -8,8 +8,8 @@
 ### Source:
 
 1. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/london_2012/article5003605.ece)
-2. [The Guardian](http://www.guardian.co.uk/artanddesign/2008/nov/22/architecture-russia-norman-foster-tower)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=ahR68Rd_ozbk&refer=asia)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=ahR68Rd_ozbk&refer=asia)
+3. [The Guardian](http://www.guardian.co.uk/artanddesign/2008/nov/22/architecture-russia-norman-foster-tower)
 4. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20081122.wIOC22/BNStory/National/?page=rss&id=RTGAM.20081122.wIOC22)
 
 ### Related:

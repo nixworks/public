@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2007/07/25/news/school.php)
-2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6805300,00.html)
+1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6805300,00.html)
+2. [IHT](http://www.iht.com/articles/2007/07/25/news/school.php)
 
 ### Related:
 

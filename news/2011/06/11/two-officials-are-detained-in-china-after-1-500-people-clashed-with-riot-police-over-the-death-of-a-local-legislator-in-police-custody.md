@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/Riot-in-China-city-after-official-dies-in-police-custody/articleshow/8812254.cms)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/241748/protesters-clash-with-police-in-china)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/241748/protesters-clash-with-police-in-china)
+2. [Times of India](http://timesofindia.indiatimes.com/world/china/Riot-in-China-city-after-official-dies-in-police-custody/articleshow/8812254.cms)
 
 ### Related:
 

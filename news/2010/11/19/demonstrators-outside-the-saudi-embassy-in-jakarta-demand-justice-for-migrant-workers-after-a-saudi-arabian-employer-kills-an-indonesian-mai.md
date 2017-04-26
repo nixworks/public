@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/19/indonesia.saudi.maid.abuse/?hpt=T2)
-2. [ (''The Jakarta Post](http://www.thejakartapost.com/news/2010/11/19/foreign-minister-summons-saudi-envoy-a-third-time.html)
+1. [ (''The Jakarta Post](http://www.thejakartapost.com/news/2010/11/19/foreign-minister-summons-saudi-envoy-a-third-time.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/19/indonesia.saudi.maid.abuse/?hpt=T2)
 
 ### Related:
 

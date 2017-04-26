@@ -7,8 +7,8 @@ The banana variety enjoyed worldwide may go extinct because of a rare and soil-b
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/world/disease-threatens-the-commercial-banana-20151205-glgh1y)
-2. [Tech Times](http://www.techtimes.com/articles/113050/20151206/bananas-may-go-extinct-as-lethal-fungus-threatens-worlds-favorite-fruit.htm)
+1. [Tech Times](http://www.techtimes.com/articles/113050/20151206/bananas-may-go-extinct-as-lethal-fungus-threatens-worlds-favorite-fruit.htm)
+2. [The Sydney Morning Herald](http://www.smh.com.au/world/disease-threatens-the-commercial-banana-20151205-glgh1y)
 
 ### Related:
 

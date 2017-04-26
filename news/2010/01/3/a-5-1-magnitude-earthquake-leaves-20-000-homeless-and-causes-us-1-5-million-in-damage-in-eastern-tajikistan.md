@@ -8,8 +8,8 @@ A 5.1 magnitude earthquake hit Tajikistan, leaving 20,000 people homeless and in
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/03/tajikistan.quake/)
-2. [UPI](http://www.upi.com/Top_News/International/2010/01/03/20000-homeless-in-Tajikistan-quake/UPI-86951262556823/)
-3. [RIA Novosti](http://en.rian.ru/world/20100103/157454176.html)
+2. [RIA Novosti](http://en.rian.ru/world/20100103/157454176.html)
+3. [UPI](http://www.upi.com/Top_News/International/2010/01/03/20000-homeless-in-Tajikistan-quake/UPI-86951262556823/)
 
 ### Related:
 

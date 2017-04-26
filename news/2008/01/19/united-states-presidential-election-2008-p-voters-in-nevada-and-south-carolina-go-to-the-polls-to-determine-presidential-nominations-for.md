@@ -8,9 +8,9 @@ John McCain staved off a spirited challenge by Mike Huckabee, exorcising the gho
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2008/01/19/us/politics/19cnd-repubs.html)
-2. [CNN](http://edition.cnn.com/2008/POLITICS/01/19/nevada.sc.main/index.html)
-3. [CNN](http://politicalticker.blogs.cnn.com/2008/01/19/hunter-exits-presidential-race/)
-4. [CNN](http://www.cnn.com/2008/POLITICS/01/19/nevada.sc.main/index.html)
+2. [CNN](http://www.cnn.com/2008/POLITICS/01/19/nevada.sc.main/index.html)
+3. [CNN](http://edition.cnn.com/2008/POLITICS/01/19/nevada.sc.main/index.html)
+4. [CNN](http://politicalticker.blogs.cnn.com/2008/01/19/hunter-exits-presidential-race/)
 
 ### Related:
 

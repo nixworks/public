@@ -8,9 +8,9 @@ Capital calm as international bodies urge military leadership to restore democra
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/201021918175213843.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/20/c_13180189.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8525665.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/africa/8526072.stm)
-4. [BBC](http://news.bbc.co.uk/2/hi/africa/8525665.stm)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/20/c_13180189.htm)
 
 ### Related:
 

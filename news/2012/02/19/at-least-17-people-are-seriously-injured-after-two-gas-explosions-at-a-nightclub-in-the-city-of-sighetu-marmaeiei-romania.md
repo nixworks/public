@@ -7,8 +7,8 @@ Two explosions injured 17 people at a nightclub in the northern Romanian town of
 
 ### Source:
 
-1. [Yahoo! News](http://ca.news.yahoo.com/romania-nightclub-blasts-injure-17-100655855.html)
-2. [Reuters](http://www.reuters.com/article/2012/02/19/us-romania-explosions-idUSTRE81I04F20120219?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
+1. [Reuters](http://www.reuters.com/article/2012/02/19/us-romania-explosions-idUSTRE81I04F20120219?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
+2. [Yahoo! News](http://ca.news.yahoo.com/romania-nightclub-blasts-injure-17-100655855.html)
 
 ### Related:
 

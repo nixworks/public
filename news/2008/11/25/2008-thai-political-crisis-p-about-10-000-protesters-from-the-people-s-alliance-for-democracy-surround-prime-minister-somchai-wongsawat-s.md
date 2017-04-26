@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Melbourne Herald-Sun](http://www.news.com.au/heraldsun/story/0,21985,24709532-23109,00.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iML-ld_s4buO1hIRrtwJKEtKbBcg)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iML-ld_s4buO1hIRrtwJKEtKbBcg)
+2. [Melbourne Herald-Sun](http://www.news.com.au/heraldsun/story/0,21985,24709532-23109,00.html)
 
 ### Related:
 

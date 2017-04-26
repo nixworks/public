@@ -7,9 +7,9 @@ US President Barack Obama has announced he will bring home 33,000 US troops from
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2011/06/23/world/asia/23prexy.html)
-2. [AFP via France 24](http://www.france24.com/en/20110622-obama-us-troop-drawdown-afghanistan)
-3. [CNN](http://www.cnn.com/2011/POLITICS/06/22/afghanistan.troops.drawdown/index.html)
+1. [CNN](http://www.cnn.com/2011/POLITICS/06/22/afghanistan.troops.drawdown/index.html)
+2. [The New York Times](http://www.nytimes.com/2011/06/23/world/asia/23prexy.html)
+3. [AFP via France 24](http://www.france24.com/en/20110622-obama-us-troop-drawdown-afghanistan)
 4. [Sydney Morning Herald](http://www.smh.com.au/world/obama-announces-afghan-drawdown-20110623-1gg8h.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo](http://old.news.yahoo.com/s/nm/20111210/ts_nm/us_philippines_crash)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PHILIPPINES_PLANE_CRASH?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PHILIPPINES_PLANE_CRASH?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Reuters via Yahoo](http://old.news.yahoo.com/s/nm/20111210/ts_nm/us_philippines_crash)
 
 ### Related:
 

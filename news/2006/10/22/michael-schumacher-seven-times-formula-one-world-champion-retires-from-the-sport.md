@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Canada.com](http://www.canada.com/topics/sports/story.html?id=cee2bcf8-dddd-46ac-a6d6-b486caae0e0f&k=52421)
-2. [BBC News](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6075440.stm)
+1. [BBC News](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6075440.stm)
+2. [Canada.com](http://www.canada.com/topics/sports/story.html?id=cee2bcf8-dddd-46ac-a6d6-b486caae0e0f&k=52421)
 
 ### Related:
 

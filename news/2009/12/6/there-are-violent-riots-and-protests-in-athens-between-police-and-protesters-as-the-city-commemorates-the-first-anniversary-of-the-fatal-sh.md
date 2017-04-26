@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8396693.stm)
-2. [The Guardian](http://www.guardian.co.uk/world/2009/dec/06/greece-riots-anniversary-teenager-death)
-3. [Sky News](http://news.sky.com/skynews/Home/World-News/Greece-Riots-Police-In-Athens-Clash-With-Protesters-Over-Teenager-Shot-Dead-By-Officers-In-2008/Article/200912115493465)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Greece-Riots-Police-In-Athens-Clash-With-Protesters-Over-Teenager-Shot-Dead-By-Officers-In-2008/Article/200912115493465)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8396693.stm)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/dec/06/greece-riots-anniversary-teenager-death)
 
 ### Related:
 

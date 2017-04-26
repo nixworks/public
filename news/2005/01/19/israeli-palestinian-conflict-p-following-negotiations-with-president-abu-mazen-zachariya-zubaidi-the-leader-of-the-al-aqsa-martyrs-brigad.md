@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/default.stm)
-2. [China View](http://news.xinhuanet.com/english/2005-01/19/content_2482295.htm)
-3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/1410E40C-1E37-4747-873C-63F2DFB54D8F.htm)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/529301.html)
-5. [Pravda](http://newsfromrussia.com/world/2005/01/19/57901.html)
-6. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4189007.stm)
+1. [China View](http://news.xinhuanet.com/english/2005-01/19/content_2482295.htm)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/529301.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4189007.stm)
+4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/default.stm)
+5. [Al Jazeera](http://english.aljazeera.net/NR/exeres/1410E40C-1E37-4747-873C-63F2DFB54D8F.htm)
+6. [Pravda](http://newsfromrussia.com/world/2005/01/19/57901.html)
 
 ### Related:
 

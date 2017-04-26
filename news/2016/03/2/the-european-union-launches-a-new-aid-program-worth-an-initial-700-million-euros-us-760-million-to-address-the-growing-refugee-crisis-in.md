@@ -7,8 +7,8 @@ The European Union, faced with a growing refugee crisis in Greece, launched a ne
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-eu-idUSKCN0W41DB)
-2. [Kathimerini](http://www.ekathimerini.com/206539/article/ekathimerini/news/eu-eyes-spending-700-million-euros-for-refugee-crisis)
+1. [Kathimerini](http://www.ekathimerini.com/206539/article/ekathimerini/news/eu-eyes-spending-700-million-euros-for-refugee-crisis)
+2. [Reuters](http://www.reuters.com/article/us-europe-migrants-eu-idUSKCN0W41DB)
 3. [The New York Times](http://www.nytimes.com/2016/03/03/world/europe/eu-aid-migrants-greece.html)
 
 ### Related:

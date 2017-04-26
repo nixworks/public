@@ -7,9 +7,9 @@ A new deal will ban Australian imitation champagne and sherry from the EU - but 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11150057)
-2. [ABC Online](http://www.abc.net.au/rural/news/content/201009/s2999289.htm)
-3. [People's Daily](http://english.people.com.cn/90001/90778/90858/90865/7124752.html)
+1. [ABC Online](http://www.abc.net.au/rural/news/content/201009/s2999289.htm)
+2. [People's Daily](http://english.people.com.cn/90001/90778/90858/90865/7124752.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-11150057)
 
 ### Related:
 

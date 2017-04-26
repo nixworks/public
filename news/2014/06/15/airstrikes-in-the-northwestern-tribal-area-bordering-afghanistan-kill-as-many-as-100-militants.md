@@ -7,8 +7,8 @@ A comprehensive operation against terrorists is being launched upon direction of
 
 ### Source:
 
-1. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/pakistan-kills-mastermind-behind-2014-karachi-airport-attacks/)
-2. [Dunya News](http://dunyanews.tv/index.php/en/Pakistan/225567-Negotiations-end-Pak-Army-formally-launches-opera)
+1. [Dunya News](http://dunyanews.tv/index.php/en/Pakistan/225567-Negotiations-end-Pak-Army-formally-launches-opera)
+2. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/pakistan-kills-mastermind-behind-2014-karachi-airport-attacks/)
 3. [Canadian Press via (''Nanaimo Daily News](http://www.nanaimodailynews.com/news/airstrikes-in-pakistan-s-northwest-kill-as-many-as-100-militants-1.1130097)
 
 ### Related:

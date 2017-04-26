@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/6ae1ca3511a24283a1b52590e219fd23/obama-taps-marine-general-lead-joint-chiefs)
-2. [New York Times](http://www.nytimes.com/2015/05/06/us/obama-nominates-marine-gen-joseph-dunford-as-chairman-of-joint-chiefs.html)
+1. [New York Times](http://www.nytimes.com/2015/05/06/us/obama-nominates-marine-gen-joseph-dunford-as-chairman-of-joint-chiefs.html)
+2. [AP](http://bigstory.ap.org/article/6ae1ca3511a24283a1b52590e219fd23/obama-taps-marine-general-lead-joint-chiefs)
 
 ### Related:
 

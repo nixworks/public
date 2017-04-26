@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via ''Global Post](http://www.globalpost.com/dispatch/news/afp/140601/bombing-at-northeast-nigeria-football-match-kills-at-least-40)
-2. [CBC](http://www.cbc.ca/news/world/gilberte-bussi%C3%A8re-canadian-nun-and-2-priests-released-in-cameroon-1.2661017)
+1. [CBC](http://www.cbc.ca/news/world/gilberte-bussi%C3%A8re-canadian-nun-and-2-priests-released-in-cameroon-1.2661017)
+2. [AFP via ''Global Post](http://www.globalpost.com/dispatch/news/afp/140601/bombing-at-northeast-nigeria-football-match-kills-at-least-40)
 
 ### Related:
 

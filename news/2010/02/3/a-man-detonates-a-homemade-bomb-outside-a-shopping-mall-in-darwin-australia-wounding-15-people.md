@@ -7,8 +7,8 @@ At least 15 people were injured in a blast in a Darwin bank when a customer push
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/nation/darwin-shop-complex-blast-injures-13/story-e6frg6nf-1225826387699)
-2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/blast-injures-15-in-darwin-bank-20100203-ncjp.html)
+1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/blast-injures-15-in-darwin-bank-20100203-ncjp.html)
+2. [The Australian](http://www.theaustralian.com.au/news/nation/darwin-shop-complex-blast-injures-13/story-e6frg6nf-1225826387699)
 
 ### Related:
 

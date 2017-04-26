@@ -7,8 +7,8 @@ Joining U.S. forces acting in Iraqi skies, France conducted its first airstrike 
 
 ### Source:
 
-1. [The Diplomat](http://thediplomat.com/2014/09/malaysian-sources-comfort-women-joining-islamic-state/)
-2. [Fox News](http://www.foxnews.com/world/2014/09/19/france-isis-strike/)
+1. [Fox News](http://www.foxnews.com/world/2014/09/19/france-isis-strike/)
+2. [The Diplomat](http://thediplomat.com/2014/09/malaysian-sources-comfort-women-joining-islamic-state/)
 
 ### Related:
 

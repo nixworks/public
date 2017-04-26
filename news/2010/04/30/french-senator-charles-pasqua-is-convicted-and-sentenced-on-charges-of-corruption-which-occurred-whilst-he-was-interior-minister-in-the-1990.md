@@ -7,9 +7,9 @@ Former&#x20;interior&#x20;minister&#x20;Charles&#x20;Pasqua&#x20;has&#x20;been&#
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8654464.stm)
+1. [France24](http://www.france24.com/en/20100430-france-former-minister-pasqua-gets-one-year-suspended-sentence-corruption)
 2. [China Post](http://www.chinapost.com.tw/international/europe/2010/05/01/254670/French-ex-interior.htm)
-3. [France24](http://www.france24.com/en/20100430-france-former-minister-pasqua-gets-one-year-suspended-sentence-corruption)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8654464.stm)
 
 ### Related:
 

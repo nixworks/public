@@ -7,8 +7,8 @@ Pirates operating off the Somali coast kidnap six crew from a Danish ship though
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12191589)
-2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1485967&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
+1. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1485967&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12191589)
 
 ### Related:
 

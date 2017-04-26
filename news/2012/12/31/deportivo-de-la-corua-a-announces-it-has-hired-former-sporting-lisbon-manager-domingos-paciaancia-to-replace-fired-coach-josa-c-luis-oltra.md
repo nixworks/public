@@ -7,8 +7,8 @@ Having amassed just 12 points from their opening 17 games to lie bottom of the L
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/news/newsid=1909654.html)
-2. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1978325.html)
+1. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1978325.html)
+2. [UEFA](http://www.uefa.com/news/newsid=1909654.html)
 
 ### Related:
 

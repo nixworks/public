@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/health/story/2010/10/22/rot-disease-uganda.html)
-2. [Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_594149.html)
+1. [Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_594149.html)
+2. [CBC](http://www.cbc.ca/health/story/2010/10/22/rot-disease-uganda.html)
 
 ### Related:
 

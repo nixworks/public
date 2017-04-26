@@ -7,9 +7,9 @@ French investigators believe at least two assassins were responsible for murders
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/voices/editorials/leading-articke-discord-will-not-help-solve-this-case-8120659.html)
-2. [The Week](http://www.theweek.co.uk/crime/annecy-shootings/48900/annecy-murders-%E2%80%98were-political-assassination%E2%80%99-hit-squad)
-3. [Het Laatste Nieuws](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.hln.be%2Fhln%2Fnl%2F960%2FBuitenland%2Farticle%2Fdetail%2F1497940%2F2012%2F09%2F09%2FWaren-moordenaars-Annecy-uit-op-geheime-militaire-technologie.dhtml&act=url)
+1. [The Week](http://www.theweek.co.uk/crime/annecy-shootings/48900/annecy-murders-%E2%80%98were-political-assassination%E2%80%99-hit-squad)
+2. [Het Laatste Nieuws](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.hln.be%2Fhln%2Fnl%2F960%2FBuitenland%2Farticle%2Fdetail%2F1497940%2F2012%2F09%2F09%2FWaren-moordenaars-Annecy-uit-op-geheime-militaire-technologie.dhtml&act=url)
+3. [The Independent](http://www.independent.co.uk/voices/editorials/leading-articke-discord-will-not-help-solve-this-case-8120659.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/International/wireStory?id=2361439&CMP=OTC-RSSFeeds0312)
-2. [Associated Press](http://rdu.news14.com/content/headlines/?ArID=89849&SecID=2)
+1. [Associated Press](http://rdu.news14.com/content/headlines/?ArID=89849&SecID=2)
+2. [ABC News](http://abcnews.go.com/International/wireStory?id=2361439&CMP=OTC-RSSFeeds0312)
 
 ### Related:
 

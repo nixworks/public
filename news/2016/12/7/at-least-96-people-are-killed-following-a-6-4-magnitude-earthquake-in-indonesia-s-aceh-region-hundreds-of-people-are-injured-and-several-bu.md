@@ -7,8 +7,8 @@ A magnitude 6.5 earthquake struck off the coast of Sumatra, Indonesia.
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/2016/12/06/strong-earthquake-hits-off-sumatra/95061976/)
-2. [BBC](http://www.bbc.com/news/world-asia-38232611)
+1. [BBC](http://www.bbc.com/news/world-asia-38232611)
+2. [USA Today](http://www.usatoday.com/story/news/2016/12/06/strong-earthquake-hits-off-sumatra/95061976/)
 3. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:

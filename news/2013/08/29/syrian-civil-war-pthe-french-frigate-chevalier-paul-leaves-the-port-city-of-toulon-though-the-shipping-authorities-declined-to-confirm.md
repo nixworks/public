@@ -7,14 +7,14 @@ MPs vote against possible military action against Syria, ruling out involvement 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2013/aug/29/uk-intelligence-syrian-regime-chemical-weapons)
-2. [Voice of Russia](http://voiceofrussia.com/2013_08_29/France-issues-out-most-up-to-date-naval-vessel-to-Syria-6608/?from=menu)
+1. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/171397#.Uh818hswf4S)
+2. [Reuters](http://www.reuters.com/article/2013/08/29/us-syria-crisis-russia-navy-idUSBRE97S0AK20130829)
 3. [Reuters](http://www.reuters.com/article/2013/08/29/us-syria-crisis-hollande-idUSBRE97S0CU20130829)
-4. [Xinhua](http://news.xinhuanet.com/english/video/2013-08/29/c_132672994.htm)
-5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10273157/Syria-crisis-Britain-sends-six-Typhoon-fighter-jets-to-Cyprus-ahead-of-military-strikes.html)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10273157/Syria-crisis-Britain-sends-six-Typhoon-fighter-jets-to-Cyprus-ahead-of-military-strikes.html)
+5. [The Guardian](http://www.theguardian.com/world/2013/aug/29/uk-intelligence-syrian-regime-chemical-weapons)
 6. [ (BBC](http://www.bbc.co.uk/news/uk-politics-23892783)
-7. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/171397#.Uh818hswf4S)
-8. [Reuters](http://www.reuters.com/article/2013/08/29/us-syria-crisis-russia-navy-idUSBRE97S0AK20130829)
+7. [Voice of Russia](http://voiceofrussia.com/2013_08_29/France-issues-out-most-up-to-date-naval-vessel-to-Syria-6608/?from=menu)
+8. [Xinhua](http://news.xinhuanet.com/english/video/2013-08/29/c_132672994.htm)
 9. [Jerusalem Post](http://www.jpost.com/Defense/Israel-will-hold-Assad-responsible-if-Hezbollah-attacks-324615)
 
 ### Related:

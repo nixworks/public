@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20080928-foreign-warships-surround-somali-pirates-somalia&navi=AFRIQUE)
-2. [CNN](http://edition.cnn.com/2008/WORLD/africa/09/28/somalia.piracy.ukraine/index.html)
+1. [CNN](http://edition.cnn.com/2008/WORLD/africa/09/28/somalia.piracy.ukraine/index.html)
+2. [France 24](http://www.france24.com/en/20080928-foreign-warships-surround-somali-pirates-somalia&navi=AFRIQUE)
 
 ### Related:
 

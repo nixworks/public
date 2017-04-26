@@ -7,10 +7,10 @@ The insurgents’ seizure of areas near the airport comes as the United Nations 
 
 ### Source:
 
-1. [Al Arabiya](http://english.alarabiya.net/articles/2012/08/18/232869.html)
-2. [CNN](http://www.cnn.com/2012/08/18/world/meast/syria-unrest/index.html)
-3. [The New York Times](http://www.nytimes.com/2012/08/18/world/middleeast/Syria.html)
-4. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-08-18-04-43-29)
+1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-08-18-04-43-29)
+2. [The New York Times](http://www.nytimes.com/2012/08/18/world/middleeast/Syria.html)
+3. [CNN](http://www.cnn.com/2012/08/18/world/meast/syria-unrest/index.html)
+4. [Al Arabiya](http://english.alarabiya.net/articles/2012/08/18/232869.html)
 5. [Reuters](http://in.reuters.com/article/2012/08/18/syria-crisis-idINL6E8JI0P620120818)
 
 ### Related:

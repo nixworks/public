@@ -7,10 +7,10 @@ A video emerges purportedly showing the beheadings of 21 Egyptian Christians who
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/15/us-mideast-crisis-libya-egypt-idUSKBN0LJ10D20150215)
-2. [AFP via Yahoo! News](http://news.yahoo.com/egypts-sisi-calls-security-talks-libya-beheading-video-205432584.html)
-3. [Press TV](http://www.presstv.ir/Detail/2015/02/15/397755/ISIL-claims-killed-21-Egypt-Christians)
-4. [BBC](http://www.bbc.com/news/world-31481797)
+1. [AFP via Yahoo! News](http://news.yahoo.com/egypts-sisi-calls-security-talks-libya-beheading-video-205432584.html)
+2. [Press TV](http://www.presstv.ir/Detail/2015/02/15/397755/ISIL-claims-killed-21-Egypt-Christians)
+3. [BBC](http://www.bbc.com/news/world-31481797)
+4. [Reuters](http://www.reuters.com/article/2015/02/15/us-mideast-crisis-libya-egypt-idUSKBN0LJ10D20150215)
 
 ### Related:
 

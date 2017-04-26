@@ -7,9 +7,9 @@ President Jacob Zuma lived to lead South Africa for another day after a DA motio
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/safrica-zuma-impeachment-idINKCN0X21SY)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/south-african-parliament-to-debate-motion-against-president/2016/04/05/8af39506-fb2b-11e5-813a-90ab563f0dde_story.html)
-3. [News24](http://www.news24.com/news24/SouthAfrica/News/zuma-survives-impeachment-vote-to-lead-another-day-20160405)
+1. [News24](http://www.news24.com/news24/SouthAfrica/News/zuma-survives-impeachment-vote-to-lead-another-day-20160405)
+2. [Reuters](http://in.reuters.com/article/safrica-zuma-impeachment-idINKCN0X21SY)
+3. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/south-african-parliament-to-debate-motion-against-president/2016/04/05/8af39506-fb2b-11e5-813a-90ab563f0dde_story.html)
 
 ### Related:
 

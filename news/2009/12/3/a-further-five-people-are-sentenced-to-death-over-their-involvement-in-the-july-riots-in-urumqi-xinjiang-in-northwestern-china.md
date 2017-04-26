@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/20091239238969424.html)
-2. [Global Times](http://china.globaltimes.cn/society/2009-12/489415.html)
+1. [Global Times](http://china.globaltimes.cn/society/2009-12/489415.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/20091239238969424.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8392460.stm)
 
 ### Related:

@@ -9,9 +9,9 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 
 1. [DNA](http://www.dnaindia.com/world/report_iraqi-forces-free-hostages-from-church-19-killed_1460477-all)
 2. [One India](http://news.oneindia.in/2010/11/01/iraqi-hostages-freed-from-church-19-killed.html)
-3. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle09.asp?xfile=data/middleeast/2010/November/middleeast_November16.xml&section=middleeast)
+3. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/37-hostages-killed-in-Baghdad-church-drama-Official/articleshow/6849606.cms)
 4. [Deccan Chronicle](http://www.deccanchronicle.com/international/58-killed-botched-bid-free-iraq-church-hostages-658)
-5. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/37-hostages-killed-in-Baghdad-church-drama-Official/articleshow/6849606.cms)
+5. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle09.asp?xfile=data/middleeast/2010/November/middleeast_November16.xml&section=middleeast)
 
 ### Related:
 

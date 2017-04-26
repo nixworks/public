@@ -7,8 +7,8 @@ Protesters gathered in downtown Lima against the candidacy of Keiko Fujimori, da
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/slideshow/presidential-panic-peru-protests-frontrunner-days-election-n551471)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/the_americas/peruvians-protest-fujimoris-rule-as-daughter-leads-in-polls/2016/04/05/64a51e52-fb84-11e5-813a-90ab563f0dde_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/the_americas/peruvians-protest-fujimoris-rule-as-daughter-leads-in-polls/2016/04/05/64a51e52-fb84-11e5-813a-90ab563f0dde_story.html)
+2. [NBC News](http://www.nbcnews.com/slideshow/presidential-panic-peru-protests-frontrunner-days-election-n551471)
 3. [Prensa Latina](http://plenglish.com/index.php?option=com_content&task=view&id=4758361&Itemid=1)
 
 ### Related:

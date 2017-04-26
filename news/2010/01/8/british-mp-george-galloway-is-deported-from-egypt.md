@@ -7,8 +7,8 @@ British MP George Galloway, who led the Viva Palestina to Gaza, put on London fl
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/8447847.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201018973051973.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201018973051973.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/8447847.stm)
 
 ### Related:
 

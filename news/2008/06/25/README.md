@@ -31,7 +31,7 @@ _Context: Henderson, Kentucky, plastics plant_
 _Context: Maori, New Zealand Dollar, New Zealand government, reconciliation_
 
 ### [ The Prime Minister of Israel Ehud Olmert strikes a deal with the Labor Party to avoid dissolution of the Knesset in return for Olmert holding a leadership contest for the Kadima party by September. ](/news/2008/06/25/the-prime-minister-of-israel-ehud-olmert-strikes-a-deal-with-the-labor-party-to-avoid-dissolution-of-the-knesset-in-return-for-olmert-holdi.md)
-_Context: Ehud Olmert, Kadima, Labor Party, parliament in Israel, prime minister of Israel_
+_Context: Ehud Olmert, Kadima, Labor Party, Prime Minister of Israel, parliament in Israel_
 
 ## [Previous Day...](/news/2008/06/24/index.md)
 

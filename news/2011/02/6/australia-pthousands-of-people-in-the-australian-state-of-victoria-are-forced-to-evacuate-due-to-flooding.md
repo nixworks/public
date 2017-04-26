@@ -8,9 +8,9 @@ Sydney has sweated through its hottest night on record to end its longest heatwa
 ### Source:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/environment/weather/residents-flee-perth-bushfire-20110206-1ai55.html)
-2. [The Sydney Morning Herald](http://www.smh.com.au/environment/weather/hottest-night-on-record-but-relief-only-hours-away-20110206-1ai0i.html)
-3. [Sky News](http://www.skynews.com.au/eco/article.aspx?id=573817&vId=)
-4. [News Limited](http://www.news.com.au/national/weather-promts-3500-calls-for-help/story-e6frfkvr-1226000805781?from=public_rss)
+2. [Sky News](http://www.skynews.com.au/eco/article.aspx?id=573817&vId=)
+3. [News Limited](http://www.news.com.au/national/weather-promts-3500-calls-for-help/story-e6frfkvr-1226000805781?from=public_rss)
+4. [The Sydney Morning Herald](http://www.smh.com.au/environment/weather/hottest-night-on-record-but-relief-only-hours-away-20110206-1ai0i.html)
 
 ### Related:
 

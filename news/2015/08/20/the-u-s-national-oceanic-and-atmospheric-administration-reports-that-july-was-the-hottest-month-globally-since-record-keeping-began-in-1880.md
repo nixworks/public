@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NOAA](http://www.ncdc.noaa.gov/sotc/summary-info/global/201507)
-2. [CBS News](http://www.cbsnews.com/news/july-2015-was-hottest-month-on-record-globally/)
+1. [CBS News](http://www.cbsnews.com/news/july-2015-was-hottest-month-on-record-globally/)
+2. [NOAA](http://www.ncdc.noaa.gov/sotc/summary-info/global/201507)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22566260)
-2. [Reuters via ''Chicago Tribune](http://www.chicagotribune.com/entertainment/sns-rt-us-eurovisionbre94h0bu-20130518,0,2211087.story)
+1. [Reuters via ''Chicago Tribune](http://www.chicagotribune.com/entertainment/sns-rt-us-eurovisionbre94h0bu-20130518,0,2211087.story)
+2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22566260)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Record-breaking winds and heavy rains disrupted transport today as Super-Typhoon
 ### Source:
 
 1. [Rappler](http://www.rappler.com/nation/146167-batanes-communications-cut-off-typhoon-ferdie)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-09-14/storm-lashes-south-taiwan-knocking-out-power-disrupting-flights)
-3. [The Guardian](https://www.theguardian.com/world/2016/sep/14/typhoon-meranti-megastorm-philippine-island-eye-storm-itbayat)
+2. [The Guardian](https://www.theguardian.com/world/2016/sep/14/typhoon-meranti-megastorm-philippine-island-eye-storm-itbayat)
+3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-09-14/storm-lashes-south-taiwan-knocking-out-power-disrupting-flights)
 
 ### Related:
 

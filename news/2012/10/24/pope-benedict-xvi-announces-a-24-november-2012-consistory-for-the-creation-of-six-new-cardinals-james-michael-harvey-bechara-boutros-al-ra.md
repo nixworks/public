@@ -7,8 +7,8 @@ It will be the smallest group of cardinals to be created at a consistory since 1
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/indian-among-6-new-cardinals-named-by-pope/article4027832.ece?homepage=true)
-2. [Catholic Herald](http://www.catholicherald.co.uk/news/2012/10/24/pope-names-six-new-cardinals/)
+1. [Catholic Herald](http://www.catholicherald.co.uk/news/2012/10/24/pope-names-six-new-cardinals/)
+2. [The Hindu](http://www.thehindu.com/news/international/indian-among-6-new-cardinals-named-by-pope/article4027832.ece?homepage=true)
 
 ### Related:
 

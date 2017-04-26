@@ -7,9 +7,9 @@ Thirteen men are arrested as demonstrators stage two protests in Leicester, spar
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8052875/Violence-flares-at-English-Defence-League-protest-in-Leicester.html)
-2. [Sky News](http://news.sky.com/skynews/Home/UK-News/English-Defence-League-Protesters-Attack-Sky-News-Satellite-Truck-In-Leicester-Protest/Article/201010215755108?lpos=UK_News_Top_Stories_Header_3&lid=ARTICLE_15755108_English_Defence_League_Protesters_Attack_Sky_News_Satellite_Truck_In_Leicester_Protest)
-3. [BBC](http://www.bbc.co.uk/news/uk-england-leicestershire-11505724)
+1. [Sky News](http://news.sky.com/skynews/Home/UK-News/English-Defence-League-Protesters-Attack-Sky-News-Satellite-Truck-In-Leicester-Protest/Article/201010215755108?lpos=UK_News_Top_Stories_Header_3&lid=ARTICLE_15755108_English_Defence_League_Protesters_Attack_Sky_News_Satellite_Truck_In_Leicester_Protest)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-leicestershire-11505724)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8052875/Violence-flares-at-English-Defence-League-protest-in-Leicester.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Donald Trump says he will deport or jail up to three million &quot;criminal&quot
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/donald-trump-makes-extreme-right-stephen-bannon-his-chief-strategist-10657033)
-2. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/11/13/kellyanne-conway-its-up-to-hillary-clinton-obama-to-calm-anti-trump-protesters/)
-3. [The Washington Post](https://www.washingtonpost.com/world/europe/eu-foreign-ministers-meet-to-figure-out-what-to-do-now-that-trump-has-won/2016/11/13/c0c95ed8-a9bb-11e6-8f19-21a1c65d2043_story.html)
-4. [BBC](http://www.bbc.com/news/election-us-2016-37969112)
+1. [BBC](http://www.bbc.com/news/election-us-2016-37969112)
+2. [The Washington Post](https://www.washingtonpost.com/world/europe/eu-foreign-ministers-meet-to-figure-out-what-to-do-now-that-trump-has-won/2016/11/13/c0c95ed8-a9bb-11e6-8f19-21a1c65d2043_story.html)
+3. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/11/13/kellyanne-conway-its-up-to-hillary-clinton-obama-to-calm-anti-trump-protesters/)
+4. [Sky News](http://news.sky.com/story/donald-trump-makes-extreme-right-stephen-bannon-his-chief-strategist-10657033)
 5. [BBC](http://www.bbc.co.uk/news/world-us-canada-37970146)
 
 ### Related:

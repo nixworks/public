@@ -7,9 +7,9 @@ The Philippine peso keeps on sliding as the May 9 presidential elections get clo
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/southeast-asia-stocks-idUSL3N1821MH)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-05/philippine-peso-heads-for-third-weekly-drop-before-vote-chart)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-05/emerging-asset-declines-deepen-as-u-s-jobs-eyed-for-fed-course)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-05/emerging-asset-declines-deepen-as-u-s-jobs-eyed-for-fed-course)
+2. [Reuters](http://www.reuters.com/article/southeast-asia-stocks-idUSL3N1821MH)
+3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-05/philippine-peso-heads-for-third-weekly-drop-before-vote-chart)
 
 ### Related:
 

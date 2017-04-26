@@ -7,8 +7,8 @@ Two previous cease-fire attempts failed, and both the Syrian Army and rebels hav
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/26/us-syria-crisis-idUSBRE88J0X720121026)
-2. [Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2012/1026/Holiday-cease-fire-in-Syria-pocked-with-bullets)
+1. [Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2012/1026/Holiday-cease-fire-in-Syria-pocked-with-bullets)
+2. [Reuters](http://www.reuters.com/article/2012/10/26/us-syria-crisis-idUSBRE88J0X720121026)
 
 ### Related:
 

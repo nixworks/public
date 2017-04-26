@@ -7,10 +7,10 @@ BAGHDAD ·— Ten people were killed in violence in Baghdad and northern Iraq on
 
 ### Source:
 
-1. [Africasia](http://africasia.com/services/news/newsitem.php?area=mideast&item=101004155847.7lszmvtm.php)
-2. [IFEX](http://www.ifex.org/iraq/2010/10/04/jawad_killed/)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101047561492898.html)
-4. [Khaleej Times'' via AFP](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/middleeast/2010/October/middleeast_October59.xml&section=middleeast)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101047561492898.html)
+2. [Africasia](http://africasia.com/services/news/newsitem.php?area=mideast&item=101004155847.7lszmvtm.php)
+3. [Khaleej Times'' via AFP](http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/middleeast/2010/October/middleeast_October59.xml&section=middleeast)
+4. [IFEX](http://www.ifex.org/iraq/2010/10/04/jawad_killed/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Officials said the addition of the USS Mesa Verde will give the White House &quo
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/residents-say-militants-seize-northern-iraqi-town/1937615.html)
-2. [NBC](http://www.nbcnews.com/storyline/iraq-turmoil/pentagon-sends-another-ship-arabian-gulf-amid-iraq-turmoil-n131956)
+1. [NBC](http://www.nbcnews.com/storyline/iraq-turmoil/pentagon-sends-another-ship-arabian-gulf-amid-iraq-turmoil-n131956)
+2. [Voice of America](http://www.voanews.com/content/residents-say-militants-seize-northern-iraqi-town/1937615.html)
 
 ### Related:
 

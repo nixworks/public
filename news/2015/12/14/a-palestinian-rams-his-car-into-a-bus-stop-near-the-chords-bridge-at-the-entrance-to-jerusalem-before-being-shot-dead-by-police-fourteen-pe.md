@@ -7,8 +7,8 @@ Terrorist from East Jerusalem rams his car into people waiting at a bus stop nea
 
 ### Source:
 
-1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4739169,00.html)
-2. [The Times of Israel](http://www.timesofisrael.com/at-least-9-injured-in-terror-attack-at-jerusalems-chords-bridge/)
+1. [The Times of Israel](http://www.timesofisrael.com/at-least-9-injured-in-terror-attack-at-jerusalems-chords-bridge/)
+2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4739169,00.html)
 
 ### Related:
 

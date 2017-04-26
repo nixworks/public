@@ -8,9 +8,9 @@ Rescue workers searched on Thursday through thick mud, broken homes and fallen t
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/20121263317775941.html)
-2. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/835/NDRRMC%20UPDATE%20-%20Sitrep%20NO.%2015%20re%20Effects%20of%20TY%20PABLO.pdf)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-20622343)
-4. [Reuters](http://www.reuters.com/article/2012/12/06/us-philippines-typhoon-idUSBRE8B306420121206)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-20622343)
+3. [Reuters](http://www.reuters.com/article/2012/12/06/us-philippines-typhoon-idUSBRE8B306420121206)
+4. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/835/NDRRMC%20UPDATE%20-%20Sitrep%20NO.%2015%20re%20Effects%20of%20TY%20PABLO.pdf)
 
 ### Related:
 

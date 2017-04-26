@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Vice News](https://news.vice.com/article/bangladesh-hangs-opposition-leader-nizami-may-make-islamic-radicalism-even-worse)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/home-minister-bangladesh-executes-leader-of-islamist-party/2016/05/10/961a5f50-16e2-11e6-971a-dadf9ab18869_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/home-minister-bangladesh-executes-leader-of-islamist-party/2016/05/10/961a5f50-16e2-11e6-971a-dadf9ab18869_story.html)
+2. [Vice News](https://news.vice.com/article/bangladesh-hangs-opposition-leader-nizami-may-make-islamic-radicalism-even-worse)
 3. [The New York Times](http://www.nytimes.com/2016/05/11/world/asia/bangladesh-executed-motiur-rahman-nizami.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news&_r=0)
 
 ### Related:

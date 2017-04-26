@@ -7,8 +7,8 @@ Iran accuses the UK, Germany and the UAE of refusing to refuel its passenger jet
 
 ### Source:
 
-1. [The National UAE](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100705/FOREIGN/707059976/1010)
-2. [Swissinfo](http://www.swissinfo.ch/eng/news/international/Iran_says_planes_denied_fuel_in_Germany,_UK,_UAE.html?cid=15416650)
+1. [Swissinfo](http://www.swissinfo.ch/eng/news/international/Iran_says_planes_denied_fuel_in_Germany,_UK,_UAE.html?cid=15416650)
+2. [The National UAE](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100705/FOREIGN/707059976/1010)
 3. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/10511420.stm)
 
 ### Related:

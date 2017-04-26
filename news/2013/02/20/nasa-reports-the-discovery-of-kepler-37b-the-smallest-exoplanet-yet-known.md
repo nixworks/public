@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NASA](http://www.nasa.gov/home/hqnews/2013/feb/HQ_13-057_Kepler_Tiny_Planet.html)
-2. [Science World Report](http://www.scienceworldreport.com/articles/5098/20130221/tiniest-planet-discovered-nasa-outside-solar-system.htm)
+1. [Science World Report](http://www.scienceworldreport.com/articles/5098/20130221/tiniest-planet-discovered-nasa-outside-solar-system.htm)
+2. [NASA](http://www.nasa.gov/home/hqnews/2013/feb/HQ_13-057_Kepler_Tiny_Planet.html)
 
 ### Related:
 

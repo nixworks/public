@@ -7,9 +7,9 @@ Thousands of Christians crowded into Bethlehem on an unseasonably warm Thursday 
 
 ### Source:
 
-1. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/12/24/1009885/christmas-celebrations-begin-in-israel)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8430118.stm)
-3. [Reuters](http://www.reuters.com/article/idUSTRE5BN23V20091224)
+1. [Reuters](http://www.reuters.com/article/idUSTRE5BN23V20091224)
+2. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/12/24/1009885/christmas-celebrations-begin-in-israel)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8430118.stm)
 
 ### Related:
 

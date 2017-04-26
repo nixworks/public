@@ -7,8 +7,8 @@ A Chinese-born US geologist loses his appeal against an eight-year sentence in C
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12502111)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-02-18/u-s-geologist-loses-china-appeal-on-state-secrets-charge.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-02-18/u-s-geologist-loses-china-appeal-on-state-secrets-charge.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12502111)
 
 ### Related:
 

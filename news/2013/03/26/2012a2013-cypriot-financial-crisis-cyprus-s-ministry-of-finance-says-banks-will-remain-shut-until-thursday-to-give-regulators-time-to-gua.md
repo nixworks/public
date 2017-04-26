@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/2013/03/25/news/economy/cyprus-bailout-banks)
-2. [BBC](http://www.bbc.co.uk/news/business-21936554)
+1. [BBC](http://www.bbc.co.uk/news/business-21936554)
+2. [CNN](http://money.cnn.com/2013/03/25/news/economy/cyprus-bailout-banks)
 
 ### Related:
 

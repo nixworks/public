@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1640015,00.html)
-2. [IHT](http://iht.com/articles/2005/07/05/news/berlin.php)
+1. [IHT](http://iht.com/articles/2005/07/05/news/berlin.php)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1640015,00.html)
 
 ### Related:
 

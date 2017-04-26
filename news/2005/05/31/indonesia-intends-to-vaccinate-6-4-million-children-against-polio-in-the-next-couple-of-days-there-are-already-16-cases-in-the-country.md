@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/JAK27301.htm)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/health/view/150103/1/.html)
-3. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050531.C03&irec=2)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/health/view/150103/1/.html)
+2. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050531.C03&irec=2)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/JAK27301.htm)
 
 ### Related:
 

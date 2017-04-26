@@ -7,8 +7,8 @@ There should be a complete naval and air blockade of Somalia, the African Union 
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqmVEwT19L5JmN2I32bq_GCzX_qg?docId=CNG.11954f53a361a13ab8bbeec0a689bbb3.561)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11603023)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11603023)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqmVEwT19L5JmN2I32bq_GCzX_qg?docId=CNG.11954f53a361a13ab8bbeec0a689bbb3.561)
 
 ### Related:
 

@@ -7,5 +7,5 @@ Scotland suffer a heavy defeat in the second leg of the annual shinty-hurling in
 
 ### Source:
 
-1. [BBC Sport](http://www.bbc.co.uk/sport/0/scotland/20110497)
-2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/goal-surge-sees-ireland-sweep-scotland-aside-in-shinty-test-572096.html)
+1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/goal-surge-sees-ireland-sweep-scotland-aside-in-shinty-test-572096.html)
+2. [BBC Sport](http://www.bbc.co.uk/sport/0/scotland/20110497)

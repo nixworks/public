@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [AP via ABC News](http://abcnews.go.com/International/wireStory/central-europe-hit-floods-days-rain-19307397)
-2. [Reuters](http://in.reuters.com/article/2013/06/02/us-czech-floods-idINBRE95109020130602)
+1. [Reuters](http://in.reuters.com/article/2013/06/02/us-czech-floods-idINBRE95109020130602)
+2. [AP via ABC News](http://abcnews.go.com/International/wireStory/central-europe-hit-floods-days-rain-19307397)
 
 ### Related:
 

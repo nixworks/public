@@ -7,8 +7,8 @@ Hurricane Igor barreled north on Monday on a path expected to take it near Newfo
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE68E1T820100920)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gVWjsPEiqe1tEu2mhBIRaxxGi8owD9IBA6G80)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gVWjsPEiqe1tEu2mhBIRaxxGi8owD9IBA6G80)
+2. [Reuters](http://www.reuters.com/article/idUSTRE68E1T820100920)
 
 ### Related:
 

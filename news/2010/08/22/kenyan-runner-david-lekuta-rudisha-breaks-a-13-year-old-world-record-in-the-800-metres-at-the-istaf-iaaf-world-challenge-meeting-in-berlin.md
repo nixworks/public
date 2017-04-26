@@ -8,9 +8,9 @@ Kenya&#039;s David Rudisha became the fastest 800 metres runner in history at Be
 ### Source:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8935022.stm)
-2. [AFP via ''Qatar Tribune](http://www.qatar-tribune.com/data/20100823/content.asp?section=sports1_1)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/athletics/7959042/Kenyas-David-Rudisha-smashes-800m-world-record-at-Berlin-meeting.html)
 3. [Press Association via ''The Guardian](http://www.guardian.co.uk/sport/2010/aug/22/caster-semenya-david-rudisha)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/athletics/7959042/Kenyas-David-Rudisha-smashes-800m-world-record-at-Berlin-meeting.html)
+4. [AFP via ''Qatar Tribune](http://www.qatar-tribune.com/data/20100823/content.asp?section=sports1_1)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Indonesian court finds Umar Patek, accused of assembling explosives for 2002 att
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/06/201262113311341476.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-18529829)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-18529829)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/06/201262113311341476.html)
 
 ### Related:
 

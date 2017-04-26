@@ -7,9 +7,9 @@ Government says it will instead prosecute leaders of the anti-government group.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10169735.stm)
-2. [Reuters](http://uk.reuters.com/article/idUKTRE64Q23520100527)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010526203549379729.html)
+1. [Reuters](http://uk.reuters.com/article/idUKTRE64Q23520100527)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010526203549379729.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10169735.stm)
 
 ### Related:
 

@@ -7,12 +7,12 @@ The Taoiseach is attending a meeting of the British-Irish Council in Guernsey to
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10407325.stm)
-2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/uk-ireland/governments-body-heads-to-edinburgh-14856016.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/guernsey/10412701.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10407325.stm)
 3. [RTÉ](http://www.rte.ie/news/2010/0625/bic.html)
-4. [STV](http://news.stv.tv/scotland/184259-first-minister-to-attend-key-meeting-with-uk-representatives/)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/guernsey/10413445.stm)
-6. [BBC](http://news.bbc.co.uk/2/hi/europe/guernsey/10412701.stm)
+4. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/uk-ireland/governments-body-heads-to-edinburgh-14856016.html)
+5. [STV](http://news.stv.tv/scotland/184259-first-minister-to-attend-key-meeting-with-uk-representatives/)
+6. [BBC](http://news.bbc.co.uk/2/hi/europe/guernsey/10413445.stm)
 
 ### Related:
 

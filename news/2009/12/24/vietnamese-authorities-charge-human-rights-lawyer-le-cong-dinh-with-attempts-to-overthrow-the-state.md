@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=3761810)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8429351.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8429351.stm)
+2. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=3761810)
 
 ### Related:
 

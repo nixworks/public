@@ -7,9 +7,9 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4480031.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8276501)
-3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=335311)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8276501)
+2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=335311)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4480031.stm)
 
 ### Related:
 

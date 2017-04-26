@@ -7,8 +7,8 @@ It is the first time since being released that Suu Kyi has been warned to stay o
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13954684)
-2. [Zee News](http://zeenews.india.com/news/world/myanmar-tells-suu-kyi-to-stay-out-of-politics_716297.html)
+1. [Zee News](http://zeenews.india.com/news/world/myanmar-tells-suu-kyi-to-stay-out-of-politics_716297.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13954684)
 
 ### Related:
 

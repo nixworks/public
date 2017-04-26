@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [AP via ''Times Online](http://www.timesonline.com/news/world/middle-east/report-nonaligned-bloc-backs-iran-nuclear-energy/article_6f778d47-bf47-541b-9501-46d8970f3586.html)
-2. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=16th+NAM+summit+concludes+&NewsID=345635)
-3. [PressTV](http://www.presstv.ir/detail/2012/08/31/259103/16th-nam-summit-enters-final-day/)
-4. [SunStar](http://www.sunstar.com.ph/breaking-news/2012/09/01/nam-summit-ends-tehran-final-documents-stressing-peace-240424)
-5. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/01/c_131821761.htm)
-6. [PressTV](http://www.presstv.ir/detail/2012/09/01/259275/nam-set-to-change-world-order-iran/)
+1. [SunStar](http://www.sunstar.com.ph/breaking-news/2012/09/01/nam-summit-ends-tehran-final-documents-stressing-peace-240424)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/01/c_131821761.htm)
+3. [PressTV](http://www.presstv.ir/detail/2012/09/01/259275/nam-set-to-change-world-order-iran/)
+4. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=16th+NAM+summit+concludes+&NewsID=345635)
+5. [PressTV](http://www.presstv.ir/detail/2012/08/31/259103/16th-nam-summit-enters-final-day/)
+6. [AP via ''Times Online](http://www.timesonline.com/news/world/middle-east/report-nonaligned-bloc-backs-iran-nuclear-energy/article_6f778d47-bf47-541b-9501-46d8970f3586.html)
 
 ### Related:
 

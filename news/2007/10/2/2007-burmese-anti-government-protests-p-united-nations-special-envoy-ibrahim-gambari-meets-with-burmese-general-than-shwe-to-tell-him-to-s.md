@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/international/story/0,,2181434,00.html)
-2. [AFP, Reuters via The Melbourne Age](http://www.theage.com.au/news/world/1000-protesters-held-in-burma-warehouse/2007/10/02/1191091112988.html)
+1. [AFP, Reuters via The Melbourne Age](http://www.theage.com.au/news/world/1000-protesters-held-in-burma-warehouse/2007/10/02/1191091112988.html)
+2. [The Guardian](http://www.guardian.co.uk/international/story/0,,2181434,00.html)
 
 ### Related:
 

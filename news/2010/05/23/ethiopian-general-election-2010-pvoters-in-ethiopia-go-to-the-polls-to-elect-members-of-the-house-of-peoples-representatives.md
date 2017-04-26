@@ -7,14 +7,14 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### Source:
 
-1. [Montreal Gazette](http://www.montrealgazette.com/news/world/Ethiopians+vote+test+democracy/3063341/story.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/23/c_13310764.htm)
-3. [TIME](http://www.time.com/time/world/article/0,8599,1991193,00.html)
-4. [Walta Information Center](http://www.waltainfo.com/index.php?option=com_content&task=view&id=21608&Itemid=52)
-5. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1265287&lang=eng_news)
-6. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201052274135729474.html)
-7. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10142382.stm)
-8. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/20105231777276414.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/20105231777276414.html)
+2. [Montreal Gazette](http://www.montrealgazette.com/news/world/Ethiopians+vote+test+democracy/3063341/story.html)
+3. [Walta Information Center](http://www.waltainfo.com/index.php?option=com_content&task=view&id=21608&Itemid=52)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/23/c_13310764.htm)
+5. [TIME](http://www.time.com/time/world/article/0,8599,1991193,00.html)
+6. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1265287&lang=eng_news)
+7. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201052274135729474.html)
+8. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10142382.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CHINA_MINE_FLOOD?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-11/22/content_11587996.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2010-11/22/content_11587996.htm)
+2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CHINA_MINE_FLOOD?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

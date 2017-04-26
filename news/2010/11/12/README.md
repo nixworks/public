@@ -85,7 +85,7 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 _Context: José Alencar, Luiz Inácio Lula da Silva, Sao Paulo_
 
 ### [Former Prime Minister of Israel Ariel Sharon is taken home from hospital still in a comatose state. ](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.md)
-_Context: Ariel Sharon, prime minister of Israel_
+_Context: Ariel Sharon, Prime Minister of Israel_
 
 ### [Irish Health Minister Mary Harney is targeted with eggs and cheese by protestors shouting "Bloody Mary" in response to her healthcare funding cuts. It follows a similar incident involving red paint last week. ](/news/2010/11/12/irish-health-minister-mary-harney-is-targeted-with-eggs-and-cheese-by-protestors-shouting-bloody-mary-in-response-to-her-healthcare-fundin.md)
 Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she arrived at the Mid Western Regional Hospital in Nenagh.

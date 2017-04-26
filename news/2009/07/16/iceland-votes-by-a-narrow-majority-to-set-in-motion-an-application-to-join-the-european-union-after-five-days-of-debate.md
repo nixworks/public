@@ -8,9 +8,9 @@ Politicians vote 33 to 28 to start membership talks with the European Union.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net//news/europe/2009/07/2009716182330577559.html)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/iceland/5843954/Iceland-approves-EU-application.html)
+2. [The Independent](http://www.independent.co.uk/news/world/europe/iceland-clears-way-for-eu-bid-1749467.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/8153139.stm)
-4. [The Independent](http://www.independent.co.uk/news/world/europe/iceland-clears-way-for-eu-bid-1749467.html)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/iceland/5843954/Iceland-approves-EU-application.html)
 
 ### Related:
 

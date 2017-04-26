@@ -7,11 +7,11 @@ Chinese police used pepper spray, tear gas and water cannon to break up an anti-
 
 ### Source:
 
-1. [Bloomberg](http://www.businessweek.com/news/2012-09-16/panasonic-plant-in-china-on-fire-as-anti-japan-protests-escalate)
-2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/anti-japan-protests-spread-to-dozens-of-more-chinese-cities-on-sunday-as-demonstrators-agitated-by-the-japanese-government.html)
-3. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120916a1.html)
-4. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444108404577654632706100116.html)
-5. [Reuters](http://www.reuters.com/article/2012/09/16/us-china-japan-idUSBRE88F00H20120916)
+1. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444108404577654632706100116.html)
+2. [Bloomberg](http://www.businessweek.com/news/2012-09-16/panasonic-plant-in-china-on-fire-as-anti-japan-protests-escalate)
+3. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/anti-japan-protests-spread-to-dozens-of-more-chinese-cities-on-sunday-as-demonstrators-agitated-by-the-japanese-government.html)
+4. [Reuters](http://www.reuters.com/article/2012/09/16/us-china-japan-idUSBRE88F00H20120916)
+5. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120916a1.html)
 
 ### Related:
 

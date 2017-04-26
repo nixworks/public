@@ -7,8 +7,8 @@ Saif al-Islam, the fugitive son of former Libyan leader Muammar Gaddafi, has bee
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15804299)
-2. [CNN](http://edition.cnn.com/2011/11/19/world/africa/libya-gadhafi-son/index.html?hpt=hp_t1)
+1. [CNN](http://edition.cnn.com/2011/11/19/world/africa/libya-gadhafi-son/index.html?hpt=hp_t1)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-15804299)
 
 ### Related:
 

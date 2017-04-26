@@ -7,8 +7,8 @@ Nike terminates its relationship with Manny Pacquiao after the boxing great desc
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/sites/kurtbadenhausen/2016/02/17/nike-drops-manny-pacquiao-for-a-second-tim-after-anti-gay-comments/#379531335fab)
-2. [BBC](http://www.bbc.com/sport/boxing/35600341)
+1. [BBC](http://www.bbc.com/sport/boxing/35600341)
+2. [Forbes](http://www.forbes.com/sites/kurtbadenhausen/2016/02/17/nike-drops-manny-pacquiao-for-a-second-tim-after-anti-gay-comments/#379531335fab)
 
 ### Related:
 

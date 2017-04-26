@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-05T075335Z_01_N05187189_RTRIDST_0_INTERNATIONAL-RUSSIA-SUBMARINE-DC.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4747783.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4747783.stm)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-05T075335Z_01_N05187189_RTRIDST_0_INTERNATIONAL-RUSSIA-SUBMARINE-DC.XML)
 
 ### Related:
 

@@ -7,9 +7,9 @@ British grandmother Lindsay Sandiford is sentenced to death by firing squad in B
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1041142/bali-death-penalty-for-british-drug-smuggler)
+1. [CNN](http://edition.cnn.com/2013/01/22/world/asia/indonesia-uk-death-sentence)
 2. [BBC](http://www.bbc.co.uk/news/uk-21137649)
-3. [CNN](http://edition.cnn.com/2013/01/22/world/asia/indonesia-uk-death-sentence)
+3. [Sky News](http://news.sky.com/story/1041142/bali-death-penalty-for-british-drug-smuggler)
 
 ### Related:
 

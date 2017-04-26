@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UCC](http://www.ucc.org/news/u113004a.htm)
-2. [CNN](http://money.cnn.com/2004/12/01/news/fortune500/jesus_ad_ban/?cnn=yes)
+1. [CNN](http://money.cnn.com/2004/12/01/news/fortune500/jesus_ad_ban/?cnn=yes)
+2. [UCC](http://www.ucc.org/news/u113004a.htm)
 
 ### Related:
 

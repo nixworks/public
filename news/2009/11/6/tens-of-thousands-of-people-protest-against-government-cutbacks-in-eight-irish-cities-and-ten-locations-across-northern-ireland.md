@@ -7,8 +7,8 @@ Tens of thousands of people took to the streets today as part of a campaign orga
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1106/breaking2.htm)
-2. [RTÉ](http://www.rte.ie/news/2009/1106/partnership.html)
+1. [RTÉ](http://www.rte.ie/news/2009/1106/partnership.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1106/breaking2.htm)
 
 ### Related:
 

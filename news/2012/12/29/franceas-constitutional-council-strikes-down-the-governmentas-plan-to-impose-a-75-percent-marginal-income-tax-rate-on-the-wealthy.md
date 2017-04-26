@@ -7,8 +7,8 @@ The Constitutional Council opposed a plan to impose a 75 percent marginal income
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/dec/29/france-supertax-thrown-out-unconstitutional)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-20864114)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-20864114)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/dec/29/france-supertax-thrown-out-unconstitutional)
 3. [The New York Times](http://www.nytimes.com/2012/12/30/world/europe/french-council-strikes-down-75-tax-rate-on-rich.html)
 
 ### Related:

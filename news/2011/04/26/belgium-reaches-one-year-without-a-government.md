@@ -7,9 +7,9 @@ As Belgium marks one year without a government, European Council President Herma
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13199653)
-2. [News24](http://www.news24.com/World/News/1-year-without-full-government-in-Belgium-20110426)
-3. [China Daily](http://www.chinadaily.com.cn/world/2011-04/26/content_12400664.htm)
+1. [China Daily](http://www.chinadaily.com.cn/world/2011-04/26/content_12400664.htm)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-13199653)
+3. [News24](http://www.news24.com/World/News/1-year-without-full-government-in-Belgium-20110426)
 
 ### Related:
 

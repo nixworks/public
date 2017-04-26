@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/18/france.strikes.shortage/index.html?eref=edition)
-2. [Reuters](http://www.reuters.com/article/idUSLDE69H0OC20101018)
+1. [Reuters](http://www.reuters.com/article/idUSLDE69H0OC20101018)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/18/france.strikes.shortage/index.html?eref=edition)
 
 ### Related:
 

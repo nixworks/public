@@ -7,8 +7,8 @@ President Obiang tells Al Jazeera his leadership is unchallenged ahead of electi
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009112965452894810.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-11/29/content_12559382.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/2009-11/29/content_12559382.htm)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009112965452894810.html)
 
 ### Related:
 

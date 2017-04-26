@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/27/c_123766645.htm)
-2. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_04.html)
+1. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_03.html)
+2. [Kyodo News](http://english.kyodonews.jp/news/2012/09/184617.html)
 3. [AP](http://hosted.ap.org/dynamic/stories/U/UN_UN_JAPAN_DISPUTED_ISLANDS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-4. [Kyodo News](http://english.kyodonews.jp/news/2012/09/184617.html)
-5. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120926p2g00m0bu041000c.html)
-6. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_03.html)
-7. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120926003100.htm)
-8. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120926p2g00m0bu043000c.html)
+4. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_04.html)
+5. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/27/c_123766645.htm)
+6. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120926p2g00m0bu041000c.html)
+7. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120926p2g00m0bu043000c.html)
+8. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120926003100.htm)
 
 ### Related:
 

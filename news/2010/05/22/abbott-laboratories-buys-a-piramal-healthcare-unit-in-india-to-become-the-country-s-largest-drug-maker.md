@@ -7,8 +7,8 @@ Abbott Laboratories will buy Piramal Healthcare&rsquo;s branded generic-medicine
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/finance/2010/0522/1224270894899.html)
-2. [Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/healthcare/biotech/pharmaceuticals/Abbotts-now-the-No-1-drugmaker-in-India/articleshow/5960292.cms)
+1. [Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/healthcare/biotech/pharmaceuticals/Abbotts-now-the-No-1-drugmaker-in-India/articleshow/5960292.cms)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/finance/2010/0522/1224270894899.html)
 
 ### Related:
 

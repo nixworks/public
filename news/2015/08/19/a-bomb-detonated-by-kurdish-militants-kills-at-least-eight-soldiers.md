@@ -7,8 +7,8 @@ Kurdish rebels have detonated a bomb on a road in south east Turkey, killing at 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2015/08/19/world/europe/ap-eu-turkey-kurds.html)
-2. [The Independent](http://www.independent.ie/world-news/eight-soldiers-killed-in-pkk-bomb-attack-in-turkey-31463308.html)
+1. [The Independent](http://www.independent.ie/world-news/eight-soldiers-killed-in-pkk-bomb-attack-in-turkey-31463308.html)
+2. [The New York Times](http://www.nytimes.com/aponline/2015/08/19/world/europe/ap-eu-turkey-kurds.html)
 
 ### Related:
 

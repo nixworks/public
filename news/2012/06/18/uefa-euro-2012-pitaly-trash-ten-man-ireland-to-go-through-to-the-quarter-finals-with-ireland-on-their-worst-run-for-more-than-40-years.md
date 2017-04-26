@@ -7,10 +7,10 @@ Italy earn the victory they needed against an already eliminated Republic of Ire
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18181167)
-2. [RTE](http://www.rte.ie/sport/soccer/euro-2012/2012/0618/325571-cassano-and-balotelli-send-italy-into-last-eight/)
+1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012618153058268579.html)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/18181167)
 3. [BBC](http://www.bbc.co.uk/sport/0/football/18443469)
-4. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012618153058268579.html)
+4. [RTE](http://www.rte.ie/sport/soccer/euro-2012/2012/0618/325571-cassano-and-balotelli-send-italy-into-last-eight/)
 
 ### Related:
 

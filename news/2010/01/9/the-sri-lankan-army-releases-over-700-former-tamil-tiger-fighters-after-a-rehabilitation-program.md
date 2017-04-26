@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/international/article78260.ece)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5inJEfLtds72eXPf8f2HKIQEvOz2w)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5inJEfLtds72eXPf8f2HKIQEvOz2w)
+2. [The Hindu](http://beta.thehindu.com/news/international/article78260.ece)
 
 ### Related:
 

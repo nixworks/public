@@ -7,8 +7,8 @@ The U.N. General Assembly on Thursday formally endorsed a resolution by a majori
 
 ### Source:
 
-1. [The Japan Times](http://www.japantimes.co.jp/news/2015/12/18/asia-pacific/u-n-adopts-motion-north-korea-right-abuses-urging-criminal-court/#.VnQ0EcArI6V)
-2. [UPI](http://www.upi.com/Top_News/World-News/2015/12/18/UN-adopts-resolution-condemning-North-Korea-human-rights-violations/4051450461987/?spt=hs&or=tn_int)
+1. [UPI](http://www.upi.com/Top_News/World-News/2015/12/18/UN-adopts-resolution-condemning-North-Korea-human-rights-violations/4051450461987/?spt=hs&or=tn_int)
+2. [The Japan Times](http://www.japantimes.co.jp/news/2015/12/18/asia-pacific/u-n-adopts-motion-north-korea-right-abuses-urging-criminal-court/#.VnQ0EcArI6V)
 
 ### Related:
 

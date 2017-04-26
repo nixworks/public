@@ -7,8 +7,8 @@ A security assessment carried out by the UK in Sri Lanka concludes that the whol
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/travel/article-1300850/FCO-removes-Sri-Lanka-travel-warnings.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10892057)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10892057)
+2. [Daily Mail](http://www.dailymail.co.uk/travel/article-1300850/FCO-removes-Sri-Lanka-travel-warnings.html)
 
 ### Related:
 

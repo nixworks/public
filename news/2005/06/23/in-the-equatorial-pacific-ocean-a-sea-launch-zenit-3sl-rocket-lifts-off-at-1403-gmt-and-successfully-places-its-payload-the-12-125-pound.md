@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Spaceflight Now](http://spaceflightnow.com/sealaunch/ia8/)
-2. [Sea Launch](http://www.sea-launch.com/current_launch.htm)
+1. [Sea Launch](http://www.sea-launch.com/current_launch.htm)
+2. [Spaceflight Now](http://spaceflightnow.com/sealaunch/ia8/)
 
 ### Related:
 

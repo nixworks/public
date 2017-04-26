@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [JPL/NASA](http://neo.jpl.nasa.gov/news/news177.html)
-2. [Huffington Post](http://www.huffingtonpost.com/2013/02/14/asteroid-da14-facts-information-flyby_n_2689679.html)
+1. [Huffington Post](http://www.huffingtonpost.com/2013/02/14/asteroid-da14-facts-information-flyby_n_2689679.html)
+2. [JPL/NASA](http://neo.jpl.nasa.gov/news/news177.html)
 
 ### Related:
 

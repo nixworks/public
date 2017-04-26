@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wires via ''Herald Sun](http://www.heraldsun.com.au/news/world/virginia-tech-in-lockdown-after-two-shot-dead/story-e6frf7lf-1226217773988)
-2. [MSNBC](http://usnews.msnbc.msn.com/_news/2011/12/08/9302817-2-shot-dead-on-virginia-tech-campus)
+1. [MSNBC](http://usnews.msnbc.msn.com/_news/2011/12/08/9302817-2-shot-dead-on-virginia-tech-campus)
+2. [Wires via ''Herald Sun](http://www.heraldsun.com.au/news/world/virginia-tech-in-lockdown-after-two-shot-dead/story-e6frf7lf-1226217773988)
 
 ### Related:
 

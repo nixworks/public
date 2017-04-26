@@ -7,9 +7,9 @@ Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain p
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3676475/Australian-government-hopes-win-votes-counted.html)
+1. [Reuters](http://www.reuters.com/article/us-australia-election-idUSKCN0ZN06L?il=0)
 2. [The Australian](http://www.theaustralian.com.au/federal-election-2016/federal-election-2016-live-count-continues-as-turnbull-courts-independents/news-story/fd3f384a00a488b09788741eda3cb648)
-3. [Reuters](http://www.reuters.com/article/us-australia-election-idUSKCN0ZN06L?il=0)
+3. [Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3676475/Australian-government-hopes-win-votes-counted.html)
 
 ### Related:
 

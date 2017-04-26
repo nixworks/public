@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18068820)
-2. [Press TV](http://presstv.com/detail/2012/05/15/241275/iran-executes-mossad-assassin-of-expert/)
+1. [Press TV](http://presstv.com/detail/2012/05/15/241275/iran-executes-mossad-assassin-of-expert/)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18068820)
 
 ### Related:
 

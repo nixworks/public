@@ -7,12 +7,12 @@ NATO carried out another series of air strikes on Tripoli early Saturday, Libyan
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/world/story/2011/04/23/libya-saturday.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114231818133946.html)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-13176645)
-4. [RIA Novosti](http://en.rian.ru/world/20110423/163664135.html)
-5. [Reuters](http://www.reuters.com/article/2011/04/23/us-syria-protests-idUSTRE73L1SJ20110423)
-6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13178887)
+1. [RIA Novosti](http://en.rian.ru/world/20110423/163664135.html)
+2. [CBC](http://www.cbc.ca/news/world/story/2011/04/23/libya-saturday.html)
+3. [Reuters](http://www.reuters.com/article/2011/04/23/us-syria-protests-idUSTRE73L1SJ20110423)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114231818133946.html)
+5. [BBC](http://www.bbc.co.uk/news/world-middle-east-13178887)
+6. [BBC](http://www.bbc.co.uk/news/world-africa-13176645)
 
 ### Related:
 

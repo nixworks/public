@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Die Welt](http://www.welt.de/politik/deutschland/article7101608/Ex-RAF-Terroristin-Verena-Becker-angeklagt.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5447973,00.html?maca=en-rss-en-top-1022-rdf)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8611020.stm)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5447973,00.html?maca=en-rss-en-top-1022-rdf)
+3. [Die Welt](http://www.welt.de/politik/deutschland/article7101608/Ex-RAF-Terroristin-Verena-Becker-angeklagt.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The scale of the battering the Moon received early in its history is revealed in
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/custom/la-me-1206-grail-nasa-moon-20121206,0,3101937.story)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-20617506)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-20617506)
+2. [Los Angeles Times](http://www.latimes.com/news/custom/la-me-1206-grail-nasa-moon-20121206,0,3101937.story)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Pacific Islands Forum host, Vanuatu, says regional leaders must still engage wit
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/fijis-pacific-comments-ridiculous-20100804-11dqi.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10862441)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10862441)
+2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/fijis-pacific-comments-ridiculous-20100804-11dqi.html)
 
 ### Related:
 

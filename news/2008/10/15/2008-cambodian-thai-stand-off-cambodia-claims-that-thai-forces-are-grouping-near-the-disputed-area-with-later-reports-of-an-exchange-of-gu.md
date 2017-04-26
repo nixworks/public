@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP via Google News](http://afp.google.com/article/ALeqM5g8AhIuzqwdhGNNCnS10exiTCqEKQ)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5gJThWxviB0isVBqKEDUkiw3JEhoA)
-3. [AP via Google News](http://ap.google.com/article/ALeqM5jhyr2pl9sCLBgkK42CXKfFwCOPSQD93R0UPG4)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5jhyr2pl9sCLBgkK42CXKfFwCOPSQD93R0UPG4)
+2. [AFP via Google News](http://afp.google.com/article/ALeqM5g8AhIuzqwdhGNNCnS10exiTCqEKQ)
+3. [AFP via Google News](http://afp.google.com/article/ALeqM5gJThWxviB0isVBqKEDUkiw3JEhoA)
 
 ### Related:
 

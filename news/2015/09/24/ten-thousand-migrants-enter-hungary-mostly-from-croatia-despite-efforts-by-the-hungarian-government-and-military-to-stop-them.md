@@ -7,8 +7,8 @@ Thousands of migrants streamed through the Balkans Thursday as German Chancellor
 
 ### Source:
 
-1. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-24/croatia-bans-serbians-from-entering-its-borders/6802754)
-2. [AFP via Yahoo! News](http://news.yahoo.com/migrants-inundate-eu-crisis-hotspot-croatia-030939642.html)
+1. [AFP via Yahoo! News](http://news.yahoo.com/migrants-inundate-eu-crisis-hotspot-croatia-030939642.html)
+2. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2015-09-24/croatia-bans-serbians-from-entering-its-borders/6802754)
 
 ### Related:
 

@@ -22,7 +22,7 @@ _Context: Star Trek, Star Trek Enterprise, television_
 _Context: German language, Germany, Horst Köhler, Israel, Jerusalem, anti-Semitism, parliament in Israel_
 
 ### [ Arab-Israeli conflict:  Ariel Sharon, the Prime Minister of Israel, and Abu Mazen, the President of the Palestinian National Authority, are invited by Egypt to attend a summit at Sharm el-Sheikh. A Jordanian delegation will also attend. ](/news/2005/02/2/arabaisraeli-conflict-p-ariel-sharon-the-prime-minister-of-israel-and-abu-mazen-the-president-of-the-palestinian-national-authority.md)
-_Context: Abu Mazen, Arab–Israeli conflict, Ariel Sharon, Egypt, Jordan, Palestinian National Authority, Sharm el-Sheikh, prime minister of Israel_
+_Context: Abu Mazen, Arab–Israeli conflict, Ariel Sharon, Egypt, Jordan, Palestinian National Authority, Prime Minister of Israel, Sharm el-Sheikh_
 
 ### [ King Gyanendra of Nepal forms a new cabinet and names himself as its head. His decision to dismiss his former cabinet has been widely condemned. ](/news/2005/02/2/king-gyanendra-of-nepal-forms-a-new-cabinet-and-names-himself-as-its-head-his-decision-to-dismiss-his-former-cabinet-has-been-widely-conde.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

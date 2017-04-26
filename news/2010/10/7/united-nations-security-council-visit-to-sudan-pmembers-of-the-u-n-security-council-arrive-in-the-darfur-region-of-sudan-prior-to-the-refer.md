@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11497460)
-2. [VOA](http://www.voanews.com/english/news/africa/South-Sudan-Considers-Referendum-without-North-104490179.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hrc6LWr2Iaob17mZVpeb9YVAwDIQ?docId=CNG.9a2217c8f9372029e402c72d739a5595.01)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hrc6LWr2Iaob17mZVpeb9YVAwDIQ?docId=CNG.9a2217c8f9372029e402c72d739a5595.01)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11497460)
+3. [VOA](http://www.voanews.com/english/news/africa/South-Sudan-Considers-Referendum-without-North-104490179.html)
 
 ### Related:
 

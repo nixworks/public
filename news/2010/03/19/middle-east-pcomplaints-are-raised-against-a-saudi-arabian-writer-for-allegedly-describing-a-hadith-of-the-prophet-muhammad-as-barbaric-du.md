@@ -8,22 +8,22 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7476318/Israeli-aircraft-strike-targets-in-Gaza-after-rocket-attack-kills.html)
-2. [Arab News](http://arabnews.com/saudiarabia/article31830.ece)
-3. [Arabian Business News](http://www.arabianbusiness.com/584088-saudi-blasphemy-case-filed-against-writer--paper)
-4. [Russia Today](http://www.rt.com/Top_News/2010-03-19/middle-east-quartet-talks.html)
-5. [Ha'aretz](http://www.haaretz.com/hasen/spages/1157651.html)
-6. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=112971)
-7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/20/c_13218005.htm)
-8. [Press TV](http://www.presstv.ir/detail.aspx?id=121211&sectionid=351020203)
+2. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=112971)
+3. [Arab News](http://arabnews.com/saudiarabia/article31830.ece)
+4. [The New York Times](http://www.nytimes.com/2010/03/19/world/middleeast/19gaza.html?src=me)
+5. [The Hindu](http://www.hindu.com/2010/03/20/stories/2010032066591800.htm)
+6. [Russia Today](http://www.rt.com/Top_News/2010-03-19/middle-east-quartet-talks.html)
+7. [Ha'aretz](http://www.haaretz.com/hasen/spages/1157651.html)
+8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/20/c_13218005.htm)
 9. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8577492.stm)
-10. [The Hindu](http://www.hindu.com/2010/03/20/stories/2010032066591800.htm)
-11. [The New York Times](http://www.nytimes.com/2010/03/19/world/middleeast/19gaza.html?src=me)
+10. [Press TV](http://www.presstv.ir/detail.aspx?id=121211&sectionid=351020203)
+11. [Arabian Business News](http://www.arabianbusiness.com/584088-saudi-blasphemy-case-filed-against-writer--paper)
 
 ### Related:
 
 1. [Malaysia deports Saudi Arabian journalist Hamzar Kashgari, accused of insulting the prophet Muhammad in a tweet. ](/news/2012/02/12/malaysia-deports-saudi-arabian-journalist-hamzar-kashgari-accused-of-insulting-the-prophet-muhammad-in-a-tweet.md) _Context: Muhammad, Saudi Arabia_
 2. [A Saudi blogger is detained by Malaysian police after fleeing Saudi Arabia for allegedly insulting the Prophet Muhammad. ](/news/2012/02/10/a-saudi-blogger-is-detained-by-malaysian-police-after-fleeing-saudi-arabia-for-allegedly-insulting-the-prophet-muhammad.md) _Context: Muhammad, Saudi Arabia_
-3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+3. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 4. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 5. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 6. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

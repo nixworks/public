@@ -7,8 +7,8 @@ Iraqi forces have retaken a cluster of northern villages from Islamic State mili
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/07/05/world/middleeast/ap-ml-iraq-the-latest.html?_r=0)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKCN0ZL1FS)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKCN0ZL1FS)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/07/05/world/middleeast/ap-ml-iraq-the-latest.html?_r=0)
 
 ### Related:
 

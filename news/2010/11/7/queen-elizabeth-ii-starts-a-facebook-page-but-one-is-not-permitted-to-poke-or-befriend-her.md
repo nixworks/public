@@ -7,8 +7,8 @@ The Queen is to join Facebook with a British Monarchy page offering latest news 
 
 ### Source:
 
-1. [MSNBC](http://today.msnbc.msn.com/id/40048876)
-2. [BBC](http://www.bbc.co.uk/news/uk-11704599)
+1. [BBC](http://www.bbc.co.uk/news/uk-11704599)
+2. [MSNBC](http://today.msnbc.msn.com/id/40048876)
 
 ### Related:
 

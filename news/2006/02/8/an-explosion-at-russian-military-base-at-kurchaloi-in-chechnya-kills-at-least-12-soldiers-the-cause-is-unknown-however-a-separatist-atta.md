@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Mail and Guardian](http://www.mg.co.za/articlePage.aspx?articleid=263655&area=/breaking_news/breaking_news__international_news/)
-2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/37F32D8F-5EB3-4EA4-B7D8-C40D35454D6A.htm)
+1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/37F32D8F-5EB3-4EA4-B7D8-C40D35454D6A.htm)
+2. [Mail and Guardian](http://www.mg.co.za/articlePage.aspx?articleid=263655&area=/breaking_news/breaking_news__international_news/)
 
 ### Related:
 

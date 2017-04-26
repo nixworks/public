@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kansas City Star](http://www.kansascity.com/mld/kansascity/news/11196411.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4370617.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4370617.stm)
+2. [Kansas City Star](http://www.kansascity.com/mld/kansascity/news/11196411.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Hurricane Felix killed at least 38 people on Nicaragua&#039;s Caribbean coast an
 
 ### Source:
 
-1. [Reuters via ABC](http://www.abc.net.au/news/stories/2007/09/06/2025614.htm)
-2. [AFP via the Philippines Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view_article.php?article_id=86989)
+1. [AFP via the Philippines Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view_article.php?article_id=86989)
+2. [Reuters via ABC](http://www.abc.net.au/news/stories/2007/09/06/2025614.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/burundi-army-arrests-officer,-others-for-alleged-coup-plot-2010013143230.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/africa/8488598.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/africa/8488598.stm)
+2. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/burundi-army-arrests-officer,-others-for-alleged-coup-plot-2010013143230.html)
 
 ### Related:
 

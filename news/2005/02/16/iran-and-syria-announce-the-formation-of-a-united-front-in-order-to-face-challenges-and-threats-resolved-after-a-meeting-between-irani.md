@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/02/16/international/i113532S95.DTL)
-2. [Pakistan Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_17-2-2005_pg7_8)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4270859.stm)
+2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/02/16/international/i113532S95.DTL)
 3. [Tehran Times](http://www.tehrantimes.com/Description.asp?Da=2/17/2005&Cat=2&Num=008)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4270859.stm)
+4. [Pakistan Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_17-2-2005_pg7_8)
 
 ### Related:
 

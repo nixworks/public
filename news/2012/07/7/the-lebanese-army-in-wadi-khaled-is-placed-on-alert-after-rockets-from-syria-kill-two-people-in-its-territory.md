@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Lebanese News Agency](http://www.nna-leb.gov.lb/newsDetailE.aspx?id=421496)
-2. [Now Lebanon](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=416837)
+1. [Now Lebanon](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=416837)
+2. [Lebanese News Agency](http://www.nna-leb.gov.lb/newsDetailE.aspx?id=421496)
 
 ### Related:
 

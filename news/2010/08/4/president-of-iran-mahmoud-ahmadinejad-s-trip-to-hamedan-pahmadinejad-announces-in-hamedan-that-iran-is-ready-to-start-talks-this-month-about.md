@@ -7,12 +7,12 @@ Iran denies President Ahmadinejad was targeted in an assassination attempt, afte
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/04/c_13430319.htm)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/04/mahmoud-ahmadinejad-assassination-iran)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/04/c_13430044.htm)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-10865085)
-5. [Press TV](http://www.presstv.ir/detail.aspx?id=137410&sectionid=351020101)
-6. [AFP via News Limited](http://www.news.com.au/breaking-news/iran-president-mahmoud-ahmadinejad-grenade-attack-just-a-cracker-report/story-e6frfku0-1225901296932)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10865085)
+2. [AFP via News Limited](http://www.news.com.au/breaking-news/iran-president-mahmoud-ahmadinejad-grenade-attack-just-a-cracker-report/story-e6frfku0-1225901296932)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/04/c_13430319.htm)
+4. [Press TV](http://www.presstv.ir/detail.aspx?id=137410&sectionid=351020101)
+5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/04/c_13430044.htm)
+6. [The Guardian](http://www.guardian.co.uk/world/2010/aug/04/mahmoud-ahmadinejad-assassination-iran)
 
 ### Related:
 

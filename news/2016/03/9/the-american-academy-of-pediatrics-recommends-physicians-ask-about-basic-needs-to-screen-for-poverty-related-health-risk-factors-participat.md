@@ -7,9 +7,9 @@ Calling poverty “one of the most widespread and persistent health risks facing
 
 ### Source:
 
-1. [Pittsburgh Post-Gazette](http://www.post-gazette.com/news/health/2016/03/09/American-Academy-of-Pediatrics-Pediatrics-group-advocates-screening-for-poverty/stories/201603090032)
+1. [2 Minute Medicine](http://www.2minutemedicine.com/american-academy-of-pediatrics-calls-for-action-on-poverty/)
 2. [The Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2016/03/09/doctors-should-screen-for-poverty-during-child-wellness-visits-american-academy-of-pediatrics-recommends/)
-3. [2 Minute Medicine](http://www.2minutemedicine.com/american-academy-of-pediatrics-calls-for-action-on-poverty/)
+3. [Pittsburgh Post-Gazette](http://www.post-gazette.com/news/health/2016/03/09/American-Academy-of-Pediatrics-Pediatrics-group-advocates-screening-for-poverty/stories/201603090032)
 
 ### Related:
 

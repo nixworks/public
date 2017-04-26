@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-15472362)
-2. [The Guardian](http://www.guardian.co.uk/uk/2011/oct/27/giles-fraser-resignation-dale-farm?newsfeed=true)
+1. [The Guardian](http://www.guardian.co.uk/uk/2011/oct/27/giles-fraser-resignation-dale-farm?newsfeed=true)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-15472362)
 
 ### Related:
 

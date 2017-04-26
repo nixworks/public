@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Washington Post](http://voices.washingtonpost.com/thefix/senate/john-ensign-to-retire-in-2012.html?hpid=topnews)
+1. [Fox Las Vegas](http://www.fox5vegas.com/news/27108773/detail.html)
 2. [Las Vegas Sun](http://www.lasvegassun.com/news/2011/mar/07/john-ensign-plans-news-conference-discuss-politica/)
-3. [Fox Las Vegas](http://www.fox5vegas.com/news/27108773/detail.html)
+3. [Washington Post](http://voices.washingtonpost.com/thefix/senate/john-ensign-to-retire-in-2012.html?hpid=topnews)
 
 ### Related:
 

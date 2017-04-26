@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TVNZ](http://tvnz.co.nz/world-news/eritrea-says-10-ethiopian-troop-killed-3323600)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gaZ5heXqq_zHzXkHSk_4v-OPto8Q)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gaZ5heXqq_zHzXkHSk_4v-OPto8Q)
+2. [TVNZ](http://tvnz.co.nz/world-news/eritrea-says-10-ethiopian-troop-killed-3323600)
 
 ### Related:
 

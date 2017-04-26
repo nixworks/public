@@ -7,8 +7,8 @@ The Prime Minister says he is confident of beating challenger Malcolm Turnbull i
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/2015-09-14/malcolm-turnbull-beats-tony-abbott-in-liberal-leadership-ballot/6774546)
-2. [ABC News Australia](http://www.abc.net.au/news/2015-09-14/turnbull-requests-liberal-leadership-ballot/6774506)
+1. [ABC News Australia](http://www.abc.net.au/news/2015-09-14/turnbull-requests-liberal-leadership-ballot/6774506)
+2. [ABC News](http://www.abc.net.au/news/2015-09-14/malcolm-turnbull-beats-tony-abbott-in-liberal-leadership-ballot/6774546)
 
 ### Related:
 

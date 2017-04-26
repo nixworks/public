@@ -7,8 +7,8 @@ Irish PM Brian Cowen survives a secret confidence vote on his leadership in the 
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-18/ireland-s-cowen-stays-as-leader-challenger-martin-resigns.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-12212885)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12212885)
+2. [Bloomberg](http://www.bloomberg.com/news/2011-01-18/ireland-s-cowen-stays-as-leader-challenger-martin-resigns.html)
 3. [RTÉ](http://www.rte.ie/news/2011/0118/politics.html)
 
 ### Related:

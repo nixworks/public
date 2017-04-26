@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/31/c_13471264.htm)
-2. [Bangkok Post](http://www.bangkokpost.com/news/security/193915/m79-fired-at-nbt)
+1. [Bangkok Post](http://www.bangkokpost.com/news/security/193915/m79-fired-at-nbt)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/31/c_13471264.htm)
 
 ### Related:
 

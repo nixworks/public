@@ -7,12 +7,12 @@ UPDATED Saturday, 6:15PM: The terrorist rampage that left at least 129 dead and 
 
 ### Source:
 
-1. [The Daily Beast](http://www.thedailybeast.com/cheats/2015/11/13/explosion-and-gunfire-reported-in-paris.html?via=twitter_page)
-2. [Washington Post](http://www.washingtonpost.com/world/europe/french-police-report-shootout-and-explosion-in-paris/2015/11/13/3288452e-8a4c-11e5-bd91-d385b244482f_story.html)
-3. [The Guardian](http://www.theguardian.com/world/live/2015/nov/13/shootings-reported-in-eastern-paris-live)
+1. [Daily Beast](http://www.thedailybeast.com/cheats/2015/11/13/explosion-and-gunfire-reported-in-paris.html)
+2. [Deadline](http://deadline.com/2015/11/paris-shootings-charlie-hebro-concert-cable-news-networks-1201622384/)
+3. [Washington Post](http://www.washingtonpost.com/world/europe/french-police-report-shootout-and-explosion-in-paris/2015/11/13/3288452e-8a4c-11e5-bd91-d385b244482f_story.html)
 4. [AP](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_PARIS_SHOOTINGS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-11-13-16-16-27)
-5. [Deadline](http://deadline.com/2015/11/paris-shootings-charlie-hebro-concert-cable-news-networks-1201622384/)
-6. [Daily Beast](http://www.thedailybeast.com/cheats/2015/11/13/explosion-and-gunfire-reported-in-paris.html)
+5. [The Guardian](http://www.theguardian.com/world/live/2015/nov/13/shootings-reported-in-eastern-paris-live)
+6. [The Daily Beast](http://www.thedailybeast.com/cheats/2015/11/13/explosion-and-gunfire-reported-in-paris.html?via=twitter_page)
 
 ### Related:
 

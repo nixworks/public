@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/03/27/africa/nigeria-elections-7-bizarre-moments/)
-2. [Reuters via MSN](http://www.msn.com/en-us/news/world/gunmen-kill-15-in-nigeria-during-tense-election/ar-AAa7g78)
+1. [Reuters via MSN](http://www.msn.com/en-us/news/world/gunmen-kill-15-in-nigeria-during-tense-election/ar-AAa7g78)
+2. [CNN](http://edition.cnn.com/2015/03/27/africa/nigeria-elections-7-bizarre-moments/)
 
 ### Related:
 

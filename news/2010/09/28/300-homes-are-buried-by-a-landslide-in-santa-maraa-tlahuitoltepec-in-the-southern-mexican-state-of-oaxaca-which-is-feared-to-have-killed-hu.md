@@ -7,8 +7,8 @@ A landslide triggered by heavy rain hits a town in southern Mexico, engulfing a 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11429439)
-2. [ABC Online](http://www.abc.net.au/news/stories/2010/09/29/3024472.htm)
+1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/29/3024472.htm)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11429439)
 
 ### Related:
 

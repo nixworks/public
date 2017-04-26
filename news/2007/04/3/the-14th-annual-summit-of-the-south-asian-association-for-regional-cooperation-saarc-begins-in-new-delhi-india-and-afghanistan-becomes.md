@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2007/04/03/news/summit.php)
-2. [VOA](http://www.voanews.com/english/2007-04-03-voa7.cfm)
-3. [Hindu](http://www.hindu.com/2007/04/04/stories/2007040408811200.htm)
+1. [Hindu](http://www.hindu.com/2007/04/04/stories/2007040408811200.htm)
+2. [IHT](http://www.iht.com/articles/2007/04/03/news/summit.php)
+3. [VOA](http://www.voanews.com/english/2007-04-03-voa7.cfm)
 
 ### Related:
 

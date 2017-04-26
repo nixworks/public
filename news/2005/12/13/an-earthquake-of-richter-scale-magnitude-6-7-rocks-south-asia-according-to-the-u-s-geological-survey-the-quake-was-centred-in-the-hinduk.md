@@ -7,9 +7,9 @@ Although there were no reports of casualties, many houses in Uri, Fafiabad and B
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/12/12/afghanistan.quake/index.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4523250.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1329229.cms)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4523250.stm)
+3. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/12/12/afghanistan.quake/index.html)
 
 ### Related:
 

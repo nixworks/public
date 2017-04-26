@@ -7,8 +7,8 @@ A-Ha, the Norwegian pop music trio, are to split following a farewell tour next 
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/6336898/A-Ha-to-split-following-farewell-tour.html)
-2. [The Independent](http://www.independent.co.uk/arts-entertainment/music/news/aha-go-their-own-ways-after-25-years-1803362.html)
+1. [The Independent](http://www.independent.co.uk/arts-entertainment/music/news/aha-go-their-own-ways-after-25-years-1803362.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/6336898/A-Ha-to-split-following-farewell-tour.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8308829.stm)
 
 ### Related:

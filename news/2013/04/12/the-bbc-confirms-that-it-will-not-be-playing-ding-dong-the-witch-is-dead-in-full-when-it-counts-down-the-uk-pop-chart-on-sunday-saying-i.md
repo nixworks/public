@@ -7,8 +7,8 @@ The bitter row over Margaret Thatcher&#039;s legacy continues — and this time 
 
 ### Source:
 
-1. [Time](http://newsfeed.time.com/2013/04/12/ding-dong-the-witch-is-dead-bbc-responds-as-anti-thatcher-campaign-pushes-song-up-the-charts/)
-2. [The Irish Times](http://www.irishtimes.com/news/world/uk/bbc-will-not-play-ding-dong-in-full-amid-thatcher-campaign-1.1358397)
+1. [The Irish Times](http://www.irishtimes.com/news/world/uk/bbc-will-not-play-ding-dong-in-full-amid-thatcher-campaign-1.1358397)
+2. [Time](http://newsfeed.time.com/2013/04/12/ding-dong-the-witch-is-dead-bbc-responds-as-anti-thatcher-campaign-pushes-song-up-the-charts/)
 
 ### Related:
 

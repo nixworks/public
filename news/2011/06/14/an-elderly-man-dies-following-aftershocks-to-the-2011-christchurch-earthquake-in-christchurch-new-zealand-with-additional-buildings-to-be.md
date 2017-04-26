@@ -7,8 +7,8 @@ Prime Minister John Key has announced there will not be a state of emergency dec
 
 ### Source:
 
-1. [TV New Zealand](http://tvnz.co.nz/national-news/christchurch-aftershocks-forces-75-new-demolitions-4224808)
-2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10732161)
+1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10732161)
+2. [TV New Zealand](http://tvnz.co.nz/national-news/christchurch-aftershocks-forces-75-new-demolitions-4224808)
 
 ### Related:
 

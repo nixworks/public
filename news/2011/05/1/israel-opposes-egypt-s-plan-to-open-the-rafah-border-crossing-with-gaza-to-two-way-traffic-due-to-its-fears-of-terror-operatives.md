@@ -7,8 +7,8 @@ Opening Rafah would help Hamas build a formidable terrorist military machine, a 
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=218525)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/01/c_13854392.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/01/c_13854392.htm)
+2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=218525)
 
 ### Related:
 

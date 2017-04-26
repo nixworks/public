@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=122729)
-2. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=122851)
+1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=122851)
+2. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=122729)
 
 ### Related:
 

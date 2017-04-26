@@ -7,9 +7,9 @@ The exiled Tibetan Parliament here on Friday unanimously accepted the Dalai Lama
 
 ### Source:
 
-1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/2/12/Tibetan-leaders-ask-public-about-Dalai-Lama-role,e28bd345-2be3-44fc-bc21-e61f6cc3523a.html)
+1. [Times of India](http://timesofindia.indiatimes.com/india/Exiled-Tibetan-Parliament-accepts-Dalai-Lamas-formal-proposal-of-retirement/articleshow/7788098.cms)
 2. [Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Tibet+exile+govt+accepts+Dalai+Lama+retirement&NewsID=281360)
-3. [Times of India](http://timesofindia.indiatimes.com/india/Exiled-Tibetan-Parliament-accepts-Dalai-Lamas-formal-proposal-of-retirement/articleshow/7788098.cms)
+3. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/2/12/Tibetan-leaders-ask-public-about-Dalai-Lama-role,e28bd345-2be3-44fc-bc21-e61f6cc3523a.html)
 
 ### Related:
 

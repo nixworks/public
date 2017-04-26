@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NY Times](http://www.nytimes.com/2005/02/16/politics/16fda.html)
-2. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-fda16feb16,0,5361557.story?coll=la-home-headlines)
+1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-fda16feb16,0,5361557.story?coll=la-home-headlines)
+2. [NY Times](http://www.nytimes.com/2005/02/16/politics/16fda.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8433240.stm)
-2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/21127)
+1. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/21127)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8433240.stm)
 
 ### Related:
 

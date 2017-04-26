@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2015-01-26/russia-credit-rating-cut-to-junk-by-s-p-for-first-time-in-decade.html)
-2. [Wall Street Journal'' via ''The Australian](http://www.theaustralian.com.au/business/wall-street-journal/russias-credit-rating-cut-to-junk-status/story-fnay3ubk-1227197819639)
+1. [Wall Street Journal'' via ''The Australian](http://www.theaustralian.com.au/business/wall-street-journal/russias-credit-rating-cut-to-junk-status/story-fnay3ubk-1227197819639)
+2. [Bloomberg](http://www.bloomberg.com/news/2015-01-26/russia-credit-rating-cut-to-junk-by-s-p-for-first-time-in-decade.html)
 
 ### Related:
 

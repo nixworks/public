@@ -7,17 +7,17 @@ The International Committee of the Red Cross pulls out of the Libyan rebel stron
 
 ### Source:
 
-1. [ABC Radio Australia](http://www.abc.net.au/worldtoday/content/2011/s3166624.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12773696)
-3. [CNN](http://news.blogs.cnn.com/2011/03/17/u-n-imposes-no-fly-zone-over-libya/)
-4. [UN Security Council resolutions 1970 & 1973](http://www.un.org/Docs/sc/unsc_resolutions11.htm)
-5. [BBC](http://www.bbc.co.uk/news/world-middle-east-12769168)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201131733318735470.html)
-7. [BBC](http://www.bbc.co.uk/news/world-europe-12769807)
-8. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=37846&Cr=Bahrain&Cr1=)
-9. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/17/141889.html)
-10. [The Guardian](http://www.guardian.co.uk/world/2011/mar/17/un-resolution-libya-no-fly-zone)
-11. [BBC](http://www.bbc.co.uk/news/world-africa-12767759)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12769807)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12767759)
+3. [The Guardian](http://www.guardian.co.uk/world/2011/mar/17/un-resolution-libya-no-fly-zone)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12769168)
+5. [ABC Radio Australia](http://www.abc.net.au/worldtoday/content/2011/s3166624.htm)
+6. [UN Security Council resolutions 1970 & 1973](http://www.un.org/Docs/sc/unsc_resolutions11.htm)
+7. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201131733318735470.html)
+8. [BBC](http://www.bbc.co.uk/news/world-south-asia-12773696)
+9. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=37846&Cr=Bahrain&Cr1=)
+10. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/17/141889.html)
+11. [CNN](http://news.blogs.cnn.com/2011/03/17/u-n-imposes-no-fly-zone-over-libya/)
 12. [The Guardian](http://www.guardian.co.uk/world/2011/jan/23/yemen-arrests-protest-leader)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/national-affairs/defence/another-digger-dies-in-afghanistan-as-his-patrol-comes-under-fire/story-e6frg8yo-1226008918320?from=public_rss)
-2. [Reuters via Fox 4KC](http://www.fox4kc.com/news/nationworld/sns-rt-international-us-afgtre71j0jv-20110220,0,421910.story)
+1. [Reuters via Fox 4KC](http://www.fox4kc.com/news/nationworld/sns-rt-international-us-afgtre71j0jv-20110220,0,421910.story)
+2. [The Australian](http://www.theaustralian.com.au/national-affairs/defence/another-digger-dies-in-afghanistan-as-his-patrol-comes-under-fire/story-e6frg8yo-1226008918320?from=public_rss)
 
 ### Related:
 

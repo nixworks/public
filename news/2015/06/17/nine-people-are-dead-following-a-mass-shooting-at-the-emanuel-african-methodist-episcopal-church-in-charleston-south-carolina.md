@@ -7,9 +7,9 @@ The 21-year-old white man suspected of shooting dead nine people at a black chur
 
 ### Source:
 
-1. [ABC News America](http://www.abc.net.au/news/2015-06-18/nine-killed-in-south-carolina-church-shooting-police-say/6556142)
+1. [Post and Courier](http://www.postandcourier.com/article/20150617/PC16/150619408)
 2. [CNN](http://www.cnn.com/2015/06/17/us/charleston-south-carolina-shooting/)
-3. [Post and Courier](http://www.postandcourier.com/article/20150617/PC16/150619408)
+3. [ABC News America](http://www.abc.net.au/news/2015-06-18/nine-killed-in-south-carolina-church-shooting-police-say/6556142)
 
 ### Related:
 

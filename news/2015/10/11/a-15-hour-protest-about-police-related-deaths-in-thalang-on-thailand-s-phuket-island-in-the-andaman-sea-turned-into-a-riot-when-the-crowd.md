@@ -7,9 +7,9 @@ Local residents in Phuket have attacked a police station on the island after rio
 
 ### Source:
 
-1. [AP via Fox News](http://www.foxnews.com/world/2015/10/11/angry-crowd-riots-on-thai-resort-island-phuket-to-protest-2-killed-during/)
-2. [Celebcafe.org](http://celebcafe.org/angry-crowd-riots-on-phuket-after-2-killed-in-police-crash-6306/)
-3. [PhuketWan Tourism News](http://phuketwan.com/tourism/patient-died-phuket-protesters-forced-krabi-ambulance-turn-back-says-paramedic-23352/)
+1. [Celebcafe.org](http://celebcafe.org/angry-crowd-riots-on-phuket-after-2-killed-in-police-crash-6306/)
+2. [PhuketWan Tourism News](http://phuketwan.com/tourism/patient-died-phuket-protesters-forced-krabi-ambulance-turn-back-says-paramedic-23352/)
+3. [AP via Fox News](http://www.foxnews.com/world/2015/10/11/angry-crowd-riots-on-thai-resort-island-phuket-to-protest-2-killed-during/)
 4. [Immortal.org](http://www.immortal.org/18570/phuket-police-crash-sparks-violent-riots/)
 
 ### Related:

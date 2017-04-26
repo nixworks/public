@@ -7,8 +7,8 @@ Record flooding from rain-swollen rivers has washed out hundreds of structures i
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-weather-storm-idUSKBN0UC0PD20151231)
-2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/midwest/ct-flooding-st-louis-i-55-20151231-story.html)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/midwest/ct-flooding-st-louis-i-55-20151231-story.html)
+2. [Reuters](http://www.reuters.com/article/us-usa-weather-storm-idUSKBN0UC0PD20151231)
 3. [AccuWeather](http://www.accuweather.com/en/weather-news/mississippi-ohio-missouri-illinois-arkansas-major-river-flooding-challenge-records-december-january-2016/54483549)
 
 ### Related:

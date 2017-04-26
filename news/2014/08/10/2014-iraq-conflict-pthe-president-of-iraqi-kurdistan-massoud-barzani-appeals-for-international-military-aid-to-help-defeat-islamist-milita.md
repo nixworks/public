@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2014/08/11/world/middleeast/iraq.html)
-2. [BBC](http://www.bbc.com/news/world-middle-east-28730618)
+1. [BBC](http://www.bbc.com/news/world-middle-east-28730618)
+2. [New York Times](http://www.nytimes.com/2014/08/11/world/middleeast/iraq.html)
 
 ### Related:
 

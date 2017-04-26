@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haiti Action Committee](http://www.haitiaction.net/News/IJDH/5_2_5.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4506099.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4506099.stm)
+2. [Haiti Action Committee](http://www.haitiaction.net/News/IJDH/5_2_5.html)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N02273237.htm)
 
 ### Related:

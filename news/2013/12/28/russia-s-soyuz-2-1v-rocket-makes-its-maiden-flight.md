@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2013/12/28/uk-russia-space-idUKBRE9BR06G20131228)
-2. [RIA Novosti](http://en.ria.ru/russia/20131228/186021089/After-Series-of-Delays-Russia-Launches-New-Soyuz-Rocket.html)
+1. [RIA Novosti](http://en.ria.ru/russia/20131228/186021089/After-Series-of-Delays-Russia-Launches-New-Soyuz-Rocket.html)
+2. [Reuters](http://uk.reuters.com/article/2013/12/28/uk-russia-space-idUKBRE9BR06G20131228)

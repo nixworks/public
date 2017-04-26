@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via France 24](http://www.france24.com/en/20150630-28-dead-attack-shiites-yemen-claimed?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-06-30&dlvrit=66745)
-2. [AP](http://bigstory.ap.org/article/db34d0896262437184b7756ef6c6de96/car-bomb-explodes-near-military-hospital-yemeni-capital)
+1. [AP](http://bigstory.ap.org/article/db34d0896262437184b7756ef6c6de96/car-bomb-explodes-near-military-hospital-yemeni-capital)
+2. [AFP via France 24](http://www.france24.com/en/20150630-28-dead-attack-shiites-yemen-claimed?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-06-30&dlvrit=66745)
 
 ### Related:
 

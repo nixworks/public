@@ -7,8 +7,8 @@ Pentagon says deputy minister of war and commander died in US-led coalition airs
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2016/jul/01/airstrike-kills-two-isis-military-leaders-in-iraq)
-2. [BBC](http://www.bbc.com/news/world-middle-east-36690806)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36690806)
+2. [The Guardian](https://www.theguardian.com/world/2016/jul/01/airstrike-kills-two-isis-military-leaders-in-iraq)
 
 ### Related:
 

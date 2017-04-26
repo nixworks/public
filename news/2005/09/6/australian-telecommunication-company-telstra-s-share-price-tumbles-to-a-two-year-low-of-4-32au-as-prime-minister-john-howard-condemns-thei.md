@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16518806%255E601,00.html)
-2. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16552277%255E601,00.html)
+1. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16552277%255E601,00.html)
+2. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16518806%255E601,00.html)
 
 ### Related:
 

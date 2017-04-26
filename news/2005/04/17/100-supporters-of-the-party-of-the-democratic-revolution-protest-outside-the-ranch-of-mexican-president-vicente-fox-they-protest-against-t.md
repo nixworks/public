@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203858)
-2. [El Universal, Mexico](http://www.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10197&tabla=miami)
+1. [El Universal, Mexico](http://www.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10197&tabla=miami)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203858)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.trust.org/alertnet/news/fiji-hammered-by-severe-cyclone-no-deaths-reported/)
-2. [AAP via SBS](http://www.sbs.com.au/news/article/1721091/Cyclone-Evan-knocks-out-power-and-bridges)
+1. [AAP via SBS](http://www.sbs.com.au/news/article/1721091/Cyclone-Evan-knocks-out-power-and-bridges)
+2. [Reuters](http://www.trust.org/alertnet/news/fiji-hammered-by-severe-cyclone-no-deaths-reported/)
 
 ### Related:
 

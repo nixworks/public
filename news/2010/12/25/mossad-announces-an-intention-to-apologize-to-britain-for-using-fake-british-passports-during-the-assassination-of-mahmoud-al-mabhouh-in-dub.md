@@ -7,8 +7,8 @@ Israel will apologize for using British passports in the assassination of a Hama
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2010/12/26/Mossad-chief-to-apologize-to-Britain/UPI-58331293371163/)
-2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=200958)
+1. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=200958)
+2. [UPI](http://www.upi.com/Top_News/World-News/2010/12/26/Mossad-chief-to-apologize-to-Britain/UPI-58331293371163/)
 
 ### Related:
 

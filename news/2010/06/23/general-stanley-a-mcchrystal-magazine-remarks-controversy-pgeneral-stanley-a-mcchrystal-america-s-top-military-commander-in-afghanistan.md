@@ -7,11 +7,11 @@ An article on the top US general in Afghanistan was an &quot;enormous mistake&qu
 
 ### Source:
 
-1. [The New York Times](http://global.nytimes.com/)
-2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010622111222326834.html)
-3. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100623/FOREIGN/706229813/1002)
-4. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/us-general-faces-sack-for-unguarded-remarks-360)
-5. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10384324.stm)
+1. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100623/FOREIGN/706229813/1002)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10384324.stm)
+3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/us-general-faces-sack-for-unguarded-remarks-360)
+4. [The New York Times](http://global.nytimes.com/)
+5. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010622111222326834.html)
 
 ### Related:
 

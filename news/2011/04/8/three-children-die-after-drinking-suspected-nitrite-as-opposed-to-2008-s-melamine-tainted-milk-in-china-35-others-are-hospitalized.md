@@ -7,8 +7,8 @@ Three Chinese children die and 35 others, mostly children, fall ill with suspect
 
 ### Source:
 
-1. [China.org.cn](http://www.china.org.cn/china/2011-04/08/content_22315804.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13010267)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13010267)
+2. [China.org.cn](http://www.china.org.cn/china/2011-04/08/content_22315804.htm)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Hundreds of mourners today protested at the funeral of an Egyptian woman who was
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/06/egypt.woman.killed/index.html?eref=rss_topstories)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8141130.stm)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0706/breaking67.htm)
-3. [The Guardian](http://www.guardian.co.uk/world/2009/jul/07/german-trial-hijab-murder-egypt)
-4. [CBC](http://www.cbc.ca/world/story/2009/07/08/merkel-stabbing-courtroom.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8141130.stm)
+3. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/06/egypt.woman.killed/index.html?eref=rss_topstories)
+4. [The Guardian](http://www.guardian.co.uk/world/2009/jul/07/german-trial-hijab-murder-egypt)
+5. [CBC](http://www.cbc.ca/world/story/2009/07/08/merkel-stabbing-courtroom.html)
 
 ### Related:
 

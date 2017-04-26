@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2010-01/16/content_12818314.htm)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/2010115164045465188.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/2010115164045465188.html)
+2. [Xinhua](http://news.xinhuanet.com/english/2010-01/16/content_12818314.htm)
 
 ### Related:
 

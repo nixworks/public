@@ -7,10 +7,10 @@ Winner of Sunday&rsquo;s vote will preside over Latin America&rsquo;s fastest-gr
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/05/us-peru-election-idUSTRE75432720110605)
-2. [Bloomberg via SFGate](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/06/05/bloomberg1376-LMCA7J6S972801-5OLQJGJTQTPJ21DGB8U6R6GN2O.DTL)
-3. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110606/ts_nm/us_peru_election)
-4. [Washington Post](http://www.washingtonpost.com/world/americas/peru-faces-unhappy-choice-in-presidential-election/2011/06/04/AGb3g2IH_story.html)
+1. [Washington Post](http://www.washingtonpost.com/world/americas/peru-faces-unhappy-choice-in-presidential-election/2011/06/04/AGb3g2IH_story.html)
+2. [Reuters](http://www.reuters.com/article/2011/06/05/us-peru-election-idUSTRE75432720110605)
+3. [Bloomberg via SFGate](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/06/05/bloomberg1376-LMCA7J6S972801-5OLQJGJTQTPJ21DGB8U6R6GN2O.DTL)
+4. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110606/ts_nm/us_peru_election)
 
 ### Related:
 

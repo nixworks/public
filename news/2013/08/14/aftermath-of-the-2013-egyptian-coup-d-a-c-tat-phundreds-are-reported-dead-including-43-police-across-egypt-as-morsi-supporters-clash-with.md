@@ -7,9 +7,9 @@ At least 278 people killed and month-long state of emergency imposed after secur
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23700663)
+1. [Associated Press](https://twitter.com/AP/status/367679472889511936)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/20138141715620312.html)
-3. [Associated Press](https://twitter.com/AP/status/367679472889511936)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-23700663)
 
 ### Related:
 

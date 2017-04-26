@@ -7,11 +7,11 @@ At least a dozen deaths reported after a massive bomb blast hits central Oslo an
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/video/europe/2011/07/2011722205015432143.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/jul/23/norway-attacks)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/2011722135232705239.html)
-4. [Sky News](http://news.sky.com/skynews/Home/World-News/Norway-Live-Blog-Oslo-Bomb-Attack-And-Utoya-Shooting/Article/201107416035759?lpos=World_News_Carousel_Region_1&lid=ARTICLE_16035759_Norway_Live_Blog%3A_Oslo_Bomb_Attack_And_Utoya_Shooting)
-5. [Sky News](http://news.sky.com/skynews/Home/World-News/Explosion-At-Oslo-Government-Building-Containing-Prime-Ministers-Office-According-To-Reuters/Article/201107416035628?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_16035628_Explosion_At_Oslo_Government_Building_Containing_Prime_Ministers_Office%2C_According_To_Reuters)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Norway-Live-Blog-Oslo-Bomb-Attack-And-Utoya-Shooting/Article/201107416035759?lpos=World_News_Carousel_Region_1&lid=ARTICLE_16035759_Norway_Live_Blog%3A_Oslo_Bomb_Attack_And_Utoya_Shooting)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Explosion-At-Oslo-Government-Building-Containing-Prime-Ministers-Office-According-To-Reuters/Article/201107416035628?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_16035628_Explosion_At_Oslo_Government_Building_Containing_Prime_Ministers_Office%2C_According_To_Reuters)
+3. [Al Jazeera](http://english.aljazeera.net/video/europe/2011/07/2011722205015432143.html)
+4. [The Guardian](http://www.guardian.co.uk/world/2011/jul/23/norway-attacks)
+5. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/2011722135232705239.html)
 6. [CTV News](http://www.ctv.ca/CTVNews/TopStories/20110722/oslo-explosino-norway-blast-110722/)
 
 ### Related:

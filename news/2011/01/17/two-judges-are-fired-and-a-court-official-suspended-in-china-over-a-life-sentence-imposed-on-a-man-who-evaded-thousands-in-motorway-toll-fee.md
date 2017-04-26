@@ -7,8 +7,8 @@ Two judges are fired and a court official suspended in China for sentencing a fa
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/article/world/judges-sacked-for-giving-life-sentence-for-toll-evasion-79842)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12205429)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12205429)
+2. [NDTV](http://www.ndtv.com/article/world/judges-sacked-for-giving-life-sentence-for-toll-evasion-79842)
 3. [Global Times](http://china.globaltimes.cn/society/2011-01/613112.html)
 
 ### Related:

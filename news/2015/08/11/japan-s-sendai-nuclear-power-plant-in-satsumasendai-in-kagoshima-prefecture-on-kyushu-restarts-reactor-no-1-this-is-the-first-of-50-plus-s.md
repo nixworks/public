@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/08/11/asia/japan-nuclear-reactor/)
-2. [UPI](http://www.upi.com/Business_News/Energy-Resources/2015/08/11/Japan-restarts-nuclear-reactor-first-since-Fukushima/4611439285816/)
+1. [UPI](http://www.upi.com/Business_News/Energy-Resources/2015/08/11/Japan-restarts-nuclear-reactor-first-since-Fukushima/4611439285816/)
+2. [CNN](http://www.cnn.com/2015/08/11/asia/japan-nuclear-reactor/)
 
 ### Related:
 

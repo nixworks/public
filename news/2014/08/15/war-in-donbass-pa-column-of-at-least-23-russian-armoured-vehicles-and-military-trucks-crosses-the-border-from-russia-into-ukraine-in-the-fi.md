@@ -7,8 +7,8 @@ Exclusive: Telegraph witnesses Russian armoured vehicles and military trucks cro
 
 ### Source:
 
-1. [The Wall Street Journal](http://online.wsj.com/articles/ukraine-officials-start-inspection-of-russian-convoy-1408092018)
-2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/11035401/Russian-armoured-vehicles-and-military-trucks-cross-border-into-Ukraine.html)
+1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/ukraine/11035401/Russian-armoured-vehicles-and-military-trucks-cross-border-into-Ukraine.html)
+2. [The Wall Street Journal](http://online.wsj.com/articles/ukraine-officials-start-inspection-of-russian-convoy-1408092018)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Russian newspaper says it has evidence that at least three men have been killed 
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/04/01/world/europe/chechen-authorities-arresting-and-killing-gay-men-russian-paper-says.html)
-2. [The Guardian](https://www.theguardian.com/world/2017/apr/02/chechen-police-rounded-up-100-gay-men-report-russian-newspaper-chechnya)
+1. [The Guardian](https://www.theguardian.com/world/2017/apr/02/chechen-police-rounded-up-100-gay-men-report-russian-newspaper-chechnya)
+2. [The New York Times](https://www.nytimes.com/2017/04/01/world/europe/chechen-authorities-arresting-and-killing-gay-men-russian-paper-says.html)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Security forces deployed to protect gay-rights marchers clash with protesters, t
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6099555,00.html)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11507253)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010101015466495888.html)
 3. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/10/serbia.gay.violence/)
 4. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=10&dd=10&nav_id=70196)
-5. [BBC](http://www.bbc.co.uk/news/world-europe-11507253)
+5. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6099555,00.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6459895.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6449227.stm)
-3. [AP via CNN](http://edition.cnn.com/2007/WORLD/europe/03/16/friendlyfire.verdict.ap/index.html?section=cnn_latest)
+2. [AP via CNN](http://edition.cnn.com/2007/WORLD/europe/03/16/friendlyfire.verdict.ap/index.html?section=cnn_latest)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6449227.stm)
 
 ### Related:
 

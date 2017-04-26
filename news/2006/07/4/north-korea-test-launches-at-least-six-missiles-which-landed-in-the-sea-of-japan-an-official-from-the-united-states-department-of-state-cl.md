@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/07/04/korea.missile/index.html)
-2. [Mainichi Shimbun](http://mdn.mainichi-msn.co.jp/national/news/20060705p2a00m0na006000c.html)
+1. [Mainichi Shimbun](http://mdn.mainichi-msn.co.jp/national/news/20060705p2a00m0na006000c.html)
+2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/07/04/korea.missile/index.html)
 
 ### Related:
 

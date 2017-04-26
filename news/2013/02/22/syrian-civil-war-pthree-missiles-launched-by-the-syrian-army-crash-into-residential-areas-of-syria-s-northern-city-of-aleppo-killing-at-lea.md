@@ -7,8 +7,8 @@ At least 12 civilians are killed by rockets in Aleppo, activists say, as opposit
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21554078)
-2. [Reuters](http://www.reuters.com/article/2013/02/22/us-syria-crisis-aleppo-idUSBRE91L17C20130222)
+1. [Reuters](http://www.reuters.com/article/2013/02/22/us-syria-crisis-aleppo-idUSBRE91L17C20130222)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21554078)
 
 ### Related:
 

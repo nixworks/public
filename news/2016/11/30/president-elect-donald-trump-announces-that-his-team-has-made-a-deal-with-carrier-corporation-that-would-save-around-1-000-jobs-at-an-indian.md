@@ -7,10 +7,10 @@ The incoming Trump Administration and UTX have reached an agreement that will ke
 
 ### Source:
 
-1. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/30/503791602/reports-trump-picks-steve-mnuchin-to-lead-treasury-department)
-2. [CNBC](http://www.cnbc.com/2016/11/29/trump-to-reveal-deal-to-keep-nearly-1000-carrier-corp-jobs-in-indiana-sources.html)
-3. [The New York Times](http://www.nytimes.com/2016/11/29/business/trump-to-announce-carrier-plant-will-keep-jobs-in-us.html?_r=0)
-4. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/30/503253374/trump-taps-billionaire-investor-wilbur-ross-for-commerce-secretary)
+1. [CNBC](http://www.cnbc.com/2016/11/29/trump-to-reveal-deal-to-keep-nearly-1000-carrier-corp-jobs-in-indiana-sources.html)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/30/503791602/reports-trump-picks-steve-mnuchin-to-lead-treasury-department)
+3. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/30/503253374/trump-taps-billionaire-investor-wilbur-ross-for-commerce-secretary)
+4. [The New York Times](http://www.nytimes.com/2016/11/29/business/trump-to-announce-carrier-plant-will-keep-jobs-in-us.html?_r=0)
 
 ### Related:
 

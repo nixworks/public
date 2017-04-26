@@ -7,8 +7,8 @@ A 6.2 aftershock has struck near the Solomon Islands, the US Geological Survey s
 
 ### Source:
 
-1. [Stuff.co.nz](http://www.stuff.co.nz/world/south-pacific/8271293/Tsunami-surge-hits-Solomon-Islands)
-2. [ABC News Australia](http://www.abc.net.au/news/2013-02-07/emergency-crews-arrive-in-tsunami-hit-solomons/4506228)
+1. [ABC News Australia](http://www.abc.net.au/news/2013-02-07/emergency-crews-arrive-in-tsunami-hit-solomons/4506228)
+2. [Stuff.co.nz](http://www.stuff.co.nz/world/south-pacific/8271293/Tsunami-surge-hits-Solomon-Islands)
 
 ### Related:
 

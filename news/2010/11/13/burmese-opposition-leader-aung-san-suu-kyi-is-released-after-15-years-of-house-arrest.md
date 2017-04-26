@@ -7,9 +7,9 @@ Pro-democracy leader emerges from seven-year house arrest and addresses supporte
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11749661)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101113105340355661.html)
-3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Myanmar-pro-democracy-icon-Suu-Kyi-tastes-freedom/articleshow/6920102.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Myanmar-pro-democracy-icon-Suu-Kyi-tastes-freedom/articleshow/6920102.cms)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11749661)
+3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101113105340355661.html)
 
 ### Related:
 

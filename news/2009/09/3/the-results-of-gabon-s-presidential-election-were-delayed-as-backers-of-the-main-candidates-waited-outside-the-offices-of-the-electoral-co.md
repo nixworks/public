@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Syndey Morning Herald](http://news.smh.com.au/breaking-news-world/atmosphere-tense-as-gabon-election-results-delayed-20090903-f9aq.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iqI5qKc1Q2V2ptEWB4Qw4QTTk4YA)
 2. [BBC News](http://news.bbc.co.uk/2/hi/africa/8235875.stm)
 3. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090903135323683C894455)
-4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iqI5qKc1Q2V2ptEWB4Qw4QTTk4YA)
+4. [The Syndey Morning Herald](http://news.smh.com.au/breaking-news-world/atmosphere-tense-as-gabon-election-results-delayed-20090903-f9aq.html)
 
 ### Related:
 

@@ -76,7 +76,7 @@ A Paris rally to demand strong action on climate change has been cancelled due t
 Democratic Unionist leader Peter Robinson has announced in a newspaper his intention to step down as Northern Ireland&amp;#39;s First Minister. Mr Robinson&amp;#39;s article in the Belfast Telegraph, written ahead of his party&amp;#39;s conference, confirmed he will not contest next May&amp;#39;s Assembly election and is likely leave office in the coming weeks. 
 
 ### [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md)
-_Context: Barack Obama, Iraq, Syria, U.S. House, United States, United States Senate, veto_
+_Context: Barack Obama, Iraq, Syria, U.S., U.S. House, United States Senate, veto_
 
 ## [Previous Day...](/news/2015/11/18/index.md)
 

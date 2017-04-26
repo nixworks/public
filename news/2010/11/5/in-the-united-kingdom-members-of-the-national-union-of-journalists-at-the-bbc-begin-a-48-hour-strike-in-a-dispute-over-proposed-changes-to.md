@@ -7,8 +7,8 @@ Members of the National Union of Journalists working for BBC News take industria
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/media/2010/nov/05/bbc-strike-radio-4-today)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11696026)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11696026)
+2. [The Guardian](http://www.guardian.co.uk/media/2010/nov/05/bbc-strike-radio-4-today)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Voice of Russia](http://english.ruvr.ru/2010/05/22/8300067.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jct0iiOImcZfdU4t59BC07IVRwfQD9FS5R7O0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jct0iiOImcZfdU4t59BC07IVRwfQD9FS5R7O0)
+2. [The Voice of Russia](http://english.ruvr.ru/2010/05/22/8300067.html)
 
 ### Related:
 

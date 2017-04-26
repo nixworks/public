@@ -7,8 +7,8 @@ At least three people were killed in a double suicide bombing in a village near 
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2015/11/08/At-least-three-killed-in-double-suicide-bombing-in-Chad/9561447034213/?spt=hs&or=tn_int)
-2. [Shanghai Daily](http://www.shanghaidaily.com/article/article_xinhua.aspx?id=308441)
+1. [Shanghai Daily](http://www.shanghaidaily.com/article/article_xinhua.aspx?id=308441)
+2. [UPI](http://www.upi.com/Top_News/World-News/2015/11/08/At-least-three-killed-in-double-suicide-bombing-in-Chad/9561447034213/?spt=hs&or=tn_int)
 
 ### Related:
 

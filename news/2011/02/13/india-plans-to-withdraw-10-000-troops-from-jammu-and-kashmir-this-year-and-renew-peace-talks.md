@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Centre-may-bring-back-at-least-10-000-troops-from-J-K/Article1-661766.aspx)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gUAbZFQ4fYWCx6DaPgunYO2Wo3ng?docId=CNG.8c103da1ea380e74948a1d04a4c553e8.861)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gUAbZFQ4fYWCx6DaPgunYO2Wo3ng?docId=CNG.8c103da1ea380e74948a1d04a4c553e8.861)
+2. [Hindustan Times](http://www.hindustantimes.com/Centre-may-bring-back-at-least-10-000-troops-from-J-K/Article1-661766.aspx)
 
 ### Related:
 

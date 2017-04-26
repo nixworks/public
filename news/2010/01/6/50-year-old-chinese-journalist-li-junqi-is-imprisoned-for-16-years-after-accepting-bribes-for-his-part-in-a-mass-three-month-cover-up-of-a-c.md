@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press Trust of India](http://www.ptinews.com/news/455914_China-reporter-sentenced-in-cover-up-of-mine-blast)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-01/06/content_9270859.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2010-01/06/content_9270859.htm)
+2. [Press Trust of India](http://www.ptinews.com/news/455914_China-reporter-sentenced-in-cover-up-of-mine-blast)
 
 ### Related:
 

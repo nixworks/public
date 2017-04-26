@@ -7,20 +7,20 @@ As the war between Israel and Hezbollah continued, four unarmed U.N. observers w
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5213026.stm)
-2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/5215366.stm)
-3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/7BE824EC-6574-457D-A77D-2DD1B2EDFCCA.htm)
-4. [CNN](http://www.cnn.com/2006/WORLD/meast/07/25/mideast.main/index.html)
-5. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060724/israel_fighting_060725/20060725?hub=TopStories)
-6. [AP](http://news.yahoo.com/s/ap/20060725/ap_on_re_mi_ea/lebanon_israel;_ylt=ApWdy2838WG7YYS.jOjQDk0DW7oF;_ylu=X3oDMTBhZDJjOXUyBHNlYwNtdm5ld3M-)
-7. [The Guardian](http://www.guardian.co.uk/israel/Story/0,,1828142,00.html)
-8. [Haaretz](http://www.haaretz.com/hasen/spages/742563.html)
-9. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/000C3EF9-8D4D-4AE5-8B8C-FA574AFC319D.htm)
-10. [News24](http://www.news24.com/News24/World/Middle_East/0,,2-10-2075_1972537,00.html)
-11. [NY Times](http://www.nytimes.com/2006/07/26/world/middleeast/26mideast.html?hp&ex=1153972800&en=117463ec2abf2621&ei=5094&partner=homepage)
-12. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5214046.stm)
-13. [Haaretz](http://www.haaretz.com/hasen/spages/742561.html)
-14. [Scoop](http://www.scoop.co.nz/stories/WO0607/S00466.htm)
+1. [NY Times](http://www.nytimes.com/2006/07/26/world/middleeast/26mideast.html?hp&ex=1153972800&en=117463ec2abf2621&ei=5094&partner=homepage)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5213026.stm)
+3. [Haaretz](http://www.haaretz.com/hasen/spages/742561.html)
+4. [Scoop](http://www.scoop.co.nz/stories/WO0607/S00466.htm)
+5. [The Guardian](http://www.guardian.co.uk/israel/Story/0,,1828142,00.html)
+6. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5214046.stm)
+7. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/5215366.stm)
+8. [CNN](http://www.cnn.com/2006/WORLD/meast/07/25/mideast.main/index.html)
+9. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/7BE824EC-6574-457D-A77D-2DD1B2EDFCCA.htm)
+10. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/000C3EF9-8D4D-4AE5-8B8C-FA574AFC319D.htm)
+11. [News24](http://www.news24.com/News24/World/Middle_East/0,,2-10-2075_1972537,00.html)
+12. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060724/israel_fighting_060725/20060725?hub=TopStories)
+13. [Haaretz](http://www.haaretz.com/hasen/spages/742563.html)
+14. [AP](http://news.yahoo.com/s/ap/20060725/ap_on_re_mi_ea/lebanon_israel;_ylt=ApWdy2838WG7YYS.jOjQDk0DW7oF;_ylu=X3oDMTBhZDJjOXUyBHNlYwNtdm5ld3M-)
 
 ### Related:
 

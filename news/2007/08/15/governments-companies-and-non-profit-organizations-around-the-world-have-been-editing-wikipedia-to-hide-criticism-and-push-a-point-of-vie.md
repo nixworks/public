@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/technology/6947532.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6949153.stm)
-3. [TIME](http://www.time.com/time/business/article/0,8599,1653378,00.html)
+1. [TIME](http://www.time.com/time/business/article/0,8599,1653378,00.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/technology/6947532.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6949153.stm)
 4. [Reddit](http://wired.reddit.com/wikidgame)
 
 ### Related:

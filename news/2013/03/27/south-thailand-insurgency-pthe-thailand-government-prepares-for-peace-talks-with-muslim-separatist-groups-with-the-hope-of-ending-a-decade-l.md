@@ -7,8 +7,8 @@ Five people are reported killed as Thai government begins talks with separatists
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/mar/28/thailand-peace-talks-muslim-rebels)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/03/201332833444182953.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/03/201332833444182953.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/mar/28/thailand-peace-talks-muslim-rebels)
 
 ### Related:
 

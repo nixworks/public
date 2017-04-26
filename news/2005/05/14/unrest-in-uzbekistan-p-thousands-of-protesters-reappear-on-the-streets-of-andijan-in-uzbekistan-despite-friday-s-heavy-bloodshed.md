@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [National Post](http://www.canada.com/national/nationalpost/news/story.html?id=1eb29e90-bc05-4969-8574-d553f721df8b&rfp=dta)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4546673.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4546673.stm)
+2. [National Post](http://www.canada.com/national/nationalpost/news/story.html?id=1eb29e90-bc05-4969-8574-d553f721df8b&rfp=dta)
 
 ### Related:
 

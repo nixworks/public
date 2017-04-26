@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [yahoo/AP](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=3&u=/ap/20050127/ap_on_re_la_am_ca/guantanamo_sex_vs_faith)
-2. [news.com.au](http://www.news.com.au/story/0,10117,12062502-26618,00.html)
+1. [news.com.au](http://www.news.com.au/story/0,10117,12062502-26618,00.html)
+2. [yahoo/AP](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=3&u=/ap/20050127/ap_on_re_la_am_ca/guantanamo_sex_vs_faith)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A plane en route to Nunavut from Winnipeg has crashed with nine people aboard, k
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/news/national/plane-crashes-in-nunavut-one-dead-airline-official/article6692718/)
-2. [CBC News](http://www.cbc.ca/news/canada/north/story/2012/12/22/north-plane-crash.html)
+1. [CBC News](http://www.cbc.ca/news/canada/north/story/2012/12/22/north-plane-crash.html)
+2. [The Globe and Mail](http://www.theglobeandmail.com/news/national/plane-crashes-in-nunavut-one-dead-airline-official/article6692718/)
 
 ### Related:
 

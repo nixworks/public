@@ -7,10 +7,10 @@ Canada has suspended diplomatic relations with Iran and is expelling Iranian dip
 
 ### Source:
 
-1. [Communiqué](http://www.mfa.gov.ir/NewsShow.aspx?id=5575&menu=108&lang=en)
+1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=284295)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/08/c_131836803.htm)
-3. [CBC](http://www.cbc.ca/news/politics/story/2012/09/07/pol-baird-canada-iran-embassy.html)
-4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=284295)
+3. [Communiqué](http://www.mfa.gov.ir/NewsShow.aspx?id=5575&menu=108&lang=en)
+4. [CBC](http://www.cbc.ca/news/politics/story/2012/09/07/pol-baird-canada-iran-embassy.html)
 
 ### Related:
 

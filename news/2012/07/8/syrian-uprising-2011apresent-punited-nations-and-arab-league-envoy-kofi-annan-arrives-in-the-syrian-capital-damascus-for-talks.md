@@ -8,8 +8,8 @@ Peace envoy Kofi Annan arrives for talks with President Bashar al-Assad amid esc
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18763672)
-2. [Dawn](http://dawn.com/2012/07/08/annan-admits-syria-failure-at-least-60-killed/)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/20127815103992770.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/20127815103992770.html)
+3. [Dawn](http://dawn.com/2012/07/08/annan-admits-syria-failure-at-least-60-killed/)
 
 ### Related:
 

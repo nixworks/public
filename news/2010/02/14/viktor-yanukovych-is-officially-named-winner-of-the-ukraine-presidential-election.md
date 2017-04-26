@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jIlE_PcAJy4bDxjQbHv05zH8m-Hw)
-2. [RIA](http://en.rian.ru/exsoviet/20100214/157878762.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hYHMIGxCNY8KpokmVs53ufhC8qIQD9DS11E00)
-4. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/Tymoshenko_To_Challenge_Election_Results_In_Court/1957513.html)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hYHMIGxCNY8KpokmVs53ufhC8qIQD9DS11E00)
+3. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/Tymoshenko_To_Challenge_Election_Results_In_Court/1957513.html)
+4. [RIA](http://en.rian.ru/exsoviet/20100214/157878762.html)
 
 ### Related:
 

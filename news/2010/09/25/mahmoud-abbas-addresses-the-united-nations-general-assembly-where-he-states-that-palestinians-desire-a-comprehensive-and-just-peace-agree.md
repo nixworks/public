@@ -7,9 +7,9 @@ Palestinians are willing and ready to reach a comprehensive and just peace agree
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11412630)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010925164625386949.html)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/26/c_13529403.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/26/c_13529403.htm)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11412630)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010925164625386949.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A woman in Northern Ireland has given birth to six babies at the Royal Victoria 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/8063956.stm)
-2. [RTÉ](http://www.rte.ie/news/2009/0522/sextuplets.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0522/sextuplets.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/8063956.stm)
 
 ### Related:
 

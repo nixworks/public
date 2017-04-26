@@ -9,10 +9,10 @@ Dozens of people are killed after militants mount an attack on a police training
 
 1. [Reuters](http://www.reuters.com/article/us-pakistan-attack-idUSKCN12O2M6)
 2. [Dawn](http://www.dawn.com/news/1291999)
-3. [CNN](http://edition.cnn.com/2016/10/24/world/pakistan-police-academy-attack/index.html)
-4. [BBC](http://www.bbc.com/news/world-asia-37757914)
+3. [BBC](http://www.bbc.com/news/world-asia-37757914)
+4. [AP via Yahoo!](https://www.yahoo.com/news/police-gunmen-kill-intel-officer-northwestern-pakistan-094952301.html?ref=gs)
 5. [Al Jazeera Media Network](http://www.aljazeera.com/news/2016/10/hurt-gunmen-storm-police-centre-quetta-161024192252388.html)
-6. [AP via Yahoo!](https://www.yahoo.com/news/police-gunmen-kill-intel-officer-northwestern-pakistan-094952301.html?ref=gs)
+6. [CNN](http://edition.cnn.com/2016/10/24/world/pakistan-police-academy-attack/index.html)
 
 ### Related:
 

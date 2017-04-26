@@ -7,8 +7,8 @@ European Union leaders argued on Thursday over the right balance between budget 
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2012/03/02/world/europe/serbia-is-candidate-for-european-union.html)
-2. [Reuters via ''the Sydney Morning Herald](http://www.smh.com.au/business/world-business/eu-argues-over-balance-of-austerity-and-growth-20120302-1u6ql.html)
+1. [Reuters via ''the Sydney Morning Herald](http://www.smh.com.au/business/world-business/eu-argues-over-balance-of-austerity-and-growth-20120302-1u6ql.html)
+2. [New York Times](http://www.nytimes.com/2012/03/02/world/europe/serbia-is-candidate-for-european-union.html)
 
 ### Related:
 

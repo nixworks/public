@@ -7,10 +7,10 @@ Celtic produced a stunning 2-1 victory over Barcelona in the Champions League on
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2012/nov/07/celtic-barcelona-champions-league-live)
+1. [Irish Independent](http://www.independent.ie/sport/soccer/watt-an-instant-hero-as-celtic-stun-barcelona-with-assured-win-3286910.html)
 2. [CBC News](http://www.cbc.ca/sports/soccer/story/2012/11/07/sp-soccer-champions-league-recap-celtic.html)
 3. [Bangkok Post](http://www.bangkokpost.com/news/world/320138/celtic-shock-barca-to-stoke-champions-league-ambitions)
-4. [Irish Independent](http://www.independent.ie/sport/soccer/watt-an-instant-hero-as-celtic-stun-barcelona-with-assured-win-3286910.html)
+4. [The Guardian](http://www.guardian.co.uk/football/2012/nov/07/celtic-barcelona-champions-league-live)
 
 ### Related:
 

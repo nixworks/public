@@ -7,11 +7,11 @@ The live blog has closed off. See our main article for all information on the si
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2015/08/17/thailand-blast-idINKCN0QM1A020150817)
-2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11498804)
-3. [Sky News](http://news.sky.com/story/1537096/bomb-blast-at-bangkok-shrine-kills-at-least-12)
+1. [Sky News](http://news.sky.com/story/1537096/bomb-blast-at-bangkok-shrine-kills-at-least-12)
+2. [The Bangkok Post](http://www.bangkokpost.com/news/security/658688/19-killed-123-hurt-as-bomb-blast-rocks-bangkok-tourist-attraction)
+3. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11498804)
 4. [Al Jazeera](http://www.aljazeera.com/news/2015/08/deadly-bomb-blast-rocks-thailand-capital-150817123625802.html)
-5. [The Bangkok Post](http://www.bangkokpost.com/news/security/658688/19-killed-123-hurt-as-bomb-blast-rocks-bangkok-tourist-attraction)
+5. [Reuters](http://in.reuters.com/article/2015/08/17/thailand-blast-idINKCN0QM1A020150817)
 
 ### Related:
 

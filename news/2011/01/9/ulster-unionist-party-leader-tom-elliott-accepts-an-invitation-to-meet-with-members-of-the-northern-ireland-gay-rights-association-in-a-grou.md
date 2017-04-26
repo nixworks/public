@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/elliott-set-to-meet-gay-community-15049786.html)
-2. [Irish Independent](http://www.independent.ie/breaking-news/national-news/elliott-set-to-meet-gay-community-2489736.html)
+1. [Irish Independent](http://www.independent.ie/breaking-news/national-news/elliott-set-to-meet-gay-community-2489736.html)
+2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/elliott-set-to-meet-gay-community-15049786.html)
 
 ### Related:
 

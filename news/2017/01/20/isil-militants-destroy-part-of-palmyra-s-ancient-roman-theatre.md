@@ -7,9 +7,9 @@ An air strike killed more than 40 members of the jihadist group Jabhat Fateh al-
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-raid-idUSKBN1540RV)
-2. [BBC](http://www.bbc.com/news/world-middle-east-38689131)
-3. [FOX News](http://www.foxnews.com/world/2017/01/20/more-than-100-core-al-qaeda-fighters-killed-in-u-s-strike-in-syria.html)
+1. [FOX News](http://www.foxnews.com/world/2017/01/20/more-than-100-core-al-qaeda-fighters-killed-in-u-s-strike-in-syria.html)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-raid-idUSKBN1540RV)
+3. [BBC](http://www.bbc.com/news/world-middle-east-38689131)
 
 ### Related:
 

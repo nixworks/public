@@ -9,8 +9,8 @@ The Winter Olympic Games opening ceremony has been launched in a flurry of ticke
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/olympic_games/vancouver_2010/luge/8513595.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/article7025669.ece)
-3. [NBC Sports](http://www.nbcolympics.com/news-features/news/newsid=411448.html#canada+ready+golden+moment)
-4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/olympics-opening-remembers-luge-death-20100213-ny5b.html)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/olympics-opening-remembers-luge-death-20100213-ny5b.html)
+4. [NBC Sports](http://www.nbcolympics.com/news-features/news/newsid=411448.html#canada+ready+golden+moment)
 5. [The Los Angeles Times](http://www.latimes.com/sports/nationworld/wire/sns-ap-oly-luger-dies,0,7579653.story)
 
 ### Related:

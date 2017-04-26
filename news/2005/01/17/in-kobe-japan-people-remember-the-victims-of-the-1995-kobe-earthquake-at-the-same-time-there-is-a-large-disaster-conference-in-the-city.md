@@ -8,8 +8,8 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=awIKZ56yu0Q0&refer=japan)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/127711/1/.html)
-3. [Asahi Shimbun](http://www.asahi.com/english/nation/TKY200501170138.html)
+2. [Asahi Shimbun](http://www.asahi.com/english/nation/TKY200501170138.html)
+3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/127711/1/.html)
 
 ### Related:
 

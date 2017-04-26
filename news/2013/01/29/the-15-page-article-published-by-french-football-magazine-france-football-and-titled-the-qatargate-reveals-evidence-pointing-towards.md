@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Football.co.uk](http://www.football.co.uk/england/platini_slams_world_cup_2022_corruption_claims_rss3682255.shtml)
-2. [RT](http://rt.com/sport/football/qatar-2022-world-cup-991/)
+1. [RT](http://rt.com/sport/football/qatar-2022-world-cup-991/)
+2. [Football.co.uk](http://www.football.co.uk/england/platini_slams_world_cup_2022_corruption_claims_rss3682255.shtml)
 3. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hlyTAM6GfHly5Gd3uNKwyN6TRyhA)
 
 ### Related:

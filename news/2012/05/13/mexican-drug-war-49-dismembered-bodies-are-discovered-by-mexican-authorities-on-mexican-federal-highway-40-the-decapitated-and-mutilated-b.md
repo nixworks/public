@@ -7,8 +7,8 @@ Mexican authorities find 49 mutilated bodies dumped on a roadside near Monterrey
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/05/13/world/americas/mexico-remains/index.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18052540)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18052540)
+2. [CNN](http://www.cnn.com/2012/05/13/world/americas/mexico-remains/index.html)
 
 ### Related:
 

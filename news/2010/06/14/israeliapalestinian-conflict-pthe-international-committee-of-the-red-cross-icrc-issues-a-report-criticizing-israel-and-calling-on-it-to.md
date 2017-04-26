@@ -8,12 +8,12 @@ Israel has been forced to the defence of an alleged Mossad spy who has been arre
 ### Source:
 
 1. [Yahoo! News](http://news.yahoo.com/s/ap/20100614/ap_on_re_mi_ea/gaza_blockade)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/poland/7825030/Israel-forced-to-defend-Mossad-spy-arrested-in-Poland.html)
+2. [The Jerusalem Post](http://www.jpost.com/Israel/article.Aspx?id=178420)
 3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904907,00.html)
 4. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=178395)
-5. [CNN](http://edition.cnn.com/2010/WORLD/meast/06/13/israel.gaza.closure/?hpt=T3)
-6. [The Jerusalem Post](http://www.jpost.com/Israel/article.Aspx?id=178420)
-7. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10306193.stm)
+5. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10306193.stm)
+6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/poland/7825030/Israel-forced-to-defend-Mossad-spy-arrested-in-Poland.html)
+7. [CNN](http://edition.cnn.com/2010/WORLD/meast/06/13/israel.gaza.closure/?hpt=T3)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Fierce fighting resumes in the Yemeni capital, Sanaa, between forces loyal to Pr
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15332828)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle-east/forces-loyal-to-yemeni-president-opposition-fighters-battle-in-sanaa/2011/10/16/gIQAX2O8pL_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle-east/forces-loyal-to-yemeni-president-opposition-fighters-battle-in-sanaa/2011/10/16/gIQAX2O8pL_story.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-15332828)
 
 ### Related:
 

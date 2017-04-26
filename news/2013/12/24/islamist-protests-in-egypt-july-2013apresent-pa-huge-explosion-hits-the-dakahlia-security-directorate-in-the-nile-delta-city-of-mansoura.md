@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/12/24/us-egypt-explosion-idUSBRE9BM0W420131224)
-2. [Al Ahram](http://english.ahram.org.eg/NewsContent/1/64/89902/Egypt/Politics-/UPDATE--At-least--dead,--injured-in-Egypts-Mansour.aspx)
+1. [Al Ahram](http://english.ahram.org.eg/NewsContent/1/64/89902/Egypt/Politics-/UPDATE--At-least--dead,--injured-in-Egypts-Mansour.aspx)
+2. [Reuters](http://www.reuters.com/article/2013/12/24/us-egypt-explosion-idUSBRE9BM0W420131224)
 
 ### Related:
 

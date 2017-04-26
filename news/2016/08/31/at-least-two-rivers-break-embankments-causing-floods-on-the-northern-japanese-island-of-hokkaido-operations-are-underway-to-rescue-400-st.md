@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3764628/Typhoon-threatens-bring-flooding-northern-Japan.html)
-2. [CNN](http://edition.cnn.com/2016/08/31/asia/japan-typhoon-lionrock/index.html)
-3. [The New York Times](http://www.nytimes.com/aponline/2016/08/31/world/asia/ap-as-asia-storm.html)
+1. [CNN](http://edition.cnn.com/2016/08/31/asia/japan-typhoon-lionrock/index.html)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/08/31/world/asia/ap-as-asia-storm.html)
+3. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3764628/Typhoon-threatens-bring-flooding-northern-Japan.html)
 
 ### Related:
 

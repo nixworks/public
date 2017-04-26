@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8870851)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/591594.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/591594.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8870851)
 
 ### Related:
 

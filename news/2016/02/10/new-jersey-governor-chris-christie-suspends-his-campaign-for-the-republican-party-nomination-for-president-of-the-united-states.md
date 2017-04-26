@@ -8,8 +8,8 @@ Republican Chris Christie drops out of the US presidential race after a disappoi
 ### Source:
 
 1. [CNN](http://www.cnn.com/2016/02/10/politics/chris-christie-2016-election/)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-35546599)
-3. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/02/10/carly-fiorina-republican-presidential-race/80031768/#)
+2. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/02/10/carly-fiorina-republican-presidential-race/80031768/#)
+3. [BBC](http://www.bbc.co.uk/news/world-us-canada-35546599)
 
 ### Related:
 

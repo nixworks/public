@@ -7,8 +7,8 @@ At least 100,000 people march through the northern Spanish city of Bilbao after 
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/world-europe-25700221)
-2. [Reuters](http://uk.reuters.com/article/2014/01/11/uk-spain-eta-protest-idUKBREA0A0J020140111?feedType=RSS&feedName=topNews)
+1. [Reuters](http://uk.reuters.com/article/2014/01/11/uk-spain-eta-protest-idUKBREA0A0J020140111?feedType=RSS&feedName=topNews)
+2. [BBC News](http://www.bbc.co.uk/news/world-europe-25700221)
 
 ### Related:
 

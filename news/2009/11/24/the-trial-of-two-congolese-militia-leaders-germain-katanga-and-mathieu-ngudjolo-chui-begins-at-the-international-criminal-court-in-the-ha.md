@@ -7,9 +7,9 @@ Two men accused of murder, rape and using child soldiers go on trial in The Hagu
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8375601.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/20091124142634137365.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jIIQpLKyj3NrhJa50Xg3Wte4yxJwD9C60H401)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/20091124142634137365.html)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jIIQpLKyj3NrhJa50Xg3Wte4yxJwD9C60H401)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8375601.stm)
 
 ### Related:
 

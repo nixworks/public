@@ -7,8 +7,8 @@ By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adol
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/30/us-asiapac-aids-youth-idUSKBN0TJ21V20151130#94ZJ9ttWCqwmUYeC.97)
-2. [AP via The Huffington Post](http://www.huffingtonpost.com/entry/aids-is-leading-cause-of-death-for-african-teens-un_565c6d17e4b08e945febb3e6)
+1. [AP via The Huffington Post](http://www.huffingtonpost.com/entry/aids-is-leading-cause-of-death-for-african-teens-un_565c6d17e4b08e945febb3e6)
+2. [Reuters](http://www.reuters.com/article/2015/11/30/us-asiapac-aids-youth-idUSKBN0TJ21V20151130#94ZJ9ttWCqwmUYeC.97)
 
 ### Related:
 

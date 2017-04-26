@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyodo News](http://english.kyodonews.jp/news/2012/09/182166.html)
-2. [CNN](http://www.cnn.com/2012/09/13/world/asia/japan-china-ambassador-collapse/index.html?hpt=hp_t3)
+1. [CNN](http://www.cnn.com/2012/09/13/world/asia/japan-china-ambassador-collapse/index.html?hpt=hp_t3)
+2. [Kyodo News](http://english.kyodonews.jp/news/2012/09/182166.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ ANKARA, Turkey (AP) — A car-bomb attack apparently targeting court officials i
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/eb4b085a570044829682fc15ae0b21dc/report-9-injured-car-bomb-explosion-southeast-turkey)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/06/car-bomb-rocks-eastern-turkey-160613113123297.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/06/car-bomb-rocks-eastern-turkey-160613113123297.html)
+2. [AP](http://bigstory.ap.org/article/eb4b085a570044829682fc15ae0b21dc/report-9-injured-car-bomb-explosion-southeast-turkey)
 
 ### Related:
 

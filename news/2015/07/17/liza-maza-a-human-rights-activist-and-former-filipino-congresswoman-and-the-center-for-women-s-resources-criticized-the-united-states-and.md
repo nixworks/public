@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Bulatlat](http://bulatlat.com/main/2015/07/16/us-govt-bars-woman-leader/)
-2. [ (''Bulatlat](http://bulatlat.com/main/2015/07/17/intl-court-hears-victims-of-rights-abuses-by-aquino-us-govts/)
-3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/705900/womens-group-hits-govt-for-barring-ex-lawmaker-from-leaving-ph)
-4. [CommonDreams.org](http://www.commondreams.org/news/2015/07/17/us-and-philippines-face-peoples-tribunal-torture-disappearances-murder)
+2. [CommonDreams.org](http://www.commondreams.org/news/2015/07/17/us-and-philippines-face-peoples-tribunal-torture-disappearances-murder)
+3. [ (''Bulatlat](http://bulatlat.com/main/2015/07/17/intl-court-hears-victims-of-rights-abuses-by-aquino-us-govts/)
+4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/705900/womens-group-hits-govt-for-barring-ex-lawmaker-from-leaving-ph)
 
 ### Related:
 

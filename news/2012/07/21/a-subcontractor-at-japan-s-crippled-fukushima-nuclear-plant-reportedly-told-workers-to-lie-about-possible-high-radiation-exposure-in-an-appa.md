@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Oman Daily Observer](http://main.omanobserver.om/node/103852)
-2. [Asahi Shimbun](http://ajw.asahi.com/article/0311disaster/fukushima/AJ201207210069)
+1. [Asahi Shimbun](http://ajw.asahi.com/article/0311disaster/fukushima/AJ201207210069)
+2. [Oman Daily Observer](http://main.omanobserver.om/node/103852)
 
 ### Related:
 

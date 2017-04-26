@@ -8,8 +8,8 @@ See how events unfolded as fires in Western Australia threatened townships on Sa
 ### Source:
 
 1. [The Australian](http://www.theaustralian.com.au/news/disaster-funds-for-wa-bushfire-zone/news-story/d8997869198da4690844263685cc5b1c?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20TheAustralianTheNationNews%20(The%20Australian%20%7C%20The%20Nation))
-2. [West Australian'' via Yahoo! Australia](https://au.news.yahoo.com/thewest/wa/a/30525622/esperance-flames-above-rooftops/)
-3. [West Australian via Yahoo! Online](https://au.news.yahoo.com/thewest/wa/a/30523925/wa-fire-continues-to-rage/)
+2. [West Australian via Yahoo! Online](https://au.news.yahoo.com/thewest/wa/a/30523925/wa-fire-continues-to-rage/)
+3. [West Australian'' via Yahoo! Australia](https://au.news.yahoo.com/thewest/wa/a/30525622/esperance-flames-above-rooftops/)
 4. [ABC News](http://www.abc.net.au/news/2016-01-09/live-wa-bushfire-threatens-four-south-west-towns/7078766)
 
 ### Related:

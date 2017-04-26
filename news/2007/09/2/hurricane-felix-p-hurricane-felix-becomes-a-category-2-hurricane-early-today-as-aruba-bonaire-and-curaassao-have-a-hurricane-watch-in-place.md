@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N02315985.htm)
-2. [AP via ABC News America](http://www.abcnews.go.com/International/wireStory?id=3550645)
-3. [Market Watch](http://www.marketwatch.com/news/story/hurricane-felix-strengthens-category-4/story.aspx?guid=%7B76B74723-46C2-4F4D-A997-94FCD6CEFE45%7D)
+1. [AP via ABC News America](http://www.abcnews.go.com/International/wireStory?id=3550645)
+2. [Market Watch](http://www.marketwatch.com/news/story/hurricane-felix-strengthens-category-4/story.aspx?guid=%7B76B74723-46C2-4F4D-A997-94FCD6CEFE45%7D)
+3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N02315985.htm)
 
 ### Related:
 

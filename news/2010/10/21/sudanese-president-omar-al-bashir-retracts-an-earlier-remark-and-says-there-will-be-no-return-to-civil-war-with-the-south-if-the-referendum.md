@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ihALoQ4NcGnyJN77-okv9yOaOHzw?docId=CNG.8ba19bfd5fd769f4c21b71be0ecedf35.1e1)
-2. [Africa News](http://www.africanews.com/site/AlBashir_No_return_to_civil_war/list_messages/35486)
+1. [Africa News](http://www.africanews.com/site/AlBashir_No_return_to_civil_war/list_messages/35486)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ihALoQ4NcGnyJN77-okv9yOaOHzw?docId=CNG.8ba19bfd5fd769f4c21b71be0ecedf35.1e1)
 
 ### Related:
 

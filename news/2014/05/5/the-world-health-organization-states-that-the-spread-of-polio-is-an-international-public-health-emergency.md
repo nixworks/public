@@ -7,8 +7,8 @@ The World Health Organization declares the recent spread of polio an internation
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2014/05/06/health/world-health-organization-polio-health-emergency.html)
-2. [BBC](http://www.bbc.com/news/world-27284389)
+1. [BBC](http://www.bbc.com/news/world-27284389)
+2. [New York Times](http://www.nytimes.com/2014/05/06/health/world-health-organization-polio-health-emergency.html)
 
 ### Related:
 

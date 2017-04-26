@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1130/1224284435846.html?via=mr)
-2. [RTÉ](http://www.rte.ie/news/2010/1130/weather_live_updates.html)
+1. [RTÉ](http://www.rte.ie/news/2010/1130/weather_live_updates.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1130/1224284435846.html?via=mr)
 
 ### Related:
 

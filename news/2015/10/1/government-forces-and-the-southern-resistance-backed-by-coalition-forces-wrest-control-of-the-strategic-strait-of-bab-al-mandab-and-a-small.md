@@ -7,9 +7,9 @@ Military and security officials say fierce battles are ongoing between military 
 
 ### Source:
 
-1. [AP via Fox News](http://www.foxnews.com/world/2015/10/01/fighting-rages-in-yemen-near-bab-al-mandab-strategic-red-sea-shipping-strait/)
-2. [Gulf News](http://gulfnews.com/news/gulf/yemen/yemeni-forces-regain-control-over-strategic-bab-al-mandab-strait-1.1593596)
-3. [Al Jazeera‎](http://www.aljazeera.com/news/2015/10/hadi-loyalists-claim-capture-key-yemen-strait-151001131134976.html)
+1. [Gulf News](http://gulfnews.com/news/gulf/yemen/yemeni-forces-regain-control-over-strategic-bab-al-mandab-strait-1.1593596)
+2. [Al Jazeera‎](http://www.aljazeera.com/news/2015/10/hadi-loyalists-claim-capture-key-yemen-strait-151001131134976.html)
+3. [AP via Fox News](http://www.foxnews.com/world/2015/10/01/fighting-rages-in-yemen-near-bab-al-mandab-strategic-red-sea-shipping-strait/)
 
 ### Related:
 

@@ -8,9 +8,9 @@
 ### Source:
 
 1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1188700/ireland-'humiliated'-after-germany-thrashing?cc=5739)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/sport/2012/1013/1224325226387.html)
+2. [Deutsche Welle](http://www.dw.de/dw/article/0,,16303952,00.html)
 3. [The Times of India](http://timesofindia.indiatimes.com/sports/football/top-stories/Germany-inflict-heaviest-home-loss-on-Ireland/articleshow/16790471.cms)
-4. [Deutsche Welle](http://www.dw.de/dw/article/0,,16303952,00.html)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/sport/2012/1013/1224325226387.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ NASA&#039;s prolific planet-hunting Kepler Space Telescope has been placed in a 
 
 ### Source:
 
-1. [Space.com](http://www.space.com/19360-kepler-telescope-alien-planets-glitch.html)
-2. [Discovery News](http://news.discovery.com/space/alien-life-exoplanets/glitch-forces-kepler-mission-safe-mode-130121.htm)
+1. [Discovery News](http://news.discovery.com/space/alien-life-exoplanets/glitch-forces-kepler-mission-safe-mode-130121.htm)
+2. [Space.com](http://www.space.com/19360-kepler-telescope-alien-planets-glitch.html)
 
 ### Related:
 

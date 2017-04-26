@@ -7,9 +7,9 @@ The Iranian authorities say a woman convicted of adultery, Sakineh Mohammadi Ash
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=134025&sectionid=351020101)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/10565103.stm)
-3. [National Turk](http://www.nationalturk.com/en/iran-announce-woman-escape-stoning-execution-for-adultery-35663585)
+1. [National Turk](http://www.nationalturk.com/en/iran-announce-woman-escape-stoning-execution-for-adultery-35663585)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=134025&sectionid=351020101)
+3. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/10565103.stm)
 
 ### Related:
 

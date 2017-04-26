@@ -7,8 +7,8 @@ A suicide bomber killed at least 10 people and wounded four on Wednesday in an a
 
 ### Source:
 
-1. [Al-Jazeera](http://www.aljazeera.com/news/2016/05/afghan-taliban-haibatullah-akhunzada-leader-160525045301080.html)
-2. [Reuters via Yahoo! News](https://www.yahoo.com/news/ten-killed-suicide-attack-near-afghan-capital-053017043.html)
+1. [Reuters via Yahoo! News](https://www.yahoo.com/news/ten-killed-suicide-attack-near-afghan-capital-053017043.html)
+2. [Al-Jazeera](http://www.aljazeera.com/news/2016/05/afghan-taliban-haibatullah-akhunzada-leader-160525045301080.html)
 
 ### Related:
 

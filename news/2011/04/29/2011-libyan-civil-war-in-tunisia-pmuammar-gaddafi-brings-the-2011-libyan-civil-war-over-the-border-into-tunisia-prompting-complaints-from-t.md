@@ -8,8 +8,8 @@ Tunisia condemns a violation of its territory after fighting between Libyan rebe
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13234859)
-2. [PA via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5iOSmeCV0P3e70futM13AmlutLU2w?docId=N0181031304062285707A)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-13242157)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-13242157)
+3. [PA via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5iOSmeCV0P3e70futM13AmlutLU2w?docId=N0181031304062285707A)
 
 ### Related:
 

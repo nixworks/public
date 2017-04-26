@@ -7,9 +7,9 @@ At least nine dead in fighting in densely populated Mogadishu neighbourhoods.
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/01/29/somalia.attacks/)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/201012952643986136.html)
-3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/world/21-heavy-fighting-rages-in-centre-of-mogadishu-sk-20)
+1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/world/21-heavy-fighting-rages-in-centre-of-mogadishu-sk-20)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/01/29/somalia.attacks/)
+3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/201012952643986136.html)
 
 ### Related:
 

@@ -8,9 +8,9 @@ A magnitude-7.9 earthquake strikes in Nepal and northern India, killing more tha
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2015/04/25/asia/nepal-earthquake-7-5-magnitude/index.html?eref=edition)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-25-AS--Nepal-Earthquake/id-9291da1bc65d4e2fbfe4a4fcdcbcf324)
-3. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-04-25/nepal-earthquake-people-die-buildings-collapse-kathmandu/6421696)
-4. [BBC](http://www.bbc.com/news/world-asia-32461019)
+2. [BBC](http://www.bbc.com/news/world-asia-32461019)
+3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-25-AS--Nepal-Earthquake/id-9291da1bc65d4e2fbfe4a4fcdcbcf324)
+4. [Reuters via ABC News Australia](http://www.abc.net.au/news/2015-04-25/nepal-earthquake-people-die-buildings-collapse-kathmandu/6421696)
 
 ### Related:
 

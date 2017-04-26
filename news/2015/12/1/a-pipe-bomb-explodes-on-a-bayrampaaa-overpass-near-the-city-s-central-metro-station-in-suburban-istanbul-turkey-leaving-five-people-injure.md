@@ -7,8 +7,8 @@ Five hurt in explosion in industrial and residential area during evening rush ho
 
 ### Source:
 
-1. [The Atlantic](http://www.theatlantic.com/international/archive/2015/12/what-we-know-about-the-istanbul-blast/418242/)
-2. [The Guardian](http://www.theguardian.com/world/2015/dec/01/bomb-explodes-near-istanbul-metro-station)
+1. [The Guardian](http://www.theguardian.com/world/2015/dec/01/bomb-explodes-near-istanbul-metro-station)
+2. [The Atlantic](http://www.theatlantic.com/international/archive/2015/12/what-we-know-about-the-istanbul-blast/418242/)
 3. [BBC](http://www.bbc.com/news/world-europe-34978232)
 
 ### Related:

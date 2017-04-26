@@ -7,8 +7,8 @@ At least 39 people have been killed in fresh clashes between rival communities i
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-20807736)
-2. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/12/2012122186289644.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/12/2012122186289644.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-20807736)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Winning a Stanley Cup must have factored in.
 
 ### Source:
 
-1. [RTV Slovenija](http://www.rtvslo.si/sport/ne-spreglejte/kopitar-in-zolnirjeva-najboljsa-sportnika-slovenije/298511)
-2. [NBC Sports](http://prohockeytalk.nbcsports.com/2012/12/20/anze-kopitar-named-slovenian-sportsman-of-the-year/)
+1. [NBC Sports](http://prohockeytalk.nbcsports.com/2012/12/20/anze-kopitar-named-slovenian-sportsman-of-the-year/)
+2. [RTV Slovenija](http://www.rtvslo.si/sport/ne-spreglejte/kopitar-in-zolnirjeva-najboljsa-sportnika-slovenije/298511)
 
 ### Related:
 

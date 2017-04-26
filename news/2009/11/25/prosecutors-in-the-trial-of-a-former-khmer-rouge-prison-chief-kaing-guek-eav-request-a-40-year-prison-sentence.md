@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=112146&sectionid=351020406)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gXssZ7V8pKg42hqegCKtdB4TPyZgD9C6ELIO0)
 2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009112529735/National-news/khmer-rouge-tribunal-prosecutors-seeking-40-year-prison-term-for-duch.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gXssZ7V8pKg42hqegCKtdB4TPyZgD9C6ELIO0)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=112146&sectionid=351020406)
 
 ### Related:
 

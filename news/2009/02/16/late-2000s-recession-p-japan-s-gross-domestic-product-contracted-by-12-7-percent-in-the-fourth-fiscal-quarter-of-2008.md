@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aSyW70WSh4NU&refer=home)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/7891913.stm)
 2. [AP via ''New York Times](http://www.nytimes.com/aponline/2009/02/15/business/AP-AS-Japan-Economy.html?_r=1&partner=rss)
-3. [BBC](http://news.bbc.co.uk/2/hi/business/7891913.stm)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aSyW70WSh4NU&refer=home)
 
 ### Related:
 

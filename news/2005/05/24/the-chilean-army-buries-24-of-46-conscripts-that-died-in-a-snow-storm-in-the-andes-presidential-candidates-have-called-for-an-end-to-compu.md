@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SantiagoTimes](http://www.tcgnews.com/santiagotimes/index.php?nav=story&story_id=9138&topic_id=1)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4574309.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4574309.stm)
+2. [SantiagoTimes](http://www.tcgnews.com/santiagotimes/index.php?nav=story&story_id=9138&topic_id=1)
 
 ### Related:
 

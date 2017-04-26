@@ -8,9 +8,9 @@ Donald Trump, Ted Cruz and John Kasich all backed away from earlier pledges to s
 ### Source:
 
 1. [CNN](http://www.cnn.com/2016/03/30/politics/republican-town-hall-takeaways/index.html)
-2. [AP](http://bigstory.ap.org/article/798d65a8197a4b948695cacd3c6e7090)
+2. [UPI](http://www.upi.com/Top_News/US/2016/03/30/Town-hall-GOP-candidates-refuse-to-back-eventual-nominee/1691459309374/?spt=rln&or=1)
 3. [Fox News](http://www.foxnews.com/politics/2016/03/29/donald-trump-rescinds-pledge-to-support-eventual-gop-nominee.html)
-4. [UPI](http://www.upi.com/Top_News/US/2016/03/30/Town-hall-GOP-candidates-refuse-to-back-eventual-nominee/1691459309374/?spt=rln&or=1)
+4. [AP](http://bigstory.ap.org/article/798d65a8197a4b948695cacd3c6e7090)
 
 ### Related:
 

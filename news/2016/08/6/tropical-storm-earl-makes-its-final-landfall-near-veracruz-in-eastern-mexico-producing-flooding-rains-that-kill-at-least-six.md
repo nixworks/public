@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [EFE](http://www.efe.com/efe/america/sociedad/la-tormenta-earl-deja-tres-muertos-en-el-estado-mexicano-de-veracruz/20000013-3005944)
-2. [AP via ''New York Times](http://www.nytimes.com/aponline/2016/08/06/world/americas/ap-lt-tropical-weather.html)
+1. [AP via ''New York Times](http://www.nytimes.com/aponline/2016/08/06/world/americas/ap-lt-tropical-weather.html)
+2. [EFE](http://www.efe.com/efe/america/sociedad/la-tormenta-earl-deja-tres-muertos-en-el-estado-mexicano-de-veracruz/20000013-3005944)
 
 ### Related:
 

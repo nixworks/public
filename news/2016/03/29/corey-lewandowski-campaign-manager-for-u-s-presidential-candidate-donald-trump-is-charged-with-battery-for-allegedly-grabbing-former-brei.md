@@ -7,8 +7,8 @@ Nearly a month of jousting on social media culminated Tuesday in the arrest of a
 
 ### Source:
 
-1. [The Palm Beach Post](http://www.palmbeachpost.com/news/news/local/trump-aide-charged-with-misdemeanor-battery-on-ex-/nqtkY/)
-2. [New York Times](http://www.nytimes.com/2016/03/30/us/politics/trump-campaign-manager-corey-lewandowski.html)
+1. [New York Times](http://www.nytimes.com/2016/03/30/us/politics/trump-campaign-manager-corey-lewandowski.html)
+2. [The Palm Beach Post](http://www.palmbeachpost.com/news/news/local/trump-aide-charged-with-misdemeanor-battery-on-ex-/nqtkY/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Prime Minister Recep Tayyip Erdogan was set to be Turkey&#039;s next president a
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-28729234)
-2. [Sydney Morning Herald](http://www.smh.com.au/world/turkeys-erdogan-set-for-win-in-presidential-election-20140811-102l3d.html)
+1. [Sydney Morning Herald](http://www.smh.com.au/world/turkeys-erdogan-set-for-win-in-presidential-election-20140811-102l3d.html)
+2. [BBC](http://www.bbc.com/news/world-europe-28729234)
 
 ### Related:
 

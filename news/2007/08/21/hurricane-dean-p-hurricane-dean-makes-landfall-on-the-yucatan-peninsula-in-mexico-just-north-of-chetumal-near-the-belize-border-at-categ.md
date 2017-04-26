@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/08/21/business/CB-FIN-Hurricane-Dean-Bananas.php)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/6955163.stm)
-3. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070822?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070822?feedType=RSS&feedName=topNews)
+2. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/08/21/business/CB-FIN-Hurricane-Dean-Bananas.php)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/6955163.stm)
 
 ### Related:
 

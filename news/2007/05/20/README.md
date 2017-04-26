@@ -1,7 +1,7 @@
 ## [2007-05-20](/news/2007/05/20/index.md)
 
 ### [ Alltel, a mobile phone provider in the United States, is acquired by TPG Capital, L.P. and Goldman Sachs leveraged-buyout unit. ](/news/2007/05/20/alltel-a-mobile-phone-provider-in-the-united-states-is-acquired-by-tpg-capital-l-p-and-goldman-sachs-leveraged-buyout-unit.md)
-_Context: Alltel, Goldman Sachs, TPG Capital, L.P., United States, mobile phone_
+_Context: Alltel, Goldman Sachs, TPG Capital, L.P., U.S., mobile phone_
 
 ### [ A suicide bomber kills at least 10 people and injures 32 people in Gardez, the capital of Afghanistan's Paktia Province. ](/news/2007/05/20/a-suicide-bomber-kills-at-least-10-people-and-injures-32-people-in-gardez-the-capital-of-afghanistan-s-paktia-province.md)
 The attack came a day after another suicide bombing killed nine people, among them three German soldiers in the northern province of Kunduz.

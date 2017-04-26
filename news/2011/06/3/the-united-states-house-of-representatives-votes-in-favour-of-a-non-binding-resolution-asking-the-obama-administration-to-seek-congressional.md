@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ABC News](http://blogs.abcnews.com/thenote/2011/06/dueling-libya-resolutions-could-spell-trouble-for-white-house-and-republicans.html)
-2. [AP via MSNBC](http://www.msnbc.msn.com/id/43270737)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/43270737)
+2. [ABC News](http://blogs.abcnews.com/thenote/2011/06/dueling-libya-resolutions-could-spell-trouble-for-white-house-and-republicans.html)
 
 ### Related:
 

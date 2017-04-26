@@ -7,9 +7,9 @@ Quebec government steps in with emergency aid package
 
 ### Source:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/news/national/quebec/gasp-flood-victims-to-get-7-million-in-relief/article1840269/)
-2. [Calgary Herald](http://www.calgaryherald.com/Brunswick+promises+financial+flood+victims/3987367/story.html)
-3. [CBC](http://www.cbc.ca/canada/new-brunswick/story/2010/12/15/nb-fredericton-flooding-536.html)
+1. [CBC](http://www.cbc.ca/canada/new-brunswick/story/2010/12/15/nb-fredericton-flooding-536.html)
+2. [Globe and Mail](http://www.theglobeandmail.com/news/national/quebec/gasp-flood-victims-to-get-7-million-in-relief/article1840269/)
+3. [Calgary Herald](http://www.calgaryherald.com/Brunswick+promises+financial+flood+victims/3987367/story.html)
 
 ### Related:
 

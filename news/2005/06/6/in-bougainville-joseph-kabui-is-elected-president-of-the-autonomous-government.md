@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1385733.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4612685.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4612685.stm)
+2. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1385733.htm)
 
 ### Related:
 

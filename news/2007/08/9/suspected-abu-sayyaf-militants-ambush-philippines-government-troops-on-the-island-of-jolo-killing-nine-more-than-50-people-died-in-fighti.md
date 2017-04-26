@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/08/09/asia/AS-GEN-Philippines-Ambush.php)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6939753.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6939753.stm)
+2. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/08/09/asia/AS-GEN-Philippines-Ambush.php)
 
 ### Related:
 

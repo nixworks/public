@@ -7,8 +7,8 @@ Russia says it has deployed S-300 anti-aircraft missiles in the breakaway Abkhaz
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10940297)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13441635.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13441635.htm)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10940297)
 
 ### Related:
 

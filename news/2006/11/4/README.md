@@ -19,7 +19,7 @@ _Context: Gaza Strip, Israel, Operation Autumn Clouds, air strikes_
 _Context: Beit Hanoun, Gaza Strip, Israel, mosque_
 
 ### [ Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. ](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.md)
-_Context: Ariel Sharon, Sheba Medical Center, Tel Aviv, intensive care unit, prime minister of Israel_
+_Context: Ariel Sharon, Prime Minister of Israel, Sheba Medical Center, Tel Aviv, intensive care unit_
 
 ### [ Hu Jintao, the President of the People's Republic of China, promises to double foreign aid to Africa at a conference attended by many of the top African leaders. ](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.md)
 _Context: Africa, Chinese President, Hu Jintao, foreign aid_

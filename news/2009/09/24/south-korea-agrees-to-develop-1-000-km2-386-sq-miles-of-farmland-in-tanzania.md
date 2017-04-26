@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8272506.stm)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090924084905703C603651)
-3. [The Korea Herald](http://www.koreaherald.co.kr/NEWKHSITE/data/html_dir/2009/09/24/200909240088.asp)
+2. [The Korea Herald](http://www.koreaherald.co.kr/NEWKHSITE/data/html_dir/2009/09/24/200909240088.asp)
+3. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090924084905703C603651)
 
 ### Related:
 

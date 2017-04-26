@@ -7,10 +7,10 @@ UNESCO condemned the killing of Hrant Dink editorinchief of bilingual TurkishArm
 
 ### Source:
 
-1. [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/chi-0701240057jan24,1,2183323.story?coll=chi-newsnationworld-hed)
-2. [Turkish Press](http://www.turkishpress.com/news.asp?id=160286)
-3. [The Baltimore Sun](http://www.baltimoresun.com/news/nationworld/bal-te.worldlede24jan24,0,2205576.story?coll=bal-nationworld-headlines)
-4. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/F70690D7-38BE-4097-A008-CFBF3776310D.htm)
+1. [Turkish Press](http://www.turkishpress.com/news.asp?id=160286)
+2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/F70690D7-38BE-4097-A008-CFBF3776310D.htm)
+3. [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/chi-0701240057jan24,1,2183323.story?coll=chi-newsnationworld-hed)
+4. [The Baltimore Sun](http://www.baltimoresun.com/news/nationworld/bal-te.worldlede24jan24,0,2205576.story?coll=bal-nationworld-headlines)
 
 ### Related:
 

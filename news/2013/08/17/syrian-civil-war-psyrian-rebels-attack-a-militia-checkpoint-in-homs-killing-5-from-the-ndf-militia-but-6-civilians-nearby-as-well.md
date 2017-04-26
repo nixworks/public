@@ -7,8 +7,8 @@ Syrian rebels killed at least 11 people, including civilians, in an attack on a 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/17/us-syria-crisis-checkpoint-idUSBRE97G04K20130817)
-2. [New York Times](http://www.nytimes.com/2013/08/17/world/middleeast/syria-planes-strike-at-rebel-held-district-in-aleppo.html?_r=0)
+1. [New York Times](http://www.nytimes.com/2013/08/17/world/middleeast/syria-planes-strike-at-rebel-held-district-in-aleppo.html?_r=0)
+2. [Reuters](http://www.reuters.com/article/2013/08/17/us-syria-crisis-checkpoint-idUSBRE97G04K20130817)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Tibetan Buddhist leader says visit is humanitarian, following criticism from Chi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/2009830205219349115.html)
-2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_423489.html)
-3. [Hindustan Times](http://www.hindustantimes.com/world-news/restofasia/Taiwan-visit-is-non-political-Dalai-Lama/Article1-448572.aspx)
+2. [Hindustan Times](http://www.hindustantimes.com/world-news/restofasia/Taiwan-visit-is-non-political-Dalai-Lama/Article1-448572.aspx)
+3. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_423489.html)
 
 ### Related:
 

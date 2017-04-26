@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1489382,00.html)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-02-14T221430Z_01_DOB479878_RTRUKOC_0_GERMANY-FISCHER.xml)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4264793.stm)
 3. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=52&story_id=16901&name=Fischer+admits+errors+in+visa+scandal%2C+to+testify+to+inquiry+)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/4264793.stm)
+4. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-02-14T221430Z_01_DOB479878_RTRUKOC_0_GERMANY-FISCHER.xml)
 
 ### Related:
 

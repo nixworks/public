@@ -8,8 +8,8 @@ The Belgian region of Wallonia rejected new amendments to a planned EU-Canada fr
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2016/10/21/world/europe/brexit-migration-walloons-eus-list-of-crises-keeps-growing.html?_r=0)
-2. [Reuters](http://www.reuters.com/article/us-eu-canada-trade-idUSKCN12K1Z3)
-3. [NASDAQ](http://www.nasdaq.com/article/eu-calls-emergency-meeting-to-save-canadian-free-trade-deal-cm696011)
+2. [NASDAQ](http://www.nasdaq.com/article/eu-calls-emergency-meeting-to-save-canadian-free-trade-deal-cm696011)
+3. [Reuters](http://www.reuters.com/article/us-eu-canada-trade-idUSKCN12K1Z3)
 
 ### Related:
 

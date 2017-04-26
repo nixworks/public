@@ -7,8 +7,8 @@ State Attorney General Eric Schneiderman ordered fantasy sports companies DraftK
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/n-y-attorney-general-orders-fantasy-sports-sites-draftkings-fanduel-n461051)
-2. [New York Daily News](http://www.nydailynews.com/sports/football/new-york-ag-orders-draftkings-fanduel-shut-state-article-1.2430225)
+1. [New York Daily News](http://www.nydailynews.com/sports/football/new-york-ag-orders-draftkings-fanduel-shut-state-article-1.2430225)
+2. [NBC News](http://www.nbcnews.com/news/us-news/n-y-attorney-general-orders-fantasy-sports-sites-draftkings-fanduel-n461051)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Europe recorded its first death from H1N1 flu on Sunday after Scottish health of
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0614/swineflu.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0614/breaking38.htm)
-3. [Reuters](http://uk.reuters.com/article/UKNews1/idUKTRE55D1Q020090614)
+1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKTRE55D1Q020090614)
+2. [RTÉ](http://www.rte.ie/news/2009/0614/swineflu.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0614/breaking38.htm)
 
 ### Related:
 

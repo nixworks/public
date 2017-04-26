@@ -7,9 +7,9 @@ Interior minister welcomes decision, calls it first step in expelling the remain
 
 ### Source:
 
-1. [Al Arabiya](http://english.alarabiya.net/articles/2012/06/07/219177.html)
+1. [Deutsche Welle](http://www.dw.de/dw/article/0,,16006400,00.html)
 2. [The Times of Israel](http://www.timesofisrael.com/court-okays-deportation-of-south-sudanese-migrants/)
-3. [Deutsche Welle](http://www.dw.de/dw/article/0,,16006400,00.html)
+3. [Al Arabiya](http://english.alarabiya.net/articles/2012/06/07/219177.html)
 
 ### Related:
 

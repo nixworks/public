@@ -7,9 +7,9 @@ Initial reports say they were ambushed in an attack that investigators said migh
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/americas/04/23/juarez.shootout/?hpt=T1)
-2. [The New York Times](http://www.nytimes.com/2010/04/24/world/americas/24mexico.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/8641380.stm)
+1. [The New York Times](http://www.nytimes.com/2010/04/24/world/americas/24mexico.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8641380.stm)
+3. [CNN](http://edition.cnn.com/2010/WORLD/americas/04/23/juarez.shootout/?hpt=T1)
 
 ### Related:
 

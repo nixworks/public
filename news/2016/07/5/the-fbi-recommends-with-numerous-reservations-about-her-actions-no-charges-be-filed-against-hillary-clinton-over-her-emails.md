@@ -7,8 +7,8 @@ The FBI tells Hillary Clinton she will not face criminal charges over her use of
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/07/06/us/politics/hillary-clinton-fbi-email-comey.html?_r=0)
-2. [BBC](http://www.bbc.com/news/world-us-canada-36711711)
+1. [BBC](http://www.bbc.com/news/world-us-canada-36711711)
+2. [The New York Times](http://www.nytimes.com/2016/07/06/us/politics/hillary-clinton-fbi-email-comey.html?_r=0)
 
 ### Related:
 

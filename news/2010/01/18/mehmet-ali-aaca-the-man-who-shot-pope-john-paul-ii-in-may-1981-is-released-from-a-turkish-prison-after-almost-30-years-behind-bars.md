@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Today's Zaman](http://www.todayszaman.com/tz-web/news-198907-100-popes-gunman-released-from-prison.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/18/turkey.pope.gunman/)
 2. [Hong Kong Standard](http://www.thestandard.com.hk/news_detail.asp?pp_cat=17&art_id=93280&sid=26742653&con_type=1)
-3. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/18/turkey.pope.gunman/)
+3. [Today's Zaman](http://www.todayszaman.com/tz-web/news-198907-100-popes-gunman-released-from-prison.html)
 
 ### Related:
 

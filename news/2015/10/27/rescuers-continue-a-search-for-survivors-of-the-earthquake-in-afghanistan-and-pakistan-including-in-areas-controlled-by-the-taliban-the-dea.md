@@ -8,8 +8,8 @@ Rescuers pick their way through rugged terrain and pockets of Taliban insurgency
 ### Source:
 
 1. [Daily Star](https://www.dailystar.com.lb/News/World/2015/Oct-27/320411-taliban-vow-to-help-afghanistan-after-deadly-quake.ashx)
-2. [AFP via ABC News](http://www.abc.net.au/news/2015-10-27/rescuers-search-rubble-for-survivors-of-massive-south-asia-quake/6889008)
-3. [Reuters](http://www.reuters.com/article/2015/10/27/us-earthquake-afghanistan-idUSKCN0SL08I20151027)
+2. [Reuters](http://www.reuters.com/article/2015/10/27/us-earthquake-afghanistan-idUSKCN0SL08I20151027)
+3. [AFP via ABC News](http://www.abc.net.au/news/2015-10-27/rescuers-search-rubble-for-survivors-of-massive-south-asia-quake/6889008)
 4. [Himalayan Times](http://thehimalayantimes.com/world/death-toll-reaches-339-in-quake-hit-pakistani-afghan-areas/)
 
 ### Related:

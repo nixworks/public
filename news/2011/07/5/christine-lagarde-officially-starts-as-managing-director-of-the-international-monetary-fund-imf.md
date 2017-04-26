@@ -7,9 +7,9 @@ Former French finance minister Christine Lagarde is beginning her official dutie
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2011/0705/imf.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0705/breaking18.html)
-3. [BBC](http://www.bbc.co.uk/news/business-14024735)
+1. [BBC](http://www.bbc.co.uk/news/business-14024735)
+2. [RTÉ](http://www.rte.ie/news/2011/0705/imf.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0705/breaking18.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Nepalese Prime Minister Madhav Kumar Nepal announces his resignation in a televi
 
 ### Source:
 
-1. [Kantipur](http://www.ekantipur.com/2010/06/30/top-story/prime-minister-nepal-steps-down/317580/)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201063013169630394.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/10464705.stm)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201063013169630394.html)
+3. [Kantipur](http://www.ekantipur.com/2010/06/30/top-story/prime-minister-nepal-steps-down/317580/)
 4. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Nepal-PM-quits-amid-pressure-from-Maoists/articleshow/6111321.cms)
 
 ### Related:

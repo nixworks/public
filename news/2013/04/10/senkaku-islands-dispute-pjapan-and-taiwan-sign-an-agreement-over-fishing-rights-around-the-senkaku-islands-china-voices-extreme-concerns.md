@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NHK World](http://www3.nhk.or.jp/nhkworld/english/news/20130410_36.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-china-22092853)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-china-22092853)
+2. [NHK World](http://www3.nhk.or.jp/nhkworld/english/news/20130410_36.html)
 
 ### Related:
 

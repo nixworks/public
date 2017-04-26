@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/07/11/Tunisia-says-127-arrests-since-militant-beach-massacre-.html)
-2. [AP](http://bigstory.ap.org/article/b4f69b25b07f45ebb6afc94e9a4e6fb0/tunisian-government-says-top-terrorists-killed)
+1. [AP](http://bigstory.ap.org/article/b4f69b25b07f45ebb6afc94e9a4e6fb0/tunisian-government-says-top-terrorists-killed)
+2. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/07/11/Tunisia-says-127-arrests-since-militant-beach-massacre-.html)
 
 ### Related:
 

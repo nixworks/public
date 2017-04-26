@@ -7,8 +7,8 @@ An Edhi spokesman says its morgue has reached its capacity and cannot accommodat
 
 ### Source:
 
-1. [DAWN](http://www.dawn.com/news/1189748/death-toll-in-karachi-heatwave-rises-to-over-200)
-2. [CNN](http://edition.cnn.com/2015/06/21/asia/pakistan-heat-wave/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2015/06/21/asia/pakistan-heat-wave/index.html?eref=edition)
+2. [DAWN](http://www.dawn.com/news/1189748/death-toll-in-karachi-heatwave-rises-to-over-200)
 
 ### Related:
 

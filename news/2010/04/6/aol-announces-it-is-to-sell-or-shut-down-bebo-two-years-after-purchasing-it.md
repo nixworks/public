@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/business/8606379.stm)
-2. [The New Zealand Herald](http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=10636778)
+1. [The New Zealand Herald](http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=10636778)
+2. [BBC](http://news.bbc.co.uk/2/hi/business/8606379.stm)
 3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052702304172404575168263277157890.html?mod=googlenews_wsj)
 
 ### Related:

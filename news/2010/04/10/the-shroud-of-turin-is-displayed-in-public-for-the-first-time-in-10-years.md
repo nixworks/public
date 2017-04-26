@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Shroud-Of-Turin-To-Go-On-Display-In-Cathedral-For-First-Time-In-10-Years-Pope-Benedict-To-Visit/Article/201004215598155?lpos=World_News_First_Home_Article_Teaser_Region_6&lid=ARTICLE_15598155_Shroud_Of_Turin_To)
-2. [The Age](http://news.theage.com.au/breaking-news-world/shroud-of-turin-on-display-for-first-time-in-decade-20100411-s054.html)
+1. [The Age](http://news.theage.com.au/breaking-news-world/shroud-of-turin-on-display-for-first-time-in-decade-20100411-s054.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8613258.stm)
 3. [Miami Herald](http://www.miamiherald.com/2010/04/09/1571517/public-to-get-latest-peek-at-shroud.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8613258.stm)
+4. [Sky News](http://news.sky.com/skynews/Home/World-News/Shroud-Of-Turin-To-Go-On-Display-In-Cathedral-For-First-Time-In-10-Years-Pope-Benedict-To-Visit/Article/201004215598155?lpos=World_News_First_Home_Article_Teaser_Region_6&lid=ARTICLE_15598155_Shroud_Of_Turin_To)
 
 ### Related:
 

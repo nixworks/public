@@ -7,8 +7,8 @@ A Rwandan rebel leader is extradited from France to The Hague, as his group is a
 
 ### Source:
 
-1. [Radio Netherlands](http://www.rnw.nl/international-justice/article/rwandan-rebel-lands-netherlands-face-icc-judges)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12277378)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12277378)
+2. [Radio Netherlands](http://www.rnw.nl/international-justice/article/rwandan-rebel-lands-netherlands-face-icc-judges)
 
 ### Related:
 

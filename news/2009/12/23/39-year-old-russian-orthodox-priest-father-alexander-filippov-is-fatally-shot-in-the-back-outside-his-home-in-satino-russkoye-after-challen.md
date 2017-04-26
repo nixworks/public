@@ -7,8 +7,8 @@ A Russian priest was shot dead at his apartment block in the Moscow region after
 
 ### Source:
 
-1. [The Age](http://news.theage.com.au/breaking-news-world/russian-priest-shot-dead-in-hallway-20091223-ldap.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8428055.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8428055.stm)
+2. [The Age](http://news.theage.com.au/breaking-news-world/russian-priest-shot-dead-in-hallway-20091223-ldap.html)
 3. [Radio Free Europe](http://www.rferl.org/content/Drunks_Gun_Down_Russian_Priest/1911323.html)
 
 ### Related:

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [GMA News](http://www.gmanetwork.com/news/story/548816/news/nation/comelec-en-banc-disqualifies-grace-poe-from-presidential-polls)
-2. [Inquirer](http://newsinfo.inquirer.net/733034/poes-disqualification-cases-politically-motivated-ally-says)
-3. [CNN](http://cnnphilippines.com/news/2015/12/22/comelec-en-banc-cancles-grace-poes-coc-for-presidency.html)
+1. [CNN](http://cnnphilippines.com/news/2015/12/22/comelec-en-banc-cancles-grace-poes-coc-for-presidency.html)
+2. [GMA News](http://www.gmanetwork.com/news/story/548816/news/nation/comelec-en-banc-disqualifies-grace-poe-from-presidential-polls)
+3. [Inquirer](http://newsinfo.inquirer.net/733034/poes-disqualification-cases-politically-motivated-ally-says)
 
 ### Related:
 

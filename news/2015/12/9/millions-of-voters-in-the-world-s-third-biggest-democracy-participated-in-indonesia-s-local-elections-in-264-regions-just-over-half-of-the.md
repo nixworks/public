@@ -7,8 +7,8 @@ Indonesia has successfully pulled off its first regional elections that were hel
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/asia/se-asia/millions-vote-in-historic-elections)
-2. [Deutsche Welle](http://www.dw.com/en/tens-of-millions-to-vote-in-indonesia-regional-elections/a-18903243)
+1. [Deutsche Welle](http://www.dw.com/en/tens-of-millions-to-vote-in-indonesia-regional-elections/a-18903243)
+2. [Straits Times](http://www.straitstimes.com/asia/se-asia/millions-vote-in-historic-elections)
 
 ### Related:
 

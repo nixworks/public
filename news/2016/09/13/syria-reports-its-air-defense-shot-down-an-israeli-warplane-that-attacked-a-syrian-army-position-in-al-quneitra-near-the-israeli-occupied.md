@@ -7,8 +7,8 @@ Israel said its aircraft attacked a Syrian army position on Tuesday after a stra
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-israel-syria-idUSKCN11J0EY)
-2. [AFP via Yahoo! News](https://www.yahoo.com/news/syria-ceasefire-takes-effect-under-us-russia-deal-160557425.html)
+1. [AFP via Yahoo! News](https://www.yahoo.com/news/syria-ceasefire-takes-effect-under-us-russia-deal-160557425.html)
+2. [Reuters](http://www.reuters.com/article/us-israel-syria-idUSKCN11J0EY)
 3. [CNN](http://www.cnn.com/2016/09/13/middleeast/syria-israel-warplane-denial/)
 
 ### Related:

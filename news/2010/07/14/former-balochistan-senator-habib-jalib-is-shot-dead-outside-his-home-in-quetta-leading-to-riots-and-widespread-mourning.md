@@ -7,9 +7,9 @@ A former senator from the Pakistani province of Balochistan is shot dead in the 
 
 ### Source:
 
-1. [The News International](http://thenews.jang.com.pk/top_story_detail.asp?Id=30050)
-2. [BBC](http://www.bbc.co.uk/news/10630993)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/15/c_111954632.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/15/c_111954632.htm)
+2. [The News International](http://thenews.jang.com.pk/top_story_detail.asp?Id=30050)
+3. [BBC](http://www.bbc.co.uk/news/10630993)
 
 ### Related:
 

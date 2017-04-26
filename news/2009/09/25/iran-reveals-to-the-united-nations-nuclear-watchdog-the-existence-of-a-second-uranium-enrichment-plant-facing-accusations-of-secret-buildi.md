@@ -7,9 +7,9 @@ The US President said he preferred diplomacy in dealing with Iran over its nucle
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0925/iran.html)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/1117043.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/in_depth/8274262.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/in_depth/8274262.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0925/iran.html)
+3. [Haaretz](http://www.haaretz.com/hasen/spages/1117043.html)
 
 ### Related:
 

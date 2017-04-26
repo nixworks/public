@@ -7,9 +7,9 @@ Kirishima volcano (Kyushu Island, Japan): news & activity updates
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/162221.html)
+1. [Volcano Discovery](http://www.volcanodiscovery.com/kirishima/news.html)
 2. [NHK](http://www.nhk.or.jp/daily/english/27_27.html)
-3. [Volcano Discovery](http://www.volcanodiscovery.com/kirishima/news.html)
+3. [Press TV](http://www.presstv.ir/detail/162221.html)
 
 ### Related:
 

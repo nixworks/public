@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-05-18-LT-Ecuador-Quake/id-b372564514cb4d689ccd9b9b3d7d00c0)
-2. [Reuters](http://www.reuters.com/article/us-ecuador-quake-idUSKCN0Y90TG)
+1. [Reuters](http://www.reuters.com/article/us-ecuador-quake-idUSKCN0Y90TG)
+2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-05-18-LT-Ecuador-Quake/id-b372564514cb4d689ccd9b9b3d7d00c0)
 
 ### Related:
 

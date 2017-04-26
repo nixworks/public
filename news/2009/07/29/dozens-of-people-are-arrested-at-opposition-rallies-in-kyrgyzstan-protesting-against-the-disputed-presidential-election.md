@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_409660.html)
-2. [Press TV](http://www.presstv.ir/detail.aspx?id=101904&sectionid=351020406)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iUJB1Ax2FeGHXiHNZk3tsHtooaHw)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iUJB1Ax2FeGHXiHNZk3tsHtooaHw)
+2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_409660.html)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=101904&sectionid=351020406)
 
 ### Related:
 

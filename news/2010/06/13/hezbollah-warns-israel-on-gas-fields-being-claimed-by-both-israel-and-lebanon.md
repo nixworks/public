@@ -7,9 +7,9 @@ As-Safir analyst says newly discovered Leviathan gas site extends into Lebanese 
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3902180,00.html)
+1. [VJ](http://www.virtualjerusalem.com/news.php?Itemid=3009)
 2. [presstv.ir](http://www.presstv.ir/detail.aspx?id=130192&sectionid=351020203)
-3. [VJ](http://www.virtualjerusalem.com/news.php?Itemid=3009)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3902180,00.html)
 
 ### Related:
 

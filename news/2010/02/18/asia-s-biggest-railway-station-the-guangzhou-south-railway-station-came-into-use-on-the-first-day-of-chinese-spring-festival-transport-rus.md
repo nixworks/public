@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90882/6896113.html)
-2. [CCTV](http://english.cctv.com/20100218/102411.shtml)
-3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-02/18/c_13178476.htm)
+1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-02/18/c_13178476.htm)
+2. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90882/6896113.html)
+3. [CCTV](http://english.cctv.com/20100218/102411.shtml)

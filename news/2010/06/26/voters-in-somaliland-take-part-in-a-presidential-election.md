@@ -7,10 +7,10 @@ Somaliland, a relatively peaceful, organized piece of the Somali puzzle, hopes t
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/06/26/world/africa/26somaliland.html?src=me)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/201062634822234773.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hEv39LHaVN0pMPRdMpVCCHC8myawD9GIERRO0)
-4. [Arab News](http://arabnews.com/world/article73950.ece)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hEv39LHaVN0pMPRdMpVCCHC8myawD9GIERRO0)
+2. [The New York Times](http://www.nytimes.com/2010/06/26/world/africa/26somaliland.html?src=me)
+3. [Arab News](http://arabnews.com/world/article73950.ece)
+4. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/201062634822234773.html)
 
 ### Related:
 

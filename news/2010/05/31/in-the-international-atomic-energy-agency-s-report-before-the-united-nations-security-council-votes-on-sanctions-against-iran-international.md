@@ -7,8 +7,8 @@ The report appears likely to bolster the Obama administration’s case for a fou
 
 ### Source:
 
-1. [Washington Times](http://www.washingtontimes.com/news/2010/may/31/report-iran-mum-but-making-nuke-material/)
-2. [The New York Times](http://www.nytimes.com/2010/06/01/world/middleeast/01nuke.html)
+1. [The New York Times](http://www.nytimes.com/2010/06/01/world/middleeast/01nuke.html)
+2. [Washington Times](http://www.washingtontimes.com/news/2010/may/31/report-iran-mum-but-making-nuke-material/)
 
 ### Related:
 

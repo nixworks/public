@@ -7,8 +7,8 @@ Defense Secretary Donald H. Rumsfeld likened Venezuelan President Hugo Chavez to
 
 ### Source:
 
-1. [AP](http://espanol.news.yahoo.com/060203/1/16vpr.html)
-2. [AP](http://msnbc.msn.com/id/11159503/)
+1. [AP](http://msnbc.msn.com/id/11159503/)
+2. [AP](http://espanol.news.yahoo.com/060203/1/16vpr.html)
 
 ### Related:
 

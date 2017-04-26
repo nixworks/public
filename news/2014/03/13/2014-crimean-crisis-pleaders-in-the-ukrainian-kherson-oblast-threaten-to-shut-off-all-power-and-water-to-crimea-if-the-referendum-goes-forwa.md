@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [FOX](http://www.foxnews.com/world/2014/03/13/vote-to-join-russia-could-leave-crimea-dry-in-dark/)
-2. [BBC](http://www.bbc.com/news/world-europe-26564846)
+1. [BBC](http://www.bbc.com/news/world-europe-26564846)
+2. [FOX](http://www.foxnews.com/world/2014/03/13/vote-to-join-russia-could-leave-crimea-dry-in-dark/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/08/12/us-northkorea-execution-idUSKCN0QH18C20150812)
-2. [AFP](http://www.abc.net.au/news/2015-08-12/north-korean-vice-premier-choe-yong-gon/6693190)
+1. [AFP](http://www.abc.net.au/news/2015-08-12/north-korean-vice-premier-choe-yong-gon/6693190)
+2. [Reuters](http://www.reuters.com/article/2015/08/12/us-northkorea-execution-idUSKCN0QH18C20150812)
 
 ### Related:
 

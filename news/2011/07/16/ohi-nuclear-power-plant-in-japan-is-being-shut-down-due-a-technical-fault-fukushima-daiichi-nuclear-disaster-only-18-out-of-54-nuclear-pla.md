@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/07/16/japan.nuclear.reactor/index.html?hpt=wo_c2)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14171962)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14171962)
+2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/07/16/japan.nuclear.reactor/index.html?hpt=wo_c2)
 
 ### Related:
 

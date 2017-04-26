@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000103&sid=aufWFanttF00&refer=us)
-2. [CNN](http://edition.cnn.com/2005/SHOWBIZ/books/02/21/thompson.obit/)
-3. [BBC](http://news.bbc.co.uk/1/hi/entertainment/arts/4282865.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/arts/4282865.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000103&sid=aufWFanttF00&refer=us)
+3. [CNN](http://edition.cnn.com/2005/SHOWBIZ/books/02/21/thompson.obit/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Geo TV](http://www.geo.tv/10-28-2009/51907.htm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6893479.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6893479.ece)
+2. [Geo TV](http://www.geo.tv/10-28-2009/51907.htm)
 
 ### Related:
 

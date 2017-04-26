@@ -7,9 +7,9 @@ The Yemeni air force Friday bombed tribesmen fighting to overthrow President Ali
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2011/05/27/Yemen-regime-planes-bomb-tribal-rebels/UPI-65521306508081/?spt=hs&or=tn)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13574277)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/27/c_13897885.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-13574277)
+3. [UPI](http://www.upi.com/Top_News/World-News/2011/05/27/Yemen-regime-planes-bomb-tribal-rebels/UPI-65521306508081/?spt=hs&or=tn)
 
 ### Related:
 

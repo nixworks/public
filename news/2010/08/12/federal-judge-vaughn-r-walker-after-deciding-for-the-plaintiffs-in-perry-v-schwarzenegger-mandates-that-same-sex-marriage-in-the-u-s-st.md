@@ -7,8 +7,8 @@ A federal district judge lifted a stay on his decision on same-sex marriage, but
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/13/us-california-judge-gay-marriage)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10956033)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10956033)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/13/us-california-judge-gay-marriage)
 3. [The New York Times](http://www.nytimes.com/2010/08/13/us/13prop.html?_r=1&hp)
 
 ### Related:

@@ -7,8 +7,8 @@ A Texas law requiring voters to show a government-issued form of photo identific
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-court-texasvoting-idUSKCN1002KJ)
-2. [The Texas Tribune](https://www.texastribune.org/2016/07/20/appeals-court-rules-texas-voter-id/)
+1. [The Texas Tribune](https://www.texastribune.org/2016/07/20/appeals-court-rules-texas-voter-id/)
+2. [Reuters](http://www.reuters.com/article/us-usa-court-texasvoting-idUSKCN1002KJ)
 
 ### Related:
 

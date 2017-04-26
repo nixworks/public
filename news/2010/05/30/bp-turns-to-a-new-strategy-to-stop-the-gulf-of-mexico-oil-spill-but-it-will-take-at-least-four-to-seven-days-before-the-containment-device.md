@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/US/05/30/gulf.oil.spill/)
+1. [The Australian](http://www.theaustralian.com.au/news/top-kill-attempt-fails-to-stem-oil-leak/story-e6frg6n6-1225873185757)
 2. [VOA](http://www1.voanews.com/english/news/usa/BP-Will-Try-New-Option-to-Plug-Oil-Leak-After-Top-Kill-Failure-95213634.html)
-3. [The Australian](http://www.theaustralian.com.au/news/top-kill-attempt-fails-to-stem-oil-leak/story-e6frg6n6-1225873185757)
+3. [CNN](http://edition.cnn.com/2010/US/05/30/gulf.oil.spill/)
 
 ### Related:
 

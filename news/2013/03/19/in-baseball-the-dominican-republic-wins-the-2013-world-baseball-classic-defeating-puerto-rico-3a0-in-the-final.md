@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [MLB](http://mlb.mlb.com/wbc/2013/gameday/index.jsp?gid=2013_03_19_purint_domint_1)
-2. [The Guardian](http://www.guardian.co.uk/sport/2013/mar/19/wbc-puerto-rico-dominican-republic-live)
-3. [ESPN](http://scores.espn.go.com/extra/baseball/wbbc/recap?gameId=330319117&league=wbbc)
+1. [ESPN](http://scores.espn.go.com/extra/baseball/wbbc/recap?gameId=330319117&league=wbbc)
+2. [MLB](http://mlb.mlb.com/wbc/2013/gameday/index.jsp?gid=2013_03_19_purint_domint_1)
+3. [The Guardian](http://www.guardian.co.uk/sport/2013/mar/19/wbc-puerto-rico-dominican-republic-live)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Thousands of people trapped in isolated oilfield work camps north of Fort McMurr
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-canada-wildfire-fortmcmurray-idUSKCN0XU2D8)
-2. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3575125/New-evacuations-fire-struck-Canadian-city-energy-heartland.html)
+1. [CTV](http://www.ctvnews.ca/canada/fort-mcmurray-fire-state-of-emergency-declared-1.2888796)
+2. [Reuters via Voice of America](http://www.voanews.com/content/canada-fire-hit-as-government-cut-spending-on-prevention-planes/3317951.html)
 3. [USA Today](http://www.usatoday.com/story/news/2016/05/05/raging-wildfire-drives-out-newly-resettled-evacuees/83960660/)
-4. [CTV](http://www.ctvnews.ca/canada/fort-mcmurray-fire-state-of-emergency-declared-1.2888796)
-5. [Reuters via Voice of America](http://www.voanews.com/content/canada-fire-hit-as-government-cut-spending-on-prevention-planes/3317951.html)
+4. [Reuters](http://www.reuters.com/article/us-canada-wildfire-fortmcmurray-idUSKCN0XU2D8)
+5. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3575125/New-evacuations-fire-struck-Canadian-city-energy-heartland.html)
 
 ### Related:
 

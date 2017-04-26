@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-12-27T193757Z_01_L24148211_RTRIDST_0_NEWS-SOMALIA-CONFLICT-COL.XML)
-2. [The Associated Press](http://www.iht.com/articles/ap/2006/12/27/africa/AF_GEN_Somalia.php)
+1. [The Associated Press](http://www.iht.com/articles/ap/2006/12/27/africa/AF_GEN_Somalia.php)
+2. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-12-27T193757Z_01_L24148211_RTRIDST_0_NEWS-SOMALIA-CONFLICT-COL.XML)
 
 ### Related:
 

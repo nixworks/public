@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/88B4E45D-06CD-4EAD-A5C4-0521114092A7.htm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aINeYxM0jC48&refer=top_world_news)
-3. [New York Times](http://www.nytimes.com/2005/07/21/international/middleeast/21bandar.html)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aINeYxM0jC48&refer=top_world_news)
+2. [New York Times](http://www.nytimes.com/2005/07/21/international/middleeast/21bandar.html)
+3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/88B4E45D-06CD-4EAD-A5C4-0521114092A7.htm)
 
 ### Related:
 
 1. [ There are conflicting reports about Bandar bin Sultan, Saudi Arabian ambassador to United States. BBC reports that he has resigned but the Saudi embassy says he is just in a holiday.](/news/2005/06/30/there-are-conflicting-reports-about-bandar-bin-sultan-saudi-arabian-ambassador-to-united-states-bbc-reports-that-he-has-resigned-but-the.md) _Context: Bandar bin Sultan, Saudi Arabia_
-2. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _Context: Saudi Arabia_
+2. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _Context: Saudi Arabia_
 3. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: Saudi Arabia_
 4. [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md) _Context: Saudi Arabia_
 5. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Saudi Arabia_

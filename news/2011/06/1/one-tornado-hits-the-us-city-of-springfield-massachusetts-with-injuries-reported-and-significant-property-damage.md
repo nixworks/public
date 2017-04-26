@@ -7,13 +7,13 @@ At least two confirmed tornadoes descended upon towns in western Massachusetts o
 
 ### Source:
 
-1. [CT Now](http://www.ctnow.com/weather/hc-tornado-thunderstorm-weather-0602-20110601,0,4971519.story)
-2. [The Herald](http://www.heraldnews.com/breaking/x1293701363/Tornado-watch-issued-for-Norfolk-County)
-3. [WWLP](http://www.wwlp.com/dpp/news/local/hampden/Tornado-touches-down-in-downtown-Spfld)
-4. [NECN](http://www.necn.com/06/03/11/bMatt-Noyes-bWestfield-to-Charlton-MA-Ju/landing_weathernewengland.html?blockID=532289&feedID=6240)
-5. [CNN](http://edition.cnn.com/2011/US/06/01/massachusetts.tornado/index.html)
-6. [CBS Local Boston](http://boston.cbslocal.com/2011/06/01/several-deaths-in-the-tornadoes-that-swept-through-mass/)
-7. [Boston Globe](http://www.boston.com/news/local/massachusetts/articles/2011/06/01/tornado_damage_reported_in_springfield_mass/)
+1. [CNN](http://edition.cnn.com/2011/US/06/01/massachusetts.tornado/index.html)
+2. [CT Now](http://www.ctnow.com/weather/hc-tornado-thunderstorm-weather-0602-20110601,0,4971519.story)
+3. [The Herald](http://www.heraldnews.com/breaking/x1293701363/Tornado-watch-issued-for-Norfolk-County)
+4. [CBS Local Boston](http://boston.cbslocal.com/2011/06/01/several-deaths-in-the-tornadoes-that-swept-through-mass/)
+5. [WWLP](http://www.wwlp.com/dpp/news/local/hampden/Tornado-touches-down-in-downtown-Spfld)
+6. [Boston Globe](http://www.boston.com/news/local/massachusetts/articles/2011/06/01/tornado_damage_reported_in_springfield_mass/)
+7. [NECN](http://www.necn.com/06/03/11/bMatt-Noyes-bWestfield-to-Charlton-MA-Ju/landing_weathernewengland.html?blockID=532289&feedID=6240)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via News Limited](http://www.news.com.au/story/0,10117,21538800-401,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6543685.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6543685.stm)
+2. [AFP via News Limited](http://www.news.com.au/story/0,10117,21538800-401,00.html)
 3. [ABC News Online](http://www.abc.net.au/news/newsitems/200704/s1894346.htm)
 
 ### Related:

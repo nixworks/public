@@ -7,10 +7,10 @@ Victims identified as Eitam and Naama Henkin; their 4 children were in the car, 
 
 ### Source:
 
-1. [VOA News](http://www.voanews.com/content/israeli-couple-fatally-shot-in-west-bank/2988384.html)
-2. [Breaking Israel News](http://www.breakingisraelnews.com/50148/parents-gunned-down-in-front-of-children-in-horrifying-palestinian-terror-attack-judea-and-samaria/#xfH5SccaFUxx9H9H.97)
-3. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/201319)
-4. [The Times of Israel](http://www.timesofisrael.com/two-seriously-wounded-in-west-bank-terror-attack/)
+1. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/201319)
+2. [VOA News](http://www.voanews.com/content/israeli-couple-fatally-shot-in-west-bank/2988384.html)
+3. [The Times of Israel](http://www.timesofisrael.com/two-seriously-wounded-in-west-bank-terror-attack/)
+4. [Breaking Israel News](http://www.breakingisraelnews.com/50148/parents-gunned-down-in-front-of-children-in-horrifying-palestinian-terror-attack-judea-and-samaria/#xfH5SccaFUxx9H9H.97)
 
 ### Related:
 

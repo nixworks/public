@@ -7,8 +7,8 @@ Athletes who tested positive for meldonium before March 1 could have bans overtu
 
 ### Source:
 
-1. [WADA](https://www.wada-ama.org/en/media/news/2016-04/wada-statement-on-meldonium-notice-issued-to-stakeholders)
-2. [Reuters](http://in.reuters.com/article/doping-wada-meldonium-idINKCN0XA0WO)
+1. [Reuters](http://in.reuters.com/article/doping-wada-meldonium-idINKCN0XA0WO)
+2. [WADA](https://www.wada-ama.org/en/media/news/2016-04/wada-statement-on-meldonium-notice-issued-to-stakeholders)
 
 ### Related:
 

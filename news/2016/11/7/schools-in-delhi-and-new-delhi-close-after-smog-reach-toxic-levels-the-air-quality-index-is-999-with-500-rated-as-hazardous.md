@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Quartz](http://qz.com/828754/india-pollution-schools-shut-down-expats-flee-and-the-visiting-uk-pm-theresa-may-risks-losing-hours-from-her-life-as-delhi-chokes/)
-2. [CNN](http://edition.cnn.com/2016/11/07/asia/india-new-delhi-smog-pollution/index.html)
+1. [CNN](http://edition.cnn.com/2016/11/07/asia/india-new-delhi-smog-pollution/index.html)
+2. [Quartz](http://qz.com/828754/india-pollution-schools-shut-down-expats-flee-and-the-visiting-uk-pm-theresa-may-risks-losing-hours-from-her-life-as-delhi-chokes/)
 
 ### Related:
 

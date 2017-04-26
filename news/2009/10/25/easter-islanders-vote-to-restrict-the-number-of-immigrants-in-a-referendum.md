@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8325095.stm)
-2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/easter-islanders-vote-against-tourism)
+1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/easter-islanders-vote-against-tourism)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8325095.stm)
 
 ### Related:
 

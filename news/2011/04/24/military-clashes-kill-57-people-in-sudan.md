@@ -7,9 +7,9 @@ At least 57 people have been killed in fighting between government forces and a 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-13182109)
-2. [CNN](http://www.cnn.com/2011/WORLD/africa/04/24/sudan.violence/index.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/2011424145446998235.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/2011424145446998235.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-13182109)
+3. [CNN](http://www.cnn.com/2011/WORLD/africa/04/24/sudan.violence/index.html)
 
 ### Related:
 

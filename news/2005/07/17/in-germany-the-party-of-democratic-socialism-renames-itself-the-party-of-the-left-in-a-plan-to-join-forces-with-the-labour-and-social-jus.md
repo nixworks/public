@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1651365,00.html)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-17T153157Z_01_MOL755900_RTRUKOC_0_GERMANY-ELECTION-LEFT.xml)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-17T153157Z_01_MOL755900_RTRUKOC_0_GERMANY-ELECTION-LEFT.xml)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1651365,00.html)

@@ -7,8 +7,8 @@ The death toll of Britons killed in the Tunisian gun attack will double to at le
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/uk-33306884?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-2. [AP](http://bigstory.ap.org/article/056b8d68ec454f708be9c3edd7f9cbb8/latest-tunisia-puts-1000-extra-police-tourist-sites)
+1. [AP](http://bigstory.ap.org/article/056b8d68ec454f708be9c3edd7f9cbb8/latest-tunisia-puts-1000-extra-police-tourist-sites)
+2. [BBC](http://www.bbc.com/news/uk-33306884?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 3. [AP](http://hosted.ap.org/dynamic/stories/M/ML_TUNISIA_ATTACK_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:

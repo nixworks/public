@@ -7,8 +7,8 @@ The American Ballet Theatre company is to perform in Cuba later this year for th
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11010321)
-2. [AFP via France24](http://www.france24.com/en/20100818-us-ballet-troupe-dance-cuba-first-time-50-years)
+1. [AFP via France24](http://www.france24.com/en/20100818-us-ballet-troupe-dance-cuba-first-time-50-years)
+2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11010321)
 
 ### Related:
 

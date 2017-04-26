@@ -7,12 +7,12 @@ IDF formulating response to report which claims property was sometimes damaged e
 
 ### Source:
 
-1. [Ha'aretz](http://www.haaretz.com/news/diplomacy-defense/human-rights-watch-idf-wantonly-destroyed-homes-during-gaza-war-1.290188)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8680769.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8680769.stm)
+2. [Ha'aretz](http://www.haaretz.com/news/diplomacy-defense/human-rights-watch-idf-wantonly-destroyed-homes-during-gaza-war-1.290188)
 
 ### Related:
 
-1. [The prime minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/the-prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refus.md) _Context: Israel Defense Forces_
+1. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Israel Defense Forces_
 2. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Israel Defense Forces_
 3. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: Israel Defense Forces_
 4. [Israel denies entry to Omar Shakir, a researcher for Human Rights Watch and an American citizen, because the organization  engages in so-called Palestinian propaganda. HRW's Sari Bashi said, "This Israeli government has been narrowing the space for democratic activity,"  by closing the country off to critics.  Later, the Israel government  would grant Mr. Shakir a tourist visa while considering HRW's appeal on the work visa. ](/news/2017/02/24/israel-denies-entry-to-omar-shakir-a-researcher-for-human-rights-watch-and-an-american-citizen-because-the-organization-engages-in-so-cal.md) _Context: Human Rights Watch_

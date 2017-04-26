@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [AP via ''Billboard](http://www.billboard.com/news/starship-guitarist-mark-abrahamian-dies-1007922752.story)
-2. [Reuters via ''Yahoo! News](http://news.yahoo.com/starship-guitarist-mark-abrahamian-dies-46-231907293.html)
+1. [Reuters via ''Yahoo! News](http://news.yahoo.com/starship-guitarist-mark-abrahamian-dies-46-231907293.html)
+2. [AP via ''Billboard](http://www.billboard.com/news/starship-guitarist-mark-abrahamian-dies-1007922752.story)

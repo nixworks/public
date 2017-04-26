@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/03/somalia.pirates/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iYoZ87-HiKIWQRXZLY59NIBI83qQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iYoZ87-HiKIWQRXZLY59NIBI83qQ)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/03/somalia.pirates/)
 
 ### Related:
 

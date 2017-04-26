@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TheNews.com.pk](http://www.thenews.com.pk/print1.asp?id=233969)
-2. [CNN](http://www.cnn.com/2010/WORLD/europe/04/12/nuclear.summit.ukraine/?hpt=T2)
+1. [CNN](http://www.cnn.com/2010/WORLD/europe/04/12/nuclear.summit.ukraine/?hpt=T2)
+2. [TheNews.com.pk](http://www.thenews.com.pk/print1.asp?id=233969)
 3. [CCTV](http://english.cctv.com/program/worldwidewatch/20100413/101041.shtml)
 
 ### Related:

@@ -7,11 +7,11 @@ Iranian expatriates reveal that ‘National Uniform Law’ authorized by Iranian
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3252830,00.html)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1145961377561&pagename=JPost%2FJPArticle%2FShowFull)
-3. [National Post](http://www.canada.com/nationalpost/news/story.html?id=6626a0fa-99de-4f1e-aebe-bb91af82abb3)
-4. [AP](http://hosted.ap.org/dynamic/stories/I/IRAN_DRESS_CODE?SITE=JRC&SECTION=HOME&TEMPLATE=DEFAULT)
-5. [UPI](http://www.upi.com/InternationalIntelligence/view.php?StoryID=20060519-105912-5198r)
+1. [AP](http://hosted.ap.org/dynamic/stories/I/IRAN_DRESS_CODE?SITE=JRC&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [National Post](http://www.canada.com/nationalpost/news/story.html?id=6626a0fa-99de-4f1e-aebe-bb91af82abb3)
+3. [UPI](http://www.upi.com/InternationalIntelligence/view.php?StoryID=20060519-105912-5198r)
+4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3252830,00.html)
+5. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1145961377561&pagename=JPost%2FJPArticle%2FShowFull)
 6. [National Post](http://www.canada.com/nationalpost/news/story.html?id=398274b5-9210-43e4-ba59-fa24f4c66ad4&k=28534)
 
 ### Related:

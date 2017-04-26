@@ -7,8 +7,8 @@ Real Madrid inflict a painful 3-1 defeat on Barcelona, to complete a 4-2 aggrega
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/21580381)
-2. [The Guardian](http://www.guardian.co.uk/football/2013/feb/26/barcelona-real-madrid-copa-del-rey)
+1. [The Guardian](http://www.guardian.co.uk/football/2013/feb/26/barcelona-real-madrid-copa-del-rey)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/21580381)
 
 ### Related:
 

@@ -7,5 +7,5 @@ A van crammed with farm workers crashed head-on into a truck in central Poland o
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11520966)
-2. [AP via Fox News](http://www.foxnews.com/world/2010/10/12/poles-killed-van-collides-truck/)
+1. [AP via Fox News](http://www.foxnews.com/world/2010/10/12/poles-killed-van-collides-truck/)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11520966)

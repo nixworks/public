@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Belize channel 7](http://www.7newsbelize.com/)
-2. [Belize channel 5](http://www.channel5belize.com/archive_nc_results.php#a1)
+1. [Belize channel 5](http://www.channel5belize.com/archive_nc_results.php#a1)
+2. [Belize channel 7](http://www.7newsbelize.com/)
 
 ### Related:
 

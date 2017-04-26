@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqKZntDqHzmV_-1g0j79q3Hqst3g)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/12/c_13173871.htm)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=118458&sectionid=351020201)
+1. [Press TV](http://www.presstv.ir/detail.aspx?id=118458&sectionid=351020201)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqKZntDqHzmV_-1g0j79q3Hqst3g)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/12/c_13173871.htm)
 
 ### Related:
 

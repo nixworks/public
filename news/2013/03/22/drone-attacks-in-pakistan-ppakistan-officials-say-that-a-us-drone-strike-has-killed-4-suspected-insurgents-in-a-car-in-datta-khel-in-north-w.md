@@ -7,9 +7,9 @@ The attack hit a vehicle in northwestern Pakistan late on Thursday night, govern
 
 ### Source:
 
-1. [PressTV](http://www.presstv.ir/usdetail/294774.html)
+1. [The Hindu](http://www.thehindubusinessline.com/news/international/4-militants-killed-in-us-drone-strike-in-northwest-pakistan/article4537222.ece)
 2. [The New York Times](http://www.nytimes.com/2013/03/23/world/asia/pakistan-says-us-drone-strike-kills-4.html)
-3. [The Hindu](http://www.thehindubusinessline.com/news/international/4-militants-killed-in-us-drone-strike-in-northwest-pakistan/article4537222.ece)
+3. [PressTV](http://www.presstv.ir/usdetail/294774.html)
 
 ### Related:
 

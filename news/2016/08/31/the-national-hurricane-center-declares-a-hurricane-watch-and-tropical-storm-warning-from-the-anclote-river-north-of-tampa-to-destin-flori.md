@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/282050.shtml?)
-2. [Reuters](http://www.reuters.com/article/us-storm-atlantic-idUSKCN11618M)
+1. [Reuters](http://www.reuters.com/article/us-storm-atlantic-idUSKCN11618M)
+2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/282050.shtml?)
 
 ### Related:
 

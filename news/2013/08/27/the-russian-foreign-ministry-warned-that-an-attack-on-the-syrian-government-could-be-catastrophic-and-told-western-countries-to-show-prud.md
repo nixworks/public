@@ -9,8 +9,8 @@ Russia&#x20;warned&#x20;that&#x20;a&#x20;military&#x20;intervention&#x20;in&#x20
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10268547/Syria-Russia-evacuates-citizens-ahead-of-military-strikes-in-the-next-few-days.html)
 2. [Fox News](http://www.foxnews.com/world/2013/08/27/hollande-says-france-ready-to-punish-syria-over-gas-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29)
-3. [Daily Star](http://www.dailystar.com.lb/News/Lebanon-News/2013/Aug-27/228849-tripoli-bombings-suspect-says-syria-intelligence-behind-attack.ashx#axzz2dCnO1Qwy)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-23850274#)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-23850274#)
+4. [Daily Star](http://www.dailystar.com.lb/News/Lebanon-News/2013/Aug-27/228849-tripoli-bombings-suspect-says-syria-intelligence-behind-attack.ashx#axzz2dCnO1Qwy)
 5. [BBC](http://www.bbc.co.uk/news/uk-23851292)
 6. [ (France 24](http://www.france24.com/en/20130827-russia-warns-attack-syria-uk-plans-usa)
 7. [NBC](http://worldnews.nbcnews.com/_news/2013/08/26/20192545-kerry-accuses-syria-of-using-chemical-agents-us-preparing-to-release-evidence?lite)

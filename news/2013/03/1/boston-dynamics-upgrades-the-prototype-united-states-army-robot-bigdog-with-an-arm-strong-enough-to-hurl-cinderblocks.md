@@ -7,8 +7,8 @@ If you thought the U.S. Army&#39;s BigDog robot was scary before, then get a loa
 
 ### Source:
 
-1. [PC Magazine](http://www.pcmag.com/article2/0,2817,2416136,00.asp)
-2. [NBC](http://www.nbcnews.com/technology/futureoftech/improved-more-terrifying-bigdog-robot-flings-cinder-blocks-1C8641477)
+1. [NBC](http://www.nbcnews.com/technology/futureoftech/improved-more-terrifying-bigdog-robot-flings-cinder-blocks-1C8641477)
+2. [PC Magazine](http://www.pcmag.com/article2/0,2817,2416136,00.asp)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Thousands of people in the Canadian province of British Columbia ordered to leav
 
 ### Source:
 
-1. [The Age](http://www.theage.com.au/world/canadians-flee-as-530-wildfires-rage-20090802-e5tg.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iBZ3DAT1mrVmIQuwedF_g4VXtb4w)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iBZ3DAT1mrVmIQuwedF_g4VXtb4w)
+2. [The Age](http://www.theage.com.au/world/canadians-flee-as-530-wildfires-rage-20090802-e5tg.html)
 
 ### Related:
 

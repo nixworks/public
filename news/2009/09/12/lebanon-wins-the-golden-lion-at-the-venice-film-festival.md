@@ -7,8 +7,8 @@ White and Silvia Aloisi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE58B1JM20090912)
-2. [RTÉ](http://www.rte.ie/arts/2009/0912/venice.html)
+1. [RTÉ](http://www.rte.ie/arts/2009/0912/venice.html)
+2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE58B1JM20090912)
 
 ### Related:
 

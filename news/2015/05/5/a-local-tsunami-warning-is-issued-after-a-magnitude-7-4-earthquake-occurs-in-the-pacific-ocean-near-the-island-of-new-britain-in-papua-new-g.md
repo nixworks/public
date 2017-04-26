@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [National Nine News](http://www.9news.com.au/national/2015/05/05/12/01/magnitude-7-5-quake-strikes-off-papua-new-guinea-report)
-2. [AP via ABC News America](http://abcnews.go.com/International/wireStory/strong-quake-rocks-papua-guinea-local-tsunami-30803349)
+1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/strong-quake-rocks-papua-guinea-local-tsunami-30803349)
+2. [National Nine News](http://www.9news.com.au/national/2015/05/05/12/01/magnitude-7-5-quake-strikes-off-papua-new-guinea-report)
 
 ### Related:
 

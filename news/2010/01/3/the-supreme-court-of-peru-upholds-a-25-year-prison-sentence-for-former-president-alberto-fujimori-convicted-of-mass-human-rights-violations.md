@@ -8,8 +8,8 @@
 ### Source:
 
 1. [RTT News](http://www.rttnews.com/Content/GeneralNews.aspx?Node=B1&Id=1169198)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iZoj48EU3XW46jaO9PARvwYpIrzQ)
-3. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?id=d4GDaArhEMo=)
+2. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?id=d4GDaArhEMo=)
+3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iZoj48EU3XW46jaO9PARvwYpIrzQ)
 
 ### Related:
 

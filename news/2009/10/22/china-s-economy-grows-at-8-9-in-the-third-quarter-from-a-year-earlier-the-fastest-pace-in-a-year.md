@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/BUSINESS/10/21/china.gdp.announce/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hQBPLZ8-JHpkHAqe5tuuKGNt_fJw)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a_eKQ3a5hOjk)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hQBPLZ8-JHpkHAqe5tuuKGNt_fJw)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a_eKQ3a5hOjk)
+3. [CNN](http://edition.cnn.com/2009/BUSINESS/10/21/china.gdp.announce/)
 
 ### Related:
 

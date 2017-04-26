@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3264310/China-investigates-former-Sinopec-chairman-discipline-violations.html)
-2. [South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/1865108/fujian-governor-under-investigation-anti-corruption)
+1. [South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/1865108/fujian-governor-under-investigation-anti-corruption)
+2. [Reuters via Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3264310/China-investigates-former-Sinopec-chairman-discipline-violations.html)
 
 ### Related:
 

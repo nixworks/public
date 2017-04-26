@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201283055952298905.html)
-2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-opposition-says-president-assads-speech-is-attempt-to-explain-military-stalemate/2012/08/30/32e06d36-f28c-11e1-b74c-84ed55e0300b_story.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-19418556)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19418556)
+3. [The Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-opposition-says-president-assads-speech-is-attempt-to-explain-military-stalemate/2012/08/30/32e06d36-f28c-11e1-b74c-84ed55e0300b_story.html)
 
 ### Related:
 

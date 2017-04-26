@@ -7,8 +7,8 @@ Minister for Finance Brian Lenihan has outlined six steps to restore the Irish e
 
 ### Source:
 
-1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0408/breaking51.html)
-2. [RTÉ](http://www.rte.ie/news/2009/0407/budget.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0407/budget.html)
+2. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0408/breaking51.html)
 
 ### Related:
 

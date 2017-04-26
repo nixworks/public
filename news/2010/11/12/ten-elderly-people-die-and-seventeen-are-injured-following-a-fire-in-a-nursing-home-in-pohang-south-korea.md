@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/11/12/17/0302000000AEN20101112000900315F.HTML)
-2. [AFP via ''The Ottawa Citizen](http://www.ottawacitizen.com/news/Nursing+home+blaze+kills+South+Korea/3814758/story.html)
+1. [AFP via ''The Ottawa Citizen](http://www.ottawacitizen.com/news/Nursing+home+blaze+kills+South+Korea/3814758/story.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/11/12/17/0302000000AEN20101112000900315F.HTML)
 
 ### Related:
 

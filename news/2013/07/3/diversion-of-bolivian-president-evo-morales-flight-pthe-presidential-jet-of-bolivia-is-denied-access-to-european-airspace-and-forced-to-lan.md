@@ -7,9 +7,9 @@ Bolivia accuses European states of &quot;aggression&quot; after its presidential
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23158242)
-2. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/07/20137315256465527.html)
-3. [The Guardian](http://www.guardian.co.uk/world/2013/jul/03/bolivia-un-evo-morales-plane)
+1. [The Guardian](http://www.guardian.co.uk/world/2013/jul/03/bolivia-un-evo-morales-plane)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-23158242)
+3. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/07/20137315256465527.html)
 
 ### Related:
 

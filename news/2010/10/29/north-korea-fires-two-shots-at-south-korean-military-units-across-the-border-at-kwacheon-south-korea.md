@@ -7,8 +7,8 @@ North Korean troops have fired two shots across the border into South Korean ter
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/39906457/ns/world_news-asiapacific/?ocid=twitter)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/10/29/48/0301000000AEN20101029009600315F.HTML)
+1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/10/29/48/0301000000AEN20101029009600315F.HTML)
+2. [MSNBC](http://www.msnbc.msn.com/id/39906457/ns/world_news-asiapacific/?ocid=twitter)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/29/c_13582236.htm)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11650810)
 

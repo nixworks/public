@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [AP](http://news.yahoo.com/s/ap/20051126/ap_on_re_as/india_hot_air_balloon;_ylt=AiKTQ2LiysHz5OV8J8s91ZsPLBIF;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4472582.stm)
-3. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usfwbf.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4476276.stm)
-5. [-Philippine Daily Inquirer]¶ The [[Rafah]] crossing linking the [[Gaza Strip]] and [[Egypt]] turns over to [[Palestinian territories|Palestinian]] control for the first time. [http://news.bbc.co.uk/1/hi/world/middle_east/4472312.stm (BBC](http://news.inq7.net/nation/index.php?index=1&story_id=57970)
+1. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usfwbf.htm)
+2. [-Philippine Daily Inquirer]¶ The [[Rafah]] crossing linking the [[Gaza Strip]] and [[Egypt]] turns over to [[Palestinian territories|Palestinian]] control for the first time. [http://news.bbc.co.uk/1/hi/world/middle_east/4472312.stm (BBC](http://news.inq7.net/nation/index.php?index=1&story_id=57970)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4472582.stm)
+4. [AP](http://news.yahoo.com/s/ap/20051126/ap_on_re_as/india_hot_air_balloon;_ylt=AiKTQ2LiysHz5OV8J8s91ZsPLBIF;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--)
+5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4476276.stm)
 
 ### Related:
 

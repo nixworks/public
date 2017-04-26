@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7525997.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/2011417143931785695.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/2011417143931785695.html)
+2. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7525997.html)
 
 ### Related:
 

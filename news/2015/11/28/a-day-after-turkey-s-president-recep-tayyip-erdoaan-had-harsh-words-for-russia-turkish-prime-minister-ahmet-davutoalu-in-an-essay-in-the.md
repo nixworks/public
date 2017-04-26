@@ -7,8 +7,8 @@ The downing of an unidentified jet in Turkish airspace was not â€” and is not â€
 
 ### Source:
 
-1. [Times of London](http://www.thetimes.co.uk/tto/opinion/thunderer/article4624985.ece)
-2. [CNN](http://www.cnn.com/2015/11/27/middleeast/syria-turkey-russia-warplane-shot-down/)
+1. [CNN](http://www.cnn.com/2015/11/27/middleeast/syria-turkey-russia-warplane-shot-down/)
+2. [Times of London](http://www.thetimes.co.uk/tto/opinion/thunderer/article4624985.ece)
 3. [Irish Times](http://www.irishtimes.com/news/world/europe/russia-announces-economic-sanctions-against-turkey-1.2447665)
 
 ### Related:

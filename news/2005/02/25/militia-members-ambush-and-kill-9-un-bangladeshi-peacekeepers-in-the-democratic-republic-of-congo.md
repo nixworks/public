@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2005-02/26/content_2622056.htm)
-2. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-congo26feb26,1,6482641.story?coll=la-headlines-world&ctrack=2&cset=true)
+1. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-congo26feb26,1,6482641.story?coll=la-headlines-world&ctrack=2&cset=true)
+2. [Xinhua](http://news.xinhuanet.com/english/2005-02/26/content_2622056.htm)
 
 ### Related:
 

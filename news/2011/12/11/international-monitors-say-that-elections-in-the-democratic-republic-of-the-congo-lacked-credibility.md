@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/dec/11/seven-charged-congo-protest-london)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jQYxxxptlNtV-5MLBl-IqGgFSWVg?docId=d490c51b02f44d6f941a0cbdb6190f20)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jQYxxxptlNtV-5MLBl-IqGgFSWVg?docId=d490c51b02f44d6f941a0cbdb6190f20)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/dec/11/seven-charged-congo-protest-london)
 
 ### Related:
 

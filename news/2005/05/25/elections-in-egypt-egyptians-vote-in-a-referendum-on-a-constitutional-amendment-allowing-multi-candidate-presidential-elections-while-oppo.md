@@ -7,11 +7,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8595926)
-2. [Egypt Election DAily News](http://egyptelection.com/index.php)
-3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/B2D85789-34E0-470B-88C9-55D50DD4DCB6.htm)
-4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFcFnhXNAdnM&refer=top_world_news)
-5. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/comment/2005/May/comment_May25.xml&section=comment)
+1. [Egypt Election DAily News](http://egyptelection.com/index.php)
+2. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/comment/2005/May/comment_May25.xml&section=comment)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFcFnhXNAdnM&refer=top_world_news)
+4. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/B2D85789-34E0-470B-88C9-55D50DD4DCB6.htm)
+5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8595926)
 
 ### Related:
 

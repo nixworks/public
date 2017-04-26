@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Gazette](http://gazette.com/freddie-gray-jurors-deadlocked-judge-says-keep-deliberating/article/1565765)
-2. [CNN](http://www.cnn.com/2015/12/15/us/baltimore-police-trial-freddie-gray/index.html)
+1. [CNN](http://www.cnn.com/2015/12/15/us/baltimore-police-trial-freddie-gray/index.html)
+2. [The Gazette](http://gazette.com/freddie-gray-jurors-deadlocked-judge-says-keep-deliberating/article/1565765)
 
 ### Related:
 

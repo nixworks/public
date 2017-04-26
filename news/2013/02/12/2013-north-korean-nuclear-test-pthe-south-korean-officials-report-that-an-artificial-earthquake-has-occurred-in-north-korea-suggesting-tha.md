@@ -7,11 +7,11 @@ North Korea conducted its third nuclear test on Tuesday in defiance of U.N. reso
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/12/us-korea-north-idUSBRE91B04820130212)
-2. [CNN](http://www.cnn.com/2013/02/11/world/asia/north-korea-seismic-disturbance)
-3. [The Australian](http://www.theaustralian.com.au/news/world/artificial-earthquake-detected-in-north-korea/story-e6frg6so-1226576256804)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-17823706)
-5. [AP via ''The Miami Herald](http://www.miamiherald.com/2013/02/11/3229387/usgs-earthquake-detected-in-north.html)
+1. [The Australian](http://www.theaustralian.com.au/news/world/artificial-earthquake-detected-in-north-korea/story-e6frg6so-1226576256804)
+2. [Reuters](http://www.reuters.com/article/2013/02/12/us-korea-north-idUSBRE91B04820130212)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-17823706)
+4. [AP via ''The Miami Herald](http://www.miamiherald.com/2013/02/11/3229387/usgs-earthquake-detected-in-north.html)
+5. [CNN](http://www.cnn.com/2013/02/11/world/asia/north-korea-seismic-disturbance)
 
 ### Related:
 

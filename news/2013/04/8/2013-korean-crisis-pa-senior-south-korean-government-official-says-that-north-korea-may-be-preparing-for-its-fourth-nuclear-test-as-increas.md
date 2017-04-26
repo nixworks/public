@@ -8,9 +8,9 @@ North Korea may be preparing for a fourth nuclear test, with stepped up activity
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22061377)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-22065348)
-3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323550604578410010892971052.html)
-4. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/activity-at-n-korea/630600.html)
+2. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/activity-at-n-korea/630600.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-22065348)
+4. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323550604578410010892971052.html)
 
 ### Related:
 

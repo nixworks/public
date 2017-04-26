@@ -7,12 +7,12 @@ Russian President Vladimir Putin has approved a law which will tighten controls 
 
 ### Source:
 
-1. [Gulf News](http://gulfnews.com/news/world/other-world/putin-signs-law-branding-ngos-foreign-agents-1.1051897)
-2. [Reuters](http://www.reuters.com/article/2012/07/21/us-russia-putin-ngos-idUSBRE86K05M20120721)
+1. [Reuters](http://www.reuters.com/article/2012/07/21/us-russia-putin-ngos-idUSBRE86K05M20120721)
+2. [Gulf News](http://gulfnews.com/news/world/other-world/putin-signs-law-branding-ngos-foreign-agents-1.1051897)
 
 ### Related:
 
-1. [The prime minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/the-prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refus.md) _Context: NGO_
+1. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: NGO_
 2. [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md) _Context: NGO_
 3. [The Spanish-based Proactiva Open Arms NGO rescues more than 700 migrants in the Mediterranean Sea about 17 miles north of Sabratha, Libya. The rescued, who are from Nigeria, are transferred to the Italian Coast Guard.   ](/news/2016/08/28/the-spanish-based-proactiva-open-arms-ngo-rescues-more-than-700-migrants-in-the-mediterranean-sea-about-17-miles-north-of-sabratha-libya-t.md) _Context: NGO_
 4. [Egyptian authorities order the closure of the Egyptian branch of the International Rehabilitation Council for Torture Victims (IRCT), a prominent NGO that documents alleged human rights abuses and treats torture victims. Amnesty International condemns the closure of the Nadeem centre, saying the NGO gives a lifeline to hundreds of victims of torture and families of people subjected to enforced disappearances. ](/news/2016/02/17/egyptian-authorities-order-the-closure-of-the-egyptian-branch-of-the-international-rehabilitation-council-for-torture-victims-irct-a-prom.md) _Context: NGO_

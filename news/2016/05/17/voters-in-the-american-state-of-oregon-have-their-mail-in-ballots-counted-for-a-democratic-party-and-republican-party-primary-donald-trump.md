@@ -7,12 +7,12 @@ Presidential election results from the 2016 Oregon Democratic Primary and Oregon
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/politics/2016-election/primaries/OR)
-2. [AFP via Yahoo! 7](https://au.news.yahoo.com/world/a/31616146/clinton-stumps-in-kentucky-to-charm-white-working-man/)
-3. [ABC News America](http://abcnews.go.com/Politics/oregon-state-results-election-2016/story?id=37346826)
-4. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-kentucky-oregon-primary-20160517-story.html)
+1. [AFP via Yahoo! 7](https://au.news.yahoo.com/world/a/31616146/clinton-stumps-in-kentucky-to-charm-white-working-man/)
+2. [NBC News](http://www.nbcnews.com/politics/2016-election/primaries/OR)
+3. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-kentucky-oregon-primary-20160517-story.html)
+4. [Courier-Journal](http://www.courier-journal.com/story/news/politics/elections/kentucky/2016/05/17/kentucky-democrats-pick-between-hillary-clinton-bernie-sanders/84276650/)
 5. [CNN](http://edition.cnn.com/election/primaries/states/ky/Dem)
-6. [Courier-Journal](http://www.courier-journal.com/story/news/politics/elections/kentucky/2016/05/17/kentucky-democrats-pick-between-hillary-clinton-bernie-sanders/84276650/)
+6. [ABC News America](http://abcnews.go.com/Politics/oregon-state-results-election-2016/story?id=37346826)
 
 ### Related:
 

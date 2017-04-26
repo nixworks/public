@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SCMP](http://www.scmp.com/news/china/article/1581011/china-resources-power-president-and-shanxi-tycoon-detained-authorities)
-2. [Bloomberg](http://www.bloomberg.com/news/2014-08-23/china-probes-two-top-officials-in-shanxi-amid-anti-graft-drive.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2014-08-23/china-probes-two-top-officials-in-shanxi-amid-anti-graft-drive.html)
+2. [SCMP](http://www.scmp.com/news/china/article/1581011/china-resources-power-president-and-shanxi-tycoon-detained-authorities)
 
 ### Related:
 

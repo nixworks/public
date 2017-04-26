@@ -7,9 +7,9 @@ At least 41 people killed and dozens injured after a suicide bombing near a mosq
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/155541.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010121583439610680.html)
 2. [Alertnet](http://www.trust.org/alertnet/news/iran-lawmaker-says-dozens-killed-in-blast-irna)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010121583439610680.html)
+3. [Press TV](http://www.presstv.ir/detail/155541.html)
 
 ### Related:
 

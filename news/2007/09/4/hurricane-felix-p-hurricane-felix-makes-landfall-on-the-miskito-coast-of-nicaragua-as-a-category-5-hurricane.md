@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio New Zealand](http://www.radionz.co.nz/news/latest/200709051053/hurricane_felix_kills_four_in_nicaragua)
-2. [LA Times](http://travel.latimes.com/articles/la-trw-hurricane-felix-storms-central-americ4sep07)
+1. [LA Times](http://travel.latimes.com/articles/la-trw-hurricane-felix-storms-central-americ4sep07)
+2. [Radio New Zealand](http://www.radionz.co.nz/news/latest/200709051053/hurricane_felix_kills_four_in_nicaragua)
 3. [Euronews](http://euronews.net/index.php?page=info&article=440937&lng=1)
 
 ### Related:

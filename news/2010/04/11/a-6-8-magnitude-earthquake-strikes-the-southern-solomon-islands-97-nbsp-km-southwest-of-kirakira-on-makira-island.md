@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/breaking-news/magnitude-quake-strikes-solomons/story-fn3dxity-1225852457757)
-2. [TVNZ](http://tvnz.co.nz/world-news/strong-7-1-quake-hits-solomon-islands-3457063)
+1. [TVNZ](http://tvnz.co.nz/world-news/strong-7-1-quake-hits-solomon-islands-3457063)
+2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/magnitude-quake-strikes-solomons/story-fn3dxity-1225852457757)
 
 ### Related:
 

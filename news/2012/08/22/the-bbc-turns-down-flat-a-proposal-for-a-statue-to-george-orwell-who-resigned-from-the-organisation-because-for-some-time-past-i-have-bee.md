@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/books/2012/aug/22/bbc-george-orwell-statue-left-wing)
-2. [BBC](http://www.bbc.co.uk/archive/orwell/7430.shtml)
+1. [BBC](http://www.bbc.co.uk/archive/orwell/7430.shtml)
+2. [The Guardian](http://www.guardian.co.uk/books/2012/aug/22/bbc-george-orwell-statue-left-wing)
 
 ### Related:
 

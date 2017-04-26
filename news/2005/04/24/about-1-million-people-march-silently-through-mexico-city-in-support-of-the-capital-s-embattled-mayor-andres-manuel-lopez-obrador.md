@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/WORLD/americas/04/24/mexico.reut/)
-2. [El&nbsp;Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10267&tabla=miami)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4479771.stm)
-4. [The&nbsp;Guardian](http://www.guardian.co.uk/international/story/0,,1469424,00.html)
-5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aM93blcVRAa4&refer=latin_america)
+1. [El&nbsp;Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10267&tabla=miami)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4479771.stm)
+3. [CNN](http://www.cnn.com/2005/WORLD/americas/04/24/mexico.reut/)
+4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aM93blcVRAa4&refer=latin_america)
+5. [The&nbsp;Guardian](http://www.guardian.co.uk/international/story/0,,1469424,00.html)
 
 ### Related:
 

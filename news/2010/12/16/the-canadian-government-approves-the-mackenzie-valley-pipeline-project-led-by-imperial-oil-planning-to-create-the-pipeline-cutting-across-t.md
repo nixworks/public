@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Vancouver Sun](http://www.vancouversun.com/news/Mackenzie+pipeline+gets+approved/3989170/story.html)
-2. [Reuters](http://www.reuters.com/article/idUSN1625957320101216)
+1. [Reuters](http://www.reuters.com/article/idUSN1625957320101216)
+2. [Vancouver Sun](http://www.vancouversun.com/news/Mackenzie+pipeline+gets+approved/3989170/story.html)
 
 ### Related:
 

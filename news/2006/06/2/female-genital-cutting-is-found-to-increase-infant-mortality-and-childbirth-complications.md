@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WHO](http://www.who.int/reproductive-health/fgm/)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/5039536.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/5039536.stm)
+2. [WHO](http://www.who.int/reproductive-health/fgm/)
 
 ### Related:
 

@@ -8,13 +8,13 @@ Hosni Mubarak ordered his new PM to preserve subsidies, control inflation and pr
 ### Source:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/01/30/live-blog-311-egypt-protests)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/31/3126194.htm)
-3. [AP](http://hosted2.ap.org/APDEFAULT/54828a5e8d9d48b7ba8b94ba38a9ef22/Article_2011-01-30-Egypt%20Americans/id-b1e62b9a68054965911a3526d2a6e945)
-4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201113101237787481.html)
-5. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/protests-continue-as-egypt-pm-tasked-with-reforms-20110131-1aajh.html)
-6. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jG3kAGLIhYPdbhftqAy1KZ987RDQ?docId=d7e83b12fbd94619b694d46279fa6a14)
-7. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE70U2JC20110131)
-8. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201113023414787871.html)
+2. [AP](http://hosted2.ap.org/APDEFAULT/54828a5e8d9d48b7ba8b94ba38a9ef22/Article_2011-01-30-Egypt%20Americans/id-b1e62b9a68054965911a3526d2a6e945)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201113101237787481.html)
+4. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jG3kAGLIhYPdbhftqAy1KZ987RDQ?docId=d7e83b12fbd94619b694d46279fa6a14)
+5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201113023414787871.html)
+6. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE70U2JC20110131)
+7. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/protests-continue-as-egypt-pm-tasked-with-reforms-20110131-1aajh.html)
+8. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/31/3126194.htm)
 
 ### Related:
 

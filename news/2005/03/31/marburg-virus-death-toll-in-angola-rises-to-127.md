@@ -9,8 +9,8 @@
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1112275801430B252)
 2. [AllAfrica](http://allafrica.com/stories/200503310608.html)
-3. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=22004)
-4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L31446574.htm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L31446574.htm)
+4. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=22004)
 
 ### Related:
 

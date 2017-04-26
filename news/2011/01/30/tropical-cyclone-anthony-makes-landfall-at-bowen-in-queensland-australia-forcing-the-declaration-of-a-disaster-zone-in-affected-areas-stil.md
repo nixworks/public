@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201101/3125240.htm?desktop)
-2. [Fraser Coast Chronicle](http://www.frasercoastchronicle.com.au/story/2011/01/31/double-trouble-cyclone-anthony-queensland-coast/)
-3. [The Australian](http://www.theaustralian.com.au/news/nation/battered-state-on-red-alert-as-tropical-cyclone-anthony-hits/story-e6frg6nf-1225997122650)
+1. [Fraser Coast Chronicle](http://www.frasercoastchronicle.com.au/story/2011/01/31/double-trouble-cyclone-anthony-queensland-coast/)
+2. [The Australian](http://www.theaustralian.com.au/news/nation/battered-state-on-red-alert-as-tropical-cyclone-anthony-hits/story-e6frg6nf-1225997122650)
+3. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201101/3125240.htm?desktop)
 
 ### Related:
 

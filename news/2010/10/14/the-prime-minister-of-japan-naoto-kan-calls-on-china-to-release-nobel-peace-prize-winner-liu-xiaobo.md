@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11539333)
+1. [Japan Today](http://www.japantoday.com/category/politics/view/kan-says-freeing-chinese-nobel-winner-desirable)
 2. [Yemen News Agency](http://www.sabanews.net/en/news226307.htm)
-3. [Japan Today](http://www.japantoday.com/category/politics/view/kan-says-freeing-chinese-nobel-winner-desirable)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11539333)
 
 ### Related:
 

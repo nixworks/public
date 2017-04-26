@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050421.wmartin0421_2/BNStory/Front/)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4471407.stm)
-3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1114083674580_24/?hub=CTVNewsAt11)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4471407.stm)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1114083674580_24/?hub=CTVNewsAt11)
+3. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050421.wmartin0421_2/BNStory/Front/)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8259354)
 
 ### Related:

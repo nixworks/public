@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian Unlimited](http://politics.guardian.co.uk/election/comment/0,15803,1459093,00.html)
-2. [Background: International Herald Tribune](http://www.iht.com/articles/2005/03/24/news/uzbek.html)
+1. [Background: International Herald Tribune](http://www.iht.com/articles/2005/03/24/news/uzbek.html)
+2. [Guardian Unlimited](http://politics.guardian.co.uk/election/comment/0,15803,1459093,00.html)
 
 ### Related:
 

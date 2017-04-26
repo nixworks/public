@@ -7,9 +7,9 @@ Famed cartoon Dora the Explorer has been mocked in an image that shows the 7-yea
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052100863.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8698065.stm)
 2. [ABC News](http://abcnews.go.com/US/dora-explorer-labeled-illegal-immigrant/story?id=10711944)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/8698065.stm)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052100863.html)
 
 ### Related:
 

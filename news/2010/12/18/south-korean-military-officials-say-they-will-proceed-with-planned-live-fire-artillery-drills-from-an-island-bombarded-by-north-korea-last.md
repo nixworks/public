@@ -7,8 +7,8 @@ South Korea says it will go ahead with a military drill on a disputed island, de
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/news/South-Korea-to-Go-Ahead-with-Live-Fire-Drills---112121084.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12029875)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12029875)
+2. [VOA](http://www.voanews.com/english/news/South-Korea-to-Go-Ahead-with-Live-Fire-Drills---112121084.html)
 
 ### Related:
 

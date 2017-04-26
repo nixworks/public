@@ -7,8 +7,8 @@ The 33-year-old Kenyan defends her title.
 
 ### Source:
 
-1. [Runners World](http://www.runnersworld.com/new-york-city-marathon/mary-keitany-wins-2015-new-york-city-marathon)
-2. [ABC7 New York](http://abc7ny.com/sports/kenyans-stanley-biwott-mary-keitany-win-2015-tcs-new-york-city-marathon/1062328/)
+1. [ABC7 New York](http://abc7ny.com/sports/kenyans-stanley-biwott-mary-keitany-win-2015-tcs-new-york-city-marathon/1062328/)
+2. [Runners World](http://www.runnersworld.com/new-york-city-marathon/mary-keitany-wins-2015-new-york-city-marathon)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The New York Knicks acquired Carmelo Anthony on Monday night, according to the D
 
 ### Source:
 
-1. [ESPN](http://sports.espn.go.com/new-york/nba/news/story?id=6145912)
-2. [NBC Sports](http://nbcsports.msnbc.com/id/41710640/ns/sports-player_news/)
-3. [Huffington Post](http://www.huffingtonpost.com/2011/02/21/carmelo-anthony-traded-knicks_n_826322.html)
+1. [Huffington Post](http://www.huffingtonpost.com/2011/02/21/carmelo-anthony-traded-knicks_n_826322.html)
+2. [ESPN](http://sports.espn.go.com/new-york/nba/news/story?id=6145912)
+3. [NBC Sports](http://nbcsports.msnbc.com/id/41710640/ns/sports-player_news/)
 
 ### Related:
 

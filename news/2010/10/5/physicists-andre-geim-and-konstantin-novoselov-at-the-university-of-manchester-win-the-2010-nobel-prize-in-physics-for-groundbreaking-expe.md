@@ -8,8 +8,8 @@ Two Russian-born physicists honoured for work on graphene, which is both the thi
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/201010515325352302.html)
-2. [The New York Times](http://www.nytimes.com/2010/10/06/science/06nobel.html?_r=1)
-3. [Nobel Prize](http://nobelprize.org/nobel_prizes/physics/laureates/2010/)
+2. [Nobel Prize](http://nobelprize.org/nobel_prizes/physics/laureates/2010/)
+3. [The New York Times](http://www.nytimes.com/2010/10/06/science/06nobel.html?_r=1)
 
 ### Related:
 

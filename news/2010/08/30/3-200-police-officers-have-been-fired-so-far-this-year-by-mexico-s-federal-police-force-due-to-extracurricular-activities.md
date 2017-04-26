@@ -7,9 +7,9 @@ The federal police force in Mexico dismisses 3,200 officers for incompetence, co
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010830174652875879.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11132589)
-3. [AP via France24](http://www.france24.com/en/20100830-ten-percent-mexican-federal-police-sacked-corruption-crackdown)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11132589)
+2. [AP via France24](http://www.france24.com/en/20100830-ten-percent-mexican-federal-police-sacked-corruption-crackdown)
+3. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010830174652875879.html)
 
 ### Related:
 

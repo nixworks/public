@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Solomon Times](http://www.solomontimes.com/news.aspx?nwID=4982)
-2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=52375)
+1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=52375)
+2. [Solomon Times](http://www.solomontimes.com/news.aspx?nwID=4982)
 
 ### Related:
 

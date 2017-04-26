@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Miami Herald](http://www.miamiherald.com/news/world/AP/story/1161084.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8172437.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8172437.stm)
+2. [The Miami Herald](http://www.miamiherald.com/news/world/AP/story/1161084.html)
 
 ### Related:
 

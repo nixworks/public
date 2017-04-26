@@ -9,14 +9,14 @@ Thousands of protesters force Republican presidential candidate Donald Trump to 
 
 1. [NBC News](http://www.nbcnews.com/politics/2016-election/trump-rally-chicago-called-after-clashes-n537001)
 2. [Politico](http://www.politico.com/blogs/2016-gop-primary-live-updates-and-results/2016/03/marco-rubio-ohio-kasich-220635)
-3. [Fox News](http://www.foxnews.com/politics/2016/03/10/ben-carson-expected-to-endorse-trump-sources-say.html)
-4. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/03/10/trump-protester-sucker-punched-at-north-carolina-rally-videos-show/)
-5. [AFP vis ABC News Australia](http://www.abc.net.au/news/2016-03-12/donald-trump-cancels-chicago-rally-amid-protests/7242108)
-6. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/11/in-anti-trump-move-rubio-frees-up-ohio-supporters-to-vote-for-kasich/?wpmm=1&wpisrc=nl_evening)
-7. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-trump-rally-st-louis-arrests-20160311-story.html)
-8. [The Christian Science Monitor](http://www.csmonitor.com/USA/Politics/Decoder/2016/0311/Has-Donald-Trump-brought-new-whiff-of-violence-to-US-politics)
-9. [CNN](http://www.cnn.com/2016/03/11/politics/donald-trump-chicago-protests/)
-10. [Los Angeles Times](http://www.latimes.com/nation/politics/trailguide/la-na-trailguide-03112016-htmlstory.html)
+3. [Los Angeles Times](http://www.latimes.com/nation/politics/trailguide/la-na-trailguide-03112016-htmlstory.html)
+4. [CNN](http://www.cnn.com/2016/03/11/politics/donald-trump-chicago-protests/)
+5. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/11/in-anti-trump-move-rubio-frees-up-ohio-supporters-to-vote-for-kasich/?wpmm=1&wpisrc=nl_evening)
+6. [Fox News](http://www.foxnews.com/politics/2016/03/10/ben-carson-expected-to-endorse-trump-sources-say.html)
+7. [The Christian Science Monitor](http://www.csmonitor.com/USA/Politics/Decoder/2016/0311/Has-Donald-Trump-brought-new-whiff-of-violence-to-US-politics)
+8. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-trump-rally-st-louis-arrests-20160311-story.html)
+9. [AFP vis ABC News Australia](http://www.abc.net.au/news/2016-03-12/donald-trump-cancels-chicago-rally-amid-protests/7242108)
+10. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/03/10/trump-protester-sucker-punched-at-north-carolina-rally-videos-show/)
 
 ### Related:
 

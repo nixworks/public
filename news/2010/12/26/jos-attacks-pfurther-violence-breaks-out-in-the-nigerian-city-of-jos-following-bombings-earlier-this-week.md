@@ -7,8 +7,8 @@ Further violence has broken out in the city of Jos in central Nigeria following 
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010122653529911717.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12080929)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12080929)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010122653529911717.html)
 
 ### Related:
 

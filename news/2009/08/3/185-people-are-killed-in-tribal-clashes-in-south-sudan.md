@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8181969.stm)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gGdGLddBuZ3s4AYDgaSjXBy4g-PQD99RJQ383)
 2. [AHN](http://www.allheadlinenews.com/articles/7015986538?At%20Least%20185%20Killed%20In%20Ethnic%20Violence%20In%20Southern%20Sudan)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gGdGLddBuZ3s4AYDgaSjXBy4g-PQD99RJQ383)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8181969.stm)
 
 ### Related:
 

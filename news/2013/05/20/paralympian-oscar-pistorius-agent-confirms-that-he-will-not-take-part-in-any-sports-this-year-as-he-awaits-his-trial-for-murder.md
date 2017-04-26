@@ -7,8 +7,8 @@ Paralympic gold medallist Oscar Pistorius will not compete again this year as he
 
 ### Source:
 
-1. [BBC Sports](http://www.bbc.co.uk/sport/0/disability-sport/22601462)
-2. [Sky News](http://news.sky.com/story/1093392/oscar-pistorius-wont-compete-again-in-2013)
+1. [Sky News](http://news.sky.com/story/1093392/oscar-pistorius-wont-compete-again-in-2013)
+2. [BBC Sports](http://www.bbc.co.uk/sport/0/disability-sport/22601462)
 
 ### Related:
 

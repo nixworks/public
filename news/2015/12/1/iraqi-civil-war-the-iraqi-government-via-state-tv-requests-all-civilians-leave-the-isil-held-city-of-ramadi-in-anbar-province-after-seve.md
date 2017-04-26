@@ -7,9 +7,9 @@ A military statement has ordered civilians to leave the &quot;Islamic State&quot
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/national-security/new-iraq-task-force-expands-direct-us-role-in-battle-against-islamic-state/2015/12/01/6cc41ef2-9861-11e5-8917-653b65c809eb_story.html)
-2. [Deutsche Welle](http://www.dw.com/en/civilians-told-to-leave-is-held-iraqi-city-of-ramadi/a-18884014)
-3. [The Hill](http://thehill.com/policy/defense/overnights/261727-overnight-defense-pentagon-deploying-task-force-to-fight-isis)
+1. [The Hill](http://thehill.com/policy/defense/overnights/261727-overnight-defense-pentagon-deploying-task-force-to-fight-isis)
+2. [The Washington Post](https://www.washingtonpost.com/world/national-security/new-iraq-task-force-expands-direct-us-role-in-battle-against-islamic-state/2015/12/01/6cc41ef2-9861-11e5-8917-653b65c809eb_story.html)
+3. [Deutsche Welle](http://www.dw.com/en/civilians-told-to-leave-is-held-iraqi-city-of-ramadi/a-18884014)
 
 ### Related:
 

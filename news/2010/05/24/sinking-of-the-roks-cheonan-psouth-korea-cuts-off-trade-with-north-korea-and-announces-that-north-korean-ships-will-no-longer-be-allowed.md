@@ -7,10 +7,10 @@ The US announces joint naval exercises with Seoul after a report blamed N Korea 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10150379.stm)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/05/24/10/0301000000AEN20100524007000315F.HTML)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/201052412934207670.html)
-4. [The Guardian](http://www.guardian.co.uk/world/2010/may/24/us-south-korea-naval-exercises)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/201052412934207670.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/may/24/us-south-korea-naval-exercises)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10150379.stm)
+4. [Yonhap](http://english.yonhapnews.co.kr/national/2010/05/24/10/0301000000AEN20100524007000315F.HTML)
 5. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10144059.stm)
 
 ### Related:

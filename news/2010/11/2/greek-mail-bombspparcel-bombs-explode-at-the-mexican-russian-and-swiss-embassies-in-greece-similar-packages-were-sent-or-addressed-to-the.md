@@ -7,12 +7,12 @@ Bombs explode at the Swiss and Russian embassies in Athens and several other sus
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101103/wl_afp/greeceattacksitalyaviation)
-2. [Al-Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010112225321704482.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101102/ap_on_re_eu/eu_greece_mail_bombs)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11674535)
 3. [China Daily](http://www.chinadaily.com.cn/world/2010-11/02/content_11492825.htm)
-4. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101102/ap_on_re_eu/eu_greece_mail_bombs)
+4. [Al-Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010112225321704482.html)
 5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/greece/8105449/Parcel-bombs-hit-two-more-embassies-in-Greece.html)
-6. [BBC](http://www.bbc.co.uk/news/world-europe-11674535)
+6. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101103/wl_afp/greeceattacksitalyaviation)
 
 ### Related:
 

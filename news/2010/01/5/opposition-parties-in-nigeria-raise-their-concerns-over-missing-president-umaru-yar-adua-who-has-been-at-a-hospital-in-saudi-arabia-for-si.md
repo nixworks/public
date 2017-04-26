@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8440860.stm)
-2. [Nigeria Guardian](http://www.ngrguardiannews.com/news/article03//indexn2_html?pdate=050110&ptitle=Opposition%20leaders%20mull%20mega%20summit%20on%20President%27s%20health)
-3. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/nigeria:-opposition-demands-evidence-of-yar%27adua%27s-improving-health-2010010541269.html)
+1. [Nigeria Guardian](http://www.ngrguardiannews.com/news/article03//indexn2_html?pdate=050110&ptitle=Opposition%20leaders%20mull%20mega%20summit%20on%20President%27s%20health)
+2. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/nigeria:-opposition-demands-evidence-of-yar%27adua%27s-improving-health-2010010541269.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8440860.stm)
 
 ### Related:
 

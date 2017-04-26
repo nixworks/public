@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/world/al-qaidas-top-leader-in-afghanistan-mustafa-abu-al-yazid-dies/story-e6frg6so-1225873950759)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/31/afghanistan.qaeda.death/?hpt=Sbin)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/31/afghanistan.qaeda.death/?hpt=Sbin)
+2. [The Australian](http://www.theaustralian.com.au/news/world/al-qaidas-top-leader-in-afghanistan-mustafa-abu-al-yazid-dies/story-e6frg6so-1225873950759)
 
 ### Related:
 

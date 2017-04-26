@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Japan Today](http://www.japantoday.com/category/world/view/armed-thai-troops-block-bangkok-business-district)
-2. [Melbourne Age](http://news.theage.com.au/breaking-news-world/armed-thai-troops-block-bangkok-cbd-20100419-snrq.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/18/AR2010041801335.html?hpid=sec-world)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/18/AR2010041801335.html?hpid=sec-world)
+3. [Melbourne Age](http://news.theage.com.au/breaking-news-world/armed-thai-troops-block-bangkok-cbd-20100419-snrq.html)
 4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8628864.stm)
 
 ### Related:

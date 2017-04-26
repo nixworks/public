@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/151012/aussie-radio-show-pulled-after-live-teen-rape-claim)
-2. [The Guardian](http://www.guardian.co.uk/media/2009/aug/03/kyle-sandilands-dj-australian-idol)
-3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090803/australian_dj_090803/20090803?hub=Entertainment)
-4. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8181076.stm)
-5. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,25859836-5000117,00.html)
-6. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=13&art_id=vn20090803142541160C805371)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=13&art_id=vn20090803142541160C805371)
+2. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,25859836-5000117,00.html)
+3. [The Guardian](http://www.guardian.co.uk/media/2009/aug/03/kyle-sandilands-dj-australian-idol)
+4. [Bangkok Post](http://www.bangkokpost.com/news/asia/151012/aussie-radio-show-pulled-after-live-teen-rape-claim)
+5. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8181076.stm)
+6. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090803/australian_dj_090803/20090803?hub=Entertainment)
 
 ### Related:
 

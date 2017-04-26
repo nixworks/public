@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/07/c_13336214.htm)
+1. [trend.az](http://en.trend.az/regions/world/usa/1700291.html)
 2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/seven-confirmed-dead-in-us-tornado-20100607-xnqz.html)
-3. [trend.az](http://en.trend.az/regions/world/usa/1700291.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/07/c_13336214.htm)
 
 ### Related:
 

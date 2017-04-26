@@ -7,8 +7,8 @@ At least 15 people inlcuding 5 crew of a Russian Antonov An-24 aircraft are fear
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/europe/15-feared-killed-in-plane-crash-in-Siberia-/articleshow/6249834.cms)
-2. [RIA Novosti](http://en.rian.ru/russia/20100803/160046398.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20100803/160046398.html)
+2. [Times of India](http://timesofindia.indiatimes.com/world/europe/15-feared-killed-in-plane-crash-in-Siberia-/articleshow/6249834.cms)
 
 ### Related:
 

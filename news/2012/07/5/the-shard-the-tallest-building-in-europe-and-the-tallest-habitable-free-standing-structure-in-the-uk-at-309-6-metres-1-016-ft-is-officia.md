@@ -7,8 +7,8 @@ The Duke of York and Sheikh Hamad Bin Jassim Bin Jabor Al Thani, prime minister 
 
 ### Source:
 
-1. [LondonSEI](http://www.london-se1.co.uk/news/view/5976)
-2. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=478894&version=1&template_id=57&parent_id=56)
+1. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=478894&version=1&template_id=57&parent_id=56)
+2. [LondonSEI](http://www.london-se1.co.uk/news/view/5976)
 
 ### Related:
 

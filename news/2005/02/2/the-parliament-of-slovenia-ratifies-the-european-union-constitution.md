@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/4227685.stm)
-2. [EurActiv](http://www.euractiv.com/Article?tcmuri=tcm:29-134943-16&type=News)
-3. [EUobserver](http://www.euobserver.com/?sid=9&aid=18307)
+1. [EurActiv](http://www.euractiv.com/Article?tcmuri=tcm:29-134943-16&type=News)
+2. [EUobserver](http://www.euobserver.com/?sid=9&aid=18307)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/4227685.stm)
 
 ### Related:
 

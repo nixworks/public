@@ -7,8 +7,8 @@ The United Nations General Assembly overwhelmingly condemned the U.S. embargo of
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/US/2015/10/27/UN-condemns-US-embargo-of-Cuba/2131445968548/?spt=hts&or=3)
-2. [AP via ABC News](http://abcnews.go.com/US/wireStory/us-oppose-resolution-condemning-cuba-embargo-34764735)
+1. [AP via ABC News](http://abcnews.go.com/US/wireStory/us-oppose-resolution-condemning-cuba-embargo-34764735)
+2. [UPI](http://www.upi.com/Top_News/US/2015/10/27/UN-condemns-US-embargo-of-Cuba/2131445968548/?spt=hts&or=3)
 
 ### Related:
 

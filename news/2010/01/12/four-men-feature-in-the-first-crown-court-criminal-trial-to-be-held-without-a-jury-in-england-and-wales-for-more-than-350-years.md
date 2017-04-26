@@ -8,8 +8,8 @@ Four men alleged to have carried out an armed robbery at Heathrow went on trial 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/8453318.stm)
-2. [Ealing Times](http://www.ealingtimes.co.uk/uk_national_news/4846820.Four_men_face_trial_without_jury/)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/6973626/Historic-trial-without-jury-begins-over-alleged-Heathrow-robbery.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/6973626/Historic-trial-without-jury-begins-over-alleged-Heathrow-robbery.html)
+3. [Ealing Times](http://www.ealingtimes.co.uk/uk_national_news/4846820.Four_men_face_trial_without_jury/)
 
 ### Related:
 

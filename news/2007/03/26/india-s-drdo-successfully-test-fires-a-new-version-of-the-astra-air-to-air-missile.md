@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1173879169569&pagename=JPost%2FJPArticle%2FShowFull)
-2. [Washington Times](http://washingtontimes.com/upi/20070325-045044-2905r)
-3. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=11371849&PageNum=0)
+2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=11371849&PageNum=0)
+3. [Washington Times](http://washingtontimes.com/upi/20070325-045044-2905r)
 
 ### Related:
 

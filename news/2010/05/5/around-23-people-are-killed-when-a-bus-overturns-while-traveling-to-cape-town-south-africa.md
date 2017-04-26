@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jBJmtySuWgr1Bu3pDwauCj37nY8gD9FGK79O0)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=iol1273051722965A622)
-3. [Daily Nation](http://www.nation.co.ke/News/africa/SA%20bus%20accident%20kills%2024/-/1066/912394/-/ieccdoz/-/)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=iol1273051722965A622)
+2. [Daily Nation](http://www.nation.co.ke/News/africa/SA%20bus%20accident%20kills%2024/-/1066/912394/-/ieccdoz/-/)
+3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jBJmtySuWgr1Bu3pDwauCj37nY8gD9FGK79O0)
 
 ### Related:
 

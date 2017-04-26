@@ -7,8 +7,8 @@ Hurricane Matthew is gaining strength in the Caribbean, its current track from t
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/US/hurricane-matthew-gaining-strength-caribbean/story?id=42474108)
-2. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [ABC News](http://abcnews.go.com/US/hurricane-matthew-gaining-strength-caribbean/story?id=42474108)
 
 ### Related:
 

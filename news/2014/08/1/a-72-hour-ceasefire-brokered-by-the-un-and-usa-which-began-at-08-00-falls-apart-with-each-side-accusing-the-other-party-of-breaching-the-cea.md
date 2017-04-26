@@ -7,8 +7,8 @@ Netanyahu says IDF will redeploy according to Israel&#8217;s security needs once
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2014/08/02/world/middleeast/2-palestinians-killed-in-west-bank-clashes.html)
-2. [Times of Israel](http://www.timesofisrael.com/day-26-obama-calls-for-unconditional-release-of-captured-soldier-un-condemns-hamas-truce-violation/)
+1. [Times of Israel](http://www.timesofisrael.com/day-26-obama-calls-for-unconditional-release-of-captured-soldier-un-condemns-hamas-truce-violation/)
+2. [The New York Times](http://www.nytimes.com/2014/08/02/world/middleeast/2-palestinians-killed-in-west-bank-clashes.html)
 3. [Global Post](http://www.globalpost.com/dispatch/news/afp/140801/hamas-accuses-israel-violating-gaza-ceasefire)
 
 ### Related:

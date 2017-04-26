@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0527/newzealand.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8069462.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8069462.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0527/newzealand.html)
 
 ### Related:
 

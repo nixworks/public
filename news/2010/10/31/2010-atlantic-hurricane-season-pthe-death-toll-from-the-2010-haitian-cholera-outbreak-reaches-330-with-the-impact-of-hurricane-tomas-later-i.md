@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2010/WORLD/americas/10/31/tropical.weather/index.html?eref=rss_topstories)
-2. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/30/haiti.cholera/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/30/haiti.cholera/index.html?eref=edition)
+2. [CNN](http://www.cnn.com/2010/WORLD/americas/10/31/tropical.weather/index.html?eref=rss_topstories)
+3. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

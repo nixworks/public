@@ -7,8 +7,8 @@ Puntland court jails journalist for interviewing Muslim leader with ties to figh
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0814/somalia.html)
-2. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/20108151010514985.html)
+1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/20108151010514985.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0814/somalia.html)
 
 ### Related:
 

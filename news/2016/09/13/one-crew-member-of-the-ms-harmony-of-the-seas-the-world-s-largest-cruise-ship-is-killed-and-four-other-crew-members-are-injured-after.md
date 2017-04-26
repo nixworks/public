@@ -7,8 +7,8 @@ A Harmony of the Seas crew member has died and four others have been injured aft
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/09/13/europe/crew-killed-harmony-of-the-seas/)
-2. [The Independent](http://www.independent.co.uk/news/world/europe/harmony-of-the-seas-cruise-liner-death-accident-worlds-biggest-toll-injured-latest-live-news-a7242216.html)
+1. [The Independent](http://www.independent.co.uk/news/world/europe/harmony-of-the-seas-cruise-liner-death-accident-worlds-biggest-toll-injured-latest-live-news-a7242216.html)
+2. [CNN](http://edition.cnn.com/2016/09/13/europe/crew-killed-harmony-of-the-seas/)
 
 ### Related:
 

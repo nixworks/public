@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Pravda](http://en.rian.ru/russia/20050616/40535705.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20050616/40534658.html)
 2. [RIA Novosti](http://newsfromrussia.com/accidents/2005/06/16/60346.html)
-3. [RIA Novosti](http://en.rian.ru/russia/20050616/40534658.html)
+3. [Pravda](http://en.rian.ru/russia/20050616/40535705.html)
 
 ### Related:
 

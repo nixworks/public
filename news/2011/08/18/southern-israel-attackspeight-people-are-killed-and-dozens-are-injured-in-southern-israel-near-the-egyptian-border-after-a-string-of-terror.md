@@ -7,10 +7,10 @@ Four terror attacks near Eilat claim seven lives, leave 31 injured as passenger 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/aug/18/israel-air-strikes-gaza-eilat-attacks)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4110634,00.html)
-3. [New York Times](http://www.nytimes.com/2011/08/19/world/middleeast/19israel.html?emc=na)
-4. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/six-dead-as-israel-hits-southern-gaza-20110819-1j0m3.html)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/six-dead-as-israel-hits-southern-gaza-20110819-1j0m3.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/aug/18/israel-air-strikes-gaza-eilat-attacks)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4110634,00.html)
+4. [New York Times](http://www.nytimes.com/2011/08/19/world/middleeast/19israel.html?emc=na)
 
 ### Related:
 

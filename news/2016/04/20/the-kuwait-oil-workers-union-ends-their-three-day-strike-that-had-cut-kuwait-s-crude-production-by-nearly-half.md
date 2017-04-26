@@ -7,8 +7,8 @@ Kuwaiti oil and gas workers have ended a three-day strike, the trade union said 
 
 ### Source:
 
-1. [Gulf News](http://gulfnews.com/news/gulf/kuwait/kuwait-oil-workers-call-off-strike-return-to-work-1Kuwait.1717076)
-2. [CNBC](http://www.cnbc.com/2016/04/19/oil-price-kuwait-oil-gas-workers-end-strike-pledge-to-push-production-back-up.html)
+1. [CNBC](http://www.cnbc.com/2016/04/19/oil-price-kuwait-oil-gas-workers-end-strike-pledge-to-push-production-back-up.html)
+2. [Gulf News](http://gulfnews.com/news/gulf/kuwait/kuwait-oil-workers-call-off-strike-return-to-work-1Kuwait.1717076)
 
 ### Related:
 

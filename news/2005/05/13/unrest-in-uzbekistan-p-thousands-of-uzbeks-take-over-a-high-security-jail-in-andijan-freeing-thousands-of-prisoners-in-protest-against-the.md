@@ -7,15 +7,15 @@ Thousands of protesters surge through an eastern Uzbekistani city, enraged by th
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4542783.stm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4546673.stm)
-3. [Interfax](http://www.interfax.ru/e/B/politics/28.html?id_issue=11283360)
-4. [Yahoo!](http://news.yahoo.com/news?tmpl=story&u=/ap/20050513/ap_on_re_eu/uzbekistan_revolt)
-5. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/13/uzbekistan.violence/)
-6. [Haaretz](http://www.haaretz.com/hasen/spages/575763.html)
-7. [The Guardian](http://www.guardian.co.uk/international/story/0,3604,1483938,00.html)
-8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3084846,00.html)
-9. [CBC](http://www.cbc.ca/world/story/2005/05/12/kyrgyzstan-050512.html)
+1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/13/uzbekistan.violence/)
+2. [Yahoo!](http://news.yahoo.com/news?tmpl=story&u=/ap/20050513/ap_on_re_eu/uzbekistan_revolt)
+3. [The Guardian](http://www.guardian.co.uk/international/story/0,3604,1483938,00.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4542783.stm)
+5. [Haaretz](http://www.haaretz.com/hasen/spages/575763.html)
+6. [CBC](http://www.cbc.ca/world/story/2005/05/12/kyrgyzstan-050512.html)
+7. [Interfax](http://www.interfax.ru/e/B/politics/28.html?id_issue=11283360)
+8. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4546673.stm)
+9. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3084846,00.html)
 
 ### Related:
 

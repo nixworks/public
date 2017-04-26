@@ -7,8 +7,8 @@ At least 60 Egyptian soldiers were on Wednesday killed as heavily-armed IS milit
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/ISIS-suicide-bombers-attack-army-checkpoints-in-Egypt-60-killed/articleshow/47896781.cms)
-2. [AP](http://hosted.ap.org/dynamic/stories/M/ML_EGYPT_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_EGYPT_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/ISIS-suicide-bombers-attack-army-checkpoints-in-Egypt-60-killed/articleshow/47896781.cms)
 
 ### Related:
 

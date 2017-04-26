@@ -7,8 +7,8 @@ A new Saudi-led Islamic alliance to fight terrorism will share information and t
 
 ### Source:
 
-1. [SBS](http://www.sbs.com.au/news/article/2015/12/15/saudi-arabia-announces-34-state-islamic-military-alliance-against-terrorism)
-2. [BNO News](http://bnonews.com/news/index.php/news/id3043)
+1. [BNO News](http://bnonews.com/news/index.php/news/id3043)
+2. [SBS](http://www.sbs.com.au/news/article/2015/12/15/saudi-arabia-announces-34-state-islamic-military-alliance-against-terrorism)
 
 ### Related:
 

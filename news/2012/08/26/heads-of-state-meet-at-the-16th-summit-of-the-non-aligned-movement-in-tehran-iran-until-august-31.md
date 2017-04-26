@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Free Europe](http://www.rferl.org/content/iran-nam-summit/24688096.html)
-2. [Oman Tribune](http://www.omantribune.com/index.php?page=news&id=126173&heading=India)
-3. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/26/c_123632373.htm)
+1. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/26/c_123632373.htm)
+2. [Radio Free Europe](http://www.rferl.org/content/iran-nam-summit/24688096.html)
+3. [Oman Tribune](http://www.omantribune.com/index.php?page=news&id=126173&heading=India)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The United Nations Security Council has dropped sanctions against Afghan strongm
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-afghanistan-hekmatyar-idUSKBN15J08C)
-2. [BBC](http://www.bbc.com/news/world-asia-37438674)
+1. [BBC](http://www.bbc.com/news/world-asia-37438674)
+2. [Reuters](http://www.reuters.com/article/us-afghanistan-hekmatyar-idUSKBN15J08C)
 
 ### Related:
 

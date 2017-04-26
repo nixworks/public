@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TV New Zealand](https://www.tvnz.co.nz/one-news/new-zealand/-which-bad-flag-design-will-the-rest-of-world-ignore-from-now-on-aussies-q08539)
-2. [New Zealand Government](https://www.govt.nz/browse/engaging-with-government/the-nz-flag-your-chance-to-decide/)
+1. [New Zealand Government](https://www.govt.nz/browse/engaging-with-government/the-nz-flag-your-chance-to-decide/)
+2. [TV New Zealand](https://www.tvnz.co.nz/one-news/new-zealand/-which-bad-flag-design-will-the-rest-of-world-ignore-from-now-on-aussies-q08539)
 
 ### Related:
 

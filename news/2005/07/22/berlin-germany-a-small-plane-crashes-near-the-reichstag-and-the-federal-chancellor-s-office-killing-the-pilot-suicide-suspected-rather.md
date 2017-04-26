@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1657989,00.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4709219.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L22215695.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4709219.stm)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1657989,00.html)
 
 ### Related:
 

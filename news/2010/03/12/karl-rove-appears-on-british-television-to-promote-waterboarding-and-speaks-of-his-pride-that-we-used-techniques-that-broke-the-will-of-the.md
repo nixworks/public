@@ -7,10 +7,10 @@ A top aide to former US president George W Bush has defended the use of harsh in
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0312/rovek.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8563547.stm)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/mar/12/waterboarding-terrorism-guantanamo-karl-rove)
-4. [The Hindu](http://beta.thehindu.com/news/international/article243703.ece)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8563547.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0312/rovek.html)
+3. [The Hindu](http://beta.thehindu.com/news/international/article243703.ece)
+4. [The Guardian](http://www.guardian.co.uk/world/2010/mar/12/waterboarding-terrorism-guantanamo-karl-rove)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Avian cholera could spread into areas of the Arctic, including parts of Canada a
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/technology/story/2011/01/20/north-avian-cholera-eider-ducks.html)
-2. [Canada.com](http://www.canada.com/technology/science/Cholera+killing+thousands+ducks+Arctic/4155813/story.html)
+1. [Canada.com](http://www.canada.com/technology/science/Cholera+killing+thousands+ducks+Arctic/4155813/story.html)
+2. [CBC](http://www.cbc.ca/technology/story/2011/01/20/north-avian-cholera-eider-ducks.html)
 
 ### Related:
 

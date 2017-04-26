@@ -10,5 +10,5 @@ More than 39,000 couples have chosen Sunday as their wedding day, figuring that 
 1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101010/ap_on_fe_st/us_odd_perfect10)
 2. [BBC](http://www.bbc.co.uk/news/uk-england-leicestershire-11507505)
 3. [Leicester Mercury](http://www.thisisleicestershire.co.uk/news/PERFECT-TENS/article-2738529-detail/article.html)
-4. [BBC](http://www.bbc.co.uk/news/uk-11503729)
-5. [New York Times](http://www.nytimes.com/2010/10/09/us/09date.html)
+4. [New York Times](http://www.nytimes.com/2010/10/09/us/09date.html)
+5. [BBC](http://www.bbc.co.uk/news/uk-11503729)

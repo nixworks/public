@@ -7,8 +7,8 @@ The 9th U.S. Circuit Court of Appeals denied a Trump administration request to h
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2017/02/05/us/iran-us-wrestling-team/)
-2. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/04/513415447/airlines-again-board-travelers-barred-by-travel-order-as-trump-vows-to-fight)
+1. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/04/513415447/airlines-again-board-travelers-barred-by-travel-order-as-trump-vows-to-fight)
+2. [CNN](http://edition.cnn.com/2017/02/05/us/iran-us-wrestling-team/)
 
 ### Related:
 

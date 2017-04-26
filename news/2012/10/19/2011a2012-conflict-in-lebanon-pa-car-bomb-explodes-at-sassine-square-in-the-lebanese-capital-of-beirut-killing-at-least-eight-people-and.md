@@ -7,9 +7,9 @@ A huge car bomb has killed at least eight people and injured dozens in the centr
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/20121019154940460986.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20006389)
-3. [Al Arabiya](http://english.alarabiya.net/articles/2012/10/19/244748.html)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/10/19/244748.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/20121019154940460986.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20006389)
 
 ### Related:
 

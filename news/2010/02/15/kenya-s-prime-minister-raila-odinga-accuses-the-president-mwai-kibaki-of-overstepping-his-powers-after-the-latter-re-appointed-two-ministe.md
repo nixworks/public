@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/story.asp?ID=62326)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iHGTbI59hL1EZbGu3gbZ6uwCZnvwD9DSJDB05)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8515941.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8515941.stm)
+2. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/story.asp?ID=62326)
+3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iHGTbI59hL1EZbGu3gbZ6uwCZnvwD9DSJDB05)
 
 ### Related:
 

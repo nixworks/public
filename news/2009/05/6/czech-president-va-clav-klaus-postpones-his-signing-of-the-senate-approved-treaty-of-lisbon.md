@@ -7,8 +7,8 @@ Czech President Vaclav Klaus has said he will not sign the EU&#39;s Lisbon Treat
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0506/eulisbon.html)
-2. [Aktuálně.cz](http://aktualne.centrum.cz/czechnews/clanek.phtml?id=636689)
+1. [Aktuálně.cz](http://aktualne.centrum.cz/czechnews/clanek.phtml?id=636689)
+2. [RTÉ](http://www.rte.ie/news/2009/0506/eulisbon.html)
 
 ### Related:
 

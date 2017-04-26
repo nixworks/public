@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Expatica Spain](http://www.expatica.com/es/news/spanish-news/-indignant--activists-refuse-to-clear-barcelona-camp_159783.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hxCVUk5Uilbie_eNlT_lYcYPH2NA?docId=CNG.353c3f251cb59a61d79f44b103256a6c.81)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hxCVUk5Uilbie_eNlT_lYcYPH2NA?docId=CNG.353c3f251cb59a61d79f44b103256a6c.81)
+2. [Expatica Spain](http://www.expatica.com/es/news/spanish-news/-indignant--activists-refuse-to-clear-barcelona-camp_159783.html)
 
 ### Related:
 

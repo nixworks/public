@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/06/uk-yemen-security-aden-hotel-idUKKCN0S009H20151006)
-2. [CNN](http://edition.cnn.com/2015/10/06/middleeast/yemen-violence/index.html)
-3. [Al-Arabiyah News](http://english.alarabiya.net/en/News/middle-east/2015/10/06/Yemen-s-VP-hotel-residence-attacked.html)
+2. [Al-Arabiyah News](http://english.alarabiya.net/en/News/middle-east/2015/10/06/Yemen-s-VP-hotel-residence-attacked.html)
+3. [CNN](http://edition.cnn.com/2015/10/06/middleeast/yemen-violence/index.html)
 
 ### Related:
 

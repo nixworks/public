@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Delo](http://www.delo.si/clanek/88028)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4678032,00.html)
-3. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/9/11/apworld/20090911204945&sec=apworld)
+1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/9/11/apworld/20090911204945&sec=apworld)
+2. [Delo](http://www.delo.si/clanek/88028)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4678032,00.html)
 
 ### Related:
 

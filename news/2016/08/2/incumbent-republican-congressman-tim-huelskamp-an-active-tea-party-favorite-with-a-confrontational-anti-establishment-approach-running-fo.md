@@ -7,8 +7,8 @@ HUTCHINSON, Kan. (AP) — Rep. Tim Huelskamp has been a thorn in the side of the
 
 ### Source:
 
-1. [McClatchy Washington Bureau'' via ''The Wichita Eagle](http://www.kansas.com/news/politics-government/election/article93371577.html)
-2. [AP](http://bigstory.ap.org/article/99ddec923ef141dfb1622d62f1871bde/physician-marshall-ousts-us-rep-huelskamp-kansas-primary)
+1. [AP](http://bigstory.ap.org/article/99ddec923ef141dfb1622d62f1871bde/physician-marshall-ousts-us-rep-huelskamp-kansas-primary)
+2. [McClatchy Washington Bureau'' via ''The Wichita Eagle](http://www.kansas.com/news/politics-government/election/article93371577.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Gov. David Ige signed an emergency proclamation on Friday in anticipation of the
 
 ### Source:
 
-1. [The Honolulu Star-Advertiser](http://www.staradvertiser.com/news/breaking/20150824_Kilo_Loke_moving_into_Northwest_Hawaiian_Islands.html?id=322716741)
-2. [Hawaii News Now](http://www.hawaiinewsnow.com/story/29912019/gov-ige-signs-emergency-proclamation-as-hurricane-ignacio-tracks-toward-state)
-3. [AP via ''The Washington Post](http://www.washingtonpost.com/national/hawaii-awaits-hurricane-while-still-recovering-from-rain/2015/08/28/6ecb56b6-4df7-11e5-80c2-106ea7fb80d4_story.html)
-4. [Maui Now](http://mauinow.com/2015/08/28/hurricanes-ignacio-jimena-expected-to-strengthen/)
+1. [Hawaii News Now](http://www.hawaiinewsnow.com/story/29912019/gov-ige-signs-emergency-proclamation-as-hurricane-ignacio-tracks-toward-state)
+2. [The Honolulu Star-Advertiser](http://www.staradvertiser.com/news/breaking/20150824_Kilo_Loke_moving_into_Northwest_Hawaiian_Islands.html?id=322716741)
+3. [Maui Now](http://mauinow.com/2015/08/28/hurricanes-ignacio-jimena-expected-to-strengthen/)
+4. [AP via ''The Washington Post](http://www.washingtonpost.com/national/hawaii-awaits-hurricane-while-still-recovering-from-rain/2015/08/28/6ecb56b6-4df7-11e5-80c2-106ea7fb80d4_story.html)
 
 ### Related:
 

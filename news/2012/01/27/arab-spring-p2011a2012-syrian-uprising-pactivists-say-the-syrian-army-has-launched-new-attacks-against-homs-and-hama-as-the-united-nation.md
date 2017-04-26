@@ -7,10 +7,10 @@ Amnesty International has called for an investigation into what it says is the m
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16756725)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012127132326703799.html)
 2. [Al Arabiya](http://english.alarabiya.net/articles/2012/01/27/190862.html)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012127132326703799.html)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-16754249)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-16754249)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-16756725)
 
 ### Related:
 

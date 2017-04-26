@@ -7,8 +7,8 @@ Despite confusion over whether Netanyahu or security cabinet took decision, anno
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/apr/24/middle-east-israel-halts-peace-talks-palestinians)
-2. [The Times of Israel](http://www.timesofisrael.com/israel-suspends-peace-talks-because-of-palestinian-unity-deal/)
+1. [The Times of Israel](http://www.timesofisrael.com/israel-suspends-peace-talks-because-of-palestinian-unity-deal/)
+2. [The Guardian](http://www.theguardian.com/world/2014/apr/24/middle-east-israel-halts-peace-talks-palestinians)
 
 ### Related:
 

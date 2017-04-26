@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080708/ap_on_re_as/afghan_explosion_24)
-2. [Reuters](http://in.reuters.com/article/domesticNews/idINISL19189120080708)
+1. [Reuters](http://in.reuters.com/article/domesticNews/idINISL19189120080708)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080708/ap_on_re_as/afghan_explosion_24)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Editor&#039;s Note: On May 11, the People&#039;s Republics of Donetsk and Luhans
 
 ### Source:
 
-1. [AP via ''Time](http://time.com/108683/ap-journalists-see-11-dead-at-ukraine-checkpoint/)
+1. [Ukrainian Policy](http://ukrainianpolicy.com/welcome-to-new-russia/)
 2. [Voice of Russia](http://voiceofrussia.com/news/2014_05_24/Donetsk-Lugansk-Peoples-Republics-unite-in-Novorossiya-1012/)
 3. [Kyiv Post](https://www.kyivpost.com/content/ukraine/ukrainian-servicement-killed-in-firefight-as-luhansk-peoples-republic-declares-martial-law-live-updates-348854.html)
-4. [Ukrainian Policy](http://ukrainianpolicy.com/welcome-to-new-russia/)
+4. [AP via ''Time](http://time.com/108683/ap-journalists-see-11-dead-at-ukraine-checkpoint/)
 
 ### Related:
 

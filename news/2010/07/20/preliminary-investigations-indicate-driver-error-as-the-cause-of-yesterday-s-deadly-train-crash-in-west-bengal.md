@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [San Jose Mercury News](http://www.mercurynews.com/nation-world/ci_15557236)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10693652)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10693652)
+2. [San Jose Mercury News](http://www.mercurynews.com/nation-world/ci_15557236)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Israeli navy yesterday seized a ship carrying what defence officials said wa
 
 ### Source:
 
-1. [New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10607438)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8341737.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8341737.stm)
+2. [New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10607438)
 
 ### Related:
 

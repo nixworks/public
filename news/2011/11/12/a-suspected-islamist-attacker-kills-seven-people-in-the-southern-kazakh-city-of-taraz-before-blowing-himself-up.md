@@ -7,9 +7,9 @@ Media in Kazakhstan cite authorities as saying that seven people, including five
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2011/11/13/world/asia/gunman-goes-on-fatal-rampage-in-kazakhstan.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gNJ8nqT-QIKBny45hZlR3VtdcU9Q?docId=CNG.5bd87fe4dd7ef5a736775fcc25089802.171)
 2. [Fox News](http://www.foxnews.com/world/2011/11/12/reports-7-killed-in-kazakhstan-terror-attack/)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gNJ8nqT-QIKBny45hZlR3VtdcU9Q?docId=CNG.5bd87fe4dd7ef5a736775fcc25089802.171)
+3. [The New York Times](http://www.nytimes.com/2011/11/13/world/asia/gunman-goes-on-fatal-rampage-in-kazakhstan.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A Nato air strike has hit two Afghan military checkpoints in a restive province 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/07/20/world/afghanistan-us-airstrike/index.html?eref=edition)
-2. [The Independent - UK](http://www.independent.co.uk/news/world/asia/seven-afghan-soldiers-killed-by-nato-air-strike-in-friendly-fire-incident-10403085.html)
+1. [The Independent - UK](http://www.independent.co.uk/news/world/asia/seven-afghan-soldiers-killed-by-nato-air-strike-in-friendly-fire-incident-10403085.html)
+2. [CNN](http://edition.cnn.com/2015/07/20/world/afghanistan-us-airstrike/index.html?eref=edition)
 
 ### Related:
 

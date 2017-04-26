@@ -8,8 +8,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 ### Source:
 
 1. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=25505)
-2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=14469&Cr=HIV&Cr1=AIDS)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8680305)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8680305)
+3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=14469&Cr=HIV&Cr1=AIDS)
 
 ### Related:
 

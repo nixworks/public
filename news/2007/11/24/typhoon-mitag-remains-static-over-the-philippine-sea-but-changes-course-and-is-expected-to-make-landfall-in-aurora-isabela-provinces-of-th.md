@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [GMANews.tv](http://www.gmanews.tv/story/69986/Mina-static-but-keeps-power-as-it-targets-Aurora-Isabela)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7109013.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7109013.stm)
+2. [GMANews.tv](http://www.gmanews.tv/story/69986/Mina-static-but-keeps-power-as-it-targets-Aurora-Isabela)
 
 ### Related:
 

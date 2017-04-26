@@ -7,9 +7,9 @@ LONDON (Reuters) - South African Cameron Van der Burgh, struggling to contain hi
 
 ### Source:
 
-1. [Chicago Tribune](http://articles.chicagotribune.com/2012-07-29/sports/sns-rt-us-oly-swim-swm1br-rsabre86s0rt-20120729_1_van-der-burgh-gold-drought-alexander-dale-oen)
-2. [AP via ''New Zealand Herald](http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=10822836)
-3. [AP via ABC News](http://abcnews.go.com/International/wireStory/ye-shiwen-china-sets-world-record-win-olympic-16878178#.UBQ952Fo3TA)
+1. [AP via ''New Zealand Herald](http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=10822836)
+2. [AP via ABC News](http://abcnews.go.com/International/wireStory/ye-shiwen-china-sets-world-record-win-olympic-16878178#.UBQ952Fo3TA)
+3. [Chicago Tribune](http://articles.chicagotribune.com/2012-07-29/sports/sns-rt-us-oly-swim-swm1br-rsabre86s0rt-20120729_1_van-der-burgh-gold-drought-alexander-dale-oen)
 4. [Sport Live](http://www.sportlive.co.za/moresport/olympics/2012/07/29/australia-women-get-olympic-record-to-win-4x100-freestyle-gold)
 
 ### Related:

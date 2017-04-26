@@ -7,12 +7,12 @@ A senior Taliban commander confirmed early Sunday the death of the group’s Afg
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/may/21/us-airstrike-taliban-leader-mullah-akhtar-mansoor)
-2. [Stripes](http://www.stripes.com/news/bomber-targets-nato-convoy-coalition-troops-not-injured-1.410778)
-3. [Fox News](http://www.foxnews.com/world/2016/05/21/afghan-taliban-leader-likely-killed-in-us-airstrike-official-says.html)
-4. [CNN](http://edition.cnn.com/2016/05/21/politics/u-s-conducted-airstrike-against-taliban-leader-mullah-mansour/)
-5. [NY Times](http://www.nytimes.com/aponline/2016/05/21/world/asia/ap-as-afghanistan.html?_r=0)
-6. [VOA News](http://www.voanews.com/content/taliban-suicide-bomber-hits-nato-convoy-near-kabul/3340089.html)
+1. [Fox News](http://www.foxnews.com/world/2016/05/21/afghan-taliban-leader-likely-killed-in-us-airstrike-official-says.html)
+2. [NY Times](http://www.nytimes.com/aponline/2016/05/21/world/asia/ap-as-afghanistan.html?_r=0)
+3. [CNN](http://edition.cnn.com/2016/05/21/politics/u-s-conducted-airstrike-against-taliban-leader-mullah-mansour/)
+4. [VOA News](http://www.voanews.com/content/taliban-suicide-bomber-hits-nato-convoy-near-kabul/3340089.html)
+5. [The Guardian](http://www.theguardian.com/world/2016/may/21/us-airstrike-taliban-leader-mullah-akhtar-mansoor)
+6. [Stripes](http://www.stripes.com/news/bomber-targets-nato-convoy-coalition-troops-not-injured-1.410778)
 
 ### Related:
 

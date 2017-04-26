@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-14T131247Z_01_SCH447513_RTRIDST_0_OUKOE-ZIMBABWE-ATHLETE.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4681285.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4681285.stm)
+2. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-14T131247Z_01_SCH447513_RTRIDST_0_OUKOE-ZIMBABWE-ATHLETE.XML)
 
 ### Related:
 

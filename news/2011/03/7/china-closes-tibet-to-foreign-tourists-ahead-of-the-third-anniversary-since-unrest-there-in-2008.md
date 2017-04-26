@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jj8wCSjUdwTXCxR94Wfc1xDWkRAg?docId=CNG.49104d077a72cbffeafe9d3689e92793.f51)
-2. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4695288)
+1. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4695288)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jj8wCSjUdwTXCxR94Wfc1xDWkRAg?docId=CNG.49104d077a72cbffeafe9d3689e92793.f51)
 
 ### Related:
 

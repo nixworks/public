@@ -7,8 +7,8 @@ Turkish warplanes attacked a village in northern Iraq on Wednesday, an Iraqi Kur
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL1354608620071024?feedType=RSS&feedName=topNews)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSCOL46918720071024?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/topNews/idUSCOL46918720071024?feedType=RSS&feedName=topNews)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSL1354608620071024?feedType=RSS&feedName=topNews)
 
 ### Related:
 

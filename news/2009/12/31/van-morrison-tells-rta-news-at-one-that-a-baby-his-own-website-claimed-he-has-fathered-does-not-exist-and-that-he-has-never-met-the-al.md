@@ -7,11 +7,11 @@ Van Morrison has exclusively told RTÉ Radio&#39;s News at One that his official
 
 ### Source:
 
-1. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article6972903.ece)
+1. [RTÉ](http://www.rte.ie/news/2009/1231/morrisonv.html)
 2. [ABC News](http://abcnews.go.com/Entertainment/wireStory?id=9456607)
-3. [The Guardian](http://www.guardian.co.uk/music/2009/dec/31/van-morrison-hoax-announcement-baby)
-4. [RTÉ](http://www.rte.ie/news/2009/1231/morrisonv.html)
-5. [Statement](http://www.rte.ie/news/2009/1231/morrisonvstatement.html)
+3. [Statement](http://www.rte.ie/news/2009/1231/morrisonvstatement.html)
+4. [The Guardian](http://www.guardian.co.uk/music/2009/dec/31/van-morrison-hoax-announcement-baby)
+5. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article6972903.ece)
 
 ### Related:
 

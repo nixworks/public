@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/oct/04/brazil-presidential-elections-dilma-rousseff)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010102232331405902.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010102232331405902.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/oct/04/brazil-presidential-elections-dilma-rousseff)
 
 ### Related:
 

@@ -7,8 +7,8 @@ An explosion at around 10 a.m. Monday at controversial Yasukuni Shrine damages t
 
 ### Source:
 
-1. [Japan Times](http://www.japantimes.co.jp/news/2015/11/23/national/crime-legal/explosion-damages-toilet-at-japans-controversial-yasukuni-shrine/#.VlKx-F5BnYv)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/explosion-reported-japans-controversial-yasukuni-shrine-35364989)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/explosion-reported-japans-controversial-yasukuni-shrine-35364989)
+2. [Japan Times](http://www.japantimes.co.jp/news/2015/11/23/national/crime-legal/explosion-damages-toilet-at-japans-controversial-yasukuni-shrine/#.VlKx-F5BnYv)
 
 ### Related:
 

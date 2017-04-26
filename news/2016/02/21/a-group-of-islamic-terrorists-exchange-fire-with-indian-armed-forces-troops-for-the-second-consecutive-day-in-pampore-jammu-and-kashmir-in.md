@@ -7,8 +7,8 @@ Indian army troops have encircled militants in a government-run training institu
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2016/02/21/Kashmir-Indian-troops-surround-militants-in-government-buildings/9841456082580/)
-2. [ABC News](http://abcnews.go.com/International/wireStory/rebel-standoff-kashmir-enters-2nd-dead-13-wounded-37091568)
+1. [ABC News](http://abcnews.go.com/International/wireStory/rebel-standoff-kashmir-enters-2nd-dead-13-wounded-37091568)
+2. [UPI](http://www.upi.com/Top_News/World-News/2016/02/21/Kashmir-Indian-troops-surround-militants-in-government-buildings/9841456082580/)
 
 ### Related:
 

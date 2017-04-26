@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4718328.stm)
-2. [CNN](http://edition.cnn.com/2006/WORLD/meast/02/16/abughraib.photos/)
+1. [CNN](http://edition.cnn.com/2006/WORLD/meast/02/16/abughraib.photos/)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4718328.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A Pakistani Army major, who was until recently a serving officer, has been arres
 
 ### Source:
 
-1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/7772507/Times-Square-bomb-plot-Pakistani-Army-major-arrested.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201052785551672840.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201052785551672840.html)
+2. [Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/7772507/Times-Square-bomb-plot-Pakistani-Army-major-arrested.html)
 
 ### Related:
 

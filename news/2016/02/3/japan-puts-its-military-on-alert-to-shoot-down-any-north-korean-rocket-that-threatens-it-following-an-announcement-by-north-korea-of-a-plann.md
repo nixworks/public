@@ -7,8 +7,8 @@ International pressure grew on North Korea to call off a planned rocket launch, 
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2016/02/03/south-korea-warns-north-korea-not-to-launch-long-range-rocket.html)
-2. [Reuters](http://www.reuters.com/article/us-northkorea-satellite-idUSKCN0VB1NY?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/us-northkorea-satellite-idUSKCN0VB1NY?feedType=RSS&feedName=topNews)
+2. [Fox News](http://www.foxnews.com/world/2016/02/03/south-korea-warns-north-korea-not-to-launch-long-range-rocket.html)
 
 ### Related:
 

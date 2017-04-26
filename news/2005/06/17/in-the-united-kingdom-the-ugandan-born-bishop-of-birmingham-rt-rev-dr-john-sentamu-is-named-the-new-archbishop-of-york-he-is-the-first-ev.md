@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-06-17T085010Z_01_SCH731728_RTRUKOC_0_RELIGION-BRITAIN.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/4102582.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/4102582.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-06-17T085010Z_01_SCH731728_RTRUKOC_0_RELIGION-BRITAIN.xml)
 
 ### Related:
 

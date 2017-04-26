@@ -7,8 +7,8 @@ With Rajasthan govt coming up with &quot;intimidating&quot; riders, organizers h
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/city/jaipur/Salman-Rushdie-shadow-on-Jaipur-Literature-Festival-4-authors-who-read-from-The-Satanic-Verses-sent-packing/articleshow/11595228.cms)
-2. [The Times of India](http://timesofindia.indiatimes.com/city/jaipur/Jaipur-Literature-Festival-Even-a-virtual-Rushdie-is-unwelcome-for-Rajasthan-govt/articleshow/11609354.cms)
+1. [The Times of India](http://timesofindia.indiatimes.com/city/jaipur/Jaipur-Literature-Festival-Even-a-virtual-Rushdie-is-unwelcome-for-Rajasthan-govt/articleshow/11609354.cms)
+2. [The Times of India](http://timesofindia.indiatimes.com/city/jaipur/Salman-Rushdie-shadow-on-Jaipur-Literature-Festival-4-authors-who-read-from-The-Satanic-Verses-sent-packing/articleshow/11595228.cms)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/world/20091012/156439112.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/8302140.stm)
-3. [China Daily](http://www.chinadaily.com.cn/china/2009xinjiangriot/2009-10/12/content_8782419.htm)
-4. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=446419)
+1. [China Daily](http://www.chinadaily.com.cn/china/2009xinjiangriot/2009-10/12/content_8782419.htm)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=446419)
+3. [RIA Novosti](http://en.rian.ru/world/20091012/156439112.html)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/8302140.stm)
 
 ### Related:
 

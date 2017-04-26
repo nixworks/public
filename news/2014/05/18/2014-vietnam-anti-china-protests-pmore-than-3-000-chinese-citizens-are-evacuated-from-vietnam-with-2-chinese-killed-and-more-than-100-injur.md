@@ -7,8 +7,8 @@ More than 3,000 Chinese nationals have been evacuated from Vietnam, state news a
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2014/05/18/uk-china-vietnam-idINKBN0DY01L20140518)
-2. [CNN](http://www.cnn.com/2014/05/18/world/asia/vietnam-china-tensions/)
+1. [CNN](http://www.cnn.com/2014/05/18/world/asia/vietnam-china-tensions/)
+2. [Reuters](http://in.reuters.com/article/2014/05/18/uk-china-vietnam-idINKBN0DY01L20140518)
 
 ### Related:
 

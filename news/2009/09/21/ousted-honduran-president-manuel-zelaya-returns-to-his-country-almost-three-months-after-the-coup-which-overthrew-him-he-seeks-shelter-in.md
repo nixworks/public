@@ -7,11 +7,11 @@ Ousted Honduran President Manuel Zelaya has returned to his country, nearly thre
 
 ### Source:
 
-1. [MercoPress](http://en.mercopress.com/2009/09/21/ousted-zelaya-in-back-in-honduras-and-calls-for-dialogue)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58K3JY20090921)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hb3LUciR3gBHn6x7f4BBQHIPYZPQD9AS3F901)
-4. [BBC](http://news.bbc.co.uk/2/hi/americas/8267775.stm)
-5. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hb3LUciR3gBHn6x7f4BBQHIPYZPQD9ARV9683)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hb3LUciR3gBHn6x7f4BBQHIPYZPQD9ARV9683)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hb3LUciR3gBHn6x7f4BBQHIPYZPQD9AS3F901)
+3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58K3JY20090921)
+4. [MercoPress](http://en.mercopress.com/2009/09/21/ousted-zelaya-in-back-in-honduras-and-calls-for-dialogue)
+5. [BBC](http://news.bbc.co.uk/2/hi/americas/8267775.stm)
 
 ### Related:
 

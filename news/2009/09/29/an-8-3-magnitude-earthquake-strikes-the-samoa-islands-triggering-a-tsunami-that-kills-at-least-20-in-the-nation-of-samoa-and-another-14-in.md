@@ -7,8 +7,8 @@ Authorities canceled a Pacific tsunami warning on Wednesday after a huge sub-sea
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSN2916050620090929)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8281616.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8281616.stm)
+2. [Reuters](http://www.reuters.com/article/newsOne/idUSN2916050620090929)
 
 ### Related:
 

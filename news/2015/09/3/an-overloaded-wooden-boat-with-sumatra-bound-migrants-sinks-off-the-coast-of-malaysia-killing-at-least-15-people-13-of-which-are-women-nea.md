@@ -7,9 +7,9 @@ An overloaded wooden boat believed to be carrying dozens of Indonesian illegal i
 
 ### Source:
 
-1. [Malaysian Star](http://www.thestar.com.my/News/Nation/2015/09/04/40-Indonesians-missing-at-sea-Boat-ferrying-illegal-immigrants-home-capsizes-off-Sabak-Bernam/)
+1. [The NY Daily News](http://www.nydailynews.com/news/world/boat-100-migrants-capsizes-malaysia-dead-article-1.2347017)
 2. [Reuters](http://in.reuters.com/article/2015/09/03/malaysia-boat-capsized-idINKCN0R30CX20150903)
-3. [The NY Daily News](http://www.nydailynews.com/news/world/boat-100-migrants-capsizes-malaysia-dead-article-1.2347017)
+3. [Malaysian Star](http://www.thestar.com.my/News/Nation/2015/09/04/40-Indonesians-missing-at-sea-Boat-ferrying-illegal-immigrants-home-capsizes-off-Sabak-Bernam/)
 
 ### Related:
 

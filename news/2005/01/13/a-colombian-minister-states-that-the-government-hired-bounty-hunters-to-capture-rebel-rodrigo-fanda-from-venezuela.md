@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/4169517.stm)
+1. [New York Times](http://www.nytimes.com/2005/01/13/international/americas/13colombia.html)
 2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N12416819.htm)
-3. [New York Times](http://www.nytimes.com/2005/01/13/international/americas/13colombia.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/americas/4169517.stm)
 
 ### Related:
 

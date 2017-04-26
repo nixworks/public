@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Suisse Sports Awards](http://www.sports-awards.ch/index.cfm?setcatlist=11&publication_id=53&publication_action=dsp_publicationdetail&content=501090&paragraph=1&spr=de)
-2. [CDT.ch](http://www.cdt.ch/sport/tutto-sport/75018/federer-e-la-spirig-sportivi-dell-anno.html)
+1. [CDT.ch](http://www.cdt.ch/sport/tutto-sport/75018/federer-e-la-spirig-sportivi-dell-anno.html)
+2. [Suisse Sports Awards](http://www.sports-awards.ch/index.cfm?setcatlist=11&publication_id=53&publication_action=dsp_publicationdetail&content=501090&paragraph=1&spr=de)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Geert Wilders&#8217; testimony will take so long to be heard at his trial for in
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/20/netherlands.geert.wilders/)
-2. [Dutchnew.nl](http://www.dutchnews.nl/news/archives/2010/01/wilders_trial_for_inciting_hat.php)
-3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6995253.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6995253.ece)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/20/netherlands.geert.wilders/)
+3. [Dutchnew.nl](http://www.dutchnews.nl/news/archives/2010/01/wilders_trial_for_inciting_hat.php)
 
 ### Related:
 

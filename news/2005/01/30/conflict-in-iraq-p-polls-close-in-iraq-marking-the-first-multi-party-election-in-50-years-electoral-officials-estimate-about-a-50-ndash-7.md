@@ -7,9 +7,9 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4220551.stm)
-2. [CNN](http://www.cnn.com/2005/WORLD/meast/01/30/iraq.britishplane/)
-3. [Reuters] [http://www.news24.com/News24/World/Iraq/0,,2-10-1460_1654779,00.html News24]  ¶ Between nine and fifteen [[United Kingdom|British]] soldiers die as a [[C-130 Hercules]] transport plane crashes about 40km north west of [[Baghdad]]. The cause of the crash is under investigation. [http://news.bbc.co.uk/1/hi/world/middle_east/4220649.stm (BBC](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7476343)
+1. [CNN](http://www.cnn.com/2005/WORLD/meast/01/30/iraq.britishplane/)
+2. [Reuters] [http://www.news24.com/News24/World/Iraq/0,,2-10-1460_1654779,00.html News24]  ¶ Between nine and fifteen [[United Kingdom|British]] soldiers die as a [[C-130 Hercules]] transport plane crashes about 40km north west of [[Baghdad]]. The cause of the crash is under investigation. [http://news.bbc.co.uk/1/hi/world/middle_east/4220649.stm (BBC](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7476343)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4220551.stm)
 
 ### Related:
 

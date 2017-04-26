@@ -7,8 +7,8 @@ Scores of protesters including two prominent student leaders are arrested in Mon
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-china-30204699)
-2. [Reuters](http://www.reuters.com/article/2014/11/26/us-hongkong-china-idUSKCN0JA04H20141126)
+1. [Reuters](http://www.reuters.com/article/2014/11/26/us-hongkong-china-idUSKCN0JA04H20141126)
+2. [BBC](http://www.bbc.com/news/world-asia-china-30204699)
 
 ### Related:
 

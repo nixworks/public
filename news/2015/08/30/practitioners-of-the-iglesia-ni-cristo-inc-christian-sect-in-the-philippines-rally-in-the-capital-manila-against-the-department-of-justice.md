@@ -7,8 +7,8 @@ Members of the Iglesia ni Cristo will gather in major cities across the country,
 
 ### Source:
 
-1. [The Philippine Star](http://www.philstar.com/headlines/2015/08/31/1494182/iglesia-sets-nationwide-protests-vs-doj-probe)
-2. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/thousands-protest-in/2083984.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/thousands-protest-in/2083984.html)
+2. [The Philippine Star](http://www.philstar.com/headlines/2015/08/31/1494182/iglesia-sets-nationwide-protests-vs-doj-probe)
 
 ### Related:
 

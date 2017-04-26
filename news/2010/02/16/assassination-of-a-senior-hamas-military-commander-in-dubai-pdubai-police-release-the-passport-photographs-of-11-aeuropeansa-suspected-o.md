@@ -7,8 +7,8 @@ Members of a suspected hit squad blamed for the assassination of a Hamas command
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8516901.stm)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/dubai/7250914/Dubai-Hamas-assassination-suspects-used-fake-passports.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/dubai/7250914/Dubai-Hamas-assassination-suspects-used-fake-passports.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8516901.stm)
 
 ### Related:
 

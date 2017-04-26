@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/WORLD/meast/02/14/beirut.explosion.ap/)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-02-14T112231Z_01_DEN439971_RTRUKOC_0_LEBANON-BLAST.xml)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4263893.stm)
-3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-02-14T112231Z_01_DEN439971_RTRUKOC_0_LEBANON-BLAST.xml)
+3. [CNN](http://www.cnn.com/2005/WORLD/meast/02/14/beirut.explosion.ap/)
 
 ### Related:
 

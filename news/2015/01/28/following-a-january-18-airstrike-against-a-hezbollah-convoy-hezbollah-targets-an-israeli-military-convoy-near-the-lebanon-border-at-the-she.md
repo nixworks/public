@@ -7,9 +7,9 @@ Two Israeli soldiers and a Spanish UN peacekeeper are killed as Hezbollah milita
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/01/28/world/mideast-golan/)
-2. [Reuters](http://www.reuters.com/article/2015/01/28/mideast-israel-lebanon-un-idUSL6N0V72UB20150128)
-3. [BBC](http://www.bbc.com/news/world-middle-east-31015862)
+1. [Reuters](http://www.reuters.com/article/2015/01/28/mideast-israel-lebanon-un-idUSL6N0V72UB20150128)
+2. [BBC](http://www.bbc.com/news/world-middle-east-31015862)
+3. [CNN](http://edition.cnn.com/2015/01/28/world/mideast-golan/)
 
 ### Related:
 

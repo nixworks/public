@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/8476474.stm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/americas/01/23/haiti.earthquake/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/01/23/haiti.earthquake/)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8476474.stm)
 
 ### Related:
 

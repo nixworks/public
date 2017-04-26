@@ -7,8 +7,8 @@ A car bomb has exploded near a civil guards barracks in Burgos in northern Spain
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Car-Bomb-Blast-Dozens-Hurt-In-Explosion-Outside-Police-Barracks-In-Northern-Spanish-City-Of-Burgos/Article/200907415348508?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15348508_Car_Bomb_Blast%3A_Dozens_Hurt_In_Explosion_Outside_Police_Barracks_In_Northern_Spanish_City_Of_Burgos)
-2. [RTÉ](http://www.rte.ie/news/2009/0729/spain.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0729/spain.html)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Car-Bomb-Blast-Dozens-Hurt-In-Explosion-Outside-Police-Barracks-In-Northern-Spanish-City-Of-Burgos/Article/200907415348508?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15348508_Car_Bomb_Blast%3A_Dozens_Hurt_In_Explosion_Outside_Police_Barracks_In_Northern_Spanish_City_Of_Burgos)
 
 ### Related:
 

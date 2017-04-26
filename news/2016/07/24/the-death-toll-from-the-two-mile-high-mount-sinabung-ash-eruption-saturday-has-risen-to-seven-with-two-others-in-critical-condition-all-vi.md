@@ -7,8 +7,8 @@ A volcanic eruption has killed 7 in Indonesia.
 
 ### Source:
 
-1. [Weather Channel](https://weather.com/news/news/indonesia-sumatra-mount-sinabung-eruption-may-2016)
-2. [Bangkok Post](http://www.bangkokpost.com/archive/3-die-as-sumatra-volcano-erupts/982513)
+1. [Bangkok Post](http://www.bangkokpost.com/archive/3-die-as-sumatra-volcano-erupts/982513)
+2. [Weather Channel](https://weather.com/news/news/indonesia-sumatra-mount-sinabung-eruption-may-2016)
 
 ### Related:
 

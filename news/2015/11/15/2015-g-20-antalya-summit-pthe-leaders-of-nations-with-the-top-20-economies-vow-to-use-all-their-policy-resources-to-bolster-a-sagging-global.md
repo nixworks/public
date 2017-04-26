@@ -7,13 +7,13 @@ The series of terrorist attacks that killed more than 120 people in Paris on Fri
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/ba265c3816d344e6a18e3ce31fea18fb/obama-putin-huddle-sidelines-g-20-summit)
-2. [New York Times](http://www.nytimes.com/2015/11/15/us/politics/paris-attacks-to-dominate-agenda-at-g-20-conference-in-turkey.html)
+1. [NBC News](http://www.nbcnews.com/storyline/paris-terror-attacks/obama-putin-go-head-head-g20-sidelines-n463821)
+2. [RT](https://www.rt.com/news/322199-putin-obama-g20-summit/)
 3. [CNN Money](http://money.cnn.com/2015/11/15/news/economy/paris-attack-g20-summit/index.html)
-4. [Reuters](http://www.reuters.com/article/2015/11/15/us-g20-turkey-idUSKCN0T409Y20151115#THuWoeUQXtI6GhXZ.97)
-5. [Reuters](http://uk.reuters.com/article/2015/11/15/uk-g20-turkey-communique-idUKKCN0T40N420151115)
-6. [NBC News](http://www.nbcnews.com/storyline/paris-terror-attacks/obama-putin-go-head-head-g20-sidelines-n463821)
-7. [RT](https://www.rt.com/news/322199-putin-obama-g20-summit/)
+4. [Reuters](http://uk.reuters.com/article/2015/11/15/uk-g20-turkey-communique-idUKKCN0T40N420151115)
+5. [New York Times](http://www.nytimes.com/2015/11/15/us/politics/paris-attacks-to-dominate-agenda-at-g-20-conference-in-turkey.html)
+6. [AP](http://bigstory.ap.org/article/ba265c3816d344e6a18e3ce31fea18fb/obama-putin-huddle-sidelines-g-20-summit)
+7. [Reuters](http://www.reuters.com/article/2015/11/15/us-g20-turkey-idUSKCN0T409Y20151115#THuWoeUQXtI6GhXZ.97)
 
 ### Related:
 

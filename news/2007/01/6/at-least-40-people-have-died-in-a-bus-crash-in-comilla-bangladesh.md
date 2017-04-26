@@ -7,8 +7,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/6236625.stm)
-2. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/01/06/ubus106.xml)
+1. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/01/06/ubus106.xml)
+2. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/6236625.stm)
 
 ### Related:
 

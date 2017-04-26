@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Heritage Foundation | 2005 Index](http://www.heritage.org/research/features/index/)
-2. [Financial Times](http://news.ft.com/cms/s/2dafc3a8-5ebe-11d9-9c66-00000e2511c8.html)
+1. [Financial Times](http://news.ft.com/cms/s/2dafc3a8-5ebe-11d9-9c66-00000e2511c8.html)
+2. [The Heritage Foundation | 2005 Index](http://www.heritage.org/research/features/index/)
 
 ### Related:
 

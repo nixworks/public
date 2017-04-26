@@ -7,8 +7,8 @@ A Russian finalist in the World Sauna Championships in Finland dies and his riva
 
 ### Source:
 
-1. [The Age](http://news.theage.com.au/breaking-news-world/russian-dies-at-finland-sauna-contest-20100808-11prp.html)
-2. [BBC News](http://www.bbc.co.uk/news/world-europe-10904691)
+1. [BBC News](http://www.bbc.co.uk/news/world-europe-10904691)
+2. [The Age](http://news.theage.com.au/breaking-news-world/russian-dies-at-finland-sauna-contest-20100808-11prp.html)
 
 ### Related:
 

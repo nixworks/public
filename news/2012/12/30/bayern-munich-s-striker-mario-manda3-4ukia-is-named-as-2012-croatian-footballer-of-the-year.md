@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [HRSport.net](http://www.hrsport.net/vijesti/453302/nogomet-reprezentacija/mariju-mandzukicu-naslov-najboljeg-hrvatskog-nogometasa-u-2012-godini/)
-2. [Goal.com](http://www.goal.com/de/news/827/bundesliga/2012/12/30/3638485/mario-mandzukic-ist-kroatiens-fu%C3%9Fballer-des-jahres)
+1. [Goal.com](http://www.goal.com/de/news/827/bundesliga/2012/12/30/3638485/mario-mandzukic-ist-kroatiens-fu%C3%9Fballer-des-jahres)
+2. [HRSport.net](http://www.hrsport.net/vijesti/453302/nogomet-reprezentacija/mariju-mandzukicu-naslov-najboljeg-hrvatskog-nogometasa-u-2012-godini/)
 
 ### Related:
 

@@ -8,8 +8,8 @@ THREE days to the deadline for militants in the Niger-Delta to lay down their ar
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jh7NbzYu7Vi-av87cgR7sdn1m2lg)
-2. [Vanguard](http://www.vanguardngr.com/2009/10/02/amnesty-top-militant-ateke-tom-surrenders/comment-page-1/)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8285788.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8285788.stm)
+3. [Vanguard](http://www.vanguardngr.com/2009/10/02/amnesty-top-militant-ateke-tom-surrenders/comment-page-1/)
 
 ### Related:
 

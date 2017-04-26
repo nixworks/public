@@ -7,9 +7,9 @@ Carly Fiorina will join 10 other Republican presidential hopefuls at the next pr
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/09/10/politics/cnn-reagan-debate-lineup/)
-2. [National Journal](http://www.nationaljournal.com/hotline/2014/09/03/Wehby-Ad-Highlights-Medical-Career?mref=scroll)
-3. [Boston Herald](http://www.bostonherald.com/news_opinion/us_politics/2015/09/carly_fiorina_makes_it_to_main_stage_at_cnns_next_gop_debate)
+1. [Boston Herald](http://www.bostonherald.com/news_opinion/us_politics/2015/09/carly_fiorina_makes_it_to_main_stage_at_cnns_next_gop_debate)
+2. [CNN](http://www.cnn.com/2015/09/10/politics/cnn-reagan-debate-lineup/)
+3. [National Journal](http://www.nationaljournal.com/hotline/2014/09/03/Wehby-Ad-Highlights-Medical-Career?mref=scroll)
 4. [ABC Go](http://abcnews.go.com/Politics/rick-perry-drops-2016-presidential-race/story?id=33696891)
 
 ### Related:

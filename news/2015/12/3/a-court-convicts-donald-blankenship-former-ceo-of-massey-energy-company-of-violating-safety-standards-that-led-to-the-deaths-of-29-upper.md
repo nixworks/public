@@ -7,8 +7,8 @@ For those hoping for a harsher penalty, the compromise verdict was disappointing
 
 ### Source:
 
-1. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/03/456533421/former-coal-ceo-blankenship-found-guilty-of-conspiracy-in-mine-disaster-case)
-2. [The New York Times](http://www.nytimes.com/2015/12/04/us/donald-blankenship-massey-energy-upper-big-branch-mine.html)
+1. [The New York Times](http://www.nytimes.com/2015/12/04/us/donald-blankenship-massey-energy-upper-big-branch-mine.html)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/03/456533421/former-coal-ceo-blankenship-found-guilty-of-conspiracy-in-mine-disaster-case)
 3. [The Christian Science Monitor](http://www.csmonitor.com/USA/USA-Update/2015/1203/Why-coal-CEO-found-guilty-of-misdemeanor-in-miner-deaths)
 4. [The New Yorker](http://www.newyorker.com/business/currency/don-blankenship-west-virginias-king-of-coal-is-guilty)
 

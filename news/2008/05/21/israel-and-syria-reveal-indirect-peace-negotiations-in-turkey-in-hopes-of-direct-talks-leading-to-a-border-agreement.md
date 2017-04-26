@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/05/21/AR2008052100126.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7411835.stm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aAvYW2GSUA7U&refer=africa)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aAvYW2GSUA7U&refer=africa)
+3. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7411835.stm)
 
 ### Related:
 

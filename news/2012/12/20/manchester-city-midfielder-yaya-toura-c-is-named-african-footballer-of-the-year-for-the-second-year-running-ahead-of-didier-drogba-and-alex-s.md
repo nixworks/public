@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MTN Football](http://www.mtnfootball.com/africa/ghana/news/2012/december/zambia-coach-herve-renard-wins-african-coach-of-the-year-award.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/20806577)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/20806577)
+2. [MTN Football](http://www.mtnfootball.com/africa/ghana/news/2012/december/zambia-coach-herve-renard-wins-african-coach-of-the-year-award.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The trial starts of eight officers charged with the murder of prominent human ri
 
 ### Source:
 
-1. [AllAfrica.com](http://allafrica.com/stories/201011120770.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11742201)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11742201)
+2. [AllAfrica.com](http://allafrica.com/stories/201011120770.html)
 
 ### Related:
 

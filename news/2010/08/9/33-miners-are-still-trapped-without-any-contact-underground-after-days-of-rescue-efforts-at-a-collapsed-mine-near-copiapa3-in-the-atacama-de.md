@@ -7,9 +7,9 @@ Rescuers in Chile drill shafts for oxygen, water and food in a bid to rescue 33 
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net//news/americas/2010/08/201086235533819605.html)
-2. [Reuters India](http://in.reuters.com/article/idINIndia-50722720100809?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-10917304)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10917304)
+2. [Aljazeera](http://english.aljazeera.net//news/americas/2010/08/201086235533819605.html)
+3. [Reuters India](http://in.reuters.com/article/idINIndia-50722720100809?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
 
 ### Related:
 

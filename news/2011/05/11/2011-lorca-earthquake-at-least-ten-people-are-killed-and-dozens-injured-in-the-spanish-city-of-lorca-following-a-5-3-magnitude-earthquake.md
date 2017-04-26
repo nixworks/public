@@ -7,9 +7,9 @@ Two strong earthquakes in quick succession rattle southern Spain, toppling build
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13368599)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-1386019/Spain-earthquake-Five-killed-5-3-earthquake-strikes-southern-Spain.html)
 2. [AP via MSNBC](http://www.msnbc.msn.com/id/42993156/ns/world_news-europe/)
-3. [Daily Mail](http://www.dailymail.co.uk/news/article-1386019/Spain-earthquake-Five-killed-5-3-earthquake-strikes-southern-Spain.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-13368599)
 
 ### Related:
 

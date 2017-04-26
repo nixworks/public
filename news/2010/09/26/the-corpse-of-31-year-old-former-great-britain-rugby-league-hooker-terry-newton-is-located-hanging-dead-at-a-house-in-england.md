@@ -7,10 +7,10 @@ The former Great Britain hooker, Terry Newton, has been found dead at his home a
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/sport/general/rugby-league/exgreat-britain-star-newton-found-dead-2090480.html)
-2. [BBC News](http://www.bbc.co.uk/news/uk-england-11414736)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/rugbyleague/8026313/Terry-Newton-found-dead-at-home-aged-31.html)
-4. [The Guardian](http://www.guardian.co.uk/sport/2010/sep/26/terry-newton-found-hanged-rugby)
+1. [BBC News](http://www.bbc.co.uk/news/uk-england-11414736)
+2. [The Independent](http://www.independent.co.uk/sport/general/rugby-league/exgreat-britain-star-newton-found-dead-2090480.html)
+3. [The Guardian](http://www.guardian.co.uk/sport/2010/sep/26/terry-newton-found-hanged-rugby)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/rugbyleague/8026313/Terry-Newton-found-dead-at-home-aged-31.html)
 
 ### Related:
 

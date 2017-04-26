@@ -7,8 +7,8 @@ A second cub was born less than five hours after its sibling, launching a new ch
 
 ### Source:
 
-1. [Zoo's Facebook page](https://www.facebook.com/nationalzoo)
-2. [The Washington Post](http://www.washingtonpost.com/local/giant-panda-preparing-to-give-birth-national-zoo-says/2015/08/22/bba0fd2c-4804-11e5-8ab4-c73967a143d3_story.html)
+1. [The Washington Post](http://www.washingtonpost.com/local/giant-panda-preparing-to-give-birth-national-zoo-says/2015/08/22/bba0fd2c-4804-11e5-8ab4-c73967a143d3_story.html)
+2. [Zoo's Facebook page](https://www.facebook.com/nationalzoo)
 
 ### Related:
 

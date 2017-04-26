@@ -7,9 +7,9 @@ A fierce encounter took place on Wednesday between a police party of 75 personne
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10866353)
-2. [The Times of India](http://timesofindia.indiatimes.com/india/Encounter-on-between-Maoists-cops-in-Chhattisgarh/articleshow/6256151.cms)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201084131150549882.html)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201084131150549882.html)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10866353)
+3. [The Times of India](http://timesofindia.indiatimes.com/india/Encounter-on-between-Maoists-cops-in-Chhattisgarh/articleshow/6256151.cms)
 
 ### Related:
 

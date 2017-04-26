@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [People's Daily Online](http://english.peopledaily.com.cn/90001/90777/90852/6962728.html)
-2. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Politician-fatally-shot-outside-his-home-in-southern-Mexico/articleshow/5857857.cms)
+1. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Politician-fatally-shot-outside-his-home-in-southern-Mexico/articleshow/5857857.cms)
+2. [People's Daily Online](http://english.peopledaily.com.cn/90001/90777/90852/6962728.html)
 
 ### Related:
 

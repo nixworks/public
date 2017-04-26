@@ -7,8 +7,8 @@ Greek PM Alexis Tsipras calls a referendum on 5 July on a bailout plan offered b
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2015/06/26/eurozone-greece-kammenos-idINA8N0Z301K20150626)
-2. [BBC](http://www.bbc.com/news/world-europe-33296839?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [BBC](http://www.bbc.com/news/world-europe-33296839?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [Reuters](http://in.reuters.com/article/2015/06/26/eurozone-greece-kammenos-idINA8N0Z301K20150626)
 
 ### Related:
 

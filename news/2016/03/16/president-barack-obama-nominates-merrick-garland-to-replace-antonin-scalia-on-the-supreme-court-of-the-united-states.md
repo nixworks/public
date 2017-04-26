@@ -7,8 +7,8 @@ President Obama nominates veteran judge Merrick Garland to be the next US Suprem
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/03/16/politics/obama-supreme-court-announcement/index.html)
-2. [BBC](http://www.bbc.com/news/world-us-canada-35823234)
+1. [BBC](http://www.bbc.com/news/world-us-canada-35823234)
+2. [CNN](http://edition.cnn.com/2016/03/16/politics/obama-supreme-court-announcement/index.html)
 
 ### Related:
 

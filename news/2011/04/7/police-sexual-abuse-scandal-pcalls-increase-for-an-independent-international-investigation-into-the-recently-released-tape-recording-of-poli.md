@@ -8,11 +8,11 @@ ANOTHER Corrib Gas protester has released details of a conversation he had with 
 ### Source:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0407/1224294101483.html)
-2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/second-abusive-garda-recording-revealed-15139080.html)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0407/breaking41.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0407/breaking41.html)
+3. [RTÉ](http://www.rte.ie/news/2011/0407/corrib.html)
 4. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/woman-at-centre-of-corrib-tape-incident-demands-inquiry-500316.html)
 5. [TV3](http://www.tv3.ie/article.php?article_id=56963&locID=1.2&pagename=news)
-6. [RTÉ](http://www.rte.ie/news/2011/0407/corrib.html)
+6. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/second-abusive-garda-recording-revealed-15139080.html)
 7. [UK Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5h6dhpjZ3j1bJtYo67mPWhUqX8_lg?docId=N0452741302169141497A)
 
 ### Related:

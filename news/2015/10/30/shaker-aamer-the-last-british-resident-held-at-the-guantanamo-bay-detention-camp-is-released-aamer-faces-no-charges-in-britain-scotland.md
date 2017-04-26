@@ -7,8 +7,8 @@ British resident Shaker Aamer, who spent 13 years in Guantanamo Bay, arrives bac
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/uk-34675324#)
-2. [AP via Seattle Times](http://www.seattletimes.com/nation-world/guantnamo-detainee-shaker-aamer-freed-after-13-years/)
+1. [AP via Seattle Times](http://www.seattletimes.com/nation-world/guantnamo-detainee-shaker-aamer-freed-after-13-years/)
+2. [BBC](http://www.bbc.com/news/uk-34675324#)
 
 ### Related:
 

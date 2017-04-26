@@ -7,9 +7,9 @@ Bayern Munich announce that former Barcelona boss Pep Guardiola will take over a
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1301378/pep-guardiola-to-take-over-at-bayern-munich)
-2. [AP via USA Today](http://www.usatoday.com/story/sports/soccer/2013/01/16/pep-guardiola-to-become-bayern-munich-coach/1839305/)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/21048679)
+1. [AP via USA Today](http://www.usatoday.com/story/sports/soccer/2013/01/16/pep-guardiola-to-become-bayern-munich-coach/1839305/)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/21048679)
+3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1301378/pep-guardiola-to-take-over-at-bayern-munich)
 
 ### Related:
 

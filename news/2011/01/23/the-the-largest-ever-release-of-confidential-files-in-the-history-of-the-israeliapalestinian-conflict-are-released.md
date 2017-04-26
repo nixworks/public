@@ -7,10 +7,10 @@ Al Jazeera has obtained more than 1,600 internal documents from a decade of Isra
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/palestinepapers/2011/01/201112214310263628.html)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=204914)
+1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=204916)
+2. [Al Jazeera](http://english.aljazeera.net/palestinepapers/2011/01/201112214310263628.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/jan/23/palestine-papers-expose-peace-concession)
-4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=204916)
+4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=204914)
 
 ### Related:
 

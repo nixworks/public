@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Nigerian Guardian](http://www.ngrguardiannews.com/news/national-news/196944-nigerien-chadian-forces-repel-boko-haram-attack)
-2. [AP via St Louis Post Dispatch](http://www.stltoday.com/news/world/boko-haram-attacks-town-inside-niger-after-cameroon/article_d77e8109-715a-5757-9a45-82221d8d17d1.html)
+1. [AP via St Louis Post Dispatch](http://www.stltoday.com/news/world/boko-haram-attacks-town-inside-niger-after-cameroon/article_d77e8109-715a-5757-9a45-82221d8d17d1.html)
+2. [Nigerian Guardian](http://www.ngrguardiannews.com/news/national-news/196944-nigerien-chadian-forces-repel-boko-haram-attack)
 
 ### Related:
 

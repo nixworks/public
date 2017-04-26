@@ -7,8 +7,8 @@ Belarus President Alexander Lukashenko vows not to allow a revolution in his cou
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201173184516320207.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-14006365)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-14006365)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201173184516320207.html)
 
 ### Related:
 

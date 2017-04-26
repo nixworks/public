@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/meast/02/17/egypt.revolution.arrests/index.html?eref=edition#)
-2. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7432185.html)
+1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7432185.html)
+2. [CNN](http://edition.cnn.com/2011/WORLD/meast/02/17/egypt.revolution.arrests/index.html?eref=edition#)
 
 ### Related:
 

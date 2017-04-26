@@ -7,8 +7,8 @@ Doctors Without Borders held memorials around the globe.
 
 ### Source:
 
-1. [AFP via Yahoo News](https://en-maktoob.news.yahoo.com/msf-staff-honour-colleagues-killed-us-raid-kunduz-154230621.html)
-2. [DW Akademie](http://www.dw.com/en/doctors-without-borders-demands-justice-over-kunduz-airstrike/a-18824819)
+1. [DW Akademie](http://www.dw.com/en/doctors-without-borders-demands-justice-over-kunduz-airstrike/a-18824819)
+2. [AFP via Yahoo News](https://en-maktoob.news.yahoo.com/msf-staff-honour-colleagues-killed-us-raid-kunduz-154230621.html)
 3. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/us-airstrikes-in-kunduz-destroyed-more-than-a-hospital/2015/11/04/99ef78ff-468a-4113-ae05-086c3450f065_story.html?wpmm=1&wpisrc=nl_evening)
 4. [The Hill](http://thehill.com/policy/defense/258970-doctors-without-borders-marks-month-since-hospital-bombing-by-us)
 

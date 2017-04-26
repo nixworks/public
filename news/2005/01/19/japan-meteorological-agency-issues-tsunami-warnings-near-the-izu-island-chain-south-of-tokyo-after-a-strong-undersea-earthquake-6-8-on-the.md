@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4186601.stm)
-2. [Xinhua](http://news.xinhuanet.com/english/2005-01/19/content_2481339.htm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=a.0Ut6ZRfFx0&refer=japan)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=a.0Ut6ZRfFx0&refer=japan)
+3. [Xinhua](http://news.xinhuanet.com/english/2005-01/19/content_2481339.htm)
 
 ### Related:
 

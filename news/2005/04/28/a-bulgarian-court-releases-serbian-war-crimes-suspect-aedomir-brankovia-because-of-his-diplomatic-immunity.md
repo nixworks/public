@@ -7,8 +7,8 @@ A panel of Sofia City Court released Serbian war crimes suspect Cedomir Brankovi
 
 ### Source:
 
-1. [Bulgarian News Network](http://www.bgnewsnet.com/story.php?lang=en&sid=20090)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4495829.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4495829.stm)
+2. [Bulgarian News Network](http://www.bgnewsnet.com/story.php?lang=en&sid=20090)
 3. [Sofia News Agency](http://www.novinite.com/view_news.php?id=47181)
 
 ### Related:

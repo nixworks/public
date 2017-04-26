@@ -7,9 +7,9 @@ At least 125 people have been killed in two separate bomb attacks in Baghdad, Ir
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-36696568)
-2. [The Independent](http://www.independent.co.uk/news/world/middle-east/baghdad-iraq-bombing-attack-isis-latest-dead-toll-a7116681.html)
-3. [AP](http://bigstory.ap.org/article/08faa2dc3b614585a79191344901ba03/officials-bombing-central-baghdad-kills-least-18)
+1. [AP](http://bigstory.ap.org/article/08faa2dc3b614585a79191344901ba03/officials-bombing-central-baghdad-kills-least-18)
+2. [BBC](http://www.bbc.com/news/world-middle-east-36696568)
+3. [The Independent](http://www.independent.co.uk/news/world/middle-east/baghdad-iraq-bombing-attack-isis-latest-dead-toll-a7116681.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/India-news/WestBengal/Utter-carelessness-behind-Darjeeling-bridge-collapse/Article1-760647.aspx)
-2. [All India Radio](http://www.newsonair.com/news.asp?cat=state&id=ST7688)
+1. [All India Radio](http://www.newsonair.com/news.asp?cat=state&id=ST7688)
+2. [Hindustan Times](http://www.hindustantimes.com/India-news/WestBengal/Utter-carelessness-behind-Darjeeling-bridge-collapse/Article1-760647.aspx)
 
 ### Related:
 

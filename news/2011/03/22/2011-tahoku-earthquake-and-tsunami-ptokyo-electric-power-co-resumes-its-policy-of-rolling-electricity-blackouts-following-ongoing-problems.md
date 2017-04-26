@@ -7,14 +7,14 @@ Tokyo Electric Power will have to compensate farmers for losses caused by the nu
 
 ### Source:
 
-1. [Comcast](http://www.comcast.net/articles/news-politics/20110322/US.Japan.Earthquake.Imports/)
-2. [Kyodo News](http://english.kyodonews.jp/news/2011/03/80051.html?utm_source=twitterfeed&utm_medium=twitter)
-3. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc00029a5.php)
-4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/strong-quake-strikes-near-fukushima-20110323-1c5no.html)
-5. [Herald Sun](http://www.heraldsun.com.au/news/special-reports/two-survivors-found-under-rubble-nine-days-after-japanese-earthquake/story-fn7zkbgs-1226025746415)
-6. [BBC](http://www.bbc.co.uk/news/business-12814779)
-7. [Canadian Business](http://www.canadianbusiness.com/markets/market_news/article.jsp?content=D9M4I9600)
-8. [ABC News](http://abcnews.go.com/Health/Wellness/fda-bans-milk-vegetable-fruits-imported-japan-nuclear/story?id=13193191)
+1. [Herald Sun](http://www.heraldsun.com.au/news/special-reports/two-survivors-found-under-rubble-nine-days-after-japanese-earthquake/story-fn7zkbgs-1226025746415)
+2. [ABC News](http://abcnews.go.com/Health/Wellness/fda-bans-milk-vegetable-fruits-imported-japan-nuclear/story?id=13193191)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/strong-quake-strikes-near-fukushima-20110323-1c5no.html)
+4. [Kyodo News](http://english.kyodonews.jp/news/2011/03/80051.html?utm_source=twitterfeed&utm_medium=twitter)
+5. [Canadian Business](http://www.canadianbusiness.com/markets/market_news/article.jsp?content=D9M4I9600)
+6. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc00029a5.php)
+7. [BBC](http://www.bbc.co.uk/news/business-12814779)
+8. [Comcast](http://www.comcast.net/articles/news-politics/20110322/US.Japan.Earthquake.Imports/)
 
 ### Related:
 

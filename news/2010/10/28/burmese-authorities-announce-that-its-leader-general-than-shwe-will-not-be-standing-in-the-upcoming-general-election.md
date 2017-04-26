@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jd2zEtr6HDPY_Ou3rrO7w7Qyu_Lw?docId=CNG.9c18d2343f3269a07799e2711d4b82d8.521)
-2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1416550&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010102874537360769.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010102874537360769.html)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jd2zEtr6HDPY_Ou3rrO7w7Qyu_Lw?docId=CNG.9c18d2343f3269a07799e2711d4b82d8.521)
+3. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1416550&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
 
 ### Related:
 

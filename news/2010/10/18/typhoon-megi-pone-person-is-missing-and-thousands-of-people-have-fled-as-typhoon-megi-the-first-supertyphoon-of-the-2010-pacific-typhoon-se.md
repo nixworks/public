@@ -7,8 +7,8 @@ A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and
 
 ### Source:
 
-1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2010-10-17/one-person-missing-as-supertyphoon-megi-approaches-philippines.html)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_TYPHOON?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_TYPHOON?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2010-10-17/one-person-missing-as-supertyphoon-megi-approaches-philippines.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11562238)
 
 ### Related:

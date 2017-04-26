@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/69CBFD8D-E028-4E01-9919-FB74C1E97660.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4226497.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4226497.stm)
+2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/69CBFD8D-E028-4E01-9919-FB74C1E97660.htm)
 
 ### Related:
 

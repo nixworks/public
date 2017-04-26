@@ -7,8 +7,8 @@ The cyclone, which crossed the Visakhapatnam coast, seems to be in a period of l
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/india/Three-killed-as-cyclone-Hudhud-crosses-AP-coast-with-wind-speed-of-195-200kmph/articleshow/44790363.cms)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDIA_CYCLONE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDIA_CYCLONE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [The Times of India](http://timesofindia.indiatimes.com/india/Three-killed-as-cyclone-Hudhud-crosses-AP-coast-with-wind-speed-of-195-200kmph/articleshow/44790363.cms)
 
 ### Related:
 

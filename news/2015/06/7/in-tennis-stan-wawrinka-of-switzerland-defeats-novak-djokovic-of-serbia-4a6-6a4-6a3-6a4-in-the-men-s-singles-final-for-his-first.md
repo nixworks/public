@@ -7,8 +7,8 @@ French Open 2015 men&#039;s final, Novak Djokovic vs Stan Wawrinka - Latest scor
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/sport/tennis/frenchopen/11657708/French-Open-2015-mens-final-Novak-Djokovic-v-Stan-Wawrinka-live.html)
-2. [ATP World Tour](http://www.atpworldtour.com/News/Tennis/2015/06/22/Roland-Garros-Final-Preview-Djokovic-Wawrinka.aspx)
+1. [ATP World Tour](http://www.atpworldtour.com/News/Tennis/2015/06/22/Roland-Garros-Final-Preview-Djokovic-Wawrinka.aspx)
+2. [The Telegraph](http://www.telegraph.co.uk/sport/tennis/frenchopen/11657708/French-Open-2015-mens-final-Novak-Djokovic-v-Stan-Wawrinka-live.html)
 
 ### Related:
 

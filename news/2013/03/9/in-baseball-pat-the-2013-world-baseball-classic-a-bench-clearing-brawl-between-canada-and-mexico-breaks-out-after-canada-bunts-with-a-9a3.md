@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Toronto Star](http://www.thestar.com/sports/baseball/2013/03/10/jose_bautista_canada_broke_baseballs_code.html)
-2. [MLB](http://mlb.mlb.com/news/article.jsp?ymd=20130308&content_id=42458440&vkey=news_mlb&c_id=mlb)
+1. [MLB](http://mlb.mlb.com/news/article.jsp?ymd=20130308&content_id=42458440&vkey=news_mlb&c_id=mlb)
+2. [Toronto Star](http://www.thestar.com/sports/baseball/2013/03/10/jose_bautista_canada_broke_baseballs_code.html)
 
 ### Related:
 

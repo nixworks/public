@@ -8,9 +8,9 @@ Hungary has closed Budapest&amp;#39;s main railway station today as hundreds of 
 ### Source:
 
 1. [ITV](http://www.itv.com/news/update/2015-09-01/migrant-crisis-hungary-closes-main-budapest-rail-station/)
-2. [The Independent](http://www.independent.co.uk/news/world/europe/more-than-11000-icelanders-offer-to-house-syrian-refugees-to-help-european-crisis-10480505.html)
-3. [thelocal](http://www.thelocal.de/20150901/migrants-flee-budapest-for-vienna-and-munich)
-4. [Time](http://time.com/4018241/iceland-syria-refugees/)
+2. [Time](http://time.com/4018241/iceland-syria-refugees/)
+3. [The Independent](http://www.independent.co.uk/news/world/europe/more-than-11000-icelanders-offer-to-house-syrian-refugees-to-help-european-crisis-10480505.html)
+4. [thelocal](http://www.thelocal.de/20150901/migrants-flee-budapest-for-vienna-and-munich)
 
 ### Related:
 

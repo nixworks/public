@@ -7,10 +7,10 @@ Some 10,000 women and girls entered Magdalene laundries since 1922 with more tha
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/05/magdalene-laundries-ireland-state-guilt)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-21326221)
+1. [Al Jazeera](http://www.aljazeera.com/video/europe/2013/02/20132516346516747.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/feb/05/magdalene-laundries-ireland-state-guilt)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0205/breaking6.html)
-4. [Al Jazeera](http://www.aljazeera.com/video/europe/2013/02/20132516346516747.html)
+4. [BBC](http://www.bbc.co.uk/news/world-europe-21326221)
 
 ### Related:
 

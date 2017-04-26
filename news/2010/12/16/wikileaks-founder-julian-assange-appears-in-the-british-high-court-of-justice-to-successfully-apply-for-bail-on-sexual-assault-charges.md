@@ -7,9 +7,9 @@ WikiLeaks founder appears in London court as authorities challenge previous deci
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101216/ap_on_re_eu/eu_wikileaks_assange)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012169911594847.html)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8207566/WikiLeaks-founder-Julian-Assange-walks-free-from-prison.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012169911594847.html)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/wikileaks/8207566/WikiLeaks-founder-Julian-Assange-walks-free-from-prison.html)
+3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101216/ap_on_re_eu/eu_wikileaks_assange)
 
 ### Related:
 

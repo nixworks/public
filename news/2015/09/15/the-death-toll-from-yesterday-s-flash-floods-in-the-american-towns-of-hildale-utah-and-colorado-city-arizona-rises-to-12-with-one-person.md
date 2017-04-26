@@ -7,8 +7,8 @@ Flash flooding triggered by a strong thunderstorm killed at least 12 people in s
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/utah-flash-flood-kills-9-leaves-4-missing-officials-n427396)
-2. [AP via ABC News](http://abcnews.go.com/US/wireStory/latest-residents-shocked-deadly-flash-flooding-33771037)
+1. [AP via ABC News](http://abcnews.go.com/US/wireStory/latest-residents-shocked-deadly-flash-flooding-33771037)
+2. [NBC News](http://www.nbcnews.com/news/us-news/utah-flash-flood-kills-9-leaves-4-missing-officials-n427396)
 
 ### Related:
 

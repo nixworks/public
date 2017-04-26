@@ -7,8 +7,8 @@ A hack of the Internal Revenue service first reported in May was nearly three ti
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/tech/2015/08/17/irs-hack-get-transcript/31864171/)
-2. [AP via MSN](http://www.msn.com/en-us/news/us/thieves-stole-tax-info-from-additional-220000/ar-BBlOJ7e?ocid=spartandhp)
+1. [AP via MSN](http://www.msn.com/en-us/news/us/thieves-stole-tax-info-from-additional-220000/ar-BBlOJ7e?ocid=spartandhp)
+2. [USA Today](http://www.usatoday.com/story/tech/2015/08/17/irs-hack-get-transcript/31864171/)
 
 ### Related:
 

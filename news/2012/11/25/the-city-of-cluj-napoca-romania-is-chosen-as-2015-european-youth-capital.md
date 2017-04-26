@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Mediafax](http://www.mediafax.ro/cultura-media/cluj-napoca-este-capitala-europeana-a-tineretului-in-2015-10347965)
-2. [Hotnews](http://life.hotnews.ro/stiri-prin_oras-13684247-orasul-cluj-napoca-desemnat-capitala-europeana-tineretului-2015.htm)
+1. [Hotnews](http://life.hotnews.ro/stiri-prin_oras-13684247-orasul-cluj-napoca-desemnat-capitala-europeana-tineretului-2015.htm)
+2. [Mediafax](http://www.mediafax.ro/cultura-media/cluj-napoca-este-capitala-europeana-a-tineretului-in-2015-10347965)
 
 ### Related:
 

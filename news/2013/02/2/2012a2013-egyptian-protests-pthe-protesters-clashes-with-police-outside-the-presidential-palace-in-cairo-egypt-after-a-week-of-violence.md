@@ -7,9 +7,9 @@ At least one protester was shot dead and dozens wounded on Friday when riot poli
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21303260)
-2. [CBC News](http://www.cbc.ca/news/world/story/2013/02/01/egypt-protesters-.html)
-3. [Reuters](http://www.reuters.com/article/2013/02/02/us-egypt-protests-idUSBRE90U1CN20130202)
+1. [Reuters](http://www.reuters.com/article/2013/02/02/us-egypt-protests-idUSBRE90U1CN20130202)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21303260)
+3. [CBC News](http://www.cbc.ca/news/world/story/2013/02/01/egypt-protesters-.html)
 
 ### Related:
 

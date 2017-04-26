@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via ''Time](http://time.com/4477252/uzbekistan-president-islam-karimov-ill/)
-2. [BBC](http://www.bbc.com/news/world-asia-37260375)
+1. [BBC](http://www.bbc.com/news/world-asia-37260375)
+2. [Reuters via ''Time](http://time.com/4477252/uzbekistan-president-islam-karimov-ill/)
 
 ### Related:
 

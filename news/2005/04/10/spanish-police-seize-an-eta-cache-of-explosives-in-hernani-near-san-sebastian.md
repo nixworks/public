@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [EITB](http://www.eitb24.com/noticia_en.php?id=51868)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L10693416.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L10693416.htm)
+2. [EITB](http://www.eitb24.com/noticia_en.php?id=51868)
 
 ### Related:
 

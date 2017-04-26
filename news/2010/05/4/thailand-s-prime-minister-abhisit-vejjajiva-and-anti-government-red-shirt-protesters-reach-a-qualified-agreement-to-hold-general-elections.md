@@ -7,8 +7,8 @@ Thailand&#039;s anti-government protesters have given tacit support to a plan fo
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g3j-vAVG1fg3kEfnogTiH8_4EXvwD9FG1T9O0)
-2. [ABC News](http://www.abc.net.au/news/stories/2010/05/04/2890329.htm?section=justin)
+1. [ABC News](http://www.abc.net.au/news/stories/2010/05/04/2890329.htm?section=justin)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g3j-vAVG1fg3kEfnogTiH8_4EXvwD9FG1T9O0)
 
 ### Related:
 

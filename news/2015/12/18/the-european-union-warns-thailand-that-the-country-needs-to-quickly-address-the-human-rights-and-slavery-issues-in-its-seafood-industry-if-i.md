@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP investigation via New Europe](http://neurope.eu/wires/portrait-of-slavery-fisherman-jailed-by-captain-for-wanting-to-go-home-returns-to-family/)
-2. [AP](http://bigstory.ap.org/article/98bff6da2e6d4906bfbf41fd8f2140ca/eu-demands-thailand-address-slavery-its-seafood-industry)
+1. [AP](http://bigstory.ap.org/article/98bff6da2e6d4906bfbf41fd8f2140ca/eu-demands-thailand-address-slavery-its-seafood-industry)
+2. [AP investigation via New Europe](http://neurope.eu/wires/portrait-of-slavery-fisherman-jailed-by-captain-for-wanting-to-go-home-returns-to-family/)
 
 ### Related:
 

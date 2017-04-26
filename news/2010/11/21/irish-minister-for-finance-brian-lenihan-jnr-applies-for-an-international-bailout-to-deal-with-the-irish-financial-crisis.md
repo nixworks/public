@@ -7,13 +7,13 @@ Taoiseach Brian Cowen has confirmed that a major financial assistance plan for I
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/business/2010-11/21/c_13616091.htm)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1121/breaking26.html)
+1. [RTÉ](http://www.rte.ie/news/2010/1121/economy.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/20101121202222361462.html)
 3. [BBC News](http://www.youtube.com/watch?v=Kdwtn0Hsc_w&feature=player)
-4. [The Guardian](http://www.guardian.co.uk/business/2010/nov/21/ireland-asks-70bn-eu-bailout)
-5. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/20101121202222361462.html)
-6. [RTÉ](http://www.rte.ie/news/2010/1121/economy.html)
-7. [BBC](http://www.bbc.co.uk/news/business-11807454?utm_source=twitterfeed&utm_medium=twitter)
+4. [Xinhua](http://news.xinhuanet.com/english2010/business/2010-11/21/c_13616091.htm)
+5. [BBC](http://www.bbc.co.uk/news/business-11807454?utm_source=twitterfeed&utm_medium=twitter)
+6. [The Guardian](http://www.guardian.co.uk/business/2010/nov/21/ireland-asks-70bn-eu-bailout)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1121/breaking26.html)
 
 ### Related:
 

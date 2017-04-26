@@ -7,9 +7,9 @@ TOKYO (AFP) - The number of people who died in floods which devastated Japan thi
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/09/12/asia/japan-floods/index.html)
-2. [Asia One](http://news.asiaone.com/news/asia/death-toll-rises-7-after-japan-floods)
-3. [Straits Times](http://www.straitstimes.com/asia/east-asia/death-toll-rises-to-five-after-japan-flood-media)
+1. [Straits Times](http://www.straitstimes.com/asia/east-asia/death-toll-rises-to-five-after-japan-flood-media)
+2. [CNN](http://www.cnn.com/2015/09/12/asia/japan-floods/index.html)
+3. [Asia One](http://news.asiaone.com/news/asia/death-toll-rises-7-after-japan-floods)
 
 ### Related:
 

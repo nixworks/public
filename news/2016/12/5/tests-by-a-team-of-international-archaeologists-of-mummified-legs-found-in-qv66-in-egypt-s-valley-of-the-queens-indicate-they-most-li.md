@@ -7,9 +7,9 @@ A team of international archaeologists believe a pair of mummified legs on displ
 
 ### Source:
 
-1. [PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166571)
-2. [Phys.org](http://phys.org/news/2016-12-mummified-egyptian-queen-nefertari.html)
-3. [NPR](http://www.npr.org/sections/thetwo-way/2016/12/05/504449966/researchers-confident-mysterious-pair-of-mummified-knees-belonged-to-queen-nefer)
+1. [Phys.org](http://phys.org/news/2016-12-mummified-egyptian-queen-nefertari.html)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2016/12/05/504449966/researchers-confident-mysterious-pair-of-mummified-knees-belonged-to-queen-nefer)
+3. [PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166571)
 
 ### Related:
 

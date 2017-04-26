@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Stuff](http://www.stuff.co.nz/stuff/0,2106,3367402a10,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4744373.stm)
-3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161488/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161488/1/.html)
+2. [Stuff](http://www.stuff.co.nz/stuff/0,2106,3367402a10,00.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4744373.stm)
 
 ### Related:
 

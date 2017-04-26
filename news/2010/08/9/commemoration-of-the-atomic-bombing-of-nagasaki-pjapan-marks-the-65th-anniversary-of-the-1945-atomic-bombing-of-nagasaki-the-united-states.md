@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/cndy/2010-08/10/content_11126057.htm)
-2. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100810a2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29)
+1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100810a2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29)
+2. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T100809003968.htm)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10914914)
-4. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T100809003968.htm)
+4. [China Daily](http://www.chinadaily.com.cn/cndy/2010-08/10/content_11126057.htm)
 
 ### Related:
 

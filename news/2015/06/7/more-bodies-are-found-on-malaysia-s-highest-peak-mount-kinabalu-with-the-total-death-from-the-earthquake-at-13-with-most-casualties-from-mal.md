@@ -7,8 +7,8 @@ Rescuers recovered the bodies of 11 more climbers from Malaysia&#x27;s highest p
 
 ### Source:
 
-1. [AP via NBC News](http://www.nbcnews.com/news/world/more-bodies-found-malaysia-mountain-quake-toll-hits-13-n371051?cid=sm_tw&hootPostID=962accf3ab3ab3a90ab058e276814e7a)
-2. [AFP and ABC Australia](http://www.abc.net.au/news/2015-06-07/students-among-mt-kinabalu-dead-as-crews-search-river-of-stones/6528332)
+1. [AFP and ABC Australia](http://www.abc.net.au/news/2015-06-07/students-among-mt-kinabalu-dead-as-crews-search-river-of-stones/6528332)
+2. [AP via NBC News](http://www.nbcnews.com/news/world/more-bodies-found-malaysia-mountain-quake-toll-hits-13-n371051?cid=sm_tw&hootPostID=962accf3ab3ab3a90ab058e276814e7a)
 
 ### Related:
 

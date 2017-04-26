@@ -7,9 +7,9 @@ As the FA investigates the Chelsea star&#039;s kick, details emerge of the privi
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1042073/eden-hazard-kicks-ball-boy-during-match)
-2. [BBC Sport](http://www.bbc.co.uk/sport/0/football/21174252)
-3. [The Guardian](http://www.guardian.co.uk/football/2013/jan/23/swansea-ballboy-eden-hazard-sent-off)
+1. [The Guardian](http://www.guardian.co.uk/football/2013/jan/23/swansea-ballboy-eden-hazard-sent-off)
+2. [Sky News](http://news.sky.com/story/1042073/eden-hazard-kicks-ball-boy-during-match)
+3. [BBC Sport](http://www.bbc.co.uk/sport/0/football/21174252)
 
 ### Related:
 

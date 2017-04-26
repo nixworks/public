@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Tampa Tribune](http://www2.tbo.com/content/2008/mar/15/clearwater-bracing-new-scientology-protest/)
-2. [Village Voice](http://blogs.villagevoice.com/runninscared/archives/2008/03/anonymous_vs_sc_1.php)
+1. [Village Voice](http://blogs.villagevoice.com/runninscared/archives/2008/03/anonymous_vs_sc_1.php)
+2. [Tampa Tribune](http://www2.tbo.com/content/2008/mar/15/clearwater-bracing-new-scientology-protest/)
 
 ### Related:
 

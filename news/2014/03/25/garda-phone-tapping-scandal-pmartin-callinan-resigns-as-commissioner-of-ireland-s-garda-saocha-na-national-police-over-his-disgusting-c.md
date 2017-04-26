@@ -8,10 +8,10 @@ The head of the Irish police force resigns following a controversy over whistleb
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26730162)
-2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-26737264)
-3. [RTÉ News](http://www.rte.ie/news/2014/0325/604553-stephen-cooper-court/)
+2. [RTÉ News](http://www.rte.ie/news/2014/0325/604553-stephen-cooper-court/)
+3. [The Journal](http://www.thejournal.ie/why-did-martin-callinan-resign-1379772-Mar2014/)
 4. [The Journal](http://www.thejournal.ie/callinan-wrote-to-justice-dept-about-recordings-2-weeks-ago-1381273-Mar2014/)
-5. [The Journal](http://www.thejournal.ie/why-did-martin-callinan-resign-1379772-Mar2014/)
+5. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-26737264)
 
 ### Related:
 

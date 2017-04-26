@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/10/48/inquiry-into-Iraq-war-begins-public-hearings,957098fc-07c9-4045-838c-8898cb0ea02b.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8375439.stm)
-3. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/24/uk.iraq.inquiry/)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8375439.stm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/24/uk.iraq.inquiry/)
+3. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/10/48/inquiry-into-Iraq-war-begins-public-hearings,957098fc-07c9-4045-838c-8898cb0ea02b.html)
 
 ### Related:
 

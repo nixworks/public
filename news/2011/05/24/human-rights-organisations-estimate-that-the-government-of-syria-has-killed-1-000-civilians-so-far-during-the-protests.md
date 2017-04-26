@@ -7,8 +7,8 @@ Rights groups say they have documented names of civilians allegedly killed by se
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011524182251952727.html)
-2. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria)
+1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011524182251952727.html)
 
 ### Related:
 

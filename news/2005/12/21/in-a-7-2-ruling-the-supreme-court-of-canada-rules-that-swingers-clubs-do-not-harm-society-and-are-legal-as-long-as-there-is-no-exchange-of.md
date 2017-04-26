@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20051221/SCC_swingersruling_20051221/20051221?hub=CTVNewsAt11)
-2. [CBC](http://www.cbc.ca/canada/story/2005/12/21/SCOC-swingers-051221.html)
+1. [CBC](http://www.cbc.ca/canada/story/2005/12/21/SCOC-swingers-051221.html)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20051221/SCC_swingersruling_20051221/20051221?hub=CTVNewsAt11)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Three of the dead were the crew of the aircraft and five others were in the buil
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1175922/helicopter-crash-relatives-face-anxious-wait)
+1. [Sky News](http://news.sky.com/story/1175912/helicopter-crashes-into-glasgow-pub-eight-die)
 2. [Channel 4 News](http://www.channel4.com/news/glasgow-helicopter-crash-numerous-casualties)
-3. [Sky News](http://news.sky.com/story/1175912/helicopter-crashes-into-glasgow-pub-eight-die)
+3. [Sky News](http://news.sky.com/story/1175922/helicopter-crash-relatives-face-anxious-wait)
 
 ### Related:
 

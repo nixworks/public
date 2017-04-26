@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo](http://news.yahoo.com/s/ap/20061214/ap_on_re_eu/belgium_independence_hoax_1)
-2. [BBC News](http://news.bbc.co.uk/2/hi/europe/6178671.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/europe/6178671.stm)
+2. [AP via Yahoo](http://news.yahoo.com/s/ap/20061214/ap_on_re_eu/belgium_independence_hoax_1)
 
 ### Related:
 

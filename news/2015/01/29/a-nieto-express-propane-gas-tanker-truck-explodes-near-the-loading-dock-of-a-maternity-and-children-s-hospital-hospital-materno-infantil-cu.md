@@ -8,8 +8,8 @@ A gas tank truck explodes outside a maternity hospital in Mexico City, killing a
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/7b2ca0245e454b74a8a34910d86969cc/gas-blast-mexico-city-childrens-hospital-dozens-injured)
-2. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-30/gas-blast-at-mexico-children-hospital/6056392)
-3. [New York Daily News](http://www.nydailynews.com/news/world/gas-tank-explodes-mexico-city-children-hospital-article-1.2096039)
+2. [New York Daily News](http://www.nydailynews.com/news/world/gas-tank-explodes-mexico-city-children-hospital-article-1.2096039)
+3. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-30/gas-blast-at-mexico-children-hospital/6056392)
 
 ### Related:
 

@@ -7,8 +7,8 @@ With Hurricane Irene bearing down on New York City, subways, buses and commuter 
 
 ### Source:
 
-1. [Norfolk Government](http://www.norfolk.gov/News/Press/prdetails.asp?PressID=2233)
-2. [NBC News](http://www.nbcnewyork.com/news/local/Hurricane-Irene-NYC-New-Jersey-Long-Island-Weekend-Forecast-128318923.html)
+1. [NBC News](http://www.nbcnewyork.com/news/local/Hurricane-Irene-NYC-New-Jersey-Long-Island-Weekend-Forecast-128318923.html)
+2. [Norfolk Government](http://www.norfolk.gov/News/Press/prdetails.asp?PressID=2233)
 
 ### Related:
 

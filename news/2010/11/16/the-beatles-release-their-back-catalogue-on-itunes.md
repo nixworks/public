@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/music/2010/nov/16/beatles-apple-itunes-emi)
-2. [NME](http://www.nme.com/news/the-beatles/53858)
-3. [The New York Times](http://dealbook.nytimes.com/2010/11/16/apple-and-the-beatles-a-long-and-winding-road/?src=busln)
+1. [The New York Times](http://dealbook.nytimes.com/2010/11/16/apple-and-the-beatles-a-long-and-winding-road/?src=busln)
+2. [The Guardian](http://www.guardian.co.uk/music/2010/nov/16/beatles-apple-itunes-emi)
+3. [NME](http://www.nme.com/news/the-beatles/53858)
 
 ### Related:
 

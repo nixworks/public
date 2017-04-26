@@ -16,7 +16,7 @@ _Context: Cedar Rapids, Cedar River_
 _Context: Conservative Party, David Davis, Haltemprice and Howden, Haltemprice and Howden by-election, MP, Shadow Home Secretary, civil liberties_
 
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
-_Context: United States, salmonella, tomato_
+_Context: U.S., salmonella, tomato_
 
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
 _Context: Afghan, Gora Prai airstrike, Pakistan, Robert Gates, Secretary of Defense_

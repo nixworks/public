@@ -7,9 +7,9 @@ Almost 300 people remain unaccounted for after a ferry carrying 459 people capsi
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-27045512#)
+1. [AFP via Nine MSN](http://news.ninemsn.com.au/world/2014/04/16/12/48/rescue-for-450-on-sinking-s-korea-ferry)
 2. [AP](http://bigstory.ap.org/article/reports-ferry-471-people-sinking-skorea)
-3. [AFP via Nine MSN](http://news.ninemsn.com.au/world/2014/04/16/12/48/rescue-for-450-on-sinking-s-korea-ferry)
+3. [BBC](http://www.bbc.com/news/world-asia-27045512#)
 
 ### Related:
 

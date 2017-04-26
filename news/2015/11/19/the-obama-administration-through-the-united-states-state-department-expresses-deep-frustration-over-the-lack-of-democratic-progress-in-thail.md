@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [US Dept of State](http://www.state.gov/j/drl/rls/rm/2015/249788.htm)
-2. [AP](http://bigstory.ap.org/article/822373ce280b4c9b83418d75a6d90461/us-voices-frustration-over-democracy-progress-thailand)
+1. [AP](http://bigstory.ap.org/article/822373ce280b4c9b83418d75a6d90461/us-voices-frustration-over-democracy-progress-thailand)
+2. [US Dept of State](http://www.state.gov/j/drl/rls/rm/2015/249788.htm)
 
 ### Related:
 

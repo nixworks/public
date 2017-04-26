@@ -7,9 +7,9 @@ Rebekah Brooks and her husband are among six people who have been arrested this 
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9140031/Six-arrested-on-suspicion-of-conspiracy-to-pervert-the-course-of-justice-by-phone-hack-police.html)
+1. [Washington Post](http://www.washingtonpost.com/world/europe/rebekah-brooks-arrested-again-in-british-phone-hacking-scandal/2012/03/13/gIQAvGqk9R_story.html)
 2. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/british-police-6-people-arrested-in-newspaper-phone-hacking-investigation/2012/03/13/gIQAXD438R_story.html)
-3. [Washington Post](http://www.washingtonpost.com/world/europe/rebekah-brooks-arrested-again-in-british-phone-hacking-scandal/2012/03/13/gIQAvGqk9R_story.html)
+3. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9140031/Six-arrested-on-suspicion-of-conspiracy-to-pervert-the-course-of-justice-by-phone-hack-police.html)
 
 ### Related:
 

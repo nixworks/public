@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TIME](http://newsfeed.time.com/2013/11/01/everything-you-need-to-know-about-thanksgivukkah/)
-2. [BBC](http://www.bbc.co.uk/news/25140033)
+1. [BBC](http://www.bbc.co.uk/news/25140033)
+2. [TIME](http://newsfeed.time.com/2013/11/01/everything-you-need-to-know-about-thanksgivukkah/)
 
 ### Related:
 

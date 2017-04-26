@@ -7,15 +7,15 @@ Consumer goods allowed into enclave but tight limits remain on construction mate
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180491)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107514336683929.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9GOVIGO3)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9GOVIGO3)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3915113,00.html)
+3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180561)
 4. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10505386.stm)
-5. [The Guardian](http://www.guardian.co.uk/world/2010/jul/05/turkey-threatens-cut-ties-gaza)
+5. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107514336683929.html)
 6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3915544,00.html)
-7. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180561)
-8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3915113,00.html)
-9. [The Independent](http://www.independent.co.uk/news/world/middle-east/diplomats-suspend-protests-for-pms-visit-2018408.html)
+7. [The Independent](http://www.independent.co.uk/news/world/middle-east/diplomats-suspend-protests-for-pms-visit-2018408.html)
+8. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180491)
+9. [The Guardian](http://www.guardian.co.uk/world/2010/jul/05/turkey-threatens-cut-ties-gaza)
 10. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/05/israel.gaza/index.html?hpt=T2&fbid=4I1tbJn2BPy)
 
 ### Related:

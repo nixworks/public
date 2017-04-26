@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_AFGHANISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/201071391543308826.html)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/201071391543308826.html)
+2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_AFGHANISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 

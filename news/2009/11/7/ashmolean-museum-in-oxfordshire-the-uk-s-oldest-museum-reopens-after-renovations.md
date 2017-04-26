@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Heart Radio Oxfordshire](http://www.heartoxfordshire.co.uk/Article.asp?id=1579331)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/oxfordshire/8347299.stm)
-3. [Kings Lynn News](http://www.lynnnews.co.uk/latest-south-east-news/Ashmolean-opens-doors-after-61m.5804778.jp)
+2. [Kings Lynn News](http://www.lynnnews.co.uk/latest-south-east-news/Ashmolean-opens-doors-after-61m.5804778.jp)
+3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/oxfordshire/8347299.stm)
 
 ### Related:
 

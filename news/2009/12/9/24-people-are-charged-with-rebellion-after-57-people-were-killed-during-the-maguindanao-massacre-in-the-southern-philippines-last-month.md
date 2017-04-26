@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_464431.html)
-2. [Manilla Bulletin](http://www.mb.com.ph/articles/233157/pnp-files-rebellion-case-vs-24-people)
+1. [Manilla Bulletin](http://www.mb.com.ph/articles/233157/pnp-files-rebellion-case-vs-24-people)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_464431.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2010/08/prop8-gay-marriage.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10875094)
-3. [Reuters via ''New York Times](http://www.nytimes.com/reuters/2010/08/04/us/news-us-gaymarriage.html?hp)
-4. [CNN](http://www.cnn.com/2010/US/08/04/prop.8.next/)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10875094)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2010/08/prop8-gay-marriage.html)
+3. [CNN](http://www.cnn.com/2010/US/08/04/prop.8.next/)
+4. [Reuters via ''New York Times](http://www.nytimes.com/reuters/2010/08/04/us/news-us-gaymarriage.html?hp)
 
 ### Related:
 

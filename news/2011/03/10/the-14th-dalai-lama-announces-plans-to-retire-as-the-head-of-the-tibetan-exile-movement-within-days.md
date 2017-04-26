@@ -7,9 +7,9 @@ The 14th Dalai Lama on Thursday decided to give up his political role and shift 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/mar/10/dalai-lama-retires-from-political-life-tibet)
-2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/03/09/india.dalai.lama/index.html#)
-3. [Times of India](http://timesofindia.indiatimes.com/india/Dalai-Lama-quits-politics-focus-now-on-successor/articleshow/7675764.cms)
+1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/03/09/india.dalai.lama/index.html#)
+2. [Times of India](http://timesofindia.indiatimes.com/india/Dalai-Lama-quits-politics-focus-now-on-successor/articleshow/7675764.cms)
+3. [The Guardian](http://www.guardian.co.uk/world/2011/mar/10/dalai-lama-retires-from-political-life-tibet)
 
 ### Related:
 

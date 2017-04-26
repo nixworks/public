@@ -7,8 +7,8 @@ Vincent Viola, owner of the NHL&#039;s Florida Panthers, faced problems divestin
 
 ### Source:
 
-1. [Military Times](http://www.militarytimes.com/articles/trump-viola-withdraws-army-secretary)
-2. [Reuters](http://www.reuters.com/article/us-usa-trump-army-idUSKBN15J06G)
+1. [Reuters](http://www.reuters.com/article/us-usa-trump-army-idUSKBN15J06G)
+2. [Military Times](http://www.militarytimes.com/articles/trump-viola-withdraws-army-secretary)
 
 ### Related:
 

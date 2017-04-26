@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/738364.html)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/F084AD3D-987D-457A-B347-32BB2BAE5AD1.htm)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/F084AD3D-987D-457A-B347-32BB2BAE5AD1.htm)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/738364.html)
 
 ### Related:
 

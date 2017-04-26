@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-68)
-2. [Reuters](http://www.reuters.com/article/2011/02/04/uk-sudan-protests-idUKTRE7132ZY20110204)
+1. [Reuters](http://www.reuters.com/article/2011/02/04/uk-sudan-protests-idUKTRE7132ZY20110204)
+2. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/04/egypt-protests-day-departure-live#block-68)
 
 ### Related:
 

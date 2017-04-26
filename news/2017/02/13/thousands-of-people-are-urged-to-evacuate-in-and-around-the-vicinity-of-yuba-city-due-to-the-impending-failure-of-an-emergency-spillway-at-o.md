@@ -7,8 +7,8 @@ The situation stabilized by Monday morning, but officials remain worried about r
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/02/13/not-a-drill-thousands-evacuated-in-calif-as-oroville-dam-threatens-to-flood/)
-2. [CNN](http://www.cnn.com/2017/02/12/us/california-oroville-dam-failure/)
+1. [CNN](http://www.cnn.com/2017/02/12/us/california-oroville-dam-failure/)
+2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/02/13/not-a-drill-thousands-evacuated-in-calif-as-oroville-dam-threatens-to-flood/)
 
 ### Related:
 

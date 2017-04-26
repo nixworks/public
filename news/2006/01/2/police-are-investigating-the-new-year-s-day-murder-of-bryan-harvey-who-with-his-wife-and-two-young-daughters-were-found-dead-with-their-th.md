@@ -7,8 +7,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [ABC](http://abcnews.go.com/US/wireStory?id=1466025)
-2. [New York Daily News](http://www.nydailynews.com/front/story/379756p-322383c.html)
+1. [New York Daily News](http://www.nydailynews.com/front/story/379756p-322383c.html)
+2. [ABC](http://abcnews.go.com/US/wireStory?id=1466025)
 3. [Billboard](http://www.billboard.com/articles/news/60215/guitarist-family-murdered-on-new-years-day)
 
 ### Related:

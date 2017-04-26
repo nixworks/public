@@ -7,9 +7,9 @@ A 400m-wide asteroid passes by Earth, on a path closer to the planet than the Mo
 
 ### Source:
 
-1. [SLOOH](http://events.slooh.com/)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-15572634)
 2. [WSJ](http://online.wsj.com/article/SB10001424052970203733504577024023220331032.html)
-3. [BBC](http://www.bbc.co.uk/news/science-environment-15572634)
+3. [SLOOH](http://events.slooh.com/)
 
 ### Related:
 

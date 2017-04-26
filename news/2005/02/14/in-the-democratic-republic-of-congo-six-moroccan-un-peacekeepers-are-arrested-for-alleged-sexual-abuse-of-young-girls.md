@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp?type=topNews&localeKey=en_ZA&storyID=7611715)
-2. [News24](http://www.news24.com/News24/Africa/News/0,6119,2-11-1447_1661050,00.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4262743.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4262743.stm)
+3. [News24](http://www.news24.com/News24/Africa/News/0,6119,2-11-1447_1661050,00.html)
 
 ### Related:
 

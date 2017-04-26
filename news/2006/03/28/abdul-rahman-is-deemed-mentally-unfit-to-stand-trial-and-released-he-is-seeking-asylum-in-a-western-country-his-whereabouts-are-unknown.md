@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/03/28/christian.convert/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4851666.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4851666.stm)
+2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/03/28/christian.convert/index.html)
 
 ### Related:
 

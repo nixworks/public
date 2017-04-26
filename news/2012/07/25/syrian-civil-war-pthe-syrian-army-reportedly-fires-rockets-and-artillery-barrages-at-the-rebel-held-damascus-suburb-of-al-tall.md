@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://blogs.aljazeera.com/topic/syria/syrian-forces-have-reportedly-fired-artillery-and-rocket-barrages-rebel-held-damascus)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/20127248104698718.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/20127248104698718.html)
+2. [Al-Jazeera](http://blogs.aljazeera.com/topic/syria/syrian-forces-have-reportedly-fired-artillery-and-rocket-barrages-rebel-held-damascus)
 3. [Al Arabiya](http://english.alarabiya.net/articles/2012/07/25/228301.html)
 
 ### Related:

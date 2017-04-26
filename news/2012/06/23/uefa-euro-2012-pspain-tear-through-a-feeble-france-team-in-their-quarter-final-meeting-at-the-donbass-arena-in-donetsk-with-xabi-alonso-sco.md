@@ -7,9 +7,9 @@ Spain waltz past a feeble France side in Donetsk to set up a Euro 2012 semi-fina
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18355234)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/spain/9344376/Spain-2-France-0-match-report.html)
 2. [BBC](http://www.bbc.co.uk/sport/0/football/18431163)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/spain/9344376/Spain-2-France-0-match-report.html)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/18355234)
 
 ### Related:
 

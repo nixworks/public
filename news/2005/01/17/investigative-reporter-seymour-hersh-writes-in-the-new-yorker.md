@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4180087.stm)
-2. [DOD](http://www.dod.mil/releases/2005/nr20050117-1987.html)
+1. [DOD](http://www.dod.mil/releases/2005/nr20050117-1987.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4180087.stm)

@@ -8,8 +8,8 @@ Venezuelan President Hugo Chavez severs diplomatic relations with Colombia over 
 ### Source:
 
 1. [Samaylive News](http://english.samaylive.com/nation/676469441.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10734117)
-3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=360971&CategoryId=10717)
+2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=360971&CategoryId=10717)
+3. [BBC](http://www.bbc.co.uk/news/world-latin-america-10734117)
 
 ### Related:
 

@@ -8,8 +8,8 @@ A US aircraft carrier passes through the Strait of Hormuz for the second time in
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17027768)
-2. [Reuters](http://www.reuters.com/article/2012/02/14/us-usa-iran-hormuz-idUSTRE81D1PE20120214)
-3. [Washington Post](http://www.washingtonpost.com/world/middle-east/iranian-patrol-boats-shadow-uss-aircraft-carrier-as-it-passes-through-strait-of-hormuz/2012/02/14/gIQAfvP8CR_story.html)
+2. [Washington Post](http://www.washingtonpost.com/world/middle-east/iranian-patrol-boats-shadow-uss-aircraft-carrier-as-it-passes-through-strait-of-hormuz/2012/02/14/gIQAfvP8CR_story.html)
+3. [Reuters](http://www.reuters.com/article/2012/02/14/us-usa-iran-hormuz-idUSTRE81D1PE20120214)
 
 ### Related:
 

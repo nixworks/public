@@ -7,9 +7,9 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/WORLD/africa/03/06/niger.slaves.ap/)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4321699.stm)
-3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1672122,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4321699.stm)
+2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1672122,00.html)
+3. [CNN](http://edition.cnn.com/2005/WORLD/africa/03/06/niger.slaves.ap/)
 4. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/03/07/wslave07.xml&sSheet=/news/2005/03/07/ixworld.html)
 
 ### Related:

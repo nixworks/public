@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11508349)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/oct/10/kyrgyzstan-uzbek-osh-ethnic-cleansing)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11511579)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/oct/10/kyrgyzstan-uzbek-osh-ethnic-cleansing)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11511579)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11508349)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_ROMANIA_MOLDOVA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [The New York Times](http://www.nytimes.com/2016/01/26/world/europe/oppositions-groups-in-moldova-unite-to-protest-new-government.html?_r=0)
-3. [Reuters](http://www.reuters.com/article/us-romania-moldova-politics-idUSKCN0V41JK)
+1. [Reuters](http://www.reuters.com/article/us-romania-moldova-politics-idUSKCN0V41JK)
+2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_ROMANIA_MOLDOVA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+3. [The New York Times](http://www.nytimes.com/2016/01/26/world/europe/oppositions-groups-in-moldova-unite-to-protest-new-government.html?_r=0)
 
 ### Related:
 

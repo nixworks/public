@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-asia-storm-china-idUSKCN11Z041)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_TYPHOON_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_TYPHOON_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Reuters](http://www.reuters.com/article/us-asia-storm-china-idUSKCN11Z041)
 
 ### Related:
 

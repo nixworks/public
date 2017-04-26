@@ -7,11 +7,11 @@ Death sentences imposed on two Norwegians in the DRC for killing a driver have b
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/africa/conviction-quashed-for-death-sentence-briton-1951663.html)
-2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE63L0KA20100422?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAFRICATopNews+%28News+%2F+AFRICA+%2F+Top+News%29)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/apr/22/congo-death-sentence-norwegians-overturned)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8637543.stm)
 3. [News24](http://www.news24.com/Africa/News/Norwegians-live-to-face-retrial-20100422)
-4. [The Guardian](http://www.guardian.co.uk/world/2010/apr/22/congo-death-sentence-norwegians-overturned)
-5. [BBC](http://news.bbc.co.uk/2/hi/africa/8637543.stm)
+4. [The Independent](http://www.independent.co.uk/news/world/africa/conviction-quashed-for-death-sentence-briton-1951663.html)
+5. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE63L0KA20100422?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAFRICATopNews+%28News+%2F+AFRICA+%2F+Top+News%29)
 
 ### Related:
 

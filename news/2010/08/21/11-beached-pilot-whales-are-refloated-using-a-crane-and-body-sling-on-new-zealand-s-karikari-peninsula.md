@@ -7,8 +7,8 @@ Rescuers refloated 11 beached pilot whales using a crane and body sling yesterda
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/rescuers-save-11-pilot-whales-in-nz-20100821-139ao.html)
-2. [The Independent](http://www.independent.co.uk/news/world/australasia/eleven-whales-saved-from-mass-stranding-2058864.html)
+1. [The Independent](http://www.independent.co.uk/news/world/australasia/eleven-whales-saved-from-mass-stranding-2058864.html)
+2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/rescuers-save-11-pilot-whales-in-nz-20100821-139ao.html)
 
 ### Related:
 

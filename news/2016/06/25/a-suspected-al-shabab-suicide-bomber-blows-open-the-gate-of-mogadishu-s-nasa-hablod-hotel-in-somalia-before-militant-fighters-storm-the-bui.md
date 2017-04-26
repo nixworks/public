@@ -7,9 +7,9 @@ Islamic extremist group al-Shabab on Saturday claimed responsibility for the lat
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/06/25/africa/mogadishu-hotel-explosion-gunfire/index.html)
+1. [AP](http://bigstory.ap.org/article/30e6c2e3a8d340cfaa9e3852b7cd103b/huge-explosion-outside-hotel-somali-capital-police-say)
 2. [AP via NBC News](http://www.nbcnews.com/news/world/bomb-detonated-outside-somali-hotel-gunmen-try-storming-building-report-n598891)
-3. [AP](http://bigstory.ap.org/article/30e6c2e3a8d340cfaa9e3852b7cd103b/huge-explosion-outside-hotel-somali-capital-police-say)
+3. [CNN](http://edition.cnn.com/2016/06/25/africa/mogadishu-hotel-explosion-gunfire/index.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Rioters hurled bricks, looted businesses and set fires in Baltimore on Monday in
 
 ### Source:
 
-1. [ABC News Baltimore](http://6abc.com/news/baltimore-mayor-imposes-curfew-governor-declares-state-of-emergency/683647/)
-2. [AP via ABC News](http://abcnews.go.com/US/wireStory/maryland-governor-puts-national-guard-alert-respond-baltimore-30627594)
-3. [Reuters](http://www.reuters.com/article/2015/04/27/us-usa-police-baltimore-idUSKBN0NI1N720150427)
-4. [USA Today](http://www.usatoday.com/story/news/nation/2015/04/27/baltimore-credible-threat/26454875/)
+1. [Reuters](http://www.reuters.com/article/2015/04/27/us-usa-police-baltimore-idUSKBN0NI1N720150427)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2015/04/27/baltimore-credible-threat/26454875/)
+3. [AP via ABC News](http://abcnews.go.com/US/wireStory/maryland-governor-puts-national-guard-alert-respond-baltimore-30627594)
+4. [ABC News Baltimore](http://6abc.com/news/baltimore-mayor-imposes-curfew-governor-declares-state-of-emergency/683647/)
 
 ### Related:
 

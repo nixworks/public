@@ -7,8 +7,8 @@ Dozens of people were killed in heavy fighting after rebels said they would try 
 
 ### Source:
 
-1. [The Chicago Tribune](http://www.chicagotribune.com/news/sns-wp-blm-ssudan-a04f7036-9460-11e6-9cae-2a3574e296a6-20161017-story.html)
-2. [The Wire](http://thewire.in/73513/fighting-around-south-sudan-town-malakal-kills-56/)
+1. [The Wire](http://thewire.in/73513/fighting-around-south-sudan-town-malakal-kills-56/)
+2. [The Chicago Tribune](http://www.chicagotribune.com/news/sns-wp-blm-ssudan-a04f7036-9460-11e6-9cae-2a3574e296a6-20161017-story.html)
 
 ### Related:
 

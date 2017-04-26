@@ -7,9 +7,9 @@ Paul was running for a GOP that turned out not to exist.
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/02/03/rick-santorum-to-suspend-2016-presidential-bid/)
+1. [Politico](http://www.politico.com/story/2016/02/rand-paul-dropping-out-of-white-house-race-218675)
 2. [Vox](http://www.vox.com/2016/2/3/10904234/rand-paul-campaign)
-3. [Politico](http://www.politico.com/story/2016/02/rand-paul-dropping-out-of-white-house-race-218675)
+3. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/02/03/rick-santorum-to-suspend-2016-presidential-bid/)
 
 ### Related:
 

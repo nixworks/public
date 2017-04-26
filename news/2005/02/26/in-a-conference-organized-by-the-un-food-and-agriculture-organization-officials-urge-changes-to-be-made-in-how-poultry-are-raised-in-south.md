@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Seattle Times](http://seattletimes.nwsource.com/html/health/2002190836_birdflu26.html)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A54542-2005Feb25.html)
+1. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A54542-2005Feb25.html)
+2. [Seattle Times](http://seattletimes.nwsource.com/html/health/2002190836_birdflu26.html)
 
 ### Related:
 

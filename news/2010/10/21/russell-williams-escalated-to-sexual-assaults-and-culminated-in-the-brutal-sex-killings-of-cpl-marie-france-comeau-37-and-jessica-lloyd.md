@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Chronicle Herald](http://thechronicleherald.ca/Front/1208221.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/21/canada.colonel.killings/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/21/canada.colonel.killings/index.html?eref=edition)
+2. [Chronicle Herald](http://thechronicleherald.ca/Front/1208221.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Russian president critical of government response to fire disaster.
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201084224236533275.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/05/c_13430371.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-10871997)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-10871997)
+2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201084224236533275.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/05/c_13430371.htm)
 
 ### Related:
 

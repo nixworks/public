@@ -7,16 +7,16 @@ Pope Benedict XVI has today signed off on a pastoral letter to the Irish faithfu
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/03/18/catholic-abuse-popel-letter-ireland-austria-germany.html)
-2. [Christian Science Monitor](http://www.csmonitor.com/World/Europe/2010/0319/Pope-letter-on-Catholic-sex-abuse-scandal-meets-Irish-skepticism)
-3. [AHN](http://www.allheadlinenews.com/articles/7018155006)
-4. [The Sydney Morning Herald](http://www.smh.com.au/world/catholic-church-sex-scandal-rocks-faithful-in-brazil-20100317-qcwl.html)
-5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0319/breaking10.html)
+1. [CBC](http://www.cbc.ca/world/story/2010/03/19/church-abuse-allegations-gemany-ireland.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/03/18/brazil.sexual.abuse/)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0319/breaking10.html)
+4. [AHN](http://www.allheadlinenews.com/articles/7018155006)
+5. [Christian Science Monitor](http://www.csmonitor.com/World/Europe/2010/0319/Pope-letter-on-Catholic-sex-abuse-scandal-meets-Irish-skepticism)
 6. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/brazilian-priests-child-sex-abuse-claims)
-7. [CNN](http://edition.cnn.com/2010/WORLD/americas/03/18/brazil.sexual.abuse/)
+7. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5373511,00.html)
 8. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/19/pope.letter.abuse.ireland/)
-9. [CBC](http://www.cbc.ca/world/story/2010/03/19/church-abuse-allegations-gemany-ireland.html)
-10. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5373511,00.html)
+9. [CBC](http://www.cbc.ca/world/story/2010/03/18/catholic-abuse-popel-letter-ireland-austria-germany.html)
+10. [The Sydney Morning Herald](http://www.smh.com.au/world/catholic-church-sex-scandal-rocks-faithful-in-brazil-20100317-qcwl.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://www.guardian.co.uk/worldlatest/story/0,,-5861284,00.html)
-2. [Full report via NOLA.com](http://www.nola.com/weblogs/nola/index.ssf?/mtlogs/nola_nolaview/archives/2006_06_01.html)
+1. [Full report via NOLA.com](http://www.nola.com/weblogs/nola/index.ssf?/mtlogs/nola_nolaview/archives/2006_06_01.html)
+2. [AP](http://www.guardian.co.uk/worldlatest/story/0,,-5861284,00.html)
 
 ### Related:
 

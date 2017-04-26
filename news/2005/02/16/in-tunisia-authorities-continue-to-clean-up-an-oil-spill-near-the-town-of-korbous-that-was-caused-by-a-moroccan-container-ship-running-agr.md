@@ -7,9 +7,9 @@ Clean-up operations resumed Thursday on the Tunisian coast after a Moroccan cont
 
 ### Source:
 
-1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/GH1641407.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4274221.stm)
 2. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=10&categ_id=2&article_id=12759)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4274221.stm)
+3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/GH1641407.htm)
 
 ### Related:
 

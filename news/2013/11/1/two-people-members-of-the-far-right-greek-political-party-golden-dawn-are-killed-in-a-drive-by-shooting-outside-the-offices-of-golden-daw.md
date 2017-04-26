@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/01/us-greece-shooting-idUSBRE9A00WC20131101)
-2. [Kathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_wsite1_1_01/11/2013_525862)
+1. [Kathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_wsite1_1_01/11/2013_525862)
+2. [Reuters](http://www.reuters.com/article/2013/11/01/us-greece-shooting-idUSBRE9A00WC20131101)
 
 ### Related:
 

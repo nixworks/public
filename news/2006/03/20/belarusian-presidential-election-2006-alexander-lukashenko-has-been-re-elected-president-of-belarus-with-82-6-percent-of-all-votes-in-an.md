@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters](http://news.yahoo.com/s/nm/20060320/wl_nm/belarus_dc)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4824642.stm)
-3. [Monsters and Critics](http://news.monstersandcritics.com/europe/article_1148866.php/Russia_Belarus_election_was_fair_and_open)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/4823800.stm)
+1. [Monsters and Critics](http://news.monstersandcritics.com/europe/article_1148866.php/Russia_Belarus_election_was_fair_and_open)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4823800.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/4824642.stm)
+4. [Reuters](http://news.yahoo.com/s/nm/20060320/wl_nm/belarus_dc)
 
 ### Related:
 

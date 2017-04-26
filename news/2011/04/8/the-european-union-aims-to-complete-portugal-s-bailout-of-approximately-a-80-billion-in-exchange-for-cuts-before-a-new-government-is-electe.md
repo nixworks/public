@@ -7,9 +7,9 @@ The European Union believes it can complete the Portuguese bail-out, set to be w
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/business/2011/apr/08/portugal-bailout-terms-must-be-strict-eu-finance-ministers)
+1. [The New York Times](http://www.nytimes.com/2011/04/09/business/global/09euro.html)
 2. [BBC](http://www.bbc.co.uk/news/business-13009669)
-3. [The New York Times](http://www.nytimes.com/2011/04/09/business/global/09euro.html)
+3. [The Guardian](http://www.guardian.co.uk/business/2011/apr/08/portugal-bailout-terms-must-be-strict-eu-finance-ministers)
 
 ### Related:
 

@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i5ua3fWGDVgcIUgeXPpm0tXCY1uQ)
+1. [The New York Times](http://www.nytimes.com/reuters/2010/03/12/world/international-uk-germany-abuse-pope.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8564074.stm)
-3. [RAINews24](http://www.rainews24.rai.it/it/news.php?newsid=138783)
-4. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/12/germany.abuse.church/)
-5. [The New York Times](http://www.nytimes.com/reuters/2010/03/12/world/international-uk-germany-abuse-pope.html)
+3. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/12/germany.abuse.church/)
+4. [RAINews24](http://www.rainews24.rai.it/it/news.php?newsid=138783)
+5. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i5ua3fWGDVgcIUgeXPpm0tXCY1uQ)
 
 ### Related:
 

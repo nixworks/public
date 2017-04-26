@@ -7,9 +7,9 @@ Resolution passed by national assembly allows president to stay in power for 90 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-38659120)
-2. [BBC](http://www.bbc.com/news/world-africa-38662000)
-3. [Al Jazeera](http://www.aljazeera.com/news/2017/01/gambia-mps-extend-president-jammeh-term-170118082031908.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/gambia-mps-extend-president-jammeh-term-170118082031908.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-38659120)
+3. [BBC](http://www.bbc.com/news/world-africa-38662000)
 
 ### Related:
 

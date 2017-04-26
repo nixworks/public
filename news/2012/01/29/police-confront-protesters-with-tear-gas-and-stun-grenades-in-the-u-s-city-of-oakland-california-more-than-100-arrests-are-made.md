@@ -7,8 +7,8 @@ Police have arrested more than 100 protesters from the Occupy movement in the US
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16779976)
-2. [CNN](http://www.cnn.com/2012/01/29/us/california-occupy/index.html?hpt=hp_t3)
+1. [CNN](http://www.cnn.com/2012/01/29/us/california-occupy/index.html?hpt=hp_t3)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-16779976)
 
 ### Related:
 

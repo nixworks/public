@@ -8,8 +8,8 @@
 ### Source:
 
 1. [New York Post](http://www.nypost.com/p/news/national/avatar_inks_titanic_record_Rc9vud4jePOCTyC4maaAMM)
-2. [Wall Street Journal](http://blogs.wsj.com/speakeasy/2010/01/25/avatar-passes-titanic-to-set-world-wide-box-office-record/)
-3. [The Hollywood Reporter](http://www.hollywoodreporter.com/hr/content_display/news/e3i107616f101d6818868bd08edad593649)
+2. [The Hollywood Reporter](http://www.hollywoodreporter.com/hr/content_display/news/e3i107616f101d6818868bd08edad593649)
+3. [Wall Street Journal](http://blogs.wsj.com/speakeasy/2010/01/25/avatar-passes-titanic-to-set-world-wide-box-office-record/)
 
 ### Related:
 

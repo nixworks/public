@@ -7,8 +7,8 @@ An official investigation in Kyrgyzstan into deadly ethnic clashes last year say
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12162570)
-2. [24.kg News Agency](http://eng.24.kg/community/2011/01/11/15777.html)
+1. [24.kg News Agency](http://eng.24.kg/community/2011/01/11/15777.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12162570)
 
 ### Related:
 

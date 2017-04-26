@@ -8,10 +8,10 @@ Residents of towns along the swollen Mississippi River on Sunday packed up their
 ### Source:
 
 1. [National Weather Service](http://water.weather.gov/ahps/index.php)
-2. [CNN](http://www.cnn.com/2011/US/05/15/flooding/index.html?hpt=T2)
-3. [WWL-TV](http://www.wwltv.com/news/Spillway-to-be--121832944.html)
-4. [CTV](http://ottawa.ctv.ca/servlet/an/local/CTVNews/20110514/manitoba-deliberate-flood-110514/20110514/?hub=OttawaHome)
-5. [Canoe.ca](http://cnews.canoe.ca/CNEWS/Canada/2011/05/14/18148596.html)
+2. [CTV](http://ottawa.ctv.ca/servlet/an/local/CTVNews/20110514/manitoba-deliberate-flood-110514/20110514/?hub=OttawaHome)
+3. [Canoe.ca](http://cnews.canoe.ca/CNEWS/Canada/2011/05/14/18148596.html)
+4. [CNN](http://www.cnn.com/2011/US/05/15/flooding/index.html?hpt=T2)
+5. [WWL-TV](http://www.wwltv.com/news/Spillway-to-be--121832944.html)
 
 ### Related:
 

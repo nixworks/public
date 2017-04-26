@@ -7,8 +7,8 @@ Left-wing activists claimed responsibility for a minor explosion on Thursday at 
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1107304/1/.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE70Q2Q920110127)
+1. [Reuters](http://www.reuters.com/article/idUSTRE70Q2Q920110127)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1107304/1/.html)
 
 ### Related:
 

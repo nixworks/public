@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/africa/Petition-against-Anti-Gay-Bill-Delivered-to-Ugandan-Parliament-85817192.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8542341.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8542341.stm)
+2. [Voice of America](http://www1.voanews.com/english/news/africa/Petition-against-Anti-Gay-Bill-Delivered-to-Ugandan-Parliament-85817192.html)
 
 ### Related:
 

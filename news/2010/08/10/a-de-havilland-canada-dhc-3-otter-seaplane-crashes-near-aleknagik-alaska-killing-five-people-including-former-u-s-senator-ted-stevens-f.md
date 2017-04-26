@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6792MJ20100810?type=politicsNews)
-2. [MarketWatch](http://www.marketwatch.com/story/eads-north-america-ceo-in-alaska-plane-crash-2010-08-10)
-3. [CNN](http://www.cnn.com/2010/US/08/10/alaska.crash.okeefe.bio/)
+2. [CNN](http://www.cnn.com/2010/US/08/10/alaska.crash.okeefe.bio/)
+3. [MarketWatch](http://www.marketwatch.com/story/eads-north-america-ceo-in-alaska-plane-crash-2010-08-10)
 
 ### Related:
 

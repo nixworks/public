@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/9aae82a47c234340b0ce5c16d8937552/protesters-block-main-road-trump-rally)
-2. [KPHO-TV](http://www.cbs5az.com/story/31516829/anti-trump-protesters-block-streets-in-fountain-hills?autostart=true)
+1. [KPHO-TV](http://www.cbs5az.com/story/31516829/anti-trump-protesters-block-streets-in-fountain-hills?autostart=true)
+2. [AP](http://bigstory.ap.org/article/9aae82a47c234340b0ce5c16d8937552/protesters-block-main-road-trump-rally)
 3. [CNN](http://www.cnn.com/2016/03/19/politics/donald-trump-arizona-joe-arpaio/)
 
 ### Related:
