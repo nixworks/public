@@ -7,7 +7,8 @@ Thaad system being deployed despite protests from local residents and China, whi
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/apr/26/us-installs-missile-defence-in-south-korea-site-amid-tensions-with-north)
+1. [Reuters](http://www.reuters.com/article/us-northkorea-china-idUSKBN17S1Y1)
+2. [The Guardian](https://www.theguardian.com/world/2017/apr/26/us-installs-missile-defence-in-south-korea-site-amid-tensions-with-north)
 
 ### Related:
 

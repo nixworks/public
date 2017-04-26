@@ -17,7 +17,7 @@ At least 18 Kurdish YPG fighters and media officials were killed in Turkish air 
 ### [Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, ''Wikitribune'', that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called "fake news". ](/news/2017/04/25/wikipedia-co-founder-jimmy-wales-announces-plans-for-a-crowdfunded-news-website-wikitribune-that-will-publish-stories-by-journalists.md)
 Jimmy Wales said the new platform, Wikitribune, would be free to read and carry no advertising, instead relying on supporters to fund it.
 
-### [Ryan Zinke says that Donald Trump plans to review U.S. national monuments. ](/news/2017/04/25/ryan-zinke-says-that-donald-trump-plans-to-review-u-s-national-monuments.md)
+### [United States Secretary of the Interior Ryan Zinke says that Donald Trump plans to review U.S. national monuments. ](/news/2017/04/25/united-states-secretary-of-the-interior-ryan-zinke-says-that-donald-trump-plans-to-review-u-s-national-monuments.md)
 _Context: Donald Trump, Ryan Zinke, U.S. national monument_
 
 ### [Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobiamombasa-road.md)
