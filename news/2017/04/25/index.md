@@ -1,6 +1,6 @@
 ## [2017-04-25](/news/2017/04/25/index.md)
 
-### [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also Claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md)
+### [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md)
 At least 18 Kurdish YPG fighters and media officials were killed in Turkish air strikes on a headquarters of the militia in northeastern Syria on Tuesday, the British-based Syrian Observatory for Human Rights monitoring group said.
 
 ### [Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, ''Wikitribune'', that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called "fake news". ](/news/2017/04/25/wikipedia-co-founder-jimmy-wales-announces-plans-for-a-crowdfunded-news-website-wikitribune-that-will-publish-stories-by-journalists.md)
@@ -11,9 +11,6 @@ _Context: Donald Trump, Ryan Zinke, U.S. national monument_
 
 ### [Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobiamombasa-road.md)
 27 people have been confirmed dead following head on collision between Malindi bound bus and a truck at Kambu along Mombasa-Nairobi highway.
-
-### [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md)
-_Context: European Union, Monsanto, glyphosate_
 
 ### [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md)
 Saudi Arabia is elected to the UN Commission on the Status of Women, despite the country being ranked by human rights experts as one of the worst for gender equality.
@@ -33,8 +30,8 @@ One of Africas longest-surviving rebel groups, the LRA has terrorised parts of c
 ### [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md)
 The national gun lobbying group on Monday filed a lawsuit aimed at overturning a sweeping set of bills signed into law last year by California Gov. Jerry Brown.
 
-### [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md)
-_Context: California, Immigration policy of Donald Trump, sanctuary cities_
+### [California courts invalidate the executive order withholding federal funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-federal-funds-from-sanctuary-cities.md)
+_Context: California, Immigration policy of Donald Trump, executive order, sanctuary cities_
 
 ## [Previous Day...](/news/2017/04/24/index.md)
 

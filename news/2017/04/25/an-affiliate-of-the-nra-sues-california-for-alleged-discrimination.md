@@ -11,7 +11,7 @@ The national gun lobbying group on Monday filed a lawsuit aimed at overturning a
 
 ### Related:
 
-1. [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md) _Context: California_
+1. [California courts invalidate the executive order withholding federal funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-federal-funds-from-sanctuary-cities.md) _Context: California_
 2. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _Context: California_
 3. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: California_
 4. [A California storm in the Calaveras Big Trees State Park fells the 1,000-year-old American tree, the Pioneer Cabin Tree. ](/news/2017/01/9/a-california-storm-in-the-calaveras-big-trees-state-park-fells-the-1-000-year-old-american-tree-the-pioneer-cabin-tree.md) _Context: California_
