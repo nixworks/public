@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTL Info](http://www.rtl.be/info/belgique/faits-divers/tc-bruxelles-le-parquet-federal-assigne-a-nouveau-le-trafiquant-d-armes-jacques-monsieur-911118.aspx)
-2. [Het Nieuwsblad](http://www.nieuwsblad.be/cnt/dmf20170421_02843921)
+1. [Het Nieuwsblad](http://www.nieuwsblad.be/cnt/dmf20170421_02843921)
+2. [RTL Info](http://www.rtl.be/info/belgique/faits-divers/tc-bruxelles-le-parquet-federal-assigne-a-nouveau-le-trafiquant-d-armes-jacques-monsieur-911118.aspx)
 
 ### Related:
 

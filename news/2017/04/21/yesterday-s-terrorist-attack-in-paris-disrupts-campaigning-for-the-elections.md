@@ -8,8 +8,8 @@ With the motives of the Champs-Elys&eacute;es gunman considered terror-related, 
 ### Source:
 
 1. [CNN](http://www.cnn.com/2017/04/21/europe/paris-police-shooting-champs-elysees/)
-2. [Reuters](http://www.reuters.com/article/us-france-election-poll-idUSKBN17N22U?il=0)
-3. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/20/terrorism-france-having-huge-impact-presidential-election/)
+2. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/20/terrorism-france-having-huge-impact-presidential-election/)
+3. [Reuters](http://www.reuters.com/article/us-france-election-poll-idUSKBN17N22U?il=0)
 
 ### Related:
 

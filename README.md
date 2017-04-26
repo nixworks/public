@@ -1,4 +1,15 @@
-## [News](/news/2017/04/25/index.md)
+## [News](/news/2017/04/26/index.md)
+
+### [Simon the rabbit, destined to be the world's largest rabbit, dies in a United Airlines flight from London to Chicago. ](/news/2017/04/26/simon-the-rabbit-destined-to-be-the-world-s-largest-rabbit-dies-in-a-united-airlines-flight-from-london-to-chicago.md)
+United Airlines is battling another PR nightmare after a rabbit destined to be the world&rsquo;s biggest died on a flight from Britain to the US.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/04/25/index.md)
 
 ### [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md)
 At least 18 Kurdish YPG fighters and media officials were killed in Turkish air strikes on a headquarters of the militia in northeastern Syria on Tuesday, the British-based Syrian Observatory for Human Rights monitoring group said.
@@ -27,19 +38,18 @@ Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters tur
 ### [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md)
 NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged with a tamper-proof Unique Identification Number (UIN) to stop their smuggling, the Centre told the Supreme Court on Monday.
 
+### [Tomorrow, the United States will end a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/25/tomorrow-the-united-states-will-end-a-six-year-central-african-hunt-for-joseph-kony.md)
+One of Africas longest-surviving rebel groups, the LRA has terrorised parts of central Africa for 30 years.
+
 ### [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md)
 The national gun lobbying group on Monday filed a lawsuit aimed at overturning a sweeping set of bills signed into law last year by California Gov. Jerry Brown.
 
 ### [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md)
 _Context: California, Immigration policy of Donald Trump, sanctuary cities_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/04/24/index.md)
+## [Day Before Yesterday](/news/2017/04/24/index.md)
 
 ### [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md)
 _Context: 2017 Camp Shaheen attack, Abdullah Habibi, Afghan, Afghan National Army, Mazar-i-Sharif, Minister of Defense, Qadam Shah Shahim, Taliban_
@@ -70,26 +80,7 @@ She is currently on her third long-duration stay aboard the space station
 
 ---
 
-## [Day Before Yesterday](/news/2017/04/23/index.md)
-
-### [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md)
-_Context: Luhansk, OSCE, U.S., War in Donbass, land mine_
-
-### [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md)
-The detention of a third US man comes amid heightened tension on the peninsula.
-
-### [Prominent Italian-born conservationist Kuki Gallmann is shot and injured in an ambush in northern Kenya. ](/news/2017/04/23/prominent-italian-born-conservationist-kuki-gallmann-is-shot-and-injured-in-an-ambush-in-northern-kenya.md)
-Kuki Gallmann, author of I Dreamed of Africa, is flown to hospital after an ambush.
-
-### [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md)
-The chief prosecutor of Catania has repeated his claims that NGOs were working with smugglers to help migrants from Libya into Europe. His statements are in line with Italian populist leaders. 
-
-### [Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for-the-second-round.md)
-Europe has had a number of important elections over the past year, but for the EU none is as significant – or as potentially grave – as France&#039;s upcoming presidential election.
-
----
-
-## [Previous Day...](/news/2017/04/22/index.md)
+## [Previous Day...](/news/2017/04/23/index.md)
 
 ---
 

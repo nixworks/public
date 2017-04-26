@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2017/04/24/politics/mattis-afghanistan-visit/index.html)
-2. [UPI](http://www.upi.com/Top_News/World-News/2017/04/24/Afghan-defense-minister-army-chief-of-staff-resign-after-Taliban-stack/6261493045274/)
+1. [UPI](http://www.upi.com/Top_News/World-News/2017/04/24/Afghan-defense-minister-army-chief-of-staff-resign-after-Taliban-stack/6261493045274/)
+2. [CNN](http://edition.cnn.com/2017/04/24/politics/mattis-afghanistan-visit/index.html)
 
 ### Related:
 

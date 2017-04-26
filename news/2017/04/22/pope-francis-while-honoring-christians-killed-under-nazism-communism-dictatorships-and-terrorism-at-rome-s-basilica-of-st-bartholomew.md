@@ -7,8 +7,8 @@ Pope Francis urged governments on Saturday to get migrants and refugees out of h
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-pope-martyrs-idUSKBN17O0MI)
-2. [Catholic News Service](http://www.catholicnews.com/services/englishnews/2017/pope-pays-tribute-to-modern-martyrs-calls-for-witnesses-of-gods-love.cfm)
+1. [Catholic News Service](http://www.catholicnews.com/services/englishnews/2017/pope-pays-tribute-to-modern-martyrs-calls-for-witnesses-of-gods-love.cfm)
+2. [Reuters](http://www.reuters.com/article/us-pope-martyrs-idUSKBN17O0MI)
 
 ### Related:
 

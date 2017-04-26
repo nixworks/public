@@ -27,6 +27,9 @@ Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters tur
 ### [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md)
 NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged with a tamper-proof Unique Identification Number (UIN) to stop their smuggling, the Centre told the Supreme Court on Monday.
 
+### [Tomorrow, the United States will end a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/25/tomorrow-the-united-states-will-end-a-six-year-central-african-hunt-for-joseph-kony.md)
+One of Africas longest-surviving rebel groups, the LRA has terrorised parts of central Africa for 30 years.
+
 ### [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md)
 The national gun lobbying group on Monday filed a lawsuit aimed at overturning a sweeping set of bills signed into law last year by California Gov. Jerry Brown.
 

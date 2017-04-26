@@ -7,8 +7,8 @@ At least 18 Kurdish YPG fighters and media officials were killed in Turkish air 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-turkey-toll-idUSKBN17R0WE)
-2. [Hurriet Daily News](http://www.hurriyetdailynews.com/turkey-hits-pkk-targets-in-iraq-syria-.aspx?pageID=238&nID=112396&NewsCatID=352)
+1. [Hurriet Daily News](http://www.hurriyetdailynews.com/turkey-hits-pkk-targets-in-iraq-syria-.aspx?pageID=238&nID=112396&NewsCatID=352)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-turkey-toll-idUSKBN17R0WE)
 
 ### Related:
 
