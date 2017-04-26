@@ -1,6 +1,6 @@
 ### [2017-04-25](/news/2017/04/25/index.md)
 
-# Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. 
+# Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also Claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. 
 
 At least 18 Kurdish YPG fighters and media officials were killed in Turkish air strikes on a headquarters of the militia in northeastern Syria on Tuesday, the British-based Syrian Observatory for Human Rights monitoring group said.
 
