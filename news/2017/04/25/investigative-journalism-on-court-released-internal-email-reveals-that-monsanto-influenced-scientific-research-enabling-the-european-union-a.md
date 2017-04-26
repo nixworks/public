@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [OneWorld.nl](https://www.oneworld.nl/wetenschap/roundup-eu-toegestaan-omdat-monsanto-wetenschappelijke-studies-beinvloedde)
-2. [Knack](http://www.knack.be/nieuws/wereld/roundup-in-eu-toegestaan-omdat-monsanto-wetenschappelijke-studies-beinvloedde/article-normal-844329.html)
+1. [Knack](http://www.knack.be/nieuws/wereld/roundup-in-eu-toegestaan-omdat-monsanto-wetenschappelijke-studies-beinvloedde/article-normal-844329.html)
+2. [OneWorld.nl](https://www.oneworld.nl/wetenschap/roundup-eu-toegestaan-omdat-monsanto-wetenschappelijke-studies-beinvloedde)
 
 ### Related:
 

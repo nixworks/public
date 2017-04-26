@@ -7,8 +7,8 @@ ISIS claimed responsibility for an attack on police officers on the Champs-Élys
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-39662315)
-2. [ABC News America via Yahoo!](https://gma.yahoo.com/officer-dead-champs-lys-es-paris-shooting-officials-220012384--abc-news-topstories.html)
+1. [ABC News America via Yahoo!](https://gma.yahoo.com/officer-dead-champs-lys-es-paris-shooting-officials-220012384--abc-news-topstories.html)
+2. [BBC](http://www.bbc.com/news/world-europe-39662315)
 3. [Le Parisien](http://www.leparisien.fr/faits-divers/attentat-sur-les-champs-elysees-questions-autour-de-la-revendication-de-daech-21-04-2017-6873153.php)
 4. [The New York Times](https://www.nytimes.com/2017/04/20/world/europe/paris-champs-elysees-shooting.html?hp&_r=0)
 
