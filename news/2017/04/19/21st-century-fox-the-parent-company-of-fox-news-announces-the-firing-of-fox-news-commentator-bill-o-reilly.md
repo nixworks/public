@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-39647434)
-2. [CNN](http://money.cnn.com/2017/04/19/media/bill-oreilly-out-fox-news/index.html)
+1. [CNN](http://money.cnn.com/2017/04/19/media/bill-oreilly-out-fox-news/index.html)
+2. [BBC](http://www.bbc.com/news/world-us-canada-39647434)
 
 ### Related:
 

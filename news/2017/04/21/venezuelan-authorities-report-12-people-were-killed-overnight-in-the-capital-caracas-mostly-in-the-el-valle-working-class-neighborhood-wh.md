@@ -7,8 +7,8 @@ The death toll in three weeks of violence at anti-government protests in Venezue
 
 ### Source:
 
-1. [AP via ''The Washington Post](https://www.washingtonpost.com/business/gm-quits-venezuela-after-government-seizes-its-factory/2017/04/20/05601694-262c-11e7-928e-3624539060e8_story.html?utm_term=.9755db1e9861)
-2. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/21/venezuelans-flee-across-border-colombia-caracas-braces-protests/)
+1. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/21/venezuelans-flee-across-border-colombia-caracas-braces-protests/)
+2. [AP via ''The Washington Post](https://www.washingtonpost.com/business/gm-quits-venezuela-after-government-seizes-its-factory/2017/04/20/05601694-262c-11e7-928e-3624539060e8_story.html?utm_term=.9755db1e9861)
 3. [Yahoo! News](https://sg.news.yahoo.com/man-fatally-shot-during-protest-venezuelan-capital-official-130549182.html)
 
 ### Related:
