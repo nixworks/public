@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Siberian Times](http://siberiantimes.com/other/others/news/murderous-attack-on-fsb-office-in-khabarovsk-was-by-a-neo-nazi-not-an-is-terrorist/)
-2. [Reuters](http://www.reuters.com/article/us-russia-attack-idUSKBN17N17C?il=0)
+1. [Reuters](http://www.reuters.com/article/us-russia-attack-idUSKBN17N17C?il=0)
+2. [Siberian Times](http://siberiantimes.com/other/others/news/murderous-attack-on-fsb-office-in-khabarovsk-was-by-a-neo-nazi-not-an-is-terrorist/)
 
 ### Related:
 

@@ -1,14 +1,14 @@
 ### [2017-04-25](/news/2017/04/25/index.md)
 
-# Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, ''Wikitribune'', that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called ''fake news''. 
+# Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, ''Wikitribune'', that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called "fake news". 
 
 Jimmy Wales said the new platform, Wikitribune, would be free to read and carry no advertising, instead relying on supporters to fund it.
 
 
 ### Source:
 
-1. [Nieman Foundation for Journalism](http://www.niemanlab.org/2017/04/wikipedia-founder-jimmy-wales-launches-wikitribune-news-by-the-people-and-for-the-people/)
-2. [NBC News](http://www.nbcnews.com/tech/tech-news/wikipedia-founder-jimmy-wales-launches-project-fix-news-n750591?cid=sm_npd_nn_fb_ma)
+1. [NBC News](http://www.nbcnews.com/tech/tech-news/wikipedia-founder-jimmy-wales-launches-project-fix-news-n750591?cid=sm_npd_nn_fb_ma)
+2. [Nieman Foundation for Journalism](http://www.niemanlab.org/2017/04/wikipedia-founder-jimmy-wales-launches-wikitribune-news-by-the-people-and-for-the-people/)
 
 ### Related:
 

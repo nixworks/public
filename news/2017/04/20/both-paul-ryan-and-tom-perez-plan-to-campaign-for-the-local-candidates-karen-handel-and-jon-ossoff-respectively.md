@@ -7,8 +7,8 @@ Ryan will reportedly stump alongside Republican Karen Handel sometime in the nex
 
 ### Source:
 
-1. [The Hill](http://thehill.com/homenews/campaign/329633-ryan-to-campaign-with-georgia-runoff-candidate-report)
-2. [CNN](http://www.cnn.com/2017/04/19/politics/tom-perez-georgia-special-election-cnntv/)
+1. [CNN](http://www.cnn.com/2017/04/19/politics/tom-perez-georgia-special-election-cnntv/)
+2. [The Hill](http://thehill.com/homenews/campaign/329633-ryan-to-campaign-with-georgia-runoff-candidate-report)
 
 ### Related:
 

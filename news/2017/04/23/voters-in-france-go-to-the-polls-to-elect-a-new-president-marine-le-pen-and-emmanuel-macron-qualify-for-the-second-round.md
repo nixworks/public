@@ -7,8 +7,8 @@ Europe has had a number of important elections over the past year, but for the E
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/french-citizens-vote-in-an-uncertain-race-that-could-determine-europes-future/2017/04/23/fd3759ce-1fa4-11e7-bb59-a74ccaf1d02f_story.html?)
-2. [The Wire](https://thewire.in/127060/france-presidential-election/)
+1. [The Wire](https://thewire.in/127060/france-presidential-election/)
+2. [The Washington Post](https://www.washingtonpost.com/world/french-citizens-vote-in-an-uncertain-race-that-could-determine-europes-future/2017/04/23/fd3759ce-1fa4-11e7-bb59-a74ccaf1d02f_story.html?)
 
 ### Related:
 
