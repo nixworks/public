@@ -7,8 +7,8 @@ Weeks of protests in Venezuela are shifting the spotlight onto the nation’s mi
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/apr/20/venezuela-protests-nicolas-maduro-deaths)
-2. [The Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article145719174.html)
+1. [The Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article145719174.html)
+2. [The Guardian](https://www.theguardian.com/world/2017/apr/20/venezuela-protests-nicolas-maduro-deaths)
 
 ### Related:
 
