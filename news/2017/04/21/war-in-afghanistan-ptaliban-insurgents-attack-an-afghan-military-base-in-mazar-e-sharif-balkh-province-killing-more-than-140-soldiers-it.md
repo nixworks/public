@@ -7,9 +7,9 @@ Taliban fighters drove through checkpoints dressed in army uniforms before launc
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-39672357)
-2. [Reuters](http://www.reuters.com/article/us-afghanistan-attack-idUSKBN17O04C)
-3. [AP](http://hosted.ap.org/dynamic/stories/A/AS_AFGHANISTAN_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_AFGHANISTAN_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-39672357)
+3. [Reuters](http://www.reuters.com/article/us-afghanistan-attack-idUSKBN17O04C)
 
 ### Related:
 
