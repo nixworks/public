@@ -47,6 +47,9 @@ _Context: Assembly of Representatives, Moroccan, Saadeddine Othmani, cabinet_
 ### [A speculative study hypothesizes that a species of ''Homo'' may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)
 A new study has dropped a bombshell on archaeology, claiming signs of human activity in the Americas far earlier than thought.
 
+### [Results, published in ''The Lancet'' medical journal, of the WOMAN (World Maternal Antifibrinolytic) international study  that began in 2010,  finds  use of a cheap and widely available drug, tranexamic acid (Lysteda in the U.S. and Australia),  could save the lives of thousands of women who die in childbirth from excessive bleeding.  The medication is already in use for blood loss from major trauma, surgery, tooth removal, nose bleeds, and heavy menstruation. ](/news/2017/04/26/results-published-in-the-lancet-medical-journal-of-the-woman-world-maternal-antifibrinolytic-international-study-that-began-in-2010.md)
+Tranexamic acid could save the lives of a third of women who die in childbirth from excessive bleeding, which kills 100,000 a year
+
 ---
 
 ## [Day Before Yesterday](/news/2017/04/25/index.md)
