@@ -1,4 +1,15 @@
-## [News](/news/2017/04/26/index.md)
+## [News](/news/2017/04/27/index.md)
+
+### [The Syrian Observatory for Human Rights reports a large explosion near Damascus International Airport followed by a fire. ](/news/2017/04/27/the-syrian-observatory-for-human-rights-reports-a-large-explosion-near-damascus-international-airport-followed-by-a-fire.md)
+A large explosion in the area of Damascus International Airport was followed by a fire in the same place, a Britain-based war monitor, said.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/04/26/index.md)
 
 ### [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md)
 The scale of the damage done by IS militants to the site - featured in The Exorcist - is not clear.
@@ -21,16 +32,21 @@ An unarmed intercontinental ballistic missile was launched just after midnight W
 ### [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md)
 Venezuela said on Wednesday it was quitting the Organisation of American States in anger at pressure from the bloc over the government&#39;s handling of the country&#39;s political crisis.
 
+### [Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer who Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along the cities expansive Tony Knowles Coastal Trail. ](/news/2017/04/26/police-in-anchorage-alaska-confirm-that-james-dale-ritchie-killed-by-an-anchorage-police-officer-who-ritchie-had-tried-to-kill-in-the-fal.md)
+Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
+
+### [Two political parties with federal representation in Australia merge as the Australian Conservatives absorbs the Family First Party. ](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.md)
+TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.
+
+### [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md)
+_Context: Assembly of Representatives, Moroccan, Saadeddine Othmani, cabinet_
+
 ### [A speculative study hypothesizes that a species of ''Homo'' may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)
 A new study has dropped a bombshell on archaeology, claiming signs of human activity in the Americas far earlier than thought.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/04/25/index.md)
+## [Day Before Yesterday](/news/2017/04/25/index.md)
 
 ### [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md)
 At least 18 Kurdish YPG fighters and media officials were killed in Turkish air strikes on a headquarters of the militia in northeastern Syria on Tuesday, the British-based Syrian Observatory for Human Rights monitoring group said.
@@ -67,41 +83,7 @@ _Context: Donald Trump, Immigration policy of Donald Trump, William Orrick, exec
 
 ---
 
-## [Day Before Yesterday](/news/2017/04/24/index.md)
-
-### [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md)
-_Context: 2017 Camp Shaheen attack, Abdullah Habibi, Afghan, Afghan National Army, Mazar-i-Sharif, Minister of Defense, Qadam Shah Shahim, Taliban_
-
-### [Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhattisgarh-india.md)
-The police were guarding road workers in Chhattisgarh when they came under attack themselves.
-
-### [The United States imposes sanctions on 271 employees of the Syrian Scientific Studies and Research Center for their alleged role in developing weapons used in the Khan Shaykhun chemical attack. ](/news/2017/04/24/the-united-states-imposes-sanctions-on-271-employees-of-the-syrian-scientific-studies-and-research-center-for-their-alleged-role-in-developi.md)
-The US has issued sanctions against hundreds of Syrian scientists and officials for their role in developing chemical weapons. The measures come after a poison gas attack killed over 80 people in a rebel-held province.
-
-### [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md)
-Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters turned city into a battle zone before fleeing in speedboats with about $6m
-
-### [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md)
-_Context: International Criminal Court, Netherlands, Philippine Drug War, Philippines, Rodrigo Duterte, The Hague, crimes against humanity, mass murder_
-
-### [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md)
-Lawyers for Jack Jones and Marcel Williams are seeking stays on grounds of poor health.
-
-### [Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md)
-Marine Le Pen says she will be above &quot;partisan considerations&quot; as she seeks the French presidency.
-
-### [Muhammad V is formally installed as the 15th King of Malaysia. ](/news/2017/04/24/muhammad-v-is-formally-installed-as-the-15th-king-of-malaysia.md)
-_Context: King of Malaysia, Muhammad V_
-
-### [The Communist Party of Britain announces it will not field any candidates in the upcoming general election for the first time since its formation in 1920, and endorses Labour leader Jeremy Corbyn, saying victory for Mr Corbyn at the general election in June would be "the first step towards a formation of left-led government at Westminster". ](/news/2017/04/24/the-communist-party-of-britain-announces-it-will-not-field-any-candidates-in-the-upcoming-general-election-for-the-first-time-since-its-form.md)
-Britain’s Communist party will not field any general election candidates for the first time since its formation in 1920 in order to throw its weight behind Jeremy Corbyn’s Labour party. Declaring its endorsement of Labour’s leader, the Communist Party of Britain said victory for Mr Corbyn at the general election in June would be “the first step towards a formation of left-led government at Westminster”.
-
-### [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md)
-She is currently on her third long-duration stay aboard the space station
-
----
-
-## [Previous Day...](/news/2017/04/23/index.md)
+## [Previous Day...](/news/2017/04/24/index.md)
 
 ---
 

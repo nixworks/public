@@ -21,6 +21,15 @@ An unarmed intercontinental ballistic missile was launched just after midnight W
 ### [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md)
 Venezuela said on Wednesday it was quitting the Organisation of American States in anger at pressure from the bloc over the government&#39;s handling of the country&#39;s political crisis.
 
+### [Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer who Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along the cities expansive Tony Knowles Coastal Trail. ](/news/2017/04/26/police-in-anchorage-alaska-confirm-that-james-dale-ritchie-killed-by-an-anchorage-police-officer-who-ritchie-had-tried-to-kill-in-the-fal.md)
+Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
+
+### [Two political parties with federal representation in Australia merge as the Australian Conservatives absorbs the Family First Party. ](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.md)
+TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.
+
+### [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md)
+_Context: Assembly of Representatives, Moroccan, Saadeddine Othmani, cabinet_
+
 ### [A speculative study hypothesizes that a species of ''Homo'' may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)
 A new study has dropped a bombshell on archaeology, claiming signs of human activity in the Americas far earlier than thought.
 
