@@ -35,6 +35,9 @@ Venezuela said on Wednesday it was quitting the Organisation of American States 
 ### [Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer who Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along the cities expansive Tony Knowles Coastal Trail. ](/news/2017/04/26/police-in-anchorage-alaska-confirm-that-james-dale-ritchie-killed-by-an-anchorage-police-officer-who-ritchie-had-tried-to-kill-in-the-fal.md)
 Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
 
+### [U.S. District Court Judge David Hittner (Southern Texas) rules ExxonMobil Corporation should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant complex for 16,386 days of violations and 10 million pounds (4.5 million kg) of pollutants that were released in violation of operating permits between 2005 and 2013. ](/news/2017/04/26/u-s-district-court-judge-david-hittner-southern-texas-rules-exxonmobil-corporation-should-pay-a-19-95-million-penalty-for-pollution-from.md)
+A federal judge ruled on Wednesday that ExxonMobil Corp should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant complex between 2005 and 2013.
+
 ### [Two political parties with federal representation in Australia merge as the Australian Conservatives absorbs the Family First Party. ](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.md)
 TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.
 

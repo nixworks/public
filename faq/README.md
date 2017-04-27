@@ -11,9 +11,19 @@
 
 ### What kind of news it shows?
 
-*the Context* displays current events selected by the Wikipedia Current Events Portal editors. The news items are short and unopinionated. Each item contains links to sources with full stories, usually an outside media organisation. Each item also contains links to related news discovered by *the Context* after analysing Wikipedia data. The News section is maintained by robots.
+*the Context* displays current events selected by the Wikipedia Current Events Portal editors. The news items are short and unopinionated. Each item contains links to sources with full stories, usually an outside media organisation. Each item also contains links to related news discovered by *the Context* after analysing Wikipedia data. Our News section is maintained by robots.
 
 This website also displays longer opinion editorials, written by different authors. The Opinion section is curated by Marek Foss, the Editor.
+
+### How can I get the news on my phone/tablet/computer?
+
+You can bookmark [*the Context*](https://thecontext.net), it is updated several times a day. You can subscribe to the RSS feeds: [the News feed](http://thecontext.net/index_rss.xml) and [the Opinion feed](http://thecontext.net/opinion_rss.xml). You can follow *the Context* on Twitter: [@thecontextnet](https://twitter.com/thecontextnet), and select to receive push notifications on latest news tweets ([instructions](https://support.twitter.com/articles/20169887?lang=en#iOS)).
+
+Developers can get the news straight from [the GitHub repository](https://github.com/thecontextnet/public), in a pretty-printed format. Moreover, they can also get the news directly from [*the Context* API](/api), in HTML, XML, JSON or Markdown. The health status of this service can be monitored via [Updown](http://status.thecontext.net).
+
+### Since this project is Open Source, can I help?
+
+*the Context* is open to any contribution, of any kind, from anyone. If you want to help, please make contact via email at [editor@thecontext.net](mailto:editor@thecontext.net) or via [GitHub](https://github.com/thecontextnet). This project is a non-profit endeavour. However, tips or donations are very welcome to the following Bitcoin address: 1HaR4dbLF4CJgnXrGKCFAnFixRSXvtehpa
 
 ### My question is not here, now what?
 
