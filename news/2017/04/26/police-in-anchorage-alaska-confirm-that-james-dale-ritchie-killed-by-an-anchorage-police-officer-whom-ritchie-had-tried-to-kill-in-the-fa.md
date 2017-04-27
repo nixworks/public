@@ -1,6 +1,6 @@
 ### [2017-04-26](/news/2017/04/26/index.md)
 
-# Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer whom Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along the cities expansive Tony Knowles Coastal Trail. 
+# Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer whom Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along Anchorage's expansive Tony Knowles Coastal Trail. 
 
 Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
 

@@ -8,7 +8,8 @@ Unconfirmed reports say an Israeli strike targeted an arms supply hub operated b
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-39728682)
-2. [Wires via ''Sydney Morning Herald](http://www.smh.com.au/world/damascus-explosion-large-blast-fire-at-airport-20170427-gvtp9p.html)
+2. [Times of Israel](http://www.timesofisrael.com/patriot-missile-intercepts-drone-over-golan-heights/)
+3. [Wires via ''Sydney Morning Herald](http://www.smh.com.au/world/damascus-explosion-large-blast-fire-at-airport-20170427-gvtp9p.html)
 
 ### Related:
 
